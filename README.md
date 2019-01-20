@@ -4,10 +4,10 @@ The Community Develpoment group's mandate is to directly foster the growth of th
 
 ## The Initiatives
 
-### [Grants Program](https://github.com/makerdao/community/tree/master/grants)
+### [Grants Program](./grants)
 One of the most important initiatives of the new group will be the identifying and incentivizing of third-party talent to contribute to the ecosystem. The initial iteration of this granting process is dedicated to bootstrapping projects with small to midsize grants. The allocated funds are only released when teams reach predetermined milestones.  Successful projects may also gain access to internal consulting resources.
 
-### [Community Meetups](https://github.com/makerdao/community/tree/master/meetups)
+### [Community Meetups](./meetups)
 We believe that community members, like you, are incredibly important to MakerDAO and play a valuable role in building a stronger ecosystem. The Community Development Group wants to provide the resources you need to increase Dai adoption and help us bring stability and financial inclusion to the underbanked. To do this, the we are making available a microgranting program dedicated to helping community members facilitate meetups in their communities.
 
 ### How to get involved
