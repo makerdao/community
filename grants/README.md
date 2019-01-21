@@ -1,1 +1,1 @@
-# Community Develpment Grants program
+# Community Development Grants program
