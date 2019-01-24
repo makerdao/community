@@ -49,11 +49,11 @@ Some fundamental steps in organizing an event:
 
 Below we've linked to several guides that we put together to help you with planning and organizing the event.
 
-### [Format Types Guide](#Format-Types-Guide)
+### [Format Types Guide](#format-types-guide-1)
 
-### [Marketing and Promotion Guide](#Marketing-amp-Promotion-Guide)
+### [Marketing and Promotion Guide](#marketing--promotion-guide)
 
-### [Budget Guide](#Budget-Guide)
+### [Budget Guide](#budget-guide-1)
 
 ## Acquiring Funds
 
@@ -108,7 +108,7 @@ As mentioned in point #3, it is advisable for hosts to read through the full Fee
 Here is a non-exhaustive list of suggestions for the different types of Maker Meetup building blocks that a community member could utilize(hybrids of these event types are also welcome):
 
 1. **Academic** (Educational/light)
-This format focuses on the promotion of ideas, debates, Q&A, the big picture, philosophy, and general economics of our project. The event needs to have a clear theme or thesis and formats that supports this.
+This format focuses on the promotion of ideas, debates, Q&A, the big picture, philosophy, and general economics of our project. The event needs to have a clear theme or thesis and formats that support this.
    1. _Presentations_
       *  Best suited for 1 speaker, e.g. Give a presentation called "Ethereum, Commerce and the future of Stable Cryptocurrency"
    1. _Debates, Panels, Interviews, or Fireside Chats_
@@ -119,16 +119,16 @@ This format focuses on the promotion of ideas, debates, Q&A, the big picture, ph
 
 2. **Development** (Technical/heavy)
 This format focuses on business applications and/or implementation of real use cases, so may be more technical in nature. It can also focus on the software side, and act more like a developer meetup where the more technical aspects of MakerDAO can be explored.
-1. **Developer-centric**
-   1. *Presentations*
-   1. *Workshops*
-      * Integrations (e.g. demoing the Dai hack you have created, testing and improving it together)
-      * Dai.js (library documentation [here](https://makerdao.com/documentation/))
-      * How the smart contracts work
-1. **Business-centric**
-   1. *Presentations*
-      * Integrations (e.g. how did we as solved our dapp issues with Dai; or Paralelni Polis: our strategies with using crypto only [link](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/))
-      * Can be combined with Socials format (great for networking) or Demo format (helps adoption and understanding).
+   1. **Developer-centric**
+      1. *Presentations*
+      1. *Workshops*
+          * Integrations (e.g. demoing the Dai hack you have created, testing and improving it together)
+          * Dai.js (library documentation [here](https://makerdao.com/documentation/))
+          * How the smart contracts work
+   1. **Business-centric**
+      1. *Presentations*
+          * Integrations (e.g. how did we solve our dapp's issues with Dai; or Paralelni Polis: [our strategies with using crypto only](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/))
+          * Can be combined with Socials format (great for networking) or Demo format (helps adoption and understanding).
 1. **Socials** (we strongly suggest this format be used in combination with other formats)
 This format focuses on bringing together community members for the purpose of networking, and providing a venue to meet in-person.
     1. _Dai Dappy Hour_ (should be combined with some learning event) - see these past Dai Dappy Hours ([1](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#), [2](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f), [3](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/))  & how to get set-up (contact Lenka)
@@ -139,12 +139,10 @@ This format focuses on educating people on the ways they can actually use Dai an
     1.  *Complex Demos*
         *  Playing with CDPs ([example](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd))
         *  Playing with DeFi dapps ([list](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai))
-            * Short and Leveraged tokens (dYdX)
-            * Short and Leveraged tokens (dYdX)
-            *  Interest Rates (Compound Finance)
-            *  Accounting and Settlement (Request Network)
-            *  Betting, Prediction Markets
-        *  Dai.js
+            * Short and Leveraged tokens ([dYdX](https://dydx.exchange/))
+            *  Interest Rates ([Compound Finance](https://app.compound.finance/))
+            *  Accounting and Settlement ([Request Network](https://request.network/#/))
+        *  [Dai.js](https://makerdao.com/documentation/)
     1.  *Simple Demos*
         *  How do I get it (browse [here](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai))
         *  What do I do with it (holding [here](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai), spending [here](https://www.thebigcoin.io/pay-with-dai))
@@ -246,6 +244,7 @@ Generally, we do not cover funding for banners and printed materials. Digital me
 # **Community Meetup Form**
 
 Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek)
+  1. What is your name and contact information?
   1. What is the name of your event?
   1. Please provide a description of your meetup in three to five sentences.
   1. What are your goals for the event?
@@ -275,6 +274,7 @@ Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o
 Fill out and submit the [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l)
 
 ## Identification
+  1. What is your name and contact information?
   1. What is the name of your event?
 
 ## KPIs
