@@ -249,7 +249,7 @@ Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o
   1. Please provide a description of your meetup in three to five sentences.
   1. What are your goals for the event?
   1. How does the meetup align with MakerDAO principles?
-  1. What [type of meetup](#Format-Types-Guide1) is this?
+  1. What [type of meetup](#format-types-guide-1) is this?
   1. Are there any plans to monetize the event? I.e. Through ticket sales, raffles, contests, etc. If so, please provide details and expected revenue.
   1. What are your goals for event?
   1. What is the agenda for this meetup?
