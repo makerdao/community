@@ -65,7 +65,7 @@ Submitting a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3
 
 If your Community Meetup Form is accepted, the following are required:
 
-  1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. In the memo field ensure you provide a link back to your application form.
+  1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). 
   1. Fill out and submit the [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
   1. We strongly prefer the events to be free to attend , but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
 
@@ -243,8 +243,11 @@ Generally, we do not cover funding for banners and printed materials. Digital me
 
 # **Community Meetup Form**
 
-Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek)
-  1. What is your name and contact information?
+Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek)
+
+### _Questions on the form:_
+  1. What is your name?
+  1. What is your e-mail or other contact information? 
   1. What is the name of your event?
   1. Please provide a description of your meetup in three to five sentences.
   1. What are your goals for the event?
@@ -266,18 +269,20 @@ Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o
   1. Are there any other sponsors for this meetup?
   1. How much of an honorarium would you require to cover your own time and effort?
   1. Please provide links to any previous events you have held. Videos, announcements, blog posts, social media engagements, etc.
+  1. Please submit your Request Network Invoice Link here:
 
 ------------------------------------------
 
 # **Feedback Form**
 
-Fill out and submit the [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l)
+Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l)
 
-## Identification
+## _Questions on the form:_
+### Identification
   1. What is your name and contact information?
   1. What is the name of your event?
 
-## KPIs
+### KPIs
   1. How many people attended the Event
   1. How many people did you expect to attend the event?
   1. How many Presentations occurred?
@@ -285,18 +290,18 @@ Fill out and submit the [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l)
   1. How much time or team resources did it cost you?
   1. What was the total financial cost of this event?
 
-## Audience & Coverage
+### Audience & Coverage
   1. What was the feedback from the audience members after the event?
   1. Please provide links to social media mentions of the event. Your posts and those of the attendees
   1. Please provide links to online videos of the presentation and any relevant slides
 
-## Location Review
+### Location Review
   1. Was the space large enough?
   1. Would you consider using this space again in the future?
 
-## How to improve the process
+### How to improve the process
   1. Did anything not go as planned?
   1. What would you have done differently if you could redo the event?
 
-## Future plans
+### Future plans
   1. Are you considering hosting a meetup again in the future?
