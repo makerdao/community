@@ -256,7 +256,7 @@ Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o
   1. Please list the names of the speaker(s) that will be presenting at the event.
   1. How long is this the meetup?
   1. Where is this meetup? Please provide details about the location, capacity.
-  1. What is the anticipated cost for renting/reserving the location itself?
+  1. Please provide an anticipated breakdown of costs associated with the event:
   1. Does the location have its own equipment (ie: microphones, speakers, projector, projector screen, chairs, tables, etc..)? If not, what are your plans to source them?
   1. Approximately how many people do you expect to attend this meetup? (±10)
   1. How do you plan to collect signups?
