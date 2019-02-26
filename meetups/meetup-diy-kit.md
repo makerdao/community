@@ -246,7 +246,7 @@ Generally, we do not cover funding for banners and printed materials. Digital me
 Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek)
   1. What is your name and contact information?
   1. What is the name of your event?
-  1. What Region are you hosting your meetup in?
+  1. What region are you hosting your meetup in?
   1. Please provide a description of your meetup in three to five sentences.
   1. What are your goals for the event?
   1. How does the meetup align with MakerDAO principles?
