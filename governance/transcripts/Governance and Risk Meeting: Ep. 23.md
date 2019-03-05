@@ -1,7 +1,7 @@
 # Governance and Risk Meeting: Ep. 23
 [Video](https://www.youtube.com/watch?v=KKDpN1fe0cU) | <a name=""></a>[#](#) / [Audio](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 
-| Links | Person | Text |
+| References | Person | Text |
 |----|----|----|
 | <a name="0000"></a>[#](#0000) / [00:00](https://youtu.be/KKDpN1fe0cU?t=0) | Richard Brown | I think we have a lot to go over today. We always have a lot to go over, but ... Welcome everybody, to the February 21st edition of the scientific governance and risk meeting, with Steven Becker, Rune Christensen, and an array of industry luminaries. Every meeting, I kick off with the same brief speech, but I'm gonna keep on doing it because it's super important to me. We love debates, we love questions, and we love interacting with people. We have things to learn, and we have things to teach as well, so let's get this circle of sharing going. |
 | <a name="0033"></a>[#](#0033) / [00:33](https://youtu.be/KKDpN1fe0cU?t=33) | Richard Brown | If anybody has any questions, any comments, any thoughts, please feel free to type those in the chat in the side, if you don't have access to a microphone. If you do have a microphone, please feel free to jump in whenever you need to and ask questions. We're here to talk, and some of the questions we get are amazing. It's a highlight of my calls. I think I'm gonna hand that over to you directly, Steven and let you set the agenda for us. |
