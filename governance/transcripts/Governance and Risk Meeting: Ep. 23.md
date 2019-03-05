@@ -1,5 +1,5 @@
 # Governance and Risk Meeting: Ep. 23
-[Video](https://www.youtube.com/watch?v=KKDpN1fe0cU) | <a name=""></a>[#](#) / [Audio](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
+[Video](https://www.youtube.com/watch?v=KKDpN1fe0cU) | [Audio](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 
 | References | Person | Text |
 |----|----|----|
@@ -160,6 +160,6 @@
 | <a name="5512"></a>[#](#5512) / [55:12](https://youtu.be/KKDpN1fe0cU?t=55m12s) | Richard Brown | There you go ... Yeah, that's a great idea. So, Scott here, and one of our community members was doing that for the longest time, but it's an enormous time sink. But, happily, we have a community development department, of which I am the head, so if somebody would like to step up and offer to take minutes on these meetings, I will be happy to discuss a reasonable compensation plan. We can figure out how to do that, I think. |
 | <a name="5537"></a>[#](#5537) / [55:37](https://youtu.be/KKDpN1fe0cU?t=55m37s) | Rune Christensen |  Yeah, but I mean that's the [crosstalk 00:55:38] |
 | <a name="5539"></a>[#](#5539) / [55:39](https://youtu.be/KKDpN1fe0cU?t=55m39s) | Richard Brown | ... we talked about. |
-| <a name="5040"></a>[#](#5040) / [50:40](https://youtu.be/KKDpN1fe0cU?t=55m40s) | Rune Christensen |  I totally agree. From now on, let's ... Okay, the meeting's over, but I just wanna say that I think in general, the risk teams are the ones that are responsible for facilitating meetings like this. So, it makes sense that we basically say something on that, that's a standard responsibility of the risk team, which then, since the risk team is now essentially the foundation, then we have risks taken care of, but I agree that that's kind of a standard department ... |
+| <a name="5540"></a>[#](#5540) / [55:40](https://youtu.be/KKDpN1fe0cU?t=55m40s) | Rune Christensen |  I totally agree. From now on, let's ... Okay, the meeting's over, but I just wanna say that I think in general, the risk teams are the ones that are responsible for facilitating meetings like this. So, it makes sense that we basically say something on that, that's a standard responsibility of the risk team, which then, since the risk team is now essentially the foundation, then we have risks taken care of, but I agree that that's kind of a standard department ... |
 | <a name="5623"></a>[#](#5623) / [56:23](https://youtu.be/KKDpN1fe0cU?t=56m23s) | Richard Brown | Alright. So, there's a lot of important people in this meeting. I'm sure lots of us have hard stops, so let's stick a fork in it there. Thank you everyone for joining. I'm going to stop recording now. If people wanna hang out though, that's entirely up to you, so thanks everybody for coming by. See you next week. |
 | <a name="5639"></a>[#](#5639) / [56:39](https://youtu.be/KKDpN1fe0cU?t=56m39s) | Chris Burniske | Thank you. |
