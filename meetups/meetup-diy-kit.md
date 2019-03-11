@@ -64,7 +64,7 @@ The Community Development Group has allocated these funds to help members of our
 
 ### Who should not apply for a micro-grant?
 
-If you are an event organizer seeking funding for a large event, this form is not for you. 
+If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to xxx(Waiting for Danielle to set up the email tomorrow)
 We are not funding xDai/Burner Wallet happy hours. 
 
 ### Requirements
@@ -73,7 +73,7 @@ If your Community Meetup Form is accepted, the following are required:
 
   1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). 
   1. We strongly prefer the events to be free to attend , but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
-  1. After your event, fill out and submit the [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
+  1. After your event, please fill out and submit a [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
 
 ## Hosting the Meetup
 
