@@ -65,7 +65,7 @@ The Community Development Group has allocated these funds to help members of our
 ### Who should not apply for a micro-grant?
 
 If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to xxx(Waiting for Danielle to set up the email tomorrow)
-We are not funding xDai/Burner Wallet happy hours. 
+We are not funding alcohol/bar tabs or simple airdrops of Dai or xDai.
 
 ### Requirements
 
