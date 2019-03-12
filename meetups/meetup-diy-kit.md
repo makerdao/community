@@ -60,11 +60,12 @@ Below we've linked to several guides that we put together to help you with plann
 Submitting a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) is equivalent to applying for a micro-grant. Upon submitting this form, we will reach out to you through the associated email address that you used. The volume of submissions may be high, please allow up to a week of processing time before you attempt to follow up on a submission.
 
 ### Who can apply for a micro-grant?
+
 The Community Development Group has allocated these funds to help members of our community host their own local meetups. If you're a community member who is passionate about MakerDAO and Defi, this form is for you. 
 
 ### Who should not apply for a micro-grant?
 
-If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to xxx(Waiting for Danielle to set up the email tomorrow)
+If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
 We are not funding alcohol/bar tabs or simple airdrops of Dai or xDai.
 
 ### Requirements
