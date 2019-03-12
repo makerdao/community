@@ -57,17 +57,24 @@ Below we've linked to several guides that we put together to help you with plann
 
 ## Acquiring Funds
 
-The Community Development group has allocated funds to help members of our community do things such as hosting local meetups. Members are encouraged to do stand-alone meetups as they are an important and fun part of the growth of MakerDAO.
-
 Submitting a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) is equivalent to applying for a micro-grant. Upon submitting this form, we will reach out to you through the associated email address that you used. The volume of submissions may be high, please allow up to a week of processing time before you attempt to follow up on a submission.
+
+### Who can apply for a micro-grant?
+
+The Community Development Group has allocated these funds to help members of our community host their own local meetups. If you're a community member who is passionate about MakerDAO and Defi, this form is for you. 
+
+### Who should not apply for a micro-grant?
+
+If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
+We are not funding alcohol/bar tabs or simple airdrops of Dai or xDai.
 
 ### Requirements
 
 If your Community Meetup Form is accepted, the following are required:
 
   1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). 
-  1. Fill out and submit the [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
   1. We strongly prefer the events to be free to attend , but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
+  1. After your event, please fill out and submit a [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
 
 ## Hosting the Meetup
 
