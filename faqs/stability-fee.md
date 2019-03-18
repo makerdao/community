@@ -1,10 +1,25 @@
 # What is the Stability Fee?
 The Maker smart contracts collect a Stability Fee which is calculated against the total amount of DAI drawn against collateral held in a CDP. This a variable rate fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.
 
+# When do I have to pay the Stability Fee?
+When you pay down your debt by returning DAI to your CDP, you will be charged an outstanding fee *proportional to the amount of DAI being returned*. The fee can be paid in MKR tokens or in Dai.
+
+# Do I have to pay the new fees on old debt?
+No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Fee at the new rate from that point forward, much like a variable interest rate on a loan.
+
 # What is the purpose of the Stability Fee?
 The Stability Fee is a Risk Parameter designed to address imbalances in supply and demand for the Dai token which could result from periods of low or negative growth in the cryptocurrency markets.
 
 The mechanism behind the fee is a simple one; as the market demand for Dai _decreases_ the fees associated with minting new Dai will _increase_, the inverse will be true when market demand grows. This rebalancing alters the incentives for CDP owners to mint or burn Dai and can have a stabilizing effect on the soft-peg.
+
+# Why does the Stability Fee Change?
+When it is observed that Dai is consistently trading above or underneath the target price of $1, this may signal an imbalance between macro Dai supply and Dai demand. The Stability Fee is a rate which primarily affects Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
+
+If Dai trades consistently above $1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
+
+If Dai trades consistently below $1, this means that supply is outweighing demand and the market is flooded with too much Dai. If this is happening too consistently, it signifies that the Stability Fee needs to be raised to slow down Dai creation.
+
+Unfortunately, it is not possible to perfectly predict the impact of a fee change prior to its implementation, as the results are entirely dependent on the market's reaction. As time goes on, there will be better data available to support a predictive model or even a more robust reactive model that will help fine-tune the Stability Fee.
 
 # How is the Stability Fee calculated?
 The Stability Fee is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDP's. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
@@ -32,7 +47,6 @@ Where:
 * **P** (e)^rt - P = A: Continuous Compounding
 
 ### Simplified
-
 Calculated with annual compounding, the future Stability Fee is:
 
     100,000 × (1 + (2.5% / 1)) ^ (1 × 1) - 100,000 = 2500 DAI
@@ -98,18 +112,6 @@ Any MKR that resides in the burner wallet before actually being destroyed is per
 
 There are also a number of third-party tools which can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
 
-# When do I have to pay the Stability Fee?
-When you pay down your debt, by returning DAI to your CDP, you will be charged an outstanding fee *proportional to the amount of DAI being returned*. The fee can be paid in MKR tokens or in Dai.
-
-# Why does the Stability Fee Change?
-When it is observed that Dai is consistently trading above or underneath the target price of $1, this may signal an imbalance between macro Dai supply and Dai demand. The Stability Fee is a rate which primarily affects Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
-
-If Dai trades consistently above $1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
-
-If Dai trades consistently below $1, this means that supply is outweighing demand and the market is flooded with too much Dai. If this is happening too consistently, it signifies that the Stability Fee needs to be raised to slow down Dai creation.
-
-Unfortunately, it is not possible to perfectly predict the impact of a fee change prior to its implementation, as the results are entirely dependent on the market's reaction. As time goes on, there will be better data available to support a predictive model or even a more robust reactive model that will help fine-tune the Stability Fee.
-
 # How does the fee alter supply and demand?
 An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee (cost of borrowing) will incentivise the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
@@ -126,12 +128,8 @@ And at 2.5%:
 
     (10000 x (2.7183...) ^ (2.5%*(31/365)) - 10000 = 21.2554 DAI
 
-# Do I have to pay the new fees on old debt?
-No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Fee at the new rate from that point forward, much like a variable interest rate on a loan.
-
 # How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?
 Please consider joining our weekly [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) meetings where we discuss these issues in greater detail. Agendas are posted regularly to [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Also, check out the [Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) in the Awesome-MakerDAO repository.
-
 
 # Is there a limit to the range of the Stability Fee changes?
 The Risk Team will propose the thresholds for altering the Stability Fee (rate of change over time, deviation of the peg, sampling times) and present them for approval to Maker voters.
@@ -153,6 +151,6 @@ The voting mechanism is the primary ways for the community to manage the peg, th
 # How often will the Stability Fee change?
 It is not possible to schedule or make predictions about when the fee should change or what the new rates could be.
 
-The Interim Risk Team continuously monitors the results of previous changes and may propose  adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how far the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
+The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how far the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
 
 Due to the risk of manipulation, there will always need to be some level of discretion and signal processing required to determine exactly how Stability Fees should be adjusted. Fully automatic and algorithmic processes are vulnerable to manipulation and will need to be carefully considered.
