@@ -1,18 +1,3 @@
-Hi Maker Community,
-
-Ours is not the easiest project to wrap your head around. This learning curve can be a significant barrier to entry for people new to crypto, or the MakerDAO ecosystem, so we've been working on a set of canonical FAQs to help remove some of that friction.
-
-Maker has attracted a significantly smarter than average demographic, so we would like to do a little experiment and leverage the 'wisdom of *our* crowd'. The FAQ's are now at a point where we can begin releasing them, but they still may contain mistakes or oversights. In the past, we've found tremendous value in turning to the community for final review and sign-off and we'd like to try that again.
-
-If these posts see enough interest, they will become a weekly occurrence until we get feedback on all 12 documents in the pipeline. The hope is that with the input we will be able to better understand whether we are answering the right questions, if something is missing, or incorrect.
-
-Each week, once the posts have been reviewed, we will move them into a public GitHub repository where we will continue to encourage the community to help us with updates and edits.
-
-If you have the time, please take a close look at this post and add any comments, questions or corrections you might have.
-
----
-
-
 # What is the stability fee?
 The Maker smart contracts collect a Stability Fee which is calculated against the total amount of DAI drawn against collateral held in a CDP. This a variable rate fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.
 
