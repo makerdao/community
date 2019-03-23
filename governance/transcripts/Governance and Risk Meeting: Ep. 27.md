@@ -1,5 +1,5 @@
 # Governance and Risk Meeting: Ep. 27 
-[Video](https://www.youtube.com/watch?v=COQxy2IePqQ) | [Audio](https://soundcloud.com/makerdao/ep-26-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/b17ap9/discussion_scientific_governance_and_risk/)
+[Video](https://www.youtube.com/watch?v=ceSfBZEBfbE) | [Audio](https://soundcloud.com/makerdao/ep-27-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/b3xzzs/discussion_scientific_governance_and_risk/)
 
 | References | Person | Text |
 |---|---|---|
