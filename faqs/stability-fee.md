@@ -67,7 +67,7 @@ Given that:
 * The CDP has been open for **30** **days**
 * The current value of an MKR token is **100** **DAI**
 * The Stability Fee is **2.5%**
-* A user pays back a debt of **50** **DAI**
+* A user pays back a portion of the debt in the amount of **50** **DAI**
 
 The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.020500948 DAI**, or approximately 2 cents USD.
 
