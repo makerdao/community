@@ -59,7 +59,7 @@ Below we've linked to several guides that we put together to help you with plann
 
 ### [Budget Guide](#budget-guide-1)
 
-## Acquiring Funds
+## Requesting Funds
 
 Submitting a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) is equivalent to applying for a micro-grant. Upon submitting this form, we will reach out to you through the associated email address that you used. The volume of submissions may be high, please allow up to a week of processing time before you attempt to follow up on a submission.
 
