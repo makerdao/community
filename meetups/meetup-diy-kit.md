@@ -6,6 +6,28 @@ This document is intended as a guide on how MakerDAO community members can organ
 * [Post-Event Process](#Post-Event-Process). This step is for those who've recieved a grant. Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
 
 ---
+## Table of Contents
+
+<!-- TOC -->
+
+- [General Info](#general-info)
+  - [Goals](#goals)
+  - [Topic Guidelines](#topic-guidelines)
+  - [What is MakerDAO and who are our Community?](#what-is-makerdao-and-who-are-our-community)
+- [General Process Overview](#general-process-overview)
+  - [Planning and Organizing](#planning-and-organizing)
+  - [Acquiring Funds](#acquiring-funds)
+  - [Hosting the Meetup](#hosting-the-meetup)
+  - [Post-Event Process](#post-event-process)
+- [Resources & Guides](#resources--guides)
+  - [Resources](#resources)
+  - [Format Types Guide](#format-types-guide-1)
+  - [Marketing & Promotion Guide](#marketing--promotion-guide)
+  - [Budget Guide](#budget-guide-1)
+- [Community Meetup Form](#community-meetup-form-1)
+- [Feedback Form](#feedback-form)
+
+---
 
 # **GENERAL INFO**
 ## GOALS
@@ -39,10 +61,6 @@ There are four major steps to the process: [Planning and Organizing](#Planning-a
 ## Planning and Organizing
 Creating a community meetup requires quite a bit of planning and organizing. We've been at it for quite some time here at Maker, below you will find several points you need to consider before you set the date and start spreading the word about your local meetup.
 
-### Community Meetup Form
-
-Filling out this [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) will help you understand what you need in order to fully plan and organize your event. Submitting this form is necessary if you are seeking funding for your meetup.
-
 Some fundamental steps in organizing an event:
 
   * Putting together a clearly outlined agenda for the meeting
@@ -51,7 +69,7 @@ Some fundamental steps in organizing an event:
   * Preparing a plan for promoting your event
   * Preparing a plan for recording and sharing presentations from the meetup
 
-Below we've linked to several guides that we put together to help you with planning and organizing the event.
+Below we've linked to several guides that we put together to help you with planning and organizing the event. In addition, looking over [the questions](#community-meetup-form-1) included in the Community Meetup Form may also help you understand what you need in order to fully plan and organize your event.
 
 ### [Format Types Guide](#format-types-guide-1)
 
@@ -166,7 +184,7 @@ This format focuses on educating people on the ways they can actually use Dai an
 
 ---
 
-# **Marketing & Promotion Guide**
+## **Marketing & Promotion Guide**
 
 As soon as you have a chosen venue and secured date, make sure to register and promote the meetup as soon as possible so that others will be aware of it. Share the newly created meetup with your network as well as the MakerDAO Community.
 
@@ -194,7 +212,7 @@ Local places to promote your event:
   * Coworking spaces
   * Coffee shops
 
-## Setting up your Event Page
+### Setting up your Event Page
 
 In order to make people aware of your event, you will need to create an event page. An Event page has a few fundamental elements.
 
@@ -206,7 +224,7 @@ In order to make people aware of your event, you will need to create an event pa
 5. Additional details (such as "How to find us")
    * These will vary depending on the event. Simply put, add any additional information unique to your event that a potential attendee would find helpful.
 
-## Some Pointers
+### Some Pointers
 
   * Always update your events page with any changes that might occur.
   * We recommend that you reach out to attendees with reminders, updates, or teasers.
@@ -214,13 +232,13 @@ In order to make people aware of your event, you will need to create an event pa
   * Incentivise members to bring their friends along. Give prizes and create competitions for attendees to share on Facebook, Tweet, etc..
   * Collaborate with other Meetup organisers and run events together. Groups must be complementary.
 
-## Additional Resources
+### Additional Resources
 
 [Meetup.com's Guide to Promoting your meetup](https://help.meetup.com/hc/en-us/articles/360002491331-Promoting-your-Meetup-group)
 
 ---
 
-# **Budget Guide**
+## **Budget Guide**
 
 This is a guide on how to manage the financial side of hosting a meetup. Before you get going, we want community members to have a specific mentality when it comes to costs—It's important to always aim to achieve the most value for the money you are spending. If you are being given an honorarium to cover expenses for this event, it will be based on the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) you submit to us beforehand. Here are some guidelines for how you should budget for your event.
 
@@ -254,7 +272,7 @@ Generally, we do not cover funding for banners and printed materials. Digital me
 
 # **Community Meetup Form**
 
-Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek)
+Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interesting in [acquiring funds](#acquiring-funds)
 
 ### _Questions on the form:_
   1. What is your name?
@@ -287,7 +305,7 @@ Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOt
 
 # **Feedback Form**
 
-Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l)
+Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l) after your event if you've recieved a micro-grant.
 
 ## _Questions on the form:_
 ### Identification
