@@ -171,7 +171,7 @@ There are several scheduling resources to choose from:
   * [Meetup.com](https://www.meetup.com/) is a fantastic resource for promoting your meetup.
   * [Facebook Events](https://m.facebook.com/help/131325477007622/) is also a decent format to host an event page.
   * [Eventbrite.com](https://www.eventbrite.com) has a free ticketing system that can be used for your meetup.
-  * [Kickback.events](https://kickback.events) addresses the no-show factor in hosting these events. This is a service that lets attendees stake a small amount of crypto when registering for a meetup. This amount is returned to them if they attend the event.
+  * [Kickback.events](https://kickback.events) addresses the no-show factor in hosting these events. This is a service that lets attendees stake a small amount of crypto when registering for a meetup. This amount is returned to them if they attend the event. Any no-shows lose their stake which can then be split amongst the attendees.
 
 Crypto-Friendly Social Networks you may want to promote on:
 
