@@ -16,7 +16,7 @@ This document is intended as a guide on how MakerDAO community members can organ
   - [What is MakerDAO and who are our Community?](#what-is-makerdao-and-who-are-our-community)
 - [General Process Overview](#general-process-overview)
   - [Planning and Organizing](#planning-and-organizing)
-  - [Acquiring Funds](#acquiring-funds)
+  - [Requesting Funds](#Requesting-funds)
   - [Hosting the Meetup](#hosting-the-meetup)
   - [Post-Event Process](#post-event-process)
 - [Resources & Guides](#resources--guides)
