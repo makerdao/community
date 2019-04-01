@@ -1,9 +1,7 @@
 # **Meetup DIY Kit**
-This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: 
-* [Planning and Organizing](#Planning-and-Organizing) 
-* [Acquiring Funds](#Acquiring-Funds)
-* [Hosting the Meetup](#Hosting-the-Meetup)
-* [Post-Event Process](#Post-Event-Process). This step is for those who've recieved a grant. Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
+This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Acquiring Funds](#Acquiring-Funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process)(_which is step is for those who've recieved a grant_). 
+
+Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
 
 ---
 ## Table of Contents
@@ -24,7 +22,7 @@ This document is intended as a guide on how MakerDAO community members can organ
   - [Format Types Guide](#format-types-guide-1)
   - [Marketing & Promotion Guide](#marketing--promotion-guide)
   - [Budget Guide](#budget-guide-1)
-- [Community Meetup Form](#community-meetup-form-1)
+- [Community Meetup Form](#community-meetup-form)
 - [Feedback Form](#feedback-form)
 
 ---
@@ -69,7 +67,7 @@ Some fundamental steps in organizing an event:
   * Preparing a plan for promoting your event
   * Preparing a plan for recording and sharing presentations from the meetup
 
-Below we've linked to several guides that we put together to help you with planning and organizing the event. In addition, looking over [the questions](#community-meetup-form-1) included in the Community Meetup Form may also help you understand what you need in order to fully plan and organize your event.
+Below we've linked to several guides that we put together to help you with planning and organizing the event. In addition, looking over [the questions](#community-meetup-form) included in the Community Meetup Form may also help you understand what you need in order to fully plan and organize your event.
 
 ### [Format Types Guide](#format-types-guide-1)
 
@@ -125,10 +123,9 @@ As mentioned in point #3, it is advisable for hosts to read through the full Fee
 
 ## Resources
 
-<!-- *   [Slide Decks-needslink-](http://link)
-* [Handouts and Templates-needslink-](http://link) -->
   * [Design files](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
   * [Example Presentations](https://github.com/makerdao/awesome-makerdao#videos)
+  * [Usable Slides and Presentation Decks](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
 
 ---
 
