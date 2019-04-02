@@ -269,7 +269,7 @@ Generally, we do not cover funding for banners and printed materials. Digital me
 
 # **Community Meetup Form**
 
-Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interesting in [requestion funds](#requesting-funds)
+Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interesting in [requesting funds](#requesting-funds)
 
 ### _Questions on the form:_
   1. What is your name?
