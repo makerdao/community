@@ -1,4 +1,4 @@
-# Governance and Risk Meeting: Ep. 24
+# Governance and Risk Meeting: Ep. 24 (February 28 - 2019)
 [Video](https://www.youtube.com/watch?v=x0D39p2lNBc) | [Audio](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 
 | References | Person | Text |
