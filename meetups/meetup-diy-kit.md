@@ -1,5 +1,5 @@
 # **Meetup DIY Kit**
-This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Acquiring Funds](#Acquiring-Funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process)(_for those who've recieved a grant_). 
+This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Requesting Funds](#Requesting-funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process)(_for those who've recieved a grant_). 
 
 Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
 
@@ -54,7 +54,7 @@ Our community is very widespread, there are several [Official Communication Chan
 # **General Process Overview**
 Part of the core culture of MakerDAO is building up our community and helping it to drive education, participation, and change by providing resources like these documents. This section is an overview of how MakerDAO community members can organize, find funding, and host  Community Meetups.
 
-There are four major steps to the process: [Planning and Organizing](#Planning-and-Organizing), [Acquiring Funds](#Acquiring-Funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process).
+There are four major steps to the process: [Planning and Organizing](#Planning-and-Organizing), [Requesting Funds](#Requesting-funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process).
 
 ## Planning and Organizing
 Creating a community meetup requires quite a bit of planning and organizing. We've been at it for quite some time here at Maker, below you will find several points you need to consider before you set the date and start spreading the word about your local meetup.
