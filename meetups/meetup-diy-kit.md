@@ -1,5 +1,5 @@
 # **Meetup DIY Kit**
-This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Requesting Funds](#Requesting-funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process)(_for those who've recieved a grant_). 
+This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Requesting Funds](#Requesting-funds), [Hosting the Meetup](#Hosting-the-Meetup), and the [Post-Event Process](#Post-Event-Process)(_for those who've received a grant_). 
 
 Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
 
@@ -32,17 +32,17 @@ Requesting funds from the Community Development Initiative is optional, feel fre
 What are we trying to accomplish with Community Led Meetups?
 
   1. Give the Maker community the resources they need to organize successful meetups.
-  1. Encourage grass roots initiatives designed to grow the Maker ecosystem.
+  1. Encourage grassroots initiatives designed to grow the Maker ecosystem.
 
 We believe that community members, like you, are incredibly important to the success of MakerDAO and play an invaluable role in building a stronger ecosystem. The Community Development Group wants to provide you with resources you need to increase Dai adoption and help us bring stability and financial inclusion to the underbanked. To do this, an optional pool of funds is being made available to help community members interested in hosting meetups.
 
 ## Topic Guidelines
-There are several things to keep in mind when planning to host a community meetup. Firstly, these meetups are **not about speculating on the price of the tokens or general hype.** The core goal of hosting meetups is educating people about MakerDAO and the overarching narrative of decentralized finance. When talking about the MKR token, the goal should be to educate the attendees on the purpose and utility of the token. Presentations should focus on the big picture, specific aspects of the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralised governance, or other relevant topics.
+There are several things to keep in mind when planning to host a community meetup. Firstly, these meetups are **not about speculating on the price of the tokens or general hype.** The core goal of hosting meetups is educating people about MakerDAO and the overarching narrative of decentralized finance. When talking about the MKR token, the goal should be to educate the attendees on the purpose and utility of the token. Presentations should focus on the big picture, specific aspects of the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralized governance, or other relevant topics.
 
 >*"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." —Antoine de Saint-Exupery*
 
 ## What is MakerDAO and Who are our Community?
-**MakerDAO** is a decentralized organization dedicated to bringing stability to the crypto economy. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment—allowing everyone equal access to the global financial marketplace. Maker is a credit facility which issues **Dai**(⬙), the world's first decentralized stablecoin on the Ethereum blockchain. Dai eliminates volatility through a system of autonomous smart contracts and incentives, specifically designed to respond to market dynamics. As a governance token, **MKR** is used by MKR holders to vote for the risk management and business logic of the Maker system.
+**MakerDAO** is a decentralized organization dedicated to bringing stability to the crypto economy. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment—allowing everyone equal access to the global financial marketplace. Maker is a credit facility that issues **Dai**(⬙), the world's first decentralized stablecoin on the Ethereum blockchain. Dai eliminates volatility through a system of autonomous smart contracts and incentives, specifically designed to respond to market dynamics. As a governance token, **MKR** is used by MKR holders to vote for the risk management and business logic of the Maker system.
 A good starting point for more info: [Our website](https://makerdao.com/) & [Awesome-MakerDAO repository](https://github.com/makerdao/awesome-makerdao/blob/master/README.md).
 
 The **Community** includes Dai and Maker holders and users, active participants in the wider ecosystem, engaged observers (critical or otherwise), Foundation employees, Governance voters, Keepers, Arbitrageurs, etc., and people who simply find the model interesting and are willing to engage. Whilst the wider community is generally called Maker, we refer to the most engaged community members as the **core community** (i.e. you).
@@ -79,11 +79,11 @@ Below we've linked to several guides that we put together to help you with plann
 
 Submitting a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) is equivalent to applying for a micro-grant. Upon submitting this form, we will reach out to you through the associated email address that you used. The volume of submissions may be high, please allow up to a week of processing time before you attempt to follow up on a submission.
 
-### Who can apply for a micro-grant?
+### Who can apply for a microgrant?
 
 The Community Development Group has allocated these funds to help members of our community host their own local meetups. If you're a community member who is passionate about MakerDAO and Defi, this form is for you. 
 
-### Who should not apply for a micro-grant?
+### Who should not apply for a microgrant?
 
 If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
 We are not funding alcohol/bar tabs or simple airdrops of Dai or xDai.
@@ -93,7 +93,7 @@ We are not funding alcohol/bar tabs or simple airdrops of Dai or xDai.
 If your Community Meetup Form is accepted, the following are required:
 
   1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). 
-  1. We strongly prefer the events to be free to attend , but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
+  1. We strongly prefer the events to be free to attend, but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
   1. After your event, please fill out and submit a [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
 
 ## Hosting the Meetup
@@ -105,7 +105,7 @@ Once you have your meetup plan ready, speakers confirmed, the venue set, and the
   * Send communications to all the essential parties early on in the day.
   * It's also advisable to repeat the promotional messaging across all your channels the day of the event.
   * Read through the [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l) beforehand, so you are familiar with the various details you need to keep track of.
-  * Judging by the context, arriving to your venue a few hours beforehand in order to prepare and test everything is always an advisable thing to do. Remember to set time aside to ensure that the tech components (microphones, projectors, slide formats, cameras, livestream, etc. ) are all set-up and tested.
+  * Judging by the context, arriving at your venue a few hours beforehand in order to prepare and test everything is always an advisable thing to do. Remember to set time aside to ensure that the tech components (microphones, projectors, slide formats, cameras, livestream, etc. ) are all set-up and tested.
   * If you are recording the event, set-up the camera location and all details associated with this process.
   * Please make sure to introduce the program, the speakers, and state the key takeaways that the participants can expect from the event.
   * Be welcoming and informative.
@@ -138,13 +138,13 @@ This format focuses on the promotion of ideas, debates, Q&A, the big picture, ph
    1. _Presentations_
       *  Best suited for 1 speaker, e.g. Give a presentation called "Ethereum, Commerce and the future of Stable Cryptocurrency"
    1. _Debates, Panels, Interviews, or Fireside Chats_
-      *  Presentations best suited for more than 1 expert, can range from formalised panels to more informal conversations amongst a group.
+      *  Presentations best suited for more than 1 expert, can range from formalized panels to more informal conversations amongst a group.
    1. _Workshops_
       *  Good for adding some color to dry or very technical presentations
       *  Find examples in Demos & Hands-on sessions below
 
 2. **Development** (Technical/heavy)
-This format focuses on business applications and/or implementation of real use cases, so may be more technical in nature. It can also focus on the software side, and act more like a developer meetup where the more technical aspects of MakerDAO can be explored.
+This format focuses on business applications and/or implementation of real use cases so it may be more technical in nature. It can also focus on the software side, and act more like a developer meetup where the more technical aspects of MakerDAO can be explored.
    1. **Developer-centric**
       1. *Presentations*
       1. *Workshops*
@@ -156,7 +156,7 @@ This format focuses on business applications and/or implementation of real use c
           * Integrations (e.g. how did we solve our dapp's issues with Dai; or Paralelni Polis: [our strategies with using crypto only](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/))
           * Can be combined with Socials format (great for networking) or Demo format (helps adoption and understanding).
 1. **Socials** (we strongly suggest this format be used in combination with other formats)
-This format focuses on bringing together community members for the purpose of networking, and providing a venue to meet in-person.
+This format focuses on bringing together community members for the purpose of networking and providing a venue to meet in-person.
     1. _Dai Dappy Hour_ (should be combined with some learning event) - see these past Dai Dappy Hours ([1](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#), [2](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f), [3](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/))  & how to get set-up (contact Lenka)
     1.  _Maker Fan Meetups_ - possible inspiration [here](https://www.meetup.com/EthereumSiliconValley/events/249307694/) - Games, Raffles, Dai auctions)
 
@@ -194,8 +194,8 @@ There are several scheduling resources to choose from:
 
 Crypto-Friendly Social Networks you may want to promote on:
 
-  * [Peepeth](https://peepeth.com/): Think of it like a blockchain twitter.
-  * [Telegram](https://telegram.org/): Many public crypto meetup chat rooms, find the one right for you .
+  * [Peepeth](https://peepeth.com/): Think of it as a blockchain twitter.
+  * [Telegram](https://telegram.org/): Many public crypto meetup chat rooms, find the one right for you.
   * [Wechat](https://web.wechat.com/): Many public crypto meetup chat rooms, find the one right for you.
   * [Facebook](https://www.facebook.com/): Sharing events with friends is a powerful tool to spread awareness.
   * [Twitter](https://twitter.com/): Crypto twitter is far-reaching.
@@ -227,7 +227,7 @@ In order to make people aware of your event, you will need to create an event pa
   * We recommend that you reach out to attendees with reminders, updates, or teasers.
   * In addition to the platform you are using for hosting the main event page, we recommend broad use of social media to promote your event and attract even more participants (see the MakerDAO socials above)—don't forget to link the URL from your main event page!
   * Incentivise members to bring their friends along. Give prizes and create competitions for attendees to share on Facebook, Tweet, etc..
-  * Collaborate with other Meetup organisers and run events together. Groups must be complementary.
+  * Collaborate with other Meetup organizers and run events together. Groups must be complementary.
 
 ### Additional Resources
 
@@ -241,35 +241,35 @@ This is a guide on how to manage the financial side of hosting a meetup. Before 
 
 ### The Space
 
-The type of event you are hosting determines the requirements of the space. If possible, always try to get a free space, or one that might be offered as part of a secondary sponsorship. An example of this would be your local university giving you a conference room for free, as a part of a deal you might have negotiated with them. There are various strategies for how to best go about securing a space.
+The type of event you are hosting determines the requirements of the space. If possible, always try to get free space or one that might be offered as part of a secondary sponsorship. An example of this would be your local university giving you a conference room for free, as a part of a deal you might have negotiated with them. There are various strategies for how to best go about securing a space.
 
-However, if the type of event requires equipment or a specific location it may be worthwhile to pay a rent fee.
+However, if the type of event requires equipment or a specific location it may be worthwhile to pay a rental fee.
 
 ### The Equipment
 
-The first thing to ask yourself is what kind of equipment do you need? Most meetups involve some type of presentation. If this is the case for your event, please make sure to find out if the space has the equipment available to facilitate this (ie: a computer, projector, and screen). If the event is relatively small you can probably get through it without a microphone. Otherwise it is usually always a good idea to have some form of voice amplification. If the venue has a microphone, they will likely have the speakers and system to use it with as well.
+The first thing to ask yourself is what kind of equipment do you need? Most meetups involve some type of presentation. If this is the case for your event, please make sure to find out if the space has the equipment available to facilitate this (ie: a computer, projector, and screen). If the event is relatively small you can probably get through it without a microphone. Otherwise, it is usually always a good idea to have some form of voice amplification. If the venue has a microphone, they will likely have the speakers and system to use it with as well.
 
 Ideally, you want to find a location that has all of these things included so you do not have to buy them yourself. If the venue does not have some of this equipment, the next possible step is to reach out to people attending your meetup. Posting in the event page, or reaching out to a few individuals you're familiar with might prompt someone to volunteer their own equipment to help out.
 
-Beyond that, it is up to your own judgement to decide what you need to purchase. If you intend to do meetups at the same location in the future, then it might be a good idea to try to come to an agreement where the venue can hold on to any equipment you may have bought yourself. You can use this to negotiate cheaper rent price, or simply to establish a good relationship with the venue.
+Beyond that, it is up to your own judgement to decide what you need to purchase. If you intend to do meetups at the same location in the future, then it might be a good idea to try to come to an agreement where the venue can hold on to any equipment you may have bought yourself. You can use this to negotiate cheaper rent prices, or simply to establish a good relationship with the venue.
 
 ### The Food & Beverages
 
-The cost of food and beverages largely depends on the amount of people at the event, how long the event will go on for, and the types of food and beverages. Since this may vary widely between different meetups, the best advice to give here is for individuals to use their best judgement.
+The cost of food and beverages largely depends on the number of people at the event, how long the event will go on for, and the types of food and beverages. Since this may vary widely between different meetups, the best advice to give here is for individuals to use their best judgement.
 
 The longer a meetup, the more reasonable it might be to provide some light food rather than snacks. Coffee or tea is generally always a good idea.
 
-Don't forget to check if the venue allows food and drinks!
+Don't forget to check if the venue allows for food and drinks!
 
 ### Banners & Printed Materials
 
-Generally, we do not cover funding for banners and printed materials. Digital media and communications are widespread enough that paper has become significantly more burdensome to use. Digital agendas, and other fliers are far more efficient. Save the trees!
+Generally, we do not cover funding for banners and printed materials. Digital media and communications are widespread enough that paper has become significantly more burdensome to use. Digital agendas and other fliers are far more efficient. Save the trees!
 
 ---
 
 # **Community Meetup Form**
 
-Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interesting in [requesting funds](#requesting-funds)
+Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interested in [requesting funds](#requesting-funds)
 
 ### _Questions on the form:_
   1. What is your name?
@@ -281,7 +281,7 @@ Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOt
   1. How does the meetup align with MakerDAO principles?
   1. What [type of meetup](#format-types-guide-1) is this?
   1. Are there any plans to monetize the event? I.e. Through ticket sales, raffles, contests, etc. If so, please provide details and expected revenue.
-  1. What are your goals for event?
+  1. What are your goals for the event?
   1. What is the agenda for this meetup?
   1. Please list the names of the speaker(s) that will be presenting at the event.
   1. How long is this the meetup?
@@ -302,7 +302,7 @@ Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOt
 
 # **Feedback Form**
 
-Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l) after your event if you've recieved a micro-grant.
+Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l) after your event if you've received a micro-grant.
 
 ## _Questions on the form:_
 ### Identification
