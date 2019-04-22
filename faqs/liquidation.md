@@ -1,4 +1,6 @@
-# What is Liquidation?
+# Liquidation
+
+## What is Liquidation?
 A CDP can be liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CPD's collateral (as judged by the Oracles) is worth less than the required collateralization for the asset class. During the liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.
 
 # Why does Liquidation exist?
