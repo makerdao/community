@@ -307,7 +307,8 @@ Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k5
 ## _Questions on the form:_
 ### Identification
   1. What is your name and contact information?
-  1. What is the name of your event?
+  1. What was the name of your event?
+  1. What was the date of your event?
 
 ### KPIs
   1. How many people attended the Event
