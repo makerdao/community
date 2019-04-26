@@ -1,1 +1,1 @@
-meetup-diy-kit-en.md
+Please see [meetup-diy-kit-en.md](./meetup-diy-kit-en.md)
