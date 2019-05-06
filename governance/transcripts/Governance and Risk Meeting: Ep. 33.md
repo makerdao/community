@@ -1,5 +1,5 @@
 # Governance and Risk Meeting: Ep. 33 (May 2 - 2019)
-[Video](https://www.youtube.com/watch?v=HeGvlO_iKCI) | [Audio](https://soundcloud.com/makerdao/ep-33-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/bh9vqa/meetingdiscussion_scientific_governance_and_risk/)
+[Video](https://www.youtube.com/watch?v=HeGvlO_iKCI) | [Audio](https://soundcloud.com/makerdao/ep-33-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/bjwco9/meetingdiscussion_scientific_governance_and_risk/)
 
 | References | Person | Text |
 |---|---|---|
