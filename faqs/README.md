@@ -1,3 +1,23 @@
+# CDPs
+- [What are Collateralized Debt Positions?](./cdp.md#what-are-collateralized-debt-positions)
+- [How does a CDP work?](./cdp.md#how-does-a-cdp-work)
+- [Who can open a CDP?](./cdp.md#who-can-open-a-cdp)
+- [Does a CDP incur any fees?](./cdp.md#does-a-cdp-incur-any-fees)
+- [What is the Collateralization Ratio?](./cdp.md#what-is-the-collateralization-ratio)
+- [What risks are associated with owning a CDP?](./cdp.md#what-risks-are-associated-with-owning-a-cdp)
+- [What are Common Practices to limit risk?](./cdp.md#what-are-common-practices-to-limit-risk)
+- [What are some benefits of owning a CDP?](./cdp.md#what-are-some-benefits-of-owning-a-cdp)
+- [Why would I want to open a CDP?](./cdp.md#why-would-i-want-to-open-a-cdp)
+- [Are there reasons to avoid opening a CDP?](./cdp.md#are-there-reasons-to-avoid-opening-a-cdp)
+- [What kind of collateral can I stake?](./cdp.md#what-kind-of-collateral-can-i-stake)
+- [Is it possible to pay down Dai from an exchange wallet?](./cdp.md#is-it-possible-to-pay-down-dai-from-an-exchange-wallet)
+- [How much can I over-collateralize?](./cdp.md#how-much-can-i-over-collateralize)
+- [What happens to airdrops when I have locked up my Ether in a CDP?](./cdp.md#what-happens-to-airdrops-when-i-have-locked-up-my-ether-in-a-cdp)
+- [What happens if I want to stake my collateral with another project and also want to open a CDP with it?](./cdp.md#what-happens-if-i-want-to-stake-my-collateral-with-another-project-and-also-want-to-open-a-cdp-with-it)
+- [Do I have to pay back Dai if my collateral goes up in value?](./cdp.md#do-i-have-to-pay-back-dai-if-my-collateral-goes-up-in-value)
+- [Can I use the same CDP after it has been liquidated?](./cdp.md#can-i-use-the-same-cdp-after-it-has-been-liquidated)
+- [How can I verify the solvency of CDP ecosystem?](./cdp.md#how-can-i-verify-the-solvency-of-cdp-ecosystem)
+
 # Stability Fee
 - [What is the Stability Fee?](./stability-fee.md#what-is-the-stability-fee)
 - [When do I have to pay the Stability Fee?](./stability-fee.md#when-do-i-have-to-pay-the-stability-fee)
