@@ -69,14 +69,14 @@ Given that:
 * The Stability Fee is **2.5%**
 * A user pays back a portion of the debt in the amount of **50** **DAI**
 
-The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.020500948 DAI**, or approximately 2 cents USD.
+The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.102846041 DAI**, or approximately 2 cents USD.
 
-When the Dai denominated debt is converted to MKR for payment, the total required to complete the transaction is **0.000205009 MKR**.
+When the Dai denominated debt is converted to MKR for payment, the total required to complete the transaction is **0.001028460 MKR**.
 
 ## A Detailed Example
-The total Governance Debt accrued in the CDP can be calculated like this:
+The total Stability Fee accrued in the CDP can be calculated like this:
 
-> (((Total Stability Debt in DAI * (1 + Current Stability Fee in decimal format)) ^ (Age of Stability Debt in days/365)) - Total Stability Debt in DAI ) = Total Governance Debt owed in DAI
+> (((Total Stability Debt in DAI * (1 + Current Stability Fee in decimal format)) ^ (Age of Stability Debt in days/365)) - Total Stability Debt in DAI ) = Total Stability Fee owed in DAI
 
 When we plug in the values we've already used above we see the fees in DAI owing:
 
@@ -106,7 +106,7 @@ Once the fees have been collected, the smart contract platform transfers the MKR
 Any MKR that resides in the burner wallet before actually being destroyed is permanently out of circulation, as no one can remove funds from that address.
 
 # Where can I see my currently accrued Stability Fee?
-[Old CDP Dashboard](https://dai.makerdao.com/): The outstanding balance owed on a CDP is shown in the Governance Debt column on the DAI Dashboard.
+[Old CDP Dashboard](https://dai.makerdao.com/): The outstanding balance owed on a CDP is shown in the "Governance Debt" column on the DAI Dashboard.
 
 [New CDP Portal](https://cdp.makerdao.com/): The outstanding balance owed on a CDP is shown in the right panel that appears when you click "Payback"
 
