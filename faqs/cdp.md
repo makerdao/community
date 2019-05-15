@@ -6,27 +6,27 @@ CDP usage collectively alters the total supply of Dai. Users create Dai by borro
 CDPs are required to be overcollateralized. The value of collateral in a CDP is required to be higher than the amount of debt which guarantees Dai users that their Dai is valuable and fully backed with real assets.
 
 # How does a CDP work?
-Any user who wishes to borrow Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. The escrowed ETH may be proportionally withdrawn when the user pays back some or all of the loaned Dai. As long as CDP owners maintain the minimum Collateralization Ratio, they may freely withdraw or deposit surplus collateral.
+Any user who wishes to borrow Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. As long as CDP owners maintain the minimum [Collateralization Ratio](https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio), they may freely withdraw or deposit surplus collateral.
 
-After generating their Dai, CDP users can do what whatever they want with it. If a user wishes to reclaim the full amount of their collateral, they will need to pay the Dai back.
+After generating their Dai, CDP users can do what whatever they want with it. If a user wishes to reclaim the full amount of their collateral, they will need to pay the full amount of Dai back.
 
 This cycle of lending/repayment and adding/removing collateral can continue as long as CDP owners choose to keep their positions open. Users can close their CDPs by paying the debt and associated fees in full.
 
 # Who can open a CDP?
-CDPs are permissionless; anyone can create and use one. There are no requirements related to prior borrowing history or cumbersome application processes. The system is not controlled by gatekeepers or intermediaries. Maker CDPs are owned by the Ethereum accounts that create them, and they can be transferred between wallets freely.
+CDPs are permissionless; anyone can create and use one. There are no requirements related to prior borrowing history or cumbersome application processes. The system is not controlled by gatekeepers or intermediaries. Maker CDPs are owned by the Ethereum accounts that create them, and can be transferred between wallets freely.
 
 # Does a CDP incur any fees?
-Yes. CDP owners are required to pay a Stability Fee on their outstanding debt. It is an APY continuously compounded rate.
+Yes. CDP owners are required to pay a Stability Fee on their outstanding debt. It is an [APY continuously compounded rate](https://www.investopedia.com/personal-finance/apr-apy-bank-hopes-cant-tell-difference/).
 
 If a CDP becomes under-collateralized, or ‘unsafe,' it can be Liquidated and have its assets autonomously seized by the Maker System and sold to cover the outstanding debt. This imposes a Liquidation Penalty.
 
 # What is the Collateralization Ratio?
 The Collateralization Ratio is the ratio between the value of collateral users have added to their CDP, and how much DAI they have borrowed.
 
-For example: let's say Ether is worth $100 right now and the Collateralization Ratio is 150%. If I send 1 Ether ($100) into the CDP smart contract, then I am now able to create 66 Dai. This means that, at the current value of Ether, each 100 Dai that I've created is backed by 1.5 Ether collateral. In the Maker system, you don't lose your Ether, but you also no longer control it. The Ether that you sent to the CDP is stuck there until you pay back the 66 Dai (this destroys Dai).
+For example: let's say the Ether locked in one's CDP is worth $150 right now and 50 Dai was borrowed, this means the Collateralization Ratio is 300%. For each 1 Dai, there is $3 worth of collateral value backing it. In the Maker system, your CDP may be liquidated if it falls bellow the [Liquidation Ratio](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), which is the minumum Collateralization Ratio.
 
 # What risks are associated with owning a CDP?
-Owning a CDP is inherently risky. It involves assuming debt and transferring ownership of your assets to a smart contract that can sell your assets in the event of a market downturn. There are four major categories of risks to consider with using a CDP—Market Risks, User Risks, Systemic Risks, and Parameter Variability Risk.
+Owning a CDP is inherently risky. There are four major categories of risks to consider with using a CDP—Market Risks, User Risks, Systemic Risks, and Parameter Variability Risk.
 
 ### Market Risks
 Using a CDP involves assuming debt and transferring ownership of your assets to a smart contract that can sell your assets in the event of a market downturn. Any CDP with debt has a Liquidation Price, the price at which one's CDP is Liquidated. Using a CDP for [leverage](https://www.investopedia.com/terms/l/leverage.asp) introduces another layer of risk. The potential for reward is higher through leverage, but the potential for loss is magnified as well. It is a common practice among users to maintain a high Collateralization Ratio in preparation for market downturns—to avoid liquidation.
@@ -58,7 +58,7 @@ User risks can be mitigated by using small test amounts beforehand, and by thoro
 There are no time limits or minimum repayment schedules involved with owning a CDP. Users are free to draw Dai or add additional collateral, whenever they choose.
 
 **No Credit History Requirements**
-There are no requirements related to prior borrowing history or cumbersome application processes. Anyone can access the system simply by creating an Ethereum address.
+There are no requirements related to prior borrowing history or cumbersome application processes. Anyone with an Ethereum address can access the system.
 
 **No Counterparty**
 Because the system runs as an autonomous smart contract, users are able to interact with a transparent financial system without having to trust a counterparty institution to successfully manage, or release their funds. All transactions are recorded on a public blockchain and are available for anyone to audit.
@@ -100,7 +100,7 @@ All assets held in the system are administered by smart contracts which are not 
 Once your collateral has been staked or escrowed, it is no longer possible to use the same tokens with another contract. At some point in the future, projects _may_ issue deposit tokens that represent collateral escrowed in their systems. It is possible that in the future MakerDao voters may choose to allow using those types of tokens as collateral.
 
 # Do I have to pay back Dai if my collateral goes up in value?
-Users must manually repay their debt if they wish to free the entirety of their collateral. The system does not automatically pay Stability Fees from the appreciating value of collateral inside CDPs.
+Users must manually repay all their debt, including the [Stability Fee](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md#what-is-the-stability-fee), if they wish to free the entirety of their collateral. The system does not automatically pay Stability Fees from the appreciating value of collateral inside CDPs.
 
 As collateral goes up in value, one can withdraw portions of it while maintaining the same Collateralization Ratio. Any collateral above the minimum Collateralization Ratio can be withdrawn, however doing so will push up one's liquidation price thus increasing one's risk. If your collateral value grows, your Collateralization Ratio grows.
 
