@@ -1,4 +1,4 @@
-# Community Development Grants program
+# Community Development Grants Program
 
 The MakerDAO Community grants program is designed to directly support projects that increase Dai adoption, support emerging economies, open up new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation. We allocate grants in the range of 5K - 50K Dai. We distribute blocks of funds as teams reach predetermined milestones.
 
