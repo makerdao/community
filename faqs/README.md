@@ -1,3 +1,5 @@
+- [Glossary of Terms](./glossary.md)
+
 # CDPs
 - [What are Collateralized Debt Positions?](./cdp.md#what-are-collateralized-debt-positions)
 - [How does a CDP work?](./cdp.md#how-does-a-cdp-work)
