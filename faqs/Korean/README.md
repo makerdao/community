@@ -11,3 +11,5 @@ Here you can find several documents in *%LANGUAGE%* describing various aspects o
 ## [Liquidation](liquidation.md)
 
 ## [Governance](governance.md)
+
+Translation is work in progress. Original English versions can be found [here](../).
