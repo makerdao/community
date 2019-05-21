@@ -1,6 +1,6 @@
 # MakerDAO Questions and Answers (FAQ)
 
-Here you can find several documents in %LANGUAGE% describing various aspects of MakerDAO in details:
+Here you can find several documents in *%LANGUAGE%* describing various aspects of MakerDAO in details:
 
 ## [Stablecoin Dai](dai.md)
 
