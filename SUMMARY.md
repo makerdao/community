@@ -7,6 +7,7 @@
   * [Governance](faqs/governance.md)
   * [Liquidation](faqs/liquidation.md)
   * [MakerDAO](faqs/makerdao.md)
+  * [Oracles](faqs/oracles.md)
   * [The Stability Fee](faqs/stability-fee.md)
   * [Glossary of Terms](faqs/glossary.md)
 * [Governance](governance/README.md)
