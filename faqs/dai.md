@@ -72,5 +72,5 @@ Because the system runs as an autonomous smart contract and all transactions are
 
 ## What organizations are using DAI?
 
-A current list can be found in the partnerships section of the [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao) repository.
+A current list can be found in the [Partnerships](https://github.com/makerdao/awesome-makerdao#partnerships) section of the [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao#) repository.
 
