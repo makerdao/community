@@ -1,4 +1,4 @@
-# stability-fee
+# The Stability Fee
 
 ## What is the Stability Fee?
 

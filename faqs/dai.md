@@ -1,4 +1,4 @@
-# dai
+# Dai
 
 ## What is Dai?
 

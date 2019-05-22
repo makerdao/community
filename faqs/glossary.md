@@ -1,4 +1,4 @@
-# glossary
+# Glossary of Terms
 
 * **Bite**: action of triggering a CDP’s liquidation
 * **Boom/Bust Spread**: Discount/premium at which the system sells collateral PETH for DAI

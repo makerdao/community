@@ -1,4 +1,4 @@
-# cdp
+# Collateral Debt Positions
 
 ## What are Collateralized Debt Positions?
 

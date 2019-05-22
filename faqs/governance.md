@@ -1,4 +1,4 @@
-# governance
+# Governance
 
 ## What is Governance?
 

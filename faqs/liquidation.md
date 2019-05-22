@@ -1,4 +1,4 @@
-# liquidation
+# Liquidation
 
 ## What is Liquidation?
 
