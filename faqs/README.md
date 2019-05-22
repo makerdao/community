@@ -1,5 +1,7 @@
 # FAQs
 
+Also available in [français](./fr) | [한국어](./ko)
+
 * [Glossary of Terms](glossary.md)
 
 ## CDPs
