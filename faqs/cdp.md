@@ -2,15 +2,15 @@
 
 ## What are Collateralized Debt Positions?
 
-The MakerDAO Collateralized Debt Position \(CDP\) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the borrowed Dai is returned.
+The MakerDAO Collateralized Debt Position \(CDP\) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the drawn Dai is returned.
 
-CDP usage collectively alters the total supply of Dai. Users create Dai by borrowing it against their collateral and destroy Dai when repaying their debt. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
+CDP usage collectively alters the total supply of Dai. Users create Dai by drawing it against their collateral and destroy Dai when repaying their debt. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
 CDPs are required to be overcollateralized. The value of collateral in a CDP is required to be higher than the amount of debt which guarantees Dai users that their Dai is valuable and fully backed with real assets.
 
 ## How does a CDP work?
 
-Any user who wishes to borrow Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. As long as CDP owners maintain the minimum [Collateralization Ratio](https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio), they may freely withdraw or deposit surplus collateral.
+Any user who wishes to draw Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. As long as CDP owners maintain the minimum [Collateralization Ratio](https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio), they may freely withdraw or deposit surplus collateral.
 
 After generating their Dai, CDP users can do whatever they want with it. If a user wishes to reclaim the full amount of their collateral, they will need to pay the full amount of Dai back.
 
@@ -28,9 +28,10 @@ If a CDP becomes under-collateralized, or ‘unsafe,' it can be liquidated and h
 
 ## What is the Collateralization Ratio?
 
-The Collateralization Ratio is the ratio between the value of collateral users have added to their CDP, and how much DAI they have borrowed.
+The Collateralization Ratio is the ratio between the value of collateral users have added to their CDP, and how much DAI they have drawn.
 
 For example: Let's say the Ether locked in one's CDP is worth $150 right now and 50 Dai was borrowed. This means the Collateralization Ratio is 300%. For each 1 Dai, there is $3 worth of collateral value backing it. In the Maker System, your CDP may be liquidated if it falls below the [Liquidation Ratio](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), which is the minimum Collateralization Ratio.
+
 
 ## What risks are associated with owning a CDP?
 
@@ -74,13 +75,13 @@ User risks can be mitigated by using small test amounts beforehand, and by thoro
 
 There are many reasons why one may use a CDP. Based on user experiences, we have collected a few examples below:
 
-* Leverage: A user may believe that an asset will increase in value soon, so they leverage some of their existing collateral to draw Dai and purchase the asset. Later, if that asset has appreciated, they could sell it for more Dai than they had borrowed and return the original loan while pocketing the difference.
+* **Leverage**: a user may believe that an asset will increase in value soon, so they leverage some of their existing collateral to draw Dai and purchase the asset. Later, if that asset has appreciated, they could sell it for more Dai than they had drawn and return the original loan while pocketing the difference.
 
-* Flexible line of credit: A user wishes to purchase a car. They might determine that traditional financing options do not offer terms or fees as attractive as those they can get through opening a CDP. The user could borrow Dai against their ETH, purchase the car, and make repayments to their debt position on their own schedule.
+* **Flexible line of credit:** a user wishes to purchase a car. They might determine that traditional financing options do not offer terms or fees as attractive as those they can get through opening a CDP. The user could draw Dai against their ETH, purchase the car, and make repayments to their debt position on their own schedule.
 
-* Refinance: A user may owe money on a high-interest loan. Rather than liquidating their assets to cover the payments, they can choose to borrow Dai against their ETH, convert the Dai to fiat and pay down a portion or full amount of their more expensive debt.
+* **Refinance:** a user may owe money on a high-interest loan. Rather than liquidating their assets to cover the payments, they can choose to draw Dai against their ETH, convert the Dai to Fiat and pay down a portion or full amount of their more expensive debt.
 
-It is important to remember that by creating a CDP and borrowing Dai, users are creating debt and taking on risk. E.g., Stability Fee variance and liquidation.
+It is important to remember that by creating a CDP and drawing Dai, users are creating debt and taking on risk. E.g., Stability Fee variance and Liquidation.
 
 ## Are there reasons to avoid opening a CDP?
 
@@ -110,7 +111,7 @@ All assets held in the system are administered by smart contracts that are not c
 
 ## What happens if I want to stake my collateral with another project and also want to open a CDP with it?
 
-Once your collateral has been staked or escrowed, it is no longer possible to use the same tokens with another contract. At some point in the future, projects _may_ issue deposit tokens that represent collateral escrowed in their systems. It is possible that in the future MakerDao voters may choose to allow using those types of tokens as collateral.
+Once your collateral has been staked or escrowed, it is no longer possible to use the same tokens with another contract. At some point in the future, projects _may_ issue deposit tokens that represent collateral escrowed in their systems. It is possible that in the future MakerDAO voters may choose to allow using those types of tokens as collateral.
 
 ## Do I have to pay back Dai if my collateral goes up in value?
 
@@ -120,7 +121,7 @@ As collateral goes up in value, one can withdraw portions of it while maintainin
 
 ## Can I use the same CDP after it has been liquidated?
 
-Yes, so long as there is collateral inside of the CDP you can borrow Dai. Liquidation does not close out the CDP; you can add collateral and start again.
+Yes, so long as there is collateral inside of the CDP you can draw Dai. Liquidation does not close out the CDP; you can add collateral and start again.
 
 ## How can I verify the solvency of the CDP ecosystem?
 
