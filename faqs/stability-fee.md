@@ -20,7 +20,7 @@ The mechanism behind the fee is a simple one; as the market demand for Dai _decr
 
 ## Why does the Stability Fee Change?
 
-When it is observed that Dai is consistently trading above or underneath the target price of $1, this may signal an imbalance between macro Dai supply and Dai demand. The Stability Fee is a rate which primarily affects Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
+When it is observed that Dai is consistently trading above or underneath the target price of $1, this may signal an imbalance between the macro Dai supply and demand for Dai. The Stability Fee is a rate that primarily affects the Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
 
 If Dai trades consistently above $1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
 
@@ -30,7 +30,7 @@ Unfortunately, it is not possible to perfectly predict the impact of a fee chang
 
 ## How is the Stability Fee calculated?
 
-The Stability Fee is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDP's. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
+The Stability Fee is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDPs. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
 
 Let's look at the various results from applying different types of compounding structures, given a debt of 100,000 DAI that has been held for 365 days.
 
@@ -59,22 +59,22 @@ Where:
 Calculated with annual compounding, the future Stability Fee is:
 
 ```text
-100,000 × (1 + (2.5% / 1)) ^ (1 × 1) - 100,000 = 2500 DAI
+100,000 × (1 + (12.5% / 1)) ^ (1 × 1) - 100,000 = 12,500 DAI
 ```
 
 Calculated with monthly compounding the future Stability Fee is:
 
 ```text
-100,000 × (1 + (2.5% / 12)) ^  (12 × 1)  - 100,000 = 2528.85 DAI
+100,000 × (1 + (12.5% / 12)) ^  (12 × 1)  - 100,000 = 13,241.60 DAI
 ```
 
 Calculated with continuous compounding the future Stability Fee is:
 
 ```text
-100,000 × 2.7183... ^ (2.5% × 1) - 100,000 = 2,531.51 DAI
+100,000 × 2.7183... ^ (12.5% × 1) - 100,000 = 13,314.94 DAI
 ```
 
-The difference between annual and continuous compounding fees on a 100,000 DAI debt, at 2.5% APY, works out to about **31.51 DAI**. Let's take a look at a couple more examples of how a stability fee gets calculated in practice.
+The difference between annual and continuous compounding fees on a 100,000 DAI debt, at 12.5% APY, works out to about **814.94 DAI**. Let's take a look at a couple more examples of how a stability fee gets calculated in practice.
 
 ### A Simple Example
 
@@ -82,13 +82,13 @@ Given that:
 
 * A CDP exists with a Stability Debt of **1000** **DAI**
 * The CDP has been open for **30** **days**
-* The current value of an MKR token is **100** **DAI**
-* The Stability Fee is **2.5%**
+* The current value of an MKR token is **1000** **DAI**
+* The Stability Fee is **5%**
 * A user pays back a portion of the debt in the amount of **50** **DAI**
 
-The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.102846041 DAI**, or approximately 2 cents USD.
+The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.208 DAI**, or approximately 21 cents USD.
 
-When the Dai denominated debt is converted to MKR for payment, the total required to complete the transaction is **0.001028460 MKR**.
+The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR. 
 
 ### A Detailed Example
 
@@ -99,32 +99,32 @@ The total Stability Fee accrued in the CDP can be calculated like this:
 When we plug in the values we've already used above we see the fees in DAI owing:
 
 ```text
-(1000 * (1 + 0.005) ^ (30÷365)) - 1000 = 0.410018954 DAI
+(1000 * (1 + 0.05) ^ (30÷365)) - 1000 = 4.018 DAI
 ```
 
-Now that we have the total fee in DAI, we can convert that to MKR. Assuming an exchange rate where 1 MKR is worth 100 DAI:
+Now that we have the total fee in DAI, we can convert that to MKR. Assuming an exchange rate where 1 MKR is worth 1000 DAI:
 
 ```text
-0.410958904 ÷ 100 = 0.004109589 MKR
+4.018 ÷ 1000 = 0.004018 MKR
 ```
 
 And, as the user is repaying 50 DAI, they will be expected to pay the fee accrued on that amount:
 
 ```text
-(50 * (1 + 0.005) ^ (30÷365)) - 50 = 0.020500948 DAI
+(50 * (1 + 0.05) ^ (30÷365)) - 50 = 0.2009 DAI
 ```
 
 Now converted to MKR:
 
 ```text
-0.020500948 ÷ 100 = 0.000205009 MKR
+0.2009 ÷ 1000 = 0.000209 MKR
 ```
 
-The user will need **0.000205009 MKR** in their wallet to cover the accrued fee on **50 DAI** after **30 days**.
+The user will need **0.0002009 MKR** in their wallet to cover the accrued fee on **50 DAI** after **30 days**.
 
 After the transaction has been completed, the total amount of fees remaining in the CDP will be:
 
-0.004109589 - 0.000205009 = **0.00390458 MKR**
+0.004018 - 0.000209 = **0.003809 MKR**
 
 ## What does the system do with the collected fees?
 
@@ -138,28 +138,28 @@ Any MKR that resides in the burner wallet before actually being destroyed is per
 
 [New CDP Portal](https://cdp.makerdao.com/): The outstanding balance owed on a CDP is shown in the right panel that appears when you click "Payback"
 
-There are also a number of third-party tools which can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
+There are also a number of third-party tools that can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
 
 ## How does the fee alter supply and demand?
 
-An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivise the additional creation of Dai, acting as a policy tool to tweak supply growth.
+An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 ## How do I calculate the impact of variable Stability Fees?
 
 You can use this simplified formula to determine accrued Stability Fees:
 
-> \(\(Total Stability Debt in DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Stability Debt in days/365\)\) - Total Stability Debt in DAI \) = Total Governance Debt owed in DAI
+> \(\(Total Stability Debt in DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Stability Debt in days/365\)\) - Total Stability Debt in DAI\) = Total Governance Debt owed in DAI
 
-The fees on a 10,000 DAI debt over the course of 31 days at .5%:
+The fees on a 10,000 DAI debt over the course of 31 days at 5.0%:
 
 ```text
-(10000 x (2.7183...) ^ (0.5%*(31/365)) - 10000 = 4.2474 DAI
+(10000 x (2.7183...) ^ (5.0%*(31/365)) - 10000 = 42.474 DAI
 ```
 
-And at 2.5%:
+And at 10.0%:
 
 ```text
-(10000 x (2.7183...) ^ (2.5%*(31/365)) - 10000 = 21.2554 DAI
+(10000 x (2.7183...) ^ (10.0%*(31/365)) - 10000 = 85.2937 DAI
 ```
 
 ## How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?
@@ -184,13 +184,13 @@ The best risk management strategy, though, is to get involved with the governanc
 
 If a rate change vote fails, it may result in a drop in the price of Dai if the current imbalance continues. If it persists, then the only choice left to the Foundation may be to trigger an Emergency Shutdown to ensure the economic security of Dai holders.
 
-The voting mechanism is the primary ways for the community to manage the peg, through the fine-tuning of the policy tools. There are no 'backdoors', no one can change Risk Parameters in the system unilaterally.
+The voting mechanism is the primary way for the community to manage the peg, through the fine-tuning of the policy tools. There are no "backdoors," no one can change Risk Parameters in the system unilaterally.
 
 ## How often will the Stability Fee change?
 
 It is not possible to schedule or make predictions about when the fee should change or what the new rates could be.
 
-The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how far the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
+The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how significantly the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
 
 Due to the risk of manipulation, there will always need to be some level of discretion and signal processing required to determine exactly how Stability Fees should be adjusted. Fully automatic and algorithmic processes are vulnerable to manipulation and will need to be carefully considered.
 

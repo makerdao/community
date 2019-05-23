@@ -21,7 +21,7 @@
 * [What happens if I want to stake my collateral with another project and also want to open a CDP with it?](cdp.md#what-happens-if-i-want-to-stake-my-collateral-with-another-project-and-also-want-to-open-a-cdp-with-it)
 * [Do I have to pay back Dai if my collateral goes up in value?](cdp.md#do-i-have-to-pay-back-dai-if-my-collateral-goes-up-in-value)
 * [Can I use the same CDP after it has been liquidated?](cdp.md#can-i-use-the-same-cdp-after-it-has-been-liquidated)
-* [How can I verify the solvency of CDP ecosystem?](cdp.md#how-can-i-verify-the-solvency-of-cdp-ecosystem)
+* [How can I verify the solvency of the CDP ecosystem?](cdp.md#how-can-i-verify-the-solvency-of-the-cdp-ecosystem)
 
 ## Stability Fee
 
@@ -79,7 +79,7 @@
 * [How can I vote?](governance.md#how-can-i-vote)
 * [How Do I know my vote was placed?](governance.md#how-do-i-know-my-vote-was-placed)
 * [If the vote has already started can I still participate?](governance.md#if-the-vote-has-already-started-can-i-still-participate)
-* [Can I change my vote once I've placed it?](governance.md#can-i-change-my-vote-once-ive-placed-it)
+* [Can I change my vote once I have placed it?](governance.md#can-i-change-my-vote-once-i-have-placed-it)
 * [How is the voting calculated?](governance.md#how-is-the-voting-calculated)
 * [Is there more than one type of vote?](governance.md#is-there-more-than-one-type-of-vote)
 * [What do people vote on?](governance.md#what-do-people-vote-on)
@@ -96,13 +96,13 @@
 * [Why do I need to set up a proxy contract?](./#why-do-i-need-to-set-up-a-proxy-contract)
 * [What am I granting permissions for, to whom, and why?](./#what-am-i-granting-permissions-for-to-whom-and-why)
 * [Does it cost gas every time I vote?](governance.md#does-it-cost-gas-every-time-i-vote)
-* [How much gas will I need, where does it come from—hot wallet? cold wallet?](governance.md#how-much-gas-will-i-need-where-does-it-come-fromhot-wallet-cold-wallet)
+* [How much gas will I need, and where does it come from; the hot wallet or the cold wallet?](governance.md#how-much-gas-will-i-need-and-where-does-it-come-from-the-hot-wallet-or-the-cold-wallet)
 * [How many transactions do I have to sign?](governance.md#how-many-transactions-do-i-have-to-sign)
 * [What exactly does the link between hot and cold wallets control?](governance.md#what-exactly-does-the-link-between-hot-and-cold-wallets-control)
 * [Who controls my MKR when it is locked?](governance.md#who-controls-my-mkr-when-it-is-locked)
 * [How do I know my MKR is locked up?](governance.md#how-do-i-know-my-mkr-is-locked-up)
 * [How do I retrieve my MKR?](governance.md#how-do-i-retrieve-my-mkr)
-* [What does a withdrawal do to my previous votes?](governance.md#what-does-a-withdrawal-do-to-my-previous-votes)
+* [How does a withdrawal affect my previous votes?](governance.md#how-does-a-withdrawal-affect-my-previous-votes)
 * [Do I need to unlock immediately after voting?](governance.md#do-i-need-to-unlock-immediately-after-voting)
 * [Can I send my MKR from my cold wallet to another address while it is locked? What happens if I do that?](governance.md#can-i-send-my-mkr-from-my-cold-wallet-to-another-address-while-it-is-locked-what-happens-if-i-do-that)
 * [What happens if I send more MKR to my cold wallet after I link it?](governance.md#what-happens-if-i-send-more-mkr-to-my-cold-wallet-after-i-link-it)
