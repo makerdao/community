@@ -2,6 +2,12 @@
 
 * [Community Development at MakerDAO](README.md)
 * [FAQs](faqs/README.md)
+  * [Korean](faqs/ko/README.md)
+    * [Collateral Debt Positions](faqs/ko/cdp.md)
+    * [Dai](faqs/ko/dai.md)
+    * [Governance](faqs/ko/governance.md)
+    * [Liquidation](faqs/ko/liquidation.md)
+    * [The Stability Fee](faqs/ko/stability-fee.md)
   * [Collateral Debt Positions](faqs/cdp.md)
   * [Dai](faqs/dai.md)
   * [Governance](faqs/governance.md)
