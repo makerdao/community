@@ -1,15 +1,17 @@
-# MakerDAO Questions and Answers (FAQ)
+# MakerDAO, Domande Frequenti (FAQ) e Risposte
 
-Here you can find several documents in *%LANGUAGE%* describing various aspects of MakerDAO in details:
 
-## [Stablecoin Dai](dai.md)
+In questa pagina sono disponibili diverse guide in Italiano che spiegano in dettaglio i vari aspetti del sistema MakerDao:
 
-## [Collateralized Debt Positions (CDP)](cdp.md)
+## [La cryptovaluta stabile (stablecoin) Dai](dai.md)
 
-## [Stability Fee](stability-fee.md)
+## [I CDP (Collateralized Debt Positions)](cdp.md)
 
-## [Liquidation](liquidation.md)
+## [Il tasso di interesse (Stability Fee)](stability-fee.md)
 
-## [Governance](governance.md)
+## [Le liquidazioni (Liquidations)](liquidation.md)
 
-Translation is work in progress. Original English versions can be found [here](../).
+## [L'amministrazione (Governance) di MakerDao](governance.md)
+
+
+Il processo di traduzione dall'inglese è in corso d'opera. La versione originale in inglese è disponibile [here](../).
