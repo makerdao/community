@@ -80,7 +80,7 @@ The difference between annual and continuous compounding fees on a 100,000 DAI d
 
 Given that:
 
-* A CDP exists with a Stability Debt of **1000** **DAI**
+* A CDP exists with a debt of **1000** **DAI**
 * The CDP has been open for **30** **days**
 * The current value of an MKR token is **1000** **DAI**
 * The Stability Fee is **5%**
@@ -94,7 +94,7 @@ The Dai denominated debt must now be converted to MKR for payment. The CDP owner
 
 The total Stability Fee accrued in the CDP can be calculated like this:
 
-> \(\(\(Total Stability Debt in DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Stability Debt in days/365\)\) - Total Stability Debt in DAI \) = Total Stability Fee owed in DAI
+> \(\(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI \) = Total Stability Fee owed in DAI
 
 When we plug in the values we've already used above we see the fees in DAI owing:
 
@@ -117,14 +117,14 @@ And, as the user is repaying 50 DAI, they will be expected to pay the fee accrue
 Now converted to MKR:
 
 ```text
-0.2009 ÷ 1000 = 0.000209 MKR
+0.2009 ÷ 1000 = 0.0002009 MKR
 ```
 
 The user will need **0.0002009 MKR** in their wallet to cover the accrued fee on **50 DAI** after **30 days**.
 
 After the transaction has been completed, the total amount of fees remaining in the CDP will be:
 
-0.004018 - 0.000209 = **0.003809 MKR**
+0.004018 - 0.0002009 = **0.0038171 MKR**
 
 ## What does the system do with the collected fees?
 
@@ -148,7 +148,7 @@ An increase in the Stability Fee results in a higher cost of borrowing for CDP u
 
 You can use this simplified formula to determine accrued Stability Fees:
 
-> \(\(Total Stability Debt in DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Stability Debt in days/365\)\) - Total Stability Debt in DAI\) = Total Governance Debt owed in DAI
+> \(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI\) = Total Stability Debt owed in DAI
 
 The fees on a 10,000 DAI debt over the course of 31 days at 5.0%:
 
