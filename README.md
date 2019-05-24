@@ -12,6 +12,14 @@ One of our most important initiatives is the identifying and incentivizing of th
 
 We believe that community members, like you, are incredibly important to MakerDAO and play a valuable role in building a stronger ecosystem. The Community Development Group wants to provide the resources you need to increase Dai adoption and help us bring stability and financial inclusion to the under-banked. To do this, the we are making available a micro-granting program dedicated to helping community members facilitate meetups in their communities.
 
+### [Governance](governance/)
+
+In bootstrapping Governance, we set up this section to accomodate and hold helpful resources such as transcripts of the meetings, historic summaries, and more. 
+
+### [FAQs](faqs/)
+
+We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
+
 ### How to get involved
 
 If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [\#community-development](https://chat.makerdao.com/channel/community-development) channel and introduce yourself.
