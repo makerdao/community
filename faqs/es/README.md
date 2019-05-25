@@ -1,6 +1,6 @@
-# MakerDAO Questions and Answers (FAQ)
+# Preguntas más frecuentes de MakerDAO (FAQ)
 
-Here you can find several documents in *%LANGUAGE%* describing various aspects of MakerDAO in details:
+Aquí puedes encontrar varios documentos en español que describen varios aspectos de MakerDAO en detalle:
 
 ## [Stablecoin Dai](dai.md)
 
@@ -12,4 +12,4 @@ Here you can find several documents in *%LANGUAGE%* describing various aspects o
 
 ## [Governance](governance.md)
 
-Translation is work in progress. Original English versions can be found [here](../).
+El trabajo de traducción está en proceso. Las versiones originales en Inglés pueden encontrarse [aquí](../).
