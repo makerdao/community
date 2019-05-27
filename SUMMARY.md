@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Community Development at MakerDAO](README.md)
+* [Community Meetups](meetups/README.md)
+  * [Español](meetups/meetup-diy-kit-es.md)
+    * [Kit para Reuniones](meetups/meetup-diy-kit-es.md)
+  * [Meetup DIY Kit](meetups/meetup-diy-kit-en.md)
 * [FAQs](faqs/README.md)
   * [Español](faqs/es/README.md)
     * [Liquidación](faqs/es/liquidation.md)
@@ -39,10 +43,7 @@
     * [Governance and Risk Meeting: Ep. 32 \(April 25 - 2019\)](governance/transcripts/governance-and-risk-meeting-ep.-32.md)
     * [Governance and Risk Meeting: Ep. 31 \(April 18 - 2019\)](governance/transcripts/governance-and-risk-meeting-ep.-31.md)
     * [Governance and Risk Meeting: Ep. 30 \(April 11 - 2019\)](governance/transcripts/governance-and-risk-meeting-ep.-30.md)
-* [Community Meetups](meetups/README.md)
-  * [meetup-diy-kit](meetups/meetup-diy-kit.md)
-  * [meetup-diy-kit-es](meetups/meetup-diy-kit-es.md)
-  * [meetup-diy-kit-en](meetups/meetup-diy-kit-en.md)
 * [Grants Program](grants/README.md)
   * [Community Development Grantee Playbook](grants/grantee-playbook.md)
-
+* [Hackathons and Bounties](hackathon/README.md)
+  * [Hackathon Funding Requirements](hackathon/requirements.md)
