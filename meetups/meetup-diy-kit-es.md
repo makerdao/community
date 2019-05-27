@@ -1,31 +1,10 @@
-# meetup-diy-kit-es
-
-## **Kit para Reuniones**
+# **Kit para Reuniones**
 
 Este documento pretende ser una guía sobre cómo pueden organizarse los miembros de la comunidad MakerDAO, encontrar financiamiento y organizar una Reunión \(Meetup\) para la Comunidad. Esto cubre cuatro pasos principales: Planificación y Organización, Solicitando fondos, Organizar el Meetup y el Proceso Post-Evento. Solicitar fondos de la Iniciativa de Desarrollo de la Comunidad es opcional, siéntase libre de usar esto como un recurso general.
 
-### Tabla de contenido
+## **Información General**
 
-* [Información-General](meetup-diy-kit-es.md#Información-General)
-  * [Metas](meetup-diy-kit-es.md#Metas)
-  * [Pautas Temáticas](meetup-diy-kit-es.md#Pautas-Temáticas)
-  * [¿Qué es MakerDAO y Quiénes son nuestra Comunidad?](meetup-diy-kit-es.md#¿Qué-es-MakerDAO-y-Quiénes-son-nuestra-Comunidad)
-* [Resumen General del Proceso](meetup-diy-kit-es.md#Resumen-General-del-Proceso)
-  * [Planificación y Organización](meetup-diy-kit-es.md#Planificación-y-Organización)
-  * [Solicitando fondos](meetup-diy-kit-es.md#Solicitando-fondos)
-  * [Organizar el Meetup](meetup-diy-kit-es.md#Organizar-el-Meetup)
-  * [Proceso Post-Evento](meetup-diy-kit-es.md#Proceso-Post-Evento)
-* [Guías y Recursos](meetup-diy-kit-es.md#Guías-y-Recursos)
-  * [Recursos](meetup-diy-kit-es.md#Recursos)
-  * [Guía de Tipos de Formato](meetup-diy-kit-es.md#Guía-de-Tipos-de-Formato)
-  * [Guía de Promoción y Marketing](meetup-diy-kit-es.md#Guía-de-Promoción-y-Marketing)
-  * [Guía de Presupuesto](meetup-diy-kit-es.md#Guía-de-Presupuesto)
-* [Formulario del Meetup de la Comunidad](meetup-diy-kit-es.md#Formulario-del-Meetup-de-la-Comunidad)
-* [Formulario de Comentarios](meetup-diy-kit-es.md#Formulario-de-Comentarios)
-
-### **Información General**
-
-#### **Metas**
+### **Metas**
 
 ¿Qué estamos tratando de lograr con los Meetups Guiados por la Comunidad?
 
@@ -34,13 +13,13 @@ Este documento pretende ser una guía sobre cómo pueden organizarse los miembro
 
 Creemos que los miembros de la comunidad, como tú, son increíblemente importantes para el éxito de MakerDAO y juegan un rol invaluable en la construcción de un ecosistema más sólido. El Grupo de Desarrollo de la Comunidad quiere proporcionarte los recursos que necesitas para incrementar la adopción de Dai y ayudarnos a traer estabilidad e inclusión financiera a los que no tienen acceso fácil a la banca. Para hacer esto, se está colocando a disposición una bolsa opcional de fondos para ayudar a los miembros de la comunidad interesados en organizar meetups.
 
-#### **Pautas Temáticas**
+### **Pautas Temáticas**
 
 Hay muchas cosas a tener en mente cuando se planea organizar un meetup para la comunidad. Primeramente, estas meetups **no son sobre especulación del precio de tokens o exageraciones generales**. La meta principal de organizar meetups es educar a las personas sobre MakerDAO y la narrativa general sobre finanzas descentralizadas. Cuando hablamos sobre el token MKR, la meta debería ser educar a los asistentes sobre el propósito y la utilidad del token. Las presentaciones deben enfocarse en el panorama general, aspectos específicos del ecosistema MakerDAO, cómo MakerDAO y Dai interactúan con finanzas abiertas, gobernanza descentralizada, u otros tópicos relevantes.
 
 **“**Si quieres construir un barco, no empieces por buscar madera, cortar tablas o distribuir el trabajo. Evoca primero en los hombres y mujeres el anhelo del mar libre y ancho”- **Antoine de Saint-Exupery**
 
-#### **¿Qué es MakerDAO y Quiénes son nuestra Comunidad?**
+### **¿Qué es MakerDAO y Quiénes son nuestra Comunidad?**
 
 **MakerDAO** es una organización descentralizada dedicada a traer estabilidad a la cripto economía. Maker está desbloqueando el poder de las finanzas descentralizadas para todos creando una plataforma inclusiva para el empoderamiento económico — permitiendo que todos tengan acceso igualitario al mercado financiero global. Maker es una línea de crédito que emite **Dai**\(⬙\) , la primera stablecoin descentralizada del mundo en la blockchain de Ethereum. Dai elimina la volatilidad a través de un sistema autónomo de smart contracts e incentivos, específicamente diseñados para responder a las dinámicas del mercado. Como un token de gobernanza, **MKR** es usado por los MKR holders para votar por la administración de riesgo y lógica de negocios del sistema Maker. Un buen punto de inicio para más información:[ Nuestro website ](https://makerdao.com/)y [Awesome-MakerDAO repository](https://github.com/makerdao/awesome-makerdao/blob/master/README.md) .
 
@@ -48,17 +27,17 @@ La Comunidad incluye a Dai y MKR holders y usuarios, participantes activos en el
 
 Nuestra comunidad es muy amplia, hay varios Canales Oficiales de Comunicación los cuales son usados para discusiones públicas y trabajo en redes.
 
-### **Resumen General del Proceso**
+## **Resumen General del Proceso**
 
 Parte de la cultura principal de MakerDAO es construir nuestra comunidad y ayudarla a impulsar la educación, participación y el cambio, al brindarles recursos como estos documentos. Esta sección es un resumen de cómo los miembros de la comunidad MakerDAO pueden organizar, encontrar fondos y organizar los Meetups para la Comunidad.
 
 Hay cuatros pasos principales en el proceso: Planificación y Organización, Solicitando fondos, Organizar el Meetup y el Proceso Post-Evento.
 
-#### **Planificación y Organización**
+### **Planificación y Organización**
 
 Crear un meetup para la comunidad requiere bastante planificación y organización. Hemos trabajado en ello por un buen tiempo aquí en Maker, a continuación encontrarás muchos puntos que necesitas considerar antes de establecer la fecha y comience difundir la información sobre su Meetup local.
 
-#### Algunos pasos fundamentales en la organización de un evento:
+### Algunos pasos fundamentales en la organización de un evento:
 
 * Preparar una agenda claramente delineada para la reunión.
 * Crear un Presupuesto.
@@ -68,7 +47,7 @@ Crear un meetup para la comunidad requiere bastante planificación y organizaci�
 
 A continuación hemos preparado links de varias guías que elaboramos para ayudarte a planificar y organizar el evento.
 
-#### **Solicitando fondos**
+### **Solicitando fondos**
 
 El Grupo de Desarrollo de la Comunidad ha asignado fondos para ayudar a los miembros de nuestra comunidad a realizar cosas como organizar meetups locales. Alentamos a los miembros a realizar meetups independientes ya que son una parte importante y divertida del crecimiento de MakerDAO.
 
@@ -91,7 +70,7 @@ Si tu Formulario de Meetup de la Comunidad es aceptada , se requiere lo siguient
 3. Llene y envíe el [Formulario de Comentarios](https://airtable.com/shrcvkjoLGtrVAqvB). **Los beneficiarios que no llenen este formulario no serán elegibles para financiamiento futuro**.
 4. Preferimos encarecidamente que los eventos sean gratuitos, pero si planeas cobrar en la puerta, por favor revela el monto que anticipas recolectar, en la sección “notas adicionales” de la Grand Request Checklist. Por favor escribe el monto actual recolectado en el formulario de Comentarios.
 
-### **Organizar el Meetup**
+## **Organizar el Meetup**
 
 Una vez tengas tu plan del meetup listo, oradores confirmados, el lugar de celebración y el evento haya sido promocionado, es hora de la ejecución.
 
@@ -107,21 +86,21 @@ Una vez tengas tu plan del meetup listo, oradores confirmados, el lugar de celeb
 * Disfruta el evento, conoce gente y cree lazos con los intereses comunes que todos compartimos.
 * Al final, siempre es positivo y respetuoso mencionar y agradecer a los patrocinadores, organizadores, oradores y a los asistentes por hacer que el meetup sea un éxito.
 
-### **Proceso Post-Evento**
+## **Proceso Post-Evento**
 
 Como parte de los requisitos para que se apruebe el financiamiento, requerimos que los organizadores proporcionen información sobre su evento posterior al hecho en un [Formulario de Comentarios](https://airtable.com/shrcvkjoLGtrVAqvB). Este paso se realiza para ayudarnos a entender mejor el impacto de estos eventos y que podemos hacer para ayudarlos a mejorar.
 
 Como se mencionó en el punto \#3, es recomendable para los organizadores leer completamente el Formulario de Comentarios antes de que comience el evento así ellos pueden estar preparados para responder las preguntas luego de que el evento concluya.
 
-## **Guías y Recursos**
+# **Guías y Recursos**
 
-### **Recursos**
+## **Recursos**
 
 * [Archivos de diseño](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
 * [Ejemplos de presentaciones](https://github.com/makerdao/awesome-makerdao#videos)
 * [Diapositivas utilizables y Decks de presentación](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
 
-### **Guía de Tipos de Formato**
+## **Guía de Tipos de Formato**
 
 Esta es una lista no exhaustiva de sugerencias para los diferentes tipos de componentes básicos de las Meetup de Maker que un miembro de la comunidad puede utilizar \(híbridos de estos tipos de eventos también son bienvenidos\):
 
@@ -159,7 +138,7 @@ Esta es una lista no exhaustiva de sugerencias para los diferentes tipos de comp
 5. **Otras Ideas** 1. Juegos 1. Rifas 1. Subastas en Dai
    * Iniciativa de Donación Correspondiente
 
-### **Guía de Promoción y Marketing**
+## **Guía de Promoción y Marketing**
 
 Tan pronto como hayas elegido el lugar para el evento y asegurado la fecha, asegúrate de registrar y promocionar el meetup tan pronto como sea posible para que los demás estén pendientes de ello. Comparte el nuevo meetup creado en tus redes así como con la Comunidad de MakerDAO.
 
@@ -187,7 +166,7 @@ Lugares locales para promover tu evento:
 * Espacios de Trabajo
 * Cafeterías
 
-#### **Configurando la Página de tu Evento**
+### **Configurando la Página de tu Evento**
 
 Para que las personas estén informadas de tu evento, necesitas crear una página del evento. Una página del Evento tiene algunos elementos fundamentales.
 
@@ -199,7 +178,7 @@ Para que las personas estén informadas de tu evento, necesitas crear una págin
 4. Detalles adicionales \(así como “¿Cómo encontrarnos?”\)
    * Esto va a variar dependiendo del evento. En pocas palabras, agregue cualquier información adicional única a su evento que un asistente potencial pueda encontrar útil.
 
-#### **Algunos Consejos**
+### **Algunos Consejos**
 
 * Siempre actualice sus páginas del evento con cualquier cambio que pueda ocurrir.
 * Recomendamos que llegues a los participantes con recordatorios, actualizaciones o adelantos.
@@ -207,21 +186,21 @@ Para que las personas estén informadas de tu evento, necesitas crear una págin
 * Incentivar a los miembros para que traigan a sus amigos. Repartir premios y crear competencias para que los participantes compartan en Facebook, Twitter, etc…
 * Colaborar con otros organizadores de Meetups y realizar eventos juntos. Los grupos deben complementarse.
 
-#### **Recursos Adicionales**
+### **Recursos Adicionales**
 
 [Guía Meetup.com’s para promocionar tu Meetup.](https://help.meetup.com/hc/es/articles/360002567611-Guía-para-organizadores-de-Meetup)
 
-### **Guía de Presupuesto**
+## **Guía de Presupuesto**
 
 Esta es una guía sobre cómo administrar la parte financiera de la organización de un meetup. Antes de que comience, queremos que los miembros de la comunidad tengan una mentalidad específica en lo que se refiere a costos — Es importante que siempre se aspire a alcanzar el máximo valor por el dinero que estás gastando. Si se te otorgan los honorarios para cubrir los gastos del evento, será basado en el [Formulario del Meetup de la Comunidad ](https://airtable.com/shrXdapuRyxIXjy1N)que nos envíes de antemano. Aquí hay algunas pautas sobre cómo debes presupuestar el evento.
 
-#### **El espacio**
+### **El espacio**
 
 El tipo de evento que estás organizando determina los requisitos del espacio. Si es posible, siempre trata de conseguir un lugar gratis, o uno que pueda ser ofrecido como parte de un patrocinio secundario. Un ejemplo de esto puede ser que tu universidad te otorgue un salón de conferencias gratis, como parte de un trato que podrías haber negociado con ellos. Hay varias estrategias para determinar la mejor manera de conseguir un espacio.
 
 Sin embargo, si el tipo de evento requiere equipos o una locación específica puede valer la pena pagar un alquiler.
 
-#### **El equipo**
+### **El equipo**
 
 Lo primero que debes preguntarte es qué tipo de equipos necesitas? La mayoría de los meetups implican algún tipo de presentación. Si este es el caso de tu evento, por favor asegúrate de ver si el local tiene el equipo disponible para facilitar esto \(por ejemplo: una computadora, proyector y pantalla\). Si el evento es relativamente pequeño probablemente puedas realizarlo sin micrófono. De otra manera usualmente es una buena idea tener algún instrumento de amplificación de voz. Si el lugar tiene un micrófono, probablemente también tienen los altavoces y el sistema para usarlos.
 
@@ -229,7 +208,7 @@ Idealmente, debes querer encontrar un lugar que tenga todas estas cosas incluíd
 
 Más allá de eso, queda a tu propio juicio decidir lo que necesitas comprar. Si tienes la intención de realizar meetups en el mismo lugar en el futuro, entonces podría ser una buena idea llegar a un acuerdo donde el lugar pueda guardar cualquier equipo que tú hayas comprado. Puedes usar esto para negociar un precio de alquiler más económico, o simplemente establecer una buena relación con el lugar.
 
-#### **La comida y las Bebidas**
+### **La comida y las Bebidas**
 
 El costo de la comida y bebidas depende mayormente de la cantidad de personas en el evento, cuánto tiempo durará el evento y el tipo de comidas y bebidas. Ya que esto puede variar ampliamente entre diferentes meetups, el mejor consejo que podemos dar es que las personas empleen su mejor criterio.
 
@@ -237,15 +216,15 @@ Cuánto más largo sea el meetup, sería más razonable brindar comida ligera qu
 
 No olvides revisar si el lugar permite comidas y bebidas!
 
-#### **Anuncios y Materiales impresos**
+### **Anuncios y Materiales impresos**
 
 Generalmente, no cubrimos fondos para anuncios y materiales impresos. Los medios digitales y comunicaciones son lo suficientemente generalizados, tanto así que el papel se ha vuelto más complicado para usar. Agendas digitales y otros volantes son más eficientes. Salva los árboles!
 
-### **Formulario del Meetup de la Comunidad**
+## **Formulario del Meetup de la Comunidad**
 
 Llena y envía el [Formulario del meetup de la comunidad](https://airtable.com/shrXdapuRyxIXjy1N) if you are interested in [Solicitando fondos](meetup-diy-kit-es.md#Solicitando-fondos)
 
-#### _Questions on the form:_
+### _Questions on the form:_
 
 1. Cual es tu Nombre ?
 2. Cual es tu Email ? 
@@ -272,19 +251,19 @@ Llena y envía el [Formulario del meetup de la comunidad](https://airtable.com/s
 23. Por favor, comparti links, videos, blog post o cualquier otro material relacionado con tu experiencia previa en meetups.
 24. Por favor manda tu request Network Invoice al siguiente Payer Address Payer Address: 
 
-## **Formulario de Comentarios**
+# **Formulario de Comentarios**
 
 Llena y envia [**Formulario de Feedback**](https://airtable.com/shrcvkjoLGtrVAqvB) despues de tu evento.
 
-### _Preguntas en el Formulario:_
+## _Preguntas en el Formulario:_
 
-#### Identificacion
+### Identificacion
 
 1. Cuales tu Nombre y Mail ?
 2. Cual es el nombre del Evento ?
 3. cual es e nombre del evento?
 
-#### KPIs
+### KPIs
 
 1. Cuantas personas asistieron ?
 2. Cuantas personas estaban inscriptas originalmente ?
@@ -293,23 +272,22 @@ Llena y envia [**Formulario de Feedback**](https://airtable.com/shrcvkjoLGtrVAqv
 5. Cuanto tiempo te llevo organizar todo ?
 6. Cual fue el costo total del evento ?
 
-#### Audiencia y Cobertura
+### Audiencia y Cobertura
 
 1. Cual fue el feedback de los asistentes ?
 2. Por favor, comparti links de posteos en social media del evento, tanto tuyos como de los asistentes.
 3. Por favor, comparti links de videos del evento.
 
-#### Locacion
+### Locacion
 
 1. El lugar era lo suficientemente grande ?
 2. Usarias de nuevo este lugar en un futuro ?
 
-#### Como mejorar el proceso
+### Como mejorar el proceso
 
 1. Algo salio mal o no estuvo dentro de los planes durante el evento ?
 2. Que harias diferente si pudieras repetir el evento ?
 
-#### Planes a futuro
+### Planes a futuro
 
 1. Consideras volver a hacer un Meetup en un futuro ?
-
