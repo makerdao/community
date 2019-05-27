@@ -45,5 +45,5 @@
     * [Governance and Risk Meeting: Ep. 30 \(April 11 - 2019\)](governance/transcripts/governance-and-risk-meeting-ep.-30.md)
 * [Grants Program](grants/README.md)
   * [Community Development Grantee Playbook](grants/grantee-playbook.md)
-* [Hackathons and Bounties](hackathon/README.md)
-  * [Hackathon Funding Requirements](hackathon/requirements.md)
+* [Hackathons and Bounties](hackathons/README.md)
+  * [Hackathon Funding Requirements](hackathons/requirements.md)
