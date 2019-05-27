@@ -1,29 +1,8 @@
-# meetup-diy-kit-en
-
-## **Meetup DIY Kit**
+# **Meetup DIY Kit**
 
 This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](meetup-diy-kit-en.md#Planning-and-Organizing), [Requesting Funds](meetup-diy-kit-en.md#Requesting-funds), [Hosting the Meetup](meetup-diy-kit-en.md#Hosting-the-Meetup), and the [Post-Event Process](meetup-diy-kit-en.md#Post-Event-Process)\(_for those who've received a grant_\).
 
 Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
-
-### Table of Contents
-
-* [General Info](meetup-diy-kit-en.md#general-info)
-  * [Goals](meetup-diy-kit-en.md#goals)
-  * [Topic Guidelines](meetup-diy-kit-en.md#topic-guidelines)
-  * [What is MakerDAO and who are our Community?](meetup-diy-kit-en.md#what-is-makerdao-and-who-are-our-community)
-* [General Process Overview](meetup-diy-kit-en.md#general-process-overview)
-  * [Planning and Organizing](meetup-diy-kit-en.md#planning-and-organizing)
-  * [Requesting Funds](meetup-diy-kit-en.md#Requesting-funds)
-  * [Hosting the Meetup](meetup-diy-kit-en.md#hosting-the-meetup)
-  * [Post-Event Process](meetup-diy-kit-en.md#post-event-process)
-* [Resources & Guides](meetup-diy-kit-en.md#resources--guides)
-  * [Resources](meetup-diy-kit-en.md#resources)
-  * [Format Types Guide](meetup-diy-kit-en.md#format-types-guide-1)
-  * [Marketing & Promotion Guide](meetup-diy-kit-en.md#marketing--promotion-guide)
-  * [Budget Guide](meetup-diy-kit-en.md#budget-guide-1)
-* [Community Meetup Form](meetup-diy-kit-en.md#community-meetup-form)
-* [Feedback Form](meetup-diy-kit-en.md#feedback-form)
 
 ## **GENERAL INFO**
 
