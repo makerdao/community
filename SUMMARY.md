@@ -2,7 +2,7 @@
 
 * [Community Development at MakerDAO](README.md)
 * [Community Meetups](meetups/README.md)
-  * [Español](meetups/meetup-diy-kit-es.md)
+  * Español
     * [Kit para Reuniones](meetups/meetup-diy-kit-es.md)
   * [Meetup DIY Kit](meetups/meetup-diy-kit-en.md)
 * [FAQs](faqs/README.md)
