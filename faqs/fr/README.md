@@ -1,15 +1,15 @@
-# MakerDAO Questions and Answers (FAQ)
+# MakerDAO Questions et Réponses (FAQ)
 
-Here you can find several documents in *%LANGUAGE%* describing various aspects of MakerDAO in details:
+Vous trouverez ici plusieurs documents en *français* décrivant divers aspects de MakerDAO en détail:
 
-## [Stablecoin Dai](dai.md)
+## [La monnaie stable Dai](dai.md)
 
-## [Collateralized Debt Positions (CDP)](cdp.md)
+## [Position de Dette Collatéralisée (CDP)](cdp.md)
 
-## [Stability Fee](stability-fee.md)
+## [Frais de stabilité](stability-fee.md)
 
 ## [Liquidation](liquidation.md)
 
-## [Governance](governance.md)
+## [Gouvernance](governance.md)
 
-Translation is work in progress. Original English versions can be found [here](../).
+La traduction est un travail en cours. Les versions anglaises originales sont disponibles [ici](../).
