@@ -24,42 +24,6 @@
 * [Can I use the same CDP after it has been liquidated?](cdp.md#can-i-use-the-same-cdp-after-it-has-been-liquidated)
 * [How can I verify the solvency of the CDP ecosystem?](cdp.md#how-can-i-verify-the-solvency-of-the-cdp-ecosystem)
 
-## Stability Fee
-
-* [What is the Stability Fee?](stability-fee.md#what-is-the-stability-fee)
-* [When do I have to pay the Stability Fee?](stability-fee.md#when-do-i-have-to-pay-the-stability-fee)
-* [Do I have to pay the new fees on old debt?](stability-fee.md#do-i-have-to-pay-the-new-fees-on-old-debt)
-* [What is the purpose of the Stability Fee?](stability-fee.md#what-is-the-purpose-of-the-stability-fee)
-* [Why does the Stability Fee Change?](stability-fee.md#why-does-the-stability-fee-change)
-* [How is the Stability Fee calculated?](stability-fee.md#how-is-the-stability-fee-calculated)
-* [What does the system do with the collected fees?](stability-fee.md#what-does-the-system-do-with-the-collected-fees)
-* [Where can I see my currently accrued Stability Fee?](stability-fee.md#where-can-i-see-my-currently-accrued-stability-fee)
-* [How does the fee alter supply and demand?](stability-fee.md#how-does-the-fee-alter-supply-and-demand)
-* [How do I calculate the impact of variable Stability Fees?](stability-fee.md#how-do-i-calculate-the-impact-of-variable-stability-fees)
-* [How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?](stability-fee.md#how-can-i-learn-more-about-the-risk-teams-and-communicate-with-the-foundation-about-current-or-future-changes-to-the-system)
-* [Is there a limit to the range of the Stability Fee changes?](stability-fee.md#is-there-a-limit-to-the-range-of-the-stability-fee-changes)
-* [How can CDP owners mitigate fee change risk?](stability-fee.md#how-can-cdp-owners-mitigate-fee-change-risk)
-* [What happens if a fee change vote is rejected?](stability-fee.md#what-happens-if-a-fee-change-vote-is-rejected)
-* [How often will the Stability Fee change?](stability-fee.md#how-often-will-the-stability-fee-change)
-
-## Liquidation
-
-* [What is Liquidation?](liquidation.md#what-is-liquidation)
-* [Why does Liquidation exist?](liquidation.md#why-does-liquidation-exist)
-* [What is the Liquidation Ratio?](liquidation.md#what-is-the-liquidation-ratio)
-* [What is the Liquidation Price?](liquidation.md#what-is-the-liquidation-price)
-* [What is the Liquidation Penalty?](liquidation.md#what-is-the-liquidation-penalty)
-* [What happens during a Liquidation?](liquidation.md#what-happens-during-a-liquidation)
-* [How much collateral is left after a liquidation?](liquidation.md#how-much-collateral-is-left-after-a-liquidation)
-* [How do I calculate my Liquidation Price?](liquidation.md#how-do-i-calculate-my-liquidation-price)
-* [How do I calculate my Collateralization Ratio?](liquidation.md#how-do-i-calculate-my-collateralization-ratio)
-* [How do I lower my Liquidation Price?](liquidation.md#how-do-i-lower-my-liquidation-price)
-* [Typical Practices to avoid getting liquidated](liquidation.md#typical-practices-to-avoid-getting-liquidated)
-* [How does the smart contract sell collateral?](liquidation.md#how-does-the-smart-contract-sell-collateral)
-* [Can I purchase seized PETH?](liquidation.md#can-i-purchase-seized-peth)
-* [How would a "flash crash" affect the liquidation of CDP's?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-cdps)
-* [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
-
 ## Dai
 
 * [What is Dai?](dai.md#what-is-dai)
@@ -110,3 +74,72 @@
 * [Can I break the link between my hot and cold wallet?](governance.md#can-i-break-the-link-between-my-hot-and-cold-wallet)
 * [Can I combine more than one address holding MKR to vote?](governance.md#can-i-combine-more-than-one-address-holding-mkr-to-vote)
 
+## Liquidation
+
+* [What is Liquidation?](liquidation.md#what-is-liquidation)
+* [Why does Liquidation exist?](liquidation.md#why-does-liquidation-exist)
+* [What is the Liquidation Ratio?](liquidation.md#what-is-the-liquidation-ratio)
+* [What is the Liquidation Price?](liquidation.md#what-is-the-liquidation-price)
+* [What is the Liquidation Penalty?](liquidation.md#what-is-the-liquidation-penalty)
+* [What happens during a Liquidation?](liquidation.md#what-happens-during-a-liquidation)
+* [How much collateral is left after a liquidation?](liquidation.md#how-much-collateral-is-left-after-a-liquidation)
+* [How do I calculate my Liquidation Price?](liquidation.md#how-do-i-calculate-my-liquidation-price)
+* [How do I calculate my Collateralization Ratio?](liquidation.md#how-do-i-calculate-my-collateralization-ratio)
+* [How do I lower my Liquidation Price?](liquidation.md#how-do-i-lower-my-liquidation-price)
+* [Typical Practices to avoid getting liquidated](liquidation.md#typical-practices-to-avoid-getting-liquidated)
+* [How does the smart contract sell collateral?](liquidation.md#how-does-the-smart-contract-sell-collateral)
+* [Can I purchase seized PETH?](liquidation.md#can-i-purchase-seized-peth)
+* [How would a "flash crash" affect the liquidation of CDP's?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-cdps)
+* [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
+
+## MakerDAO
+
+* [What is MakerDAO?](makerdao.md#what-is-makerdao)
+* [Who Started MakerDAO and When?](makerdao.md#who-started-makerdao-and-when)
+* [Why did the founders call it _Maker_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
+* [What is a DAO?](makerdao.md#what-is-a-dao)
+* [Who is the Maker Community?](makerdao.md#who-is-the-maker-community)
+* [What is the Maker Foundation?](makerdao.md#what-is-the-maker-foundation)
+* [Will the Maker Foundation exist indefinitely?](makerdao.md#will-the-maker-foundation-exist-indefinitely)
+* [What are the primary focuses of the Foundation?](makerdao.md#what-are-the-primary-focuses-of-the-foundation)
+* [What is the Maker Community Foundation?](makerdao.md#what-is-the-maker-community-foundation)
+* [Where does The Maker Foundation get funding from?](makerdao.md#where-does-the-maker-foundation-get-funding-from)
+* [Who controls the Development Fund?](makerdao.md#who-controls-the-development-fund)
+* [What are the plans for the Development Fund?](makerdao.md#what-are-the-plans-for-the-development-fund)
+* [Is the Development Fund-held MKR used to vote in Maker Governance?](makerdao.md#is-the-development-fund-held-mkr-used-to-vote-in-maker-governance)
+* [What is the legal structure of The Maker Foundation?](makerdao.md#what-is-the-legal-structure-of-the-maker-foundation)
+* [How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?](makerdao.md#how-do-i-distinguish-between-the-dao-and-the-team-who-is-developing-and-bootstrapping-makerdao)
+
+## Oracles
+
+* [What is an Oracle?](oracles.md#what-is-an-oracle)
+* [Why is the Oracle an attack target for malicious actors?](oracles.md#why-is-the-oracle-an-attack-target-for-malicious-actors)
+* [How is the Oracle mechanism made secure?](oracles.md#how-is-the-oracle-mechanism-made-secure)
+* [What is the Oracle Security Module?](oracles.md#what-is-the-oracle-security-module)
+* [Who are the Price-Feed Providers?](oracles.md#who-are-the-price-feed-providers)
+* [Are identities of people providing Oracle Price Feeds known?](oracles.md#are-identities-of-people-providing-oracle-price-feeds-known)
+* [How does the Price-Feed system work?](oracles.md#how-does-the-price-feed-system-work)
+* [What is the Medianizer?](oracles.md#what-is-the-medianizer)
+* [How often does the Medianizer publish an updated reference price?](oracles.md#how-often-does-the-medianizer-publish-an-updated-reference-price)
+* [Can MakerDAO Governance change the time of the Oracle Security Module's delay?](oracles.md#can-makerdao-governance-change-the-time-of-the-oracle-security-modules-delay)
+* [What's the process for becoming a feed provider?](oracles.md#whats-the-process-for-becoming-a-feed-provider)
+* [Is the Oracle system resistant to Sybil attacks?](oracles.md#is-the-oracle-system-resistant-to-sybil-attacks)
+* [What happens if there is a flash crash on an exchange?](oracles.md#what-happens-if-there-is-a-flash-crash-on-an-exchange)
+
+## Stability Fee
+
+* [What is the Stability Fee?](stability-fee.md#what-is-the-stability-fee)
+* [When do I have to pay the Stability Fee?](stability-fee.md#when-do-i-have-to-pay-the-stability-fee)
+* [Do I have to pay the new fees on old debt?](stability-fee.md#do-i-have-to-pay-the-new-fees-on-old-debt)
+* [What is the purpose of the Stability Fee?](stability-fee.md#what-is-the-purpose-of-the-stability-fee)
+* [Why does the Stability Fee Change?](stability-fee.md#why-does-the-stability-fee-change)
+* [How is the Stability Fee calculated?](stability-fee.md#how-is-the-stability-fee-calculated)
+* [What does the system do with the collected fees?](stability-fee.md#what-does-the-system-do-with-the-collected-fees)
+* [Where can I see my currently accrued Stability Fee?](stability-fee.md#where-can-i-see-my-currently-accrued-stability-fee)
+* [How does the fee alter supply and demand?](stability-fee.md#how-does-the-fee-alter-supply-and-demand)
+* [How do I calculate the impact of variable Stability Fees?](stability-fee.md#how-do-i-calculate-the-impact-of-variable-stability-fees)
+* [How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?](stability-fee.md#how-can-i-learn-more-about-the-risk-teams-and-communicate-with-the-foundation-about-current-or-future-changes-to-the-system)
+* [Is there a limit to the range of the Stability Fee changes?](stability-fee.md#is-there-a-limit-to-the-range-of-the-stability-fee-changes)
+* [How can CDP owners mitigate fee change risk?](stability-fee.md#how-can-cdp-owners-mitigate-fee-change-risk)
+* [What happens if a fee change vote is rejected?](stability-fee.md#what-happens-if-a-fee-change-vote-is-rejected)
+* [How often will the Stability Fee change?](stability-fee.md#how-often-will-the-stability-fee-change)
