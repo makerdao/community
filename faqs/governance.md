@@ -161,5 +161,5 @@ Yes. There is an option to break the wallet link by going to the [Governance Das
 
 ## Can I combine more than one address holding MKR to vote?
 
-No, currently a voting contact can only be funded by one address.
+No, currently a voting contract can only be funded by one address.
 
