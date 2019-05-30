@@ -1,4 +1,7 @@
-# Cosa è il Dai?
+# Dai
+
+
+## Cosa è il Dai?
 
 Il Dai è una criptovaluta garantita da un meccanismo di garanzia a pegno il cui valore di mercato è mantenuto costante rispetto a quello del dollaro americano (USD) attraverso una serie di incentivi finanziari in equilibrio tra di loro.
 
@@ -7,7 +10,7 @@ La criptovaluta Dai esiste nella blockchain; la sua stabilità è indipendente d
 Una volta generati, i Dai possono essere utilizzati come qualsiasi altra criptovaluta: possono essere liberamente inviati ad altri utenti, possono essere utilizzati per acquistare beni e servizi, o possono essere utilizzati per contrastare il rischio di volatilità del mercato.
 
 
-# Perché dovrei usare il Dai?
+## Perché dovrei usare il Dai?
 
 Il Dai ha un valore stabile, agganciato a quello del dollaro americano (USD), e ha una volatilità molto ridotta. Questo può facilitare una serie di attività finanziarie sulla blockchain che risultano invece non pratiche o troppo rischiose utilizzando altre criptovalute il cui valore è instabile e volatile.
 
@@ -28,14 +31,14 @@ Grandi possessori di criptovalute, quali grandi gruppi di investimento (Hedge fu
 **Mercati di previsione (prediction markets) e gioco d’azzardo:** Nei mercati di previsione si effettuano scommesse su eventi futuri, quali il risultato di un evento sportivo o il valore di un certo titolo azionario nel futuro. Scommettere su eventi lontani nel tempo utilizzando normali criptovalute risulta difficile o spesso impossibile. Questo perché l’utente deve gestire e considerare non solo l’aleatorietà dell’evento stesso, ma anche il possibile cambiamento di valore della criptovaluta utilizzata. Il problema può essere aggirato utilizzando una criptovaluta quale Dai il cui valore è stabile nel tempo.
 
 
-# Un Dai vale sempre esattamente un dollaro americano (1 USD)?
+## Un Dai vale sempre esattamente un dollaro americano?
 
 No. La criptovaluta Dai non è perfettamente agganciata al valore del dollaro americano. Al contrario, il sistema di incentivi finanziari che regolano il valore del Dai mantiene il prezzo di 1 DAI in continua oscillazione vicina al valore ideale di 1 USD. Questo vuol dire che la volatilità del Dai è molto limitata.
 
 Inoltre, nel caso di un arresto d’emergenza (Emergency Shutdown) del sistema, ogni Dai è convertibile in una quantità di criptovalute (messe in precedenza a pegno come garanzia del sistema) il cui valore di mercato è esattamente 1 USD al momento dell’arresto.
 
 
-# Da dove vengono i Dai?
+## Da dove vengono i Dai?
 
 Un Dai entra in circolazione quando viene creato (minted) da un possessore di Collateralized Debt Positions (CDP) mettendo in pegno una certa quantità di criptovalute (collateral) sufficiente a garantire il valore del Dai. I possessori di CDP che vogliono rientrare in possesso del loro pegno possono, semplicemente e in qualsiasi momento, restituire la quantità di Dai in precedenza creata. La restituzione distrugge i Dai. Questo meccanismo di creazione e distruzione assicura che i Dai in circolazione siano sempre garantiti da una quantità sufficiente di criptovalute lasciate in pegno come garanzia.
 
@@ -44,14 +47,14 @@ Un sistema completamente autonomo di smart contracts, sviluppati per rispondere 
 E’ importante notare che gli utilizzatori di Dai non devono necessariamente comprendere gli aspetti tecnici del sistema per utilizzarlo in modo efficace; essi possono semplicemente osservare il valore storico del Dai per valutre se suo valore rimarrà stabile attorno al valore ideale di 1 USD.
 
 
-# C’è qualcun altro che ha accesso ai miei Dai?
+## C’è qualcun altro che ha accesso ai miei Dai?
 
 No. Il Dai e’ un normale ERC20 token e può essere conservato in qualsiasi Ethereum wallet. Può anche essere liberamente scambiato nel mercato senza dover mai interagire con le complesse meccaniche del sistema che mantiene stabile il valore de Dai.
 
 I Dai appartengono unicamente a colui che li possiede e nessun altro ne ha accesso.
 
 
-# Come viene mantenuto stabile il prezzo del Dai?
+## Come viene mantenuto stabile il prezzo del Dai?
 
 La criptovaluta Dai non e’ perfettamente agganciata al valore del dollaro americano. Il suo valore è in continua oscillazione attorno al valore ideale di 1 USD ma l’oscillazione ha una volatilità molto limitata rispetto ad altre cryptovalute.
 
@@ -68,22 +71,22 @@ I possessori di CDP possono contribuire al mantenimento della stabilità del pre
 Infine, ulteriori agenti di mercato chiamati Keepers (traducibile come: mantenitori) aiutano a mantenere il valore del Dai stabile. I Keepers sono persone fisiche o software automatici che approfittano delle oscillazioni del prezzo del Dai: lo acquistano quando vale meno di 1 USD e lo rivendono quando vale più di 1 USD.
 
 
-# Come posso creare dei Dai?
+## Come posso creare dei Dai?
 
 L’unico modo per creare dei Dai è di generarli lasciando un pegno (collateral) come garanzia nel tuo CDP (Collateralized Debt Position).
 
 
-# Dove posso acquistare i DAI?
+## Dove posso acquistare i DAI?
 
 Il Dai e’ disponibile in molti mercati di cryptovalute, sia centralizzati che decentralizzati [exchanges](https://coinmarketcap.com/currencies/dai/#markets). Una lista e’ disponibile in [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai).
 
 
-# Dove posso vedere la quantità di pegno depositato che garantisce i Dai?
+## Dove posso vedere la quantità di pegno depositato che garantisce i Dai?
 
 Siccome il sistema funziona sull’esecuzione di uno smart contract Ethereum, tutte le transazioni sono salvate nella blockchain pubblica e ogni utente può interagirci e scrutinarla senza bisogno di alcuna autorizzazione e senza doversi fidare di alcuna controparte.
 
 Chiunque può verificare se il sistema è solvente semplicemente analizzando la blockchain manualmente o utilizzando degli strumenti automatici quali [Mkr.Tools](https://mkr.tools). 
 
 
-# Quali organizzazioni stanno usando Dai?
+## Quali organizzazioni stanno usando Dai?
 Una lista è disponibile nella sezione Partnerships dell’archivio [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
