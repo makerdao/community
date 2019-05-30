@@ -18,7 +18,7 @@ A decentralized Oracle Feed provides the system with pricing data for ETH to cal
 
 For example, a user wants to draw 200 DAI and thinks the value of the collateral will not drop below 50% of its current market price. The user decides to stake at least double the minimum collateralization threshold. Since the minimum collateralization is 150%, the user deposits $600 of ETH and draws 200 DAI, leaving their CDP at 300% collateralization.
 
-**It is important to remember that 150% is the lowest point at which an Ethereum based CDP can be collateralized before being made available for Liquidation by the Keepers.** Staying above that minimum level prevents a user's collateral from being Liquidated.
+**It is important to remember that 150% is the lowest point at which an ether based CDP can be collateralized before being made available for Liquidation by the Keepers.** Staying above that minimum level prevents a user's collateral from being Liquidated.
 
 ## What is the Liquidation Price?
 
