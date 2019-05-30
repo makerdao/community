@@ -1,10 +1,10 @@
-# 메이커다오(MakerDAO) 질문과 답변 (FAQ)
+# 메이커다오(MakerDAO) 질문과 답변(FAQ)
 
 메이커다오에 대해 한국어로 자세하게 설명하는 문서들을 찾을 수 있습니다:
 
-## [스테이블코인 다이 (Dai)](dai.md)
+## [스테이블코인 다이(Dai)](dai.md)
 
-## [부채 담보부 포지션(Collateralized Debt Positions, CDP)](cdp.md)
+## [부채 담보부 포지션(CDP)](cdp.md)
 
 ## [안정화 수수료(Stability Fee)](stability-fee.md)
 

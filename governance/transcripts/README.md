@@ -1,5 +1,7 @@
 # Governance and Risk Meeting Transcripts
 
+* [Governance and Risk Meeting: Ep. 36.md](./Governance%20and%20Risk%20Meeting:%20Ep.%2036.md) (May 23 - 2019)
+* [Governance and Risk Meeting: Ep. 35.md](./Governance%20and%20Risk%20Meeting:%20Ep.%2035.md) (May 16 - 2019)
 * [Governance and Risk Meeting: Ep. 34.md](./Governance%20and%20Risk%20Meeting:%20Ep.%2034.md) (May 9 - 2019)
 * [Governance and Risk Meeting: Ep. 33.md](./Governance%20and%20Risk%20Meeting:%20Ep.%2033.md) (May 2 - 2019)
 * [Governance and Risk Meeting: Ep. 32.md](./Governance%20and%20Risk%20Meeting:%20Ep.%2032.md) (April 25 - 2019)
