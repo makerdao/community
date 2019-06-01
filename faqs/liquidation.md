@@ -8,6 +8,8 @@ A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough col
 
 Unlike most types of fiat, which hold value only by government decree, Dai is a modern and cryptographically secure incarnation of _representative currency_; all circulating Dai is backed by a surplus of collateral tokens stored in smart contracts, ensuring trustlessness and eliminating counterparty risk. It is this complete transparency that maintains user confidence in the system.
 
+## Who triggers liqudiation?
+
 To make sure that the required surplus of collateral exists at all times, a class of users called Keepers are charged with maintaining a constant watch for CDPs that become unsafe or under-collateralized. These Keepers are a special category of the Dai Stablecoin System users. They are the actors in the system who are incentivized to make sure that the outstanding Dai supply remains fully collateralized and solvent. They help maintain the health of the entire ecosystem by ensuring that unsafe CDPs are offered up for Liquidation as quickly as possible. This is particularly important during rapid market downturns as the collateral value could fail to satisfy debt obligations.
 
 ## What is the Liquidation Ratio?
