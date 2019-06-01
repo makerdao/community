@@ -14,7 +14,7 @@ To make sure that the required surplus of collateral exists at all times, a clas
 
 Each collateral type has a Liquidation Ratio, which is determined based on the risk profile assigned to that particular asset. Currently, the only collateral type is ETH. At the launch of the Single-Collateral Dai iteration of the system, Maker's Interim Risk Team made an assessment of the ETH asset's risk profile and deemed the appropriate Liquidation Ratio to be 150%.
 
-A decentralized Oracle Feed provides the system with pricing data for ETH to calculate when the Liquidation Ratio for a specific CDP falls below the minimum level required by the system. This combination of Risk Profile and the Market Price as determined by the Oracle Feed is what defines the Liquidation Ratio.
+A decentralized Oracle Feed provides the system with pricing data for ETH to calculate when the Collateralization Ratio for a specific CDP falls below Liquidation Ratio. This combination of Risk Profile and the Market Price as determined by the Oracle Feed is what defines the Liquidation Ratio.
 
 For example, a user wants to draw 200 DAI and thinks the value of the collateral will not drop below 50% of its current market price. The user decides to stake at least double the minimum collateralization threshold. Since the minimum collateralization is 150%, the user deposits $600 of ETH and draws 200 DAI, leaving their CDP at 300% collateralization.
 
