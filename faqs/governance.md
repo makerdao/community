@@ -68,7 +68,7 @@ MKR token holders are tasked with maintaining the health of the system and the s
 
 If a proposal is introduced that is beneficial, and the MKR token holders recognize this value, then the majority of tokens should shift to this new proposal and implement it as the new state of the system.
 
-In this model, the continuity of staked votes challenges and reinforces the status quo of the system through movements of the majority of votes between desired new proposals and the most recent successful proposal. It's also important to note that to revert a change in the system an entirely new proposal must be put forth. It is impossible to reactivate an old proposal.
+In this model, the continuity of staked votes challenges and reinforces the status quo of the system through movements of the majority of votes between desired new proposals and the most recent successful proposal. It's also important to note that to revert a change in the system an entirely new proposal must be put forth. It is impossible to reactivate an old proposal.*
 
 ## Why is the Continuous Approval Voting system necessary?
 
