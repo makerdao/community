@@ -180,7 +180,7 @@ Users seeking fixed-term and fixed-rate loans may be able to hedge against any f
 
 The best risk management strategy, though, is to get involved with the governance process and ensure that your vote is cast when proposals are being ratified.
 
-## What happens if a fee change vote is rejected?
+## What happens if a fee change vote is rejected?***
 
 If a rate change vote fails, it may result in a drop in the price of Dai if the current imbalance continues. If it persists, then the only choice left to the Foundation may be to trigger an Emergency Shutdown to ensure the economic security of Dai holders.
 
