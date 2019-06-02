@@ -1,4 +1,4 @@
-# **Meetup DIY Kit**
+# Meetup DIY Kit
 
 This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](meetup-diy-kit-en.md#Planning-and-Organizing), [Requesting Funds](meetup-diy-kit-en.md#Requesting-funds), [Hosting the Meetup](meetup-diy-kit-en.md#Hosting-the-Meetup), and the [Post-Event Process](meetup-diy-kit-en.md#Post-Event-Process)\(_for those who've received a grant_\).
 

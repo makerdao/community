@@ -1,4 +1,4 @@
-# Governance and Risk Meeting: Ep. 23 \(February 21 - 2019\)
+# Ep. 23 \(Feb 21 - 2019\)
 
 [Video](https://www.youtube.com/watch?v=KKDpN1fe0cU) \| [Audio](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 

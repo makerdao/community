@@ -1,4 +1,4 @@
-# FAQs
+# MakerDAO FAQs
 
 * [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 * [Glossary of Terms](glossary.md)
@@ -96,7 +96,7 @@
 
 * [What is MakerDAO?](makerdao.md#what-is-makerdao)
 * [Who Started MakerDAO and When?](makerdao.md#who-started-makerdao-and-when)
-* [Why did the founders call it _Maker_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
+* [Why did the founders call it \_Maker\_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
 * [What is a DAO?](makerdao.md#what-is-a-dao)
 * [Who is the Maker Community?](makerdao.md#who-is-the-maker-community)
 * [What is the Maker Foundation?](makerdao.md#what-is-the-maker-foundation)
@@ -143,3 +143,4 @@
 * [How can CDP owners mitigate fee change risk?](stability-fee.md#how-can-cdp-owners-mitigate-fee-change-risk)
 * [What happens if a fee change vote is rejected?](stability-fee.md#what-happens-if-a-fee-change-vote-is-rejected)
 * [How often will the Stability Fee change?](stability-fee.md#how-often-will-the-stability-fee-change)
+

@@ -1,4 +1,4 @@
-# Governance and Risk Meeting: Ep. 30 \(April 11 - 2019\)
+# Ep. 30 \(Apr 11 - 2019\)
 
 [Video](https://www.youtube.com/watch?v=XF3loDk2Kfw) \| [Audio](https://soundcloud.com/makerdao/ep-30-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) \| [Discussion](https://www.reddit.com/r/mkrgov/comments/bbvcg7/discussion_scientific_governance_and_risk/)
 

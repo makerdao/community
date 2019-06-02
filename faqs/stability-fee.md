@@ -88,7 +88,7 @@ Given that:
 
 The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.208 DAI**, or approximately 21 cents USD.
 
-The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR. 
+The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR.
 
 ### A Detailed Example
 
