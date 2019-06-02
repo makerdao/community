@@ -188,7 +188,7 @@ The voting mechanism is the primary way for the community to manage the peg, thr
 
 ## How often will the Stability Fee change?
 
-It is not possible to schedule or make predictions about when the fee should change or what the new rates could be.
+It is not possible to schedule or make predictions about when the fee should change or what the new rates could be.***
 
 The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how significantly the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
 
