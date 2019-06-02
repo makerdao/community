@@ -1,16 +1,16 @@
 # The Stability Fee
 
-## What is the Stability Fee?
+## What is the Stability Debt and Stability Fee?
 
-The Maker smart contracts collect a Stability Fee which is calculated against the total amount of DAI drawn against collateral held in a CDP. This a variable rate fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.
+The Maker smart contracts collect a Stability Debt which is calculated against the total amount of DAI drawn against collateral held in a CDP. Stability Debt is calculated according to Stability Fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.
 
-## When do I have to pay the Stability Fee?
+## When do I have to pay the Stability Debt?
 
 When you pay down your debt by returning DAI to your CDP, you will be charged an outstanding fee _proportional to the amount of DAI being returned_. The fee can be paid in MKR tokens or in Dai.
 
 ## Do I have to pay the new fees on old debt?
 
-No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Fee at the new rate from that point forward, much like a variable interest rate on a loan.
+No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Debt at the new rate from that point forward, much like a variable interest rate on a loan.
 
 ## What is the purpose of the Stability Fee?
 
@@ -28,9 +28,9 @@ If Dai trades consistently below $1, this means that supply is outweighing deman
 
 Unfortunately, it is not possible to perfectly predict the impact of a fee change prior to its implementation, as the results are entirely dependent on the market's reaction. As time goes on, there will be better data available to support a predictive model or even a more robust reactive model that will help fine-tune the Stability Fee.
 
-## How is the Stability Fee calculated?
+## How is the Stability Debt calculated?
 
-The Stability Fee is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDPs. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
+The Stability Debt is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDPs. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
 
 Let's look at the various results from applying different types of compounding structures, given a debt of 100,000 DAI that has been held for 365 days.
 
@@ -139,10 +139,6 @@ Any MKR that resides in the burner wallet before actually being destroyed is per
 [New CDP Portal](https://cdp.makerdao.com/): The outstanding balance owed on a CDP is shown in the right panel that appears when you click "Payback"
 
 There are also a number of third-party tools that can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
-
-## How does the fee alter supply and demand?
-
-An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 ## How do I calculate the impact of variable Stability Fees?
 
