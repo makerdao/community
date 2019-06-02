@@ -51,7 +51,7 @@ The order of operations looks like this:
 
 To determine how much collateral you would possess after a Liquidation you can use the following simplified formula:
 
-`(Collateral * Oracle Price * PETH/ETH Ratio) - (Liquidation Penalty * Stability Debt) - Stability Debt = (Remaining Collateral * Oracle Price) DAI`
+`(Collateral * Oracle Price * PETH/ETH Ratio) - (Liquidation Penalty * Stability Debt*) - Stability Debt = (Remaining Collateral * Oracle Price) DAI`
 
 Assuming:
 
