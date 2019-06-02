@@ -2,7 +2,7 @@
 
 In questa pagina sono disponibili diverse guide in Italiano che spiegano in dettaglio i vari aspetti del sistema MakerDao:
 
-## [La cryptovaluta stabile \(stablecoin\) Dai](dai.md)
+## [La criptovaluta stabile \(stablecoin\) Dai](dai.md)
 
 ## [I CDP \(Collateralized Debt Positions\)](https://github.com/makerdao/community/tree/652b19651c8222479599e00c8ab0bbcf29441428/faqs/it/cdp.md)
 
