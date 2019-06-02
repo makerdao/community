@@ -141,7 +141,7 @@ To withdraw your locked MKR, you first need to go to the [Governance Dashboard](
 
 ## How does a withdrawal affect my previous votes?
 
-Withdrawing your MKR from the latest proposal takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
+Withdrawing your MKR takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
 
 ## Do I need to unlock immediately after voting?
 
