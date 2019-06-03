@@ -4,11 +4,11 @@ In questa pagina sono disponibili diverse guide in Italiano che spiegano in dett
 
 ## [La criptovaluta stabile \(stablecoin\) Dai](dai.md)
 
-## [I CDP \(Collateralized Debt Positions\)](https://github.com/makerdao/community/tree/652b19651c8222479599e00c8ab0bbcf29441428/faqs/it/cdp.md)
+## [I CDP \(Collateralized Debt Positions\)](cdp.md)
 
-## [Il tasso di interesse \(Stability Fee\)](https://github.com/makerdao/community/tree/652b19651c8222479599e00c8ab0bbcf29441428/faqs/it/stability-fee.md)
+## [Il tasso di interesse \(Stability Fee\)](stability-fee.md)
 
-## [Le liquidazioni \(Liquidations\)](https://github.com/makerdao/community/tree/652b19651c8222479599e00c8ab0bbcf29441428/faqs/it/liquidation.md)
+## [Le liquidazioni \(Liquidations\)](liquidation.md)
 
 ## [L'amministrazione \(Governance\) di MakerDao](governance.md)
 
