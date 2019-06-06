@@ -39,7 +39,7 @@
 * [Governance](governance/README.md)
   * [Governance and Risk Meeting Summaries](governance/governance-and-risk-meeting-summaries/README.md)
     * [Ep. 36 \(May 30 - 2019\)](governance/governance-and-risk-meeting-summaries/summary-ep-36.md)
-    * [Ep. 35 \(May 23 - 2019\](governance/governance-and-risk-meeting-summaries/summary-ep-35.md)
+    * [Ep. 35 \(May 23 - 2019\)](governance/governance-and-risk-meeting-summaries/summary-ep-35.md)
   * [Governance and Risk Meeting Transcripts](governance/governance-and-risk-meeting-transcripts/README.md)
     * [Ep. 36 \(May 30 - 2019\)](governance/governance-and-risk-meeting-transcripts/governance-and-risk-meeting-ep.-36.md)
     * [Ep. 35 \(May 16 - 2019\)](governance/governance-and-risk-meeting-transcripts/governance-and-risk-meeting-ep.-35.md)
