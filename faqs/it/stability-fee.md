@@ -195,4 +195,3 @@ Non è possibile prevedere con precisione quando delle modifiche alla Stability 
 L'Interim Risk Team monitora costantemente tutte le modifiche effettuate in precedenza e può proporre ulteriori modifiche quando necessario. Risulta difficile prevedere come e quando il mercato reagirà alle modifiche e, per questa ragione, i Risk Teams considereranno ogni modifica caso per caso.
 
 A causa del rischio di manipolazione, sarà sempre necessario mantenere un certo livello di discrezione e di gestione della comunicazione nel determinare esattamente in che modo modificare la Stability Fee. Procedure completamente automatiche \(algoritmi\) di modifica della Stability Fee sono vulnerabili a manipolazioni e dovranno sempre essere poste sotto costante sorveglianza.
-

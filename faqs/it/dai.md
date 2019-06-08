@@ -81,4 +81,3 @@ Chiunque può verificare se il sistema è solvente semplicemente analizzando la 
 ## Quali organizzazioni stanno usando Dai?
 
 Una lista è disponibile nella sezione Partnerships dell’archivio [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
-

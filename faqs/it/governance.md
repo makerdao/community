@@ -115,9 +115,9 @@ L'attivazione del voting contract consiste di un totale di quattro transazioni e
 L'attivazione del voting contract richiede quattro transazioni.
 
 1. **Inizializzazione del collegamento \(Initiate link\)**: Il primo passo consiste nello specificare quale hot-wallet vuoi usare. Questa transazione è chiamata "Initiate link" e deve provenire dal tuo cold-wallet. La transazione ha lo scopo di dimostrare che tu sei effettivamente in possesso del cold-wallet e di specificare quale hot-wallet vuoi usare.
-2. **Autorizzare il collegamento \(Approve link\)**: Successivamente, dovrai dimostrare che controlli il tuo hot-wallet e creare un collegamento tra l'hot-wallet e il cold-wallet attraverso la transazione "Approve link". Questa transazione creerà inoltre il tuo voting contract personalizzato che utilizzerai per votare.
-3. **Autorizzare il trasferimento di token MKR \(Approve MKR transfer\)**: Una volta che i tuoi hot-wallet e cold-wallet sono stati collegati, dovrai autorizzare il trasferimento dei tuoi token MKR verso il voting contract.
-4. **Blocco dei token MKR \(Lock MKR\)**: L'ultimo passo consiste nel determinare il tuo "peso di voto" decidendo quanti token MKR trasferire verso il tuo voting contract. Questo step può essere ripetuto più volte aggiungendo ulteriori token MKR e quindi aumentando il tuo "peso di voto".
+1. **Autorizzare il collegamento \(Approve link\)**: Successivamente, dovrai dimostrare che controlli il tuo hot-wallet e creare un collegamento tra l'hot-wallet e il cold-wallet attraverso la transazione "Approve link". Questa transazione creerà inoltre il tuo voting contract personalizzato che utilizzerai per votare.
+1. **Autorizzare il trasferimento di token MKR \(Approve MKR transfer\)**: Una volta che i tuoi hot-wallet e cold-wallet sono stati collegati, dovrai autorizzare il trasferimento dei tuoi token MKR verso il voting contract.
+1. **Blocco dei token MKR \(Lock MKR\)**: L'ultimo passo consiste nel determinare il tuo "peso di voto" decidendo quanti token MKR trasferire verso il tuo voting contract. Questo step può essere ripetuto più volte aggiungendo ulteriori token MKR e quindi aumentando il tuo "peso di voto".
 
 Una volta completati questi passaggi potrai partecipare alla voto in sondaggi e in votazioni esecutive.
 
@@ -160,4 +160,3 @@ Sì, c'è una opzione per annullare il collegamento andando su [Governance Dashb
 ## Posso combinare vari wallets contenenti vari token MKR per esprimere il mio voto?
 
 No, al momento il voting contract permette di essere ricaricato da un solo cold-wallet.
-

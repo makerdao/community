@@ -50,13 +50,14 @@ Per determinare quanto collateral rimarrà in tuo possesso dopo una liquidazione
 `(Collateral * Valore di ETH comunicato dagli Oracoli * Rapporto PETH/ETH) - (Penalità di liquidazione * Debito complessivo in Dai) - Debito complessivo in Dai = (Collateral rimanente * Valore ETH comunicato da Oracoli) Dai`
 
 Ad esempio, assumendo:
+
 * Il prezzo di ETH comunicato dagli Oracoli è di 350 USD
 * Il totale di collateral messo come pegno è di 10 PETH
 * Il rapporto PETH/ETH è 1.012
 * La penalità di liquidazione è del 13%
 * Il debito complessivo del CDP è di 1000 DAI
 
-\(10 × 350 × 1.012\) − \(13% × 1000\) − 1000 = 2412 DAI o 6.891428571 ETH
+`\(10 × 350 × 1.012\) − \(13% × 1000\) − 1000 = 2412 DAI o 6.891428571 ETH`
 
 ## Come si calcola il prezzo di liquidazione \(Liquidation Price\)?
 
@@ -90,8 +91,6 @@ Ad esempio se:
 * Il debito complessivo è di 1000 DAI
 
 `(12 × 350 × 1.012) ÷ 1000 × 100 = 425.04%`
-
-\(12 × 350 × 1.012\) ÷ 1000 × 100 = 425.04%
 
 Il CDP ha un rapporto tra collateral e debito \(Collateralization Ratio\) del 425.04%.
 
@@ -152,11 +151,6 @@ Sul Dai dashboard c’è una sezione chiamata “Total Liquidity Available from 
 
 Un crollo improvviso in un singolo mercato di scambio non ha conseguenze sul sistema poiché gli Oracoli aggregano i prezzi di vari mercati di scambio. Una volta rilevati, il “medianizer” calcola la mediana di tutti questi prezzi. Puoi vedere il grafico con i prezzi comunicati da tutti gli Oracoli su https://mkr.tools/system/feeds.
 
-* Informazione dettagliate: https://developer.makerdao.com/feeds/
-* Codice sorgente degli Oracoli: https://github.com/makerdao/price-feed
-* Codice sorgente del Medianizer: https://github.com/makerdao/medianizer
-* Codice di aggiornamento: https://github.com/makerdao/setzer
-* Monitoraggio delle informazioni delgi Oracoli: https://mkr.tools/system/feeds
 * Informazione dettagliate: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
 * Codice sorgente degli Oracoli: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
 * Codice sorgente del Medianizer: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)

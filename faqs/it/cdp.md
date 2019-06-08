@@ -133,4 +133,3 @@ Si, fintanto che c'è ancora una quantità di pegno di garanzia al suo interno c
 ## Come posso verificare lo stato di solvenza dell'ecosistema dei CDP?
 
 Il sistema è in esecuzione sulla blockchain Ethereum, quindi tutti gli smart contract e tutte le transazioni sono pubblicamente visibili. Gli utenti possono interagire in modo completamente trasparente con il sistema finanziario Maker senza dover porre fiducia in alcune controparte. Chiunque può verificare in ogni momento lo stato di solvenza del sistema visitando uno dei vari siti [MakerDAO statistics dashboards](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai), o interrogando direttamente la blockchain.
-
