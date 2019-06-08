@@ -14,9 +14,11 @@ Per assicurarsi che vi sia sempre una quantità sufficiente \(un surplus\) di co
 
 Ogni tipo di collateral \(criptovaluta o token messo in pegno di garanzia\) ha un suo rapporto minimo di liquidazione che è determinato sulla base del profilo di rischio del collateral stesso. Attualmente, l’unico tipo di collateral utilizzabile è ETH. Al momento del lancio di Single-Collateral Dai \(la prima versione funzionante del sistema Dai\), un gruppo di esperti \(Maker’s Interim Risk Team\) ha calcolato il profilo di rischio di ETH e ha impostato il suo rapporto minimo di liquidazione a 150%.
 
-Consideriamo il seguente esempio. Un utente vuole creare 200 Dai e pensa che il valore del proprio collateral \(ETH\) non scenderà più del 50% del suo prezzo di mercato attuale. L’utente decide di mettere in pegno una quantità di collateral doppia rispetto alla minima richiesta. Siccome il rapporto minimo di liquidazione è di 150%, l’utente depositerà una quantità di ETH corrispondente ad un valore di 600 USD e preleverà 200 DAI. Il suo CDP avrà dunque un rapporto di liquidazione del 300%, ben al di sopra di quello minimo.
+Consideriamo il seguente esempio. Un utente vuole creare 200 Dai e pensa che il valore del proprio collateral (ETH) non scenderà più del 50% del suo prezzo di mercato attuale. L’utente decide di mettere in pegno una quantità di collateral doppia rispetto alla minima richiesta. Siccome il rapporto minimo di liquidazione è di 150%, l’utente depositerà una quantità di ETH corrispondente ad un valore di 600 USD e preleverà 200 DAI. Il suo CDP avrà dunque un rapporto di liquidazione del 300%, ben al di sopra di quello minimo.
 
-**È importante capire che 150% è il rapporto minimo, tra il valore del proprio collateral e quello dei Dai creati, scesi sotto il quale il CDP verrà messo in stato di liquidazione dai Keeper.** Restare sopra questo livello minimo garantisce agli utenti di non venir mai liquidati.
+**È importante capire che 150% è il rapporto minimo, tra il valore del proprio collateral e quello dei Dai creati, scesi sotto il quale il CDP verrà messo in stato di liquidazione dai Keepers.**
+
+Restare sopra questo livello minimo garantisce agli utenti di non venir mai liquidati.
 
 ## Qual’è il prezzo di liquidazione?
 
@@ -45,21 +47,32 @@ Una liquidazione avviene quando un Keeper chiude un CDP e lo invia al Liquidity 
 
 Per determinare quanto collateral rimarrà in tuo possesso dopo una liquidazione puoi utilizzare la seguente semplice formula:
 
-\(Collateral  _Valore di ETH comunicato dagli Oracoli_  Rapporto PETH/ETH\) - \(Penalità di liquidazione  _Debito complessivo in Dai\) - Debito complessivo in Dai = \(Collateral rimanente_  Valore ETH comunicato da Oracoli\) Dai
+`(Collateral * Valore di ETH comunicato dagli Oracoli * Rapporto PETH/ETH) - (Penalità di liquidazione * Debito complessivo in Dai) - Debito complessivo in Dai = (Collateral rimanente * Valore ETH comunicato da Oracoli) Dai`
 
-Ad esempio, assumendo: • Il prezzo di ETH comunicato dagli Oracoli è di 350 USD • Il totale di collateral messo come pegno è di 10 PETH • Il rapporto PETH/ETH è 1.012 • La penalità di liquidazione è del 13% • Il debito complessivo del CDP è di 1000 DAI
+Ad esempio, assumendo:
+* Il prezzo di ETH comunicato dagli Oracoli è di 350 USD
+* Il totale di collateral messo come pegno è di 10 PETH
+* Il rapporto PETH/ETH è 1.012
+* La penalità di liquidazione è del 13%
+* Il debito complessivo del CDP è di 1000 DAI
 
 \(10 × 350 × 1.012\) − \(13% × 1000\) − 1000 = 2412 DAI o 6.891428571 ETH
 
 ## Come si calcola il prezzo di liquidazione \(Liquidation Price\)?
 
-Puoi utilizzare la seguente semplice formula per determinare il valore minimo \(Liquidation Price\) che il tuo collateral può raggiungere prima di essere liquidato: \(Debito complessivo in Dai  _Rapporto minimo di liquidazione\) / \(Collateral_  Rapporto PETH/ETH\) = Liquidation Price
+Puoi utilizzare la seguente semplice formula per determinare il valore minimo (Liquidation Price) che il tuo collateral può raggiungere prima di essere liquidato:
+
+`(Debito complessivo in Dai * Rapporto minimo di liquidazione) / (Collateral * Rapporto PETH/ETH) = Liquidation Price`
 
 Ad esempio se:
 
-• Il valore di un ETH \(comunicato dagli Oracoli\) è di 350 USD • Il totale di collateral messo come pegno è di 12 PETH • Il rapporto PETH/ETH è di 1.012 • Il rapporto minimo di liquidazione è di 150% • Il debito complessivo è di 1000 DAI
+* Il valore di un ETH (comunicato dagli Oracoli) è di 350 USD
+* Il totale di collateral messo come pegno è di 12 PETH
+* Il rapporto PETH/ETH è di 1.012
+* Il rapporto minimo di liquidazione è di 150%
+* Il debito complessivo è di 1000 DAI
 
-\(1000 × 1.5 \) ÷ \(12 × 1.012\) = 123.51 USD
+`(1000 × 1.5 ) ÷ (12 × 1.012) = 123.51 USD`
 
 Il CDP verrà liquidato se il prezzo di ETH dovesse scendere sotto il valore limite di 123.51 USD.
 
@@ -67,11 +80,16 @@ Il CDP verrà liquidato se il prezzo di ETH dovesse scendere sotto il valore lim
 
 Se invece di utilizzare il prezzo di liquidazione, preferisci determinare lo stato di sicurezza del tuo CDP sulla base del rapporto tra il pegno messo a garanzia \(collateral\) e il debito complessivo di Dai, puoi usare la seguente semplice formula:
 
-\(Collateral × prezzo di ETH comunicato dagli Oracoli × rapporto PETH/ETH\) ÷ Debito complessivo in Dai × 100 = Collateralization Ratio
+`(Collateral × prezzo di ETH comunicato dagli Oracoli × rapporto PETH/ETH) ÷ Debito complessivo in Dai × 100 = Collateralization Ratio`
 
 Ad esempio se:
 
-• Il valore di un ETH è di 350USD • Il collateral consiste di 12 PETH • Il rapporto PETH/ETH è di 1.012 • Il debito complessivo è di 1000 DAI
+* Il valore di un ETH è di 350USD
+* Il collateral consiste di 12 PETH
+* Il rapporto PETH/ETH è di 1.012
+* Il debito complessivo è di 1000 DAI
+
+`(12 × 350 × 1.012) ÷ 1000 × 100 = 425.04%`
 
 \(12 × 350 × 1.012\) ÷ 1000 × 100 = 425.04%
 
@@ -87,7 +105,25 @@ Il modo migliore per ridurre il rischio di liquidazione è quello di restituire 
 
 Ad esempio, assumendo:
 
-• Il valore di un ETH è di 350 USD • Il collateral consiste di 12 PETH • Il rapporto PETH/ETH è 1.012 • Il rapporto di liquidazione è di 150% • Il debito complessivo è di 1000 DAI Il prezzo di liquidazione è di: \(1000 × 1.5 \) ÷ \(12 × 1.012\) = 123.51 USD Il prezzo di liquidazione dopo aver aggiunto del collateral per un valore totale di 700 USD: \(1000 × 1.5 \) ÷ \(14 × 1.012\) = 105.87 USD Il prezzo di liquidazione dopo aver ripagato 700 DAI di debito: \(300 × 1.5 \) ÷ \(12 × 1.012\) = 37.05 USD Evidentemente il prezzo di liquidazione viene ridotto molto di più ripagando il debito di Dai piuttosto che aggiungendo del collateral aggiuntivo.
+* Il valore di un ETH è di 350 USD
+* Il collateral consiste di 12 PETH
+* Il rapporto PETH/ETH è 1.012
+* Il rapporto di liquidazione è di 150%
+* Il debito complessivo è di 1000 DAI
+
+Il prezzo di liquidazione è di:
+
+`(1000 × 1.5 ) ÷ (12 × 1.012) = 123.51 USD`
+
+Il prezzo di liquidazione dopo aver aggiunto del collateral per un valore totale di 700 USD:
+
+`(1000 × 1.5 ) ÷ (14 × 1.012) = 105.87 USD`
+
+Il prezzo di liquidazione dopo aver ripagato 700 DAI di debito:
+
+`(300 × 1.5 ) ÷ (12 × 1.012) = 37.05 USD`
+
+Evidentemente il prezzo di liquidazione viene ridotto molto di più ripagando il debito di Dai piuttosto che aggiungendo del collateral aggiuntivo.
 
 ## Pratiche comuni per evitare di essere liquidati
 
@@ -104,15 +140,29 @@ Per ulteriori informazioni sul rischio, consulta i Terms of Service i quali cont
 
 ## Come funziona la vendita del collateral effettuata dallo smart contract?
 
-Quando un Keeper liquida un CDP insicuro, il Liquidity Providing Contract \(LPC\) si assicura di mettere in vendita il collateral su Dai Dashboard. Il prezzo di vendita è determinato dal prezzo del collateral comunicato dagli oracoli al quale viene applicato un modificatore. Questo modificatore è normalmente uno sconto, il quale viene applicato al debito complessivo che deve essere recuperato. Questa sconto determina una differenza \(‘spread’\) rispetto al prezzo di mercato del collateral, e serve a facilitare una vendita veloce e una pronta ricapitalizzazione del sistema.
+Quando un Keeper liquida un CDP insicuro, il Liquidity Providing Contract (LPC) si assicura di mettere in vendita il collateral su Dai Dashboard. Il prezzo di vendita è determinato dal prezzo del collateral comunicato dagli oracoli al quale viene applicato un modificatore. Questo modificatore è normalmente uno sconto, il quale viene applicato al debito complessivo che deve essere recuperato. Questa sconto determina una differenza (‘spread’) rispetto al prezzo di mercato del collateral, e serve a facilitare una vendita veloce e una pronta ricapitalizzazione del sistema.
 
-Gli utenti possono acquistare PETH che è stato in precedentemente inserito dal Liquidity Providing Contract \(LPC\) nella Dai Dashboard. Ogni surplus di Dai ottenuto dalla vendita può essere acquistato con PETH. Posso acquistare del PETH precedentemente prelevato? Sul Dai dashboard c’è una sezione chiamata “Total Liquidity Available from forced CDP liquidations” \(Liquidità totale risultata da liquidazioni forzate di CDP\) nella quale i partecipanti possono acquistare PETH ottenuto da liquidazioni ad un prezzo scontato determinato dal “Bust/Boom Spread”.
+Gli utenti possono acquistare PETH che è stato in precedentemente inserito dal Liquidity Providing Contract (LPC) nella Dai Dashboard. Ogni surplus di Dai ottenuto dalla vendita può essere acquistato con PETH.
 
-In che modo un crollo improvviso del mercato può influenzare la liquidazione di un CDP? Un crollo improvviso in un singolo mercato di scambio non ha conseguenze sul sistema poiché gli Oracoli aggregano i prezzi di vari mercati di scambio. Una volta rilevati, il “medianizer” calcola la mediana di tutti questi prezzi. Puoi vedere il grafico con i prezzi comunicati da tutti gli Oracoli su [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds).
+## Posso acquistare del PETH precedentemente prelevato?
 
-• Informazione dettagliate: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/) • Codice sorgente degli Oracoli: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed) • Codice sorgente del Medianizer: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer) • Codice di aggiornamento: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer) • Monitoraggio delle informazioni delgi Oracoli: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
+Sul Dai dashboard c’è una sezione chiamata “Total Liquidity Available from forced CDP liquidations” (Liquidità totale risultata da liquidazioni forzate di CDP) nella quale i partecipanti possono acquistare PETH ottenuto da liquidazioni ad un prezzo scontato determinato dal “Bust/Boom Spread”.
+
+## In che modo un crollo improvviso del mercato può influenzare la liquidazione di un CDP?
+
+Un crollo improvviso in un singolo mercato di scambio non ha conseguenze sul sistema poiché gli Oracoli aggregano i prezzi di vari mercati di scambio. Una volta rilevati, il “medianizer” calcola la mediana di tutti questi prezzi. Puoi vedere il grafico con i prezzi comunicati da tutti gli Oracoli su https://mkr.tools/system/feeds.
+
+* Informazione dettagliate: https://developer.makerdao.com/feeds/
+* Codice sorgente degli Oracoli: https://github.com/makerdao/price-feed
+* Codice sorgente del Medianizer: https://github.com/makerdao/medianizer
+* Codice di aggiornamento: https://github.com/makerdao/setzer
+* Monitoraggio delle informazioni delgi Oracoli: https://mkr.tools/system/feeds
+* Informazione dettagliate: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
+* Codice sorgente degli Oracoli: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
+* Codice sorgente del Medianizer: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
+* Codice di aggiornamento: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
+* Monitoraggio delle informazioni delgi Oracoli: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
 
 ## Dove posso visualizzare le informazioni sulle liquidazioni?
 
 Puoi consultare [mkr.tools](https://mkr.tools) che è un sito prodotto da parti terze che monitora costantemente il sistema MakerDAO. Le due pagine più utili per aver informazioni sono [liquidations](https://mkr.tools/system/liquidations) e [bites](https://mkr.tools/system/bites).
-
