@@ -73,4 +73,3 @@ DAI 토큰은 중앙화 및 탈중앙화 [거래소\(exchanges\)](https://coinma
 ## 어떤 기관이 DAI를 사용하고 있나요?
 
 최신 리스트는 [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao) 레포지토리의 파트너쉽\(Partnership\) 섹션에서 찾아보실 수 있습니다.
-
