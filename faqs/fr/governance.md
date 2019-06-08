@@ -115,9 +115,9 @@ Le coût total est d'environ 1 million de gaz pour 4 transactions. Le coût éta
 Quatre transactions distinctes sont requises pour déployer le contrat de vote.
 
 1. **Instaurer le lien**: La première étape est de spécifier quel portefeuille sera votre portefeuille chaud. Cette transaction s'appelle "Initiate Link" et doit provenir de votre portefeuille froid. Le but de cette transaction est de prouver que vous êtes propriétaire du portefeuille froid et de désigner un portefeuille chaud.
-2. **Approuver le lien**: La prochaine étape est de prouver que vous êtes propriétaire du portefeuille chaud et de créer le lien entre vos deux portefeuilles avec la transaction "Approve Link". Un contrat de vote personnalisé est créé et sera l'intermédiaire pour chacun de vos votes.
-3. **Approuver le transfert de jetons MKR**: Une fois le lien créé entre vos portefeuilles, vous devez approuver le transfert de vos jetons MKR vers le contrat de vote.
-4. **Verrouiller les jetons MKR**: La dernière étape est le transfert de vos jetons MKR dans le contrat du système de vote et le calcul de votre poids de vote. Vous pouvez répéter cette étape pour ajouter des jetons MKR à votre contrat de vote.
+1. **Approuver le lien**: La prochaine étape est de prouver que vous êtes propriétaire du portefeuille chaud et de créer le lien entre vos deux portefeuilles avec la transaction "Approve Link". Un contrat de vote personnalisé est créé et sera l'intermédiaire pour chacun de vos votes.
+1. **Approuver le transfert de jetons MKR**: Une fois le lien créé entre vos portefeuilles, vous devez approuver le transfert de vos jetons MKR vers le contrat de vote.
+1. **Verrouiller les jetons MKR**: La dernière étape est le transfert de vos jetons MKR dans le contrat du système de vote et le calcul de votre poids de vote. Vous pouvez répéter cette étape pour ajouter des jetons MKR à votre contrat de vote.
 
 Vous êtes maintenant en mesure de participer aux sondages de gouvernance et aux votes exécutifs.
 
@@ -160,4 +160,3 @@ Oui, il y a une option prévue à cet effet. Dirigez-vous vers le [_Portail de G
 ## Est-ce qu'il est possible de combiner plusieurs adresses dans le même contrat de vote?
 
 Non, actuellement, un contrat de vote ne peut être financé que par une seule adresse.
-

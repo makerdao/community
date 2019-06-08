@@ -160,5 +160,4 @@ Un krach éclair n'aura aucun effet sur le système puisque les oracles agrègen
 
 ## Où puis-je voir de l'information sur les liquidations en direct?
 
-Vous pouvez explorer l'outil [mkr.tools](https://mkr.tools/), qui a été conçu par une tierce partie et qui permet de visualiser l'information du système MakerDAO. Les deux pages les plus pertinentes sont \[liquidations\] \([https://mkr.tools/system/liquidations](https://mkr.tools/system/liquidations)\) et \[bites\] \([https://mkr.tools/system/bites](https://mkr.tools/system/bites)\).
-
+Vous pouvez explorer l'outil [mkr.tools](https://mkr.tools/), qui a été conçu par une tierce partie et qui permet de visualiser l'information du système MakerDAO. Les deux pages les plus pertinentes sont [liquidations](https://mkr.tools/system/liquidations) et [bites](https://mkr.tools/system/bites).

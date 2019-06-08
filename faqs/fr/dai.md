@@ -68,9 +68,8 @@ Le dai est disponible auprès de plusieurs [bourses de cryptomonnaies](https://c
 
 ## Où peut-on consulter la quantité de garanties protégeant le dai ?
 
-Le système s'exécute dans un contrat intelligent autonome et toutes les transactions sont enregistrées dans une chaîne de blocs publique. Les utilisateurs peuvent donc interagir avec un système financier entièrement transparent sans avoir à faire confiance à une institution. Chacun peut vérifier la solvabilité du système en consultant manuellement l'état courant ou au moyen d'outils d'analyse tels que [Mkr.Tools. ](https://mkr.tools/)
+Le système s'exécute dans un contrat intelligent autonome et toutes les transactions sont enregistrées dans une chaîne de blocs publique. Les utilisateurs peuvent donc interagir avec un système financier entièrement transparent sans avoir à faire confiance à une institution. Chacun peut vérifier la solvabilité du système en consultant manuellement l'état courant ou au moyen d'outils d'analyse tels que [Mkr.Tools](https://mkr.tools/).
 
 ## Quelles organisations utilisent le dai ?
 
 Une liste à jour se trouve dans la section _Partnerships_ \(partenariats\) du site [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
-

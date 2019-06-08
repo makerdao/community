@@ -131,4 +131,3 @@ Oui, vous pouvez emprunter des dais tant qu'il reste un dépôt de garantie dans
 ## Comment vérifier la solvabilité de l'écosystème des CDP ?
 
 Le système s'exécutant sur la chaîne Ethereum, tous les contrats et toutes les transactions sont publics. Les utilisateurs peuvent interagir avec un système financier entièrement transparent, sans avoir à faire confiance à des institutions pour la contrepartie. Chacun peut soi-même vérifier la solvabilité du système en se rendant sur l'un des nombreux [tableaux de bord statistiques de MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai), ou en interrogeant directement la chaîne de blocs.
-

@@ -193,4 +193,3 @@ Il est impossible de prédire ou planifier ni le moment où les frais devront ch
 L'équipe intérimaire de gestion du risque surveille en continu les résultats rajustements précédents ; elle peut si nécessaire en proposer d'autres, d'une ampleur similaire ou différente. Il est difficile de prévoir la vitesse et l'importance de la réaction du marché, et les équipes de risques abordent par conséquent chaque changement au cas par cas.
 
 Face au risque de manipulation, l'appréciation subjective des informations disponibles est nécessaire à la détermination des rajustements des frais de stabilité. Les processus entièrement automatiques et algorithmiques sont susceptibles d'être manipulés et devront donc être envisagés avec prudence.
-
