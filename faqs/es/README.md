@@ -1,16 +1,71 @@
-# Español
+# MakerDAO FAQs
 
-Aquí puedes encontrar varios documentos en español que describen varios aspectos de MakerDAO en detalle:
+* [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 
-## [Stablecoin Dai](https://github.com/makerdao/community/tree/ba00456c6e4bd85eb3447ecb6221fe81007532ee/faqs/es/dai.md)
+## Dai
 
-## [Collateralized Debt Positions \(CDP\)](https://github.com/makerdao/community/tree/ba00456c6e4bd85eb3447ecb6221fe81007532ee/faqs/es/cdp.md)
+* [¿Qué es Dai?](#qué-es-dai)
+* [¿Por qué querría usar Dai?](#por-qué-querría-usar-dai)
+* [¿Un Dai siempre vale exactamente un dólar estadounidense?](#un-dai-siempre-vale-exactamente-un-dólar-estadounidense)
+* [¿De dónde proviene Dai?](#de-dónde-proviene-dai)
+* [¿Alguien más tiene derechos sobre mis tokens Dai?](#alguien-más-tiene-derechos-sobre-mis-tokens-dai)
+* [¿Cómo se mantiene estable el precio de Dai?](#cómo-se-mantiene-estable-el-precio-de-dai)
+* [¿Cómo puedo crear Dai?](#cómo-puedo-crear-dai)
+* [¿Dónde puedo comprar Dai?](#dónde-puedo-comprar-dai)
+* [¿Dónde puedo ver la cantidad de colateral que está respaldando a Dai?](#dónde-puedo-ver-la-cantidad-de-colateral-que-está-respaldando-a-dai)
+* [¿Qué organizaciones están utilizando DAI?](#qué-organizaciones-están-utilizando-dai)
 
-## [Stability Fee](https://github.com/makerdao/community/tree/ba00456c6e4bd85eb3447ecb6221fe81007532ee/faqs/es/stability-fee.md)
+## Gobernanza
 
-## [Liquidation](liquidation.md)
+* [¿Qué es Gobernanza?](#qu-es-gobernanza)
+* [¿Cómo gestionan los dueños de MKR el Sistema de Crédito Dai?](#cmo-gestionan-los-dueos-de-mkr-el-sistema-de-crdito-dai)
+* [¿Cómo puedo votar?](#cmo-puedo-votar)
+* [¿Cómo sé que mi voto fue contabilizado?](#cmo-s-que-mi-voto-fue-contabilizado)
+* [¿Puedo participar si la votación ya ha comenzado?](#puedo-participar-si-la-votacin-ya-ha-comenzado)
+* [¿Puedo cambiar mi voto una vez que lo haya hecho?](#puedo-cambiar-mi-voto-una-vez-que-lo-haya-hecho)
+* [¿Cómo se calculan los votos?](#cmo-se-calculan-los-votos)
+* [¿Hay más de un tipo de voto?](#hay-ms-de-un-tipo-de-voto)
+* [¿Sobre qué se vota?](#sobre-qu-se-vota)
+* [¿La Fundación también vota?](#la-fundacin-tambin-vota)
+* [¿Cuándo tiene lugar una Encuesta de Gobernanza?](#cundo-tiene-lugar-una-encuesta-de-gobernanza)
+* [¿Cuánto dura el periodo de votación de una Encuesta de Gobernanza?](#cunto-dura-el-periodo-de-votacin-de-una-encuesta-de-gobernanza)
+* [¿Cuándo tiene lugar un Voto Ejecutivo?](#cundo-tiene-lugar-un-voto-ejecutivo)
+* [¿Qué son los Votos de Aprobación Continua?](#qu-son-los-votos-de-aprobacin-continua)
+* [¿Por qué es necesario un Sistema de Votación Continua?](#por-qu-es-necesario-un-sistema-de-votacin-continua)
+* [¿Cuánto dura el Periodo de Votación de un Voto Ejecutivo?](#cunto-dura-el-periodo-de-votacin-de-un-voto-ejecutivo)
+* [¿Cómo funciona el Panel de Control de Votación?](#cmo-funciona-el-panel-de-control-de-votacin)
+* [¿Qué hace el contrato proxy de votación?](#qu-hace-el-contrato-proxy-de-votacin)
+* [¿Qué es un contrato proxy?](#qu-es-un-contrato-proxy)
+* [¿Por qué debo configurar un contrato proxy de votación?](#por-qu-debo-configurar-un-contrato-proxy-de-votacin)
+* [¿Qué estoy permitiendo, a quién y porqué?](#qu-estoy-permitiendo-a-quin-y-porqu)
+* [¿Cada voto cuesta gas?](#cada-voto-cuesta-gas)
+* [¿Cuanto gas necesitaré? ¿Lo pagaré desde la _cold wallet_ o la _hot wallet_?](#cuanto-gas-necesitar-lo-pagar-desde-la-cold-wallet-o-la-hot-wallet)
+* [¿Cuantas transacciones tengo que firmar?](#cuantas-transacciones-tengo-que-firmar)
+* [¿Qué hace exactamente el enlace entre la _hot wallet_ y la _cold wallet_?](#qu-hace-exactamente-el-enlace-entre-la-hot-wallet-y-la-cold-wallet)
+* [¿Quién controla el MKR cuando está bloqueado?](#quin-controla-el-mkr-cuando-est-bloqueado)
+* [¿Cómo sé que el MKR está bloqueado?](#cmo-s-que-el-mkr-est-bloqueado)
+* [¿Cómo recupero el MKR?](#cmo-recupero-el-mkr)
+* [¿Cómo afecta un retiro a mis votaciones previas?](#cmo-afecta-un-retiro-a-mis-votaciones-previas)
+* [¿Debo desbloquear mi MKR después de votar?](#debo-desbloquear-mi-mkr-despus-de-votar)
+* [¿Puedo mover mi MKR desde mi _cold wallet_ a otra _wallet_ mientras está bloqueado?](#puedo-mover-mi-mkr-desde-mi-cold-wallet-a-otra-wallet-mientras-est-bloqueado)
+* [¿Qué ocurre si envio más MKR a mi _cold wallet_ después del enlace?](#qu-ocurre-si-envio-ms-mkr-a-mi-cold-wallet-despus-del-enlace)
+* [¿Puedo romper el enlace entre mi _hot wallet_ y mi _cold wallet_?](#puedo-romper-el-enlace-entre-mi-hot-wallet-y-mi-cold-wallet)
+* [¿Puedo combinar más de una _cold wallet_ para votar?](#puedo-combinar-ms-de-una-cold-wallet-para-votar)
 
-## [Governance](https://github.com/makerdao/community/tree/ba00456c6e4bd85eb3447ecb6221fe81007532ee/faqs/es/governance.md)
+## Liquidación
 
-El trabajo de traducción está en proceso. Las versiones originales en Inglés pueden encontrarse [aquí](../).
-
+* [¿Qué es la Liquidación?](#qué-es-la-liquidación)
+* [¿Por qué existe la Liquidación?](#por-qué-existe-la-liquidación)
+* [¿Qué es el Ratio de Liquidación?](#qué-es-el-ratio-de-liquidación)
+* [¿Qué es el Precio de Liquidación?](#qué-es-el-precio-de-liquidación)
+* [¿Qué es la Penalización por Liquidación?](#qué-es-la-penalización-por-liquidación)
+* [¿Qué ocurre durante una Liquidación?](#qué-ocurre-durante-una-liquidación)
+* [¿Cuanto colateral queda después de una liquidación?](#cuanto-colateral-queda-después-de-una-liquidación)
+* [¿Cómo calculo el Precio de Liquidación?](#cómo-calculo-el-precio-de-liquidación)
+* [¿Cómo calculo mi Ratio de Colaterización?](#cómo-calculo-mi-ratio-de-colaterización)
+* [¿Cómo rebajo mi Precio de Liquidación?](#cómo-rebajo-mi-precio-de-liquidación)
+* [Prácticas típicas para evitar ser liquidado](#prácticas-típicas-para-evitar-ser-liquidado)
+* [¿Cómo el sistema vende colateral?](#cómo-el-sistema-vende-colateral)
+* [¿Puedo comprar PETH embargado?](#puedo-comprar-peth-embargado)
+* [¿Cómo afectaría una gran caída de precio?](#cómo-afectaría-una-gran-caída-de-precio)
+* [¿Donde puedo encontrar información en vivo sobre liquidaciones?](#donde-puedo-encontrar-información-en-vivo-sobre-liquidaciones)

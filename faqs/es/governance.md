@@ -1,4 +1,4 @@
-# Governance
+# Gobernanza
 
 ## ¿Qué es Gobernanza?
 
@@ -117,9 +117,9 @@ Son necesarias cuatro transacciones con un costo aproximado de 1M de gas para co
 Son necesarias cuatro transacciones para configurar el contrato de votación.
 
 1. **Iniciar enlace**: El primer paso especifica cuál será tu _hot wallet_. Esta transacción se llama _Initiate link_ y debe hacerse desde la _cold wallet_. Esta transacción prueba que tienes control sobre la _cold wallet_ y especifica que _hot wallet_ piensas utilizar.
-2. **Aprobar enlace**: Ahora toca especificar y aprobar el control de tu _hot wallet_ creando un vínculo entre ambas con la transacción _"Approve link"_. Esta transacción crea un contrato de votación personalizado que utilizarás para ejercer el voto.
-3. **Aprobar transferencias de MKR**: Después de haber establecido el vínculo entre las _wallets_, deberás aprobar la transferencia de tu MKR al contrato de votación.
-4. **Bloquear MKR**: El último paso transfiere el MKR al sistema de votación y este concreta el peso de su voto. Este paso puede repetirse en cualquier momento en caso de haber acumulado más MKR.
+1. **Aprobar enlace**: Ahora toca especificar y aprobar el control de tu _hot wallet_ creando un vínculo entre ambas con la transacción _"Approve link"_. Esta transacción crea un contrato de votación personalizado que utilizarás para ejercer el voto.
+1. **Aprobar transferencias de MKR**: Después de haber establecido el vínculo entre las _wallets_, deberás aprobar la transferencia de tu MKR al contrato de votación.
+1. **Bloquear MKR**: El último paso transfiere el MKR al sistema de votación y este concreta el peso de su voto. Este paso puede repetirse en cualquier momento en caso de haber acumulado más MKR.
 
 Podrás participar en Encuestas de Gobernanza y Votos Ejecutivos después de completar estos cuatro pasos.
 
@@ -162,4 +162,3 @@ Si, existe la opción de romper el enlace entre las _wallets_ desde el [Panel de
 ## ¿Puedo combinar más de una _cold wallet_ para votar?
 
 No, actualmente el contrato de votación solo puede ser financiado por una única dirección.
-

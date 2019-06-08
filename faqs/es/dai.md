@@ -68,9 +68,8 @@ El token DAI está disponible en una variedad de [exchanges](https://coinmarketc
 
 ## ¿Dónde puedo ver la cantidad de colateral que está respaldando a Dai?
 
-Debido a que el sistema se ejecuta como un contrato inteligente autónomo y todas las transacciones se guardan en una blockchain pública, los usuarios pueden interactuar con el sistema financiero de forma completamente transparente sin tener que confiar en una institución. Cualquiera puede verificar la solvencia del sistema revisando su estado manualmente o con herramientas analíticas como [MKR.Tools. ](https://mkr.tools/)
+Debido a que el sistema se ejecuta como un contrato inteligente autónomo y todas las transacciones se guardan en una blockchain pública, los usuarios pueden interactuar con el sistema financiero de forma completamente transparente sin tener que confiar en una institución. Cualquiera puede verificar la solvencia del sistema revisando su estado manualmente o con herramientas analíticas como [MKR.Tools](https://mkr.tools/).
 
 ## ¿Qué organizaciones están utilizando DAI?
 
 Se puede encontrar una lista actual en la sección de Asociaciones en el repositorio [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
-

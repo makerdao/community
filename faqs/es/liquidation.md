@@ -159,4 +159,3 @@ Un gran caída de precio en un único _exchange_ no afectaría al valor final pu
 ## ¿Donde puedo encontrar información en vivo sobre liquidaciones?
 
 Puedes utilizar [mkr.tools](https://mkr.tools/), una herramienta de terceros para analizar el sistema MakerDAO. Las páginas con información más relevantes son [liquidaciones](https://mkr.tools/system/liquidations) y [_bites_](https://mkr.tools/system/bites).
-
