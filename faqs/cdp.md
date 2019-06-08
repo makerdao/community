@@ -36,14 +36,14 @@ For example: Let's say the Ether locked in one's CDP is worth $150 right now and
 
 Owning a CDP is inherently risky. There are four major categories of risks to consider with using a CDP—Market Risks, User Risks, Systemic Risks, and Parameter Variability Risk.
 
-* Market Risks: Using a CDP involves assuming debt and transferring ownership of your assets to a smart contract that can sell your assets in the event of a market downturn. Any CDP with debt has a liquidation price, the price at which one's CDP is liquidated. Using a CDP for [leverage](https://www.investopedia.com/terms/l/leverage.asp) introduces another layer of risk. The potential for reward is higher through leverage, but the potential for loss is magnified as well. It is a common practice among users to maintain a high collateralization ratio in preparation for market downturns—to avoid liquidation.
-* User Risks: These are risks associated with user errors. MakerDAO does not possess the ability to reverse any transactions or recover funds sent to incorrect addresses or contracts.
-* Systemic Risks: There are many potential risks facing the successful and continued operation of the Maker Platform. The following list attempts to highlight some systemic risks, but is not all-inclusive:
+* **Market Risks:** Using a CDP involves assuming debt and transferring ownership of your assets to a smart contract that can sell your assets in the event of a market downturn. Any CDP with debt has a liquidation price, the price at which one's CDP is liquidated. Using a CDP for [leverage](https://www.investopedia.com/terms/l/leverage.asp) introduces another layer of risk. The potential for reward is higher through leverage, but the potential for loss is magnified as well. It is a common practice among users to maintain a high collateralization ratio in preparation for market downturns—to avoid liquidation.
+* **User Risks:** These are risks associated with user errors. MakerDAO does not possess the ability to reverse any transactions or recover funds sent to incorrect addresses or contracts.
+* **Systemic Risks:** There are many potential risks facing the successful and continued operation of the Maker Platform. The following list attempts to highlight some systemic risks, but is not all-inclusive:
   * A malicious hacking attack against the smart contract infrastructure
   * Black swan event in one or more collateral assets
   * Pricing errors, irrationality, and unforeseen circumstances
   * Failure of centralized infrastructure. E.g., failed internet connections, MetaMask bugs, etc.
-* Parameter Variability Risk: It's important to note that CDP owners are subject to changes in the Risk Parameters that govern the system. This equates to financial risk for the CDP owner. Below is a partial list of parameters that are subject to change:
+* **Parameter Variability Risk:** It's important to note that CDP owners are subject to changes in the Risk Parameters that govern the system. This equates to financial risk for the CDP owner. Below is a partial list of parameters that are subject to change:
   * Stability Fee
   * Liquidation Ratio
   * Debt Ceiling of the Collateral type
@@ -57,10 +57,10 @@ User risks can be mitigated by using small test amounts beforehand, and by thoro
 
 ## What are some benefits of owning a CDP?
 
-* Flexible repayment terms: There are no time limits or minimum repayment schedules involved with owning a CDP. Users are free to draw Dai or add additional collateral, whenever they choose.
-* No credit history requirements: There are no requirements related to prior borrowing history or cumbersome application processes. Anyone with an Ethereum address can access the system.
-* No counterparty risk: The system runs as an autonomous smart contract, users are able to interact with a transparent financial system without having to trust a counterparty institution to successfully manage, or release their funds. All transactions are recorded on a public blockchain and are available for anyone to audit.
-* Decentralized margin trading: Users can choose to lock up their Ether, draw DAI, and purchase more Ether to add to their original position. This allows them to take a leveraged margin position.
+* **Flexible repayment terms:** There are no time limits or minimum repayment schedules involved with owning a CDP. Users are free to draw Dai or add additional collateral, whenever they choose.
+* **No credit history requirements:** There are no requirements related to prior borrowing history or cumbersome application processes. Anyone with an Ethereum address can access the system.
+* **No counterparty risk:** The system runs as an autonomous smart contract, users are able to interact with a transparent financial system without having to trust a counterparty institution to successfully manage, or release their funds. All transactions are recorded on a public blockchain and are available for anyone to audit.
+* **Decentralized margin trading:** Users can choose to lock up their Ether, draw DAI, and purchase more Ether to add to their original position. This allows them to take a leveraged margin position.
 
 ## Why would I want to open a CDP?
 
@@ -115,4 +115,3 @@ Yes, so long as there is collateral inside of the CDP you can draw Dai. Liquidat
 ## How can I verify the solvency of the CDP ecosystem?
 
 The system runs on the Ethereum blockchain, so all contracts and transactions are public. Users can interact with a fully transparent financial system without having to trust a counterparty institution. Anyone can verify the solvency of the system for themselves by visiting one of the many [MakerDAO statistics dashboards](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai), or by querying the blockchain directly.
-

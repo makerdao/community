@@ -68,7 +68,7 @@ Token DAI może być nabyty poprzez szereg scentralizowanych oraz zdecentralizow
 
 ## Gdzie mogę zobaczyć wartość zabezpieczenia finansowego, na którym zbudowane jest DAI?
 
-Ponieważ system działa autonomicznie, za pomocą inteligentnych kontraktów i wszystkie transakcje zapisywane są na publicznym blockchainie, użytkownicy mają możliwość wchodzenia w interakcję z w pełni transparentnym systemem finansowym bez konieczności ufania kontrahentom. Każdy może sprawdzić wypłacalność systemu poprzez przejrzenie jego stanu ręcznie lub przy użyciu stosownych narzędzi analitycznych takich jak [MKR.Tools.](https://mkr.tools/)
+Ponieważ system działa autonomicznie, za pomocą inteligentnych kontraktów i wszystkie transakcje zapisywane są na publicznym blockchainie, użytkownicy mają możliwość wchodzenia w interakcję z w pełni transparentnym systemem finansowym bez konieczności ufania kontrahentom. Każdy może sprawdzić wypłacalność systemu poprzez przejrzenie jego stanu ręcznie lub przy użyciu stosownych narzędzi analitycznych takich jak [MKR.Tools](https://mkr.tools/).
 
 ## Jakie organizacje używają DAI?
 
