@@ -20,7 +20,7 @@
 * [¿Qué es Gobernanza?](governance.md#qu-es-gobernanza)
 * [¿Cómo gestionan los dueños de MKR el Sistema de Crédito Dai?](governance.md#cmo-gestionan-los-dueos-de-mkr-el-sistema-de-crdito-dai)
 * [¿Cómo puedo votar?](governance.md#cmo-puedo-votar)
-* [¿Cómo sé que mi voto fue contabilizado?]governance.md#cmo-s-que-mi-voto-fue-contabilizado)
+* [¿Cómo sé que mi voto fue contabilizado?](governance.md#cmo-s-que-mi-voto-fue-contabilizado)
 * [¿Puedo participar si la votación ya ha comenzado?](governance.md#puedo-participar-si-la-votacin-ya-ha-comenzado)
 * [¿Puedo cambiar mi voto una vez que lo haya hecho?](governance.md#puedo-cambiar-mi-voto-una-vez-que-lo-haya-hecho)
 * [¿Cómo se calculan los votos?](governance.md#cmo-se-calculan-los-votos)
