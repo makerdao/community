@@ -1,5 +1,21 @@
 # Dai
 
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=2 orderedList=false} -->
+
+
+- [Dai](#dai)
+  - [¿Qué es Dai?](#%C2%BFqu%C3%A9-es-dai)
+  - [¿Por qué querría usar Dai?](#%C2%BFpor-qu%C3%A9-querr%C3%ADa-usar-dai)
+  - [¿Un Dai siempre vale exactamente un dólar estadounidense?](#%C2%BFun-dai-siempre-vale-exactamente-un-d%C3%B3lar-estadounidense)
+  - [¿De dónde proviene Dai?](#%C2%BFde-d%C3%B3nde-proviene-dai)
+  - [¿Alguien más tiene derechos sobre mis tokens Dai?](#%C2%BFalguien-m%C3%A1s-tiene-derechos-sobre-mis-tokens-dai)
+  - [¿Cómo se mantiene estable el precio de Dai?](#%C2%BFc%C3%B3mo-se-mantiene-estable-el-precio-de-dai)
+  - [¿Cómo puedo crear Dai?](#%C2%BFc%C3%B3mo-puedo-crear-dai)
+  - [¿Dónde puedo comprar Dai?](#%C2%BFd%C3%B3nde-puedo-comprar-dai)
+  - [¿Dónde puedo ver la cantidad de colateral que está respaldando a Dai?](#%C2%BFd%C3%B3nde-puedo-ver-la-cantidad-de-colateral-que-est%C3%A1-respaldando-a-dai)
+  - [¿Qué organizaciones están utilizando DAI?](#%C2%BFqu%C3%A9-organizaciones-est%C3%A1n-utilizando-dai)
+
 ## ¿Qué es Dai?
 
 Dai es una moneda respaldada enteramente por colateral cuyo valor se mantiene estable en relación con el dólar estadounidense a través de una serie de incentivos financieros.
