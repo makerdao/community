@@ -25,7 +25,6 @@
 * Alphabetize all ordered lists of names unless there is a clear priority at work
 * All unordered list items are `*` not `-`
 * All ordered list items should use the #1 repeated:
-
     ```markdown
     1. Item 1
     2. Item 2
@@ -33,7 +32,6 @@
        1. Item 3a
        2. Item 3b
     ```
-
 * Consider using Visual Studio Code and install:
   * `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`
 
@@ -47,9 +45,7 @@
 ### File Names
 
 * Filenames contain information specific to the content of the file. Context is provided from the directory or through the presentation layer.
-
     `meeting-summary-ep-01.md`, not `scientific-governance-and-risk-meeting-summary-ep-01.md`
-
 * All filenames are lowercase and words are separated with `-`
   * Example: `meeting-transcript-ep-01.md`
 
@@ -71,7 +67,6 @@
 * Second example contains the numbers and the result:
     `(1000 * (1 + 0.005) ^ (30÷365)) * 1000 = 0.410018954 DAI`
 * Tips, Tricks and Notes should be wrapped in code fencing
-
     ```markdown
     Note: Liquidation is bad. Don't be liquidated.
     ```
