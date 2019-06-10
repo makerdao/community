@@ -74,10 +74,12 @@
 ### Complex Topics
 
 * Include parameters for reference
+
     | CDP Settings |Value |
     |--|--|
     | MKR Price via Oracle Feed | 100 |
     | ETH Price via Oracle Feed | 200 |
+
 * Provide an easy-to-follow example or a user story
 * Add example formulas where they further the discussion and/or for advanced topics
 
@@ -85,6 +87,7 @@
 
 * Use the same values for system Globals and Risk Parameters in all examples. This lowers the cognitive load required to parse the numbers
 * These are the defaults, copy and paste from here:
+
     | CDP Settings |Value |
     |--|--|
     | MKR Price via Oracle Feed | 100 |
