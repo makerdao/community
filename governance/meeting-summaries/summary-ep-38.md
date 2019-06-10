@@ -1,22 +1,22 @@
-# Ep. 37 \(May 30 - 2019\)
+# Ep. 38 \(June 6 - 2019\)
 
 ## Agenda
 
 The theme for this call will be 'Collateral Risk'
 
-- [00:00](): Intro from Rich Brown
-- [16:33](): Analysis from Vishesh
-- [49:11](): Intro to Collateral Risk with Cyrus
+- [00:00](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=5): Intro from Rich Brown
+- [16:33](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=999): Analysis from Vishesh
+- [48:11](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2892): Intro to Collateral Risk with Cyrus
 
 ### Introduction
 
-#### Rich [00:00]()
+#### Rich [00:00](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=5)
 
 - Don't be hesitant to give us feedback, questions, comments, and concerns about these calls and conversations! 
 - This is not a governance committee, we don't decide things on this call. This where we debate things, talk about trends, clear up misconceptions, present analytics, and so on. 
 - We are shifting the focus away from the peg and more towards discussions around Collateral types and Risk. 
 
-###### Governance [04:00]()
+###### Governance [04:00](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=241)
 
 - We have a voting system that we are trying to make accessible to all potential MKR voters.
     - How do we make voters feel like they can make a difference?
@@ -34,7 +34,7 @@ The theme for this call will be 'Collateral Risk'
 - Things we need:
     - Push notifications around Governance actions. 
 
-#### Cyrus [13:42]()
+#### Cyrus [13:42](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=826)
 ##### Governance 
 
 - Us having a high cadence with polling helps mitigate any mistakes. Since, if some crazy vote goes through, we can quickly undo it. 
@@ -42,7 +42,7 @@ The theme for this call will be 'Collateral Risk'
 
 ### Risk
 
-#### Vishesh: Analytics: [16:33]() 
+#### Vishesh: Analytics: [16:33](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=999) 
 [Vishesh's Graphs](http://makerdao.descipher.io/)
 [DAI 24hr VWAP Graph](http://dai.descipher.io/)
 
@@ -67,22 +67,22 @@ The theme for this call will be 'Collateral Risk'
     - Decreased Col. Ratio and increased Dai supply may indicate that there was some uptick in leverage. 
 
 ##### Questions to Vishesh
-- [26:04](): How long does it take for us to see cause and effect in response to the Stability Fee changes? 
+- [26:04](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=1565): How long does it take for us to see cause and effect in response to the Stability Fee changes? 
     - My short answer is that there is no defined time-period. I do think there is a certain minimum level of resolution that comes into play after 3-5 days. However, there is a huge element of guesswork involved in approximating this range. 
     - The bigger thing is how do we judge the time-scale when there are multiple other changes occurring: for example a SF decrease paired with a ETH price drop.
-- [33:52](): Can we assume that, if the peg seems stable, should we be lowering the stability fee as a best practice? 
+- [33:52](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2033): Can we assume that, if the peg seems stable, should we be lowering the stability fee as a best practice? 
     - It is hard to know the motives of MKR voters. However, if the system can function properly while having the SF becomes less expensive, that is probably a good thing. 
     - It would be interesting to see the overlap between MKR holders and CDP users. 
-- [36:33](): Isn't the drop in the Collateralization Ratio a result of a falling ETH price? 
+- [36:33](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2194): Isn't the drop in the Collateralization Ratio a result of a falling ETH price? 
     - Mathematically, yes. But what we've seen historically is that within 2-3 days after such a downward price movement people tend to move the collateral ratio back up. However, this time it has not happened and has continued to go down despite ETH price continuing to drop. 
-- [38:22](): Discussion on DSR effect on Secondary Lending Markets 
+- [38:22](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2303): Discussion on DSR effect on Secondary Lending Markets 
 
-#### Matthew Rabinowitz [46:38]()
+#### Matthew Rabinowitz [46:38](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2799)
 - Alex and Vishesh are continuing R&D on the PID idea. 
 
-#### Cyrus [48:11]()
+#### Cyrus [48:11](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=2892)
 
-##### Collateral Risk Intro & Discussion [48:11]()
+##### Collateral Risk Intro & Discussion
 - Many of these discussions take place on Rocketchat, Reddit, and other forums. It will be difficult to give a full overview of Collateral Risk on this call, but we can try. 
 - Today I will be covering a few different things: 
     - Overview of various aspects of Risk.
@@ -98,7 +98,7 @@ The theme for this call will be 'Collateral Risk'
         - Essentially the two topics are: What is the likelihood of CDP default & given that number, what's the upper bound on the exposure we can facilitate (which is defined by the debt ceiling).
         - The stability fee that we attach to a type of CDP will compensate for this risk. 
         - In order to assess this risk, we can go a number of different routes. We can start with academic frameworks, and then work our way down to pragmatic solutions. 
-- [01:03:41](): Qualitative Assessments: 
+- [01:03:41](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=3817): Qualitative Assessments: 
     - The Qualitative assessment helps you identify risks outside of ones you can observe from the market history of the asset. 
     - This can be a good jump-off point for the community to contribute.
     - 1st consideration: How does that collateral appear on our doorstep. We need to come to some agreed-upon method for an onboarding approach. Determining a priority would include factors such as:
@@ -112,12 +112,12 @@ The theme for this call will be 'Collateral Risk'
 
 ##### Questions for Cyrus (Also counts as post-call questions)
 
-- [53:00](): How do we quantify or track the basis of these exposures?
+- [53:00](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=3180): How do we quantify or track the basis of these exposures?
     - Theoretically, that is what we would like to do. In practice, we will experiment with a number of approached. We will likely find the need for programmatic solutions to help.  
-- [58:08](): How are you reasoning about the Risk premium? What is its purpose and what factors into it? 
+- [58:08](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=3490): How are you reasoning about the Risk premium? What is its purpose and what factors into it? 
     - Compensates for bad CDP liquidations(Liquidations that further require recapitalization through the issuance of MKR). 
-- [01:00:56](): How does the system respond to bad debt events? Is the Collateralization Ratio raised if an asset experiences bad debt past a certain threshold or at all? 
+- [01:00:56](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=3654): How does the system respond to bad debt events? Is the Collateralization Ratio raised if an asset experiences bad debt past a certain threshold or at all? 
     - The problem is the risks that don't necessarily manifest in the history of the market for a certain asset. Some bad debt or severe market events are hard to account for. 
-- [01:05:50](): How do we reason about Collateralization Ratios versus Risk Premiums? 
+- [01:05:50](https://youtu.be/AAYQZStoysQ?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&t=3953): How do we reason about Collateralization Ratios versus Risk Premiums? 
     - The Collateralization Ratio is a metric to measure against expected maximum slippage during the auctions. 
     - The Risk Premium has more to do with the Risk of many CDPs of one type becoming subject to liquidation at once.
