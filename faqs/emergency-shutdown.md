@@ -78,9 +78,7 @@ Anyone can redeploy the system since it is open source software.
 Depending on the details of each redeployment, the market, along with various system participants will have to choose the one with the most appropriate changes. Some factors include:
 
 *   No unwarranted code changes
-
 *   Changes in the distribution of the MKR token
-
 *   Changes in the Risk Parameters
 
 ## Who decides how the system should be redeployed?
@@ -89,8 +87,8 @@ Since it is open source software, anyone can decide. Ideally, the parameters of 
 
 | Reason| Solution|
 |---|---|
-| Governance attack | Fork out malicious MKR holders in new redistribution,  redeploy system with everything else as-is                                                                               |
-| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix,  redeploy system with everything else as-is                                                                      |
+| Governance attack | Fork out malicious MKR holders in new redistribution,  redeploy system with everything else as-is |
+| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix,  redeploy system with everything else as-is |
 | Market Black Swan | Redeploy system with everything as-is, allow MKR voters to decide  how best to address this event through new or improved system mechanics  that can be added post-redeployment |
 
 ## During Emergency Shutdown, will CDP owner's collateral be given away to other people?
@@ -102,7 +100,6 @@ Example:
 > If you have a CDP with 1 ETH that's worth 300 USD, and 100 debt, you will be left with 0.6666 ETH and no debt. 
  The Net Value of the CDP is made available for redemption, which is 300 USD value of the collateral, minus 100 USD of debt. 
  Therefore, you will be able to claim 0.6666 ETH after the 6 hour delay period. 
-
 
 ## Is there anything preventing MKR holders from triggering an Emergency Shutdown in order to avoid MKR dilution due to poor management?
 
