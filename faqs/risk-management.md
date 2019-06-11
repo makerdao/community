@@ -61,21 +61,15 @@ Proposed new collateral will go through a due-diligence process, including a qua
 Qualitative Risk Analysis uses a relative or descriptive scale to measure risks based on their probability of occurring and the impact on the asset should they occur. To evaluate an asset for its risks, one needs to understand and assess the organization behind the asset, the characteristics of the token, and other relevant details. This is called a Qualitative assessment. The process of compiling the information has three parts:
 
 *   The Initial Collateral Onboarding Process: this covers the trade support structure, distribution of token holdings and available data series.
-
 *   The Operational Assessment Process: this covers the organization itself, the organization's operational risks, regulatory risks, the quality of the community, etc.
-
 *   The Technological Assessment Process: this covers the robustness and security of the underlying technology.
 
 Due diligence related to each of these three parts will give one information that can be compiled into distinct features and assigned ratings. These features are:
 
 *   **Team**: Core team and advisors
-
 *   **Community**: Sentiment analysis
-
 *   **Technology** :  Security and completeness review
-
 *   **Market and Competitiveness**:  SWOT analysis
-
 *   **Business Models** : Structural and legal analysis
 
 An overall score, formed as a result of the individual ratings, will serve as the mathematical input for the Risk Model. The score, judged against other assets in the portfolio, will be the adjustment factor to the risk parameters of that token.
