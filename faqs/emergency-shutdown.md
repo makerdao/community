@@ -99,11 +99,10 @@ During Emergency Shutdown, collateral is immediately made available for redempti
 
 Example:
 
-```
- If you have a CDP with 1 ETH that's worth 300 USD, and 100 debt, you will be left with 0.6666 ETH and no debt. 
+> If you have a CDP with 1 ETH that's worth 300 USD, and 100 debt, you will be left with 0.6666 ETH and no debt. 
  The Net Value of the CDP is made available for redemption, which is 300 USD value of the collateral, minus 100 USD of debt. 
  Therefore, you will be able to claim 0.6666 ETH after the 6 hour delay period. 
-```
+
 
 ## Is there anything preventing MKR holders from triggering an Emergency Shutdown in order to avoid MKR dilution due to poor management?
 
