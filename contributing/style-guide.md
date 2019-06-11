@@ -61,6 +61,9 @@
 ## FAQ Style Guide
 
 * Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt"
+* List items that include definitions should look like this:
+  * **Team:** Core team and advisors.
+  * **Community**: Sentiment analysis.
 * Formulas should be wrapped in inline code blocks
 * First example defines the terms:
     `(((Total Stability Debt in DAI * (1 + Current Governance Fee in decimal format)) ^ (Age of Stability Debt in days/365)) * Total Stability Debt in DAI ) = Total Governance Debt owed in DAI`
