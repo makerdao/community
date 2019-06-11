@@ -47,7 +47,7 @@ Calculating CDP claims involves on-chain calculation and movement of funds. Proc
 
 Setting a shorter time period will expose CDP owners to the risk of incorrect collateral claim amounts. CDP owners who try to close their CDPs and exit from PETH to WETH before the processing is finished will likely penalize themselves, the delay period is intended to protect them.
 
-When Emergency Shutdown happens W-ETH is taken from the `tub`, which is all the WETH that is pooled into PETH, to cover Dai holders. This lowers the PETH ratio. If a user tries to convert their PETH into WETH during the Emergency Shutdown's 6 hour delay period they may be subject to an artificially low PETH ratio.
+When Emergency Shutdown happens WETH is taken from collection of WETH that is pooled into PETH, to cover Dai holders. This lowers the PETH ratio. If a user tries to convert their PETH into WETH during the Emergency Shutdown's 6 hour delay period they may be subject to an artificially low PETH ratio.
 
 ## Do Dai holders need to redeem collateral, or is it just CDP owners?
 
