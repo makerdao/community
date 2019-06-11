@@ -69,7 +69,7 @@
     `(((Total Stability Debt in DAI * (1 + Current Governance Fee in decimal format)) ^ (Age of Stability Debt in days/365)) * Total Stability Debt in DAI ) = Total Governance Debt owed in DAI`
 * Second example contains the numbers and the result:
     `(1000 * (1 + 0.005) ^ (30÷365)) * 1000 = 0.410018954 DAI`
-* Tips, Tricks and Notes should be wrapped in code fencing
+* Examples, tips, tricks and notes should be wrapped in code fencing
     ```markdown
     Note: Liquidation is bad. Don't be liquidated.
     ```
