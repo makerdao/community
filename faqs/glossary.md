@@ -9,6 +9,7 @@
 * **Burn**: the process of destroying MKR that are paid as stability fees
 * **Burner Address**: the public Ethereum address that escrows MKR prior to burning
 
+
 ## C
 
 * **CDP Portal**: a front-end application with which you can interact with your CDP
