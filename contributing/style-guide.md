@@ -60,6 +60,8 @@
 
 ## FAQ Style Guide
 
+* Always use relative links 
+* Look for terms to add to the [Glossary](../faqs/glossary.md)
 * Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt"
 * List items that include definitions should look like this:
   * **Team:** Core team and advisors.
@@ -69,10 +71,12 @@
     `(((Total Stability Debt in DAI * (1 + Current Governance Fee in decimal format)) ^ (Age of Stability Debt in days/365)) * Total Stability Debt in DAI ) = Total Governance Debt owed in DAI`
 * Second example contains the numbers and the result:
     `(1000 * (1 + 0.005) ^ (30÷365)) * 1000 = 0.410018954 DAI`
-* Examples, tips, tricks and notes should be wrapped in code fencing
+* Examples, tips, tricks and notes should be wrapped in code fencing when formatting needs to be preserved or color coding is useful.
     ```markdown
     Note: Liquidation is bad. Don't be liquidated.
     ```
+    Otherwise:
+    > use a quote
 
 ### Complex Topics
 
