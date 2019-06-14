@@ -41,7 +41,7 @@
 * Do not make multiple top level headings. Only use '#' once per document
 * No trailing spaces
 * Ensure there is a single hard return at the end of the file
-* Ensure the SUMMARY.md file is updated for every document that should show up in Gitbook
+* Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in Gitbook
 
 ### File Names
 
@@ -53,7 +53,8 @@
 ## Github
 
 * Ensure your repository is up to date
-* Discuss your efforts in #community-development
+* **Commit early and often.** Get your changes in before you have to do a huge merge.
+* Discuss your efforts in [#community-development](https://chat.makerdao.com/channel/community-development)
 * Ask for feedback before starting a long project
 * Make descriptive commit messages
   * "Fixed something" = Bad
@@ -61,7 +62,7 @@
 
 ## FAQ Style Guide
 
-* Always use relative links 
+* Always use relative links
 * Look for terms to add to the [Glossary](../faqs/glossary.md)
 * Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt"
 * List items that include definitions should look like this:
