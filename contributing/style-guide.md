@@ -39,6 +39,7 @@
 
 * Line breaks above and below headings
 * Do not make multiple top level headings. Only use '#' once per document
+* No trailing spaces
 * Ensure there is a single hard return at the end of the file
 * Ensure the SUMMARY.md file is updated for every document that should show up in Gitbook
 
