@@ -73,8 +73,8 @@
       * [Episode 24: Feb 28, 2019](governance/governance-and-risk-meetings/transcripts/episode-24.md)
       * [Episode 23: Feb 21, 2019](governance/governance-and-risk-meetings/transcripts/episode-23.md)
 * [Grants Program](grants/README.md)
-  * [Community Development Grantee Playbook](grants/grantee-playbook.md)
+  * [Grantee Playbook](grants/grantee-playbook.md)
 * [Hackathons and Bounties](hackathons/README.md)
-  * [Hackathon Funding Requirements](hackathons/requirements.md)
+  * [Funding Requirements](hackathons/requirements.md)
 * Contributing
   * [Style Guide](contributing/style-guide.md)
