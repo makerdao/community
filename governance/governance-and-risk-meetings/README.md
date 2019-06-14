@@ -1,6 +1,6 @@
 # Governance and Risk Meeting
 
-In these meetings we set the stage for cultural and operational consensus across the community for a number of issues that relate to the [Scientific Governance and Risk Framework](LINK).
+In these meetings, we set the stage for cultural and operational consensus across the community for a number of issues that relate to the [Scientific Governance and Risk Framework](LINK).
 
 To make sure we create opportunities for the greatest amount of direct community interaction, we have weekly calls on Thursdays. In the calls, we:
 
@@ -18,9 +18,9 @@ We also explore a range of themes:
 - How do we measure positive and negative externalities?
 - What is 'risk'? How do we measure and manage it?
 - How do we move towards Gradual Decentralisation?
-- How to we foster healthy debate?
+- How do we foster a healthy debate?
 
-In these weekly calls we will be learning together from some of the smartest people in the space.
+In these weekly calls, we will be learning together from some of the smartest people in the space.
 
 If you have an interest in helping Maker evolve over the next few years, please sit in and take part in shaping the future of our DAO.
 
