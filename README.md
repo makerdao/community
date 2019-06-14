@@ -10,7 +10,7 @@ Awesome-MakerDAO is a community-curated list of MakerDAO related resources and c
 
 ### [Community Meetups & MicroGrants](meetups/README.md)
 
-Community members are incredibly important to MakerDAO and play a valuable role in building a stronger ecosystem. The Community Development Group wants to provide the resources you need to increase Dai adoption and help us bring stability and financial inclusion to the masses. To do this, we have created a DIY Meetup guide and micro-granting program dedicated to helping anyone create and organize a local community meetup.
+Community members are incredibly important to MakerDAO and play an invaluable role in building a stronger ecosystem. The Community Development Group wants to provide the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To do this, we have created a DIY Meetup guide and micro-granting program dedicated to helping anyone create and organize a local community meetup.
 
 ### Community Translations
 
@@ -26,11 +26,11 @@ In bootstrapping Governance, we've set up this section to hold helpful resources
 
 ### [Grants Program](grants/README.md)
 
-One of the most important initiatives at MakerDAO is identifying and incentivizing third-party talent to contribute to the Maker ecosystem. The initial iteration of this granting process is dedicated to bootstrapping projects with small to midsize grants. The allocated funds are only released when teams reach predetermined milestones. Successful projects may also gain access to internal consulting resources.
+The MakerDAO Community grants program is designed to directly support projects that increase Dai adoption, support emerging economies, open up new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
 
 ### [Hackathons](hackathons/README.md)
 
-MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request that we participate in an upcoming hackathon.
+MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request our participation in an upcoming event.
 
 ### How to get involved
 

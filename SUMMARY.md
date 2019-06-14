@@ -53,6 +53,8 @@
     * [Likwidacje](faqs/pl/liquidation.md)
     * [Zarządzanie](faqs/pl/governance.md)
 * [Governance](governance/README.md)
+  * [Governance and Risk Framework](governance/governance-and-risk-framework/README.md)
+    * [Part One](governance/governance-risk-framework/part-one.md)
   * [Governance and Risk Meeting](governance/governance-and-risk-meetings/README.md)
     * Summaries
       * [Episode 36: May 30, 2019](governance/governance-and-risk-meetings/summaries/episode-36.md)

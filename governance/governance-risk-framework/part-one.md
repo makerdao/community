@@ -150,7 +150,7 @@ The internal risk team starts the process by considering the risks inherent to t
 In short, the internal team is to create the first risk construct for Maker token holders to consider. The construct needs to identify, quantify and manage the risks of supplying Dai through the use of CDPs. How the internal team creates and implements that construct, will be explored in the second part of this series.
 
 ## Conclusion
-
+s
 In this first part of the series on the Governance Risk Framework, we considered where Dai fits into the suite of stablecoins in the industry. We further outlined the function of supplying Dai and focused on the salient risks of this process. Importantly, we described the intended decentralized risk management function that will be in place to manage these risks. Including an initial outline of where Maker token holders fit in and the types of decisions required.
 
 The second part of this series will focus on the first risk construct that starts the whole process. We will consider each of the significant risks inherent to the system and focus on how a risk construct is to be created to manage those risks. The second part will be a more in-depth look at what type of models to employ, how they are interrelated, and how to combine them into a well-formed risk construct.
