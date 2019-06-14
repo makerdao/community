@@ -55,10 +55,10 @@
 * [Governance](governance/README.md)
   * Governance and Risk Meeting
     * Summaries
-      * [Ep. 36 \(May 30 - 2019\)](governance/meeting-summaries/summary-ep-36.md)
+      * [Episode 36 - May 30 - 2019](governance/meeting-summaries/summary-ep-36.md)
       * [Ep. 35 \(May 23 - 2019\)](governance/meeting-summaries/summary-ep-35.md)
     * Transcripts
-      * [Ep. 36 \(May 30 - 2019\)](governance/meeting-transcripts/transcript-ep-36.md)
+      * [Episode 36 - May 30 - 2019](governance/meeting-transcripts/transcript-ep-36.md)
       * [Ep. 35 \(May 16 - 2019\)](governance/meeting-transcripts/transcript-ep-35.md)
       * [Ep. 34 \(May 09 - 2019\)](governance/meeting-transcripts/transcript-ep-34.md)
       * [Ep. 33 \(May 02 - 2019\)](governance/meeting-transcripts/transcript-ep-33.md)
