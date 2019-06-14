@@ -76,3 +76,5 @@
   * [Community Development Grantee Playbook](grants/grantee-playbook.md)
 * [Hackathons and Bounties](hackathons/README.md)
   * [Hackathon Funding Requirements](hackathons/requirements.md)
+* Contributing
+  * [Style Guide](contributing/style-guide.md)
