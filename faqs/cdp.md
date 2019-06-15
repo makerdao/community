@@ -10,7 +10,7 @@ CDPs are required to be overcollateralized. The value of collateral in a CDP is 
 
 ## How does a CDP work?
 
-Any user who wishes to draw Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. As long as CDP owners maintain the minimum [Collateralization Ratio](https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio), they may freely withdraw or deposit surplus collateral.
+Any user who wishes to draw Dai may deposit ETH into a CDP. Once escrowed, the user may generate Dai against the value of their deposit. As long as CDP owners maintain the minimum [Collateralization Ratio](#what-is-the-collateralization-ratio), they may freely withdraw or deposit surplus collateral.
 
 After generating their Dai, CDP users can do whatever they want with it. If a user wishes to reclaim the full amount of their collateral, they will need to pay the full amount of Dai back.
 
@@ -30,7 +30,7 @@ If a CDP becomes under-collateralized, or ‘unsafe,' it can be liquidated and h
 
 The Collateralization Ratio is the ratio between the value of collateral users have added to their CDP, and how much DAI they have drawn.
 
-For example: Let's say the Ether locked in one's CDP is worth $150 right now and 50 Dai was borrowed. This means the Collateralization Ratio is 300%. For each 1 Dai, there is $3 worth of collateral value backing it. In the Maker System, your CDP may be liquidated if it falls below the [Liquidation Ratio](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), which is the minimum Collateralization Ratio.
+For example: Let's say the Ether locked in one's CDP is worth $150 right now and 50 Dai was borrowed. This means the Collateralization Ratio is 300%. For each 1 Dai, there is $3 worth of collateral value backing it. In the Maker System, your CDP may be liquidated if it falls below the [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio), which is the minimum Collateralization Ratio.
 
 ## What risks are associated with owning a CDP?
 
@@ -104,7 +104,7 @@ Once your collateral has been staked or escrowed, it is no longer possible to us
 
 ## Do I have to pay back Dai if my collateral goes up in value?
 
-Users must manually repay all their debt, including the [Stability Fee](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md#what-is-the-stability-fee) if they wish to free the entirety of their collateral. The system does not automatically pay Stability Fees from the appreciating value of collateral inside CDPs.
+Users must manually repay all their debt, including the [Stability Fee](stability-fee.md#what-is-the-stability-fee) if they wish to free the entirety of their collateral. The system does not automatically pay Stability Fees from the appreciating value of collateral inside CDPs.
 
 As collateral goes up in value, one can withdraw portions of it while maintaining the same Collateralization Ratio. Any collateral above the minimum Collateralization Ratio can be withdrawn, however doing so will push up one's liquidation price thus increasing one's risk. If your collateral value grows, your Collateralization Ratio grows.
 
