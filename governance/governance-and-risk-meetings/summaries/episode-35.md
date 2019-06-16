@@ -85,28 +85,28 @@ The theme for this call will be 'Demand/Supply Imbalance'.
 - Volume has come back up a little but is still at relatively low levels compared to earlier this week.
 - I don't think we can make monetary policy decisions based on 2-5 day trends.
 - ETH price vs Dai price:
-    - In the past, there was a strong inverse correlation. Recently this has flipped and become correlated. This broke the model, which means there is a deficiency in the model.
-    - My suspicion is that I need to be more refined about how we think about ETH price short and long term. It's possible there are two models here: what does Dai do in a bull market vs a bear market situation since they are clearly different things.
-    -  Defining environmental conditions will help us refine our models.
+  - In the past, there was a strong inverse correlation. Recently this has flipped and become correlated. This broke the model, which means there is a deficiency in the model.
+  - My suspicion is that I need to be more refined about how we think about ETH price short and long term. It's possible there are two models here: what does Dai do in a bull market vs a bear market situation since they are clearly different things.
+  - Defining environmental conditions will help us refine our models.
 - Supply:
-    - Has been coming down in the past few weeks fairly consistently.
-    - A few major burns.
-    - The flywheel is moving, circulation of debt is strong.
-    - Circulation of debt is a very interesting and overlooked metric in my opinion.
+  - Has been coming down in the past few weeks fairly consistently.
+  - A few major burns.
+  - The flywheel is moving, circulation of debt is strong.
+  - Circulation of debt is a very interesting and overlooked metric in my opinion.
 - Secondary DeFi Lending Rates:
-    - A healthy buffer of ~3% has persisted between Maker and SLMs.
-    - I've been only looking at Compound as the most reliable signal for now.
-    - Reports of CDP users refinancing didn't seem to reflect in the volume of any SLMs. Not sure where they are potentially refinancing too, so it's hard to say what people are actually doing.
+  - A healthy buffer of ~3% has persisted between Maker and SLMs.
+  - I've been only looking at Compound as the most reliable signal for now.
+  - Reports of CDP users refinancing didn't seem to reflect in the volume of any SLMs. Not sure where they are potentially refinancing too, so it's hard to say what people are actually doing.
 - Collateralization Ratio:
-    - The Ratio has gone up and is remaining steady.
-    - This metric is important because it speaks to the idea that people want to maintain this buffer, so they are still potentially worried about a drop in ETH price.
-    - Seems like people are fairly neutral on ETH.
+  - The Ratio has gone up and is remaining steady.
+  - This metric is important because it speaks to the idea that people want to maintain this buffer, so they are still potentially worried about a drop in ETH price.
+  - Seems like people are fairly neutral on ETH.
 - Questions & Discussion:
-    - [42:45](https://youtu.be/E-YDss-fS6U?t=2565): Rich asks, should we be calling out regularly the tail of data necessary before we should make a decision?
-        - We are trying to balance the idea that time is our friend, to establish a better basis for decisions, vs If we know we're in a bad place inaction can be bad for very obvious reasons.
-    - [48:38](https://youtu.be/E-YDss-fS6U?t=2918) David asks, Do you think there is a systemic bias preventing a comfortable scenario to lower the stability fee? ie: Can Dai behave like it's at an equilibrium point, blurring the real equilibrium point which might be lower in regards to the Stability Fee?
-        - Local vs Global equilibrium.
-    - [50:33](https://youtu.be/E-YDss-fS6U?t=3033) Cyrus comments, "I'm hesitant to draw too many conclusions from the bear market from last year, etc.."
+  - [42:45](https://youtu.be/E-YDss-fS6U?t=2565): Rich asks, should we be calling out regularly the tail of data necessary before we should make a decision?
+    - We are trying to balance the idea that time is our friend, to establish a better basis for decisions, vs If we know we're in a bad place inaction can be bad for very obvious reasons.
+  - [48:38](https://youtu.be/E-YDss-fS6U?t=2918) David asks, Do you think there is a systemic bias preventing a comfortable scenario to lower the stability fee? ie: Can Dai behave like it's at an equilibrium point, blurring the real equilibrium point which might be lower in regards to the Stability Fee?
+    - Local vs Global equilibrium.
+  - [50:33](https://youtu.be/E-YDss-fS6U?t=3033) Cyrus comments, "I'm hesitant to draw too many conclusions from the bear market from last year, etc.."
 
 ### Post-Call Questions & Discussion [56:21](https://youtu.be/E-YDss-fS6U?t=3383)
 

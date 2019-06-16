@@ -28,7 +28,7 @@ Pour fonctionner, une économie numérique décentralisée a besoin de stabilit�
 
 ## Un dai vaut-il toujours exactement un dollar ?
 
-Non. Le dai n'est pas strictement attaché à la valeur d'une monnaie fiduciaire existante. Il maintient plutôt une parité variable et dont la volatilité est extrêmement faible par rapport à celle d'autres cryptomonnaies. Toutefois, un mécanisme appelé "arrêt d'urgence" rend le dai échangeable contre exactement 1$ en cryptoactifs, tel que calculé par l'oracle au moment de l'arrêt.
+Non. Le dai n'est pas strictement attaché à la valeur d'une monnaie fiduciaire existante. Il maintient plutôt une parité variable et dont la volatilité est extrêmement faible par rapport à celle d'autres cryptomonnaies. Toutefois, un mécanisme appelé "arrêt d'urgence" rend le dai échangeable contre exactement 1\$ en cryptoactifs, tel que calculé par l'oracle au moment de l'arrêt.
 
 ## D'où vient le dai ?
 
@@ -36,7 +36,7 @@ Le dai entre dans l'écosystème des cryptomonnaies lors de son émission par un
 
 Un ensemble de contrats intelligents conçus spécifiquement pour répondre aux pressions du marché travaillent de concert pour assurer la stabilité du dai, ce qui est d'importance primordiale. Il est de la nature des contrats intelligents que nul ne peut modifier les mécanismes fondamentaux du dai, ce qui en fait une monnaie sûre et prévisible.
 
-Il est important de remarquer que les utilisateurs du dai n'ont pas besoin de comprendre ces mécanismes avant de s'en servir: il leur suffit de consulter le bilan historique du dai pour décider si, selon eux, le dai restera à un prix proche de 1$.
+Il est important de remarquer que les utilisateurs du dai n'ont pas besoin de comprendre ces mécanismes avant de s'en servir: il leur suffit de consulter le bilan historique du dai pour décider si, selon eux, le dai restera à un prix proche de 1\$.
 
 ## Quelqu'un d'autre a-t-il des droits sur mon Dai ?
 
@@ -54,7 +54,7 @@ Si la demande en dai excède systématiquement l'offre \(ou l'inverse\), cela in
 
 En tirant parti d'opportunités entre plusieurs marchés en dai, les arbitragistes contribuent aussi à stabiliser sa valeur à court terme.
 
-Les détenteurs de CDP peuvent aussi aider à maintenir la parité en tirant parti d'une hausse brutale de la demande en dai et d'une montée de son prix au-dessus de 1$. Cela permet à un utilisateur de CDP d'émettre des dais et de s'en servir pour acheter des actifs avec un pouvoir d'achat supplémentaire. À l'inverse, lorsque le dai s'échange pour moins d'un dollar, un utilisateur de CDP peut vendre ses actifs contre des dais à moindre coût et s'en servir pour rembourser son CDP avec une remise d'un degré variable.
+Les détenteurs de CDP peuvent aussi aider à maintenir la parité en tirant parti d'une hausse brutale de la demande en dai et d'une montée de son prix au-dessus de 1\$. Cela permet à un utilisateur de CDP d'émettre des dais et de s'en servir pour acheter des actifs avec un pouvoir d'achat supplémentaire. À l'inverse, lorsque le dai s'échange pour moins d'un dollar, un utilisateur de CDP peut vendre ses actifs contre des dais à moindre coût et s'en servir pour rembourser son CDP avec une remise d'un degré variable.
 
 Enfin, des acteurs tiers du réseau, appelés gardiens, aident à stabiliser le prix du dai. Les gardiens sont des individus ou des programmes informatiques qui tirent parti de possibilités d'arbitrage qui aident à maintenir la parité du dai.
 

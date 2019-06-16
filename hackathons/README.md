@@ -13,4 +13,3 @@ Check the Issues tab to see current and past challenges MakerDAO has offered. If
 ## Contact
 
 For questions about the challenge please message [@rich.brown](https://chat.makerdao.com/direct/rich.brown) in our chat or feel free to ping the MakerDAO \#devs in [chat.makerdao.com/channel/dev](https://chat.makerdao.com/channel/dev).
-

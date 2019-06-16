@@ -164,4 +164,3 @@ A flash crash on a single exchange will not affect the system as each Oracle agg
 ## Where can I view live information about Liquidations?
 
 You can explore [mkr.tools](https://mkr.tools/), which is a 3rd party tool that tracks the MakerDAO system. The two most relevant pages for information are [Liquidations](https://mkr.tools/system/liquidations) and [bites](https://mkr.tools/system/bites).
-

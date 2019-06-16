@@ -2,20 +2,20 @@
 
 ![The Governance Risk Framework: Part 1](https://cdn-images-1.medium.com/max/1600/1*ARg3W_xLS0yvS2rsz6J6LQ.png)
 
-> *Untermyer: “Is not commercial credit based primarily upon money or property?”*
+> _Untermyer: “Is not commercial credit based primarily upon money or property?”_
 >
-> *Morgan: “No sir, the first thing is character.”*
+> _Morgan: “No sir, the first thing is character.”_
 >
-> *Untermyer: “Before money or property?”*
+> _Untermyer: “Before money or property?”_
 >
-> *Morgan: “Before money or property or anything else. Money cannot buy it”*
+> _Morgan: “Before money or property or anything else. Money cannot buy it”_
 >
-> *Morgan: - “...because a man I do not trust could not get money from me on all the
-> bonds in Christendom.”*
+> _Morgan: - “...because a man I do not trust could not get money from me on all the
+> bonds in Christendom.”_
 >
-> *J.P. Morgan at the Pujo Committee 1912–1913*
+> _J.P. Morgan at the Pujo Committee 1912–1913_
 >
-> *[Morgan American Financier: Jean Strouse]*
+> _[Morgan American Financier: Jean Strouse]_
 
 ## Introduction
 
@@ -35,13 +35,13 @@ The stability implied in the name is created through a mechanism of dynamics tha
 
 Currently, three mechanisms or types of stablecoin have transpired that attempt to implement this:
 
-* IOU
-* Seigniorage Shares
-* Collateralized
+- IOU
+- Seigniorage Shares
+- Collateralized
 
 These different types implicitly state where the users of the stablecoin should place their trust.
 
-The IOU organization is asking the user to place their trust in the traditional centralized system;give them an asset (usually a $1), they will keep it with a centralized custodian and will provide you with a token in return. If you want your asset back, give them the token and the centralized custodian will give you your asset back. The user explicitly trusts that the custodian will look after its assets.
+The IOU organization is asking the user to place their trust in the traditional centralized system;give them an asset (usually a \$1), they will keep it with a centralized custodian and will provide you with a token in return. If you want your asset back, give them the token and the centralized custodian will give you your asset back. The user explicitly trusts that the custodian will look after its assets.
 
 Seigniorage share or Algorithmic based organizations ask the user to place their trust with them. If the price of the token is too high, they will increase the supply and reduce demand. If the price is too low, they will increase demand and lower supply. The user explicitly trusts that they, or the mechanisms deployed
 by the organization, will respond in a timely and appropriate fashion to keep the system and by definition their token stable.
@@ -60,11 +60,9 @@ The stablecoin of the Maker organization is Dai. Dai is supplied to the Ethereum
 
 As mentioned, a CDP is a smart contract designed with the purposes of minimizing credit risk using collateralization as well as supplying Dai to the Ethereum economy. So what is credit risk and why do we need collateralization?
 
-Credit or counterparty risk is the risk that a borrower will default on their debt. If that occurs, the lender would like recourse to the borrower to recover that debt. The simplest way to do this is by using collateral. Collateralization is a fundamental tool used throughout the traditional finance space to minimize
-or mitigate credit risk. Collateralization occurs when a borrower pledges an asset as recourse to the lender in the event of default on that loan. Two fundamental concepts need elaboration. They are the ‘pledge of assets’ and the ‘event of default’.
+Credit or counterparty risk is the risk that a borrower will default on their debt. If that occurs, the lender would like recourse to the borrower to recover that debt. The simplest way to do this is by using collateral. Collateralization is a fundamental tool used throughout the traditional finance space to minimize or mitigate credit risk. Collateralization occurs when a borrower pledges an asset as recourse to the lender in the event of default on that loan. Two fundamental concepts need elaboration. They are the ‘pledge of assets’ and the ‘event of default’.
 
-Assets pledged as the collateral need to be unencumbered and accessible to the lender. In the traditional sense, that would mean that the lender would take possession and store it somewhere if the asset was moveable.There is an industry dedicated to this process of pledging assets, ensuring it is unencumbered, and
-warehousing it appropriately. What is impressive is that this is all done in almost an instant with a CDP.
+Assets pledged as the collateral need to be unencumbered and accessible to the lender. In the traditional sense, that would mean that the lender would take possession and store it somewhere if the asset was moveable.There is an industry dedicated to this process of pledging assets, ensuring it is unencumbered, and warehousing it appropriately. What is impressive is that this is all done in almost an instant with a CDP.
 
 The second important point is the event of default. Any legal minded people reading this would agree that this is never a clear-cut definition. In fact, the process of defining the event, recognizing when it happens, and taking the appropriate action is again an industry in the traditional space. The CDP makes this a well established and almost instant event to which we can identify and react.
 
@@ -150,7 +148,7 @@ The internal risk team starts the process by considering the risks inherent to t
 In short, the internal team is to create the first risk construct for Maker token holders to consider. The construct needs to identify, quantify and manage the risks of supplying Dai through the use of CDPs. How the internal team creates and implements that construct, will be explored in the second part of this series.
 
 ## Conclusion
-s
+
 In this first part of the series on the Governance Risk Framework, we considered where Dai fits into the suite of stablecoins in the industry. We further outlined the function of supplying Dai and focused on the salient risks of this process. Importantly, we described the intended decentralized risk management function that will be in place to manage these risks. Including an initial outline of where Maker token holders fit in and the types of decisions required.
 
 The second part of this series will focus on the first risk construct that starts the whole process. We will consider each of the significant risks inherent to the system and focus on how a risk construct is to be created to manage those risks. The second part will be a more in-depth look at what type of models to employ, how they are interrelated, and how to combine them into a well-formed risk construct.

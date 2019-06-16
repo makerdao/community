@@ -16,7 +16,7 @@ Cada tipo de colateral tiene un Ratio de Liquidación, el cual es determinado po
 
 Un sistema descentralizado de oráculos aporta información sobre el precio de ETH para comprobar cuando el ratio de colaterización de un CDP cae por debajo del nivel el requerido por el sistema. Conociendo el Ratio de Liquidación y el precio de mercado, aportado por el sistema de Oráculo, podemos calcular el Precio de Liquidación.
 
-Por ejemplo, un usuario quiere sacar 200 DAI y piensa que el valor del colateral no caerá por debajo del 50% de su precio actual. El usuario decide depositar al menos el doble del mínimo colateral requerido. Como el mínimo colateral requerido es de 150%, el usuario deposita $600 de ETH y saca 200 DAI, dejando su CDP con un ratio de colateral del 300%.
+Por ejemplo, un usuario quiere sacar 200 DAI y piensa que el valor del colateral no caerá por debajo del 50% de su precio actual. El usuario decide depositar al menos el doble del mínimo colateral requerido. Como el mínimo colateral requerido es de 150%, el usuario deposita \$600 de ETH y saca 200 DAI, dejando su CDP con un ratio de colateral del 300%.
 
 **Es importante recordar que 150% es el valor mínimo de ratio de colateral que un CDP basado en ETH puede alcanzar antes de ser liquidado por los** _**keepers**_**.** Mantenerse por encima de este mínimo previene la liquidación del colateral del usuario.
 
@@ -36,14 +36,14 @@ Una Liquidación tiene lugar cuando un _keeper_ cierra un CDP y lo envía al _Co
 
 El orden de operaciones:
 
-* EL CDP en quiebra es cerrado.
-* Se aplica la Penalización por Liquidación a la deuda en DAI.
-* El contrato LPC requisa el suficiente PETH colateral para pagar la deuda al precio indicado por el Oráculo.
-* El dueño del CDP puede retirar el colateral restante.
-* El PETH requisado se pone a la venta en [dai.makerdao.com](http://dai.makerdao.com) aplicando un descuento como incentivo, llamado [Boom/Bust Spread](http://glossary).
-* El DAI obtenido de la venta del PETH es destruido para eliminar la deuda del CDP.
-* Si la venta produce DAI excedente, este se usa para comprar PETH que será posteriormente destruido. Esto incrementa el precio del PETH restante.
-* Si la venta produce DAI insuficiente, entonces nuevo PETH es emitido y vendido para compensar la diferencia. Esto diluye el precio del PETH restante.
+- EL CDP en quiebra es cerrado.
+- Se aplica la Penalización por Liquidación a la deuda en DAI.
+- El contrato LPC requisa el suficiente PETH colateral para pagar la deuda al precio indicado por el Oráculo.
+- El dueño del CDP puede retirar el colateral restante.
+- El PETH requisado se pone a la venta en [dai.makerdao.com](http://dai.makerdao.com) aplicando un descuento como incentivo, llamado [Boom/Bust Spread](http://glossary).
+- El DAI obtenido de la venta del PETH es destruido para eliminar la deuda del CDP.
+- Si la venta produce DAI excedente, este se usa para comprar PETH que será posteriormente destruido. Esto incrementa el precio del PETH restante.
+- Si la venta produce DAI insuficiente, entonces nuevo PETH es emitido y vendido para compensar la diferencia. Esto diluye el precio del PETH restante.
 
 ## ¿Cuanto colateral queda después de una liquidación?
 
@@ -53,11 +53,11 @@ Para determinar la cantidad de colateral restante después de una liquidación p
 
 Por ejemplo:
 
-* El precio de ETH es de 350USD
-* 10 PETH bloqueados en CDP
-* El ratio PETH/ETH es de 1.012
-* La Penalización por Liquidación es del 13%
-* El CDP tiene una deuda de 1000 DAI
+- El precio de ETH es de 350USD
+- 10 PETH bloqueados en CDP
+- El ratio PETH/ETH es de 1.012
+- La Penalización por Liquidación es del 13%
+- El CDP tiene una deuda de 1000 DAI
 
 `(10 × 350 × 1.012) − (13% × 1000) − 1000 = 2412 DAI o 6.891428571 ETH`
 
@@ -69,10 +69,10 @@ Puedes usar la siguiente fórula para determinar cuanto debe caer el precio del 
 
 Por ejemplo:
 
-* 12 PETH bloqueados en CDP
-* El ratio de PETH/ETH es de 1.012
-* El Ratio de Liquidación es del 150%
-* El CDP tiene una deuda de 1000 DAI
+- 12 PETH bloqueados en CDP
+- El ratio de PETH/ETH es de 1.012
+- El Ratio de Liquidación es del 150%
+- El CDP tiene una deuda de 1000 DAI
 
 `(1000 × 1.5 ) ÷ (12 × 1.012) = 123.51 USD`
 
@@ -86,10 +86,10 @@ Si prefieres determinar si tu posición es la adecuada fijándote en el ratio de
 
 Por ejemplo:
 
-* El precio de ETH es de 350USD
-* 12 PETH bloqueados en CDP
-* El ratio de PETH/ETH es de 1.012
-* El CDP tiene una deuda de 1000 DAI
+- El precio de ETH es de 350USD
+- 12 PETH bloqueados en CDP
+- El ratio de PETH/ETH es de 1.012
+- El CDP tiene una deuda de 1000 DAI
 
 `(12 × 350 × 1.012) ÷ 1000 × 100 = 425.04%`
 
@@ -105,11 +105,11 @@ La mejor manera de rebajar tu riesgo de liquidación es devolviendo DAI, dado qu
 
 Por ejemplo:
 
-* El precio de ETH es de 350USD
-* 12 PETH bloqueados en CDP
-* El ratio de PETH/ETH es de 1.012
-* El Ratio de Liquidación es del 150%
-* El CDP tiene una deuda de 1000 DAI
+- El precio de ETH es de 350USD
+- 12 PETH bloqueados en CDP
+- El ratio de PETH/ETH es de 1.012
+- El Ratio de Liquidación es del 150%
+- El CDP tiene una deuda de 1000 DAI
 
 Precio de liquidación:
 
@@ -129,10 +129,10 @@ Podemos observar como el Precio de Liquidación se ve reducido significativament
 
 Mantenerse atento a la salud de tu CDP es **tu responsabilidad**. Evitar que los activos del CDP sean liquidados está en tus manos. A continuación verás algunas prácticas que otros usuarios han recomendado para monitorear la salud de un CDP.
 
-* Configura alertas en tu aplicación favorita para no ser sorprendido por cambios en el mercado.
-* Asegura el poder controlar tu CDP en todo momento. No quieres estar sin acceso a él durante caídas de mercado.
-* Asegura el tener activos disponibles para aumentar el colateral o vender dichos activos por DAI para devolver parte de la deuda.
-* Si vaticinas una caída del mercado, puedes extraer el exceso de colateral, venderlo por DAI, devolverlo y así reducir tu deuda. _Asegúrate de mantener un margen de seguridad sobre el Precio de Liquidación, dado que esta táctica te coloca momentáneamente en una posición de riesgo hasta devolver el DAI._
+- Configura alertas en tu aplicación favorita para no ser sorprendido por cambios en el mercado.
+- Asegura el poder controlar tu CDP en todo momento. No quieres estar sin acceso a él durante caídas de mercado.
+- Asegura el tener activos disponibles para aumentar el colateral o vender dichos activos por DAI para devolver parte de la deuda.
+- Si vaticinas una caída del mercado, puedes extraer el exceso de colateral, venderlo por DAI, devolverlo y así reducir tu deuda. _Asegúrate de mantener un margen de seguridad sobre el Precio de Liquidación, dado que esta táctica te coloca momentáneamente en una posición de riesgo hasta devolver el DAI._
 
 Recuerda que abrir un CDP representa un riesgo. Cuánto riesgo quieres asumir depende de múltiples factores. Determinar tu [perfil de riesgo](https://www.finanzasenlinea.net/2014/02/perfil-de-riesgo-del-inversionista.html) es de por si una ciencia, pero es algo que cada dueño de CDP debe descubrir por si mismo.
 
@@ -150,11 +150,11 @@ En el Panel de Control de Dai, existe la sección "Total Liquidity Available fro
 
 Un gran caída de precio en un único _exchange_ no afectaría al valor final pues cada integrante del sistema de oráculos calcula el precio a partir de multiples _exchanges_. A su vez, los precios emitidos por los integrantes, son usados para calcular una media por el contrato _Medianizer_. Puedes ver la participación de los diferentes oráculos en [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds).
 
-* Información detallada: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
-* Código de _price feed_: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
-* Código de _Medianizer_: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
-* Código de _Updater_: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
-* Monitorización de oráculos: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
+- Información detallada: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
+- Código de _price feed_: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
+- Código de _Medianizer_: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
+- Código de _Updater_: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
+- Monitorización de oráculos: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
 
 ## ¿Donde puedo encontrar información en vivo sobre liquidaciones?
 
