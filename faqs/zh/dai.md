@@ -55,7 +55,7 @@ Dai并不是一种硬锚定货币，因此，它无需与当前法定货币价�
 
 它通过外部市场力量、互补的内部经济激励和政策工具的组合来实现这种稳定。许多不同的市场参与者为了自身的利益而行动，同时又协同合作，这有助于市场的稳定。这些参与者包括MKR持有者、套利者、CDP所有者和普通做市商。
 
-如果Dai的需求持续超过供给，这就是MKR持有者需要调整[稳定费](./stability-fee.md)的信号，反之亦然。稳定费的增加导致CDP用户借贷成本增加，通过降低使用CDP的吸引力，从而抑制了Dai的供应。相反，稳定费(借贷成本)的降低将刺激Dai的额外生成，作为调整供应增长的政策工具。
+如果Dai的需求持续超过供给，这就是MKR持有者需要调整[稳定费][1]的信号，反之亦然。稳定费的增加导致CDP用户借贷成本增加，通过降低使用CDP的吸引力，从而抑制了Dai的供应。相反，稳定费(借贷成本)的降低将刺激Dai的额外生成，作为调整供应增长的政策工具。
 
 套利者通过利用各种Dai市场的机会也有助于Dai的短期锚定。
 
@@ -64,13 +64,24 @@ Dai并不是一种硬锚定货币，因此，它无需与当前法定货币价�
 最后，第三方网络参与者，也就是看护机帮助维持Dai的价格。看护机是人或自动程序通过利用套利机会帮助Dai维持锚定。
 
 # 我可以怎样生成Dai?
-你可以通过在[CDP面板](https://cdp-cn.makerdao.com/)锁定抵押品创造DAI。
+你可以通过在[CDP面板][2]锁定抵押品创造DAI。
 
 # 我可以在哪里购买Dai?
-你可以在传统或者去中心化[交易所](https://coinmarketcap.com/currencies/dai/#markets)购买 DAI。也可以在内置交易所的钱包，如 imToken 里购买 Dai。如果你希望用人民币购买 Dai，可以前往 [otcmaker.com](https://otcmaker.com/)。
+你可以在传统或者去中心化[交易所][3]购买 DAI。可以在 [储存库][4] 查看所有支持 Dai 交易的市场。
+
+同时，你可以在内置交易市场的钱包，如 imToken 里购买 Dai。
+如果你希望用人民币购买 Dai，可以前往 [otcmaker.com][5]。
 
 # 我可以在哪里看到 Dai 背后的抵押品数据呢?
-Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ](https://mkr.tools/)的分析工具进行系统审计。
+Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ][6]的分析工具进行系统审计。
 
 # 哪些机构在使用 Dai?
-你可以在[「合作伙伴」](https://github.com/makerdao/awesome-makerdao#partnerships)储存库找到使用 Dai 的机构列表。
+你可以在[「合作伙伴」][7]储存库找到使用 Dai 的机构列表。
+
+[1]:	./stability-fee.md
+[2]:	https://cdp-cn.makerdao.com/
+[3]:	https://coinmarketcap.com/currencies/dai/#markets
+[4]:	https://github.com/makerdao/awesome-makerdao#trade-your-dai
+[5]:	https://otcmaker.com/
+[6]:	https://mkr.tools/
+[7]:	https://github.com/makerdao/awesome-makerdao#partnerships

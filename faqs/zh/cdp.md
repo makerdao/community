@@ -109,7 +109,7 @@ CDP是无需许可的，任何人都可以创建和使用。没有繁琐的申�
 
 ## 是否可以从钱包偿还 Dai?
 
-可以，你可以通过集成 CDP 的 web3 钱包进行偿还 Dai， 比如 imToken。
+可以，你可以通过集成 CDP 的 web3 钱包进行偿还 Dai。
 
 ## 我可以抵押多少?
 
@@ -139,9 +139,9 @@ CDP是无需许可的，任何人都可以创建和使用。没有繁琐的申�
 
 CDP 系统运行在以太坊区块链上，所有的智能合约和交易都是公开透明的。任何人都可以通过访问 [MakerDAO 统计面板][6]，或直接查询区块链亲自审计系统的偿付能力。
 
-[1]:	./cdp.md#什么是抵押比率
+[1]:	https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio
 [2]:	https://www.investopedia.com/personal-finance/apr-apy-bank-hopes-cant-tell-difference/
-[3]:	./liquidation.md#什么是清算比率
+[3]:	https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio
 [4]:	https://www.investopedia.com/terms/l/leverage.asp
-[5]:	./stability-fee.md#稳定费是什么
+[5]:	https://github.com/makerdao/community/blob/master/faqs/stability-fee.md#what-is-the-stability-fee
 [6]:	https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai

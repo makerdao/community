@@ -52,7 +52,7 @@
     * [Opłata stabilizacyjna](faqs/pl/stability-fee.md)
     * [Likwidacje](faqs/pl/liquidation.md)
     * [Zarządzanie](faqs/pl/governance.md)
-  * [中文](faqs/zh/README.md)
+  * [中文]
     * [稳定币 Dai](faqs/zh/dai.md)
     * [抵押债仓 (CDP)](faqs/zh/cdp.md)
     * [稳定费用](faqs/zh/stability-fee.md)
