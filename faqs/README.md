@@ -193,4 +193,3 @@
 * [How can CDP owners mitigate fee change risk?](stability-fee.md#how-can-cdp-owners-mitigate-fee-change-risk)
 * [What happens if a fee change vote is rejected?](stability-fee.md#what-happens-if-a-fee-change-vote-is-rejected)
 * [How often will the Stability Fee change?](stability-fee.md#how-often-will-the-stability-fee-change)
-

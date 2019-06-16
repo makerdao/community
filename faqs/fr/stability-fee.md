@@ -20,11 +20,11 @@ Le mécanisme sous-jacent est simple: si la demande en dai _décroît_, les frai
 
 ## Pourquoi les frais de stabilité changent-ils ?
 
-Si le taux de change du dai reste au-dessus ou en dessous de 1$ de façon prolongée, cela peut indiquer un déséquilibre macroéconomique entre l'offre et la demande en dai. Puisqu'ils modifient son coût d'émission, les frais de stabilité influencent surtout l'offre: moins l'emprunt de dais est cher, plus les utilisateurs ont intérêt à emprunter, et inversement: des frais élevés diminuent le nombre d'utilisateurs prêts à emprunter des dais. Les détenteurs de MKR peuvent modifier les frais de stabilité afin de maintenir une parité adéquate.
+Si le taux de change du dai reste au-dessus ou en dessous de 1\$ de façon prolongée, cela peut indiquer un déséquilibre macroéconomique entre l'offre et la demande en dai. Puisqu'ils modifient son coût d'émission, les frais de stabilité influencent surtout l'offre: moins l'emprunt de dais est cher, plus les utilisateurs ont intérêt à emprunter, et inversement: des frais élevés diminuent le nombre d'utilisateurs prêts à emprunter des dais. Les détenteurs de MKR peuvent modifier les frais de stabilité afin de maintenir une parité adéquate.
 
-Si le taux de change est supérieur à 1$ de façon prolongée, cela peut signifier que la demande dépasse l'offre, et que les acteurs du marché acceptent de payer un supplément pour obtenir des dais. Sans retour à la normale, il devient nécessaire d'inciter à l'émission de dais en diminuant les frais de stabilité.
+Si le taux de change est supérieur à 1\$ de façon prolongée, cela peut signifier que la demande dépasse l'offre, et que les acteurs du marché acceptent de payer un supplément pour obtenir des dais. Sans retour à la normale, il devient nécessaire d'inciter à l'émission de dais en diminuant les frais de stabilité.
 
-Si le taux de change est inférieur à 1$ de façon prolongée, cela peut signifier que l'offre dépasse la demande, et que le marché est inondé par un surplus de dais. Sans retour à la normale, il devient nécessaire de ralentir l'émission des dais en augmentant les frais de stabilité.
+Si le taux de change est inférieur à 1\$ de façon prolongée, cela peut signifier que l'offre dépasse la demande, et que le marché est inondé par un surplus de dais. Sans retour à la normale, il devient nécessaire de ralentir l'émission des dais en augmentant les frais de stabilité.
 
 Il n'est malheureusement pas possible de prédire avec exactitude l'impact d'un changement avant de l'avoir effectué, car le résultat dépend de la réaction du marché. De meilleures données permettront au cours du temps de construire un modèle prédictif, ou même un modèle réactif plus robuste grâce auquel les frais pourront être réglés avec précision.
 
@@ -50,9 +50,9 @@ On note:
 
 **e** = [nombre d'Euler](https://www.maths-et-tiques.fr/index.php/histoire-des-maths/nombres/le-nombre-e)
 
-* **P** \(1 + r/n\)^nt - P = A : Composition annuelle
-* **P** \(1 + r/n\)^nt - P = A : Composition mensuelle
-* **P** \(e\)^rt - P = A : Composition continue
+- **P** \(1 + r/n\)^nt - P = A : Composition annuelle
+- **P** \(1 + r/n\)^nt - P = A : Composition mensuelle
+- **P** \(e\)^rt - P = A : Composition continue
 
 #### Version simplifiée
 
@@ -80,11 +80,11 @@ Pour une dette de 100 000 DAI et un taux annuel de 12,5%, la différence entre l
 
 Étant donné:
 
-* Un CDP avec une dette de **1000** **DAI**
-* Le CDP est ouvert depuis **30** **jours**
-* La valeur actuelle d'un MKR est de **1000** **DAI**
-* Les frais de stabilité sont de **5%**
-* Un utilisateur rembourse une partie de sa dette, à hauteur de **50** **DAI**
+- Un CDP avec une dette de **1000** **DAI**
+- Le CDP est ouvert depuis **30** **jours**
+- La valeur actuelle d'un MKR est de **1000** **DAI**
+- Les frais de stabilité sont de **5%**
+- Un utilisateur rembourse une partie de sa dette, à hauteur de **50** **DAI**
 
 Le coût total, en dais, d'un remboursement de **50 DAI** sur une dette de **1000 DAI** contractée il y a **30 jours** est de **0,208 DAI**, soit environ 21 cents de dollar.
 

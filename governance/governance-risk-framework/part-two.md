@@ -2,15 +2,15 @@
 
 ![The Governance Risk Framework: Part 2](https://cdn-images-1.medium.com/max/1600/1*yk1txefMRCQeFSM3yeJKlQ.png)
 
-> *“The first principle is that you must not fool yourself — and you are the easiest person to fool.*
+> _“The first principle is that you must not fool yourself — and you are the easiest person to fool._
 >
-> *So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists.*
+> _So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists._
 >
-> *You just have to be honest in a conventional way after that.”*
+> _You just have to be honest in a conventional way after that.”_
 >
-> *Richard P. Feynman — On scientific integrity.*
+> _Richard P. Feynman — On scientific integrity._
 >
-> *14 June 1974, Caltech, California, USA*
+> _14 June 1974, Caltech, California, USA_
 
 ## Introduction
 
@@ -21,7 +21,7 @@ risks. To start, we go straight to the heart of the system, the CDP, and discove
 
 Traditionally, loans are made with sufficient collateral in place to minimize the exposure at the time of default. The question is, what makes that collateral sufficient? Collateral is adequate when there is enough of it to cover all of a loan if ever that loan is placed into default. Which seems simple enough, if I pledge $100 worth of gold, would you lend me $100? Immediately you would say ‘no’ — because the price of gold fluctuates and at any point in time you could have less gold than the amount you lent out. If a default occurred at such a precarious time, you would not be able to recover the full loan. The obvious solution is to ask the borrower to pledge more gold to cover the volatility of gold’s value. So the first risk factor we need to consider would be the volatility in the value of the collateral.
 
-Gold is purposefully used as an example, as it holds a lot of assumptions that most of us take for granted. The first assumption is that gold will remain, well, ‘gold’. What is meant by that? It is possible to replace gold in its industrial use and as a store of value — if that happened the value of gold would become quite volatile and possibly drop — it’s just not probable that it would occur any time soon, but we need to be cognizant of gold’s fundamental qualities. The second assumption about gold is that given the primary attributes of gold, there is a liquid marketplace where we could turn gold into fiat currency. Without sufficient liquidity, the price of gold will not reflect its real value. Think of it this way, the price is an advertisement, but the value is what you will get for it. That creates two more risk factors for us to  consider, the first is the risk of change in the qualitative characteristics of the token, and the second is the risk of change in the liquidity of the token.
+Gold is purposefully used as an example, as it holds a lot of assumptions that most of us take for granted. The first assumption is that gold will remain, well, ‘gold’. What is meant by that? It is possible to replace gold in its industrial use and as a store of value — if that happened the value of gold would become quite volatile and possibly drop — it’s just not probable that it would occur any time soon, but we need to be cognizant of gold’s fundamental qualities. The second assumption about gold is that given the primary attributes of gold, there is a liquid marketplace where we could turn gold into fiat currency. Without sufficient liquidity, the price of gold will not reflect its real value. Think of it this way, the price is an advertisement, but the value is what you will get for it. That creates two more risk factors for us to consider, the first is the risk of change in the qualitative characteristics of the token, and the second is the risk of change in the liquidity of the token.
 
 There is another feature of gold we take for granted that is indirectly related to liquidity. The value of all the gold ever mined is roughly $7.5 trillion. So, from any one person’s perspective, it’s highly improbable to own a majority stake in gold or even a significant amount of gold relative to the total supply.
 
@@ -34,12 +34,12 @@ the collateral underlying the loan. If we can’t depend on the feed, we can’t
 
 To summarize, the risks inherent in supplying Dai are as follows:
 
-* *Volatility risk*: the higher the volatility of the collateral value, the less likely we are to recover the full loan in the event of default.
-* *Qualitative risk*: the less stable the fundamentals of the organization, the less confident holders will be, and the more volatile the price will become.
-* *Liquidity risk*: the less liquidity available in the market, the more likely the price impact will work against realizable value.
-* *Exposure risk*: the higher the aggregate relative exposure to total supply, the more risk in trying to realize its value.
-* *Correlation risk*: the higher the correlation, the less the diversification benefit.
-* *Price feed risk*: low quality feeds create low confidence in value.
+- _Volatility risk_: the higher the volatility of the collateral value, the less likely we are to recover the full loan in the event of default.
+- _Qualitative risk_: the less stable the fundamentals of the organization, the less confident holders will be, and the more volatile the price will become.
+- _Liquidity risk_: the less liquidity available in the market, the more likely the price impact will work against realizable value.
+- _Exposure risk_: the higher the aggregate relative exposure to total supply, the more risk in trying to realize its value.
+- _Correlation risk_: the higher the correlation, the less the diversification benefit.
+- _Price feed risk_: low quality feeds create low confidence in value.
 
 It probably has become apparent that the risks stated above are interrelated. If you start with one risk you could easily deduce the effect it could have on the others.
 
@@ -61,17 +61,17 @@ The necessary function here is to facilitate and contribute to the compilation o
 
 The three parts are:
 
-* *The Initial Collateral Onboarding Process*: this covers the trade support structure, distribution of token holdings and available data series.
-* *The Operational Assessment Process*: this covers the functionality behind the token, from the organization itself, through to the governance mechanisms and rights of the token owner.
-* *The Technological Assessment Process*: this covers the robustness and security of the underlying technology.
+- _The Initial Collateral Onboarding Process_: this covers the trade support structure, distribution of token holdings and available data series.
+- _The Operational Assessment Process_: this covers the functionality behind the token, from the organization itself, through to the governance mechanisms and rights of the token owner.
+- _The Technological Assessment Process_: this covers the robustness and security of the underlying technology.
 
 The information compiled from the due diligence will be used to rate the features of the potential collateral token. The features of the organization to assign a rating to are:
 
-* Team — Core team and advisors.
-* Community — Sentiment analysis.
-* Technology — Security and completeness review.
-* Market and Competitiveness — SWOT analysis.
-* Business Models — Structural and legal analysis.
+- Team — Core team and advisors.
+- Community — Sentiment analysis.
+- Technology — Security and completeness review.
+- Market and Competitiveness — SWOT analysis.
+- Business Models — Structural and legal analysis.
 
 Assigning a rating to each feature will result in an overall rating. A score below a prerequisite value will place the token to the back of the queue, and a passing score is an adjustment factor to the risk parameters of the system. We will elaborate on the features and rating system in a forthcoming document. For now, the point is to communicate the process.
 
@@ -122,9 +122,9 @@ The debt ceiling model will be a part of the risk construct presented by a risk 
 
 The Debt Ceiling controls the risk of creating an illiquid market due to holding too much of one token or creating the effect of an illiquid market by liquidating too much inventory. Liquidity risk evaluates the current liquidity of the market, where Volatility risk assesses the price risk (market risk) of the token given the level of liquidity in the market.
 
-The amount of collateral required for a particular token is dependent on both volatility and liquidity risks. We address the volatility aspect by revisiting the gold example. How much gold would be needed to collateralize a $100 loan? Well, if the volatility of the price of gold is 10% per day, you would probably want something in the region of $125. Given you are conservative, you would probably want twice the volatility of the daily price incorporated into the collateral value. Which is conservative as the chance of the price falling by 20% in one day is very remote — possible — but remote. Back to the example, the collateral we would need would be $100/0.8 = $125, or, put another way, starting at $125: if the collateral value drops by 20% that would equal a $25 loss in value but we would still have $100 in value which is enough to cover the outstanding loan, given nothing is paid back.
+The amount of collateral required for a particular token is dependent on both volatility and liquidity risks. We address the volatility aspect by revisiting the gold example. How much gold would be needed to collateralize a $100 loan? Well, if the volatility of the price of gold is 10% per day, you would probably want something in the region of $125. Given you are conservative, you would probably want twice the volatility of the daily price incorporated into the collateral value. Which is conservative as the chance of the price falling by 20% in one day is very remote — possible — but remote. Back to the example, the collateral we would need would be $100/0.8 = $125, or, put another way, starting at $125: if the collateral value drops by 20% that would equal a $25 loss in value but we would still have \$100 in value which is enough to cover the outstanding loan, given nothing is paid back.
 
-Now we include the Liquidity Risk Factor. We have assumed that $125 of gold would be sufficient to cover the $100 loan. What about a $1m loan? Well we know the amount of collateral we would need is $1.25m, but getting rid of $1.25m in gold is a more complicated problem than getting rid of $125 of gold. We have to consider the liquidity of the market yet again. So what is required is an adjustment of the collateral value to compensate for liquidity risk. To carry on the example, assume the liquidity adjustment is 1.15 or an increase of 15% in value. Then the final collateral value required would be $1.435m.
+Now we include the Liquidity Risk Factor. We have assumed that $125 of gold would be sufficient to cover the $100 loan. What about a $1m loan? Well we know the amount of collateral we would need is $1.25m, but getting rid of $1.25m in gold is a more complicated problem than getting rid of $125 of gold. We have to consider the liquidity of the market yet again. So what is required is an adjustment of the collateral value to compensate for liquidity risk. To carry on the example, assume the liquidity adjustment is 1.15 or an increase of 15% in value. Then the final collateral value required would be \$1.435m.
 
 Given the volatility risk, and a uniform application of the liquidity risk adjustment, we have determined that to borrow $100 one would need to pledge $143.50 in collateral.
 
@@ -134,7 +134,7 @@ To summarize, from volatility risk we can calculate the initial amount of requir
 
 #### LVR: Risk Management Function
 
-How does this all relate to the liquidation ratio? The liquidation ratio is the required amount of collateral as a proportion of the loan. So in our example, if we consider that from volatility the necessary amount of gold as collateral was $125. Then after adjusting for liquidity, it was $143.50, then adjusting for the expected liquidation period it turned out to be $175. The liquidation ratio would then be $175/$100 = 175%. So the liquidation ratio can be generally approximated by:
+How does this all relate to the liquidation ratio? The liquidation ratio is the required amount of collateral as a proportion of the loan. So in our example, if we consider that from volatility the necessary amount of gold as collateral was $125. Then after adjusting for liquidity, it was $143.50, then adjusting for the expected liquidation period it turned out to be $175. The liquidation ratio would then be $175/\$100 = 175%. So the liquidation ratio can be generally approximated by:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*hr05cBlHByBkFK3_kEOv5g.png)
 
@@ -230,7 +230,7 @@ assumptions we won’t address here). An easy way to think of this is in terms o
 
 ![](https://cdn-images-1.medium.com/max/1600/1*zaZe5Oh8SqKFbbfQh-43lQ.png)
 
-So if we use a nominal value for risk capital — say $100, then the expected loss is $2.50 if the probability of the event is 2.5%. Clearly showing that $2.50 or instead 2.5% is the appropriate compensation per year for taking on such risk.
+So if we use a nominal value for risk capital — say $100, then the expected loss is $2.50 if the probability of the event is 2.5%. Clearly showing that \$2.50 or instead 2.5% is the appropriate compensation per year for taking on such risk.
 
 Now the way the economic capital and stability fee relate to each other is through this interpretation of probability. Remember if we think of the stability fee as a probability that we would use all the risk capital then we would want the expected value of our business to be positive that is:
 

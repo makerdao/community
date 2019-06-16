@@ -1,21 +1,5 @@
 # Dai
 
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=2 orderedList=false} -->
-
-
-- [Dai](#dai)
-  - [¿Qué es Dai?](#%C2%BFqu%C3%A9-es-dai)
-  - [¿Por qué querría usar Dai?](#%C2%BFpor-qu%C3%A9-querr%C3%ADa-usar-dai)
-  - [¿Un Dai siempre vale exactamente un dólar estadounidense?](#%C2%BFun-dai-siempre-vale-exactamente-un-d%C3%B3lar-estadounidense)
-  - [¿De dónde proviene Dai?](#%C2%BFde-d%C3%B3nde-proviene-dai)
-  - [¿Alguien más tiene derechos sobre mis tokens Dai?](#%C2%BFalguien-m%C3%A1s-tiene-derechos-sobre-mis-tokens-dai)
-  - [¿Cómo se mantiene estable el precio de Dai?](#%C2%BFc%C3%B3mo-se-mantiene-estable-el-precio-de-dai)
-  - [¿Cómo puedo crear Dai?](#%C2%BFc%C3%B3mo-puedo-crear-dai)
-  - [¿Dónde puedo comprar Dai?](#%C2%BFd%C3%B3nde-puedo-comprar-dai)
-  - [¿Dónde puedo ver la cantidad de colateral que está respaldando a Dai?](#%C2%BFd%C3%B3nde-puedo-ver-la-cantidad-de-colateral-que-est%C3%A1-respaldando-a-dai)
-  - [¿Qué organizaciones están utilizando DAI?](#%C2%BFqu%C3%A9-organizaciones-est%C3%A1n-utilizando-dai)
-
 ## ¿Qué es Dai?
 
 Dai es una moneda respaldada enteramente por colateral cuyo valor se mantiene estable en relación con el dólar estadounidense a través de una serie de incentivos financieros.
@@ -44,7 +28,7 @@ Una economía digital descentralizada necesita estabilidad para funcionar. Dai s
 
 ## ¿Un Dai siempre vale exactamente un dólar estadounidense?
 
-No. Dai no es una moneda siempre fija, por lo que no realiza un seguimiento perfecto del valor de una moneda fiat existente. Más bien, mantiene una paridad flotante libre que experimenta una volatilidad extremadamente baja comparada con otras criptomonedas. Particularmente, en el caso de un Apagado de Emergencia, Dai se canjearía por colateral por valor de 1$ de acuerdo a los precios del Oráculo en el momento del Apagado de Emergencia.
+No. Dai no es una moneda siempre fija, por lo que no realiza un seguimiento perfecto del valor de una moneda fiat existente. Más bien, mantiene una paridad flotante libre que experimenta una volatilidad extremadamente baja comparada con otras criptomonedas. Particularmente, en el caso de un Apagado de Emergencia, Dai se canjearía por colateral por valor de 1\$ de acuerdo a los precios del Oráculo en el momento del Apagado de Emergencia.
 
 ## ¿De dónde proviene Dai?
 
@@ -52,7 +36,7 @@ El sistema produce Dai cuando los propietarios de CDP bloquean colateral para re
 
 Un sistema autónomo de contratos inteligentes específicamente diseñado para responder a las presiones del mercado, trabaja en conjunto para asegurar que la propiedad esencial de estabilidad se mantenga de manera continua. Nadie puede alterar los mecanismos fundamentales de Dai, haciéndola una forma de dinero segura y predecible.
 
-Es importante hacer notar que los usuarios de Dai no necesitan comprender los mecanismos del sistema para usar Dai; pueden mirar el histórico del precio y determinar si piensan que Dai se mantendrá estable cerca de 1$.
+Es importante hacer notar que los usuarios de Dai no necesitan comprender los mecanismos del sistema para usar Dai; pueden mirar el histórico del precio y determinar si piensan que Dai se mantendrá estable cerca de 1\$.
 
 ## ¿Alguien más tiene derechos sobre mis tokens Dai?
 

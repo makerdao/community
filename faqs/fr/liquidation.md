@@ -16,7 +16,7 @@ Le seuil de liquidation est propre à chacun des cryptoactifs et dépend du prof
 
 Un flux d'informations décentralisé, appelé oracle, fournit au système l'information nécessaire pour calculer le niveau de garantie de chaque CDP. La combinaison du seuil de liquidation avec la valeur marchande déterminé par l'oracle est ce qui définit le niveau de garantie.
 
-Prenons l'exemple d'un utilisateur qui souhaite générer 200 dais et qui croit que la valeur des jetons qu'il a mis en garantie n'ira pas en dessous de 50% de son prix au marché actuel. Pour se laisser une marge de manoeuvre, l'utilisateur décide de viser un seuil de liquidation deux fois supérieur à ce qui est requis. Il doit donc déposer 600$ de jeton ETH pour générer 200 dais.
+Prenons l'exemple d'un utilisateur qui souhaite générer 200 dais et qui croit que la valeur des jetons qu'il a mis en garantie n'ira pas en dessous de 50% de son prix au marché actuel. Pour se laisser une marge de manoeuvre, l'utilisateur décide de viser un seuil de liquidation deux fois supérieur à ce qui est requis. Il doit donc déposer 600\$ de jeton ETH pour générer 200 dais.
 
 **Il est important de comprendre qu'à un niveau de garantie d'exactement 150%, la moindre baisse du prix de la garantie placera votre CDP en défaut et il sera vulnérable à la liquidation par un gardien.** Un CDP est considéré sécuritaire lorsque son niveau de garantie est strictement supérieur au seuil de liquidation.
 
@@ -36,14 +36,14 @@ Le processus de liquidation est initié par un gardien lorsqu'il ferme un CDP en
 
 Voici en détail le processus de liquidation:
 
-* Le CDP en défaut est fermé.
-* La pénalité de liquidation est ajoutée au montant de la dette.
-* Le contrat de liquidité saisit suffisamment de garanties pour rembourser un montant égal à la dette augmenté des frais de stabilité et de la pénalité de liquidation, et ce, selon la valeur marchande des cryptoactifs telle que déterminée par l’oracle.
-* Le propriétaire du CDP est maintenant en mesure de retirer la garantie restante de sa position fermée.
-* Les jetons PETH saisis sont mis en vente à l'adresse [dai.makerdao.com](http://dai.makerdao.com). Un rabais appelé [l'écart Boom/Bust](http://glossary) est appliqué au prix de vente pour inciter les acheteurs.
-* Les dais qui découlent de la vente sont incinérés pour effacer la dette du CDP.
-* S'il y a un excès de dais suivant la vente, ceux-ci sont vendus pour des jetons PETH qui sont ensuite incinérés, ce qui a pour effet de faire monter la valeur des jetons PETH restants.
-* S'il y a un déficit de DAI suivant la vente, des jetons PETH sont générés et vendus pour le couvrir, ce qui a pour effet de diminuer la valeur des jetons PETH.
+- Le CDP en défaut est fermé.
+- La pénalité de liquidation est ajoutée au montant de la dette.
+- Le contrat de liquidité saisit suffisamment de garanties pour rembourser un montant égal à la dette augmenté des frais de stabilité et de la pénalité de liquidation, et ce, selon la valeur marchande des cryptoactifs telle que déterminée par l’oracle.
+- Le propriétaire du CDP est maintenant en mesure de retirer la garantie restante de sa position fermée.
+- Les jetons PETH saisis sont mis en vente à l'adresse [dai.makerdao.com](http://dai.makerdao.com). Un rabais appelé [l'écart Boom/Bust](http://glossary) est appliqué au prix de vente pour inciter les acheteurs.
+- Les dais qui découlent de la vente sont incinérés pour effacer la dette du CDP.
+- S'il y a un excès de dais suivant la vente, ceux-ci sont vendus pour des jetons PETH qui sont ensuite incinérés, ce qui a pour effet de faire monter la valeur des jetons PETH restants.
+- S'il y a un déficit de DAI suivant la vente, des jetons PETH sont générés et vendus pour le couvrir, ce qui a pour effet de diminuer la valeur des jetons PETH.
 
 ## Que reste-t-il comme garantie dans un CDP après une liquidation?
 
@@ -53,11 +53,11 @@ Pour déterminer le montant de la garantie restante après une liquidation, vous
 
 Exemple:
 
-* Le prix d'un jeton ETH selon l'oracle est de 350 USD
-* 10 jetons ETH sont verrouillés dans le bassin de jetons PETH
-* Le Ratio PETH/ETH est de 1.012
-* La pénalité de liquidation est de 13%
-* Le CDP a accumulé des frais de stabilité de 1000 DAI
+- Le prix d'un jeton ETH selon l'oracle est de 350 USD
+- 10 jetons ETH sont verrouillés dans le bassin de jetons PETH
+- Le Ratio PETH/ETH est de 1.012
+- La pénalité de liquidation est de 13%
+- Le CDP a accumulé des frais de stabilité de 1000 DAI
 
 `(10 × 350 × 1.012) − (13% × 1000) − 1000 = 2412 DAI ou 6.891428571 ETH`
 
@@ -69,11 +69,11 @@ Pour déterminer le prix de liquidation, vous pouvez utiliser la formule simplif
 
 Exemple:
 
-* Le prix d'un jeton ETH selon l'oracle est de 350 USD
-* 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
-* Le ratio PETH/ETH est de 1.012
-* Le seuil de liquidation est de 150%
-* Le CDP a accumulé des frais de stabilité de 1000 DAI
+- Le prix d'un jeton ETH selon l'oracle est de 350 USD
+- 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
+- Le ratio PETH/ETH est de 1.012
+- Le seuil de liquidation est de 150%
+- Le CDP a accumulé des frais de stabilité de 1000 DAI
 
 `(1000 × 1.5 ) ÷ (12 × 1.012) = 123.51 USD`
 
@@ -87,10 +87,10 @@ Pour déterminer votre niveau de garantie, vous pouvez utiliser la formule simpl
 
 Exemple:
 
-* Le prix d'un jeton ETH selon l'oracle est de 350 USD
-* 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
-* Le ratio PETH/ETH est de 1.012
-* Le CDP a accumulé des frais de stabilité de 1000 DAI
+- Le prix d'un jeton ETH selon l'oracle est de 350 USD
+- 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
+- Le ratio PETH/ETH est de 1.012
+- Le CDP a accumulé des frais de stabilité de 1000 DAI
 
 `(12 × 350 × 1.012) ÷ 1000 × 100 = 425.04%`
 
@@ -106,11 +106,11 @@ La meilleure façon de mitiger le risque de liquidation est de rembourser votre 
 
 Exemple:
 
-* Le prix d'un jeton ETH selon l'oracle est de 350 USD
-* 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
-* Le ratio PETH/ETH est de 1.012
-* Le CDP a accumulé des frais de stabilité de 1000 DAI
-* Le seuil de liquidation est de 150%
+- Le prix d'un jeton ETH selon l'oracle est de 350 USD
+- 12 jetons ETH sont verrouillés dans le bassin de jetons PETH
+- Le ratio PETH/ETH est de 1.012
+- Le CDP a accumulé des frais de stabilité de 1000 DAI
+- Le seuil de liquidation est de 150%
 
 Prix de liquidation actuel:
 
@@ -130,9 +130,9 @@ On peut voir que le remboursement de la dette l'emporte aisément sur l'ajout de
 
 En tant que propriétaire de CDP, il est de _votre responsabilité_ de vous préoccuper de la santé de votre position. Voici quelques bonnes pratiques suggérées par des utilisateurs du système:
 
-* Configurez des alertes de prix dans votre application préférée, ou plusieurs applications, afin de ne pas être pris au dépourvu par les mouvements rapides du marché.
-* Assurez-vous d'avoir accès à des fonds de réserve que vous utiliserez pour gérer votre niveau de garantie. Vous voulez pouvoir réagir rapidement lors d'une chute précipitée du marché.
-* Si vous croyez que le marché chutera et que votre niveau de garantie le permet, vous pouvez retirer des garanties pour rembourser une partie de votre dette. _Assurez-vous de ne pas vous rapprocher trop près de votre prix de liquidation en utilisant cette tactique, car celle-ci augmente momentanément les risques de liquidation._
+- Configurez des alertes de prix dans votre application préférée, ou plusieurs applications, afin de ne pas être pris au dépourvu par les mouvements rapides du marché.
+- Assurez-vous d'avoir accès à des fonds de réserve que vous utiliserez pour gérer votre niveau de garantie. Vous voulez pouvoir réagir rapidement lors d'une chute précipitée du marché.
+- Si vous croyez que le marché chutera et que votre niveau de garantie le permet, vous pouvez retirer des garanties pour rembourser une partie de votre dette. _Assurez-vous de ne pas vous rapprocher trop près de votre prix de liquidation en utilisant cette tactique, car celle-ci augmente momentanément les risques de liquidation._
 
 Il est important de se rappeler que la création d'un CDP comporte des risques. C'est votre devoir de quantifier votre [profil d'investisseur](https://lautorite.qc.ca/grand-public/outils-et-calculateurs/calculateurs/votre-profil-dinvestisseur/#c22119) et d'agir en conséquence.
 
@@ -152,11 +152,11 @@ Sur le _Portail Dai_ se trouve une section intitulée "Total Liquidity Available
 
 Un krach éclair n'aura aucun effet sur le système puisque les oracles agrègent les prix de plusieurs bourses. Une fois l'information colligée, un contrat qu'on appelle _Medianizer_ calcule la médiane des prix retournés par les oracles. Vous pouvez voir le graphique montrant l'historique de chacun des oracles sur [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds).
 
-* Informations détaillées: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
-* Code source de l'agrégateur de prix: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
-* Code source du contrat _Medianizer_: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
-* Code source de l'outil _setzer_: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
-* Vigie des flux de prix: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
+- Informations détaillées: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
+- Code source de l'agrégateur de prix: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
+- Code source du contrat _Medianizer_: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
+- Code source de l'outil _setzer_: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
+- Vigie des flux de prix: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
 
 ## Où puis-je voir de l'information sur les liquidations en direct?
 

@@ -2,13 +2,13 @@
 
 ![The Governance Risk Framework: Part 3](https://cdn-images-1.medium.com/max/1600/1*FzLwmwdSNSbaGBdXwJXw1g.png)
 
-> *“The ‘something’ that connects the two transactions is called money, and it has taken innumerable physical forms — from stones to feathers to tobacco to shells to copper, silver, and gold to pieces of paper and entries in ledger books. Who knows what will be the future incarnations of money? Computer bytes?*
+> _“The ‘something’ that connects the two transactions is called money, and it has taken innumerable physical forms — from stones to feathers to tobacco to shells to copper, silver, and gold to pieces of paper and entries in ledger books. Who knows what will be the future incarnations of money? Computer bytes?_
 >
-> *Milton Friedman, Money Mischief: Episodes in Monetary History 1994*
+> _Milton Friedman, Money Mischief: Episodes in Monetary History 1994_
 >
-> *“The one thing that’s missing, but that will soon be developed, it’s a reliable e-cash. A method where buying on the Internet you can transfer funds from A to B, without A knowing B or B knowing A.”*
+> _“The one thing that’s missing, but that will soon be developed, it’s a reliable e-cash. A method where buying on the Internet you can transfer funds from A to B, without A knowing B or B knowing A.”_
 >
-> *Milton Friedman, Interview with the National Taxpayers Union March 1999*
+> _Milton Friedman, Interview with the National Taxpayers Union March 1999_
 
 ## Introduction
 
@@ -95,9 +95,9 @@ The main objective of Emergency Shut Down is to align all incentive. Like anythi
 
 The main objective of governing the MakerDAO system is to align the interests of all stakeholders to the same end:
 
-* Governing MakerDAO requires being aware of the tradeoff between the incentives of the liquidity construct and voting construct. MakerDAO becomes a better a system if it is subjected to an array of proposals from the governing body that brings a potential increase in value that challenges the inherent value presented by the liquidity construct.
-* Governing MakerDAO requires being constantly involved. There is no quorum requirement, therefore the governing body needs to be always engaged in order to prevent, what would be, a non-representative number of votes changing the state of the system. Instituting a quorum from the outset would seem a better proposition but institutes an injection of central authority. Quorums are essentially a way of representing the importance of a vote, this is subjective, and any predetermined quorums will only represent what a person or group of people consider to be important.
-* Governing MakeDAO requires iterative change. The system underlying the provision of the stablecoin Dai is based on scientific governance. A foundational component of the scientific method is empiricism, which states that we should always be validating or challenging hypotheses with data. Ultimately, the system gets better by continuously being challenged and changed. Changes would be expected to have material marginal benefits at first then slowly diminish to negligible marginal benefits. At this point, the system would ideally be in a steady state of equilibrium. Then a regime shift would occur and we would have the next wave of changes. Regime changes should always be expected.
+- Governing MakerDAO requires being aware of the tradeoff between the incentives of the liquidity construct and voting construct. MakerDAO becomes a better a system if it is subjected to an array of proposals from the governing body that brings a potential increase in value that challenges the inherent value presented by the liquidity construct.
+- Governing MakerDAO requires being constantly involved. There is no quorum requirement, therefore the governing body needs to be always engaged in order to prevent, what would be, a non-representative number of votes changing the state of the system. Instituting a quorum from the outset would seem a better proposition but institutes an injection of central authority. Quorums are essentially a way of representing the importance of a vote, this is subjective, and any predetermined quorums will only represent what a person or group of people consider to be important.
+- Governing MakeDAO requires iterative change. The system underlying the provision of the stablecoin Dai is based on scientific governance. A foundational component of the scientific method is empiricism, which states that we should always be validating or challenging hypotheses with data. Ultimately, the system gets better by continuously being challenged and changed. Changes would be expected to have material marginal benefits at first then slowly diminish to negligible marginal benefits. At this point, the system would ideally be in a steady state of equilibrium. Then a regime shift would occur and we would have the next wave of changes. Regime changes should always be expected.
 
 ## Governing in Practice
 
@@ -109,14 +109,14 @@ The risk team then makes the set of tools available for MKR token holders to ass
 
 The procedure required to vote in a new risk team would then be as follows:
 
-* Risk team describes and demonstrates their set of tools. This includes interacting with MKR token holders and other risk teams.
-* When the risk team is confident that the tools are understood, they should formally submit their tools to be included.
-* A proposal sent to the voting construct will be that submission; implying that the risk team should own some MKR tokens to submit such a proposal. The proposal will be put to a Governance Vote.
-* The proposal will then go through the period of consideration (e.g. two weeks), where any final discussion can be had via Maker social channels (Reddit, Rocketchat or an internally created board).
-* After the period of consideration, the proposal will be open to the voting period (e.g. two weeks).
-* At the conclusion of the voting period, if the proposal amasses the most positive votes, it is successful, and the risk team is accepted.
-* Thereafter, the value of the risk parameters generated by that risk team will contribute to the Executive Vote by default. Implying that the nominal value will not be voted on, but simply if it should be included in the new state.
-* If MKR token holders find the values submitted to the Executive Vote are not the same as that which the accepted set of tools implies — the vote will be rejected and the risk team may be voted off from MakerDAO.
+- Risk team describes and demonstrates their set of tools. This includes interacting with MKR token holders and other risk teams.
+- When the risk team is confident that the tools are understood, they should formally submit their tools to be included.
+- A proposal sent to the voting construct will be that submission; implying that the risk team should own some MKR tokens to submit such a proposal. The proposal will be put to a Governance Vote.
+- The proposal will then go through the period of consideration (e.g. two weeks), where any final discussion can be had via Maker social channels (Reddit, Rocketchat or an internally created board).
+- After the period of consideration, the proposal will be open to the voting period (e.g. two weeks).
+- At the conclusion of the voting period, if the proposal amasses the most positive votes, it is successful, and the risk team is accepted.
+- Thereafter, the value of the risk parameters generated by that risk team will contribute to the Executive Vote by default. Implying that the nominal value will not be voted on, but simply if it should be included in the new state.
+- If MKR token holders find the values submitted to the Executive Vote are not the same as that which the accepted set of tools implies — the vote will be rejected and the risk team may be voted off from MakerDAO.
 
 ### Executive Vote Process: Voting in a new collateral type and risk parameters
 
@@ -124,19 +124,19 @@ A new collateral type added to the system implies the possibility of generating 
 
 Every Executive Vote is preceded by a Governance Vote. So the sequence for the Governance Vote will be:
 
-* The collateral type will be presented one or a group of risk teams, including the qualitative and quantitative assessment of the collateral type.
-* The submitting risk team, or group, will formally submit a proposal to accept the collateral type into the system.
-* The proposal will go through the usual period of consideration (two weeks) and if there is no obvious contention it will go through the voting period (two weeks).
-* At the end of the voting period, the proposal will pass if it has the majority vote.
+- The collateral type will be presented one or a group of risk teams, including the qualitative and quantitative assessment of the collateral type.
+- The submitting risk team, or group, will formally submit a proposal to accept the collateral type into the system.
+- The proposal will go through the usual period of consideration (two weeks) and if there is no obvious contention it will go through the voting period (two weeks).
+- At the end of the voting period, the proposal will pass if it has the majority vote.
 
 The sequence for the Executive vote will be:
 
-* The qualitative and quantitative assessment of the collateral type will be updated with any new information and made public again.
-* The submitting risk team will then at the quarterly voting date, submit a proposal including the nominal values for the collateral type.
-* Since the proposal is in the continuous approval voting system, the proposal will need to attract the majority of votes.
-* As soon as the proposal becomes the dominant proposal with the majority of votes it will be initiated.
-* The governance security module will kick in and delay the deployment of code to the blockchain for 24 hours. This is the final security construct that allows a final determination of the security of the code.
-* The code is then deployed to the blockchain and the state of MakerDAO is changed.
+- The qualitative and quantitative assessment of the collateral type will be updated with any new information and made public again.
+- The submitting risk team will then at the quarterly voting date, submit a proposal including the nominal values for the collateral type.
+- Since the proposal is in the continuous approval voting system, the proposal will need to attract the majority of votes.
+- As soon as the proposal becomes the dominant proposal with the majority of votes it will be initiated.
+- The governance security module will kick in and delay the deployment of code to the blockchain for 24 hours. This is the final security construct that allows a final determination of the security of the code.
+- The code is then deployed to the blockchain and the state of MakerDAO is changed.
 
 At this point, the new collateral type is then free to be used as collateral and to contribute to the overall supply of Dai. This covers the different types of voting constructs. In conclusion to this article, we will address the governance decisions to be expected that kicks the system off for Multi-Collateral Dai.
 
@@ -146,8 +146,8 @@ Governing the MakerDAO system is similar to governing a large ecosystem. There a
 
 Starting the Multi-Collateral Dai engine is the focus of the ‘next steps’ which include the following:
 
-* Approving the internal risk team through a Governance Vote. Required in order to vote in collateral types and risk parameters. Prior to mainnet launch.
-* Approving the initial list of collateral types through a Governance Vote. Required in order to vote in and deploy risk parameter values. Prior to mainnet launch
-* Voting in the risk parameter values for the approved collateral types through an Executive Vote. At mainnet launch.
+- Approving the internal risk team through a Governance Vote. Required in order to vote in collateral types and risk parameters. Prior to mainnet launch.
+- Approving the initial list of collateral types through a Governance Vote. Required in order to vote in and deploy risk parameter values. Prior to mainnet launch
+- Voting in the risk parameter values for the approved collateral types through an Executive Vote. At mainnet launch.
 
 In terms of practical considerations for governance, we still need to consider a few things. First, are the actual tools used to calculate risk figures, as well as the method to construct the collateral portfolio as a whole. Secondly, how risk figures from a collection of risk teams are aggregated and deployed to the system. This will be covered in two separate documents, but given that is implemented and the necessary approvals are in place, the full production system starts in earnest and we take this huge step into a new era.
