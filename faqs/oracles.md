@@ -64,4 +64,3 @@ Since the reference price used in the Dai Credit System is a median of the media
 `[0.70, 104.00, 104.11, 104.13, 104.49, 105.02, 105.45]`
 
 The median of this set still reflects the real market-wide price of the asset. Flash crashes on single exchanges do not affect the published reference price.
-

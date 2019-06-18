@@ -1,4 +1,4 @@
-# Governance and Risk Meeting: Ep. 25 \(March 7 - 2019\)
+# Ep. 25 \(Mar 07 - 2019\)
 
 [Video](https://www.youtube.com/watch?v=4GlHprwfktY) \| [Audio](https://soundcloud.com/makerdao/ep-25-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 

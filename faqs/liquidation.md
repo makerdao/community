@@ -8,13 +8,15 @@ A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough col
 
 Unlike most types of fiat, which hold value only by government decree, Dai is a modern and cryptographically secure incarnation of _representative currency_; all circulating Dai is backed by a surplus of collateral tokens stored in smart contracts, ensuring trustlessness and eliminating counterparty risk. It is this complete transparency that maintains user confidence in the system.
 
+## Who triggers liqudiation?
+
 To make sure that the required surplus of collateral exists at all times, a class of users called Keepers are charged with maintaining a constant watch for CDPs that become unsafe or under-collateralized. These Keepers are a special category of the Dai Stablecoin System users. They are the actors in the system who are incentivized to make sure that the outstanding Dai supply remains fully collateralized and solvent. They help maintain the health of the entire ecosystem by ensuring that unsafe CDPs are offered up for Liquidation as quickly as possible. This is particularly important during rapid market downturns as the collateral value could fail to satisfy debt obligations.
 
 ## What is the Liquidation Ratio?
 
 Each collateral type has a Liquidation Ratio, which is determined based on the risk profile assigned to that particular asset. Currently, the only collateral type is ETH. At the launch of the Single-Collateral Dai iteration of the system, Maker's Interim Risk Team made an assessment of the ETH asset's risk profile and deemed the appropriate Liquidation Ratio to be 150%.
 
-A decentralized Oracle Feed provides the system with pricing data for ETH to calculate when the Liquidation Ratio for a specific CDP falls below the minimum level required by the system. This combination of Risk Profile and the Market Price as determined by the Oracle Feed is what defines the Liquidation Ratio.
+A decentralized Oracle Feed provides the system with pricing data for ETH to calculate when the Collateralization Ratio for a specific CDP falls below Liquidation Ratio. This combination of Risk Profile and the Market Price as determined by the Oracle Feed is what defines the Liquidation Ratio.
 
 For example, a user wants to draw 200 DAI and thinks the value of the collateral will not drop below 50% of its current market price. The user decides to stake at least double the minimum collateralization threshold. Since the minimum collateralization is 150%, the user deposits $600 of ETH and draws 200 DAI, leaving their CDP at 300% collateralization.
 
@@ -162,4 +164,3 @@ A flash crash on a single exchange will not affect the system as each Oracle agg
 ## Where can I view live information about Liquidations?
 
 You can explore [mkr.tools](https://mkr.tools/), which is a 3rd party tool that tracks the MakerDAO system. The two most relevant pages for information are [Liquidations](https://mkr.tools/system/liquidations) and [bites](https://mkr.tools/system/bites).
-

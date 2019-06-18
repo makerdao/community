@@ -1,4 +1,4 @@
-# Governance and Risk Meeting: Ep. 24 \(February 28 - 2019\)
+# Ep. 24 \(Feb 28 - 2019\)
 
 [Video](https://www.youtube.com/watch?v=x0D39p2lNBc) \| [Audio](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk)
 
@@ -114,5 +114,4 @@
 | [\#](governance-and-risk-meeting-ep.-24.md#5502) / [55:02](https://www.youtube.com/watch?v=x0D39p2lNBc&t=55m02s) | Richard Brown | Let's play with that idea and see if we can, this is part of a larger discussion we've been having with the governance team about venues where we have debates, how we formalize those discussions on whether we break away now, break away later. So let's talk about it after the call, Rune, and we'll figure out what the best location is for it. |
 | [\#](governance-and-risk-meeting-ep.-24.md#5520) / [55:20](https://www.youtube.com/watch?v=x0D39p2lNBc&t=55m20s) | Rune Christensen | Yeah, in general I think at MakerDAO \(r/makerdao\), I mean it's awesome, right? But MakerDAO \(r/makerdao\) gotten a little bit noisy recently, I feel so this would definitely be a good opportunity to think. |
 | [\#](governance-and-risk-meeting-ep.-24.md#5528) / [55:28](https://www.youtube.com/watch?v=x0D39p2lNBc&t=55m28s) | Richard Brown | Alright. So let's stick a fork in it there. And this was a very energetic meeting. So I'm super happy about that. I'll send out or keep an eye, actually we don't have a push notification system in MakerDAO yet, which we're going to need sooner or later. But I'll keep an eye on the subreddit for a notification about this debate and potential information about where that debate will happen if it's not in our subreddit, and then we can continue on and figure out what the next steps are. Thanks everybody for taking the time. Thanks for all your insights and I'll talk to you next week. Thanks Rune. Thanks Steven. Thanks Rune. |
-| [\#](governance-and-risk-meeting-ep.-24.md#5600) / [56:00](https://www.youtube.com/watch?v=x0D39p2lNBc&t=56m00s) | Michael Dunwort | Thank you. |
-
+| [\#](governance-and-risk-meeting-ep.-24.md#5600) / [56:00](https://www.youtube.com/watch?v=x0D39p2lNBc&t=56m00s) | Michael Dunsworth | Thank you. |

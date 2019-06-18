@@ -1,17 +1,17 @@
-# **Meetup DIY Kit**
+# Meetup DIY Kit
 
 This document is intended as a guide on how MakerDAO community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](meetup-diy-kit-en.md#Planning-and-Organizing), [Requesting Funds](meetup-diy-kit-en.md#Requesting-funds), [Hosting the Meetup](meetup-diy-kit-en.md#Hosting-the-Meetup), and the [Post-Event Process](meetup-diy-kit-en.md#Post-Event-Process)\(_for those who've received a grant_\).
 
 Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource.
 
-## **GENERAL INFO**
+## GENERAL INFO
 
 ### GOALS
 
 What are we trying to accomplish with Community Led Meetups?
 
 1. Give the Maker community the resources they need to organize successful meetups.
-2. Encourage grassroots initiatives designed to grow the Maker ecosystem.
+1. Encourage grassroots initiatives designed to grow the Maker ecosystem.
 
 We believe that community members, like you, are incredibly important to the success of MakerDAO and play an invaluable role in building a stronger ecosystem. The Community Development Group wants to provide you with resources you need to increase Dai adoption and help us bring stability and financial inclusion to the underbanked. To do this, an optional pool of funds is being made available to help community members interested in hosting meetups.
 
@@ -71,9 +71,9 @@ If you are an event organizer seeking funding for a large event, this form is no
 
 If your Community Meetup Form is accepted, the following are required:
 
-1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). 
-2. We strongly prefer the events to be free to attend, but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
-3. After your event, please fill out and submit a [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
+1. Please send us an invoice through the [Request Network Invoicing App](https://app.request.network/#/). Payer Address: 0xF563f100df419CCDe59BFBE0692fc4c5bFe01706. You will be able to provide a link to your invoice in the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek).
+1. We strongly prefer the events to be free to attend, but if you are planning to charge at the door please disclose the amount you anticipate collecting in the "additional notes" section of the Grand Request Checklist. Please write the actual amount collected in the Feedback form.
+1. After your event, please fill out and submit a [Feedback form](https://airtable.com/shr6Icuj6tOy0k55l). **Grantees who do not fill out this form will not be eligible for future funding**.
 
 ### Hosting the Meetup
 
@@ -95,9 +95,9 @@ Once you have your meetup plan ready, speakers confirmed, the venue set, and the
 
 As part of the requirements for getting funding approved, we require hosts to provide information about their event after-the-fact in a [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l). This step exists in order for us to better understand the impact of these events and what we can do to help guide them to be better.
 
-As mentioned in point \#3, it is advisable for hosts to read through the full Feedback Form before the event begins so they can be prepared to answer the questions after the event concludes.
+As mentioned above, it is advisable for hosts to read through the full Feedback Form before the event begins so they can be prepared to answer the questions after the event concludes.
 
-## **Resources & Guides**
+## Resources & Guides
 
 ### Resources
 
@@ -105,7 +105,7 @@ As mentioned in point \#3, it is advisable for hosts to read through the full Fe
 * [Example Presentations](https://github.com/makerdao/awesome-makerdao#videos)
 * [Usable Slides and Presentation Decks](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
 
-### **Format Types Guide**
+### Format Types Guide
 
 Here is a non-exhaustive list of suggestions for the different types of Maker Meetup building blocks that a community member could utilize\(hybrids of these event types are also welcome\):
 
@@ -116,16 +116,16 @@ Here is a non-exhaustive list of suggestions for the different types of Maker Me
      1. _Workshops_
    * Good for adding some color to dry or very technical presentations
    * Find examples in Demos & Hands-on sessions below
-2. **Development** \(Technical/heavy\) This format focuses on business applications and/or implementation of real use cases so it may be more technical in nature. It can also focus on the software side, and act more like a developer meetup where the more technical aspects of MakerDAO can be explored. 1. **Developer-centric** 1. _Presentations_ 1. _Workshops_
+1. **Development** \(Technical/heavy\) This format focuses on business applications and/or implementation of real use cases so it may be more technical in nature. It can also focus on the software side, and act more like a developer meetup where the more technical aspects of MakerDAO can be explored. 1. **Developer-centric** 1. _Presentations_ 1. _Workshops_
    * Integrations \(e.g. demoing the Dai hack you have created, testing and improving it together\)
    * Dai.js \(library documentation [here](https://makerdao.com/documentation/)\)
    * How the smart contracts work
      1. **Business-centric**
-     2. _Presentations_
+     1. _Presentations_
    * Integrations \(e.g. how did we solve our dapp's issues with Dai; or Paralelni Polis: [our strategies with using crypto only](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/)\)
    * Can be combined with Socials format \(great for networking\) or Demo format \(helps adoption and understanding\).
-3. **Socials** \(we strongly suggest this format be used in combination with other formats\) This format focuses on bringing together community members for the purpose of networking and providing a venue to meet in-person. 1. _Dai Dappy Hour_ \(should be combined with some learning event\) - see these past Dai Dappy Hours \([1](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#), [2](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f), [3](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/)\) & how to get set-up \(contact Lenka\) 1. _Maker Fan Meetups_ - possible inspiration [here](https://www.meetup.com/EthereumSiliconValley/events/249307694/) - Games, Raffles, Dai auctions\)
-4. **Demos & Hands-on sessions** \(great for emerging markets\) This format focuses on educating people on the ways they can actually use Dai and interact with the MakerDAO system. This type of format might put special emphasis on teaching people how to use basic web3 tools like wallets, exchanges, and dapps. It's recommended to do along with other formats. 1. _Complex Demos_
+1. **Socials** \(we strongly suggest this format be used in combination with other formats\) This format focuses on bringing together community members for the purpose of networking and providing a venue to meet in-person. 1. _Dai Dappy Hour_ \(should be combined with some learning event\) - see these past Dai Dappy Hours \([1](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#), [2](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f), [3](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/)\) & how to get set-up \(contact Lenka\) 1. _Maker Fan Meetups_ - possible inspiration [here](https://www.meetup.com/EthereumSiliconValley/events/249307694/) - Games, Raffles, Dai auctions\)
+1. **Demos & Hands-on sessions** \(great for emerging markets\) This format focuses on educating people on the ways they can actually use Dai and interact with the MakerDAO system. This type of format might put special emphasis on teaching people how to use basic web3 tools like wallets, exchanges, and dapps. It's recommended to do along with other formats. 1. _Complex Demos_
    * Playing with CDPs \([example](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd)\)
    * Playing with DeFi dapps \([list](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai)\)
      * Short and Leveraged tokens \([dYdX](https://dydx.exchange/)\)
@@ -136,13 +136,13 @@ Here is a non-exhaustive list of suggestions for the different types of Maker Me
    * How do I get it \(browse [here](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai)\)
    * What do I do with it \(holding [here](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai), spending [here](https://www.thebigcoin.io/pay-with-dai)\)
    * Why is it good \(why answered [here](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e), inspirations: [use cases](https://medium.com/makerdao/stablecoins-use-cases-44e696ba8633), charitable donations [1](https://needslist.co/donate), [2](https://merrymerkle.africa/), [3](https://medium.com/alice-si/heres-what-happened-at-the-blockchain-for-good-workshop-at-devcon4-and-what-s-coming-next-f198dd84a4b9)\)
-5. **Other Ideas**
+1. **Other Ideas**
    1. _Games_
-   2. _Raffles_
-   3. _Dai Auctions_
-   4. _Donation Matching Initiative_
+   1. _Raffles_
+   1. _Dai Auctions_
+   1. _Donation Matching Initiative_
 
-### **Marketing & Promotion Guide**
+### Marketing & Promotion Guide
 
 As soon as you have a chosen venue and secured date, make sure to register and promote the meetup as soon as possible so that others will be aware of it. Share the newly created meetup with your network as well as the MakerDAO Community.
 
@@ -167,7 +167,7 @@ Local places to promote your event:
 * Libraries
 * Community Centers
 * College campuses
-* Coworking spaces
+* Co-working spaces
 * Coffee shops
 
 #### Setting up your Event Page
@@ -176,10 +176,10 @@ In order to make people aware of your event, you will need to create an event pa
 
 1. The name of the Event
    * You can name your event anything you'd like. A good name can capture the theme, main topic, or general ethos of the talk.
-2. The time and location
-3. Description
+1. The time and location
+1. Description
    * This is a good place to go into detail about the purpose for your event, the agenda, who is speaking, who is a sponsor, etc…
-4. Additional details \(such as "How to find us"\)
+1. Additional details \(such as "How to find us"\)
    * These will vary depending on the event. Simply put, add any additional information unique to your event that a potential attendee would find helpful.
 
 #### Some Pointers
@@ -194,7 +194,7 @@ In order to make people aware of your event, you will need to create an event pa
 
 [Meetup.com's Guide to Promoting your meetup](https://help.meetup.com/hc/en-us/articles/360002491331-Promoting-your-Meetup-group)
 
-### **Budget Guide**
+### Budget Guide
 
 This is a guide on how to manage the financial side of hosting a meetup. Before you get going, we want community members to have a specific mentality when it comes to costs—It's important to always aim to achieve the most value for the money you are spending. If you are being given an honorarium to cover expenses for this event, it will be based on the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) you submit to us beforehand. Here are some guidelines for how you should budget for your event.
 
@@ -224,14 +224,14 @@ Don't forget to check if the venue allows for food and drinks!
 
 Generally, we do not cover funding for banners and printed materials. Digital media and communications are widespread enough that paper has become significantly more burdensome to use. Digital agendas and other fliers are far more efficient. Save the trees!
 
-## **Community Meetup Form**
+## Community Meetup Form
 
-Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interested in [requesting funds](meetup-diy-kit-en.md#requesting-funds)
+Fill out and submit the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) if you are interested in [requesting funds](meetup-diy-kit-en.md#requesting-funds)
 
-#### _Questions on the form:_
+### _Questions on the form:_
 
 1. What is your name?
-2. What is your e-mail or other contact information? 
+2. What is your e-mail or other contact information?
 3. What is the name of your event?
 4. What region are you hosting your meetup in?
 5. Please provide a description of your meetup in three to five sentences.
@@ -256,11 +256,11 @@ Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOt
 24. Please provide links to any previous events you have held. Videos, announcements, blog posts, social media engagements, etc.
 25. Please submit your Request Network Invoice Link here:
 
-## **Feedback Form**
+## Feedback Form
 
 Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l) after your event if you've received a micro-grant.
 
-### _Questions on the form:_
+### Questions on the form:_
 
 #### Identification
 
@@ -296,4 +296,3 @@ Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k5
 #### Future plans
 
 1. Are you considering hosting a meetup again in the future?
-

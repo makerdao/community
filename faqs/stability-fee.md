@@ -88,7 +88,7 @@ Given that:
 
 The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.208 DAI**, or approximately 21 cents USD.
 
-The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR. 
+The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR.
 
 ### A Detailed Example
 
@@ -193,4 +193,3 @@ It is not possible to schedule or make predictions about when the fee should cha
 The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how significantly the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
 
 Due to the risk of manipulation, there will always need to be some level of discretion and signal processing required to determine exactly how Stability Fees should be adjusted. Fully automatic and algorithmic processes are vulnerable to manipulation and will need to be carefully considered.
-

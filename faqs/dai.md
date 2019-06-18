@@ -28,7 +28,7 @@ A decentralized digital economy needs stability in order to function. The Dai st
 
 ## Is one Dai always worth exactly one USD?
 
-No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an Emergency Shutdown, Dai is redeemable for exactly $1 worth of collateral according to the oracles' prices at the time of Emergency Shutdown.
+No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an Emergency Shutdown, Dai is redeemable for exactly \$1 worth of collateral according to the oracles' prices at the time of Emergency Shutdown.
 
 ## Where does Dai come from?
 
@@ -36,7 +36,7 @@ Dai enters the cryptocurrency ecosystem when it is minted by CDP owners who have
 
 An autonomous system of smart contracts specifically designed to respond to market pressures work together to ensure that the essential stability property is maintained. No one can alter the core mechanics of Dai, making it a safe and predictable form of money.
 
-It's important to note that Dai users do not need to understand the mechanics of the system in order to use Dai; they can simply look at the historical record to determine whether they think Dai will remain stable at close to $1.
+It's important to note that Dai users do not need to understand the mechanics of the system in order to use Dai; they can simply look at the historical record to determine whether they think Dai will remain stable at close to \$1.
 
 ## Does anyone else have a claim on my Dai tokens?
 
@@ -73,4 +73,3 @@ Because the system runs as an autonomous smart contract and all transactions are
 ## What organizations are using DAI?
 
 A current list can be found in the [Partnerships](https://github.com/makerdao/awesome-makerdao#partnerships) section of the [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao#) repository.
-

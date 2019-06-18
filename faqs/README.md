@@ -1,4 +1,4 @@
-# FAQs
+# MakerDAO FAQs
 
 * [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 * [Glossary of Terms](glossary.md)
@@ -36,6 +36,33 @@
 * [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
 * [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
 * [What organizations are using DAI?](dai.md#what-organizations-are-using-dai)
+
+## Emergency Shutdown
+
+* [What is an Emergency Shutdown?](emergency-shutdown.md#what-is-an-emergency-shutdown)
+* [What happens during an Emergency Shutdown?](emergency-shutdown.md#what-happens-during-an-emergency-shutdown)
+* [Who can Trigger an Emergency Shutdown?](emergency-shutdown.md#who-can-trigger-an-emergency-shutdown)
+* [When should Emergency Shutdown be used?](emergency-shutdown.md#when-should-emergency-shutdown-be-used)
+* [Does hitting the Debt Ceiling warrant an Emergency Shutdown?](emergency-shutdown.md#does-hitting-the-debt-ceiling-warrant-an-emergency-shutdown)
+* [Will the redemption of collateral for CDPs and Dai be immediate and automatic, or a manual process?](emergency-shutdown.md#will-the-redemption-of-collateral-for-cdps-and-dai-be-immediate-and-automatic-or-a-manual-process)
+* [Why is there a time period before CDP owners can redeem collateral?](emergency-shutdown.md#why-is-there-a-time-period-before-cdp-owners-can-redeem-collateral)
+* [Can MKR voters set the collateral claim processing time period to 0?](emergency-shutdown.md#can-mkr-voters-set-the-collateral-claim-processing-time-period-to-0)
+* [Do Dai holders need to redeem collateral, or is it just CDP owners?](emergency-shutdown.md#do-dai-holders-need-to-redeem-collateral-or-is-it-just-cdp-owners)
+* [What do I do in the case of an Emergency Shutdown if I'm a PETH holder who does not own a CDP?](emergency-shutdown.md#what-do-i-do-in-the-case-of-an-emergency-shutdown-if-im-a-peth-holder-who-does-not-own-a-cdp)
+* [If the prices keep falling after the price feeds are frozen, doesn't this mean that people redeeming Dai and CDPs may get less than $1 of collateral?](emergency-shutdown.md#if-the-prices-keep-falling-after-the-price-feeds-are-frozen-doesnt-this-mean-that-people-redeeming-dai-and-cdps-may-get-less-than-1-of-collateral)
+* [How quickly can an Emergency Shutdown be performed?](emergency-shutdown.md#how-quickly-can-an-emergency-shutdown-be-performed)
+* [What happens to MakerDAO after an Emergency Shutdown?](emergency-shutdown.md#what-happens-to-makerdao-after-an-emergency-shutdown)
+* [Who can redeploy the system?](emergency-shutdown.md#who-can-redeploy-the-system)
+* [What if multiple redeployments happen, who decides which one is legitimate?](emergency-shutdown.md#what-if-multiple-redeployments-happen-who-decides-which-one-is-legitimate)
+* [Who decides how the system should be redeployed?](emergency-shutdown.md#who-decides-how-the-system-should-be-redeployed)
+* [During Emergency Shutdown, will CDP owner's collateral be given away to other people?](emergency-shutdown.md#during-emergency-shutdown-will-cdp-owners-collateral-be-given-away-to-other-people)
+* [Is there anything preventing MKR holders from triggering an Emergency Shutdown in order to avoid MKR dilution due to poor management?](emergency-shutdown.md#is-there-anything-preventing-mkr-holders-from-triggering-an-emergency-shutdown-in-order-to-avoid-mkr-dilution-due-to-poor-management)
+* [Can I create a CDP during an Emergency Shutdown?](emergency-shutdown.md#can-i-create-a-cdp-during-an-emergency-shutdown)
+* [What happens to inaccessible CDPs and Dai that has been lost, stuck or is dust?](emergency-shutdown.md#what-happens-to-inaccessible-cdps-and-dai-that-has-been-lost-stuck-or-is-dust)
+* [Are Stability Fees waived in the event of an Emergency Shutdown?](emergency-shutdown.md#are-stability-fees-waived-in-the-event-of-an-emergency-shutdown)
+* [Has an Emergency Shutdown ever been performed in the past?](emergency-shutdown.md#has-an-emergency-shutdown-ever-been-performed-in-the-past)
+* [How was testing for Emergency Shutdown done?](emergency-shutdown.md#how-was-testing-for-emergency-shutdown-done)
+* [How will CDP users and Dai holders be notified of Emergency Shutdown?](emergency-shutdown.md#how-will-cdp-users-and-dai-holders-be-notified-of-emergency-shutdown)
 
 ## Governance
 
@@ -96,7 +123,7 @@
 
 * [What is MakerDAO?](makerdao.md#what-is-makerdao)
 * [Who Started MakerDAO and When?](makerdao.md#who-started-makerdao-and-when)
-* [Why did the founders call it _Maker_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
+* [Why did the founders call it \_Maker\_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
 * [What is a DAO?](makerdao.md#what-is-a-dao)
 * [Who is the Maker Community?](makerdao.md#who-is-the-maker-community)
 * [What is the Maker Foundation?](makerdao.md#what-is-the-maker-foundation)
@@ -125,6 +152,29 @@
 * [What's the process for becoming a feed provider?](oracles.md#whats-the-process-for-becoming-a-feed-provider)
 * [Is the Oracle system resistant to Sybil attacks?](oracles.md#is-the-oracle-system-resistant-to-sybil-attacks)
 * [What happens if there is a flash crash on an exchange?](oracles.md#what-happens-if-there-is-a-flash-crash-on-an-exchange)
+
+## Risk Management
+
+* [What is Risk Management?](risk-management.md#what-is-risk-management)
+* [What is Decentralized Risk Management?](risk-management.md#what-is-decentralized-risk-management)
+* [What are Risk Teams?](risk-management.md#what-are-risk-teams)
+* [What is a Risk Construct?](risk-management.md#what-is-a-risk-construct)
+* [What is a Risk Model?](risk-management.md#what-is-a-risk-model)
+* [Do Risk Models change?](risk-management.md#do-risk-models-change)
+* [Are there different types of Risk teams?](risk-management.md#are-there-different-types-of-risk-teams)
+* [Who are the Risk Teams?](risk-management.md#who-are-the-risk-teams)
+* [What is the process for becoming a Risk Team?](risk-management.md#what-is-the-process-for-becoming-a-risk-team)
+* [What is the Maker Foundation Interim Risk Team?](risk-management.md#what-is-the-maker-foundation-interim-risk-team)
+* [How are Weightings for Risk Teams/Risk Constructs Determined?](risk-management.md#how-are-weightings-for-risk-teamsrisk-constructs-determined)
+* [Who chooses which Risk Constructs should be used as a basis for decision-making?](risk-management.md#who-chooses-which-risk-constructs-should-be-used-as-a-basis-for-decision-making)
+* [What is the connection between a Risk Construct and voting in new collateral?](risk-management.md#what-is-the-connection-between-a-risk-construct-and-voting-in-new-collateral)
+* [What is Qualitative Risk Analysis, and how should one approach it?](risk-management.md#what-is-qualitative-risk-analysis-and-how-should-one-approach-it)
+* [What is Exposure Risk?](risk-management.md#what-is-exposure-risk)
+* [What is Liquidity Risk?](risk-management.md#what-is-liquidity-risk)
+* [What is Volatility Risk?](risk-management.md#what-is-volatility-risk)
+* [What is Correlation Risk?](risk-management.md#what-is-correlation-risk)
+* [What is Price Feed Risk?](risk-management.md#what-is-price-feed-risk)
+* [What is Economic Capital in the Context of MakerDAO?](risk-management.md#what-is-economic-capital-in-the-context-of-makerdao)
 
 ## Stability Fee
 

@@ -6,7 +6,7 @@ Governance is a process through which a group of stakeholders come to a decision
 
 ## How do MKR holders manage the Dai Credit System?
 
-For the Dai Credit System to be successful, the stakeholders in the system need to collaborate and vote on a variety of Risk Parameters. Some examples include which assets can be used as collateral, how much debt can be issued, and the APR fee a CDP holder is charged. This is done through the on-chain voting mechanism built directly into the system. The Maker team created the [Governance Dashboard](http://vote.makerdao.com/) for stakeholders to have a friendly user interface to use for voting. Stakeholders still have the option of voting directly by interacting with the smart contacts that make up the Dai Credit System.
+For the Dai Credit System to be successful, the stakeholders in the system need to collaborate and vote on a variety of Risk Parameters. Some examples include which assets can be used as collateral, how much Dai can be issued, and the Stablity Fee a CDP holder is charged. This is done through the on-chain voting mechanism built directly into the system. The Maker team created the [Governance Dashboard](http://vote.makerdao.com/) for stakeholders to have a friendly user interface to use for voting. Stakeholders still have the option of voting directly by interacting with the smart contacts that make up the Dai Credit System.
 
 One of the first votes that MKR token holders participated in was an agreement for [Gradual Decentralization](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), which is a core part of how the MakerDAO platform is meant to evolve. Currently, the Maker team takes responsibility for bootstrapping the system by providing active input and effort into governance. As time goes on, the Maker team will play a less active role in this function and will equip MKR token holders to govern the system independently. As the community around MakerDAO grows, the governance of the system will evolve into a more decentralized state.
 
@@ -72,7 +72,7 @@ In this model, the continuity of staked votes challenges and reinforces the stat
 
 ## Why is the Continuous Approval Voting system necessary?
 
-The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system, implying that they do not want to see anything changed.
+The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system (or leave it there if they voted for current state before), implying that they do not want to see anything changed.
 
 The continuity of the system is emphasized in the fact that a new proposal can be submitted at any time by any MKR token holder. Therefore, the system needs to be continuously monitored and governed, and thus requires a voting construct that reflects this need. In the MakerDAO system, the Continuous Approval Voting system solves this problem.
 
@@ -117,9 +117,9 @@ It takes four transactions with a total cost of approximately 1M gas to set up t
 It takes four separate transactions to set up the voting contract.
 
 1. **Initiate link**: The first step is to specify which wallet to use as your hot wallet. This transaction is called "Initiate link" and must come from your cold wallet. This transaction is meant to prove your control of the cold wallet, and specify which wallet to use as your hot wallet.
-2. **Approve link**:  Next, it is time for you to specify and prove control of your hot wallet and create the link between your wallets with the "Approve link" transaction. This action will also create the personalized voting contract that you will use to cast your votes.
-3. **Approve MKR transfer**:  Once the link between your cold and hot wallets has been created, you must approve your MKR to be transferred to the voting contract.
-4. **Lock MKR**: The last step transfers MKR to the voting system contract to specify your voting weight. This step can be repeated at any time to "top up" with additional MKR.
+1. **Approve link**:  Next, it is time for you to specify and prove control of your hot wallet and create the link between your wallets with the "Approve link" transaction. This action will also create the personalized voting contract that you will use to cast your votes.
+1. **Approve MKR transfer**:  Once the link between your cold and hot wallets has been created, you must approve your MKR to be transferred to the voting contract.
+1. **Lock MKR**: The last step transfers MKR to the voting system contract to specify your voting weight. This step can be repeated at any time to "top up" with additional MKR.
 
 You can participate in both Polling and Executive Voting after completing these steps.
 
@@ -141,7 +141,7 @@ To withdraw your locked MKR, you first need to go to the [Governance Dashboard](
 
 ## How does a withdrawal affect my previous votes?
 
-Withdrawing your MKR from the latest proposal takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
+Withdrawing your MKR takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
 
 ## Do I need to unlock immediately after voting?
 
@@ -162,4 +162,3 @@ Yes. There is an option to break the wallet link by going to the [Governance Das
 ## Can I combine more than one address holding MKR to vote?
 
 No, currently a voting contract can only be funded by one address.
-
