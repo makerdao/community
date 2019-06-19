@@ -61,6 +61,16 @@
 - Make descriptive commit messages
   - "Fixed something" = Bad
   - "Fixed spelling mistakes in filename.md" = Good
+  
+## Links
+
+- When creating links for parallel translated documents, always make sure to update the relative links to reflect the correct heading. 
+
+```
+en: faqs/cdp.md#what-are-collateralized-debt-positions
+es: faqs/es/cdp.md#qué-son-las-posiciones-de-deuda-colateralizadascdp
+ko: faqs/ko/cdp.md#부채-담보부-포지션collateralized-debt-positions-cdp이란-무엇인가요
+```
 
 ## FAQ Style Guide
 
