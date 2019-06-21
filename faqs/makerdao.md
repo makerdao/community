@@ -65,4 +65,3 @@ The various entities associated with the Maker Foundation are currently held und
 ## How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?
 
 MKR token holders are all members of the DAO. At times, this creates an appearance overlap between the DAO and the Maker Foundation because many Maker Foundation team members are MKR token holders themselves. That said, the Maker Foundation does not, as an entity, control or vote in MakerDAO governance decisions. Ultimately, MKR token holders are largely anonymous, which is why governance is conducted publicly, transparently and on a scientific basis. Moreover, all interested parties may publicly submit their opinions related to MakerDAO governance.
-

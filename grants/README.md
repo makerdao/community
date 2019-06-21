@@ -6,9 +6,8 @@ We like to think of our grantees as highly self-directed remote teams, and as su
 
 We are interested in a wide range of projects but our current focus is primarily around novel, usable tools that directly benefit Dai users, increase Dai adoption and/or increase access to personal liquidity. Pure R&D, information gathering, additional runway, or Ethereum ecosystem improvements are generally outside the scope of the program. Because the program is based on milestones, grants are expected to fund specific feature sets.
 
-As part of the application process, MakerDAO will ask for a clearly written, one-page explanation outlining exactly what the project does, the problem it solves, and why it will be successful. We will also request links to demos, architecture diagrams, flows that show custody of assets, use cases, competitive analysis, slide decks, source code, etc., as part of the evaluation.
+As part of the application process, MakerDAO will ask for a clearly written, one or two-page explanation outlining exactly what the project does, the problem it solves, why it will be successful, and a rough projected budget. After the initial review, we may also request links to demos, architecture diagrams, flows that show custody of assets, use cases, competitive analysis, slide decks, source code, etc.
 
 Our grants program is designed to allow teams to achieve a successful release of their passion project. Due to the high volume of worthy requests we receive and the limited resources available, we prioritize applications that have _very_ conservative budgets.
 
 Teams that successfully complete their milestones and launch a product may also gain access to internal MakerDAO resources. These can take many forms from code reviews and external security audits, to consultations with Legal, Public Relations and/or Business Development teams. Successful projects will also be prioritized for continued granting and or possible investments from MakerDAO in future iterations of the program.
-

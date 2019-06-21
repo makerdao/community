@@ -72,7 +72,7 @@ In this model, the continuity of staked votes challenges and reinforces the stat
 
 ## Why is the Continuous Approval Voting system necessary?
 
-The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system, implying that they do not want to see anything changed.
+The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system (or leave it there if they voted for current state before), implying that they do not want to see anything changed.
 
 The continuity of the system is emphasized in the fact that a new proposal can be submitted at any time by any MKR token holder. Therefore, the system needs to be continuously monitored and governed, and thus requires a voting construct that reflects this need. In the MakerDAO system, the Continuous Approval Voting system solves this problem.
 
@@ -141,7 +141,7 @@ To withdraw your locked MKR, you first need to go to the [Governance Dashboard](
 
 ## How does a withdrawal affect my previous votes?
 
-Withdrawing your MKR from the latest proposal takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
+Withdrawing your MKR takes your vote out of the system, and leaves your MKR unassigned. This makes a new proposal require less MKR to pass since it only needs to have more MKR in it than the previous proposal. Withdrawing your MKR from the voting contract also adds a step should you wish to vote again with your MKR in the future.
 
 ## Do I need to unlock immediately after voting?
 

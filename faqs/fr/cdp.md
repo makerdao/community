@@ -30,7 +30,7 @@ Si le niveau de garantie d'un CDP devient insuffisant, le CDP est alors "à risq
 
 Le niveau de garantie est le rapport entre la valeur de la garantie qu'un utilisateur a déposée dans son CDP et les dais empruntés.
 
-Supposons par exemple que les ethers déposés dans notre CDP valent pour l'instant 150$ et que nous avons emprunté 50 DAI. Cela signifie que le niveau de garantie est de 300%: pour chaque dai, il y a 3 dollars de garantie. Le système Maker peut liquider un CDP qui passerait en dessous du [seuil de liquidation](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), à savoir le niveau de garantie minimum.
+Supposons par exemple que les ethers déposés dans notre CDP valent pour l'instant 150\$ et que nous avons emprunté 50 DAI. Cela signifie que le niveau de garantie est de 300%: pour chaque dai, il y a 3 dollars de garantie. Le système Maker peut liquider un CDP qui passerait en dessous du [seuil de liquidation](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), à savoir le niveau de garantie minimum.
 
 ## Quels risques encourent les propriétaires de CDP ?
 
@@ -48,19 +48,19 @@ Les erreurs de l'usager présentent des risques. MakerDAO n'a pas la capacité d
 
 Le succès futur de la plate-forme Maker fait face à de nombreux risques systémiques. La liste ci-dessous s'efforce de mettre l'accent sur certains d'entre eux, mais n'est pas exhaustive:
 
-* Un piratage malveillant à l'encontre de l'infrastructure de contrats intelligents
-* Un événement cataclysmique concernant un ou plusieurs actifs en garantie
-* Erreurs de prix, irrationalité des marchés, et autres circonstances imprévues
-* Défaillance de l'infrastructure centralisée, par exemple perte de connexion internet, bogue de MetaMask, etc.
+- Un piratage malveillant à l'encontre de l'infrastructure de contrats intelligents
+- Un événement cataclysmique concernant un ou plusieurs actifs en garantie
+- Erreurs de prix, irrationalité des marchés, et autres circonstances imprévues
+- Défaillance de l'infrastructure centralisée, par exemple perte de connexion internet, bogue de MetaMask, etc.
 
 ### Exposition aux paramètres de risque
 
 Les paramètres de risque qui gouvernent le système peuvent changer, et il est important de noter leur impact potentiel sur les détenteurs de CDP: il s'agit pour eux d'un risque financier. Voici une liste partielle des paramètres susceptibles de changer:
 
-* Frais de stabilité
-* Seuil de liquidation
-* Plafond de la dette d'un type de garantie
-* Pénalité de liquidation
+- Frais de stabilité
+- Seuil de liquidation
+- Plafond de la dette d'un type de garantie
+- Pénalité de liquidation
 
 ## Quelles sont les bonnes pratiques permettant de limiter les risques ?
 
@@ -82,9 +82,9 @@ Les risques d'usage peuvent être atténués en commençant par de petites somme
 
 On peut vouloir ouvrir un CDP pour de nombreuses raisons. Voici quelques exemples basés sur l'expérience d'utilisateurs:
 
-* **Effet de levier**: Un utilisateur convaincu qu'un actif va bientôt prendre de la valeur peut utiliser une partie de sa garantie pour obtenir des dais avec lesquels il ou elle achète cet actif. Plus tard, en cas d'appréciation de l'actif, l'utilisateur peut le vendre pour plus de dais qu'il n'en avait emprunté, rembourser sa dette, et conserver la différence.
-* **Ligne de crédit flexible**: Un utilisateur souhaite acheter une voiture et arrive à la conclusion que les méthodes de financement traditionelles ne lui proposent pas des termes ou des frais aussi intéressants que ceux disponibles avec un CDP. L'utilisateur peut emprunter des dais garantis par ses ethers, acheter la voiture, et effectuer des remboursement à son propre rythme.
-* **Refinancement**: Un utilisateur qui a contracté un emprunt à taux élevé peut éviter de liquider ses actifs pour rembourser sa dette en empruntant des dais garantis par ses ethers, en convertissant les dais en monnaie fiduciaire, et en remboursant une partie ou l'intégralité de sa dette plus coûteuse.
+- **Effet de levier**: Un utilisateur convaincu qu'un actif va bientôt prendre de la valeur peut utiliser une partie de sa garantie pour obtenir des dais avec lesquels il ou elle achète cet actif. Plus tard, en cas d'appréciation de l'actif, l'utilisateur peut le vendre pour plus de dais qu'il n'en avait emprunté, rembourser sa dette, et conserver la différence.
+- **Ligne de crédit flexible**: Un utilisateur souhaite acheter une voiture et arrive à la conclusion que les méthodes de financement traditionelles ne lui proposent pas des termes ou des frais aussi intéressants que ceux disponibles avec un CDP. L'utilisateur peut emprunter des dais garantis par ses ethers, acheter la voiture, et effectuer des remboursement à son propre rythme.
+- **Refinancement**: Un utilisateur qui a contracté un emprunt à taux élevé peut éviter de liquider ses actifs pour rembourser sa dette en empruntant des dais garantis par ses ethers, en convertissant les dais en monnaie fiduciaire, et en remboursant une partie ou l'intégralité de sa dette plus coûteuse.
 
 Il est important de garder à l'esprit que toute création de CDP suivie d'un emprunt de dais revient à contracter une dette et à prendre des risques, comme par exemple celui de voir les frais de stabilité augmenter, ou de voir son CDP liquidé.
 

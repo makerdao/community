@@ -7,13 +7,13 @@ One important security feature of Dai is called Emergency Shutdown, formerly kno
 ## What happens during an Emergency Shutdown?
 
 1. Emergency Shutdown is activated:
-If MKR voters believe that the system is subject to a serious attack, or if an Emergency Shutdown is scheduled as part of a technical upgrade, they can activate an Emergency Shutdown. This stops CDP creation and freezes the Price Feed.
+   If MKR voters believe that the system is subject to a serious attack, or if an Emergency Shutdown is scheduled as part of a technical upgrade, they can activate an Emergency Shutdown. This stops CDP creation and freezes the Price Feed.
 
 1. Collateral Claims are processed:
-After Emergency Shutdown is activated, a time period is needed to allow the processing of the proportional collateral claims of all CDP owners. After this processing is done, all CDP owners will be able to claim a fixed amount of ETH with their CDPs. Dai holders can access their collateral claims immediately.
+   After Emergency Shutdown is activated, a time period is needed to allow the processing of the proportional collateral claims of all CDP owners. After this processing is done, all CDP owners will be able to claim a fixed amount of ETH with their CDPs. Dai holders can access their collateral claims immediately.
 
 1. Dai and CDP owners claim collateral:
-Each Dai holder and CDP owner can exchange their Dai and CDPs directly for a fixed amount of ETH that corresponds to the calculated value of their assets.
+   Each Dai holder and CDP owner can exchange their Dai and CDPs directly for a fixed amount of ETH that corresponds to the calculated value of their assets.
 
 ## Who can Trigger an Emergency Shutdown?
 
@@ -55,9 +55,9 @@ Both CDP owners and Dai holders need to redeem collateral. However, only Dai hol
 
 ## What do I do in the case of an Emergency Shutdown if I'm a PETH holder who does not own a CDP?
 
-The PETH ratio drops instantaneously when an Emergency Shutdown is triggered and comes back up as CDPs are processed. PETH holders should wait the 6 hour delay period like CDP owners.  
+The PETH ratio drops instantaneously when an Emergency Shutdown is triggered and comes back up as CDPs are processed. PETH holders should wait the 6 hour delay period like CDP owners.
 
-## If the prices keep falling after the price feeds are frozen, doesn't this mean that people redeeming Dai and CDPs may get less than $1 of collateral?
+## If the prices keep falling after the price feeds are frozen, doesn't this mean that people redeeming Dai and CDPs may get less than \$1 of collateral?
 
 Yes, it is possible for users to get less than a dollar worth of collateral. Dai holders are able to immediately redeem their Dai for collateral and may experience some slippage. CDP owners must wait the 6 hour delay period for claims to be calculated and are therefore exposed to the risk of the underlying collateral price moving during these 6 hours.
 
@@ -77,19 +77,19 @@ Anyone can redeploy the system since it is open source software.
 
 Depending on the details of each redeployment, the market, along with various system participants will have to choose the one with the most appropriate changes. Some factors include:
 
-*   No unwarranted code changes
-*   Changes in the distribution of the MKR token
-*   Changes in the Risk Parameters
+- No unwarranted code changes
+- Changes in the distribution of the MKR token
+- Changes in the Risk Parameters
 
 ## Who decides how the system should be redeployed?
 
 Since it is open source software, anyone can decide. Ideally, the parameters of redeployment should depend on the reason for the Emergency Shutdown, and should not be altered unilaterally and arbitrarily. Here is a rough example of a framework for making changes on redeployment:
 
-| Reason| Solution|
-|---|---|
-| Governance attack | Fork out malicious MKR holders in new redistribution,  redeploy system with everything else as-is |
-| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix,  redeploy system with everything else as-is |
-| Market Black Swan | Redeploy system with everything as-is, allow MKR voters to decide  how best to address this event through new or improved system mechanics  that can be added post-redeployment |
+| Reason | Solution |
+| --- | --- |
+| Governance attack | Fork out malicious MKR holders in new redistribution, redeploy system with everything else as-is |
+| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix, redeploy system with everything else as-is |
+| Market Black Swan | Redeploy system with everything as-is, allow MKR voters to decide how best to address this event through new or improved system mechanics that can be added post-redeployment |
 
 ## During Emergency Shutdown, will CDP owner's collateral be given away to other people?
 
@@ -97,9 +97,9 @@ During Emergency Shutdown, collateral is immediately made available for redempti
 
 Example:
 
-> If you have a CDP with 1 ETH that's worth 300 USD, and 100 debt, you will be left with 0.6666 ETH and no debt. 
- The Net Value of the CDP is made available for redemption, which is 300 USD value of the collateral, minus 100 USD of debt. 
- Therefore, you will be able to claim 0.6666 ETH after the 6 hour delay period. 
+> If you have a CDP with 1 ETH that's worth 300 USD, and 100 debt, you will be left with 0.6666 ETH and no debt.
+> The Net Value of the CDP is made available for redemption, which is 300 USD value of the collateral, minus 100 USD of debt.
+> Therefore, you will be able to claim 0.6666 ETH after the 6 hour delay period.
 
 ## Is there anything preventing MKR holders from triggering an Emergency Shutdown in order to avoid MKR dilution due to poor management?
 

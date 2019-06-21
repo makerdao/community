@@ -102,7 +102,7 @@ Oracles help mitigate Price Feed Risk by pulling data from multiple sources and 
 
 ## What is Economic Capital in the Context of MakerDAO?
 
-Economic Capital, also known as Risk Capital, is the amount of capital an entity is willing to allocate to remain solvent; It is a fundamental input for the management of the collateral portfolio. 
+Economic Capital, also known as Risk Capital, is the amount of capital an entity is willing to allocate to remain solvent; It is a fundamental input for the management of the collateral portfolio.
 
 The MakerDAO system is designed to cover CDP liquidations when a CDP fails to raise the amount of Dai it originally generated. The system does so by using MKR as a recapitalization source through its minting and sale. Each collateral's parameters are set such that the probability of this happening is very low. Economic Capital is deployed when highly unlikely events cause CDP shortfalls. In MakerDAO, this represents a risk premium that is built into the Stability Fee.
 
