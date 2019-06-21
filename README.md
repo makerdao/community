@@ -1,32 +1,34 @@
 # Community Development at MakerDAO
 
-The Community Development group's mandate is to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We do this through a series of initiatives designed to create clear incentives and support structures that allow people to participate in, and contribute to, the success of the Dai Stablecoin platform.
+The Community Development group's mandate is to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We do this through a series of initiatives that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform.
 
 ## Our Initiatives
 
 ### [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/)
 
-Awesome-MakerDAO is a community-curated list of MakerDAO related resources and content to which anyone can contribute. It contains everything from official documentation, to beginner guides, In-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
+Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
 
-### [Community Meetups & MicroGrants](meetups/README.md)
+### [Community Meetup Microgrants](meetups/README.md)
 
-Community members are incredibly important to MakerDAO and play an invaluable role in building a stronger ecosystem. The Community Development Group wants to provide the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To do this, we have created a DIY Meetup guide and micro-granting program dedicated to helping anyone create and organize a local community meetup.
+Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group wants to provide the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
 
 ### Community Translations
 
-Our goal is to bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
+We bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
 
 ### [FAQs](faqs/README.md)
+
+MakerDAO wants everyone to be comfortable with their understanding of the Dai system, its governance, and stablecoins in general. This section provides answers to commonly asked questions about everything MakerDAO.
 
 We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
 
 ### [Governance](governance/README.md)
 
-In bootstrapping Governance, we've set up this section to hold helpful resources such as transcripts of the meetings, historical summaries, and more.
+To ensure good governance and accountability, we've set up this section to contain helpful resources such as transcripts of the meetings, historical summaries, and more.
 
 ### [Grants Program](grants/README.md)
 
-The MakerDAO Community grants program is designed to directly support projects that increase Dai adoption, support emerging economies, open up new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
+The MakerDAO Community grants program provides funding for projects that increase Dai adoption, support emerging economies, open new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
 
 ### [Hackathons](hackathons/README.md)
 
