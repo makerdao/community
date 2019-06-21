@@ -54,10 +54,11 @@
     * [Zarządzanie](faqs/pl/governance.md)
 * [Governance](governance/README.md)
   * Governance and Risk Meeting Summaries
-    * [Ep. 39 \(May 30 - 2019\)](governance/meeting-summaries/summary-ep-39.md)
-    * [Ep. 38 \(May 30 - 2019\)](governance/meeting-summaries/summary-ep-38.md)
-    * [Ep. 37 \(May 30 - 2019\)](governance/meeting-summaries/summary-ep-37.md)
-    * [Ep. 36 \(May 23 - 2019\)](governance/meeting-summaries/summary-ep-36.md)
+    * [Ep. 40 \(June 20 - 2019\)](governance-and-risk-meetings/summaries/episode-40.md)
+    * [Ep. 39 \(June 13 - 2019\)](governance-and-risk-meetings/summaries/episode-39.md)
+    * [Ep. 38 \(June 06 - 2019\)](governance-and-risk-meetings/summaries/episode-38.md)
+    * [Ep. 37 \(May 30 - 2019\)](governance-and-risk-meetings/summaries/episode-37.md)
+    * [Ep. 36 \(May 23 - 2019\)](governance-and-risk-meetings/summaries/episode-36.md)
   * Governance and Risk Meeting Transcripts
     * [Ep. 36 \(May 30 - 2019\)](governance/meeting-transcripts/transcript-ep-36.md)
     * [Ep. 35 \(May 16 - 2019\)](governance/meeting-transcripts/transcript-ep-35.md)
