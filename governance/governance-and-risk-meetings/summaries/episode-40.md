@@ -12,12 +12,12 @@
 ### Rich [00:00](https://youtu.be/lSfXtvCplwc?t=1)
 
 - Discussion about things in the call continue in this Reddit Thread.
-- Don't be hesitant to give us feedback, questions, comments, and concerns about these calls and conversations! 
+- Don't be hesitant to give us feedback, questions, comments, and concerns about these calls and conversations!
 - This is not a governance committee, we don't decide things on this call. This where we debate things, talk about trends, clear up misconceptions, present analytics, and so on.
 
 #### Governance: [01:15](https://youtu.be/lSfXtvCplwc?t=80)
 
-- Our poll this week, up until the very end, was set to lower the Stability Fee to 15.5%, but in the end the poll option for raising the fee to 17.5% won out. 
+- Our poll this week, up until the very end, was set to lower the Stability Fee to 15.5%, but in the end the poll option for raising the fee to 17.5% won out.
 - Community recognized this, there was discussion and campaigning, and as a result it seems like MKR voters responded.
 - We're still dealing with voter apathy in the Governance polls.
 - Discussion about Cadence and Governance engagement can be found in this [thread](https://www.reddit.com/r/mkrgov/comments/c12grh/governance_skip_this_weeks_stability_fee_poll_and/)
@@ -31,13 +31,13 @@
 
 #### Dai Price: [09:10](https://youtu.be/lSfXtvCplwc?t=552) + [15:50](https://youtu.be/lSfXtvCplwc?t=951)
 
-- Things have been going well for Dai, price has been broadly stable. Though there is an observable drift down recently. No telling if it's a real problem  yet. 
+- Things have been going well for Dai, price has been broadly stable. Though there is an observable drift down recently. No telling if it's a real problem yet.
 - Since the 16.5% SF, the Dai price has drifted down a little.
 
 #### Dai Supply: [11:30](https://youtu.be/lSfXtvCplwc?t=690)
 
 - Dai supply has risen quite a bit in the past two weeks. We went from 80MM -> 85MM.
-- A few large positions seemed to have refinanced back into Maker. This may possibly be a delayed effect of the 16.5% Stability Fee decrease. 
+- A few large positions seemed to have refinanced back into Maker. This may possibly be a delayed effect of the 16.5% Stability Fee decrease.
 - Average age of debt level, which has been dropping since the 19.5% Stability Fee adjustment, has halted around the time the 16.5% SF adjustment. This seems to be a stable level for this metric. The rate of the amount of loans that are paid back has stopped changing.
 
 #### Collateralization Ratio: [14:25](https://youtu.be/lSfXtvCplwc?t=867)
@@ -52,7 +52,7 @@
 #### Questions to Vishesh
 
 - [18:30](https://youtu.be/lSfXtvCplwc?t=1110): We look at SLPs as leading or potentially driving the SF equilibrium point. Does the Debt ceiling have an effect on the usage of SLPs? Or is it a totally separate metric all together?
-    - The Debt Ceiling becomes a factor the closer we get to it. However the SLPs serve the function of eating up inefficiency. SLPs ease the pain of supply/demand imbalances.
+  - The Debt Ceiling becomes a factor the closer we get to it. However the SLPs serve the function of eating up inefficiency. SLPs ease the pain of supply/demand imbalances.
 - [22:15](https://youtu.be/lSfXtvCplwc?t=1335): Seems like you have moved from looking at ETH price in terms of the current price vs moving avg, to now just looking at outright price, any insight into how you're thinking about this metric?
 
 ### Cyrus: Quantitative Analysis: [25:02](https://youtu.be/lSfXtvCplwc?t=1502)
@@ -64,77 +64,78 @@
 #### Goals and Strategy: [28:05](https://youtu.be/lSfXtvCplwc?t=1685)
 
 - Philosophical Goals
-    - Dai becomes the first unbiased world currency
-    - Promote the stability and integrity of Dai
-    - Facilitate safe and responsible growth of Dai supply
-    - Create sensible approach to hard problems
+  - Dai becomes the first unbiased world currency
+  - Promote the stability and integrity of Dai
+  - Facilitate safe and responsible growth of Dai supply
+  - Create sensible approach to hard problems
 
-- Operational Goals 
-    - Define what the various risk parameters represent
-    - Build scientific models that calculate the parameters
-    - Understand weaknesses, vulnerabilities, and failure modes
-    - Tie in decentralized governance into the entire process
-    - Tie in monetary policy/DSR
-    - Build tools to monitor system health and aid us in updating our risk parameters
+- Operational Goals
+  - Define what the various risk parameters represent
+  - Build scientific models that calculate the parameters
+  - Understand weaknesses, vulnerabilities, and failure modes
+  - Tie in decentralized governance into the entire process
+  - Tie in monetary policy/DSR
+  - Build tools to monitor system health and aid us in updating our risk parameters
 - Strategy
-    - Modular Approach
-    - Start Academic -> Move to Pragmatic
-    - Build a simple model with various assumptions, which we will relax one by one.
-    - Conservative liquidity analysis
-    - Conservative correlations
-    - Conservative debt ceiling analysis
-    - Example analysis will be done on ETH
+  - Modular Approach
+  - Start Academic -> Move to Pragmatic
+  - Build a simple model with various assumptions, which we will relax one by one.
+  - Conservative liquidity analysis
+  - Conservative correlations
+  - Conservative debt ceiling analysis
+  - Example analysis will be done on ETH
 
 #### Inputs: [35:46](https://youtu.be/lSfXtvCplwc?t=2146)
 
 - Collateral application
 - Trading profile
-    - collect trade history
-    - curate for wash trading
-    - calculate/compile metrics such as historical variance and daily returns 
-    - collect order book data for more robust liquidity analysis
+  - collect trade history
+  - curate for wash trading
+  - calculate/compile metrics such as historical variance and daily returns
+  - collect order book data for more robust liquidity analysis
 - Historical CDP statistics
-    - Time series of collateralization ratio distributions
+  - Time series of collateralization ratio distributions
 - Current CDP distribution
-    - Current Collateralization Ratio distribution
+  - Current Collateralization Ratio distribution
 
 #### Outputs: [28:27](https://youtu.be/lSfXtvCplwc?t=2309)
 
 - Preliminary outputs
-    - Due diligence report
-    - Risk rating
-    - Liquidity analysis
-        - Delta of SF with respect to Liquidation Ratio
-        - Create as many combinations of parameters as you want
-    - Collateral-specific Risk Premium(RP+DSR-adjustment=total_StabilityFee)
+  - Due diligence report
+  - Risk rating
+  - Liquidity analysis
+    - Delta of SF with respect to Liquidation Ratio
+    - Create as many combinations of parameters as you want
+  - Collateral-specific Risk Premium(RP+DSR-adjustment=total_StabilityFee)
 - Secondary outputs
-    - Correlations
-    - Portfolio modeling
-    - Stress tests and simulation
-    - Economic capital
+  - Correlations
+  - Portfolio modeling
+  - Stress tests and simulation
+  - Economic capital
 - Ultimate outputs
-    - Debt Ceiling
+  - Debt Ceiling
 
 #### Building Blocks: [40:50](https://youtu.be/lSfXtvCplwc?t=2454)
 
 - CDPs
-    - Traditional loans are a contextual starting point to help explain CDPs, which are different in many ways.
-    - A CDP is a Dai denominated loan
-    - How is the risk of a loan evaluated?
-    - A traditional lender cares about nonpayment of any promised payments that give rise to economic loss
-    - Two areas of focus are: Default and Collateral
+  - Traditional loans are a contextual starting point to help explain CDPs, which are different in many ways.
+  - A CDP is a Dai denominated loan
+  - How is the risk of a loan evaluated?
+  - A traditional lender cares about nonpayment of any promised payments that give rise to economic loss
+  - Two areas of focus are: Default and Collateral
 - Default
-    - To quantify this default or credit risk, a good starting point is to think about loss distributions. Different types of loans have different distributions.
-    - How much of your loans do you expect to get back on average. Or, alternatively, expect to not get back , also known as the _Expected Loss_(EL)
-    - Intuitively, the EL is the mean of a distribution whose individual losses depend on 3 factors
-        - the amount loaned out, or _Exposure Amount_(EA)
-        - The likelihood of not getting paid back, or _Probability of Default_(PD)
-        - The amount you don't expect to recover, or _Loss Given Default_(LGD)
-    - Very generalized models applies to all collateral types
+  - To quantify this default or credit risk, a good starting point is to think about loss distributions. Different types of loans have different distributions.
+  - How much of your loans do you expect to get back on average. Or, alternatively, expect to not get back , also known as the _Expected Loss_(EL)
+  - Intuitively, the EL is the mean of a distribution whose individual losses depend on 3 factors
+    - the amount loaned out, or _Exposure Amount_(EA)
+    - The likelihood of not getting paid back, or _Probability of Default_(PD)
+    - The amount you don't expect to recover, or _Loss Given Default_(LGD)
+  - Very generalized models applies to all collateral types
 
 #### Expected Loss: [47:42](https://youtu.be/lSfXtvCplwc?t=2862)
 
 ##### Slides
+
 ![](https://i.imgur.com/TuvebOc.jpg)
 ![](https://i.imgur.com/WDvCyHn.jpg)
 
@@ -184,10 +185,8 @@
 - [Vishesh's Graphs](http://makerdao.descipher.io/)
 - [DAI 24hr VWAP Graph](http://dai.descipher.io/)
 
-#### Slides
-<details>
-  <summary>Click to expand!</summary>
-  
+#### All the Slides
+
 ![Quantitative Analysis Outline](https://i.imgur.com/L6NPg8y.jpg)
 ![Philosophical Goals](https://i.imgur.com/GuC1UeU.jpg)
 ![Operational Goals](https://i.imgur.com/DhEHstE.jpg)
