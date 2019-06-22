@@ -1,4 +1,4 @@
-# Episode 36: June 13, 2019
+# Episode 39: June 13, 2019
 
 ## Agenda
 
