@@ -148,7 +148,7 @@ An increase in the Stability Fee results in a higher cost of borrowing for CDP u
 
 You can use this simplified formula to determine accrued Stability Fees:
 
-> \(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI\) = Total Stability Debt owed in DAI
+> ((Borrowed DAI * (e)) ^ (Stability Fee * Age of Debt in days/365)) - Borrowed DAI) = Total Stability Debt owed in DAI
 
 The fees on a 10,000 DAI debt over the course of 31 days at 5.0%:
 
