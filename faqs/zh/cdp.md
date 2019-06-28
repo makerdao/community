@@ -30,7 +30,7 @@ CDP是无需许可的，任何人都可以创建和使用。没有繁琐的申�
 
 ## CDP要收费吗?
 
-有费用。CDP持有者需要为他们借出的债务支付稳定费。稳定费是一个[连续复合年利率][2]。
+有费用。CDP持有者需要为他们借出的债务支付稳定费。稳定费是一个[复合年利率][2]。
 
 如果 CDP 抵押不足，就会被进行清算，系统将自动接管其资产，然后向市场打折出售以弥补未偿债务。同时会有清算罚金。 
 
@@ -139,9 +139,9 @@ CDP是无需许可的，任何人都可以创建和使用。没有繁琐的申�
 
 CDP 系统运行在以太坊区块链上，所有的智能合约和交易都是公开透明的。任何人都可以通过访问 [MakerDAO 统计面板][6]，或直接查询区块链亲自审计系统的偿付能力。
 
-[1]:	https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio
-[2]:	https://www.investopedia.com/personal-finance/apr-apy-bank-hopes-cant-tell-difference/
-[3]:	https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio
-[4]:	https://www.investopedia.com/terms/l/leverage.asp
-[5]:	https://github.com/makerdao/community/blob/master/faqs/stability-fee.md#what-is-the-stability-fee
+[1]:	./cdp.md#%E4%BB%80%E4%B9%88%E6%98%AF%E6%8A%B5%E6%8A%BC%E6%AF%94%E7%8E%87
+[2]:	https://wiki.mbalib.com/wiki/%E5%A4%8D%E5%88%A9
+[3]:	./liquidation.md#%E4%BB%80%E4%B9%88%E6%98%AF%E6%B8%85%E7%AE%97%E6%AF%94%E7%8E%87
+[4]:	https://wiki.mbalib.com/wiki/%E6%9D%A0%E6%9D%86%E6%93%8D%E4%BD%9C
+[5]:	./stability-fee.md#%E7%A8%B3%E5%AE%9A%E8%B4%B9%E6%98%AF%E4%BB%80%E4%B9%88
 [6]:	https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai

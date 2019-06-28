@@ -63,25 +63,20 @@ Dai并不是一种硬锚定货币，因此，它无需与当前法定货币价�
 
 最后，第三方网络参与者，也就是看护机帮助维持Dai的价格。看护机是人或自动程序通过利用套利机会帮助Dai维持锚定。
 
-# 我可以怎样生成Dai?
-你可以通过在[CDP面板][2]锁定抵押品创造DAI。
+# 我可以怎样发行Dai?
+所有的 Dai 都是从抵押债仓 (CDP) 里借出的。
 
 # 我可以在哪里购买Dai?
-你可以在传统或者去中心化[交易所][3]购买 DAI。可以在 [储存库][4] 查看所有支持 Dai 交易的市场。
-
-同时，你可以在内置交易市场的钱包，如 imToken 里购买 Dai。
-如果你希望用人民币购买 Dai，可以前往 [otcmaker.com][5]。
+你可以在传统或者去中心化[交易所][2]购买 DAI。可以在 [储存库][3] 查看所有支持 Dai 交易的市场。
 
 # 我可以在哪里看到 Dai 背后的抵押品数据呢?
-Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ][6]的分析工具进行系统审计。
+Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ][4]的分析工具进行系统审计。
 
 # 哪些机构在使用 Dai?
-你可以在[「合作伙伴」][7]储存库找到使用 Dai 的机构列表。
+你可以在[「合作伙伴」][5]储存库找到使用 Dai 的机构列表。
 
-[1]:	./stability-fee.md
-[2]:	https://cdp-cn.makerdao.com/
-[3]:	https://coinmarketcap.com/currencies/dai/#markets
-[4]:	https://github.com/makerdao/awesome-makerdao#trade-your-dai
-[5]:	https://otcmaker.com/
-[6]:	https://mkr.tools/
-[7]:	https://github.com/makerdao/awesome-makerdao#partnerships
+[1]:	./stability-fee.md#%E7%A8%B3%E5%AE%9A%E8%B4%B9%E6%98%AF%E4%BB%80%E4%B9%88
+[2]:	https://coinmarketcap.com/currencies/dai/#markets
+[3]:	https://github.com/makerdao/awesome-makerdao#trade-your-dai
+[4]:	https://mkr.tools/
+[5]:	https://github.com/makerdao/awesome-makerdao#partnerships

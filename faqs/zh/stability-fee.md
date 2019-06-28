@@ -1,4 +1,4 @@
-# 稳定费 
+# 稳定费
 
 ## 稳定费是多少?
 
@@ -22,7 +22,7 @@ Maker 的智能合约收取一定的稳定费用，根据从 CDP 抵押借 Dai �
 
 ## 我在什么时候需要支付稳定费?
 
-当你每次将 Dai 归还到 CDP 中偿还债务时，将收取一笔 _占归还DAI数额的一部分比例的费用_。该费用可以通过 MKR 或 Dai 支付。
+当你每次将 Dai 归还到 CDP 中偿还债务时，将收取一笔 \_占归还DAI数额的一部分比例的费用\_。该费用可以通过 MKR 或 Dai 支付。
 
 ## 更改后的稳定费如何生效?
 
@@ -30,7 +30,7 @@ Maker 的智能合约收取一定的稳定费用，根据从 CDP 抵押借 Dai �
 
 ## 如何计算稳定费?
 
-稳定费是按照 _连续复利_ 计息的，用 Dai 的年化利息计价，可以用 Dai 或MKR 支付。
+稳定费是按照 _复利_ 计息的，用 Dai 的年化利息计价，可以用 Dai 或MKR 支付。
 
 稳定费之所以计算，是因为 CDP 可以极为灵活地借贷款和小额计息。
 
@@ -87,17 +87,17 @@ CDP产生的稳定费可以简单按天估算：
 
 ## 系统如何处理收取的费用?
 
-收取的 MKR 费用会被智能合约发送到一个 [销毁器](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)的合约。
+收取的 MKR 费用会被智能合约发送到一个 [销毁器][1]的合约。
 
 销毁器中的MKR都将永久停止流通，任何人都无法从该地址转移资金。 
 
 ## 可以在哪里看到我目前应付的稳定费?
 
-[旧CDP面板](https://dai.makerdao.com/): 在 Dai 面板"治理债务(Government Debt)"列显示当前生成的稳定费用。
+[旧CDP面板][2]: 在 Dai 面板"治理债务(Government Debt)"列显示当前生成的稳定费用。
 
-[新CDP面板](https://cdp.makerdao.com/): 在单击 "偿还"页面后右侧出现的面板中显示该 CDP 已生成的稳定费用。
+[新CDP面板][3]: 在单击 "偿还"页面后右侧出现的面板中显示该 CDP 已生成的稳定费用。
 
-还有很多第三方工具可以在 [Dai 实时动态](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) 资源库里找到。
+还有很多第三方工具可以在 [Dai 实时动态][4] 资源库里找到。
 
 
 ## 稳定费调整对计息的影响?
@@ -106,21 +106,21 @@ CDP产生的稳定费可以简单按天估算：
 
 > 稳定费 =\(\(借出的 DAI \* \(1 + 年化稳定费率\)\) ^ \(以天计算的债务时长/365\)\) - 借出的 DAI
 
-为期30天的 10,000 DAI 的债务，稳定费率为5.0%时，:
+为期31天的 10,000 DAI 的债务，稳定费率为5.0%时，:
 
 ```text
-(1000 * (1 + 0.05) ^ (30÷365)) - 1000 = 40.18 DAI
+(1000 * (1 + 0.05) ^ (31/365)) - 1000 = 41.524 DAI
 ```
 
 费率为 10.0%:
 
 ```text
-(1000 * (1 + 0.1) ^ (30÷365)) - 1000 = 78.64 DAI
+(1000 * (1 + 0.10) ^ (31/365)) - 1000 = 81.277 DAI
 ```
 
 ## 如何参与风险团队和基金会对于系统调整的讨论？
 
-请考虑参与我们每周的[治理风险](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)会议，我们会详细讨论相关问题。议程会定期发布在 [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). 也可以到 [治理部分](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)存储库查看。
+请考虑参与我们每周的[治理风险][5]会议，我们会详细讨论相关问题。议程会定期发布在 [r/MakerDAO][6]. 也可以到 [治理部分][7]存储库查看。
 
 ## 稳定费的调整范围有限制吗?
 
@@ -142,4 +142,14 @@ CDP产生的稳定费可以简单按天估算：
 
 ## 稳定费多久更改一次?
 
-由风险团队，根据监测和分析 Dai 的锚定情况调整。
+稳定费的调整是无法完全地固定和预测的。
+风险团队将监测和分析 Dai 的锚定情况调整。调整的幅度和范围会考虑以往政策的效果和影响。政策调整将需要依据每次不同的市场环境进行评估。
+为了防止操控风险，稳定费率的调整需要系统保持一定程度的自由裁量和随机应变。完全自动化的算法机制有脆弱性，需要慎重考虑。
+
+[1]:	https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
+[2]:	https://dai.makerdao.com/
+[3]:	https://cdp-cn.makerdao.com/
+[4]:	https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai
+[5]:	https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles
+[6]:	https://www.reddit.com/r/MakerDAO/
+[7]:	./governance.md

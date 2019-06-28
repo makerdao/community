@@ -191,8 +191,8 @@ CDP 所有者面临的主要挑战是在高度不可预测的市场中保持安�
 
 [1]:	http://dai.makerdao.com
 [2]:	http://glossary
-[3]:	https://www.investopedia.com/terms/r/risk-profile.asp
-[4]:	https://cdp.makerdao.com/terms
+[3]:	https://wiki.mbalib.com/wiki/%E9%A3%8E%E9%99%A9%E7%BB%84%E5%90%88
+[4]:	https://cdp-cn.makerdao.com/terms
 [5]:	https://dai.makerdao.com
 [6]:	https://mkr.tools/system/feeds
 [7]:	https://developer.makerdao.com/feeds/
