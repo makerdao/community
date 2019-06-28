@@ -1,4 +1,4 @@
-# Episode 36: June 6, 2019
+# Episode 38: June 6, 2019
 
 ## Agenda
 

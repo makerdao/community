@@ -2,48 +2,82 @@
 
 ## Text, Tone, and Grammar
 
+### General Do's and Don'ts
+
+#### Yes
+
+- Run all your final drafts through Grammarly
 - Use short, concise sentences
-- Avoid speaking directly to the user in tutorials or FAQs. I.e. No: 'You then..', 'Now you should...'
 - Use basic language, remove all words that aren't absolutely required
 - Assume user has no knowledge of the system, link to basic terms if needed
 - Use pluralized, gender neutral personal pronouns, "When they...", "If users choose to X, then they're..." instead of "he or she"
 - Use oxford commas
 - Remain objective and open
-- Assume users have zero knowledge about the system and begin with basics
 - Be concise, people have little time to browse
 - Provide examples when possible, do not complicate them with arbitrarily complex numbers
 - Explain with math when needed, otherwise keep it simple
+- Do not spell out “percent”; use the symbol (e.g., 15% not 15 percent)
+
+#### No
+
+- Exclamation points
+- Speaking directly to the user in tutorials or FAQs. I.e. No: 'You then..', 'Now you should...'
 - No em or en dashes `—`
 - Never refer to Purple Paper names (flip, flap, flop, etc) in the documentation
+- Footnotes
+
+### Numbers
+
+- Spell out numbers below 10 (e.g., one, two, three).
+- Use numerals for numbers above 10, except when they begin a sentence.
+- Use figures with million, billion, and trillion in all except casual uses (e.g., I'd like to make a billion dollars; the nation has 1 million citizens).
+
+### Currency Amounts
+
+- Dollars: Use lowercase except when writing “US Dollar.” Otherwise:
+- Use figures and the $ sign in all except casual references or amounts without a figure (e.g., the book cost $4; please give me a dollar).
+- For amounts less than $1 million: $4, $25, $500, $1,000, $650,000.
+- For amounts over $1 million, use the word not numerals (e.g., He is worth $4 million NOT He is worth \$4,000,000).
+
+### Acronyms
+
+- When making an acronym plural, simply add an “s” (e.g., CDPs).
+
+### Decades
+
+- Do not use an apostrophe when indicating decades (e.g., the 1990s not the 1990’s).
 
 ## Markdown
 
+> :exclamation: Save yourself some trouble and just use VSCode and install the Prettier extension... It will auto-correct 90% of your markdown mistakes.
+
 ### Lists
 
-- Start with a capital letter and no final punctuation unless the list starts with a stem sentence.
+- Start with a capital letter and no final punctuation unless the list starts with a stem sentence
 - Avoid numbered lists unless it's an index or table of contents
 - Alphabetize all ordered lists of names unless there is a clear priority at work
 - All unordered list items are `-` not `*`
+- Don't use an ordered list unless the order matters
 - All ordered list items should use the #1 repeated:
 
   ```markdown
   1. Item 1
-  1. Item 2
-  1. Item 3
+  2. Item 2
+  3. Item 3
      1. Item 3a
-     1. Item 3b
+     2. Item 3b
   ```
-
-- Consider using Visual Studio Code and install:
-  - `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`, `Prettier`, `GitLens`
 
 ### General
 
+- Consider using Visual Studio Code and install:
+  - `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`, `Prettier`, `GitLens`
 - Line breaks above and below headings
 - Do not make multiple top level headings. Only use '#' once per document
+- Don't use the same heading twice, it breaks auto-generated navigation
 - No trailing spaces
 - Ensure there is a single hard return at the end of the file
-- Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in Gitbook
+- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook**
 
 ### File Names
 
@@ -52,15 +86,26 @@
 - All filenames are lowercase and words are separated with `-`
   - Example: `meeting-transcript-ep-01.md`
 
-## Github
+## GitHub
 
 - Ensure your repository is up to date
 - **Commit early and often.** Get your changes in before you have to do a huge merge.
 - Discuss your efforts in [#community-development](https://chat.makerdao.com/channel/community-development)
 - Ask for feedback before starting a long project
 - Make descriptive commit messages
+
   - "Fixed something" = Bad
   - "Fixed spelling mistakes in filename.md" = Good
+
+## Links
+
+- When creating links for parallel translated documents, always make sure to update the relative links to reflect the correct heading.
+
+  ```
+  en: faqs/cdp.md#what-are-collateralized-debt-positions
+  es: faqs/es/cdp.md#qué-son-las-posiciones-de-deuda-colateralizadascdp
+  ko: faqs/ko/cdp.md#부채-담보부-포지션collateralized-debt-positions-cdp이란-무엇인가요
+  ```
 
 ## FAQ Style Guide
 
@@ -82,6 +127,7 @@
   ```
 
   Otherwise:
+
   > use a quote
 
 ### Complex Topics
