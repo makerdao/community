@@ -55,7 +55,7 @@ Dai并不是一种硬锚定货币，因此，它无需与当前法定货币价�
 
 它通过外部市场力量、互补的内部经济激励和政策工具的组合来实现这种稳定。许多不同的市场参与者为了自身的利益而行动，同时又协同合作，这有助于市场的稳定。这些参与者包括MKR持有者、套利者、CDP所有者和普通做市商。
 
-如果Dai的需求持续超过供给，这就是MKR持有者需要调整[稳定费][1]的信号，反之亦然。稳定费的增加导致CDP用户借贷成本增加，通过降低使用CDP的吸引力，从而抑制了Dai的供应。相反，稳定费(借贷成本)的降低将刺激Dai的额外生成，作为调整供应增长的政策工具。
+如果Dai的需求持续超过供给，这就是MKR持有者需要调整[稳定费](./stability-fee.md#稳定费是什么)的信号，反之亦然。稳定费的增加导致CDP用户借贷成本增加，通过降低使用CDP的吸引力，从而抑制了Dai的供应。相反，稳定费(借贷成本)的降低将刺激Dai的额外生成，作为调整供应增长的政策工具。
 
 套利者通过利用各种Dai市场的机会也有助于Dai的短期锚定。
 
@@ -67,16 +67,10 @@ Dai并不是一种硬锚定货币，因此，它无需与当前法定货币价�
 所有的 Dai 都是从抵押债仓 (CDP) 里借出的。
 
 # 我可以在哪里购买Dai?
-你可以在传统或者去中心化[交易所][2]购买 DAI。可以在 [储存库][3] 查看所有支持 Dai 交易的市场。
+你可以在传统或者去中心化[交易所](https://coinmarketcap.com/currencies/dai/#markets)购买 DAI。可以在 [储存库](https://github.com/makerdao/awesome-makerdao#trade-your-dai) 查看所有支持 Dai 交易的市场。
 
 # 我可以在哪里看到 Dai 背后的抵押品数据呢?
-Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ][4]的分析工具进行系统审计。
+Dai 稳定系统通过自主的智能合约实现，所有交易都保存在完全公开透明的区块链上。任何人都可以手动查阅或者访问如[Mkr.Tools. ](https://mkr.tools/)的分析工具进行系统审计。
 
 # 哪些机构在使用 Dai?
-你可以在[「合作伙伴」][5]储存库找到使用 Dai 的机构列表。
-
-[1]:	./stability-fee.md#%E7%A8%B3%E5%AE%9A%E8%B4%B9%E6%98%AF%E4%BB%80%E4%B9%88
-[2]:	https://coinmarketcap.com/currencies/dai/#markets
-[3]:	https://github.com/makerdao/awesome-makerdao#trade-your-dai
-[4]:	https://mkr.tools/
-[5]:	https://github.com/makerdao/awesome-makerdao#partnerships
+你可以在[「合作伙伴」](https://github.com/makerdao/awesome-makerdao#partnerships)储存库找到使用 Dai 的机构列表。

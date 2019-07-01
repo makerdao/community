@@ -54,7 +54,7 @@ CDP 在被认定为不安全的时候可以被清算。这确保了系统中有�
 * 罚款费用将加入所需回购的 Dai 债务。
 * LPC 移除足够的 PETH 抵押品以满足需回购的债务（价格由预言机反馈）。
 * CDP 原所有者可以从被清算的 CDP 取回他们剩余的抵押品。
-* 被移除的 PETH 折扣价在 [dai.makerdao.com][1] 出售，称为 [Boom/Bust Spread][2] 的合约。
+* 被移除的 PETH 折扣价在 [dai.makerdao.com](http://dai.makerdao.com) 出售，称为 [Boom/Bust Spread](https://github.com/makerdao/community/blob/master/faqs/glossary.md) 的合约。
 * 销毁出售 PETH 所赚取的 Dai 以消除 CDP 债务。
 * 如果出售中有多余的 Dai，则用来购买 PETH，然后销毁，使剩余 PETH 的价值提升。
 * 如果出售的 Dai 不足，则发行 PETH 并出售以弥补短缺。这会稀释 PETH 池的总价值。
@@ -64,8 +64,9 @@ CDP 在被认定为不安全的时候可以被清算。这确保了系统中有�
 
 要确定清算后您还拥有多少抵押品，可以使用以下简化公式：
 
-\`（抵押品 x 预言机馈送的价格 x PETH/ETH比率） - （清算罚款 x 稳定性债务） - 稳定性债务 =（剩余抵押品 x 预言机馈送的价格）DAI
-\`
+`（抵押品 x 预言机馈送的价格 x PETH/ETH比率） - （清算罚款 x 稳定性债务） - 稳定性债务 =（剩余抵押品 x 预言机馈送的价格）DAI
+`
+
 假设：
 
 * 预言机 ETH 的喂价为350美元
@@ -74,8 +75,8 @@ CDP 在被认定为不安全的时候可以被清算。这确保了系统中有�
 * 清算罚款为13％
 * CDP的稳定债务为1000 DAI
 
-\`（10 × 350 × 1.012） - （13％ × 1000） -  1000 = 2412 DAI 或 6.891428571 ETH
-\`
+`（10 × 350 × 1.012） - （13％ × 1000） -  1000 = 2412 DAI 或 6.891428571 ETH
+`
 
 ## 如何计算清算价格？
 
@@ -91,8 +92,8 @@ CDP 在被认定为不安全的时候可以被清算。这确保了系统中有�
 * 清算比率为150％
 * 稳定债务为 1000 DAI
 
-\`（1000×1.5）÷（12×1.012）= 123.51美元
-\`
+`（1000×1.5）÷（12×1.012）= 123.51美元
+`
 
 ETH 的价格降至123.51美元，在 CDP 就会被认为不安全并且有被清算的风险。
 
@@ -102,8 +103,8 @@ ETH 的价格降至123.51美元，在 CDP 就会被认为不安全并且有被�
 
 如果你希望通过查看抵押品与债务的比率（而非清算价格）来确定你的债务的健康状况，您可以使用以下简化公式：
 
-\`（锁定的PETH数量 × ETH的价格 × PETH/ETH的比率）÷ 稳定性债务 × 100 = 抵押比率
-\`
+`（锁定的PETH数量 × ETH的价格 × PETH/ETH的比率）÷ 稳定性债务 × 100 = 抵押比率
+`
 
 比如：
 
@@ -135,18 +136,18 @@ CDP 所有者面临的主要挑战是在高度不可预测的市场中保持安�
 
 目前的清算价格：
 
-\`（1000×1.5）÷（12×1.012）= 123.51美元
-\`
+`（1000×1.5）÷（12×1.012）= 123.51美元
+`
 
 清算价格在**增加** 700美元抵押品后的变动：
 
-\`（1000×1.5）÷（14×1.012）= 105.87美元
-\`
+`（1000×1.5）÷（14×1.012）= 105.87美元
+`
 
 清算价格在**减少** 700美元债务后的变动：
 
-\`（300×1.5）÷（12×1.012）= 37.05美元
-\`
+`（300×1.5）÷（12×1.012）= 37.05美元
+`
 
 可以看到，返还 Dai 比增加更多抵押品更显着地降低了清算价格。
 
@@ -159,15 +160,15 @@ CDP 所有者面临的主要挑战是在高度不可预测的市场中保持安�
 * 确保持有充足的资产，可以通过增加更多抵押品或把这些资产出售为 Dai 偿还债务，补足头寸。
 * 如果你认为市场可能持续低迷，可以从 CDP 中取出多余的抵押品，将其出售为 Dai，然后可以再用来偿还债务。 (确保与清算价格保持安全距离，因为这种策略会暂时让 CDP 处于风险较高的位置，直到用 Dai 清除债务。)
 
-请记住，创建 CDP 代表着承担风险。愿意承担多少风险取决于多种因素。决定 [风险组合][3] 本身就是一门科学，但每个 CDP 用户都需要自己掌握这个问题。
+请记住，创建 CDP 代表着承担风险。愿意承担多少风险取决于多种因素。决定 [风险组合](https://wiki.mbalib.com/wiki/风险组合) 本身就是一门科学，但每个 CDP 用户都需要自己掌握这个问题。
 
-有关风险的更多信息，请参阅提供重要法律信息的[服务条款][4]。在使用 Dai 稳定币系统之前，每个 CDP 用户都需要确认服务条款。
+有关风险的更多信息，请参阅提供重要法律信息的[服务条款](https://cdp-cn.makerdao.com/terms)。在使用 Dai 稳定币系统之前，每个 CDP 用户都需要确认服务条款。
 
 ## 智能合约如何出售抵押品？
 
 当 Keeper 清算不安全的 CDP 时，流动性提供合同（Liquidity Providing Contract ，LPC ）确保抵押品在 Dai 交互面板上出售。出售价格由预言机喂价确定。抵押品通常以折扣的形式出售，然后将出售所得用于必须回购的未偿还债务。“折价”旨在通过向清算方提供优于市场价格的抵押品，激励系统快速回收债务。
 
-用户可以在 [Dai 高级面板][5] 上购买移动到 LPC 合约里的 PETH。在出售后盈余的 Dai 可以用 PETH 购买。
+用户可以在 [Dai 高级面板](https://dai.makerdao.com) 上购买移动到 LPC 合约里的 PETH。在出售后盈余的 Dai 可以用 PETH 购买。
 
 
 ## 我可以购买被清算的PETH吗？
@@ -176,30 +177,15 @@ CDP 所有者面临的主要挑战是在高度不可预测的市场中保持安�
 
 ## 瀑布式崩盘对 CDP 清算有怎样的影响？
 
-单个交易所瀑布式崩盘不会影响系统，因为每个 Oracle 汇总来自许多交易所的价格。收集数据后，会计算出这些独立喂价数据的中位数。你可以在 [https://mkr.tools/system/feeds][6] 中查看所有独立预言机的喂价。
+单个交易所瀑布式崩盘不会影响系统，因为每个 Oracle 汇总来自许多交易所的价格。收集数据后，会计算出这些独立喂价数据的中位数。你可以在 [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds) 中查看所有独立预言机的喂价。
 
-* 详细信息：[https://developer.makerdao.com/feeds/][7]
-* 喂价代码：[https://github.com/makerdao/price-feed][8]
-* 中位数计算器代码：[https://github.com/makerdao/medianizer][9]
-* 更新程序代码：[https://github.com/makerdao/setzer][10]
-* 喂价监测：[https://mkr.tools/system/feeds][11]
+* 详细信息：[https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
+* 喂价代码：[https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
+* 中位数计算器代码：[https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
+* 更新程序代码：[https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
+* 喂价监测：[https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
 
 
 ## 哪里可以查看有关清算的实时信息？
 
-您可以浏览 [mkr.tools][12] 的相关页面 - [清算][13] 和 [触发][14]。这是一个跟踪 MakerDAO 系统的第三方工具。
-
-[1]:	http://dai.makerdao.com
-[2]:	http://glossary
-[3]:	https://wiki.mbalib.com/wiki/%E9%A3%8E%E9%99%A9%E7%BB%84%E5%90%88
-[4]:	https://cdp-cn.makerdao.com/terms
-[5]:	https://dai.makerdao.com
-[6]:	https://mkr.tools/system/feeds
-[7]:	https://developer.makerdao.com/feeds/
-[8]:	https://github.com/makerdao/price-feed
-[9]:	https://github.com/makerdao/medianizer
-[10]:	https://github.com/makerdao/setzer
-[11]:	https://mkr.tools/system/feeds
-[12]:	https://mkr.tools
-[13]:	https://mkr.tools/system/liquidations
-[14]:	https://mkr.tools/system/bites
+您可以浏览 [mkr.tools](https://mkr.tools) 的相关页面 - [清算](https://mkr.tools/system/liquidations) 和 [触发](https://mkr.tools/system/bites)。这是一个跟踪 MakerDAO 系统的第三方工具。
