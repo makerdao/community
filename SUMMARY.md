@@ -66,12 +66,14 @@
     - [Part Three](governance/governance-risk-framework/part-three.md)
   - [Governance and Risk Meeting](governance/governance-and-risk-meetings/README.md)
     - Summaries
+      - [Episode 41: Jun 27, 2019](governance/governance-and-risk-meetings/summaries/episode-41.md)
       - [Episode 40: Jun 20, 2019](governance/governance-and-risk-meetings/summaries/episode-40.md)
       - [Episode 39: Jun 13, 2019](governance/governance-and-risk-meetings/summaries/episode-39.md)
       - [Episode 38: Jun 06, 2019](governance/governance-and-risk-meetings/summaries/episode-38.md)
       - [Episode 37: May 30, 2019](governance/governance-and-risk-meetings/summaries/episode-37.md)
       - [Episode 36: May 23, 2019](governance/governance-and-risk-meetings/summaries/episode-36.md)
     - Transcripts
+      - [Episode 41: Jun 27, 2019](governance/governance-and-risk-meetings/transcripts/episode-41.md)
       - [Episode 40: Jun 20, 2019](governance/governance-and-risk-meetings/transcripts/episode-40.md)
       - [Episode 39: Jun 13, 2019](governance/governance-and-risk-meetings/transcripts/episode-39.md)
       - [Episode 38: Jun 06, 2019](governance/governance-and-risk-meetings/transcripts/episode-38.md)
