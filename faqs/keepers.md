@@ -75,6 +75,6 @@ No.
 
 No, Keepers exist throughout the blockchain world. For example, the bots in the Augur network who report on the outcome of events are Keepers.
 
-## Are there any Tutorials available for setting up Keepers?
+## Are there any tutorials available for setting up Keepers?
 
 The team has not published any tutorials for setting up Keepers. However, the team has provided reference implementations for several types of Keepers. The repositories for each of these can be used as guides to get you started. There is also a [developers guide](makerdao/developerguides/blob/master/keepers) for Keepers.
