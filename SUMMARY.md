@@ -52,6 +52,12 @@
     - [Opłata stabilizacyjna](faqs/pl/stability-fee.md)
     - [Likwidacje](faqs/pl/liquidation.md)
     - [Zarządzanie](faqs/pl/governance.md)
+  -  [中文]
+    - [稳定币 Dai](faqs/zh/dai.md)
+    - [抵押债仓 (CDP)](faqs/zh/cdp.md)
+    - [稳定费用](faqs/zh/stability-fee.md)
+    - [清算](faqs/zh/liquidation.md)
+    - [治理](faqs/zh/governance.md)
 - [Governance](governance/README.md)
   - [Core Foundation Principles](governance/core-principles.md)
   - [Governance and Risk Framework](governance/governance-and-risk-framework/README.md)
@@ -92,3 +98,4 @@
   - [Funding Requirements](hackathons/requirements.md)
 - Contributing
   - [Style Guide](contributing/style-guide.md)
+
