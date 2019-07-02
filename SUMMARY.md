@@ -11,6 +11,7 @@
     - [Emergency Shutdown](faqs/emergency-shutdown.md)
     - [Glossary of Terms](faqs/glossary.md)
     - [Governance](faqs/governance.md)
+    - [Keepers](faqs/keepers.md)
     - [Liquidation](faqs/liquidation.md)
     - [MakerDAO](faqs/makerdao.md)
     - [Oracles](faqs/oracles.md)
