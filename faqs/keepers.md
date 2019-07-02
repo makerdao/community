@@ -24,18 +24,18 @@ Keepers are incentivized by the natural profit opportunities available in the Ma
 
 Maker has provided reference implementations for several types of Keepers.
 
-- [Bite-Keeper](makerdao/bite-keeper)
-- [Arbitrage-Keeper](makerdao/arbitrage-keeper)
-- [CDP-Keeper](makerdao/cdp-keeper)
-- [Market-Maker-Keeper](makerdao/market-maker-keeper)
+- [Bite-Keeper](https://github.com/makerdao/bite-keeper)
+- [Arbitrage-Keeper](https://github.com/makerdao/arbitrage-keeper)
+- [CDP-Keeper](https://github.com/makerdao/cdp-keeper)
+- [Market-Maker-Keeper](https://github.com/makerdao/market-maker-keeper)
 
-There is also a [developers guide](makerdao/developerguides/blob/master/keepers) for Keepers.
+There is also a [developers guide](https://github.com/makerdao/developerguides/blob/master/keepers) for Keepers.
 
 Please treat these repositories as starting points, not as finished products. Experiment with them at your own risk.
 
 ## What is the Bite-Keeper?
 
-A [Bite-Keeper](makerdao/bite-keeper) triggers the liquidation of unsafe CDPs, thereby making their collateral available for sale.
+A [Bite-Keeper](https://github.com/makerdao/bite-keeper) triggers the liquidation of unsafe CDPs, thereby making their collateral available for sale.
 
 A Bite-Keeper can then participate in the collateral sale by purchasing the collateral at a discount then immediately selling it on the spot market, earning the margin.
 
@@ -43,19 +43,19 @@ Please treat these repositories as starting points, not as finished products. Ex
 
 ## What is the Arbitrage-Keeper?
 
-The [Arbitrage-Keeper](makerdao/arbitrage-keeper) constantly looks for profitable arbitrage opportunities. This Keeper also provides a valuable source of information on where to look for arbitrage opportunities in the Dai system and how to exploit them. It also demonstrates how to do atomic arbitrage using the [tx-manager contract](makerdao/tx-manager).
+The [Arbitrage-Keeper](https://github.com/makerdao/arbitrage-keeper) constantly looks for profitable arbitrage opportunities. This Keeper also provides a valuable source of information on where to look for arbitrage opportunities in the Dai system and how to exploit them. It also demonstrates how to do atomic arbitrage using the [tx-manager contract](https://github.com/makerdao/tx-manager).
 
 Please treat these repositories as starting points, not as finished products. Experiment with them at your own risk.
 
 ## What is the CDP-Keeper?
 
-The [CDP-Keeper](makerdao/cdp-keeper) is responsible for monitoring and managing open CDPs. It can allow for the topping up of CDPs and repaying Dai debt. This Keeper is incomplete but provides a useful example for interacting with a CDP using Python.
+The [CDP-Keeper](https://github.com/makerdao/cdp-keeper) is responsible for monitoring and managing open CDPs. It can allow for the topping up of CDPs and repaying Dai debt. This Keeper is incomplete but provides a useful example for interacting with a CDP using Python.
 
 Please treat these repositories as starting points, not as finished products. Experiment with them at your own risk.
 
 ## What is a Market-Maker-Keeper?
 
-The [Market-Maker-Keeper](makerdao/market-maker-keeper) is a set of Keepers that facilitates market making and is compatible with numerous centralized and decentralized exchanges. The Market-Maker-Keeper is capable of dynamically placing and canceling orders based on price movements.
+The [Market-Maker-Keeper](https://github.com/makerdao/market-maker-keeper) is a set of Keepers that facilitates market making and is compatible with numerous centralized and decentralized exchanges. The Market-Maker-Keeper is capable of dynamically placing and canceling orders based on price movements.
 
 Please treat these repositories as starting points, not as finished products. Experiment with them at your own risk.
 
@@ -77,4 +77,4 @@ No, Keepers exist throughout the blockchain world. For example, the bots in the 
 
 ## Are there any tutorials available for setting up Keepers?
 
-The team has not published any tutorials for setting up Keepers. However, the team has provided reference implementations for several types of Keepers. The repositories for each of these can be used as guides to get you started. There is also a [developers guide](makerdao/developerguides/blob/master/keepers) for Keepers.
+The team has not published any tutorials for setting up Keepers. However, the team has provided reference implementations for several types of Keepers. The repositories for each of these can be used as guides to get you started. There is also a [developers guide](https://github.com/makerdao/developerguides/blob/master/keepers) for Keepers.
