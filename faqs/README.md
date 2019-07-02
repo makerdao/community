@@ -101,6 +101,22 @@
 * [Can I break the link between my hot and cold wallet?](governance.md#can-i-break-the-link-between-my-hot-and-cold-wallet)
 * [Can I combine more than one address holding MKR to vote?](governance.md#can-i-combine-more-than-one-address-holding-mkr-to-vote)
 
+## Keepers
+
+* [What is a Keeper?](keepers.md#what-is-a-keeper)
+* [What kinds of Keepers exist within the Maker Ecosystem?](keepers.md#what-kinds-of-keepers-exist-within-the-maker-ecosystem)
+* [What incentivizes Keepers?](keepers.md#what-incentivizes-keepers)
+* [Are there any resources available for people wanting to become Keepers?](keepers.md#are-there-any-resources-available-for-people-wanting-to-become-keepers)
+* [What is the Bite-Keeper?](keepers.md#what-is-the-bite-keeper)
+* [What is the Arbitrage-Keeper?](keepers.md#what-is-the-arbitrage-keeper)
+* [What is the CDP-Keeper?](keepers.md#what-is-the-cdp-keeper)
+* [What is a Market-Maker-Keeper?](keepers.md#what-is-the-market-maker-keeper)
+* [Can I create my own Keeper bot?](keepers.md#can-I-create-my-own-keeper-bot)
+* [Is anyone able to become a Keeper?](keepers.md#is-anyone-able-to-become-a-keeper)
+* [Do I need to own MKR to run a Keeper?](keepers.md#do-i-need-to-own-mkr-to-run-a-keeper)
+* [Do Keepers only exist in MakerDAO?](keepers.md#do-keepers-only-exist-in-makerdao)
+* [Are there any tutorials available for setting up Keepers?](keepers.md#are-there-any-tutorials-available-for-setting-up-keepers)
+
 ## Liquidation
 
 * [What is Liquidation?](liquidation.md#what-is-liquidation)
