@@ -116,7 +116,7 @@
 * [Typical Practices to avoid getting liquidated](liquidation.md#typical-practices-to-avoid-getting-liquidated)
 * [How does the smart contract sell collateral?](liquidation.md#how-does-the-smart-contract-sell-collateral)
 * [Can I purchase seized PETH?](liquidation.md#can-i-purchase-seized-peth)
-* [How would a "flash crash" affect the liquidation of CDP's?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-cdps)
+* [How would a "flash crash" affect the liquidation of CDPs?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-cdps)
 * [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 
 ## MakerDAO

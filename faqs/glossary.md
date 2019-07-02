@@ -4,7 +4,7 @@
 
 ## B
 
-* **Bite**: action of triggering a CDP's liquidation
+* **Bite**: action of triggering a CDPs liquidation
 * **Boom/Bust Spread**: Discount/premium at which the system sells collateral PETH for DAI
 * **Burn**: the process of destroying MKR that are paid as stability fees
 * **Burner Address**: the public Ethereum address that escrows MKR prior to burning
@@ -16,7 +16,7 @@
 * **CDP**: Collateralized Debt Position, a collateral position holding locked Ethereum administered by a smart contract system
 * **Collateral Claims**: the amount of redeemable collateral Dai holders and CDP owners have claim to in the event of an Emergency Shutdown
 * **Collateral**: assets locked in a CDP
-* **Collateralization Ratio**: the ratio between a CDP's collateral and the Dai issued by that CDP
+* **Collateralization Ratio**: the ratio between a CDPs collateral and the Dai issued by that CDP
 * **Continuous Approval Voting**: a voting design that involves leaving your vote in the previous proposal
 
 ## D
@@ -61,7 +61,7 @@
 * **Liquidation Penalty**: a penalty fee that’s applied to a CDPs Dai balance when it is liquidated
 * **Liquidation Price**: lowest price per unit of collateral before a CDP is vulnerable to liquidation
 * **Liquidation Ratio**: a risk parameter defining the minimum Collateralization Ratio below which a CDP is vulnerable to liquidation
-* **Liquidation**: automatic sale of a CDP's collateral to cover its outstanding Dai
+* **Liquidation**: automatic sale of a CDPs collateral to cover its outstanding Dai
 * **Liquidity Providing Contract**: a smart contract which facilitates collateral sales
 * **Lock**: the action of placing collateral into your CDP
 

@@ -28,7 +28,7 @@ This is the lowest unit price the staked collateral can reach before the CDP bec
 
 ## What is the Liquidation Penalty?
 
-This is a fee that is added to the total outstanding DAI debt when a Liquidation occurs, which is subtracted from a CDP's collateral holdings.
+This is a fee that is added to the total outstanding DAI debt when a Liquidation occurs, which is subtracted from a CDPs collateral holdings.
 
 Proceeds from penalty fees are transferred to the PETH pool. This increases the ratio of WETH that users receive when they remove their collateral from a CDP. This fee inflates the value of the collateral pool during periods when there are a lot of Liquidations, for example, due to a high level of instability in the market.
 
