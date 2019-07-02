@@ -26,7 +26,7 @@ Keepers are incentivized by the natural profit opportunities available in the Ma
 
 # Are there any resources available for people wanting to become Keepers?
 
-Maker had provided reference implementations for several types of Keepers.
+Maker has provided reference implementations for several types of Keepers.
 
 - [Bite-Keeper](makerdao/bite-keeper)
 
