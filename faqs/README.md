@@ -115,7 +115,7 @@
 * [Is anyone able to become a Keeper?](keepers.md#is-anyone-able-to-become-a-keeper)
 * [Do I need to own MKR to run a Keeper?](keepers.md#do-i-need-to-own-mkr-to-run-a-keeper)
 * [Do Keepers only exist in MakerDAO?](keepers.md#do-keepers-only-exist-in-makerdao)
-* [Are there any Tutorials available for setting up Keepers?](keepers.md#are-there-any-tutorials-available-for-setting-up-keepers)
+* [Are there any tutorials available for setting up Keepers?](keepers.md#are-there-any-tutorials-available-for-setting-up-keepers)
 
 ## Liquidation
 
