@@ -99,6 +99,9 @@
 
 ## Links
 
+- Use descriptive hyperlinks
+  - **No:** Learn more [here](link).
+  - **Yes:** Learn more at [awesome-makerdao](link)
 - When creating links for parallel translated documents, always make sure to update the relative links to reflect the correct heading.
 
   ```
