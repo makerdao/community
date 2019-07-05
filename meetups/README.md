@@ -6,7 +6,7 @@ Welcome to Do It Yourself Community Meetups. A place where you can find all the 
 
 - Bring together your local community
 - Get funding in Dai
-- Create learning opportunities around MakerDAO & Dai
+- Create learning opportunities around MakerDAO and Dai
 
 ## What are we trying to accomplish?
 
@@ -14,7 +14,7 @@ Maker is only as strong as its community. By hosting a meetup in your area, you 
 
 1. Give the Maker community the resources they need to organize successful meetups.
 1. Develop a grassroots movement that educates, inspires, and grows the Maker ecosystem and community.
-1. Encourage local Maker communities to collaborate on projects on top of the Maker Protocol & Dai.
+1. Encourage local Maker communities to collaborate on projects on top of the Maker Protocol and Dai.
 
 ## Project Description
 
@@ -25,6 +25,7 @@ Additionally, we're working with the community to actively develop a collection 
 ## Is this for me?
 
 **Hosting Meetups**
+
 Do you enjoy hosting events and bringing people together? We're eager to support people who want to build the Maker community together in their city.
 
 - Passionate about MakerDAO and Dai.
@@ -32,6 +33,7 @@ Do you enjoy hosting events and bringing people together? We're eager to support
 - Ability to organize and host an event.
 
 **Contribute to the Hosting Guides**
+
 Not in a position to host? No problem. We're constantly looking to improve the quality of our Hosting Guides.
 
 - Prior hosting experience a plus, but not necessary.
@@ -46,8 +48,6 @@ Interested in contributing to the Hosting Guides? Learn how in our [contributors
 ## Status
 
 Micro-grant [applications](https://airtable.com/shr415iT3e8S8nuzS) are open.
-
-As of June, 2019 we have funded 20? meetups across 10 different countries. (will refine shortly)
 
 ## Important Disclaimer
 
