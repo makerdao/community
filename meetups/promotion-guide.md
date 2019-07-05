@@ -2,14 +2,14 @@
 
 Once you've chosen a venue and secured the date and time, make sure to create an event page and promote the meetup so that you can attract some attendees.
 
-## Events hosting websites to choose from:
+## Event Hosting Websites
 
 - [Meetup.com](https://www.meetup.com/): is a fantastic resource for promoting your meetup.
 - [Facebook Events](https://m.facebook.com/help/131325477007622/): is also a decent format to host an event page.
 - [Eventbrite.com](https://www.eventbrite.com): has a free ticketing system that can be used for your meetup.
 - [Kickback.events](https://kickback.events): addresses the no-show factor in hosting these events. This is a service that lets attendees stake a small amount of crypto when registering for a meetup. This amount is returned to them if they attend the event. Any no-shows lose their stake which can then be split amongst the attendees.
 
-## Crypto-Friendly Social Networks you may want to promote on:
+## Crypto-Friendly Social Networks
 
 - [Peepeth](https://peepeth.com/): Think of it as a blockchain twitter.
 - [Telegram](https://telegram.org/): Many public crypto meetup chat rooms, find the one right for you.
@@ -18,7 +18,7 @@ Once you've chosen a venue and secured the date and time, make sure to create an
 - [Twitter](https://twitter.com/): Crypto twitter is far-reaching.
 - [Craigslist](https://www.craigslist.org/): Posting in Groups and Events in the community section of your local Craigslist site may attract more people to your event.
 
-## Local places to promote your event:
+## Local Venues to Promote Your Event
 
 - Libraries
 - Community Centers
@@ -26,7 +26,7 @@ Once you've chosen a venue and secured the date and time, make sure to create an
 - Co-working spaces
 - Coffee shops
 
-## Setting up your Event Page
+## Setting Up Your Event Page
 
 To make people aware of your event you will need to create an event page, which has a few fundamental elements:
 
