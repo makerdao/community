@@ -6,7 +6,7 @@ We don't maintain a public list, as the documents that are available for transla
 
 ## How can I get involved?
 
-Join the [#translation](https://chat.makerdao.com/channel/translation) channel in our chat and say hello. Click the links to find out what the [Translator](community/translations/translator-guidelines.md) and [Editor](community/translations/editor-guidelines.md) roles entail. One person can be both Translator and Editor, but the same person cannot translate and edit the same document.
+Join the [#translation](https://chat.makerdao.com/channel/translation) channel in our chat and say hello. Click the links to find out what the [Translator](./translator-quick-start-guide.md) and [Editor](./editor-quick-start-guide.md) roles entail. One person can be both Translator and Editor, but the same person cannot translate and edit the same document.
 
 ## What are the bounties?
 
