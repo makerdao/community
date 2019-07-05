@@ -18,9 +18,9 @@ Maker is only as strong as its community. By hosting a meetup in your area, you 
 
 ## Project Description
 
-This program is a major initiative of the Maker Foundation. We offer a [micro-granting](community/meetups/meetups-en/requesting-funds.md) program to help fund local community meetups.
+This program is a major initiative of the Maker Foundation. We offer a [micro-granting](./requesting-funds.md) program to help fund local community meetups.
 
-Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](community/meetups/meetups-en/getting-started-guide.md), [Budget Guide](community/meetups/meetups-en/Budget-Guide.md), [Promotion Guide](community/meetups/meetups-en/Promotion-Guide.md), and an [Event Formats Guide](community/meetups/meetups-en/Event-Formats-Guide.md).
+Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
 
 ## Is this for me?
 
@@ -41,9 +41,9 @@ Not in a position to host? No problem. We're constantly looking to improve the q
 
 ## How do I get involved?
 
-Ready to start planning your meetup? We've created a [guide](community/meetups/meetups-en/getting-started-guide.md) to help you get started.
+Ready to start planning your meetup? We've created a [guide](./getting-started-guide.md) to help you get started.
 
-Interested in contributing to the Hosting Guides? Learn how in our [contributors page](./contributing/read-me.md).
+Interested in contributing to the Hosting Guides? Learn how in our [contributors page](../contributing/README.md).
 
 ## Status
 
