@@ -57,8 +57,8 @@
 
 - [09:09](https://youtu.be/pOA-TIOQBs8?t=549): Is short term debt as indicated by MKR burned as a result of large wipes a useful thing to look at?
 - [10:59](https://youtu.be/pOA-TIOQBs8?t=661): Can you explain `Open Dai Days`, and other metrics on the Age of Debt graph?
-    -  `open_dai_days` = `(AVERAGE)Amount of Days current debt has been open`/`The amount of open debt`
-    -  `closed_dai_days` = `(AVERAGE)how many days was it outstanding at close`/`The amount of closed debt`
+  - `open_dai_days` = `(AVERAGE)Amount of Days current debt has been open`/`The amount of open debt`
+  - `closed_dai_days` = `(AVERAGE)how many days was it outstanding at close`/`The amount of closed debt`
 
 ### Cyrus: Single CDP Credit Risk Model: [23:37](https://youtu.be/pOA-TIOQBs8?t=1417)
 
@@ -75,19 +75,19 @@
 
 - Credit Risk is a difficult problem because of the unpredictable nature of the underlying assets.
 - Some function of historical data makes sense.
-    - eg: Corporate debt of an energy company
-    - Collect data on the energy sector over the last several decades, and compute historical default frequencies.
-    - Or, conduct a fundamental analysis on the company in conjunction with historical data and compute metrics (Credit ratings can often be a proxy for this)
-    - Often times, underlying asset value is not even observable.
+  - eg: Corporate debt of an energy company
+  - Collect data on the energy sector over the last several decades, and compute historical default frequencies.
+  - Or, conduct a fundamental analysis on the company in conjunction with historical data and compute metrics (Credit ratings can often be a proxy for this)
+  - Often times, underlying asset value is not even observable.
 - Does this work with CDPs?
-    - The answer is probably not, since we don't have enough data that spans a wide enough time period for the underlying asset: ETH.
-    - We can use it as a starting point, but in and of itself it is not sufficient.
+  - The answer is probably not, since we don't have enough data that spans a wide enough time period for the underlying asset: ETH.
+  - We can use it as a starting point, but in and of itself it is not sufficient.
 - Approach (slide at bottom)
-    - Build up intuition with academic model
-    - Explore tradeoffs
-    - Salvage what we can and simplify
-    - Explore new set of tradeoffs
-    - Iterate
+  - Build up intuition with academic model
+  - Explore tradeoffs
+  - Salvage what we can and simplify
+  - Explore new set of tradeoffs
+  - Iterate
 
 #### Single CDP Model: [32:23](https://youtu.be/pOA-TIOQBs8?t=1943)
 
@@ -154,14 +154,14 @@ vs
 ![Was all this worth it](https://i.imgur.com/nXy9k44.jpg)
 
 - Tradeoffs
-    - A fair amount of complexity
-    - assumes normally distributed returns, which underprices fat tails
-    - Not particularly suited to asset classes without a lot of historical data
+  - A fair amount of complexity
+  - assumes normally distributed returns, which underprices fat tails
+  - Not particularly suited to asset classes without a lot of historical data
 - Empirical models
-    - better distribution of tails
-    - ass in qualifier risk premium adjustment
+  - better distribution of tails
+  - ass in qualifier risk premium adjustment
 - Expert models
-    - Defer to someone who claims to know what they're talking about.
+  - Defer to someone who claims to know what they're talking about.
 
 ### Rich: Signaling, Debate, and Discussion: [01:01:13](https://youtu.be/pOA-TIOQBs8?t=3673)
 
@@ -179,29 +179,29 @@ vs
 #### Comments
 
 - [01:06:52](https://youtu.be/pOA-TIOQBs8?t=4012): Vishesh
-    - We know we don't want to hit the Debt Ceiling. This is fairly agreed upon, but we can debate it not.
-    - What is the downside for the Debt Ceiling being slightly higher if we're not going to hit it?
-    - In what scenario should we worry about the Debt Ceiling?
-    - Some of the answers are clear. The one caveat is if the Debt Ceiling is increased, and someone aggressively votes down the stability fee, this is the risk scenario.
-    - Hopefully Governance understand we shouldn't do both of those things.
-    - The more excess supply lives on Secondary Lending Platforms, the less we should worry about us hitting the Debt Ceiling.
-    - When the stability fee is higher, the supply moves slower and vice versa.
+  - We know we don't want to hit the Debt Ceiling. This is fairly agreed upon, but we can debate it not.
+  - What is the downside for the Debt Ceiling being slightly higher if we're not going to hit it?
+  - In what scenario should we worry about the Debt Ceiling?
+  - Some of the answers are clear. The one caveat is if the Debt Ceiling is increased, and someone aggressively votes down the stability fee, this is the risk scenario.
+  - Hopefully Governance understand we shouldn't do both of those things.
+  - The more excess supply lives on Secondary Lending Platforms, the less we should worry about us hitting the Debt Ceiling.
+  - When the stability fee is higher, the supply moves slower and vice versa.
 
 #### Matthew Rabinowitz: [01:16:47](https://youtu.be/pOA-TIOQBs8?t=4607)
 
 - Discussion about risk driven stability fees for Collateral Packages & usage of the DSR.
 - How will we handle voting on Risk Premiums?
-    - or will we not vote on it at all, and simply outsource it to a risk team?
-    - or will we be taking the median or average recommendation from a number of risk teams?
+  - or will we not vote on it at all, and simply outsource it to a risk team?
+  - or will we be taking the median or average recommendation from a number of risk teams?
 - The greatest concern for the entire project is how to maintain the various Stability Fees for the tranches in each Collateral Package in order to accurately price them according to the actual risk premiums of each option.
 
 #### Question & Discussion points for Matthew
 
 - [01:23:03](https://youtu.be/pOA-TIOQBs8?t=4983): Rich's response to Matthews points.
-    - How does this all work? We don't know. However, we are not unprepared. The Foundation internally, and the community, have been considering these points carefully for the last 8-12 months.
-    - The Governance community of MakerDAO is ultimately the group that helps us answer these questions.
-    - The next step in answering these questions is gauging community involvement in these issues and decisions. We are hoping to see what that looks like through the new forum we are launching that will enable us to have longer tail conversations about various topics in Governance.
-    - Improving our signaling methods and releasing our next version of the governance portal will help.
+  - How does this all work? We don't know. However, we are not unprepared. The Foundation internally, and the community, have been considering these points carefully for the last 8-12 months.
+  - The Governance community of MakerDAO is ultimately the group that helps us answer these questions.
+  - The next step in answering these questions is gauging community involvement in these issues and decisions. We are hoping to see what that looks like through the new forum we are launching that will enable us to have longer tail conversations about various topics in Governance.
+  - Improving our signaling methods and releasing our next version of the governance portal will help.
 
 #### Links from the Chat
 
@@ -209,6 +209,7 @@ vs
 - [DAI 24hr VWAP Graph](http://dai.descipher.io/)
 
 #### Slides
+
 <details>
   <summary>Click to expand!</summary>
   

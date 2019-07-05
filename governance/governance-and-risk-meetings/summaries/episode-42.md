@@ -60,12 +60,12 @@
 
 - I added two new metrics of the lending rates on variable term platforms (dYdX & Compound).
 - On a weighted average basis, how much are people paying to borrow or receive Dai.
-    - You can see in the past week where the rates came down a bit and have recently begun to run up again.
-    - The spread between the Maker Stability Fee and Rates rends to be around 3-4%.
+  - You can see in the past week where the rates came down a bit and have recently begun to run up again.
+  - The spread between the Maker Stability Fee and Rates rends to be around 3-4%.
 - Outstanding borrow & supply volumes is the second metric.
-    - The amount of borrowed Dai on Secondary Lending Platforms came out of the amount of Dai that would have theoretically been minted out of CDPs.
-    -  Total borrow volume of Dai from both CDPs directly and SLPs has been consistently increasing. Even though the Dai supply came down during this time. I see this is a good thing, as it narrows the gap between supply and demand.
-    -  Supply on SLPs has jumped in the past couple of weeks. As long as this supply exists, there is that buffer that I've been talking about. When I see this supply grow it makes me think there is an oversupply rather than an increase in demand. Of course it's not so simple, and we should consider ideas around supply on SLPs.
+  - The amount of borrowed Dai on Secondary Lending Platforms came out of the amount of Dai that would have theoretically been minted out of CDPs.
+  - Total borrow volume of Dai from both CDPs directly and SLPs has been consistently increasing. Even though the Dai supply came down during this time. I see this is a good thing, as it narrows the gap between supply and demand.
+  - Supply on SLPs has jumped in the past couple of weeks. As long as this supply exists, there is that buffer that I've been talking about. When I see this supply grow it makes me think there is an oversupply rather than an increase in demand. Of course it's not so simple, and we should consider ideas around supply on SLPs.
 
 #### Paid & Unpaid Stability Fees: [36:17](https://youtu.be/5QDgbgfG8qc?t=2177)
 
@@ -75,15 +75,15 @@
 #### Questions to Vishesh
 
 - [39:00](https://youtu.be/5QDgbgfG8qc?t=2347): What's the proportion of the Dai supply that is being lent out on Secondary Lending Markets?
-    - Between dYdX & Compound it's 19.5/90MM Dai.
+  - Between dYdX & Compound it's 19.5/90MM Dai.
 - [41:05](https://youtu.be/5QDgbgfG8qc?t=2469): Can you help me better understand the concept of revenue in MakerDAO?
-    - Revenue is a misleading term in Maker. Stability Fees are paid and cause the deflation of MKR. So overall it's appreciation prevalent.
+  - Revenue is a misleading term in Maker. Stability Fees are paid and cause the deflation of MKR. So overall it's appreciation prevalent.
 - [41:57](https://youtu.be/5QDgbgfG8qc?t=2517): Is there a way to have deeper analysis on Dai in SLPs? Helping us understand the lifecycle of various groups of Dai?
-    - Possible? Yes. Have I done it? No. This will require a lot heavier chain analysis.
+  - Possible? Yes. Have I done it? No. This will require a lot heavier chain analysis.
 - [44:18](https://youtu.be/5QDgbgfG8qc?t=2658): In relation to Vishesh's idea of letting the Dai peg return on its own in short time frames, isn't it in our interest to try to get Dai trading above and below the peg as frequently as possible in order to build confidence in Market Makers and other players in Dai markets? Why shouldn't we take an aggressive approach with Stability Fee adjustments?
-    - (Watch video for full answer)It's not so simple.
+  - (Watch video for full answer)It's not so simple.
 - [49:41](https://youtu.be/5QDgbgfG8qc?t=2981): The velocity of arbitrage with Dai is a little slower then fiat backed coins. Do you think this would speed up in the future? or do you think speed is important at all?
-    - How fast Dai oscillates above and below the peg is important. I think when that arbitrage cycle is slower this is more risk for the system and market makers. I don't think it's necessarily a problem. However, as Dai becomes more liquid and heavily transacted on that cycle will speed up. But I can't speak to its actual importance.
+  - How fast Dai oscillates above and below the peg is important. I think when that arbitrage cycle is slower this is more risk for the system and market makers. I don't think it's necessarily a problem. However, as Dai becomes more liquid and heavily transacted on that cycle will speed up. But I can't speak to its actual importance.
 
 #### Matthew Rabinowitz: [52:06](https://youtu.be/5QDgbgfG8qc?t=3126)
 
@@ -100,7 +100,7 @@
 
 - [01:00:55](https://youtu.be/5QDgbgfG8qc?t=3655): Is the bigger question, "Do we use Stability Fees as a lever to control Monetary Policy in MCD?"
 - [01:08:46](https://youtu.be/5QDgbgfG8qc?t=4126): Primoz: I think the DSR is going to be the main lever to adjust for Dai supply & demand imbalances. The monetary premium exists, in that we use the Stability Fee to fund the DSR. However, you have other levers, like Debt Ceilings, you can use to adjust for imbalances.
-- [01:15:21](https://youtu.be/5QDgbgfG8qc?t=4521): Would it make sense to use Debt Ceilings as a policy tool to manage Dai oversupply? 
+- [01:15:21](https://youtu.be/5QDgbgfG8qc?t=4521): Would it make sense to use Debt Ceilings as a policy tool to manage Dai oversupply?
 
 #### Links from the Chat
 
