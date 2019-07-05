@@ -26,7 +26,7 @@ This is a community-lead initiative that uses Dai bounties to incentivize users 
 
 ## How do I get involved?
 
-Check out our quick-start guides for [Translators](community/translations/translator-guidelines.md) and [Editors](community/translations/editor-guidelines.md).
+Check out our quick-start guides for [Translators](./translators-quick-start-guide.md) and [Editors](./editor-quick-start-guide.md).
 
 ## Status
 
