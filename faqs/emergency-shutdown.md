@@ -1,18 +1,16 @@
-# Emergency Shutdown FAQ
+# Emergency Shutdown
 
 ## What is an Emergency Shutdown?
 
-One important security feature of Dai is called Emergency Shutdown, formerly known as Global Settlement. This crucial security feature allows the system to shut down and make underlying collateral available for redemption by [Dai](https://github.com/makerdao/community/blob/master/faqs/dai.md) holders and CDP owners.
+One important security feature of Dai is called Emergency Shutdown, formerly known as Global Settlement. This crucial security feature allows the system to shut down and make underlying collateral available for redemption by [Dai](dai.md) holders and CDP owners.
 
 ## What happens during an Emergency Shutdown?
 
 1. Emergency Shutdown is activated:
    If MKR voters believe that the system is subject to a serious attack, or if an Emergency Shutdown is scheduled as part of a technical upgrade, they can activate an Emergency Shutdown. This stops CDP creation and freezes the Price Feed.
-
-1. Collateral Claims are processed:
+2. Collateral Claims are processed:
    After Emergency Shutdown is activated, a time period is needed to allow the processing of the proportional collateral claims of all CDP owners. After this processing is done, all CDP owners will be able to claim a fixed amount of ETH with their CDPs. Dai holders can access their collateral claims immediately.
-
-1. Dai and CDP owners claim collateral:
+3. Dai and CDP owners claim collateral:
    Each Dai holder and CDP owner can exchange their Dai and CDPs directly for a fixed amount of ETH that corresponds to the calculated value of their assets.
 
 ## Who can Trigger an Emergency Shutdown?
@@ -63,7 +61,7 @@ Yes, it is possible for users to get less than a dollar worth of collateral. Dai
 
 ## How quickly can an Emergency Shutdown be performed?
 
-To trigger an Emergency Shutdown, an Executive Vote needs to be voted on by MKR voters. The proposal needs to garner enough MKR until it beats the previous proposal, in line with [continuous approval voting](faqs/governance.md#what-is-continuous-approval-voting). Therefore, it depends on how quickly MKR voters can act to beat the previous winning proposal.
+To trigger an Emergency Shutdown, an Executive Vote needs to be voted on by MKR voters. The proposal needs to garner enough MKR until it beats the previous proposal, in line with [continuous approval voting](governance.md#what-is-continuous-approval-voting). Therefore, it depends on how quickly MKR voters can act to beat the previous winning proposal.
 
 ## What happens to MakerDAO after an Emergency Shutdown?
 
@@ -85,10 +83,10 @@ Depending on the details of each redeployment, the market, along with various sy
 
 Since it is open source software, anyone can decide. Ideally, the parameters of redeployment should depend on the reason for the Emergency Shutdown, and should not be altered unilaterally and arbitrarily. Here is a rough example of a framework for making changes on redeployment:
 
-| Reason | Solution |
-| --- | --- |
-| Governance attack | Fork out malicious MKR holders in new redistribution, redeploy system with everything else as-is |
-| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix, redeploy system with everything else as-is |
+| Reason            | Solution                                                                                                                                                                      |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Governance attack | Fork out malicious MKR holders in new redistribution, redeploy system with everything else as-is                                                                              |
+| Oracle Attack     | Fork out Oracle module for a new one with a vulnerability fix, redeploy system with everything else as-is                                                                     |
 | Market Black Swan | Redeploy system with everything as-is, allow MKR voters to decide how best to address this event through new or improved system mechanics that can be added post-redeployment |
 
 ## During Emergency Shutdown, will CDP owner's collateral be given away to other people?
