@@ -2,7 +2,7 @@
 
 Welcome to the MakerDAO Translations Initiative. A place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
 
-**Project Snapshot:**
+## Project Snapshot
 
 - Be part of a team
 - Earn bounties in Dai
@@ -30,6 +30,6 @@ Check out our quick-start guides for [Translators](./translators-quick-start-gui
 
 ## Status
 
-[Applications](https://airtable.com/shr415iT3e8S8nuzS) are open for both translators and editors. 
+[Applications](https://airtable.com/shr415iT3e8S8nuzS) are open for both translators and editors.
 
 As of June 2019, thirty five documents have been translated across seven different languages. We are currently working with Spanish, Korean, Polish, Japanese, Mandarin, Italian, and French. We’re open to incorporating other languages for interested applicants. Simply include the proposed language in the [application](https://airtable.com/shr415iT3e8S8nuzS).
