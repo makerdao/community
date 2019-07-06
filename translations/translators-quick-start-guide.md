@@ -9,7 +9,7 @@ The role of a translator is to create the initial translation from the original 
 Their responsibility is to:
 
 - **Translate as accurately as possible:** All languages have their nuances, so there is some flexibility when changing the text to be more readable in a new language. Communicate with the rest of the team early and often in the [#translation](https://chat.makerdao.com/channel/translation) channel. Don’t be afraid to ask others for advice.
-- **Decide which unique terms translate:** Refer to the [Glossary](../faqs/glossary), if the term doesn’t appear there, bring the subject up in the [#translation](https://chat.makerdao.com/channel/translation) room for discussion.
+- **Decide which unique terms translate:** Refer to the [Glossary](../faqs/glossary.md), if the term doesn’t appear there, bring the subject up in the [#translation](https://chat.makerdao.com/channel/translation) room for discussion.
 - **Provide accurate spelling and grammar**
 - **Be consist:** Ensure terms are translated uniformly across all documents.
 - **Maintain simplicity:** Writing should be plain, simple, and accessible. Maintain contact with other translators as they work on documents. Be sure to agree on translated terms and other conventions.
