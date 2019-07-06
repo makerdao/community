@@ -20,7 +20,7 @@ Their responsibility is to:
 
 The blockchain space is relatively new. Various languages are slowly developing terms to match the English vocabulary. Reach out to other community members in the [#translation](https://chat.makerdao.com/channel/translation) room to consult on the best way to translate various terminology.
 
-There’s an English glossary of [MakerDAO terms](../faqs/glossary) which one can work from. There is a chance this glossary has been translated into your language. You should strive to translate each of these terms in a way that makes sense. Additionally, the way the terms are translated should be consistent throughout the documents.
+There’s an English glossary of [MakerDAO terms](../faqs/glossary.md) which one can work from. There is a chance this glossary has been translated into your language. You should strive to translate each of these terms in a way that makes sense. Additionally, the way the terms are translated should be consistent throughout the documents.
 
 ## Best Practices
 
