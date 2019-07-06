@@ -16,15 +16,16 @@
 - Be concise, people have little time to browse
 - Provide examples when possible, do not complicate them with arbitrarily complex numbers
 - Explain with math when needed, otherwise keep it simple
-- Do not spell out “percent”; use the symbol (e.g., 15% not 15 percent)
+- Do not spell out "percent”; use the symbol (e.g., 15% not 15 percent)
 
 #### No
 
-- Exclamation points
+- No exclamation points!!!
 - Speaking directly to the user in tutorials or FAQs. I.e. No: 'You then..', 'Now you should...'
 - No em or en dashes `—`
 - Never refer to Purple Paper names (flip, flap, flop, etc) in the documentation
 - Footnotes
+- Curly quotes `“`, use the plaintext version: `"`
 
 ### Numbers
 
@@ -34,14 +35,14 @@
 
 ### Currency Amounts
 
-- Dollars: Use lowercase except when writing “US Dollar.” Otherwise:
-- Use figures and the $ sign in all except casual references or amounts without a figure (e.g., the book cost $4; please give me a dollar).
-- For amounts less than $1 million: $4, $25, $500, $1,000, $650,000.
-- For amounts over $1 million, use the word not numerals (e.g., He is worth $4 million NOT He is worth \$4,000,000).
+- Dollars: Use lowercase except when writing "US Dollar.”:
+  - Use figures and the \$ sign in all except casual references or amounts without a figure (e.g., the book cost \$4; please give me a dollar).
+  - For amounts less than \$1 million: \$4, \$25, \$500, \$1,000, \$650,000.
+  - For amounts over \$1 million, use the word not numerals (e.g., He is worth \$4 million NOT He is worth \$4,000,000).
 
 ### Acronyms
 
-- When making an acronym plural, simply add an “s” (e.g., CDPs).
+- When making an acronym plural, simply add an "s" (e.g., CDPs).
 
 ### Decades
 
@@ -104,7 +105,7 @@
   - **Yes:** Learn more at [awesome-makerdao](link)
 - When creating links for parallel translated documents, always make sure to update the relative links to reflect the correct heading.
 
-  ```
+  ```text
   en: faqs/cdp.md#what-are-collateralized-debt-positions
   es: faqs/es/cdp.md#qué-son-las-posiciones-de-deuda-colateralizadascdp
   ko: faqs/ko/cdp.md#부채-담보부-포지션collateralized-debt-positions-cdp이란-무엇인가요
