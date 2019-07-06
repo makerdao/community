@@ -2,7 +2,7 @@
 
 Welcome to Do It Yourself Community Meetups. A place where you can find all the resources you need to host your very own meetup.
 
-**Project Snapshot:**
+## Project Snapshot
 
 - Bring together your local community
 - Get funding in Dai
@@ -24,7 +24,7 @@ Additionally, we're working with the community to actively develop a collection 
 
 ## Is this for me?
 
-**Hosting Meetups**
+### Hosting Meetups
 
 Do you enjoy hosting events and bringing people together? We're eager to support people who want to build the Maker community together in their city.
 
@@ -32,7 +32,7 @@ Do you enjoy hosting events and bringing people together? We're eager to support
 - Access to a community of people.
 - Ability to organize and host an event.
 
-**Contribute to the Hosting Guides**
+### Contribute to the Hosting Guides
 
 Not in a position to host? No problem. We're constantly looking to improve the quality of our Hosting Guides.
 
@@ -51,4 +51,4 @@ Micro-grant [applications](https://airtable.com/shr415iT3e8S8nuzS) are open.
 
 ## Important Disclaimer
 
-These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about MakerDAO and Decentralized Finance. When talking about the MKR token the goal should be to educate the attendees about the purpose and utility of the token. Presentations can focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralized governance, or other relevant topics.
+These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about MakerDAO and decentralized finance. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Presentations can focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralized governance, or other relevant topics.

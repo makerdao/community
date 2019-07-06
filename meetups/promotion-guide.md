@@ -42,7 +42,7 @@ To make people aware of your event you will need to create an event page, which 
 
 - Always update your events page with any changes that might occur.
 - We recommend that you reach out to attendees with reminders, updates, or teasers.
-- In addition to the platform you are using for hosting the main event page, we recommend broad use of social media to promote your event and attract even more participants. See the MakerDAO socials above. Don't forget to link the URL from your main event page!
+- In addition to the platform you are using for hosting the main event page, we recommend broad use of social media to promote your event and attract even more participants. See the MakerDAO socials above. Don't forget to link the URL from your main event page.
 - Incentivize members to bring their friends along. Give prizes and create competitions for attendees to share on Facebook, Tweet, etc.
 - Collaborate with other Meetup organizers and run events together. Groups must be complementary.
 

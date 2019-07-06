@@ -35,7 +35,7 @@ We've included several guides and also some additional resources to help you org
 - [Example Presentations](https://github.com/makerdao/awesome-makerdao#videos)
 - [Usable Slides and Presentation Decks](./assets/slides)
 
-## Hosting the Meetup
+## Hosting the meetup
 
 Once you have your meetup plan ready, speakers confirmed, the venue set, and the event promoted, it's time for the execution.
 
