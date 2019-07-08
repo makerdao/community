@@ -2,9 +2,31 @@
 
 **Document version** **20190709**
 
-[TOC]
+- [Introduction](#introduction)
+- [Risk parameters](#risk-parameters)
+- [Governance Approval](#governance-approval)
+- [Process Overview](#process-overview)
+- [Technical requirements](#technical-requirements)
+  - [Technical Audit](#technical-audit)
+- [Adapters](#adapters)
+  - [Contract Interface](#contract-interface)
+  - [Available Implementations](#available-implementations)
+  - [Implementation Guidelines](#implementation-guidelines)
+  - [Impact on Token Behavior](#impact-on-token-behavior)
+- [On Security Tokens](#on-security-tokens)
+- [Legal Requirements](#legal-requirements)
+- [Financial Requirements](#financial-requirements)
+  - [Classification](#classification)
+  - [Overview](#overview)
+  - [Issuance](#issuance)
+  - [Markets](#markets)
+  - [Community](#community)
+- [Application Form](#application-form)
+  - [Technical Specifications](#technical-specifications)
+  - [Financial Specifications](#financial-specifications)
+  - [Legal Specifications](#legal-specifications)
 
-# Introduction
+## Introduction
 
 The target audience for this document is:
 
@@ -68,23 +90,23 @@ It is assumed, the risk team includes or has access to the following set of role
 
 ![Process Overview](./assets/process-overview.png "Process Overview")
 
-# Technical requirements
+## Technical requirements
 
 This section describes which technical information to provide to a risk team. This guidance hasn’t yet been approved by MKR holders as a template for risk teams to use, so be aware that there may be changes to this section.
 
-## Technical Audit
+### Technical Audit
 
 For a risk team to create a new governance proposal on your behalf, you must have highly skilled system security professionals conduct a technical security audit of your token contract(s) and submit the resulting audit report as part of the application.
 
-### Audit Team
+#### Audit Team
 
 The audit must be performed by highly skilled system security researchers. The audit can be purchased from third party services.
 
-### Audit Scope
+#### Audit Scope
 
 The scope of the audit must include any smart contracts that provide functionality to your token including but not limited to transfers, freezes, whitelists, blacklists, transaction approvals/rejections, authorizations, upgradability, etc.
 
-### Audit Factors
+#### Audit Factors
 
 The audit should evaluate security factors including but not limited to:
 
@@ -94,11 +116,11 @@ The audit should evaluate security factors including but not limited to:
 - Whether _SafeMath_ functions are defined and used
 - Whether formal verification has already been performed or can easily be performed
 
-### Audit Example
+#### Audit Example
 
 For an example of what an audit report may look like, you can view [Trail of Bits’ audit](https://www.trailofbits.com/reports/sai.pdf) of the test version of single collateral Dai known as “Sai”.
 
-### Audit Result and Quality
+#### Audit Result and Quality
 
 It is at the sole discretion of the risk team to determine whether the result, depth, and quality of the conducted audit meets the standards for that risk team to determine risk parameters and submit a governance proposal on your behalf.
 
@@ -139,7 +161,7 @@ Tokens held in adapter contracts are restricted from being used in their protoco
 
 Adapter contracts do not take the current debt ceiling of the collateral type into consideration when allowing token deposits. Thus, a large number of tokens could be locked within adapter contracts even when they are not being used to draw Dai.
 
-# On Security Tokens
+## On Security Tokens
 
 If the token is a regulated security token, additional considerations must be made.
 
@@ -147,7 +169,7 @@ Guidance for Security Tokens is planned to be added in a later version of this d
 
 To see a discussion on a concept for adding support for Security Tokens to DCS, see the paper “On adding Security Tokens as collateral” from the Maker Foundation Integration team.
 
-# Legal Requirements
+## Legal Requirements
 
 This section describes which legal information to provide to a risk team. This guidance hasn’t yet been approved by MKR holders as a template for risk teams to use, so be aware that there may be changes to this section.
 
@@ -158,39 +180,39 @@ In general, the legal analysis will aim at determining the below factors:
 - Legal risks associated with the token and its role as an available collateral type;
 - Regulatory consequences (if any) of onboarding the token for both the particular constituencies involved (e.g., holders, CDP users, Keepers, other intermediaries, etc.) and for DCS.
 
-# Financial Requirements
+## Financial Requirements
 
 This section describes which financial information to provide to a risk team. This guidance hasn’t yet been approved by MKR holders as a template for risk teams to use, so be aware that there may be changes to this section.
 
 As part of the risk evaluation, a risk team must conduct a due diligence process. We request that you provide the following information to help facilitate this process:
 
-## Classification
+### Classification
 
 Broadly speaking, collateral assets can be separated into two categories: crypto-native assets and Security Tokens. Crypto-native assets (often referred to as ‘bearer’ assets) are coins such as bitcoin and ether that have no counterparty risk. Possession of the token is equivalent to direct ownership of the asset. Conversely, ‘registered’ assets, such as tokenized securities, are merely claims or receipts on an underlying asset. These tokens require a recourse analysis, the process by which a token can be redeemed for the underlying asset. Specific information may be requested depending on the classification of the collateral asset.
 
-## Overview
+### Overview
 
 You must provide a short summary of your project. In particular, please distinguish between the business sector (i.e., decentralized exchange, prediction market, payments platform, etc.) and the token use case (i.e., utility token, work token, governance token, etc.). You must submit all relevant documentation, including, but not limited to, whitepapers, pitch decks, and roadmaps. We also recommend submitting financial information, such as budgets, burn rates, runways, and treasury management overviews.
 
-## Issuance
+### Issuance
 
 For bearer assets, describe the nature of the issuance. If there was an ICO, please disclose the date, raise amount, valuation, ICO price, and token distribution. Details regarding seed investors, lockups and circulating supply are also recommended.
 
-## Markets
+### Markets
 
 Please present a detailed trading profile, including, but not limited to, exchange listings, liquidity providers, and so on. Liquidity is an important aspect that directly influences a Keeper’s ability and willingness to purchase collateral in a liquidation auction. Favorable liquidity conditions result in a lower Liquidation Ratio and higher Debt Ceiling.
 
-## Community
+### Community
 
 Please provide links to primary communication platforms (e.g. email, Telegram, discord, reddit, etc.) on which you can be reached. All information requested herein, including documents, must be provided via email.
 
-# Application Form
+## Application Form
 
 This form summarizes the information to submit to a risk team to request that it review your material and propose a set of risk parameters to MKR governance. All information requested herein, including documents, must be provided via email. If the risk team finds that the material is sufficient, **all submitted information will be made publicly available** along with the related proposed risk parameters in order to permit MKR governance to make a fully informed decision.
 
 This form hasn’t yet been approved by MKR holders as a template for risk teams to use, so be aware that there may be changes to this section.
 
-## Technical Specifications
+### Technical Specifications
 
 1. What is the token contract address?
 2. Where can the source code be viewed? Please provide links to the source code for all contracts providing functionality to the token, including, but not limited to, transfers, freezes, whitelists, blacklists, transaction approvals/rejections, authorizations, upgradability, etc.
@@ -208,9 +230,9 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 7. **Technical audit**
    1. Upload audit report created by qualified research personnel.
 
-## Financial Specifications
+### Financial Specifications
 
-### Overview Questions
+#### Overview Questions
 
 1. Please provide a short summary of your project.
 2. Please list the founding members.
@@ -219,7 +241,7 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
    1. What is the token’s usage in the project? How is the token utilized?
 5. If security token, guidance about what to submit is planned to be added to a future version of the form.
 
-### Issuance - Bearer Assets
+#### Issuance - Bearer Assets
 
 1. What was the date of the ICO?
 2. What was the initial price and valuation?
@@ -231,7 +253,7 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 8. How much of the ICO raise was converted into fiat (described in both terms of that fiat currency and the amount of tokens?
 9. Were there any pre-ICO seed investors? Who and what were their respective allocations?
 
-### Fundamentals
+#### Fundamentals
 
 1. Please link to the whitepaper and/or pitch deck related to the token.
 2. Please link to the most updated roadmap for your project.
@@ -240,18 +262,18 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 5. What is the annual burn rate?
 6. What is the strategy for treasury management?
 
-### Markets
+#### Markets
 
 1. Which exchanges is your token listed on?
 2. Are there any paid market makers for your asset? Who? How are they paid, including the type of remuneration and required payment benchmarks?
 3. Does your token have custodial support? Where/with whom? Please provide a copy of the custodial agreement if available.
 
-### Community
+#### Community
 
 1. Please link your email, Telegram, subreddit, Discord, Twitter, Medium.
 2. What is the website of your project?
 
-## Legal Specifications
+### Legal Specifications
 
 1. Who is the token issuer (if any)?
 2. Do you have legal representation related (1) to the issuance of the token, (2) regulatory requirements regarding the token, or (3) otherwise? If so, whom?
