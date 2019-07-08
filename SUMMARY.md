@@ -29,8 +29,6 @@
     - [Part Two](governance/governance-risk-framework/part-two.md)
     - [Part Three](governance/governance-risk-framework/part-three.md)
   - [Governance and Risk Meeting](governance/governance-and-risk-meetings/README.md)
-    - Summaries
-    - Transcripts
     - [Summaries](governance/governance-and-risk-meetings/summaries/README.md)
     - [Transcripts](governance/governance-and-risk-meetings/transcripts/README.md)
 - [Grants Program](grants/README.md)
