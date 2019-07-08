@@ -8,11 +8,11 @@ The Community Development group's mandate is to directly foster the growth of th
 
 Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
 
-### [Community Meetup Microgrants](meetups/README.md)
+### [DIY Community Meetups](meetups/README.md)
 
 Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group wants to provide the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
 
-### Community Translations
+### [Community Translations](translations/README.md)
 
 We bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
 

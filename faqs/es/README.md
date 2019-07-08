@@ -6,7 +6,7 @@
 
 - [¿Qué es Dai?](dai.md#qué-es-dai)
 - [¿Por qué querría usar Dai?](dai.md#por-qué-querría-usar-dai)
-- [¿Un Dai siempre vale exactamente un dólar estadounidense?](#un-dai-siempre-vale-exactamente-un-dólar-estadounidense)
+- [¿Un Dai siempre vale exactamente un dólar estadounidense?](./dai.md#un-dai-siempre-vale-exactamente-un-dólar-estadounidense)
 - [¿De dónde proviene Dai?](dai.md#de-dónde-proviene-dai)
 - [¿Alguien más tiene derechos sobre mis tokens Dai?](dai.md#alguien-más-tiene-derechos-sobre-mis-tokens-dai)
 - [¿Cómo se mantiene estable el precio de Dai?](dai.md#cómo-se-mantiene-estable-el-precio-de-dai)

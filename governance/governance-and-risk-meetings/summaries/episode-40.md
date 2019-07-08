@@ -64,6 +64,7 @@
 #### Goals and Strategy: [28:05](https://youtu.be/lSfXtvCplwc?t=1685)
 
 - Philosophical Goals
+
   - Dai becomes the first unbiased world currency
   - Promote the stability and integrity of Dai
   - Facilitate safe and responsible growth of Dai supply

@@ -1,9 +1,54 @@
-# Community Meetup Grants
+# DIY Community Meetups
 
-A healthy and robust community plays an incredibly important role in building a long-lasting and strong ecosystem around MakerDAO. To support this goal, we are providing many types of resources. This Community Meetups Initiative gives community members all they need to host their own Maker oriented events.
+Welcome to Do It Yourself Community Meetups. A place where you can find all the resources you need to host your very own meetup.
 
-Meetups are a useful resource for anyone interested in learning about Maker and becoming part of the MakerDAO community. Whether offering question-and-answer sessions, demos, presentations, or just time to network, meetups can spark a host of conversations, insights, and questions. They are the perfect tool for newcomers, people generally unfamiliar with the project, and for seasoned professionals who are interested in diving deeper into MakerDAO. Building up local communities and increasing Dai adoption will help bring stability and financial inclusion to everyone. To help community members launch meetups in their local communities we've included a micro-granting program that you can find more about [here](/meetups/meetup-diy-kit-en.md#Requesting-funds)
+## Project Snapshot
 
-Please have a look at our [Meetup Kit](meetup-diy-kit-en.md) if you are interested in hosting an event in your community. The kit contains information about how to organize a successful event and how to apply for a MakerDAO microgrant.
+- Bring together your local community
+- Get funding in Dai
+- Create learning opportunities around MakerDAO and Dai
 
-If you have suggestions for how we can make the Meetup Kit better reach out to us in our chat in the [\#community-development](https://chat.makerdao.com/channel/community-development) channel.
+## What are we trying to accomplish?
+
+Maker is only as strong as its community. By hosting a meetup in your area, you can help develop a local community that is passionate about Dai and the ecosystem that is being built around it. Through the meetups project, we seek to:
+
+1. Give the Maker community the resources they need to organize successful meetups.
+1. Develop a grassroots movement that educates, inspires, and grows the Maker ecosystem and community.
+1. Encourage local Maker communities to collaborate on projects on top of the Maker Protocol and Dai.
+
+## Project Description
+
+This program is a major initiative of the Maker Foundation. We offer a [micro-granting](./requesting-funds.md) program to help fund local community meetups.
+
+Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
+
+## Is this for me?
+
+### Hosting Meetups
+
+Do you enjoy hosting events and bringing people together? We're eager to support people who want to build the Maker community together in their city.
+
+- Passionate about MakerDAO and Dai.
+- Access to a community of people.
+- Ability to organize and host an event.
+
+### Contribute to the Hosting Guides
+
+Not in a position to host? No problem. We're constantly looking to improve the quality of our Hosting Guides.
+
+- Prior hosting experience a plus, but not necessary.
+- Experience writing or editing.
+
+## How do I get involved?
+
+Ready to start planning your meetup? We've created a [guide](./getting-started-guide.md) to help you get started.
+
+Interested in contributing to the Hosting Guides? Learn how in our [contributors page](../contributing/README.md).
+
+## Status
+
+Micro-grant [applications](https://airtable.com/shr415iT3e8S8nuzS) are open.
+
+## Important Disclaimer
+
+These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about MakerDAO and decentralized finance. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Presentations can focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralized governance, or other relevant topics.

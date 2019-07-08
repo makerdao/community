@@ -28,7 +28,7 @@ This is the lowest unit price the staked collateral can reach before the CDP bec
 
 ## What is the Liquidation Penalty?
 
-This is a fee that is added to the total outstanding DAI debt when a Liquidation occurs, which is subtracted from a CDP's collateral holdings.
+This is a fee that is added to the total outstanding DAI debt when a Liquidation occurs, which is subtracted from a CDPs collateral holdings.
 
 Proceeds from penalty fees are transferred to the PETH pool. This increases the ratio of WETH that users receive when they remove their collateral from a CDP. This fee inflates the value of the collateral pool during periods when there are a lot of Liquidations, for example, due to a high level of instability in the market.
 
@@ -42,7 +42,7 @@ The order of operations looks like this:
 * The Penalty Fee is applied to the DAI debt.
 * The LPC removes enough PETH collateral to satisfy the debt at current Oracle Prices.
 * The CDP owner is now able to remove their remaining collateral from the closed position.
-* The seized PETH is offered for sale at [dai.makerdao.com](http://dai.makerdao.com) with an incentivizing discount, called the [Boom/Bust Spread](http://glossary), applied to the value.
+* The seized PETH is offered for sale at [dai.makerdao.com](http://dai.makerdao.com) with an incentivizing discount, called the [Boom/Bust Spread](glossary.md#boombust-spread), applied to the value.
 * The DAI earned from the sale of PETH is burned to wipe out the CDP debt.
 * If there is excess DAI from the sale, it is sold for PETH which is then burned, inflating the value of the remaining PETH.
 * If there is insufficient DAI from the sale, then PETH is issued and offered for sale to cover the shortfall. This dilutes the total value of the pool.
