@@ -54,19 +54,24 @@
 
 ### Lists
 
-- Start with a capital letter and no final punctuation unless the list starts with a stem sentence
-- Avoid numbered lists unless it's an index or table of contents
-- Alphabetize all ordered lists of names unless there is a clear priority at work
-- All unordered list items are `-` not `*`
-- Don't use an ordered list unless the order matters
+When bulleted and numbered lists contain complete sentences, capitalize the first word and follow each with a period. If list items are phrases, no capitalization and punctuation are needed. Also:
+
+- Use parallel construction for each item in a list.
+- Start with the same part of speech for each item (in this example, a verb).
+- Use the same verb tense for each item.
+- Use the same voice (typically active) for each item.
+- Use the same sentence type (statement, question, exclamation) for each item.
+- Alphabetize all lists of names unless there is a clear priority at work.
+- Use dashes instead of asterisks for unordered lists. I.e.`-` not `*`.
+- Don't use an ordered (numbered) list unless the order matters.
 - All ordered list items should use the #1 repeated:
 
   ```markdown
   1. Item 1
-  2. Item 2
-  3. Item 3
+  1. Item 2
+  1. Item 3
      1. Item 3a
-     2. Item 3b
+     1. Item 3b
   ```
 
 ### General
