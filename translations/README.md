@@ -4,7 +4,7 @@ Welcome to the MakerDAO Translations Initiative, a place where community members
 
 ## Project Snapshot
 
-- Be part of the team
+- Be part of a team
 - Earn bounties in Dai
 - Make MakerDAO & Dai more accessible
 
