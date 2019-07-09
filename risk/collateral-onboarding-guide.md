@@ -49,7 +49,7 @@ Types of collateral tokens may include:
 
 Enabling a token to be used as collateral in DCS allows any token owner to lock up tokens in a Collateral Debt Position and generate Dai stablecoins against this position. Additionally, it contributes to the scalability of Dai by increasing the amount of available financial backing.
 
-NOTE: This document contains guidance and checklists that will be require approval in an MKR Governance poll. This hasn’t yet happened at the time of writing, so there may be changes to the process described here.
+NOTE: This document contains guidance and checklists that will require approval in an MKR Governance poll. This hasn’t yet happened at the time of writing, so there may be changes to the process described here.
 
 Further, this document shall be considered a living document that is adjusted as more experience is gained in adding collateral to the system, and new knowledge is available. For example, currently, how to add Security Tokens to the system isn’t addressed in any detail. The plan is to add this in a later version.
 
@@ -236,10 +236,9 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 
 1. Please provide a short summary of your project.
 2. Please list the founding members.
-3. What type of asset is it - native crypto asset or security token?
+3. What type of crypto asset is it (utility, work, governance, etc)?
 4. If native crypto asset, which category (utility, work, governance, etc)?
-   1. What is the token’s usage in the project? How is the token utilized?
-5. If security token, guidance about what to submit is planned to be added to a future version of the form.
+5. What is the token’s usage in the project? How is the token utilized?
 
 #### Issuance - Bearer Assets
 
@@ -259,13 +258,13 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 2. Please link to the most updated roadmap for your project.
 3. Please link to the Github of your project.
 4. How many employees and contractors does your project have?
-5. What is the annual burn rate?
+5. What is the monthly burn rate?
 6. What is the strategy for treasury management?
 
 #### Markets
 
 1. Which exchanges is your token listed on?
-2. Are there any paid market makers for your asset? Who? How are they paid, including the type of remuneration and required payment benchmarks?
+2. Are you aware of any paid market makers for your asset?
 3. Does your token have custodial support? Where/with whom? Please provide a copy of the custodial agreement if available.
 
 #### Community
