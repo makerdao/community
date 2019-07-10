@@ -1,6 +1,6 @@
 # DIY Community Meetups
 
-Welcome to Do It Yourself Community Meetups. A place where you can find all the resources you need to host your very own meetup.
+Welcome to Do It Yourself Community Meetups: A place where you can find all the resources you need to host your very own meetup.
 
 ## Project Snapshot
 
