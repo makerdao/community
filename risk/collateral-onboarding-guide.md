@@ -167,8 +167,6 @@ If the token is a regulated security token, additional considerations must be ma
 
 Guidance for Security Tokens is planned to be added in a later version of this document.
 
-To see a discussion on a concept for adding support for Security Tokens to DCS, see the paper “On adding Security Tokens as collateral” from the Maker Foundation Integration team.
-
 ## Legal Requirements
 
 This section describes which legal information to provide to a risk team. This guidance hasn’t yet been approved by MKR holders as a template for risk teams to use, so be aware that there may be changes to this section.
