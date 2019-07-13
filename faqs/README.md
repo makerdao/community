@@ -6,9 +6,7 @@
 ## CDPs
 
 - [What are Collateralized Debt Positions?](./cdp.md#what-are-collateralized-debt-positions)
-- [How does a CDP work?1](cdp.md#how-does-a-cdp-work)
-- [How does a CDP work?2](./cdp.md#how-does-a-cdp-work)
-- [How does a CDP work?3](../faqs/cdp.md#how-does-a-cdp-work)
+- [How does a CDP work?](cdp.md#how-does-a-cdp-work)
 - [Who can open a CDP?](cdp.md#who-can-open-a-cdp)
 - [Does a CDP incur any fees?](cdp.md#does-a-cdp-incur-any-fees)
 - [What is the Collateralization Ratio?](cdp.md#what-is-the-collateralization-ratio)
