@@ -16,7 +16,7 @@ Community members play an invaluable role in building a stronger MakerDAO ecosys
 
 We bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
 
-### [FAQs](faqs/README.md)
+### [MakerDAO FAQs](faqs/README.md)
 
 MakerDAO wants everyone to be comfortable with their understanding of the Dai system, its governance, and stablecoins in general. This section provides answers to commonly asked questions about everything MakerDAO.
 
