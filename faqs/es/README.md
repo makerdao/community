@@ -2,6 +2,27 @@
 
 - [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 
+## CDP
+
+- [¿Qué son las Posiciones de Deuda Colateralizadas(CDP)?](cdp.md#qué-son-las-posiciones-de-deuda-colateralizadascdp)
+- [¿Cómo funciona un CDP?](cdp.md#cómo-funciona-un-cdp)
+- [¿Quién puede abrir un CDP?](cdp.md#quién-puede-abrir-un-cdp)
+- [¿Un CDP incurre en algún cargo?](cdp.md#un-cdp-incurre-en-algún-cargo)
+- [¿Qué es el Ratio de Colateralización?](cdp.md#qué-es-el-ratio-de-colateralización)
+- [¿Qué riesgos se asocian con poseer un CDP?](cdp.md#qué-riesgos-se-asocian-con-poseer-un-cdp)
+- [¿Cuáles son las prácticas comunes para limitar los riesgos?](cdp.md#cuáles-son-las-prácticas-comunes-para-limitar-los-riesgos)
+- [¿Cuáles son algunos de los beneficios de tener un CDP?](cdp.md#cuáles-son-algunos-de-los-beneficios-de-tener-un-cdp)
+- [¿Por qué querría abrir un CDP?](cdp.md#por-qué-querría-abrir-un-cdp)
+- [¿Hay razones para evitar abrir un CDP?](cdp.md#hay-razones-para-evitar-abrir-un-cdp)
+- [¿Qué tipo de colateral puedo invertir?](cdp.md#qué-tipo-de-colateral-puedo-invertir)
+- [¿Es posible pagar Dai desde la wallet de un exchange?](cdp.md#es-posible-pagar-dai-desde-la-wallet-de-un-exchange)
+- [¿Cuánto colateral puedo exceder?](cdp.md#cuánto-colateral-puedo-exceder)
+- [¿Qué le sucede a los _airdrops_ cuando he bloqueado mi Ether en un CDP?](cdp.md#qué-le-sucede-a-los-_airdrops_-cuando-he-bloqueado-mi-ether-en-un-cdp)
+- [¿Puedo hacer uso de mi colateral en otro proyecto y también abrir un CDP con el mismo?](cdp.md#puedo-hacer-uso-de-mi-colateral-en-otro-proyecto-y-también-abrir-un-cdp-con-el-mismo)
+- [¿Debo pagar de vuelta el Dai si mi colateral aumenta su valor?](cdp.md#debo-pagar-de-vuelta-el-dai-si-mi-colateral-aumenta-su-valor)
+- [¿Puedo usar el mismo CDP tras haber sido liquidado?](cdp.md#puedo-usar-el-mismo-cdp-tras-haber-sido-liquidado)
+- [¿Cómo puedo verificar la solvencia del ecosistema CDP?](cdp.md#cómo-puedo-verificar-la-solvencia-del-ecosistema-cdp)
+
 ## Dai
 
 - [¿Qué es Dai?](dai.md#qué-es-dai)
@@ -42,7 +63,7 @@
 - [¿Cuanto gas necesitaré? ¿Lo pagaré desde la _cold wallet_ o la _hot wallet_?](governance.md#cuanto-gas-necesitar-lo-pagar-desde-la-cold-wallet-o-la-hot-wallet)
 - [¿Cuantas transacciones tengo que firmar?](governance.md#cuantas-transacciones-tengo-que-firmar)
 - [¿Qué hace exactamente el enlace entre la _hot wallet_ y la _cold wallet_?](governance.md#qu-hace-exactamente-el-enlace-entre-la-hot-wallet-y-la-cold-wallet)
-- [¿Quién controla el MKR cuando está bloqueado?](#quin-controla-el-mkr-cuando-est-bloqueado)
+- [¿Quién controla el MKR cuando está bloqueado?](cdp.md#quin-controla-el-mkr-cuando-est-bloqueado)
 - [¿Cómo sé que el MKR está bloqueado?](governance.md#cmo-s-que-el-mkr-est-bloqueado)
 - [¿Cómo recupero el MKR?](governance.md#cmo-recupero-el-mkr)
 - [¿Cómo afecta un retiro a mis votaciones previas?](governance.md#cmo-afecta-un-retiro-a-mis-votaciones-previas)
@@ -69,3 +90,23 @@
 - [¿Puedo comprar PETH embargado?](liquidation.md#puedo-comprar-peth-embargado)
 - [¿Cómo afectaría una gran caída de precio?](liquidation.md#cómo-afectaría-una-gran-caída-de-precio)
 - [¿Donde puedo encontrar información en vivo sobre liquidaciones?](liquidation.md#donde-puedo-encontrar-información-en-vivo-sobre-liquidaciones)
+
+## Tarifa de Estabilidad
+
+- [¿Qué es la Tarifa de Estabilidad?](#qué-es-la-tarifa-de-estabilidad)
+- [¿Cuándo tengo que pagar la Tarifa de Estabilidad?](#cuándo-tengo-que-pagar-la-tarifa-de-estabilidad)
+- [¿Tengo que pagar las nuevas tarifas para deudas antiguas?](#tengo-que-pagar-las-nuevas-tarifas-para-deudas-antiguas)
+- [¿Cuál es el propósito de la Tarifa de Estabilidad?](#cuál-es-el-propósito-de-la-tarifa-de-estabilidad)
+- [¿Por qué la Tarifa de Estabilidad cambia?](#por-qué-la-tarifa-de-estabilidad-cambia)
+- [¿Cómo se calcula la Tarifa de Estabilidad?](#cómo-se-calcula-la-tarifa-de-estabilidad)
+  - [Un Ejemplo Simple](#un-ejemplo-simple)
+  - [Un Ejemplo Detallado](#un-ejemplo-detallado)
+- [¿Qué hace el sistema con las tarifas recaudadas?](#qué-hace-el-sistema-con-las-tarifas-recaudadas)
+- [¿Dónde puedo ver la Tarifa de Estabilidad acumulada actualmente?](#dónde-puedo-ver-la-tarifa-de-estabilidad-acumulada-actualmente)
+- [¿Cómo altera la tarifa a la oferta y la demanda?](#cómo-altera-la-tarifa-a-la-oferta-y-la-demanda)
+- [¿Cómo calculo el impacto de las Tarifas de Estabilidad variables?](#cómo-calculo-el-impacto-de-las-tarifas-de-estabilidad-variables)
+- [¿Cómo puedo aprender más sobre los Equipos de Riesgo y comunicarme con la Fundación sobre los cambios actuales o futuros del sistema?](#cómo-puedo-aprender-más-sobre-los-equipos-de-riesgo-y-comunicarme-con-la-fundación-sobre-los-cambios-actuales-o-futuros-del-sistema)
+- [¿Hay un límite en el rango de cambios de la Tarifa de Estabilidad?](#hay-un-límite-en-el-rango-de-cambios-de-la-tarifa-de-estabilidad)
+- [¿Cómo pueden los dueños de CDP mitigar el riesgo de cambio de la tarifa?](#cómo-pueden-los-dueños-de-cdp-mitigar-el-riesgo-de-cambio-de-la-tarifa)
+- [¿Qué sucede si la votación de cambio de tarifa es rechazada?](#qué-sucede-si-la-votación-de-cambio-de-tarifa-es-rechazada)
+- [¿Con qué frecuencia cambiará la Tarifa de Estabilidad?](#con-qué-frecuencia-cambiará-la-tarifa-de-estabilidad)

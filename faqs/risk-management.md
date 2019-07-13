@@ -10,7 +10,7 @@ Decentralized Risk Management is the cooperative and competitive interaction bet
 
 ## What are Risk Teams?
 
-Risk Teams are independent people or groups of people who create Risk Constructs which are used as a scientific basis for decision-making by Maker Governance. Risk Teams are voted in and given a weighting when they submit a Risk Construct to the MakerDAO Governance community.  
+Risk Teams are independent people or groups of people who create Risk Constructs which are used as a scientific basis for decision-making by Maker Governance. Risk Teams are voted in and given a weighting when they submit a Risk Construct to the MakerDAO Governance community.
 
 ## What is a Risk Construct?
 
@@ -20,7 +20,7 @@ A Risk Construct is a Risk Team's collection of data, risk models, and outputs. 
 
 A Risk Model should incorporate data-driven analysis and could make use of financial models tailored to the specifics of the MakerDAO protocol. The more comprehensive it is, the more confidence Maker Token Holders will have when assigning it a weighting.
 
-Each component of the model must contain accompanying documentation that explains its methodology, where and how the data was sourced, as well as an analysis of the results.
+Each component of the model must contain accompanying documentation that explains its methodology, where and how the data was sourced, as well as an analysis of the results.
 
 ## Do Risk Models change?
 
@@ -28,7 +28,7 @@ A Risk Model should be continuously updated as data disproves or reinforces its 
 
 ## Are there different types of Risk teams?
 
-Yes, due to the varied types of risk, it is unlikely that a single risk team can reliably cover the entire protocol. There may be Risk Teams dedicated to different classes of risk in the system, like Monetary Policy or the Dai Savings Rate. Conversely, there may be Risk Teams who focus on a broader range of areas, such as assessment of particular collateral types, which may require specialty in multiple subjects such as Legal Risk and Operational Assessment. There will be different classifications of Risk Teams, as well as parties who perform independent research but may not submit a Risk Construct themselves.  
+Yes, due to the varied types of risk, it is unlikely that a single risk team can reliably cover the entire protocol. There may be Risk Teams dedicated to different classes of risk in the system, like Monetary Policy or the Dai Savings Rate. Conversely, there may be Risk Teams who focus on a broader range of areas, such as assessment of particular collateral types, which may require specialty in multiple subjects such as Legal Risk and Operational Assessment. There will be different classifications of Risk Teams, as well as parties who perform independent research but may not submit a Risk Construct themselves.
 
 ## Who are the Risk Teams?
 
@@ -54,23 +54,23 @@ When a risk team submits a new Risk Construct, MKR Holders must assess it and de
 
 ## What is the connection between a Risk Construct and voting in new collateral?
 
-Proposed new collateral will go through a due-diligence process, including a qualitative and quantitative assessment. Since every asset has differences, it is important to evaluate each of them individually according to a well-defined collateral assessment process. MKR Holders' weightings of these assessments will depend on which Risk Construct is used.  
+Proposed new collateral will go through a due-diligence process, including a qualitative and quantitative assessment. Since every asset has differences, it is important to evaluate each of them individually according to a well-defined collateral assessment process. MKR Holders' weightings of these assessments will depend on which Risk Construct is used.
 
 ## What is Qualitative Risk Analysis, and how should one approach it?
 
 Qualitative Risk Analysis uses a relative or descriptive scale to measure risks based on their probability of occurring and the impact on the asset should they occur. To evaluate an asset for its risks, one needs to understand and assess the organization behind the asset, the characteristics of the token, and other relevant details. This is called a Qualitative assessment. The process of compiling the information has three parts:
 
-*   The Initial Collateral Onboarding Process: this covers the trade support structure, distribution of token holdings and available data series.
-*   The Operational Assessment Process: this covers the organization itself, the organization's operational risks, regulatory risks, the quality of the community, etc.
-*   The Technological Assessment Process: this covers the robustness and security of the underlying technology.
+- The Initial Collateral Onboarding Process: this covers the trade support structure, distribution of token holdings and available data series.
+- The Operational Assessment Process: this covers the organization itself, the organization's operational risks, regulatory risks, the quality of the community, etc.
+- The Technological Assessment Process: this covers the robustness and security of the underlying technology.
 
 Due diligence related to each of these three parts will give one information that can be compiled into distinct features and assigned ratings. These features are:
 
-*   **Team**: Core team and advisors
-*   **Community**: Sentiment analysis
-*   **Technology** :  Security and completeness review
-*   **Market and Competitiveness**:  SWOT analysis
-*   **Business Models** : Structural and legal analysis
+- **Team**: Core team and advisors
+- **Community**: Sentiment analysis
+- **Technology** :  Security and completeness review
+- **Market and Competitiveness**:  SWOT analysis
+- **Business Models** : Structural and legal analysis
 
 An overall score, formed as a result of the individual ratings, will serve as the mathematical input for the Risk Model. The score, judged against other assets in the portfolio, will be the adjustment factor to the risk parameters of that token.
 
