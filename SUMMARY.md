@@ -110,8 +110,8 @@
     - [稳定费用](faqs/zh/stability-fee.md)
     - [清算](faqs/zh/liquidation.md)
     - [治理](faqs/zh/governance.md)
-  - [Risk](risk/README.md)
-    - [Collateral Onboarding Guide](risk/collateral-onboarding-guide.md)
-    - [Collateral Onboarding Guide - Español](risk/collateral-onboarding-guide-es.md)
+- [Risk](risk/README.md)
+  - [Collateral Onboarding Guide](risk/collateral-onboarding-guide.md)
+  - [Collateral Onboarding Guide - Español](risk/collateral-onboarding-guide-es.md)
 - Contributing
   - [Style Guide](contributing/style-guide.md)
