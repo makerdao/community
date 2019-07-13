@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Community Development at MakerDAO](README.md)
+- [Community Development at Maker](README.md)
 - [Community Meetup Grants](meetups/README.md)
   - [Getting Started Guide](meetups/getting-started-guide.md)
   - [Event Formats Guide](meetups/event-formats-guide.md)
