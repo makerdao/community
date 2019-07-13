@@ -55,7 +55,7 @@
   - [Grantee Playbook](grants/grantee-playbook.md)
 - [Hackathons and Bounties](hackathons/README.md)
   - [Funding Requirements](hackathons/requirements.md)
-- [MakerDAO FAQs](faqs/README.md)
+- [MakerDAO FAQs](faqs/)
   - [English](faqs/README.md)
     - [Collateral Debt Positions](faqs/cdp.md)
     - [Dai](faqs/dai.md)
