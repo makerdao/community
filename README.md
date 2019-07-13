@@ -1,4 +1,4 @@
-# Community Development at MakerDAO
+# Community Development at Maker
 
 The Community Development group's mandate is to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We do this through a series of initiatives that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform.
 
