@@ -54,6 +54,8 @@
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
 - [Hackathons and Bounties](hackathons/README.md)
+  - [Developer Quickstart Guide](hackathons/developer-quick-start-guide.md)
+  - [Organizer Quickstart Guide](hackathons/organizer-quick-start-guide.md)
   - [Funding Requirements](hackathons/requirements.md)
 - [MakerDAO FAQs](faqs/)
   - [English](faqs/README.md)
@@ -113,5 +115,5 @@
 - [Risk](risk/README.md)
   - [Collateral Onboarding Guide](risk/collateral-onboarding-guide.md)
   - [Collateral Onboarding Guide - Español](risk/collateral-onboarding-guide-es.md)
-- Contributing
+- [Contributing](contributing/README.md)
   - [Style Guide](contributing/style-guide.md)
