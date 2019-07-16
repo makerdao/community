@@ -254,10 +254,9 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 
 1. Please link to the whitepaper and/or pitch deck related to the token.
 2. Please link to the most updated roadmap for your project.
-3. Please link to the Github of your project.
-4. How many employees and contractors does your project have?
-5. What is the monthly burn rate?
-6. What is the strategy for treasury management?
+3. How many employees and contractors does your project have?
+4. What is the monthly burn rate?
+5. What is the strategy for treasury management?
 
 #### Markets
 
