@@ -10,8 +10,6 @@ MakerDAO is a complex system, with many parts. A curated list of developer resou
 
 Non-obvious essentials:
 
-- Reusable water bottle
-- Favorite snacks
 - Notebook/scratch paper + pen/pencil
 - The will to live
 - Toothbrush & paste
