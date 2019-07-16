@@ -8,7 +8,7 @@ If you would like to have MakerDAO sponsor your hackathon, please have a look at
 
 Please reach out to us no later than two weeks before the event.
 
-**Priority will be given to hackathons with conservative sponsorship requirements that allow us to create long term relationships and to surface new talent in the MakerDAO community.**
+**Priority will be given to hackathons with very conservative sponsorship requirements, that allow us to create long term relationships with developers, and to promote new talent within the MakerDAO community.**
 
 ## Information we need:
 
