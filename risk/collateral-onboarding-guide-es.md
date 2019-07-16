@@ -254,7 +254,6 @@ Este formulario aún no ha sido aprobado por los titulares de MKR como una plant
 
 1. Por favor, enlace al whitepaper y / o relacionada con el token.
 1. Por favor, enlace a la hoja de ruta más actualizada para su proyecto.
-1. Por favor, enlace al Github de su proyecto.
 1. ¿Cuántos empleados y contratistas tiene su proyecto?
 1. ¿Cuál es la tasa de quema mensual?
 1. ¿Cuál es la estrategia para la gestión de tesorería?
