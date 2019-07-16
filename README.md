@@ -34,6 +34,6 @@ The MakerDAO Community grants program provides funding for projects that increas
 
 MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request our participation in an upcoming event.
 
-### Contributing
+### [Contributing](contributing/README.md)
 
 If you have any suggestions about how you think these initiatives should work, could be improved, or if you are interested in helping out, please join our [#community-development](https://chat.makerdao.com/channel/community-development) channel and introduce yourself.
