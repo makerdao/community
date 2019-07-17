@@ -1,6 +1,6 @@
 # Governance and Risk Meeting Transcripts
 
-- [Episode 43: Jul 14, 2019](governance/governance-and-risk-meetings/transcripts/episode-43.md)
+- [Episode 43: Jul 11, 2019](governance/governance-and-risk-meetings/transcripts/episode-43.md)
 - [Episode 42: Jul 04, 2019](governance/governance-and-risk-meetings/transcripts/episode-42.md)
 - [Episode 41: Jun 27, 2019](governance/governance-and-risk-meetings/transcripts/episode-41.md)
 - [Episode 40: Jun 20, 2019](governance/governance-and-risk-meetings/transcripts/episode-40.md)
