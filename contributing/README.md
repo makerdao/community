@@ -5,17 +5,17 @@ Welcome to the MakerDAO Community Development Contributing Section, a place to p
 ## Project Snapshot
 
 - Be part of the team
-- Help make the community resources better
-- Give us Feedback
+- Help improve community resources
+- Give feedback
 - Grow the MakerDAO community
 
 ## What are we trying to accomplish?
 
-Our goal in the Community Development Group is to give the community all the tools they need to improve the ecosystem. we are working to give community members opportunities to create, update, and maintain a public set of resources useful to the MakerDAO community.
+Our goal in the Community Development Group is to provide members with the tools needed to improve the ecosystem. We are seeking to present opportunities for members to create, update, and maintain MakerDAO's public set of community resources.
 
 ## Project Description
 
-There are many ways you can contribute to the resources found in the MakerDAO community GitHub. Whether it’s creating a translation, producing a new section, correcting grammar and spelling errors, adding questions or answers to our FAQs, you can find the standards for doing so here.
+Community members have no shortage of options when contributing to resources in the MakerDAO community GitHub. Whether translating documents, producing new sections, proofreading for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found here.
 
 ## Is this for me?
 
