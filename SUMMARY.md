@@ -15,7 +15,7 @@
   - [FAQ](translations/faq.md)
 - [Governance](governance/README.md)
   - [Core Foundation Principles](governance/core-principles.md)
-  - [Governance and Risk Framework](governance/governance-and-risk-framework/README.md)
+  - [Governance Risk Framework](governance/governance-and-risk-framework/README.md)
     - [Part One](governance/governance-risk-framework/part-one.md)
     - [Part Two](governance/governance-risk-framework/part-two.md)
     - [Part Three](governance/governance-risk-framework/part-three.md)
