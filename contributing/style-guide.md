@@ -127,7 +127,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 - List items that include definitions should look like this:
   - **Team:** Core team and advisors are critical to MakerDAO's success.
   - **Community**: Sentiment analysis is invaluable.
-- Warp formulas in inline code blocks.
+- Wrap formulas in inline code blocks.
 - The first example defines the terms:
   `(((Total Stability Debt in DAI * (1 + Current Governance Fee in decimal format)) ^ (Age of Stability Debt in days/365)) * Total Stability Debt in DAI ) = Total Governance Debt owed in DAI`
 - The second example contains the numbers and the result:
