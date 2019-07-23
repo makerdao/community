@@ -58,6 +58,7 @@
   - [Developer Quickstart Guide](hackathons/developer-quick-start-guide.md)
   - [Organizer Quickstart Guide](hackathons/organizer-quick-start-guide.md)
   - [Funding Requirements](hackathons/requirements.md)
+  - [FAQ](hackathons/faq.md)
 - [MakerDAO FAQs](faqs/)
   - [English](faqs/README.md)
     - [Collateral Debt Positions](faqs/cdp.md)
@@ -118,3 +119,4 @@
   - [Collateral Onboarding Guide - Español](risk/collateral-onboarding-guide-es.md)
 - [Contributing](contributing/README.md)
   - [Style Guide](contributing/style-guide.md)
+  - [FAQ](contributing/faq.md)
