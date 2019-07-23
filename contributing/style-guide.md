@@ -1,4 +1,4 @@
-# Content Best Practices
+# Style Guide
 
 ## Text, Tone, and Grammar
 
@@ -6,65 +6,68 @@
 
 #### Yes
 
-- Run all your final drafts through Grammarly
-- Use short, concise sentences
-- Use basic language, remove all words that aren't absolutely required
-- Assume user has no knowledge of the system, link to basic terms if needed
-- Use pluralized, gender neutral personal pronouns, "When they...", "If users choose to X, then they're..." instead of "he or she"
-- Use oxford commas
-- Remain objective and open
-- Be concise, people have little time to browse
-- Provide examples when possible, do not complicate them with arbitrarily complex numbers
-- Explain with math when needed, otherwise keep it simple
-- Do not spell out "percent”; use the symbol (e.g., 15% not 15 percent)
+- Run all final drafts through Grammarly.
+- Use short, concise sentences. People have little time to browse.
+- Use basic language. Remove unnecessary words.
+- Assume users are unfamiliar with the system. Link to basic terms when necessary.
+- Use [pluralized, gender-neutral pronouns](https://en.wikipedia.org/wiki/Singular_they). Use “they/their” instead of “he/she/his/hers.” (e.g., “When they…” or “If users choose to X, then their…”)
+- Use [oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
+- Remain open and objective.
+- Provide examples when possible. Do not complicate them with complex numbers.
+- Explain with math when needed; otherwise, keep it simple.
+- Do not spell out "percent.” Use the symbol (e.g., "15%" instead of "15 percent").
+- Use double quotes " " for phrases, quotes, etc.,  not ' '.
 
 #### No
 
-- No exclamation points!!!
-- Speaking directly to the user in tutorials or FAQs. I.e. No: 'You then..', 'Now you should...'
-- No em or en dashes `—`
-- Never refer to Purple Paper names (flip, flap, flop, etc) in the documentation
-- Footnotes
-- Curly quotes `“`, use the plaintext version: `"`
+- Exclamation points.
+- [Second person language](https://en.wikipedia.org/wiki/Grammatical_person) in tutorials or FAQs.
+(i.e., "You then..." or "Now you should...")
+- Em or en dashes `—`.
+- References to Purple Paper names (flip, flap, flop, etc.) in the documentation.
+- Footnotes.
+- Curly quotes `“`. Use the plaintext version: `"`.
 
 ### Numbers
 
-- Spell out numbers below 10 (e.g., one, two, three).
-- Use numerals for numbers above 10, except when they begin a sentence.
-- Use figures with million, billion, and trillion in all except casual uses (e.g., I'd like to make a billion dollars; the nation has 1 million citizens).
+- Spell out numbers below 10 (e.g., one, two, three...).
+- Use numerals for numbers above 10, except when starting a sentence.
+- Use figures with million, billion, and trillion in all except casual uses.
+(e.g., "I'd like to make a billion dollars." vs. "The nation has 1 million citizens.")
 
-### Currency Amounts
+### Currencies
 
 - Dollars: Use lowercase except when writing "US Dollar.”:
-  - Use figures and the \$ sign in all except casual references or amounts without a figure (e.g., the book cost \$4; please give me a dollar).
+  - Use figures and the \"$" sign in all except casual references or amounts without a figure. (e.g., "The book cost \$4." vs. "Please give me a dollar.")
   - For amounts less than \$1 million: \$4, \$25, \$500, \$1,000, \$650,000.
-  - For amounts over \$1 million, use the word not numerals (e.g., He is worth \$4 million NOT He is worth \$4,000,000).
+  - For amounts over \$1 million, use the word, not numerals. (e.g., "He is worth \$4 million" instead of "He is worth \$4,000,000.")
+- Apply the same rules to other foreign currencies.
 
 ### Acronyms
 
-- When making an acronym plural, simply add an "s" (e.g., CDPs).
+- When making acronyms plural, simply add an "s" (e.g., "CDPs").
 
 ### Decades
 
-- Do not use an apostrophe when indicating decades (e.g., the 1990s not the 1990’s).
+- Do not use apostrophes to indicate decades (e.g., "the 1990s" instead of "1990’s").
 
 ## Markdown
 
-> :exclamation: Save yourself some trouble and just use VSCode and install the Prettier extension... It will auto-correct 90% of your markdown mistakes.
+> :exclamation: Save yourself some trouble. Use VSCode and install the Prettier extension. It auto-corrects 90% of your markdown mistakes.
 
 ### Lists
 
-When bulleted and numbered lists contain complete sentences, capitalize the first word and follow each with a period. If list items are phrases, no capitalization and punctuation are needed. Also:
+When bulleted and numbered lists contain complete sentences, capitalize the first word, and follow each with a period. If list items are phrases, no capitalization or punctuation is required. Also:
 
-- Use parallel construction for each item in a list.
-- Start with the same part of speech for each item (in this example, a verb).
+- Use [parallel construction](https://en.wikipedia.org/wiki/Parallelism_(grammar)) for each item in a list.
+- Start with the same [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) for each item (in this example, a verb).
 - Use the same verb tense for each item.
-- Use the same voice (typically active) for each item.
+- Use the same [voice](https://en.wikipedia.org/wiki/Voice_(grammar)) for each item.
 - Use the same sentence type (statement, question, exclamation) for each item.
 - Alphabetize all lists of names unless there is a clear priority at work.
-- Use dashes instead of asterisks for unordered lists. I.e.`-` not `*`.
-- Don't use an ordered (numbered) list unless the order matters.
-- All ordered list items should use the #1 repeated:
+- Use dashes rather than asterisks for unordered lists (i.e. `-` not `*`).
+- Do not use ordered (numbered) lists unless order matters.
+- Ordered list items should use the #1 repeated:
 
   ```markdown
   1. Item 1
@@ -78,37 +81,37 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 - Consider using Visual Studio Code and install:
   - `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`, `Prettier`, `GitLens`
-- Line breaks above and below headings
-- Do not make multiple top level headings. Only use '#' once per document
-- Don't use the same heading twice, it breaks auto-generated navigation
-- No trailing spaces
-- Ensure there is a single hard return at the end of the file
-- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook**
+- Include line breaks above and below headings.
+- Do not make multiple top-level headings. Only use `#` once per document.
+- Do not use the same heading twice. It breaks auto-generated navigation.
+- Do not leave trailing spaces.
+- Ensure there is a single hard return at the end of the file.
+- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook.**
 
 ### File Names
 
-- Filenames contain information specific to the content of the file. Context is provided from the directory or through the presentation layer.
+- Filenames contain information specific to the contents of the file. Context is provided from the directory or through the presentation layer:
   `meeting-summary-ep-01.md`, not `scientific-governance-and-risk-meeting-summary-ep-01.md`
-- All filenames are lowercase and words are separated with `-`
-  - Example: `meeting-transcript-ep-01.md`
+- Filenames are to be lowercase and words separated with `-`.
+  
+  > Example: `meeting-transcript-ep-01.md`
 
 ## GitHub
 
-- Ensure your repository is up to date
-- **Commit early and often.** Get your changes in before you have to do a huge merge.
-- Discuss your efforts in [#community-development](https://chat.makerdao.com/channel/community-development)
-- Ask for feedback before starting a long project
-- Make descriptive commit messages
-
-  - "Fixed something" = Bad
-  - "Fixed spelling mistakes in filename.md" = Good
+- Ensure repositories are up to date.
+- **Commit early and commit often.** Submit changes before large merges.
+- Discuss efforts in [#community-development](https://chat.makerdao.com/channel/community-development).
+- Ask for feedback before starting long projects.
+- Make descriptive commit messages:
+  - Incorrect: "Fixed something"
+  - Correct: "Fixed spelling mistakes in filename.md"
 
 ## Links
 
-- Use descriptive hyperlinks
+- Use descriptive hyperlinks:
   - **No:** Learn more [here](link).
-  - **Yes:** Learn more at [awesome-makerdao](link)
-- When creating links for parallel translated documents, always make sure to update the relative links to reflect the correct heading.
+  - **Yes:** Learn more at [awesome-makerdao](link).
+- When creating links for parallel translated documents, ensure relative links are updated to reflect the correct heading:
 
   ```text
   en: faqs/cdp.md#what-are-collateralized-debt-positions
@@ -118,18 +121,18 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 ## FAQ Style Guide
 
-- Always use relative links
-- Look for terms to add to the [Glossary](../faqs/glossary.md)
-- Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt"
+- Always use relative links.
+- Look for terms to add to the [Glossary](../faqs/glossary.md).
+- Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt."
 - List items that include definitions should look like this:
-  - **Team:** Core team and advisors.
-  - **Community**: Sentiment analysis.
-- Formulas should be wrapped in inline code blocks
-- First example defines the terms:
+  - **Team:** Core team and advisors are critical to MakerDAO's success.
+  - **Community**: Sentiment analysis is invaluable.
+- Warp formulas in inline code blocks.
+- The first example defines the terms:
   `(((Total Stability Debt in DAI * (1 + Current Governance Fee in decimal format)) ^ (Age of Stability Debt in days/365)) * Total Stability Debt in DAI ) = Total Governance Debt owed in DAI`
-- Second example contains the numbers and the result:
+- The second example contains the numbers and the result:
   `(1000 * (1 + 0.005) ^ (30÷365)) * 1000 = 0.410018954 DAI`
-- Examples, tips, tricks and notes should be wrapped in code fencing when formatting needs to be preserved or color coding is useful.
+- Wrap examples, tips, tricks, and notes in code fencing when formatting needs to be preserved or color-coding is useful.
 
   ```markdown
   Note: Liquidation is bad. Don't be liquidated.
@@ -141,20 +144,20 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 ### Complex Topics
 
-- Include parameters for reference
+- Include parameters for reference:
 
   | CDP Settings              | Value |
   | ------------------------- | ----- |
   | MKR Price via Oracle Feed | 100   |
   | ETH Price via Oracle Feed | 200   |
 
-- Provide an easy-to-follow example or a user story
-- Add example formulas where they further the discussion and/or for advanced topics
+- Provide a user story or an easy-to-follow example.
+- Add example formulas for advanced topics and/or if they further discussion.
 
 ### Sample Values
 
-- Use the same values for system Globals and Risk Parameters in all examples. This lowers the cognitive load required to parse the numbers
-- These are the defaults, copy and paste from here:
+- Use the same values for system Globals and Risk Parameters in all examples. This lowers the cognitive load required to parse numbers.
+- These are the default values. Copy and paste from below:
 
   | CDP Settings                  | Value |
   | ----------------------------- | ----- |
@@ -171,5 +174,6 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 ### Tokens
 
-- If you are directly referring to the creation, destruction, manipulation of the token (particularly as it relates to tooling) use the capitalized TLA version: `DAI`. In the same manner you would refer to an exchange pair, `DAI/ETH`
-- If you are referencing it as a currency, in an instructional or conversational setting, or as a conceptual product of the foundation or its systems, it should be `Dai`.
+- If directly referring to the creation, destruction, or manipulation of the token (particularly as it relates to tooling), use the capitalized TLA version: `DAI`.
+In the same manner, refer to exchange pairs: `DAI/ETH`.
+- If referencing it as a currency, in an instructional or conversational setting, or as a conceptual product of the foundation or its systems, use: `Dai`.
