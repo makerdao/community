@@ -26,7 +26,9 @@ Community members have no shortage of options when contributing to resources in 
 
 ## How do I get involved?
 
-It all depends on where you want to contribute:
+First, get familiar with the [style guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md).
+
+Next, decide where you want to contribute:
 
 - [Translate MakerDAO resources](/translations/README.md)
 - [Improve our Meetup guides](/meetups/README.md)
