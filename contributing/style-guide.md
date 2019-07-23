@@ -108,7 +108,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 
 ## Links
 
-- Use descriptive hyperlinks:
+- Use descriptive hyperlinks. Avoid generic terms:
   - **No:** Learn more [here](link).
   - **Yes:** Learn more at [awesome-makerdao](link).
 - When creating links for parallel translated documents, ensure relative links are updated to reflect the correct heading:
