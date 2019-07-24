@@ -59,10 +59,10 @@
 
 When bulleted and numbered lists contain complete sentences, capitalize the first word, and follow each with a period. If list items are phrases, no capitalization or punctuation is required. Also:
 
-- Use [parallel construction](https://en.wikipedia.org/wiki/Parallelism_(grammar)) for each item in a list.
+- Use [parallel construction](https://en.wikipedia.org/wiki/Parallelism_\(grammar\)) for each item in a list.
 - Start with the same [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) for each item (in this example, a verb).
 - Use the same verb tense for each item.
-- Use the same [voice](https://en.wikipedia.org/wiki/Voice_(grammar)) for each item.
+- Use the same [voice](https://en.wikipedia.org/wiki/Voice_\(grammar\)) for each item.
 - Use the same sentence type (statement, question, exclamation) for each item.
 - Alphabetize all lists of names unless there is a clear priority at work.
 - Use dashes rather than asterisks for unordered lists (i.e. `-` not `*`).
