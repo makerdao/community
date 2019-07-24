@@ -52,6 +52,7 @@
       - [Episode 25: Mar 07, 2019](governance/governance-and-risk-meetings/transcripts/episode-25.md)
       - [Episode 24: Feb 28, 2019](governance/governance-and-risk-meetings/transcripts/episode-24.md)
       - [Episode 23: Feb 21, 2019](governance/governance-and-risk-meetings/transcripts/episode-23.md)
+  - [FAQ](faqs/governance.md)
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
 - [Hackathons and Bounties](hackathons/README.md)
