@@ -15,7 +15,7 @@ The Community Development Group's goal is to provide members with the tools need
 
 ## Project Description
 
-Community members have numerous options when contributing to resources in the MakerDAO community GitHub. Whether translating documents, producing new sections, proofreading for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found in the [style-guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md).
+Community members have numerous options when contributing to resources in the MakerDAO community GitHub. Whether translating documents, producing new sections, proofreading for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found in the [style-guide](./style-guide.md).
 
 ## Is this for me?
 
@@ -26,7 +26,7 @@ Community members have numerous options when contributing to resources in the Ma
 
 ## How do I get involved?
 
-Get familiar with the [style guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md). 
+Get familiar with the [style guide](./style-guide.md). 
 
 Then, decide where you want to contribute:
 
