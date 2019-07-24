@@ -7,7 +7,7 @@ MakerDAO has several community-driven programs and resources members are welcome
 - [Translate MakerDAO resources](/translations/README.md)
 - [Improve our Meetup guides](/meetups/README.md)
 - [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md)
-- [MakerDAO: Help Wanted](https://forum.makerdao.com/c/comm-dev/help-wanted)
+- [The Forum's Help Wanted Section](https://forum.makerdao.com/c/comm-dev/help-wanted)
 
 Alternatively, visit the [Community Development project board on GitHub](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22). Browse through `Issues` marked with the `Help Wanted` label for other ways to contribute. Address outstanding issues to help solve problems and complete tasks other members may be stuck on.
 
