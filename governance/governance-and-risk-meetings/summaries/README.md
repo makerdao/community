@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 45: Jul 25, 2019](governance/governance-and-risk-meetings/summaries/episode-45.md)
 - [Episode 44: Jul 18, 2019](governance/governance-and-risk-meetings/summaries/episode-44.md)
 - [Episode 43: Jul 11, 2019](governance/governance-and-risk-meetings/summaries/episode-43.md)
 - [Episode 42: Jul 04, 2019](governance/governance-and-risk-meetings/summaries/episode-42.md)
