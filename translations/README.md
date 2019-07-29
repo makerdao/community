@@ -1,6 +1,6 @@
 # Translations Initiative
 
-Welcome to the MakerDAO Translations Initiative: A place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
+Welcome to the MakerDAO Translations Initiative, a place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
 
 ## Project Snapshot
 
@@ -10,11 +10,11 @@ Welcome to the MakerDAO Translations Initiative: A place where community members
 
 ## What are we trying to accomplish?
 
-MakerDAO is an inherently global platform, which facilitates the creation of Dai. As MakerDAO and Dai spread across the world, our focus is on creating universally accessible resources. With inclusivity as a foundational part of our culture, our goal is to translate our current resources into as many languages as possible. Through the Translations Initiative, we are working to grant wider audience access to materials about MakerDAO in their native languages.
+MakerDAO is an inherently global platform, which facilitates the creation of Dai. As MakerDAO and Dai spread across the world, our focus is on creating universally accessible resources. With inclusivity as a foundational part of our culture, our goal is to translate our current resources into as many languages as possible. Through the Translations Initiative, we are working to grant wider audiences access to materials about MakerDAO in their native languages.
 
 ## Project Description
 
-This is a community-lead initiative that uses Dai bounties to incentivize users to translate MakerDAO resources to their native languages.
+This is a community-led initiative that uses Dai bounties to incentivize users to translate MakerDAO resources to their native languages.
 
 ## Is this for me?
 
