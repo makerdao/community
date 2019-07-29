@@ -32,7 +32,7 @@ Oddane głosy są ważone liczbą tokenów MKR przypadających na daną propozyc
 
 ## Czy istnieje więcej niż jeden typ głosowań?
 
-Istnieją dwa różne typy głosowań w Systemie Zarządzania Makera – **Ankiety Zarządcze** (*Governance Polls*) oraz **Głosowania Wykonawcze** (*Executive Votes*).
+Istnieją dwa różne typy głosowań w Systemie Zarządzania Makera – **Ankiety Zarządcze** (_Governance Polls_) oraz **Głosowania Wykonawcze** (_Executive Votes_).
 
 Ankiety Zarządcze używane są w celu ustanowienia „miękkiego konsensusu” w kluczowych kwestiach oraz do oceny nastrojów wobec potencjalnych propozycji Głosowań Wykonawczych. Głosowania te pomagają ustalić, w jakim stopniu społeczność zgadza się z ogólnym kierunkiem zarządzania.
 
@@ -42,7 +42,7 @@ Głosowania Wykonawcze wprowadzają zmiany do systemu w formie dodawania bądź 
 
 Dzięki Ankietom Zarządczym, posiadacze tokenów MKR będą w stanie poszukać „miękkiego konsensusu” w prawie dowolnej kwestii. Pierwszym przykładem na to była [propozycja Fundacji](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), która ustanowiła pięć zasad leżących u podstaw MakerDAO.
 
-Dzięki procesowi Głosowania Wykonawczego, posiadacze MKR poddają głosowaniu bezpośrednio zmiany dotyczące Systemu Kredytowego Dai. Przykłady obejmują dodawanie nowych rodzaj zabezpieczeń finansowych oraz modyfikowanie Parametrów Ryzyka. Te parametry to Współczynnik Likwidacji, Pułap Zadłużenia, Kara Likwidacyjna oraz Opłata Stabilizacyjna. Parametry Ryzyka są rekomendowane na bazie ocen przeprowadzanych przez rozmaite Zespoły Ryzyka, niezależnie  dla każdego rodzaju zabezpieczenia finansowego. Posiadacze tokena MKR uwzględniają te oceny ryzyka podczas głosowania za zmianami.
+Dzięki procesowi Głosowania Wykonawczego, posiadacze MKR poddają głosowaniu bezpośrednio zmiany dotyczące Systemu Kredytowego Dai. Przykłady obejmują dodawanie nowych rodzaj zabezpieczeń finansowych oraz modyfikowanie Parametrów Ryzyka. Te parametry to Współczynnik Likwidacji, Pułap Zadłużenia, Kara Likwidacyjna oraz Opłata Stabilizacyjna. Parametry Ryzyka są rekomendowane na bazie ocen przeprowadzanych przez rozmaite Zespoły Ryzyka, niezależnie dla każdego rodzaju zabezpieczenia finansowego. Posiadacze tokena MKR uwzględniają te oceny ryzyka podczas głosowania za zmianami.
 
 Posiadacze tokenów MKR głosują również nad wydatkami operacyjnymi na rzecz systemu, które są finansowane częściowo z ogólnosystemowych Opłat Stabilnościowych. Oznacza to, że w przyszłości będą oni w stanie ustalić [Stopę Oszczędności Dai](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf), a także decydować o przeznaczeniu części Opłat Stabilizacyjnych na rzecz osób świadczących usługi niezbędne do funkcjonowania systemu takich jak dostarczyciele wyroczni, deweloperzy, Zespoły Ryzyka itd.
 
@@ -64,7 +64,7 @@ Głosowanie Wykonawcze może odbyć się w dowolnym momencie. Rezultaty Głosowa
 
 ## Czym jest Głosowanie Ciągłej Aprobaty?
 
-Posiadacze tokenów MKR mają za zadanie dbać o kondycję systemu oraz o utrzymywanie  powiązania Dai z dolarem. Muszą jednocześnieć chronić system przed wszelkimi propozycjami, które wydają się sprzeczne z tym celem.
+Posiadacze tokenów MKR mają za zadanie dbać o kondycję systemu oraz o utrzymywanie powiązania Dai z dolarem. Muszą jednocześnieć chronić system przed wszelkimi propozycjami, które wydają się sprzeczne z tym celem.
 
 Jeśli pojawi się korzystna propozycja, a posiadacze MKR tę wartość dostrzegą, wówczas większość tokenów powinna zostać przerzucona na tą właśnie propozycję, która stanie się częścią nowego stanu systemu.
 
@@ -92,7 +92,7 @@ Użytkownicy mogą zdecydować się głosować wyłącznie przy użyciu swojego 
 
 Mechanizm głosowania w procesie Ankiety Zarządczej ma charakter ograniczony czasowo, podczas gdy Głosowanie Wykonawcze ma charakter ciągły i odbywa się poprzez system Głosowania Ciągłej Aprobaty. Kontrakt pośrednictwa pozwala posiadaczom MKR na łatwe oddawanie głosów w Ankietach Zarządczych oraz Głosowaniach Wykonawczych poprzez gorące portfele, podczas gdy fundusze pozostają bezpieczne i mogą być wypłacone wyłącznie do zimnego portfela.
 
-## Czym jest kontrakt pośrednictwa (*proxy contract*)?
+## Czym jest kontrakt pośrednictwa (_proxy contract_)?
 
 Kontrakt pośredniczący to inteligentny kontrakt, który akceptuje szereg transakcji w taki sposób, że wszystkie muszą zostać zrealizowane pomyślnie lub, jeśli którakolwiek z nich się nie powiedzie, nie zostanie zrealizowana żadna z nich. Oznacza to, że wystarczy podpisać tylko jedną transakcje w celu wykonania szeregu kroków.
 
@@ -117,8 +117,8 @@ Ustanowienie kontraktu do głosowania wymaga czterech transakcji zużywających 
 Konieczne są cztery transakcje w celu ustanowienia kontraktu do głosowania.
 
 1. **Initiate link**: Pierwszym krokiem jest wskazanie, którego portfela chcemy używać jako gorącego portfela. Transakcja ta nazywana jest „Inicjacją połączenia” i musi wyjść z Twojego zimnego portfela. Transakcja to ma na celu udowodnienie kontroli nad zimnym portfelem oraz określenie, który portfel będzie używany jako gorący portfel.
-2. **Approve link**:  Następnie czas na określenie oraz udowodnienie kontroli nad gorącym portfelem i utworzenie połączenia pomiędzy dwoma portfelami poprzez transakcję „Zatwierdź połączenie”. To działanie utworzy też spersonalizowany kontrakt do głosowania, który może być używany do oddawania głosów.
-3. **Approve MKR transfer**:  Gdy połączenie pomiędzy zimnym i gorącym portfelem zostanie ustanowione, musisz zatwierdzić przesłanie tokenów MKR do kontraktu do głosowania.
+2. **Approve link**: Następnie czas na określenie oraz udowodnienie kontroli nad gorącym portfelem i utworzenie połączenia pomiędzy dwoma portfelami poprzez transakcję „Zatwierdź połączenie”. To działanie utworzy też spersonalizowany kontrakt do głosowania, który może być używany do oddawania głosów.
+3. **Approve MKR transfer**: Gdy połączenie pomiędzy zimnym i gorącym portfelem zostanie ustanowione, musisz zatwierdzić przesłanie tokenów MKR do kontraktu do głosowania.
 4. **Lock MKR**: Ostatnim krokiem jest transfer MKR do kontraktu systemu do głosowania w celu ustalenia wagi Twojego głosu. Ten krok może być powtarzany w dowolnym momencie w celu doładowania dodatkowymi MKR.
 
 Po ukończeniu tych kroków możesz brać udział zarówno w Ankietach Zarządczych, jak i Głosowaniach Wykonawczych.

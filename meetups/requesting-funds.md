@@ -13,6 +13,10 @@ If your Community Meetup Form is accepted, the following are required:
   - **Grantees who do not fill out this form will not be eligible for future funding**.
 - If you are planning to charge an entry fee please disclose the amount you anticipate collecting in the "additional notes" section of the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek).
   - Please write the actual amount collected in the [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l).
+  - Please speak briefly about Community Development at MakerDAO to the attendees of your event:
+    - Direct people to the [Community Development Portal](https://community-development.makerdao.com/)
+    - Mention that we have several initiatives for people who want to contribute to MakerDAO
+    - Mention that we award Dai bounties varying by the type of contribution.
 
 ## Who should apply for a microgrant?
 
@@ -22,3 +26,7 @@ The Community Development Group has allocated funds to help members of our commu
 
 - If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
 - We do not fund alcohol/bar tabs or airdrops of Dai or xDai.
+
+## Support
+
+Reach out to meetups@makerdao.com with any questions or feedback you might have.

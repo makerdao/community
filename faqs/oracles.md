@@ -30,8 +30,8 @@ A very small number of people within the Maker Foundation know who all the curre
 
 The ETH reference price is published by the Medianizer contract which is given prices by [14 price-feed providers](https://mkr.tools/system/feeds). Each feed provider sends an update to the Medianizer when:
 
-1. Source price differs from the most recently submitted price by more than a predefined amount \(currently between 1% and 2% depending on the feed provider\)
-2. The last price update was more than t hours ago \(configured by each individual feed provider\).
+- Source price differs from the most recently submitted price by more than a predefined amount \(currently between 1% and 2% depending on the feed provider\)
+- The last price update was more than t hours ago \(configured by each individual feed provider\).
 
 Each price-feed provider uses a tool called [Setzer](https://github.com/makerdao/setzer) which pulls the median price from a set of exchanges and then pushes it to the Medianizer. The Medianizer then takes the median of the reported price-feed medians. Price-feed providers may configure Setzer to pull from any exchanges of their choosing.
 

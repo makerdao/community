@@ -4,7 +4,7 @@
 
 MakerDAO is a decentralized organization dedicated to bringing stability to the crypto economy. The MKR token holders are the decision makers in the DAO, supported by the larger public community of keepers, stakeholders, and various other interested parties. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment; allowing everyone equal access to the global financial marketplace. MakerDAO is a credit facility that issues [Dai](./dai.md#what-is-dai)\(⬙\), the world's first stable decentralized digital cash.
 
-## Who Started MakerDAO and When?
+## Who started MakerDAO and when?
 
 The idea of MakerDAO became public on March 26th, 2015 with Rune Christensen's post, [Introducing eDollar, the ultimate stablecoin built on Ethereum](https://www.reddit.com/r/ethereum/comments/30f98i/introducing_edollar_the_ultimate_stablecoin_built/), on the r/ethereum subreddit.
 
@@ -34,9 +34,9 @@ The Maker Foundation currently exists in order to bootstrap MakerDAO. Over time,
 
 The primary areas of focus are:
 
-1. **System development:** completing the infrastructure for Multi-Collateral Dai, incorporating certain governance elements, onboarding synthetic assets, supporting the governance user interface, incorporating leveraged tokens, and running the Maker Community Foundation, while overseeing the gradual move towards full decentralization.
-2. **Oasis:** A reimagined and rebuilt Oasis will be a flagship regulated product supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets backing Dai, including security tokens, while conveniently accessing CDP features for all of these assets.
-3. **Informational equilibriums with the Maker Community:** The Foundation is going to contribute information from our proprietary trading desk and internal research team to educate market makers and MKR holders about day-to-day activity in Dai markets. This step is mission critical for two reasons: one, we want other actors, specifically MKR holders, to see important trends that may foreshadow the need for MKR votes; and two, we want our team to be one voice, among many, providing reliable market information to the Maker Community.
+- **System development:** completing the infrastructure for Multi-Collateral Dai, incorporating certain governance elements, onboarding synthetic assets, supporting the governance user interface, incorporating leveraged tokens, and running the Maker Community Foundation, while overseeing the gradual move towards full decentralization.
+- **Oasis:** A reimagined and rebuilt Oasis will be a flagship regulated product supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets backing Dai, including security tokens, while conveniently accessing CDP features for all of these assets.
+- **Informational equilibriums with the Maker Community:** The Foundation is going to contribute information from our proprietary trading desk and internal research team to educate market makers and MKR holders about day-to-day activity in Dai markets. This step is mission critical for two reasons: one, we want other actors, specifically MKR holders, to see important trends that may foreshadow the need for MKR votes; and two, we want our team to be one voice, among many, providing reliable market information to the Maker Community.
 
 ## What is the Maker Community Foundation?
 

@@ -28,7 +28,7 @@ Zdecentralizowana cyfrowa ekonomia potrzebuje stabilności, by móc funkcjonowa�
 
 ## Czy dai zawsze jest warte dokładnie jednego dolara?
 
-Nie. Dai nie jest walutą powiązaną na sztywno (tzw. *hard-peg*), więc jej wartość nie śledzi w idealny sposób wartości już istniejącej waluty fiducjarnej. Dai charakteryzuje się swobodnym powiązaniem (tzw. *free-floating peg*) o stosunkowo niskiej zmienności cenowej w porównaniu z pozostałymi kryptowalutami. Co ważne, w przypadku Wyłączenia Awaryjnego (*Emergency Shutdown*) systemu, dai jest wymienialne na dokładnie 1 USD wartości zabezpieczenia finansowego zgodnie z cenami określonymi przez wyrocznie w momencie Wyłączenia Awaryjnego.
+Nie. Dai nie jest walutą powiązaną na sztywno (tzw. _hard-peg_), więc jej wartość nie śledzi w idealny sposób wartości już istniejącej waluty fiducjarnej. Dai charakteryzuje się swobodnym powiązaniem (tzw. _free-floating peg_) o stosunkowo niskiej zmienności cenowej w porównaniu z pozostałymi kryptowalutami. Co ważne, w przypadku Wyłączenia Awaryjnego (_Emergency Shutdown_) systemu, dai jest wymienialne na dokładnie 1 USD wartości zabezpieczenia finansowego zgodnie z cenami określonymi przez wyrocznie w momencie Wyłączenia Awaryjnego.
 
 ## Skąd bierze się dai?
 
@@ -64,7 +64,7 @@ Tworzyć DAI możesz jedynie poprzez generowanie ich w oparciu o zabezpieczenie 
 
 ## Gdzie mogę kupić dai?
 
-Token DAI może być nabyty poprzez szereg scentralizowanych oraz zdecentralizowanych [giełd](https://coinmarketcap.com/currencies/dai/#markets). W repozytorium  [Niesamowitego-MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) zamieszczona jest lista rynków, na których można dokonywać transakcji w dai.
+Token DAI może być nabyty poprzez szereg scentralizowanych oraz zdecentralizowanych [giełd](https://coinmarketcap.com/currencies/dai/#markets). W repozytorium [Niesamowitego-MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) zamieszczona jest lista rynków, na których można dokonywać transakcji w dai.
 
 ## Gdzie mogę zobaczyć wartość zabezpieczenia finansowego, na którym zbudowane jest DAI?
 
