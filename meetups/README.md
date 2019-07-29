@@ -1,6 +1,6 @@
 # DIY Community Meetups
 
-Welcome to Do It Yourself Community Meetups: A place where you can find all the resources you need to host your very own meetup.
+Welcome to Do It Yourself Community Meetups, a place where you can find all the resources you need to host your very own meetup.
 
 ## Project Snapshot
 
@@ -12,9 +12,9 @@ Welcome to Do It Yourself Community Meetups: A place where you can find all the 
 
 Maker is only as strong as its community. By hosting a meetup in your area, you can help develop a local community that is passionate about Dai and the ecosystem that is being built around it. Through the meetups project, we seek to:
 
-1. Give the Maker community the resources they need to organize successful meetups.
-1. Develop a grassroots movement that educates, inspires, and grows the Maker ecosystem and community.
-1. Encourage local Maker communities to collaborate on projects on top of the Maker Protocol and Dai.
+- Give the Maker community the resources they need to organize successful meetups
+- Develop a grassroots movement that educates, inspires, and grows the Maker ecosystem and community
+- Encourage local Maker communities to collaborate on projects on top of the Maker Protocol and Dai
 
 ## Project Description
 
@@ -28,16 +28,18 @@ Additionally, we're working with the community to actively develop a collection 
 
 Do you enjoy hosting events and bringing people together? We're eager to support people who want to build the Maker community together in their city.
 
-- Passionate about MakerDAO and Dai.
-- Access to a community of people.
-- Ability to organize and host an event.
+### I...
+
+- Am passionate about MakerDAO and Dai
+- Have access to a community of people
+- Am ability to organize and host an event
 
 ### Contribute to the Hosting Guides
 
 Not in a position to host? No problem. We're constantly looking to improve the quality of our Hosting Guides.
 
-- Prior hosting experience a plus, but not necessary.
-- Experience writing or editing.
+- Prior hosting experience is a plus, but not necessary
+- Experience in writing or editing is recommended
 
 ## How do I get involved?
 
