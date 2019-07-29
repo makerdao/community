@@ -2,13 +2,13 @@
 
 ## What is Liquidation?
 
-A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CPD's collateral \(as judged by the Oracles\) is worth less than the required collateralization for the asset class. During the Liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.
+A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CDP's collateral \(as judged by the Oracles\) is worth less than the required collateralization for the asset class. During the Liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.
 
 ## Why does Liquidation exist?
 
 Unlike most types of fiat, which hold value only by government decree, Dai is a modern and cryptographically secure incarnation of _representative currency_; all circulating Dai is backed by a surplus of collateral tokens stored in smart contracts, ensuring trustlessness and eliminating counterparty risk. It is this complete transparency that maintains user confidence in the system.
 
-## Who triggers liqudiation?
+## Who triggers Liquidation?
 
 To make sure that the required surplus of collateral exists at all times, a class of users called Keepers are charged with maintaining a constant watch for CDPs that become unsafe or under-collateralized. These Keepers are a special category of the Dai Stablecoin System users. They are the actors in the system who are incentivized to make sure that the outstanding Dai supply remains fully collateralized and solvent. They help maintain the health of the entire ecosystem by ensuring that unsafe CDPs are offered up for Liquidation as quickly as possible. This is particularly important during rapid market downturns as the collateral value could fail to satisfy debt obligations.
 
@@ -18,7 +18,7 @@ Each collateral type has a Liquidation Ratio, which is determined based on the r
 
 A decentralized Oracle Feed provides the system with pricing data for ETH to calculate when the Collateralization Ratio for a specific CDP falls below Liquidation Ratio. This combination of Risk Profile and the Market Price as determined by the Oracle Feed is what defines the Liquidation Ratio.
 
-For example, a user wants to draw 200 DAI and thinks the value of the collateral will not drop below 50% of its current market price. The user decides to stake at least double the minimum collateralization threshold. Since the minimum collateralization is 150%, the user deposits $600 of ETH and draws 200 DAI, leaving their CDP at 300% collateralization.
+For example, a user wants to draw 200 DAI and thinks the value of the collateral will not drop below 50% of its current market price. The user decides to stake at least double the minimum collateralization threshold. Since the minimum collateralization is 150%, the user deposits \$600 of ETH and draws 200 DAI, leaving their CDP at 300% collateralization.
 
 **It is important to remember that 150% is the lowest point at which an ether based CDP can be collateralized before being made available for Liquidation by the Keepers.** Staying above that minimum level prevents a user's collateral from being Liquidated.
 
@@ -38,14 +38,14 @@ Liquidation occurs when a Keeper closes a CDP and sends it to the Liquidity Prov
 
 The order of operations looks like this:
 
-* The defaulted CDP is closed.
-* The Penalty Fee is applied to the DAI debt.
-* The LPC removes enough PETH collateral to satisfy the debt at current Oracle Prices.
-* The CDP owner is now able to remove their remaining collateral from the closed position.
-* The seized PETH is offered for sale at [dai.makerdao.com](http://dai.makerdao.com) with an incentivizing discount, called the [Boom/Bust Spread](glossary.md#boombust-spread), applied to the value.
-* The DAI earned from the sale of PETH is burned to wipe out the CDP debt.
-* If there is excess DAI from the sale, it is sold for PETH which is then burned, inflating the value of the remaining PETH.
-* If there is insufficient DAI from the sale, then PETH is issued and offered for sale to cover the shortfall. This dilutes the total value of the pool.
+- The defaulted CDP is closed.
+- The Penalty Fee is applied to the DAI debt.
+- The LPC removes enough PETH collateral to satisfy the debt at current Oracle Prices.
+- The CDP owner is now able to remove their remaining collateral from the closed position.
+- The seized PETH is offered for sale at [dai.makerdao.com](http://dai.makerdao.com) with an incentivizing discount, called the [Boom/Bust Spread](glossary.md#boombust-spread), applied to the value.
+- The DAI earned from the sale of PETH is burned to wipe out the CDP debt.
+- If there is excess DAI from the sale, it is sold for PETH which is then burned, inflating the value of the remaining PETH.
+- If there is insufficient DAI from the sale, then PETH is issued and offered for sale to cover the shortfall. This dilutes the total value of the pool.
 
 ## How much collateral is left after a Liquidation?
 
@@ -55,11 +55,11 @@ To determine how much collateral you would possess after a Liquidation you can u
 
 Assuming:
 
-* The Oracle Price of one ETH is 350USD
-* The total Locked PETH is 10 ETH
-* The ratio of PETH/ETH is 1.012
-* The Liquidation Penalty is 13%
-* The CDP has a Stability Debt of 1000 DAI
+- The Oracle Price of one ETH is 350USD
+- The total Locked PETH is 10 ETH
+- The ratio of PETH/ETH is 1.012
+- The Liquidation Penalty is 13%
+- The CDP has a Stability Debt of 1000 DAI
 
 `(10 × 350 × 1.012) − (13% × 1000) − 1000 = 2412 DAI or 6.891428571 ETH`
 
@@ -71,11 +71,11 @@ You can use the following simplified formula to determine how far the value of y
 
 Given that:
 
-* The value of one ETH is 350USD
-* The total staked PETH is 12
-* The ratio of PETH/ETH is 1.012
-* The Liquidation Ratio is 150%
-* The Stability Debt is 1000 DAI
+- The value of one ETH is 350USD
+- The total staked PETH is 12
+- The ratio of PETH/ETH is 1.012
+- The Liquidation Ratio is 150%
+- The Stability Debt is 1000 DAI
 
 `(1000 × 1.5) ÷ (12 × 1.012) = 123.51 USD`
 
@@ -89,10 +89,10 @@ If you would prefer to determine the health of your position by looking at a rat
 
 Given that:
 
-* The value of one ETH is 350USD
-* The total staked PETH is 12
-* The ratio of PETH/ETH is 1.012
-* The Stability Debt is 1000 DAI
+- The value of one ETH is 350USD
+- The total staked PETH is 12
+- The ratio of PETH/ETH is 1.012
+- The Stability Debt is 1000 DAI
 
 `(12 × 350 × 1.012) ÷ 1000 × 100 = 425.04%`
 
@@ -108,11 +108,11 @@ The best way to lower your risk of Liquidation is to repay DAI, as your Liquidat
 
 Assuming:
 
-* The value of one ETH is 350USD
-* The total staked PETH is 12
-* The ratio of PETH/ETH is 1.012
-* The Liquidation Ratio is 150%
-* The Stability Debt is 1000 DAI
+- The value of one ETH is 350USD
+- The total staked PETH is 12
+- The ratio of PETH/ETH is 1.012
+- The Liquidation Ratio is 150%
+- The Stability Debt is 1000 DAI
 
 Current Liquidation Price:
 
@@ -132,10 +132,10 @@ We can see that the Liquidation Price is significantly reduced by returning DAI 
 
 Remaining aware of the health of your CDP is **your responsibility**. Ensuring that assets remain safe from Liquidation is entirely in the hands of each CDP user. Below are some common practices to monitor the health of a CDP.
 
-* Set up price alerts in your favorite app, or multiple apps, so you are not surprised by market events.
-* Make sure you have access to the sideline assets that will be used to manage your CDP. You do not want to be stuck without access during a market crash.
-* Ensure you have sufficient assets available on the sidelines that can be used to top up your position through the addition of more collateral, or sale of those assets for DAI to pay down your debt.
-* If you believe the market may be taking a sustained downturn, you can draw excess collateral from your CDP that you can sell for DAI which you can then use to pay down your debt. _Make sure that you maintain a safe distance from your Liquidation Price, as this tactic will temporarily put you in a riskier position until you wipe your debt with Dai._
+- Set up price alerts in your favorite app, or multiple apps, so you are not surprised by market events.
+- Make sure you have access to the sideline assets that will be used to manage your CDP. You do not want to be stuck without access during a market crash.
+- Ensure you have sufficient assets available on the sidelines that can be used to top up your position through the addition of more collateral, or sale of those assets for DAI to pay down your debt.
+- If you believe the market may be taking a sustained downturn, you can draw excess collateral from your CDP that you can sell for DAI which you can then use to pay down your debt. _Make sure that you maintain a safe distance from your Liquidation Price, as this tactic will temporarily put you in a riskier position until you wipe your debt with Dai._
 
 Remember that opening a CDP represents the creation of risk. How much risk you are willing to take on is dependent on multiple factors. Determining what your [risk profile](https://www.investopedia.com/terms/r/risk-profile.asp) looks like is a science in itself, but something every CDP user has to figure out for themselves.
 
@@ -155,11 +155,11 @@ On the DAI dashboard, there is a section entitled "Total Liquidity Available fro
 
 A flash crash on a single exchange will not affect the system as each Oracle aggregates prices from many exchanges. Once collected, the medianizer calculates the median of these individual feeds. You can see a graph of all the individual oracles at [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds).
 
-* Detailed information: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
-* Feeds code: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
-* Medianizer code: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
-* Updater code: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
-* Feeds Monitoring: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
+- Detailed information: [https://developer.makerdao.com/feeds/](https://developer.makerdao.com/feeds/)
+- Feeds code: [https://github.com/makerdao/price-feed](https://github.com/makerdao/price-feed)
+- Medianizer code: [https://github.com/makerdao/medianizer](https://github.com/makerdao/medianizer)
+- Updater code: [https://github.com/makerdao/setzer](https://github.com/makerdao/setzer)
+- Feeds Monitoring: [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds)
 
 ## Where can I view live information about Liquidations?
 

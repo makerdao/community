@@ -20,11 +20,11 @@ The mechanism behind the fee is a simple one; as the market demand for Dai _decr
 
 ## Why does the Stability Fee Change?
 
-When it is observed that Dai is consistently trading above or underneath the target price of $1, this may signal an imbalance between the macro Dai supply and demand for Dai. The Stability Fee is a rate that primarily affects the Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
+When it is observed that Dai is consistently trading above or underneath the target price of \$1, this may signal an imbalance between the macro Dai supply and demand for Dai. The Stability Fee is a rate that primarily affects the Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
 
-If Dai trades consistently above $1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
+If Dai trades consistently above \$1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
 
-If Dai trades consistently below $1, this means that supply is outweighing demand and the market is flooded with too much Dai. If this is happening too consistently, it signifies that the Stability Fee needs to be raised to slow down Dai creation.
+If Dai trades consistently below \$1, this means that supply is outweighing demand and the market is flooded with too much Dai. If this is happening too consistently, it signifies that the Stability Fee needs to be raised to slow down Dai creation.
 
 Unfortunately, it is not possible to perfectly predict the impact of a fee change prior to its implementation, as the results are entirely dependent on the market's reaction. As time goes on, there will be better data available to support a predictive model or even a more robust reactive model that will help fine-tune the Stability Fee.
 
@@ -34,7 +34,7 @@ The Stability Fee is calculated _continuously_. It is denominated in Dai and can
 
 Let's look at the various results from applying different types of compounding structures, given a debt of 100,000 DAI that has been held for 365 days.
 
-#### Formulas:
+### Formulas
 
 Where:
 
@@ -50,11 +50,11 @@ Where:
 
 **e** = [Euler's number](https://www.mathsisfun.com/numbers/e-eulers-number.html)
 
-* **P** \(1 + r/n\)^nt - P = A: Annual Compounding
-* **P** \(1 + r/n\)^nt - P = A: Monthly Compounding
-* **P** \(e\)^rt - P = A: Continuous Compounding
+- **P** \(1 + r/n\)^nt - P = A: Annual Compounding
+- **P** \(1 + r/n\)^nt - P = A: Monthly Compounding
+- **P** \(e\)^rt - P = A: Continuous Compounding
 
-#### Simplified
+### Simplified
 
 Calculated with annual compounding, the future Stability Fee is:
 
@@ -80,11 +80,11 @@ The difference between annual and continuous compounding fees on a 100,000 DAI d
 
 Given that:
 
-* A CDP exists with a debt of **1000** **DAI**
-* The CDP has been open for **30** **days**
-* The current value of an MKR token is **1000** **DAI**
-* The Stability Fee is **5%**
-* A user pays back a portion of the debt in the amount of **50** **DAI**
+- A CDP exists with a debt of **1000** **DAI**
+- The CDP has been open for **30** **days**
+- The current value of an MKR token is **1000** **DAI**
+- The Stability Fee is **5%**
+- A user pays back a portion of the debt in the amount of **50** **DAI**
 
 The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.208 DAI**, or approximately 21 cents USD.
 

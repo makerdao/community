@@ -34,7 +34,7 @@ Opłata Stabilizacyjna wyliczana jest w sposób _ciągły_. Może być wyrażana
 
 Przyjrzyjmy się wynikom rozmaitych podejść do struktur składek, przy założeniu, że dług w wysokości 100 000 DAI zaciągnięty został na okres 365 dni.
 
-#### Wzory:
+### Wzory:
 
 Gdzie:
 
@@ -50,9 +50,9 @@ Gdzie:
 
 **e** = [liczba Eulera](http://www.math.edu.pl/liczba-e)
 
-* **P** \(1 + r/n\)^nt - P = A: składki roczne
-* **P** \(1 + r/n\)^nt - P = A: składki miesięczne
-* **P** \(e\)^rt - P = A: składki ciągłe
+- **P** \(1 + r/n\)^nt - P = A: składki roczne
+- **P** \(1 + r/n\)^nt - P = A: składki miesięczne
+- **P** \(e\)^rt - P = A: składki ciągłe
 
 #### W uproszczeniu
 
@@ -80,11 +80,11 @@ Różnica pomiędzy roczną a ciągłą składką przy długu 100 000 DAI i opro
 
 Przy założeniu że:
 
-* Istnieje CDP z długiem **1000** **DAI**
-* CDP był otwarty przez **30** **dni**
-* Obecna wartość tokena MKR wynosi  **1000** **DAI**
-* Obecna wartość tokena MKR wynosi  **5%**
-* Użytkownik spłaca część długu w postaci **50** **DAI**
+- Istnieje CDP z długiem **1000** **DAI**
+- CDP był otwarty przez **30** **dni**
+- Obecna wartość tokena MKR wynosi **1000** **DAI**
+- Obecna wartość tokena MKR wynosi **5%**
+- Użytkownik spłaca część długu w postaci **50** **DAI**
 
 Całkowity koszt wyrażony w dai przy spłacie **50 DAI** na poczet **1000 DAI** długu trwającego **30 dni** wynosi **0.208 DAI**, czyli około 21 centów.
 
@@ -136,7 +136,7 @@ Każdy token MKR trafiający do kontraktu Burnera nim zostanie spalony zostaje p
 
 [W Poprzednim Panelu CDP (Old CDP Dashboard):](https://dai.makerdao.com/): Saldo należne za CDP widoczne jest w kolumnie „Governance Debt” w Panelu DAI.
 
-[W Nowym Portalu CDP (New CDP Portal)](https://cdp.makerdao.com/): W Nowym Portalu CDP (New CDP Portal): Saldo należne za CDP widoczne jest po kliknięciu przycisku „Payback”. 
+[W Nowym Portalu CDP (New CDP Portal)](https://cdp.makerdao.com/): W Nowym Portalu CDP (New CDP Portal): Saldo należne za CDP widoczne jest po kliknięciu przycisku „Payback”.
 
 Możesz także skorzystać z jednego z narzędzi w sekcji [Watch your Dai](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) repozytorium Niesamowitego-MakerDAO.
 
@@ -164,7 +164,7 @@ Oraz przy 10,0%:
 
 ## W jaki sposób mogę dowiedzieć się więcej na temat Zespołów Ryzyka oraz skontaktować się z fundacją w związku z obecnymi oraz przyszłymi zmianami w systemie?
 
-Rozważ dołączenie do naszych cotygodniowych spotkań [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) podczas których szczegółowo dyskutujemy na temat tych spraw. Harmonogramy spotkań publikowane są regularnie na  [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Sprawdź również sekcję [Governance](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) (zarządzanie) w repozytorium NiesamowitegoMakerDAO.
+Rozważ dołączenie do naszych cotygodniowych spotkań [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) podczas których szczegółowo dyskutujemy na temat tych spraw. Harmonogramy spotkań publikowane są regularnie na [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Sprawdź również sekcję [Governance](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) (zarządzanie) w repozytorium NiesamowitegoMakerDAO.
 
 ## Czy zmiany Stawki Opłaty Stabilizacyjnej podlegają jakimś limitom?
 

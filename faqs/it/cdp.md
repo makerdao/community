@@ -50,19 +50,19 @@ Ci sono dei rischi inerenti associati agli errori che i singoli utenti possono c
 
 Esistono numerosi rischi potenziali che riguardano l'operazione corretta e continua della piattaforma Maker. La seguente lista elenca alcuni esempi ma non è esaustiva:
 
-* Un attacco da parte di hackers all'infrastruttura di smart contract
-* Un evento catastrofico ed improvviso che riguardi una delle criptovalute utilizzate come pegno di garanzia
-* Errori nel calcolo del prezzo, irrazionalità di agenti di mercato, circostanze impreviste
-* Guasti di infrastrutture centralizzate. Ad esempio, interruzioni della connessione Internet, bug in software di terze parti \(esempio, MetaMask\), etc.
+- Un attacco da parte di hackers all'infrastruttura di smart contract
+- Un evento catastrofico ed improvviso che riguardi una delle criptovalute utilizzate come pegno di garanzia
+- Errori nel calcolo del prezzo, irrazionalità di agenti di mercato, circostanze impreviste
+- Guasti di infrastrutture centralizzate. Ad esempio, interruzioni della connessione Internet, bug in software di terze parti \(esempio, MetaMask\), etc.
 
 ### Rischi associati alle modifiche dei parametri del sistema
 
 I possessori di CDP subiscono gli effetti delle modifiche ai parametri di rischio che governano il sistema Dai. Questo determina un rischio finanziario per i possessori di CDP. Di seguito sono elencati alcuni parametri del sistema che possono essere modificati nel tempo:
 
-* Tasso d'interesse \(Stability Fee\).
-* Rapporto di liquidazione \(livello minimo del rapporto di garanzia prima di raggiungere lo stato di liquidazione\).
-* Ammontare massimo di debito contraibile a seconda del pegno.
-* Penalità di liquidazione.
+- Tasso d'interesse \(Stability Fee\).
+- Rapporto di liquidazione \(livello minimo del rapporto di garanzia prima di raggiungere lo stato di liquidazione\).
+- Ammontare massimo di debito contraibile a seconda del pegno.
+- Penalità di liquidazione.
 
 ## Quali sono le pratiche più comuni utilizzate per ridurre il rischio?
 
@@ -84,9 +84,9 @@ I rischi derivanti dagli errori umani dell'utente possono essere mitigati facend
 
 Ci possono essere molte buone ragioni per aprire un CDP. Basandoci sulle esperienze di alcuni utenti, di seguito ne riportiamo alcune:
 
-* **Effetto leva**: Un utente può pensare che una certa criptovaluta aumenterà presto di valore. Può quindi decidere di ottenere dei Dai in prestito e utilizzare questi Dai per acquistare questa criptovaluta. Successivamente, se il valore della criptovaluta sarà effettivamente aumentato, l'utente potrà vendere la criptovaluta acquistata con i Dai, restituire i Dai presi in prestito e trarne un profitto.
-* **Linea di credito flessibile:** Supponiamo che un utente voglia acquistare una macchina e supponiamo che le condizioni di prestito offerte dagli istituti di credito tradizionali siano meno favorevoli di quelle disponibili mediante l'apertura di un CDP. L'utente può quindi prendere in prestito dei Dai usando come garanzia degli ETH e restituire il prestito come e quando vuole.
-* **Rifinanziamento:** Supponiamo che un utente sia attualmente indebitato e che il tasso di interesse da dover pagare sia più alto di quello richiesto dal sistema Dai. Invece di vendere dei beni per ripagare il debito e gli interessi, l'utente può decidere di ottenere dei Dai lasciando in pegno i propri ETH, convertire i Dai in valuta fiat e ripagare una porzione o la totalità del proprio debito, traendo così profitto dai tassi vantaggiosi offerti dal sistema Dai.
+- **Effetto leva**: Un utente può pensare che una certa criptovaluta aumenterà presto di valore. Può quindi decidere di ottenere dei Dai in prestito e utilizzare questi Dai per acquistare questa criptovaluta. Successivamente, se il valore della criptovaluta sarà effettivamente aumentato, l'utente potrà vendere la criptovaluta acquistata con i Dai, restituire i Dai presi in prestito e trarne un profitto.
+- **Linea di credito flessibile:** Supponiamo che un utente voglia acquistare una macchina e supponiamo che le condizioni di prestito offerte dagli istituti di credito tradizionali siano meno favorevoli di quelle disponibili mediante l'apertura di un CDP. L'utente può quindi prendere in prestito dei Dai usando come garanzia degli ETH e restituire il prestito come e quando vuole.
+- **Rifinanziamento:** Supponiamo che un utente sia attualmente indebitato e che il tasso di interesse da dover pagare sia più alto di quello richiesto dal sistema Dai. Invece di vendere dei beni per ripagare il debito e gli interessi, l'utente può decidere di ottenere dei Dai lasciando in pegno i propri ETH, convertire i Dai in valuta fiat e ripagare una porzione o la totalità del proprio debito, traendo così profitto dai tassi vantaggiosi offerti dal sistema Dai.
 
 Ad ogni modo è sempre bene ricordare che creando un CDP e ottenendo in prestito dei Dai, gli utenti si stanno indebitando e si espongono ad un rischio.
 

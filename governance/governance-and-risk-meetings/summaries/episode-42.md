@@ -94,7 +94,7 @@
 - The question is, how do we go from SCD to MCD?
 - One way to approach this is to pretend we were pricing the current ETH CDP type under its actual Risk Premium. My guess is that it would be far lower than 16.5%.
 - We will need rough consensus from the Governance community about how we will handle Monetary Policy in MCD, if we hope to price CDP types fairly according to their Risk Premiums.
-- [Related thread](https://forum.makerdao.com/t/is-anything-wrong-with-the-dsr-and-stability-rate-calculations-as-planned-for-mcd/39)
+- [Related thread](https://forum.makerdao.com/t/navigating-the-waters-between-now-scd-and-mcd-with-the-dsr/80)
 
 #### Question & Discussion points for Matthew
 

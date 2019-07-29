@@ -1,6 +1,6 @@
 # Translations Initiative
 
-Welcome to the MakerDAO Translations Initiative. A place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
+Welcome to the MakerDAO Translations Initiative: A place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
 
 ## Project Snapshot
 
