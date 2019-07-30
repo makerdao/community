@@ -1,6 +1,6 @@
 # Contributing
 
-Welcome to the MakerDAO Community Development Contributing Section, a place that guides community members interested in contributing to MakerDAO's community resources.
+Welcome to the MakerDAO Community Development Contributing Section: a place that guides community members interested in contributing to MakerDAO's community resources.
 
 ## Project Snapshot
 
