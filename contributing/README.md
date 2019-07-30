@@ -11,7 +11,7 @@ Welcome to the MakerDAO Community Development Contributing Section: a place that
 
 ## What are we trying to accomplish?
 
-The Community Development Group's goal is to provide members with the tools needed to improve the ecosystem. The objective is to present opportunities for members to create, update, and maintain MakerDAO's public set of community resources.
+The Community Development Group's goal is to provide members with the tools needed to improve the ecosystem. This is achieved by presenting opportunities for members to create, update, and maintain MakerDAO's public set of community resources.
 
 ## Project Description
 
@@ -32,5 +32,5 @@ Then, decide where you want to contribute:
 
 - [Translate MakerDAO resources](/translations/README.md)
 - [Improve Meetup guides](/meetups/README.md)
-- [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md
+- [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md)
 - [MakerDAO: Help Wanted](https://forum.makerdao.com/c/comm-dev/help-wanted)
