@@ -32,5 +32,5 @@ Then, decide where you want to contribute:
 
 - [Translate MakerDAO resources](/translations/README.md)
 - [Improve Meetup guides](/meetups/README.md)
-- [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md
+- [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md)
 - [MakerDAO: Help Wanted](https://forum.makerdao.com/c/comm-dev/help-wanted)
