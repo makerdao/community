@@ -49,7 +49,7 @@ Interested in contributing to the Hosting Guides? Learn how in our [contributors
 
 ## Status
 
-Micro-grant [applications](https://airtable.com/shr415iT3e8S8nuzS) are open.
+Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
 
 ## Important Disclaimer
 
