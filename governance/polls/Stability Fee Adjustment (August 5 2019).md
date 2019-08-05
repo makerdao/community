@@ -1,14 +1,21 @@
 ---
-title: test markdown custom url
-summary: test markdown custom url
+title: Stability Fee Adjustment (August 5 2019)
+summary: Signal your support to adjust the Stability Fee within a range of 16.5% to 24.5%
 discussion_link: https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-august-1-9am-pst-4-00-pm-utc/218
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
-   1: 1
-   2: 2
+   1: 16.5%
+   2: 17.5%
+   3: 18.5%
+   4: 19.5%
+   5: 20.5%
+   6: 21.5%
+   7: 22.5%
+   8: 23.5%
+   9: 24.5%
 ---
-# Poll: test markdown custom url
+# Poll: Stability Fee Adjustment (August 5 2019)
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible Dai Stability Fee options. Voters are now able to signal their support for a Stability Fee within a range of 16.5% to 24.5%.
 
