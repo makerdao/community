@@ -2,7 +2,7 @@
 
 ## 비상정지란 무엇인가요?
 
-비상정지란 Dai의 주요 보안 기능 중 하나이며 이전에는 포괄적 합의 (Global Settlement)라고 불렸습니다. 이 중요한 보안 기능으로 시스템을 정지시킬 수 있으며 [Dai](https://github.com/makerdao/community/blob/master/faqs/dai.md)와 CDP 소유자들이 담보를 회수할 수 있도록 합니다.
+비상정지란 Dai의 주요 보안 기능 중 하나이며 이전에는 포괄적 합의 (Global Settlement)라고 불렸습니다. 이 중요한 보안 기능으로 시스템을 정지시킬 수 있으며 [Dai](https://github.com/makerdao/community/blob/master/faqs/ko/dai.md)와 CDP 소유자들이 담보를 회수할 수 있도록 합니다.
 
 ## 비상정지가 일어날 동안 어떤 일이 벌어지나요?
 
@@ -17,7 +17,7 @@
 
 ## 누가 비상정지를 발동할 수 있나요?
 
-단일 담보 기반 Dai에서 비상정지를 발동시킬 수 있는 유일한 방법은 MKR 투표자들이 [실행 투표](faqs/governance.md#is-there-more-than-one-type-of-vote)를 통과시키는 방법입니다.
+단일 담보 기반 Dai에서 비상정지를 발동시킬 수 있는 유일한 방법은 MKR 투표자들이 [실행 투표](governance.md#%ED%95%98%EB%82%98-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%88%AC%ED%91%9C-%EC%A2%85%EB%A5%98%EA%B0%80-%EC%9E%88%EB%82%98%EC%9A%94)를 통과시키는 방법입니다.
 
 ## 비상정지는 언제 사용되어야 하나요?
 
@@ -63,7 +63,7 @@ CDP와 Dai 소유자 모두 담보를 회수해야합니다. 하지만 Dai 소�
 
 ## 비상정지는 얼마나 빨리 발동될 수 있나요?
 
-비상정지를 발동하기 위해서는 MKR 투표자들이 실행 투표를 통과시켜야 합니다. 이 제안은 [지속적 승인 투표](faqs/governance.md#what-is-continuous-approval-voting)에 의해 전 제안보다 더 많은 MKR을 얻어야 합니다. 따라서, 비상정지의 발동은 MKR 투표자들의 새로운 제안에 대한 투표가, 이전에 통과된 제안을 얼마나 빨리 추월할 수 있느냐에 달려있습니다.
+비상정지를 발동하기 위해서는 MKR 투표자들이 실행 투표를 통과시켜야 합니다. 이 제안은 [지속적 승인 투표](governance.md#%EC%A7%80%EC%86%8D%EC%A0%81-%EC%8A%B9%EC%9D%B8-%ED%88%AC%ED%91%9C%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)에 의해 전 제안보다 더 많은 MKR을 얻어야 합니다. 따라서, 비상정지의 발동은 MKR 투표자들의 새로운 제안에 대한 투표가, 이전에 통과된 제안을 얼마나 빨리 추월할 수 있느냐에 달려있습니다.
 
 ## 비상정지가 발동되면 MakerDAO는 어떻게 되나요?
 
