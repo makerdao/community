@@ -79,8 +79,11 @@
   - [Español](faqs/es/README.md)
     - [Posiciones de Deuda Colateralizadas (CDP)](faqs/es/cdp.md)
     - [Dai Stablecoin](faqs/es/dai.md)
+    - [Apagado de Emergencia][faqs/es/emergency-shutdown.md]
     - [Glosario de Términos](faqs/es/glossary.md)
     - [Gobernanza](faqs/es/governance.md)
+    - [MakerDAO](faqs/es/makerdao.md)
+    - [Oráculos](faqs/es/oracles.md)
     - [Gestión de Riesgos](faqs/es/risk-management.md)
     - [Tarifa de Estabilidad](faqs/es/stability-fee.md)
     - [Liquidación](faqs/es/liquidation.md)
