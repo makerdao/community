@@ -15,7 +15,7 @@ One important security feature of Dai is called Emergency Shutdown, formerly kno
 
 ## Who can Trigger an Emergency Shutdown?
 
-The only way to trigger Emergency Shutdown in Single Collateral Dai is for MKR voters to pass an [Executive Vote](faqs/governance.md#is-there-more-than-one-type-of-vote).
+The only way to trigger Emergency Shutdown in Single Collateral Dai is for MKR voters to pass an [Executive Vote](governance.md#is-there-more-than-one-type-of-vote).
 
 ## When should Emergency Shutdown be used?
 
