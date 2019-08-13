@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Transcripts
 
+- [Episode 47: Aug 08, 2019](episode-47.md)
 - [Episode 46: Aug 01, 2019](episode-46.md)
 - [Episode 45: Jul 25, 2019](episode-45.md)
 - [Episode 44: Jul 18, 2019](episode-44.md)
