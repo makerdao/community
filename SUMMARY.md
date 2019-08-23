@@ -94,7 +94,7 @@
     - [Dai](faqs/fr/dai.md)
     - [Frais de stabilité](faqs/fr/stability-fee.md)
     - [Gouvernance](faqs/fr/governance.md)
-    - [Glossaire des termes](faqs/es/glossary.md)
+    - [Glossaire des termes](faqs/fr/glossary.md)
     - [Liquidation](faqs/fr/liquidation.md)
     - [Position de Dette Collatéralisée \(CDP\)](faqs/fr/cdp.md)
   - [Italiano](faqs/it/README.md)
