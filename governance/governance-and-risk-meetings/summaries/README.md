@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 49: Aug 22, 2019](episode-49.md)
 - [Episode 48: Aug 15, 2019](episode-48.md)
 - [Episode 47: Aug 08, 2019](episode-47.md)
 - [Episode 46: Aug 01, 2019](episode-46.md)
