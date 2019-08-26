@@ -134,7 +134,7 @@
   - [中文](faqs/zh/README.md)
     - [抵押债仓 (CDP)](faqs/zh/cdp.md)
     - [稳定币 Dai](faqs/zh/dai.md) 
-    - [紧急关停][faqs/zh/emergency-shutdown.md]
+    - [紧急关停](faqs/zh/emergency-shutdown.md)
     - [术语表](faqs/zh/glossary.md)
     - [治理](faqs/zh/governance.md)
     - [清算](faqs/zh/liquidation.md)
