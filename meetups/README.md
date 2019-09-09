@@ -18,7 +18,7 @@ Maker is only as strong as its community. By hosting a meetup in your area, you 
 
 ## Project Description
 
-This program is a major initiative of the Maker Foundation. We offer a [micro-granting](./requesting-funds.md) program to help fund local community meetups.
+This program is a major initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
 
 Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
 
@@ -26,13 +26,7 @@ Additionally, we're working with the community to actively develop a collection 
 
 ### Hosting Meetups
 
-Do you enjoy hosting events and bringing people together? We're eager to support people who want to build the Maker community together in their city.
-
-### I...
-
-- Am passionate about MakerDAO and Dai
-- Have access to a community of people
-- Am ability to organize and host an event
+Do you enjoy hosting events and bringing people together? Are you passionate about MakerDAO and Dai? Do you have access to a community of interested people? Are you willing to organize and host an event? We're eager to support people who are building the Maker community in their city.
 
 ### Contribute to the Hosting Guides
 
