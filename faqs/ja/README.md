@@ -1,4 +1,7 @@
-# MakerDAO FAQs
+---
+id: faqs
+title: MakerDAO FAQs Overview
+---
 
 - [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 - [Glossary of Terms](glossary.md)

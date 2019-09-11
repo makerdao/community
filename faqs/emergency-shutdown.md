@@ -1,4 +1,7 @@
-# Emergency Shutdown
+---
+id: emergency-shutdown
+title: Emergency Shutdown
+---
 
 ## What is an Emergency Shutdown?
 

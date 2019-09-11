@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 50 (August 29 - 2019)
+---
+id: episode-50
+title: Episode 50 - August 29, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=uzqjux5ipA8) | [Audio](https://soundcloud.com/makerdao/ep-50-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-thursday-august-29-9am-pst-4-00-pm-utc/323)
 
 | References | Person | Text |

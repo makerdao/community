@@ -1,4 +1,7 @@
-# FAQ sobre Gestión de Riesgos
+---
+id: risk-management
+title: Gestión de Riesgos
+---
 
 ## ¿Qué es la Gestión de Riesgos?
 

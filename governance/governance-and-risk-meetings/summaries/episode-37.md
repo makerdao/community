@@ -1,4 +1,7 @@
-# Episode 37: May 30, 2019
+---
+id: episode-37
+title: Episode 37 - May 30, 2019
+---
 
 ## Agenda
 

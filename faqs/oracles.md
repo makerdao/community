@@ -1,4 +1,7 @@
-# Oracles
+---
+id: oracles
+title: Oracles
+---
 
 ## What is an Oracle?
 

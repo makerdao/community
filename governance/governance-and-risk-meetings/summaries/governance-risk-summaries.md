@@ -1,4 +1,8 @@
-# Governance and Risk Meeting Summaries
+---
+id: governance-risk-summaries
+title: Governance and Risk Meeting Summaries
+sidebar_label: Meeting Summaries
+---
 
 - [Episode 51: Sep 05, 2019](episode-51.md)
 - [Episode 50: Aug 29, 2019](episode-50.md)

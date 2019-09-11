@@ -1,4 +1,8 @@
-# Governance and Risk Meeting Transcripts
+---
+id: governance-risk-transcripts
+title: Governance and Risk Meeting Transcripts
+sidebar_label: Meeting Transcripts
+---
 
 - [Episode 50: Aug 29, 2019](episode-50.md)
 - [Episode 49: Aug 22, 2019](episode-49.md)

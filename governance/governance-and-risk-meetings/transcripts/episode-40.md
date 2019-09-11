@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 40 (June 20 - 2019)
+---
+id: episode-40
+title: Episode 40 - June 20, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=lSfXtvCplwc) | [Audio](https://soundcloud.com/makerdao/ep-40-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/c01eap/agenda_scientific_governance_and_risk_thursday/)
 
 | References | Person | Text |

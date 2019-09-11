@@ -1,4 +1,8 @@
-# Weekly Meetings
+---
+id: meetings-schedule
+title: Weekly Meetings
+sidebar_label: Meetings Schedule
+---
 
 Maker hosts a weekly meeting in which we set the stage for cultural and operational consensus on a number of goverannce issues.
 

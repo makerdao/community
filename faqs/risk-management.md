@@ -1,4 +1,7 @@
-# Risk Management FAQ
+---
+id: risk-management
+title: Risk Management
+---
 
 ## What is Risk Management?
 

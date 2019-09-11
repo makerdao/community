@@ -1,4 +1,7 @@
-# Gobernanza
+---
+id: governance
+title: Gobernanza
+---
 
 ## ¿Qué es Gobernanza?
 
@@ -56,7 +59,7 @@ Una propuesta de Encuesta de Gobernanza puede ser tener lugar al cualquier momen
 
 ## ¿Cuánto dura el periodo de votación de una Encuesta de Gobernanza?
 
-El periodo de votación dura generalmente entre dos y tres días pero esto puede cambiar debido a la actual discusión de la comunidad en relación a la gobernanza. Participa con tus ideas en cualquiera de nuestros [Canales Oficial de Comunicación](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+El periodo de votación dura generalmente entre dos y tres días pero esto puede cambiar debido a la actual discusión de la comunidad en relación a la gobernanza. Participa con tus ideas en cualquiera de nuestros [Canales Oficial de Comunicación](https://awesome.makerdao.com#official-channels).
 
 ## ¿Cuándo tiene lugar un Voto Ejecutivo?
 

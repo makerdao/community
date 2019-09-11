@@ -56,7 +56,7 @@ Une proposition de sondage de gouvernance peut être déployée à tout moment.
 
 ## Quelle est la durée d'un sondage de gouvernance?
 
-Un sondage de gouvernance est d'une durée typique de deux à trois jours. Ceci est sujet à changer selon la volonté de la communauté. Vous pouvez contribuer à cette discussion sur nos [canaux officiels de communication](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+Un sondage de gouvernance est d'une durée typique de deux à trois jours. Ceci est sujet à changer selon la volonté de la communauté. Vous pouvez contribuer à cette discussion sur nos [canaux officiels de communication](https://awesome.makerdao.com#official-channels).
 
 ## Quand est-ce que les votes exécutifs ont lieu?
 

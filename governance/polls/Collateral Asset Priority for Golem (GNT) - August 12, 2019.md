@@ -1,4 +1,5 @@
 ---
+id: cap-gnt
 title: Collateral Asset Priority for Golem (GNT) - August 12, 2019
 summary: Signal your support for raising or lowering the priority of this token
 discussion_link: https://forum.makerdao.com/t/217
@@ -26,7 +27,7 @@ Details of the poll were published on our [blog](https://blog.makerdao.com/multi
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework/part-three)
 
-Demos, help, and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#voting).
+Demos, help, and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com#voting).
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 16:00 UTC.
 

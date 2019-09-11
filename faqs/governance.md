@@ -1,4 +1,7 @@
-# Governance
+---
+id: governance
+title: Governance
+---
 
 ## What is Governance?
 
@@ -56,7 +59,7 @@ A proposal outlining a Governance Poll can be put up at any time.
 
 ## How long is the voting period of a Governance Poll?
 
-The length of the voting period typically ranges from two to three days but this is subject to change due to the community's active discussions surrounding governance. Feel free to contribute your thoughts on any of our [official communication channels](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+The length of the voting period typically ranges from two to three days but this is subject to change due to the community's active discussions surrounding governance. Feel free to contribute your thoughts on any of our [official communication channels](hhttps://awesome.makerdao.com#official-channels).
 
 ## When do Executive Votes happen?
 

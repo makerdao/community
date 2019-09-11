@@ -1,4 +1,7 @@
-# Hackathon Funding Requirements
+---
+id: funding-requirements
+title: Hackathon Funding Requirements
+---
 
 If you would like to have MakerDAO participate in your hackathon, please have a look at the following checklist and make sure this information is included when you reach out to us.
 

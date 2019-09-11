@@ -1,4 +1,7 @@
-# Episode 45: July 25, 2019
+---
+id: episode-45
+title: Episode 45 - July 25, 2019
+---
 
 ## Agenda
 

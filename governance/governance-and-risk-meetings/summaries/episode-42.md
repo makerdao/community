@@ -1,4 +1,7 @@
-# Episode 42: July 4, 2019
+---
+id: episode-42
+title: Episode 42 - July 4, 2019
+---
 
 ## Agenda
 

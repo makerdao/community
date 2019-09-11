@@ -1,4 +1,7 @@
-# 비상정지 FAQ
+---
+id: emergency-shutdown
+title: 비상정지 FAQ
+---
 
 ## 비상정지란 무엇인가요?
 

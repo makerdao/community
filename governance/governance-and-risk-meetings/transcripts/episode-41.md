@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 41 (June 27 - 2019)
+---
+id: episode-41
+title: Episode 41 - June 27, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=pOA-TIOQBs8) | [Audio](https://soundcloud.com/makerdao/ep-41-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/c61gk7/agendadiscussion_scientific_governance_and_risk/)
 
 | References | Person | Text |

@@ -1,4 +1,7 @@
-# Le liquidazioni
+---
+id: liquidation
+title: Le liquidazioni
+---
 
 ## Che cosa è la liquidazione?
 

@@ -1,4 +1,7 @@
-# Episode 39: June 13, 2019
+---
+id: episode-39
+title: Episode 39 - June 13, 2019
+---
 
 ## Agenda
 

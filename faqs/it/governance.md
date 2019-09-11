@@ -56,7 +56,7 @@ Chiunque, in qualsiasi momento, può proporre un argomento sul quale effettuare 
 
 ## Per quanti giorni si può votare per un sondaggio?
 
-Il periodo di voto per un sondaggio è normalmente di due o tre giorni, ma altre durate sono possibili se la comunità che si occupa del governo di MakerDAO lo richiede. Sei invitato ad esprimere e condividere le tue idee sui canali di discussione disponibili: [Official Communication Channels](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+Il periodo di voto per un sondaggio è normalmente di due o tre giorni, ma altre durate sono possibili se la comunità che si occupa del governo di MakerDAO lo richiede. Sei invitato ad esprimere e condividere le tue idee sui canali di discussione disponibili: [Official Communication Channels](https://awesome.makerdao.com#official-channels).
 
 ## Quando avvengono le votazioni esecutive?
 

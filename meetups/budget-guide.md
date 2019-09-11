@@ -1,4 +1,7 @@
-# Budget Guide
+---
+id: budget-guide
+title: Budget Guide
+---
 
 This is a guide on how to manage the financial side of hosting a meetup. Before you get going, we want community members should aim to achieve the most value for the money you are spending. If you are being given an honorarium to cover expenses for this event, it will be based on the [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek) you submit to us beforehand.
 

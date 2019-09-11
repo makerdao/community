@@ -56,7 +56,7 @@ Propozycja zorganizowania Ankiety Zarządczej może zostać przedstawiona w dowo
 
 ## Jak długi jest czas Głosowania Zarządczego?
 
-Czasu głosowania zazwyczaj wynosi od dwóch do trzech dni, ale może to ulec zmianie ze względu na intensywne dyskusje w społeczności dotyczące zarządzania. Swoje przemyślenia w tej kwestii można śmiało zgłaszać za pośrednictwem dowolnego z naszych [oficjalnych kanałów komunikacyjnych](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+Czasu głosowania zazwyczaj wynosi od dwóch do trzech dni, ale może to ulec zmianie ze względu na intensywne dyskusje w społeczności dotyczące zarządzania. Swoje przemyślenia w tej kwestii można śmiało zgłaszać za pośrednictwem dowolnego z naszych [oficjalnych kanałów komunikacyjnych](https://awesome.makerdao.com#official-channels).
 
 ## Kiedy odbywają się Głosowania Wykonawcze?
 

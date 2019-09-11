@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 44 (July 18 - 2019)
+---
+id: episode-44
+title: Episode 44 - July 18, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=0wScyBRdLwE) | [Audio](https://soundcloud.com/makerdao/ep-44-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/scientific-governance-and-risk-w-special-guest-alex-evans-thursday-july-18-9am-pst-4-00-pm-utc/141)
 
 | References | Person | Text |

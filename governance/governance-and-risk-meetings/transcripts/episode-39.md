@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 39 (June 13 - 2019)
+---
+id: episode-39
+title: Episode 39 - June 13, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=MBdpqqMZRNg) | [Audio](https://soundcloud.com/makerdao/ep-39-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/c01eap/agenda_scientific_governance_and_risk_thursday/)
 
 | References | Person | Text |

@@ -1,4 +1,7 @@
-# Episode 50: August 29, 2019
+---
+id: episode-50
+title: Episode 50 - August 29, 2019
+---
 
 ## Agenda
 

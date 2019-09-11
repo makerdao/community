@@ -1,4 +1,8 @@
-# Hackathons FAQ
+---
+id: faq
+title: Hackathons FAQ
+sidebar_label: FAQ
+---
 
 ## Developers
 

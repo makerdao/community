@@ -1,4 +1,8 @@
-# Governance and Risk Meeting
+---
+id: governance-risk-meetings
+title: Governance and Risk Meeting
+sidebar_label: Overview
+---
 
 In these meetings, we set the stage for cultural and operational consensus across the community for a number of issues that relate to the [Scientific Governance and Risk Framework](../governance-risk-framework/part-one.md).
 
