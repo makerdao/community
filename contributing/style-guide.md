@@ -27,6 +27,7 @@
 - References to Purple Paper names (flip, flap, flop, etc.) in the documentation.
 - Footnotes.
 - Curly quotes `“`. Use the plaintext version: `"`.
+- Escaping parentheses, `\(SOMETHING\)`. Use normal parentheses, `(SOMETHING)`.
 
 ### Numbers
 
