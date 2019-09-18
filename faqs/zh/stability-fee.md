@@ -96,7 +96,7 @@ CDP 产生的稳定费可以简单按天估算：
 
 [新 CDP 面板](https://cdp-cn.makerdao.com/): 在单击 "偿还"页面后右侧出现的面板中显示该 CDP 已生成的稳定费用。
 
-还有很多第三方工具可以在 [Dai 实时动态](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) 资源库里找到。
+还有很多第三方工具可以在 [Dai 实时动态](https://awesome.makerdao.com#watch-your-dai) 资源库里找到。
 
 ## 稳定费调整对计息的影响?
 

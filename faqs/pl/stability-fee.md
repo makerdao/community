@@ -138,7 +138,7 @@ Każdy token MKR trafiający do kontraktu Burnera nim zostanie spalony zostaje p
 
 [W Nowym Portalu CDP (New CDP Portal)](https://cdp.makerdao.com/): W Nowym Portalu CDP (New CDP Portal): Saldo należne za CDP widoczne jest po kliknięciu przycisku „Payback”.
 
-Możesz także skorzystać z jednego z narzędzi w sekcji [Watch your Dai](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) repozytorium Niesamowitego-MakerDAO.
+Możesz także skorzystać z jednego z narzędzi w sekcji [Watch your Dai](https://awesome.makerdao.com#watch-your-dai) repozytorium Niesamowitego-MakerDAO.
 
 ## W jaki sposób opłaty kształtują podaż i popyt?
 
@@ -164,7 +164,7 @@ Oraz przy 10,0%:
 
 ## W jaki sposób mogę dowiedzieć się więcej na temat Zespołów Ryzyka oraz skontaktować się z fundacją w związku z obecnymi oraz przyszłymi zmianami w systemie?
 
-Rozważ dołączenie do naszych cotygodniowych spotkań [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) podczas których szczegółowo dyskutujemy na temat tych spraw. Harmonogramy spotkań publikowane są regularnie na [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Sprawdź również sekcję [Governance](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) (zarządzanie) w repozytorium NiesamowitegoMakerDAO.
+Rozważ dołączenie do naszych cotygodniowych spotkań [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) podczas których szczegółowo dyskutujemy na temat tych spraw. Harmonogramy spotkań publikowane są regularnie na [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Sprawdź również sekcję [Governance](https://awesome.makerdao.com#governance) (zarządzanie) w repozytorium NiesamowitegoMakerDAO.
 
 ## Czy zmiany Stawki Opłaty Stabilizacyjnej podlegają jakimś limitom?
 

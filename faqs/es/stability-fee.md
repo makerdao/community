@@ -1,4 +1,7 @@
-# Tarifa de Estabilidad
+---
+id: stability-fee
+title: Tarifa de Estabilidad
+---
 
 ## ¿Qué es la Tarifa de Estabilidad?
 
@@ -124,7 +127,7 @@ Cualquier MKR que se encuentre en la wallet del Burner antes de ser finalmente d
 
 [Nuevo Portal CDP](https://cdp.makerdao.com/): La deuda pendiente de un CDP se muestra en el panel derecho que aparece haciendo clic en “Pagar”.
 
-También existen varias herramientas de terceros listadas en la sección [Vigila tu Dai](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) del repositorio Awesome-MakerDAO.
+También existen varias herramientas de terceros listadas en la sección [Vigila tu Dai](https://awesome.makerdao.com#watch-your-dai) del repositorio Awesome-MakerDAO.
 
 ## ¿Cómo altera la tarifa a la oferta y la demanda?
 
@@ -146,7 +149,7 @@ Y al 2.5%:
 
 ## ¿Cómo puedo aprender más sobre los Equipos de Riesgo y comunicarme con la Fundación sobre los cambios actuales o futuros del sistema?
 
-Puede participar en nuestras reuniones semanales de [Gobernanza y Riesgo](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) donde discutimos estos temas con mayor detalle. Las agendas se publican regularmente en [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). También, puede serle útil la [sección de Gobernanza](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) del repositorio Awesome-MakerDAO.
+Puede participar en nuestras reuniones semanales de [Gobernanza y Riesgo](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) donde discutimos estos temas con mayor detalle. Las agendas se publican regularmente en [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). También, puede serle útil la [sección de Gobernanza](https://awesome.makerdao.com#governance) del repositorio Awesome-MakerDAO.
 
 ## ¿Hay un límite en el rango de cambios de la Tarifa de Estabilidad?
 

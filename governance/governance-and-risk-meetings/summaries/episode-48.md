@@ -1,4 +1,7 @@
-# Episode 48: August 15, 2019
+---
+id: episode-48
+title: Episode 48 - August 15, 2019
+---
 
 ## Agenda
 

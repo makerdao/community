@@ -1,4 +1,7 @@
-# Hackathon Funding Requirements
+---
+id: funding-requirements
+title: Hackathon Funding Requirements
+---
 
 If you would like to have MakerDAO participate in your hackathon, please have a look at the following checklist and make sure this information is included when you reach out to us.
 
@@ -20,4 +23,4 @@ We need this information, at minimum, two weeks before the event, so please reac
 - Where can we find summaries of the event, and the projects, after it is over?
 - Will the winners be promoted on social media?
 
-All MakerDAO Hackathon winners who wish to apply to the [MakerDAO Grants Program](https://github.com/makerdao/community/tree/master/grants) will have their applications fast-tracked through the process. _It is very important that we get some form of contact information for the winners who wish to apply for a grant._
+All MakerDAO Hackathon winners who wish to apply to the [MakerDAO Grants Program](../grants.md) will have their applications fast-tracked through the process. _It is very important that we get some form of contact information for the winners who wish to apply for a grant._

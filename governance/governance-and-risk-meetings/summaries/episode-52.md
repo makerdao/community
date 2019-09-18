@@ -1,4 +1,7 @@
-# Episode 52: September 12, 2019
+---
+id: episode-52
+title: Episode 52 - September 12, 2019
+---
 
 ## Agenda
 

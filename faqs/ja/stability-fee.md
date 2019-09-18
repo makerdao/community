@@ -124,7 +124,7 @@ MKR に変換を行うと
 
 [新しいバージョンの CDP ポータル](https://cdp.makerdao.com/)：CDP の未返済残高は、[Payback]をクリックすると表示される右側のパネルに表示されます。
 
-[自分の Dai セクション](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai)には、Awesome-MakerDAO リポジトリに載っているサードパーティ製のツールも多数あります。
+[自分の Dai セクション](https://awesome.makerdao.com#watch-your-dai)には、Awesome-MakerDAO リポジトリに載っているサードパーティ製のツールも多数あります。
 
 ## 手数料は需要と供給をどのように変化させるのか？
 
@@ -146,7 +146,7 @@ MKR に変換を行うと
 
 ## リスクチームについてもっと学び、現在もしくは将来のシステムの変更について、財団とコミュニケーションをとるにはどうすればよいか？
 
-[ガバナンスとリスク](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)に関する週次ミーティングへの参加を検討してください。週次ミーティングでは、より詳細にガバナンスとリスクに関する問題について議論が行われています。議題は[r / MakerDAO](https://www.reddit.com/r/MakerDAO/)に定期的に投稿されています。それか、Awesome-MakerDAO レポジトリの[Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)もチェックしてみてください。
+[ガバナンスとリスク](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)に関する週次ミーティングへの参加を検討してください。週次ミーティングでは、より詳細にガバナンスとリスクに関する問題について議論が行われています。議題は[r / MakerDAO](https://www.reddit.com/r/MakerDAO/)に定期的に投稿されています。それか、Awesome-MakerDAO レポジトリの[Governance section](https://awesome.makerdao.com#governance)もチェックしてみてください。
 
 ## 安定化手数料の変更の範囲に制限はあるか？
 

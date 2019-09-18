@@ -1,4 +1,5 @@
 ---
+id: stability-fee-090919
 title: Stability Fee Adjustment - September 9, 2019
 summary: Signal your support to adjust the Stability Fee within a range of 10.5% to 18.5%
 discussion_link: https://forum.makerdao.com/t/371

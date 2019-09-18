@@ -1,4 +1,7 @@
-# Episode 57: October 17, 2019
+---
+id: episode-57
+title: Episode 57 - October 17, 2019
+---
 
 ## Agenda
 

@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 51 (September 5 - 2019)
+---
+id: episode-51
+title: Episode 51 - September 5, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=7jKNv8DMxmQ) | [Audio](https://soundcloud.com/makerdao/ep-51-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-thursday-september-5-9am-pst-4-00-pm-utc/371/4)
 
 | References | Person | Text |

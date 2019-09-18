@@ -1,4 +1,5 @@
 ---
+id: governance-facilitator-mandate
 title: Ratify the Interim Governance Facilitator Mandate
 summary: If this mandate is accepted by the community, it will signal its support for the new Governance Facilitator Role, Richard Brown as the first Interim Governance Facilitator, and signals support for the general scope of the initiatives outlined in the proposal.
 discussion_link: https://forum.makerdao.com/t/264

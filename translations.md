@@ -1,4 +1,8 @@
-# Translations Initiative
+---
+id: translations
+title: Translations Initiative
+sidebar_label: Overview
+---
 
 Welcome to the MakerDAO Translations Initiative, a place where community members can help expand the reach of MakerDAO educational resources by translating them into various languages.
 

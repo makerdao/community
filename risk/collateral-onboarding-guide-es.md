@@ -1,4 +1,8 @@
-# Maker Colateral Onboarding a través de la propuesta de gobierno de MKR
+---
+id: collateral-onboarding-guide-es
+title: Maker Colateral Onboarding a través de la propuesta de gobierno de MKR
+sidebar_label: Español
+---
 
 **Document version** **20190709**
 

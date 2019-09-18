@@ -1,5 +1,13 @@
-# Governance and Risk Meeting Transcripts
+---
+id: governance-risk-summaries
+title: Governance and Risk Meeting Summaries
+sidebar_label: Meeting Summaries
+---
 
+- [Episode 57: Oct 17, 2019](episode-57.md)
+- [Episode 56: Oct 10, 2019](episode-56.md)
+- [Episode 55: Oct 03, 2019](episode-55.md)
+- [Episode 54: Sep 26, 2019](episode-54.md)
 - [Episode 53: Sep 19, 2019](episode-53.md)
 - [Episode 52: Sep 12, 2019](episode-52.md)
 - [Episode 51: Sep 05, 2019](episode-51.md)
@@ -18,16 +26,3 @@
 - [Episode 38: Jun 06, 2019](episode-38.md)
 - [Episode 37: May 30, 2019](episode-37.md)
 - [Episode 36: May 23, 2019](episode-36.md)
-- [Episode 35: May 16, 2019](episode-35.md)
-- [Episode 34: May 09, 2019](episode-34.md)
-- [Episode 33: May 02, 2019](episode-33.md)
-- [Episode 32: Apr 25, 2019](episode-32.md)
-- [Episode 31: Apr 18, 2019](episode-31.md)
-- [Episode 30: Apr 11, 2019](episode-30.md)
-- [Episode 29: Apr 04, 2019](episode-29.md)
-- [Episode 28: Mar 28, 2019](episode-28.md)
-- [Episode 27: Mar 21, 2019](episode-27.md)
-- [Episode 26: Mar 14, 2019](episode-26.md)
-- [Episode 25: Mar 07, 2019](episode-25.md)
-- [Episode 24: Feb 28, 2019](episode-24.md)
-- [Episode 23: Feb 21, 2019](episode-23.md)

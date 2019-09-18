@@ -1,4 +1,7 @@
-# Dai
+---
+id: dai
+title: Dai
+---
 
 ## Dai とは?
 
@@ -60,7 +63,7 @@ Dai の需要が Dai の供給を常に上回る場合、またはその逆の�
 
 ## Dai をどこで買えるのか？
 
-Dai トークンは、さまざまな中央集権型および分散型の[取引所](https://coinmarketcap.com/ja/currencies/dai/#markets)で入手できます。 [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai)リポジトリにも、Dai の市場のリストがあります。
+Dai トークンは、さまざまな中央集権型および分散型の[取引所](https://coinmarketcap.com/ja/currencies/dai/#markets)で入手できます。 [Awesome MakerDAO](https://awesome.makerdao.com#trade-your-dai)リポジトリにも、Dai の市場のリストがあります。
 
 ## Dai の裏付けとなっている担保の額はどこで確認できるのか？
 
@@ -68,4 +71,4 @@ Dai のシステムは自律型のスマートコントラクトとして動作�
 
 ## どの組織（企業・スタートアップ・アプリ）が Dai を利用しているのか？
 
-最新のリストは[Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao)リポジトリのパートナーシップセクションにあります。
+最新のリストは[Awesome-MakerDao](https://awesome.makerdao.com)リポジトリのパートナーシップセクションにあります。

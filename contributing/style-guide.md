@@ -1,4 +1,7 @@
-# Style Guide
+---
+id: style-guide
+title: Style Guide
+---
 
 ## Text, Tone, and Grammar
 

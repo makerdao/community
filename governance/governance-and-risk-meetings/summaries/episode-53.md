@@ -1,4 +1,7 @@
-# Episode 53: September 19, 2019
+---
+id: episode-53
+title: Episode 53 - September 19, 2019
+---
 
 ## Agenda
 

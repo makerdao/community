@@ -1,4 +1,7 @@
-# Requesting Funds
+---
+id: requesting-funds
+title: Requesting Funds
+---
 
 To apply for a micro-grant, submit a completed [Community Meetup Form](https://airtable.com/shr4HOtcZ8o3VZmek). Once the form is reviewed, we will reach out to you with next steps through the contact information you provide.
 

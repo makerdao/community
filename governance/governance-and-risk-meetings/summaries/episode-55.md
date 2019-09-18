@@ -1,4 +1,7 @@
-# Episode 55: October 03, 2019
+---
+id: episode-55
+title: Episode 55 - October 3, 2019
+---
 
 ## Agenda
 

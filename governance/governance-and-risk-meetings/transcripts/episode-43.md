@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 43 (July 11 - 2019)
+---
+id: episode-43
+title: Episode 43 - July 11, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=DlH0bMvqO9w) | [Audio](https://soundcloud.com/makerdao/ep-43-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-july-11-9am-pst-4-00-pm-utc/108)
 
 | References | Person | Text |

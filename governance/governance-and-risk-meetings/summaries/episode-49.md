@@ -1,4 +1,7 @@
-# Episode 49: August 22, 2019
+---
+id: episode-49
+title: Episode 49 - August 22, 2019
+---
 
 ## Agenda
 

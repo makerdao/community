@@ -1,4 +1,7 @@
-# Promotion Guide
+---
+id: promotion-guide
+title: Promotion Guide
+---
 
 Once you've chosen a venue and secured the date and time, make sure to create an event page and promote the meetup so that you can attract some attendees.
 

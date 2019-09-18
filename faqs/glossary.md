@@ -1,3 +1,8 @@
+---
+id: glossary
+title: Glossary of Terms
+---
+
 # Glossary of Terms
 
 ## A

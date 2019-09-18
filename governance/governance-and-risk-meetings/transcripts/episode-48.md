@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 48 (August 15 - 2019)
+---
+id: episode-48
+title: Episode 48 - August 15, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=TWqwCNjUXnI) | [Audio](https://soundcloud.com/makerdao/ep-48-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-thursday-august-15-9am-pst-4-00-pm-utc/267)
 
 | References | Person | Text |

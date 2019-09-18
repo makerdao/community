@@ -1,4 +1,8 @@
-# Foundation Proposal and Core Principles
+---
+id: core-principles
+title: Foundation Proposal and Core Principles
+sidebar_label: Core Principles
+---
 
 The Maker Foundation Team firmly believes that a careful and gradual approach is the safest path towards a long-term equilibrium of decentralized governance. The first step on this journey was to hold the first-ever [public MKR vote](https://vote.makerdao.com/poll-foundation-proposal/vote-yes-to-the-five-core-principles-of-the-maker-governance-philosophy) on September 12th, 2018.
 

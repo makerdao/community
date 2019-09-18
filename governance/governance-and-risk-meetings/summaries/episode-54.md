@@ -1,4 +1,7 @@
-# Episode 54: September 26, 2019
+---
+id: episode-54
+title: Episode 54 - September 26, 2019
+---
 
 ## Agenda
 

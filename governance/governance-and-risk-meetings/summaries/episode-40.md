@@ -1,4 +1,7 @@
-# Episode 40: June 20, 2019
+---
+id: episode-40
+title: Episode 40 - June 20, 2019
+---
 
 ## Agenda
 

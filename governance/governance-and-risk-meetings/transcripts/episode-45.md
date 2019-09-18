@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 45 (July 25 - 2019)
+---
+id: episode-45
+title: Episode 45 - July 25, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=YYb3xB_WCfQ) | [Audio](https://soundcloud.com/makerdao/ep-45-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-july-25-9am-pst-4-00-pm-utc/176)
 
 | References | Person | Text |

@@ -1,4 +1,5 @@
 ---
+id: stability-fee-080519
 title: Stability Fee Adjustment (August 5 2019)
 summary: Signal your support to adjust the Stability Fee within a range of 16.5% to 24.5%
 discussion_link: https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-august-1-9am-pst-4-00-pm-utc/218
@@ -36,7 +37,7 @@ The Stability Fee was discussed in the Governance call on Thursday, August 1. Pl
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 
-Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#voting).
+Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com#voting).
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 16:00 UTC.
 

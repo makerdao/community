@@ -1,4 +1,7 @@
-# Liquidation
+---
+id: liquidation
+title: Liquidation
+---
 
 ## Qu'est-ce que le processus de liquidation?
 

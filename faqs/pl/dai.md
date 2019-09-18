@@ -1,4 +1,7 @@
-# Dai
+---
+id: dai
+title: Dai
+---
 
 ## Czym jest DAI?
 
@@ -64,7 +67,7 @@ Tworzyć DAI możesz jedynie poprzez generowanie ich w oparciu o zabezpieczenie 
 
 ## Gdzie mogę kupić dai?
 
-Token DAI może być nabyty poprzez szereg scentralizowanych oraz zdecentralizowanych [giełd](https://coinmarketcap.com/currencies/dai/#markets). W repozytorium [Niesamowitego-MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) zamieszczona jest lista rynków, na których można dokonywać transakcji w dai.
+Token DAI może być nabyty poprzez szereg scentralizowanych oraz zdecentralizowanych [giełd](https://coinmarketcap.com/currencies/dai/#markets). W repozytorium [Niesamowitego-MakerDAO](https://awesome.makerdao.com#trade-your-dai) zamieszczona jest lista rynków, na których można dokonywać transakcji w dai.
 
 ## Gdzie mogę zobaczyć wartość zabezpieczenia finansowego, na którym zbudowane jest DAI?
 
@@ -72,4 +75,4 @@ Ponieważ system działa autonomicznie, za pomocą inteligentnych kontraktów i 
 
 ## Jakie organizacje używają DAI?
 
-Bieżąca lista znajduje się w sekcji [Partnerstwa](https://github.com/makerdao/awesome-makerdao#partnerships) repozytorium [Niesamowitego-MakerDao](https://github.com/makerdao/awesome-makerdao#).
+Bieżąca lista znajduje się w sekcji [Partnerstwa](https://awesome.makerdao.com#partnerships) repozytorium [Niesamowitego-MakerDao](https://awesome.makerdao.com).

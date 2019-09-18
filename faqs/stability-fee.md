@@ -1,4 +1,7 @@
-# The Stability Fee
+---
+id: stability-fee
+title: Stability Fee
+---
 
 ## What is the Stability Fee?
 
@@ -138,7 +141,7 @@ Any MKR that resides in the burner wallet before actually being destroyed is per
 
 [New CDP Portal](https://cdp.makerdao.com/): The outstanding balance owed on a CDP is shown in the right panel that appears when you click "Payback"
 
-There are also a number of third-party tools that can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
+There are also a number of third-party tools that can be found in the [Watch your Dai section](https://awesome.makerdao.com#watch-your-dai) of the Awesome-MakerDAO Repository.
 
 ## How does the fee alter supply and demand?
 
@@ -164,7 +167,7 @@ And at 10.0%:
 
 ## How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?
 
-Please consider joining our weekly [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) meetings where we discuss these issues in greater detail. Agendas are posted regularly to [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Also, check out the [Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) in the Awesome-MakerDAO repository.
+Please consider joining our weekly [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) meetings where we discuss these issues in greater detail. Agendas are posted regularly to [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Also, check out the [Governance section](https://awesome.makerdao.com#governance) in the Awesome-MakerDAO repository.
 
 ## Is there a limit to the range of the Stability Fee changes?
 

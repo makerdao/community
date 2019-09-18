@@ -1,4 +1,7 @@
-# Pozycje Długu z Zabezpieczeniem (CDP)
+---
+id: cdp
+title: Pozycje Długu z Zabezpieczeniem (CDP)
+---
 
 ## Czym są Pozycje Długu z Zabezpieczeniem?
 
@@ -114,4 +117,4 @@ Tak, tak długo, jak długo w CDP znajduje się zabezpieczenie finansowe, możes
 
 ## W jaki sposób mogę zweryfikować wypłacalność systemu CDP?
 
-System działa na blockchainie Ethereum, więc wszystkie kontrakty i transakcje są publicznie dostępne. Użytkownicy mogą wchodzić w interakcję z całkowicie transparentnym systemem finansowym bez konieczności ufania kontrahentom. Każdy może samodzielnie sprawdzić wypłacalność systemu odwiedzając któryś z wielu [paneli ze statystykami MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) lub poprzez przesłanie zapytania bezpośrednio do blockchaina.
+System działa na blockchainie Ethereum, więc wszystkie kontrakty i transakcje są publicznie dostępne. Użytkownicy mogą wchodzić w interakcję z całkowicie transparentnym systemem finansowym bez konieczności ufania kontrahentom. Każdy może samodzielnie sprawdzić wypłacalność systemu odwiedzając któryś z wielu [paneli ze statystykami MakerDAO](https://awesome.makerdao.com#watch-your-dai) lub poprzez przesłanie zapytania bezpośrednio do blockchaina.

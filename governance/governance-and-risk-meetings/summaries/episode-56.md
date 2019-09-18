@@ -1,4 +1,7 @@
-# Episode 56: October 10, 2019
+---
+id: episode-55
+title: Episode 55 - October 10, 2019
+---
 
 ## Agenda
 

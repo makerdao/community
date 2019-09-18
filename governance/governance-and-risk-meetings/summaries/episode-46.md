@@ -1,4 +1,7 @@
-# Episode 46: August 01, 2019
+---
+id: episode-46
+title: Episode 46 - August 01, 2019
+---
 
 ## Agenda
 

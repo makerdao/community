@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 46 (August 1 - 2019)
+---
+id: episode-46
+title: Episode 46 - August 1, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=aUvfcEgt0o4) | [Audio](https://soundcloud.com/makerdao/ep-46-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-august-1-9am-pst-4-00-pm-utc/218)
 
 | References | Person | Text |

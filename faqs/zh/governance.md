@@ -67,7 +67,7 @@ MKR 持有者也可以对系统的运营支出进行投票，这部分资金来�
 ## 治理调查的投票期是多久呢？
 
 投票期一般是两到三天，但如果社区针对某一提案，也可能会有所变化。
-你可以随时在我们的 [官方沟通渠道](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels) 上提出想法。
+你可以随时在我们的 [官方沟通渠道](https://awesome.makerdao.com#official-channels) 上提出想法。
 
 ## 一般什么时候会进行执行投票呢？
 

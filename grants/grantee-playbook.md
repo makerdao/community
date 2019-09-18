@@ -1,4 +1,8 @@
-# Community Development Grantee Playbook
+---
+id: grantee-playbook
+title: Community Development Grantee Playbook
+sidebar_label: Grantee Playbook
+---
 
 This document outlines list of very basic best practices our grantees are encouraged to follow. Please take a close look; **how well your team completes this checklist will used to determine whether milestones have been hit**, and will contribute to the future relationship your organization has with MakerDAO.
 

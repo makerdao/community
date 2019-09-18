@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 53 (September 19 - 2019)
+---
+id: episode-53
+title: Episode 53 - September 19, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=aLoqcivNvV0) | [Audio](https://soundcloud.com/makerdao/ep-53-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-w-special-guests-fluidity-io-thursday-september-19-9am-pst-4-00-pm-utc/503)
 
 | References | Person | Text |

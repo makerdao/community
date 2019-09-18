@@ -1,4 +1,7 @@
-# Editor Quick Start Guide
+---
+id: editor-quick-start
+title: Editor Quick Start Guide
+---
 
 Welcome to the MakerDAO Translation Initiative. Our goal is to bring Maker’s educational content to the world by providing materials for people in their native languages. This document summarizes the guidelines for editors.
 

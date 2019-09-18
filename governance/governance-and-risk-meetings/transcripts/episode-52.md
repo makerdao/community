@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 52 (September 12 - 2019)
+---
+id: episode-52
+title: Episode 52 - September 12, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=gqVnwOL42hQ) | [Audio](https://soundcloud.com/makerdao/governance-and-risk-meeting-ep-52?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-thursday-september-12-9am-pst-4-00-pm-utc/439)
 
 | References | Person | Text |

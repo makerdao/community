@@ -1,4 +1,7 @@
-# 术语表
+---
+id: glossary
+title: 术语表
+---
 
 ## A
 

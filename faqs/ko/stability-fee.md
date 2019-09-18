@@ -136,7 +136,7 @@ CDP 전체에서 발생하는 안정화 수수료는 다음과 같이 계산될 
 
 [새로운CDP 포탈](https://cdp.makerdao.com/): 우측 패널에서 “상환\(Payback\)” 버튼을 누르면 CDP에서 지불해야 할 수수료 잔고를 확인할 수 있습니다.
 
-이외에도 Awesome-MakerDAO 레포지토리에 있는 [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai)에서 제 3자가 제공하는 툴들도 사용하실 수 있습니다.
+이외에도 Awesome-MakerDAO 레포지토리에 있는 [Watch your Dai section](https://awesome.makerdao.com#watch-your-dai)에서 제 3자가 제공하는 툴들도 사용하실 수 있습니다.
 
 ## 수수료가 수요와 공급에 어떤 영향을 미치나요?
 
@@ -162,7 +162,7 @@ CDP 전체에서 발생하는 안정화 수수료는 다음과 같이 계산될 
 
 ## 리스크 팀에 대해 더 알아보고, 미래의 시스템 변화에 대해서 재단과 소통하려면 어떻게 해야하나요?
 
-모든 이슈들을 훨씬 더 자세하게 토의하는 주간 [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) 미팅에 참여하시면 됩니다. 미팅의 어젠다는 주기적으로 [r/MakerDAO](https://www.reddit.com/r/MakerDAO/)에 게시됩니다. 또한 Awesome-MakerDAO 레포지토리의 [Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)도 참고하세요.
+모든 이슈들을 훨씬 더 자세하게 토의하는 주간 [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) 미팅에 참여하시면 됩니다. 미팅의 어젠다는 주기적으로 [r/MakerDAO](https://www.reddit.com/r/MakerDAO/)에 게시됩니다. 또한 Awesome-MakerDAO 레포지토리의 [Governance section](https://awesome.makerdao.com#governance)도 참고하세요.
 
 ## 안정화 수수료 변동의 제한이 있나요?
 

@@ -1,4 +1,8 @@
-# Maker Collateral Onboarding Through MKR Governance Proposal
+---
+id: collateral-onboarding-guide
+title: Collateral Onboarding Through Governance Proposals
+sidebar_label: Collateral Onboarding
+---
 
 **Document version** **20190709**
 

@@ -1,4 +1,7 @@
-# Organizer Quickstart Guide
+---
+id: organizer-quick-start
+title: Organizer Quickstart Guide
+---
 
 Welcome to the MakerDAO Quick Start Guide for Hackathon Organizers. Below you will find all the information you need to know before reaching out to us.
 

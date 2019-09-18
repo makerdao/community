@@ -1,4 +1,8 @@
-# Grants Program
+---
+id: grants
+title: Grants Program
+sidebar_label: Overview
+---
 
 ***Please Note: The grants program is not accepting new applications as we work through a larger than normal backlog of proposals. The program will re-open on December 9, 2019.***
 

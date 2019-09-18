@@ -1,4 +1,8 @@
-# Weekly Meetings
+---
+id: meetings-schedule
+title: Weekly Meetings
+sidebar_label: Meetings Schedule
+---
 
 Maker hosts a weekly meeting in which we set the stage for cultural and operational consensus on a number of goverannce issues.
 
@@ -38,5 +42,5 @@ Please [join us](https://calendar.google.com/calendar/embed?src=makerdao.com_3ef
 - [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk)
 - [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan)
 - [Podcast](https://feeds.soundcloud.com/playlists/soundcloud:playlists:623643288/sounds.rss)
-- [Meeting Summaries](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries)
-- [Transcripts (Delayed by 48 hours)](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts)
+- [Meeting Summaries](./governance-and-risk-meetings/summaries)
+- [Transcripts (Delayed by 48 hours)](./governance-and-risk-meetings/transcripts)

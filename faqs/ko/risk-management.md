@@ -1,3 +1,8 @@
+---
+id: risk-management
+title: 리스크 관리 FAQ
+---
+
 # 리스크 관리 FAQ
 
 ## 리스크 관리란 무엇인가요?

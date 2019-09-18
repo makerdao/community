@@ -1,4 +1,7 @@
-# The Governance Risk Framework: Part 2
+---
+id: risk-framework-two
+title: The Governance Risk Framework - Part 2
+---
 
 ![The Governance Risk Framework: Part 2](https://cdn-images-1.medium.com/max/1600/1*yk1txefMRCQeFSM3yeJKlQ.png)
 

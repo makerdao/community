@@ -1,4 +1,7 @@
-# 抵押债仓（CDPs）
+---
+id: cdp
+title: 抵押债仓（CDPs）
+---
 
 ## 什么是抵押债仓 (CDP)?
 
@@ -133,4 +136,4 @@ CDP 是无需许可的，任何人都可以创建和使用。没有繁琐的申�
 
 ## 我可以如何审计 CDP 生态系统的资产健康状况呢?
 
-CDP 系统运行在以太坊区块链上，所有的智能合约和交易都是公开透明的。任何人都可以通过访问 [MakerDAO 统计面板](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai)，或直接查询区块链亲自审计系统的偿付能力。
+CDP 系统运行在以太坊区块链上，所有的智能合约和交易都是公开透明的。任何人都可以通过访问 [MakerDAO 统计面板](https://awesome.makerdao.com#watch-your-dai)，或直接查询区块链亲自审计系统的偿付能力。

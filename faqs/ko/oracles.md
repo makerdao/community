@@ -1,4 +1,7 @@
-# 오라클 (Oracle) FAQ
+---
+id: oracles
+title: 오라클 (Oracle)
+---
 
 ## 오라클은 무엇인가요?
 

@@ -1,4 +1,7 @@
-# Getting Started Guide
+---
+id: getting-started-guide
+title: Getting Started Guide
+---
 
 Organizing a successful event requires some effort. We've put together some guidelines to help you through this process.
 
@@ -32,7 +35,7 @@ We've included several guides and also some additional resources to help you org
 - [Promotion Guide](./promotion-guide.md)
 - [Event Formats Guide](./event-formats-guide.md)
 - [Design files](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
-- [Example Presentations](https://github.com/makerdao/awesome-makerdao#videos)
+- [Example Presentations](https://awesome.makerdao.com#videos)
 - [Usable Slides and Presentation Decks](./assets/slides)
 
 ## Hosting the meetup
