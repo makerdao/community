@@ -1,3 +1,8 @@
+---
+id: dai
+title: Dai
+---
+
 # Dai
 
 ## Cosa è il Dai?
@@ -70,7 +75,7 @@ L’unico modo per creare dei Dai è di generarli lasciando un pegno \(collatera
 
 ## Dove posso acquistare i DAI?
 
-Il Dai e’ disponibile in molti mercati di cryptovalute, sia centralizzati che decentralizzati [exchanges](https://coinmarketcap.com/currencies/dai/#markets). Una lista e’ disponibile in [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai).
+Il Dai e’ disponibile in molti mercati di cryptovalute, sia centralizzati che decentralizzati [exchanges](https://coinmarketcap.com/currencies/dai/#markets). Una lista e’ disponibile in [Awesome MakerDAO](https://awesome.makerdao.com#trade-your-dai).
 
 ## Dove posso vedere la quantità di pegno depositato che garantisce i Dai?
 
@@ -80,4 +85,4 @@ Chiunque può verificare se il sistema è solvente semplicemente analizzando la 
 
 ## Quali organizzazioni stanno usando Dai?
 
-Una lista è disponibile nella sezione Partnerships dell’archivio [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
+Una lista è disponibile nella sezione Partnerships dell’archivio [Awesome-MakerDao](https://awesome.makerdao.com).

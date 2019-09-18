@@ -1,5 +1,7 @@
-# 风险管理
-
+---
+id: risk-management
+title: 风险管理
+---
 
 ## 什么是风险管理？
 

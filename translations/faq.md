@@ -1,4 +1,8 @@
-# Translations Initiative FAQ
+---
+id: faq
+title: Translations Initiative FAQ
+sidebar_label: FAQ
+---
 
 ## What documents are available for translation?
 

@@ -1,4 +1,7 @@
-# Posiciones de Deuda Colateralizadas(CDP)
+---
+id: cdp
+title: Posiciones de Deuda Colateralizadas(CDP)
+---
 
 ## ¿Qué son las Posiciones de Deuda Colateralizadas(CDP)?
 
@@ -134,4 +137,4 @@ Si, siempre que haya colateral dentro del CDP puedes tomar prestado Dai. La liqu
 
 ## ¿Cómo puedo verificar la solvencia del ecosistema CDP?
 
-El sistema se ejecuta en la blockchain de Ethereum, por lo que todas las transacciones y contratos son públicos. Los usuarios pueden interactuar con un sistema financiero completamente transparente sin tener que confiar en una contraparte. Cualquiera puede verificar la solvencia del sistema por sí mismo visitando uno de los muchos [Paneles de Estadísticas de MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) o consultando directamente la blockchain.
+El sistema se ejecuta en la blockchain de Ethereum, por lo que todas las transacciones y contratos son públicos. Los usuarios pueden interactuar con un sistema financiero completamente transparente sin tener que confiar en una contraparte. Cualquiera puede verificar la solvencia del sistema por sí mismo visitando uno de los muchos [Paneles de Estadísticas de MakerDAO](https://awesome.makerdao.com#watch-your-dai) o consultando directamente la blockchain.

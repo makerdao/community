@@ -138,7 +138,7 @@ Tout MKR placé dans l'Incinérateur est définitivement retiré de la circulati
 
 [Nouveau portail CDP](https://cdp.makerdao.com/): Le solde impayé dû à un CDP est indiqué à droite du panneau qui apparaît après avoir cliqué sur _"Payback"_ \("Remboursement"\).
 
-Il existe aussi plusieurs outils tiers ; on peut les retrouver dans la [section _Watch your Dai_](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) \(Surveillez votre dai\) de l'archive Awesome-MakerDAO.
+Il existe aussi plusieurs outils tiers ; on peut les retrouver dans la [section _Watch your Dai_](https://awesome.makerdao.com#watch-your-dai) \(Surveillez votre dai\) de l'archive Awesome-MakerDAO.
 
 ## Comment les frais influencent-ils l'offre et la demande ?
 
@@ -164,7 +164,7 @@ Et à 10%:
 
 ## Comment en apprendre plus sur les équipes de gestion du risque et entrer en communication avec la Fondation au sujet de changements actuels ou futurs ?
 
-Vous pouvez rejoindre nos réunions hebdomadaires sur [la gouvernance et le risque](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) où ces questions sont discutées en détail. Les calendriers sont régulièrement publiés sur [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Jetez aussi un œil à la [section Gouvernance](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) de l'archive Awesome-MakerDAO.
+Vous pouvez rejoindre nos réunions hebdomadaires sur [la gouvernance et le risque](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) où ces questions sont discutées en détail. Les calendriers sont régulièrement publiés sur [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Jetez aussi un œil à la [section Gouvernance](https://awesome.makerdao.com#governance) de l'archive Awesome-MakerDAO.
 
 ## Y a-t-il une limite à la variation des frais de stabilité ?
 

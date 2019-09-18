@@ -1,4 +1,7 @@
-# Dai
+---
+id: dai
+title: Dai
+---
 
 ## Qu'est-ce que le dai ?
 
@@ -64,7 +67,7 @@ La seule façon de créer des dais est d'en émettre en déposant des garanties 
 
 ## Où acheter des dais ?
 
-Le dai est disponible auprès de plusieurs [bourses de cryptomonnaies](https://coinmarketcap.com/currencies/dai/#markets) centralisées et décentralisées. Le site [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) propose aussi une liste de marchés où s'échange le dai.
+Le dai est disponible auprès de plusieurs [bourses de cryptomonnaies](https://coinmarketcap.com/currencies/dai/#markets) centralisées et décentralisées. Le site [Awesome MakerDAO](https://awesome.makerdao.com#trade-your-dai) propose aussi une liste de marchés où s'échange le dai.
 
 ## Où peut-on consulter la quantité de garanties protégeant le dai ?
 
@@ -72,4 +75,4 @@ Le système s'exécute dans un contrat intelligent autonome et toutes les transa
 
 ## Quelles organisations utilisent le dai ?
 
-Une liste à jour se trouve dans la section _Partnerships_ \(partenariats\) du site [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao).
+Une liste à jour se trouve dans la section _Partnerships_ \(partenariats\) du site [Awesome-MakerDao](https://awesome.makerdao.com).

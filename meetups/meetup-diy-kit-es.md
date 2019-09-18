@@ -1,4 +1,7 @@
-# Kit para Reuniones
+---
+id: meetup-kit-es
+title: Kit para Reuniones
+---
 
 ## **Kit para Reuniones**
 
@@ -23,7 +26,7 @@ Hay muchas cosas a tener en mente cuando se planea organizar un meetup para la c
 
 #### **¿Qué es MakerDAO y Quiénes son nuestra Comunidad?**
 
-**MakerDAO** es una organización descentralizada dedicada a traer estabilidad a la cripto economía. Maker está desbloqueando el poder de las finanzas descentralizadas para todos creando una plataforma inclusiva para el empoderamiento económico — permitiendo que todos tengan acceso igualitario al mercado financiero global. Maker es una línea de crédito que emite **Dai**\(⬙\) , la primera stablecoin descentralizada del mundo en la blockchain de Ethereum. Dai elimina la volatilidad a través de un sistema autónomo de smart contracts e incentivos, específicamente diseñados para responder a las dinámicas del mercado. Como un token de gobernanza, **MKR** es usado por los MKR holders para votar por la administración de riesgo y lógica de negocios del sistema Maker. Un buen punto de inicio para más información:[ Nuestro website ](https://makerdao.com/)y [Awesome-MakerDAO repository](https://github.com/makerdao/awesome-makerdao/blob/master/README.md) .
+**MakerDAO** es una organización descentralizada dedicada a traer estabilidad a la cripto economía. Maker está desbloqueando el poder de las finanzas descentralizadas para todos creando una plataforma inclusiva para el empoderamiento económico — permitiendo que todos tengan acceso igualitario al mercado financiero global. Maker es una línea de crédito que emite **Dai**\(⬙\) , la primera stablecoin descentralizada del mundo en la blockchain de Ethereum. Dai elimina la volatilidad a través de un sistema autónomo de smart contracts e incentivos, específicamente diseñados para responder a las dinámicas del mercado. Como un token de gobernanza, **MKR** es usado por los MKR holders para votar por la administración de riesgo y lógica de negocios del sistema Maker. Un buen punto de inicio para más información:[ Nuestro website ](https://makerdao.com/)y [Awesome-MakerDAO repository](https://awesome.makerdao.com) .
 
 La Comunidad incluye a Dai y MKR holders y usuarios, participantes activos en el amplio ecosistema, observadores comprometidos\(críticos u otros\), Empleados de la Fundación, votantes de la Gobernanza, Keepers, Arbitrageurs, etc., y personas que simplemente encuentran interesante el modelo y están dispuestos a comprometerse. Si bien la comunidad en general se llama Maker, nos referimos a los miembros más comprometidos de la comunidad como la **comunidad principal** \(es decir, tú\).
 
@@ -99,7 +102,7 @@ Como se mencionó en el punto \#3, es recomendable para los organizadores leer c
 ### **Recursos**
 
 * [Archivos de diseño](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
-* [Ejemplos de presentaciones](https://github.com/makerdao/awesome-makerdao#videos)
+* [Ejemplos de presentaciones](https://awesome.makerdao.com#videos)
 * [Diapositivas utilizables y Decks de presentación](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
 
 ### **Guía de Tipos de Formato**
@@ -128,14 +131,14 @@ Esta es una lista no exhaustiva de sugerencias para los diferentes tipos de comp
 3. **Centrado en Sociales** \(sugerimos encarecidamente usar este formato en combinación con otros formatos\): Este formato se concentra en reunir a miembros de la comunidad con el propósito de trabajar en las redes y brindar un lugar para reunirse en persona. 1. _Dai Dappy Hour_ \_**\(debería combinarse con algún evento de aprendizaje\) — mira estas Dappy Hours pasadas \(**[**1**](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#)**,**[**2**](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f)**,**[**3**](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/)**\) y cómo ponerse en marcha \(contacta a** [**Mariano**](https://twitter.com/Mariandipietra)**\) 1.** Meetup de Fans de Maker \*\* — inspiración posible[ aquí ](https://www.meetup.com/EthereumSiliconValley/events/249307694/)— Juegos, Rifas, subastas en Dai\)
 4. **Demos y sesiones prácticas** \(excelentes para mercados emergentes\): Este formato se enfoca en educar a las personas sobre las maneras en que pueden utilizar Dai e interactuar con el sistema de MakerDAO. Este tipo de formato podría poner un énfasis especial en enseñar a las personas a cómo usar las herramientas web3 básicas como wallets, exchanges y dapps. Es recomendado hacerlo junto con otros formatos. 1. _Demos Complejas_
    * Jugando con CDPs \([ejemplo](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd)\)
-   * Jugando con DeFi dapps \([lista](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai)\)
+   * Jugando con DeFi dapps \([lista](https://awesome.makerdao.com#playing-with-dai)\)
    * Shorts y tokens apalancados \([dYdX](https://dydx.exchange/)\)
    * Tasas de Interés \([Financiamiento compuesto](https://app.compound.finance/)\)
    * Contabilidad y Liquidación \([Red de solicitudes](https://request.network/#/)\)
    * [Dai.js](https://makerdao.com/documentation/)
      1. _Demos Simples_
-   * ¿Cómo lo obtengo? \(navegar [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai)\)
-   * ¿Qué puedo hacer con ello? \(reteniendo [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai), gastando [aquí](https://www.thebigcoin.io/pay-with-dai)\)
+   * ¿Cómo lo obtengo? \(navegar [aquí](https://awesome.makerdao.com#trade-your-dai)\)
+   * ¿Qué puedo hacer con ello? \(reteniendo [aquí](https://awesome.makerdao.com#hold-your-dai), gastando [aquí](https://www.thebigcoin.io/pay-with-dai)\)
    * ¿Por qué es bueno? \(el por qué respondido [aquí](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e), inspiraciones: [casos de uso](https://medium.com/makerdao/stablecoins-casos-de-uso-f4d59f21980c?source=---------12---------------------), donaciones de caridad [1](https://needslist.co/donate),[2](https://merrymerkle.africa/),[3](https://medium.com/alice-si/heres-what-happened-at-the-blockchain-for-good-workshop-at-devcon4-and-what-s-coming-next-f198dd84a4b9)\)
 5. **Otras Ideas** 1. Juegos 1. Rifas 1. Subastas en Dai
    * Iniciativa de Donación Correspondiente

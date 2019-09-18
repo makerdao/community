@@ -1,4 +1,7 @@
-# 紧急关停
+---
+id: emergency-shutdown
+title: 紧急关停
+---
 
 ## 什么是紧急关停?
 

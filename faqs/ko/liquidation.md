@@ -1,4 +1,7 @@
-# 청산\(Liquidation\)
+---
+id: liquidation
+title: 청산\(Liquidation\)
+---
 
 ## 청산이란 무엇인가요?
 

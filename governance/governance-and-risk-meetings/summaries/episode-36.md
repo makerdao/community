@@ -1,4 +1,7 @@
-# Episode 36: May 23, 2019
+---
+id: episode-36
+title: Episode 36 - May 23, 2019
+---
 
 ## Agenda
 
@@ -18,7 +21,7 @@ The theme for this call will be 'Demand/Supply Imbalance'.
 - Don't be hesitant to give us feedback on these calls and conversations!
 - This is not a governance committee, we don't decide things on this call. This where we debate things, talk about trends, clear up misconceptions, present analytics, and so on.
 
-#### Steven [02:15](https://youtu.be/E-YDss-fS6U?t=135)
+#### Steven [02:15](https://youtu.be/E-YDss-fS6U?t=135) 
 
 - There is an ecosystem developing around each type of system participant. Governance is also being developed, and it's important to ask poignant questions to help with that development.
 - I want to encourage people to self-organize and develop an ecosystem around governance. It's important for that interaction to be there consistently.

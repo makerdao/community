@@ -1,4 +1,7 @@
-# Liquidation
+---
+id: liquidation
+title: Liquidation
+---
 
 ## What is Liquidation?
 

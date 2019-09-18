@@ -1,4 +1,7 @@
-# MakerDAO FAQs
+---
+id: faqs
+title: MakerDAO FAQs Overview
+---
 
 ## 抵押债仓（CDPs）
 

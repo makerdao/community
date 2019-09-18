@@ -1,4 +1,8 @@
-# Contributing
+---
+id: contributing
+title: Contributing to Community Development
+sidebar_label: Overview
+---
 
 Welcome to the MakerDAO Community Development Contributing Section, a place that guides community members interested in contributing to MakerDAO's community resources.
 
@@ -15,7 +19,7 @@ The Community Development Group's goal is to provide members with the tools need
 
 ## Project Description
 
-Community members have numerous options when contributing to resources in the MakerDAO community GitHub. Whether translating documents, producing new sections, proofreading for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found in the [style-guide](./style-guide.md).
+Community members have numerous options when contributing to resources in the MakerDAO community GitHub. Whether translating documents, producing new sections, proofreading for grammatical errors, or adding questions and answers to the FAQs, standards and best practices can be found in the [style-guide](contributing/style-guide.md).
 
 ## Is this for me?
 
@@ -26,11 +30,11 @@ Community members have numerous options when contributing to resources in the Ma
 
 ## How do I get involved?
 
-Get familiar with the [style guide](./style-guide.md). 
+Get familiar with the [style guide](contributing/style-guide.md). 
 
 Then, decide where you want to contribute:
 
-- [Translate MakerDAO resources](/translations/README.md)
-- [Improve Meetup guides](/meetups/README.md)
-- [Curate Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao)
+- [Translate MakerDAO resources](translations.md)
+- [Improve Meetup guides](meetups.md)
+- [Curate Awesome-MakerDAO](https://awesome.makerdao.com)
 - [MakerDAO: Help Wanted](https://forum.makerdao.com/c/comm-dev/help-wanted)

@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 42 (July 4 - 2019)
+---
+id: episode-42
+title: Episode 42 - July 4, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=5QDgbgfG8qc) | [Audio](https://soundcloud.com/makerdao/ep-42-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/c8yiki/agendadiscussion_scientific_governance_and_risk/)
 
 | References | Person | Text |

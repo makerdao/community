@@ -1,4 +1,7 @@
-# Episode 51: September 05, 2019
+---
+id: episode-51
+title: Episode 51 - September 05, 2019
+---
 
 ## Agenda
 

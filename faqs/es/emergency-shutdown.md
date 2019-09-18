@@ -1,3 +1,8 @@
+---
+id: emergency-shutdown
+title: Apagado de Emergencia
+---
+
 # Apagado de Emergencia FAQ
 
 ## ¿Qué es un Apagado de Emergencia?

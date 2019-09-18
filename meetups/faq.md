@@ -1,4 +1,8 @@
-# DIY Meetups FAQ
+---
+id: faq
+title: DIY Meetups FAQ
+sidebar_label: FAQ
+---
 
 ## How do I get started?
 

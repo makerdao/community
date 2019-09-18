@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 47 (August 8 - 2019)
+---
+id: episode-47
+title: Episode 47 - August 8, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=OuEtRG9rWIo) | [Audio](https://soundcloud.com/makerdao/ep-47-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://forum.makerdao.com/t/scientific-governance-and-risk-thursday-august-8-9am-pst-4-00-pm-utc/236)
 
 | References | Person | Text |

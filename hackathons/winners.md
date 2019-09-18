@@ -1,4 +1,7 @@
-# Hackathon Winners
+---
+id: hackathon-winners
+title: Hackathon Winners
+---
 
 This is a place where hackathon winners of MakerDAO sponsored prizes are listed and recognized for their work.
 

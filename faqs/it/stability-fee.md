@@ -140,7 +140,7 @@ Ogni MKR che risiede nel burner wallet, prima di essere distrutto per sempre, è
 
 [Nuova CDP Portal](https://cdp.makerdao.com/): L'ammontare complessivo è visualizzato sul pannello di destra che appare quando clicchi "Payback".
 
-Inoltre, nella sezione [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) del Awesome-MakerDAO Repository, sono messi a disposizione tutta una serie di altri strumenti sviluppati da terze parti.
+Inoltre, nella sezione [Watch your Dai section](https://awesome.makerdao.com#watch-your-dai) del Awesome-MakerDAO Repository, sono messi a disposizione tutta una serie di altri strumenti sviluppati da terze parti.
 
 ## Come fa la Stability fee ad impattare lo stato della domanda e dell'offerta?
 
@@ -166,7 +166,7 @@ E al 10%:
 
 ## Come posso saperne di più sui Team di analisi del rischio \(Risk Teams\) e comunicare con la Foundation a proposito di modifiche in corso, o future, del sistema MakerDao?
 
-Puoi partecipare ai meeting settimanali [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) dove discutiamo di queste tematiche in modo dettagliato. L'agenda degli incontri è pubblicata regolarmente su [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Inoltre, visita anche [Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) sul Awesome-MakerDAO repository.
+Puoi partecipare ai meeting settimanali [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) dove discutiamo di queste tematiche in modo dettagliato. L'agenda degli incontri è pubblicata regolarmente su [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Inoltre, visita anche [Governance section](https://awesome.makerdao.com#governance) sul Awesome-MakerDAO repository.
 
 ## Esiste un limite alla variabilità della Stability fee?
 

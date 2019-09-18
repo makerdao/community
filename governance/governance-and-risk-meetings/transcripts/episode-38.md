@@ -1,4 +1,8 @@
-# Governance and Risk Meeting: Ep. 38 (June 6 - 2019)
+---
+id: episode-38
+title: Episode 38 - June 6, 2019
+---
+
 [Video](https://www.youtube.com/watch?v=AAYQZStoysQ) | [Audio](https://soundcloud.com/makerdao/ep-38-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/bxazng/meetingthread_scientific_governance_and_risk/)
 
 | References | Person | Text |

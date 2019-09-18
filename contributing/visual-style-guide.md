@@ -1,3 +1,8 @@
+---
+id: visual-style-guide
+title: Visual Style Guide
+---
+
 # MakerDAO Community Style Guide
 
 This style guide outlines the aesthetic elements & standards currently being used across MakerDAO's community initiatives. At the time of writing, an official MakerDAO style guide has not been published, but this one uses many of the existing colors, type scales, etc. present on the makerdao.com website.

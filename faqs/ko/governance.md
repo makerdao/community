@@ -56,7 +56,7 @@ MKR 토큰 보유자들은 시스템 유지를 위한 비용을 안정화 수수
 
 ## 거버넌스 여론조사의 조사기간은 어느 정도 되나요?
 
-보통 투표기간은 이틀에서 삼일 정도지만, 해당 거버넌스에 대한 커뮤니티의 활발한 토론 여부에 따라 바뀔 수 있습니다. [공식 커뮤니케이션\(Official Communication Channels\)](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels) 채널 중 어떤 곳이든 참여해서 의견을 말씀해주세요.
+보통 투표기간은 이틀에서 삼일 정도지만, 해당 거버넌스에 대한 커뮤니티의 활발한 토론 여부에 따라 바뀔 수 있습니다. [공식 커뮤니케이션\(Official Communication Channels\)](https://awesome.makerdao.com#official-channels) 채널 중 어떤 곳이든 참여해서 의견을 말씀해주세요.
 
 ## 실행 투표는 언제 진행되나요?
 

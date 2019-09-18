@@ -1,4 +1,8 @@
-# DIY Community Meetups
+---
+id: meetups
+title: DIY Community Meetups
+sidebar_label: Overview
+---
 
 Welcome to Do It Yourself Community Meetups, a place where you can find all the resources you need to host your very own meetup.
 
@@ -18,9 +22,9 @@ Maker is only as strong as its community. By hosting a meetup in your area, you 
 
 ## Project Description
 
-This program is a major initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
+This program is a major initiative of the Maker Foundation. We offer a [micro-granting program](meetups/requesting-funds.md) to help fund local community meetups.
 
-Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
+Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](meetups/getting-started-guide.md), [Budget Guide](meetups/budget-guide.md), [Promotion Guide](meetups/promotion-guide.md), and an [Event Formats Guide](meetups/event-formats-guide.md).
 
 ## Is this for me?
 
@@ -37,9 +41,9 @@ Not in a position to host? No problem. We're constantly looking to improve the q
 
 ## How do I get involved?
 
-Ready to start planning your meetup? We've created a [guide](./getting-started-guide.md) to help you get started.
+Ready to start planning your meetup? We've created a [guide](meetups/getting-started-guide.md) to help you get started.
 
-Interested in contributing to the Hosting Guides? Learn how in our [contributors page](../contributing/README.md).
+Interested in contributing to the Hosting Guides? Learn how in our [contributors page](contributing.md).
 
 ## Status
 

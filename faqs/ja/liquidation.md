@@ -1,4 +1,7 @@
-# 清算
+---
+id: liquidation
+title: 清算
+---
 
 ## 清算とは？
 

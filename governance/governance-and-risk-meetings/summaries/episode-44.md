@@ -1,4 +1,7 @@
-# Episode 44: July 18, 2019
+---
+id: episode-44
+title: Episode 44 - July 18, 2019
+---
 
 ## Agenda
 

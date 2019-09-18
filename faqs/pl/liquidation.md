@@ -1,4 +1,7 @@
-# Likwidacja
+---
+id: liquidation
+title: Likwidacja
+---
 
 ## Czym jest likwidacja?
 

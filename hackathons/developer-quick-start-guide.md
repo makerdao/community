@@ -1,10 +1,13 @@
-# Developer Quick Start Guide
+---
+id: dev-quick-start
+title: Developer Quick Start Guide
+---
 
 Welcome to the MakerDAO Quick Start Guide for Developers. Our goal in this guide is to point hackathon participants in the right direction for any of their needs.
 
 ## Developer Resources
 
-MakerDAO is a complex system, with many parts. A curated list of developer resources relating to MakerDAO can be found in our [Awesome-MakerDAO repository](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#developer-resources) to help you with your project.
+MakerDAO is a complex system, with many parts. A curated list of developer resources relating to MakerDAO can be found in our [Awesome-MakerDAO repository](https://awesome.makerdao.com#developer-resources) to help you with your project.
 
 ## What Should I Bring
 

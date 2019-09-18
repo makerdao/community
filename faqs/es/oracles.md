@@ -1,4 +1,7 @@
-# Oráculos
+---
+id: oracles
+title: Oráculos
+---
 
 ## ¿Qué es un Oráculo?
 

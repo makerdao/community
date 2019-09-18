@@ -1,4 +1,5 @@
 ---
+id: risk-team-mandate
 title: Ratify the Interim Risk Team Mandate
 summary: If this mandate is accepted by the community, it will signal support for the Interim Risk Team and for the general scope of the initiatives outlined in the proposal.
 discussion_link: https://forum.makerdao.com/t/mandate-risk-teams/282

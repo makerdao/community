@@ -1,4 +1,8 @@
-# 用語集
+---
+id: glossary
+title: 用語集
+---
+
 ## A
 ## B
 

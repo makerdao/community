@@ -1,4 +1,7 @@
-# Episode 41: June 27, 2019
+---
+id: episode-41
+title: Episode 41 - June 27, 2019
+---
 
 ## Agenda
 

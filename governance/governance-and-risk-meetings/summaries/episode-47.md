@@ -1,4 +1,7 @@
-# Episode 47: August 08, 2019
+---
+id: episode-47
+title: Episode 47 - August 08, 2019
+---
 
 ## Agenda
 

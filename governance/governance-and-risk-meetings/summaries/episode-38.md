@@ -1,4 +1,7 @@
-# Episode 38: June 6, 2019
+---
+id: episode-38
+title: Episode 38 - June 6, 2019
+---
 
 ## Agenda
 

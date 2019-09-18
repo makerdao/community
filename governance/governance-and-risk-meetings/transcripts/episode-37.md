@@ -1,4 +1,7 @@
-# Governance and Risk Meeting: Ep. 37 (May 30 - 2019)
+---
+id: episode-37
+title: Episode 37 - May 30, 2019
+---
 
 [Video](https://www.youtube.com/watch?v=EmIaugA2fis) | [Audio](https://soundcloud.com/makerdao/ep-37-governance-and-risk-meeting?in=makerdao/sets/governance-and-risk) | [Discussion](https://www.reddit.com/r/mkrgov/comments/buoqhv/meetingthread_scientific_governance_and_risk/)
 

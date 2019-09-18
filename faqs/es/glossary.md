@@ -1,4 +1,7 @@
-# Glosario de Términos
+---
+id: glossary
+title: Glosario de Términos
+---
 
 ## A
 

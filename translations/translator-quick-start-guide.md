@@ -1,4 +1,7 @@
-# Translator Quick Start Guide
+---
+id: translator-quick-start
+title: Translator Quick Start Guide
+---
 
 Welcome to the MakerDAO Translation Initiative. Our goal is to bring Maker’s educational content worldwide by providing material for people in their native languages. This document summarizes the guidelines for translators.
 

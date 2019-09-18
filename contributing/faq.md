@@ -1,4 +1,8 @@
-# Contributors FAQ
+---
+id: contributing-faq
+title: Contributors FAQ
+sidebar_label: FAQ
+---
 
 ## What can I contribute to?
 

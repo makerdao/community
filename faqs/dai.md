@@ -1,4 +1,7 @@
-# Dai
+---
+id: dai
+title: Dai
+---
 
 ## What is Dai?
 
@@ -64,7 +67,7 @@ You can only create DAI by generating it against the collateral you lock in your
 
 ## Where can I buy Dai?
 
-The DAI token is available on a range of centralized and decentralized [exchanges](https://coinmarketcap.com/currencies/dai/#markets). The [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) repository also maintains a list of Dai markets.
+The DAI token is available on a range of centralized and decentralized [exchanges](https://coinmarketcap.com/currencies/dai/#markets). The [Awesome MakerDAO](https://awesome.makerdao.com#trade-your-dai) repository also maintains a list of Dai markets.
 
 ## Where can I see the amount of collateral that is backing DAI?
 
@@ -72,4 +75,4 @@ Because the system runs as an autonomous smart contract and all transactions are
 
 ## What organizations are using DAI?
 
-A current list can be found in the [Partnerships](https://github.com/makerdao/awesome-makerdao#partnerships) section of the [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao#) repository.
+A current list can be found in the [Partnerships](https://awesome.makerdao.com#partnerships) section of the [Awesome-MakerDao](https://awesome.makerdao.com) repository.
