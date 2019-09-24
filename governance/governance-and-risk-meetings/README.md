@@ -1,6 +1,6 @@
 # Governance and Risk Meeting
 
-In these meetings, we set the stage for cultural and operational consensus across the community for a number of issues that relate to the [Scientific Governance and Risk Framework](LINK).
+In these meetings, we set the stage for cultural and operational consensus across the community for a number of issues that relate to the [Scientific Governance and Risk Framework](../governance-risk-framework/part-one.md).
 
 To make sure we create opportunities for the greatest amount of direct community interaction, we have weekly calls on Thursdays. In the calls, we:
 

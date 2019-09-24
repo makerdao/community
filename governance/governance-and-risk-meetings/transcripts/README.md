@@ -1,5 +1,10 @@
 # Governance and Risk Meeting Transcripts
 
+- [Episode 52: Sep 12, 2019](episode-52.md)
+- [Episode 51: Sep 05, 2019](episode-51.md)
+- [Episode 50: Aug 29, 2019](episode-50.md)
+- [Episode 49: Aug 22, 2019](episode-49.md)
+- [Episode 48: Aug 15, 2019](episode-48.md)
 - [Episode 47: Aug 08, 2019](episode-47.md)
 - [Episode 46: Aug 01, 2019](episode-46.md)
 - [Episode 45: Jul 25, 2019](episode-45.md)

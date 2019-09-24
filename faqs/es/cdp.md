@@ -10,7 +10,7 @@ Se requiere que los CDP tengan un exceso de colateral. Se requiere que el valor 
 
 ## ¿Cómo funciona un CDP?
 
-Cualquier usuario que desee pedir un préstamo en Dai puede depositar ETH en un CDP. Una vez depositado, el usuario puede generar Dai contra el valor de su depósito. El ETH depositado puede ser retirado proporcionalmente cuando el usuario devuelve una parte o la totalidad del Dai prestado. Mientras los usuarios de CDP mantengan la [Ratio de Colateralización](https://github.com/makerdao/community/blob/master/faqs/cdp.md#what-is-the-collateralization-ratio) mínima, pueden retirar o depositar libremente el colateral excedente.
+Cualquier usuario que desee pedir un préstamo en Dai puede depositar ETH en un CDP. Una vez depositado, el usuario puede generar Dai contra el valor de su depósito. El ETH depositado puede ser retirado proporcionalmente cuando el usuario devuelve una parte o la totalidad del Dai prestado. Mientras los usuarios de CDP mantengan la [Ratio de Colateralización](./cdp.md#what-is-the-collateralization-ratio) mínima, pueden retirar o depositar libremente el colateral excedente.
 
 Luego de generar su Dai, los usuarios de CDP pueden hacer lo que quieran con ellos. Si un usuario desea recuperar el total de su colateral, necesita antes devolver todo el Dai prestado.
 
@@ -30,7 +30,7 @@ Si un CDP contiene colateral insuficiente es considerado ‘inseguro’, puede s
 
 El Ratio de Colateralización es la relación entre el valor del colateral que los usuarios han agregado a su CDP, y cuánto Dai han tomado prestado.
 
-Por ejemplo: Digamos que el Ether bloqueado en un CDP vale 150$ y se han tomado prestados 50 Dai, esto significa que el Ratio de Colateralización es del 300%. Por cada Dai, hay 3$ en valor de colateral que lo respaldan. En el Sistema Maker, tu CDP puede ser liquidado si cae por debajo de el [Ratio de Liquidación](https://github.com/makerdao/community/blob/master/faqs/liquidation.md#what-is-the-liquidation-ratio), el cual es el mínimo Ratio de Colateralización.
+Por ejemplo: Digamos que el Ether bloqueado en un CDP vale 150$ y se han tomado prestados 50 Dai, esto significa que el Ratio de Colateralización es del 300%. Por cada Dai, hay 3$ en valor de colateral que lo respaldan. En el Sistema Maker, tu CDP puede ser liquidado si cae por debajo de el [Ratio de Liquidación](./liquidation.md#what-is-the-liquidation-ratio), el cual es el mínimo Ratio de Colateralización.
 
 ## ¿Qué riesgos se asocian con poseer un CDP?
 
@@ -124,7 +124,7 @@ Una vez que un colateral ha sido depositado en un contrato, no es posible usar l
 
 ## ¿Debo pagar de vuelta el Dai si mi colateral aumenta su valor?
 
-Los usuarios deben pagar manualmente todas sus deudas, incluyendo la [Tarifa de Estabilidad](https://github.com/makerdao/community/blob/master/faqs/stability-fee.md#what-is-the-stability-fee) si desean liberar todo su colateral. El sistema no paga automáticamente la Tarifa de Estabilidad usando la revalorización del colateral dentro de sus CDP.
+Los usuarios deben pagar manualmente todas sus deudas, incluyendo la [Tarifa de Estabilidad](./stability-fee.md#what-is-the-stability-fee) si desean liberar todo su colateral. El sistema no paga automáticamente la Tarifa de Estabilidad usando la revalorización del colateral dentro de sus CDP.
 
 A medida que el valor del colateral aumenta, se puede retirar porciones del mismo mientras se mantiene el mismo Ratio de Colateralización. Cualquier colateral que esté por encima del Ratio de Colateralización puede ser extraído, sin embargo, hacerlo elevará el precio de liquidación y por lo tanto incrementará el riesgo. Si el valor de tu colateral aumenta, tu Ratio de Colateralización aumenta.
 
