@@ -1,0 +1,3 @@
+files:
+  - source: /faqs/governance.md
+    translation: /faqs/%two_letters_code%/%original_file_name%
