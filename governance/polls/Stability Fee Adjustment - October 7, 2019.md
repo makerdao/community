@@ -1,5 +1,5 @@
 ---
-title: Poll: Stability Fee Adjustment - October 7, 2019
+title: Stability Fee Adjustment - October 7, 2019
 summary: Signal your support to adjust the Stability Fee within a range of 6.5% to 14.5%
 discussion_link: https://forum.makerdao.com/t/565
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
