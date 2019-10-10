@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 # Glossary of Terms
+=======
+---
+id: glossary
+title: Glossary of Terms
+---
+>>>>>>> Stashed changes
 
 ## A
 

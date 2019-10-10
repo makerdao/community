@@ -2,7 +2,7 @@
 
 ## What is MakerDAO?
 
-MakerDAO is a decentralized organization dedicated to bringing stability to the crypto economy. The MKR token holders are the decision makers in the DAO, supported by the larger public community of keepers, stakeholders, and various other interested parties. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment; allowing everyone equal access to the global financial marketplace. MakerDAO is a credit facility that issues [Dai](./dai.md#what-is-dai)\(⬙\), the world's first stable decentralized digital cash.
+MakerDAO is a decentralized organization dedicated to bringing stability to the crypto economy. The MKR token holders are the decision makers in the DAO, supported by the larger public community of keepers, stakeholders, and various other interested parties. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment; allowing everyone equal access to the global financial marketplace. MakerDAO is a credit facility that issues [Dai](./dai.md#what-is-dai)(⬙), the world's first stable decentralized digital cash.
 
 ## Who started MakerDAO and when?
 
@@ -60,7 +60,7 @@ No.
 
 ## What is the legal structure of The Maker Foundation?
 
-The various entities associated with the Maker Foundation are currently held under the Maker Ecosystem Growth Foundation \(MEGF\), a Cayman Islands company. As a group, these entities are referred to as The Maker Ecosystem Growth Group \(MEGG\).
+The various entities associated with the Maker Foundation are currently held under the Maker Ecosystem Growth Foundation (MEGF), a Cayman Islands company. As a group, these entities are referred to as The Maker Ecosystem Growth Group (MEGG).
 
 ## How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?
 

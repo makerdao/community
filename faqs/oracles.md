@@ -12,11 +12,11 @@ If the reference price for ETH was determined by a single party, then they could
 
 To defend against fraudulent reporting of data, the reporting is decentralized; there are multiple data reporters who are independent of each other. The current ETH price feed has [14 price-feed providers](https://mkr.tools/system/feeds) who send their data to the [Medianizer](https://github.com/makerdao/medianizer) contract. The Medianizer uses the median of the reported prices as the official reference price. Using the median instead of the mean makes it harder to manipulate the reference price since control over half of the feed providers is needed in order for a fraudulent price to be published. Additionally, using the median filters out the outliers automatically.
 
-In addition to this, the Oracle Security Module\(OSM\) safeguards the process by delaying price-feed data for one hour. This allows MKR token holders to have time to identify bugs or attacks on the price-feed system. Currently, the OSM is active on the MKR price feed, but not the ETH feed. This is because in Single Collateral Dai, when a CDP is liquidated, the collateral is sold at the current market price according to the feed, therefore the ETH price cannot have a delay. This will change in Multi Collateral Dai to ensure all price feeds can be delayed.
+In addition to this, the Oracle Security Module(OSM) safeguards the process by delaying price-feed data for one hour. This allows MKR token holders to have time to identify bugs or attacks on the price-feed system. Currently, the OSM is active on the MKR price feed, but not the ETH feed. This is because in Single Collateral Dai, when a CDP is liquidated, the collateral is sold at the current market price according to the feed, therefore the ETH price cannot have a delay. This will change in Multi Collateral Dai to ensure all price feeds can be delayed.
 
 ## What is the Oracle Security Module?
 
-The Oracle Security Module\(OSM\) delays the publishing of new reference prices for one hour. This allows MKR Token Holders to have time to react to bugs or attacks on the price-feed system. Currently, the OSM is active on the MKR price feed, but not the ETH feed. This is because in Single Collateral Dai when a CDP is liquidated the collateral is sold at the current market price according to the feed, while in MCD it will be sold through an auction mechanism that does not require a price feed.
+The Oracle Security Module(OSM) delays the publishing of new reference prices for one hour. This allows MKR Token Holders to have time to react to bugs or attacks on the price-feed system. Currently, the OSM is active on the MKR price feed, but not the ETH feed. This is because in Single Collateral Dai when a CDP is liquidated the collateral is sold at the current market price according to the feed, while in MCD it will be sold through an auction mechanism that does not require a price feed.
 
 ## Who are the Price-Feed Providers?
 
@@ -30,8 +30,8 @@ A very small number of people within the Maker Foundation know who all the curre
 
 The ETH reference price is published by the Medianizer contract which is given prices by [14 price-feed providers](https://mkr.tools/system/feeds). Each feed provider sends an update to the Medianizer when:
 
-- Source price differs from the most recently submitted price by more than a predefined amount \(currently between 1% and 2% depending on the feed provider\)
-- The last price update was more than t hours ago \(configured by each individual feed provider\).
+- Source price differs from the most recently submitted price by more than a predefined amount (currently between 1% and 2% depending on the feed provider)
+- The last price update was more than t hours ago (configured by each individual feed provider).
 
 Each price-feed provider uses a tool called [Setzer](https://github.com/makerdao/setzer) which pulls the median price from a set of exchanges and then pushes it to the Medianizer. The Medianizer then takes the median of the reported price-feed medians. Price-feed providers may configure Setzer to pull from any exchanges of their choosing.
 

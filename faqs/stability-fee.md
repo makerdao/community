@@ -40,9 +40,9 @@ Where:
 
 **A** = Interest
 
-**P** = the principal investment amount \(the initial deposit or loan amount\)
+**P** = the principal investment amount (the initial deposit or loan amount)
 
-**r** = the annual interest rate \(decimal\)
+**r** = the annual interest rate (decimal)
 
 **n** = the number of times that interest is compounded per year
 
@@ -50,9 +50,9 @@ Where:
 
 **e** = [Euler's number](https://www.mathsisfun.com/numbers/e-eulers-number.html)
 
-- **P** \(1 + r/n\)^nt - P = A: Annual Compounding
-- **P** \(1 + r/n\)^nt - P = A: Monthly Compounding
-- **P** \(e\)^rt - P = A: Continuous Compounding
+- **P** (1 + r/n)^nt - P = A: Annual Compounding
+- **P** (1 + r/n)^nt - P = A: Monthly Compounding
+- **P** (e)^rt - P = A: Continuous Compounding
 
 ### Simplified
 
@@ -94,7 +94,7 @@ The Dai denominated debt must now be converted to MKR for payment. The CDP owner
 
 The total Stability Fee accrued in the CDP can be calculated like this:
 
-> \(\(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI \) = Total Stability Fee owed in DAI
+> (((Borrowed DAI * (1 + Current Stability Fee in decimal format)) ^ (Age of Debt in days/365)) - Borrowed DAI ) = Total Stability Fee owed in DAI
 
 When we plug in the values we've already used above we see the fees in DAI owing:
 
@@ -142,13 +142,13 @@ There are also a number of third-party tools that can be found in the [Watch you
 
 ## How does the fee alter supply and demand?
 
-An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee (cost of borrowing) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 ## How do I calculate the impact of variable Stability Fees?
 
 You can use this simplified formula to determine accrued Stability Fees:
 
-> \(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI\) = Total Stability Debt owed in DAI
+> ((Borrowed DAI * (1 + Current Stability Fee in decimal format)) ^ (Age of Debt in days/365)) - Borrowed DAI) = Total Stability Debt owed in DAI
 
 The fees on a 10,000 DAI debt over the course of 31 days at 5.0%:
 
@@ -168,7 +168,7 @@ Please consider joining our weekly [Governance and Risk](https://calendar.google
 
 ## Is there a limit to the range of the Stability Fee changes?
 
-The Risk Team will propose the thresholds for altering the Stability Fee \(rate of change over time, deviation of the peg, sampling times\) and present them for approval to Maker voters.
+The Risk Team will propose the thresholds for altering the Stability Fee (rate of change over time, deviation of the peg, sampling times) and present them for approval to Maker voters.
 
 ## How can CDP owners mitigate fee change risk?
 

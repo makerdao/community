@@ -50,7 +50,7 @@ Dai is not a hard-pegged currency so it does not perfectly track the value of an
 
 It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, CDP owners, and normal market makers.
 
-If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee (cost of borrowing) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 Arbitrageurs also contribute to the short term stability of the peg by taking advantage of opportunities across various Dai markets.
 

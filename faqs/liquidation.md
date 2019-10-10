@@ -2,7 +2,7 @@
 
 ## What is Liquidation?
 
-A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CDP's collateral \(as judged by the Oracles\) is worth less than the required collateralization for the asset class. During the Liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.
+A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CDP's collateral (as judged by the Oracles) is worth less than the required collateralization for the asset class. During the Liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.
 
 ## Why does Liquidation exist?
 
@@ -34,7 +34,7 @@ Proceeds from penalty fees are transferred to the PETH pool. This increases the 
 
 ## What happens during a Liquidation?
 
-Liquidation occurs when a Keeper closes a CDP and sends it to the Liquidity Providing Contract \(LPC\), which in turn, offers the CDPs assets for sale on the [Dai Dashboard](https://dai.makerdao.com). Once the debt obligations have been met, the unsold PETH collateral is returned to the CDP owner.
+Liquidation occurs when a Keeper closes a CDP and sends it to the Liquidity Providing Contract (LPC), which in turn, offers the CDPs assets for sale on the [Dai Dashboard](https://dai.makerdao.com). Once the debt obligations have been met, the unsold PETH collateral is returned to the CDP owner.
 
 The order of operations looks like this:
 
@@ -143,7 +143,7 @@ For further information on risks, please refer to the [Terms of Service](https:/
 
 ## How does the smart contract sell collateral?
 
-When a Keeper Liquidates an unsafe CDP, the Liquidity Providing Contract \(LPC\) ensures the collateral is offered for sale on the Dai Dashboard. The sale price is determined by the Oracle feeds with a special modifier applied. This modifier generally takes the form of a discount, which is then applied to the outstanding debt that must be recovered. This additional "spread" is designed to incentivize a quick recapitalization of the system by offering a better than market price to collateral buyers.
+When a Keeper Liquidates an unsafe CDP, the Liquidity Providing Contract (LPC) ensures the collateral is offered for sale on the Dai Dashboard. The sale price is determined by the Oracle feeds with a special modifier applied. This modifier generally takes the form of a discount, which is then applied to the outstanding debt that must be recovered. This additional "spread" is designed to incentivize a quick recapitalization of the system by offering a better than market price to collateral buyers.
 
 Users can purchase PETH that has been seized by the LPC on the dashboard. Any DAI surplus from the sale can be bought with PETH.
 

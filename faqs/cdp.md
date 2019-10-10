@@ -2,7 +2,7 @@
 
 ## What are Collateralized Debt Positions?
 
-The MakerDAO Collateralized Debt Position \(CDP\) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the drawn Dai is returned.
+The MakerDAO Collateralized Debt Position (CDP) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the drawn Dai is returned.
 
 CDP usage collectively alters the total supply of Dai. Users create Dai by drawing it against their collateral and destroy Dai when repaying their debt. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
