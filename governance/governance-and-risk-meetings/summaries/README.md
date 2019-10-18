@@ -1,5 +1,8 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 57: Oct 17, 2019](episode-57.md)
+- [Episode 56: Oct 10, 2019](episode-56.md)
+- [Episode 55: Oct 03, 2019](episode-55.md)
 - [Episode 54: Sep 26, 2019](episode-54.md)
 - [Episode 53: Sep 19, 2019](episode-53.md)
 - [Episode 52: Sep 12, 2019](episode-52.md)
