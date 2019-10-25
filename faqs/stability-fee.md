@@ -128,7 +128,7 @@ After the transaction has been completed, the total amount of fees remaining in 
 
 ## What does the system do with the collected fees?
 
-Once the fees have been collected, the smart contract platform transfers the MKR to a contract called the [Burner](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+Once the fees have been collected, the smart contract platform transfers the MKR to a contract called the [Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275).
 
 Any MKR that resides in the burner wallet before actually being destroyed is permanently out of circulation, as no one can remove funds from that address.
 
