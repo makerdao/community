@@ -128,7 +128,7 @@ Po ukończeniu transakcji, zostanie do opłacenia:
 
 ## Co system robi z pobranymi opłatami?
 
-Gdy opłaty zostaną zebrane, platforma zbudowana w oparciu o inteligentne kontrakty przesyła MKR do kontraktu nazywanego [Burnerem](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) (od słowa „burn”, czyli „płonąć”, oznaczającego również niszczenie monet).
+Gdy opłaty zostaną zebrane, platforma zbudowana w oparciu o inteligentne kontrakty przesyła MKR do kontraktu nazywanego [Burnerem](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275) (od słowa „burn”, czyli „płonąć”, oznaczającego również niszczenie monet).
 
 Każdy token MKR trafiający do kontraktu Burnera nim zostanie spalony zostaje permanentie usunięty z obiegu, ponieważ nikt nie jest w stanie wydobyć środków z tego adresu.
 

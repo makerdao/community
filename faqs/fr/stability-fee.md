@@ -128,7 +128,7 @@ Une fois la transaction effectuée, le total des frais en attente dans le CDP se
 
 ## Qu'arrive-t-il aux frais récoltés ?
 
-Une fois récoltés, les frais sont transférés par la plate-forme de contrats intelligents à un contrat appelé [l'Incinérateur](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) \(_Burner_ en anglais\).
+Une fois récoltés, les frais sont transférés par la plate-forme de contrats intelligents à un contrat appelé [l'Incinérateur](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275) \(_Burner_ en anglais\).
 
 Tout MKR placé dans l'Incinérateur est définitivement retiré de la circulation, avant même d'être détruit, car personne ne peut transférer de fonds depuis cette adresse.
 

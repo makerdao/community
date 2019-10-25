@@ -130,7 +130,7 @@ Dopo che la transazione sarà completata, il totale dell'interesse da ripagare s
 
 ## Il sistema come gestisce gli interessi accumulati?
 
-Una volta che gli interessi sono stati pagati, la piattaforma di smart contract trasferisce i MKR ottenuti ad un wallet chiamato [Burner](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+Una volta che gli interessi sono stati pagati, la piattaforma di smart contract trasferisce i MKR ottenuti ad un wallet chiamato [Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275).
 
 Ogni MKR che risiede nel burner wallet, prima di essere distrutto per sempre, è completamente fuori circolazione poiché nessuno può prelevare dei MKR da questo wallet.
 

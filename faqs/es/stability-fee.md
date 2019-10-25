@@ -114,7 +114,7 @@ Luego de que la transacción haya sido completada, la cantidad total de las tari
 
 ## ¿Qué hace el sistema con las tarifas recaudadas?
 
-Una vez hayan sido recaudadas las tarifas, la plataforma de contrato inteligente transfiere el MKR a un contrato llamado [Burner](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+Una vez hayan sido recaudadas las tarifas, la plataforma de contrato inteligente transfiere el MKR a un contrato llamado [Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275).
 
 Cualquier MKR que se encuentre en la wallet del Burner antes de ser finalmente destruido está fuera de circulación, ya que nadie puede retirar fondos de esa dirección.
 

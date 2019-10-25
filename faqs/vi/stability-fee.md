@@ -123,7 +123,7 @@ Sau khi hoàn thành giao dịch, tổng số phí còn lại trong CDP sẽ là
 
 ## Hệ thống làm gì với các khoản phí thu được?
 
-Khi các khoản phí được thu về, hợp đồng thông minh sẽ chuyển MKR sang một hợp đồng có tên là [Burner](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+Khi các khoản phí được thu về, hợp đồng thông minh sẽ chuyển MKR sang một hợp đồng có tên là [Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275).
 
 Trước khi các MKR trong ví burner được phá hủy thực sự, thì tất cả chúng đều không được lưu hành, vì không ai có thể xóa tiền khỏi địa chỉ đó.
 
