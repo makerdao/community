@@ -4,17 +4,17 @@
 
 Dai is a fully collateral-backed currency whose value is kept stable relative to the US Dollar through a series of aligned financial incentives.
 
-The currency lives completely on the blockchain; its stability is unmediated by any locality, and its solvency does not rely on any trusted counterparties. All circulating Dai are backed by a surplus of collateral that has been escrowed into audited and publicly viewable Ethereum smart contracts.
+The currency lives completely on the blockchain; its stability is unmediated by any locality, and its solvency does not rely on any trusted counterparties. All circulating Dai are backed by a surplus of collateral that has been escrowed into audited and publicly viewable [Ethereum](https://ethereum.org) smart contracts.
 
-Once generated, Dai can be used in the same manner as any other cryptocurrency. It can be freely sent to others, used as payments for goods and services, or be held as a hedge against market volatility.
+Once generated, Dai can be used in the same manner as any other cryptocurrency. It can be freely sent to others, used as [payments for goods and services](https://awesome.makerdao.com#spend-your-dai), or be held as a hedge against market volatility.
 
 ## Why would I want to use Dai?
 
-Dai represents a price-predictable, low-volatility unit of account. DAI can facilitate a wide range of financial activities that have previously been hampered by market speculation and instability.
+Dai represents a price-predictable, low-volatility unit of account. Dai can facilitate a wide range of financial activities that have previously been hampered by market speculation and instability.
 
 A decentralized digital economy needs stability in order to function. The Dai stablecoin represents a fundamentally new solution to this problem making it suitable for a wide range of financial activities.
 
-**Hedging**: During periods of high market instability DAI offers a safe harbor to store value without having to exit the crypto ecosystem. Large holders of cryptocurrencies, such as hedge funds, foundations, or companies that have recently held a token generating event, may wish to convert their assets into a currency that is insulated from volatility.
+**Hedging**: During periods of high market instability Dai offers a safe harbor to store value without having to exit the crypto ecosystem. Large holders of cryptocurrencies, such as hedge funds, foundations, or companies that have recently held a token generating event, may wish to convert their assets into a currency that is insulated from volatility.
 
 **Decentralized exchanges**: Decentralized exchanges are frequently unable to provide fiat off-ramps. Dai allows its users to trade their assets for a low volatility currency that tracks the value of the USD.
 
@@ -28,11 +28,11 @@ A decentralized digital economy needs stability in order to function. The Dai st
 
 ## Is one Dai always worth exactly one USD?
 
-No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an Emergency Shutdown, Dai is redeemable for exactly \$1 worth of collateral according to the oracles' prices at the time of Emergency Shutdown.
+No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an [Emergency Shutdown](emergency-shutdown.md#what-is-an-emergency-shutdown), Dai is redeemable for exactly \$1 worth of collateral according to the [oracles' prices](oracles.md#how-does-the-price-feed-system-work) at the time of [Emergency Shutdown](emergency-shutdown.md#what-is-an-emergency-shutdown).
 
 ## Where does Dai come from?
 
-Dai enters the cryptocurrency ecosystem when it is minted by CDP owners who have locked up collateral to ensure the Dai's value. CDP owners wishing to free their staked collateral must purchase Dai on the open market and return it to their position. This destroys the Dai. This minting and burning mechanism ensures that all circulating Dai is backed by an abundance of collateral.
+Dai enters the cryptocurrency ecosystem when it is minted by [CDP](cdp.md#what-are-collateralized-debt-positions) owners who have locked up collateral to ensure the Dai's value. CDP owners wishing to free their staked collateral must purchase Dai on the open market and return it to their position. This destroys the Dai. This minting and burning mechanism ensures that all circulating Dai is backed by an abundance of collateral.
 
 An autonomous system of smart contracts specifically designed to respond to market pressures work together to ensure that the essential stability property is maintained. No one can alter the core mechanics of Dai, making it a safe and predictable form of money.
 
@@ -40,7 +40,7 @@ It's important to note that Dai users do not need to understand the mechanics of
 
 ## Does anyone else have a claim on my Dai tokens?
 
-No. Dai is a completely fungible ERC20 token and can be stored in any standard Ethereum wallet. It can also be freely exchanged without having to interact with the advanced mechanics of the Dai Stablecoin System.
+No. Dai is a completely fungible [ERC20]() token and can be stored in any standard [Ethereum](https://ethereum.org) wallet. It can also be freely exchanged without having to interact with the advanced mechanics of the Dai Stablecoin System.
 
 Dai is owned by whoever holds it and is not encumbered by any intermediaries.
 
@@ -48,19 +48,19 @@ Dai is owned by whoever holds it and is not encumbered by any intermediaries.
 
 Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared to other cryptocurrencies.
 
-It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, CDP owners, and normal market makers.
+It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, [CDP](cdp.md#what-are-collateralized-debt-positions) owners, and normal market makers.
 
-If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making [CDP](cdp.md#what-are-collateralized-debt-positions) usage less attractive. Conversely, a decrease in the Stability Fee (cost of borrowing) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 Arbitrageurs also contribute to the short term stability of the peg by taking advantage of opportunities across various Dai markets.
 
-CDP owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than the peg. This allows a CDP user to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar CDP users can sell assets for cheaper Dai which can be used to pay back their CDP debt for a variable discount.
+[CDP](cdp.md#what-are-collateralized-debt-positions) owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than the peg. This allows a CDP user to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar CDP users can sell assets for cheaper Dai which can be used to pay back their CDP debt for a variable discount.
 
-Lastly, third party network participants, also known as Keepers, help maintain the price of Dai. Keepers are people or automated programs that take advantage of arbitrage opportunities to keep Dai nears its peg.
+Lastly, third party network participants, also known as [Keepers](keepers.md#what-is-a-keeper), help maintain the price of Dai. Keepers are people or automated programs that take advantage of [arbitrage opportunities](keepers.md#what-is-the-arbitrage-keeper) to keep Dai nears its peg.
 
 ## How can I make Dai?
 
-You can only create DAI by generating it against the collateral you lock in your Collateralized Debt Position.
+You can only create DAI by generating it against the collateral you lock in your [Collateralized Debt Position](cdp.md#what-are-collateralized-debt-positions).
 
 ## Where can I buy Dai?
 

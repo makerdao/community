@@ -6,7 +6,7 @@
 
 ##### Bite
 
-- the action of triggering a CDPs liquidation
+- the action of triggering a [CDP](cdp.md#what-are-collateralized-debt-positions) [liquidation](liquidation.md#what-is-liquidation)
 
 ##### Boom/Bust Spread
 
@@ -14,7 +14,7 @@
 
 ##### Burn
 
-- the process of destroying MKR that are paid as stability fees
+- the process of destroying MKR that are paid as [stability fees](stability-fee.md#what-is-the-stability-fee)
 
 ##### Burner Address
 
@@ -24,7 +24,7 @@
 
 ##### CDP Portal
 
-- a front-end application with which you can interact with your CDP
+- a front-end application with which you can interact with your [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ##### CDP
 
@@ -32,15 +32,15 @@
 
 ##### Collateral Claims
 
-- the amount of redeemable collateral Dai holders and CDP owners have claim to in the event of an Emergency Shutdown
+- the amount of redeemable collateral Dai holders and CDP owners have claim to in the event of an [Emergency Shutdown](emergency-shutdown#what-is-an-emergency-shutdown)
 
 ##### Collateral
 
-- assets locked in a CDP
+- assets locked in a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ##### Collateralization Ratio
 
-- the ratio between a CDPs collateral and the Dai issued by that CDP
+- the ratio between a [CDPs](cdp.md#what-are-collateralized-debt-positions) collateral and the [Dai](dai.md#what-is-dai) issued by that CDP
 
 ##### Continuous Approval Voting
 
@@ -50,7 +50,7 @@
 
 ##### Dai Credit System
 
-- a name for the MakerDAO smart contract system
+- a name for the [MakerDAO](makerdao.md#what-is-makerdao) smart contract system
 
 ##### Dai
 
@@ -62,19 +62,19 @@
 
 ##### Debt:
 
-- the amount of Dai generated through a CDP
+- the amount of Dai generated through a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ##### Decentralized Risk Management
 
-- the cooperative interaction between Maker Token Holders and all Risk Teams to manage risks in MakerDAO
+- the cooperative interaction between Maker Token Holders and all [Risk Teams](risk-management.md#what-are-risk-teams) to manage risks in [MakerDAO](makerdao.md#what-is-makerdao)
 
 ##### Development Fund
 
-- another name for the Maker Foundation’s multisig wallet that contains MKR, which is sold for operational expenses
+- another name for the [Maker Foundation’s](makerdao.md#what-is-the-maker-foundation) multisig wallet that contains MKR, which is sold for operational expenses
 
 ##### Draw
 
-- the action of generating Dai from a CDP
+- the action of generating [Dai](dai.md#what-is-dai) from a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ## E
 
@@ -90,13 +90,13 @@
 
 ##### Free
 
-- the action of releasing collateral from a CDP
+- the action of releasing collateral from a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ## G
 
 ##### Give
 
-- the action of transferring CDP ownership to a different Ethereum address
+- the action of transferring [CDP](cdp.md#what-are-collateralized-debt-positions) ownership to a different Ethereum address
 
 ##### Governance Poll
 
@@ -104,7 +104,7 @@
 
 ##### Governance Portal
 
-- a front-end application that allows you to interact with MakerDAOs on-chain governance
+- a front-end application that allows you to interact with [MakerDAOs](makerdao.md#what-is-makerdao) on-chain [governance](governance.md#what-is-governance)
 
 ## H
 
@@ -114,7 +114,7 @@
 
 ##### Join/Exit Spread
 
-- a system parameter that represents a discount or premium for converting between ETH and PETH
+- a system parameter that represents a discount or premium for converting between ETH and [PETH](#peth)
 
 ## K
 
@@ -126,19 +126,19 @@
 
 ##### Liquidation Penalty
 
-- a penalty fee that's applied to a CDPs Dai balance when it is liquidated
+- a penalty fee that's applied to a [CDPs](cdp.md#what-are-collateralized-debt-positions) [Dai](dai.md#what-is-dai) balance when it is [liquidated](liquidation.md#what-is-liquidation)
 
 ##### Liquidation Price
 
-- lowest price per unit of collateral before a CDP is vulnerable to liquidation
+- lowest price per unit of collateral before a [CDP](cdp.md#what-are-collateralized-debt-positions) is vulnerable to [liquidation](liquidation.md#what-is-liquidation)
 
 ##### Liquidation Ratio
 
-- a risk parameter defining the minimum Collateralization Ratio below which a CDP is vulnerable to liquidation
+- a [risk parameter](#risk-parameters) defining the minimum [Collateralization Ratio](cdp.md#what-is-the-collateralization-ratio) below which a [CDP](cdp.md#what-are-collateralized-debt-positions) is vulnerable to [liquidation](liquidation.md#what-is-liquidation)
 
 ##### Liquidation
 
-- automatic sale of a CDPs collateral to cover its outstanding Dai
+- automatic sale of a [CDPs](cdp.md#what-are-collateralized-debt-positions) collateral to cover its outstanding [Dai](dai.wd#what-is-dai)
 
 ##### Liquidity Providing Contract
 
@@ -146,13 +146,13 @@
 
 ##### Lock
 
-- the action of placing collateral into your CDP
+- the action of placing collateral into your [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ## M
 
 ##### Maker Foundation Interim Risk Team
 
-- the first Risk Team whose role is to help bootstrap the Decentralized Risk Management function
+- the first [Risk Team](risk-management.md#what-are-risk-teams) whose role is to help bootstrap the Decentralized Risk Management function
 
 ##### Maker Foundation
 
@@ -168,11 +168,11 @@
 
 ##### Medianizer
 
-- the smart contract that collects price feed information from Price-Feed Providers and publishes a reference price for each asset
+- the smart contract that collects price feed information from [Price-Feed](oracle.md#how-does-the-price-feed-system-work) Providers and publishes a reference price for each asset
 
 ##### MKR
 
-- governance token of MakerDAO
+- governance token of [MakerDAO](makerdao.md#what-is-makerdao)
 
 ##### Multi Collateral Dai
 
@@ -184,7 +184,7 @@
 
 ##### Oracle Security Module
 
-- a security mechanism that delays the Oracle price feed
+- a security mechanism that delays the [Oracle price feed](oracle.md#how-does-the-price-feed-system-work)
 
 ##### Oracle
 
@@ -198,7 +198,7 @@
 
 ##### Price-Feed Delay
 
-- a risk parameter that controls the delay of the Oracle price feed
+- a risk parameter that controls the delay of the [Oracle](oracles.md#what-is-an-oracle) price feed
 
 ##### Price-Feed Provider
 
@@ -230,7 +230,7 @@
 
 ##### Risk Team
 
-- an independent party who creates a Risk Construct for Maker Governance
+- an independent party who creates a [Risk Construct](risk-management.md#what-is-a-risk-construct) for Maker [Governance](governance.md#what-is-governance)
 
 ## S
 
@@ -240,7 +240,7 @@
 
 ##### Shut
 
-- action of closing a CDP by paying back outstanding Dai and the Stability Fee
+- action of closing a [CDP](cdp.md#what-are-collateralized-debt-positions) by paying back outstanding [Dai](dai.md#what-is-dai) and the [Stability Fee](stability-fee.md#what-is-the-stability-fee)
 
 ##### Single Collateral Dai
 
@@ -252,11 +252,11 @@
 
 ##### Stability Debt:
 
-- the amount of Dai generated through a CDP
+- the amount of [Dai](dai.md#what-is-dai) generated through a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ##### Stability Fee
 
-- a variable Fee charged to a CDP for the creation and use of Dai, set by MKR holders through governance actions
+- a variable Fee charged to a [CDP](cdp.md#what-are-collateralized-debt-positions) for the creation and use of [Dai](dai.md#what-is-dai), set by MKR holders through governance actions
 
 ## T
 
@@ -280,7 +280,7 @@
 
 ##### Wipe
 
-- action of paying back Dai to a CDP
+- action of paying back [Dai](dai.md#what-is-dai) to a [CDP](cdp.md#what-are-collateralized-debt-positions)
 
 ## X
 

@@ -2,13 +2,13 @@
 
 ## What is a Keeper?
 
-A Keeper is an external independent actor that is incentivized to contribute to decentralized systems, they "keep" the system running by performing necessary functions. In the context of Single Collateral Dai, the title of "Keeper" can refer to a few different types of system participants. Usually, these roles are performed by a program rather than a human.
+A Keeper is an external independent actor that is incentivized to contribute to decentralized systems, they "keep" the system running by performing necessary functions. In the context of [Single Collateral Dai](glossary.md#single-collateral-dai), the title of "Keeper" can refer to a few different types of system participants. Usually, these roles are performed by a program rather than a human.
 
 ## What kinds of Keepers exist within the Maker Ecosystem?
 
 There are five primary types of Keepers, those that:
 
-1. Trigger [Liquidation](./liquidation.md) of CDPs
+1. Trigger [Liquidation](liquidation.md) of CDPs
 1. Participate in the buy side of liquidated collateral sales
 1. Perform market-making activities on [Dai](./dai.md) pairs
 1. Arbitrage Dai
@@ -18,7 +18,7 @@ As MakerDAO grows and evolves, other types of Keepers may be created.
 
 ## What incentivizes Keepers?
 
-Keepers are incentivized by the natural profit opportunities available in the Maker ecosystem. For example, agents can trigger CDP liquidations so they can participate in the subsequent collateral sale, thus providing an opportunity to purchase ETH at a discount. Another example is a market maker who provides liquidity and helps maintain the stability of Dai, who is incentivized by the opportunity to make money on the bid-ask spread.
+Keepers are incentivized by the natural profit opportunities available in the Maker ecosystem. For example, agents can trigger [CDP](cdp.md#what-are-collateralized-debt-positions) [liquidations](liquidation.md) so they can participate in the subsequent collateral sale, thus providing an opportunity to purchase ETH at a discount. Another example is a market maker who provides liquidity and helps maintain the stability of Dai, who is incentivized by the opportunity to make money on the bid-ask spread.
 
 ## Are there any resources available for people wanting to become Keepers?
 
@@ -35,7 +35,7 @@ Please treat these repositories as starting points, not as finished products. Ex
 
 ## What is the Bite-Keeper?
 
-A [Bite-Keeper](https://github.com/makerdao/bite-keeper) triggers the liquidation of unsafe CDPs, thereby making their collateral available for sale.
+A [Bite-Keeper](https://github.com/makerdao/bite-keeper) triggers the [liquidation](liquidation.md) of unsafe [CDPs](cdp.md#what-are-collateralized-debt-positions), thereby making their collateral available for sale.
 
 A Bite-Keeper can then participate in the collateral sale by purchasing the collateral at a discount then immediately selling it on the spot market, earning the margin.
 
@@ -49,7 +49,7 @@ Please treat these repositories as starting points, not as finished products. Ex
 
 ## What is the CDP-Keeper?
 
-The [CDP-Keeper](https://github.com/makerdao/cdp-keeper) is responsible for monitoring and managing open CDPs. It can allow for the topping up of CDPs and repaying Dai debt. This Keeper is incomplete but provides a useful example for interacting with a CDP using Python.
+The [CDP-Keeper](https://github.com/makerdao/cdp-keeper) is responsible for monitoring and managing open [CDPs](cdp.md#what-are-collateralized-debt-positions). It can allow for the topping up of CDPs and repaying [Dai](dai.md#what-is-dai) debt. This Keeper is incomplete but provides a useful example for interacting with a CDP using [Python](https://python.org).
 
 Please treat these repositories as starting points, not as finished products. Experiment with them at your own risk.
 
@@ -61,11 +61,11 @@ Please treat these repositories as starting points, not as finished products. Ex
 
 ## Can I create my own Keeper bot?
 
-Yes, anyone can create their own Keeper software. You do not need to use the MakerDAO Keeper repositories, though they can be used as a starting point for learning about how to interact with the ecosystem.
+Yes, anyone can create their own Keeper software. You do not need to use the [MakerDAO](makerdao,md#what-is-makerdao) Keeper repositories, though they can be used as a starting point for learning about how to interact with the ecosystem.
 
 ## Is anyone able to become a Keeper?
 
-It depends on the type of Keeper. Excluding price-feed providers, who provide the Oracle system with pricing information, all other Keepers can be run permissionless.
+It depends on the type of Keeper. Excluding [price-feed](oracles.md#how-does-the-price-feed-system-work) providers, who provide the [Oracle](oracles.md#what-is-an-oracle) system with pricing information, all other Keepers can be run permissionless.
 
 ## Do I need to own MKR to run a Keeper?
 

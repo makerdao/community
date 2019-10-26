@@ -2,13 +2,13 @@
 
 ## What is Governance?
 
-Governance is a process through which a group of stakeholders come to a decision on a particular change within their system or organization. Many centralized entities have expedited the governance process through the nomination of critical decision makers like board members and executives. In the context of MakerDAO, it is done through a voting system where anyone who owns MKR can vote on changes to the Risk Parameters within the Dai Credit System.
+Governance is a process through which a group of stakeholders come to a decision on a particular change within their system or organization. Many centralized entities have expedited the governance process through the nomination of critical decision makers like board members and executives. In the context of MakerDAO, it is done through a [voting system where anyone who owns MKR](#how-can-i-vote) can vote on changes to the [Risk Parameters](glossary.md#risk-parameters) within the Dai Credit System.
 
 ## How do MKR holders manage the Dai Credit System?
 
-For the Dai Credit System to be successful, the stakeholders in the system need to collaborate and vote on a variety of Risk Parameters. Some examples include which assets can be used as collateral, how much Dai can be issued, and the Stablity Fee a CDP holder is charged. This is done through the on-chain voting mechanism built directly into the system. The Maker team created the [Governance Dashboard](http://vote.makerdao.com/) for stakeholders to have a friendly user interface to use for voting. Stakeholders still have the option of voting directly by interacting with the smart contacts that make up the Dai Credit System.
+For the Dai Credit System to be successful, the stakeholders in the system need to collaborate and vote on a variety of [Risk Parameters](glossary.md#risk-parameters). Some examples include which assets can be used as collateral, how much [Dai](dai.md#what-is-dai) can be issued, and the [Stablity Fee](stability-fee#what-is-the-stability-fee) a [CDP](cdp.md#what-are-collateralized-debt-positions) holder is charged. This is done through the on-chain voting mechanism built directly into the system. The [Maker team](makerdao.md#what-is-the-maker-foundation) created the [Governance Dashboard](http://vote.makerdao.com/) for stakeholders to have a friendly user interface to use for voting. Stakeholders still have the option of voting directly by interacting with the smart contacts that make up the Dai Credit System.
 
-One of the first votes that MKR token holders participated in was an agreement for [Gradual Decentralization](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), which is a core part of how the MakerDAO platform is meant to evolve. Currently, the Maker team takes responsibility for bootstrapping the system by providing active input and effort into governance. As time goes on, the Maker team will play a less active role in this function and will equip MKR token holders to govern the system independently. As the community around MakerDAO grows, the governance of the system will evolve into a more decentralized state.
+One of the first votes that MKR token holders participated in was an agreement for [Gradual Decentralization](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), which is a core part of how the [MakerDAO](makerdao.md#what-is-makerdao) platform is meant to evolve. Currently, the [Maker team](makerdao.md#what-is-the-maker-foundation) takes responsibility for bootstrapping the system by providing active input and effort into governance. As time goes on, the Maker team will play a less active role in this function and will equip MKR token holders to govern the system independently. As the community around MakerDAO grows, the governance of the system will evolve into a more decentralized state.
 
 ## How can I vote?
 
@@ -20,11 +20,11 @@ Your current vote is reflected in the [Governance Dashboard](http://vote.makerda
 
 ## If the vote has already started can I still participate?
 
-Yes, you can join the vote at any time. All you need to do is set up your voting contract and lock in your MKR, and you're ready to vote.
+Yes, you can join the vote at any time. All you need to do is set up your [voting contract](#what-is-a-proxy-contract) and lock in your MKR, and you're [ready to vote](#how-can-i-vote).
 
 ## Can I change my vote once I have placed it?
 
-Yes. If you have already voted, you can pick a different option in the voting portal. Your MKR will automatically be withdrawn and placed in the new proposal you selected. You may also choose to remove your vote from any proposal without necessarily voting for a new one.
+Yes. If you have already voted, you can pick a different option in the [voting portal](https://vote.makerdao.com). Your MKR will automatically be withdrawn and placed in the new proposal you selected. You may also choose to remove your vote from any proposal without necessarily voting for a new one.
 
 ## How is the voting calculated?
 
@@ -32,23 +32,23 @@ Voting is weighted by the amount of MKR that votes for a proposal. 1 MKR is equa
 
 ## Is there more than one type of vote?
 
-There are two types of votes in the Maker Governance System, Governance Polls, and Executive Votes.
+There are two types of votes in the Maker Governance System, [Governance Polls](#when-do-governance-polls-happen), and [Executive Votes](#when-do-executive-votes-happen).
 
-Governance Polls are used to establish soft consensus on important matters and to gauge sentiment on potential Executive Vote proposals. These polls determine how the community moves forward with overall governance.
+[Governance Polls](#when-do-governance-polls-happen) are used to establish soft consensus on important matters and to gauge sentiment on potential Executive Vote proposals. These polls determine how the community moves forward with overall governance.
 
-Executive Votes "execute" changes to the system in the form of adding or removing collateral types and setting associated Risk Parameters. You can think of Governance Polls as signal voting, while Executive Votes are hard changes enacted into the Dai Credit System.
+[Executive Votes](#when-do-executive-votes-happen) "execute" changes to the system in the form of adding or removing collateral types and setting associated [Risk Parameters](glossary.md#risk-parameters). You can think of Governance Polls as signal voting, while Executive Votes are hard changes enacted into the Dai Credit System.
 
 ## What do people vote on?
 
-Through Governance Polling, MKR holders will be able to seek soft consensus on nearly anything. The first example of this was the [Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) which established the five core principles underpinning MakerDAO.
+Through Governance Polling, MKR holders will be able to seek soft consensus on nearly anything. The first example of this was the [Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c) which established the five core principles underpinning [MakerDAO](makerdao.md#what-is-makerdao).
 
-Through the Executive Voting process, MKR holders vote directly on changes to the Dai Credit System. Examples include adding new collateral types and setting their associated Risk Parameters. These parameters include the Liquidation Ratio, Debt Ceiling, Liquidation Penalty, and Stability Fee. Risk Parameters are independently set for each collateral type and are recommended based on the assessments done by various Risk Teams. MKR token holders will take these risk assessments into account when voting for the changes.
+Through the Executive Voting process, MKR holders vote directly on changes to the Dai Credit System. Examples include adding new collateral types and setting their associated [Risk Parameters](glossary.md#risk-parameters). These parameters include the [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio), [Debt Ceiling](glossary.md#debt-ceiling), [Liquidation Penalty](liquidation.md#what-is-the-liquidation-penalty), and [Stability Fee](stability-fee.md#what-is-the-stability-fee). Risk Parameters are independently set for each collateral type and are recommended based on the assessments done by various [Risk Teams](risk-management.md#what-are-risk-teams). MKR token holders will take these risk assessments into account when voting for the changes.
 
-MKR token holders also vote on operational spending for the system, which is funded by a portion of the system-wide Stability Fees. Meaning, in the future, they will be able to set a [Dai Savings Rate](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf), as well as choose to spend part of the Stability Fees on necessary service providers such as Oracle Providers, Developers, Risk Teams, etc.
+MKR token holders also vote on operational spending for the system, which is funded by a portion of the system-wide Stability Fees. Meaning, in the future, they will be able to set a [Dai Savings Rate](https://medium.com/makerdao/dai-reward-rate-earn-a-reward-from-holding-dai-10a07f52f3cf), as well as choose to spend part of the Stability Fees on necessary service providers such as [Oracle](oracles.md#what-is-an-oracle) Providers, Developers, [Risk Teams](risk-management.md#what-are-risk-teams), etc.
 
 ## Does the Foundation ever vote?
 
-No. The reserves held by the organization are for the continued operation of the Foundation itself, they are not used to vote.
+No. The reserves held by the organization are for the continued operation of the [Foundation](makerdao.md#what-is-the-maker-foundation) itself, they are not used to vote.
 
 ## When do Governance Polls happen?
 
@@ -56,7 +56,7 @@ A proposal outlining a Governance Poll can be put up at any time.
 
 ## How long is the voting period of a Governance Poll?
 
-The length of the voting period typically ranges from two to three days but this is subject to change due to the community's active discussions surrounding governance. Feel free to contribute your thoughts on any of our [official communication channels](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#official-channels).
+The length of the voting period typically ranges from two to three days but this is subject to change due to the community's active discussions surrounding governance. Feel free to contribute your thoughts on any of our [official communication channels](https://awesome.makerdao.com#official-channels).
 
 ## When do Executive Votes happen?
 
@@ -64,7 +64,7 @@ An Executive Vote can occur at any time. Executive Votes change the state of the
 
 ## What is Continuous Approval Voting?
 
-MKR token holders are tasked with maintaining the health of the system and the stability of the peg while defending against any proposals that seem antithetical to the overall governance objective.
+MKR token holders are tasked with maintaining the health of the system and the stability of the [peg](glossary.md#soft-peg) while defending against any proposals that seem antithetical to the overall [governance](#what-is-governance) objective.
 
 If a proposal is introduced that is beneficial, and the MKR token holders recognize this value, then the majority of tokens should shift to this new proposal and implement it as the new state of the system.
 
@@ -74,11 +74,11 @@ In this model, the continuity of staked votes challenges and reinforces the stat
 
 The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system (or leave it there if they voted for current state before), implying that they do not want to see anything changed.
 
-The continuity of the system is emphasized in the fact that a new proposal can be submitted at any time by any MKR token holder. Therefore, the system needs to be continuously monitored and governed, and thus requires a voting construct that reflects this need. In the MakerDAO system, the Continuous Approval Voting system solves this problem.
+The continuity of the system is emphasized in the fact that a new proposal can be submitted at any time by any MKR token holder. Therefore, the system needs to be continuously monitored and governed, and thus requires a voting construct that reflects this need. In the [MakerDAO](makerdao.md#what-is-makerdao) system, the [Continuous Approval Voting](#what-is-continuous-approval-voting) system solves this problem.
 
 ## How long is the voting period of an Executive Vote?
 
-The voting period for an Executive Vote is infinite, meaning, a proposal can exist in the system for any amount of time. If it does not garner enough votes at first, it can do so later if the proposal gains popularity. This is a part of the design of Continuous Approval Voting.
+The voting period for an Executive Vote is infinite, meaning, a proposal can exist in the system for any amount of time. If it does not garner enough votes at first, it can do so later if the proposal gains popularity. This is a part of the design of [Continuous Approval Voting](#what-is-continuous-approval-voting).
 
 ## How does the Voting Dashboard work?
 
@@ -90,7 +90,7 @@ Users also have the option of using only a hot wallet to vote. This simplifies t
 
 ## What does setting up a voting proxy do for me?
 
-The governance voting mechanism is a time-limited poll vote, while an executive vote is handled via Continuous Approval Voting. The voting proxy contract allows MKR holders to easily vote with their MKR for governance and Executive Proposals while gaining the benefit of controlling voting through a hot wallet and ensuring that funds can only be withdrawn into a cold wallet.
+The governance voting mechanism is a time-limited poll vote, while an executive vote is handled via Continuous Approval Voting. The voting proxy contract allows MKR holders to easily vote with their MKR for Polling and Executive Proposals while gaining the benefit of controlling voting through a hot wallet and ensuring that funds can only be withdrawn into a cold wallet.
 
 ## What is a proxy contract?
 
@@ -129,7 +129,7 @@ The link between the hot and cold wallets means that your MKR is locked into the
 
 ## Who controls my MKR when it is locked?
 
-You maintain full control over your MKR as it never leaves the Voting System contract. Only you can withdraw your MKR from the voting contract, and it can only be moved back to your cold wallet.
+You maintain full control over your MKR as it never leaves the [Voting System](#what-is-continuous-approval-voting) contract. Only you can withdraw your MKR from the voting contract, and it can only be moved back to your cold wallet.
 
 ## How do I know my MKR is locked up?
 
@@ -145,11 +145,11 @@ Withdrawing your MKR takes your vote out of the system, and leaves your MKR unas
 
 ## Do I need to unlock immediately after voting?
 
-No, users who are active in MakerDAO governance are encouraged to leave their MKR in the voting dashboard for use in Continuous Approval Voting.
+No, users who are active in [MakerDAO](makerdao.md#what-is-makerdao) governance are encouraged to leave their MKR in the voting dashboard for use in [Continuous Approval Voting](#what-is-continuous-approval-voting).
 
 ## Can I send my MKR from my cold wallet to another address while it is locked? What happens if I do that?
 
-No, you cannot move MKR that is locked in the voting system. The MKR must first be withdrawn from the voting system contract before your cold wallet can transfer it to any other address.
+No, you cannot move MKR that is locked in the [voting system](#what-is-continuous-approval-voting). The MKR must first be withdrawn from the voting system contract before your cold wallet can transfer it to any other address.
 
 ## What happens if I send more MKR to my cold wallet after I link it?
 

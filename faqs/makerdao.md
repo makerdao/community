@@ -10,7 +10,7 @@ The idea of MakerDAO became public on March 26th, 2015 with Rune Christensen's p
 
 ## Why did the founders call it _Maker_DAO?
 
-The term "Maker" is from the term Market Maker. This was driven in part based upon BitUSD's inability to attract market makers, which resulted in its lack of robust liquidity. One original idea was to distribute MKR specifically to crypto market makers, which we later started calling keepers, to ensure they were incentivized in the system and would help bootstrap its liquidity.
+The term "Maker" is from the term Market Maker. This was driven in part based upon BitUSD's inability to attract market makers, which resulted in its lack of robust liquidity. One original idea was to distribute MKR specifically to crypto market makers, which we later started calling [keepers](keepers.md#what-is-a-keeper), to ensure they were incentivized in the system and would help bootstrap its liquidity.
 
 ## What is a DAO?
 
@@ -18,15 +18,15 @@ DAO stands for "Decentralized Autonomous Organization", which is a smart contrac
 
 ## Who is the Maker Community?
 
-The Maker Community is the essence of MakerDAO. The Maker Community is made up of early adopters, Dai enthusiasts, developers, Maker Foundation employees, MKR holders, keepers, and engaged observers and are an indispensable part of MakerDAO. Dai and Maker fundamentally cannot exist without the cooperation of, and scientific governance by, the entire community.
+The Maker Community is the essence of MakerDAO. The Maker Community is made up of early adopters, [Dai](dai.md#what-is-dai) enthusiasts, developers, [Maker Foundation](#what-is-the-foundation) employees, MKR holders, keepers, and engaged observers and are an indispensable part of [MakerDAO](#what-is-makerdao). Dai and Maker fundamentally cannot exist without the cooperation of, and [scientific governance](governance.md#what-is-governanc) by, the entire community.
 
 ## What is the Maker Foundation?
 
-The Maker Foundation is an organization created by the founders of MakerDAO. It is tasked with bootstrapping the system to ensure that it can survive as a fully decentralized organization. The Maker Foundation employs people to develop the system itself, and also to execute the strategies and tasks necessary to build enough momentum for MakerDAO to successfully thrive on its own.
+The Maker Foundation is an organization created by the founders of [MakerDAO](#what-is-makerdao). It is tasked with bootstrapping the system to ensure that it can survive as a fully decentralized organization. The Maker Foundation employs people to develop the system itself, and also to execute the strategies and tasks necessary to build enough momentum for MakerDAO to successfully thrive on its own.
 
 ## Will the Maker Foundation exist indefinitely?
 
-The Maker Foundation currently exists in order to bootstrap MakerDAO. Over time, the foundation is meant to shrink and allow decentralization to gradually take over every aspect of the system. This is one of the core values established in the [Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), which MKR holders passed in September 2018.
+The [Maker Foundation](#what-is-the-maker-foundation) currently exists in order to bootstrap [MakerDAO](#what-is-makerdao). Over time, the foundation is meant to shrink and allow decentralization to gradually take over every aspect of the system. This is one of the core values established in the [Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c), which MKR holders passed in September 2018.
 
 > "The Foundation will drive Maker towards increased decentralization, with every step opening up more aspects of governance to community control while eliminating single points of failure. At the same time, the Foundation will also take responsibility for teaching and providing guidance on how community members can most constructively contribute to governance."
 
@@ -34,17 +34,17 @@ The Maker Foundation currently exists in order to bootstrap MakerDAO. Over time,
 
 The primary areas of focus are:
 
-- **System development:** completing the infrastructure for Multi-Collateral Dai, incorporating certain governance elements, onboarding synthetic assets, supporting the governance user interface, incorporating leveraged tokens, and running the Maker Community Foundation, while overseeing the gradual move towards full decentralization.
-- **Oasis:** A reimagined and rebuilt Oasis will be a flagship regulated product supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets backing Dai, including security tokens, while conveniently accessing CDP features for all of these assets.
-- **Informational equilibriums with the Maker Community:** The Foundation is going to contribute information from our proprietary trading desk and internal research team to educate market makers and MKR holders about day-to-day activity in Dai markets. This step is mission critical for two reasons: one, we want other actors, specifically MKR holders, to see important trends that may foreshadow the need for MKR votes; and two, we want our team to be one voice, among many, providing reliable market information to the Maker Community.
+- **System development:** completing the infrastructure for [Multi-Collateral Dai](glossary.md#multi-collateral-daii), incorporating certain governance elements, onboarding synthetic assets, supporting the governance user interface, incorporating leveraged tokens, and running the [Maker Community Foundation](#what-is-the-maker-community-foundation), while overseeing the gradual move towards full decentralization.
+- **Oasis:** A reimagined and rebuilt Oasis will be a flagship regulated product supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets backing Dai, including security tokens, while conveniently accessing [CDP](cdp.md#what-are-collateralized-debt-positions) features for all of these assets.
+- **Informational equilibriums with the Maker Community:** The [Foundation](#what-is-the-maker-foundation) is going to contribute information from our proprietary trading desk and internal research team to educate market makers and MKR holders about day-to-day activity in Dai markets. This step is mission critical for two reasons: one, we want other actors, specifically MKR holders, to see important trends that may foreshadow the need for MKR votes; and two, we want our team to be one voice, among many, providing reliable market information to the [Maker Community](#who-is-the-maker-community).
 
 ## What is the Maker Community Foundation?
 
-The Maker Community Foundation does not currently exist but is intended to be created after the Maker Foundation dissolves. The purpose of this entity will be to provide funding and guidance to projects in the MakerDAO ecosystem.
+The Maker Community Foundation does not currently exist but is intended to be created after the [Maker Foundation](#what-is-the-maker-foundation) dissolves. The purpose of this entity will be to provide funding and guidance to projects in the [MakerDAO](#what-is-makerdao) ecosystem.
 
 ## Where does The Maker Foundation get funding from?
 
-The Maker Foundation generates funding by selling MKR tokens currently held by the Development Fund.
+The [Maker Foundation](#what-is-the-maker-foundation) generates funding by selling MKR tokens currently held by the [Development Fund](#what-are-the-plans-for-the-development-fund).
 
 ## Who controls the Development Fund?
 
@@ -64,4 +64,4 @@ The various entities associated with the Maker Foundation are currently held und
 
 ## How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?
 
-MKR token holders are all members of the DAO. At times, this creates an appearance overlap between the DAO and the Maker Foundation because many Maker Foundation team members are MKR token holders themselves. That said, the Maker Foundation does not, as an entity, control or vote in MakerDAO governance decisions. Ultimately, MKR token holders are largely anonymous, which is why governance is conducted publicly, transparently and on a scientific basis. Moreover, all interested parties may publicly submit their opinions related to MakerDAO governance.
+MKR token holders are all members of the DAO. At times, this creates an appearance overlap between the DAO and the [Maker Foundation](#what-is-the-maker-foundation) because many Maker Foundation team members are MKR token holders themselves. That said, the Maker Foundation does not, as an entity, control or vote in [MakerDAO](#what-is-makerdao) [governance](governance.md#what-is-goverannce) decisions. Ultimately, MKR token holders are largely anonymous, which is why governance is conducted publicly, transparently and on a scientific basis. Moreover, all interested parties may publicly submit their opinions related to MakerDAO governance.
