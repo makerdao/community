@@ -28,7 +28,7 @@
 
 #### Introduction & Governance
 
-Cyrus U. is here to discuss the Pre-Launch Governance Migration Cycle, and Wouter, our head of engineering, is joining us too. We're continuing the momentum from Wouter's insights in the last meeting. Since our base layer operates as a technology company having a deep insight into the internal mechanics is invaluable. Especially the underlying governance contracts and security. Again, a reminder that governance is about to get more complex, and that complexity is reflected in the contracts. There is a purity in the rulesets in the contracts, but viewing the system through that lens (and by extension tooling available) is essential. So, we're thankful to have him here.
+Cyrus is here to discuss the Pre-Launch Governance Migration Cycle, and Wouter, our head of engineering, is joining us too. We're continuing the momentum from Wouter's insights in the last meeting. Since our base layer operates as a technology company having a deep insight into the internal mechanics is invaluable. Especially the underlying governance contracts and security. Again, a reminder that governance is about to get more complex, and that complexity is reflected in the contracts. There is a purity in the rulesets in the contracts, but viewing the system through that lens (and by extension tooling available) is essential. So, we're thankful to have him here.
 
 Thanks to everyone for showing up, as always, place questions in the chat or speak up.
 
