@@ -14,12 +14,19 @@ https://youtu.be/eRCnit2NLHI
 ### Terms
 
 `ES`: Emergency Shutdown
+
 `SF`: Stability Fee
+
 `SLP`: Secondary Lending Platform
+
 `DSR`: Dai Savings Rate
+
 `Sai`: SCD Dai
+
 `Dai`: MCD Dai
+
 `sCDP`: SCD CDP
+
 `mCDP`: MCD CDP
 
 ## Introduction & Governance
