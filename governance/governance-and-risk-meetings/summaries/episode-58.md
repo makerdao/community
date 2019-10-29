@@ -14,12 +14,19 @@
 ## Terms
 
 `ES`: Emergency Shutdown
+
 `SF`: Stability Fee
+
 `SLP`: Secondary Lending Platform
+
 `DSR`: Dai Savings Rate
+
 `SAI`: SCD Dai
+
 `DAI`: MCD DAI
+
 `sCDP`: SCD CDP
+
 `mCDP`: MCD CDP
 
 ## Intro
@@ -57,7 +64,7 @@ Thanks to everyone for showing up, as always, place questions in the chat or spe
 - Governance
   - Obviously, the overall mandate of Maker is the stability and integrity of both SAI and DAI.
   - The risk team will publish a migration risk module. Parameters and justification for strategy. Entirely focused on safety and incentives. SAI holders, CDP holders, secondary borrowers, and lenders. Thinking about the supply shock and knowing that monetary policy is front and center. Will publish in the next few weeks and set up a governance poll for the community.
-![Uploading file..._tbdg2p7rb]()
+![](https://i.imgur.com/3CJ2bOK.png)
 - [21:55](https://youtu.be/rKq4J4bKndc?t=1320): Collateral Risk Models
   - A general model is still on track for early November before launch. It gives the community time to digest and discuss. Definitely doable in a few weeks, but we aim to discuss the modules in December. We're expecting the real governance cycle to begin in January.
   - Collateral specific evaluation reports will come out in December. Discussion about them will follow as part of the governance cycle
