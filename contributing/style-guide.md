@@ -28,6 +28,17 @@
 - Footnotes.
 - Curly quotes `“`. Use the plaintext version: `"`.
 - Escaping parentheses, `\(SOMETHING\)`. Use normal parentheses, `(SOMETHING)`.
+- Ampersands `&` in titles and headers
+
+### Capitalization
+
+#### Capitalize
+
+- Anything that has a definition provided by MakerDAO. The capitalization is an indicator to the world that it's a special term.
+    - See a list of these terms in the [Glossary of Terms](community/faqs/glossary.md)
+- Names and other proper nouns
+- Cities, Countries, Nationalities, and Languages
+- In titles, the first word, all nouns, all verbs, all adjectives, and all proper nouns. That means you should lowercase articles(`a`, `an`, `the`) conjunctions(`and`, `but`, etc.), and prepositions(`on`, `it`, `before`, etc.).
 
 ### Numbers
 
@@ -46,15 +57,34 @@
 
 ### Acronyms
 
-- When making acronyms plural, simply add an "s" (e.g., "CDPs").
+- When making acronyms plural, simply add an "s" (e.g., "SCDs").
 
 ### Decades
 
 - Do not use apostrophes to indicate decades (e.g., "the 1990s" instead of "1990’s").
 
+### Naming Conventions and Proper Nouns
+
+#### Tokens
+
+- If directly referring to the creation, destruction, or manipulation of the token (particularly as it relates to tooling), use the capitalized TLA version: `DAI`.
+In the same manner, refer to exchange pairs: `DAI/ETH`.
+- If referencing it as a currency, in an instructional or conversational setting, or as a conceptual product of the foundation or its systems, use: `Dai`.
+
 ## Markdown
 
 > :exclamation: Save yourself some trouble. Use VSCode and install the Prettier extension. It auto-corrects 90% of your markdown mistakes.
+
+### General
+
+- Consider using Visual Studio Code and install:
+  - `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`, `Prettier`, `GitLens`
+- Include line breaks above and below headings.
+- Do not make multiple top-level headings. Only use `#` once per document.
+- Do not use the same heading twice. It breaks auto-generated navigation.
+- Do not leave trailing spaces.
+- Ensure there is a single hard return at the end of the file.
+- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook.**
 
 ### Lists
 
@@ -77,17 +107,6 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
      1. Item 3a
      1. Item 3b
   ```
-
-### General
-
-- Consider using Visual Studio Code and install:
-  - `Markdown Preview Enhanced`, `Markdown Linter`, `Code Spell Checker`, `Prettier`, `GitLens`
-- Include line breaks above and below headings.
-- Do not make multiple top-level headings. Only use `#` once per document.
-- Do not use the same heading twice. It breaks auto-generated navigation.
-- Do not leave trailing spaces.
-- Ensure there is a single hard return at the end of the file.
-- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook.**
 
 ### File Names
 
@@ -170,11 +189,3 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
   | Spread (Bust/Boom)            | -3.0% |
   | Stability Fee                 | 0.0%  |
   | Target Rate                   | 0.0%  |
-
-## Naming Conventions and Proper Nouns
-
-### Tokens
-
-- If directly referring to the creation, destruction, or manipulation of the token (particularly as it relates to tooling), use the capitalized TLA version: `DAI`.
-In the same manner, refer to exchange pairs: `DAI/ETH`.
-- If referencing it as a currency, in an instructional or conversational setting, or as a conceptual product of the foundation or its systems, use: `Dai`.
