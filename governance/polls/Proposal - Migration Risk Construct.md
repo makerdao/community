@@ -1,6 +1,6 @@
 ---
 title: Migration Risk Construct Proposal
-summary: If accepted by the community, this proposal signals support for the included risk parameters to be initialized MCD launch.
+summary: If accepted by the community, this proposal signals support for the included risk parameters to be initialized MCD at launch.
 discussion_link: https://forum.makerdao.com/t/proposal-migration-risk-construct/724
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
