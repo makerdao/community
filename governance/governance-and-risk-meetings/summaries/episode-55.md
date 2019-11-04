@@ -13,8 +13,11 @@ https://youtu.be/4bYZ9DcKqOg
 ### Terms
 
 `ES`: Emergency Shutdown
+
 `SF`: Stability Fee
+
 `SLP`: Secondary Lending Platform
+
 `DSR`: Dai Savings Rate
 
 ## Introduction & Governance
