@@ -211,296 +211,66 @@ If this proposal is accepted by the community, it will signal its support for th
 
 ### Collateral Type: Ether (ETH)
 
-<table>
-  <tr>
-   <td>Stability Fee
-   </td>
-   <td>Current SF -1%
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Ceiling
-   </td>
-   <td>50,000,000
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation Ratio
-   </td>
-   <td>150%
-   </td>
-  </tr>
-  <tr>
-   <td>Auction lot size
-   </td>
-   <td>50 ETH
-   </td>
-  </tr>
-  <tr>
-   <td>Minimum bid increment
-   </td>
-   <td>3%
-   </td>
-  </tr>
-  <tr>
-   <td>Bid duration
-   </td>
-   <td>10 minutes
-   </td>
-  </tr>
-  <tr>
-   <td>Max auction duration
-   </td>
-   <td>3 days
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation penalty
-   </td>
-   <td>13%
-   </td>
-  </tr>
-  <tr>
-   <td>Dust
-   </td>
-   <td>20 Dai
-   </td>
-  </tr>
-</table>
+| Parameter             | Value          |
+| --------------------- | -------------- |
+| Stability Fee         | Current SF -1% |
+| Debt Ceiling          | 50,000,000     |
+| Liquidation Ratio     | 150%           |
+| Auction lot size      | 50 ETH         |
+| Minimum bid increment | 3%             |
+| Bid duration          | 10 minutes     |
+| Max auction duration  | 3 days         |
+| Liquidation penalty   | 13%            |
+| Dust                  | 20 Dai         |
 
 ### Collateral Type: Single-Collateral Dai (SAI)
 
-<table>
-  <tr>
-   <td>Stability Fee
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Ceiling
-   </td>
-   <td>100,000,000
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation Ratio
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Auction lot size
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Minimum bid increment
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Bid duration
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Max auction duration
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation penalty
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Dust
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-</table>
+| Parameter             | Value       |
+| --------------------- | ----------- |
+| Stability Fee         | 0           |
+| Debt Ceiling          | 100,000,000 |
+| Liquidation Ratio     | N/A         |
+| Auction lot size      | N/A         |
+| Minimum bid increment | N/A         |
+| Bid duration          | N/A         |
+| Max auction duration  | N/A         |
+| Liquidation penalty   | N/A         |
+| Dust                  | N/A         |
 
 ### Collateral Type: Basic Attention Token (BAT)
 
-<table>
-  <tr>
-   <td>Stability Fee
-   </td>
-   <td>Current SF - 1%
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Ceiling
-   </td>
-   <td>3,000,000
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation Ratio
-   </td>
-   <td>150%
-   </td>
-  </tr>
-  <tr>
-   <td>Auction lot size
-   </td>
-   <td>50,000 BAT
-   </td>
-  </tr>
-  <tr>
-   <td>Minimum bid increment
-   </td>
-   <td>3%
-   </td>
-  </tr>
-  <tr>
-   <td>Bid duration
-   </td>
-   <td>10 minutes
-   </td>
-  </tr>
-  <tr>
-   <td>Max auction duration
-   </td>
-   <td>3 days
-   </td>
-  </tr>
-  <tr>
-   <td>Liquidation penalty
-   </td>
-   <td>13%
-   </td>
-  </tr>
-  <tr>
-   <td>Dust
-   </td>
-   <td>20 Dai
-   </td>
-  </tr>
-</table>
+| Parameter             | Value          |
+| --------------------- | -------------- |
+| Stability Fee         | Current SF -1% |
+| Debt Ceiling          | 3,000,000      |
+| Liquidation Ratio     | 150%           |
+| Auction lot size      | 50,000 BAT     |
+| Minimum bid increment | 3%             |
+| Bid duration          | 10 minutes     |
+| Max auction duration  | 3 days         |
+| Liquidation penalty   | 13%            |
+| Dust                  | 20 Dai         |
 
 ### System Parameters
 
-<table>
-  <tr>
-   <td>Dai Savings Rate (DSR)
-   </td>
-   <td>2%
-   </td>
-  </tr>
-  <tr>
-   <td>Global Stability Fee
-   </td>
-   <td>0%
-   </td>
-  </tr>
-  <tr>
-   <td>Global Debt Ceiling
-   </td>
-   <td>153,000,000
-   </td>
-  </tr>
-  <tr>
-   <td>Surplus Buffer
-   </td>
-   <td>500,000
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Delay
-   </td>
-   <td>2 days
-   </td>
-  </tr>
-  <tr>
-   <td>Governance Security Module Delay
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>Emergency Shutdown Module Delay
-   </td>
-   <td>73 hours
-   </td>
-  </tr>
-  <tr>
-   <td>Oracle Security Module Delay
-   </td>
-   <td>1 hour
-   </td>
-  </tr>
-  <tr>
-   <td>Oracle Feed Quorum
-   </td>
-   <td>13
-   </td>
-  </tr>
-  <tr>
-   <td>Emergency Shutdown Threshold
-   </td>
-   <td>50,000 MKR
-   </td>
-  </tr>
-  <tr>
-   <td>Surplus Auction Lot Size
-   </td>
-   <td>10,000 Dai
-   </td>
-  </tr>
-  <tr>
-   <td>Surplus Auction Minimum Bid Increment
-   </td>
-   <td>3%
-   </td>
-  </tr>
-  <tr>
-   <td>Surplus Auction Bid Duration
-   </td>
-   <td>30 minutes
-   </td>
-  </tr>
-  <tr>
-   <td>Surplus Auction Max Duration
-   </td>
-   <td>3 days
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Lot Size
-   </td>
-   <td>50,000 Dai
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Maximum Initial Bid
-   </td>
-   <td>50 MKR
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Minimum Bid Increment
-   </td>
-   <td>3%
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Max Auction Duration
-   </td>
-   <td>3 days
-   </td>
-  </tr>
-  <tr>
-   <td>Debt Auction Reinitialization Discount
-   </td>
-   <td>20%
-   </td>
-  </tr>
-</table>
+| Parameter                              | Value       |
+| -------------------------------------- | ----------- |
+| Dai Savings Rate (DSR)                 | 2%          |
+| Global Stability Fee                   | 0%          |
+| Global Debt Ceiling                    | 153,000,000 |
+| Surplus Buffer                         | 500,000     |
+| Debt Auction Delay                     | 2 days      |
+| Governance Security Module Delay       | 0           |
+| Emergency Shutdown Module Delay        | 73 hours    |
+| Oracle Security Module Delay           | 1 hour      |
+| Oracle Feed Quorum                     | 13          |
+| Emergency Shutdown Threshold           | 50,000 MKR  |
+| Surplus Auction Lot Size               | 10,000 Dai  |
+| Surplus Auction Minimum Bid Increment  | 3%          |
+| Surplus Auction Bid Duration           | 30 minutes  |
+| Surplus Auction Max Duration           | 3 days      |
+| Debt Auction Lot Size                  | 50,000 Dai  |
+| Debt Auction Maximum Initial Bid       | 50 MKR      |
+| Debt Auction Minimum Bid Increment     | 3%          |
+| Debt Auction Max Auction Duration      | 3 days      |
+| Debt Auction Reinitialization Discount | 20%         |
