@@ -4,42 +4,49 @@ Welcome to Do It Yourself Community Meetups, a place where you can find all the 
 
 ## Project Snapshot
 
-- Bring together your local community
+- Bring together your friends and local community
 - Get funding in Dai
-- Create learning opportunities around MakerDAO and Dai
+- Create learning opportunities around Decentralized Finance, MakerDAO, and Dai
 
 ## What are we trying to accomplish?
 
-Maker is only as strong as its community. By hosting a meetup in your area, you can help develop a local community that is passionate about Dai and the ecosystem that is being built around it. Through the meetups project, we seek to:
+Maker is only as strong as its community. By hosting a meetup you can help build a local community that is passionate about DeFi, Dai, and the ecosystem that is being built around it. Through the meetups project, we seek to:
 
-- Give the Maker community the resources they need to organize successful meetups
-- Develop a grassroots movement that educates, inspires, and grows the Maker ecosystem and community
-- Encourage local Maker communities to collaborate on projects on top of the Maker Protocol and Dai
+- Give passionate people the resources they need to organize successful meetups
+- Fuel a grassroots and global movement that educates, inspires, and grows the DeFi ecosystem and community of people who understand and believe in what it stands for.
+- Encourage collaboration on projects that build on top of the Maker Protocol, Dai, and the broader DeFi ecosystem.
 
 ## Project Description
 
-This program is a major initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
+This program is an important initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
 
-Additionally, we're working with the community to actively develop a collection of guides to help you, even if you've never planned an event before. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
+Additionally, we're working with the community to actively build a collection of guides to help anyone host their own meetup. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
 
 ## Is this for me?
 
 ### Hosting Meetups
 
-Do you enjoy hosting events and bringing people together? Are you passionate about MakerDAO and Dai? Do you have access to a community of interested people? Are you willing to organize and host an event? We're eager to support people who are building the Maker community in their city.
+Are you passionate about self-sovereign money, DeFi, MakerDAO, and Dai? Do you have friends who know nothing about this? Are you willing to organize and host an event, even a small one? If you answered yes, then this might be for you.
 
-### Contribute to the Hosting Guides
+We're eager to support people who are passionate about sharing the vision of DeFi and teaching others how that vision is coming into being.
 
-Not in a position to host? No problem. We're constantly looking to improve the quality of our Hosting Guides.
+### Contribute to the Guides
 
-- Prior hosting experience is a plus, but not necessary
-- Experience in writing or editing is recommended
+Not in a position to host? No problem. We're constantly looking to improve the quality of our Guides. Here are some of the things we are looking for in contributors:
+
+- Prior hosting experience
+- Talent for writing or editing
+- Willingness to give constructive feedback
+
+We want to improve the depth and quality of the resources available to meetup organizers. If you feel like you can help make these resources more effective then this might be for you.
 
 ## How do I get involved?
 
 Ready to start planning your meetup? We've created a [guide](./getting-started-guide.md) to help you get started.
 
-Interested in contributing to the Hosting Guides? Learn how in our [contributors page](../contributing/README.md).
+If you're seasoned or want to wing it, here's the information on [requesting funds](https://community-development.makerdao.com/meetups/requesting-funds). Our Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
+
+Interested in contributing to the Hosting Guides? Learn how in our [contributing section](../contributing/README.md).
 
 ## Status
 
@@ -47,4 +54,4 @@ Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
 
 ## Important Disclaimer
 
-These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about MakerDAO and decentralized finance. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Presentations can focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with open finance, decentralized governance, or other relevant topics.
+These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about decentralized finance, Dai, and MakerDAO. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Events should focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with DeFi, decentralized governance, and other relevant topics.
