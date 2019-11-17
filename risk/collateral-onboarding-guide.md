@@ -1,51 +1,51 @@
-# Maker Collateral Onboarding Through MKR Governance Proposal
+# Collateral Onboarding Guide
 
 **Document version** **20190709**
 
-- [Introduction](#introduction)
-- [Risk parameters](#risk-parameters)
-- [Governance Approval](#governance-approval)
-- [Process Overview](#process-overview)
-- [Technical requirements](#technical-requirements)
-  - [Technical Audit](#technical-audit)
-- [Adapters](#adapters)
-  - [Contract Interface](#contract-interface)
-  - [Available Implementations](#available-implementations)
-  - [Implementation Guidelines](#implementation-guidelines)
-  - [Impact on Token Behavior](#impact-on-token-behavior)
-- [On Security Tokens](#on-security-tokens)
-- [Legal Requirements](#legal-requirements)
-- [Financial Requirements](#financial-requirements)
-  - [Classification](#classification)
-  - [Overview](#overview)
-  - [Issuance](#issuance)
-  - [Markets](#markets)
-  - [Community](#community)
-- [Application Form](#application-form)
-  - [Technical Specifications](#technical-specifications)
-  - [Financial Specifications](#financial-specifications)
-  - [Legal Specifications](#legal-specifications)
+* [Introduction](collateral-onboarding-guide.md#introduction)
+* [Risk parameters](collateral-onboarding-guide.md#risk-parameters)
+* [Governance Approval](collateral-onboarding-guide.md#governance-approval)
+* [Process Overview](collateral-onboarding-guide.md#process-overview)
+* [Technical requirements](collateral-onboarding-guide.md#technical-requirements)
+  * [Technical Audit](collateral-onboarding-guide.md#technical-audit)
+* [Adapters](collateral-onboarding-guide.md#adapters)
+  * [Contract Interface](collateral-onboarding-guide.md#contract-interface)
+  * [Available Implementations](collateral-onboarding-guide.md#available-implementations)
+  * [Implementation Guidelines](collateral-onboarding-guide.md#implementation-guidelines)
+  * [Impact on Token Behavior](collateral-onboarding-guide.md#impact-on-token-behavior)
+* [On Security Tokens](collateral-onboarding-guide.md#on-security-tokens)
+* [Legal Requirements](collateral-onboarding-guide.md#legal-requirements)
+* [Financial Requirements](collateral-onboarding-guide.md#financial-requirements)
+  * [Classification](collateral-onboarding-guide.md#classification)
+  * [Overview](collateral-onboarding-guide.md#overview)
+  * [Issuance](collateral-onboarding-guide.md#issuance)
+  * [Markets](collateral-onboarding-guide.md#markets)
+  * [Community](collateral-onboarding-guide.md#community)
+* [Application Form](collateral-onboarding-guide.md#application-form)
+  * [Technical Specifications](collateral-onboarding-guide.md#technical-specifications)
+  * [Financial Specifications](collateral-onboarding-guide.md#financial-specifications)
+  * [Legal Specifications](collateral-onboarding-guide.md#legal-specifications)
 
 ## Introduction
 
 The target audience for this document is:
 
-- Organizations and individuals that want to propose collateral types to be added to the MakerDAO Dai Credit System
-- Risk teams that want to create risk parameters for new collateral in the MakerDAO Governance Process
-- Others interested in the MakerDAO governance process
+* Organizations and individuals that want to propose collateral types to be added to the MakerDAO Dai Credit System
+* Risk teams that want to create risk parameters for new collateral in the MakerDAO Governance Process
+* Others interested in the MakerDAO governance process
 
-The purpose of this document is to guide you in the process of enabling a new token as collateral in the Dai Credit System (DCS).
+The purpose of this document is to guide you in the process of enabling a new token as collateral in the Dai Credit System \(DCS\).
 
 The document introduces the suggested information that a Maker Governance Risk Team need to calculate collateral risk parameters and create a governance proposal for adding new collateral to the system.
 
 Types of collateral tokens may include:
 
-- Native crypto coins such as bitcoin or ether
-- Security tokens such as company shares or bonds
-- Real estate tokens
-- Commodity tokens such as gold
-- Intellectual property tokens such as patents
-- Digital property tokens such as items from gaming or virtual worlds
+* Native crypto coins such as bitcoin or ether
+* Security tokens such as company shares or bonds
+* Real estate tokens
+* Commodity tokens such as gold
+* Intellectual property tokens such as patents
+* Digital property tokens such as items from gaming or virtual worlds
 
 Enabling a token to be used as collateral in DCS allows any token owner to lock up tokens in a Collateral Debt Position and generate Dai stablecoins against this position. Additionally, it contributes to the scalability of Dai by increasing the amount of available financial backing.
 
@@ -57,16 +57,23 @@ Further, this document shall be considered a living document that is adjusted as
 
 Each type of collateral in DCS is associated with its own set of risk parameters. The risk parameters may be influenced by both the financial and technical characteristics of the collateral token. The parameters include:
 
-- **Stability fee**
-  When Dai is generated by a Collateralized Debt Position (CDP), a stability fee accrues continuously. When the Dai is returned, the accrued stability fee must be paid on top. A share of the fee goes to pay the Dai Savings Rate to Dai holders. Another share of the fee goes to buy and burn [MKR tokens](https://medium.com/makerdao/what-is-mkr-e6915d5ca1b3) to compensate MKR token holders for committing to backstop the DCS in case of a black swan event.
-- **Liquidation ratio**
-  The liquidation ratio is the minimum ratio between the value of the collateral in the CDP and the value of Dai drawn from the CDP. For instance, if the ratio is 150%, the CDP will be liquidated if there is 100 Dai drawn and the value of the collateral drops below \$150.
-- **Liquidation penalty**
+* **Stability fee**
+
+  When Dai is generated by a Collateralized Debt Position \(CDP\), a stability fee accrues continuously. When the Dai is returned, the accrued stability fee must be paid on top. A share of the fee goes to pay the Dai Savings Rate to Dai holders. Another share of the fee goes to buy and burn [MKR tokens](https://medium.com/makerdao/what-is-mkr-e6915d5ca1b3) to compensate MKR token holders for committing to backstop the DCS in case of a black swan event.
+
+* **Liquidation ratio**
+
+  The liquidation ratio is the minimum ratio between the value of the collateral in the CDP and the value of Dai drawn from the CDP. For instance, if the ratio is 150%, the CDP will be liquidated if there is 100 Dai drawn and the value of the collateral drops below $150.
+
+* **Liquidation penalty**
+
   In the event of CDP liquidation, a penalty is paid by the CDP owner used to buy and burn MKR tokens.
-- **Debt ceiling**
+
+* **Debt ceiling**
+
   A system wide limit on the amount of Dai that can be drawn against a specific type of collateral.
 
-These risk parameters are calculated by a risk team using information provided by the proposer of the collateral. As the MakerDAO Governance process gradually is decentralized, the aim is to have a multitude of independent risk teams, that can calculate risk parameters and ask the MKR governors (MKR token holders) to approve the addition of collateral to the system.
+These risk parameters are calculated by a risk team using information provided by the proposer of the collateral. As the MakerDAO Governance process gradually is decentralized, the aim is to have a multitude of independent risk teams, that can calculate risk parameters and ask the MKR governors \(MKR token holders\) to approve the addition of collateral to the system.
 
 ## Governance Approval
 
@@ -84,11 +91,11 @@ The following figure describes the recommended high-level process for having a r
 
 It is assumed, the risk team includes or has access to the following set of roles:
 
-- INT: a technical integration role, that can verify the technical information provided
-- RISK: the risk function
-- LEGAL: a legal role, that can verify any legal information submitted.
+* INT: a technical integration role, that can verify the technical information provided
+* RISK: the risk function
+* LEGAL: a legal role, that can verify any legal information submitted.
 
-![Process Overview](./assets/process-overview.png "Process Overview")
+![Process Overview](../.gitbook/assets/process-overview.png)
 
 ## Technical requirements
 
@@ -96,7 +103,7 @@ This section describes which technical information to provide to a risk team. Th
 
 ### Technical Audit
 
-For a risk team to create a new governance proposal on your behalf, you must have highly skilled system security professionals conduct a technical security audit of your token contract(s) and submit the resulting audit report as part of the application.
+For a risk team to create a new governance proposal on your behalf, you must have highly skilled system security professionals conduct a technical security audit of your token contract\(s\) and submit the resulting audit report as part of the application.
 
 #### Audit Team
 
@@ -110,11 +117,11 @@ The scope of the audit must include any smart contracts that provide functionali
 
 The audit should evaluate security factors including but not limited to:
 
-- Overflow checks
-- Complexity, including inheritance layers and whether external contracts are called
-- Whether deprecated functions are used
-- Whether _SafeMath_ functions are defined and used
-- Whether formal verification has already been performed or can easily be performed
+* Overflow checks
+* Complexity, including inheritance layers and whether external contracts are called
+* Whether deprecated functions are used
+* Whether _SafeMath_ functions are defined and used
+* Whether formal verification has already been performed or can easily be performed
 
 #### Audit Example
 
@@ -132,8 +139,8 @@ DCS accepts diverse token types as collateral in a standardized way through toke
 
 Every adapter contract has to implement two functions to let users deposit and withdraw tokens.
 
-- `Join` lets token holders deposit tokens into the adapter contract and gain the same amount as an internal collateral balance at an address the user controls.
-- `Exit` lets token holders redeem their internal collateral balance to token balance on an address in the token contract.
+* `Join` lets token holders deposit tokens into the adapter contract and gain the same amount as an internal collateral balance at an address the user controls.
+* `Exit` lets token holders redeem their internal collateral balance to token balance on an address in the token contract.
 
 ### Available Implementations
 
@@ -175,8 +182,8 @@ Legal assessment constitutes one of the central steps in the collateral onboardi
 
 In general, the legal analysis will aim at determining the below factors:
 
-- Legal risks associated with the token and its role as an available collateral type;
-- Regulatory consequences (if any) of onboarding the token for both the particular constituencies involved (e.g., holders, CDP users, Keepers, other intermediaries, etc.) and for DCS.
+* Legal risks associated with the token and its role as an available collateral type;
+* Regulatory consequences \(if any\) of onboarding the token for both the particular constituencies involved \(e.g., holders, CDP users, Keepers, other intermediaries, etc.\) and for DCS.
 
 ## Financial Requirements
 
@@ -186,11 +193,11 @@ As part of the risk evaluation, a risk team must conduct a due diligence process
 
 ### Classification
 
-Broadly speaking, collateral assets can be separated into two categories: crypto-native assets and Security Tokens. Crypto-native assets (often referred to as ‘bearer’ assets) are coins such as bitcoin and ether that have no counterparty risk. Possession of the token is equivalent to direct ownership of the asset. Conversely, ‘registered’ assets, such as tokenized securities, are merely claims or receipts on an underlying asset. These tokens require a recourse analysis, the process by which a token can be redeemed for the underlying asset. Specific information may be requested depending on the classification of the collateral asset.
+Broadly speaking, collateral assets can be separated into two categories: crypto-native assets and Security Tokens. Crypto-native assets \(often referred to as ‘bearer’ assets\) are coins such as bitcoin and ether that have no counterparty risk. Possession of the token is equivalent to direct ownership of the asset. Conversely, ‘registered’ assets, such as tokenized securities, are merely claims or receipts on an underlying asset. These tokens require a recourse analysis, the process by which a token can be redeemed for the underlying asset. Specific information may be requested depending on the classification of the collateral asset.
 
 ### Overview
 
-You must provide a short summary of your project. In particular, please distinguish between the business sector (i.e., decentralized exchange, prediction market, payments platform, etc.) and the token use case (i.e., utility token, work token, governance token, etc.). You must submit all relevant documentation, including, but not limited to, whitepapers, pitch decks, and roadmaps. We also recommend submitting financial information, such as budgets, burn rates, runways, and treasury management overviews.
+You must provide a short summary of your project. In particular, please distinguish between the business sector \(i.e., decentralized exchange, prediction market, payments platform, etc.\) and the token use case \(i.e., utility token, work token, governance token, etc.\). You must submit all relevant documentation, including, but not limited to, whitepapers, pitch decks, and roadmaps. We also recommend submitting financial information, such as budgets, burn rates, runways, and treasury management overviews.
 
 ### Issuance
 
@@ -202,7 +209,7 @@ Please present a detailed trading profile, including, but not limited to, exchan
 
 ### Community
 
-Please provide links to primary communication platforms (e.g. email, Telegram, discord, reddit, etc.) on which you can be reached. All information requested herein, including documents, must be provided via email.
+Please provide links to primary communication platforms \(e.g. email, Telegram, discord, reddit, etc.\) on which you can be reached. All information requested herein, including documents, must be provided via email.
 
 ## Application Form
 
@@ -234,20 +241,20 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 
 1. Please provide a short summary of your project.
 2. Please list the founding members.
-3. What type of crypto asset is it (utility, work, governance, etc)?
-4. If native crypto asset, which category (utility, work, governance, etc)?
+3. What type of crypto asset is it \(utility, work, governance, etc\)?
+4. If native crypto asset, which category \(utility, work, governance, etc\)?
 5. What is the token’s usage in the project? How is the token utilized?
 
 #### Issuance - Bearer Assets
 
 1. What was the date of the ICO?
 2. What was the initial price and valuation?
-3. How much capital was raised (in USD and crypto terms)?
+3. How much capital was raised \(in USD and crypto terms\)?
 4. What was the token distribution breakdown?
 5. Are any tokens on a vesting schedule? If so, what is that schedule? Describe any related vestiture limitations.
 6. What are the circulating and total supply of the token?
 7. What is the wallet address of the treasury?
-8. How much of the ICO raise was converted into fiat (described in both terms of that fiat currency and the amount of tokens?
+8. How much of the ICO raise was converted into fiat \(described in both terms of that fiat currency and the amount of tokens?
 9. Were there any pre-ICO seed investors? Who and what were their respective allocations?
 
 #### Fundamentals
@@ -271,11 +278,12 @@ This form hasn’t yet been approved by MKR holders as a template for risk teams
 
 ### Legal Specifications
 
-1. Who is the token issuer (if any)?
-2. Do you have legal representation related (1) to the issuance of the token, (2) regulatory requirements regarding the token, or (3) otherwise? If so, whom?
-3. What is the regulatory status of the token? Please provide relevant documentation (e.g., legal opinions, prospectuses, public disclosures, filing documents, etc.).
+1. Who is the token issuer \(if any\)?
+2. Do you have legal representation related \(1\) to the issuance of the token, \(2\) regulatory requirements regarding the token, or \(3\) otherwise? If so, whom?
+3. What is the regulatory status of the token? Please provide relevant documentation \(e.g., legal opinions, prospectuses, public disclosures, filing documents, etc.\).
 4. Are there any rights associated with the token that do not follow from its technical implementation or technical ramifications of the system in which the token is used? If so, what are they? How are they enforced? Please provide documentation memorializing these rights.
-5. In what jurisdiction(s) was the token issued?? Please provide all filings and public documents related to the token’s issuance.
-6. Was the token issued as part of a regulatory process (e.g., securities offering)? If so, under which law, rule and/or regulation was the token issued? Please provide all documents related to this regulatory issuance process (to the extent not already provided in response to the above).
+5. In what jurisdiction\(s\) was the token issued?? Please provide all filings and public documents related to the token’s issuance.
+6. Was the token issued as part of a regulatory process \(e.g., securities offering\)? If so, under which law, rule and/or regulation was the token issued? Please provide all documents related to this regulatory issuance process \(to the extent not already provided in response to the above\).
 7. Was the token issued as part of the fundraising process for your project? If yes, who are the investors and how much equity do they respectively hold?
 8. Please describe the corporate and legal structure of the project/system/product in which the token is used.
+

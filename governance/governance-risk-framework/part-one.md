@@ -1,4 +1,4 @@
-# The Governance Risk Framework: Part 1
+# Part One
 
 ![The Governance Risk Framework: Part 1](https://cdn-images-1.medium.com/max/1600/1*ARg3W_xLS0yvS2rsz6J6LQ.png)
 
@@ -10,12 +10,11 @@
 >
 > _Morgan: “Before money or property or anything else. Money cannot buy it”_
 >
-> _Morgan: - “...because a man I do not trust could not get money from me on all the
-> bonds in Christendom.”_
+> _Morgan: - “...because a man I do not trust could not get money from me on all the bonds in Christendom.”_
 >
 > _J.P. Morgan at the Pujo Committee 1912–1913_
 >
-> _[Morgan American Financier: Jean Strouse]_
+> _\[Morgan American Financier: Jean Strouse\]_
 
 ## Introduction
 
@@ -23,28 +22,25 @@ Whether vilified as a protagonist of the robber barons, the architect of the ‘
 
 The notion of trust has not vanished in this trustless system. It has merely diversified.Diversified to the extent that has never been realized before, creating a portfolio of actors to which we can assign smaller portions of our scarce resource of trust and thus establishing a new sense of character.If one or a group of actors fail, we can still rely on the majority of actors to keep our notion of character and trust in place.
 
-In this three-part series, we will examine the governance risk framework that is to be employed by MakerDAO. Here, in the first part of the series we will take a look at what a stablecoin is as well as the different types. We then introduce the concept of ‘decentralized risk management’. The second part of the series
-will address how decentralized risk management is initiated and implemented by the first risk team, a template model team, the internal risk team of the Maker Foundation. The last part puts it all together for Maker token holders, by mapping out the decisions that Maker holders will need to make, the support that
-Maker holders will get to make those decisions and the voting process to follow to manage the risk function. It is the objective of this series to gain an understanding of the risk management function and the contribution Maker token holders make in managing it.
+In this three-part series, we will examine the governance risk framework that is to be employed by MakerDAO. Here, in the first part of the series we will take a look at what a stablecoin is as well as the different types. We then introduce the concept of ‘decentralized risk management’. The second part of the series will address how decentralized risk management is initiated and implemented by the first risk team, a template model team, the internal risk team of the Maker Foundation. The last part puts it all together for Maker token holders, by mapping out the decisions that Maker holders will need to make, the support that Maker holders will get to make those decisions and the voting process to follow to manage the risk function. It is the objective of this series to gain an understanding of the risk management function and the contribution Maker token holders make in managing it.
 
 ## Trust and the Stablecoin
 
 Stablecoins are tokens that attempt to create money using a mechanism that purposefully weights the transactional value over the commodity value of the token, resulting in a token that is more like the fiat currencies that we all understand today.
 
-The stability implied in the name is created through a mechanism of dynamics that attempt to keep the value of the token steady with some given reference point. In most instances, that reference point is the United States dollar but could be extended to any other asset (Euro)or index (CPI).
+The stability implied in the name is created through a mechanism of dynamics that attempt to keep the value of the token steady with some given reference point. In most instances, that reference point is the United States dollar but could be extended to any other asset \(Euro\)or index \(CPI\).
 
 Currently, three mechanisms or types of stablecoin have transpired that attempt to implement this:
 
-- IOU
-- Seigniorage Shares
-- Collateralized
+* IOU
+* Seigniorage Shares
+* Collateralized
 
 These different types implicitly state where the users of the stablecoin should place their trust.
 
-The IOU organization is asking the user to place their trust in the traditional centralized system;give them an asset (usually a \$1), they will keep it with a centralized custodian and will provide you with a token in return. If you want your asset back, give them the token and the centralized custodian will give you your asset back. The user explicitly trusts that the custodian will look after its assets.
+The IOU organization is asking the user to place their trust in the traditional centralized system;give them an asset \(usually a $1\), they will keep it with a centralized custodian and will provide you with a token in return. If you want your asset back, give them the token and the centralized custodian will give you your asset back. The user explicitly trusts that the custodian will look after its assets.
 
-Seigniorage share or Algorithmic based organizations ask the user to place their trust with them. If the price of the token is too high, they will increase the supply and reduce demand. If the price is too low, they will increase demand and lower supply. The user explicitly trusts that they, or the mechanisms deployed
-by the organization, will respond in a timely and appropriate fashion to keep the system and by definition their token stable.
+Seigniorage share or Algorithmic based organizations ask the user to place their trust with them. If the price of the token is too high, they will increase the supply and reduce demand. If the price is too low, they will increase demand and lower supply. The user explicitly trusts that they, or the mechanisms deployed by the organization, will respond in a timely and appropriate fashion to keep the system and by definition their token stable.
 
 Collateralized organizations ask the user to place their trust in the value created by the blockchain. If the user believes that the economy of the blockchain will flourish then so will the tokens on the blockchain. Those tokens are then used to collateralize the supply of stable coin into that economy. Regardless of the governing dynamics used for stability, users place their trust first and foremost into the pledged collateral before anything else.
 
@@ -54,7 +50,7 @@ One could argue the merits of each system indefinitely, but what is clear, is th
 
 Maker contends that users should place their trust in the value proposition of the blockchain. If a user is on the blockchain, by default, there is a certain level of trust already employed. Instead of trusting in an off-chain mechanism, or concentrating that trust into one organization on-chain, it seems natural to bring the stablecoin to where the trust already is — decentralized, and on the blockchain.
 
-The stablecoin of the Maker organization is Dai. Dai is supplied to the Ethereum blockchain economy by way of a lending mechanism, whereby a user borrows Dai and increases supply through on-chain transactions. To facilitate this lending, Maker has created a smart contract called a Collateralized Debt Position (CDP). The purpose of the CDP is two-fold, to accept pledged collateral tokens and to make a Dai credit facility available. Put another way, it provides loans and attempts to mitigate credit risk at the same time.
+The stablecoin of the Maker organization is Dai. Dai is supplied to the Ethereum blockchain economy by way of a lending mechanism, whereby a user borrows Dai and increases supply through on-chain transactions. To facilitate this lending, Maker has created a smart contract called a Collateralized Debt Position \(CDP\). The purpose of the CDP is two-fold, to accept pledged collateral tokens and to make a Dai credit facility available. Put another way, it provides loans and attempts to mitigate credit risk at the same time.
 
 ### Collateralized Debt Position — the Engine of Supply
 
@@ -90,18 +86,17 @@ The vision is that we will arrive at a point where the community will rigorously
 
 The point of this rigor is to avoid polarizing the debate. Whereby different factions try to drown each other out in self-serving rhetoric. Instead, the idea is to reach scientific consensus on what is considered the best overall risk construct for the system.
 
-Risk constructs are envisioned to be created and presented by being reproducible. Meaning that the construct includes not only models but also the data used and results obtained from applying that data. Further, the data should be explicitly defined, and it could be either exogenous or endogenous to the construct. Exogenous data may be price data or qualitative data obtained outside of the construct, where endogenous data is calculated data from within the system and again used as an input for the system. An example of this may be a
-qualitative assessment that results in a score that used as an input to a final risk parameter calculation. In this instance, the qualitative score is the endogenous data.
+Risk constructs are envisioned to be created and presented by being reproducible. Meaning that the construct includes not only models but also the data used and results obtained from applying that data. Further, the data should be explicitly defined, and it could be either exogenous or endogenous to the construct. Exogenous data may be price data or qualitative data obtained outside of the construct, where endogenous data is calculated data from within the system and again used as an input for the system. An example of this may be a qualitative assessment that results in a score that used as an input to a final risk parameter calculation. In this instance, the qualitative score is the endogenous data.
 
 It is critically important to understand that ultimately the risk construct is being debated and not its output. The idea is that consensus on the construct implies agreement on all processes and production. This further means consensus on the data obtained, the source of the data and any data transformations that may occur within the construct.
 
 ### Risk Teams and Their Contributions
 
-As we move towards a more decentralized risk function, risk teams that are approved by Maker token holders will have their risk constructs included in the system. The output of these risk constructs will consist of assessments and risk parameters for the system. Risk constructs may differ concerning what kinds of evaluations and risk parameters they output, or, on what kind of tokens they produce this output. Further, hybrids may arise where a risk construct only provides a subset of risk parameters for specific tokens (e.g., only produce qualitative assessments on asset-backed tokens). Another permutation is that a risk construct from one risk team may produce output that is used by another risk team.
+As we move towards a more decentralized risk function, risk teams that are approved by Maker token holders will have their risk constructs included in the system. The output of these risk constructs will consist of assessments and risk parameters for the system. Risk constructs may differ concerning what kinds of evaluations and risk parameters they output, or, on what kind of tokens they produce this output. Further, hybrids may arise where a risk construct only provides a subset of risk parameters for specific tokens \(e.g., only produce qualitative assessments on asset-backed tokens\). Another permutation is that a risk construct from one risk team may produce output that is used by another risk team.
 
 Risk constructs may eventually include diagnostic risk management models for the entire collateral portfolio. Consequently, we can see how a collection of risk constructs could ultimately cover every aspect of the risk management function.
 
-The governance debate will be about choosing risk teams based on the format, structure, and quality of the risk constructs they wish to contribute. Once a risk construct has been debated, understood and approved (risk team approved) then the level of construct transparency will dictate the initial weighting it will get. Explicit risk teams that have transparent constructs will get a higher weighting than Implicit risk teams that are not transparent.
+The governance debate will be about choosing risk teams based on the format, structure, and quality of the risk constructs they wish to contribute. Once a risk construct has been debated, understood and approved \(risk team approved\) then the level of construct transparency will dictate the initial weighting it will get. Explicit risk teams that have transparent constructs will get a higher weighting than Implicit risk teams that are not transparent.
 
 Electing risk teams will be done through a vote, and on approval, as mentioned, a simple weighting will be attached to that risk team’s contribution. This weighting will represent the participation of the construct to the overall risk function and can change depending on its longevity and quality of input.
 
@@ -129,7 +124,7 @@ There will be three subtypes of votes. Once-off or initialization votes, intermi
 
 #### II. Timing of Reactive Governance Actions
 
-Given a risk construct or collection of risk constructs, over time specific inputs may need to change. These inputs will be related to the performance of a function, such as an Oracle, if we need to exclude an Oracle, then a reactive action needs to be implemented to remove that Oracle. Likewise, if a collateral type has changed concerning its size and liquidity then the exposure to that collateral type may be increased (or decreased). As long as the output of the new risk parameter agrees with the formulaic structure of the risk construct, then an adjustment is made. This kind of change is expected to be irregular and thus intermittent.
+Given a risk construct or collection of risk constructs, over time specific inputs may need to change. These inputs will be related to the performance of a function, such as an Oracle, if we need to exclude an Oracle, then a reactive action needs to be implemented to remove that Oracle. Likewise, if a collateral type has changed concerning its size and liquidity then the exposure to that collateral type may be increased \(or decreased\). As long as the output of the new risk parameter agrees with the formulaic structure of the risk construct, then an adjustment is made. This kind of change is expected to be irregular and thus intermittent.
 
 #### III. Voting in New Collateral Types
 
@@ -152,3 +147,4 @@ In short, the internal team is to create the first risk construct for Maker toke
 In this first part of the series on the Governance Risk Framework, we considered where Dai fits into the suite of stablecoins in the industry. We further outlined the function of supplying Dai and focused on the salient risks of this process. Importantly, we described the intended decentralized risk management function that will be in place to manage these risks. Including an initial outline of where Maker token holders fit in and the types of decisions required.
 
 The second part of this series will focus on the first risk construct that starts the whole process. We will consider each of the significant risks inherent to the system and focus on how a risk construct is to be created to manage those risks. The second part will be a more in-depth look at what type of models to employ, how they are interrelated, and how to combine them into a well-formed risk construct.
+

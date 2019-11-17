@@ -1,4 +1,4 @@
-# Foundation Proposal and Core Principles
+# Core Foundation Principles
 
 The Maker Foundation Team firmly believes that a careful and gradual approach is the safest path towards a long-term equilibrium of decentralized governance. The first step on this journey was to hold the first-ever [public MKR vote](https://vote.makerdao.com/poll-foundation-proposal/vote-yes-to-the-five-core-principles-of-the-maker-governance-philosophy) on September 12th, 2018.
 
@@ -12,9 +12,8 @@ The Maker Governance Framework will be built on rigorously vetted, reproducible,
 
 The Framework itself can be broken down into two major components:
 
-- **Governance Proposals:** Symbolic votes used to poll community sentiment towards specific models or data sources.
-
-- **Executive Proposals:** Used to ratify the Risk Parameters determined by the models and data accepted by Governance Proposals. Executive votes result in state changes inside the Dai Credit System and occur every quarter.
+* **Governance Proposals:** Symbolic votes used to poll community sentiment towards specific models or data sources.
+* **Executive Proposals:** Used to ratify the Risk Parameters determined by the models and data accepted by Governance Proposals. Executive votes result in state changes inside the Dai Credit System and occur every quarter.
 
 This distinction encourages the governance debate to become a consensus-seeking exercise to reach a compromise, where communication channels force participants to focus on the underlying reasoning, theories, and data of risk assessments, rather than a polarising popularity contest about specific risk parameters for particular tokens.
 
@@ -42,4 +41,5 @@ The Foundation will drive Maker towards increased decentralization, with every s
 
 To drive growth and promote the adoption of Dai, the Maker Foundation needs high levels of flexibility and more control in the short term. The Foundation will facilitate exponential user growth, business adoption, and dapp integrations to maintain the dominance of Dai across all markets for decentralized stablecoins.
 
-This includes doing various low-level tasks in the ecosystem, such as managing the initial set of Oracle nodes and the first Emergency Shutdown (formerly called Global Settlement) infrastructure.
+This includes doing various low-level tasks in the ecosystem, such as managing the initial set of Oracle nodes and the first Emergency Shutdown \(formerly called Global Settlement\) infrastructure.
+

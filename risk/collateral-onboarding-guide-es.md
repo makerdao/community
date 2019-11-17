@@ -1,50 +1,50 @@
-# Maker Colateral Onboarding a través de la propuesta de gobierno de MKR
+# Collateral Onboarding Guide - Español
 
 **Document version** **20190709**
 
-- [Introducción](#introducción)
-- [Parámetros de riesgo](#parámetros-de-riesgo)
-- [Aprobación de Gobierno](#aprobación-de-gobierno)
-- [Proceso](#proceso)
-- [Requerimientos técnicos](#requerimientos-técnicos)
-  - [Auditoria tecnica](#auditoria-tecnica)
-- [Adaptadores](#adaptadores)
-  - [Interfaz de contrato](#interfaz-de-contrato)
-  - [Implementaciones disponibles](#implementaciones-disponibles)
-- [Tokens bloqueados](#tokens-bloqueados)
-- [En tokens de seguridad (Securities)](#en-tokens-de-seguridad-securities)
-- [Requerimientos legales](#requerimientos-legales)
-- [Requerimientos financieros](#requerimientos-financieros)
-  - [Clasificación](#clasificación)
-  - [Visión general](#visión-general)
-  - [Emisión](#emisión)
-- [Los mercados](#los-mercados)
-  - [Comunidad](#comunidad)
-- [Formulario de aplicación](#formulario-de-aplicación)
-  - [Especificaciones técnicas](#especificaciones-técnicas)
-  - [Especificaciones financieras](#especificaciones-financieras)
-  - [Especificaciones legales](#especificaciones-legales)
+* [Introducción](collateral-onboarding-guide-es.md#introducción)
+* [Parámetros de riesgo](collateral-onboarding-guide-es.md#parámetros-de-riesgo)
+* [Aprobación de Gobierno](collateral-onboarding-guide-es.md#aprobación-de-gobierno)
+* [Proceso](collateral-onboarding-guide-es.md#proceso)
+* [Requerimientos técnicos](collateral-onboarding-guide-es.md#requerimientos-técnicos)
+  * [Auditoria tecnica](collateral-onboarding-guide-es.md#auditoria-tecnica)
+* [Adaptadores](collateral-onboarding-guide-es.md#adaptadores)
+  * [Interfaz de contrato](collateral-onboarding-guide-es.md#interfaz-de-contrato)
+  * [Implementaciones disponibles](collateral-onboarding-guide-es.md#implementaciones-disponibles)
+* [Tokens bloqueados](collateral-onboarding-guide-es.md#tokens-bloqueados)
+* [En tokens de seguridad \(Securities\)](collateral-onboarding-guide-es.md#en-tokens-de-seguridad-securities)
+* [Requerimientos legales](collateral-onboarding-guide-es.md#requerimientos-legales)
+* [Requerimientos financieros](collateral-onboarding-guide-es.md#requerimientos-financieros)
+  * [Clasificación](collateral-onboarding-guide-es.md#clasificación)
+  * [Visión general](collateral-onboarding-guide-es.md#visión-general)
+  * [Emisión](collateral-onboarding-guide-es.md#emisión)
+* [Los mercados](collateral-onboarding-guide-es.md#los-mercados)
+  * [Comunidad](collateral-onboarding-guide-es.md#comunidad)
+* [Formulario de aplicación](collateral-onboarding-guide-es.md#formulario-de-aplicación)
+  * [Especificaciones técnicas](collateral-onboarding-guide-es.md#especificaciones-técnicas)
+  * [Especificaciones financieras](collateral-onboarding-guide-es.md#especificaciones-financieras)
+  * [Especificaciones legales](collateral-onboarding-guide-es.md#especificaciones-legales)
 
 ## Introducción
 
 El público objetivo para este documento es:
 
-- Organizaciones e individuos que desean proponer tipos de Colateral que se agregarán al sistema de crédito Dai de MakerDAO
-- Equipos de riesgo que desean crear parámetros de riesgo para nuevas Colateral en el proceso de gobernabilidad de MakerDAO
-- Otros interesados ​​en el proceso de gobierno de MakerDAO.
+* Organizaciones e individuos que desean proponer tipos de Colateral que se agregarán al sistema de crédito Dai de MakerDAO
+* Equipos de riesgo que desean crear parámetros de riesgo para nuevas Colateral en el proceso de gobernabilidad de MakerDAO
+* Otros interesados ​​en el proceso de gobierno de MakerDAO.
 
-El propósito de este documento es guiarlo en el proceso de habilitación de un nuevo token como Colateral en el Dai Credit System (DCS).
+El propósito de este documento es guiarlo en el proceso de habilitación de un nuevo token como Colateral en el Dai Credit System \(DCS\).
 
 El documento presenta la información sugerida que un Equipo de Riesgo de Gobernabilidad de MakerDAO necesita para calcular los parámetros de riesgo de los colaterales y crear una propuesta para agregar nuevas Colateral al sistema.
 
 Los tipos de Tokens colaterales pueden incluir:
 
-- Monedas criptográficas nativas como el bitcoin o el éter.
-- Tokens Securities, como acciones de empresa o bonos
-- Tokens de bienes raíces
-- Tokens de metales, como el oro.
-- Tokens de propiedad intelectual como patentes.
-- Tokens de propiedades digitales, como artículos de juegos o mundos virtuales.
+* Monedas criptográficas nativas como el bitcoin o el éter.
+* Tokens Securities, como acciones de empresa o bonos
+* Tokens de bienes raíces
+* Tokens de metales, como el oro.
+* Tokens de propiedad intelectual como patentes.
+* Tokens de propiedades digitales, como artículos de juegos o mundos virtuales.
 
 Habilitar un token para usarlo como Colateral en DCS permite a cualquier propietario de token bloquearlos en CDP y generar Dai contra esta posición. Además, contribuye a la escalabilidad de Dai al aumentar la cantidad de respaldo financiero disponible en el sistema.
 
@@ -56,16 +56,23 @@ Además, este documento se considerará un documento en edicion que se ajusta a 
 
 Cada tipo de Colateral en DCS está asociada con su propio conjunto de parámetros de riesgo. Los parámetros de riesgo pueden verse influidos por las características financieras y técnicas del token en cuestion. Los parámetros incluyen:
 
-- **Tarifa de estabilidad**
-  Cuando Dai es generado por una posición de deuda colateralizada (CDP), se acumula una tarifa de estabilidad continuamente. Cuando se devuelve el Dai, la tarifa de estabilidad acumulada debe pagarse. Una parte de la tarifa se destina al pago de la tasa de ahorro de Dai a los tenedores de Dai. Otra parte de la tarifa se destina a comprar y quemar tokens MKR para compensar a los poseedores de tokens MKR por comprometerse a respaldar al DCS en caso de un evento “Black Swan”
-- **Relación de liquidación**
-  La relación de liquidación es la relación mínima entre el valor de la Colateral en el CDP y el valor de Dai extraído del CDP. Por ejemplo, si la proporción es del 150%, el CDP se liquidará si se extraen 100 Dai y el valor de la Colateral cae por debajo de \$ 150.
-- **Multa por liquidación**
+* **Tarifa de estabilidad**
+
+  Cuando Dai es generado por una posición de deuda colateralizada \(CDP\), se acumula una tarifa de estabilidad continuamente. Cuando se devuelve el Dai, la tarifa de estabilidad acumulada debe pagarse. Una parte de la tarifa se destina al pago de la tasa de ahorro de Dai a los tenedores de Dai. Otra parte de la tarifa se destina a comprar y quemar tokens MKR para compensar a los poseedores de tokens MKR por comprometerse a respaldar al DCS en caso de un evento “Black Swan”
+
+* **Relación de liquidación**
+
+  La relación de liquidación es la relación mínima entre el valor de la Colateral en el CDP y el valor de Dai extraído del CDP. Por ejemplo, si la proporción es del 150%, el CDP se liquidará si se extraen 100 Dai y el valor de la Colateral cae por debajo de $ 150.
+
+* **Multa por liquidación**
+
   En el caso de la liquidación de CDP, el propietario de CDP paga una multa que sirve para comprar y quemar tokens MKR.
-- **Techo de deuda**
+
+* **Techo de deuda**
+
   Un límite de todo el sistema sobre la cantidad de Dai que se puede extraer contra un tipo específico de Colateral.
 
-Estos parámetros de riesgo son calculados por un equipo de riesgo utilizando la información proporcionada por el proponente de la Colateral. A medida que el proceso de gobierno de MakerDAO se descentraliza gradualmente, el objetivo es tener una multitud de equipos de riesgo independientes, que puedan calcular los parámetros de riesgo y pedir a los gobernadores de MKR (titulares de token de MKR) que aprueben la adición de Colateral al sistema.
+Estos parámetros de riesgo son calculados por un equipo de riesgo utilizando la información proporcionada por el proponente de la Colateral. A medida que el proceso de gobierno de MakerDAO se descentraliza gradualmente, el objetivo es tener una multitud de equipos de riesgo independientes, que puedan calcular los parámetros de riesgo y pedir a los gobernadores de MKR \(titulares de token de MKR\) que aprueben la adición de Colateral al sistema.
 
 ## Aprobación de Gobierno
 
@@ -83,11 +90,11 @@ La siguiente figura describe el proceso de alto nivel recomendado para que un eq
 
 Se asume que el equipo de riesgo incluye o tiene acceso al siguiente conjunto de roles:
 
-- INT: un rol de integración técnica, que puede verificar la información técnica proporcionada
-- RIESGO: la función de riesgo
-- LEGAL: una función legal, que puede verificar cualquier información legal presentada.
+* INT: un rol de integración técnica, que puede verificar la información técnica proporcionada
+* RIESGO: la función de riesgo
+* LEGAL: una función legal, que puede verificar cualquier información legal presentada.
 
-![Process Overview](./assets/process-overview.png "Process Overview")
+![Process Overview](../.gitbook/assets/process-overview.png)
 
 ## Requerimientos técnicos
 
@@ -95,7 +102,7 @@ Esta sección describe qué información técnica se debe proporcionar a un equi
 
 ### Auditoria tecnica
 
-Para que un equipo de riesgos cree una nueva propuesta de gobierno en su nombre, debe contar con profesionales de seguridad de sistemas altamente calificados que realicen una auditoría de seguridad técnica de su (s) contrato (s) de token y presenten el informe de auditoría resultante como parte de la aplicación.
+Para que un equipo de riesgos cree una nueva propuesta de gobierno en su nombre, debe contar con profesionales de seguridad de sistemas altamente calificados que realicen una auditoría de seguridad técnica de su \(s\) contrato \(s\) de token y presenten el informe de auditoría resultante como parte de la aplicación.
 
 #### Equipo de auditoría
 
@@ -109,13 +116,13 @@ El alcance de la auditoría debe incluir cualquier contrato inteligente que prop
 
 La auditoría debe evaluar los factores de seguridad que incluyen, entre otros:
 
-- Controles de desbordamiento
-- Complejidad, incluidas las capas de herencia y si se llaman contratos externos
-- Si se usan funciones en desuso
-- Si las funciones de SafeMath están definidas y usadas
-- Si la verificación formal ya se ha realizado o se puede realizar fácilmente
-- Ejemplo de auditoría
-- Para ver un ejemplo del aspecto que puede tener un informe de auditoría, puede ver la auditoría de Trail of Bits de la versión de prueba del colateral único Dai conocido como "Sai".
+* Controles de desbordamiento
+* Complejidad, incluidas las capas de herencia y si se llaman contratos externos
+* Si se usan funciones en desuso
+* Si las funciones de SafeMath están definidas y usadas
+* Si la verificación formal ya se ha realizado o se puede realizar fácilmente
+* Ejemplo de auditoría
+* Para ver un ejemplo del aspecto que puede tener un informe de auditoría, puede ver la auditoría de Trail of Bits de la versión de prueba del colateral único Dai conocido como "Sai".
 
 #### Resultado y calidad de la auditoría
 
@@ -129,8 +136,8 @@ DCS acepta diversos tipos de token como Colateral de una manera estandarizada a 
 
 Cada contrato de adaptador debe implementar dos funciones para permitir a los usuarios depositar y retirar tokens.
 
-- `JOIN` permite a los titulares de tokens depositar tokens en el contrato del adaptador y obtener la misma cantidad que un saldo de Colateral interna en una dirección que el usuario controla.
-- `EXIT` permite a los titulares de tokens canjear su saldo de Colateral interno en token balance en una dirección en el contrato de token.
+* `JOIN` permite a los titulares de tokens depositar tokens en el contrato del adaptador y obtener la misma cantidad que un saldo de Colateral interna en una dirección que el usuario controla.
+* `EXIT` permite a los titulares de tokens canjear su saldo de Colateral interno en token balance en una dirección en el contrato de token.
 
 ### Implementaciones disponibles
 
@@ -158,7 +165,7 @@ Las Tokens que se encuentran en los contratos de adaptadores no pueden ser utili
 
 Los contratos de adaptadores no tienen en cuenta el límite de deuda actual del tipo de Colateral cuando se permiten depósitos simbólicos. Por lo tanto, una gran cantidad de tokens se podrían bloquear dentro de los contratos de adaptador incluso cuando no se están utilizando para dibujar Dai.
 
-## En tokens de seguridad (Securities)
+## En tokens de seguridad \(Securities\)
 
 Si el token es un token de seguridad regulado, se deben realizar consideraciones adicionales.
 
@@ -176,7 +183,7 @@ En general, el análisis legal tendrá como objetivo determinar los siguientes f
 
 Los riesgos legales asociados con el token y su función como tipo de Colateral disponible;
 
-Consecuencias reglamentarias (si las hay) de la incorporación del token tanto para las unidades constitutivas particulares involucradas (por ejemplo, titulares, usuarios de CDP, Guardianes, otros intermediarios, etc.) como para DCS.
+Consecuencias reglamentarias \(si las hay\) de la incorporación del token tanto para las unidades constitutivas particulares involucradas \(por ejemplo, titulares, usuarios de CDP, Guardianes, otros intermediarios, etc.\) como para DCS.
 
 ## Requerimientos financieros
 
@@ -186,11 +193,11 @@ Como parte de la evaluación de riesgos, un equipo de riesgos debe llevar a cabo
 
 ### Clasificación
 
-En términos generales, los activos colaterales se pueden separar en dos categorías: activos criptográficos y tokens de seguridad. Los activos crypto-nativos (a menudo denominados activos "portadores") son monedas como bitcoin y ether que no tienen riesgo de contraparte. La posesión del token es equivalente a la propiedad directa del activo. A la inversa, los activos "registrados", como los valores tokenizados, son simplemente reclamaciones o recibos de un activo subyacente. Estos tokens requieren un análisis de recursos, el proceso mediante el cual se puede canjear un token por el activo subyacente. Se puede solicitar información específica dependiendo de la clasificación del activo colateral.
+En términos generales, los activos colaterales se pueden separar en dos categorías: activos criptográficos y tokens de seguridad. Los activos crypto-nativos \(a menudo denominados activos "portadores"\) son monedas como bitcoin y ether que no tienen riesgo de contraparte. La posesión del token es equivalente a la propiedad directa del activo. A la inversa, los activos "registrados", como los valores tokenizados, son simplemente reclamaciones o recibos de un activo subyacente. Estos tokens requieren un análisis de recursos, el proceso mediante el cual se puede canjear un token por el activo subyacente. Se puede solicitar información específica dependiendo de la clasificación del activo colateral.
 
 ### Visión general
 
-Debes proporcionar un breve resumen de tu proyecto. En particular, distinga entre el sector empresarial (es decir, el intercambio descentralizado, el mercado de predicción, la plataforma de pagos, etc.) y el caso de uso del token (es decir, el token de utilidad, el token de trabajo, el token de gobernanza, etc.). Debe enviar toda la documentación relevante, incluidos, entre otros, libros blancos, plataformas de lanzamiento y planes de trabajo. También recomendamos enviar información financiera, como presupuestos, tasas de quema, pasarelas y resúmenes de gestión de tesorería.
+Debes proporcionar un breve resumen de tu proyecto. En particular, distinga entre el sector empresarial \(es decir, el intercambio descentralizado, el mercado de predicción, la plataforma de pagos, etc.\) y el caso de uso del token \(es decir, el token de utilidad, el token de trabajo, el token de gobernanza, etc.\). Debe enviar toda la documentación relevante, incluidos, entre otros, libros blancos, plataformas de lanzamiento y planes de trabajo. También recomendamos enviar información financiera, como presupuestos, tasas de quema, pasarelas y resúmenes de gestión de tesorería.
 
 ### Emisión
 
@@ -202,7 +209,7 @@ Presente un perfil comercial detallado, que incluya, entre otros, listados de ca
 
 ### Comunidad
 
-Proporcione enlaces a las plataformas de comunicación principales (por ejemplo, correo electrónico, telegram, discordi, reddit, etc.) en las que puede contactarse. Toda la información solicitada en este documento, incluidos los documentos, se debe proporcionar por correo electrónico.
+Proporcione enlaces a las plataformas de comunicación principales \(por ejemplo, correo electrónico, telegram, discordi, reddit, etc.\) en las que puede contactarse. Toda la información solicitada en este documento, incluidos los documentos, se debe proporcionar por correo electrónico.
 
 ## Formulario de aplicación
 
@@ -218,13 +225,13 @@ Este formulario aún no ha sido aprobado por los titulares de MKR como una plant
 4. ¿Tiene el token algún mecanismo especial para manipular las horquillas? Esto puede incluir bifurcaciones en la aplicación del token o en la cadena de bloques subyacente.
    1. En caso afirmativo, proporcione una referencia a más información sobre el manejo de la horquilla.
 5. Mi token encaja con el siguiente adaptador Dai Credit System:
-    1. GemJoin
-    2. Suministraré mi propio contrato de adaptador. Ingrese la referencia a continuación.
+   1. GemJoin
+   2. Suministraré mi propio contrato de adaptador. Ingrese la referencia a continuación.
 6. ¿El token ha pasado la verificación formal?
-    1. En caso afirmativo:
-        1. Por favor describa la especificación.
-        2. ¿Quién compuso la especificación?
-        3. Por favor, proporcione un enlace al resultado de la verificación.
+   1. En caso afirmativo:
+      1. Por favor describa la especificación.
+      2. ¿Quién compuso la especificación?
+      3. Por favor, proporcione un enlace al resultado de la verificación.
 7. Auditoria tecnica
    1. Subir informe de auditoría creado por personal de investigación calificado.
 
@@ -233,49 +240,50 @@ Este formulario aún no ha sido aprobado por los titulares de MKR como una plant
 #### Preguntas generales
 
 1. Por favor, proporcione un breve resumen de su proyecto.
-1. Por favor liste los miembros fundadores.
-1. ¿Qué tipo de activo criptográfico es (utilidad, trabajo, gobierno, etc.)?
-1. Si es un recurso criptográfico nativo, ¿qué categoría (utilidad, trabajo, gobierno, etc.)?
-1. ¿Cuál es el uso del token en el proyecto? ¿Cómo se utiliza el token?
+2. Por favor liste los miembros fundadores.
+3. ¿Qué tipo de activo criptográfico es \(utilidad, trabajo, gobierno, etc.\)?
+4. Si es un recurso criptográfico nativo, ¿qué categoría \(utilidad, trabajo, gobierno, etc.\)?
+5. ¿Cuál es el uso del token en el proyecto? ¿Cómo se utiliza el token?
 
 #### Emisión - Activos al portador
 
 1. ¿Cuál fue la fecha del ICO?
-1. ¿Cuál fue el precio inicial y la valoración?
-1. ¿Cuánto capital se recaudó (en USD y cripto)?
-1. ¿Cuál fue el desglose de la distribución de Tokens?
-1. ¿Hay algún tokens en un calendario de vesting? Si es así, ¿cuál es ese tiempo? Describa cualquier limitación de vesting relacionada.
-1. ¿Cuáles son el suministro circulante y total del token?
-1. ¿Cuál es la dirección billetera de la tesorería?
-1. ¿Cuánto del aumento de ICO se convirtió en fiat (descrito en los términos de esa moneda fiduciaria y la cantidad de Tokens)?
-1. ¿Hubo algunos inversores semilla pre-ICO? ¿Quiénes y cuáles eran sus respectivas asignaciones?
+2. ¿Cuál fue el precio inicial y la valoración?
+3. ¿Cuánto capital se recaudó \(en USD y cripto\)?
+4. ¿Cuál fue el desglose de la distribución de Tokens?
+5. ¿Hay algún tokens en un calendario de vesting? Si es así, ¿cuál es ese tiempo? Describa cualquier limitación de vesting relacionada.
+6. ¿Cuáles son el suministro circulante y total del token?
+7. ¿Cuál es la dirección billetera de la tesorería?
+8. ¿Cuánto del aumento de ICO se convirtió en fiat \(descrito en los términos de esa moneda fiduciaria y la cantidad de Tokens\)?
+9. ¿Hubo algunos inversores semilla pre-ICO? ¿Quiénes y cuáles eran sus respectivas asignaciones?
 
 #### Fundamentos
 
 1. Por favor, enlace al whitepaper y / o relacionada con el token.
-1. Por favor, enlace a la hoja de ruta más actualizada para su proyecto.
-1. ¿Cuántos empleados y contratistas tiene su proyecto?
-1. ¿Cuál es la tasa de quema mensual?
-1. ¿Cuál es la estrategia para la gestión de tesorería?
+2. Por favor, enlace a la hoja de ruta más actualizada para su proyecto.
+3. ¿Cuántos empleados y contratistas tiene su proyecto?
+4. ¿Cuál es la tasa de quema mensual?
+5. ¿Cuál es la estrategia para la gestión de tesorería?
 
 #### Los mercados
 
 1. ¿En qué intercambios se encuentra tu token?
-1. ¿Conoces a algún Market Maker para tu token?
-1. Su token tiene soporte de custodia? ¿Dónde / con quién? Por favor, proporcione una copia del acuerdo de custodia si está disponible.
+2. ¿Conoces a algún Market Maker para tu token?
+3. Su token tiene soporte de custodia? ¿Dónde / con quién? Por favor, proporcione una copia del acuerdo de custodia si está disponible.
 
 #### Comunidad
 
 1. Por favor, vincule su correo electrónico, Telegram, subreddit, Discord, Twitter, Medium.
-1. ¿Cuál es el sitio web de su proyecto?
+2. ¿Cuál es el sitio web de su proyecto?
 
 ### Especificaciones legales
 
-1. ¿Quién es el emisor de Tokens (si existe)?
-1. ¿Tiene representación legal relacionada (1) con la emisión del token, (2) requisitos reglamentarios relacionados con el token, o (3) de lo contrario? Si es así, ¿a quién?
-1. ¿Cuál es el estado reglamentario del token? Proporcione la documentación pertinente (por ejemplo, opiniones legales, prospectos, divulgaciones públicas, documentos de presentación, etc.).
-1. ¿Existen derechos asociados con el token que no se derivan de su implementación técnica o ramificaciones técnicas del sistema en el que se utiliza el token? Si es así, ¿Que son? ¿Cómo se hacen cumplir? Por favor proporcione la documentación que conmemora estos derechos.
-1. ¿En qué jurisdicción (s) se emitió el token? Proporcione todos los documentos y documentos públicos relacionados con la emisión del token.
-1. ¿Se emitió el token como parte de un proceso regulatorio (por ejemplo, oferta de valores)? Si es así, ¿bajo qué ley, norma y / o regulación se emitió el token? Proporcione todos los documentos relacionados con este proceso de emisión reglamentaria (en la medida en que no se haya proporcionado en respuesta a lo anterior).
-1. ¿Se emitió el token como parte del proceso de recaudación de fondos para su proyecto? En caso afirmativo, ¿quiénes son los inversores y cuánto capital tienen respectivamente?
-1. Describa la estructura corporativa y legal del proyecto / sistema / producto en el que se utiliza el token.
+1. ¿Quién es el emisor de Tokens \(si existe\)?
+2. ¿Tiene representación legal relacionada \(1\) con la emisión del token, \(2\) requisitos reglamentarios relacionados con el token, o \(3\) de lo contrario? Si es así, ¿a quién?
+3. ¿Cuál es el estado reglamentario del token? Proporcione la documentación pertinente \(por ejemplo, opiniones legales, prospectos, divulgaciones públicas, documentos de presentación, etc.\).
+4. ¿Existen derechos asociados con el token que no se derivan de su implementación técnica o ramificaciones técnicas del sistema en el que se utiliza el token? Si es así, ¿Que son? ¿Cómo se hacen cumplir? Por favor proporcione la documentación que conmemora estos derechos.
+5. ¿En qué jurisdicción \(s\) se emitió el token? Proporcione todos los documentos y documentos públicos relacionados con la emisión del token.
+6. ¿Se emitió el token como parte de un proceso regulatorio \(por ejemplo, oferta de valores\)? Si es así, ¿bajo qué ley, norma y / o regulación se emitió el token? Proporcione todos los documentos relacionados con este proceso de emisión reglamentaria \(en la medida en que no se haya proporcionado en respuesta a lo anterior\).
+7. ¿Se emitió el token como parte del proceso de recaudación de fondos para su proyecto? En caso afirmativo, ¿quiénes son los inversores y cuánto capital tienen respectivamente?
+8. Describa la estructura corporativa y legal del proyecto / sistema / producto en el que se utiliza el token.
+

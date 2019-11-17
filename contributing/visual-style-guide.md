@@ -1,4 +1,4 @@
-# MakerDAO Community Style Guide
+# Visual Style Guide
 
 This style guide outlines the aesthetic elements & standards currently being used across MakerDAO's community initiatives. At the time of writing, an official MakerDAO style guide has not been published, but this one uses many of the existing colors, type scales, etc. present on the makerdao.com website.
 
@@ -7,6 +7,7 @@ This style guide outlines the aesthetic elements & standards currently being use
 Maker uses three highlight colors - `Maker Teal`, `Maker Orange` & `Maker Blue`, plus a color for `Headings` and one for `Body Text`.
 
 ### CSS
+
 Declare the colors as global CSS variables.
 
 ```css
@@ -25,14 +26,14 @@ Declare the colors as global CSS variables.
 
 Our primary highlight color. This is darker than the "standard" Maker Teal color used on their website `#30bd9f` to improve contrast and legibility.
 
-![](https://i.imgur.com/Osnrxoz.png =160x)
+![](https://i.imgur.com/Osnrxoz.png%20=160x)
 
 ### Usage
 
-- In-line text links
-- `Headlines`
-- `Section Titles`
-- `Labels`
+* In-line text links
+* `Headlines`
+* `Section Titles`
+* `Labels`
 
 ### Examples
 
@@ -50,16 +51,16 @@ The `:active` color on the `Pill` object and `Section Title` in the Transparency
 
 Our secondary highlight color. Can be paired with `Maker Gradient Orange` to create sections or elements on a page with complimentary hues.
 
-![](https://i.imgur.com/34NCeJW.png =160x)
+![](https://i.imgur.com/34NCeJW.png%20=160x)
 
 ### Usage
 
-- Secondary highlights on a page that contrast against Maker Teal.
-- Provide visual contrast on the page
+* Secondary highlights on a page that contrast against Maker Teal.
+* Provide visual contrast on the page
 
 ### Examples
 
-Applied to this doughnut chart on the Transparency Dashboard and its corresponding statistic (to the left).
+Applied to this doughnut chart on the Transparency Dashboard and its corresponding statistic \(to the left\).
 
 ![](https://i.imgur.com/iksiOEi.png)
 
@@ -69,13 +70,13 @@ Applied to this doughnut chart on the Transparency Dashboard and its correspondi
 
 Our tertiary highlight color. Used sparingly in coordination with `Maker Gradient Blue` to create sections on the page that stand apart - such as a call to action section to sign-up to something, or a footer.
 
-![](https://i.imgur.com/EDoKjk7.png =160x)
+![](https://i.imgur.com/EDoKjk7.png%20=160x)
 
 ### Usage
 
-- Create contrast within specific elements on a page.
-- `Headlines`
-- `Labels`
+* Create contrast within specific elements on a page.
+* `Headlines`
+* `Labels`
 
 ### Examples
 
@@ -89,18 +90,18 @@ Used in both the `Section Title` and `Label` for this section of the Maker Trans
 
 A high contrast near-black with a subtle dark purple hue.
 
-![](https://i.imgur.com/wnDLWM9.png =160x)
+![](https://i.imgur.com/wnDLWM9.png%20=160x)
 
 ### Usage
 
-- `<h1>` Headlines.
-- `Section Title`'s
+* `<h1>` Headlines.
+* `Section Title`'s
 
 ### Examples
 
 Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
-![](https://i.imgur.com/3JetAvV.png =1024x)
+![](https://i.imgur.com/3JetAvV.png%20=1024x)
 
 ## Body Color
 
@@ -108,12 +109,12 @@ Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
 A softer mid-gray.
 
-![](https://i.imgur.com/lmn1qQO.png =160x)
+![](https://i.imgur.com/lmn1qQO.png%20=160x)
 
 #### Usage
 
-- All body text
-- Any `h2` or `h3` headlines that you want to display with a softer contrast.
+* All body text
+* Any `h2` or `h3` headlines that you want to display with a softer contrast.
 
 ### Examples
 
@@ -125,7 +126,7 @@ Used in both the `label` and description text within each `RowCard`.
 
 A versatile teal-to-yellow gradient used across Maker properties as a primary background for major sections or entire pages.
 
-![](https://i.imgur.com/TBkLL5x.png =240x)
+![](https://i.imgur.com/TBkLL5x.png%20=240x)
 
 ```css
 linear-gradient(180deg, rgba(182, 237, 231, 0.38) 0%, rgba(253, 193, 52, 0.15) 100%)
@@ -133,7 +134,7 @@ linear-gradient(180deg, rgba(182, 237, 231, 0.38) 0%, rgba(253, 193, 52, 0.15) 1
 
 ### Usage
 
-- The background of a major `<section>` on your page or the `<body>`.
+* The background of a major `<section>` on your page or the `<body>`.
 
 #### Examples
 
@@ -143,7 +144,7 @@ The Transparency Dashboard uses this as its main background across the entire pa
 
 Can be paired with `Maker Teal` to create elements or sections with a complimentary hue.
 
-![](https://i.imgur.com/vKK5Nvh.png =240x)
+![](https://i.imgur.com/vKK5Nvh.png%20=240x)
 
 ```css
 linear-gradient(hsla(168,50%,90%,1),hsla(168,50%,86%,1))
@@ -151,40 +152,40 @@ linear-gradient(hsla(168,50%,90%,1),hsla(168,50%,86%,1))
 
 ### Usage
 
-- Paired with `Maker Teal` to highlight concise pieces of information.
-- May be used as a `<Section>` background.
-- May be used as a `<Button>` background.
+* Paired with `Maker Teal` to highlight concise pieces of information.
+* May be used as a `<Section>` background.
+* May be used as a `<Button>` background.
 
 #### Examples
 
 **Maker Grants Transparency Dashboard. Used to provide contrast/separation on one category of statistics**
 
-![](https://i.imgur.com/qRxoZJD.png =1024x)
+![](https://i.imgur.com/qRxoZJD.png%20=1024x)
 
 ## Gradient Orange
 
 Used as a background that can pair with `Maker Orange`
 
-![](https://i.imgur.com/SPVOhSU.png =240x)
+![](https://i.imgur.com/SPVOhSU.png%20=240x)
 
 #### `linear-gradient(hsla(39,70%,91%,1),hsla(39,70%,86%,1))`
 
 ### Usage
 
-- A `<Section>` background
-- A `<Button>` background
+* A `<Section>` background
+* A `<Button>` background
 
 ### Examples
 
 **Used for visual contrast** to display a category of stats on the Maker Transparency Dashboard. In this case, `Maker Teal` is used for the number and `Body Color` for the descriptive text.
 
-![](https://i.imgur.com/yfVi3SJ.png =240x)
+![](https://i.imgur.com/yfVi3SJ.png%20=240x)
 
 ## Gradient Blue
 
 Paired with `Maker Blue` as a tertiary highlight. Used as a `<section>` background to establish a distinct contrast of content on the page.
 
-![](https://i.imgur.com/87SLYM8.png =240x)
+![](https://i.imgur.com/87SLYM8.png%20=240x)
 
 ```css
 linear-gradient(hsla(210,50%,90%,1),hsla(210,50%,86%,1))
@@ -192,14 +193,14 @@ linear-gradient(hsla(210,50%,90%,1),hsla(210,50%,86%,1))
 
 ### Usage
 
-- A `<Section>` background
-- A `<Button>` background
+* A `<Section>` background
+* A `<Button>` background
 
 ### Examples
 
 **Used as the background to a section in the Maker Transparency Dashboard**
 
-![](https://i.imgur.com/6IsKiar.png =640x)
+![](https://i.imgur.com/6IsKiar.png%20=640x)
 
 ## Typography
 
@@ -238,7 +239,7 @@ Used sparingly for major statements on a landing page, such as the opening headl
 
 Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
-![](https://i.imgur.com/3JetAvV.png =1024x)
+![](https://i.imgur.com/3JetAvV.png%20=1024x)
 
 ## Headline 2
 
@@ -260,9 +261,9 @@ Another example of a `Section Title`.
 
 ### Usage
 
-- Body text within `RowCards`
-- Subheadings
-- Give additional prominence to elements on a page (e.g. statistics)
+* Body text within `RowCards`
+* Subheadings
+* Give additional prominence to elements on a page \(e.g. statistics\)
 
 ### Examples
 
@@ -272,24 +273,24 @@ In the Transparency Dashboard, it's used to highlight our grant program statisti
 
 ### Usage
 
-- Used with `<p>` for paragraphs of text on a page.
+* Used with `<p>` for paragraphs of text on a page.
 
 ## Label
 
 ### Usage
 
-- Define sections of content.
-- Incorporated into the `Pill` object
+* Define sections of content.
+* Incorporated into the `Pill` object
 
 ### Examples
 
 Used in as the "question" in a Q&A format within a `LinkCard` to link out to frequently asked questions.
 
-![](https://i.imgur.com/nUBgnhn.png =420x)
+![](https://i.imgur.com/nUBgnhn.png%20=420x)
 
-Used to define the status of a project (in this case - "Beta") within a `RowCard` that details a project that has been supported by the Maker Community Grants program.
+Used to define the status of a project \(in this case - "Beta"\) within a `RowCard` that details a project that has been supported by the Maker Community Grants program.
 
-![](https://i.imgur.com/QHFuKdi.png =640x)
+![](https://i.imgur.com/QHFuKdi.png%20=640x)
 
 ## Typeface
 
@@ -307,19 +308,17 @@ Maker currently uses system fonts across its properties, with Helvetica Neue as 
 
 #### Usage
 
-- Calls-to-action (e.g. verbs such as creating, confirming, canceling, viewing).
+* Calls-to-action \(e.g. verbs such as creating, confirming, canceling, viewing\).
 
 #### Examples
 
-**Button Primary**
-For any primary calls-to-action, like creating an account or submitting a form.
+**Button Primary** For any primary calls-to-action, like creating an account or submitting a form.
 
-![](https://i.imgur.com/sRbKD6f.png =200x)
+![](https://i.imgur.com/sRbKD6f.png%20=200x)
 
-**Button Secondary**
-For any secondary calls-to-action, like canceling out of a flow, or triggering an alternative display, etc.
+**Button Secondary** For any secondary calls-to-action, like canceling out of a flow, or triggering an alternative display, etc.
 
-![](https://i.imgur.com/KyJdUyh.png =200x)
+![](https://i.imgur.com/KyJdUyh.png%20=200x)
 
 ```css
 .buttonPrimary {
@@ -365,12 +364,11 @@ For any secondary calls-to-action, like canceling out of a flow, or triggering a
     };
 ```
 
-
-```html
+```markup
 <button class="buttonPrimary">A Primary Button</button>
 ```
 
-```html
+```markup
 <button class="buttonSecondary">A Secondary Button</button>
 ```
 
@@ -380,21 +378,18 @@ Used as a tab mechanism, to filter content within a specific section on a page.
 
 ### Usage
 
-- As tabs, to filter content
-- A tertiary button style
+* As tabs, to filter content
+* A tertiary button style
 
 ### Examples
 
-**Active**
-![](https://i.imgur.com/QzBpNUd.png =160x)
+**Active** ![](https://i.imgur.com/QzBpNUd.png%20=160x)
 
-**Inactive**
-![](https://i.imgur.com/YlJN0zW.png =160x)
+**Inactive** ![](https://i.imgur.com/YlJN0zW.png%20=160x)
 
 ### Code
 
-
-```html
+```markup
 <button class="makerPill">
 Pill
 </button>
@@ -425,28 +420,25 @@ We use `RowCards` to organize and structure content into lists. They break down 
 
 ### Usage
 
-- Lists that must display multiple types of information
+* Lists that must display multiple types of information
 
 ### Examples
 
 We use the RowCards to create a list of Grantees in the Maker Transparency Dashboard.
 
-**A single RowCard**
-![](https://i.imgur.com/sK1NHUU.png =1024x)
+**A single RowCard** ![](https://i.imgur.com/sK1NHUU.png%20=1024x)
 
-**Multiple RowCards in a list**
-_This example is a list of Grantees displayed on the Maker Transparency Dashboard_
+**Multiple RowCards in a list** _This example is a list of Grantees displayed on the Maker Transparency Dashboard_
 
 ![](https://i.imgur.com/kmGLIsF.png)
 
-**A single RowCard @mobile breakpoint**
-![](https://i.imgur.com/4oxtBku.png =320x)
+**A single RowCard @mobile breakpoint** ![](https://i.imgur.com/4oxtBku.png%20=320x)
 
 **Multiple RowCards in a list @mobile breakpoint**
 
-![](https://i.imgur.com/877JdCq.png =320x)
+![](https://i.imgur.com/877JdCq.png%20=320x)
 
-```html
+```markup
 <div class="rowCardWrapper">
     <div class="rowCardContainer">
         <div class="rowCardTopContainer">
@@ -586,7 +578,7 @@ Uses `Headline 3` with `text-transform: uppercase`. Color is dependent on the se
 
 ### Usage
 
-- Title / define specific sections on the site.
+* Title / define specific sections on the site.
 
 ### Examples
 
@@ -594,8 +586,7 @@ Uses `Headline 3` with `text-transform: uppercase`. Color is dependent on the se
 
 ![](https://i.imgur.com/67NkJ8L.png)
 
-The title for a list of common questions that link out to their respective answers.
-![](https://i.imgur.com/Z0amSON.png)
+The title for a list of common questions that link out to their respective answers. ![](https://i.imgur.com/Z0amSON.png)
 
 ```css
 .sectionTitle {
@@ -625,11 +616,11 @@ a:hover {
 
 An inline link.
 
-![](https://i.imgur.com/zszpd5i.png =420x)
+![](https://i.imgur.com/zszpd5i.png%20=420x)
 
 The inline link on `:hover`
 
-![](https://i.imgur.com/iPQED6w.png =420x)
+![](https://i.imgur.com/iPQED6w.png%20=420x)
 
 ## LinkCard
 
@@ -637,17 +628,16 @@ For links that require more prominence.
 
 ### Usage
 
-- Linking out to FAQs
-- Displaying slightly larger amounts of contextual information than a single inline text link would.
+* Linking out to FAQs
+* Displaying slightly larger amounts of contextual information than a single inline text link would.
 
 ### Examples
 
-**LinkCard** Active (on hover).
+**LinkCard** Active \(on hover\).
 
-![](https://i.imgur.com/sMHUP8K.png =480x)
+![](https://i.imgur.com/sMHUP8K.png%20=480x)
 
-**LinkCard** Inactive.
-![](https://i.imgur.com/RUFrLJr.png =480x)
+**LinkCard** Inactive. ![](https://i.imgur.com/RUFrLJr.png%20=480x)
 
 Used in the Footer of the Transparency Dashboard to link out to external educational resources. It contains a `Label` object and `Headline 3` object within a container.
 
@@ -678,7 +668,7 @@ Used in the Footer of the Transparency Dashboard to link out to external educati
 }
 ```
 
-```html
+```markup
 <ul class="LinkCardWrapper">
     <a href="*">
     <ul class="LinkCardContainer">
@@ -692,3 +682,4 @@ Used in the Footer of the Transparency Dashboard to link out to external educati
     </a>
 </ul>
 ```
+
