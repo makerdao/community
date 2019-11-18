@@ -32,7 +32,7 @@ Although the DSR compounds at a growth rate of x% per second, in practice the us
 
 Formula:
 
-```Annual Compounding Interest
+```
 A = P(1 + r)^t`
 ```
 
