@@ -32,7 +32,7 @@ No. Dai is not a hard-pegged currency so it does not perfectly track the value o
 
 ## Where does Dai come from?
 
-Dai enters the cryptocurrency ecosystem when it is minted by CDP owners who have locked up collateral to ensure the Dai's value. CDP owners wishing to free their staked collateral must purchase Dai on the open market and return it to their position. This destroys the Dai. This minting and burning mechanism ensures that all circulating Dai is backed by an abundance of collateral.
+Dai enters the cryptocurrency ecosystem when it is minted by Vault owners who have locked up collateral to ensure the Dai's value. Vault owners wishing to free their staked collateral must purchase Dai on the open market and return it to their position. This destroys the Dai. This minting and burning mechanism ensures that all circulating Dai is backed by an abundance of collateral.
 
 An autonomous system of smart contracts specifically designed to respond to market pressures work together to ensure that the essential stability property is maintained. No one can alter the core mechanics of Dai, making it a safe and predictable form of money.
 
@@ -48,13 +48,13 @@ Dai is owned by whoever holds it and is not encumbered by any intermediaries.
 
 Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared to other cryptocurrencies.
 
-It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, CDP owners, and normal market makers.
+It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, Vault owners, and normal market makers.
 
-If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for Vault users, thus dampening the Dai supply by making Vault usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 Arbitrageurs also contribute to the short term stability of the peg by taking advantage of opportunities across various Dai markets.
 
-CDP owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than the peg. This allows a CDP user to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar CDP users can sell assets for cheaper Dai which can be used to pay back their CDP debt for a variable discount.
+Vault owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than the peg. This allows a Vault user to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar Vault users can sell assets for cheaper Dai which can be used to pay back their Vault debt for a variable discount.
 
 Lastly, third party network participants, also known as Keepers, help maintain the price of Dai. Keepers are people or automated programs that take advantage of arbitrage opportunities to keep Dai nears its peg.
 
