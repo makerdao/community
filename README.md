@@ -6,7 +6,7 @@ The Community Development group's mandate is to directly foster the growth of th
 
 ### [Community Meetup Grants](meetups/README.md)
 
-Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group wants to provide the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
+Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group provides the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
 
 ### [Community Translations](translations/README.md)
 
@@ -30,9 +30,15 @@ If you have any suggestions about how you think these initiatives should work, c
 
 Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
 
-### [MakerDAO FAQs](faqs/README.md)
+### [MakerDAO MCD FAQs](faqs/README.md)
 
-MakerDAO wants everyone to be comfortable with their understanding of the Dai system, its governance, and stablecoins in general. This section provides answers to commonly asked questions about everything MakerDAO.
+The Maker Foundation wants everyone to be comfortable with their understanding of the Maker Protocol. This section provides answers to commonly asked questions about everything MakerDAO.
+
+We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
+
+### [MakerDAO SCD FAQs](scd-faqs/README.md)
+
+The Maker Foundation wants everyone to be comfortable with their understanding of the Maker Protocol in all of its forms. This section provides answers to commonly asked questions about everything MakerDAO, specifically as it related to the Single-Collateral Dai version of the system.
 
 We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
 
