@@ -81,7 +81,7 @@
 - [What is the process for becoming a Feed?](oracles.md#what-is-the-process-for-becoming-a-feed)
 - [Is the Oracle system resistant to Sybil attacks?](oracles.md#is-the-oracle-system-resistant-to-sybil-attacks)
 - [What happens if there is a flash crash on an exchange?](oracles.md#what-happens-if-there-is-a-flash-crash-on-an-exchange)
-- [## Where can I find more technical information about Oracles?](oracles.md#where-can-i-find-more-technical-information-about-oracles)
+- [Where can I find more technical information about Oracles?](oracles.md#where-can-i-find-more-technical-information-about-oracles)
 
 ## Stability Fee
 
