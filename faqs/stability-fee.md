@@ -1,195 +1,57 @@
-# The Stability Fee
+# Stability Fee
 
 ## What is the Stability Fee?
 
-The Maker smart contracts collect a Stability Fee which is calculated against the total amount of DAI drawn against collateral held in a CDP. This a variable rate fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.
-
-## When do I have to pay the Stability Fee?
-
-When you pay down your debt by returning DAI to your CDP, you will be charged an outstanding fee _proportional to the amount of DAI being returned_. The fee can be paid in MKR tokens or in Dai.
-
-## Do I have to pay the new fees on old debt?
-
-No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Fee at the new rate from that point forward, much like a variable interest rate on a loan.
+The Maker Protocol collects a Stability Fee on Dai that is generated from [Maker Vaults](faqs/vault.md). It is a variable-rate fee that changes when Maker’s governing body votes on proposals put forth by Risk Teams.
 
 ## What is the purpose of the Stability Fee?
 
-The Stability Fee is a Risk Parameter designed to address imbalances in supply and demand for the Dai token which could result from periods of low or negative growth in the cryptocurrency markets.
+The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](faqs/vault.md). A part of the Stability Fee is also for the purpose of sustaining operations of the Maker Protocol which include the [DSR](faqs/dsr.md), Risk Teams, and other costs inherent to the protocol.
 
-The mechanism behind the fee is a simple one; as the market demand for Dai _decreases_ the fees associated with minting new Dai will _increase_, the inverse will be true when market demand grows. This rebalancing alters the incentives for CDP owners to mint or burn Dai and can have a stabilizing effect on the soft-peg.
+## When do I have to pay the Stability Fee?
+
+The Stability Fee continuously accrues to the generated Dai Balance of a user’s [Vault](faqs/vault.md). Vault owners are free to pay back Dai at any time they wish. Vaults have no standards around repayment, instead, they require the owner of the Vault to keep its [Collateralization Ratio](faqs/vault.md#what-is-the-collateralization-ratio) above the [Liquidation Ratio](faqs/liquidation.md#what-is-the-liquidation-ratio).
+
+## Do I have to pay the new fees on old debt in the case of a Stability Fee change?
+
+No. Stability Fees are never applied retroactively. After a fee change, users will accrue a Stability Fee at the new rate from that point forward.
 
 ## Why does the Stability Fee Change?
 
-When it is observed that Dai is consistently trading above or underneath the target price of \$1, this may signal an imbalance between the macro Dai supply and demand for Dai. The Stability Fee is a rate that primarily affects the Dai supply since it alters the cost of creating Dai. The cheaper it is to borrow Dai, the more users are incentivized to do so. Conversely, when the fee is higher, fewer users will want to borrow Dai. MKR Token holders are able to set this rate to maintain the health of the peg.
-
-If Dai trades consistently above \$1, this means that demand is outweighing supply and market participants are willing to pay a premium to purchase Dai. If this is happening too consistently, it signifies a need to lower the Stability Fee to incentivize more Dai creation.
-
-If Dai trades consistently below \$1, this means that supply is outweighing demand and the market is flooded with too much Dai. If this is happening too consistently, it signifies that the Stability Fee needs to be raised to slow down Dai creation.
-
-Unfortunately, it is not possible to perfectly predict the impact of a fee change prior to its implementation, as the results are entirely dependent on the market's reaction. As time goes on, there will be better data available to support a predictive model or even a more robust reactive model that will help fine-tune the Stability Fee.
+The Stability Fee for each [Vault](faqs/vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
 
 ## How is the Stability Fee calculated?
 
-The Stability Fee is calculated _continuously_. It is denominated in Dai and can be paid in DAI or MKR. As shown in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding. This format was chosen due to the highly variable lifetime of CDPs. As there are no minimum restrictions on how long a CDP has to remain open, it is important for the system to track extremely small accruals effectively.
+The Stability Fee is continuously compounding interest at a growth rate of x% per second. When the Stability Fee is set to 2%, for example, it will be accumulating at 1.0000000006279371924910298109948‬% per second, meaning that at the end of year one the user will owe exactly 2% on the principal. Assuming the user put in 100 Dai, at the end of year one they would have 102.00, and at the end of year two, they would have 104.04.
 
-Let's look at the various results from applying different types of compounding structures, given a debt of 100,000 DAI that has been held for 365 days.
-
-### Formulas
-
-Where:
-
-**A** = Interest
-
-**P** = the principal investment amount \(the initial deposit or loan amount\)
-
-**r** = the annual interest rate \(decimal\)
-
-**n** = the number of times that interest is compounded per year
-
-**t** = the number of years the money is invested or borrowed for
-
-**e** = [Euler's number](https://www.mathsisfun.com/numbers/e-eulers-number.html)
-
-- **P** \(1 + r/n\)^nt - P = A: Annual Compounding
-- **P** \(1 + r/n\)^nt - P = A: Monthly Compounding
-- **P** \(e\)^rt - P = A: Continuous Compounding
-
-### Simplified
-
-Calculated with annual compounding, the future Stability Fee is:
-
-```text
-100,000 × (1 + (12.5% / 1)) ^ (1 × 1) - 100,000 = 12,500 DAI
-```
-
-Calculated with monthly compounding the future Stability Fee is:
-
-```text
-100,000 × (1 + (12.5% / 12)) ^  (12 × 1)  - 100,000 = 13,241.60 DAI
-```
-
-Calculated with continuous compounding the future Stability Fee is:
-
-```text
-100,000 × 2.7183... ^ (12.5% × 1) - 100,000 = 13,314.94 DAI
-```
-
-The difference between annual and continuous compounding fees on a 100,000 DAI debt, at 12.5% APY, works out to about **814.94 DAI**. Let's take a look at a couple more examples of how a stability fee gets calculated in practice.
-
-### A Simple Example
-
-Given that:
-
-- A CDP exists with a debt of **1000** **DAI**
-- The CDP has been open for **30** **days**
-- The current value of an MKR token is **1000** **DAI**
-- The Stability Fee is **5%**
-- A user pays back a portion of the debt in the amount of **50** **DAI**
-
-The total Dai denominated cost for paying back **50 DAI** on a **1000 DAI** debt that is **30 days** old is **0.208 DAI**, or approximately 21 cents USD.
-
-The Dai denominated debt must now be converted to MKR for payment. The CDP owner owes 0.00021 MKR.
-
-### A Detailed Example
-
-The total Stability Fee accrued in the CDP can be calculated like this:
-
-> \(\(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI \) = Total Stability Fee owed in DAI
-
-When we plug in the values we've already used above we see the fees in DAI owing:
-
-```text
-(1000 * (1 + 0.05) ^ (30÷365)) - 1000 = 4.018 DAI
-```
-
-Now that we have the total fee in DAI, we can convert that to MKR. Assuming an exchange rate where 1 MKR is worth 1000 DAI:
-
-```text
-4.018 ÷ 1000 = 0.004018 MKR
-```
-
-And, as the user is repaying 50 DAI, they will be expected to pay the fee accrued on that amount:
-
-```text
-(50 * (1 + 0.05) ^ (30÷365)) - 50 = 0.2009 DAI
-```
-
-Now converted to MKR:
-
-```text
-0.2009 ÷ 1000 = 0.0002009 MKR
-```
-
-The user will need **0.0002009 MKR** in their wallet to cover the accrued fee on **50 DAI** after **30 days**.
-
-After the transaction has been completed, the total amount of fees remaining in the CDP will be:
-
-0.004018 - 0.0002009 = **0.0038171 MKR**
+Technical documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
 
 ## What does the system do with the collected fees?
 
-Once the fees have been collected, the smart contract platform transfers the MKR to a contract called the [Burner](https://etherscan.io/address/0x69076e44a9c70a67d5b79d95795aba299083c275).
-
-Any MKR that resides in the burner wallet before actually being destroyed is permanently out of circulation, as no one can remove funds from that address.
+The Stability Fees are collected inside the Maker Protocol’s [internal balance sheet](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation). Once the maximum level of surplus is reached, the system will automatically send Dai to a [Surplus Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#surplus-auction). During this auction, keepers bid in MKR for DAI. At the end of the auction, the Dai is released to the winning bidder, while the MKR that was paid gets burned.
 
 ## Where can I see my currently accrued Stability Fee?
 
-[Old CDP Dashboard](https://dai.makerdao.com/): The outstanding balance owed on a CDP is shown in the "Governance Debt" column on the DAI Dashboard.
+Since the Maker Protocol can be integrated by anyone, many different front-ends may be used for interacting with it. One can usually find the amount of accrued fees on these user-interfaces.
 
-[New CDP Portal](https://cdp.makerdao.com/): The outstanding balance owed on a CDP is shown in the right panel that appears when you click "Payback"
+There are also a number of third-party tools for tracking Vaults, like [mkr.tools](https://mkr.tools/cdps), which allows a user to see the Stability Fees owed on any Vault. More of these tools can be found in the [Watch your Dai](https://awesome.makerdao.com/#watch-dai) section of the [Awesome-MakerDAO](https://awesome.makerdao.com/) resource repository.
 
-There are also a number of third-party tools that can be found in the [Watch your Dai section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai) of the Awesome-MakerDAO Repository.
+## How can I calculate my potential Stability Fee?
 
-## How does the fee alter supply and demand?
+There are a number of online calculators that can be found on the [Monitor Vaults](https://awesome.makerdao.com/#monitor-vaults) section of the Awesome-MakerDAO resource repository.
 
-An increase in the Stability Fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+## Where can I learn more about Risk Teams and how Stability Fees are determined?
 
-## How do I calculate the impact of variable Stability Fees?
+Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Teams and the work that they do. Additionally, documentation about their models for determining Stability Fees can be found in our [Governance Forum](https://forum.makerdao.com/), under the Risk section.
 
-You can use this simplified formula to determine accrued Stability Fees:
+## Is there a limit to how much a Stability Fee can change?
 
-> \(\(Borrowed DAI \* \(1 + Current Stability Fee in decimal format\)\) ^ \(Age of Debt in days/365\)\) - Borrowed DAI\) = Total Stability Debt owed in DAI
+Yes, there is a weekly limit to how much a given Stability Fee can change, defined by the range of options available for MKR  governors to vote on. It is a range that is subject to change. The Stability Fee adjustment votes that were going on in October 2019, for example, offered a range of -4% to 4%. To find out the current range on a given Stability Fee adjustment, visit [mkrgov.science/polls](https://mkrgov.science/polls) and look at the most recent relevant Governance Poll.
 
-The fees on a 10,000 DAI debt over the course of 31 days at 5.0%:
+## How often do Stability Fees change?
 
-```text
-(10000 x (2.7183...) ^ (5.0%*(31/365)) - 10000 = 42.474 DAI
-```
+Stability Fee changes don’t happen on a regular schedule. They happen in response to changing market dynamics and risks. It is not possible to give an exact answer to how often Stability fees change. Risk Teams approach any adjustments on a case-by-case basis.
 
-And at 10.0%:
+## Where can I find more technical information about Stability Fees?
 
-```text
-(10000 x (2.7183...) ^ (10.0%*(31/365)) - 10000 = 85.2937 DAI
-```
-
-## How can I learn more about the Risk Teams and communicate with the Foundation about current or future changes to the system?
-
-Please consider joining our weekly [Governance and Risk](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) meetings where we discuss these issues in greater detail. Agendas are posted regularly to [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). Also, check out the [Governance section](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance) in the Awesome-MakerDAO repository.
-
-## Is there a limit to the range of the Stability Fee changes?
-
-The Risk Team will propose the thresholds for altering the Stability Fee \(rate of change over time, deviation of the peg, sampling times\) and present them for approval to Maker voters.
-
-## How can CDP owners mitigate fee change risk?
-
-There are a few options users may wish to explore in order to hedge against fees.
-
-MKR demand may be positively correlated with the Stability Fee increases. If the relationship is meaningful and persists, CDP participants may be able to hedge a portion of their stability fee exposure by holding MKR.
-
-Users seeking fixed-term and fixed-rate loans may be able to hedge against any future fee swings by finding a counterparty who is willing to enter into a fixed term loan on other lending platforms.
-
-The best risk management strategy, though, is to get involved with the governance process and ensure that your vote is cast when proposals are being ratified.
-
-## What happens if a fee change vote is rejected?
-
-If a rate change vote fails, it may result in a drop in the price of Dai if the current imbalance continues. If it persists, then the only choice left to the Foundation may be to trigger an Emergency Shutdown to ensure the economic security of Dai holders.
-
-The voting mechanism is the primary way for the community to manage the peg, through the fine-tuning of the policy tools. There are no "backdoors," no one can change Risk Parameters in the system unilaterally.
-
-## How often will the Stability Fee change?
-
-It is not possible to schedule or make predictions about when the fee should change or what the new rates could be.
-
-The Interim Risk Team continuously monitors the results of previous changes and may propose adjustments of a similar or differing magnitude when necessary. It is hard to tell how quickly and how significantly the market will react, and for that reason, the Risk Teams will approach any adjustments on a case-by-case basis.
-
-Due to the risk of manipulation, there will always need to be some level of discretion and signal processing required to determine exactly how Stability Fees should be adjusted. Fully automatic and algorithmic processes are vulnerable to manipulation and will need to be carefully considered.
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about the Stability Fee can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) Documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
