@@ -1,13 +1,13 @@
-# FAQ
+# Contributors FAQ
 
 ## What can I contribute to?
 
 MakerDAO has several community-driven programs and resources members are welcome to contribute to:
 
-* [Translate MakerDAO resources](../translations/)
-* [Improve our Meetup guides](../meetups/)
-* [Curate Awesome-MakerDAO](https://github.com/makerdao/community/tree/7825eedcf82985bf15f374c4dfa03719ce2f5871/awesome-makerdao/blob/master/README.md)
-* [The Forum's Help Wanted Section](https://forum.makerdao.com/c/comm-dev/help-wanted)
+- [Translate MakerDAO resources](/translations/README.md)
+- [Improve our Meetup guides](/meetups/README.md)
+- [Curate Awesome-MakerDAO](/awesome-makerdao/blob/master/README.md)
+- [The Forum's Help Wanted Section](https://forum.makerdao.com/c/comm-dev/help-wanted)
 
 Alternatively, visit the [Community Development project board on GitHub](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22). Browse through `Issues` marked with the `Help Wanted` label for other ways to contribute. Address outstanding issues to help solve problems and complete tasks other members may be stuck on.
 
@@ -21,7 +21,7 @@ Accepted contributions are merged into MakerDAO's community GitHub pages. All co
 
 ## Are there rewards for contributing?
 
-The Community Development Group has set up various bounty programs for community contributions. The [Translation Initiative](../translations/), for instance, has bounties awarded based on role and workload. The reward one receives depends on the contribution.
+The Community Development Group has set up various bounty programs for community contributions. The [Translation Initiative](/translations/README.md), for instance, has bounties awarded based on role and workload. The reward one receives depends on the contribution.
 
 ## Where can I learn about the bounties for contributing?
 
@@ -30,4 +30,3 @@ Ask in the community development [chat room](https://chat.makerdao.com/channel/c
 ## Why was my contribution was not accepted?
 
 Look through the comments section of the pull request. An admin will provide an explanation for why it was rejected.
-

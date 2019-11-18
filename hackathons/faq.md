@@ -1,4 +1,4 @@
-# FAQ
+# Hackathons FAQ
 
 ## Developers
 
@@ -14,23 +14,23 @@ Hackathons are great for several reasons: participants get to push themselves to
 
 Teams are usually created both before the event and at the event. Teams at the event form around the provided hack categories. If you would like to start a team or are looking for a team to join be sure to attend the opening ceremony, make an announcement, and talk to the people who are there. You can also propose or join a team through the event's forum, the event's Facebook page, or other relevant sites that other hackathon participants are likely to see.
 
-### Where do I find resources to work with?
+### Where do I find resources to work with? 
 
-You can find developer resources in our [Awesome-MakerDAO](https://github.com/makerdao/community/tree/b565e233cdd460f94d5f6c95ac9b7d7f32847c8b/hackathons/makerdao/awesome-makerdao/blob/master/README.md) community repository. In addition, you can check out our [Developer Quickstart Guide](https://github.com/makerdao/community/tree/b565e233cdd460f94d5f6c95ac9b7d7f32847c8b/hackathons/hackathons/developer-quick-start-guide.md) for other helpful information.
+You can find developer resources in our [Awesome-MakerDAO](makerdao/awesome-makerdao/blob/master/README.md) community repository. In addition, you can check out our [Developer Quickstart Guide](./hackathons/developer-quick-start-guide.md) for other helpful information.
 
 ### How do I contribute as a former hackathon participant?
 
 If you are a hacker with no team and a desire to participate, you can do several things:
 
-* Join a less experienced team to help them with their project.
-* If the hackathon is running a mentor program, you can apply to be a mentor.
-* Bring and share ideas for projects.
-* Lead a workshop.
-* Offer your help to the organizers.
+- Join a less experienced team to help them with their project.
+- If the hackathon is running a mentor program, you can apply to be a mentor.
+- Bring and share ideas for projects.
+- Lead a workshop.
+- Offer your help to the organizers.
 
 ### What do I need to bring?
 
-Besides the essentials, we have a list of things you should consider bringing in our [Developer Quickstart Guide](https://github.com/makerdao/community/tree/b565e233cdd460f94d5f6c95ac9b7d7f32847c8b/hackathons/hackathons/developer-quick-start-guide.md).
+Besides the essentials, we have a list of things you should consider bringing in our [Developer Quickstart Guide](./hackathons/developer-quick-start-guide.md).
 
 ### Who owns the ideas/IP?
 
@@ -44,11 +44,11 @@ Prizes are unique to each hackathon. To find out about prizes look on the Hackat
 
 ### How can I get the Maker Foundation to sponsor our hackathon?
 
-If you would like to have MakerDAO sponsor your hackathon, please have a look at the checklist in our [Organizer Quickstart Guide](https://github.com/makerdao/community/tree/b565e233cdd460f94d5f6c95ac9b7d7f32847c8b/hackathons/hackathons/developer-quick-start-guide.md) and make sure this information is included when you reach out to us at hackathons@makerdao.com.
+If you would like to have MakerDAO sponsor your hackathon, please have a look at the checklist in our [Organizer Quickstart Guide](./hackathons/developer-quick-start-guide.md) and make sure this information is included when you reach out to us at hackathons@makerdao.com.
 
 ### What is the Maker Foundation's role in participating in Hackathons?
 
-The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](../grants/).
+The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](../grants/README.md).
 
 ### Can the Maker Foundation help us with ideas for hack categories and ideas?
 
@@ -57,4 +57,3 @@ Yes.
 ### How can we help connect talented developers with the Maker Foundation?
 
 You can inform participants about the Maker Foundation's Grant Program and our desire to help grow the space. We encourage all participants who want to get on our radar to fill out this [form](https://airtable.com/shrmEMdxtYDUKtEkU). We review all hacks and may reach out to interesting projects and teams.
-

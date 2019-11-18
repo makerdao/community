@@ -1,4 +1,4 @@
-# FAQ
+# DIY Meetups FAQ
 
 ## How do I get started?
 
@@ -15,13 +15,12 @@ Absolutely. This initiative is meant for first-time organizers and aims to give 
 ## Who shouldn't apply for a microgrant?
 
 1. If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
-2. We do not fund alcohol/bar tabs or airdrops of Dai or xDai.
+1. We do not fund alcohol/bar tabs or airdrops of Dai or xDai.
 
 ## Where can I get additional help with my meetup?
 
-You may seek additional help or advice in our [\#community-development](https://chat.makerdao.com/channel/community-development) chat.
+You may seek additional help or advice in our [#community-development](https://chat.makerdao.com/channel/community-development) chat.
 
 ## Can I organize more than one meetup group?
 
 We provide funding for one event at a time. Each following grant requires that the organizer fill out a feedback form about the previous event.
-

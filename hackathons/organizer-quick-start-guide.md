@@ -12,24 +12,23 @@ Please reach out to us no later than two weeks before the event.
 
 ## Information we need:
 
-* The name of the event
-* The location of the event
-* The date of the event
-* The number of expected participants
-* Links to event details specific to the hackathon
-* The amount for the prize pool
-* Number of challenges/tracks
-* Information about the challenges/tracks
-* The theme of the event, if any
-* Where the details of the bounty will be hosted \(bounties.network, gitcoin, etc.\)
-* How the prizes will be distributed
-* Number of judges, and their names
-* Information about where we can find summaries of the event and the projects after the event is over
-* Whether or not the winners will be promoted on social media
-* Details about sponsorship packages and amounts
-* A breakdown of what our sponsorship covers
-* Whether or not you will be able to provide us with contact information of hackathon participants
-* Where participants will be posting information about their hacks \(eg. Devpost\)
-* Whether or not you require us to be physically present for the hackathon
-* Whether or not a sponsor table will be available for us if we are physically present
-
+- The name of the event
+- The location of the event
+- The date of the event
+- The number of expected participants
+- Links to event details specific to the hackathon
+- The amount for the prize pool
+- Number of challenges/tracks
+- Information about the challenges/tracks
+- The theme of the event, if any
+- Where the details of the bounty will be hosted (bounties.network, gitcoin, etc.)
+- How the prizes will be distributed
+- Number of judges, and their names
+- Information about where we can find summaries of the event and the projects after the event is over
+- Whether or not the winners will be promoted on social media
+- Details about sponsorship packages and amounts
+- A breakdown of what our sponsorship covers
+- Whether or not you will be able to provide us with contact information of hackathon participants
+- Where participants will be posting information about their hacks (eg. Devpost)
+- Whether or not you require us to be physically present for the hackathon
+- Whether or not a sponsor table will be available for us if we are physically present

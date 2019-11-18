@@ -23,4 +23,3 @@ Always check beforehand if the venue allows for food and drinks. The longer a me
 ## Banners and Printed Materials
 
 We do not cover funding for banners and printed materials.
-

@@ -1,2 +1,0 @@
-# MakerDAO FAQs
-
