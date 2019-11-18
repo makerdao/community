@@ -5,7 +5,7 @@
 
 ## CDPs
 
-- [What are Collateralized Debt Positions?](./cdp.md#what-are-collateralized-debt-positions)
+- [What are Collateralized Debt Positions?](cdp.md#what-are-collateralized-debt-positions)
 - [How does a CDP work?](cdp.md#how-does-a-cdp-work)
 - [Who can open a CDP?](cdp.md#who-can-open-a-cdp)
 - [Does a CDP incur any fees?](cdp.md#does-a-cdp-incur-any-fees)
@@ -84,9 +84,9 @@
 - [How Long is the Voting Period of an Executive Vote?](governance.md#how-long-is-the-voting-period-of-an-executive-vote)
 - [How does the Voting Dashboard work?](governance.md#how-does-the-voting-dashboard-work)
 - [What does setting up a voting proxy do for me?](governance.md#what-does-setting-up-a-voting-proxy-do-for-me)
-- [What is a proxy contract?](./#what-is-a-proxy-contract)
-- [Why do I need to set up a proxy contract?](./#why-do-i-need-to-set-up-a-proxy-contract)
-- [What am I granting permissions for, to whom, and why?](./#what-am-i-granting-permissions-for-to-whom-and-why)
+- [What is a proxy contract?](#what-is-a-proxy-contract)
+- [Why do I need to set up a proxy contract?](#why-do-i-need-to-set-up-a-proxy-contract)
+- [What am I granting permissions for, to whom, and why?](#what-am-i-granting-permissions-for-to-whom-and-why)
 - [Does it cost gas every time I vote?](governance.md#does-it-cost-gas-every-time-i-vote)
 - [How much gas will I need, and where does it come from; the hot wallet or the cold wallet?](governance.md#how-much-gas-will-i-need-and-where-does-it-come-from-the-hot-wallet-or-the-cold-wallet)
 - [How many transactions do I have to sign?](governance.md#how-many-transactions-do-i-have-to-sign)
