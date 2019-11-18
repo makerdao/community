@@ -104,7 +104,7 @@ Any Dai or [Vaults](faqs/vault.md) that have been stuck or lost will remain so a
 Emergency Shutdown will:
 
 - Set the [Dai Savings Rate](faqs/dsr.md) to zero.
-- cancel or allow [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) to finish depending on the type of auction and phase it is in.
+- Cancel or allow [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) to finish depending on the type of auction and phase it is in.
 - Freeze [Oracle](faqs/oracles.md) price-feeds locally to the Maker Protocol.
 - No longer allow the use of [Maker Vaults](faqs/vault.md).
 
