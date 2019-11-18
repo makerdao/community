@@ -1,5 +1,5 @@
 ---
-title: [SCD] Sai Stability Fee Adjustment - November 18, 2019
+title: Sai Stability Fee Adjustment - November 18, 2019
 summary: Signal your support to adjust the Sai Stability Fee within a range of 1% to 9%
 discussion_link: https://forum.makerdao.com/t/782
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
@@ -17,7 +17,7 @@ options:
    10: 7
    11: 9
 ---
-# Poll: [SCD] Sai Stability Fee Adjustment - November 18, 2019
+# Poll: Sai Stability Fee Adjustment - November 18, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Sai Stability Fee** options. Voters are now able to signal their support for a **Sai Stability Fee** within a range of 1% to 9%.
 
