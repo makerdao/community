@@ -12,4 +12,3 @@ The Dai Credit System is fully controlled by MKR token holders through on-chain 
 - [Governance and Risk Meeting: Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan)
 - [Governance and Risk Meeting: Transcripts](governance-and-risk-meetings/transcripts)
 - [Governance and Risk Meeting: Summaries](governance-and-risk-meetings/transcripts)
-
