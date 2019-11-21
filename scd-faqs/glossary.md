@@ -1,5 +1,7 @@
 # Glossary of Terms
 
+> Notice: You are reading the Single-Collateral Dai version of this Glossary. For the up-to-date version, visit the [MCD Glossary.](/faqs/glossary.md)
+
 ## A
 
 ## B

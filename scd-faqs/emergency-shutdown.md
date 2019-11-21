@@ -1,5 +1,7 @@
 # Emergency Shutdown
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. For the up-to-date version, visit the [MCD Emergency Shutdown FAQ.](/faqs/emergency-shutdown.md)
+
 ## What is an Emergency Shutdown?
 
 One important security feature of Dai is called Emergency Shutdown, formerly known as Global Settlement. This crucial security feature allows the system to shut down and make underlying collateral available for redemption by [Dai](dai.md) holders and CDP owners.
