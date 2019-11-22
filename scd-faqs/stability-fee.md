@@ -1,5 +1,7 @@
 # The Stability Fee
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. For the up-to-date version, visit the [MCD Stability Fee FAQ.](/faqs/stability-fee.md)
+
 ## What is the Stability Fee?
 
 The Maker smart contracts collect a Stability Fee which is calculated against the total amount of DAI drawn against collateral held in a CDP. This a variable rate fee which can change when MKR holders vote on proposals put forth by the Interim Risk Team at MakerDAO.

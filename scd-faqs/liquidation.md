@@ -1,5 +1,7 @@
 # Liquidation
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. For the up-to-date version, visit the [MCD Liquidation FAQ.](/faqs/liquidation.md)
+
 ## What is Liquidation?
 
 A CDP can be Liquidated if it is deemed unsafe. This ensures there is enough collateral in the system to guarantee the value of all outstanding Dai. Liquidation occurs when the total value of a CDP's collateral \(as judged by the Oracles\) is worth less than the required collateralization for the asset class. During the Liquidation process enough collateral is seized to cover its debt plus fees, leaving the remaining collateral available to the user for withdrawal.

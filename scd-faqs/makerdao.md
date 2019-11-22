@@ -1,5 +1,7 @@
 # MakerDAO
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. An up-to-date version of this FAQ will be released soon and will be found [here.](/faqs/makerdao.md)
+
 ## What is MakerDAO?
 
 MakerDAO is a decentralized organization dedicated to bringing stability to the crypto economy. The MKR token holders are the decision makers in the DAO, supported by the larger public community of keepers, stakeholders, and various other interested parties. Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment; allowing everyone equal access to the global financial marketplace. MakerDAO is a credit facility that issues [Dai](./dai.md#what-is-dai)\(⬙\), the world's first stable decentralized digital cash.

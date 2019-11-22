@@ -1,5 +1,7 @@
 # Keeper
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. An up-to-date version of this FAQ will be released soon and will be found [here.](/faqs/keepers.md)
+
 ## What is a Keeper?
 
 A Keeper is an external independent actor that is incentivized to contribute to decentralized systems, they "keep" the system running by performing necessary functions. In the context of Single Collateral Dai, the title of "Keeper" can refer to a few different types of system participants. Usually, these roles are performed by a program rather than a human.

@@ -1,5 +1,7 @@
 # Oracles
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. For the up-to-date version, visit the [MCD Oracles FAQ.](/faqs/oracles.md)
+
 ## What is an Oracle?
 
 An Oracle makes both off-chain and on-chain data available for use in smart-contracts. For example, the price-feed data for ETH and MKR. The system relies on the Oracle to securely provide the price of each asset so that the system’s smart contracts can determine a number of variables such as how much Dai CDPs can generate, liquidation prices, whether liquidation prices are hit, and many others.

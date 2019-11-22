@@ -1,5 +1,7 @@
 # Risk Management FAQ
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. An up-to-date version of this FAQ will be released soon and will be found [here.](/faqs/risk-management.md)
+
 ## What is Risk Management?
 
 Risk Management, in the context of MakerDAO, is the process of identification, analysis, and mitigation of the risks of the system.

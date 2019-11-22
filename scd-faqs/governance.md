@@ -1,5 +1,7 @@
 # Governance
 
+> Notice: You are reading the Single-Collateral Dai version of this FAQ. An up-to-date version of this FAQ will be released soon and will be found [here.](/faqs/governance.md)
+
 ## What is Governance?
 
 Governance is a process through which a group of stakeholders come to a decision on a particular change within their system or organization. Many centralized entities have expedited the governance process through the nomination of critical decision makers like board members and executives. In the context of MakerDAO, it is done through a voting system where anyone who owns MKR can vote on changes to the Risk Parameters within the Dai Credit System.
