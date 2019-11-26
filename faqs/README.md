@@ -5,17 +5,18 @@
 ## Dai Savings Rate
 
 - [What is the Dai Savings Rate?](dsr.md#what-is-the-dai-savings-rate)
+- [How does the DSR work?](dsr.md#how-does-the-dsr-work)
 - [Are there any range limits to the DSR? Can it be negative or zero?](dsr.md#are-there-any-range-limits-to-the-dsr-can-it-be-negative-or-zero)
 - [Does Dai automatically earn the DSR?](dsr.md#does-dai-automatically-earn-the-dsr)
 - [Is the DSR its own smart contract?](dsr.md#is-the-dsr-its-own-smart-contract)
-- [When a user lock their Dai in the DSR, does it pool all the locked Dai together?](dsr.md#when-a-user-lock-their-dai-in-the-dsr-does-it-pool-all-the-locked-dai-together)
-- [Does the DSR compound or is it only earned on the principal?](dsr.md#does-the-dsr-compound-or-is-it-only-earned-on-the-principal)
-- [What is the formula for the expected return earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-return-earned-through-the-dsr)
+- [When users lock Dai with the DSR, is that Dai pooled?](dsr.md#when-users-lock-dai-with-the-dsr-is-that-dai-pooled)
+- [Do DSR accruals compound or are they only earned on the principal?](dsr.md#do-dsr-accruals-compound-or-are-they-only-earned-on-the-principal)
+- [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-return-earned-through-the-dsr)
 - [Will there be any constraints, like minimum lockup time or withdrawal limits?](dsr.md#will-there-be-any-constraints-like-minimum-lockup-time-or-withdrawal-limits)
 - [Does Dai earned by the DSR get calculated and paid out at the time of withdrawal, or is it continuously added to the user’s balance?](dsr.md#does-dai-earned-by-the-dsr-get-calculated-and-paid-out-at-the-time-of-withdrawal-or-is-it-continuously-added-to-the-users-balance)
 - [How is the DSR being used by MKR token holders as a monetary policy tool?](dsr.md#how-is-the-dsr-being-used-by-mkr-token-holders-as-a-monetary-policy-tool)
-- [Is there information or a model MKR holders can look at to better understand the economic impact of the DSR?](dsr.md#is-there-information-or-a-model-mkr-holders-can-look-at-to-better-understand-the-economic-impact-of-the-dsr)
-- [Does the existence of DSR mean that MKR is burned at a lower rate?](dsr.md#does-the-existence-of-dsr-mean-that-mkr-is-burned-at-a-lower-rate)
+- [Where can someone find information to better understand the economic impact of the DSR?](dsr.md#where-can-someone-find-information-to-better-understand-the-economic-impact-of-the-dsr)
+- [Does the DSR reduce the MKR burn rate?](dsr.md#does-the-dsr-reduce-the-mkr-burn-rate)
 - [Are Stability Fees structurally higher due to the existence of the DSR?](dsr.md#are-stability-fees-structurally-higher-due-to-the-existence-of-the-dsr)
 - [Where can I find more technical information about the DSR?](dsr.md#where-can-i-find-more-technical-information-about-the-dsr)
 
