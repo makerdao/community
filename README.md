@@ -16,7 +16,7 @@ We bring MakerDAO educational content to people around the world in their native
 
 The MakerDAO Community grants program provides funding for projects that increase Dai adoption, support emerging economies, open new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
 
-### [Hackathons and Bounties](hackathons/README.md)
+### [Hackathons](hackathons/README.md)
 
 MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request our participation in an upcoming event.
 
