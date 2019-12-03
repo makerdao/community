@@ -4,6 +4,7 @@ about: Use this template for creating new issues
 title: 'Actionable item + context to the project (Example: Oracles FAQ MCD Rework'
 labels: ''
 assignees: ''
+projects: 'Community Development'
 
 ---
 
