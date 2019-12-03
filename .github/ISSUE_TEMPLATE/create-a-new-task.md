@@ -2,7 +2,7 @@
 name: Create a new task
 about: Use this template for creating new issues
 title: 'Actionable item + context to the project (Example: Oracles FAQ MCD Rework'
-labels: ''
+labels: 'bug'
 assignees: ''
 projects: 'Community Development'
 
