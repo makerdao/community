@@ -219,7 +219,7 @@ h3 {
 }
 
 p {
-  1.125rem;
+  font-size: 1.125rem;
 }
 
 .label {
