@@ -32,16 +32,20 @@ Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and c
 
 ### [MakerDAO MCD FAQs](faqs/README.md)
 
-The Maker Foundation wants everyone to be comfortable with their understanding of the Maker Protocol. This section provides answers to commonly asked questions about everything MakerDAO.
+This section provides answers to commonly asked questions about everything MakerDAO.
 
 We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
 
 ### [MakerDAO SCD FAQs](scd-faqs/README.md)
 
-The Maker Foundation wants everyone to be comfortable with their understanding of the Maker Protocol in all of its forms. This section provides answers to commonly asked questions about everything MakerDAO, specifically as it related to the Single-Collateral Dai version of the system.
+This section provides answers to commonly asked questions about everything MakerDAO, specifically as it related to the Single-Collateral Dai version of the system.
 
 We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
 
 ### [Governance](governance/README.md)
 
 To ensure good governance and accountability, we've set up this section to contain helpful resources such as transcripts of the meetings, historical summaries, and more.
+
+### [Onboarding Guides](onboarding/README.md)
+
+These are community-built guides to help onboard different types of users into our ecosystem. Whether you're a potential MKR voter, a Vault owner, or Dai user, this section should have something for you. If it doesn't, reach out to us in our [chat](https://chat.makerdao.com/channel/community-development) or [forums](https://forum.makerdao.com/). This section has a handful of guides _coming soon™️._
