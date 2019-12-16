@@ -1,7 +1,9 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 62: Nov 21, 2019](episode-61.md)
-- [Episode 61: Nov 14, 2019](episode-60.md)
+- [Episode 64: Dec 05, 2019](episode-64.md)
+- [Episode 63: Nov 28, 2019](episode-63.md)
+- [Episode 62: Nov 21, 2019](episode-62.md)
+- [Episode 61: Nov 14, 2019](episode-61.md)
 - [Episode 60: Nov 07, 2019](episode-60.md)
 - [Episode 59: Oct 31, 2019](episode-59.md)
 - [Episode 58: Oct 24, 2019](episode-58.md)

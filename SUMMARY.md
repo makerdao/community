@@ -1,7 +1,8 @@
 # Table of contents
 
 - [Community Development at Maker](README.md)
-- [Community Meetup Grants](meetups/README.md)
+- [Onboarding](onboarding/README.md)
+- [Meetup Grants and Guides](meetups/README.md)
   - [Getting Started Guide](meetups/getting-started-guide.md)
   - [Event Formats Guide](meetups/event-formats-guide.md)
   - [Promotion Guide](meetups/promotion-guide.md)
@@ -21,6 +22,8 @@
     - [Part Three](governance/governance-risk-framework/part-three.md)
   - [Governance and Risk Meeting](governance/governance-and-risk-meetings/README.md)
     - [Summaries](governance/governance-and-risk-meetings/summaries/README.md)
+      - [Episode 64: Dec 05, 2019](governance/governance-and-risk-meetings/summaries/episode-64.md)
+      - [Episode 63: Nov 28, 2019](governance/governance-and-risk-meetings/summaries/episode-63.md)
       - [Episode 62: Nov 21, 2019](governance/governance-and-risk-meetings/summaries/episode-62.md)
       - [Episode 61: Nov 14, 2019](governance/governance-and-risk-meetings/summaries/episode-61.md)
       - [Episode 60: Nov 07, 2019](governance/governance-and-risk-meetings/summaries/episode-60.md)
@@ -72,7 +75,7 @@
       - [Episode 25: Mar 07, 2019](governance/governance-and-risk-meetings/transcripts/episode-25.md)
       - [Episode 24: Feb 28, 2019](governance/governance-and-risk-meetings/transcripts/episode-24.md)
       - [Episode 23: Feb 21, 2019](governance/governance-and-risk-meetings/transcripts/episode-23.md)
-  - [FAQ](faqs/governance.md)
+  - [FAQ](scd_faqs/governance.md)
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
 - [Hackathons and Bounties](hackathons/README.md)

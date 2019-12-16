@@ -1,4 +1,4 @@
-# DIY Community Meetups
+# Meetup Grants and Guides
 
 Welcome to Do It Yourself Community Meetups, a place where you can find all the resources you need to host your very own meetup.
 
