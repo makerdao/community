@@ -2,6 +2,7 @@
 
 - [Community Development at Maker](README.md)
 - [Onboarding](onboarding/README.md)
+  - [Voter Onboarding Guide](onboarding/voter-onboarding.md)
 - [Meetup Grants and Guides](meetups/README.md)
   - [Getting Started Guide](meetups/getting-started-guide.md)
   - [Event Formats Guide](meetups/event-formats-guide.md)
