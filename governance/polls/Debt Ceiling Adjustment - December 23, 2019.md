@@ -15,7 +15,7 @@ The Maker Foundation Interim Risk Team has placed a Governance Poll into the [vo
 - Lower the Sai Debt Ceiling by 25 million to 70 million Sai
 - Raise the Dai ETH Debt Ceiling by 25 million to 100 million Dai
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Tuesday, December 23, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, December 27, at 5 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, December 23, the results of which may inform an Executive Vote which will go live on Friday, December 27, at 5 PM UTC.
 
 ## Review
 
