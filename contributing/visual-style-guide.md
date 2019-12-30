@@ -612,7 +612,7 @@ Links to external sites for in-line text, e.g. within a paragraph of text.
 
 ```css
 a {
-    color: var(—color-makerteal)
+    color: var(—color-makerteal);
     transition: 0.15s ease-in-out;
 }
 
