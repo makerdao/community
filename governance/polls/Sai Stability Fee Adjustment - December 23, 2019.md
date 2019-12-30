@@ -1,5 +1,5 @@
 ---
-title: Sai Stability Fee Adjustment - December 23, 2019
+title: Sai Stability Fee Adjustment - December 30, 2019
 summary: Signal your support to adjust the Sai Stability Fee within a range of 1% to 7%
 discussion_link: https://forum.makerdao.com/t/981
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
@@ -16,11 +16,11 @@ options:
    9: 5
    10: 7
 ---
-# Poll: Sai Stability Fee Adjustment - December 23, 2019
+# Poll: Sai Stability Fee Adjustment - December 30, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Sai Stability Fee** options. Voters are now able to signal their support for a **Sai Stability Fee** within a range of 1% to 7%.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, December 23 at 5 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, December 27, at 5 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, December 30 at 5 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, January 3, at 5 PM UTC.
 
 ## Review
 
