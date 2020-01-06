@@ -17,7 +17,7 @@ We also explore a range of themes:
 - What are our values? Where is our common ground?
 - How do we measure positive and negative externalities?
 - What is 'risk'? How do we measure and manage it?
-- How do we move towards Gradual Decentralisation?
+- How do we move towards Gradual Decentralization?
 - How do we foster a healthy debate?
 
 In these weekly calls, we will be learning together from some of the smartest people in the space.
