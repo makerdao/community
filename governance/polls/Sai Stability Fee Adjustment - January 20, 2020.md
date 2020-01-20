@@ -5,17 +5,17 @@ discussion_link: https://forum.makerdao.com/t/1126
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
-   1: 1
-   2: 3
-   3: 4
-   4: 4.5
-   5: 4.75
-   6: 5
-   7: 5.25
-   8: 5.5
-   9: 6
-   10: 7
-   11: 9
+   1: 5
+   2: 7
+   3: 8
+   4: 8.5
+   5: 8.75
+   6: 9
+   7: 9.25
+   8: 9.5
+   9: 10
+   10: 11
+   11: 13
 ---
 # Poll: Sai Stability Fee Adjustment - January 20, 2020
 
