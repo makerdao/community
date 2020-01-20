@@ -1,5 +1,5 @@
 ---
-title: Dai Savings Rate Adjustment - January 20, 2020
+title: Dai Savings Rate Spread Adjustment - January 20, 2020
 summary: Signal your support to adjust the Dai Savings Rate Spread within a range of 0.25% to 4%
 discussion_link: https://forum.makerdao.com/t/1126
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
