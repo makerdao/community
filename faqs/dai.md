@@ -6,7 +6,7 @@ Dai is collateral-backed money whose value is pegged to the US Dollar and kept s
 
 The Dai token lives on the Ethereum blockchain; its stability is unmediated by any central party, and its solvency does not rely on any trusted counterparties. All circulating Dai are generated from [Maker Vaults](vault.md) and are backed by a surplus of collateral assets.
 
-Dai is used in the same manner as any other cryptocurrency: It can be freely sent to others, used as payments for goods and services, be held as a hedge against market volatility, and much more.
+Dai is used in the same manner as any other cryptocurrency: It can be freely sent to others, used as payments for goods and services, be held as a hedge against market volatility, and [much more](https://awesome.makerdao.com/#use-dai).
 
 ## Why would I want to use Dai?
 
