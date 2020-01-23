@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 69: Jan 16, 2020](episode-69.md)
 - [Episode 68: Jan 09, 2020](episode-68.md)
 - [Episode 67: Jan 02, 2020](episode-67.md)
 - [Episode 66: Dec 19, 2019](episode-66.md)
