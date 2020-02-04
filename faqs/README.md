@@ -2,6 +2,16 @@
 
 - [Glossary of Terms](glossary.md)
 
+## Dai
+
+- [What is Dai?](dai.md#what-is-dai)
+- [Why would I want to use Dai?](dai.md#why-would-i-want-to-use-dai)
+- [How is the price of Dai kept stable?](dai.md#how-is-the-price-of-dai-kept-stable)
+- [How can I generate Dai?](dai.md#how-can-i-generate-dai)
+- [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
+- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai?)
+- [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
+
 ## Dai Savings Rate
 
 - [What is the Dai Savings Rate?](dsr.md#what-is-the-dai-savings-rate)
