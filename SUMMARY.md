@@ -98,6 +98,7 @@
     - [Emergency Shutdown](faqs/emergency-shutdown.md)
     - [Glossary of Terms](faqs/glossary.md)
     - [Liquidation](faqs/liquidation.md)
+    - [MKR Token](faqs/mkr-token.md)
     - [Oracles](faqs/oracles.md)
     - [Stability Fee](faqs/stability-fee.md)
     - [Vaults](faqs/vault.md)

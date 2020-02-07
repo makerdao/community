@@ -76,6 +76,20 @@
 - [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Liquidations?](liquidation.md#where-can-i-find-more-technical-information-about-liquidations)
 
+## MKR Token
+
+- [What is MKR?](mkr-token.md#what-is-mkr)
+- [What is the MKR token used for?](mkr-token.md#what-is-the-mkr-token-used-for)
+- [How are MKR tokens created or destroyed?](mkr-token.md#how-are-mkr-tokens-created-or-destroyed)
+- [What responsibilities do MKR holders have?](mkr-token.md#what-responsibilities-do-mkr-holders-have)
+- [What voting rights do MKR holders have?](mkr-token.md#what-voting-rights-do-mkr-holders-have)
+- [What addresses hold the most MKR?](mkr-token.md#what-addresses-hold-the-most-mkr)
+- [Can MKR be used as a collateral type?](mkr-token.md#can-mkr-be-used-as-a-collateral-type)
+- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-Dai-if-the-value-of-their-backing-collateral-goes-to-zero)
+- [How do I redeem old MKR?](mkr-token.md#how-do-i-redeem-old-mkr)
+- [What happens to MKR in the event of an Emergency Shutdown?](mkr-token.md#what-happens-to-mkr-in-the-event-of-an-emergency-shutdown)
+- [How much MKR is there?](mkr-token.md#how-much-mkr-is-there)
+
 ## Oracles
 
 - [What is an Oracle?](oracles.md#what-is-an-oracle)
