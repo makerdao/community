@@ -2,6 +2,16 @@
 
 - [Glossary of Terms](glossary.md)
 
+## Dai
+
+- [What is Dai?](dai.md#what-is-dai)
+- [Why would I want to use Dai?](dai.md#why-would-i-want-to-use-dai)
+- [How is the price of Dai kept stable?](dai.md#how-is-the-price-of-dai-kept-stable)
+- [How can I generate Dai?](dai.md#how-can-i-generate-dai)
+- [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
+- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai?)
+- [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
+
 ## Dai Savings Rate
 
 - [What is the Dai Savings Rate?](dsr.md#what-is-the-dai-savings-rate)
@@ -65,6 +75,20 @@
 - [How would a "flash crash" affect the Liquidation of Vaults?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
 - [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Liquidations?](liquidation.md#where-can-i-find-more-technical-information-about-liquidations)
+
+## MKR Token
+
+- [What is MKR?](mkr-token.md#what-is-mkr)
+- [What is the MKR token used for?](mkr-token.md#what-is-the-mkr-token-used-for)
+- [How are MKR tokens created or destroyed?](mkr-token.md#how-are-mkr-tokens-created-or-destroyed)
+- [What responsibilities do MKR holders have?](mkr-token.md#what-responsibilities-do-mkr-holders-have)
+- [What voting rights do MKR holders have?](mkr-token.md#what-voting-rights-do-mkr-holders-have)
+- [What addresses hold the most MKR?](mkr-token.md#what-addresses-hold-the-most-mkr)
+- [Can MKR be used as a collateral type?](mkr-token.md#can-mkr-be-used-as-a-collateral-type)
+- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-Dai-if-the-value-of-their-backing-collateral-goes-to-zero)
+- [How do I redeem old MKR?](mkr-token.md#how-do-i-redeem-old-mkr)
+- [What happens to MKR in the event of an Emergency Shutdown?](mkr-token.md#what-happens-to-mkr-in-the-event-of-an-emergency-shutdown)
+- [How much MKR is there?](mkr-token.md#how-much-mkr-is-there)
 
 ## Oracles
 

@@ -2,7 +2,7 @@
 
 ## What are Maker Vaults?
 
-The MakerDAO Vault is a facility for a type of loan administered by the Maker Protocol smart-contract system that runs on the Ethereum blockchain. The Vault is a core component of the Maker Protocol, which facilitates the generation of Dai against locked up collateral.
+The Maker Vault is a core component of the Maker Protocol, which facilitates the generation of Dai against locked up collateral.
 
 Vault usage collectively alters the total supply of Dai. Users create Dai by generating it against their collateral and in-turn destroy Dai when repaying their generated Dai balance. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
