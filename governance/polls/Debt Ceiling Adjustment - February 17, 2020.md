@@ -12,7 +12,7 @@ options:
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to alter the **Dai Debt Ceiling**. Voters are now able to signal their support to:
 
-- Raise the Dai Debt Ceiling by 25 million to 150 million Sai
+- Raise the Dai Debt Ceiling by 25 million to 150 million Dai
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, February 17, the results of which may inform an Executive Vote which will go live on Friday, February 21, at 5 PM UTC.
 
