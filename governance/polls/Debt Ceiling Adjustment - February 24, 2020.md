@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Debt Ceiling Adjustment - February 24, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to alter the **Dai Debt Ceiling**. Voters are now able to signal their support to:
+The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to alter the **Debt Ceilings**. Voters are now able to signal their support to:
 
 - Lower the Sai Debt Ceiling by 5 million to 25 million Sai
 - Lower the Dai ETH Debt Ceiling by 20 million to 130 million Dai
