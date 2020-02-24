@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 74: Feb 20, 2020](episode-74.md)
 - [Episode 73: Feb 13, 2020](episode-73.md)
 - [Episode 72: Feb 06, 2020](episode-72.md)
 - [Episode 71: Jan 30, 2020](episode-71.md)
