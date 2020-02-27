@@ -20,7 +20,7 @@ Maker is only as strong as its community. By hosting a meetup you can help build
 
 This program is an important initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
 
-Additionally, we're working with the community to actively build a collection of guides to help anyone host their own meetup. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), and an [Event Formats Guide](event-formats-guide.md).
+Additionally, we're working with the community to actively build a collection of guides to help anyone host their own meetup. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), an [Event Formats Guide](event-formats-guide.md), and [a collection of sample presentations.](./assets/slides)
 
 ## Is this for me?
 
@@ -54,4 +54,4 @@ Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
 
 ## Important Disclaimer
 
-These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about decentralized finance, Dai, and MakerDAO. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Events should focus on the MakerDAO ecosystem, how MakerDAO and Dai interact with DeFi, decentralized governance, and other relevant topics.
+These meetups are **not for speculating on the price of the token or general hype.** The main goal of hosting meetups is to bring people together and educate them about decentralized finance, Dai, and MakerDAO. When talking about the MKR token, the goal should be to educate the attendees about the purpose and utility of the token. Events should focus on the MakerDao ecosystem, how MakerDao and Dai interact with DeFi, decentralized governance, and other relevant topics.

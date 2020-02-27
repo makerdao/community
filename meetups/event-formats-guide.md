@@ -34,7 +34,6 @@ Focus on deep technical topics and business applications, good for developers an
   - Presentations
     - Focus on real business applications, integrations, business strategy around crypto
     - Integrations. E.g. How did we solve our dapp's issues with Dai?
-    - Paralelni Polis: [our strategies with using crypto only](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/)
   - Panels, Interviews, Q&A sessions
     - Helps business professionals hear from others like them
     - Can be used as a platform for problem solving
@@ -56,14 +55,14 @@ Focus on bringing community members together to network. We suggest this format 
 Focus on educating people about how they can use Dai and interact with MakerDAO. This format puts emphasis on teaching people how to use basic web3 tools like wallets, exchanges, and dapps.
 
 - Complex Demos
-  - Using a CDPs [example](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd)
-  - Playing with [DeFi dapps](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai)
-  - Setting up and using [Dai.js](https://makerdao.com/documentation/)
+  - Using a Vault
+  - Playing with [DeFi dapps](https://awesome.makerdao.com/#use-dai)
+  - Setting up and using [Dai.js](https://docs.makerdao.com/building-with-maker/daijs)
 - Simple Demos
-  - How do I [get](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai) Dai?
-  - How do I [store](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai) Dai?
-  - How do I [spend](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#spend-your-dai) Dai?
-  - How can I [use](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#use-your-dai) Dai?
+  - How do I [get](https://awesome.makerdao.com/#earn-dai) Dai?
+  - How do I [store](https://awesome.makerdao.com/#hold-dai) Dai?
+  - How do I [spend](https://awesome.makerdao.com/#spend-dai) Dai?
+  - How can I [use](https://awesome.makerdao.com/#use-dai) Dai?
 
 ## Other Ideas
 
