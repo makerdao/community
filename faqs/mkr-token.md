@@ -10,7 +10,7 @@ MKR is the governance token and recapitalization source of the Maker Protocol.
 
 ### MKR as a governance token
 
-As a governance token, MKR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the Maker Protocol like Stability Fees, the DSR, Debt Ceilings, and many others. Voting is also used to make decisions on the non-technical aspects of the protocol like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about governance in the Maker Protocol visit the [Governance FAQ](scd-faqs/scd-faqs/governance.md).
+As a governance token, MKR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the Maker Protocol like Stability Fees, the DSR, Debt Ceilings, and many others. Voting is also used to make decisions on the non-technical aspects of the protocol like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about governance in the Maker Protocol visit the [Governance FAQ](scd-faqs/governance.md).
 
 ### MKR as a recapitalization source
 
@@ -28,9 +28,9 @@ Another important responsibility for MKR holders is to communicate publicly abou
 
 ## What voting rights do MKR holders have?
 
-MKR holders have the ability to enact technical changes to the Maker Protocol itself and also to ratify decisions on-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy, MKR voters have ultimate control. To learn more about governance in the Maker Protocol visit the [Governance FAQ](scd-faqs/scd-faqs/governance.md).
+MKR holders have the ability to enact technical changes to the Maker Protocol itself and also to ratify decisions on-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy, MKR voters have ultimate control. To learn more about governance in the Maker Protocol visit the [Governance FAQ](scd-faqs/governance.md).
 
-MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](onboarding/voter-onboarding.md) for an overview of how to get started.
+MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](./onboarding/voter-onboarding.md) for an overview of how to get started.
 
 ## What addresses hold the most MKR?
 
