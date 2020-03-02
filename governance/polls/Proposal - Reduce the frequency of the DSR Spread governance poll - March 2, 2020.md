@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Should we reduce the frequency of the DSR Spread governance poll to once every two weeks?
+# Poll: Adjust DSR Spread Polling Cadence - March 2, 2020
 
 If passed, the frequency of the "Dai Savings Rate Spread Adjustment" governance poll will be reduced to one poll every two weeks. The relative start and end times for the poll will remain unchanged.
 
