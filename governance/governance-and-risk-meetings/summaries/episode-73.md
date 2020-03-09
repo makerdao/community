@@ -148,7 +148,7 @@
 
 [Thread explaining the Dark Fix Solution.](https://forum.makerdao.com/t/dark-fix-mechanism-a-proposal-for-handling-critical-vulnerabilities-in-the-maker-protocol/1297)
 
-[31:22](https://youtu.be/e4VTkFV3lyc)
+[31:22](https://youtu.be/e4VTkFV3lyc?t=1876)
 
 ![](https://i.imgur.com/DPaGBf7.png)
 - Currently, Maker has a GSM delay of zero, which allows us to fix bugs instantly but opens us up to a Governance attack. A non-zero delay, due to bug fixes being done on-chain, makes reverse-engineering the bug a real risk.
