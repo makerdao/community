@@ -14,7 +14,11 @@ The Maker Foundation Interim Risk Team has placed a Governance Poll into the [vo
 
 - Lower Sai to Dai migration debt ceiling by 20 million to 10 million
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Tuesday, March 9, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, March 13, at 4 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Tuesday, March 9, the results of which may inform an Executive Vote which will go live on Friday, March 13, at 4 PM UTC.
+
+## Review
+
+The **Sai to Dai migration debt ceiling** was discussed in the Governance call on Thursday, March 5. Please review the [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk), [Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries) and the online [discussion](https://forum.makerdao.com/c/governance) to inform your position before voting.
 
 ## Next Steps
 
@@ -28,6 +32,6 @@ Additional information about the Governance process can be found in the [Governa
 
 Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com/#voting).
 
-To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

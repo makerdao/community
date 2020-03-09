@@ -1,18 +1,18 @@
 ---
-title: Activate the Governance Security Module - December 9, 2019
-summary: Signal your support to activate the GSM by setting the delay to 24 hours.
-discussion_link: https://forum.makerdao.com/t/914
+title: Activate the Governance Security Module for SCD - March 9, 2020
+summary: Signal your support to activate the GSM for SCD by setting the delay to 24 hours.
+discussion_link: https://forum.makerdao.com/t/1413
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Activate the Governance Security Module - December 9, 2019
+# Poll: Activate the Governance Security Module for SCD - March 9, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to activate the [Governance Security Module](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation#1-introduction-summary).
+The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to activate the [Governance Security Module](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation#1-introduction-summary) for Single Collateral Dai.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, December 9 at 5 PM UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, December 13, at 5 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Tuesday, March 9, the results of which may inform an Executive Vote which will go live on Friday, March 13, at 4 PM UTC.
 
 ## Review
 
