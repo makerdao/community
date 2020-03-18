@@ -2,6 +2,9 @@
 
 Welcome to the MakerDAO Hackathons Initiative: A place where organizers can get the information they need to include MakerDAO in their hackathons and where hackers can find the developer resources they need to build thier projects.
 
+**_Please Note: Community Development is not accepting new sponsorships as we work through a larger than normal backlog of proposals, in addition to precautions for COVID-19. Sponsorship applications will re-open on July 1, 2020._**
+
+
 ## Project Snapshot
 
 - Build for DeFi
