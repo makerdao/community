@@ -1,6 +1,8 @@
 # Organizer Quickstart Guide
 Welcome to the MakerDAO Quick Start Guide for Hackathon Organizers. Below you will find all the information you need to know before reaching out to us.
 
+**_Please Note: Community Development is not accepting new sponsorships as we work through a larger than normal backlog of proposals, in addition to precautions for COVID-19. Sponsorship applications will re-open on July 1, 2020._**
+
 ## Hackathon Funding Requirements
 
 Please reach out to us **no later than 4 weeks before the event.**
