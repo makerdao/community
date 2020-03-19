@@ -26,7 +26,7 @@ Community members have numerous options when contributing to resources in the Ma
 
 ## How do I get involved?
 
-Get familiar with the [style guide](./style-guide.md). 
+Get familiar with the [style guide](./style-guide.md). Learn more about [CDIP's](./CDIP explainer.md)
 
 Then, decide where you want to contribute:
 
@@ -34,3 +34,4 @@ Then, decide where you want to contribute:
 - [Improve Meetup guides](/meetups/README.md)
 - [Curate Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao)
 - [MakerDAO: Help Wanted](https://forum.makerdao.com/c/comm-dev/help-wanted)
+- [Submit your own CDIP](https://docs.google.com/document/d/1lF8mNuomrguIS3lnvqTomS4NdON40nuyKRbLS6ZkMoA/edit)
