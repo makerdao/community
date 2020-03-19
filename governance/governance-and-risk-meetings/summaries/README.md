@@ -1,6 +1,7 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 78: Mar 17, 2020](episode-77.md)
+- [Episode 79: Mar 18, 2020](episode-79.md)
+- [Episode 78: Mar 17, 2020](episode-78.md)
 - [Episode 77: Mar 12, 2020](episode-77.md)
 - [Episode 76: Mar 05, 2020](episode-76.md)
 - [Episode 75: Feb 27, 2020](episode-75.md)
