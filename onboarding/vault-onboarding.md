@@ -2,7 +2,7 @@
 
 The Maker Protocol offers access to decentralized, non-custodial and permissionless leverage through Maker Vaults. Users can generate the Dai stablecoin by locking assets as collateral in a Vault. It’s important for individuals to be mindful of the risks associated with Vault usage, including those indicated in the applicable Terms of Service. This brief guide outlines the basics of getting started with Vaults on Oasis Borrow. While it presents the main features of Oasis Borrow, it only serves as an overall and general introduction.
 
-![Banner](assets/vault/1.png)
+![](assets/vault/1.png)
 
 ## The Basics
 
