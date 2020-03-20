@@ -54,7 +54,7 @@ Dai is available on a wide range of centralized and decentralized exchanges. A l
 
 ## Where can I see the amount of collateral that is backing Dai?
 
-Because the Maker Protocol runs publicly on the Ethereum blockchain, users can view real-time data about the system. A rich ecosystem of analytic tools has emerged to make the viewing experience easier for casual observers. The [“Watch your Dai”](https://awesome.makerdao.com/#watch-your-dai) section in the Awesome-MakerDAO resource repository contains a list of sites that provide stats and analytics for MakerDAO and Dai.
+Because the Maker Protocol runs publicly on the Ethereum blockchain, users can view real-time data about the system. A rich ecosystem of analytic tools has emerged to make the viewing experience easier for casual observers. The [“Watch your Dai”](https://awesome.makerdao.com/#watch-dai) section in the Awesome-MakerDAO resource repository contains a list of sites that provide stats and analytics for MakerDAO and Dai.
 
 ## What organizations are using Dai?
 
