@@ -69,7 +69,7 @@ The DSR is a global parameter that can be raised or lowered in order to influenc
 
 ## Where can someone find information to better understand the economic impact of the DSR?
 
-The [“In-Depth Analysis”](https://awesome.makerdao.com/#in-depth-analyses) section of the Awesome-MakerDAO resource library may offer comprehensive literature on such a topic.This section is always expanding as more information becomes available.
+The [“In-Depth Analysis”](https://awesome.makerdao.com/#makerdao-101) section of the Awesome-MakerDAO resource library may offer comprehensive literature on such a topic.This section is always expanding as more information becomes available.
 
 ## Does the DSR reduce the MKR burn rate?
 
