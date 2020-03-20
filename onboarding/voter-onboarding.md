@@ -2,7 +2,7 @@
 
 Ready to participate in MakerDAO Governance? An active community of voters is critical to the health and security of the MakerDAO ecosystem. This guide outlines the conceptual and practical basics of getting started with voting in MakerDAO.
 
-![](assets/vault/1a.png)
+![](assets/voter/1a.png)
 
 ## Why should MKR holders vote?
 
