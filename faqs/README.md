@@ -9,7 +9,7 @@
 - [How is the price of Dai kept stable?](dai.md#how-is-the-price-of-dai-kept-stable)
 - [How can I generate Dai?](dai.md#how-can-i-generate-dai)
 - [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
-- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai?)
+- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
 - [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
 
 ## Dai Savings Rate
@@ -21,7 +21,7 @@
 - [Is the DSR its own smart contract?](dsr.md#is-the-dsr-its-own-smart-contract)
 - [When users lock Dai with the DSR, is that Dai pooled?](dsr.md#when-users-lock-dai-with-the-dsr-is-that-dai-pooled)
 - [Do DSR accruals compound or are they only earned on the principal?](dsr.md#do-dsr-accruals-compound-or-are-they-only-earned-on-the-principal)
-- [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-return-earned-through-the-dsr)
+- [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-accruals-earned-through-the-dsr)
 - [Will there be any constraints, like minimum lockup time or withdrawal limits?](dsr.md#will-there-be-any-constraints-like-minimum-lockup-time-or-withdrawal-limits)
 - [Does Dai earned by the DSR get calculated and paid out at the time of withdrawal, or is it continuously added to the user’s balance?](dsr.md#does-dai-earned-by-the-dsr-get-calculated-and-paid-out-at-the-time-of-withdrawal-or-is-it-continuously-added-to-the-users-balance)
 - [How is the DSR being used by MKR token holders as a monetary policy tool?](dsr.md#how-is-the-dsr-being-used-by-mkr-token-holders-as-a-monetary-policy-tool)
@@ -85,7 +85,7 @@
 - [What voting rights do MKR holders have?](mkr-token.md#what-voting-rights-do-mkr-holders-have)
 - [What addresses hold the most MKR?](mkr-token.md#what-addresses-hold-the-most-mkr)
 - [Can MKR be used as a collateral type?](mkr-token.md#can-mkr-be-used-as-a-collateral-type)
-- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-Dai-if-the-value-of-their-backing-collateral-goes-to-zero)
+- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-dai-if-the-value-of-their-backing-collateral-goes-to-zero)
 - [How do I redeem old MKR?](mkr-token.md#how-do-i-redeem-old-mkr)
 - [What happens to MKR in the event of an Emergency Shutdown?](mkr-token.md#what-happens-to-mkr-in-the-event-of-an-emergency-shutdown)
 - [How much MKR is there?](mkr-token.md#how-much-mkr-is-there)
