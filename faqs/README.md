@@ -9,7 +9,7 @@
 - [How is the price of Dai kept stable?](dai.md#how-is-the-price-of-dai-kept-stable)
 - [How can I generate Dai?](dai.md#how-can-i-generate-dai)
 - [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
-- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai?)
+- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
 - [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
 
 ## Dai Savings Rate
@@ -21,7 +21,7 @@
 - [Is the DSR its own smart contract?](dsr.md#is-the-dsr-its-own-smart-contract)
 - [When users lock Dai with the DSR, is that Dai pooled?](dsr.md#when-users-lock-dai-with-the-dsr-is-that-dai-pooled)
 - [Do DSR accruals compound or are they only earned on the principal?](dsr.md#do-dsr-accruals-compound-or-are-they-only-earned-on-the-principal)
-- [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-return-earned-through-the-dsr)
+- [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-accruals-earned-through-the-dsr)
 - [Will there be any constraints, like minimum lockup time or withdrawal limits?](dsr.md#will-there-be-any-constraints-like-minimum-lockup-time-or-withdrawal-limits)
 - [Does Dai earned by the DSR get calculated and paid out at the time of withdrawal, or is it continuously added to the user’s balance?](dsr.md#does-dai-earned-by-the-dsr-get-calculated-and-paid-out-at-the-time-of-withdrawal-or-is-it-continuously-added-to-the-users-balance)
 - [How is the DSR being used by MKR token holders as a monetary policy tool?](dsr.md#how-is-the-dsr-being-used-by-mkr-token-holders-as-a-monetary-policy-tool)
