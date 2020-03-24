@@ -10,7 +10,7 @@ The DSR is also a monetary policy tool used by Maker governance to influence dem
 
 Dai holders can lock their Dai into the DSR smart contract at any time. Once locked, Dai continuously accrues to the users balance, based on the current DSR.
 
-For more technical details on how the DSR works, visit [this page](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) on our [Documentation Portal.](https://docs.makerdao.com/)
+For more technical details on how the DSR works, visit [Pot - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) on our [Documentation Portal.](https://docs.makerdao.com/)
 
 ## Are there any range limits to the DSR, can it be negative or zero?
 
