@@ -36,7 +36,7 @@ Technical documentation about how Rates work in the Maker Protocol can be found 
 
 ## What is the formula for the expected accruals earned through the DSR?
 
-Although the DSR compounds at a growth rate of x% per second, in practice the user experiences an annual compounding of the displayed rate. The easiest way to calculate how much one would earn using the DSR is to use an Annual Compounding interest formula. A [Compound Interest Calculator](https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php) can serve the purpose, simply make sure `Compound (n)` is set to `Annually (1/yr)`.
+Although the DSR compounds at a growth rate of x% per second, in practice the user experiences an annual compounding of the displayed rate. The easiest way to calculate how much one would earn using the DSR is to use an Annual Compounding interest formula. A [Compound Interest Calculator](https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php) can serve this purpose, simply make sure `Compound (n)` is set to `Annually (1/yr)`.
 
 Formula:
 
