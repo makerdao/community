@@ -67,7 +67,7 @@ User risks can be mitigated by using small test amounts beforehand, and by thoro
 
 ## How would a flash crash affect the Liquidation of Vaults?
 
-A flash-crash on a single exchange will not affect the system as each Oracle aggregates prices from many sources and uses a median for reference prices. Using a median naturally filters-out broken prices, as a price from an exchange that’s experienced a flash-crash. You can read more about the Maker Protocol’s Oracle System in the [Oracle FAQ](oracles.md).
+A flash crash on a single exchange will not affect the system as each Oracle aggregates prices from many sources and uses a median for reference prices. Using a median naturally filters out broken prices, as a price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s Oracle System in the [Oracle FAQ](oracles.md).
 
 ## Where can I view live information about Liquidations?
 
