@@ -65,7 +65,7 @@ Technical documentation about how Rates work in the Maker Protocol can be found 
 
 ## How is the DSR being used by MKR token holders as a monetary policy tool?
 
-The DSR is a global parameter that can be raised or lowered in order to influence Dai demand. Raising the DSR incentivizes users to hold more Dai, leading to higher demand for Dai, whereas lowering the DSR has the opposite effect of reducing demand for Dai. This is reflected in the spot market price of Dai; if Dai is trading below a dollar, then the DSR can be raised to increase Dai demand which would bring Dai price up. Conversely, if Dai is trading above a dollar, then the DSR can be lowered to reduce the demand for holding Dai which may help bring Dai price down.
+The DSR is a global parameter that can be raised or lowered to influence demand for Dai. Raising the DSR incentivizes users to hold more Dai, leading to higher demand for Dai, whereas lowering the DSR has the opposite effect of reducing demand for Dai. This is reflected in the spot market price of Dai; if Dai is trading below a dollar, then the DSR can be raised to increase demand for Dai which would bring up the price of Dai. Conversely, if Dai is trading above a dollar, then the DSR can be lowered to reduce the demand for holding Dai which may help bring down the price of Dai.
 
 ## Where can someone find information to better understand the economic impact of the DSR?
 
