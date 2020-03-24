@@ -150,7 +150,7 @@
 
 - governance token of MakerDAO
 
-##### Multi Collateral Dai
+##### Multi-Collateral Dai
 
 - the upgraded Maker Protocol that facilitates the use of multiple collateral types in Vaults
 
@@ -208,9 +208,9 @@
 
 ##### SCD
 
-- acronym for Single Collateral Dai
+- acronym for Single-Collateral Dai
 
-##### Single Collateral Dai
+##### Single-Collateral Dai
 
 - the former version of the Maker Protocol which solely accepted ETH as collateral
 
