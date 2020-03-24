@@ -24,7 +24,7 @@ No. Dai only earns the rate if it is deposited into the DSR smart-contract.
 
 Yes, the DSR is a part of the [Rates Module.](https://docs.makerdao.com/smart-contract-modules/rates-module) This module is responsible for collecting Stability Fees and distributing Dai to DSR users. For a better understanding of the smart-contract structure of the Maker Protocol, visit our [Documentation Portal.](https://docs.makerdao.com/)
 
-## When users lock Dai with the DSR, is that Dai pooled?
+## When users lock Dai into the DSR, is that Dai pooled?
 
 Yes, all Dai locked into the DSR is technically pooled together. However, the system tracks deposits on an individual basis.
 

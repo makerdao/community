@@ -19,7 +19,7 @@
 - [Are there any range limits to the DSR? Can it be negative or zero?](dsr.md#are-there-any-range-limits-to-the-dsr-can-it-be-negative-or-zero)
 - [Does Dai automatically earn the DSR?](dsr.md#does-dai-automatically-earn-the-dsr)
 - [Is the DSR its own smart contract?](dsr.md#is-the-dsr-its-own-smart-contract)
-- [When users lock Dai with the DSR, is that Dai pooled?](dsr.md#when-users-lock-dai-with-the-dsr-is-that-dai-pooled)
+- [When users lock Dai into the DSR, is that Dai pooled?](dsr.md#when-users-lock-dai-into-the-dsr-is-that-dai-pooled)
 - [Do DSR accruals compound or are they only earned on the principal?](dsr.md#do-dsr-accruals-compound-or-are-they-only-earned-on-the-principal)
 - [What is the formula for the expected accruals earned through the DSR?](dsr.md#what-is-the-formula-for-the-expected-accruals-earned-through-the-dsr)
 - [Will there be any constraints, like minimum lockup time or withdrawal limits?](dsr.md#will-there-be-any-constraints-like-minimum-lockup-time-or-withdrawal-limits)
