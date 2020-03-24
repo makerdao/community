@@ -73,7 +73,7 @@ The [In-Depth Analysis](https://awesome.makerdao.com/#in-depth-analysis) section
 
 ## Does the DSR reduce the MKR burn rate?
 
-To answer this question accurately, one must understand what the value of the DSR is. The DSR is a cost to the system, but it is also one of the most important drivers of demand for Dai. The value it brings as a monetary policy tool and source of Dai demand largely outweighs its cost.
+To answer this question accurately, one must understand what the value of the DSR is. The DSR is a cost to the system, but it is also one of the most important drivers of demand for Dai. The value that it brings as a monetary policy tool and source of Dai demand largely outweighs its cost.
 
 ## Are Stability Fees structurally higher due to the existence of the DSR?
 
