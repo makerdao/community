@@ -32,7 +32,7 @@ Yes, all Dai locked into the DSR is technically pooled together. However, the sy
 
 In the code, DSR is continuously compounding at a growth rate of x% per second. For example, when the DSR is set to 2%, it will be accumulating at 1.0000000006279371924910298109948‬% per second. Practically, users experience an annual compounding of the displayed rate. For example, if the DSR was 2%, assuming the user put in 100 Dai, at the end of the first year they would have 102.00, and at the end of the second year they would have 104.04.
 
-Technical documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Technical documentation about how Rates work in the Maker Protocol can be found in our [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) documentation.
 
 ## What is the formula for the expected accruals earned through the DSR?
 
