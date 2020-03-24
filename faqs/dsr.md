@@ -81,4 +81,4 @@ Yes.
 
 ## Where can I find more technical information about the DSR?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of the DSR can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) Documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of the DSR is included in the [Pot - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) subsection. Documentation about how Rates work in the Maker Protocol is located in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section.
