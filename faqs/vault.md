@@ -65,7 +65,7 @@ Market risks can be mitigated by using price alerts, maintaining a higher [Colla
 
 User risks can be mitigated by using small test amounts beforehand, and by thoroughly checking which addresses one is interacting with.
 
-## How would a flash-crash affect the Liquidation of Vaults?
+## How would a flash crash affect the Liquidation of Vaults?
 
 A flash-crash on a single exchange will not affect the system as each Oracle aggregates prices from many sources and uses a median for reference prices. Using a median naturally filters-out broken prices, as a price from an exchange that’s experienced a flash-crash. You can read more about the Maker Protocol’s Oracle System in the [Oracle FAQ](oracles.md).
 
