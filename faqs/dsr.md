@@ -41,7 +41,7 @@ Although the DSR compounds at a growth rate of x% per second, in practice the us
 Formula:
 
 ```
-A = P(1 + r)^t`
+A = P(1 + r)^t
 ```
 
 Where:
