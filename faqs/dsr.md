@@ -55,7 +55,7 @@ Where:
 
 ## Will there be any constraints, like minimum lockup time or withdrawal limits?
 
-Dai in DSR has no liquidity or time constraints. There is no minimum lockup time and no withdrawal limit for Dai into the DSR. Users can freely enter in and out of the DSR, only needing to pay the Ethereum transaction fee.
+Dai in DSR has no liquidity or time constraints. There is no minimum lockup time and no withdrawal limit for Dai in the DSR. Users can freely enter into and out of the DSR, only needing to pay the Ethereum transaction fee.
 
 ## Does Dai earned by the DSR get calculated and paid out at the time of withdrawal, or is it continuously added to the user’s balance?
 
