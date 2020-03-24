@@ -157,7 +157,7 @@ Remember that opening a Vault and generating Dai represents the creation of risk
 
 ## How would a flash crash affect the Liquidation of Vaults?
 
-A flash crash on a single exchange will not affect the system as each [Oracle](oracles.md) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash-crash. You can read more about the Maker Protocol’s decentralized Oracles in the Oracle FAQ.
+A flash crash on a single exchange will not affect the system as each [Oracle](oracles.md) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s decentralized Oracles in the Oracle FAQ.
 
 ## Where can I view live information about Liquidations?
 
