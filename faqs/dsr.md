@@ -61,7 +61,7 @@ Dai in DSR has no liquidity or time constraints. There is no minimum lockup time
 
 The amount earned is recalculated and counted towards each user’s balance multiple times a day. In practice, the DSR compounds once a year and is paid out pro-rata at the time of withdrawal. The displayed rate is what a user would earn on their principal in one-year using a simple interest calculation. For example, if the DSR is 2% and a user deposits 100 Dai they can expect to have 102 Dai in exactly 1 year.
 
-Technical documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Technical documentation about how Rates work in the Maker Protocol can be found in our [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) documentation.
 
 ## How is the DSR being used by MKR token holders as a monetary policy tool?
 
