@@ -10,7 +10,7 @@ One important security feature of the Maker Protocol is called Emergency Shutdow
 1. **Cooldown Period:** After Emergency Shutdown is activated, a time period is needed to allow any ongoing [collateral auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#collateral-auction-collateral-sale) to conclude. Once all collateral auctions finish, the system can calculate the distribution of collateral to remaining Dai in circulation.
 1. **Dai owners claim collateral:** Each Dai holder can redeem their Dai directly for a fixed amount of collateral.
 
-Technical documentation about how Emergency Shutdown works can be [found here](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) and [here.](https://docs.makerdao.com/smart-contract-modules/shutdown/end-detailed-documentation)
+Technical documentation about how Emergency Shutdown works can be found in the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) section and [End - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/shutdown/end-detailed-documentation) subsection of [MCD Docs](https://docs.makerdao.com/).
 
 ## Who can initiate Emergency Shutdown?
 
