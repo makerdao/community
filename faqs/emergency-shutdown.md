@@ -16,7 +16,7 @@ Technical documentation about how Emergency Shutdown works can be found in the [
 
 There are two primary ways that an Emergency Shutdown could be triggered. One way is through the Emergency Shutdown Module(ESM), which allows for a shutdown to be triggered by a minimum number of MKR called the Emergency Shutdown Threshold. Emergency Shutdown may also be triggered through a regular Executive Vote, though the ESM would be a more direct method that does not have to wait for the delay period imposed by the Governance Security Module.
 
-Technical documentation about how the Governance Security Module works can be [found here.](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation)
+Technical documentation about how the Governance Security Module works can be found in the [Pause - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation) subsection of [MCD Docs](https://docs.makerdao.com/).
 
 ## When should Emergency Shutdown be used?
 
