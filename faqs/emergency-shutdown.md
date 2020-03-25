@@ -126,4 +126,4 @@ There will be notices within [all official Maker Foundation front-ends](https://
 
 ## Where can I find more technical information about Emergency Shutdown?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Emergency Shutdown can be [found here.](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Emergency Shutdown can be found in the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) section of the Document Portal.
