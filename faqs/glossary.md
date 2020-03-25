@@ -150,7 +150,7 @@
 
 - governance token of MakerDAO
 
-##### Multi Collateral Dai
+##### Multi-Collateral Dai
 
 - the upgraded Maker Protocol that facilitates the use of multiple collateral types in Vaults
 
@@ -208,9 +208,9 @@
 
 ##### SCD
 
-- acronym for Single Collateral Dai
+- acronym for Single-Collateral Dai
 
-##### Single Collateral Dai
+##### Single-Collateral Dai
 
 - the former version of the Maker Protocol which solely accepted ETH as collateral
 
@@ -240,13 +240,13 @@
 
 - a core component of the Maker Protocol that facilitates the creation of Dai against locked up collateral, there are different Vault types users can utilize
 
-##### Voting Contract
-
-- a smart-contract that allows MKR holders to vote with their tokens
-
 ##### Vote Proxy Contract
 
 - a smart-contract that makes linked wallet voting possible, allowing MKR token holders to vote with their hot wallets using MKR that is stored on their cold wallets
+
+##### Voting Contract
+
+- a smart-contract that allows MKR holders to vote with their tokens
 
 ## W
 

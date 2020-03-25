@@ -62,7 +62,7 @@ The short answer is yes, the Oracle system is resistant to Sybil attacks because
 
 ## What happens if there is a flash crash on an exchange?
 
-Since the reference price published by the Oracles is a median of the median prices that are reported by at least 20 different Feeds, outliers are automatically filtered out. In practice, this means if a single exchange experiences a “flash-crash” the set of prices will look something like this:
+Since the reference price published by the Oracles is a median of the median prices that are reported by at least 20 different Feeds, outliers are automatically filtered out. In practice, this means if a single exchange experiences a flash crash the set of prices will look something like this:
 
 ```
 [0.70, 104.80, 104.82, **104.88**, 104.90, 105.02, 105.04]
