@@ -2,6 +2,10 @@
 
 ## A
 
+##### Auction
+
+- a public sale of digital assets to the highest bidder for the purpose of maintaining the stability of the Maker Protocol. The three different types of auctions are Collateral Auction, Debt Auction, and Surplus Auction. An external actor that bids in an Auction is called a Keeper.
+
 ## B
 
 ## C
