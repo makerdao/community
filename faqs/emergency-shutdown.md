@@ -38,7 +38,7 @@ The redemption of collateral claims will occur manually. After a cooldown period
 
 ## Why is there a delay period before Dai holders can redeem collateral?
 
-When Emergency Shutdown is triggered there may still be [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) running. The delay period gives time for those auctions to settle and for the internal system balances to become final.
+When Emergency Shutdown is triggered there may still be [Auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) running. The delay period gives time for those auctions to settle and for the internal system balances to become final.
 
 ## Do both Dai holders and Vault owners need to redeem collateral?
 
@@ -103,7 +103,7 @@ Any Dai or [Vaults](vault.md) that have been stuck or lost will remain so afterw
 
 Emergency Shutdown will:
 
-- Set the [Dai Savings Rate](faqs/dsr.md) to zero.
+- Set the [Dai Savings Rate](dsr.md) to zero.
 - Cancel or allow [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) to finish depending on the type of auction and phase it is in.
 - Freeze [Oracle](faqs/oracles.md) price-feeds locally to the Maker Protocol.
 - No longer allow the use of [Maker Vaults](faqs/vault.md).
