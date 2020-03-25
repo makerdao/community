@@ -9,7 +9,7 @@
 - [How is the price of Dai kept stable?](dai.md#how-is-the-price-of-dai-kept-stable)
 - [How can I generate Dai?](dai.md#how-can-i-generate-dai)
 - [Where can I buy Dai?](dai.md#where-can-i-buy-dai)
-- [Where can I see the amount of collateral that is backing DAI?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
+- [Where can I see the amount of collateral that is backing Dai?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
 - [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
 
 ## Dai Savings Rate
@@ -72,7 +72,7 @@
 - [How do I calculate my Collateralization Ratio?](liquidation.md#how-do-i-calculate-my-collateralization-ratio)
 - [How do I lower my Liquidation Price?](liquidation.md#how-do-i-lower-my-liquidation-price)
 - [What are typical practices to avoid getting Liquidated?](liquidation.md#what-are-typical-practices-to-avoid-getting-liquidated)
-- [How would a "flash crash" affect the Liquidation of Vaults?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
+- [How would a flash crash affect the Liquidation of Vaults?](liquidation.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
 - [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Liquidations?](liquidation.md#where-can-i-find-more-technical-information-about-liquidations)
 
@@ -136,6 +136,6 @@
 - [What is the Collateralization Ratio?](vault.md#what-is-the-collateralization-ratio)
 - [What risks are associated with owning a Vault?](vault.md#what-risks-are-associated-with-owning-a-vault)
 - [What are Common Practices to limit risk?](vault.md#what-are-common-practices-to-limit-risk)
-- [How would a flash-crash affect the Liquidation of Vaults?](vault.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
+- [How would a flash crash affect the Liquidation of Vaults?](vault.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
 - [Where can I view live information about Liquidations?](vault.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Vaults?](vault.md#where-can-i-find-more-technical-information-about-vaults)

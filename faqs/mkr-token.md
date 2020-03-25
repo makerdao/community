@@ -36,11 +36,11 @@ MKR holders who are interested in actively participating in the management of th
 
 To see the top addresses that hold MKR [click here](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances). Some of these are not individual holders, but are smart contracts that pool together MKR. Two examples are explained below, other examples include exchange wallets and liquidity pools.
 
-[0x8ee7d9235e01e6b42345120b5d270bdb763624c7](https://etherscan.io/address/0x8ee7d9235e01e6b42345120b5d270bdb763624c7) is the MakerDAO Multisig that holds undistributed MKR and is owned by the foundation. It is also referred to as the Development Fund.
+[0x8ee7d9235e01e6b42345120b5d270bdb763624c7](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2?a=0x8ee7d9235e01e6b42345120b5d270bdb763624c7) is the MakerDAO Multisig that holds undistributed MKR and is owned by the foundation. It is also referred to as the Development Fund.
 
-[0x642AE78FAfBB8032Da552D619aD43F1D81E4DD7C](https://etherscan.io/address/0x642AE78FAfBB8032Da552D619aD43F1D81E4DD7C) is the Redeemer contract which is temporarily holding NEWMKR for owners who haven't redeemed their OLDMKR yet.
+[0x642AE78FAfBB8032Da552D619aD43F1D81E4DD7C](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2?a=0x642AE78FAfBB8032Da552D619aD43F1D81E4DD7C) is the Redeemer contract which is temporarily holding NEWMKR for owners who haven't redeemed their OLDMKR yet.
 
-[0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5](https://etherscan.io/address/0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5) is the DS-Chief voting contract that holds MKR deposits from multiple individuals, which are then used for governance. This contract has authority over all the Maker Protocol contracts and is used to make changes to the state of the system, which refers to all things MKR holders can vote on, including Risk Parameters.
+[0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2?a=0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5) is the DS-Chief voting contract that holds MKR deposits from multiple individuals, which are then used for governance. This contract has authority over all the Maker Protocol contracts and is used to make changes to the state of the system, which refers to all things MKR holders can vote on, including Risk Parameters.
 
 ## Can MKR be used as a collateral type?
 

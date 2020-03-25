@@ -26,7 +26,7 @@ Community members have numerous options when contributing to resources in the Ma
 
 ## How do I get involved?
 
-Get familiar with the [style guide](./style-guide.md). Learn more about [CDIP's](./CDIP explainer.md)
+Get familiar with the [style guide](./style-guide.md). Learn more about [CDIP's](./CDIP-explainer.md)
 
 Then, decide where you want to contribute:
 

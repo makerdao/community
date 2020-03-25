@@ -34,7 +34,7 @@ No, though it stays pretty close. Dai is not a hard-pegged currency, so it does 
 
 Dai is not a hard-pegged currency, so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility against the US dollar.
 
-It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools controlled by MKR token holders. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, Vault owners, and market makers.
+It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools controlled by MKR token holders. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, Vault owners, Keepers, and market makers.
 
 If Dai demand consistently exceeds Dai supply, or vice-versa, it creates a signal that MKR holders need to adjust the [Dai Savings Rate](dsr.md), which is the primary tool for influencing Dai demand and steering the monetary policy of Dai. Raising the Dai Savings Rate increases the demand for holding Dai; lowering the rate decreases the demand for holding Dai. This ultimately translates to a stable Dai peg.
 
@@ -46,7 +46,7 @@ Vault owners are able to participate in maintaining the peg by taking advantage 
 
 ## How can I generate Dai?
 
-Dai generation only happens through the use of [Maker Vaults](vault.md). The Maker Foundation offers a comfortable user interface for interacting with the Maker Protocol on [Oasis.app](https://oasis.app/). Users may open and interact with their Vaults on [oasis.app/borrow.](https://oasis.app/borrow) There are a number of other apps that give people access to Maker Vaults; a shortlist can be found in the [generate Dai](https://awesome.makerdao.com/#generate-dai) section of the Awesome MakerDAO resource library.
+Dai generation only happens through the use of [Maker Vaults](vault.md). The Maker Foundation offers a comfortable user interface for interacting with the Maker Protocol on [Oasis.app](https://oasis.app/). Users may open and interact with their Vaults on [oasis.app/borrow.](https://oasis.app/borrow) There are a number of other apps that give people access to Maker Vaults; a shortlist can be found in the [Generate Dai](https://awesome.makerdao.com/#generate-dai) section of the Awesome MakerDAO resource library.
 
 ## Where can I buy Dai?
 
@@ -54,7 +54,7 @@ Dai is available on a wide range of centralized and decentralized exchanges. A l
 
 ## Where can I see the amount of collateral that is backing Dai?
 
-Because the Maker Protocol runs publicly on the Ethereum blockchain, users can view real-time data about the system. A rich ecosystem of analytic tools has emerged to make the viewing experience easier for casual observers. The [“Watch your Dai”](https://awesome.makerdao.com/#watch-your-dai) section in the Awesome-MakerDAO resource repository contains a list of sites that provide stats and analytics for MakerDAO and Dai.
+Because the Maker Protocol runs publicly on the Ethereum blockchain, users can view real-time data about the system. A rich ecosystem of analytic tools has emerged to make the viewing experience easier for casual observers. The [Watch Dai](https://awesome.makerdao.com/#watch-dai) section in the Awesome-MakerDAO resource repository contains a list of sites that provide stats and analytics for MakerDAO and Dai.
 
 ## What organizations are using Dai?
 
