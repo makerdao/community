@@ -85,7 +85,7 @@
 - [What voting rights do MKR holders have?](mkr-token.md#what-voting-rights-do-mkr-holders-have)
 - [What addresses hold the most MKR?](mkr-token.md#what-addresses-hold-the-most-mkr)
 - [Can MKR be used as a collateral type?](mkr-token.md#can-mkr-be-used-as-a-collateral-type)
-- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-Dai-if-the-value-of-their-backing-collateral-goes-to-zero)
+- [Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?](mkr-token.md#will-mkr-token-dilution-be-able-to-cover-all-dai-if-the-value-of-their-backing-collateral-goes-to-zero)
 - [How do I redeem old MKR?](mkr-token.md#how-do-i-redeem-old-mkr)
 - [What happens to MKR in the event of an Emergency Shutdown?](mkr-token.md#what-happens-to-mkr-in-the-event-of-an-emergency-shutdown)
 - [How much MKR is there?](mkr-token.md#how-much-mkr-is-there)
