@@ -52,7 +52,7 @@ Owning a Vault is inherently risky. There are four major categories of risks to 
 - **User Risks:** These are risks associated with user errors. MakerDAO does not possess the ability to reverse any transactions or recover funds sent to incorrect addresses or contracts.
 - **Systemic Risks:** There are many potential risks facing the successful and continued operation of the Maker Protocol. The following non-exhaustive list highlights some of these risks:
     - A malicious hacking attack against the smart-contract infrastructure.
-    - A "Black Swan" event in one or more Collateral assets.
+    - A Black Swan event in one or more Collateral assets.
     - Failure of centralized infrastructure. E.g., failed internet connections, MetaMask bugs, etc.
 - **Parameter Variability Risk:** It's important to note that Vault owners are subject to changes in the Risk Parameters that govern the system. This equates to financial risk for the Vault owner. Below is a partial list of parameters that are subject to change:
     - [Stability Fee](stability-fee.md)
