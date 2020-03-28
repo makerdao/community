@@ -76,6 +76,6 @@ There are no guarantees whatsoever relating to the future value of MKR, in parti
 
 ## How much MKR is there?
 
-There were a total of 1,000,000 MKR at the inception of the Maker Protocol. To find out how much MKR currently exists, see the [MKR token Contract on Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+There were a total of 1,000,000 MKR at the inception of the Maker Protocol. To find out how much MKR currently exists, see the [MKR Token Contract on Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
 
 The total number of MKR in existence can fluctuate based on how the system runs. For instance, the total supply of MKR can increase if the system is running a deficit and needs to dilute MKR as a recapitalization source. If the system is governed well, the total amount of MKR will decrease as MKR is destroyed in exchange for excess Dai from the system’s surplus.
