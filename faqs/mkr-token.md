@@ -22,7 +22,7 @@ MakerDAO launched with 1,000,000 MKR tokens at its inception. The tokens are cre
 
 ## What responsibilities do MKR holders have?
 
-The primary responsibility of MKR holders is to ensure the stability of the Dai peg and the overall health of the Maker Protocol. It’s also in MKR holders’ interest to focus on improving and growing the Maker Protocol by building out the governance processes and infrastructure that enable the effective management of the system. This includes, but is not limited to, establishing risk assessment standards for onboarding new collateral and Vault types, ratifying role mandates and electing appropriate parties, establishing standards around vote types, and much more.
+The primary responsibility of MKR holders is to ensure the stability of the Dai Peg and the overall health of the Maker Protocol. It’s also in MKR holders’ interest to focus on improving and growing the Maker Protocol by building out the governance processes and infrastructure that enable the effective management of the system. This includes, but is not limited to, establishing risk assessment standards for onboarding new collateral and Vault types, ratifying role mandates and electing appropriate parties, establishing standards around vote types, and much more.
 
 Another important responsibility for MKR holders is to communicate publicly about their views on the various issues that Maker governance is sorting through at any given time. Participating seriously in forum discussions and voicing opinions and the reasoning behind them is important because of the public and decentralized nature of the protocol and its governance.
 
