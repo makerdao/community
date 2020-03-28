@@ -18,7 +18,7 @@ No. Stability Fees are never applied retroactively. After a fee change, users wi
 
 ## Why does the Stability Fee Change?
 
-The Stability Fee for each [Vault](vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
+The Stability Fee for each [Vault](vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on Collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
 
 ## How is the Stability Fee calculated?
 
