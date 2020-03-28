@@ -50,7 +50,7 @@ Yes, there is a weekly limit to how much a given Stability Fee can change, defin
 
 ## How often do Stability Fees change?
 
-Stability Fee changes don’t happen on a regular schedule. They happen in response to changing market dynamics and risks. It is not possible to give an exact answer to how often Stability fees change. Risk Teams approach any adjustments on a case-by-case basis.
+Stability Fee changes don’t happen on a regular schedule. They happen in response to changing market dynamics and risks. It is not possible to give an exact answer to how often Stability Fees change. Risk Teams approach any adjustments on a case-by-case basis.
 
 ## Where can I find more technical information about Stability Fees?
 
