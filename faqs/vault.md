@@ -2,11 +2,11 @@
 
 ## What are Maker Vaults?
 
-The Maker Vault is a core component of the Maker Protocol, which facilitates the generation of Dai against locked up collateral.
+The Maker Vault is a core component of the Maker Protocol, which facilitates the generation of Dai against locked up Collateral.
 
-Vault usage collectively alters the total supply of Dai. Users create Dai by generating it against their collateral and in-turn destroy Dai when repaying their generated Dai balance. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
+Vault usage collectively alters the total supply of Dai. Users create Dai by generating it against their Collateral and in-turn destroy Dai when repaying their generated Dai balance. This process happens on-chain, which enables full auditability of circulating Dai and the Collateral backing it.
 
-Vaults are required to be overcollateralized and have a [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio) that Vault owners need to uphold to avoid the [Liquidation](liquidation.md) of their positions. Additionally a [Debt Ceiling](#what-is-a-debt-ceiling) is imposed globally on the Maker Protocol, as well as individually on each Vault type.
+Vaults are required to be overcollateralized and have a [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio) that Vault owners need to uphold to avoid the [Liquidation](liquidation.md) of their positions. Additionally, a [Debt Ceiling](#what-is-a-debt-ceiling) is imposed globally on the Maker Protocol, as well as individually on each Vault type.
 
 ## How does a Vault work?
 
