@@ -20,11 +20,11 @@ In the Maker Protocol, a Debt Ceiling is the maximum amount of Dai that can be g
 
 ## Are there different types of Vaults?
 
-Yes. Each collateral type may have multiple Vault types.
+Yes. Each Collateral type may have multiple Vault types.
 
-## What kind of collateral can I use?
+## What kind of Collateral can I use?
 
-In Multi-Collateral Dai, accepted collateral types are determined by MKR token holders through the MakerDAO governance process. For a current list of collateral types and Vault types, visit [Oasis Borrow](https://oasis.app/borrow) or other Maker Vault front-ends.
+In Multi-Collateral Dai, accepted Collateral types are determined by MKR token holders through the MakerDAO governance process. For a current list of Collateral types and Vault types, visit [Oasis Borrow](https://oasis.app/borrow) or other Maker Vault front-ends.
 
 ## Who can open a Vault?
 
