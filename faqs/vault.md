@@ -12,7 +12,7 @@ Vaults are required to be overcollateralized and have a [Liquidation Ratio](liqu
 
 Any user who wishes to generate Dai may deposit Collateral into a Vault and do so, paying a Stability Fee on the generated Dai balance.
 
-Vault users are free to generate or pay back Dai and can add or withdraw collateral with no time-constraints. As long as Vault owners maintain a minimum [Collateralization Ratio](#what-is-the-collateralization-ratio), specified for each Vault type as the [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio), they may interact with their Vaults freely. If a Vault’s Liquidation Ratio is breached, the position gets Liquidated. To read more about Liquidation, visit the Liquidation FAQ. If a user wishes to reclaim the full amount of their collateral, they will need to pay the full amount of Generated Dai back along with the owed Stability Fees.
+Vault users are free to generate or pay back Dai and can add or withdraw Collateral with no time-constraints. As long as Vault owners maintain a minimum [Collateralization Ratio](#what-is-the-collateralization-ratio), specified for each Vault type as the [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio), they may interact with their Vaults freely. If a Vault’s Liquidation Ratio is breached, the position gets Liquidated. To read more about Liquidation, visit the [Liquidation FAQ](liquidation.md). If a user wishes to reclaim the full amount of their Collateral, they will need to pay the full amount of Generated Dai back along with the Stability Fees owed.
 
 ## What is a Debt Ceiling?
 
