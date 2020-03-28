@@ -14,7 +14,7 @@ As a governance token, MKR is used by its holders to vote on a number of differe
 
 ### MKR as a recapitalization source
 
-The token also acts as a source of recapitalization when the Maker Protocol runs at a deficit. The possibility of MKR token supply dilution gives holders a strong incentive to govern the system well. Inversely, the destruction of MKR through the auctioning of Dai from the system’s excess surplus further incentivizes holders to govern the system well.
+The token also acts as a source of recapitalization when the Maker Protocol runs at a deficit. The possibility of MKR token supply Dilution gives holders a strong incentive to govern the system well. Inversely, the destruction of MKR through the auctioning of Dai from the system’s excess surplus further incentivizes holders to govern the system well.
 
 ## How are MKR tokens created or destroyed?
 
@@ -54,9 +54,9 @@ Finally, there is the argument about circular financing. It stands to reason tha
 
 ## Will MKR token Dilution be able to cover all Dai if the value of their backing Collateral goes to zero?
 
-The event of a Collateral losing all value is considered a "Black Swan", which is defined as unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR dilution will always be sufficient.
+The event of a Collateral losing all value is considered a "Black Swan", which is defined as unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR Dilution will always be sufficient.
 
-MKR dilution can recapitalize the system to a certain limit. The severity of the situation is important to consider. If the severity of the situation is high enough, then it may be viable for MKR holders to execute an Emergency Shutdown which would result in Dai being a pro-rata claim on the Maker Protocols Collateral portfolio.
+MKR Dilution can recapitalize the system to a certain limit. The severity of the situation is important to consider. If the severity of the situation is high enough, then it may be viable for MKR holders to execute an Emergency Shutdown which would result in Dai being a pro-rata claim on the Maker Protocols Collateral portfolio.
 
 ## How do I redeem old MKR?
 
