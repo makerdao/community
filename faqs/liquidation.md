@@ -32,11 +32,11 @@ Proceeds from Liquidation Penalties are put towards the Surplus Auctions, which 
 
 ## Why is the Liquidation Penalty necessary?
 
-The penalty is necessary to prevent Auction Grinding Attacks, which essentially break the [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) mechanism since an attacker can exploit the Maker Protocol for profit. To read more about this attack read this paper: [The Auction Grinding Attack: and a case for a liquidation penalty in Dai](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf).
+The penalty is necessary to prevent Auction Grinding Attacks, which essentially break the [Auction mechanism](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) since an attacker can exploit the Maker Protocol for profit. To read more about this attack read this paper: [The Auction Grinding Attack: and a case for a liquidation penalty in Dai](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf).
 
 ## What happens during a Liquidation?
 
-Liquidation occurs through an [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) mechanism built into the Maker Protocol.
+Liquidation occurs through an [Auction mechanism](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) built into the Maker Protocol.
 
 The simplified order of operations looks like this:
 
@@ -46,7 +46,7 @@ The simplified order of operations looks like this:
 
 For a more detailed guide on how Auctions and Keepers work see [The Auctions of the Maker Protocol](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) on our [Documentation Portal](https://docs.makerdao.com/).
 
-## How much collateral is left after a Liquidation?
+## How much Collateral is left after a Liquidation?
 
 Since Liquidations occur through [Collateral Auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#collateral-auction-collateral-sale), there is no way to accurately predict the exact amount of collateral one would receive.
 

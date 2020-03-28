@@ -54,7 +54,7 @@ Finally, there is the argument about circular financing. It stands to reason tha
 
 ## Will MKR token Dilution be able to cover all Dai if the value of their backing Collateral goes to zero?
 
-The event of a Collateral losing all value is considered a Black Swan, which is defined as unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR Dilution will always be sufficient.
+The event of a Collateral asset losing all value is considered a Black Swan, which is defined as unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR Dilution will always be sufficient.
 
 MKR Dilution can recapitalize the system to a certain limit. The severity of the situation is important to consider. If the severity of the situation is high enough, then it may be viable for MKR holders to execute an Emergency Shutdown which would result in Dai being a pro-rata claim on the Maker Protocols Collateral portfolio.
 

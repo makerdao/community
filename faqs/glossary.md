@@ -8,6 +8,10 @@
 
 ## B
 
+##### Black Swan
+
+- an unprecedented, unexpected, and catastrophic event that can result in a Collateral asset loosing a significant amount of value
+
 ## C
 
 ##### Collateral
