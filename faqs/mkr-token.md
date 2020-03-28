@@ -18,7 +18,7 @@ The token also acts as a source of recapitalization when the Maker Protocol runs
 
 ## How are MKR tokens created or destroyed?
 
-MakerDAO launched with 1,000,000 MKR tokens at its inception. The tokens are created and destroyed under different circumstances. MKR is destroyed when the Maker Protocol’s system surplus exceeds a minimum threshold, resulting in excess Dai being auctioned for MKR that is then destroyed. Inversely, when the Maker Protocol is running a deficit and the system debt exceeds a maximum threshold MKR is created and auctioned for Dai in order to recapitalize the system.
+MakerDAO launched with 1,000,000 MKR tokens at its inception. The tokens are created and destroyed under different circumstances. MKR is destroyed when the Maker Protocol’s system surplus exceeds a minimum threshold, resulting in excess Dai being auctioned for MKR that is then destroyed. Inversely, when the Maker Protocol is running a deficit and the system debt exceeds a maximum threshold, MKR is created and auctioned for Dai in order to recapitalize the system.
 
 ## What responsibilities do MKR holders have?
 
