@@ -54,4 +54,4 @@ Stability Fee changes don’t happen on a regular schedule. They happen in respo
 
 ## Where can I find more technical information about Stability Fees?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about the Stability Fee can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) Documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about the Stability Fee can be found in the [Jug - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) subsection of our Documentation Portal. Documentation about how Rates work in the Maker Protocol can be found in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section of our Documentation Portal.
