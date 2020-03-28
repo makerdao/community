@@ -18,7 +18,7 @@ Use this [CDIP template doc](https://docs.google.com/document/d/1lF8mNuomrguIS3l
 
 Below is a visual representation of our current process. Contributor steps are highlighted in green, approving group steps are highlighted in purple, and overlapping steps are highlighted in orange. A community member who acts as a Guide assists new CDIP owners in refining and bringing their CDIP towards completion by coordinating on the orange steps.
 
-![How To CDIP](contributing/CDIP Contributor highlights.jpg)
+![How To CDIP](contributing/CDIP-Contributor-highlights.jpg)
 
 ### How does a CDIP Owner ask for resources?
 
