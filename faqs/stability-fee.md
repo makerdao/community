@@ -6,7 +6,7 @@ The Maker Protocol collects a Stability Fee on Dai that is generated from [Maker
 
 ## What is the purpose of the Stability Fee?
 
-The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](vault.md). A part of the Stability Fee is also for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
+The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](vault.md). A part of the Stability Fee is also set aside for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
 
 ## When do I have to pay the Stability Fee?
 
@@ -18,13 +18,13 @@ No. Stability Fees are never applied retroactively. After a fee change, users wi
 
 ## Why does the Stability Fee Change?
 
-The Stability Fee for each [Vault](vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
+The Stability Fee for each [Vault](vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on Collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
 
 ## How is the Stability Fee calculated?
 
 The Stability Fee is continuously compounding interest at a growth rate of x% per second. When the Stability Fee is set to 2%, for example, it will be accumulating at 1.0000000006279371924910298109948‬% per second, meaning that at the end of year one the user will owe exactly 2% on the principal. Assuming the user put in 100 Dai, at the end of year one they would have 102.00, and at the end of year two, they would have 104.04.
 
-Technical documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Technical documentation about how Rates work in the Maker Protocol can be found in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section of our Documentation Portal.
 
 ## What does the system do with the collected fees?
 
@@ -42,7 +42,7 @@ There are a number of online calculators that can be found on the [Monitor Vault
 
 ## Where can I learn more about Risk Teams and how Stability Fees are determined?
 
-Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Teams and the work that they do. Additionally, documentation about their models for determining Stability Fees can be found in our [Governance Forum](https://forum.makerdao.com/), under the Risk section.
+Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Teams and the work that they do. Additionally, documentation about their models for determining Stability Fees can be found in our [Governance Forum](https://forum.makerdao.com/), under the [Risk](https://forum.makerdao.com/c/risk/) section.
 
 ## Is there a limit to how much a Stability Fee can change?
 
@@ -50,8 +50,8 @@ Yes, there is a weekly limit to how much a given Stability Fee can change, defin
 
 ## How often do Stability Fees change?
 
-Stability Fee changes don’t happen on a regular schedule. They happen in response to changing market dynamics and risks. It is not possible to give an exact answer to how often Stability fees change. Risk Teams approach any adjustments on a case-by-case basis.
+Stability Fee changes don’t happen on a regular schedule. They happen in response to changing market dynamics and risks. It is not possible to give an exact answer to how often Stability Fees change. Risk Teams approach any adjustments on a case-by-case basis.
 
 ## Where can I find more technical information about Stability Fees?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about the Stability Fee can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) Documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about the Stability Fee can be found in the [Jug - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) subsection of our Documentation Portal. Documentation about how Rates work in the Maker Protocol can be found in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section of our Documentation Portal.

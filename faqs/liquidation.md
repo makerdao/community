@@ -26,17 +26,17 @@ This is the price at which a [Vault](vault.md) becomes vulnerable to Liquidation
 
 ## What is the Liquidation Penalty?
 
-This is a fee that is paid by [Vault](vault.md) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
+This is a fee that is paid by [Vault](vault.md) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
 
 Proceeds from Liquidation Penalties are put towards the Surplus Auctions, which result in burned MKR.
 
 ## Why is the Liquidation Penalty necessary?
 
-The penalty is necessary to prevent Auction Grinding Attacks, which essentially break the [auction mechanism](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) since an attacker can exploit the Maker Protocol for profit. To read more about this attack read this paper: [The Auction Grinding Attack: and a case for a liquidation penalty in Dai](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf).
+The penalty is necessary to prevent Auction Grinding Attacks, which essentially break the [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) mechanism since an attacker can exploit the Maker Protocol for profit. To read more about this attack read this paper: [The Auction Grinding Attack: and a case for a liquidation penalty in Dai](https://github.com/livnev/auction-grinding/blob/master/grinding.pdf).
 
 ## What happens during a Liquidation?
 
-Liquidation occurs through an Auction mechanism built into the Maker Protocol.
+Liquidation occurs through an [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) mechanism built into the Maker Protocol.
 
 The simplified order of operations looks like this:
 
@@ -48,7 +48,7 @@ For a more detailed guide on how Auctions and Keepers work see [The Auctions of 
 
 ## How much collateral is left after a Liquidation?
 
-Since Liquidations occur through [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#collateral-auction-collateral-sale), there is no way to accurately predict the exact amount of collateral one would receive.
+Since Liquidations occur through [Collateral Auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#collateral-auction-collateral-sale), there is no way to accurately predict the exact amount of collateral one would receive.
 
 ## How do I calculate my Liquidation Price?
 
@@ -157,7 +157,7 @@ Remember that opening a Vault and generating Dai represents the creation of risk
 
 ## How would a flash crash affect the Liquidation of Vaults?
 
-A flash crash on a single exchange will not affect the system as each [Oracle](oracles.md) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s decentralized Oracles in the Oracle FAQ.
+A flash crash on a single exchange will not affect the system as each [Oracle](oracles.md) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s decentralized Oracles in the [Oracle FAQ](oracles.md).
 
 ## Where can I view live information about Liquidations?
 
@@ -165,4 +165,4 @@ Liquidations occur on-chain, so anyone can pull the data themselves. Several Mak
 
 ## Where can I find more technical information about Liquidations?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Liquidations can be [found here](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation) and [here.](https://docs.makerdao.com/smart-contract-modules/core-module/cat-detailed-documentation)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Liquidations can be found in the [Flipper - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation) and the [Cat - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/core-module/cat-detailed-documentation) subsections of our Documentation Portal.
