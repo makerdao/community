@@ -10,7 +10,7 @@ MKR is the governance token and recapitalization source of the Maker Protocol.
 
 ### MKR as a governance token
 
-As a governance token, MKR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the Maker Protocol like Stability Fees, the DSR, Debt Ceilings, and many others. Voting is also used to make decisions on the non-technical aspects of the protocol like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about governance in the Maker Protocol visit the [Governance FAQ](../scd-faqs/governance.md). // fix borked link
+As a governance token, MKR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the Maker Protocol like Stability Fees, the DSR, Debt Ceilings, and many others. Voting is also used to make decisions on the non-technical aspects of the protocol like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about governance in the Maker Protocol visit the [Governance FAQ](../scd-faqs/governance.md).
 
 ### MKR as a recapitalization source
 
