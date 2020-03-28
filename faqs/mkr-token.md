@@ -70,12 +70,12 @@ There is no time limit on when redemption needs to be done. It is important that
 
 In the case of an [Emergency Shutdown](emergency-shutdown.md) the system would need to be redeployed. The redeployed version of the Maker Protocol still requires MKR for voting the same as it did before.
 
-Emergency Shutdown is not necessarily indicative of an MKR dilution event. MKR Dilution occurs when the system is running a deficit and needs to be recapitalized. If the system is going through Emergency Shutdown, the price feeds and state of the system will be frozen at a particular moment in time. MKR dilution might occur in the moments preceding that if the Emergency Shutdown is due to a severe market failure that would cause many Vaults to default.
+Emergency Shutdown is not necessarily indicative of an MKR Dilution event. MKR Dilution occurs when the system is running a deficit and needs to be recapitalized. If the system is going through Emergency Shutdown, the price feeds and state of the system will be frozen at a particular moment in time. MKR Dilution might occur in the moments preceding that if the Emergency Shutdown is due to a severe market failure that would cause many Vaults to default.
 
 There are no guarantees whatsoever relating to the future value of MKR, in particular, if Emergency Shutdown happens. Additionally, MKR holders are not responsible if Dai holders take a haircut during Emergency Shutdown.
 
 ## How much MKR is there?
 
-There were 1,000,000 MKR in total at the inception of the Maker Protocol. To find out how much MKR currently exists [click here](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
+There were a total of 1,000,000 MKR at the inception of the Maker Protocol. To find out how much MKR currently exists, see the [MKR token Contract on Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2).
 
 The total number of MKR in existence can fluctuate based on how the system runs. For instance, the total supply of MKR can increase if the system is running a deficit and needs to dilute MKR as a recapitalization source. If the system is governed well, the total amount of MKR will decrease as MKR is destroyed in exchange for excess Dai from the system’s surplus.
