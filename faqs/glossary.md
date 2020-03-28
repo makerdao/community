@@ -56,6 +56,10 @@
 
 - another name for the Maker Foundation’s multisig wallet that contains MKR, which is sold for operational expenses
 
+##### Dilution
+
+- an increase in the amount of MKR in circulation resulting from a Debt Auction
+
 ## E
 
 ##### Emergency Shutdown
