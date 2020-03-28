@@ -26,7 +26,7 @@ This is the price at which a [Vault](vault.md) becomes vulnerable to Liquidation
 
 ## What is the Liquidation Penalty?
 
-This is a fee that is paid by [Vault](vault.md) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
+This is a fee that is paid by [Vault](vault.md) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
 
 Proceeds from Liquidation Penalties are put towards the Surplus Auctions, which result in burned MKR.
 

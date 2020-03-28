@@ -28,11 +28,11 @@ In Multi-Collateral Dai, accepted Collateral types are determined by MKR token h
 
 ## Who can open a Vault?
 
-This depends on the type of Vault. While some Vault types are permissionless others may carry requirements. Typically there are no requirements related to prior borrowing history or cumbersome application processes since Vaults are configured according to the risk profile of the underlying collateral that is being used. Vaults are owned by the Ethereum addresses that create them and can be transferred between wallets freely.
+This depends on the type of Vault. While some Vault types are permissionless others may carry requirements. Typically there are no requirements related to prior borrowing history or cumbersome application processes since Vaults are configured according to the risk profile of the underlying Collateral that is being used. Vaults are owned by the Ethereum addresses that create them and can be transferred between wallets freely.
 
 ## Are there fees for using a Vault?
 
-Yes. Vault owners are required to pay a [Stability Fee](stability-fee.md) on their generated Dai. The rate is expressed as an APR that compounds annually in practice. However, technically speaking the fees are continuously compounding at a growth rate of x% per year. To learn more about how rate accumulation works visit this documentation on rates.
+Yes. Vault owners are required to pay a [Stability Fee](stability-fee.md) on their generated Dai. The rate is expressed as an APR that compounds annually in practice. However, technically speaking, the fees are continuously compounding at a growth rate of x% per year. To learn more about how rate accumulation works visit this [documentation on rates](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation).
 
 If a Vault becomes undercollateralized, as specified by each Vault type’s [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio), it can be liquidated and have its assets automatically sold to cover the generated Dai. If a Vault is liquidated, a [Liquidation Penalty](liquidation.md#what-is-the-liquidation-penalty) is applied to the Generated Dai balance.
 
