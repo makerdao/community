@@ -72,4 +72,4 @@ The median of this set still reflects the real market price of the asset. Flash 
 
 ## Where can I find more technical information about Oracles?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Oracles can be [found here.](https://docs.makerdao.com/smart-contract-modules/oracle-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Oracles can be found in the [Oracle Module](https://docs.makerdao.com/smart-contract-modules/oracle-module) section of our Documentation Portal.
