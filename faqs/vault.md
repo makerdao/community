@@ -24,7 +24,7 @@ Yes. Each Collateral type may have multiple Vault types.
 
 ## What kind of Collateral can I use?
 
-In Multi-Collateral Dai, accepted Collateral types are determined by MKR token holders through the MakerDAO governance process. For a current list of Collateral types and Vault types, visit [Oasis Borrow](https://oasis.app/borrow) or other Maker Vault front-ends.
+In Multi-Collateral Dai, accepted Collateral types are determined by MKR token holders through the MakerDAO governance process. For a current list of Collateral types and Vault types, visit [Oasis Borrow](https://oasis.app/borrow) or other [Maker Vault front-ends](https://awesome.makerdao.com/#third-party-vault-portals).
 
 ## Who can open a Vault?
 
