@@ -28,13 +28,13 @@ Another important responsibility for MKR holders is to communicate publicly abou
 
 ## What voting rights do MKR holders have?
 
-MKR holders have the ability to enact technical changes to the Maker Protocol itself and also to ratify decisions on-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy, MKR voters have ultimate control. To learn more about governance in the Maker Protocol visit the [Governance FAQ](scd-faqs/governance.md).
+MKR holders have the ability to enact technical changes to the Maker Protocol itself and also to ratify decisions on-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy, MKR voters have ultimate control. To learn more about governance in the Maker Protocol visit the [Governance FAQ](../scd-faqs/governance.md). // borked link
 
-MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](./onboarding/voter-onboarding.md) for an overview of how to get started.
+MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](../onboarding/voter-onboarding.md) for an overview of how to get started. // borked link
 
 ## What addresses hold the most MKR?
 
-To see the top addresses that hold MKR [click here](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances). Some of these are not individual holders, but are smart contracts that pool together MKR. Two examples are explained below, other examples include exchange wallets and liquidity pools.
+The addresses that hold the most MKR can be viewed in the [Holders tab](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances) on [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2). Some of these are not individual holders, but are smart contracts that pool together MKR. Two examples are explained below, other examples include exchange wallets and liquidity pools.
 
 [0x8ee7d9235e01e6b42345120b5d270bdb763624c7](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2?a=0x8ee7d9235e01e6b42345120b5d270bdb763624c7) is the MakerDAO Multisig that holds undistributed MKR and is owned by the foundation. It is also referred to as the Development Fund.
 
