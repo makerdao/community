@@ -52,11 +52,11 @@ A negative feedback loop would occur in a scenario when a falling MKR price woul
 
 Finally, there is the argument about circular financing. It stands to reason that the value of MKR may be correlated to the total amount of Dai in circulation. Additional Dai generated from MKR-Vaults would create a positive feedback loop for the price of MKR, allowing even more Dai to be generated from those Vaults. This behavior adds systemic risk.
 
-## Will MKR token dilution be able to cover all Dai if the value of their backing collateral goes to zero?
+## Will MKR token dilution be able to cover all Dai if the value of their backing Collateral goes to zero?
 
-A “Black Swan” event is, by definition, unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR dilution will always be sufficient.
+The event of a Collateral losing all value is considered a "Black Swan", which is defined as unprecedented, unexpected, and catastrophic. This makes it very difficult to predict the likelihood and severity of existential threats to the system. There is no guarantee that MKR dilution will always be sufficient.
 
-MKR dilution can recapitalize the system to a certain limit. The severity of the situation is important to consider. If the severity of the situation is high enough it may be more viable for MKR holders to execute an Emergency Shutdown which would result in Dai being a pro-rata claim on the Maker Protocols collateral portfolio.
+MKR dilution can recapitalize the system to a certain limit. The severity of the situation is important to consider. If the severity of the situation is high enough, then it may be viable for MKR holders to execute an Emergency Shutdown which would result in Dai being a pro-rata claim on the Maker Protocols Collateral portfolio.
 
 ## How do I redeem old MKR?
 
