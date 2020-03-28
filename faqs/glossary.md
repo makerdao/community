@@ -172,6 +172,10 @@
 
 ## P
 
+##### Peg
+
+- shorthand for "dollar peg", referring to a fixed exchange rate with the U.S. dollar. In the Maker Protocol, Dai maintains a "soft peg" of 1 Dai to 1 U.S. dollar. The "soft peg" is maintained through a combination of supply and demand, Stability Fee, and Auction mechanism dynamics.
+
 ##### Price-Feed Delay
 
 - a risk parameter that controls the delay of the reference prices published by the Oracle system
