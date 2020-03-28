@@ -67,7 +67,7 @@ User risks can be mitigated by using small test amounts beforehand, and by thoro
 
 ## How would a flash crash affect the Liquidation of Vaults?
 
-A flash crash on a single exchange will not affect the system as each Oracle aggregates prices from many sources and uses a median for reference prices. Using a median naturally filters out broken prices, as a price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s Oracle System in the [Oracle FAQ](oracles.md).
+A flash crash on a single exchange will not affect the system as each Oracle aggregates prices from many sources and uses a median for reference prices. Using a median naturally filters out broken prices, as a price from an exchange that has experienced a flash crash. You can read more about the Maker Protocol’s Oracle System in the [Oracle FAQ](oracles.md).
 
 ## Where can I view live information about Liquidations?
 
@@ -75,4 +75,4 @@ Liquidations occur on-chain, so anyone can pull the data themselves. Several Mak
 
 ## Where can I find more technical information about Vaults?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about Vaults Fee can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) Documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about Vaults Fee can be found in the [Jug - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation) subsection of our Documentation Portal. Documentation about how Rates work in the Maker Protocol can be found in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section of our Documentation Portal.
