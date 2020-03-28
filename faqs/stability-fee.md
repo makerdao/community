@@ -6,7 +6,7 @@ The Maker Protocol collects a Stability Fee on Dai that is generated from [Maker
 
 ## What is the purpose of the Stability Fee?
 
-The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](vault.md). A part of the Stability Fee is also for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
+The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](vault.md). A part of the Stability Fee is also set aside for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
 
 ## When do I have to pay the Stability Fee?
 
