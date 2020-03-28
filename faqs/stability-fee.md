@@ -42,7 +42,7 @@ There are a number of online calculators that can be found on the [Monitor Vault
 
 ## Where can I learn more about Risk Teams and how Stability Fees are determined?
 
-Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Teams and the work that they do. Additionally, documentation about their models for determining Stability Fees can be found in our [Governance Forum](https://forum.makerdao.com/), under the Risk section.
+Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Teams and the work that they do. Additionally, documentation about their models for determining Stability Fees can be found in our [Governance Forum](https://forum.makerdao.com/), under the [Risk](https://forum.makerdao.com/c/risk/) section.
 
 ## Is there a limit to how much a Stability Fee can change?
 
