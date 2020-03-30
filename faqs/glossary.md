@@ -182,7 +182,7 @@
 
 ##### Peg
 
-- shorthand for "dollar peg", referring to a fixed exchange rate with the U.S. dollar. In the Maker Protocol, Dai maintains a "soft peg" of 1 Dai to 1 U.S. dollar. The "soft peg" is maintained through a combination of supply and demand, Stability Fee, and Auction mechanism dynamics.
+- referring to a fixed exchange rate between two given assets. In the Maker Protocol, Dai maintains a "soft peg" of 1 Dai to 1 U.S. dollar.
 
 ##### Price-Feed Delay
 
@@ -232,7 +232,7 @@
 
 ##### Soft-peg
 
-- relating the target value of a cryptocurrency to the absolute value of a fiat currency, allowing for some variance
+- relating the target value of an asset to the absolute value of a fiat currency, allowing for some variance
 
 ##### Stability Fee
 
