@@ -34,7 +34,7 @@ MKR holders who are interested in actively participating in the management of th
 
 ## What addresses hold the most MKR?
 
-The addresses that hold the most MKR can be viewed in the [Holders tab](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances) on [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2). Some of these are not individual holders, but are smart contracts that pool together MKR. Two examples are explained below, other examples include exchange wallets and liquidity pools.
+The addresses that hold the most MKR can be viewed in the [Holders tab](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances) on [Etherscan's MKR token address page.](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) Some of these are not individual holders, but are smart contracts that pool together MKR. Two examples are explained below, other examples include exchange wallets and liquidity pools.
 
 [0x8ee7d9235e01e6b42345120b5d270bdb763624c7](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2?a=0x8ee7d9235e01e6b42345120b5d270bdb763624c7) is the MakerDAO Multisig that holds undistributed MKR and is owned by the foundation. It is also referred to as the Development Fund.
 
