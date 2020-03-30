@@ -9,7 +9,7 @@ options:
    2: No
 
 ---
-# Poll: Should we initiate the shutdown of the Single Collateral Dai system through an executive vote on April 24th, 2020?
+# Poll: Should we initiate the shutdown of the SCD system through an executive vote on April 24th, 2020?
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support to initiate the shutdown of the Single Collateral Dai system through an executive vote on April 24th, 2020.
 
