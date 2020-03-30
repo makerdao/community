@@ -1,25 +1,25 @@
 ---
 title: USDC Stability Fee Adjustment - March 30, 2020
-summary: Signal your support to adjust the USDC Stability Fee within a range of 16% to 24%
+summary: Signal your support to adjust the USDC Stability Fee within a range of 12% to 20%
 discussion_link: https://forum.makerdao.com/t/1820
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
-   1: 16
-   2: 18
-   3: 19
-   4: 19.5
-   5: 19.75
-   6: 20
-   7: 20.25
-   8: 20.5
-   9: 21
-   10: 22
-   11: 24
+   1: 12
+   2: 14
+   3: 15
+   4: 15.5
+   5: 15.75
+   6: 16
+   7: 16.25
+   8: 16.5
+   9: 17
+   10: 18
+   11: 20
 ---
 # Poll: USDC Stability Fee Adjustment - March 30, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **USDC Stability Fee** options. Voters are now able to signal their support for a **USDC Stability Fee** within a range of 16% to 24%.
+The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **USDC Stability Fee** options. Voters are now able to signal their support for a **USDC Stability Fee** within a range of 12% to 20%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, March 30 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, April 3, at 4 PM UTC.
 
