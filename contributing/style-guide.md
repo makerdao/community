@@ -35,7 +35,7 @@
 #### Capitalize
 
 - Anything that has a definition provided by MakerDAO. The capitalization is an indicator to the world that it's a special term.
-    - See a list of these terms in the [Glossary of Terms](community/faqs/glossary.md)
+    - See a list of these terms in the [Glossary of Terms](../faqs/glossary.md)
 - Names and other proper nouns
 - Cities, Countries, Nationalities, and Languages
 - In titles, the first word, all nouns, all verbs, all adjectives, and all proper nouns. That means you should lowercase articles(`a`, `an`, `the`) conjunctions(`and`, `but`, etc.), and prepositions(`on`, `it`, `before`, etc.).

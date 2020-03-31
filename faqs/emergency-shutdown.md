@@ -10,13 +10,13 @@ One important security feature of the Maker Protocol is called Emergency Shutdow
 1. **Cooldown Period:** After Emergency Shutdown is activated, a time period is needed to allow any ongoing [collateral auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#collateral-auction-collateral-sale) to conclude. Once all collateral auctions finish, the system can calculate the distribution of collateral to remaining Dai in circulation.
 1. **Dai owners claim collateral:** Each Dai holder can redeem their Dai directly for a fixed amount of collateral.
 
-Technical documentation about how Emergency Shutdown works can be [found here](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) and [here.](https://docs.makerdao.com/smart-contract-modules/shutdown/end-detailed-documentation)
+Technical documentation about how Emergency Shutdown works can be found in the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) section and [End - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/shutdown/end-detailed-documentation) subsection of [MCD Docs](https://docs.makerdao.com/).
 
 ## Who can initiate Emergency Shutdown?
 
 There are two primary ways that an Emergency Shutdown could be triggered. One way is through the Emergency Shutdown Module(ESM), which allows for a shutdown to be triggered by a minimum number of MKR called the Emergency Shutdown Threshold. Emergency Shutdown may also be triggered through a regular Executive Vote, though the ESM would be a more direct method that does not have to wait for the delay period imposed by the Governance Security Module.
 
-Technical documentation about how the Governance Security Module works can be [found here.](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation)
+Technical documentation about how the Governance Security Module works can be found in the [Pause - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation) subsection of [MCD Docs](https://docs.makerdao.com/).
 
 ## When should Emergency Shutdown be used?
 
@@ -38,7 +38,7 @@ The redemption of collateral claims will occur manually. After a cooldown period
 
 ## Why is there a delay period before Dai holders can redeem collateral?
 
-When Emergency Shutdown is triggered there may still be [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) running. The delay period gives time for those auctions to settle and for the internal system balances to become final.
+When Emergency Shutdown is triggered there may still be [Auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) running. The delay period gives time for those auctions to settle and for the internal system balances to become final.
 
 ## Do both Dai holders and Vault owners need to redeem collateral?
 
@@ -103,10 +103,10 @@ Any Dai or [Vaults](vault.md) that have been stuck or lost will remain so afterw
 
 Emergency Shutdown will:
 
-- Set the [Dai Savings Rate](faqs/dsr.md) to zero.
-- Cancel or allow [auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) to finish depending on the type of auction and phase it is in.
-- Freeze [Oracle](faqs/oracles.md) price-feeds locally to the Maker Protocol.
-- No longer allow the use of [Maker Vaults](faqs/vault.md).
+- Set the [Dai Savings Rate](dsr.md) to zero.
+- Cancel or allow [Auctions](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) to finish depending on the type of auction and phase it is in.
+- Freeze [Oracle](oracles.md) price-feeds locally to the Maker Protocol.
+- No longer allow the use of [Maker Vaults](vault.md).
 
 Any applications that plug into the Maker Protocol by utilizing MakerDAO Auctions, DSR and Vaults will experience a disruption in these areas. Projects depending on the Maker Protocol’s Oracle infrastructure will not experience a disruption in service.
 
@@ -126,4 +126,4 @@ There will be notices within [all official Maker Foundation front-ends](https://
 
 ## Where can I find more technical information about Emergency Shutdown?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Emergency Shutdown can be [found here.](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation about Emergency Shutdown can be found in the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/emergency-shutdown-module) section of the Document Portal.

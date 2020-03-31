@@ -40,7 +40,7 @@ Secure Scuttlebutt is a database protocol for unforgeable append-only message fe
 
 ## Why are Oracles an attack target for malicious actors?
 
-In the Maker Protocol, if the reference price for an asset was determined by a single party, then they could fraudulently report an incorrect price and cause severe issues. For instance, if the price of ETH was reported to be fraudulently low, say $0.01, then every single ETH [Vault](vault.md) in the system would be [Liquidated](liquidation.md). On the other hand, if the price of ETH was reported to be artificially high, say $1,000,000.00, then any ETH Vault owner would be able to issue an excessive amount of Dai since the system thinks there is more collateral value than there actually is. Oracle attacks can be very profitable for a successful attacker and can be very disruptive to MakerDAO and its users.
+In the Maker Protocol, if the reference price for an asset was determined by a single party, then they could fraudulently report an incorrect price and cause severe issues. For instance, if the price of ETH was reported to be fraudulently low, say $0.01, then every single ETH [Vault](vault.md) in the system would be [Liquidated](liquidation.md). On the other hand, if the price of ETH was reported to be artificially high, say $1,000,000.00, then any ETH Vault owner would be able to issue an excessive amount of Dai since the system thinks there is more Collateral value than there actually is. Oracle attacks can be very profitable for a successful attacker and can be very disruptive to MakerDAO and its users.
 
 ## Who are the Feeds?
 
@@ -72,4 +72,4 @@ The median of this set still reflects the real market price of the asset. Flash 
 
 ## Where can I find more technical information about Oracles?
 
-Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Oracles can be [found here.](https://docs.makerdao.com/smart-contract-modules/oracle-module)
+Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol. Technical documentation of Oracles can be found in the [Oracle Module](https://docs.makerdao.com/smart-contract-modules/oracle-module) section of our Documentation Portal.

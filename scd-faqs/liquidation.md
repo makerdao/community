@@ -153,7 +153,7 @@ Users can purchase PETH that has been seized by the LPC on the dashboard. Any DA
 
 On the DAI dashboard, there is a section entitled "Total Liquidity Available from forced CDP Liquidations" where market participants can purchase seized PETH at a discount as determined by the Bust/Boom Spread.
 
-## How would a "flash crash" affect the Liquidation of CDPs?
+## How would a flash crash affect the Liquidation of CDPs?
 
 A flash crash on a single exchange will not affect the system as each Oracle aggregates prices from many exchanges. Once collected, the medianizer calculates the median of these individual feeds. You can see a graph of all the individual oracles at [https://mkr.tools/system/feeds](https://mkr.tools/system/feeds).
 
