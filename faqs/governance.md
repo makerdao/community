@@ -10,7 +10,7 @@ Governance is the process of interaction and decision-making among the stakehold
 
 In the context of MakerDAO, governance can be divided into two main parts: on-chain and off-chain.
 
-MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol’s on-chain governance system. There are two types of votes in this system, Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
+MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol's on-chain governance system. There are two types of votes in this system, Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
 
 Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](https://awesome.makerdao.com/#meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
 
@@ -19,6 +19,7 @@ Stakeholders participate in governance off-chain by engaging with the community 
 Currently, there are three types of voting that take place in Maker governance. These types of voting are ordered in terms of least to most consequential.
 
 **Forum Signal Threads**
+
 These occur off-chain on the MakerDAO [forum](https://forum.makerdao.com/). Forum signal threads measure the sentiment of the public governance community, and are used to:
 
 - Measure community sentiment about issues affecting the MakerDAO ecosystem.
@@ -26,7 +27,8 @@ These occur off-chain on the MakerDAO [forum](https://forum.makerdao.com/). Foru
 - Determine consensus for a concrete action to be taken in response to a perceived issue.
 
 **Governance Polls**
-These occur on-chain and can be accessed through the Maker Foundation’s [Voting Portal.](https://vote.makerdao.com/) Governance Polls measure the sentiment of MKR voters, and are used to:
+
+These occur on-chain and can be accessed through the Maker Foundation's [Voting Portal.](https://vote.makerdao.com/) Governance Polls measure the sentiment of MKR voters, and are used to:
 
 - Determine governance and DAO processes outside the technical layer of the Maker Protocol.
 - Form consensus on important community goals and targets.
@@ -36,7 +38,8 @@ These occur on-chain and can be accessed through the Maker Foundation’s [Votin
 - Ratify risk parameters for new collateral types as presented by Risk Teams.
 
 **Executive Votes**
-These also occur on-chain and can be accessed through the Maker Foundation’s [Voting Portal.](https://vote.makerdao.com/) Executive Votes "execute" technical changes to the Maker Protocol. When active, each Executive Vote has a proposed set of changes being made on the Maker Protocol’s smart-contracts. Unlike the other types of votes, Executive Votes use a [‘Continuous Approval Voting’](#what-is-continuous-approval-voting) model.
+
+These also occur on-chain and can be accessed through the Maker Foundation's [Voting Portal.](https://vote.makerdao.com/) Executive Votes "execute" technical changes to the Maker Protocol. When active, each Executive Vote has a proposed set of changes being made on the Maker Protocol's smart-contracts. Unlike the other types of votes, Executive Votes use a ['Continuous Approval Voting'](#what-is-continuous-approval-voting) model.
 
 Executive Votes can be used to:
 
@@ -56,7 +59,7 @@ A basic example of a forum signal thread can be found [here](https://forum.maker
 
 ## Can anyone start a forum signal thread?
 
-Yes, anyone may start these threads. Signal threads that stick to the guidelines and deal with issues that are important to the community tend to get more traction than those that don’t.
+Yes, anyone may start these threads. Signal threads that stick to the guidelines and deal with issues that are important to the community tend to get more traction than those that don't.
 
 ## What is the difference between a forum signal thread and a regular forum poll?
 
@@ -72,7 +75,7 @@ If the Governance Facilitator agrees that the issue outlined in the signal threa
 
 ## When do Governance Polls happen?
 
-A Governance Poll can be put on-chain at any time, however, the current schedule calls for polls to ‘go live’ on a weekly basis every Monday at 12pm EST.
+A Governance Poll can be put on-chain at any time, however, the current schedule calls for polls to 'go live' on a weekly basis every Monday at 12pm EST/9am PST/14:00 UTC.
 
 ## How long is the voting period of a Governance Poll?
 
@@ -80,7 +83,7 @@ The voting period of a given Governance Poll varies. Recurring polls of the same
 
 ## Where can I find on-chain Governance Polls?
 
-Live polls can be found on the [“Polling” tab](https://vote.makerdao.com/polling) in the [Governance Portal](https://vote.makerdao.com/). Historic poll data can be found at the [Maker Governance Analytics Dashboard.](https://mkrgov.science/)
+Live polls can be found on the ["Polling" tab](https://vote.makerdao.com/polling) in the [Governance Portal](https://vote.makerdao.com/). Historic poll data can be found at the [Maker Governance Analytics Dashboard](https://mkrgov.science/).
 
 User risks can be mitigated by using small test amounts beforehand, and by thoroughly checking which addresses one is interacting with.
 
@@ -90,11 +93,11 @@ Yes, anyone can create an on-chain Governance Poll using the polling smart contr
 
 ## When do Executive Votes Happen?
 
-An Executive Vote can occur at any time, however the current schedule calls for Executive Votes to go live on Fridays 12pm EST.
+An Executive Vote can occur at any time, however the current schedule calls for Executive Votes to go live on Fridays 12pm EST/9am PST/14:00 UTC
 
 ## What is Continuous Approval Voting?
 
-There are three main aspects to Continuous Approval Voting. The first is that a vote creates a barrier for new proposals, since new proposals need to surpass the voting weight of the last successful proposal. Secondly, votes are meant to remain in the system continuously in order to prevent bad proposals from passing easily. Thirdly, generally the more votes there are on the current state of the system, the more secure the system is from any “rogue” proposals.
+There are three main aspects to Continuous Approval Voting. The first is that a vote creates a barrier for new proposals, since new proposals need to surpass the voting weight of the last successful proposal. Secondly, votes are meant to remain in the system continuously in order to prevent bad proposals from passing easily. Finally, the more votes there are on the current state of the system, the more secure the system generally is from any "rogue" proposals.
 
 MKR token holders are tasked with maintaining the health of the system and the stability of the peg while defending against any proposals that seem antithetical to the prudent governance of the system. If a proposal is introduced that MKR holders recognize as beneficial, then the majority of tokens may shift to this new proposal and implement it as the new state of the system.
 
@@ -108,15 +111,15 @@ The continuity of the system is emphasized in the fact that a new proposal can b
 
 ## How Long is the Voting Period of an Executive Vote?
 
-Executive Votes presently do not conclude within a set period, which is part of the design of Continuous Approval Voting. For instance, if a vote does not garner enough votes at first, it may do so later if the proposal gains in popularity.
+Executive Votes do not conclude within a set period, which is part of the design of Continuous Approval Voting. For instance, if a vote does not garner enough votes at first, it may do so later if the proposal gains in popularity.
 
 Nonetheless, governance may propose Executive Votes that terminate after a certain amount of time.
 
 ## Can anyone start an Executive Vote?
 
-Yes, anyone can create an on-chain Executive Vote using the MakerDAO governance contracts. However, there is no non-technical UI available to do this. Users can create proposals, also known as [“Slates”](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation) through [this experimental portal](https://chief.makerdao.com/), or by interacting directly with the smart contracts.
+Yes, anyone can create an on-chain Executive Vote using the MakerDAO governance contracts. However, there is no non-technical UI available to do this. Users can create proposals, also known as ["Slates"](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation) through [this experimental portal](https://chief.makerdao.com/), or by interacting directly with the smart contracts.
 
-Executive Votes created by arbitrary Ethereum addresses will not display on the Maker Foundation’s [Governance Portal,](https://vote.makerdao.com/) only the Governance Facilitator(s) are able to put up Executive Votes that display there. However, a more [technical version of the Governance Portal](https://chief.makerdao.com/) exists that lists all proposals irrespective of who created them.
+Executive Votes created by arbitrary Ethereum addresses will not display on the Maker Foundation's [Governance Portal,](https://vote.makerdao.com/) only the Governance Facilitator(s) are able to put up Executive Votes that display there. However, a more [technical version of the Governance Portal](https://chief.makerdao.com/) exists that lists all proposals irrespective of who created them.
 
 ## Does anyone audit the code for the Executive Votes?
 
@@ -134,7 +137,7 @@ To make informed decisions, MKR token holders have a number of [resources](https
 
 These include numerous forum threads that go into the details of various issues and topics of discussion, key votes, write-ups, data dashboards, and Governance and Risk meetings.
 
-The Maker Foundation facilitates voter interaction and engagement by hosting online venues where the governance community comes together for discussion. These include the [governance forum](https://forum.makerdao.com/) and the [governance and risk call.](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles))
+The Maker Foundation facilitates voter interaction and engagement by hosting online venues where the governance community comes together for discussion. These include the [chat](https://chat.makerdao.com/channel/governance-and-risk), [governance forum](https://forum.makerdao.com/) and the [governance and risk call](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)).
 
 Due to the dynamic nature of the protocol and its governance, some resources may be outdated. For the most up-to-date information, engage in the chat, forum or governance call.
 
@@ -142,31 +145,32 @@ Due to the dynamic nature of the protocol and its governance, some resources may
 
 MKR token holders vote on system parameter changes, positional mandates, bug fixes, technical improvements to the protocol, governance-related processes, and operational spending for the system.
 
-Through Governance Polling, MKR holders are able to seek consensus on nearly anything. The first example of this was the Foundation Proposal which established the five core principles underpinning the Maker Protocol. Since then, Governance Polls have been run for questions including Stability Fees, Debt Ceilings, process changes, position mandates, and more. They often function to inform upcoming Executive Votes, as in the example of the Stability Fee polls where a SF is selected and then the adjustment needs to be passed through the following Executive Vote.
+Through Governance Polling, MKR holders are able to seek consensus on nearly anything. The first example of this was the [Foundation Proposal](./governance/core-principles.md) which established the five core principles underpinning the Maker Protocol. Since then, Governance Polls have been run for questions including Stability Fees, Debt Ceilings, process changes, position mandates, and more. They often function to inform upcoming Executive Votes, as in the example of the Stability Fee polls where a SF is selected and then the adjustment needs to be passed through the following Executive Vote.
 
 Through Executive Voting, MKR holders vote directly on changes that alter the code of the protocol itself. Examples include adding new collateral types, adding or adjusting system modules, adjusting system parameters such as Stability Fees and the DSR.
 
 ## How can I vote off-chain?
 
-Create an account at the MakerDao [forum](https://forum.makerdao.com/) and engage with Signaling Threads that are identified by the [‘signaling’ tag.](https://forum.makerdao.com/tag/signaling) MKR is not needed to participate in off-chain forum votes. These are used to measure the sentiment of the public community who are actively participating in discussions and debates surrounding important topics in Maker Protocol governance.
+Create an account at the MakerDao [forum](https://forum.makerdao.com/) and engage with Signaling Threads that are identified by the ['signaling' tag](https://forum.makerdao.com/tag/signaling). MKR is not needed to participate in off-chain forum votes. These are used to measure the sentiment of the public community who are actively participating in discussions and debates surrounding important topics in Maker Protocol governance.
 
 ## How can I vote on-chain?
 
-To vote on-chain MKR must be owned by or delegated to the voter. A voting contract can be set up by following the setup instructions on the Maker Foundation’s [Governance portal](https://vote.makerdao.com/). Once set up, voting on-chain is enabled.
+To vote on-chain MKR must be owned by or delegated to the voter. A voting contract can be set up by following the setup instructions on the Maker Foundation's [Governance portal](https://vote.makerdao.com/). Once set up, voting on-chain is enabled.
 
-## How does the Maker Foundation’s Voting Portal work?
+## How does the Maker Foundation's Voting Portal work?
 
-The portal provides voters with a user-friendly interface to interact with the Maker Protocol’s voting mechanism. To vote, one must set up their voting contract by connecting with their hot or cold wallet and following the provided set up instructions.
+The portal provides voters with a user-friendly interface to interact with the Maker Protocol's voting mechanism. To vote, one must set up their voting contract by connecting with their hot or cold wallet and following the provided set up instructions.
 
 ## What is a Voting Contract?
 
 The Voting Contract is the on-chain voting mechanism built directly into the Maker Protocol. To vote, MKR owners must "lock-up" tokens by transferring them into the Voting Contract. "Locked" MKR can be withdrawn at any time.
+
 MKR token holders have the option to set up their Voting Contract with a single hot or cold wallet, or, as a linked wallet, as a more secure option. The linked wallet setup allows users to vote using a hot wallet, with MKR stored on a cold wallet.
 Setting up a Voting Contract is a one-time action as long as the same wallet or wallets are used in future voting. However, to use a different hot or cold wallet, the contract can be discontinued and set up again at any time.
 
 ## How do I know my vote was placed?
 
-The voter’s current vote is displayed on a given proposal page in the [voting portal](https://vote.makerdao.com/). Another alternative is to check third-party tools like [mkrgov.science](https://mkrgov.science) that collect voting data and even offer a [voting history lookup tool](https://mkrgov.science/voting-history).
+The voter's current vote is displayed on a given proposal page in the [voting portal](https://vote.makerdao.com/). Another alternative is to check third-party tools like [mkrgov.science](https://mkrgov.science) that collect voting data and even offer a [voting history lookup tool](https://mkrgov.science/voting-history).
 
 ## If a vote has already started can I still participate?
 
@@ -182,11 +186,11 @@ Voting is weighted by the amount of MKR that votes for a proposal. For example, 
 
 ## What are the different ways to set up the Voting Contract?
 
-One may choose to set up voting with a single wallet or voting with a linked wallet.
+One may choose to [set up voting](./onboarding/voter-onboarding.md) with a single wallet or voting with a linked wallet.
 
 ## What does voting with a linked wallet do for me?
 
-Voting with a linked wallet allows an MKR holder to vote with a hot wallet using the MKR stored in a cold wallet. The linked setup does not allow the MKR to be transferred to any address apart from the cold wallet. A voter can avoid the need to directly access their cold wallet, making it more convenient and secure to participate. If a voter’s hot wallet is compromised, the attacker may vote with their MKR, but will not be able to steal it.
+Voting with a [linked wallet](./onboarding/voter-onboarding.md#voting-wallet-setups) allows an MKR holder to vote with a hot wallet using the MKR stored in a cold wallet. The linked setup does not allow the MKR to be transferred to any address apart from the cold wallet. A voter can avoid the need to directly access their cold wallet, making it more convenient and secure to participate. If a voter's hot wallet is compromised, the attacker may vote with their MKR, but will not be able to steal it.
 
 ## When setting up a linked wallet, what permissions am I granting?
 
@@ -208,19 +212,19 @@ In Maker Governance, MKR voters will lock up their tokens in order to give their
 
 It takes five separate transactions to set up the voting contract.
 
-1. Initiate link: The first step is to specify which wallet to use as the hot wallet. This transaction is called "Initiate link" and must come from the cold wallet. This transaction is meant to prove the voter’s control of the cold wallet, and specify which wallet to use as their hot wallet.
-1. Approve link:  Next, it is time to specify and prove control of the hot wallet and create the link between the two wallets with the "Approve link" transaction. This action will also create a personalized voting contract that the voter can manage.
-1. Approve MKR transfer :  Once the link between the cold and hot wallets has been created, the voter must approve their MKR to be transferred to the voting contract.
-1. Approve IOU transfer :  After approving the MKR to be transferred to the voting contract, another approval is required to transfer [IOU tokens](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation#1-introduction-summary).
-1. Lock MKR : The last step transfers MKR to the voting contract to specify the voting weight. This step can be repeated at any time to "top up" the contract with additional MKR.
+1. **Initiate link:** The first step is to specify which wallet to use as the hot wallet. This transaction is called "Initiate link" and must come from the cold wallet. This transaction is meant to prove the voter's control of the cold wallet, and specify which wallet to use as their hot wallet.
+1. **Approve link:**  Next, it is time to specify and prove control of the hot wallet and create the link between the two wallets with the "Approve link" transaction. This action will also create a personalized voting contract that the voter can manage.
+1. **Approve MKR transfer :**  Once the link between the cold and hot wallets has been created, the voter must approve their MKR to be transferred to the voting contract.
+1. **Approve IOU transfer :**  After approving the MKR to be transferred to the voting contract, another approval is required to transfer [IOU tokens](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation#1-introduction-summary).
+1. **Lock MKR :** The last step transfers MKR to the voting contract to specify the voting weight. This step can be repeated at any time to "top up" the contract with additional MKR.
 
 ## When setting up a single wallet, how many transactions do I have to sign?
 
 It takes three separate transactions to set up a single-wallet voting contract.
 
-1. Approve MKR transfer : This allows MKR to be transferred to the voting contract.
-1. Approve IOU transfer : After approving the MKR to be transferred to the voting contract, another approval is required to transfer [IOU tokens](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation#1-introduction-summary).
-1. Lock MKR : The last step transfers MKR to the voting contract to specify the voting weight. This step can be repeated at any time to "top up" with additional MKR.
+1. **Approve MKR transfer :** This allows MKR to be transferred to the voting contract.
+1. **Approve IOU transfer :** After approving the MKR to be transferred to the voting contract, another approval is required to transfer [IOU tokens](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation#1-introduction-summary).
+1. **Lock MKR :** The last step transfers MKR to the voting contract to specify the voting weight. This step can be repeated at any time to "top up" with additional MKR.
 
 ## What happens to my MKR when I am voting?
 
@@ -228,11 +232,11 @@ MKR is locked in the Voting Contract that was set up by the voter. This MKR is o
 
 ## How do I know my MKR is in the Voting Contract?
 
-When connecting the voting wallet to the Maker Foundation’s [governance portal](https://vote.makerdao.com/), the front page displays the amount of MKR in the voting contract. Likewise, voters are able to see and manage the amount of MKR in their voting contract by clicking the voting contract tab at the top of the portal.
+When connecting the voting wallet to the Maker Foundation's [governance portal](https://vote.makerdao.com/), the front page displays the amount of MKR in the voting contract. Likewise, voters are able to see and manage the amount of MKR in their voting contract by clicking the voting contract tab at the top of the portal.
 
 ## How do I withdraw my MKR from the voting contract?
 
-There is an option to withdraw MKR in the Voting Contract manager that is found in the Maker Foundation’s [governance portal](https://vote.makerdao.com/).
+There is an option to withdraw MKR in the Voting Contract manager that is found in the Maker Foundation's [governance portal](https://vote.makerdao.com/).
 
 ## How does a withdrawal affect my previous votes?
 
@@ -250,7 +254,7 @@ No, MKR that is locked in the voting contract cannot move without first being wi
 
 ## What happens if I send more MKR to my cold wallet after I link it?
 
-MKR sent to the cold wallet will exist outside of the voting contract until the user decides to manually add MKR into the contract using the “top-up” feature. This option is found in the "Voting Contract" tab in the Maker Foundation’s [governance portal.](https://vote.makerdao.com/)
+MKR sent to the cold wallet will exist outside of the voting contract until the user decides to manually add MKR into the contract using the "top-up" feature. This option is found in the "Voting Contract" tab in the Maker Foundation's [governance portal.](https://vote.makerdao.com/)
 
 ## Can I break the link between my hot and cold wallet?
 
@@ -259,10 +263,6 @@ Yes. There is an option to break the wallet link by going to the Governance port
 ## Can I combine more than one address holding MKR to vote?
 
 No, currently a voting contact can only be funded by one address.
-
-## How are proposals created?
-
-Currently, anyone with a technical understanding of the voting system can create a proposal, however the Foundation does not display all proposals on the Governance Portal, though they are seen on the alternative, more technical, portal [found here.](https://chief.makerdao.com/)
 
 ## Where can I find more technical information about the Maker Protocol Governance mechanism?
 
