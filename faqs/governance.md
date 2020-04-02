@@ -202,7 +202,7 @@ Yes. As all voting occurs on-chain, there are gas costs associated with each tra
 
 ## When setting up a linked wallet, how much gas will I need and which wallet does it come from?
 
-The set-up takes four transactions. The transactions involve both hot and cold wallets, so both wallets should contain an ETH balance for gas. Visiting [ETHGasStation] (https://ethgasstation.info/) can help with estimating gas costs.
+The set-up takes four transactions. The transactions involve both hot and cold wallets, so both wallets should contain an ETH balance for gas. Visiting [ETHGasStation](https://ethgasstation.info/) can help with estimating gas costs.
 
 ## What are IOU Tokens?
 
