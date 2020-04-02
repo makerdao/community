@@ -63,6 +63,7 @@
     - [DSR](faqs/dsr.md)
     - [Emergency Shutdown](faqs/emergency-shutdown.md)
     - [Glossary of Terms](faqs/glossary.md)
+    - [Governance](faqs/governance.md)
     - [Liquidation](faqs/liquidation.md)
     - [MKR Token](faqs/mkr-token.md)
     - [Oracles](faqs/oracles.md)

@@ -26,7 +26,7 @@ Examples of attacks on the system include hacking or security breaches of the sm
 
 Examples of significant economic issues include the scenario of a severely broken peg (as decided by MKR voters), and other market scenarios if they pose a significant and real threat to a majority of users.
 
-An example of a major technical upgrade that will warrant an Emergency Shutdown is the upgrade to Multi Collateral Dai, as a method to shut down Single Collateral Dai after the transition period. Governance is encouraged to avoid Emergency Shutdown unless absolutely necessary. Technical upgrades of a smaller scale can be done without Emergency Shutdowns.
+An example of a major technical upgrade that will warrant an Emergency Shutdown is the upgrade to Multi Collateral Dai, as a method to shut down Single Collateral Dai after the transition period. [Governance](governance.md) is encouraged to avoid Emergency Shutdown unless absolutely necessary. Technical upgrades of a smaller scale can be done without Emergency Shutdowns.
 
 ## Does hitting a Debt Ceiling warrant an Emergency Shutdown?
 
@@ -116,7 +116,7 @@ Yes, an Emergency Shutdown has been [performed](https://www.reddit.com/r/MakerDA
 
 ## How was testing for Emergency Shutdown done?
 
-Emergency Shutdown was originally introduced and tested with the Sai prototype deployments. Besides the tests in the code itself, there were three live runs, all of which happened on deployments of the Sai prototype on the Ethereum mainnet.
+Emergency Shutdown was originally introduced and tested with the Sai prototype deployments. Besides the tests in the code itself, there were three live runs, all of which happened on deployments of the Sai prototype on the Ethereum Mainnet.
 
 For Multi-Collateral Dai, the Maker Foundation performed shutdowns on both Kovan and Mainnet deployments of MCD as well as unit tests.
 
