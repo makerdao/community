@@ -67,6 +67,15 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 
 ## Writer Guidelines
 
+:exclamation: **Please Note:**
+
+1. When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.
+1. Run all drafts through [Grammarly](https://app.grammarly.com/) regularly and before final submissions.
+    - Grammarly catches most spelling and grammatical errors.
+    - HackMD does not identify spelling and grammatical errors. 
+        - Copy text from the rendered preview into Grammarly and address any errors it flags.
+        - Grammarly will miss errors if it’s given raw Markdown text.
+
 ### General Rules
 
 **Use:**
@@ -91,8 +100,6 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Footnotes.
 - References to [Purple Paper](https://makerdao.com/purple/) names.
     - **Examples:** Flip, Flap, Flop, etc.
-
-***Note:** Run all drafts through [Grammarly](https://app.grammarly.com/) before submission. Grammarly will catch most spelling and grammatical errors.*
 
 ### Cases
 
@@ -329,8 +336,6 @@ Review the [contributor resources](readme.md) before starting work on any MakerD
     - Set achievable deadlines.
     - Assign and divide tasks with other contributors. 
         - Multiple contributors should not start work on similar projects individually.
-
-***Note:** When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.*
 
 #### Track Progress
 
