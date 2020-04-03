@@ -67,11 +67,13 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 
 ## Writer Guidelines
 
-:exclamation: **Please Note:**
+:exclamation: **Please Note**
 
 1. When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.
 1. Run all drafts through [Grammarly](https://app.grammarly.com/) regularly and before final submissions.
-    - Grammarly catches most spelling and grammatical errors.
+    - Grammarly will catch most spelling and grammatical errors.
+        - Review the suggestions to make sure they make sense.
+        - **Do not blindly accept Grammarly edits.**
     - HackMD does not identify spelling and grammatical errors. 
         - Copy text from the rendered preview into Grammarly and address any errors it flags.
         - Grammarly will miss errors if it’s given raw Markdown text.
