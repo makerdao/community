@@ -46,14 +46,17 @@ However, the unusual circumstances left some vaults with less residual collatera
 
 **If this poll is decided as "No" then no further effort need be spent on a more exact estimate of vault holder losses.**
 
-If this poll is decided as "Yes" then:
+If this poll is decided as "Yes" then another on-chain poll will be held to decide whether the compensation (amount to be determined) will be denominated in Dai or the collateral asset that was liquidated.
 
-* Another on-chain poll will be held to decide whether the compensation (amount to be determined) will be denominated in Dai or the collateral asset that was liquidated.
-* An accurate estimate of the compensation amount for each affected vault shall be determined. To analyze the data, approx 2000 DAI (a week of analyst time) shall be requisioned. All vaults affected by suboptimal Maker/Ethereum performance are eligible for consideration, whether collateral was liquidated at zero or at some other level. Liquidated vaults that paid back debt or deposited additional collateral are also eligible. The estimate shall include sufficient documentation to facilitate replication.
+### Rough Outline of Next Next Steps
 
-Once an accurate estimate of compensation has been determined, another poll will be needed to determine the X% haircut parameter.
+**If this poll is decided as "No" then no further effort need be spent on mapping out the next next steps.** Therefore, the following is offered as a hand-wavy, possible process that will be refined due to the need for numerous stakeholders, both inside and outside the Foundation, to align. Despite the inherant uncertainty, a possible path toward compensating vault holders is important to start thinking about **now** before we commit to doing it.
 
-Vault holder compensation will be paid for with additional flop auctions. Once money is available, the assets will be put into a contract that vault holders can withdraw from. To withdraw, vault holders will need to browse to a web page where they agree to indemnify Maker and affiliates against any potential legal claims for their loss. The assets will be available for vault holders to claim for 30 days. After 30 days, the assets shall be converted back to DAI and deposited into the Maker system surplus account.
+> An accurate estimate of the compensation amount for each affected vault shall be determined. To analyze the data, approx 2000 DAI (a week of analyst time) shall be requisioned. All vaults affected by suboptimal Maker/Ethereum performance are eligible for consideration, whether collateral was liquidated at zero or at some other level. Liquidated vaults that paid back debt or deposited additional collateral are also eligible. The estimate shall include sufficient documentation to facilitate replication.
+>
+> Once an accurate estimate of compensation has been determined, another poll will be needed to determine the X% haircut parameter.
+>
+> Vault holder compensation will be paid for with additional flop auctions. Once money is available, the assets will be put into a contract that vault holders can withdraw from. To withdraw, vault holders will need to browse to a web page where they agree to indemnify Maker and affiliates against any potential legal claims for their loss. The assets will be available for vault holders to claim for 30 days. After 30 days, the assets shall be converted back to DAI and deposited into the Maker system surplus account.
 
 ---
 
