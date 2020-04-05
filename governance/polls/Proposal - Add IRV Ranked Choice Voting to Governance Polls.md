@@ -20,7 +20,7 @@ This proposal was discussed in the [forums](https://forum.makerdao.com/t/1274). 
 
 ## Next Steps
 
-* If this proposal passes, all future governance polls will allow for ranked choice voting.
+* If this proposal passes, the governance portal development team will begin work on adding support for instant run-off ranked choice voting to the governance portal. Once development is completed, any future poll author will have the option to run the poll as ranked choice.
 
 ---
 
