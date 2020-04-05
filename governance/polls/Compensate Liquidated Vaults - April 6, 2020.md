@@ -28,8 +28,9 @@ However, the unusual circumstances left some vaults with less residual collatera
 ### Arguments for compensation
 
 * The protocol performed in a sub-optimal manner. Users (i.e. vault holders) were injured. It is in the interest of Maker holders to try to make their users happy. The purpose of the MKR token is to insure against precisely this kind of failure.
-* Set the precedent that vault holders will be treated fairly, encouraging DAI creation.
+* No compensation may represent a distortion of symmetry and reciprocity i.e. the impression that we’re marketing the product and receiving the reward for growth of the platform, but leaving ecosystem/development risk entirely to the user. This could negatively impact reputation and future mass adoption.
 * Avoid bad press and acrimonious gestures.
+
 
 ### Arguments against compensation
 
