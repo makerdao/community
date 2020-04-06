@@ -17,7 +17,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
-From March 12-19, ETH (and BAT) suffered a quick drop. This created enormous network traffic. During some spans of time, the Maker price oracle failed to update due to unexpectedly high gas prices. Keepers bidding on auctions also had trouble with gas prices and with a lack of DAI liquidity. Many auctions settled with ETH valued at 0 DAI, or at far less than the market price. 
+From March 12-19, ETH (and BAT) suffered a quick drop. This created enormous network traffic. During some spans of time, the Maker price oracle failed to update due to unexpectedly high gas prices. Keepers bidding on auctions also had trouble with gas prices and with a lack of DAI liquidity. Many auctions settled with ETH valued at 0 DAI, or at far less than the market price.
 
 Most of these losses were absorbed by the Maker protocol and have been recapitalized via Flop auctions. However, vault owners also suffered some losses.
 
