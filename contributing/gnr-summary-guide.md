@@ -61,7 +61,6 @@ This is the general structure of the document. #h refers to the heading type. He
 #h1 Title: Ep00: Month 00, 0000
   ├ ##h2 Agenda
   ├ ##h2 Video
-  ├ ##h2 Terms
   ├ ##h2 Main Theme (Risk, Oracles, Governance, etc.)
   | └ ###h3 Name of person presenting
   |     ├ #####h4 Specific Subject
@@ -72,6 +71,7 @@ This is the general structure of the document. #h refers to the heading type. He
   |     └ #####h4 Discussion & Questions 2
   ├ ##h2 General Questions and Discussions
   ├ ##h2 Relevant Resources and Links mentioned in the call
+  ├ ##h2 Terms
   ├ ##h2 Credits
 
 ```
