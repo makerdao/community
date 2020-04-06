@@ -1,6 +1,7 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 83: Mar 26, 2020](episode-82.md)
+- [Episode 84: Apr 02, 2020](episode-84.md)
+- [Episode 83: Mar 26, 2020](episode-83.md)
 - [Episode 82: Mar 24, 2020](episode-82.md)
 - [Episode 81: Mar 20, 2020](episode-81.md)
 - [Episode 80: Mar 19, 2020](episode-80.md)
