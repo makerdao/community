@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Add IRV Ranked Choice Voting to Governance Polls - April 6, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support for adding instant run-off (IRV) ranked choice voting support to future governance polls. 
+The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support for adding instant run-off (IRV) ranked choice voting support to future governance polls. 
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, April 6.
 
