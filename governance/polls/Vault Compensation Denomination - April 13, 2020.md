@@ -21,6 +21,8 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 When vaults are liquidated, assets are sold for DAI to repay the debt. Any remaining assets are returned to the vault. In brief, in ordinary circumstances, vault holders would receive the type of asset that was originally held in the vault. However, for Maker to provide compensation in the original token, Maker would have to accept the liability of the token appreciating vs DAI prior to when the compensation can be paid out. Do we accept this liability or will we provide compensation in DAI (the DAI value of the residual collateral at the time of liquidation)?
 
+For example, suppose an ETH vault was liquidated when ETH was trading at 90 DAI/ETH. Liquidation is triggered when the collateral ratio falls below 150%. Due to volatile markets, the collateral ratio fell to 130%. Suppose 10 ETH was locked in the vault (with a debt of 692 DAI). After the 13% liquidation penalty, the vault owes 782 DAI. All of the ETH is auctioned off at 0 DAI/ETH. The debt of 692 DAI was repaid by flop auctions. If this poll decides that the compensation shall be in ETH then this vault holder could expect a remaining balance of at most 1.3 ETH (117 DAI divided by 90 DAI/ETH). If this poll decides tha the compensation shall be in DAI then this vault holder could expect a remaining balance of at most 117 DAI (regardless of the today's DAI/ETH rate).
+
 ### More background discussion
 
 * [Signal Thread: Do we compensate vault holders that were completely liquidated?](https://forum.makerdao.com/t/1713/43)
