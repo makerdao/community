@@ -49,7 +49,7 @@ Completing a contribution is defined by four steps:
     * [Propose initiatives with a Community Development Initiative Proposal (CDIP)](./contributor-onboarding-guide.md)
     * [Apply for a Development Grant for a Large Project](../grants/README.md)
 * Signal interest to the particular opportunity as a comment on the Forum Post, Github Issue, or [#community-development chat channel.](https://chat.makerdao.com/channel/community-development)
-* If a contribution does not fall within these scopes, enquire in the [#community-development chat channel.](https://chat.makerdao.com/channel/community-development)
+* If a contribution does not fall within these scopes, discuss personal interests and relevant skills to the Contributing Team to help determine a well-suited project.
 
 ### Approve
 
