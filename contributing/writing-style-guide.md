@@ -23,14 +23,15 @@ In addition to this guide, Writers are encouraged to study the [contributor reso
 ### Guidelines
 
 - [General Rules](#writer-guidelines)
+- [Abbreviations](#abbreviations)
+- [Acronyms & Decades](#acronyms-and-decades)
 - [Cases](#cases)
+- [Currencies](#currencies)
 - [Naming Conventions](#naming-conventions)
 - [Numbers](#numbers)
-- [Currencies](#currencies)
-- [Acronyms & Decades](#acronyms-and-decades)
 - [Lists](#lists)
 - [Links](#links)
-- [Table of Contents](#toc)
+- [Table of Contents](#tables-of-content)
 
 ### Markdown
 
@@ -102,6 +103,29 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Footnotes.
 - References to [Purple Paper](https://makerdao.com/purple/) names.
     - **Examples:** Flip, Flap, Flop, etc.
+- Parentheses for stating additional information.
+    - **Incorrect:** Development Grants are larger sized ($5,000 to $50,000) grants aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
+    - **Correct:** Development Grants are generally larger sized grants, ranging from $5,000 to $50,000, aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
+
+### Abbreviations
+
+- Use parentheses to define abbreviated terms the first time in a given document.
+    - **Example:** A Community Development Initiative Proposal (CDIP) is a proposal framework to support new initiatives and to expand the scope of existing ones.
+- Use "Comm-Dev" as the shortened version of "Community Development."
+
+### Acronyms and Decades
+
+Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at the end.
+
+**Acronyms**
+- To make an acronym plural:
+    - **Correct:** SCDs
+    - **Incorrect:** SCD's
+
+**Decades**
+- To indicate a decade:
+    - **Correct:** 1990s
+    - **Incorrect:** 1990's
 
 ### Cases
 
@@ -118,6 +142,20 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
       - **Articles:** a, an, the, etc.
       - **Conjunctions:** and, but, etc.
       - **Prepositions:** on, it, before, etc.
+
+### Currencies
+
+The examples below use dollars, but the same rules apply to all global currencies.
+
+- Use lowercase except when writing "US Dollar.”
+- Use figures and the \"$" sign in all except casual references, or amounts without a figure.
+    - **Standard:** "The book costs \$4."
+    - **Casual:** "Please give me a dollar."
+- For amounts under \$1 million, follow this format:
+    - **Correct:** \$4, \$25, \$500, \$1,000, \$650,000.
+- For amounts over \$1 million, use the word, not numerals. 
+    - **Correct:** "He is worth \$4 million."
+    - **Incorrect:** "He is worth \$4,000,000."
 
 ### Naming Conventions
 
@@ -142,10 +180,6 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Use "Maker" for casual references to MakerDAO and the Maker Protocol as a whole.
 - Always distinguish the Maker Foundation from MakerDAO.
 
-#### Community Development
-
-- Use "Comm-Dev" as the shortened version of "Community Development."
-
 ### Numbers
 
 - Spell out numbers below 10.
@@ -154,34 +188,6 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - For numbers with million, billion, or trillion, use figures in all except casual cases.
     - **Standard:** "The nation has 1 million citizens."
     - **Casual:** "I'd like to make a billion dollars."
-
-### Currencies
-
-The examples below use dollars, but the same rules apply to all global currencies.
-
-- Use lowercase except when writing "US Dollar.”
-- Use figures and the \"$" sign in all except casual references, or amounts without a figure.
-    - **Standard:** "The book costs \$4."
-    - **Casual:** "Please give me a dollar."
-- For amounts under \$1 million, follow this format:
-    - **Correct:** \$4, \$25, \$500, \$1,000, \$650,000.
-- For amounts over \$1 million, use the word, not numerals. 
-    - **Correct:** "He is worth \$4 million."
-    - **Incorrect:** "He is worth \$4,000,000."
-
-### Acronyms and Decades
-
-Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at the end.
-
-**Acronyms**
-- To make an acronym plural:
-    - **Correct:** SCDs
-    - **Incorrect:** SCD's
-
-**Decades**
-- To indicate a decade:
-    - **Correct:** 1990s
-    - **Incorrect:** 1990's
 
 ### Lists
 
@@ -224,7 +230,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
   es: faqs/es/cdp.md#qué-son-las-posiciones-de-deuda-colateralizadascdp
   ko: faqs/ko/cdp.md#부채-담보부-포지션collateralized-debt-positions-cdp이란-무엇인가요```
 
-### TOC
+### Tables of Content
 
 - Include a table of contents for documents that span several pages and multiple sections.
 - Use the raw Markdown from the [Table of Contents](#table-of-contents) above as a template.
