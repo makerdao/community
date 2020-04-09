@@ -11,7 +11,7 @@ options:
 ---
 # Vault Compensation Denomination Poll - April 13, 2020
 
-The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community which the community can use to signal whether to move ahead with a plan to provide compensation to vault holders.
+The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community which the community can use to signal whether to provide compensation to vault holders in the vault's token (ETH/BAT) or in DAI
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for 7 days beginning on Monday, April 13 at 4 PM UTC.
 
