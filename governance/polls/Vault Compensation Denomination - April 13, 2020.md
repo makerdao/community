@@ -25,9 +25,9 @@ Arguments for compensation in ETH/BAT:
 - Least surprising to vault owners
 - Avoids the risk that vault owners feel cheated, compromising the objectives of compensation: happy users, no distortion of symmetry, positive impact on reputation, and future mass adoption.
 Arguments for compensation in DAI (the DAI value of the residual collateral at the time of liquidation):
-- Most likely, both BAT and ETH will have appreciated since the liquidation event. Compensation in DAI avoids DAI/ETH and DAI/BAT volatility risk and will almost certainly result in a smaller payout.
+- Most likely, both BAT and ETH will have appreciated since the liquidation event. Therefore, a nominal 100% payout will almost certainly result in less value than would be obtained by payment in ETH/BAT. However, the payout amount could be adjusted to approximate the amount of appreciation in the planned subsequent poll.
 - The complexity of conducting the compensation is reduced since fewer tokens are involved.
-- The amount of compensation can later be fixed to a number in DAI without worrying about the DAI value of ETH and BAT.
+- Compensation in DAI avoids DAI/ETH and DAI/BAT volatility risk. The amount of compensation can be fixed to a number in DAI without worrying about the DAI value of ETH and BAT.
 
 To further clarify, we present an example. Suppose there was a vault with 10 ETH of collateral and 692 DAI of debt. The vault came under liquidation when the collaterallization ratio fell to 130% (instead of the requisite 150%) at the price of 90 DAI/ETH.
 
@@ -52,7 +52,7 @@ There are two possible scenarios:
 
 ## Next Steps
 
-This poll does not determine the amount of compensation. An accurate estimate of compensation shall be determined by some other process. The amount of compensation will be further refined by another poll; we might pay 100% of the compensation or some other percentage (e.g. 50%). Another poll will be needed to determine a X% haircut parameter.
+This poll does not determine the amount of compensation. An accurate estimate of compensation shall be determined by some other process. The amount of compensation will be further refined by another poll; we might pay 100% of the compensation or some other percentage (e.g. 50% or 200%). Another poll will be needed to determine a X% haircut/multipler parameter.
 
 ---
 
