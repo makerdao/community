@@ -34,7 +34,7 @@ There are now two possible scenarios:
    - To provide compensation, Maker would have to purchase this ETH at the current market rate
   
 2. **If this poll decides that the compensation shall be in DAI**
-   - This vault holder could expect a remaining balance of at most 118 DAI
+   - This vault holder could expect a compensation of at most 118 DAI
    - Regardless of the today's DAI/ETH rate
 
 ### More background discussion
