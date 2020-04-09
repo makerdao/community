@@ -52,7 +52,7 @@ There are two possible scenarios:
 
 ## Next Steps
 
-This poll does not determine the amount of compensation. An accurate estimate of compensation shall be determined by some other process. The amount of compensation will be further refined by another poll; we might pay 100% of the compensation or some other percentage (e.g. 50% or 200%). Another poll will be needed to determine a X% haircut/multipler parameter.
+This poll does not determine the amount of compensation. An accurate estimate of compensation shall be determined by some other process. The amount of compensation will be further refined by another poll; we might pay 100% of the compensation or some other percentage (e.g. 50% or 200%). Another poll will be needed to determine a X% haircut/multiplier parameter.
 
 ---
 
