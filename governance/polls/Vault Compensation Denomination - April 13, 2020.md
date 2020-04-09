@@ -19,6 +19,12 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 [An initial poll on whether to compensate vault holders has passed.](https://vote.makerdao.com/polling-proposal/qmwfvvguaf8rz8xwgv2cqnzzt9t5h6epzh17qmk2ue99y4)
 
+This poll follows from the previous and offers the choice in the nature of said compensation namely (ETH/BAT) or DAI.
+Main arguments for compensation in ETH: 
+- ETH compensation pegs compensation to the asset that vault owners would have had the protocol not performed in a sub-optimal manner. Therefore it avoids the risk that compensation occurs, but users feel cheated and the objectives of compensation (happy users, no distortion of symmetry, positive impact on reputation and future mass adoption) still not be achieved.
+Main arguments for compensation in DAI: 
+- Compensation in DAI would be a lower compensation value since the value of ETH in DAI terms has appreciated after the liquidation event.
+
 When vaults are liquidated, assets are sold for DAI to repay the debt. Any remaining assets are returned to the vault. In brief, in ordinary circumstances, vault holders would receive the type of asset that was originally held in the vault. However, for Maker to provide compensation in the original token, Maker would have to accept the liability of the token appreciating vs DAI prior to when the compensation can be paid out. Do we accept this liability or will we provide compensation in DAI (the DAI value of the residual collateral at the time of liquidation)?
 
 For example, suppose there was a vault with 10 ETH of collateral and 692 DAI of debt. The vault came under liquidation when the collaterallization ratio fell to 130% (instead of the requisite 150%) at the price of 90 DAI/ETH.
