@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/1822
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
-   1: the asset that was liquidated (ETH or BAT)
+   1: ETH or BAT (the asset that was liquidated) 
    2: DAI
 
 ---
