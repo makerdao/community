@@ -24,6 +24,7 @@ This poll poses the choice of which token will be used to compensate, namely ETH
 Arguments for compensation in ETH/BAT:
 - Least surprising to vault owners
 - Avoids the risk that vault owners feel cheated, compromising the objectives of compensation: happy users, no distortion of symmetry, positive impact on reputation, and future mass adoption.
+
 Arguments for compensation in DAI:
 - Most likely, both BAT and ETH will have appreciated since the liquidation event. Therefore, a nominal 100% payout will almost certainly result in less value than would be obtained by payment in ETH/BAT. However, the payout amount could be adjusted to approximate the amount of appreciation in the planned subsequent poll.
 - The complexity of conducting the compensation is reduced since fewer tokens are involved.
