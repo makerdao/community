@@ -24,7 +24,7 @@ This poll poses the choice of which token will be used to compensate, namely ETH
 Arguments for compensation in ETH/BAT:
 - Least surprising to vault owners
 - Avoids the risk that vault owners feel cheated, compromising the objectives of compensation: happy users, no distortion of symmetry, positive impact on reputation, and future mass adoption.
-Arguments for compensation in DAI (the DAI value of the residual collateral at the time of liquidation):
+Arguments for compensation in DAI:
 - Most likely, both BAT and ETH will have appreciated since the liquidation event. Therefore, a nominal 100% payout will almost certainly result in less value than would be obtained by payment in ETH/BAT. However, the payout amount could be adjusted to approximate the amount of appreciation in the planned subsequent poll.
 - The complexity of conducting the compensation is reduced since fewer tokens are involved.
 - Compensation in DAI avoids DAI/ETH and DAI/BAT volatility risk. The amount of compensation can be fixed to a number in DAI without worrying about the DAI value of ETH and BAT.
@@ -38,11 +38,11 @@ At the time of liquidation, 10 ETH sold at 90 DAI/ETH would have yielded 900 DAI
 There are two possible scenarios:
 
 1. **If this poll decides that the compensation shall be in ETH**
-   - This vault holder could expect a compensation of at most 1.3 ETH
+   - This vault holder could expect a compensation scaled by 1.3 ETH
    - To provide compensation, Maker would have to purchase this ETH at the current market rate
   
 2. **If this poll decides that the compensation shall be in DAI**
-   - This vault holder could expect a compensation of at most 118 DAI
+   - This vault holder could expect a compensation scaled by 118 DAI
    - Today's DAI/ETH rate is immaterial
 
 ### More background discussion
