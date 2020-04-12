@@ -1,5 +1,18 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 84: Apr 02, 2020](episode-84.md)
+- [Episode 83: Mar 26, 2020](episode-83.md)
+- [Episode 82: Mar 24, 2020](episode-82.md)
+- [Episode 81: Mar 20, 2020](episode-81.md)
+- [Episode 80: Mar 19, 2020](episode-80.md)
+- [Episode 79: Mar 18, 2020](episode-79.md)
+- [Episode 78: Mar 17, 2020](episode-78.md)
+- [Episode 77: Mar 12, 2020](episode-77.md)
+- [Episode 76: Mar 05, 2020](episode-76.md)
+- [Episode 75: Feb 27, 2020](episode-75.md)
+- [Episode 74: Feb 20, 2020](episode-74.md)
+- [Episode 73: Feb 13, 2020](episode-73.md)
+- [Episode 72: Feb 06, 2020](episode-72.md)
 - [Episode 71: Jan 30, 2020](episode-71.md)
 - [Episode 70: Jan 23, 2020](episode-70.md)
 - [Episode 69: Jan 16, 2020](episode-69.md)

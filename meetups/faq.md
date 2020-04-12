@@ -21,6 +21,10 @@ Absolutely. This initiative is meant for first-time organizers and aims to give 
 
 You may seek additional help or advice in our [#community-development](https://chat.makerdao.com/channel/community-development) chat.
 
+## Should I record the talks and take photos of the event?
+
+ Yes, absolutely. One of the best things you can do to improve the impactfulness of your event is by creating and sharing pictures and videos. Recording the talks and hosting them on online can be a very effective way of providing a referenceable resource for others in your local community to share between each other and even with friends of neighboring cities and countries. Media provides very useful learning resources, gives you something you can send to people remotely, and generally gives you a larger reach.
+
 ## Can I organize more than one meetup group?
 
 We provide funding for one event at a time. Each following grant requires that the organizer fill out a feedback form about the previous event.

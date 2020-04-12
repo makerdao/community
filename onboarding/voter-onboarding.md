@@ -2,6 +2,8 @@
 
 Ready to participate in MakerDAO Governance? An active community of voters is critical to the health and security of the MakerDAO ecosystem. This guide outlines the conceptual and practical basics of getting started with voting in MakerDAO.
 
+![](assets/voter/1a.png)
+
 ## Why should MKR holders vote?
 
 MakerDAO relies on its governance community to manage the Maker Protocol.
@@ -46,7 +48,7 @@ A collection of sources and materials useful for MKR voters:
 
 - [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
 - [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)
+- [Governance FAQ](./faqs/governance.md)
 
 ## Governance Polling vs. Executive Voting
 

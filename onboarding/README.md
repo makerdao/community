@@ -5,7 +5,7 @@ Welcome to the community-built User Onboarding Guides: a place that teaches new 
 ## Available Guides
 
 - Learn to use Dai (_coming soon™️_).
-- Learn to use a Vault (_coming soon™️_).
+- [Learn to use a Vault.](vault-onboarding.md)
 - [Learn to vote and participate in Maker Governance.](voter-onboarding.md)
 
 ## What are we trying to accomplish?

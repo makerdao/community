@@ -26,7 +26,7 @@ Please [join us](https://calendar.google.com/calendar/embed?src=makerdao.com_3ef
 - What are our values? Where is our common ground?
 - How do we measure positive and negative externalities?
 - What is risk? How do we measure and manage it?
-- What does Gradual Decentralisation look like?
+- What does Gradual Decentralization look like?
 - How to we foster healthy debate?
 - Establish some base principles around Governance and Risk. What is, how it works, etc.
 - Discuss the latest documents published by the Risk team

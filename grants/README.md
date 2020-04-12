@@ -1,6 +1,6 @@
 # Grants Program
 
-***Please Note: The grants program is not accepting new applications as we work through a larger than normal backlog of proposals. The program will re-open on February 1, 2020.***
+***Please Note: The grants program is not accepting new applications as we work through a larger than normal backlog of proposals. The program will re-open on June 1, 2020.***
 
 The MakerDAO Community grants program is designed to directly support projects that increase Dai adoption, support emerging economies, open up new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation. We allocate grants in the range of 5K - 50K Dai. We distribute blocks of funds as teams reach predetermined milestones.
 

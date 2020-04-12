@@ -2,7 +2,15 @@
 
 ## A
 
+##### Auction
+
+- a public sale of digital assets to the highest bidder for the purpose of maintaining the stability of the Maker Protocol. The three different types of auctions are Collateral Auction, Debt Auction, and Surplus Auction. An external actor that bids in an Auction is called a Keeper.
+
 ## B
+
+##### Black Swan
+
+- an unprecedented, unexpected, and catastrophic event that can result in a Collateral asset loosing a significant amount of value
 
 ## C
 
@@ -51,6 +59,10 @@
 ##### Development Fund
 
 - another name for the Maker Foundation’s multisig wallet that contains MKR, which is sold for operational expenses
+
+##### Dilution
+
+- an increase in the amount of MKR in circulation resulting from a Debt Auction
 
 ## E
 
@@ -144,13 +156,13 @@
 
 ##### MCD
 
-- acronym for Multi Collateral Dai
+- acronym for Multi-Collateral Dai
 
 ##### MKR
 
 - governance token of MakerDAO
 
-##### Multi Collateral Dai
+##### Multi-Collateral Dai
 
 - the upgraded Maker Protocol that facilitates the use of multiple collateral types in Vaults
 
@@ -167,6 +179,10 @@
 - a security mechanism that delays and publishes the reference price produced by the Oracle System
 
 ## P
+
+##### Peg
+
+- referring to a fixed exchange rate between two given assets. In the Maker Protocol, Dai maintains a "soft peg" of 1 Dai to 1 U.S. dollar.
 
 ##### Price-Feed Delay
 
@@ -208,15 +224,15 @@
 
 ##### SCD
 
-- acronym for Single Collateral Dai
+- acronym for Single-Collateral Dai
 
-##### Single Collateral Dai
+##### Single-Collateral Dai
 
 - the former version of the Maker Protocol which solely accepted ETH as collateral
 
 ##### Soft-peg
 
-- relating the target value of a cryptocurrency to the absolute value of a fiat currency, allowing for some variance
+- relating the target value of an asset to the absolute value of a fiat currency, allowing for some variance
 
 ##### Stability Fee
 
@@ -240,13 +256,13 @@
 
 - a core component of the Maker Protocol that facilitates the creation of Dai against locked up collateral, there are different Vault types users can utilize
 
-##### Voting Contract
-
-- a smart-contract that allows MKR holders to vote with their tokens
-
 ##### Vote Proxy Contract
 
 - a smart-contract that makes linked wallet voting possible, allowing MKR token holders to vote with their hot wallets using MKR that is stored on their cold wallets
+
+##### Voting Contract
+
+- a smart-contract that allows MKR holders to vote with their tokens
 
 ## W
 
