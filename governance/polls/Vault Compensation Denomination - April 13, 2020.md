@@ -39,7 +39,7 @@ At the time of liquidation, 10 ETH sold at 90 DAI/ETH would have yielded 900 DAI
 There are two possible scenarios:
 
 1. **If this poll decides that the compensation shall be in ETH**
-   - This vault holder could expect a compensation scaled by 1.3 ETH
+   - This vault holder could expect a compensation of 1.3 ETH (or a scaled multiple of it, e.g. 1.1x or 0.9x)
    - To provide compensation, Maker would have to purchase this ETH at the current market rate
   
 2. **If this poll decides that the compensation shall be in DAI**
