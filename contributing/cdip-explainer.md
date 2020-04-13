@@ -50,7 +50,7 @@ For help finding a CDIP to contribute to, ask in the [#community-development](ht
 
 - **CDIP Owner**: Creator of the CDIP and the driver of the project. Sets all contributor roles, goals, timelines, and expectations. Can lead meetings or communications.
 - **Contributing Team**: Contributes responsibilities or expertise to the owner, or lead.
-- **Guide**: Supportive role that can help scope, follow up, brainstorm, test, and keep Community Development abreast of communications and project updates.
+- **Advisor**: Supportive role that can help scope, follow up, brainstorm, test, and keep Community Development abreast of communications and project updates.
 - **Approving Group**: Evaluator(s) reviewing and approving CDIPs. Details below.
 
 ### What is the “Approving group” and who are its members?
