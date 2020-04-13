@@ -51,6 +51,7 @@
       - [Episode 60: Nov 07, 2019](governance/governance-and-risk-meetings/summaries/episode-60.md)
     - [Transcripts](governance/governance-and-risk-meetings/transcripts/README.md)
   - [Frequent Discussion Topics](governance/common-topics.md)
+  - [Auditing Executive Spells](governance/executive-audit.md)
   - [FAQ](faqs/governance.md)
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
