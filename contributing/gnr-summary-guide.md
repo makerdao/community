@@ -105,32 +105,34 @@ This is the general structure of the document. #h refers to the heading type. He
 
 ### Special Language Rules
 
-In standardizing the rules around contributing, the community maintains a [writing-style-guide](https://community-development.makerdao.com/contributing/style-guide) that contains all the rules for consistent language, grammar, and formatting. Below are the rules most relevant to these summaries:
+In standardizing the rules around contributing, the community maintains a [writing-style-guide](./writing-style-guide.md) that contains all the rules for consistent language, grammar, and formatting. Below are the rules most relevant to these summaries:
 
-- Please follow the [Naming Convention guidelines](./contributing/style-guide#naming-conventions) found in the writing style guide.
+- Please follow the [Naming Convention guidelines](./writing-style-guide#naming-conventions) found in the writing style guide.
 - Use short, concise sentences. The balance is to use the least words for the most comprehensive coverage of what the speakers are saying.
 - Use [oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - Capitalize names of people and online handles.
-- Capitalize and use backticks for any [specific system parameters:](https://docs.makerdao.com/other-documentation/system-glossary)
+- Capitalize and use backticks for any [specific system parameters:](../faqs/glossary)
     - For example,`` `flop` ``, `` `bite` ``, `` `vow` ``, `` `kick` ``, etc.
-- Do not use backticks when referring to [generalized system language.](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
+- Do not use backticks when referring to [generalized system language.](../faqs/glossary)
     - For example, Stability Fee, Debt Ceiling, Debt Auction, Vault ETH-A, etc.
 - When referencing material inside the summary itself, please use "below" and "above" language.
 
 ### Screenshot Best Practices
 
-The Governance Calls often have visual presentations. The most efficient way to capture these is through screenshots, and add elaborating notes below the image if necessary. The recommended software below should keep the last screenshot in your clipboard as a copied image. In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you([see example.](![](https://i.imgur.com/nNBR9UT.png)))
+The Governance Calls often have visual presentations. The most efficient way to capture these is through screenshots, and add elaborating notes below the image if necessary. The recommended software below should keep the last screenshot in your clipboard as a copied image. In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you:
+
+![see example.](https://i.imgur.com/nNBR9UT.png)
 
 - For PCs: Download [Puush](https://puush.me/) or [ShareX](https://getsharex.com/) and create a hotkey for "Region Screenshot."
 - For Mac: [Katana](https://github.com/bluegill/katana) is a simple, open-source screenshot utility for macOS that lives in your menu-bar. It does 90% of ShareX, but it's Imgur link needs formatting in HackMD after pasting.
 
 ### Tips
 
-- Consult the [Writer Style Guide](./contributing/style-guide.md) and [Reviewer Guides](./contributing/reviewer-guide.md) for additional helpful information.
+- Consult the [Writer Style Guide](./writing-style-guide.md) and [Reviewer Guides](./reviewer-guide.md) for additional helpful information.
 - Read for clarity before rewatching. While doing so, edit for low hanging fruit: readability, spelling or grammar mistakes, and formatting errors.
 - Rewatch at a comfortable playback speed; speeds up to 2x are available on YouTube.
 - Use [Grammarly](https://app.grammarly.com/) to help you find missed mistakes once you are done with your section.
-- Use a Linter in VSCode to find formatting errors. For more information on linters, consult the [Contributor Tools Guide](./contributing/contributor-tools/#VSCode)
+- Use a Linter in VSCode to find formatting errors.
 - Take screenshots that are readable.
 - Don't duplicate information already presented on slides. Focus on the additional points being made during presentations that include slides.
 - Conversations may be hard to transcribe in the moment so do your best.

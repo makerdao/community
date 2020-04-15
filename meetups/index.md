@@ -25,7 +25,7 @@ Maker is only as strong as its community. By hosting a meetup you can help build
 
 This program is an important initiative of the Maker Foundation. We offer a [micro-granting program](./requesting-funds.md) to help fund local community meetups.
 
-Additionally, we're working with the community to actively build a collection of guides to help anyone host their own meetup. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), an [Event Formats Guide](event-formats-guide.md), and [a collection of sample presentations.](./assets/slides)
+Additionally, we're working with the community to actively build a collection of guides to help anyone host their own meetup. Currently, these include a [Getting Started Guide](./getting-started-guide.md), [Budget Guide](./budget-guide.md), [Promotion Guide](./promotion-guide.md), an [Event Formats Guide](./event-formats-guide.md), and [a collection of sample presentations.](./assets/slides)
 
 ## Is this for me?
 
@@ -49,9 +49,9 @@ We want to improve the depth and quality of the resources available to meetup or
 
 Ready to start planning your meetup? We've created a [guide](./getting-started-guide.md) to help you get started.
 
-If you're seasoned or want to wing it, here's the information on [requesting funds](https://community-development.makerdao.com/meetups/requesting-funds). Our Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
+If you're seasoned or want to wing it, here's the information on [requesting funds](./requesting-funds). Our Micro-grant [applications](https://airtable.com/shr4HOtcZ8o3VZmek) are open.
 
-Interested in contributing to the Hosting Guides? Learn how in our [contributing section](../contributing/README.md).
+Interested in contributing to the Hosting Guides? Learn how in our [contributing section](../contributing/index.md).
 
 ## Status
 

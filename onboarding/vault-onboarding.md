@@ -12,11 +12,11 @@ The Maker Vault is a core component of the Maker Protocol, which facilitates the
 
 Vault usage collectively alters the total supply of Dai. Users create Dai by generating it against their collateral and in-turn destroy Dai when repaying their generated Dai balance. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
-Vaults are not free to use and come with inherent risks. Generating Dai requires the payment of [Stability Fees](faqs/stability-fee.md)(SF.) The SF is a variable rate and is subject to change based on the decisions of MKR Token holders through [voting](faqs/governance.md). To reclaim collateral, users must repay the previously generated Dai and the accumulated SF.
+Vaults are not free to use and come with inherent risks. Generating Dai requires the payment of [Stability Fees](../faqs/stability-fee.md)(SF.) The SF is a variable rate and is subject to change based on the decisions of MKR Token holders through [voting](../faqs/governance.md). To reclaim collateral, users must repay the previously generated Dai and the accumulated SF.
 
-Vaults are required to be overcollateralized and have a [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio) that Vault owners need to uphold to avoid the [Liquidation](liquidation.md) of their Vaults. What a Vault is liquidated, a [Liquidation Penalty](faqs/liquidation.md#what-is-the-liquidation-penalty) is applied, and collateral is sold to repay the Vault's outstanding Dai balance. Additionally, a [Debt Ceiling](#what-is-a-debt-ceiling) is imposed globally on the Maker Protocol, as well as individually on each Vault type.
+Vaults are required to be overcollateralized and have a [Liquidation Ratio](../faqs/liquidation.md#what-is-the-liquidation-ratio) that Vault owners need to uphold to avoid the [Liquidation](../faqs/liquidation.md) of their Vaults. What a Vault is liquidated, a [Liquidation Penalty](../faqs/liquidation.md#what-is-the-liquidation-penalty) is applied, and collateral is sold to repay the Vault's outstanding Dai balance. Additionally, a [Debt Ceiling](#what-is-a-debt-ceiling) is imposed globally on the Maker Protocol, as well as individually on each Vault type.
 
-For more information, visit the [Vault FAQ](faqs/vault.md).
+For more information, visit the [Vault FAQ](../faqs/vault.md).
 
 ### Why Open a Vault?
 
@@ -55,7 +55,7 @@ The Oasis Borrow Dashboard appears once a wallet is connected. Any existing Vaul
 
 ![Oasis Borrow Dashboard](assets/vault/5.png)
 
-The top right-hand panel displays information about the connected wallet, including token balances. The menu below lists information about the global state of Vaults and [the prices of relevant assets.](./faqs/oracles.md)
+The top right-hand panel displays information about the connected wallet, including token balances. The menu below lists information about the global state of Vaults and [the prices of relevant assets.](../faqs/oracles.md)
 
 ![Wallet Information Panel](assets/vault/6.png)
 ![Global System Information Panel](assets/vault/7.png)
@@ -66,7 +66,7 @@ To open a new Vault, click “Get Started” on the dashboard.
 
 ![Get Started](assets/vault/8.png)
 
-Select a collateral type for this Vault. Make note of the information about the [Stability Fee](./faqs/stability-fee.md), [Liquidation Ratio](./faqs/liquidation.md#what-is-the-liquidation-ratio), and [Liquidation Penalty](./faqs/liquidation.md#what-is-the-liquidation-penalty). These are important risk parameters which you should understand as well as be able to apply to your specific situation. When ready, click “Continue.”
+Select a collateral type for this Vault. Make note of the information about the [Stability Fee](../faqs/stability-fee.md), [Liquidation Ratio](../faqs/liquidation.md#what-is-the-liquidation-ratio), and [Liquidation Penalty](../faqs/liquidation.md#what-is-the-liquidation-penalty). These are important risk parameters which you should understand as well as be able to apply to your specific situation. When ready, click “Continue.”
 
 ![Select a Collateral Type](assets/vault/9.png)
 
@@ -115,7 +115,7 @@ Check the preview to make sure the Vault's new terms are acceptable. Click "Gene
 
 ### Adding Collateral
 
-Adding Collateral is useful in two scenarios. The first is when a Vault is coming close to being [liquidated](faqs/liquidation.md), adding collateral can save the Vault. The second is when a Vault owner wants to increase their capacity for generating Dai, adding collateral will increase the maximum amount of Dai that can be generated.
+Adding Collateral is useful in two scenarios. The first is when a Vault is coming close to being [liquidated](../faqs/liquidation.md), adding collateral can save the Vault. The second is when a Vault owner wants to increase their capacity for generating Dai, adding collateral will increase the maximum amount of Dai that can be generated.
 
 To add collateral, click “Deposit” from the dashboard and fill in the desired amount.
 
@@ -125,7 +125,7 @@ Check the preview to make sure the Vault's new terms are acceptable. Click “De
 
 ### Paying Back Dai
 
-Paying back Dai is useful in a number of situations. Similarly to adding collateral, paying back Dai is a [more efficient](faqs/liquidation.md#how-do-i-lower-my-liquidation-price) way to save a Vault from liquidation. Additionally, paying back Dai is especially appropriate when a Vault owner thinks the Stability Fee is too high and wants to decrease the size of their position, the Vault is no longer needed, or when collateral needs to be freed.
+Paying back Dai is useful in a number of situations. Similarly to adding collateral, paying back Dai is a [more efficient](../faqs/liquidation.md#how-do-i-lower-my-liquidation-price) way to save a Vault from liquidation. Additionally, paying back Dai is especially appropriate when a Vault owner thinks the Stability Fee is too high and wants to decrease the size of their position, the Vault is no longer needed, or when collateral needs to be freed.
 
 To pay back Dai, click “Pay back” from the dashboard to bring up the menu below. Please note that when paying back Dai for the first time, a one-time transaction to unlock it needs to occur. Clicking the “Unlock DAI to Continue” switch above the "Pay back" button will bring up this transaction.
 
@@ -178,11 +178,11 @@ Refer to the [Oasis Terms of Service](https://oasis.app/terms) for relevant lega
 Refer to the links below for more information about Vaults and getting started with Oasis Borrow:
 
 - [Awesome MakerDao Resource Repository](https://awesome.makerdao.com/)
-- [Dai FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
-- [Emergency Shutdown FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
-- [Liquidation FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
-- [Stability Fees FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee)
-- [Vaults FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault)
+- [Dai FAQ](../faqs/dai.md)
+- [Emergency Shutdown FAQ](../faqs/emergency-shutdown.md)
+- [Liquidation FAQ](../faqs/liquidation.md)
+- [Stability Fees FAQ](../faqs/stability-fee.md)
+- [Vaults FAQ](../faqs/vault.md)
 
 _This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. You should consult your own advisers as to those matters.
 Charts and images provided within are for informational purposes solely and should not be relied upon when making any financial decisions. Any projections, estimates, forecasts, targets, prospects, and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others._

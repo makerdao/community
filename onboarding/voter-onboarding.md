@@ -14,8 +14,7 @@ Voting takes place frequently and requires a governance community who is activel
 
 For more information, visit:
 
-- [Governance FAQ](https://github.com/makerdao/community/blob/master/faqs/governance.md#governance)
-- [Governance: Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)
+- [Governance FAQ](../faqs/governance.md)
 - [What is DAI Governance? - DAI Beginner Series](https://youtu.be/QHmNf_YROQU)
 
 ## Information and Participation
@@ -31,7 +30,7 @@ Matters are brought into the Governance Portal following community consensus as 
 
 Weekly public Governance and Risk calls offer another valuable source of information for voters. These calls are organized and hosted by MakerDAO’s Interim Governance Facilitator and explore a broad range of themes ranging from establishing core principles to discussing the latest publications from Risk Teams, governance proposals, analysis of Dai, etc.
 
-Community members and other stakeholders are encouraged to explore the archived [summaries](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries), [transcripts](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts), [video recordings](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), and [audio recordings](https://soundcloud.com/makerdao/sets/governance-and-risk) of previous meetings. The Governance and Risk meeting is a place for discussion and overview of current matters and does not function as a committee that makes decisions. Information about the schedule for Governance and Risk calls can be found [on this public calendar URL](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FNew_York), which also includes scheduled proposals and votes.
+Community members and other stakeholders are encouraged to explore the archived [summaries](../governance-and-risk-meetings/summaries), [transcripts](../governance-and-risk-meetings/transcripts), [video recordings](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), and [audio recordings](https://soundcloud.com/makerdao/sets/governance-and-risk) of previous meetings. The Governance and Risk meeting is a place for discussion and overview of current matters and does not function as a committee that makes decisions. Information about the schedule for Governance and Risk calls can be found [on this public calendar URL](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FNew_York), which also includes scheduled proposals and votes.
 
 ## Resources
 
@@ -40,19 +39,14 @@ A collection of sources and materials useful for MKR voters:
 ### Essential:
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
-- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts) | [Summaries](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts)
+- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](///governance/governance-and-risk-meetings/transcripts/) | [Summaries](../governance/governance-and-risk-meetings/summaries/)
 - [Ratified Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c)
 - [Voting Tutorial Video](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
-
-### Additional:
-
-- [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
-- [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](./faqs/governance.md)
+- [Governance FAQ](../faqs/governance.md)
 
 ## Governance Polling vs. Executive Voting
 
-There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#what-is-continuous-approval-voting).
+There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](../faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](../faqs/governance#what-is-continuous-approval-voting).
 
 Governance Polls cover topics like rate adjustments, priorities for including new assets into the system, governance process changes, and mandates for new roles. Polls often run concurrently, allowing voters to participate in any number of them at the same time. Successful Governance Polls advance to the next stage of the governance process to undergo an Executive Vote. While poll results do not enact hard changes to the Maker Protocol, they play a vital role in how governance moves forward. Poll outcomes provide insight into voters’ preferences.
 

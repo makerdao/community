@@ -38,5 +38,4 @@ Every contributor arrives at Community Development in their own way, but here is
     * Browse through the latest contributing opportunities at [GitHub Issues with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) and [Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
     * Explore the [CDIP Explainer process](./cdip-explainer.md), which outlines the process for proposing new ideas and initiatives.
 * Join the [#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat to express interest.
-* Start with the [Contributor Onboarding Guide](./contributor-onboarding-guide.md) to understand the structure and logic behind contributing to Community Development.
-* Read through the various [Contributor Guides](./contributing.md) to get familiar with Comm-Dev’s tools and best practices.
+* Read through the various Contributor Guides in this section to get familiar with Comm-Dev’s tools and best practices.

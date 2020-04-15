@@ -22,9 +22,9 @@ A [Community Development Initiative Proposal (CDIP)](./cdip-explainer.md) is a p
 
 There are two different kinds of grants; meetup grants and development grants.
 
-[Meetup Grants](../meetups/README.md) are micro-grants that support passionate people who organize meetups aimed at expanding the community by educating people about topics around DeFi, MakerDAO, and Dai.
+[Meetup Grants](../meetups/index.md) are micro-grants that support passionate people who organize meetups aimed at expanding the community by educating people about topics around DeFi, MakerDAO, and Dai.
 
-[Development Grants](../grants/README.md) are larger sized grants, typically between $5,000 to $50,000, aimed at individuals or teams building projects around Dai and the larger MakerDAO ecosystem.
+[Development Grants](../grants/index.md) are larger sized grants, typically between $5,000 to $50,000, aimed at individuals or teams building projects around Dai and the larger MakerDAO ecosystem.
 
 ## How does it work?
 
@@ -38,16 +38,16 @@ Completing a contribution is defined by four steps:
 ### Find
 
 * Explore ways to contribute:
-    * [Build Onboarding Guides](./onboarding/README.md)
-    * [Organize a Meetup](../meetups/README.md)
-    * [Improve Meetup Guides](../meetups/README.md)
-    * [Add or Update to MakerDAO FAQs](../makerdao-mcd-faqs/README.md)
-    * [Translate MakerDAO Resources](../translations/README.md)
+    * [Build Onboarding Guides](../onboarding/index.md)
+    * [Organize a Meetup](../meetups/index.md)
+    * [Improve Meetup Guides](../meetups/index.md)
+    * [Add or Update to MakerDAO FAQs](../faqs/index.md)
+    * [Translate MakerDAO Resources](../translations/index.md)
     * [Write Risk & Governance Meeting Summaries](./gnr-summary-guide.md)
     * [Curate Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao)
     * [Explore open bounties with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) or [Browse Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
-    * [Propose initiatives with a Community Development Initiative Proposal (CDIP)](./contributor-onboarding-guide.md)
-    * [Apply for a Development Grant for a Large Project](../grants/README.md)
+    * [Propose initiatives with a Community Development Initiative Proposal (CDIP)](./earn-as-a-contributor.md)
+    * [Apply for a Development Grant for a Large Project](../grants/index.md)
 * Signal interest to the particular opportunity as a comment on the Forum Post, Github Issue, or [#community-development chat channel.](https://chat.makerdao.com/channel/community-development)
 * If a contribution does not fall within these scopes, discuss personal interests and relevant skills to the Contributing Team to help determine a well-suited project.
 
@@ -57,7 +57,7 @@ Completing a contribution is defined by four steps:
 
 ### Work
 
-* Follow best practices that can be found in the [Contributor Onboarding Guide.](./contributor-onboarding-guide.md)
+* Follow best practices that can be found in the [Writing Style Guide.](./writing-style-guide.md)
 * Define and talk to stakeholders early on.
 * Communicate work in progress, blockers, and other updates regularly.
 * Don’t hesitate to ask for help for feedback in the [#community-development chat Channel.](https://chat.makerdao.com/channel/community-development)

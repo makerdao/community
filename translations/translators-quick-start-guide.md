@@ -14,7 +14,7 @@ Their responsibility is to:
 - **Be consist:** Ensure terms are translated uniformly across all documents.
 - **Maintain simplicity:** Writing should be plain, simple, and accessible. Maintain contact with other translators as they work on documents. Be sure to agree on translated terms and other conventions.
 - **Format consistently:** Ensure that translated documents retain original formatting.
-- **Adhere to the [Style Guide](../contributing/style-guide.md)**
+- **Adhere to the [Writing Style Guide](../contributing/writing-style-guide.md)**
 
 ## Language
 
@@ -25,7 +25,7 @@ There’s an English glossary of [MakerDAO terms](../faqs/glossary.md) which one
 ## Best Practices
 
 - **Use Markdown:** All documents are formatted in Markdown. They contain headers, lists, links, tables, etc. Information about Markdown can be found on [Wikipedia](https://en.wikipedia.org/wiki/Markdown). Alternatively, this [cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good reference.
-- **Maintain Original Formatting:** Refer to the [style guide](../contributing/style-guide.md).
+- **Maintain Original Formatting:** Refer to the [style guide](../contributing/writing-style-guide.md).
 - **Use a Markdown Editor:** Editors like [hackmd.io](https://hackmd.io/) or [VScode](https://code.visualstudio.com/) make working with Markdown more convenient.
 - **Keep Hyperlinks as they are:** Do not translate them. The editors will handle any necessary changes to links.
 - **Take notes:** of the specific things you would like editors to keep in mind.

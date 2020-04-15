@@ -145,7 +145,7 @@ https://youtu.be/hlnUWTc5oYo
     - LongForWisdom: Just more foundation interaction. We have good technical roadmaps, but the governance is up in the air.
     - Cyrus: A lot of the operational procedures are still underspecified at this point, it will show up in due time. Making this easy for users is going to be the bulk of the front-end and documentation work.
     - Rich: It's not satisfying, but now the chance for ES to happen is more realistic. The community will need to use this as motivation. We can't lose momentum in clarifying the details around ES.
-    - Derek: We are working on UI for accessing collateral for ES. It will be a component of the [migration app](migrate.makerdao.com) that users can interact with. Nothing to show here yet. In the new year, we'll have something for the UI(better than the CLI). At a certain point, we'll present that here.
+    - Derek: We are working on UI for accessing collateral for ES. It will be a component of the [migration app](https://migrate.makerdao.com) that users can interact with. Nothing to show here yet. In the new year, we'll have something for the UI(better than the CLI). At a certain point, we'll present that here.
 
 ## Risk
 

@@ -2,7 +2,7 @@
 
 ## What is a CDIP ?
 
-CDIP stands for Community Development Initiative Proposal. The CDIP is the scoping and framing tool for for anyone interested in contributing to the MakerDAO community initiatives or resources. CDIPs are used to propose new initiatives or expand the scope of [existing initiatives and resources](../README.md). A proposal should combine the contributor’s ideas, skills, and abilities with our shared goal of improving the resources available to the MakerDAO community.
+CDIP stands for Community Development Initiative Proposal. The CDIP is the scoping and framing tool for for anyone interested in contributing to the MakerDAO community initiatives or resources. CDIPs are used to propose new initiatives or expand the scope of [existing initiatives and resources](../index.md). A proposal should combine the contributor’s ideas, skills, and abilities with our shared goal of improving the resources available to the MakerDAO community.
 
 After starting a CDIP, the owner is responsible for sharing it with the community for feedback. There is a dedicated Guide that is assigned to help a CDIP Owner through the approval process. Once approved, work can be started on the new or expanded initiative.
 
@@ -69,7 +69,7 @@ The approving group is a mix of Maker Foundation employees and seasoned contribu
 - If a CDIP requires work before it is approved, like a design or some light dev work, communicate this to the CDIP Guide or approving group members.
 - Expect 1-3 hours of time to frame and flesh out the idea before paid, approved work begins.
 - Create a contingency plan for cases that would increase the required resources, and add them to the CDIP.
-- Bring your friends and colleagues to help.  Use the various resources found in the [contributing section](./README.md) of the community development portal.
+- Bring your friends and colleagues to help.  Use the various resources found in the [contributing section](./index.md) of the community development portal.
 
 #### Don’t
 

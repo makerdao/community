@@ -1,6 +1,6 @@
 # MakerDAO FAQs
 
-> Notice: You are reading the Single-Collateral Dai version of these FAQs. For the up-to-date versions, visit [this page.](/faqs/readme.md)
+> Notice: You are reading the Single-Collateral Dai version of these FAQs. For the up-to-date versions, visit [this page.](../faqs/)
 
 - [CDP Calculator](https://docs.google.com/spreadsheets/d/1AdDOW1maMmVkSBQwzS-9mkkAKIjOvU8CO8rfNYqxNt0)
 - [Glossary of Terms](glossary.md)

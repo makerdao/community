@@ -2,7 +2,7 @@
 
 Reviewers are responsible for editing and maintaining MakerDAO’s Community Development resources. Writers and contributors are all welcome to assume the Reviewer role.
 
-This guide introduces the review process and outlines editing standards. MakerDAO expects its Writers and Reviewers to adhere to the principles described within this guide and all other Comm-Dev [contributor guides](readme.md).
+This guide introduces the review process and outlines editing standards. MakerDAO expects its Writers and Reviewers to adhere to the principles described within this guide and all other Comm-Dev [contributor guides](index.md).
 
 ***Note:** Reviewers should be comfortable working with Google Docs, Markdown on HackMD, and GitHub.*
 
@@ -10,7 +10,7 @@ This guide introduces the review process and outlines editing standards. MakerDA
 
 The Reviewer roles for Community Development projects are divided into three categories.
 
-- **Tone | Grammar:** This type of Reviewer assesses content and resources for tone and consistency and ensures that all documents adhere to the [Writing Style Guide](style-guide.md). 
+- **Tone | Grammar:** This type of Reviewer assesses content and resources for tone and consistency and ensures that all documents adhere to the [Writing Style Guide](writing-style-guide.md). 
     - *This role does not require in-depth knowledge about MakerDAO.*
 - **Content | Concepts:** This type of Reviewer edits content and makes sure that any ideas presented are factual and easy to comprehend.
     - *Content Reviewers should have a deeper understanding of MakerDAO and its functions.*
@@ -19,10 +19,10 @@ The Reviewer roles for Community Development projects are divided into three cat
 
 ## General Expectations
 
-***Note:*** *The Reviewer’s top priority is to make sure that concepts are clearly expressed, and that the writing and tone adhere to the [Writing Style Guide](style-guide.md).*
+***Note:*** *The Reviewer’s top priority is to make sure that concepts are clearly expressed, and that the writing and tone adhere to the [Writing Style Guide](writing-style-guide.md).*
 
 - Reviewers should be proficient writers with some background knowledge of cryptocurrencies and MakerDAO.
-- They should be familiar with the Comm-Dev [contributor guides](readme.md).
+- They should be familiar with the Comm-Dev [contributor guides](index.md).
 - By and large, all contributors should focus on effective collaboration.
 
 The guideline below offers general advice to ease the Reviewer's work process.
@@ -35,7 +35,7 @@ The guideline below offers general advice to ease the Reviewer's work process.
     - Live on GitHub
 - Give existing documents a full read-through before starting work.
 - When possible, improve the clarity and presentation of the material.
-- Check for and correct any typos, grammatical errors, and deviations from the [Writing Style Guide](style-guide.md).
+- Check for and correct any typos, grammatical errors, and deviations from the [Writing Style Guide](writing-style-guide.md).
 - Expand on and update concepts as MakerDAO grows.
     - Incorporate new developments within MakerDAO.
     - Update documents to reflect the latest terminology and language as Maker grows and standards change.

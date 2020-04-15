@@ -1,6 +1,6 @@
 # Governance
 
-In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](./onboarding/voter-onboarding-guide.md) for a more detailed guide on how to begin voting.
+In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](../onboarding/voter-onboarding.md) for a more detailed guide on how to begin voting.
 
 ## What is Governance?
 
@@ -145,7 +145,7 @@ Due to the dynamic nature of the protocol and its governance, some resources may
 
 MKR token holders vote on system parameter changes, positional mandates, bug fixes, technical improvements to the protocol, governance-related processes, and operational spending for the system.
 
-Through Governance Polling, MKR holders are able to seek consensus on nearly anything. The first example of this was the [Foundation Proposal](./governance/core-principles.md) which established the five core principles underpinning the Maker Protocol. Since then, Governance Polls have been run for questions including Stability Fees, Debt Ceilings, process changes, position mandates, and more. They often function to inform upcoming Executive Votes, as in the example of the Stability Fee polls where a SF is selected and then the adjustment needs to be passed through the following Executive Vote.
+Through Governance Polling, MKR holders are able to seek consensus on nearly anything. The first example of this was the [Foundation Proposal](../governance/core-principles.md) which established the five core principles underpinning the Maker Protocol. Since then, Governance Polls have been run for questions including Stability Fees, Debt Ceilings, process changes, position mandates, and more. They often function to inform upcoming Executive Votes, as in the example of the Stability Fee polls where a SF is selected and then the adjustment needs to be passed through the following Executive Vote.
 
 Through Executive Voting, MKR holders vote directly on changes that alter the code of the protocol itself. Examples include adding new collateral types, adding or adjusting system modules, adjusting system parameters such as Stability Fees and the DSR.
 
@@ -186,11 +186,11 @@ Voting is weighted by the amount of MKR that votes for a proposal. For example, 
 
 ## What are the different ways to set up the Voting Contract?
 
-One may choose to [set up voting](./onboarding/voter-onboarding.md) with a single wallet or voting with a linked wallet.
+One may choose to [set up voting](../onboarding/voter-onboarding.md) with a single wallet or voting with a linked wallet.
 
 ## What does voting with a linked wallet do for me?
 
-Voting with a [linked wallet](./onboarding/voter-onboarding.md#voting-wallet-setups) allows an MKR holder to vote with a hot wallet using the MKR stored in a cold wallet. The linked setup does not allow the MKR to be transferred to any address apart from the cold wallet. A voter can avoid the need to directly access their cold wallet, making it more convenient and secure to participate. If a voter's hot wallet is compromised, the attacker may vote with their MKR, but will not be able to steal it.
+Voting with a [linked wallet](../onboarding/voter-onboarding.md#voting-wallet-setups) allows an MKR holder to vote with a hot wallet using the MKR stored in a cold wallet. The linked setup does not allow the MKR to be transferred to any address apart from the cold wallet. A voter can avoid the need to directly access their cold wallet, making it more convenient and secure to participate. If a voter's hot wallet is compromised, the attacker may vote with their MKR, but will not be able to steal it.
 
 ## When setting up a linked wallet, what permissions am I granting?
 

@@ -13,16 +13,16 @@ Responsibilities consist of proofreading documents for:
 - **Consistency:** Ensure terms are translated uniformly across all documents.
 - **Simplicity:** Our aim is to reach a broad audience. Writing should be plain, simple, and accessible. Maintain contact with translators as they work on documents. Be sure to agree on translated terms and other conventions.
 - **Formatting:** Ensure that translated documents retain original formatting.
-- **Adherence to the [Style Guide](../contributing/style-guide.md):** Writing style must be consistent throughout all documents.
+- **Adherence to the [Style Guide](../contributing/writing-style-guide.md):** Writing style must be consistent throughout all documents.
 - **Hyperlinks:** Give extra attention to this task. Hyperlinks allow users to explore other MakerDAO resources. Ensure all links are functioning properly and included where necessary. Hyperlinks fall into three general categories:
-  - **Links Between Translated Documents:** See the [links section](../contributing/style-guide.md#links) of the style-guide for guidance on handling relative links.
+  - **Links Between Translated Documents:** See the [links section](../contributing/writing-style-guide.md#links) of the style-guide for guidance on handling relative links.
   - **Links to Other MakerDAO Resources:** These are to be left as is unless there is a parallel translated resource in the same language.
   - **Links to Other Pages:** Try to source a native language version for the link. For example, if a link leads to a Wikipedia page, it’s likely that a version of this page exists in the native language.
 
 ## Best Practices
 
 - **Use Markdown:** All documents are formatted in Markdown. They contain headers, lists, links, tables, etc. Information on Markdown can be found on [Wikipedia](https://en.wikipedia.org/wiki/Markdown). Alternatively, this [cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good reference as well.
-- **Maintain Original Formatting:** Refer to the [style guide]../community/blob/master/contributing/style-guide.md).
+- **Maintain Original Formatting:** Refer to the [style guide]../community/blob/master/contributing/writing-style-guide.md).
 - **Use a Markdown Editor:** Editors like [hackmd.io](https://hackmd.io/) or [VScode](https://code.visualstudio.com/) make working with Markdown more convenient.
 - **Editor Tools:** Feel free to use any software that helps find translation errors and improve writing. We encourage using tools that assist workflow. Mindlessly copying from a program will disqualify you from receiving a bounty and from future assignments. Please use them as an aide and not a substitute for your work.
 - **Communicate early and often**: Join the [#translation](https://chat.makerdao.com/channel/translation) channel on our Chat. We encourage reaching out to translators and editors for guidance

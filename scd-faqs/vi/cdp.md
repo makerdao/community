@@ -30,7 +30,7 @@ Nếu CDP chuyển sang tình trạng không được thế chấp, hoặc "khô
 
 Tỷ lệ tài sản thế chấp là tỷ lệ giữa giá trị tài sản thế chấp đã thêm vào CDP và số lượng DAI mà họ đã rút ra.
 
-Ví dụ: giả sử hiện tại Ether bị khóa trong CDP có giá là 150 đô la và được vay 50 Dai. Thì tỷ lệ thế chấp sẽ là 300%. Đối với mỗi 1 Dai, giá trị tài sản thế chấp sẽ có giá là $ 3. Trong hệ thống Maker, CDP của bạn sẽ bị thanh lý nếu nó nằm dưới [Tỷ lệ thanh lý](liquidation.md#what-is-the-liquidation-ratio), là tỷ lệ thế chấp tối thiểu.
+Ví dụ: giả sử hiện tại Ether bị khóa trong CDP có giá là 150 đô la và được vay 50 Dai. Thì tỷ lệ thế chấp sẽ là 300%. Đối với mỗi 1 Dai, giá trị tài sản thế chấp sẽ có giá là $ 3. Trong hệ thống Maker, CDP của bạn sẽ bị thanh lý nếu nó nằm dưới Tỷ lệ thanh lý, là tỷ lệ thế chấp tối thiểu.
 
 ## Những rủi ro liên quan đến việc sở hữu CDP?
 

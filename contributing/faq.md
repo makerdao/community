@@ -2,7 +2,7 @@
 
 ## What can I contribute to?
 
-MakerDAO has several community-driven programs and resources where members are welcome to contribute. Find the latest list in the [Explore Ways to Earn as a Contributor](./contributor-onboarding-guide.md#explore-ways-to-earn-as-a-contributor) section of the Contributor Onboarding guide.
+MakerDAO has several community-driven programs and resources where members are welcome to contribute. Find the latest list in the [Explore Ways to Earn as a Contributor](./earn-as-a-contributor.md) section of the Contributor Onboarding guide.
 
 ## Where can I ask questions about contributing?
 
@@ -16,7 +16,7 @@ Some examples include improving or creating educational materials and resources,
 
 ## What are the Contribution Formats?
 
-There are several formats for contributing. These include [Bounties, CDIPs, Meetup Grants, and Developer Grants.](./contributor-onboarding-guide.md#explore-ways-to-earn-as-a-contributor)
+There are several formats for contributing. These include [Bounties, CDIPs, Meetup Grants, and Developer Grants.](./earn-as-a-contributor.md)
 
 **Bounties** are smaller predefined tasks, designed for contributors to jump in with little to no context, and few dependencies. 
 
@@ -44,7 +44,7 @@ For instructions on how to submit an invoice, ask for the Community Development 
 
 ## Are there rules for contributing?
 
-Visit the [Contributing Section](./README.md) for MakerDAO’s contributor standards and guidelines. Get familiar with the Community Development resources before starting any work.
+Visit the [Contributing Section](./index.md) for MakerDAO’s contributor standards and guidelines. Get familiar with the Community Development resources before starting any work.
 
 ## Do I need approval before I start contributing?
 
@@ -64,11 +64,11 @@ Some permissionless tasks include submitting PRs to [Awesome-MakerDAO](https://g
 
 ## Who approves what I contribute?
 
-Community Development resources and initiatives go through a process that includes a Writer, Reviewer, and final Approver. Contributors can take on the Writer and/or Reviewer role, but will always need their work approved by a final Approver before it is published. Currently, the final Approver role will often be the head of Community Development. Learn more about Comm-Dev [Roles](./contributor-onboarding-guide.md#Roles) in the Contributor Onboarding Guide.
+Community Development resources and initiatives go through a process that includes a Writer, Reviewer, and final Approver. Contributors can take on the Writer and/or Reviewer role, but will always need their work approved by a final Approver before it is published. Currently, the final Approver role will often be the head of Community Development.
 
 ## How does the final approval process work?
 
-Before submitting a Pull Request (PR) to merge into the Community Development repository, contributors must request an invitation to the repo. See the [Contributor Tools Guide](./contributor-tools-guide.md) for best practices when submitting a PR. The final Approver accepts a contribution to merge it into MakerDAO’s community GitHub repository.
+Before submitting a Pull Request (PR) to merge into the Community Development repository, contributors must request an invitation to the repo. See the [Writing Style Guide](./writing-style-guide.md) for best practices when submitting a PR. The final Approver accepts a contribution to merge it into MakerDAO’s community GitHub repository.
 
 Collaborating with experienced community members in [#community-development](https://chat.makerdao.com/channel/community-development), and following the contributor guidelines will help ensure that contributions are accepted!
 
@@ -77,8 +77,6 @@ Collaborating with experienced community members in [#community-development](htt
 1. Sign in or create a GitHub account.
 1. Go to the [MakerDAO Community Repo](https://github.com/makerdao/community) on GitHub.
 1. Navigate to the file to submit a pull request or open an issue to make a suggested change.
-
-To learn more about creating issues and submitting pull requests, see the [GitHub Overview Section](./contributor-tools-guide.md#Github-Overview) of the Contributor Tools Guide.
 
 ## Why was my contribution not accepted?
 

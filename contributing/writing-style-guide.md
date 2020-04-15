@@ -5,9 +5,10 @@ The MakerDAO Community Writing Style Guide summarizes the standards and best pra
 - Errors are sometimes overlooked.
 - If something in a document does not adhere to the Writing Style Guide, edit accordingly.
 
-In addition to this guide, Writers are encouraged to study the [contributor resources](readme.md) before starting work on a Community Development project.
-- [Contributor Onboarding Guide](contributor-onboarding-guide.md)
-- [Contributor Tools Guide](contributor-tools-guide.md) 
+In addition to this guide, Writers are encouraged to study the [contributor resources](index.md) before starting work on a Community Development project.
+- [Earn As A Contributor](earn-as-a-contributor.md) 
+- [Governance and Risk Call Summary Guide](gnr-summary-guide.md)
+- [Dommunity Development Improvement Processes](cdip-explainer.md)
 - [Reviewer Guide](reviewer-guide.md)
 
 ---
@@ -133,7 +134,7 @@ Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at 
   - Names and proper nouns.
   - Cities, countries, nationalities, and languages.
   - Terms with definitions provided by MakerDAO.
-    - Vist the [Glossary of Terms](community/faqs/glossary.md) for the official list.
+    - Vist the [Glossary of Terms](../faqs/glossary.md) for the official list.
   - Comm-Dev role titles.
       - **Examples:** Lead, Approver, Advisor, etc.
 - **Title Case**
@@ -218,8 +219,8 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
   
 ### Links
 
-- Use [relative links](https://docs.microsoft.com/en-us/contribute/how-to-write-links) when cross-referencing files from [community repositories](./community) on MakerDAO's GitHub.
-    - Use MakerDAO's [GitHub]((./makerdao)) file structure for reference.
+- Use [relative links](https://docs.microsoft.com/en-us/contribute/how-to-write-links) when cross-referencing files from community repositories on [MakerDAO's GitHub](https://github.com/maker/).
+    - Use MakerDAO's GitHub file structure for reference.
 - Use [absolute links]((https://docs.microsoft.com/en-us/contribute/how-to-write-links)) and standard web URLs when referencing external resources.
 - Create descriptive hyperlinks and avoid generic language.
     - **Descriptive:** Learn more at [Awesome-MakerDAO](link).
@@ -303,12 +304,12 @@ Make use of any writing tools that help improve workflow and writing quality. Se
 
 ### Review Community Guides
 
-Review the [contributor resources](readme.md) before starting work on any MakerDAO Community Development project.
+Review the [contributor resources](index.md) before starting work on any MakerDAO Community Development project.
 - Comm-Dev contributor guides outline writing standards and help simplify the writing process. 
 
-#### Contributor Onboarding Guide
+#### Earn as a Contributor
 
-- The [Contributor Onboarding Guide](contributor-onboarding-guide.md) introduces the process for contributing to MakerDAO’s Community Development resources.
+- The [Contributor Earnings Guide](earn-as-a-contributor.md) introduces the process for contributing to, and earning from, MakerDAO’s Community Development resources.
 
 #### Document-Specific Maintenance Guides
 
@@ -316,10 +317,6 @@ Review the [contributor resources](readme.md) before starting work on any MakerD
 - A document maintenance guide outlines standards to help Reviewers and contributors when maintaining a given resource.
     - The rules described within a document-specific maintenance guide supersede other guides.
     - If a discrepancy is glaring or unreasonable, bring the issue to an Advisor in [#community-development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
-    
-#### Contributor Tools
-
-- The [Contributor Tools Guide](contributor-tools-guide.md) guide introduces the tools regularly used by Community Development.
 
 ### Express Interest
 

@@ -400,7 +400,7 @@ https://youtu.be/2i9QO5D0NMU
 #### Links from the Chat
 
 - [Primoz's Spreadsheet on SCD CDP's data](https://docs.google.com/spreadsheets/d/18Et6TQZnGfuc8YJXHLFZXm75UzxigGR3wcp8VaibhdI/edit#gid=1942156439)
-- [Governance Data Dashboard](mkrgov.science)
+- [Governance Data Dashboard](https://mkrgov.science)
 - Adam Skrodzki elaborates on his Governance logic in this [forum post]( https://forum.makerdao.com/t/thoughts-about-governance-security-and-logic/1080/9)
 - Governance Forum Signal Guidelines:
     - [Process](https://forum.makerdao.com/t/suggested-signaling-process/396)

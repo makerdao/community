@@ -16,7 +16,7 @@ Teams are usually created both before the event and at the event. Teams at the e
 
 ### Where do I find resources to work with? 
 
-You can find developer resources in our [Awesome-MakerDAO](makerdao/awesome-makerdao/blob/master/README.md) community repository. In addition, you can check out our [Developer Quickstart Guide](./hackathons/developer-quick-start-guide.md) for other helpful information.
+You can find developer resources in our [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/) community repository. In addition, you can check out our [Developer Quickstart Guide](./developer-quick-start-guide.md) for other helpful information.
 
 ### How do I contribute as a former hackathon participant?
 
@@ -30,7 +30,7 @@ If you are a hacker with no team and a desire to participate, you can do several
 
 ### What do I need to bring?
 
-Besides the essentials, we have a list of things you should consider bringing in our [Developer Quickstart Guide](./hackathons/developer-quick-start-guide.md).
+Besides the essentials, we have a list of things you should consider bringing in our [Developer Quickstart Guide](./developer-quick-start-guide.md).
 
 ### Who owns the ideas/IP?
 
@@ -44,11 +44,11 @@ Prizes are unique to each hackathon. To find out about prizes look on the Hackat
 
 ### How can I get the Maker Foundation to sponsor our hackathon?
 
-If you would like to have MakerDAO sponsor your hackathon, please have a look at the checklist in our [Organizer Quickstart Guide](./hackathons/developer-quick-start-guide.md) and make sure this information is included when you reach out to us at hackathons@makerdao.com.
+If you would like to have MakerDAO sponsor your hackathon, please have a look at the checklist in our [Organizer Quickstart Guide](./developer-quick-start-guide.md) and make sure this information is included when you reach out to us at hackathons@makerdao.com.
 
 ### What is the Maker Foundation's role in participating in Hackathons?
 
-The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](../grants/README.md).
+The Foundation sponsors prizes, offers ideas for hackathon categories and projects, has members of its team participate as judges & mentors, and enrolls hackathon winners and participants into the Foundation's [Grants program](../grants/index.md).
 
 ### Can the Maker Foundation help us with ideas for hack categories and ideas?
 
