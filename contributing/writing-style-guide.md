@@ -276,6 +276,10 @@ MakerDAO documents posted on Github are written in Markdown, a text-to-HTML conv
         - **Rendered:**
             > Look Here! [name=John Doe]
     - Make sure to delete comments before submitting pull requests.
+- Use an emoji to call attention to an important point, when necessary.
+    - Practice discretion and use them sparingly.
+        - Do not load documents with emojis.
+    - This [cheat sheet](https://gist.github.com/rxaviers/7360908) lists emojis and their Markdown shortcuts.
 
 #### VSCode
 
