@@ -71,7 +71,7 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 :exclamation: **Please Note**
 
 1. When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.
-1. Run all drafts through [Grammarly](https://app.grammarly.com/) regularly and before final submissions.
+1. Run all drafts through [Grammarly](https://app.grammarly.com/) regularly, and before final submissions.
     - Grammarly will catch most spelling and grammatical errors.
         - Review the suggestions to make sure they make sense.
         - **Do not blindly accept Grammarly edits.**
@@ -269,6 +269,17 @@ MakerDAO documents posted on Github are written in Markdown, a text-to-HTML conv
     - **Example:** 
         - [ ]
 - Ensure there is a single hard return at the end of a .md file.
+- Use in-text comments for extra visibility when collaborating with other contributors on HackMD documents.
+    - Click on the comment icon in the toolbar and choose an appropriate style.
+    - Consider including a timestamp or username:
+        - **Markdown:** `> Look Here! [name=John Doe]`
+        - **Rendered:**
+            > Look Here! [name=John Doe]
+    - Make sure to delete comments before submitting pull requests.
+- Use an emoji to call attention to an important point, when necessary.
+    - Practice discretion and use them sparingly.
+        - Do not load documents with emojis.
+    - This [cheat sheet](https://gist.github.com/rxaviers/7360908) lists emojis and their Markdown shortcuts.
 
 #### VSCode
 
