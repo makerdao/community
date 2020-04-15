@@ -1,11 +1,10 @@
 # Meetup Grants and Guides
 
+**_Funding for virtual meetups is available._**
+
 **_Due to the COVID-19 pandemic we are temporarily suspending funding of physical meetups. Stay safe out there, wash your hands, minimize risk._**
 
-![Chart as of 03/11/2020](https://i.imgur.com/9vv6l9e.png)
-[source](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR13JwgmhXEECnc-bPWa75V7rG3AENcgHuiASOUrfrtUy-Qvq8aAzWtzTJw#/bda7594740fd40299423467b48e9ecf6)
-
-Welcome to Do It Yourself Community Meetups, a place where you can find all the resources you need to host your very own meetup.
+Welcome to Do It Yourself Community Meetups, a place where you can find all the resources you need to host your very own meetup, virtual or physical.
 
 ## Project Snapshot
 
@@ -31,7 +30,7 @@ Additionally, we're working with the community to actively build a collection of
 
 ### Hosting Meetups
 
-Are you passionate about self-sovereign money, DeFi, MakerDAO, and Dai? Do you have friends who know nothing about this? Are you willing to organize and host an event, even a small one? If you answered yes, then this might be for you.
+Are you passionate about DeFi, MakerDAO, and Dai? Do you have friends who know nothing about this? Are you willing to organize and host an event, even a small one? If you answered yes, then this might be for you.
 
 We're eager to support people who are passionate about sharing the vision of DeFi and teaching others how that vision is coming into being.
 
