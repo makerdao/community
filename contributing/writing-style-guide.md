@@ -290,6 +290,8 @@ MakerDAO documents posted on Github are written in Markdown, a text-to-HTML conv
     - `GitLens`
     - `Prettier`
       - Prettier will auto-correct most Markdown mistakes.
+- How to to integrate GitHub with VSCode:
+  - **Video:** [Up and Running with Visual Studio Code and GitHub](https://youtu.be/ghL-KlAhBnc)
 
 ## Contributor Best Practices
 
