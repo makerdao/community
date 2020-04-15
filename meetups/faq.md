@@ -4,6 +4,14 @@
 
 Start planning your meetup by establishing the location, time, and cost of the event. After you have this, you can request funding using this [Form](https://airtable.com/shr4HOtcZ8o3VZmek).
 
+## What is a Virtual Meetup?
+
+Virtual meetups are organized events that take place using teleconferencing software. Similar to physical meetups there is an agenda, speakers, and a topic or set of topics that attendees gather to engage with.
+
+## What does a grant for a Virtual Meetup cover?
+
+Grants for Virtual Meetups primarily cover [honorarium.](https://www.investopedia.com/terms/h/honorarium.asp) Any other associated expenses 
+
 ## Am I eligible to receive a micro-grant if Maker and Dai are only one part of my agenda?
 
 Yes, as long as an appropriate amount of time will be allocated to discussing Maker related topics.
