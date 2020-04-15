@@ -156,6 +156,7 @@
   - [Collateral Onboarding Guide](risk/collateral-onboarding-guide.md)
   - [Collateral Onboarding Guide - Español](risk/collateral-onboarding-guide-es.md)
 - [Contributing](contributing/README.md)
+  - [Earn as a Contributor](contributing/earn-as-a-contributor.md)
   - [CDIP Explainer](contributing/cdip-explainer.md)
   - [Copy Style Guide](contributing/style-guide.md)
   - [Visual Style Guide](contributing/visual-style-guide.md)
