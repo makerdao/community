@@ -40,7 +40,7 @@ A collection of sources and materials useful for MKR voters:
 ### Essential:
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
-- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts) | [Summaries](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts)
+- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-calls) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts) | [Summaries](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts)
 - [Ratified Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c)
 - [Voting Tutorial Video](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
