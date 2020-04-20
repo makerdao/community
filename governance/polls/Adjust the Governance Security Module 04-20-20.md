@@ -16,7 +16,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/governanc
 
 ## Review
 
-Additional context was presented in a [Signal Request](https://forum.makerdao.com/t/signal-request-calibrating-gsm-delay-in-light-of-recent-market-events/1979) on April 20, 2020. Please review to inform your position before voting.
+Additional context was presented in a [Forum Thread](https://forum.makerdao.com/t/revisiting-gsm-delay-dark-spell-social-layer-discussion/1937/23) and a [Signal Request](https://forum.makerdao.com/t/signal-request-calibrating-gsm-delay-in-light-of-recent-market-events/1979) on April 8th, 2020 and April 14, 2020, respectively. Please review to inform your position before voting.
 
 ## Next Steps
 
