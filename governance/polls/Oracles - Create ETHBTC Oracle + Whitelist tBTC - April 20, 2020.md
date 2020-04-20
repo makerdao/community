@@ -1,7 +1,7 @@
 ---
 title: Oracles - Create ETH/BTC Oracle + Whitelist tBTC - April 20, 2020
 summary: If this mandate is accepted by the community, it will signal support for the proposal and for the general scope of the initiatives outlined in the proposal.
-discussion_link: https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010/10
+discussion_link: https://forum.makerdao.com/t/2010
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
@@ -10,12 +10,10 @@ options:
 ---
 # Poll: Create ETH/BTC Oracle + Whitelist tBTC- April 20, 2020
 
-The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://forum.makerdao.com/t/mandate-oracle-teams/443), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create ETH/BTC Oracle + Whitelist tBTC**. Voters are now able to signal their support to:
+The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://forum.makerdao.com/t/443), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create ETH/BTC Oracle + Whitelist tBTC**. Voters are now able to signal their support to:
 
-	- create an ETH/BTC Oracle
-	- whitelist tBTC to read prices from the ETH/BTC Oracle
-
-	More details below.
+- create an ETH/BTC Oracle
+- whitelist tBTC to read prices from the ETH/BTC Oracle
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for four days beginning on Monday, April 20, the results of which may inform an Executive Vote which will go live on Friday, April 24, at 4 PM UTC.
 
@@ -24,12 +22,13 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 **Oracle Type:** ETHBTC
 
 **Oracle Address:**
+
  `0x81A679f98b63B3dDf2F17CB5619f4d6775b3c5ED` (Medianizer)
 `N/A` (Oracle Security Module)
 
-**Customer:** tBTC 
+**Customer:** tBTC
 
-**Whitelist:** 
+**Whitelist:**
 
 `TBD (tBTC)`
 
@@ -41,7 +40,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 Data Models describe the data sources and transformations for calculating the canonical price of an asset.
 
-**Glossary:**
+#### Glossary
 
 - `Source` - The data source for the Oracle Feed
 - `Asset Pair` -  a price quote of the exchange rate for two different assets traded on the source.
@@ -49,7 +48,7 @@ Data Models describe the data sources and transformations for calculating the ca
 - `Feed Model` - Model for how a Feed processes all sourced data into a singular price
 - `Oracle Model` - Model for how an Oracle processes all Feed data into a singular price
 
-**ETH/BTC Data Model**
+#### ETH/BTC Data Model
 
     |    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :------------ | :------------ | :---: | :---------: | :----------: |
@@ -60,32 +59,34 @@ Data Models describe the data sources and transformations for calculating the ca
     |   Kraken      |    ETH/BTC    |
     |   Poloniex    |    ETH/BTC    | 
 
-### **Technical Deliverables**
+### Technical Deliverables
 
-**Contracts:**
+#### Contracts
 
 - Deployed, configured, and verified ETHBTC Medianizer on Ethereum mainnet at address `0x81A679f98b63B3dDf2F17CB5619f4d6775b3c5ED`
 - Reviewed tBTC contracts and verified Oracle price access is permissioned
 - Created spell to whitelist tBTC contract (WIP)
 
-**Tooling:**
+#### Tooling
 
-`setzer-mcd` 
+`setzer-mcd`
+
 - added support for the ETHBTC Data Model
 
-`omnia` 
+`omnia`
+
 - updated Feed configuration files with asset pair details
 - updated Relayer configuration files with contract details
 
-The **ETH/BTC Oracle Proposal** was discussed in the Maker Forum. Please review the [Discussion](https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010) to inform your position before voting.
+The **ETH/BTC Oracle Proposal** was discussed in the Maker Forum. Please review the [Discussion](https://forum.makerdao.com/t/2010) to inform your position before voting.
 
 For context, the following proposals may be useful to further your understanding.
-- [Oracle Incentives Restructuring Proposal](https://forum.makerdao.com/t/proposal-oracles-incentives-restructuring/476/11)
-- [Responsible Oracle Migration Proposal](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509/5)
-- [Oracle Team Mandate Proposal](https://forum.makerdao.com/t/mandate-oracle-teams/443)
 
-These proposals were published in the Maker Forum for review by the MKR Governance community as well as discussed on the Governance Calls on [September 5th](https://www.youtube.com/watch?v=7jKNv8DMxmQ&t=2356) and [September 12th](https://www.youtube.com/watch?v=gqVnwOL42hQ). 
+- [Oracle Incentives Restructuring Proposal](https://forum.makerdao.com/t/476)
+- [Responsible Oracle Migration Proposal](https://forum.makerdao.com/t/509)
+- [Oracle Team Mandate Proposal](https://forum.makerdao.com/t/443)
 
+These proposals were published in the Maker Forum for review by the MKR Governance community as well as discussed on the Governance Calls on [September 5th](https://www.youtube.com/watch?v=7jKNv8DMxmQ&t=2356) and [September 12th](https://www.youtube.com/watch?v=gqVnwOL42hQ).
 
 ## Next Steps
 
@@ -99,6 +100,6 @@ Additional information about the Governance process can be found in the [Governa
 
 Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com/#voting).
 
-To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
+To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
