@@ -1,6 +1,6 @@
 ---
 title: MKR Oracle Deactivation in SCD - April 20th, 2020
-summary: Signal your support to adjust the USDC Stability Fee within a range of 8% to 16%
+summary: Signal your support to deactivate the MKR oracle porior to SCD shutdown. 
 discussion_link: https://forum.makerdao.com/t/1823
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
