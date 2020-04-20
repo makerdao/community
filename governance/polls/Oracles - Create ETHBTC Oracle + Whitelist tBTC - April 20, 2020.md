@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No 
 ---
-# Poll: Create ETH/BTC Oracle + Whitelist tBTC- April 20, 2020
+# Poll: Oracles - Create ETH/BTC Oracle + Whitelist tBTC - April 20, 2020
 
 The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://forum.makerdao.com/t/443), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create ETH/BTC Oracle + Whitelist tBTC**. Voters are now able to signal their support to:
 

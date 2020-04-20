@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No 
 ---
-# Poll: Create BTC/USD Oracle + Whitelist Set Protocl & dYdX- April 20, 2020
+# Poll: Oracles - Create BTC/USD Oracle + Whitelist Set Protocol and dYdX - April 20, 2020
 
 The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://www.notion.so/makerdao/BTCUSD-ETHBTC-Oracle-Proposal-d1a7b080be044da89bd73554f49f6ad0#479a604e5b8c4a40afeb695852829543), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create BTC/USD Oracle + Whitelist Set Protocol & dYdX**. Voters are now able to signal their support to:
 

@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No 
 ---
-# Poll: Whitelist Set Protocol on ETH/USD Oracle - April 20, 2020
+# Poll: Oracles - Whitelist Set Protocol on ETH/USD Oracle - April 20, 2020
 
 The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://forum.makerdao.com/t/443), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Whitelist Set Protocol on ETH/USD Oracle**. Voters are now able to signal their support to:
 
