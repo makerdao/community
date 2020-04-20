@@ -158,7 +158,7 @@
 - [Contributing](contributing/README.md)
   - [Earn as a Contributor](contributing/earn-as-a-contributor.md)
   - [CDIP Explainer](contributing/cdip-explainer.md)
-  - [Copy Style Guide](contributing/style-guide.md)
+  - [Writing Style Guide](contributing/writing-style-guide.md)
   - [Visual Style Guide](contributing/visual-style-guide.md)
   - [Governance Call Summary Guide](contributing/gnr-summary-guide.md)
   - [Governance Call Summary Template](contributing/gnr-summary-template.md)
