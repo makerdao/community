@@ -1,6 +1,6 @@
 ---
 title: Adjust the Governance Security Module - April 20, 2020 
-summary: Signal your support to adjust the GSM to either 12 or 24 hours.
+summary: Signal your support for adjusting the GSM to either 12 or 24 hours.
 discussion_link: https://forum.makerdao.com/t/signal-request-calibrating-gsm-delay-in-light-of-recent-market-events/1979
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
