@@ -16,11 +16,5 @@ Short 1-2 sentence Project Description (Example: Awesome-MakerDAO is a community
 
 ## Tasks
 
-- [ ] Task 1
-- [ ] Task 2 / [If relevant, any linked Github Issue number](https://link)
+- [ ] Task 1 / [If relevant, any linked Github Issue number](https://link)
 - [ ] Example: Standardize operation procedures / [#359](https://github.com/makerdao/community/issues/359)
-
-## Bounties (If relevant)
-
-- [Title of Bounty - Platform](https://link.me)
-- [Example: Find and update deadlinks in FAQs](https://explorer.bounties.network/explorer)
