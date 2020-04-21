@@ -14,7 +14,7 @@ Voting takes place frequently and requires a governance community who is activel
 
 For more information, visit:
 
-- [Governance FAQ](https://github.com/makerdao/community/blob/master/faqs/governance.md#governance)
+- [Governance FAQ](../faqs/governance.md)
 - [Governance: Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)
 - [What is DAI Governance? - DAI Beginner Series](https://youtu.be/QHmNf_YROQU)
 
@@ -48,7 +48,7 @@ A collection of sources and materials useful for MKR voters:
 
 - [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
 - [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](./faqs/governance.md)
+- [Governance FAQ](../faqs/governance.md)
 
 ## Governance Polling vs. Executive Voting
 
@@ -395,14 +395,14 @@ To vote with the same wallet later, return to the Voting Contract manager to top
 
 Once the Voting contract is set up, return to the [Governance Portal](https://vote.makerdao.com/). Visit the “Polling” tab to participate in Governance Polls or the “Executive” tab to participate in Executive Votes.
 
-For more information on Governance Polls and Executive Votes, click on the proposal for more details. For other frequently asked questions, visit our [Governance FAQ](https://community-development.makerdao.com/makerdao-faqs/faqs/governance).
+For more information on Governance Polls and Executive Votes, click on the proposal for more details. For other frequently asked questions, visit our [Governance FAQ](../faqs/governance.md).
 
 ### Governance Polling
 
 ![Governance Polling](assets/voter/58.png)
-_ Governance Polling_
+_Governance Polling_
 
 ### Executive Voting
 
 ![Executive Voting](assets/voter/59.png)
-_ Executive Voting_
+_Executive Voting_
