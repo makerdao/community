@@ -140,7 +140,7 @@ Educational and reference materials may be in any form (e.g., videos, written do
 
 Creating and updating educational and reference materials may require Writers and Reviewers to pass a document back and forth for several iterations before handing it off to an Approver for final review. Therefore, Comm-Dev follows a documentation process model, pictured below, for the flow of a resource from inception to publication.
 
-<img>
+![Educational and Reference Documentation Process](./educational-reference-documentation-process.jpg)
 
 * Certain resources require more steps, depending on the content.
 * V0, V1, and V2 are used to reference the maturity of resources.
