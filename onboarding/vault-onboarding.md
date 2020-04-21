@@ -12,11 +12,11 @@ The Maker Vault is a core component of the Maker Protocol, which facilitates the
 
 Vault usage collectively alters the total supply of Dai. Users create Dai by generating it against their collateral and in-turn destroy Dai when repaying their generated Dai balance. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
-Vaults are not free to use and come with inherent risks. Generating Dai requires the payment of [Stability Fees](faqs/stability-fee.md)(SF.) The SF is a variable rate and is subject to change based on the decisions of MKR Token holders through [voting](faqs/governance.md). To reclaim collateral, users must repay the previously generated Dai and the accumulated SF.
+Vaults are not free to use and come with inherent risks. Generating Dai requires the payment of [Stability Fees](faqs/stability-fee.md) (SF). The SF is a variable rate and is subject to change based on the decisions of MKR Token holders through [voting](faqs/governance.md). To reclaim collateral, users must repay the previously generated Dai and the accumulated SF.
 
 Vaults are required to be overcollateralized and have a [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio) that Vault owners need to uphold to avoid the [Liquidation](liquidation.md) of their Vaults. What a Vault is liquidated, a [Liquidation Penalty](faqs/liquidation.md#what-is-the-liquidation-penalty) is applied, and collateral is sold to repay the Vault's outstanding Dai balance. Additionally, a [Debt Ceiling](#what-is-a-debt-ceiling) is imposed globally on the Maker Protocol, as well as individually on each Vault type.
 
-For more information, visit the [Vault FAQ](faqs/vault.md).
+For more information, visit the [Vault FAQ](../faqs/vault.md).
 
 ### Why Open a Vault?
 
@@ -177,7 +177,7 @@ Refer to the [Oasis Terms of Service](https://oasis.app/terms) for relevant lega
 
 Refer to the links below for more information about Vaults and getting started with Oasis Borrow:
 
-- [Awesome MakerDao Resource Repository](https://awesome.makerdao.com/)
+- [Awesome MakerDAO Resource Repository](https://awesome.makerdao.com/)
 - [Dai FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
 - [Emergency Shutdown FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
 - [Liquidation FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
