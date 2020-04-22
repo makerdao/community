@@ -178,11 +178,11 @@ Refer to the [Oasis Terms of Service](https://oasis.app/terms) for relevant lega
 Refer to the links below for more information about Vaults and getting started with Oasis Borrow:
 
 - [Awesome MakerDAO Resource Repository](https://awesome.makerdao.com/)
-- [Dai FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)
-- [Emergency Shutdown FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
-- [Liquidation FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/liquidation)
-- [Stability Fees FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/stability-fee)
-- [Vaults FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/vault)
+- [Dai FAQ](../makerdao-mcd-faqs/faqs/dai)
+- [Emergency Shutdown FAQ](../makerdao-mcd-faqs/faqs/emergency-shutdown)
+- [Liquidation FAQ](../makerdao-mcd-faqs/faqs/liquidation)
+- [Stability Fees FAQ](../makerdao-mcd-faqs/faqs/stability-fee)
+- [Vaults FAQ](../makerdao-mcd-faqs/faqs/vault)
 
 _This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. You should consult your own advisers as to those matters.
 Charts and images provided within are for informational purposes solely and should not be relied upon when making any financial decisions. Any projections, estimates, forecasts, targets, prospects, and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others._
