@@ -203,10 +203,10 @@ To begin voting, skip ahead to the [Voting Process](#the-voting-process) section
 
 See the links below for in-depth, step-by-step walkthroughs for other wallet types:
 
-*   [Linked Wallet Setup: Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
-*   [Linked Wallet Setup: Ledger Nano S](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
-*   [Linked Wallet Setup: Two MetaMask Accounts](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
-*   [Linked Wallet Setup: Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
+*   [Linked Wallet Setup: Trezor](https://web.archive.org/web/20190112110249/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
+*   [Linked Wallet Setup: Ledger Nano S](https://web.archive.org/web/20190112110248/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
+*   [Linked Wallet Setup: Two MetaMask Accounts](https://web.archive.org/web/20190112110247/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
+*   [Linked Wallet Setup: Paper Wallets Using SETH](https://web.archive.org/web/20180913234419/https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
 
 ### Managing the Linked Wallet Voting Contract
 
