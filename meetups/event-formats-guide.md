@@ -2,6 +2,10 @@
 
 Here is a non-exhaustive list of suggestions for the different types of categorizations and formats community members can utilize for their events. Many of these can overlap.
 
+## A Note on Physical versus Virtual Formats
+
+Many meetup formats mentioned below work for both physical and virtual events. The important guidelines for running effective meetups apply to both. Virtual meetups are a newer trend that have not been explored to their full potential. We highly encourage organizers to experiment with interesting and engaging formats and to [add their ideas to this guide!](../contributing/README.md)
+
 ## Know Your Crowd
 
 Before planning an event it is important to get an idea for the type of crowd you are trying to attract. Is the event for students who've never heard of crypto? Is it for professionals who you hope will use this technology to innovate their businesses? Is the event for developers? The event you put together should have a target audience. The better you know your audience, the easier it is to decide what the event should consist of.
@@ -66,9 +70,13 @@ Focus on educating people about how they can use Dai and interact with MakerDAO.
 
 ## Other Ideas
 
-Focus on engaging the crowd generally, and making the meetup a little more fun.
+Focus on engaging the crowd and making the meetup a little more fun.
 
 - Games
 - Raffles
 - Dai Auctions
-- Donation Matching Initiative
+- Donation Matching Initiatives
+
+## Add to This Guide
+
+Interested in contributing to this Guides or others? Learn how on our [contributing page.](../contributing/README.md)

@@ -1,9 +1,8 @@
 # Requesting Funds
 
-**_Due to the COVID-19 pandemic we are temporarily suspending funding of physical meetups. Stay safe out there, wash your hands, minimize risk._**
+**_Funding for virtual meetups is available._**
 
-![Chart as of 03/11/2020](https://i.imgur.com/9vv6l9e.png)
-[source](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR13JwgmhXEECnc-bPWa75V7rG3AENcgHuiASOUrfrtUy-Qvq8aAzWtzTJw#/bda7594740fd40299423467b48e9ecf6)
+**_Due to the COVID-19 pandemic we are temporarily suspending funding of physical meetups. Stay safe out there, wash your hands, minimize risk._**
 
 To apply for a micro-grant, submit a completed [Community Meetup Form.](https://airtable.com/shr4HOtcZ8o3VZmek) Once the form is reviewed, we will reach out to you with next steps through the contact information you provide.
 
@@ -23,12 +22,19 @@ To apply for a micro-grant, submit a completed [Community Meetup Form.](https://
 
 ## Who should apply for a microgrant?
 
-The Community Development Group has allocated funds to help members of our community host local meetups. If you're a community member who is passionate about MakerDAO and Decentralized Finance, this [form](https://airtable.com/shr4HOtcZ8o3VZmek) is for you.
+If you're a community member who is passionate about MakerDAO and Decentralized Finance, who is planning a physical or virtual meetup, this microgrant program is for you.
 
 ## Who should _not_ apply for a microgrant?
 
-- If you are an event organizer seeking funding for a large event, this form is not for you. Please reach out to events@makerdao.com instead.
-- We do not fund alcohol/bar tabs or airdrops of Dai or xDai.
+If you are an event organizer seeking funding for a large event, this program is not for you. Please reach out to events@makerdao.com instead.
+If you are an event organizer seeking funding for a burner wallet speakeasy event, this program is not for you. We are prohibited from offering grants to cover bar tabs and airdrops.
+
+## Grants cover
+
+- Honorarium for Organizers and Speakers
+- Space rental
+- Equipment rental
+- Food and Drinks
 
 ## Grants do not cover
 
@@ -36,7 +42,8 @@ The Community Development Group has allocated funds to help members of our commu
 - T-shirts
 - Alcoholic beverages
 - Paid marketing
+- Dai airdrops
 
 ## Support
 
-Reach out to meetups@makerdao.com with any questions or feedback you might have.
+Reach out to meetups@makerdao.com with any questions or feedback about the program.

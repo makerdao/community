@@ -6,7 +6,7 @@ The Dai Credit System is fully controlled by MKR token holders through on-chain 
 
 ### Information
 
-- [Governance FAQ](/scd-faqs/governance.md)
+- [Governance FAQ](/faqs/governance.md)
 - [The Governance section in Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)
 
 ### Participation

@@ -11,20 +11,6 @@
 
 <>
 
-## Common Abbreviated Terms
-
-`SCD`: The Single-Collateral Dai system
-
-`MCD`: The Multi-Collateral Dai system
-
-`DC`: Debt Ceiling
-
-`ES`: Emergency Shutdown
-
-`SF`: Stability Fee
-
-`DSR`: Dai Savings Rate
-
 ## Introduction
 
 ### Rich
@@ -117,6 +103,20 @@ screenshot
 #### Relevant Links
 
 - [xx](link)
+
+## Common Abbreviated Terms
+
+`SCD`: The Single-Collateral Dai system
+
+`MCD`: The Multi-Collateral Dai system
+
+`DC`: Debt Ceiling
+
+`ES`: Emergency Shutdown
+
+`SF`: Stability Fee
+
+`DSR`: Dai Savings Rate
 
 ## Credits
 
