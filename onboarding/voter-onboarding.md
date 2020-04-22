@@ -48,7 +48,7 @@ A collection of sources and materials useful for MKR voters:
 
 - [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
 - [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](../faqs/governance)
+- [Governance FAQ](../faqs/governance.md)
 
 ## Governance Polling vs. Executive Voting
 
