@@ -178,11 +178,11 @@ Refer to the [Oasis Terms of Service](https://oasis.app/terms) for relevant lega
 Refer to the links below for more information about Vaults and getting started with Oasis Borrow:
 
 - [Awesome MakerDAO Resource Repository](https://awesome.makerdao.com/)
-- [Dai FAQ](../faqs/dai)
-- [Emergency Shutdown FAQ](../faqs/emergency-shutdown)
-- [Liquidation FAQ](..faqs/liquidation)
-- [Stability Fees FAQ](..faqs/stability-fee)
-- [Vaults FAQ](..faqs/vault)
+- [Dai FAQ](../faqs/dai.md)
+- [Emergency Shutdown FAQ](../faqs/emergency-shutdown.md)
+- [Liquidation FAQ](../faqs/liquidation.md)
+- [Stability Fees FAQ](../faqs/stability-fee.md)
+- [Vaults FAQ](../faqs/vault.md)
 
 _This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. You should consult your own advisers as to those matters.
 Charts and images provided within are for informational purposes solely and should not be relied upon when making any financial decisions. Any projections, estimates, forecasts, targets, prospects, and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others._
