@@ -14,7 +14,7 @@ Voting takes place frequently and requires a governance community who is activel
 
 For more information, visit:
 
-- [Governance FAQ](../faqs/governance.md)
+- [Governance FAQ](../faqs/governance)
 - [Governance: Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)
 - [What is DAI Governance? - DAI Beginner Series](https://youtu.be/QHmNf_YROQU)
 
@@ -48,7 +48,7 @@ A collection of sources and materials useful for MKR voters:
 
 - [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
 - [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](../faqs/governance.md)
+- [Governance FAQ](../faqs/governance)
 
 ## Governance Polling vs. Executive Voting
 
