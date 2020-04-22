@@ -52,7 +52,7 @@ A collection of sources and materials useful for MKR voters:
 
 ## Governance Polling vs. Executive Voting
 
-There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#what-is-continuous-approval-voting).
+There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](../faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](../faqs/governance#what-is-continuous-approval-voting).
 
 Governance Polls cover topics like rate adjustments, priorities for including new assets into the system, governance process changes, and mandates for new roles. Polls often run concurrently, allowing voters to participate in any number of them at the same time. Successful Governance Polls advance to the next stage of the governance process to undergo an Executive Vote. While poll results do not enact hard changes to the Maker Protocol, they play a vital role in how governance moves forward. Poll outcomes provide insight into voters’ preferences.
 
