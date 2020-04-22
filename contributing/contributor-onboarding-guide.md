@@ -2,7 +2,7 @@
 
 This onboarding guide walks new members through the ins and outs of contributing to MakerDAO through Community Development (Comm-Dev). Writers, designers, editors, developers, and anyone with relevant skill sets are welcome to participate.
 
-Started with a few initial steps:
+Get started with a few initial steps:
 
 * [Learn About MakerDAO](#learn-about-makerdao)
 * [Explore Ways to Earn as a Contributor](#explore-ways-to-earn-as-a-contributor)
