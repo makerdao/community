@@ -1,6 +1,6 @@
 # Governance
 
-In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](./onboarding/voter-onboarding-guide.md) for a more detailed guide on how to begin voting.
+In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](../onboarding/voter-onboarding.md) for a more detailed guide on how to begin voting.
 
 ## What is Governance?
 
