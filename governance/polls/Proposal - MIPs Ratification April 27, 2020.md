@@ -20,7 +20,7 @@ If passed, the Maker community will proceed with the Ratification Vote of the pr
 
 **[MIP0 (The Maker Improvement Proposals Framework)](https://github.com/makerdao/mips/tree/master/MIP0):** MIP0 defines and describes the MIPs Framework.
 
-- **[MIP0c12-SP1 (Subproposal for Core Personnel Onboarding)]((https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP1.md)):** MIP0c12-SP1 is for adding the first MIP Editor. 
+- **[MIP0c12-SP1 (Subproposal for Core Personnel Onboarding)](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP1.md):** MIP0c12-SP1 is for adding the first MIP Editor. 
 
 ### Core Foundational MIPs Set
 
