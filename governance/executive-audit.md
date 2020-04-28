@@ -167,8 +167,8 @@ Ensure that everything present is correct and that nothing is missing from this 
 
 ### Verify all addresses against the changelog
 
-Any addresses you see in either of the above contracts should be verified against the most recent mainnet changelog.  Currently MCD is at version `1.0.4`, and the address list can be found here:
-https://changelog.makerdao.com/releases/mainnet/1.0.4/contracts.json
+Any addresses you see in either of the above contracts should be verified against the most recent mainnet changelog.  Currently MCD is at version `1.0.5`, and the address list can be found here:
+https://changelog.makerdao.com/releases/mainnet/1.0.5/contracts.json
 
 To find the latest release you can look at https://changelog.makerdao.com/
 
@@ -177,6 +177,14 @@ In order to verify these, you should ensure that each address in the contract ma
 Note that in the example spell, there were SCD changes. Those are well documented and done with SaiMomAbstract(SAIMOM).setFee(NEW_FEE);. This calls a contract that has privileged access to make a few configuration changes in SCD. 
 
 Verify the address of `SAIMOM` from the contract definition above. This is trickier, but you can put the `SAIMOM` address into etherscan: https://etherscan.io/address/0xF2C5369cFFb8Ea6284452b0326e326DbFdCb867C#code
+
+#### Verifying Oracle Addresses
+
+Occasionally, there are spells to do with Oracles - generally adding addresses to the whitelist, and occasionally adding a new kind of oracle (most recently the BTCUSD one). These addresses must also be carefully verified, and it can be non-obvious how to do so. However, if you follow the [link to the changelog](https://changelog.makerdao.com/releases/mainnet/1.0.5/contracts.json) and look for `PIP_ETH`, you'll be on the right track.
+
+1. Open the `Read` tab of the [`PIP_ETH`](https://etherscan.io/address/0x81FE72B5A8d1A857d176C3E7d5Bd2679A9B85763#code) contract.
+2. Look for `src` (listed as number `7` currently).
+3. Follow [the contract address listed there](https://etherscan.io/address/0x64de91f5a373cd4c28de3600cb34c7c6ce410c85#code) and verify that it is indeed the `MedianETHUSD`contract, and that the address here matches what is in the spell.
 
 ### Verify Rate Changes
 
@@ -190,7 +198,11 @@ This produces `1.000000002877801985002875644`, just drop the decimal place and y
 
 Validating all rate adjustments can be done the same way.
 
-For more information on the rates module, @vamsi wrote up a great post here: https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.md
+For more information on the rates module, @vamsi wrote up a great post here: https://github.com/makerdao/developerguides/blob/master/mcd/intro-rate-mechanism/intro-rate-mechanism.mdare set to go off
+
+### Verify Timing
+
+Occasionally, spells are set to execute at specific times, as in the case of [shutting down SCD](https://etherscan.io/address/0x3526A5858Aa91C058A7084ae8AB6d323D2BaeBB8#code) (check line 71 for an example). You can verify any UTC timestamp created in such spells using [this handy tool](https://www.unixtimestamp.com/index.php).
 
 ### Ensure Drip is called before Rates are changed.
 
