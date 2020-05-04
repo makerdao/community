@@ -41,8 +41,9 @@ Liquidation occurs through an [Auction mechanism](https://docs.makerdao.com/auct
 The simplified order of operations looks like this:
 
 - A Keeper detects an undercollateralized [Vault](vault.md) and triggers a Liquidation.
-- Part of the collateral is auctioned off to cover the outstanding Dai + Liquidation Penalty
-- Dai is then burned and the Vault owner receives the leftover collateral
+- All of the collateral is put up for auction to cover the outstanding Dai + Liquidation Penalty
+- Once bids reach the Dai amount equaling to the outstanding Dai + Liquidation Penalty, the auction reverses and bidders now compete by offering to accept less collateral for the Dai they bid in the previous phase.
+- Once the auction completes bidders receive the sold collateral, the winning bidders Dai is burned, and the Vault owner receives leftover collateral if any remains.
 
 For a more detailed guide on how Auctions and Keepers work see [The Auctions of the Maker Protocol](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol) on our [Documentation Portal](https://docs.makerdao.com/).
 
