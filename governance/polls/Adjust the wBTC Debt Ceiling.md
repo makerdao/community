@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Adjust the wBTC Debt Ceiling - May 11 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to decrese the wBTC Debt Ceiling from the current 10M to 3M, or keep it as is.
+The Maker Governance Community has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to decrese the wBTC Debt Ceiling from the current 10M to 3M, or keep it as is.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, May 11 at 5 PM UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, May 15, at 5 PM UTC.
 
