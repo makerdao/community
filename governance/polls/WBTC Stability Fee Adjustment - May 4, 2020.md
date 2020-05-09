@@ -17,7 +17,7 @@ options:
 ---
 # Poll: WBTC Stability Fee Adjustment - May 4, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **WTBC Stability Fee** options. Voters are now able to signal their support for a **WTBC Stability Fee** within a range of 0% to 4.5%.
+The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **WTBC Stability Fee** options. Voters are now able to signal their support for a **WTBC Stability Fee** within a range of 0% to 5%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, May 4 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, May 7, at 4 PM UTC.
 
