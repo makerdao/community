@@ -2,7 +2,7 @@
 title: Vault Compensation Reference Price Date Poll - May 11, 2020
 summary: Signal which date to use for ETH/BAT references prices vs DAI for vault compensation
 discussion_link: https://forum.makerdao.com/t/2275
-poll_rules: The voter may rank one or more of the poll options or they may elect to abstain from the poll entirely
+vote_type: Ranked Choice IRV
 options:
    0: Abstain
    1: March 13
