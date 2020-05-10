@@ -38,9 +38,7 @@ Arguments for the day before the compensation contract is created:
 
 ### Date to Price Translation
 
-We use Coin Market Cap because it is easy and widely known.  The price
-for a given date is the midpoint between the daily high and daily
-low. For example, for March 13,
+We use Coin Market Cap because it is easy and widely known.  The price for a given date is the midpoint between the daily high and daily low. For example, for March 13,
 
 [ETH](https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20200311&end=20200314) is (137.43 + 95.18) / 2 = 116.305
 
