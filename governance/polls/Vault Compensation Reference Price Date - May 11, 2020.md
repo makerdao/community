@@ -5,9 +5,9 @@ discussion_link: https://forum.makerdao.com/t/2275
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: March 13
-   2: The day before the compensation contract is created
-   3: Average of price on March 13 and the day before the compensation contract is created
+   1: M13
+   2: Cur
+   3: Mean(M13, Cur)
 
 ---
 # Vault Compensation Reference Price Date Poll - May 11, 2020
@@ -21,6 +21,11 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 [An initial poll on whether to compensate vault holders passed.](https://vote.makerdao.com/polling-proposal/qmwfvvguaf8rz8xwgv2cqnzzt9t5h6epzh17qmk2ue99y4)
 
 [The purpose of this poll is to decide which date to use for ETH and BAT prices in calculation of vault compensation.](https://forum.makerdao.com/t/fund-gitcoin-grant-to-build-vault-compensation-smart-contract/2273)
+
+Abbreviations:
+- M13 refers to March 13.
+- Cur refers to the day before the compensation contract is created.
+- Mean(M13, Cur) refers to the average of price on March 13 and the day before the compensation contract is created.
 
 Arguments for March 13:
 - Maker is only responsible for auction failures, not for DAI/ETH and DAI/BAT volatility.
