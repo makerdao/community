@@ -30,6 +30,7 @@ Abbreviations:
 Arguments for March 13:
 - Maker is only responsible for auction failures, not for DAI/ETH and DAI/BAT volatility.
 - The exact amount of compensation is known well in advance and is easier to decide.
+- Compensation funds can be sourced over time with less volatility risk.
 
 Arguments for the day before the compensation contract is created:
 - Most likely, both BAT and ETH will have appreciated since the liquidation event. Vault owners receive compensation similar to what they would have if they had received collateral from the liquidation auction and held it.
