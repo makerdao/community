@@ -21,7 +21,7 @@ Risks of vault total loss were well documented in multiple places. Maker governa
 
 ### Implications
 
-Acceptance of this statement does not preclude the possibility that Maker governance could, in a beneficent gesture, issue compensation for losses in special circumstances. Acceptance of this statement merely indicates that Maker governance has no obligation to issue any compensation for losses.
+Acceptance of this statement does not preclude the possibility that Maker governance could, in a beneficent gesture, issue compensation for losses in special circumstances. Acceptance of this statement merely indicates that Maker governance has **no** **obligation** to issue any compensation for losses.
 
 ---
 
