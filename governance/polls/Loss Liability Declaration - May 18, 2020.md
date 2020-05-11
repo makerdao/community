@@ -19,6 +19,10 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 Risks of vault total loss were well documented in multiple places. Maker governance does not accept liability for any past losses experienced by any vault holder, nor accepts liability for future losses.
 
+### Implications
+
+Acceptance of this statement does not preclude the possibility that Maker governance could, in a beneficent gesture, issue compensation for losses in special circumstances. Acceptance of this statement merely indicates that Maker governance has no obligation to issue any compensation for losses.
+
 ---
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
