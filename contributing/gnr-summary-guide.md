@@ -11,7 +11,7 @@ TL;DR: The *most* important part of these summaries is accuracy, readability, an
 - [Roles](#roles)
 - [Workflow](#workflow)
 
-### Summay Format Rules
+### Summary Format Rules
 
 - [The Structure](#the-structure)
 - [General Rules](#header-rules)
