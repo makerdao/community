@@ -72,6 +72,7 @@
     - [Glossary of Terms](faqs/glossary.md)
     - [Governance](faqs/governance.md)
     - [Liquidation](faqs/liquidation.md)
+    - [MakerDAO](faqs/makerdao.md)
     - [MKR Token](faqs/mkr-token.md)
     - [Oracles](faqs/oracles.md)
     - [Stability Fee](faqs/stability-fee.md)
