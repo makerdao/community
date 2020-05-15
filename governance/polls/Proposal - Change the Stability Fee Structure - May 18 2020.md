@@ -2,11 +2,11 @@
 title: Change the Stability Fee Structure - May 18 2020
 summary: Signal your support to change the structure of the weekly Stability Fee votes.
 discussion_link: https://forum.makerdao.com/t/2380
-poll_rules: The voter may select to vote for one or more of the poll options or they may elect to abstain from the poll entirely
+vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: Yes with negative Base Rate
-   2. Yes without negative Base Rate
+   1: Yes (allow negative Base Rate)
+   2: Yes (disallow negative Base Rate)
    3: No
 ---
 # Ranked Choice Poll: Change the Stability Fee Structure - May 18 2020
