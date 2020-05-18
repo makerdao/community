@@ -9,7 +9,7 @@ options:
    2: Yes (disallow negative Base Rate)
    3: No
 ---
-# Ranked Choice Poll: Change the Stability Fee Structure - May 18 2020
+# Change the Stability Fee Structure - May 18 2020
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support for changing the structure of the weekly Stability Fee votes.
 
@@ -25,7 +25,7 @@ A summary of the proposed changes:
 2. The individual `Stability Fee` parameters will be calculated by the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`.
 3. The `Base Rate` will be initialized to 0%. The `Risk Premium` of each collateral will be initialized to its `Stability Fee`.
 4. The `Risk Premium` of any collateral type can be adjusted by initiating a governance poll.
-5. The lowest value of `Base Rate` will either be 0% or no lower bound depending on the result of this poll. The implications of this are dicussed in the thread.
+5. The lowest value of `Base Rate` will either be 0% or no lower bound depending on the result of this poll. The implications of this are discussed in the thread.
 6. The `Dai Savings Rate Spread` calculation will use the `Base Rate` to determine the Dai Savings Rate value in the same way it is currently offset from the `Dai Stability Fee`.
 
 ## Next Steps
