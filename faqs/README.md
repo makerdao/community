@@ -64,7 +64,7 @@
 - [Is there more than one type of vote?](governance.md#is-there-more-than-one-type-of-vote)
 - [What does a forum signal thread look like?](governance.md#what-does-a-forum-signal-thread-look-like)
 - [Can anyone start a forum signal thread?](governance.md#can-anyone-start-a-forum-signal-thread)
-- [What’s the difference between a forum signal thread and a regular forum poll?](governance.md#what-is-the-difference-between-a-forum-signal-thread-and-a-regular-forum poll)
+- [What’s the difference between a forum signal thread and a regular forum poll?](governance.md#what-is-the-difference-between-a-forum-signal-thread-and-a-regular-forum-poll)
 - [How does a forum signal thread proceed to an on-chain Governance Poll?](governance.md#how-does-a-forum-signal-thread-proceed-to-an-on-chain-governance-poll)
 - [When do Governance Polls happen?](governance.md#when-do-governance-polls-happen)
 - [How long is the voting period of a Governance Poll?](governance.md#how-long-is-the-voting-period-of-a-governance-poll)
