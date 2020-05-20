@@ -120,7 +120,8 @@ screenshot
 
 ## Credits
 
-- Tim Black produced this summary.
 - David Utrobin produced this summary.
 - Igor Teslya produced this summary.
+- Juan Guillen produced this summary.
+- Tim Black produced this summary.
 - Everyone who spoke and presented on the call (listed in the headers.)

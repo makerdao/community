@@ -8,10 +8,11 @@ TL;DR: The *most* important part of these summaries is accuracy, readability, an
 
 ### Standard Operating Procedure
 
+- [Getting Started](#getting-started)
 - [Roles](#roles)
 - [Workflow](#workflow)
 
-### Summay Format Rules
+### Summary Format Rules
 
 - [The Structure](#the-structure)
 - [General Rules](#header-rules)
@@ -22,6 +23,10 @@ TL;DR: The *most* important part of these summaries is accuracy, readability, an
 - [Tips](#general-tips)
 
 ## Standard Operating Procedure
+
+### Getting Started
+
+To become a part of the working group that produces these summaries please join the [Maker Chat](https://chat.makerdao.com) and mention your interest in the [#community-development](https://chat.makerdao.com/channel/community-development) channel. Dai grants are available for contributing!
 
 ### Roles
 

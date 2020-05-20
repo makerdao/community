@@ -49,4 +49,6 @@ To make people aware of your event you will need to create an event page, which 
 
 ## Additional Resources
 
-[Meetup.com's Guide to Promoting your meetup](https://help.meetup.com/hc/en-us/articles/360002491331-Promoting-your-Meetup-group)
+[Submit a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to include more additional resources!
+
+[9 top tips for starting a strong Meetup group](https://helpfullee.com/meetup-tips/)

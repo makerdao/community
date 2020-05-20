@@ -64,7 +64,7 @@
 - [Is there more than one type of vote?](governance.md#is-there-more-than-one-type-of-vote)
 - [What does a forum signal thread look like?](governance.md#what-does-a-forum-signal-thread-look-like)
 - [Can anyone start a forum signal thread?](governance.md#can-anyone-start-a-forum-signal-thread)
-- [What’s the difference between a forum signal thread and a regular forum poll?](governance.md#what-is-the-difference-between-a-forum-signal-thread-and-a-regular-forum poll)
+- [What’s the difference between a forum signal thread and a regular forum poll?](governance.md#what-is-the-difference-between-a-forum-signal-thread-and-a-regular-forum-poll)
 - [How does a forum signal thread proceed to an on-chain Governance Poll?](governance.md#how-does-a-forum-signal-thread-proceed-to-an-on-chain-governance-poll)
 - [When do Governance Polls happen?](governance.md#when-do-governance-polls-happen)
 - [How long is the voting period of a Governance Poll?](governance.md#how-long-is-the-voting-period-of-a-governance-poll)
@@ -126,6 +126,26 @@
 - [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Liquidations?](liquidation.md#where-can-i-find-more-technical-information-about-liquidations)
 
+## MakerDAO
+
+- [What is MakerDAO?](makerdao.md#what-is-makerdao)
+- [Who Started MakerDAO and When?](makerdao.md#who-started-makerdao-and-when)
+- [Why did the founders call it _Maker_DAO?](makerdao.md#why-did-the-founders-call-it-_maker_dao)
+- [What does _DAO_ mean?](makerdao.md#what-does-dao-mean)
+- [Who is the Maker Community?](makerdao.md#who-is-the-maker-community)
+- [What is the Maker Foundation, and how does it relate to MakerDAO?](makerdao.md#what-is-the-maker-foundation-and-how-does-it-relate-to-makerdao)
+- [Does the Foundation Vote in MakerDAO Governance?](makerdao.md#does-the-foundation-vote-in-makerdao-governance)
+- [Will the Maker Foundation exist indefinitely?](makerdao.md#will-the-maker-foundation-exist-indefinitely)
+- [What are the primary focuses of the Maker Foundation?](makerdao.md#what-are-the-primary-focuses-of-the-maker-foundation)
+- [Where does The Maker Foundation get funding from?](makerdao.md#where-does-the-maker-foundation-get-funding-from)
+- [Who controls the Development Fund?](makerdao.md#who-controls-the-development-fund)
+- [What are the plans for the Development Fund?](makerdao.md#what-are-the-plans-for-the-development-fund)
+- [Is MKR in the Development Fund used to vote in Maker Governance?](makerdao.md#is-mkr-in-the-development-fund-used-to-vote-in-maker-governance)
+- [What is the legal structure of The Maker Foundation?](makerdao.md#what-is-the-legal-structure-of-the-maker-foundation)
+- [How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?](makerdao.md#how-do-i-distinguish-between-the-dao-and-the-team-who-is-developing-and-bootstrapping-makerdao)
+- [What is the Dai Foundation?](makerdao.md#what-is-the-dai-foundation)
+- [Who is on the Board of Trustees of the Dai Foundation?](makerdao.md#who-is-on-the-board-of-trustees-of-the-dai-foundation)
+
 ## MKR Token
 
 - [What is MKR?](mkr-token.md#what-is-mkr)
@@ -186,6 +206,6 @@
 - [What is the Collateralization Ratio?](vault.md#what-is-the-collateralization-ratio)
 - [What risks are associated with owning a Vault?](vault.md#what-risks-are-associated-with-owning-a-vault)
 - [What are Common Practices to limit risk?](vault.md#what-are-common-practices-to-limit-risk)
-- [How would a flash crash affect the Liquidation of Vaults?](vault.md#how-would-a-flash-crash-affect-the-liquidation-of-vaults)
+- [How would a flash crash on a single exchange affect the Liquidation of Vaults?](vault.md#how-would-a-flash-crash-on-a-single-exchange-affect-the-liquidation-of-vaults)
 - [Where can I view live information about Liquidations?](vault.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Vaults?](vault.md#where-can-i-find-more-technical-information-about-vaults)

@@ -4,11 +4,13 @@ Organizing a successful event requires some effort. We've put together some guid
 
 Below are the first steps for organizing an event:
 
-- Put together a clearly outlined [agenda](./event-formats-guide.md)
-- Create a [budget](./budget-guide.md)
-- Find a location and time for the event
-- Prepare a plan for [promoting](./promotion-guide.md) your event
-- Prepare a plan for recording and sharing presentations from the event
+- Decide if the event will be physical or virtual.
+- Put together a clearly outlined [agenda.](./event-formats-guide.md)
+- Create a [budget.](./budget-guide.md)
+- Find a location if it's physical event.
+- Find a time for the event.
+- Prepare a plan for [promoting](./promotion-guide.md) your event.
+- Prepare a plan for recording and sharing presentations from the event.
 
 ## Best Practices
 
@@ -48,7 +50,7 @@ Once you have your meetup plan ready, speakers confirmed, the venue set, and the
 - During the introduction, describe the agenda, introduce the speakers, and talk about the key takeaways participants can expect from the event.
 - Be welcoming and informative.
 
-## Post-Event Process
+## Feedback Form after the event
 
 As part of the requirements for getting funding approved, we require hosts to provide information about their event after-the-fact in a [Feedback Form](https://airtable.com/shr6Icuj6tOy0k55l). This helps us to better understand the impact of these events and what we can do to help make them better.
 

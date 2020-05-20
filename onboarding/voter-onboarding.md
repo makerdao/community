@@ -14,7 +14,7 @@ Voting takes place frequently and requires a governance community who is activel
 
 For more information, visit:
 
-- [Governance FAQ](https://github.com/makerdao/community/blob/master/faqs/governance.md#governance)
+- [Governance FAQ](../faqs/governance.md)
 - [Governance: Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#governance)
 - [What is DAI Governance? - DAI Beginner Series](https://youtu.be/QHmNf_YROQU)
 
@@ -40,7 +40,7 @@ A collection of sources and materials useful for MKR voters:
 ### Essential:
 
 - [Governance Forum](https://forum.makerdao.com/c/governance)
-- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-and-risk) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts) | [Summaries](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts)
+- [Governance and Risk Meeting: Audio](https://soundcloud.com/makerdao/sets/governance-calls) | [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Transcripts](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts) | [Summaries](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/transcripts)
 - [Ratified Foundation Proposal](https://medium.com/makerdao/foundation-proposal-v2-f10d8ee5fe8c)
 - [Voting Tutorial Video](https://youtu.be/wP7DedWcEmg?list=PLLzkWCj8ywWP6yCPPm1IRKysNsrzg3LQ6)
 
@@ -48,11 +48,11 @@ A collection of sources and materials useful for MKR voters:
 
 - [Awesome-MakerDAO: Governance](https://github.com/makerdao/awesome-makerdao#governance)
 - [Awesome-MakerDAO: Voting](https://github.com/makerdao/awesome-makerdao#voting)
-- [Governance FAQ](./faqs/governance.md)
+- [Governance FAQ](../faqs/governance.md)
 
 ## Governance Polling vs. Executive Voting
 
-There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](https://community-development.makerdao.com/makerdao-faqs/faqs/governance#what-is-continuous-approval-voting).
+There are two ways MKR holders directly manage the system: Governance Polling and Executive Voting. Governance Polls establish a soft consensus and measure community sentiment, through [time-based voting](../faqs/governance#how-long-is-the-voting-period-of-a-governance-poll), while Executive Votes enact hard changes to the Protocol when passed, through [continuous approval voting](../faqs/governance#what-is-continuous-approval-voting).
 
 Governance Polls cover topics like rate adjustments, priorities for including new assets into the system, governance process changes, and mandates for new roles. Polls often run concurrently, allowing voters to participate in any number of them at the same time. Successful Governance Polls advance to the next stage of the governance process to undergo an Executive Vote. While poll results do not enact hard changes to the Maker Protocol, they play a vital role in how governance moves forward. Poll outcomes provide insight into voters’ preferences.
 
@@ -203,10 +203,10 @@ To begin voting, skip ahead to the [Voting Process](#the-voting-process) section
 
 See the links below for in-depth, step-by-step walkthroughs for other wallet types:
 
-*   [Linked Wallet Setup: Trezor](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
-*   [Linked Wallet Setup: Ledger Nano S](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
-*   [Linked Wallet Setup: Two MetaMask Accounts](https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
-*   [Linked Wallet Setup: Paper Wallets Using SETH](https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
+*   [Linked Wallet Setup: Trezor](https://web.archive.org/web/20190112110249/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-trezor-hardware-wallet-af4969aa157f)
+*   [Linked Wallet Setup: Ledger Nano S](https://web.archive.org/web/20190112110248/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-a-ledger-hardware-wallet-1f00d49ce43a)
+*   [Linked Wallet Setup: Two MetaMask Accounts](https://web.archive.org/web/20190112110247/https://medium.com/makerdao/how-to-setup-the-voting-contract-using-two-metamask-accounts-4e83e4fec602)
+*   [Linked Wallet Setup: Paper Wallets Using SETH](https://web.archive.org/web/20180913234419/https://medium.com/makerdao/guide-vote-proxy-setup-with-seth-f62397a10c59)
 
 ### Managing the Linked Wallet Voting Contract
 
@@ -395,14 +395,14 @@ To vote with the same wallet later, return to the Voting Contract manager to top
 
 Once the Voting contract is set up, return to the [Governance Portal](https://vote.makerdao.com/). Visit the “Polling” tab to participate in Governance Polls or the “Executive” tab to participate in Executive Votes.
 
-For more information on Governance Polls and Executive Votes, click on the proposal for more details. For other frequently asked questions, visit our [Governance FAQ](https://community-development.makerdao.com/makerdao-faqs/faqs/governance).
+For more information on Governance Polls and Executive Votes, click on the proposal for more details. For other frequently asked questions, visit our [Governance FAQ](../faqs/governance.md).
 
 ### Governance Polling
 
 ![Governance Polling](assets/voter/58.png)
-_ Governance Polling_
+_Governance Polling_
 
 ### Executive Voting
 
 ![Executive Voting](assets/voter/59.png)
-_ Executive Voting_
+_Executive Voting_
