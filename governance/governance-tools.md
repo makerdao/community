@@ -10,14 +10,17 @@ https://dai.stablecoin.science/
 https://daipeg.com/  
 http://dai.descipher.io/  
 https://defi.ai/dai  
+https://nomics.com/assets/dai-dai  
 
 ## Collateral and Liquidations
 http://makervaults.descipher.io/  
 https://defiexplore.com/liquidations  
 https://twitter.com/MakerDaiBot  
 
-## Business Analytics
+## Protocol Analytics
 https://www.mkranalytics.com/  
+https://graphs.santiment.net/makerdao#overview  
+https://graphs.santiment.net/makerdao-pro#mcd_stats  
 
 ## Auctions
 https://daiauctions.com/#  
@@ -25,10 +28,6 @@ https://daiauctions.com/#
 ## Governance History
 https://mkrgov.science/  
 
-## General Purpose
-https://nomics.com/assets/dai-dai  
-https://graphs.santiment.net/makerdao#overview  
-https://graphs.santiment.net/makerdao-pro#mcd_stats  
 
 
 
