@@ -1,15 +1,17 @@
-# Episode 91: April 30, 2020
+# Episode 93: May 14, 2020
 
 ## Agenda
 
-- [00:00](https://youtu.be/NiHbRlTxhhY?t=2): Intro with Rich Brown
-- [4:56](https://youtu.be/NiHbRlTxhhY): Governance at a Glance with LongForWisdom
-- [12:40](https://youtu.be/NiHbRlTxhhY?t=760): MCD Ethereum System Liquidation Report w/ Makerman
-- [1:05:05](https://youtu.be/NiHbRlTxhhY?t=3904): State of the Peg with Vishesh
+- [00:00](https://youtu.be/jkVNeI3-rWs?t=0): Intro with Rich Brown
+- [05:07](https://youtu.be/jkVNeI3-rWs?t=307): Governance at a Glance with LongForWisdom
+- [09:03](https://youtu.be/jkVNeI3-rWs?t=543): MIPs Process Update with Charles St. Louis
+- [19:42](https://youtu.be/jkVNeI3-rWs?t=1182): MIP 14: Protocol DAI Transfer and MIP 13: Declarations of Intent with LongForWisdom
+- [35:14](https://youtu.be/jkVNeI3-rWs?t=2114): TUSD Collateral Onboarding with  Cyrus Younessi
+- [1:05:22](https://youtu.be/jkVNeI3-rWs?t=3922): ConsolFreight and Paperchain with Lucas Vogelsang
 
 ## Video
 
-<https://www.youtube.com/watch?v=NiHbRlTxhhY>
+<https://www.youtube.com/watch?v=jkVNeI3-rWs>
 
 ## Introduction
 
@@ -17,288 +19,326 @@
 
 #### Agenda Summary and Talking Points
 
-[00:00](https://youtu.be/NiHbRlTxhhY?t=2)
+[00:00](https://youtu.be/jkVNeI3-rWs?t=0)
 
-- Hello, everyone. Welcome to the April 30th edition of the Scientific Governance and Risk meeting. Today we will be talking about Governance at a Glance. We will hear from Vishesh about the state of the pegs, or even just singular peg. We will be hearing from MakerMan, who has done a fantastic amount of work for the ecosystem generating a report on auctions based on the events of the zero bid auctions episode. He'll be walking us through some of the numbers there and hopefully explain some of the most intimidating graphs I've ever seen.
-- I don't want to do too much exposition today, but I want to draw some attention to the very cool development that we see more and more in these calls. Traditionally we divide them into the Governance section, Risk section, occasionally Smart Contracts, and Oracle sections. Those are mostly a representation of the Foundation's bootstrapped and/or internal teams. More and more often, we are allocating time to the community.
-- We have community-led teams where the community begins to self-organize and assume responsibilities, get mandated by other members of the community, and simply self-organize in ways that are fantastically healthy. We're seeing an example of that today. MakerMan understood that there was work to be done in the ecosystem, and he had the skills to do it. He stepped up and took care of what I can only imagine was, or potentially will be, an enormously thankless job of modeling the events of March 12th, AKA Black Thursday. If you have a chance, give him a thumbs up in the chats. I think that's the compensation that he gets from the community, at this point, and a pat on the back for the super hard work that this represents.
-- I promised to keep it short, and I will, so here's the rest of the preamble: if you have questions, please ask them if you have access to a microphone. If you don't have access to a microphone, type the issue in the sidebar, and one of the co-hosts will attempt to get to them in the opportune moment.
-- Discussions happen in the [forum.](https://forum.makerdao.com/)
+- Welcome to the May 14th edition of scientific Governance and Risk meeting, my name is Richard Brown. I am the head of Community development and also currently the only Governance Facilitator(`GF`) but not for long! We'll talk about that today.
+- Our agenda includes a great deal to go over as we transition our world from old to new: the monetary policy from the old world and digging into `MIPs` here in the new world. As we refine the process, LongForWisdom will be telling us about Governance at a Glance. A `MIPs` process update with Charles and what that transition from the old world to the new world looks like. LFW will review two `MIPs` he submitted. Cyrus will give us a recap from last week about TUSD. Lucas from Centrifuge will provide us with a review of their two `MIPs`, one for console freight and one for paperchain. We are jam-packed today. I'm going to likely tap on people's shoulders to keep time rolling.
+    - I forgot some of my MIPS responsibilities to take care of today. As we start to figure out what the points of order are, how to formalize this, where the speeches go, and when the gavels get banged (this is going to be somewhat shambolic so, apologies)
+- Today we're in week two of the `MIPs` process, the light `MIPs` process. As Governance Facilitator, it's my responsibility to review the inclusion polls from the previous week as a sort of "mock-UN review" of the `MIPs` process, the only `MIP` that we have in play is the inclusion of another governance facilitator. We had a poll to determine the community's appetite for onboarding LongForWisdom. This is an interesting poll for a few reasons.
+    - One exciting aspect is the default inclusion threshold, which is a development we need to internalize. A certain amount of participation is required for a poll to go through. In this poll, the default threshold for a satisfactory yes, or signal that consensus was achieved, was 3k MKR. Happily, it should have ended, and good news! LFW will be officially included in this next week's Governance Poll. If you want to offer him your congratulations with a whopping 93.42% support for his ratification, please do. BUT! Someone voted 'no' with 400MKR. A few days ago, I went to the portal to signal support for Long. I thought to myself, how amusing, I was going to vote 'no' myself, just to see what would happen. But someone beat me to it. Whoever you are, you're a jerk, but there's Governance in action :smile:.
+- Take it away Long. You're halfway there.
 
-## Community
+## Main Theme
 
 ### LongForWisdom
 
-#### Governance at a Glance
+#### Governance At a Glance
 
-[4:56](https://youtu.be/NiHbRlTxhhY)
+[05:07](https://youtu.be/jkVNeI3-rWs?t=307)
 
-- [Maker MCD Ethereum System Liquidation report and Black Thursday Compensation Analysis](https://forum.makerdao.com/t/maker-mcd-ethereum-system-liquidation-report-and-black-thursday-compensation-analysis/2243)
-    - [Liquidation Report](https://drive.google.com/file/d/1oK3zBVKz-tNVeYU1Pezzu2A-7GQqRMRp/view)
-    - Not to steal MakerMan's thunder, but the most significant discussion going on in the forum is the discussion about the liquidation report, which he will present later. Lots of voters discussing possible compensation things. If more core community members want to comment on that thread, that might be beneficial.
-    - Rich: Depending on how the community wants to move forward, this is going to be one of the most complex operations that need to be organized. That operation requires alignment, communication, stakeholders, and numerous other activities. It feels like the conversation might be narrowing down a bit, and that feels slightly alarming to me. If you consider yourself a stakeholder in this issue or even a trusted third party, please consider hopping into this thread and make yourself known. Also, if you have skills that you can bring to bear, I'm sure that those additional resources would be appreciated.
-
-- [Discussion to change Stability Fee's - Hexonaut](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258)
-    - Hexonaut's post is related to how we currently vote weekly on ETH and BAT together, and then USDC SF separately. He discusses how we can change that structure to make it more sustainable.
-    - Sam(Hexonaut): I think you covered the gist of it. I noticed that we added the Dai stability fee, and as we threw USDC in there, we added a vote for it as well. This post is to generalize the structure moving forward. So, when we add the 10th collateral, we don't have ten weekly stability fee votes. I proposed what I think a decent next step would be for generalization. 
-    - Rich: Can you go over a brief description of what you're proposing?
-    - Sam: Sure. Since we have Dai-to-Sai, we have encoded all the fees into the `duty` parameters, the vault specific fees. I'm suggesting that we split the Stability Fee into two portions:
-        - The first portion being the `base rate`, which is the global fee. That's the minimum that everything gets set. 
-        - And on top of that, we have a `vault specific fee`, which mostly is the risk premium. There's some discussion about whether it should be only the risk premium or if there are some other parameters that should go in there. But I want to split it out.
-    - Sam: The weekly Dai stability fee remains, and we change that to the base rate vote. For peg stability week to week, we vote on the base rate. The vault specific fees are proposed when we need to change them based on risk premium. In the end, I imagine being only peg vote week to week, and that's the base rate.
-    - Rich: I'm enormously engaged with this idea, naturally because it reduces my administration overhead by like 90%, so I love it. Have you had the time to look at this, Cyrus, or is it too early to present an opinion about feasibility?
-    - Cyrus Younessi: The idea is something we've all been trying to veer to for a long time now. It's a great idea.
-    - SamM: In terms of timeline, I'm leaving the discussion open for a week or so. If everything settles, I'll move on to a signal poll.
-    - Rich: Maybe we'll dive into this again next Thursday, maybe do a more in-depth presentation for us, that would be interesting. And also, it touches on one of my favorite points recently: intention versus implementation and the path from one to the other. I like the fact that there's going to be a discussion for a week and moving into a poll as well. We need a review afterward since this involves numerous stakeholders. Let's get some thoughts, considering calendaring and resource allocation.
+- [PAXG PAX-Gold as MCD collateral](https://forum.makerdao.com/t/paxg-pax-gold-as-mcd-collateral/2423)
+    - @befitsandpiper discusses the advantages and disadvantages of PaxGold as collateral for MCD.
+    - Still no collateral application from PAXG.
+- [Discussion Thread: Use synthetics for collateral to avoid centralization risks](https://forum.makerdao.com/t/discussion-thread-use-synthetics-for-collateral-to-avoid-centralization-risks/2343)
+    - @latetot asks for opinions on using synthetics as collateral in the Maker Protocol; the discussion touches on Synthetix and synths in general.
+- [The Target Rate Feedback Mechanism: An Introduction](https://forum.makerdao.com/t/the-target-rate-feedback-mechanism-an-introduction/2319)
+    - Kurt gives a brief overview of the TRFM (target rate feedback mechanism) as well as the benefits and downsides of implementing it in the Maker Protocol.
+- [Revisiting GSM Delay & Dark Spell Social Layer Discussion](https://forum.makerdao.com/t/revisiting-gsm-delay-dark-spell-social-layer-discussion/1937/24)
+    - Will proposes producing an initial policy document for use in case a dark-spell is necessary before Governance can determine a more durable, long term policy.
 
 ##### Seeking Signal
 
-[`MIPs` vote](https://forum.makerdao.com/t/the-ratification-timeline-for-the-initial-13-maker-improvement-proposals-mips-and-2-subproposals/2169)
-- Most polls are finished now. Does anyone know if the `MIPs` timing poll was successful? I didn't even look.
-    - Rich: Yes, it passed. 86%.
+- Nothing new this week 
+- [Adjust wBTC Debt Ceiling](https://forum.makerdao.com/t/signal-request-adjust-wbtc-debt-ceiling/2333) 
+    - The vote concluded with a no.
+- [Change the Stability Fee Structure](https://forum.makerdao.com/t/signal-request-change-the-stability-fee-structure/2380)
+    - Rich: Lots to debate here, so we'll carve out some time next week for this topic.
 
-[[WBTC] - WBTC Collateral Request For Comment](https://forum.makerdao.com/t/wbtc-wbtc-collateral-request-for-comment/2135)
-- wBTC vote is still going. If you haven't voted, vote.
+## Maker Improvement Proposals
 
-## Community
+### Charles St. Louis
 
-### MakerMan
+#### Week Two Update
 
-#### Black Thursday Vault Analysis
+[09:03](https://youtu.be/jkVNeI3-rWs?t=543)
 
-[12:40](https://youtu.be/NiHbRlTxhhY?t=760)
+- I'd like to go over the same structure as I did last week in the Governance call. Provide a little more detail on this week's activity in the current Governance cycle, what's up next week, and what we expect for the fourth week. I'll also talk about a few more updates concerning the MIPs process and collateral onboarding in general.
+- I'll be posting [this update on the forum](https://forum.makerdao.com/t/weekly-mips-update/2576) as a thread like I did earlier this week. Hopefully, you can get it tomorrow instead of next Monday, so people can read about it earlier on.
 
-[Black Thursday Compensation Analysis Forum Post](https://forum.makerdao.com/t/maker-mcd-ethereum-system-liquidation-report-and-black-thursday-compensation-analysis/2243)
+#### Inclusion Poll
 
-- Some context: we know when Black Thursday happened. I reported the Zero bid auctions in here, with some numbers in the introduction. Liquidations of 62842 ETH is attributed to 320 vaults.
+- Earlier today, the inclusion poll for core personnel onboarding of LFW as Governance Facilitator passed. The results were 5,529MKR to 403MKR, plus the default inclusion threshold of 3k MKR. Yes, votes were higher than both, so the proposal passed.
+- On today's call, we'll review the results of the inclusion poll: next step is the Governance Poll that we will have next Monday. With respect to next week on Monday, we'll have the Governance polls submitted by the GF. It will run for three days. In general, the governance poll's purpose is to determine if this sub-proposal to add LFW as Governance Facilitator should proceed to the final Executive vote. Ultimately putting it up for acceptance or rejection. If it passes, it will go to the Executive Vote.
+- On that Thursday of next week, the GF will do another review, similar to this week. Talking about results and making sure we can proceed to the next step. We'll acknowledge that the final vote will be ready in week 4.
+- In terms of week 4, the executive vote will be submitted on a Monday. It will have an expiration of 4 days. Then it will have no effects. MIPS and sub proposals only move to accepted if the vote is passed within that 4-day limit. If it fails to pass in that windows, the `MIP` is changed to the rejected status.
 
-![](https://i.imgur.com/N63PUyY.png)
-- When you look at the numbers, it cost the protocol $6.65 million. Part of which was reduced by liquidation fees and other auctions.
-- Maker governance did stuff: immediately stopped the auction system, changed the auction parameters themselves: lot sizes to 500 ETH, auction duration to 6 hours, adjusted risk parameters and added USDC for Dai liquidity, added a circuit breaker.
-- Afterward, the community responded, including a large call for auction front-ends. This response allowed for more participants in the auction system and seemed to have helped. We signaled that we wanted to do something, and I was in this situation from the start. Because Black Thursday was an interesting Black Swan. Specifically, what happened, and how can we do better? I think this will be valuable for us in the end, even if right now it's painful. I was going to refer to all the data sets, thanks to Twicky and Bobface, who contributed data sets. These all are available on the forum.
-- I wanted to look at the whole system because to understand what happens in a bad system, you have to look at it when it's good.
+#### Collateral Onboarding
 
-![](https://i.imgur.com/hbFZECe.png)
-- That table is how this analysis is divided: into natural sections based on assumptions of a properly operating system and where it breaks down. I'm going to walk through the data sets.
+- In week four, we have the Community Greenlight Poll (`CGP`) to get direction about what to do next with the `MIP 6` applications that have been proposed in the Forums. The `CGP` will be posted on the 4th Monday at the same time as the Executive Vote for Long's sub-proposal. It will run until Friday.
+- On Thursday of week four, the GFs do a Governance Cycle review for this meeting, which gives the opportunity to discuss the past Governance cycle and everything that happened throughout. As well as discuss any potential upcoming Governance cycle and submissions for the next month.
+- In terms of overall collateral onboarding, I'd like to reemphasize that we are in transition from the current collateral onboarding practices that we know to the `MIPs` process.
+- During this period, we'll use the weekly cycle format that we've been using for this month.
+    - Given that the results of the `CGP` end on week 4 of this month, May 28th, the `MIP 12` proposals with the Domain teams work for those collateral assets will likely not be ready for the June's Governance cycle. This means the Domain teams will have to determine which assets they will work on, from both the poll and their own judgment. They'll work on the deliverables over the course of June; then, the proposals will likely be ready to enter the Governance Cycle in July.
+- That's my update. I'll post it as a government thread in the governance category.
 
-[14:53](https://youtu.be/NiHbRlTxhhY?t=893)
+#### Questions and Comments 2
 
-![](https://i.imgur.com/Qrod517.png)
-- MCD Auction performance vs. Date
- 
-![](https://i.imgur.com/snG9lFI.png)
-- The second chart is auction performance by vault.
-- At the 113% percent mark, Maker got its full 13% and recovered Dai liquidity. With the red dots below, that's the percent collateral returned.
-- You can look at the markets below that, that scatter around zero, where keepers made or lost money relative to the market at the time. You can see the discontinuity at 3-12 and 3-13 corresponding to Black Thursday. There was another discontinuity at 3-16 when we opened up and made changes. I also don't have the ETH price chart on here I would like to but don't have the tooling and data.
-- You can look at these auctions by time, and that gives you a great snapshot of what's happening for most of the period. Cross-referencing with auction number completes the picture. 3-12 to 3-13 are the days we want to focus on. ID:760 is the first point where we started getting zero bids.
+[13:29](https://youtu.be/jkVNeI3-rWs?t=809)
 
-![](https://i.imgur.com/T4AbQSl.png)
-- (Editor note: Look at the red dots on the chart line of 20%, that's when the system is recovering an optimal amount of collateral after collateral auctions)
-- Keepers come online and then bam; another chunk flew out at around 1200. Keepers came in around 2200, and we almost hit 20% again, then another discontinuity. Something was off, and auctions started getting weird.
+- Rich: Thanks, Charles, for the recap. One of the main takeaways is that `MIPs` will be an enormously useful tool in the arsenal. But it will take some muscle memory to get it fully internalized. So as we plow through this month looking forward to having more integrations next month. Speaking of, one of our secret champions of the `MIPs` process is up next.
+    - LFW: Before we do that, Lucas asked about when the first domain team greenlights will be published on the collateral applications. I believe the first ones have already been started, and I think Nik put something up from the oracle team. The deadline is supposed to be Friday (AKA tomorrow). Hoping to see a rush of them happen at the end.
+    - Rich: The primary issue, and I love this since I get to do callbacks to themes in previous meetings, is the path from intention to implementation. Understanding what the `MIPs` process entails, especially all of its individual pieces required in order to put them into play. Additionally, dealing with the level of work we have on our plates.
+    - Rich: There are numerous themes. One is pure bandwidth. The `MIPs` process has published a best-case scenario for the preferred path to onboard collateral types. One of the frictions that we have run into is the volume of work we encountered with onboarding these collateral types. The coordination across stakeholders and domain teams need to provide analysis for each application.
+    - Rich: Coordinating all of that work is not an insignificant task. We're working on it internally, how to communicate it back to the `MIPs` applicants, and we're not there yet. When will we be there? I'm not entirely sure yet. Hopefully, this week, or next week, and we can start digging into the application process. My expectation is that there will be some meetings involved, sort of like a Q&A session between the domain teams and the `MIPs` applicants, so we can establish some baselines to understand all of the moving pieces. As an example, when we did wBTC internally, that's something potentially to be expected; it's a well-known project in the ecosystem. It still took a fantastic amount of detailed work across several departments at Maker to make that happen. I'm sorry, Lucas I'm sure that's not satisfying, but we will reach out to you to work with you and other `MIPs` applicants.
+    - LFW: It's interesting that we're not talking about the greenlights here yet.
+    - Rich: For sure, it's even more complicated. Nik is sounding off in the chat and Cyrus; maybe you can add some color to the greenlights?
+    - Cyrus: I think that you have covered the bandwidth issue pretty well, we're trying to work through everything as fast as we can, but it's a new process. If anyone has questions, definitely reach out.
 
-![](https://i.imgur.com/4QxtJ60.png)
-- You can look to the blue dots, follow my mouse pointer, and see keepers struggle to get online. We could use more analysis, especially as things started to return to normal.
+### LongForWisdom
 
-![](https://i.imgur.com/CRInDuG.png)
-- Auctions go down, but in time context, it's hard to understand the where on this graph. Trying to figure out the post-AGC (Auction Governance Change) at this end of the graph. That lays out what happened in auctions dot by dot.
-- The blue line is the tab; I set to 113% because anything below 100 means the protocol loses money. The discontinuities are more clear on this graph, but you could zoom in to see each point where we hit zero. The red line is the collateral returned. In good times we're getting 20%.
+#### Declarations of Intent and Protocol DAI Transfer
 
-[19:16](https://youtu.be/NiHbRlTxhhY?t=1156)
-  
-- Rich: All these spikes and peaks are they correlated to a slowdown? Or gas fees in the network, or is there another circumstance?
-    - MM: Throughout this whole period, gas fees were around 300 GWEI. It was challenging. You'd have to do that analysis block by block, which I didn't do. The data is on-chain but good luck! This data set frames a specific context: "under severe liquidation stress and compression, what did you think you could get in a fair auction system when you get liquidated?"
-    - MM: As a user, one might be like, "I read all the information, I understand that auction performance in a black swan could be instant." If the OSM is coming down fast, you will get liquidated, and get nothing back, and the protocol will lose money. No "if's, and's, or but's" about this. If the price is moving almost 20% every hour, the system is sending out liquidity hard and fast; then, the markets couldn't handle it. Everyone was trying to do everything at once led to a huge gas increase on Ethereum.
-    - Rich: it seems interesting there are exogenous forces. Well, there are other factors at play here, and I would be happy to hear from other people with better analysis than me. We have several auctions happening at the same time,  network congestion, and liquidity. These are the three factors that would have impacted the success of the auctions.
-    - MM: Generally, that's the impression.
+[19:42](https://youtu.be/jkVNeI3-rWs?t=1182)
 
-![](https://i.imgur.com/OxrxuVv.png)
-- There's also the additional complexity of time: do you look at the auction time as when they `deal`? There's a whole period, of about 10 minutes, where things happened. So what do you call the time stamp? It seems like `deal` time was best since that's when you can act on it and take advantage of the market. You pick a time stamp for some event and then align the data with that. I don't have this by how they were `kick`ed in the first phase. I have it by when they go through `deal`. I didn't evaluate that as an analysis point, you can pull it, you can see when the deal hits and you can see when it's confirmed, we'd need mempool analysis for that. My analysis, overall, gave us an idea of what auctions look like when they're good or not. Thanks to Lev for the formula correction to 24.67% for collateral return.
+- I posted a couple of `MIPs` in the forum early in the week. They don't have numbers yet(now they do) because the `MIPs` editor assigns the numbers.
 
-![](https://i.imgur.com/EC459tv.png)
+#### MIP 14 Protocol DAI Transfer
 
-![](https://i.imgur.com/w6qJUh9.png)
-- We're mostly over it now, though someone is overpaying on auctions.
-- One can view the red as an indicator for when it got difficult, if you average it all out when it was good, it was around 10%. My question was just to get a look at it. I knew that every data point here was a person, 320 of them. There are hundreds of people here thrown under an onslaught. This analysis is my best to figure out what happened to them and how that looked.
+[20:00](https://youtu.be/jkVNeI3-rWs?t=1200)
 
-![](https://i.imgur.com/cklMuzw.png)
-- Breaking it down from there, I do some more analysis.  The vast amount of action is in the Black Thursday and post-AGC period. You still see losses in the pre-AGC and post AGC period. We should not have losses that post to the system. In periods where I think it was stable, the biggest issue was collateral returned. Even in post AGC, where we should be good, it was almost as bad as Black Thursday.
+[Forum Thread for MIP14](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
 
-![](https://i.imgur.com/lli4C8j.png)
-- I broke these periods of auctions down, looking into bids and breaking it out there to find a result and an average. Though these aren't weighted averages, they don't have the volume underneath. What I saw universally: the one bid auctions nail us every time (in orange). The tab inefficiency was bad. Of course, this was in BT, so it's expected to be horrible. At the first table, 113% tab efficiency should be good, but 0% returned? Really?!?  What happened there? That's when it was good. Even afterward, the third table and first row in orange, we have 122 returning 1.88 % with a tab efficiency of 95%; it means we lost money in total.
+- Protocol DAI Transfer defines a process that allows Governance to transfer DAI to an Ethereum address.
+- There are uncomplicated requirements. There are no onerous requirements. If you can get `MIP` sub proposal through this process, it will be added to an executive vote with a call to the `suck` function, which allows Governance to pull Dai out of the protocol and send it to an address.
+- I wrote this to be a very generic low-level thing we could use, in the case where we don't have a more specific, detailed process. For example, we want to build more complex solutions in the future for treasury management and paying people. But for now, we can fall back onto this.
 
-![](https://i.imgur.com/CHT7ehU.png)
-- Post AGC, when it's supposed to be better, we get no zero bid auctions. Which is awesome. But we go and look at the yellow section; we got 12, 13, 16, 14 percent returned in here. These are for three or more bids. You can average them all out again, but post-AGC needs another careful look. I broke this down by lot size.
+##### Questions and Comments 3
 
-![](https://i.imgur.com/RRZDo8M.png)
-- The smaller lots seemed to perform as good or better than the larger ones. You can easily bid up smaller auctions if you're already on the hook for that Dai. But if you look at the 500ETH lots, all paid barely 3% back. There are 76 out of 142 of those.
-- There are some conclusions: the one bid auctions suck, indicated by the data. I try not to argue much. Just present the data.
+[21:50](https://youtu.be/jkVNeI3-rWs?t=1310)
 
-#### BT Analysis Questions and Comments
+- Rich: There will be questions, though I think it hasn't just set in yet. This is the first example where the community can self-fund for activities.
+    - LFW: Eventually, yes. The idea is any reason that Dai needs to be sent; the process can be covered by this proposal.
+- Rich: One of the questions is guardrails: How do we protect the protocol from bad actors? What social layer would we need to vet/verify these actions or even manage those funds in transit? The questions could be endless, but the intention behind the `MIP` is compelling. The Foundation's responsibility is to bootstrap the protocol. We do that in different ways; by creating reference implementations in software or by facilitating different roles in the ecosystem until they become self-sustaining. Ultimately, there's no true autonomy in that model unless empowered actors have access to their own funding sources. Having a mechanism like this in place changes the fundamental landscape of how Governance works. I encourage people to take a good look at this one.
+    - LFW: It will be up to Governance to properly vet sub proposals. The onus is on the creator of the sub-proposal to provide a reason why their funding request is necessary.
+    - Charles: I want to add that these proposals are very fresh, and most haven't read through them. There's no need to fully agree now; the intention is to introduce them and move the discussion to the forums. There's no need to have full commentary now.
 
-[27:39](https://youtu.be/NiHbRlTxhhY?t=1659)
+[25:00](https://youtu.be/jkVNeI3-rWs?t=1496)
 
-- Rich: This is a huge data dump, there's a bunch of stuff going on here. What do you mean by two bids? Are you suggesting that unless two people are bidding, the auction is invalid?
-    - MakerMan: The recommendation is that you want two different bidders, at least that, and then ideally three bids. If you have that as a minimum requirement, it probably will get you a better result, but I didn't have the unique number of bidders at the time. At some point, I will get that data. Possibly add more even beyond that. I have the number of bids, the sequence changes, not who did them, and how many. And you want that data, ideally. So I looked at the number of bids that they received and the lot size.
-    - Rich: Do you suppose that it's just too rich for people's blood or people don't want to put that value at risk?
-    - MakerMan: That's the conclusion, on the 500s, is that it's just too much Dai. That's the real conclusion. The 500's are just too big.
+- Cryptowanderer: I have one small comment, I think is worth mentioning. An executive, already in week four, to add you as GF needing 60K MKR within four days is a steep hill to climb. We need to think about a more efficient way to deal with these "process MIPs" that don't have a codebase change and might not have to go all the way to on-chain voting to ratify. It's a complicated question, but our ratifying process for `MIPs` without executive votes, so that we don't end up in a situation where an executive vote happening early in the week that will have difficulty getting passed. Ultimately I strongly encourage people to go to the forum and check the technical part particularly. Especially if "sucking" Dai from the `VAT` immediately triggers `FLOP` auctions. Perhaps Kurt can help because if we're sucking and initiating `FLOP` auctions immediately, that could be a problem. If anyone can come up with a way of processing `MIPs` without going through the executive vote, that would be golden.
+    - LFW: This is something we have been discussing lately. We don't necessarily need an executive vote to do non-technical `MIPs`. Staking MKR is slightly more durable than Polling. As written, non-technical MIPs need to go through the process, but if we do realize that this is not optimal, we might change it.
+    - Crytowanderer: I'm in favor of it ATM, but it's part of the process we can iterate and improve on in the long term. If you submit a MIP to improve the process, not only would that be Meta, it would be appreciated.
+    - CSL: another point to consider is that if there were two different cycles for both technical and process `MIPS`, we would have to manage the additional complexity caused by the overlap between the cycles. But you are right, that a core principle about `MIPs` is that you can iterate over time, making amendments to them. If there is a lot of consensus in the community about changing this "process versus technical MIPS" life-cycle, it will eventually get voted in.
+    - Lev: I think that there is a natural or canonical turnout requirement for executive votes since you have to overcome the previous hat. You don't have this with polls, where someone needs to make an arbitrary decision for the turnout requirement to make it valid. The executive votes have this conservative quality with a very high barrier. That's important to take into account when deciding on the process. If you do create a process `MIP` that goes up and passes with low turnout, someone could point to it later in the future as illegitimate. Since it could be examined as "this is ridiculous, it only had 1k MKR voting for it," or "I never even see that poll." You could not argue that you have not seen an executive vote, as you could with a poll. You're shooting yourself in the foot passing process MIPS on lower turnout Governance polls.
+    - Kurt: That's a good point, and maybe you could go even further and say that maybe for these process `MIPS` we should be, as part of the executive vote, putting a hash of the document we agreed to on-chain; so that there is an attestation on-chain.
+    - lev: Absolutely agree about the attestation. That's currently, in my opinion, an issue with the Governance Poll process. I believe, in theory, it's possible to edit the wording of a Governance Poll. I don't know if it happened before or not. I assume that if the proposal has a typo or a small error, it could be edited. I'm not aware of a process to check the wording at vote, this is a side problem, but Kurt's suggestion is great.
+    - Rich: There's no shortage of things on our to-do list or things we could add. But as context, our polls go into GitHub. So there is an audit trail there to avoid ninja editing. It's not the best solution and isn't very decentralized. Wish list for me: I'd prefer that this stuff go into IPFS and called directly from there. If the community would like to see that sooner rather than later, then it's something we could consider. Forum threads, perhaps? If someone wants to accelerate the process.
 
-[29:12](https://youtu.be/NiHbRlTxhhY?t=1754)
+#### Declarations of Intent
 
-- Nik Kunkel: I haven't gone through the analysis in detail, so this is the first time I'm hearing the reasoning, and the data explained. Correct me if I got anything wrong. What I did notice is that you keep bringing up the `OSM` with regards to the price. I'm not sure if that's the right approach here. The `OSM` exists not to say "this is the price right now," but in my opinion, it exists as a buffer to protect the system from oracle attacks. It's not necessarily indicative of what the price of something currently is or should be to our best estimate. Why aren't you using the medianizer price as a reference rather than the `OSM`?
-    - MakerMan: I had to do this by hand, if you give me a dataset, it can be added to the data, no problem. I need a medianizer data set marginalized to the right time points for the actual auctions themselves. I only have two datasets that followed that criteria, which happened to be the `OSM` and then Uniswap, which is also on-chain. I have both of those here. It was arbitrary what datasets I had at the time that I could use. The first thing I put in here was the hour price marks in here by hand.
-    - MM: The light blue and the purple in Fig1 was me adding the hour marks on a real fine time scale. Ideally, for Black Thursday, this data is here for its own complete sake. That was just one of the metrics. I have a whole bunch of them, take your pick and give me the data for it. `OSM` is not the greatest price point to use; I completely agree! You want a good market price, and the medianizer would probably be ideal. I've not looked at that, so you're probably right. I don't understand it that well, but if it's an average and the collective price volume-weighted, great! Give me whatever you got.
-    - Nick Kunkel: I can send you that data. Or send you a script, if you want to be able to ensure data integrity that you could run to collect more data.
-    - MakerMan: Both would be nice because then it can be audited. That would be great, yes. And more is better in this case.
+[32:36](https://youtu.be/jkVNeI3-rWs?t=1957)
 
-[32:28](https://youtu.be/NiHbRlTxhhY?t=1948)
+[Forum Thread for MIP13](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
 
-- Rich: Some interesting discussions are happening on the sidebar, and I want to encourage people that have access to a microphone to jump in because the sidebar chat doesn't get captured if you wish to have your comments on the record it's essential that you jump on the mic.
+- This is a formalization of Governance declaring the intention to do something or act in a certain way. We've seen this before, with signaling polls: the shutdown of SCD, ranked on-chain voting, compensation of vaults on BT, all have polls saying "we should do X."
+- It allows governance to set a bounty value on these declarations. For example, if we say we want ranked-on-chain polling, they could add, "and we're willing to pay 50,000 Dai to the group facilitating this." This `MIP` is an example of a process that might use the protocol-Dai-Transfer idea. There are boilerplates of how to revoke, accept, or change these.
+    - Rich: I can guarantee that there will be questions later. Thanks, LFW, for this proposal.
 
-[32:49](https://youtu.be/NiHbRlTxhhY?t=1969)
+## Collateral Onboarding
 
-- Cyrus: I have a couple of comments about the lot size. Potentially an additional factor for decreased efficiency could be the six-hour `TTL` change. Since the lot size and TTL were both increased at the same time. It's hard to say how much each one is contributing to the decrease in auction efficiency. I think it's both, but it's hard to say which one is having more of an impact.
-    - MakerMan: Well, I can comment right now with data.
+### Cyrus Younessi and Marko
 
-![](https://i.imgur.com/8x6iZ1x.png)
-- In table 7b, in the 50-500 lot, we're getting 11% in that range. So there's your data point, telling you that you're already doing better at the smaller lot size. I have a recommendation on this too. We should throw out different kinds of lot sizes all the time. That way, we can get data, gauge liquidation conditions, and pricing conditions over the liquidity spread. You do that simultaneously when you kick out an auction. It's a recommendation I have later. I didn't get to it. I'll pause for questions.
-    - Cyrus: I'm not saying that the lot size isn't having an impact. I'm just saying that there are potentially other factors as well.
-    - Cyrus: Another comment is regarding the governance trade-off. If we're trying to optimize for the average case or the worst case? One of the issues that were popping up during Black Thursdays was the insane amount of transactions and network congestion. Having to bid on, say, ten times as many auctions creates an additional burden on keepers, which was, I think, one of the main reasons for increasing the lot size. That would result in subsequent auctions, on average, performing much more poorly. But then it would potentially be more beneficial during times of extremely high network congestion. At the very least, it's a trade-off of whether we want better performing auctions on the day to day, or if we want to have better keeper activity during times of high network congestion.
-    - MM: Ideally, you would want to sample this in the spread. You want to probe the network with some large size network auctions, right. Do you keep consistently pounding out at 500? I don't know if I have this as a suggestion, but one of the things I was talking about is that the sheer amount of liquidity that tries to hit the market, you need to throttle that. You can't just throw out $5 million, or $3 million, or whatever the real numbers were, half a million at a time, chunks of collateral, and expect keepers to be able to manage all that and do anything with it. Because they just don't have the liquidity to make the bids. They depend on cycling that liquidity over time.
-    - MM: You need to think about a rate that your auctions can kick out stuff at, and then do it in a spread that keepers can understand. Because then you can encourage keepers who will deal with the amounts that are in the 1-10 range, or whatever Dai amount, up to a couple of thousands. And then other keepers will go from those couple thousand to ten, and then another chunk of keepers that will do the tens to 500k, maybe, in one lot. But you need to see if those keepers even remotely can handle that kind of liquidity in some way.
-    - JoeQ: I don't mind decreasing from 500 down to 250.
-    - MM: I agree with your first points, that timing part of this is an issue, in terms of how long you have to keep your liquidity there and how long you have to wait through the market fluctuations to get a bid. The auction process itself could use rethinking, but all of these issues are in play.
-    - JoeQ: I think we should keep at least 3 to 4 hours, just in case for people to cycle through until we have a better mechanism. I don't mind decreasing the lot sizes, because the ETH price has doubled, so it's a lot of money to put up right now.
-    - MM: I will say that longer auctions are better. I've been missing them as a person. Some of them just run by me, and I move on to the next one. There are not that many in good times.
+#### TUSD Collateral onboarding
 
-[38:03](https://youtu.be/NiHbRlTxhhY?t=2283)
+[35:14](https://youtu.be/jkVNeI3-rWs?t=2114)
 
-- LFW: A quick point on lot sizes, we could try a compromise parameter. 50 to 500 is a ten-time increase. We could try something that's less an increase, like 100 or something.
-    - MM: We could do 20, 40, 80, 160, or something like that. Some kind of range like that, in factors of 2.
-    - LFW: Currently, we can only do one at the time. There's only one parameter, and the system can only support having one.
-    - MM: You're right; it's the contract that would require changing to do to spread out. There's a `lump` function so you can just pick a small size and change how it's fanning out; you just make that more modest and have it do it's fan-out differently, that's all.
-    - LFW: If we're talking about the things that we could do immediately, we could try a compromise parameter for lot size. 100 is still twice what we had on Black Thursday.
-    - MM: Yes, I agree. If you're going to do anything within the system now, definitely bring it down. And it looked like 50 was pretty good, but if we think we need additional liquidity, I don't think 100 will be enough if we run into another black swan event. 25% isn't that bad. It's the back-to-back 25% that was the real nailer. The second one was coming literally within 24 hours. Bam-bam! And that was after going down; I think 10% from $220 or $210, into the $180 range. (If I remember my prices right here as I was looking at all of this.) Price was about 10% down, and then did a 25% down, it was like Bam! And then it paused for a bit, and then within 24 hours, it did another 25% that took the OSM right down to $100. And then it just came back up quickly to $120 or something like that.
-    - Rich: I'm going to poke people in the sidebar again because it seems that they're proposing innovative solutions that are going to get lost unless that we mention them.
+- We'll be redoing last week's presentation. We'll also discuss the option for a second USDC vault type, which has been discussed on the forums for the past few weeks. Might be an additional proposal added to the TUSD proposal later this month. I'll handoff to Marko for the TUSD presentation.
 
-[40:15](https://youtu.be/NiHbRlTxhhY?t=2415)
+![](https://i.imgur.com/FkU1LPQ.png)
+- Our team prepared this analysis of true USD as a potential collateral asset for MakerDAO. For comparison reasons, we used PAXOS and USDC.
 
-- SamM: One idea was to throttle, I think that requires smart contract modifications? Another way we could throttle is: to put a sane minimum bid of maybe 20%, or 30% or something, just so they have to stake something, before kicking off an auction.
-    - MM: I have that as a recommendation that before you even `deal` it, you can do it as a `kick` as well. That there should be a minimum required bid, that I picked as a percentage of the OSM, just because the OSM is the metric that Maker uses to determine its brain of action. When it's going to act, it's going to respond when its OSM changes, so maybe we should have other things in the systems change, and that's one of them.
-    - SamM: It's minor change though, LongForWisdom, regarding the smart contracts. If there's one, it's a lot easier than putting "only so much collateral can be auctioned at a time" throttling mechanism.
-    - LFW: Sure. That makes sense. [Chris shared a link to PR fix,](https://github.com/makerdao/dss/pull/107) but that's been done.
-    - MM: I would encourage all the noodling on this, just put it on the forums, because I knew that this would spur tons of discussions already from several takeaways on the report, so all the stuff is good. We need it. Put it there. The more data, the better, I think, on the data and analytics.
+![](https://i.imgur.com/jtP5GH7.png)
+- *disclaimer read*
 
-[41:58](https://youtu.be/NiHbRlTxhhY?t=2518)
+![](https://i.imgur.com/hIX2nnY.png)
+- There is a slightly false belief in crypto that native assets are safer in a portfolio. Yet, black swan events are still possible in crypto.
+- USDC-A was added as an emergency asset type to provide liquidity for auctions.
+- BTC halving is generally a positive event but increases uncertainty in the short-term.
 
-- Rich: This is a great conversation, but we're running out of time. Sorry, MakerMan, can we move back to your recommendations at the bottom of the report?
-    - MM: I had the points here; you can read them. I have conclusions. The performance of the auction was impaired; we can see it. When they did come up, we got back 10-11%, you can look at these full averages. You can look at the figure and try to guess what you think the number is, what you would expect there.
+![](https://i.imgur.com/tiWG2GZ.png)
+- I mentioned dai as a soft peg in crypto, and in the context of Stablecoins present in crypto, we have two types:
+    - Centralized 1-to-1 backed by underlying assets. These have the ability to maintain closer to a hard peg.
+    - Dai, which is a decentralized stablecoin backed by a surplus of underlying assets, maintains a soft peg. If there is no appetite for leverage, then there isn't as much issuance of Dai.
 
-![](https://i.imgur.com/rMGSotf.png)
-- MM: This image illustrates the impaired performance. When we have more keepers, we have this pre-AGC period. There were still auctions even after this event that hit the 10-14% range. And post-AGC, we see examples of two times as many bidders or bids, depends on how you define it. We need to look at the bidders, and the lot sizes increase. But the total collateral is down. For vault-holders, we're kind of sucking at the auction system right now. 3.5% now, and it should be kind of normal-ish versus almost 18% before, and that's even short of the 25% theoretical, but I guess you could expect that. You could data-average this. So, the recommendations:
-    - Consider rejecting `deal`s and re-`kick`ing auctions, if you don't have three bids and two unique bidders. If we can do that, I think it would help. We could debate whether it would or whether it's game-able, that's a separate issue. I just have it as a recommendation.
-    - If the bid `deal` is not at least some fraction of the `OSM`, you kick it right back into the bidding system. Don't let it go. You need to flag governance to say: am I going to let this one go or not? This should be accumulated and then re-issued with some thinking behind it. If we're looking at like a third of the market, there's a certain point I have ideas on how to liquefy the system, but there's a certain point where price-drop just nails you, and there's not much that you can do about it.
-    - Consider staggering and standardizing lot sizes. You want to throw different sizes. I give an idea on how to do that. You want to get a feeling for what markets will do at all times by staggering these lot sizes. If you can do that, you can sample your market by the size of the liquidity, and it will immediately give you statistics on system operations. Just a suggestion, I know it requires contract changes. I suggested going back to a lot size of 50 ETH. It shouldn't be more than 50, given what we're seeing. It's all debatable. Performance issues could be due to timing; it could be other stuff going on; we don't have enough data. I would completely agree with that.
-    - It looks that longer auctions do get more bids. If you think that getting more bids makes it better, it should, but then you could go back and look. We are not getting better bids in those bigger auction sizes, and that data stands out itself. Whatever is going on in the bidding system is related to the lot size. Whether it is related to the new time element or not is unclear because we just didn't have big auctions back then. And then, I tried to run this in a compensation analysis. This will be too long if I go through all of this:
+![](https://i.imgur.com/CBzWk4T.png)
 
-![](https://i.imgur.com/ltFGKSL.png)
-- You ask, "what do you think the collateral return should be if you thought these auctions were impaired, and you were going to compensate?" It's pretty simple. And when you think about it in Ethereum, it even becomes simpler. You can always reference it to a price somehow, but how you do that, you have to decide it and run it through the data. I kind of refused to do that. Just given the number of scenarios I was already looking at.
-- Evaluating collateral return deficit with a fixed number of vaults here, the 114 column in table 8 is pretty much all the auctions that fit the criteria of the nominal collateral return. 113 or under, by definition, should not get any collateral back, and these should all stay the same. This evaluation was a sanity check of my spreadsheet-database asking myself, was I doing the right thing. And hence all these numbers scale.
-    - For example, there is a vault whose auction got the full tab, so the system made its 13% off them, but they didn't get collateral back. So you could argue that the system has already made 13% off of several people. Just take the differences with the last two columns. It's up to you to choose whom you're trying to make whole.
-- And that's it, you go through the data, and you decide what you think. You can debate what you think the value of the ETH was at the time, and what you want to do about that. I did this only for ETH because it was already pretty time-consuming. I was looking at the data before I even had an idea I was going to have to report this. I was just curious about it. And this finally evolved into this report, and try to get as much data as I could pack into it and then do what I could with my spreadsheet versus what I need as a database. A database I can do queries on, and pull this stuff out, and do graphs, and everything is just cleaner and simpler. I just don't have those tools. So this is only the compensation report.
-- You guys can look at it, Debate for yourselves what you think about it. I kind of frame the poll percentages. I made these 5% marks. 0-5, 5-10, 10-15, 15-20, 25-25, above 25, should you want to have that option.
-    - Because when you look at zeroes, you're saying "no, not giving you nothing, you should have known better,"
-    - 0-5 is like "mmm, I think we should give them something, because they could have done better, but not that much,"
-    - 5-10 is "mmm, a little more than not-that-much, but not quite even half of what you think theoretical is."
-    - 10-15 is "ah, half the theoretical."
-    - then you go above that, for different reasons, and they all seem to be kind of clear framing. I think I make a post on this in the forum.
-- You can do different things with these buckets, but it was my suggestion for if we're even going to poll for compensating. You kind of want to look at no and yes, and if it's yes, then "how much?" and how you figure out that as a percentage that you can then put to the full group as "alright, let's approve 13.48%," or whatever the number is. The polling, someone else will handle it. I put that in the forum as a suggestion. The rest of it is just "thank yous." This report could have errors; please audit it. Eventually, I'll release my dataset; I'm paring stuff away that doesn't need to be there, because I have a lot of excessive stuff in my spreadsheet for other reasons, and then references.
+![](https://i.imgur.com/JJj08kG.png)
 
-[49:42](https://youtu.be/NiHbRlTxhhY?t=2982)
+![](https://i.imgur.com/QC4e9I8.png)
+- Stablecoin Specific risk, the probability that regulations will impact an industry or market.
+- A recent report by FRB indicates stablecoin risk, which is market-wide and not asset-specific risk.
 
-- Rich: I'm going to use that as a segue to thank you, MakerMan, for all the work that you put into this. The main takeaway for me is that there's a lot of data that needs to parsing. This is the starting point, I feel, for the community to begin to solidify around a solution, around a target for ourselves, so this is exciting stuff.
-    - MM: One more minute, Rich, to make a pitch to the community. So I just want to say, officially, Rich paid me 4,000 Dai for this report. It's kind of as-is, my work, I consider it done, and releasing the data kind of finalizes it for me. But I want to put those 4,000 Dai up, against like 10 for 1, and I want to raise some money to make an independent analyst group for Maker. So if anybody is interested, I'm willing to do that. I can give an address, and I think that if we can do something independently, raise some funds, get people working on something and do it independently somehow better, I think it would be great. And I would like to manage such a group, to work on analysis and help you guys out. Just an idea, you can contact me by email, it's in my report. That's it. Thank you.
-    - Rich: That's amazing and super-generous. I appreciate that. We'll figure something out. The Foundation is enormously interested in bootstrapping initiatives in the ecosystem, so obviously we take arms lengths, people are doing some cool stuff, and we want to help them to do that cool stuff so that we will figure something out. There are grants programs and lots of other programs. We have resources we can bring to the process. That's a great recap, thanks again for all the work that you put into it. I encourage the community to jump into that forum thread and internalize this information. Take a look at those recommendations, and not only talk about the compensation issues, but let's continue the discussion on the improvements to the auction mechanism. In the sidebar, there are lots of really fresh ideas that need capturing somewhere, so I encourage the side chat to add those to the forums as well.
+![](https://i.imgur.com/TFvk6Fg.png)
+- USDC Marketcap is dominating the space between each of the three assets.
+- PAX has a consistently declining trend since 2018.
+- Both PAX and USDC increased quite rapidly during BT while TUSD did not show an equal pattern, demonstrating that in times of great demand for stablecoins, only a few thought of TUSD compared to these other options.
 
-#### Questions and Comments
+![](https://i.imgur.com/kSl87cM.png)
+- Considering markets in which we trust. Binance, Coinbase, and OKEX. USDC dominates trading volume over time. PAX is losing market share but still hanging on while TUSD is losing market share.
 
-[53:24](https://youtu.be/NiHbRlTxhhY)
+![](https://i.imgur.com/VAnTtpq.png)
+- Same data in absolute numbers. We can see USDC very strong, TUSD not very strong.
 
-- Akash: Auctions are supposed to be last resort. Right? There should be a way. d I believe DeFiSaver has this, they're using flash loans on your current vault to unwind you before you get to the auction. That would save the user 13% of liquidation fees. Is everyone familiar with this? I think that should be promoted as a useful way to avoid the auction and paying 13%.
-    - Rich: There are larger discussions here, and I'll frame it: why auctions in the first place? It's an interesting question. My understanding is that the protocol is looking for the most efficient way to handle price discovery, so obviously, auctions are an enormously efficient way of discovering price. The problem here is that people need to use auctions. So, these questions about increasing the agility of these auctions, the accessibility, and efficiency of them, versus additional ways to source liquidity. I know that lev is in the call, and I don't want to push him under this bus, but I know that lev has done some deep thinking into the auction mechanism, and he might be the person to speak to it.
-    - Akash: If you have a small vault, you should be using those tools to avoid the 13% penalty fee. But if you have a large vault, then you could not use that mechanism because you have had a gigantic price impact if you're automatically interacting with UniSwap and pushing the prices around. So if that user is using a large vault, they should not use that automated mechanism because you will end up probably losing more, and you should rely on the auction mechanism that Maker has. But if you're a small user, then you could avoid the 13% penalty fee by just using something like DeFiSaver, where it automatically unwinds you. I hope that makes sense, everyone.
-    - Lev: I generally agree with the thing that Akash said first. In general, this doesn't seem to be discussed enough, the `CDP` operator structure, and then it's just taken as a given that these auctions are going to happen, and people are going to be subject to the prices that they get in the auctions. When in reality, you could even make the case that no auction should ever happen because the user is going to be hit with this very high liquidation penalty already, even assuming that the auction goes very very well. The auction might not go that well. And even the most significant `CDPs` on the market, they should be able to get much less than a 13% penalty off-market for their collateral auction. You could say that no one should hold `CDPs` naked without any infrastructure that's going to avoid liquidations, so really an auction happening is a disastrous scenario where some technology has already failed before the auction has even started. And the auctions are not intended to get reasonable prices for users; they're a backstop to protect the system. There's an argument that the penalty should be 100%, in the sense that you never get any collateral back because you screwed up if you allow that to happen.
-        - I'm not proposing this as a policy right now. But I'm saying that this is a valid perspective on the system, that the auction is essentially a piece of last resort infrastructure where the situation is out of the user's hand. There's no obligation to them anymore. I think it's imperative to develop and promote the development of `CDP` management infrastructure, whether that's these 3rd party services or smart contracts that you can delegate to, that rescue your `CDP` before it gets liquidated. Or maybe even services where you hire someone to manage your CDP for you. Or, if you're adventurous, software that will execute some trading strategies to self-liquidate your `CDP` under certain circumstances. All of those things, in my opinion, that everyone should be doing if you have a `CDP`. Otherwise, you're going to sleep, and you're saying, "I'm going to wake up tomorrow, and all of my stuff will be gone because I technically screwed up," and I don't think that's right.
-    - Rich: There's an expectation with the protocol that people need to actively and continuously manage their positions.
-    - lev: The message should be set by this very high liquidation penalty of 13%, which is saying essentially "this is not a handy way of liquidating a position, 13% is crazy." It's saying, "you really screwed up now, and we're trying to discourage this punitively." This is why I would say to Akash's last point that we need to make sure that there are solutions for large `CDPs` that can manage their `CDPs` before liquidation. I don't agree that the right thing for large `CDPs` is to let it go to auctions. You could get a much better price than that going over the counter to a market maker or going on many exchanges. Of course, that liquidity might not be atomically available on decentralized exchanges.
-    - Rich: You're talking about best-case scenarios. Would OTC or liquidity providers have saved people heartaches on March 12th?
-    - lev: Yes, you would've been able to liquidate at any point on March 12th, probably any of these positions. Probably pretty nasty slippage in the grand scheme of things, but probably less than 13% and also definitely much much less than what they got, which was zero.
-    - Akash: I do want to add another point. For large `CDPs`, I don't know if people are correctly using all the tools available. We noticed a large `CDP` a couple of weeks ago went on Coinbase, bought a lot of Dai pushing the price extremely high. In my opinion, the correct sequence of events is: if you had a large `CDP`, you could go to the USDC vault, mint the Dai that you need, close off your ETH vault, and essentially now you have switched yourself to a USDC vault. Then slowly buy Dai and close that up, instead of aggressively pushing prices. I don't know if that makes sense to everyone.
-    - lev: I think this is a great point. I agree about the general point on not using the tools available. On this specific example, I would say that compared to `CDP` users that have gotten liquidated, that `CDP` user that you described was much more effective. If I remember correctly, they ended up paying $1.04, or $1.05, so a couple of cents premium over the market before that for getting that Dai, which is much less than the liquidation cost them. Also, with this USDC play, they would then be stuck with the stability fee for some time until they managed to close it up. It would probably be a little bit more efficient. Maybe you would save a couple of cents on Dai, but basically, everyone who's getting liquidated is ten times worse than that. So the low-hanging fruit to me is that no one should be getting liquidated, every liquidation should be examined as some kind of failure.
-    - Akash: I agree with that general sentiment.
-    - MakerMan: I wanted to echo that as well. The idea that we could have some sort of automated vault management. A liquidation protection system that people can buy. And maybe even 3rd parties can provide through the system or independently. The more, the merrier, but Maker should offer that service itself. However, I think that all solutions should be encouraged on that. I didn't get to look at that data, but what was clear was, out of the $45 million that was liquidated, roughly $13 million went through the Maker auction itself. The rest of it kind of self-liquidated out there in the markets. A lot of the stuff went through other places; it had to. I didn't even begin to look at that. That would be an interesting data point and then analysis as well. Because we got vault holders that are here kind of like "Hey, I self-liquidated vault `2288`," he was the one that kind of nudged this a little bit. He was one guy that self-liquidated and got about 13% of his collateral back if I have him right. Every percent that we lower our fee, and they get more collateral back, potentially. It's an important issue to discuss. You have to have the right mechanics in the system. What that fee is, what you do with it, how you manage it. It's a whole different thing. I also agree with lev in particular that every auction is a failure for some participant. That is bad. It needs to be avoided. What I have it at, 120,000 ETH, out of around 2Million, I'm guessing, and I don't have the exact number in my head at the time. But it was like 10%, 10-15%. It was pretty good for a 50% drop that we only ate through that much collateral. And I think it was due to these secondary agents kind of saving our ass, really. I think we can do better. So I agree across the board.
+![](https://i.imgur.com/TFFG1dq.png)
+- This is a comparison of trading volume on Ethereum layer trading venues.
+- USDC is definitely dominant in these protocols. TUSD has a presence, which is good, but the numbers are much lower. PAX is also present, but less than TUSD. In the last week, Curve Protocol added PAX.
+- What is a bit worrying about PAX is that trade volume in Uniswap is so low. Uniswap's a fundamental venue for trading in the space and indicates that PAX's low trading volume is an issue.
 
-## Analysis
+![](https://i.imgur.com/wbiZZHl.png)
+- Present in Aave and Nuo. For Nuo, not sure what is going on. On Aaavea, there is a bit more aggressive strategy than Compound. Nuo has a higher risk tolerance for collateral assets. Out of the 900k deposited in Aave, about 75% is deposited due to curve protocol. Curve protocol is a bit sophisticated, which indicates that only about 200k is deposited in Aave from everyday users who want stablecoin yield.
 
-### Vishesh
+![](https://i.imgur.com/xyzXEZr.png)
+- Same data presented as a market share. PAX is not included because it is not in those protocols.
 
-#### The State of the Peg
+![](https://i.imgur.com/YoMHArE.png)
+- Well, known labeled addresses in Etherscan. USDC is dominating. PAX is present in some decentralized venues and also has larger balances than true USD. TUSD not present in many such venues.
 
-[1:05:05](https://youtu.be/NiHbRlTxhhY?t=3904)
+![](https://i.imgur.com/Ve4j6eu.png)
+- In this comparison, we looked at Holder addresses labeled on Etherscan.
 
-![](https://i.imgur.com/Fkhxnr0.png)
-- First things first, I know we have the vote going through about the Dai supply, but the growth of the Dai supply has continued at the rate that we identified around the 19th. That uptick did continue precisely the same pattern. As called out, this is very likely to hit the 100 Million mark and appears to have been addressed now by increasing the debt ceiling.
+![](https://i.imgur.com/UbTn7rh.png)
+- Metric shows how many holders/transfers added on average per day. USDC has the highest growth rate, PAX is also growing, while TUSD is definitely much lower than both of them.
 
-![](https://i.imgur.com/6boHkul.png)
-- What impact is that having? Why, why not? I know a lot of people had questions, with ETH pumping so recently, the question is, what's the impact on the Dai price?
-- What we saw around the start of the 29th, we saw this price start to level out and come down a bit. Then, in that exact time frame, ETH continued its run-up. We've seen this inverse relationship between ETH and Dai, particularly when ETH is volatile or crashing. When ETH is rising, and people have confidence in the continued rise of the ETH price, we generally tend to see a reversion of that behavior. There were a lot of trades at or below a dollar, right at that moment that ETH started to jump on the 29th. That makes sense because people are bullish on ETH when it's starting to jump. Potentially we see some selling of Dai and some purchasing of ETH, aka some leveraging behavior. The Dai supply has been increasing, and all of those behaviors kinds of adds up.
-- As the ETH price continued to rise, then the Dai trades started to happen at a little bit higher price. We can break that down as to why, but I'm also guessing there was a fair amount of market makers that maybe picked up a little inventory as soon as it dipped. That would make a lot of sense. Given all the events and all the volatility that happened prior, it would make sense for market makers to been cleared out of inventory. And this dip would have been an opportunity for someone to repurchase Dai at a reasonable price. We would love to talk to some market makers to get that data, but if that was the case, then it would push back the Dai price a little bit. The average is still kind of sitting at $1.015, but if we see some of the trades that continue to the trend more than 1.005 or at a dollar, then this average would naturally come down over the next 24-48 hours. That price reduction behavior would make sense with what's going on with the ETH, but there are certain combinations of market conditions where it wouldn't necessarily need to come down.
-- People are in the wait and see holding pattern with ETH itself, and I think that trickles down to Dai because Dai is exceptionally responsive to general market conditions, ETH in particular. I think we would have to wait and see what happens next. I wouldn't over-index on the current Dai price because this has gone up and down in the same 48-hour period, so that data is going to be a little bit screwy. You want to give it a little time to cool down to see what happens next. If anybody was getting alarmed because Dai is not coming down, again: I would just urge a little bit of patience to see what happens next, because ETH did just do a bit of a 180 in momentum, and I think that's going to be throwing off the market a little bit.
+![](https://i.imgur.com/lsTUdFy.png)
+- Transaction count per day overtime. Borrowed from Token Analyst.
+- TUSD (in purple) is not as active on-chain as some other of these coins are.
 
-![](https://i.imgur.com/cltvARm.png)
-- If a lot of that trading activity, when Dai dipped below, were purchasing activities, it might mean that there's a lot of people sitting on Dai that are waiting to lever up at the right moment. Given the ETH price just increased, that would mean that they're waiting for ETH to come back down. I think that's a fair point to consider here, is that I usually mention this "easy come easy go" thing. If ETH price has jumped significantly in a short time frame, I think a lot of people and I would be wary of that and would not necessarily act on it and might just be waiting for that to potentially level back down before taking actions. It doesn't necessarily make a lot of sense that the Dai supply has been continually increasing over the last week or two but that the Dai price has not been continuously decreasing. Except if you consider that people have been minting that Dai but not necessarily selling it. And the reason is if they're waiting for a certain action to happen, stocking up on inventory to take some potential action, or they're just uncertain given the speed and frequency of ETH price changing, and they want things to level out a little bit before they take those actions. These are potential explanations of what's going on, but as always, we can only ever guess at people's reasoning.
+![](https://i.imgur.com/UPw12l6.png)
+- Positive potential for risk diversification. Regulatory risk is marketwide and, thus, undiversifiable.
+- Small potential for Dai minting, due to low usage and transaction of TUSD.
+- Supply did not increase relative to other large stablecoins on Black Thursday.
+- TUSD has a declining trend since the end of 2018, which is the most important metric for a centralized stablecoin.
 
-![](https://i.imgur.com/lG0zzqz.png)
-- Total Sai is down to 10.2 million. Total Dai is up. So that's resuming progress as normal, it seems, in terms of shutdown migration, etc. I know there are a lot of other threads in context right now on what happens when the Sai shuts down, so I'm not going to touch that. The point in terms of the total supply out there is kind of resuming a more normal state, post-Black-Thursday events, so I think that's a good indicator.
+#### Questions and Comments 4
 
-![](https://i.imgur.com/XoPs7E6.png)
-- In terms of Dai from ETH utilization 98%, Dai from USDC there's 823,000 Dai from USDC, with the current debt ceiling of $20 million, so that's a pretty small bucket right now, and I think that makes a lot of sense given that it's the more expensive option at the moment. In addition to the emergency parameters and given the fact that there's not a huge need right now for minting and selling of Dai from USDC for auctions, liquidations, etc.
-- Just to clarify some of the comments in the chat: there was an executive that passed to increase the debt ceiling. That happened rather quickly. I don't think there are any other relevant questions, but if I missed something, let me know.
+[58:44](https://youtu.be/jkVNeI3-rWs?t=3524)
 
-## Outro
+- Cyrus Younessi: Thanks for that awesome presentation. I'll post in the chat the link to the forum and the [proposed risk parameters](https://forum.makerdao.com/t/tusd-proposal-for-collateral-onboarding/2402). We can open it up for questions or discussion. Proposed risk parameters: Stability Fee 0%, Debt Ceiling 2 million, Liquidation Ratio 120%.
+    - I think the most fruitful discussion would be about the debt ceiling and its relation to other stablecoins in the system. Right now, the USDC debt ceiling is 20 million, and the idea is that we could put a cap on this class of stablecoins. If we were trying to put USDC in with a, say, 2 million dollar debt ceiling, then we can consider reducing USDC as well. Additionally, I'd like to tie into the conversation a USDC-B vault for emergency liquidity purposes for auctions. I know this is a lot to take in, so I'm happy to continue this in the forums as well.
 
-### Rich Brown
+[01:00:31](https://youtu.be/jkVNeI3-rWs?t=3631)
 
-#### Closing Comments
+- Chris Padovano: Wasn't the recommendation that TUSD provides little diversification in terms of regulatory risk. It doesn't seem like anyone is going to mint Dai. Maybe there are better-centralized stablecoins that Governance should be focusing on, that people could be more excited amount?`
+    - Cyrus Younessi: When we put proposals for parameters, governance is welcome to vote against it. I think we have reflected that lack of interest with a fairly low debt ceiling. I think 2 million is the lowest that has ever been proposed for a collateral type, almost like a bare minimum. If even that is too high, we should discuss this.
+    - Chris Padovano: I thought this was a great presentation that showed that TUSD is fighting such an uphill battle. I was also surprised that PAX was around for so long. If we are going to pick another centralized stablecoin
+    - CY: you could also use the wrapped bitcoin argument that maybe activity could pick up after addition to the protocol.
+    - CP: With wrapped BTC, that actually did happen. Someone went out and minted a thousand wrapped BTC, and wrapped BTC is kind of a newer idea. I think we should focus on governance fatigue. We should really be making our shots count. Especially when we're talking about adding new collateral types that we are excited about. Your pitch really persuaded me, this doesn't seem, like no one seems excited about this I want to take the other side. I don't know.
+    - SamM: Does it have to be either-or? Can't we just bring as much collateral as possible as long as it's not a complete scam, and control our exposure based on the debt ceiling?
+    - CY: Exactly. And to be clear, I don't think that Marko or anyone from the risk team is trying to project an image of excitement or else. That is for Governance to decide. From the risk standpoint, I would be interested to hear if an even lower debt ceiling would make sense. At that point, I would say, "probably not." I think the primary argument that Chris is making is about adding to governance overhead. But I don't see how that's something that we can deal with at this time. But I don't see how that's something that we can deal with at this time, because the intention is that plenty more collateral will be coming through the system. It almost makes sense to learn how to deal with that sooner rather than later.
+    - CP: Right, exactly. That's totally fair.
+    - CY: If there comes a time when there's like 30 collateral types in the system will require some reworking on how we manage the portfolio. It's better to see that now with easy collateral types.
+    - CP: Of course, yea, so I'm persuaded.
+    - RB: I'm trying to stay aware of the time. We have a lot to go through, so Cyrus, can we please turn over to Lucas?
+    - Cyrus Younessi: Yes. Please, let's continue this discussion either over forums or in the chat.
 
-[1:14:50](https://youtu.be/NiHbRlTxhhY?t=4490)
+## ConsolFreight and Paperchain
 
-- I'm going to wrap things up a bit. Thanks, MakerMan, once again, for that awesome presentation. Please join us in the forums, that's where governance happens. These calls are broadcast information and consensus gathering but not creating. Join us in the forums where Governance actually takes place. Keep an eye on the portal as some weighty executives are coming our way tomorrow. And thanks to everyone for joining us, this was a good call. Talk to you next week.
+### Lucas Vogelsang (Centrifuge)
 
-#### Relevant Links
+[1:05:22](https://youtu.be/jkVNeI3-rWs?t=3922)
 
-[MCD system stats](http://daistats.com)
-[SCD system stats](http://saistats.com/)
-[DAI & Sai 24hr VWAP Graphs](http://dai.descipher.io/)
+![](https://i.imgur.com/KTdBHwJ.png)
+- I'll address a big topic which is introducing real-world assets to `MCD`. Given the time, I'll brush over a lot of things and set the frame for a conversation, and hopefully, we can turn it into more of a discussion. Please refer to [community calls](https://www.youtube.com/watch?v=rv3HpZ5ZSHU), and [forum threads](https://forum.makerdao.com/t/centrifuge-tinlake-a-framework-for-bringing-real-world-assets-into-mcd/738), regarding the details about some of the technical aspects. I'll share more information later as well. Nevertheless, I think I need to give a little bit of background on what Centrigue is and what we do.
 
-## Common Abbreviated Terms
+![](https://i.imgur.com/0yGVB6t.png)
+- Centrifuge does decentralized asset finance for what some people call "real-world assets." Allowing businesses to use real-world assets, such as invoices, (extended to real-estate or anything that you can borrow against). We enable asset originators who have these assets to tokenize them, bring them on-chain, and pool these portfolios of individual loans and issue an ERC20 token that allows investors to invest in these pools.
+- We have two asset originators in the `MIP 6` proposal process:
+    - Paperchain, best described as a streaming revenue analytics company that allows music labels to see how their music is performing on the different streaming platforms, such as Spotify, Apple Music, Google, and so on. As part of their business, they want to offer these music companies/labels/artists the opportunity to advance part of the cash flow they're going to collect. So, you have an invoice where Spotify tells you that they will pay you a given amount in 60 days for your music. You want to go to a bank and borrow money on that invoice; this is typically called factoring.
+    - ConsolFreight is a freight software technology provider that helps freight forwarders to break up shipments and coordinate shipping goods across the world. They have invoices by shippers from distributors, like supermarkets, that use them to organize their deliveries. The assets they are interested in bringing into `MCD` as collateral are these freight invoices. Regarding what stage they are at, ConsolFreight created its first securitization and initial 49 loans worth a total of 278,000 Dai and sold those to 10 different investors that now own an ERC20 token that is generating a yield on these invoices. As these invoices are paid back, the DROP token holders, as they call them, can redeem their token for Dai, which is principal plus interest.
+
+![](https://i.imgur.com/M8wom90.png)
+- Most abstractly, you can think of this system as individual loans that are represented by nonfungible tokens. We do not just issue one ERC20, but we also use what structured finance calls senior and junior tranches, where the DROP token is insured by the TIN token, meaning that you have two classes of investors. The TIN token investors get a potentially larger upside but take any losses first. The DROP token holders get a fixed interest lower rate and are insured by any losses based on TIN token percentage investment.
+    - What we did with ConsolFreight, they had 278,000 Dai in loans. Of that, TIN tokens holders invested 28,000 Dai and Drop token holders invested the remaining 250,00 Dai. As long as the portfolio of invoices returns 250k + interest in Dai, Drop token holders will not see a loss. If they return 260,000, it means that the TIN token holders will face a significant loss. If they return anything more than the original investment, after the DROP token holders have been paid out, the TIN token holders get to see any money.
+- Why do this? The reason for having two different tokens is to have an asset that is much more stable and has some sort of insurance, which is the liquid and much more stable asset, the DROP token. The TIN token, or underwriter token, is the token the originator uses to have skin in the game.
+    - In the instance of ConsolFreight, the TIN tokens are 50/50 Centrifuge and ConsolFreight itself, putting a small stake, guaranteeing the performance of this portfolio of loans.
+- Is this structure normal for receivables financing? The split structure is definitely used in all sorts of debt financing, even other kinds of financing. I think it makes sense for Maker and lenders that want to have a very stable asset. As an investor, you can now change your risk assessment from an individual asset in the portfolio going bankrupt or being at a loss and losing that fraction of the portfolio to a pool of assets and the losses surpassing what the TIN token holders have invested. So a Drop token holder, I have a much lower risk. That's how Centrifuge assets work.
+
+![](https://i.imgur.com/McXlPmV.png)
+- I would like to talk in general about how real-world assets behave as collateral in Maker. I think it requires a lot of rethinking, and I had way too little time to highlight many of the points in detail.
+- I'll start with the positive things: ConsolFreight or Paperchain have a known demand for capital. We just talked about how much TUSD or BAT is used to generate Dai. It's a very different use case for me as a BAT token holder for me to say: I want to margin trade or use that BAT as collateral to get some security or get some safety by borrowing Dai. The difference is that an asset originator will go to the market, sell the Dai, give the Fiat to freight forwarders or to the music labels, and then use that as one of their main source of capital.
+- Another thing is that in the current market climate, a lot of these crypto-assets right now are not generating a lot of yields. These DROP tokens can generate yield because these are real loans to real businesses that have the cost of capital if they go into traditional financial markets, and we can capture that in the DeFi ecosystem instead.
+- One other thing that is oftentimes criticized when looking at real-world assets in Maker is that all of these assets are not truly decentralized. They aren't, and they rely on a legal framework. But one opportunity that we have here is that if we diversify and start onboarding different kinds of real-world assets with different kinds of originators and different legal restrictions, that is something that can add to the diversity of the portfolio and make Maker a more secure system.
+- One of the key questions we have to ask is, "is MCD the primary or secondary market for these assets?" With Paperchain, and ConsolFreight, directly petitioning the Maker community for inclusion of the assets, Maker has the chance to be the primary lender. Meaning that the asset originator deposits DROP as collateral and gets Dai directly from the Maker Protocol. For that to work, however, we must understand that in supply chain finance, you very often see advance rates of 90% or even 95%. What that means for Maker is we have to start being much more comfortable with pricing assets and giving it risk parameters that reflect this and can compete with this real-world asset class.
+- Another thing of what Centrifuge has focused on, when thinking about these real-world assets, is short-term debt. That means trade finance assets are a really interesting category because if you have a loan that's due in 120 days, it's much easier to price it just because the macro-economic circumstances don't change quite as much over those 120 days. You have a much higher turnover, and you have faster feedback to see how this works. What this still means is that these assets, by crypto standards, very illiquid. There is no instant market for freight invoices that we can tap into and use as price oracles. The credit industry in the traditional financial world use pricing models that factor in credit risk by different lenders and arrive at a net asset value of a portfolio that doesn't rely on price discovery in the market but rather an agreed-upon model. As the Maker community, we have to start thinking if that is something that we want to incorporate, or do we want to insist on there being a market? How do we feed prices to oracles when we know that the price of an invoice doesn't change for the most part of the time it is active? Maybe it changes once it goes into default?
+- Lastly, keepers are something that I want to start discussing. The kind of keepers that will have to be brought into MCD are different. They exist in the real world: they are distressed debt buyers that specialize in buying under-performing pools of loans. Different collection agencies buy individual assets. We'll have to bring those entities to the table and start including them in these discussions that we're having. I want to start a dialogue around these topics. We've been hosting calls that we open up with whoever wants to discuss. We can form working groups. I'm open to working with Domain teams. I would open it up for questions, but I don't know how much time we have left.
+
+#### Questions and Comments 5
+
+[01:24:17](https://youtu.be/jkVNeI3-rWs?t=5057)
+
+- Lucas Vogelsang: Centrifuge has been hosting their own calls. We sometimes announce on the Maker forum, and we have done what we call an "Open Collateral Onboarding Call" that we plan on doing every two weeks. The last one happened last Wednesday; I think we'll do another one this coming Wednesday. Happy to take the conversation there if people are interested.
+-  Lucas Vogelsang: the question I would like to get feedback on is, "Do you think that Maker should offer a lending product? Should MCD be the primary lender for these assets? That is a question that will come up, because asset originators will want to borrow directly, and Maker has a very interesting proposition for them. They can borrow instant money with a flexibility that you can't find anywhere in the traditional financial ecosystem. But if you start opening up to real-world assets, you cannot just rely on a price feed that comes from a couple of exchanges anymore for telling `MCD` how to treat these vaults.
+
+[01:26:04](https://youtu.be/jkVNeI3-rWs?t=5164)
+- Helge Qvan: I usually go by the name PlanetX. Your proposal is fantastically interesting. I do struggle a bit with the pricing of the collateral. I know you have said that this is very stable collateral, but we have to know how to sell this if the vault ever goes under. As far as I understand, you rely on the manual evaluation of the collateral. Is that correct?
+    - LV: When you think about our ERC20 tokens, they're a fraction of a portfolio of loans. These loans are legal documents that we bring on-chain as NFTs priced and underwritten by as many diversified oracles or attesters as you can think of. So this NFT might be attested by a financial auditing firm to say that the paperwork is correct. You could try to get a fraud scoring company to rate the likelihood of fraud on that counterparty. If there's credit scoring information on these different assets, you could read out what the score is this individual lender. This will give you a risk rating on the particular asset. Which Tinlake, our contracts, will use to determine what the interest rate and the advance rate for this asset is. So at that point, we have a price for this asset. Then we calculate the NAV of the portfolio, which looks at these invoices, calculates the expected cash flows and the probability of default, and comes up with a number of what this asset should be valued at in the book. This is no different from what a credit fund would do today to assess its own portfolio.  We're giving this price to DROP and TIN investors to invest in these pools. That is what we would want to try to put that value of the DROP into MCD.
+    - PlanetX: so far, I'm with you. Could you explain what Maker will need to do to sell collateral?
+    - LV: Keepers will have to bid on it, that's no different.
+    - PlanetX: So, this would need to be a manual process?
+    - Lucas: No, it wouldn't. There should be different keepers because you're not a keeper that wants to buy ETH and sell it on the next exchange for a small gain. You will obtain security that is a fraction of a set of invoices.
+    - PlanetX: For crypto purposes, this market needs to be set up from scratch?
+    - LV: Yes, the appropriate parties would require onboarding. We had these first investors invest in DROP that ConsolFreight issued. Anyone could bid on them. There would be some small differences with your average keeper since it moves much slower. Maybe a 6-hour auction window would not be enough, but at the same time, they're a lot more stable.
+
+[01:31:44](https://youtu.be/jkVNeI3-rWs?t=5498)
+
+- LFW: Regarding the vaults, is Centrifuge going to make one giant vault or lots of different vaults? If we have to liquidate, would it be one giant vault or several vaults? And the general case seems to be that the Drop token shouldn't take large hits. What incentives are going to be for keepers to stay around in the general case?
+    - LV: Your comment in the chat, you said, "I think this is more like warehouse financing than margin lending; there are differences in how Maker would need to handle it. I think the theme is an interesting one. To get back to what you were saying, "Is Maker in the secondary or primary market?" I think the opportunity to offer a credit product to these asset originators in the primary market is exciting. But that does mean that yes, the asset originator will create one giant vault for the category of DROP and collateralize that with their DROP and then start drawing Dai from it. There wouldn't be different vault holders that use different collateralization ratios that might get liquidated at different times. The entire asset pool would behave very similarly. You could look at it as one position on the balance sheet or one item of collateral. It should be much more stable. The price would be slower moving. You would not have these movements of what we've seen today, with ETH margin trading. As long as these assets are performing as expected, liquidation should be an improbable scenario. Just to give you an idea, in B2B invoice spend, the default rate of these assets, depending on the industry, is less than 1%. If you look at credit funds for factoring, they have a fraud risk that's probably the biggest, but these assets rarely have these crashes that we see in crypto. The question on how do we get keepers to stick around, we need to integrate everyone and make them familiar with the system and move slowly.
+    - LFW: My question was more: is there one big vault and one day everything falls apart, or have several ones that are being liquidated. If there's only one vault where it's all or nothing, would keepers stick around in the chance that everything falls apart one day? With the current system, you have different vaults with different liquidation ratios. With this, you're asking people to stick around for this 1 in 100 cases.
+    - LV: Well, you would have a few days to liquidate this portfolio, not minutes. Keepers have a different kind of time span that they're working on. They are not trying to offload your asset as soon as possible in the next exchange to get more liquidity.
+    - LFW: So we would be in a situation where we want something like a 20-day liquidation process where you source keepers where they get liquidated?
+    - LV: I think that might make a lot of sense.
+    - CP: Or you could put the obligation on the issuer to contract keepers to liquidate their collateral. There's a lot of contracts flying around, right? That could just be seen as an obligation for real-world asset collateral. One of the burdens of proof should be, "we're going to make sure that there are people around to buy this ship when it goes underwater."
+
+[01:37:54](https://youtu.be/jkVNeI3-rWs?t=5872)
+
+- Guilherme Remor: In terms of these initial businesses, Paperchain and ConsolFreight? How old are they?
+    - LV: I think Alejandro is on the call, maybe you can talk about ConsolFreight. PaperChain has been there for over a year now. Actually, the Maker Foundation did a first pilot transaction where we went through this entire process of bringing an asset on-chain, securitizing the collateral, and selling it. At that point, `MCD` wasn't live yet, and none of this was done in MakerDAO. But we went through this legal side and part of the on-chain. I think this was last August if I remember correctly. PaperChain has been around for one and a half years.
+    - GR: And I imagine that over that time for the business to be maintained, they have built some history with other lenders?
+    - LV: I think Paperchain and ConsolFreight both want to use Maker as one of their first backers. ConsolFreight has gone live last week with its first set of assets. Paperchain has a track record of working with labels offering them analytics products but does not provide financial products outside of it.
+
+[1:39:54](https://youtu.be/jkVNeI3-rWs?t=5994)
+
+- Alejandro Gutierrez (ConsolFreight): We're a company established in 2016, started in logistics and moved into supply chain finance. We have been exploring other avenues to get funding. We have explored similar possibilities with some American companies before the COVID19 situation, but our eyes are now focused on the crypto space and especially with Maker.
+    - LV: I want to emphasize what Kurt just said "that collateral can be anything that has value. I think the real dichotomy is commodity-backed versus debt-backed and how we see Maker's place in financing these assets." We're able to cut out a slew of intermediaries and established parties in the financial system that we see today by being a primary purchaser of debt if you want to call it that or compare to that. I think that's the opportunity we have to generate an interesting yield on relatively stable assets. There are definitely downsides that come from not just working with highly liquid assets. The upside is that we have yield and a whole set of US dollar stable assets that can bring stability to the system at times where crypto is not stable and sort of balance things out.
+    - GR: Because of the nature of the issuance of short-term debt as you're mentioning, are you mostly thinking about use cases involving short-maturity trade financing through factoring or any other use cases that we should be considering.
+    - LV: In the current economic climate, we want to focus on safer bets that are easier to price. One of the advantages of focusing on trade finance assets is that this is money that has been already spent by the business, it's just waiting for payment. Of course, this money is used to grow the business, but you're not borrowing against the expectation that the company will have long-term success and growth in revenue.
+    - GR: And in terms of maturity that you would issue, you don't expect long timelines? As far as I currently see in the risk parameters we now have in the Maker ecosystem. Usually, there's no maturity to the debt that we have in the ecosystem, so that would be a change as well.
+    - LV: We're reaching the time limit, Charles is asking to move this to the [mips channel](https://chat.makerdao.com/channel/mips) on RocketChat. We are going to have a call next Wednesday, at 19:30 European time, that's 10:30 Pacific time and 17:30 UTC where we can discuss this as well. Also a discussion on the `MIPs` proposals. I'll post the slides and some of the links in the RocketChat governance channel. Thanks for the time.
+
+## Abbreviated Terms
 
 `SCD`: The Single-Collateral Dai system
 
 `MCD`: The Multi-Collateral Dai system
 
+`CR`: Collateralization Ratio
+
 `DC`: Debt Ceiling
 
 `ES`: Emergency Shutdown
 
+`EV`: Executive Vote
+
+`GP`: Governance Poll
+
+`GC`: Governance Cycle
+
+`GF`: Governance Facilitator
+
+`CGP`: Community Greenlight Poll
+
 `SF`: Stability Fee
 
 `DSR`: Dai Savings Rate
-
-`AGC`: Auction Governance Change
-
-`OSM`: Oracle Security Module
-
-`TTL`: Time to Liquidation
 
 ## Credits
 
