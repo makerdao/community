@@ -1,5 +1,5 @@
 ---
-title: Should Monetary Policy Votes Use Ranked Choice Voting? - June 01, 2020
+title: Should Monetary Policy Votes Use Ranked Choice Voting - June 01, 2020
 summary: Signal your support for the use of ranked choice voting in future monetary policy votes.
 discussion_link: https://forum.makerdao.com/t/2589
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
@@ -9,7 +9,7 @@ options:
    2: No
 
 ---
-# Poll: Should Monetary Policy Votes Use Ranked Choice Voting? - June 01, 2020
+# Poll: Should Monetary Policy Votes Use Ranked Choice Voting - June 01, 2020
 
 ## Description
 
