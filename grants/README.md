@@ -16,4 +16,4 @@ Teams that successfully complete their milestones and launch a product may also 
 
 ## Applying
 
-Projects that propose novel and usable tools that directly benefit the Dai/CDP ecosystem, are invited to send a one or two page detailed description outlining *exactly what the project does*, how it works, the problem it solves, and a projected budget to grants@makerdao.com. Please remember, we prioritize applications that have _very_ conservative budgets.
+Projects that propose novel and usable tools that directly benefit the Dai/Vault ecosystem, are invited to send a one or two page detailed description outlining *exactly what the project does*, how it works, the problem it solves, and a projected budget to grants@makerdao.com. Please remember, we prioritize applications that have _very_ conservative budgets.
