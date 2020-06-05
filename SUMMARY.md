@@ -61,7 +61,7 @@
   - [FAQ](faqs/governance.md)
 - [Development Grants Program](grants/README.md)
   - [Grantee Playbook](grants/grantee-playbook.md)
-- [Hackathons and Bounties](hackathons/README.md)
+- [Hackathons](hackathons/README.md)
   - [Developer Quickstart Guide](hackathons/developer-quick-start-guide.md)
   - [Organizer Quickstart Guide](hackathons/organizer-quick-start-guide.md)
   - [Funding Requirements](hackathons/requirements.md)
