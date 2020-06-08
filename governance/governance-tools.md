@@ -35,9 +35,6 @@ Tweets a number of useful bits of information about the Maker Protocol, includin
 
 
 ## Protocol Analytics
-**MKR Analytics** - https://www.mkranalytics.com/  
-Shows a number of usage, income and expenditure statistics that can be used to direct the policy of governance. Flexible data comparison and graphing functionality.
-
 **Santiment: Maker Overview** - https://graphs.santiment.net/makerdao#overview  
 Shows an overview of DAI and the Maker Protocol. Useful as an 'at-a-glance' overview of what is going on.
 
