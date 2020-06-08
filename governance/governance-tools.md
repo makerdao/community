@@ -27,7 +27,7 @@ Shows how much DAI can be bought or sold on coinbase or Radar Relay above or bel
 **Descipher.io: MakerVaults** - http://makervaults.descipher.io/  
 Shows the current spread of vaults and their liquidation prices on each collateral type. Also shows the various spread of collateralization ratios across vaults. Incredibly useful for finding out what impact a market dip will have on the Maker Protocol, how much DAI will be liquidated, and identifying any 'danger zones' at which point large amounts of DAI would be liquidated.
 
-**DeFI Explore: Liquidations ** - https://defiexplore.com/liquidations  
+**DeFI Explore: Liquidations** - https://defiexplore.com/liquidations  
 Shows all active and finished liquidations across all collateral types. Shows the current and final status of each liquidation and detailed information about individual lidquidations can be veiwed. Useful if you are searching for an individual liquidation, or if you want to see the general outcome of a certain set of liquidations.
 
 **Twitter: MakerDaiBot** - https://twitter.com/MakerDaiBot  
