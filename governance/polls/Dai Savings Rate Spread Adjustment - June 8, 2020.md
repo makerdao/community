@@ -1,7 +1,8 @@
 ---
-title: Dai Savings Rate Spread Adjustment - May 25, 2020
+title: Dai Savings Rate Spread Adjustment - June 8, 2020
 summary: Signal your support to adjust the Dai Savings Rate Spread within a range of 0% to 4%
-discussion_link: https://forum.makerdao.com/t/2579
+discussion_link: https://forum.makerdao.com/t/2742
+vote_type: Ranked Choice IRV
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
    0: Abstain
@@ -12,11 +13,11 @@ options:
    5: 2
    6: 4
 ---
-# Poll: Dai Savings Rate Spread Adjustment - May 25, 2020
+# Poll: Dai Savings Rate Spread Adjustment - June 8, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Savings Rate Spread** options. Voters are now able to signal their support for a **Dai Savings Rate Spread** within a range of 0% to 4%.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for three days beginning on Monday, May 25 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, May 29, at 4 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for three days beginning on Monday, June 8 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, June 12, at 4 PM UTC.
 
 ## Review
 
