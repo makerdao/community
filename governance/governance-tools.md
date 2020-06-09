@@ -54,18 +54,4 @@ Shows current auction parameters and the status of auctions that have triggered 
 Shows the previous and changed values for system parameters that have changed in each historical executive vote. Useful for figuring out when a certain parameter was last changed.
 
 **MKRGov.science** - https://mkrgov.science/  
-Shows governance analytics for current and historical votes. Also shows aggregated data based on the outcome of individual votes. Useful to find out the outcome of a particular proposal or poll, and find out how many addresses voted in it, the distribution of MKR over time and options. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Shows governance analytics for current and historical votes. Also shows aggregated data based on the outcome of individual votes. Useful to find out the outcome of a particular proposal or poll, and find out how many addresses voted in it, the distribution of MKR over time and options.
