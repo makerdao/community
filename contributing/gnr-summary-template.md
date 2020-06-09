@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [00:00](): Intro with Rich Brown
+- [00:00](): Topic with Person
 - [00:00](): Intro with Rich Brown
 - [00:00](): Intro with Rich Brown
 - [00:00](): Intro with Rich Brown
@@ -13,9 +13,9 @@
 
 ## Introduction
 
-### Rich
+### Agenda Summary and Talking Points
 
-#### Agenda Summary and Talking Points
+#### Rich
 
 [00:00](link)
 
@@ -34,9 +34,9 @@
 
 ## Main Theme
 
-### Name of Person Presenting
+### Specific Subject
 
-#### Specific Subject
+#### Name of Person Presenting
 
 [00:00]()
 
@@ -64,21 +64,20 @@ screenshot
 
 ## Analysis
 
-### Vishesh
+### The State of the Peg
 
-#### The State of the Pegs
+#### Relevant Links
+
+[MCD system stats](http://daistats.com)
+[DAI 24hr VWAP Graphs](http://dai.descipher.io/)
+
+#### Vishesh
 
 [00:00](link)
 
 - Insert beginning of notes here
 
-#### Relevant Links
-
-[MCD system stats](http://daistats.com)
-[SCD system stats](http://saistats.com/)
-[DAI & Sai 24hr VWAP Graphs](http://dai.descipher.io/)
-
-#### Questions and Discussion 3
+#### Questions and Comments 3
 
 [00:00](link)
 
@@ -100,23 +99,29 @@ screenshot
 
 - Insert question or comment here
 
-#### Relevant Links
+#### Links from Chat
 
 - [xx](link)
 
 ## Common Abbreviated Terms
 
-`SCD`: The Single-Collateral Dai system
-
 `MCD`: The Multi-Collateral Dai system
+
+`CR`: Collateralization Ratio
 
 `DC`: Debt Ceiling
 
 `ES`: Emergency Shutdown
 
+`EV`: Executive Vote
+
+`GP`: Governance Poll
+
 `SF`: Stability Fee
 
 `DSR`: Dai Savings Rate
+
+`MIP`: Maker Improvement Proposal
 
 ## Credits
 

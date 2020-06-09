@@ -30,13 +30,13 @@ Community members have numerous options for contributing. Whether translating do
 Every contributor arrives at Community Development in their own way, but here is a suggested pathway:
 
 * Make better contributions with a well-rounded knowledge of MakerDAO. Invest some time to learn about MakerDAO.
-    * Utilize [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao) to study and become familiar with:
+    * Utilize [Awesome-MakerDAO](https://awesome.makerdao.com/) to study and become familiar with:
         * How the Maker Protocol works on a technical level.
         * How the protocol is managed through governance.
         * MakerDAO’s history, current events, and the latest relevant information. 
-* Explore the [Earn as a Contributor Guide](./earn-as-a-contributor.md) to learn how to earn rewards as a contributor.
+* Explore the [Earn as a Contributor Guide](https://community-development.makerdao.com/contributing/earn-as-a-contributor) to learn how to earn rewards as a contributor.
     * Browse through the latest contributing opportunities at [GitHub Issues with Help-Wanted label](https://github.com/makerdao/community/projects/2?card_filter_query=label%3A%22help+wanted%22) and [Help-Wanted section of the MakerDAO Forum](https://forum.makerdao.com/c/comm-dev/help-wanted/11)
     * Explore the [CDIP Explainer process](./cdip-explainer.md), which outlines the process for proposing new ideas and initiatives.
 * Join the [#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat to express interest.
-* Start with the [Contributor Onboarding Guide](./contributor-onboarding-guide.md) to understand the structure and logic behind contributing to Community Development.
-* Read through the various [Contributor Guides](./contributing.md) to get familiar with Comm-Dev’s tools and best practices.
+* Start with the [Contributor Onboarding Guide](https://community-development.makerdao.com/contributing/contributor-onboarding-guide) to understand the structure and logic behind contributing to Community Development.
+* Read through the various [Contributor Guides](../contributing/contributor-onboarding-guide#community-guides) to get familiar with Comm-Dev’s tools and best practices.
