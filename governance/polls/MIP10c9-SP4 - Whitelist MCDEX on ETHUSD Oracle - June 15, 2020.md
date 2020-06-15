@@ -12,6 +12,11 @@ options:
 
 On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP4 will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP4* appends MCDEX to the ETH/USD Oracle whitelist to read price data.
 
+**Governance Poll Details:**
+
+- If the **Yes** votes in the Governance Poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** at the end of the poll, the proposal will be included in a following Executive Vote. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Executive Vote.
+- Note that the Default Inclusion Threshold is set to **3000 MKR**.
+
 ## Review
 
 The proposal to whitelist MCDEX on the ETHUSD Oracle can be reviewed here: [MIP10c9-SP4: Subproposal to Whitelist MCDEX on ETHUSD Oracle](https://forum.makerdao.com/t/mip10c9-sp4-proposal-whitelist-mcdex-on-eth-usd-oracle/2723).
