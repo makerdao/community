@@ -1,5 +1,5 @@
 ---
-title: MIP10c15-SP2* Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020
+title: MIP10c15-SP2 Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c14-sp2-proposal-appoint-infura-as-light-feed/2660/3
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
@@ -8,9 +8,9 @@ options:
    1: Yes
    2: No
 ---
-# MIP10c15-SP2* Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020
+# MIP10c15-SP2 Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020
 
-On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c15-SP2* will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP2* appoints Infura as an Oracle Light Feed who submits price data to the MakerDAO Oracles.
+On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c15-SP2 will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP2 appoints Infura as an Oracle Light Feed who submits price data to the MakerDAO Oracles.
 
 **Governance Poll Details:**
 
