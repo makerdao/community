@@ -17,6 +17,8 @@ On June 15, the Maker Community will vote to determine whether the Maker Improve
 - If the **Yes** votes in the Governance Poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** at the end of the poll, the proposal will be included in a following Executive Vote. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Executive Vote.
 - Note that the Default Inclusion Threshold is set to **3000 MKR**.
 
+Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
+
 ## Review
 
 The proposal to appoint Kyber Network as an Oracle Light Feed can be reviewed here: [MIP10c15-SP1: Subproposal to Appoint Kyber Network as Oracle Light Feed](https://forum.makerdao.com/t/mip10c14-sp1-appoint-kyber-network-as-light-feed/2632/2).
