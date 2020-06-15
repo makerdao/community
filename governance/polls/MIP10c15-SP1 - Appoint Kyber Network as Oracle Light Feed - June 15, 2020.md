@@ -2,7 +2,7 @@
 title: MIP10c15-SP1 Governance Poll to Appoint Kyber Network as Oracle Light Feed - June 15, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c14-sp1-appoint-kyber-network-as-light-feed/2632/2
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
