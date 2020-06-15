@@ -2,7 +2,7 @@
 title: MIP10c15-SP2 Governance Poll to Appoint Infura as Oracle Light Feed - June 15, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c14-sp2-proposal-appoint-infura-as-light-feed/2660/3
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
@@ -26,7 +26,6 @@ The proposal to appoint Infura as an Oracle Light Feed can be reviewed here: [MI
 ## Next Steps
 
 If the Governance Poll passes, the Oracle Team will assist Infura to setup and configure their Oracle Light Feed. Then the proposal will proceed to the final ratification vote (Executive Vote) on June 26th.
-
 
 ## Resources
 

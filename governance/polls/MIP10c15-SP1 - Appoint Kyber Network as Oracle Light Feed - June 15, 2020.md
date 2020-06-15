@@ -27,7 +27,6 @@ The proposal to appoint Kyber Network as an Oracle Light Feed can be reviewed he
 
 If the Governance Poll passes, the Oracle Team will assist Kyber Network to setup and configure their Oracle Light Feed. Then the proposal will proceed to the final ratification vote (Executive Vote) on June 26th.
 
-
 ## Resources
 
 Additional information about the MIPs process can be found in the [Maker Improvement Proposals (MIPs)](https://github.com/makerdao/mips) repository.

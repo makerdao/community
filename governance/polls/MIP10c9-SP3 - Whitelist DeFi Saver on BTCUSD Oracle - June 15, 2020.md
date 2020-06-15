@@ -2,7 +2,7 @@
 title: MIP10c9-SP3 Governance Poll to Whitelist DeFi Saver on BTCUSD Oracle - June 15, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp3-proposal-whitelist-defi-saver-on-wbtcusd-oracle/2528
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
