@@ -133,7 +133,7 @@ Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at 
   - Names and proper nouns.
   - Cities, countries, nationalities, and languages.
   - Terms with definitions provided by MakerDAO.
-    - Vist the [Glossary of Terms](community/faqs/glossary.md) for the official list.
+    - Vist the [Glossary of Terms](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary) for the official list.
   - Comm-Dev role titles.
       - **Examples:** Lead, Approver, Advisor, etc.
 - **Title Case**
