@@ -21,7 +21,7 @@ options:
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -4% to 4%.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for three days beginning on Monday, June 22 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, June 26, at 4 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance)) will be active for three days beginning on Monday, June 22 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, June 26, at 4 PM UTC.
 
 ## Review
 
