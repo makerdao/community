@@ -20,7 +20,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
-The **Dai Savings Rate Spread** was discussed in the Governance call on Thursday, May 21. Please review the [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk), [Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries) and the online [discussion](https://forum.makerdao.com/c/governance) to inform your position before voting.
+The **Dai Savings Rate Spread** was discussed in the most recent Governance call. Please review the [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk), [Summary](https://community-development.makerdao.com/governance/governance-and-risk-meetings/summaries) and the online [discussion](https://forum.makerdao.com/c/governance) to inform your position before voting.
 
 ## Next Steps
 
