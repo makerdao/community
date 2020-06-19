@@ -2,7 +2,7 @@
 title: Base Rate Adjustment - June 22, 2020
 summary: Signal your support to adjust the Base Rate within a range of -4% to 4%
 discussion_link: https://forum.makerdao.com/t/2878
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Ranked Choice IRV
 options:
    0: Abstain
    1: -4
