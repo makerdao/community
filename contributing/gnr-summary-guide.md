@@ -106,14 +106,14 @@ This is the general structure of the document. #h refers to the heading type. He
 - Do not include "umm", "so", "like", irrelevant tangents, and any other obfuscating language. The aim of the summary is to most clearly capture the main points in a concise and readable fashion that is semantically true to how the point was spoken.
 - Add an `h4` Discussion header at the end of each section to capture questions and comments made during that part of the call.
     -  If there are no questions or comment do not include a Discussion header.
-- Use backticks to add a `` `Chat` `` marker to the beginning of questions or comments coming from the chat.
+- Add a `` `Chat` `` marker to the beginning of questions or comments coming from the chat.
     - Only include insightful comments or important questions. Especially include content that is responded to on the call.
 
 ### Special Language Rules
 
-In standardizing the rules around contributing, the community maintains a [writing-style-guide](https://community-development.makerdao.com/contributing/style-guide) that contains all the rules for consistent language, grammar, and formatting. Below are the rules most relevant to these summaries:
+In standardizing the rules around contributing, the community maintains a [writing-style-guide](https://community-development.makerdao.com/contributing/writing-style-guide) that contains all the rules for consistent language, grammar, and formatting. Below are the rules most relevant to these summaries:
 
-- Please follow the [Naming Convention guidelines](./contributing/style-guide#naming-conventions) found in the writing style guide.
+- Please follow the [Naming Convention guidelines](./contributing/writing-style-guide#naming-conventions) found in the writing style guide.
 - Use short, concise sentences. The balance is to use the least words for the most accurate and comprehensive coverage of what the speakers are saying.
 - Use [oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - Capitalize names of people and online handles.
@@ -133,7 +133,7 @@ The Governance Calls often have visual presentations. The most efficient way to 
 
 ### Tips
 
-- Consult the [Writer Style Guide](./contributing/style-guide.md) and [Reviewer Guides](./contributing/reviewer-guide.md) for additional helpful information.
+- Consult the [Writer Style Guide](./contributing/writing-style-guide.md) and [Reviewer Guides](./contributing/reviewer-guide.md) for additional helpful information.
 - Read for clarity before rewatching. While doing so, edit for low hanging fruit: readability, spelling or grammar mistakes, and formatting errors.
 - Rewatch at a comfortable playback speed; speeds up to 2x are available on YouTube.
 - Use tools like [Grammarly](https://app.grammarly.com/) to help you find missed mistakes once you are done with your section.
