@@ -2,12 +2,11 @@
 title: Should we add KNC to the Maker Protocol? - June 22, 2020
 summary: This poll will provide guidance to the Domain Teams for when they onboard additional assets. 
 discussion_link: https://forum.makerdao.com/t/2458
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
-
 ---
 # Poll: Should we add KNC to the Maker Protocol? - June 22, 2020
 
