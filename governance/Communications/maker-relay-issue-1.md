@@ -1,7 +1,7 @@
 ![](./assets/maker-relay-hero-6-22.png)
-Hey, Maker community, welcome to the first edition of Maker Relay. This is your one-stop-shop for updates on the MakerDAO ecosystem written for a diverse band of stakeholders.
+Hey, Maker community, welcome to the first edition of Maker Relay. 
 
-We value your input! Leave a reply, post in the forum, [provide feedback](https://forms.gle/Z2QAgywU2Sesm7Vy6), or join us in the [Community-Development]([https://chat.makerdao.com/channel/community-development](https://chat.makerdao.com/channel/community-development)) channel to let us know what you want to see.
+Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved in MakerDAO governance, this is your one-stop-shop for updates on the MakerDAO ecosystem. 
 
 # Stakeholders
 
@@ -60,6 +60,8 @@ Aave is a decentralized non-custodial money market protocol where users can part
 
 2. [COMP as DAI collateral discussion](https://forum.makerdao.com/t/comp-as-dai-collateral-a-pre-mip-discussion/2892/14)
 
+3. [Wallet & CDP Liquidation-based Predictive Scoring Model](https://forum.makerdao.com/t/wallet-cdp-liquidation-based-predictive-scoring-model/2687)
+
 # Contributors
 
 ## Working groups updates
@@ -88,5 +90,8 @@ Aave is a decentralized non-custodial money market protocol where users can part
 - [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
 - [Archives](https://community-development.makerdao.com/governance/governance-and-risk-meetings)
 - [Contributing](https://forum.makerdao.com/c/governance/gnr/8)
+
+# Have Feedback?
+We value your input! Post in the [forum](https://forum.makerdao.com/), provide feedback using our [survey](https://forms.gle/Z2QAgywU2Sesm7Vy6), or join us in the [Community-Development]([https://chat.makerdao.com/channel/community-development](https://chat.makerdao.com/channel/community-development)) channel to let us know what you want to see.
 
 _--Disclaimer-- (This update is assembled by a group of contributing members in the MakerDAO community. By no means should this serve as financial advice or an inducement to vote in a specific way. This update is purely for informative and for communications purposes only.)_
