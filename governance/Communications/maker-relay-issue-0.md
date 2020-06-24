@@ -14,7 +14,7 @@ Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved i
 
 Polls are using Instant Run-off so you can select multiple options and ranked-choices will be prioritized.
 
-*Standard rate polls close Wednesday June 24, 2020 at 4PM UTC.*
+*Standard rate polls close Thursday June 25, 2020 at 4PM UTC.*
 
 - [Base Rate Adjustment](https://vote.makerdao.com/polling-proposal/qmvqc9njedfcfttk6sjpnun8qnyuc52uc6adt2hst4vtrz) -  [-4% and 4%]  \
 Select a base rate for stability fees collected on Vaults. The current base rate is 0%.
