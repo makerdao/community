@@ -72,7 +72,7 @@ Aave is a decentralized non-custodial money market protocol where users can part
 
 ### Meetings
 
-####Community Development Meetings
+#### Community Development Meetings
   - Tuesdays at 16:00 UTC
     - [Crowdcast](https://www.crowdcast.io/e/the-makerdao-tuesday-2) - Message [General](https://chat.makerdao.com/channel/general) for any password updates
 
