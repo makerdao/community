@@ -77,7 +77,7 @@ The Maker Improvement Proposal (MIPs) Framework provides a clear process for Mak
 
 ### Meetings
 
-####Community Development Meetings
+#### Community Development Meetings
   - Tuesdays at 16:00 UTC
     - [Crowdcast](https://www.crowdcast.io/e/the-makerdao-tuesday-2) - Message [General](https://chat.makerdao.com/channel/general) for any password updates
 
