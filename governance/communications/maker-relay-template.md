@@ -6,11 +6,11 @@ We value your input! Leave a reply, post in the forum, [take our survey](https:/
 
 ### Maker (MKR) Holders + DAI Holders + Vault Owners
 
-#### Major Governance Moves & Polls
+#### Major Governance Moves and Polls
 
-[Governance at a glance]()
+[Governance at a glance](https://forum.makerdao.com/t/governance-at-a-glance/84)
 
-[This Week’s Polls](https://vote.makerdao.com/polling)
+[This Week's Polls](https://vote.makerdao.com/polling)
 
 ## Collateral Statuses, MIPs Update, and Current Cycle Point image
 
@@ -49,8 +49,8 @@ BT Vault analysis team
     - [Contributing](https://community-development.makerdao.com/contributing)
 #### Community Collateral Onboarding
   - Wednesdays at 17:50 UTC
-    - [Zoom]( https://zoom.us/j/697074715) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
-#### Governance & Risk
+    - [Zoom](https://zoom.us/j/697074715) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
+#### Governance and Risk
   - Thursdays at 16:00 UTC
     - [Video/Voice](https://zoom.us/j/697074715)
     - [Dial-in](https://zoom.us/u/acRbIMDvK)
