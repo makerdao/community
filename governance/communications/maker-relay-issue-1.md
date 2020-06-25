@@ -7,7 +7,7 @@ Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved i
 
 ## Maker (MKR) Holders + Vault Owners + DAI Holders
 
-### [This Week’s Polls](https://vote.makerdao.com/polling) (22/06/2020)
+### [This Week's Polls](https://vote.makerdao.com/polling) (22/06/2020)
 
 Polls are using Instant Run-off so you can select multiple options and ranked-choices will be prioritized.
 
@@ -56,10 +56,8 @@ Aave is a decentralized non-custodial money market protocol where users can part
 
 #### Dai-ve deeper into the Forums
 
-1. [Why aren’t MKR Holders voting?](https://forum.makerdao.com/t/why-arent-mkr-holders-voting/301) 
-
+1. [Why aren't MKR Holders voting?](https://forum.makerdao.com/t/why-arent-mkr-holders-voting/301) 
 2. [COMP as DAI collateral discussion](https://forum.makerdao.com/t/comp-as-dai-collateral-a-pre-mip-discussion/2892/14)
-
 3. [Wallet & CDP Liquidation-based Predictive Scoring Model](https://forum.makerdao.com/t/wallet-cdp-liquidation-based-predictive-scoring-model/2687)
 
 # Contributors
@@ -79,12 +77,11 @@ Aave is a decentralized non-custodial money market protocol where users can part
 #### Community Collateral Onboarding
 
 - Wednesdays at 17:50 UTC
-    - [Zoom]( https://zoom.us/j/697074715) - Message in [Maker Chat](https://chat.makerdao.com/channel/general) for password
+    - [Zoom](https://zoom.us/j/697074715) - Message in [Maker Chat](https://chat.makerdao.com/channel/general) for password
 
 #### Governance & Risk
 
 - Thursdays at 16:00 UTC
-
 - [Video/Voice](https://zoom.us/j/697074715) Message [#governance-and-risk](chat.makerdao.com/channel/governance-and-risk) for Admission
 - [Dial-in](https://zoom.us/u/acRbIMDvK)
 - [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
