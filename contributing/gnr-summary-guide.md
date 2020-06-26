@@ -71,8 +71,8 @@ This is the general structure of the document. #h refers to the heading type. He
   |     ├ #####h4 Name of person presenting
   |     └ #####h4 Discussion 1
   ├ ##h2 Main Theme (Risk, Oracles, Governance, etc.)
-  | └ ###h3 Name of person presenting
-  |     ├ #####h4 Specific subject
+  | └ ###h3 Specific Subject
+  |     ├ #####h4 Name of person presenting
   |     └ #####h4 Discussion 2
   ├ ##h2 General Discussion
   ├ ##h2 Links from the Chat

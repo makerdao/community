@@ -5,7 +5,7 @@ The MakerDAO Community Writing Style Guide summarizes the standards and best pra
 - Errors are sometimes overlooked.
 - If something in a document does not adhere to the Writing Style Guide, edit accordingly.
 
-In addition to this guide, Writers are encouraged to study the [contributor resources](readme.md) before starting work on a Community Development project.
+In addition to this guide, Writers are encouraged to study the [contributor resources](README.md) before starting work on a Community Development project.
 - [Contributor Onboarding Guide](contributor-onboarding-guide.md)
 - [Contributor Tools Guide](contributor-tools-guide.md) 
 - [Reviewer Guide](reviewer-guide.md)
@@ -63,54 +63,54 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Remain open and objective.
 - Provide examples when possible.
 - Provide examples to help explain concepts, but avoid overcomplicating them.
-    - Use math when necessary, but keep it simple.
+  - Use math when necessary, but keep it simple.
 - Link to basic terms if necessary.
 
 ## Writer Guidelines
 
 :exclamation: **Please Note**
 
-1. When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.
-1. Run all drafts through [Grammarly](https://app.grammarly.com/) regularly, and before final submissions.
-    - Grammarly will catch most spelling and grammatical errors.
-        - Review the suggestions to make sure they make sense.
-        - **Do not blindly accept Grammarly edits.**
-    - HackMD does not identify spelling and grammatical errors. 
-        - Copy text from the rendered preview into Grammarly and address any errors it flags.
-        - Grammarly will miss errors if it’s given raw Markdown text.
+- When migrating to a new document (i.e., from Google Docs to HackMD), make sure to leave a note in the old file. Provide a link to the latest version.
+- Run all drafts through [Grammarly](https://app.grammarly.com/) regularly, and before final submissions.
+  - Grammarly will catch most spelling and grammatical errors.
+    - Review the suggestions to make sure they make sense.
+    - **Do not blindly accept Grammarly edits.**
+  - HackMD does not identify spelling and grammatical errors. 
+    - Copy text from the rendered preview into Grammarly and address any errors it flags.
+    - Grammarly will miss errors if it’s given raw Markdown text.
 
 ### General Rules
 
 **Use:**
 
 - [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
-- [Pluralized, gender-neutral pronouns](https://en.wikipedia.org/wiki/Singular_they). 
-    - Use “they/their” instead of “he/she/his/hers.”
-    - **Examples:** “When they…” or “If users choose to X, then their…”
+- [Pluralized, gender-neutral pronouns](https://en.wikipedia.org/wiki/Singular_they).
+  - Use "they/their" instead of "he/she/his/hers."
+  - **Examples:** "When they..." or "If users choose to X, then their..."
 - The `%` symbol. Do not spell out "percent."
-    - **Correct:** 15%
-    - **Incorrect:** 15 percent
+  - **Correct:** 15%
+  - **Incorrect:** 15 percent
 - Double quotes `" "` for phrases, quotes, etc.
-    - Do not use single `' '` quotes.
+  - Do not use single `' '` quotes.
 
 **Avoid:**
 
 - [First-person language](https://en.wikipedia.org/wiki/Grammatical_person).
-    - **Examples:** I, we, our, etc.
--  [Second-person language](https://en.wikipedia.org/wiki/Grammatical_person).
-    - **Examples:** "You then..." or "Now you should..."
+  - **Examples:** I, we, our, etc.
+- [Second-person language](https://en.wikipedia.org/wiki/Grammatical_person).
+  - **Examples:** "You then..." or "Now you should..."
 - Exclamation points.
 - Footnotes.
 - References to [Purple Paper](https://makerdao.com/purple/) names.
-    - **Examples:** Flip, Flap, Flop, etc.
+  - **Examples:** Flip, Flap, Flop, etc.
 - Parentheses for stating additional information.
-    - **Incorrect:** Development Grants are larger sized ($5,000 to $50,000) grants aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
-    - **Correct:** Development Grants are generally larger sized grants, ranging from $5,000 to $50,000, aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
+  - **Incorrect:** Development Grants are larger sized ($5,000 to $50,000) grants aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
+  - **Correct:** Development Grants are generally larger sized grants, ranging from $5,000 to $50,000, aimed at individuals or teams building projects around Dai and the broader MakerDAO ecosystem.
 
 ### Abbreviations
 
 - Use parentheses to define abbreviated terms the first time in a given document.
-    - **Example:** A Community Development Initiative Proposal (CDIP) is a proposal framework to support new initiatives and to expand the scope of existing ones.
+  - **Example:** A Community Development Initiative Proposal (CDIP) is a proposal framework to support new initiatives and to expand the scope of existing ones.
 - Use "Comm-Dev" as the shortened version of "Community Development."
 
 ### Acronyms and Decades
@@ -133,29 +133,29 @@ Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at 
   - Names and proper nouns.
   - Cities, countries, nationalities, and languages.
   - Terms with definitions provided by MakerDAO.
-    - Vist the [Glossary of Terms](community/faqs/glossary.md) for the official list.
+    - Vist the [Glossary of Terms](/faqs/glossary.md) for the official list.
   - Comm-Dev role titles.
-      - **Examples:** Lead, Approver, Advisor, etc.
+    - **Examples:** Lead, Approver, Advisor, etc.
 - **Title Case**
   - Capitalize the first word and all nouns, proper nouns, verbs, and adjectives.
   - Lowercase all:
-      - **Articles:** a, an, the, etc.
-      - **Conjunctions:** and, but, etc.
-      - **Prepositions:** on, it, before, etc.
+    - **Articles:** a, an, the, etc.
+    - **Conjunctions:** and, but, etc.
+    - **Prepositions:** on, it, before, etc.
 
 ### Currencies
 
 The examples below use dollars, but the same rules apply to all global currencies.
 
-- Use lowercase except when writing "US Dollar.”
-- Use figures and the \"$" sign in all except casual references, or amounts without a figure.
-    - **Standard:** "The book costs \$4."
+- Use lowercase except when writing "US Dollar."
+- Use figures and the "$" sign in all except casual references, or amounts without a figure.
+    - **Standard:** "The book costs $4."
     - **Casual:** "Please give me a dollar."
-- For amounts under \$1 million, follow this format:
-    - **Correct:** \$4, \$25, \$500, \$1,000, \$650,000.
-- For amounts over \$1 million, use the word, not numerals. 
-    - **Correct:** "He is worth \$4 million."
-    - **Incorrect:** "He is worth \$4,000,000."
+- For amounts under $1 million, follow this format:
+    - **Correct:** $4, $25, $500, $1,000, $650,000.
+- For amounts over $1 million, use the word, not numerals. 
+    - **Correct:** "He is worth $4 million."
+    - **Incorrect:** "He is worth $4,000,000."
 
 ### Naming Conventions
 
@@ -163,17 +163,17 @@ The examples below use dollars, but the same rules apply to all global currencie
 
 - When directly referring to the creation, destruction, or manipulation of a token (particularly as it relates to tooling):
     - Use the capitalized TLA version: `DAI`.
-    - **Example:** “Draw DAI against ETH from a Vault.”
+    - **Example:** "Draw DAI against ETH from a Vault."
 - Similarly, when referring to exchange pairs: 
     - Use: `ETH/DAI`.
 - When referencing the token as a currency, in an instructional or conversational setting, or as a conceptual product of the Foundation or its systems:
     - Use: `Dai`.
-    - **Example:** “Dai is a price-stable asset that can be used as money.”
+    - **Example:** "Dai is a price-stable asset that can be used as money."
 
 #### MakerDAO
 
 - When referring to MakerDAO as a smart contract system, use "The Maker Protocol."
-    - **Example:** “The Maker Protocol facilitates DAI generation."
+    - **Example:** "The Maker Protocol facilitates DAI generation."
 - When referring to MakerDAO as a body of MKR voters and the general stakeholder community, use "Maker Community" or "MakerDAO."
     - **Example:** "MakerDAO passed a vote to increase the Stability Fee."
     - **Example:** "The Maker Community passed a vote to increase the Stability Fee."
@@ -218,9 +218,8 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
   
 ### Links
 
-- Use [relative links](https://docs.microsoft.com/en-us/contribute/how-to-write-links) when cross-referencing files from [community repositories](./community) on MakerDAO's GitHub.
-    - Use MakerDAO's [GitHub]((./makerdao)) file structure for reference.
-- Use [absolute links]((https://docs.microsoft.com/en-us/contribute/how-to-write-links)) and standard web URLs when referencing external resources.
+- Use [relative links](https://docs.microsoft.com/en-us/contribute/how-to-write-links) when cross-referencing files from the community development repository on MakerDAO's GitHub.
+- Use [absolute links](https://docs.microsoft.com/en-us/contribute/how-to-write-links) and standard web URLs when referencing external resources.
 - Create descriptive hyperlinks and avoid generic language.
     - **Descriptive:** Learn more at [Awesome-MakerDAO](link).
     - **Generic:** Learn more [here](link).
@@ -278,7 +277,6 @@ MakerDAO documents posted on Github are written in Markdown, a text-to-HTML conv
     - Make sure to delete comments before submitting pull requests.
 - Use an emoji to call attention to an important point, when necessary.
     - Practice discretion and use them sparingly.
-        - Do not load documents with emojis.
     - This [cheat sheet](https://gist.github.com/rxaviers/7360908) lists emojis and their Markdown shortcuts.
 
 #### VSCode
@@ -295,13 +293,12 @@ MakerDAO documents posted on Github are written in Markdown, a text-to-HTML conv
 
 ## Contributor Best Practices
 
-Writers and contributors familiar with MakerDAO and cryptocurrency basics will have a better sense of where to apply their skills best. 
+Writers and contributors familiar with MakerDAO and cryptocurrency basics will have a better sense of where to apply their skills best.
+
 - Spend some time learning about MakerDAO's function, history, and any latest events before contributing.
 - In-depth knowledge is appreciated but not required.
 
 ### Helpful Writing Tools
-
-Make use of any writing tools that help improve workflow and writing quality. See the list below for some recommendations.
 
 #### Text Editors
 
@@ -316,7 +313,7 @@ Make use of any writing tools that help improve workflow and writing quality. Se
 
 ### Review Community Guides
 
-Review the [contributor resources](readme.md) before starting work on any MakerDAO Community Development project.
+Review the [contributor resources](README.md) before starting work on any MakerDAO Community Development project.
 - Comm-Dev contributor guides outline writing standards and help simplify the writing process. 
 
 #### Contributor Onboarding Guide
