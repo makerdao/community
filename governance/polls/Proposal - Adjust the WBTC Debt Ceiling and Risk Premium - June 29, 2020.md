@@ -1,6 +1,6 @@
 ---
 title: Adjust the WBTC Debt Ceiling and Risk Premium - June 29, 2020
-summary: Signal your support for increasing the WBTC Debt Ceiling from 10m to 20m. And increasing the WBTC Risk Premium from 1% to 2%.
+summary: Signal your support for raising the WBTC Debt Ceiling from 10 to 20 million and the WBTC Risk Premium from 1% to 2%.
 discussion_link: https://forum.makerdao.com/t/2824
 vote_type: Plurality Voting
 options:
@@ -12,7 +12,7 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll express support or opposition to increasing the WBTC Debt Ceiling from 10m to 20m, and increasing the WBTC Risk Premium from 1% to 2%.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, June 29 at 5 PM UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, July 3, at 5 PM UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, June 29 at 4 PM UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, July 3, at 4 PM UTC.
 
 ## Review
 
