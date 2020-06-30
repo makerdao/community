@@ -56,6 +56,7 @@
       - [Episode 61: Nov 14, 2019](governance/governance-and-risk-meetings/summaries/episode-61.md)
       - [Episode 60: Nov 07, 2019](governance/governance-and-risk-meetings/summaries/episode-60.md)
     - [Transcripts](governance/governance-and-risk-meetings/transcripts/README.md)
+  - [Communications](governance/communications)
   - [Frequent Discussion Topics](governance/common-topics.md)
   - [Auditing Executive Spells](governance/executive-audit.md)
   - [Governance Tools](governance/governance-tools.md)
