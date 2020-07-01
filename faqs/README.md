@@ -91,7 +91,7 @@
 - [What does voting with a linked wallet do for me?](governance.md#what-does-voting-with-a-linked-wallet-do-for-me)
 - [When setting up a linked wallet, what permissions am I granting?](governance.md#when-setting-up-a-linked-wallet-what-permissions-am-i-granting)
 - [Does it cost gas every time I vote?](governance.md#does-it-cost-gas-every-time-i-vote)
-- [When setting up a linked wallet, how much gas will I need and which wallet does it come from?](governance.md#when-setting-up-a-linked-wallet-how-much-gas-will-i-need-and-which-wallet-does-it-come-from?)
+- [When setting up a linked wallet, how much gas will I need and which wallet does it come from?](governance.md#when-setting-up-a-linked-wallet-how-much-gas-will-i-need-and-which-wallet-does-it-come-from)
 - [What are IOU Tokens?](governance.md#what-are-iou-tokens)
 - [When setting up a linked wallet, how many transactions do I have to sign?](governance.md#when-setting-up-a-linked-wallet-how-many-transactions-do-I-have-to-sign)
 - [When setting up a single wallet, how many transactions do I have to sign?](governance.md#when-setting-up-a-single-wallet-how-many-transactions-do-I-have-to-sign)
