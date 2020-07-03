@@ -1,25 +1,25 @@
 ---
 title: Base Rate Adjustment - July 6, 2020
-summary: Signal your support to adjust the Base Rate within a range of -3.75% to 4.25%
+summary: Signal your support to adjust the Base Rate within a range of -4% to 4%
 discussion_link: https://forum.makerdao.com/t/2944
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: -3.75
-   2: -1.75
-   3: -0.75
-   4: -0.25
-   5: 0
-   6: 0.25
-   7: 0.50
-   8: 0.75
-   9: 1.25
-   10: 2.25
-   11: 4.25
+   1: -4
+   2: -2
+   3: -1
+   4: -0.5
+   5: -0.25
+   6: 0
+   7: 0.25
+   8: 0.5
+   9: 1
+   10: 2
+   11: 4
 ---
 # Poll: Base Rate Adjustment - July 6, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -3.75% to 4.25%.
+The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -4% to 4%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance)) will be active for three days beginning on Monday, July 6 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Friday, July 10, at 4 PM UTC.
 
