@@ -1,355 +1,351 @@
-# Episode 94: May 21, 2020
+# Episode 94: May 28th, 2020
 
 ## Agenda
 
-- [00:00](https://youtu.be/Rbd2hDIk7vc): Intro with Rich Brown
-- [05:53](https://youtu.be/Rbd2hDIk7vc?t=353): Governance at a Glance and SourceCred Trial with LongForWisdom
-- [11:02](https://youtu.be/Rbd2hDIk7vc?t=662): SourceCred Trial with Dandelion Mane
-- [28:59](https://youtu.be/Rbd2hDIk7vc?t=1739): Weekly MIPs Update with Charles St. Louis
-- [37:41](https://youtu.be/Rbd2hDIk7vc?t=2261): GSM Delay & Dark Spell MIP with Wil Barnes
-- [49:38](https://youtu.be/Rbd2hDIk7vc?t=2978): USDC-B Proposal Overview with Cyrus Younessi
-- [52:15](https://youtu.be/Rbd2hDIk7vc?t=3131): State of the Peg with Vishesh Choudry
+- [00:00](https://youtu.be/e9GDaRhGZC8): Intro with Rich Brown
+- [06:09](https://youtu.be/e9GDaRhGZC8?t=369): Governance at a Glance with LongForWisdom
+- [17:45](https://youtu.be/e9GDaRhGZC8?t=1065): Oracles with Nik Kunkel
+- [28:40](https://youtu.be/e9GDaRhGZC8?t=1720): MIPs with Charles St Louis
+- [44:39](https://youtu.be/e9GDaRhGZC8?t=2679): State of the Pegs with Vishesh Choudry
+- [58:51](https://youtu.be/e9GDaRhGZC8?t=3531): Open Ended Discussion with LongForWisdom
 
 ## Video
 
-<https://youtu.be/Rbd2hDIk7vc>
+<https://youtu.be/e9GDaRhGZC8>
 
 ## Introduction
 
-### Rich
+### Agenda Summary and Talking Points
 
-#### Agenda Summary and Talking Points
+#### Rich
 
-[00:00](https://youtu.be/Rbd2hDIk7vc)
+[00:00](https://youtu.be/e9GDaRhGZC8)
 
-- Welcome to the May 21st edition of scientific Governance and Risk meeting, my name is Richard Brown. Today I am the only Governance Facilitator for the next week or so, but we'll discuss that later. We have some themes arising in the ecosystem, more than we can track. One of the themes is cognitive overhead and the number of threads that we need to keep organized in these calls. The theme I want to discuss today is whether algorithms will save us or not and whether humans are a good thing or a bad thing. It's my contention, and probably all of us in the group that enormously complex systems still require humans. We're not in this glorious future yet where a python script can replace all of us. Hopefully, that day is coming [*laughs*], but it's not here yet. We have to maintain two tracks in this Governance ecosystem. One of them is code, and one of them is a social layer. The social layer is where it gets tricky. There, we have to deal with interesting things like reputation, identity, consensus, and debate. All kinds of endlessly murky and fascinating topics need to be explored to have large groups of individuals align on a mission and execute on that mission.
-- That's why we have these calls, their hard benefits; Information sharing, broadcasting general topics, and trends, but there is also a cultural component: a social construct where we all align on our own identity and come to conclusions about our norms and expectations. These things are all very complicated. Though they happen organically, it doesn't mean they can't be helped along.
-- That's my segue into chatting about today's agenda. The team from Sourcecred is attending today to talk about their project that helps align the complexities of the social layer with incentivizing activities that are good for the protocol. And vice versa creating a symbiotic relationship with the social layer. I'll leave explaining those mechanisms to them.
-- Later on in this call, we'll have a section dedicated to MIPs, which we will increasingly devote more time to. As we create more cultural norms, how we talk, how points of order are addressed, whether I need a powdered wig or not [*chuckles*].
-- Wil Barnes is here, and thank you for picking up a critical issue to discuss and drive forward: [the GSM delay and the Dark fix.](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578) Call it what you will, but the GSM delay is a technical protocol problem that has been solved. To tie this back to my original thread about complexities, there is a social layer here. We need to get into other murky topics like trust, reputation, and identity and how that relates to the dark spell mechanism.
-- Charles will give us the [weekly MIPs update](https://forum.makerdao.com/t/weekly-mips-update/2576) as we dig ever deeper into that world.
+- Welcome to the May 28th edition of scientific Governance and Risk meeting, my name is Richard Brown. I am the head of Community development at MakerDAO, and finally, after a long and tense wait, I am no longer the only Governance Facilitator. Today is a big day for me. Governance has evolved in many many ways in the past two years and has become fantastically complicated, which was the plan, I guess? Well, let's call it sophisticated to be charitable. Lots to do, lots of threads to manage, issues like consensus, debate, and coordination are a large *large* project. I wear many hats, and I don't have the bandwidth to devote the attention to what's happening here actually deserves. I haven't been quiet about that.
+- I've been enormously interested in expanding the pool of resources community has for itself to make sure the Governance machine keeps running. Happily, the hero we needed arose: LongForWisdom showed up. It turns out that this is the best possible universe. He is interested in Governance and helped out. He basically kicked ass in general. And through the power of meritocracies and open Governance was elected. Anyways, he blew us all away; being willing to step up and adopt the responsibilities of a Governance Facilitator is no small feat. It's a thankless job; the amount of work involved is tremendous. But there is a considerable amount of plus sides. It's absolutely fascinating work.
+- One of the things MakerDAO is good at is being on the leading edge of the curve. Doing things that haven't been done before, or, at least, at this scale. That's a fascinating place to be. There are many interesting problems to solve, and having someone like Long come along with the capacity and insight is a huge win for the ecosystem. I'm enormously happy to announce that he is now the other Governance Facilitator. Potentially outranking me since I'm just an Interim-GF.
+- He was ratified via executive vote, a non-trivial thing, and to do that, people needed to pull out hardware wallets and move value around on-chain to vote. A value of about $25 million in MKR supported his election and ratification. This is an encouraging day for all of us, but I'll give him a pass on a speech. I think he'll say something like, "thanks, I guess?"
+- On the agenda we have Governance at a Glance, an update on the Oracle MIPs, Charles will do the weekly MIPs update, and soon after, we'll do housekeeping for MIPs as outlined in [the governance cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), then State of the Pegs.
+- Agenda is light today, comparatively, which gives more opportunity for Q&A. If people have a topic to discuss, then we can dig into those issues later. For example, one thing I keep seeing resurface is liquidations and how we deal with IOU tokens in the Protocol. Things like that, larger threads that were raised recently but not exhaustively explored.
 - Discussions happen in the [forum.](https://forum.makerdao.com/)
 
 ## Governance
 
-### LongForWisdom
+### Governance at a Glance
 
-#### Governance at a Glance
+#### LongForWisdom
 
-[05:53](https://youtu.be/Rbd2hDIk7vc?t=353)
+[06:09](https://youtu.be/e9GDaRhGZC8?t=369)
 
-##### Three Bullet Summary
+- I'll briefly thank everyone for the trust they placed in me; that's gratifying, thank you. Expect for the first few weeks to be slightly chaotic as we try to figure out how work is being split. Once that's over, we'll prepare to get more done.
+- Rich: Rousing speech! [laughs]
+- LFW: I put my all into it [*laughs*] I was frantically googling famous speeches earlier but figured "I have a dream..." was a bit over the top.
 
-- DAI remains above $1, averaging around $1.005 over the last seven days.
-- There are many [MIP 6 collateral applications on the forum](https://forum.makerdao.com/tag/collateral-app). Please consider leaving constructive comments!
-- DAI supply has increased by ~$10 million in the last week, largely due to ~$4 million minted using wBTC as collateral.
+#### Discussion threads
 
-##### Discussion Threads
+- [Business Policy of Rate Setting](https://forum.makerdao.com/t/business-policy-of-rate-setting/2609)
+    - Primoz's thread. Well worth a read.
+- [Really bad form to group process votes on the SF structure with a USDC fee rise](https://forum.makerdao.com/t/really-bad-form-to-group-process-votes-on-the-sf-structure-with-a-usdc-fee-rise/2599)
+    - Interestingly, in this thread, Rune made a post sharing mechanism to upgrade the system we have technically. The easiest way to fix things is to design a build a spell that's always active. Then build the system *on top* of DSchief. Making migration easier etc.
+- [Regulatory Recourse - Quantifying Centralized Stablecoin Risk](https://forum.makerdao.com/t/regulatory-recourse-quantifying-centralized-stablecoin-risk/2624)
+    - Using regulatory recourse as an input on how risky Stablecoins are.
 
-- [Hashing Gov Polls and Process MIPs onchain](https://forum.makerdao.com/t/hashing-gov-polls-and-process-mips-onchain/2506)
-- [Discussion thread: Let's lower the ETH liquidation penalty to 5% to restore the Peg](https://forum.makerdao.com/t/discussion-thread-lets-lower-the-eth-liquidation-penalty-to-5-to-restore-the-peg/2535)
-- [Maker SourceCred Trial](https://forum.makerdao.com/t/maker-sourcecred-trial/2551)
+#### Signaling & other notable threads
 
-##### Signal Request Threads
+- [Change Monetary Policy Votes to Ranked Choice](https://forum.makerdao.com/t/signal-request-change-monetary-policy-votes-to-ranked-choice/2589)
+- [Change the Frequency of the Base Rate Poll to Monthly](https://forum.makerdao.com/t/signal-request-change-the-frequency-of-the-base-rate-poll-to-monthly/2613)
+    - The majority so far prefers to keep the votes to weekly since we're still trying to stabilize Dai and don't want to negatively affect our response time. And also, we just moved to the new SF structure, so before reducing the cadence, we should make sure that works as intended.
+- [Signaling process guide](https://forum.makerdao.com/t/practical-guide-to-the-signaling-process/2623)
+    - I wrote this new and improved guide to help if community members want to do signaling threads.
+- [Discussion - Add on-chain governance metadata](https://forum.makerdao.com/t/discussion-add-on-chain-governance-metadata/2625)
+    - See discussion at 14:08.
 
-- [Signal Request - Change the Stability Fee Structure](https://forum.makerdao.com/t/signal-request-change-the-stability-fee-structure/2380)
-    - SamM: Results are in, the poll passed. Next week we're going to start voting on the base rate vote, which means less weekly votes. Splitting the fees into a base rate plus premium set up. So, yay!
-    - LongForWisdom: Great, also a reminder that this was the first test of [ranked-choice voting](https://en.wikipedia.org/wiki/Ranked_voting). Does anyone have any comments?
-    - BMM: We need to do that for more things, I can't wait for the next one.
-    - Rich Brown: There might have been some confusion in the ecosystem about ranked-choice, and it's default application. It was my understanding that it was a new tool but not a default applied to all votes, and other people had a different understanding. I went back and read through all of the posts and couldn't find anything about, by default, adding it to monetary policy votes. Certainly on the table though, I'm open to either, and they might be a good fit for the monetary policy votes.
+#### Discussion 1
+
+[10:14](https://youtu.be/e9GDaRhGZC8?t=614)
+
+- Cyrus: Can we have a brief recap on ranked-choice voting?
+    - Sam: Ranked-choice voting is a different form of voting than "first past the post"(which we've been using.) This is where the option with the highest plurality wins the vote overall. Ranked-choice allows you to select multiple choices, 1st 2nd 3rd. With an instant runoff voting as the algorithm to determine the winner, it reallocates the votes towards an overwhelming 50% majority. This system is great for having more than two options where first past the post may not fit well. For a simple Yes/no decision first past the post or ranked-choice are equivalent. However, for things like fee votes and the vote from last week base rate and two variants, ranked-choice is far superior. Ranked-choice allows you to be more clearer in your preference.
+
+[14:08](https://youtu.be/e9GDaRhGZC8?t=851)
+
+- SamM: A problem I'm seeing emerge right now is as we add more layers of abstraction between the smart contract parameters and Governance; It's not clear how we keep track of these. Starting with the DSR spread, which isn't a system parameter, it's a Governance construct. Last week splitting the fees between the base rate and the risk premium. As well, last week, there were a couple of threads for debt ceiling caps on all centralized Stablecoins. As we add not-code level abstractions, it helps to keep these numbers on-chain. Maybe the MakerDAO team could add their insights or thoughts.
+    - Cmooney: I can say we've had a ticket internally for other concerns, but it's related. The subject is an  `Ilk` registry on-chain; so that you could see the amount of collateral(s) that are there. Spells are getting long-winded, and people have trouble interacting without the ability iterate them on-chain. We do need an on-chain source of these things. At the very least, committing to the concepts of those things and what they are would be nice to have. Beyond nice to have, in the case of an  `Ilk` registry, it's almost a necessity. People should consider it, and it would be the right technical move.
+
+## Oracles
+
+### Oracles and MIP 10
+
+#### Nik Kunkel
+
+[17:45](https://youtu.be/e9GDaRhGZC8?t=1065)
+
+#### MIP10 helping the Oracles Team
+
+- I've been quiet on Oracle things for a while. The new MIP system was a big deal for us because [MIP 10](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md) covers all of the governance functionality that we need.
+- Before we were doing these ad-hoc, bespoke actions every single time. Now there are actual processes. When people approach us to use or create an oracle, it's straightforward to point them to MIP 10, they can post it in the forum, and they're all set.
+
+#### DeFi Saver applied for whitelisting on the oracles
+
+- DeFi Saver applied for whitelisting on all of our collateral oracles for their automation software. That's the one that saves Vaults when they get below a certain threshold. In my opinion, we should support applications like this, to help prevent Vault liquidations; third-party services like these are covering vaults in distress.
+
+#### Feeds
+
+- Feeds are the data providers for Oracles. Governance controls the membership of Feeds. There are both dark-feeds (anonymous entities) and light-feeds (public organizations that are stakeholders in the ecosystem). Currently, the light-feeds are:
+    - dYdX
+    - 0x
+    - SetProtocol
+    - Gnosis
+    - Maker Foundation
+- We just got an application this week from Kyber to run a light-feed. Personally, I think it's a great thing. I think we need more light feeds. I think we need more stakeholders in the ecosystem to become light-feeds. The more we have this decentralized web of providers, the more robust our Oracles will be.
+- It still ends up being a multi-sig, though multi-sigs work pretty well. There hasn't been an order of magnitude of improvement to replace multi-sigs. It's more of an incremental improvement in our current architecture, of getting more reputable organizations to run light-feeds. I'm already in talks with a couple of potential partners to help them through the filing process for filling out the MIP and where to post it on the forum.
+- Partners still need a lot of handholding, but I think we're going in the right direction. Now I can point to these examples so they know how to proceed in the future. I believe that in the coming weeks, we'll see a lot of Oracle related applications.
+
+##### Discussion 2
+
+[22:04](https://youtu.be/e9GDaRhGZC8?t=1324)
+
+- Nik: I see a question in the chat about enabling fees.
+    - Nik: Back in September, we passed the [Responsible Oracle Migration Proposal.](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509) Part of that was giving oracle services away for free for one year from the day when the individual entity gets access to them. That's still the case. I think this is helpful in one respect because it helps us onboard a bunch of groups that otherwise if they had to pay for Oracles, would not be able to pay for them right now. And it allows us to get access to these young companies that need time to bootstrap first. I don't think we should be stalling innovation in the space. There are a lot of DeFi applications that need oracles, so if we can provide them, I think we should. Even if it doesn't make us that much in the short term. In the medium term, we can institute fees, offset oracle costs, or start to profit from them. I think the free oracle model is a good one right now, at least from a growth perspective.
+
+[24:06](https://youtu.be/e9GDaRhGZC8?t=1446)
+
+- LongForWisdom: Crispy on the `chat` asks what is the annual costs of running an oracle. I'm not sure if he's talking about the stipend or actual cost of running things.
+    - Nik: Each of the feeds gets paid 1,000 Dai a month. Currently, that is funded by the Foundation. The intention is that when Stability Fees start to pick up again, and Governance has a stream of revenue, the Protocol is going to start paying for this. Those are the major costs. Then there's also the gas cost for the relayers, so technically everyone can run a relayer, and there are some game-theoretic reasons for why you would want to run a relayer if you're a keeper or if you're a speculator who wants maximum leverage. In the short term, those are not enough, and you need people running them on an altruistic basis or a compensated basis. There's a bunch of partners who are running relayers. There's a bunch of Maker Foundation relayers; I'm running one or two relayers, I always encourage people to run them as well. The ultimate thing is that there need to be at least some relayers that have guaranteed uptime because the Protocol compensates them in some manner. I haven't quite thought through how that should work, but it's something on my to-do list. Given that there are 20 feeds, that's 20k a month times 12 months a year, that's about 240k to 260k annually.
+    - Nik: The cool thing is that to make a new oracle, there are some fixed costs. You need to spend developer resources to program that oracle, you need to roll out the update to the feeds, you need to make sure that the update has been thoroughly tested, then point the relayers to it and you now have this extra fixed gas costs. Not set in the sense of the gas price, but in the sense that every new oracle has minimum gas units annually that you will be adding to your expenses. The cool thing is that to whitelist a new entity costs us nothing. The more people you can get whitelisted on a single oracle, the more your per-customer costs are coming down, or from another perspective, the more profit you can make out of that oracle.
+
+[27:19](https://youtu.be/e9GDaRhGZC8?t=1639)
+
+- I see another question: Can you describe what it means to have access to an on-chain oracle?
+    - Nik: Governance puts an entity on the whitelist, and the whitelist lets people read an oracle price. If you're not on the whitelist, you can't read the oracle price from the v2 oracles.
+    - LongForWisdom: just to specify, that's on-chain contracts that can't read the oracle price.
+    - Nik: Yes. Everyone reading the blockchain off-chain can do whatever they want. Anyone reading the blockchain can also query the Coinbase price, that's not the business that we're in.
+
+## Maker Improvement Proposals
+
+### Weekly Update
+
+#### Charles Saint Louis
+
+[28:40](https://youtu.be/e9GDaRhGZC8?t=1720)
+
+#### LongForWisdom as a Governance Facilitator
+
+- This week's activity, the executive vote to affect LongForWisdom went out on Monday, and the vote passed today. So now, officially, LongForWisdom is a Governance Facilitator. So his proposal can now be officially marked as accepted.
+
+#### Community Greenlight Polls Published
+
+- Additionally, on Monday, we ran the first community greenlight polls.
+- Just to clarify, the polls will run for two weeks as of Monday. There was a little confusion as [MIP9](https://github.com/makerdao/mips/blob/master/MIP9/mip9.md) had a few inconsistencies in the language, but the thought behind the two weeks is to give people that aren't as active in the governance process a chance to vote. Also, to provide forum updates as well as display current results over two weeks so people can be more updated.
+- With that being said, I do plan to propose an amendment to make them last the last two weeks of the governance cycle and correct certain inconsistencies as well to make them work better with the governance cycle flow. I'll get to more amendment details later.
+
+#### Governance Cycle Review
+
+- The Governance Facilitators will perform a Governance Cycle Review that they feel is necessary to summarize and discuss the last governance cycle of May. This meeting can also be used as an opportunity to discuss any upcoming governance cycle or potential submissions for June's governance cycle.
+- So with that, I'd like to do a recap of the May governance cycle:
+    - The first governance cycle is coming to an end.
+    - We've had the first MIP sub-proposal go through the governance process and get successfully ratified, which is a pretty significant milestone, at least in my opinion.
+    - [MIP13, the Declarations of Intent](https://forum.makerdao.com/t/mip13-declarations-of-intent/2461), has been introduced by LongForWisdom.
+    - [MIP14, the Protocol Dai Transfer](https://forum.makerdao.com/t/mip14-protocol-dai-transfer/2462), by LongForWisdom as well, and is the RFC phase.
+    - [MIP15, the Dark Fix Mechanism](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578), by Wil Barnes.
+    - All of these proposals are currently in the Request For Comments phase, so don't forget to give feedback or request changes from the author, so that they can work the fixes and better reflect the community sentiment towards them.
+
+#### Ammendments to the MIPs
+
+- Lastly, as we went through the first governance cycle, we learned about what works and how to improve it for the future. Especially the collateral onboarding flow, and making people aware of the processes that are occurring during a governance cycle. As a result, I drafted four amendment MIPs to address some of the confusion and make things more consistent and also make the governance cycle and the collateral onboarding processes more efficient for everyone. So I'm going to propose these amendment MIPs later on so you can all dig into them on the forums. I will give a quick overview of what the changes will entail.
+- The plan is to amend MIP6, MIP8, MIP9, and MIP12.
+    - [MIP6 amendment](https://github.com/makerdao/mips/blob/RFC/MIP4/MIP4c2-Subproposals/MIP4c2-SP1.md): Changes are to remove the requirement of needing Domain Greenlights before being eligible for a community greenlight poll. This amendment would allow collateral applications to be eligible for MIP9 Community Greenlight polls at least two weeks after the MIP6 application has been proposed, moving the Domain Greenlight process to after the polls have concluded.
+    - [MIP8 amendment](https://github.com/makerdao/mips/blob/RFC/MIP4/MIP4c2-Subproposals/MIP4c2-SP2.md): It will be some tweaks to reinforce the above point I just mentioned and to effectively highlight that domain greenlight should occur after the community greenlight poll happens, allowing the domain teams to use the community greenlight poll results to make a more informed decision and proceed with their domain work with the backing of community sentiment.
+    - [MIP9 amendment](https://github.com/makerdao/mips/blob/RFC/MIP4/MIP4c2-Subproposals/MIP4c2-SP3.md): This amendment proposes some minor language edits and separation of components. So taking the two components and separating them into four, to further clarify as well as address some of the inconsistencies that I've detailed earlier about MIP9. More specifically, this consists of information about the duration of the polls, when they occur, how long they occur for, and general updates regarding the scoring framework for the polls. We have also updated the poll template to reflect better and have more information in the poll itself so people can click on it when they vote.
+    - [MIP12 ammendment](https://github.com/makerdao/mips/blob/RFC/MIP4/MIP4c2-Subproposals/MIP4c2-SP4.md): This is the process where the domain teams bundle their work and submit a sub-proposal including their work to formally enter the governance cycle, ultimately going through the cycle and, if it gets ratified, the collateral type is added to the Protocol. So this consists of some changes to allow the onboarding collateral process to operate more efficiently.
+- An amendment is a MIP with the explanation of the intentions behind it, as well as a link to the PR that edits the active MIP in question.
+- I have the intention of proposing them for June's governance cycle so that we can get these areas cleaned up and allow the future governance cycles to be more efficient as soon as we can.
+
+#### Next Week's Activity
+
+- Next week's activities; this will be the 1st week of the 2nd ever governance cycle.
+- On Monday, from June 1st to 4th, is the official formal submission period for June's governance cycle where MIPs or sub proposals in the request for comments phase can enter the governance cycle and wait for approval for the governance facilitators to formally start the process in [week 2 with an inclusion poll](https://github.com/makerdao/mips/blob/RFC/MIP3/mip3.md#week-by-week-breakdown-of-the-monthly-governance-cycle).
+- Next Thursday, the Governance Facilitators will do the submission review as part of the governance meeting in which they will determine which of the proposed MIPs are following the guidelines defined in MIP0 and if they should get included in the inclusion polls.
+
+#### Collateral Onboarding
+
+- I'll talk a bit about collateral onboarding. Both the TUSD and the USDC-B governance polls passed successfully today, meaning that they will go for an executive vote.
+    - Note that these assets are still following the weekly cycle and not the monthly governance cycle, as I've previously mentioned. This is because we're still in the transition period.
+    - You can check out the results on the voting dashboards.
+- Given that the community green light poll will conclude in 2 weeks, the MIP12 proposals that include the domain work for the agreed-upon collateral assets will not be ready for the June governance cycle. It will be more likely that they enter July's governance cycle.
+
+#### Community Greenlight Poll Scoring
+
+- I wanted to go over the CGP scoring briefly because I got some questions about it.
+- The score is the yes votes minus the no votes. If a score is greater than zero, then it is effectively greenlit. If it's less than zero, it's deferred.
+- So these polls provide this reasonable first approximation of which assets the domain teams should prioritize going forward and which ones they should work on. However, this prioritization is not binding on the domain teams, and they have the freedom to determine the order in which they work on the assets that have passed community greenlight.
+- I'll post [this update on the forums](https://forum.makerdao.com/t/weekly-mips-update-3/2678) as usual and keep an eye on RocketChat for the amendments that will come out later today or tomorrow.
 
 ## Governance
 
-### Dandelion Mane, Product Lead
+### Governance Cycle Review
 
-#### SourceCred Presentation
+#### LongForWisdom
 
-[11:02](https://youtu.be/Rbd2hDIk7vc?t=662)
+[37:43](https://youtu.be/e9GDaRhGZC8?t=2263)
 
-![](https://i.imgur.com/U4kKWN7.png)
+#### Introduction
 
-![](https://i.imgur.com/pBzfVAx.png)
+- I'll go through the explanation briefly. Week 4 of the governance cycle includes a Governance Cycle Review, in which the Governance Facilitators summarize and discuss the previous governance cycle and potentially open the discussion around the upcoming governance cycle and what could be in it.
 
-![](https://i.imgur.com/nAMVtjm.png)
-- PlanetX made this chart of governance-overhead as the complexity increases. It gets increasingly unrealistic to have governing the protocol be unpaid.
+#### Review 
 
-![](https://i.imgur.com/qwYwmAr.png)
+- In terms of the last governance cycle, there was a proposal that onboarded me as a governance facilitator. I'll go through the different polls that have happened and what sort of participation they got and what weight of MKR landed on each poll.
+    - [The Inclusion poll](https://mkrgov.science/poll/160) had 20 unique voters. The yes-weight was 5.7k MKR, and there was 400 MKR, so there was quite a lot of participation in that one.
+    - [The second poll](https://mkrgov.science/poll/164), normally, would have been the bundled poll, which included everything in the inclusion poll. In this case, it was the same poll again, mostly. That one only had nine voters and 5,000 MKR-weight on yes, and 0 MKR on no. The number of voters dropped off on this. I suspect, in this case, it was because it was the same as the previous vote. We'll pay attention to what sort of participation levels the various stages of the governance cycle get as we go forward.
+    - The last stage was to do [the executive](https://mkrgov.science/executive/0x9713187b6d7c8d54ac041efdbac13d52c2120fb9), which ended with some 70k MKR in support, most of which was added today.
+- I think overall, there was a reasonable participation level for the first governance cycle. Ideally, next cycle, we will see more than one MIP or sub-proposal. The inclusion poll will be meaningful, and that will determine what's included in next month's cycle. Does anybody have any thoughts on the upcoming MIPs? Charles briefly went over them. That was MIP13, Declaration of Intent; MIP14, Protocol Dai Transfer; And MIP15, Dark Fix Protocol.
 
-![](https://i.imgur.com/voX2rxV.png)
-- Governance decisions with value generate a lot of `Cred`, a quantitative score.
+#### Discussion 3
 
-![](https://i.imgur.com/m8X6oNb.png)
-- In this situation of two potential contributor threads, a naive algorithm might measure engagement or *amount* of activity. But using Sourcecred, the toxic Forum post doesn't get any `Cred` because it doesn't have any relation to the governance decision. It's assumed, in this case, the Governance decision is high value.
+[40:48](https://youtu.be/e9GDaRhGZC8?t=2448)
 
-![](https://i.imgur.com/3KPcC5T.png)
-- For Sourcecred to work, a Maker plugin would be needed. We haven't built one yet, so we just use discourse's graphs, [*discourse is the platform the for forums*].
-- For SourceCred to work, there needs to be something to flow `Cred` from. For instance, it can go from likes in a discourse post, and then flow through a graph of contributions.
+- Charles St. Louis: as for MIP15, I believe, it's not going to fall on the June cycle. It's going to follow the Request for Comments phase detailed in [MIP 0](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md), which is a 3-month long period because it's not officially like a MIP2 proposal.
+    - LFW: Yes, you're right. To clarify, MIP2 is the MIP that states that the feedback on frozen periods can be skipped mostly for the first few months. I haven't fully yet decided if MIP13 and MIP14 will go into the next Governance cycle, as there's some discussion on MIP13 specifically. I think MIP14 will probably go in. MIP13 I'm unsure about. I don't know how many people here have read it, but if anyone has and has any comments, feel free. Rich, is there anything that you wanted to discuss the upcoming governance cycle or the previous governance cycle?
 
-![](https://i.imgur.com/Hr1jwp2.png)
-- This is something we can do today, with top topics ranked, as well as user scores ranked if they were connected to posts referenced in high-value posts/discussions.
+[42:05](https://youtu.be/e9GDaRhGZC8?t=2528)
 
-![](https://i.imgur.com/Gr4tn6R.png)
-
-![](https://i.imgur.com/JILD8GR.png)
-- This is a community-driven algorithm with a lot of sensitivity to parameters. As you can see, we weighted heavily with likes. There's lots of configuration about minting `Cred` and how it flows between different actions. E.g., references and posts.
-
-![](https://i.imgur.com/l7HWBlo.png)
-- A couple of months ago, Seth Benton came on the Forum to post the initial Cred distribution based on the forums. It built into a conversation to talk about compensating everyone participating in Maker Governance. After talking to the Foundation, we came up with his proposed trial of 3 months (June-August). We'll do weekly payouts of Dai, which will be based on lifetime `Cred` scores. This algorithm tries to reward underpaid people, with lower `Cred` being paid first.
-- We use this algorithm and compensation structure on our platform, paying participants in our native token, called `grain`, which is redeemable for dollars. We've had good results, distributing 400K worth without much gaming of the system or weird behavior.
-
-![](https://i.imgur.com/uvyAjuB.png)
-- There needs to be buy-in from the community, both with individual conversations for any users, potentially gaming, and weighing various parameters.
-
-![](https://i.imgur.com/YstmOES.png)
-- We'll post the link to our community call and our discord. Please attend next Tuesday!
-
-#### Questions and Comments 2
-
-[19:31](https://youtu.be/Rbd2hDIk7vc?t=1171)
-
-- Rich: There is some cognitive overhead there. This is a tremendously compelling initiative since we have different demographics in this ecosystem. Depending on the level of interaction, classification, and a few other criteria, various levels of reputation and compensation are available to people who engage with our ecosystem. This is very compelling to me; there is an interesting experiment to be had here. We have a skin-in-the-game voting mechanism on the portal, but we've seen time and time again that the Plutarchs take direction from this loose representative democracy that we have operating on the forums.
-    - Which creates a bit of a free-rider problem, how do we address this issue with a great deal of highly intelligent and engaged stakeholders doing exciting work on the forums? How do we address the problems of commitment drop off or burn out and make compensation adequate? Or at least understand what adequate compensation looks like. How do we reward people for there efforts? How do we disincentivize bad behaviors? These are all ancient "Hard with a capital H" problems in the space and the internet in general. I'm sure we'll figure it out now with crypto and engineers at our disposal. The idea is to do something good, push the protocol forward, improve the quality of the conversation, embellish the culture, and add to things instead of moving away from them. The community and the protocol will attempt to reach an altruistic state where people are rewarded for those activities. This is an enormous, complex, and sophisticated thing with far-reaching implications. We have to start somewhere, and Sourcecred is a fresh implementation for us to try. Hit up the trial details and make your voice words.
-        - tl;dr Come and do useful things in the forums, and $5k Dai will be allocated across people who provide value if it turns out to be a smashing success, then presumably, that pot will increase. If there are fascinating game-theoretical exploits we discover, then we can all improve together.
-
-[22:53](https://youtu.be/Rbd2hDIk7vc?t=1375)
-
-- Cryptowanderer: Thanks so much, fascinating presentation. It would probably be better when exactly when we build the plugin, how to make signal posts, and governance polls not first-class citizens in the Sourcecred protocol later on down the line. But my main question is around these negative feedback loops. If someone is behaving in a way that is contrary to the goals of governance, we should slowly encourage people to shift on or not game the system. This is doable when the community is smaller, but I was wondering if you can somehow assign a negative economic impact on negative behavior? That it isn't just social or emotional "hey, please leave our community alone," but that there are tools that can be implemented at larger scales to get people to behave or move along?
-    - Dandelion Mane: This is something we talked a lot about a lot. Some platforms, like in GitHub, there are positive(thumbs up) as well as negative(thumbs down) reactions. We've thought about whether negative reactions should result in negative Cred. We've had success with focusing on the positive side, for the time being, letting negative feedback fall on the social/platform level. If we need to, we could implement a Cred "time-out" as a moderator tool. Say for the next two weeks; half your Cred would get recycled to other people. This could be a time scope kind of penalty. It's a pretty flexible system, and there are a few ways to build new behaviors as needed or punish bad behaviors, but we haven't had to do that.
-    - CW: "Neg-cred" and "naughty-bucks" are interesting ideas.
-    - RB: It's one of the interesting things, and I want to see how it develops. Dandelion can attest that I've had a bunch of piercing questions. I pelted him with a ton of negative hot takes; they survived and convinced me that it's a good idea. As a community, do we want to attempt to shape behavior with an algorithm? Or do we simply reward good work with Dai? That's a broad spectrum. On one end we have a social credit system where if you don't tow the party line you can't buy an airplane ticket. On the other end, people feel better with compensated free time. There's a big spectrum in between. Does the community want to attempt to disincentivize? That's a big decision. Incentivizing is a feel-good, let's move this thing forward, feeling. These are some of the interesting philosophical, ethical, social questions that we need to ask ourselves. And the good thing is that the SourceCred system gives us a path to start asking those questions.
-    - LFW: Something I wanted to add to this conversation is that part of the trial details we set it up so that the trial will not proceed unless a forum poll passes with a majority because it is potentially disruptive. So if you do feel strongly about trying SourceCred or against, please feel free to [vote in that poll.](https://forum.makerdao.com/t/maker-sourcecred-trial/2551/2)
-    - Rich Brown: Wonderful caveat to bring to the community as a whole, an escape hatch in the beginning, which is the first for a grant application. Thanks, Dandelion, and co. for that.
-
-[28:03](https://youtu.be/Rbd2hDIk7vc?t=1683)
-
-- Rich: Time to segue into the MIPS process. I talked about that at the outset, where MIPs is a new paradigm and mental model we're all growing accustomed to. Still trying to figure out if we separate sections of the call or not. Where we all put on our MIPs hats and behave in a MIPpy manner. Charles, I'm going to hand it to you, and after that, I think I'll perform my MIP responsibilities for the day, and then we'll give it to Wil.
-
-## MIPS
-
-### Charles St. Louis
-
-#### Weekly MIPs Update
-
-[28:59](https://youtu.be/Rbd2hDIk7vc?t=1739)
-
-- I'll try to keep it briefer today as the agenda is quite packed. I've shared the [MIPs update](https://forum.makerdao.com/t/weekly-mips-update/2576) that I posted in the forums a couple of days ago.
-- I'd like to go over the current results of the current governance cycle and [LongForWisdom's MIP](https://forum.makerdao.com/t/mip0c12-sp2-subproposal-for-core-personnel-onboarding-governance-facilitator/2351) that's been going through, as well as a few other MIPs that have been proposed and are in Request for Comments phase. And then introduce Wil, who will talk about the [Dark Fix Mechanism MIP.](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578)
-- This week's main thing was that the governance facilitator facilitated a governance poll for the core personal onboarding of LongForWisdom to be added as a governance facilitator.
-    - This poll passed today at noon EST.
-- On today's call, we'll have to go through the review of the results of this poll and then confirm that the outcome of the governance poll is what we kind of think it should be and can then prepare for week four of the governance cycle which introduces the final vote for [LongForWisdom's sub proposal](https://forum.makerdao.com/t/mip0c12-sp2-subproposal-for-core-personnel-onboarding-governance-facilitator/2351) and an executive that will be posted next Monday.
-    - The executive vote will be submitted if the governance facilitator confirms that the yes outcome of the governance poll during week three's governance meeting. That's what Rich will be doing as his duties today.
-    - The vote will have an expiration of four days. After that, it will have no effect. In general, MIPs and sub-proposal only move to the executive's status if the executive vote has passed within that four-day limit. If the executive vote fails to pass within that four-day limit, the MIPs and sub proposals are changed to the rejected status.
-- In the forum, I think J. Falman, I'm sorry if I'm mispronouncing that, asked if this is rejected, can it be reintroduced, or is this LongForWisdom's only shot at getting elected as a Governance Facilitator? 
-    - Right now, we're following [MIP 2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md). This is a period of time where we're bootstrapping the setup and implementation of the first governance paradigm. More specifically, this defines two main phases. Right now, we're in phase 1, when a core governance framework is put in place, and a functional collateral onboarding process is ratified. Phase 1 will last three months after being officially ratified, which was the beginning of this month. To answer that question: MIP2-phase 1 states that if the MIP is rejected, it can indeed be reintroduced to the community for another vote once the issues at hand have been resolved. So it's not his one shot at getting elected.
-- In addition to that, LongForWisdom also introduced two other MIPs.
-    - [MIP 13, Declaration of Intent](https://forum.makerdao.com/t/mip13-declarations-of-intent/2461?u=davidutro)
-    - [MIP 14, Protocol Dai Transfer](https://forum.makerdao.com/t/mip14-protocol-dai-transfer/2462).
-    - **Both of these MIPs are in the request-for-comments phase**, and there have been many ongoing conversations. LongForWisdwom has been trying to push the conversations forward, and I'm trying to get these introduced into the next governance cycle. If you have the time, check those out. There have been many conversations around the Declaration of Intent and how it could relate to bounties if we want to include a bounties platform as a part of the MIP or keep it external. So that's the update.
-- In regards to next week, the last week of the governance cycle, the executive vote will be submitted once the governance facilitator confirms the yes outcome of this week's governance poll.
--  Next Monday, May 25th, we also have the first community green light polls. The purpose of these polls is to give direction regarding what to do next regarding MIP 6 applications.
-    -  In the future, the community green light polls will be published on the 4th Monday of the month and will last until the Friday of that month. And the polls will last for two weeks each. I'll share more information in the chat about this, but it's all defined in [MIP 9](https://github.com/makerdao/mips/blob/master/MIP9/mip9.md). It's this process where MKR token holders can signal their judgment on the value of a collateral asset or a collateral type before domain teams can spend time thoroughly investigating and working on those requirements to get them added to the protocol.
-- Next Thursday, the governance facilitator will perform the governance cycle review as part of the governance and risk meeting. They will summarize and discuss the past governance cycle with the community. You can also have the opportunity to discuss the upcoming governance cycle, what proposals will likely be proposed during that formal submission period and any possible submissions that might want to go in.
-- In other news, concerning the transition to the collateral onboarding framework, I want to re-emphasize that we're still in this transition period from the current practices that we know, in the weekly cycle, to the eventual full transition of the MIP's process and the collateral onboarding framework defined in the MIPs.
-    - Given that the community green light poll results will last two weeks, it will conclude around May 28th, and the MIP 12 proposals that would include the domain work for those collateral assets will not be ready for June's governance cycle. So the domain teams will determine which assets they intend to work on and signal their intentions. They can also begin working on the deliverables for those collateral types throughout June. And then we'll proceed through the transition process after that, and we'll see if it aligns.
-- Lastly, for collateral onboarding, there was a community call yesterday held by Lucas and Leah, where they continued to discuss the PaperChain Drop application and the ConsolFreight Drop application and other MIP 6 applications. I don't have the video recording for that, but if someone does, please share it. It's nice to see these community calls keep happening. Hopefully, we'll be able to talk about the community green light on these calls and not take away too much time from the governance calls.
-
-### Rich Brown
-
-#### Governance Poll Review
-
-[36:11](https://youtu.be/Rbd2hDIk7vc?t=2171)
-
-- Rich: The governance poll review for this week has ended. There was one poll in that roll up, and the poll was for the ratification of a second governance facilitator. The poll happily this time around was unanimous, so it's moving to an executive vote at the end of the month. Beginning on Monday for four days.
-- I also want to point out that it was unanimous this time so LongForWisdom will not be the most disliked actor in the ecosystem [*laughs*], so whoever voted 400 MKR last week had a change of heart, which is nice to see. The vote will move to an executive on Monday for final ratification. I believe that is the end of MIPs order, is that correct, Charles?
-- CSTL: Yes. Perfect.
-- Rich: Let's hand it off to Wil, and we can hear about the `GSM` and the dark fix and some of the tasty social layers of ambiguity that we need to consider.
-
-## MIPs
-
-### Wil Barnes
-
-#### MIP 15 GSM Delay & Dark Spell
-
-[37:41](https://youtu.be/Rbd2hDIk7vc?t=2261)
-
-![](https://i.imgur.com/P7D4ywE.png)
-- Thanks, Rich, for the intro and the words of trust in the social layer. We're six months into this deployment, and we have a `GSM delay` of 12 hours.
-- The `GSM` is the Governance Security Module, which enforces a delay period before a given executive vote is applied to the system.
-
-![](https://i.imgur.com/DVPRKA2.png)
-- The predicament is that if we have an actual critical vulnerability, what do we do? Can we patch the system? The issue is that the spell[*governance proposal containing the fix*] will sit inside the voting system, and it will be delayed because of the GSM's delay period, and anyone can attempt to reverse-engineer it, creating economic damage, potentially causing MKR holders to trigger an emergency shutdown.
-- We want to prevent the use of the emergency shutdown procedure, and we also want to keep the system operating with maximum uptime.
-
-![](https://i.imgur.com/nG0JWt9.png)
-- We have been discussing for several months on the forums; there have been great ideas proposed and a lot of input from the community.
-- We decided to structure it as a MIP
-- [MIP 15 Dark Spell Mechanism](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578) is available for review in the forums.
-- The goal of the MIP is to have an initial policy in place that we can work from and introduce iterative design during future governance cycles after ratification.
-- We have discussed the process, and we will have to communicate with the community and coordinate a governance vote using this Dark Spell to apply the fix. Having the MIP in place is the first step in the process.
-
-![](https://i.imgur.com/RmxdAht.png)
-- The advantage of the Dark Spell over the Emergency Shutdown is that there are several unknowns with Emergency Shutdown. Still, also it will have zero downtime and avoid reputational damage that might be caused by ES.
-
-![](https://i.imgur.com/QDSkoFA.png)
-- I encourage everyone to read this MIP on the forums. As of last night, there are eight sections, very generic. Most people will be familiar with most of the terms. Section 3 is Dark Spell requirements, which are for critical vulnerabilities.
-- We have decided for section 4, that the Governance vote is a separate referendum, so each vote will be unbundled and voted on individually to fix a critical vulnerability.
-- Policy 5 is a combination of the previous four sections. You can read more about it offline.
-- Lastly, sections 6, 7, 8. This introduces the concept of Trusted Parties, someone the community selects and elects. The process is very lightweight and bare-bones right now.
-- Section 7 is the election process. The parties could be anyone: individual, project, independent auditor, attestation firm, or smart contract security firm.
-- Section 8 is the removal process.
-
-![](https://i.imgur.com/wh8ybKr.png)
-
-![](https://i.imgur.com/fPODWoD.png)
-- So that's the spell. We need to continue discussing this, and we need to place this in the next governance cycle.
-- The next steps are to join the discussion on the [MIPs channel in RocketChat](https://chat.makerdao.com/channel/mips) and the Forums.
-
-#### Questions and Comments 3
-
-[46:35](https://youtu.be/Rbd2hDIk7vc?t=2795)
-
-- Rich: There's some exciting stuff embedded in here, and I want to draw attention to it. The crux of the matter is that we have to deal with trust, which is a very tricky thing to deal with in this ecosystem. Let's boil it down to the brass tacks. Somebody has discovered there's something wrong with the protocol that needs to be fixed. To do that, you need to run a tremendous risk: let people in the ecosystem know, inviting the risk of someone performing the exploit. The solution is a dark fix, where the domain team or the Foundation, or even a third party, says, "we have a fix for the protocol." We want the community to reply yes or no, vote this thing in. Still, we cannot tell you what it is, because if we do that increases the area of attack for the protocol, which is a conundrum; How does the ecosystem vote for something that they're not allowed to possess the details of. The solution is to find someone, an organization, or a group of individuals that possess some or all of the information about that exploit and can publicly signal that they know and agree that this is important. The community should vote this thing through.
-    - And therein, that's where the complexities arise. Who gets trusted in this model? How much information are they provided about this thing that they're offering opinions about? What level of trust does the community feel comfortable with? Do they need to be bonded? Do we need to know what their address is? Do they need to have a corporation behind them? Is reputation enough? Is this something that the community has to identify a group of empowered actors that assume that responsibility on behalf of the rest of the ecosystem? There's a lot inside there. I encourage the community to have a look at that MIP and provide some insight because this is a thorny issue that needs resolution.
-
-## Risk
-
-### Cyrus Younessi
-
-#### USDC-B Collateral Proposal
-
-[49:38](https://youtu.be/Rbd2hDIk7vc?t=2978)
-
-- This morning we [put in a proposal for USDC-B](https://forum.makerdao.com/t/usdc-b-proposal-for-collateral-onboarding/2582), with different risk parameters than the original USDC-A vault type. 
-- There's been a discussion with the community for a couple of months about having a separate instance of USDC for emergency liquidity, almost as an emergency credit facility. It's designed for keepers when they're running low on liquidity in times when there are a lot of auctions going on in a short period of time. This is designed to alleviate this. The stability fee is abnormally high to discourage long-term or sustained usage. Give the thread a read, and let's chat about it the forums. We can also discuss it on next week's call.
+- Rich Brown: The 2 MIPs that you submitted have relatively broad implications for the governance environment. I don't want to put you on the spot immediately. Usually, I love doing that. So maybe next week, or after the top of the hour in the Q&A session, maybe you can talk about them?
+    - LongForWisdom: Yes.
+    - Rich Brown: For the uninitiated, LongForWisdom put up 2 MIPs into the forums that are pretty weighty and allow the community a level of autonomy that it's never enjoyed in the past, and there are significant implications there. Most of them are positive. It allows the community to come up with an idea and propose funding for it through governance. Usually, the community is hamstrung because of the question of "who's going to pay for that?" This set of MIPs answers that question. This is a method that allows the protocol to have true autonomy over its own funds. Though it is worth thinking more deeply about the potential issues that might exist.
+    - [Forum Thread for MIP13](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
+    - [Forum Thread for MIP14](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
 
 ## Analysis
 
-### Vishesh
+### The State of the Pegs
 
-#### The State of the Pegs
+#### Vishesh
 
-[52:15](https://youtu.be/Rbd2hDIk7vc?t=3131)
+[44:39](https://youtu.be/e9GDaRhGZC8?t=2679)
 
-![](https://i.imgur.com/be63Zxc.png)
-- Total Dai supply is up.
+![](https://i.imgur.com/VXVVVoI.png)
+- At a glance, total Dai still around 120 million.
 
-![](https://i.imgur.com/Hl9RdCC.png)
-- For Dai from ETH, it is has been a linearly continuing trend since the sharp decrease in March. The Dai supply has just been rising. Our latest touchpoint on Dai from ETH is 104 million, which is very solid.
+![](https://i.imgur.com/BwDmMmO.png)
+- This chart is the last 30-days of Dai performance.
+- At the end of April/beginning of May, Dai was at an elevated price.
+- Dai price started to come down in line with the ETH price rise. Dai touched and even dipped below peg on May 24th.
+- Then on May 20th, just as Dai price was coming down, ETH price took a dip and caused Dai price to jump back up (May 24th - May 28th.)
+- As ETH started to come up, Dai did its inverse behavior, moving down closer to the peg. Last time ETH dipped and came back up, there was a positive correlation with Dai. This time, it resumed its negative correlation. 
+    - As ETH started to pump, people did take some leverage and sold some Dai. This pump helped to bring DAI price down a bit. Immediately after that, the ETH price started to come back down, Dai's price resumed its trend.
+- Kind of funny, but that scenario illustrates how Dai has this negative correlation to ETH in normal times and starts to exhibit a positive correlation during potentially riskier times.
+- ETH price in the last few days began to come back down a bit, and DAI price has started to rise a bit. Now they are back dancing in perfect lockstep with negative correlation.
+- ETH has been wobbling for the last couple of months, and now Dai has started wobbling in correlation. This means that leverage behavior sensitivity isn't just based on sentiment or global perception of crypto or system-specific risk but has now resumed a total market-price dependency. Which means that people are once again willing to lever up, speculate, and trade. Confidence appears to be restored, but it is still early and is something to watch.
 
-![](https://i.imgur.com/HAoC3Wp.png)
-- That was ETH, so for Dai from USDC-A, we saw a considerable jump to about nine million-ish. That came up a bit about 4 million, and then went down back down in the last week. That has kind of stayed stagnant with a couple of small decreases since then.
+![WBTC Chart](https://i.imgur.com/n6UEpxJ.png)
+- Dai from WBTC jumped up to about 4.5 million when added and then jumped another time in the last week to 9.5 million. Seeing some solid utilization, 96%.
 
-![](https://i.imgur.com/3KWCtiK.png)
-- Dai from WBTC saw a 4 million net jump yesterday, with 4.4 million Dai minted from WBTC, which is a fairly significant amount, given that the DC for WBTC is currently 10 million, so you have about 40% utilization overnight.
+![ETH/DAI chart](https://i.imgur.com/yuROAvM.png)
+- DAI from ETH has been holding steady at 104/105 million.
 
-![](https://i.imgur.com/ygiaMO3.png)
-- The impact this has had on Dai price was mostly what we saw was on the longer-time scale; Dai was at that persistently elevated price. ETH had made a considerable jump down (from May 10th to May 14th) and then was recovering (around May 15th), and then it sort of continued its rise and then slowed its growth in the last couple of days. 
-- We saw with Dai price, after the initial crash post-March madness, was that it touched back down to Peg and then started to come back up. There were some potential concerns about a rise happening again, so I wanted to address that.
-    - What we saw was while ETH was cheap, there was no significant impact on Dai. That sort of communicated a degree of uncertainty as to what will continue to happen with prices. However, the ETH price did recover from that, and then we saw very light trading activity. This makes a lot of sense because you mostly have a lot of traders that feel that they mostly missed the boat and don't necessarily want to lever up now. So you saw very light trading volumes in that time frame. As ETH started to run up again, we saw a bit of an increase in Dai trading volumes, and we saw Dai price come down. That communicates leverage behavior, which corresponds to the May 18th time frame, there was a slight acceleration in Dai minting. This is indicative of a levering up move, which generally tends to bring the Peg down.
-- And so, we're sitting very close to peg in the grand scheme of things. I would say that Peg is in a reasonably safe position. Though it is still persistently above a dollar, it is very close to $1. It had even dipped below $1 for a brief timeframe, even though the volume-weighted-average-price had not indeed come down. If you put things in perspective, depending on your definition of bad, the continually elevated peg price had come down during May. It looked like it was potentially going to go back up, but that was a temporary move that is easily explained by ETH's whiplash.
-- Unfortunately, ETH has been jerking around the DAI price, but despite that, Dai does seem to be doing its best to return to Peg.
+![USDC chart](https://i.imgur.com/2CZAQsM.png)
+- Dai from USDC; During the March event, it had 7.5 million of utilization. It came back down in April and was sitting fairly low until it was made significantly cheaper. Following some refinancing from Compound, it topped out around 11-13 million in early May.
+- Around the 20th, when a conversation about SF increases started, along with a decline in ETH price, we saw a large refinancing (possibly back to Compound) and a drop of about 3 million. Then some smaller drops in the last few days. USDC Dai supply has come down a little bit, but before the 24th, it was free money. Given the system parameters for liquidations, and that there appears to be short-term low volatility risk collateral type, it was desirable for people to be using this asset. And it still is very attractive, just likely less so. It would be interesting to watch how much utilization this gets and what causes it to change.
 
-![](https://i.imgur.com/AaT1lFM.png)
-- In terms of volumes, we saw that only 28.66M Dai was traded for ETH, which, in the global timescale in the history of Dai is a very solid amount. However, in terms of the last couple of months, it is not that much trading. The lower end of that was actually on Coinbase, and the higher bulk was on dYdX. A bit on Uniswap and Oasis. For a time, when a lot of the crash was happening in March, what we saw was that Oasis reclaimed a portion of the trading volume. Since then, a lot has reverted to dYdX. Most of the Dai<>ETH trading happens on dYdX, and a reasonably decent amount happens on Coinbase, which is on the lower end of the price range.
+![](https://i.imgur.com/3Tj5672.png)
+- USDC Collateral supply much more stagnant than the Dai supply. Those using the USDC Dai pool don't move the amount of collateral much they just fluctuate Dai minted from it. They're comfortable keeping USDC parked and utilizing it more heavily when needed.
+- There was a $3 Million USDC dip in collateral on May 26-27.
 
-![](https://i.imgur.com/fNwtc2f.png)
-- As far as collateral is concerned, for the WBTC collateral pool, it's kind of all or nothing right now in terms of liquidations.
+![](https://i.imgur.com/GVQJ5VM.png)
+- To touch on the relative collateralization between different assets.
+    - ETH has maintained a semi-trimodal collection of collateralization ratios. A decent chunk at 200-250, 300-350, and 500+ with smaller distributions for the interceding values. That coincides with the three main sections of liquidation walls you see(in the screenshot below.)
 
-![](https://i.imgur.com/UZGBjcy.png)
-- In terms of liquidations, the amount of WBTC locked is about 1.1 thousand WBTC locked in collateral. Proportionately, that is pretty well protected in terms of the amount of collateral and Dai value.
+![](https://i.imgur.com/wK27YbR.png)
+- That represents multiple risk profiles embedded in the same asset.
+- As ETH diversifies into various risk profile offerings, as in multiple ETH Vault types, you'll see these walls get more uniform for each one. They'll segment out, and users will seek the Vault type that matches their risk profile the most.
+- There is a small wall at $138, so that is something to be aware of. A lot of users view it as the lowest risk scenario.
 
-![](https://i.imgur.com/65wnWP9.png)
-- Comparatively, that is a 200%-250% collateral ratio and a considerable clustering there. That is a pretty decent buffer in terms of the risk of insolvency. The purple chart is, kind of, an all or nothing liquidation price wall, where at $6000, you would see a tremendous amount of liquidations.
-- It's pretty safe in terms of collateral values, but there are different risks with a wrapped asset like WBTC to consider. Likely, BTC isn't going to make substantial percentage moves, but if something does happen with the WBTC peg, given that the oracle for WBTC is operating off of a BTC price, it wouldn't be that price movement risk that would be the big thing here. It would be something more fundamentally technological or liquidity related in terms of "what is the risk?" This is why we look at these collateralization ratios as we determine what the risk is. Traditionally, for an asset like ETH, the risk is primarily a market risk, but as we diversify to other kinds of assets, we are also expanding the types of risks that we are exposed to.
-- The ETH collateral pool is pretty well collateralized compared to usual. There is a much smaller bucket in the 150-200% ratio, a pretty decent amount in the 200-250%, but also much more significant than normal 500%+ and 300-350%. That ETH collateral pool is kind of striated, with multiple gradual price walls. In the past, we've seen each of these individual walls much larger. It's kind of smoothed out this collateral ratio profile since March, which I think is a better structure economically for the collateral pool because gradual liquidation helps the system maintain its health. In contrast, large walls of liquidations are a significant risk.
+![](https://i.imgur.com/SszKzq9.png)
+- Not worth going into the collateralization for WBTC since movements are minimal.
 
-![](https://i.imgur.com/lZ9EZuP.png)
-- Speaking of giant walls of liquidation, for USDC, this is a pretty stagnant collateral pool. We saw that the Dai supply minted from it is also pretty stagnant, with a slight decrease. This is a binary risk scenario; if something goes terribly wrong with USDC as a redemption system, you will have the potential to see 7-10 million in liquidation overnight. Again, most people consider that to be a very extreme risk.
-- *The primary takeaway in terms of collateral is that there has been a diversification of types of risks that the system has been exposed to. However, that doesn't necessarily decrease the total number of risk that the system is exposed to*
+![](https://i.imgur.com/Jq3pnfH.png)
+- For trading volume, similar to previous seven-day trading volumes.
+-  Globally, this is still a low volume for seven days. Even though peg is functioning well, it's lower volumes than we have seen in the past. I would take my comments there with a grain of salt.
 
-![](https://i.imgur.com/8caQikD.png)
+![](https://i.imgur.com/Q6EpPam.png)
+- As far as USDC goes, chunks appear at 120-130 and 140-150% levels.
+- A chunk exists that is 20 points over-collateralized, people are keeping a bit of a buffer. Some wiped down USDC debt but still keeping USDC parked for when they need it.
 
-![](https://i.imgur.com/fiMHDfX.png)
-- BAT is sitting at a pretty high collateral ratio overall and a pretty small supply overall. Total Dai from BAT is less than 600,000, which is kind of steady-state for that.
+![](https://i.imgur.com/COSGOBE.png)
+- In a 90-day time frame, though the prices were crazier, there was much more substantial volume in April and early May than we've seen in the last few weeks.
+- Thought the prices look better, it's good to keep trading volume in the back of our minds. What will be interesting to watch, in terms of Dai, is where some of these larger trades occur? Larger trades do encounter more slippage when there are lighter volumes. Some Uniswap trades went well below peg due to slippage and size. It moves averages more dramatically. Will look to add in some stuff for USDC Dai trades for next time, that would be good to look at.
 
 #### Relevant Links
 
 [MCD system stats](http://daistats.com)
-[DAI & Sai 24hr VWAP Graphs](http://dai.descipher.io/)
-[Vault Graphs](http://makervaults.descipher.io/)
+[DAI 24hr VWAP Graphs](http://dai.descipher.io/)
 
-#### Questions and Comments 3
+## Open Ended
 
-[1:005:38](https://youtu.be/Rbd2hDIk7vc?t=3938)
+### Open-ended Discussion
 
-- JoeQ: I just want to say what a great job you did, Vishesh. I want to encourage everyone to try to run an auction keeper. As we go on and the Dai supply keeps increasing, it's nice to have other people running auction keepers to help out when large liquidation events do occur. If anyone needs any help running an auction keeper, please reach out to me at JoeQ@Makerdao.com
+[58:51](https://youtu.be/e9GDaRhGZC8?t=3531)
 
-[1:06:25](https://youtu.be/Rbd2hDIk7vc?t=3985)
+#### LFW MIP 13 and 14 recap
 
-- Cyrus: I just want to remind everyone that next week TUSD will be going up to a governance poll. TUSD and USDC-B will both have governance polls going on next week. That will be set up for next Friday's executive vote. If anyone has any questions about TUDC or USDCB, feel free to post on chat or ask directly.
+- The main implication for both of these MIPs is that you could spend Dai from the Protocol via an executive vote. It's technically possible, but there has never been a clear process outlined for the community. We will now be able to spend Dai if we all vote for it, which, as Rich said, is a significant change.
+    - [Forum Thread for MIP13: Declarations of Intent](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
+    - [Forum Thread for MIP14: Protocol Dai Transfer](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
+- MIP14 is a reasonably simple process. One can create a sub proposal with supporting information, including a receiving ETH address, that is then discussed and goes through the governance cycle. When it makes it to the executive, we can use this process to transfer Dai out of the Protocol to the specified address.
 
-[1:07:09](https://youtu.be/Rbd2hDIk7vc?t=4029)
+[01:00:01](https://youtu.be/e9GDaRhGZC8?t=3601)
 
-- Lev: Has there been a discussion about consolidating the debt ceiling for USDC and TUSD if added.
-    - CY: I don't think we've had that discussion, but at the very least, my idea was going to be to bring it up next week or the week after, once it's confirmed that these have been added in.
-    - LFW: It's been mentioned in a couple of threads but no conclusions yet.
-    - CY: Exactly.
-    - Lev: I think it's worth thinking about because I can imagine that most people's concerns about TUSD are similar to concerns about USDC, especially considering how much of the collateral pool we want to sit with custodial, IOU, USD stablecoins. I think that if there was like a clear path by which the total DC combined is as opposed to letting them creep in and increase the total DC for each collateral type every time. I think that would be quite reassuring.
-    - CY: Is this question really limited to stablecoins? We'll have to discuss this for any off-chain asset that comes down the pipeline. Do you have any thoughts or ideas on the broader strategy of off-chain assets and managing those counterparty risks?
-    - Lev: I agree with you, but I think to most people TUSD and USDC are kind of the same thing. Your idea about the DC probably applies to both, so perhaps we could consider a DC in common. They are both IOU based, US company issued, USD backed, very similar. When discussing TUSD, it may make sense to have a poll for the total DC for (all stablecoins within this jurisdiction). It may be easier to consider instead of raising the DC every time. It would be much easier to keep adding them while splitting up the fixed allowance for these kinds of stablecoin to distribute the risk better. I'm sure people will start complaining that we are sneaking in these USD collaterals, and each time increasing the DC, it does seem that way. While really, what we're trying to do is split up this fixed allowance that we have toward these collateral types toward more legitimate options to diversify this counterparty risk.
-    - Cy: Makes sense to me.
-    - Lev: I think it would be a shame if these collateral types are dismissed simply because people don't want to grow the DC to those kinds of assets beyond 20 Million as opposed to being stopped because they don't like something about TUSD in particular. We mustn't end up talking past each other.
-    - Mike Dunworth [From Wyre]: In terms of the consistency from the fiat side of things, I think it makes total sense in terms of mitigating the risk and stuff. Having an unambiguous definition of the risk per se. Taking USDC and TUSD, they look the same but are kind of different. The banking partner that TUSD works with vs. USDC, the custody solution that USDC operates under (like the security model on their end). And then you have things like, is everyone using Silvergate bank or is one using Signet? USDC is specifically in treasury bills. Even if they aren't in a money market account, TUSD might be sitting in a money market. Licensed custodian, registered money services business, stuff like that. I think those are probably pretty sizeable considerations. I would put TUSD as the outlier as most risk and least reward, out of PAX, Huobi, GUSD, etc.
-    - RB: It raises a pretty interesting point about how far down the rabbit hole are we able to go when assessing risks for the stablecoins. Does the level of audits for each one of these collateral types involve us having a clear understanding of their banking relationships and regulatory risks? Cyrus, is this something your team is considering? Or is there just as tranche when considering these stablecoins. Simply, this is the DC, and this is the level of risk for the buckets of stablecoins.
-    - CY: You're correct in saying it's undoubtedly a significant commitment to analyze all of the banking relationships and getting that deep insight from under the hood for each of these. If you, or anyone else, has some profound idea about the counterparty risk under the hood, we would love to hear your thoughts about how that might affect the risk parameters currently in play.
-    - MD: I agree about everything. If there is anything I could share regarding what could potentially go wrong. Black Swan stuff is unlikely, but I think it would be good to share because all of this stuff doesn't come unless you are in the weeds and banging your head against the wall every day, which; is where I am right now. The biggest thing is being backed by treasury bills vs. having money in an overnight money market account. That's sort of a big difference. I put a lot of thought into it personally because this will be the bridge between CeFi and DeFi. The reason you want to get it right with the stablecoin stuff; we talked about the percentage of the risk out of the whole piece that is willing to be backed by real-world assets, especially these fiat tokens. They will be what the DSR is for centralized assets. In an ideal world, if you are holding a lot of these, you are holding a lot of these assets and representing them as one token. Now, MKR can be earning on the CeFi space as well as opportunities in the Defi space. I think I just took this a bit out of the conversation, but I believe there is a lot of opportunity in this stuff.
-    - lev: I think this is precisely the kind of argument relevant to the specific TUSD part of the process, while someone's objections about the total debt ceiling in USD stablecoins should be moved somewhere else. It would be useful to separate this stuff.
+- Cyrus: What do you think about Governance and Risk teams having discretionary accounts? Would there be a series of restrictions? Checks and balances before funds go out? It seems like it could be quite risky.
+    - LFW: Ultimately, once we've further explored these things, we can figure out what sorts of checks and balances would work. What checks or balances do we want to impose on ourselves? Through an executive, we can do whatever we want, ultimately MKR token holders can find someone as long as they want to. 
+    - LFW: I don't see the governance risk here as significantly different from any other governance risk. Part of the responsibility of MKR token holders is governing the Protocol responsibly. Part of that responsibility is to use the tools the Protocol has, like spending Dai, for its needs.
 
-[01:16:57](https://youtu.be/Rbd2hDIk7vc?t=4617)
+[01:01:34](https://youtu.be/e9GDaRhGZC8?t=3694)
 
-- Lev: As another question, is it public knowledge which money market funds TUSD holds their cash in?
-    - MD: I don't work at TUSD, and I don't know specifically, but if I did, it wouldn't be my place to stay. I know that's what everyone does. Specifically, they have a risk team as well, and on the backside of their operations, everyone has a different composition. Some have it on the back of Silvergate, earning five bips a year. Others have it more creatively allocated. The answer is: I don't know, sorry.
-    - lev: I think we should know that kind of thing as part of our decision-making process. The fact that that didn't come up and that we weren't able to determine is not ideal.
-    - MD: They are a great team, by the way, in case I sounded unsupportive. I just wanted to help share some thoughts.
+- Sam: Is there spam protection for this? Or any thoughts on how to keep low-quality content from coming through?
+    - LFW: Potentially. Spam *has* been considered in the MIPs process. This is why Gov facilitators get to gatekeep what goes into the inclusion poll. If too many are submitted, then we can determine "ok there's too many of low quality" or "ok there's 10 or 15, and we just won't vote on them this week." Generalized, but potentially this MIP could include something about refunding to an address. There is no way to enforce that someone pays to post a MIP to the forum; there isn't smart contract logic that prevents people from posting whatever they want.
+    - Sam: We probably don't need it yet. It could be a useful tool to consider eventually. Since money is attached, I just expect this to be a vector that might be spammed.
+    - LFW: Presumably, the first part of a MIP is to post something on the forums. We could potentially have a social layer like "burn this much Dai, or else we won't submit your proposal."
+    - Sam: That's what I was thinking.
+    - LFW: Something to preoptimize for.
+    - Sam: Just a thought not necessary at this stage.
 
-[1:18:23](https://youtu.be/Rbd2hDIk7vc?t=4702)
+[1:03:56](https://youtu.be/e9GDaRhGZC8?t=3836)
 
-- cmooney: I wanted to bring up another consideration. In terms of the mental model for thinking about the DC, do we want that to apply to the emergency liquidity facility for USDC-B? There are certain amounts of risk there; that facility is likely not to have many assets under custody most of the time. Also, that facility is likely to be be used and have its DC adjusted in a liquidity crunch or black swan event. Other than that, we should consider if we should turn liquidations on. Liquidations aren't turned on for this class of custody assets, and that breaks some SF incentivization. I think its a discussion that we need to have.
-    - lev: That reminds me of an important point regarding this USDC-B style of emergency collateral for Dai liquidity injections. It's even more important to diversify that one across issuers potentially. As an interesting example, specifically in USDC on Black Thursday, before it was a collateral type, it was impossible to get USDC out of Coinbase for a couple of hours because of gas price limitations. They ended up resolving this by adjusting gas prices. But under a similar circumstance, this USDC-B thing would have failed since there would be no way to withdraw it from the main exchange, even if you could scrape together the necessary collateral from the Dexes. In this kind of situation, going to TUSD instead or another stablecoin, you could have withdrawn it as emergency liquidity. This is not something that we should overlook.
-- cmooney: Any thoughts on liquidations for these, from anyone?
-    - brainmcmichael: I'm going to come out and say that I am in favor of liquidations. It's a fundamental part of the social contract. If you become undercollateralized due to fees, then you get liquidated. Part of the overall theme maybe not to do it to start, but I want to come out on the other side of that.
+- LFW: Daniel, in the chat, asks, "Is there a clear example of what the community would want to spend DAi on immediately?"
+    - LFW: I imagine people haven't given much thought yet. The one glaring thing is the MKR holders vote to compensate vault holders who lost money on Black Thursday. If that's to be done, then money needs to come from somewhere. The Protocol is currently the only place.
+    - LFW: There was some discussion about preventing Debt Auctions. If you pull Dai out of the Protocol when it has no surplus to support it, it triggers Debt Auctions that issue MKR and raise 50,000 Dai at a time. We could add a process to spread Dai payouts over time as a solution against MKR dilution.
+    - Lev: Wouldn't it be reasonable that you don't just use this trigger for deficit spending? It sounds extreme to me to casually start minting MKR to pay for stuff.
+    - LFW: I've left it as generic as possible to avoid strict controls. For any specific proposal to mint MKR, you could imagine there will be extra scrutiny. The onus is on MKR token holders to pay attention to the MIPs process.
+    - Lev: One could still see value in terms of setting expectations and set to spend out of the available surplus. You're not opening the door for anything to happen; you're opening it to spending the money that's been saved in ways we want.
+    - LFW: Is there ever a situation of wanting to spend money we don't have? The question is, do you want to have a MIP process to specify that or not?
+    - Lev: I agree with you, given that's a hard decision to plan for. It's challenging to make a process around it. Many people on this call would say we should NEVER do that, and others may be in favor depending on circumstance. There is a split about spending out of pocket versus the surplus. Spending the surplus is probably not controversial.
 
-[1:22:21](https://youtu.be/Rbd2hDIk7vc?t=4941)
+[1:08:18](https://youtu.be/e9GDaRhGZC8?t=4098)
 
-- Sidebar question, [*read by LFW, from monetsupply*]: "Perhaps a different initial margin vs. the maintenance margin? So I guess an initiation ratio and then a liquidation ratio afterward?"
-    - cmooney: If it's for one collateral type, there is no ability to do that as far as I understand.
-    - LFW: If you had 150% at the opening and then a liquidation at 125%, you would be able to open up at 150 and get liquidated under 125%
-    - lev: The only thing you can do is encourage front ends to discourage users from starting with a collateral ratio like that.
+- LFW: MIP13 is a little more involved. It allows Governance to declare that they want something to happen, basically setting up a bounty and the subprocess for fulfilling it.
+- LFW: Main criticisms have been that bounties are primitive(which I agree with.) There is no pay in advance for the first attempt at engaging with the work. It's very much, doing the work first and then get paid later if the client likes it.
+- There's a discussion to take the MIP "as is" or take it without the bounty parts. Or to go with the primitive bounty system and try to improve it later.
+- Feel free or leave comments [in the forum thread.](https://forum.makerdao.com/t/mipx-protocol-dai-transfer/2462)
 
-[1:23:57](https://youtu.be/Rbd2hDIk7vc?t=5037)
+[1:10:00](https://youtu.be/e9GDaRhGZC8?t=4200)
 
-- Kurt: Something that has to be addressed is if you let these stablecoin-denominated vaults to continue to accrue fees, the system can become underwater completely. And now, "some percentage of Dai are not backed" would be the way to say it. You can't allow that happen from a protocol risk perspective. We have to figure out a policy for when and how to enable liquidations eventually...no matter what.
-- LFW: In terms of oracles, we didn't launch because the oracle was fixed to $1. What do we need to turn on liquidations? Do we need oracles for Dai to USDC price?
-    - brainmccmichael: I think we can do it right now. The big issue is that a lot of the USDC-A holders have let their holdings go below 125%. If we do flip that switch, there will be a whole wall of liquidations. A lot of USDC would be auctioned off, and that would hurt some feelings. It's not what we want for the protocol.
-    - brainmccmichael: One thing we can do is drop the CR requirements at the same time as turning on liquidations. That would prevent that wall. We would have to make it clear that we are doing this, and that they need to pay some of their vault at least, so they are not within the liquidation ratio.
-    - Kurt: The biggest concern that I've heard about liquidating these things is that liquidations would be highly correlated as all of these stablecoins vaults are used to do the same sort of things with the same kind of time frame, making the same sort trades with shorting Dai or generating emergency liquidity. If they all hit liquidation around the same, you can have a considerable amount of debt going to auction at the same time, which can cause its own crisis. You may not fully recapitalize the way you should. Then you have the thing meant to solve the liquidity crunch, now creating a liquidity crunch. With the particular consideration that we had liquidations off, people took positions based on liquidations being off, and now we have to ask how should we unwind that?
-- bmcmichael: Dai has dropped below a dollar at some points this week. People with USDC positions have probably set limit orders somewhere in Oasis to pick up those large sales and clear out. That may be a reason why we don't see Dai drop below a dollar for any significant amount of time. And we can't enforce that either. There is no closed end on any of these.
+- Cyrus: Question for monetary policy and market makers. Dai price seems to be consistently just above $1. Is there a massive hidden bid that keeps it above a Dollar? It's been a few weeks hovering just above the dollar mark.
+    - Sam: I would think the USDC buffer is blocking that.
+    - Cyrus: That's what I think too. There aren't large resting bids on Coinbase. It seems like any medium-sized order would push the price below a dollar. It's not happening, so maybe it is USDC folks trying to cover. Curious to hear if market makers have any anecdotal thoughts on that.
+    - Joe: I agree with that analysis.
+    - Vishesh: It makes sense, considering so many people's inventories have been cleared in a month, they would look for opportunities to replenish. There have been two incidents where Dai got close to or dipped below a dollar; during both, Dai price snapped back. I would presume there is a fair amount of orders below a dollar waiting to replenish inventories.
 
-## Outro
+[01:12:53](https://youtu.be/e9GDaRhGZC8?t=4372)
 
-### Rich Brown
+- Rich: That's the end of Q&A, and that was a cool call! Looking forward to the future with, the now, double capacity for Governance throughput on the facilitators. Thanks, Nik, Sam, Long, and everyone else who asked questions. Vishesh, as always, the graphs are a delight. Thanks, everyone!
 
-[1:28:21](https://youtu.be/Rbd2hDIk7vc)
+#### Relevant Links
 
-- I think I'm going to jump into the awkward silence. We're 1h30 in, so I'm going to stop the recording unless someone in the side chat wants to talk about something. We must get the people on the mic into the historical record for the Youtube views, which are a considerable number these days. Thanks, everybody for joining us and see you next week.
-
-#### Links from the Chat
-
-- [TUSD escrow accounts analysis](https://core-api.real-time-attest.trustexplorer.io/TrueUSD/report/809957de-c724-4e0d-b0c8-96fffa1f0ff5)
+- [Radiolab podcast about ranked-choice voting in Ireland](https://www.wnycstudios.org/podcasts/radiolab/articles/tweak-vote) posted in chat by Chris Powers
+- [Sam's Maker Analytics site](https://www.mkranalytics.com/vaults/USD/USDC-A?stats=Dai%20Supply%2CCollateral%20Locked&start=1582866000&end=1590724799&granularity=Daily)
 
 ## Abbreviated Terms
-
-`SCD`: The Single-Collateral Dai system
 
 `MCD`: The Multi-Collateral Dai system
 
@@ -359,15 +355,11 @@
 
 `ES`: Emergency Shutdown
 
-`EV`: Executive Vote
-
 `GP`: Governance Poll
 
 `SF`: Stability Fee
 
 `DSR`: Dai Savings Rate
-
-`GSM`: Governance Security Module
 
 `MIP`: Maker Improvement Proposal
 

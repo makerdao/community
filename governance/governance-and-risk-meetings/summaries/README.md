@@ -1,7 +1,13 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 94: May 21, 2020](episode-94.md)
-- [Episode 93: May 14, 2020](episode-93.md)
+- [Episode 98: Jul 02, 2020](episode-99.md)
+- [Episode 98: Jun 25, 2020](episode-98.md)
+- [Episode 97: Jun 18, 2020](episode-97.md)
+- [Episode 96: Jun 11, 2020](episode-96.md)
+- [Episode 95: Jun 04, 2020](episode-95.md)
+- [Episode 94: May 28, 2020](episode-94.md)
+- [Episode 93: May 21, 2020](episode-93.md)
+- [Episode 92: May 14, 2020](episode-92.md)
 - [Episode 91: Apr 30, 2020](episode-91.md)
 - [Episode 90: Apr 23, 2020](episode-90.md)
 - [Episode 88: Apr 16, 2020](episode-88.md)
