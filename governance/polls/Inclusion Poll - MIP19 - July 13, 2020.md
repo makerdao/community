@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for MIP19: Liquidations System 1.1 Upgrade - July 13, 2020
+title: "Inclusion Poll for MIP19: Liquidations System 1.1 Upgrade - July 13, 2020"
 summary: The Inclusion Poll will run from July 13, 2020 to July 16, 2020 and will determine whether the proposal at hand should proceed to next week's Governance Poll. 
 discussion_link: https://forum.makerdao.com/t/3098
 vote_type: Plurality Voting
