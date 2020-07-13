@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for MIP4c2-SP5: MIP12 Amendments - July 13, 2020
+title: "Inclusion Poll for MIP4c2-SP5: MIP12 Amendments - July 13, 2020"
 summary: The Inclusion Poll will run from July 13, 2020 to July 16, 2020 and will determine whether the proposal at hand should proceed to next week's Governance Poll. 
 discussion_link: https://forum.makerdao.com/t/3137
 vote_type: Plurality Voting
@@ -33,4 +33,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-
