@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for Core Personnel Onboarding (Governance Facilitator) - $date_MONTH_DD,_YYYY
+# Inclusion Poll for $proposal_name - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal ($proposal_name) should be included into the Monthly Governance Poll.
 
