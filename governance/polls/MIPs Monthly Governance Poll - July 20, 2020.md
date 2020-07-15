@@ -10,7 +10,7 @@ options:
 ---
 # MIP3: Monthly Governance Poll - July 20, 2020
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this months Governance Cycle should proceed to an Executive Vote to be held on July 27, 2020. The bundled contents of this poll consist of:
+The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on July 27, 2020. The bundled contents of this poll consist of:
 
 - [MIP16: The Weekly Governance Cycle](https://forum.makerdao.com/t/3008)
 - [MIP17: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments](https://forum.makerdao.com/t/3021)
@@ -24,7 +24,7 @@ This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/m
 
 ## Review
 
-The proposals can be reviewed in this weeks weekly MIPs update [here](https://forum.makerdao.com/t/3189). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/3145) on July 16, 2020.
+The proposals can be reviewed in this week's weekly MIPs update [here](https://forum.makerdao.com/t/3189). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/3145) on July 16, 2020.
 
 ## Next Steps
 

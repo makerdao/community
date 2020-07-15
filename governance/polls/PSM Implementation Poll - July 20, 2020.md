@@ -10,13 +10,13 @@ options:
 ---
 # Poll: PSM Implementation Poll - July 20, 2020
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which gives Maker Governance the chance to signal their support for implementation of the Peg Stabilization Module (PSM) proposal in some form, with implementation aimed for the end of July.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which gives Maker Governance the chance to signal their support for the implementation of the Peg Stabilization Module (PSM) proposal in some form, with implementation aimed for the end of July.
 
 This non-standard weekly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, July 20 at 16:00 UTC.
 
 ## Review
 
-The Peg Stabiliation Module proposal discussion is taking place across a number of threads on the official forum. The initial proposal can be found [here](https://forum.makerdao.com/t/3045). 
+The Peg Stabilization Module proposal discussion is taking place across a number of threads on the official forum. The initial proposal can be found [here](https://forum.makerdao.com/t/3045). 
 
 Further threads discussing the issue can be found under the [pegstab-module](https://forum.makerdao.com/tag/pegstab-module) tag on the forum.
 
