@@ -27,13 +27,13 @@ This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/go
 
 ## Review
 
-The **Base Rate** is usually not discussed explicitly on a weekly basis as this poll is a regular ocurrance. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
+The **Base Rate** is usually not discussed explicitly on a weekly basis as this poll is a regular occurrence. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
 
 ## Next Steps
 
 If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
 
-If the Friday executive passes, then this rate change will become active in the Maker Protcol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
