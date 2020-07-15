@@ -1,7 +1,7 @@
 ---
 title: MIP9 Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 summary: This poll will provide guidance to the Domain Teams on how to prioritise onboarding additional collateral assets. 
-discussion_link: https://forum.makerdao.com/t/2639
+discussion_link: $application_thread
 vote_type: Plurality Voting
 options:
    0: Abstain
