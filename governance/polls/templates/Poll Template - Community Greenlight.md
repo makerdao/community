@@ -12,7 +12,7 @@ options:
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset $asset_code ($asset_name) should be prioritised for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
 If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding $asset_code ($asset_name) as a collateral asset to the Maker Protocol.
 
@@ -28,7 +28,7 @@ The domain teams will use the outcome of this poll to inform the direction of th
 
 [MIP9: Community Greenlight](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md) describes this type of poll and goes into more detail about how it interacts with the rest of the collateral onboarding process.
 
-If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and setup your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
 

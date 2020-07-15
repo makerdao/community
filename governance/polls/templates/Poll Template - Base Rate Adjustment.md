@@ -19,7 +19,7 @@ options:
 ---
 # Poll: Base Rate Adjustment - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
 
 Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
 
@@ -27,19 +27,19 @@ This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/go
 
 ## Review
 
-The **Base Rate** is usually not discussed explicitly on a weekly basis as this poll is a regular ocurrance. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
+The **Base Rate** is usually not discussed explicitly on a weekly basis as this poll is a regular occurrence. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
 
 ## Next Steps
 
 If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
 
-If the Friday executive passes, then this rate change will become active in the Maker Protcol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and setup your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
 

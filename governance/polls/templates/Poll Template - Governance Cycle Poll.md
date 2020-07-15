@@ -10,7 +10,7 @@ options:
 ---
 # MIP3: Monthly Governance Poll - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this months Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
+The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
 - [$proposal_name1]($proposal_link1)
 - [$proposal_name2]($proposal_link2)
@@ -30,7 +30,7 @@ MKR holders must vote to determine whether to accept or reject the bundle of pro
 
 [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
 
-If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and setup your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
 
