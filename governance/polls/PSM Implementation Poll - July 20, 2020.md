@@ -26,8 +26,8 @@ The governance poll timeline for this issue can be found in this [thread](https:
 
 If this poll ends with a 'Yes' majority, further polls will take place on July 27, 2020 to determine the parameters for the PSM implementation.
 
-If this poll ends with a 'No' majority, implementation of the PSM will need to either:
-a) proceed under the MIPs process and the Monthly Governance Cycle
+If this poll ends with a 'No' majority, implementation of the PSM will need to either:  
+a) proceed under the MIPs process and the Monthly Governance Cycle  
 b) take place as an emergency action recommended by a Risk Domain team
 
 ---
