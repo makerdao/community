@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Base Rate Adjustment - July 20, 2020
+# Poll: PSM Implementation Poll - July 20, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which gives Maker Governance the chance to signal their support for implementation of the Peg Stabilization Module (PSM) proposal in some form, with implementation aimed for the end of July.
 
