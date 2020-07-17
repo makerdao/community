@@ -1,7 +1,7 @@
 ---
 title: Dai Savings Rate Spread Adjustment - July 20, 2020
 summary: Signal your support to adjust the Dai Savings Rate Spread within a range of 0% to 4%
-discussion_link: https://forum.makerdao.com/t/3023
+discussion_link: https://forum.makerdao.com/t/3145
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
