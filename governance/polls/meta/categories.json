@@ -1,9 +1,15 @@
 [
-  "System Risk Variables",
-  "Protocol Changes",
-  "Procedural Changes",
+  "Stability Fee",
+  "Debt Ceiling",
+  "Dai Savings Rate",
+  "Liquidation Ratio",
   "MIPs",
+  "Technical Protocol Change",
+  "Instant Access Module Change",
+  "Collateral Addition/Removal",
   "Oracles",
-  "Collateral Onboarding",
+  "Governance Security Module",
+  "Liquidation Mechanism",
+  "Vault Mechanism",
   "Other"
 ]
