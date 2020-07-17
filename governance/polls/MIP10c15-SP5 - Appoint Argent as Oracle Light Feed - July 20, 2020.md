@@ -10,7 +10,7 @@ options:
 ---
 # MIP10c15-SP5 Governance Poll to Appoint Argent as Oracle Light Feed - July 20, 2020
 
-On July 20, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c15-SP5 will proceed to the final Executive Vote on July 31st. In short, MIP10c15-SP5 appoints Argent as an Oracle Light Feed who submits price data to the MakerDAO Oracles.
+On July 20, 2020 the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c15-SP5 will proceed to the final Executive Vote on July 31, 2020. In short, MIP10c15-SP5 appoints Argent as an Oracle Light Feed who submits price data to the MakerDAO Oracles.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,7 +20,7 @@ The proposal to appoint Argent as an Oracle Light Feed can be reviewed here: [MI
 
 ## Next Steps
 
-If the Governance Poll passes, the Oracle Team will assist Argent to setup and configure their Oracle Light Feed. Then the proposal will proceed to the final ratification vote (Executive Vote) on July 31st.
+If the Governance Poll passes, the Oracle Team will assist Argent to setup and configure their Oracle Light Feed. Then the proposal will proceed to the final ratification vote (Executive Vote) on July 31, 2020.
 
 ## Resources
 
