@@ -13,12 +13,10 @@ options:
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on July 27, 2020. The bundled contents of this poll consist of:
 
 - [MIP16: The Weekly Governance Cycle](https://forum.makerdao.com/t/3008)
-- [MIP17: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments](https://forum.makerdao.com/t/3021)
 - [MIP18: Meta-Parameter Adjustments](https://forum.makerdao.com/t/3118)
 - [MIP19: Liquidations System 1.1 Upgrade](https://forum.makerdao.com/t/3098)
 - [MIP18c4-SP1: Subproposal for Modifying Meta-Parameter Adjustments](https://forum.makerdao.com/t/3119)
 - [MIP12c2-SP3: Domain Work Requirements for the Onboarding of MANA](https://forum.makerdao.com/t/3139)
-- [MIP4c2-SP5: MIP12 Amendments](https://forum.makerdao.com/t/3137)
 
 This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, July 20 at 16:00 UTC.
 
