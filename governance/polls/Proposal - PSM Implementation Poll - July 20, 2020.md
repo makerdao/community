@@ -1,5 +1,5 @@
 ---
-title: PSM Implementation Poll
+title: PSM Implementation Poll - July 20, 2020
 summary: Signal your support to implement the Peg Stabilization Module proposal in some form, targeting implementation at the end of July.
 discussion_link: https://forum.makerdao.com/t/3045
 vote_type: Plurality Voting
