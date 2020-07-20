@@ -1,5 +1,5 @@
 ---
-title: MIP3: Monthly Governance Poll - July 20, 2020
+title: Monthly MIPs Governance Poll - July 20, 2020
 summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/3189
 vote_type: Plurality Voting
