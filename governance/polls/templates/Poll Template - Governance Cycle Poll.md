@@ -1,5 +1,5 @@
 ---
-title: MIP3: Monthly Governance Poll - $date_MONTH_DD,_YYYY
+title: Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote. 
 discussion_link: $link_mips_update
 vote_type: Plurality Voting
