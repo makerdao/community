@@ -1,5 +1,5 @@
 ---
-title: MIP3: Monthly Governance Poll - $date_MONTH_DD,_YYYY
+title: Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote. 
 discussion_link: $link_mips_update
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# MIP3: Monthly Governance Poll - $date_MONTH_DD,_YYYY
+# Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
