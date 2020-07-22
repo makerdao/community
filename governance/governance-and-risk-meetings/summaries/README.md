@@ -1,6 +1,5 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 101: Jul 16, 2020](episode-101.md)
 - [Episode 100: Jul 09, 2020](episode-100.md)
 - [Episode 099: Jul 02, 2020](episode-99.md)
 - [Episode 098: Jun 25, 2020](episode-98.md)
