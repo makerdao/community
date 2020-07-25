@@ -10,7 +10,7 @@ options:
 ---
 # MIP10c9-SP2 Governance Poll to Whitelist DeFi Saver on BAT/USD Oracle - June 15, 2020
 
-On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP2 will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP2* appends DeFi Saver to the BAT/USD Oracle Security Module whitelist to read price data.
+On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP2 will proceed to the final Executive Vote on June 26th. In short, MIP10c9-SP2* appends DeFi Saver to the BAT/USD Oracle Security Module whitelist to read price data.
 
 **Governance Poll Details:**
 
