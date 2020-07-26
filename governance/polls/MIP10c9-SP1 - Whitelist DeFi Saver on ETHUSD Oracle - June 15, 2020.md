@@ -10,7 +10,7 @@ options:
 ---
 # MIP10c9-SP1 Governance Poll to Whitelist DeFi Saver on ETH/USD Oracle - June 15, 2020
 
-On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP1 will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP1* appends DeFi Saver to the ETH/USD Oracle Security Module whitelist to read price data.
+On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP1 will proceed to the final Executive Vote on June 26th. In short, MIP10c9-SP1* appends DeFi Saver to the ETH/USD Oracle Security Module whitelist to read price data.
 
 **Governance Poll Details:**
 
