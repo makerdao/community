@@ -23,7 +23,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
 
-This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday July 27 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday July 31 at 16:00 UTC.
+This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, July 27 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, July 31 at 16:00 UTC.
 
 ## Review
 
