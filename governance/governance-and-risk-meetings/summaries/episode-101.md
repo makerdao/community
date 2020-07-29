@@ -349,8 +349,8 @@
 ![Overview](https://i.imgur.com/sgnRmpO.png)
 
 - Dai from ETH has grown to 154 million Dai out of 160 million debt ceiling.
-- Total dai at $198 million.
- 
+- Total Dai at $198 million.
+
 ![ETH-A <> Dai Supply](https://i.imgur.com/2J8XeNx.png)
 
 - A few significant mints over the last couple weeks, where it ballooned from 114 million to 154 million.
