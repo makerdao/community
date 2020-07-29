@@ -16,7 +16,7 @@ The Risk Team has called for the following changes:
 
 * ETH-A debt ceiling to be increased from 260 to 340 million.
 * USDC-A debt ceiling to be increased from 80 to 140 million.
-* USDC-B debt ceiling to be increased from 50 to 70 million.
+* USDC-B debt ceiling to be increased from 10 to 30 million.
 * W-BTC debt ceiling to be increased from 20 to 40 million.
 * BAT debt ceiling to be increased from 3 to 5 million.
 
