@@ -14,7 +14,7 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 
 ### Whitelist DyDx on ETHUSD Oracle
 
-As per the [MIP10c9-SP5](https://vote.makerdao.com/polling-proposal/qmvzjogrmxzih4qphszuowutqnm1th4c5mstwqetpv1vnx) poll that took place under the weekly cycle. [DyDx](https://dydx.exchange/) will be whitelisted on the ETHUSD Oracle if this proposal passes.
+As per the [MIP10c9-SP5](https://vote.makerdao.com/polling-proposal/qmvzjogrmxzih4qphszuowutqnm1th4c5mstwqetpv1vnx) poll that took place under the weekly cycle [DyDx](https://dydx.exchange/) will be whitelisted on the ETHUSD Oracle if this proposal passes.
 
 ## Summary
 
