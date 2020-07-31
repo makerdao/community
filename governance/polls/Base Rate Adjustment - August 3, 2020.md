@@ -1,5 +1,5 @@
 ---
-title: Base Rate Adjustment - August 03, 2020
+title: Base Rate Adjustment - August 3, 2020
 summary: Signal your support to adjust the Base Rate within a range of -8% to 0%
 discussion_link: https://forum.makerdao.com/t/3318
 vote_type: Ranked Choice IRV
@@ -17,7 +17,7 @@ options:
    10: -2
    11: 0
 ---
-# Poll: Base Rate Adjustment - August 03, 2020
+# Poll: Base Rate Adjustment - August 3, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of-8% to 0%
 
@@ -25,7 +25,7 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 
 Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
 
-This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, August 03 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, August 07 at 16:00 UTC.
+This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, August 3 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, August 7 at 16:00 UTC.
 
 ## Review
 
