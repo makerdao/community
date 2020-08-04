@@ -1,3 +1,6 @@
+---
+tags: Maker Relay, Communications team
+---
 # MakerDAO Communications Team Mandate Draft
 
 ## Introduction

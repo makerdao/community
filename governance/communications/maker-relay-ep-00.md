@@ -1,3 +1,6 @@
+---
+tags: Maker Relay
+---
 ![](./assets/maker-relay-ep-0.png)
 
 Hey Maker community, welcome to the first edition of Maker Relay! 
