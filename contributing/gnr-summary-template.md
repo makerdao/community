@@ -1,83 +1,150 @@
-# Episode 00: Month 00, 2020
+# Gov Call Summary Template
+
+# Episode 000: Month 00, 2020
 
 ## Agenda
 
-- [00:00](): Topic with Person
-- [00:00](): Intro with Rich Brown
-- [00:00](): Intro with Rich Brown
-- [00:00](): Intro with Rich Brown
+- [00:00](): Segment with person name
+- [00:00](): Intro with LongForWisdom
+- [00:00](): Governance at a Glance with LongForWisdom
+- [00:00](): Weekly MIPs Update with Charles St. Louis
+- [00:00](): Inclusion Polls Review with LongForWisdom
+- [00:00](): Governance Polls Review with LongForWisdom
+- [00:00](): Oracles with Nik Kunkel
+- [00:00](): State of the Peg with Vishesh Choudry
 
 ## Video
 
-<>
+<add link here>
 
 ## Introduction
 
-### Agenda Summary and Talking Points
+### LongForWisdom
 
-#### Rich
+#### Agenda and Preamble
 
 [00:00](link)
 
 - Insert notes here
 - Discussions happen in the [Forum.](https://forum.makerdao.com/)
 
-#### Questions and Comments 1
+#### Discussion 1
+
+##### Descriptive Header
 
 [00:00](link)
 
 - Insert question or comment here
 
+##### Descriptive Header
+
 [00:00](link)
 
 - Insert question or comment here
 
-## Main Theme
+## Forum Recap
 
-### Specific Subject
+### LongForWisdom
 
-#### Name of Person Presenting
+#### Governance at a Glance
 
 [00:00]()
 
-screenshot
-- notes
+- [Governance at a Glance - Forum Thread](https://forum.makerdao.com/t/governance-at-a-glance/84): If you have the time to read over and vote in active threads, that would be much appreciated.
 
-screenshot
-- notes
+##### Discussions
 
-screenshot
-- notes
+- [Thread]()
+    - notes
+- [Thread]()
+    - notes
+- [Thread]()
+    - notes
 
-screenshot
-- notes
+##### Signal Requests
 
-#### Questions and Comments 2
+- [Thread]()
+    - notes
+- [Thread]()
+    - notes
+- [Thread]()
+    - notes
+
+## Governance
+
+### Name
+
+#### Subject/Segment Description
+
+[00:00](link)
+
+- Insert notes here
+
+#### Discussion 2
+
+##### Descriptive Header
 
 [00:00](link)
 
 - Insert question or comment here
 
+##### Descriptive Header
+
 [00:00](link)
 
 - Insert question or comment here
 
-## Analysis
+## MIPs
 
-### The State of the Peg
+### Charles St. Louis
+
+#### Weekly MIPs Update
+
+[00:00](link)
+
+- Insert notes here
+
+### LongForWisdom(GF)
+
+#### Governance Poll Review
+
+## Smart Contracts
+
+### Name
+
+#### Subject/Segment Description
+
+[00:00](link)
+
+- Insert notes here
+
+## Oracles
+
+### Nik Kunkel
+
+#### Subject/Segment Description
+
+[00:00](link)
+
+- Insert notes here
+
+## Risk
+
+### Vishesh Choudry
 
 #### Relevant Links
 
-[MCD system stats](http://daistats.com)
+[MCD System Stats](http://daistats.com)
 [DAI 24hr VWAP Graphs](http://dai.descipher.io/)
+[Maker Vault Stats](http://makervaults.descipher.io/)
 
-#### Vishesh
+#### The State of the Peg
 
 [00:00](link)
 
 - Insert beginning of notes here
 
-#### Questions and Comments 3
+#### Discussion 3
 
 [00:00](link)
 
@@ -87,13 +154,15 @@ screenshot
 
 - Insert question or comment here
 
-## Open Ended
+## End Discussion
 
-### Open-ended Discussion
+##### Descriptive Header
 
 [00:00](link)
 
 - Insert question or comment here
+
+##### Descriptive Header
 
 [00:00](link)
 
@@ -115,6 +184,8 @@ screenshot
 
 `EV`: Executive Vote
 
+`GF`: Governance Facilitator
+
 `GP`: Governance Poll
 
 `SF`: Stability Fee
@@ -126,7 +197,7 @@ screenshot
 ## Credits
 
 - David Utrobin produced this summary.
-- Igor Teslya produced this summary.
+- Artem Gordon produced this summary.
 - Juan Guillen produced this summary.
 - Tim Black produced this summary.
-- Everyone who spoke and presented on the call (listed in the headers.)
+- Everyone who spoke and presented on the call, listed in the headers.
