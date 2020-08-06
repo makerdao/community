@@ -1,31 +1,31 @@
 ---
-title: Base Rate Adjustment - $date_MONTH_DD,_YYYY
-summary: Signal your support to adjust the Base Rate within a range of $lower_bound to $upper_bound
-discussion_link: $discussion_link
+title: Base Rate Adjustment - August 3, 2020
+summary: Signal your support to adjust the Base Rate within a range of -8% to 0%
+discussion_link: https://forum.makerdao.com/t/3318
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: $axis - 4
-   2: $axis - 2
-   3: $axis - 1
-   4: $axis - 0.5
-   5: $axis - 0.25
-   6: $axis
-   7: $axis + 0.25
-   8: $axis + 0.5
-   9: $axis + 1
-   10: $axis + 2
-   11: $axis + 4
+   1: -8
+   2: -6
+   3: -5
+   4: -4.5
+   5: -4.25
+   6: -4
+   7: -3.75
+   8: -3.5
+   9: -3
+   10: -2
+   11: 0
 ---
-# Poll: Base Rate Adjustment - $date_MONTH_DD,_YYYY
+# Poll: Base Rate Adjustment - August 3, 2020
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of-8% to 0%
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
 Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
 
-This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE, the results of which may inform an Executive Vote which will go live on $execdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, August 3 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, August 7 at 16:00 UTC.
 
 ## Review
 
