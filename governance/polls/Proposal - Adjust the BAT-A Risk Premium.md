@@ -1,6 +1,6 @@
 ---
-title: Adjust the BAT Risk Premium - August 10, 2020
-summary: Signal your support for increasing the BAT Risk Premium from 0% to 4%
+title: Adjust the BAT-A Risk Premium - August 10, 2020
+summary: Signal your support for increasing the BAT-A Risk Premium from 0% to 4%
 discussion_link: https://forum.makerdao.com/t/3334
 vote_type: Plurality Voting
 options:
@@ -8,9 +8,9 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Adjust the BAT Risk Premium - August 10, 2020
+# Poll: Adjust the BAT-A Risk Premium - August 10, 2020
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the BAT Risk Premium from 0% to 4%.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the BAT-A Risk Premium from 0% to 4%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, August 10 at 16:00 UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, August 14, at 16:00 UTC.
 
