@@ -1,6 +1,6 @@
 ---
-title: Increase the System Surplus FLOP Threshold to 2 Million Dai - August 10, 2020
-summary: Signal your support for increasing the system surplus FLOP threshold from 500,000 to 2,000,000
+title: Increase the Surplus Auction Buffer to 2 Million DAI - August 10, 2020
+summary: Signal your support for increasing the system surplus FLOP threshold from 500,000 DAI to 2,000,000 DAI
 discussion_link: https://forum.makerdao.com/t/3316
 vote_type: Plurality Voting
 options:
@@ -8,9 +8,9 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Increase the System Surplus FLOP Threshold to 2 Million Dai - August 10, 2020
+# Poll: Increase the Surplus Auction Buffer to 2 Million DAI - August 10, 2020
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the system surplus FLOP threshold from 500,000 to 2,000,000.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the Surplus Auction Buffer, also referred to as the 'System Surplus', from 500,000 DAI to 2,000,000 DAI. More info on this paramter can be found [here](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#auctions).
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, August 10 at 16:00 UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, August 14, at 16:00 UTC.
 
