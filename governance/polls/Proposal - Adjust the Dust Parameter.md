@@ -1,6 +1,6 @@
 ---
 title: Adjust the Dust Parameter - August 10, 2020
-summary: Signal your support for increasing the Dust Parameter from 20 DAI to 100 DAI
+summary: Signal your support for increasing the Dust Parameter from 20 DAI to 100 DAI for all vault types.
 discussion_link: https://forum.makerdao.com/t/3445
 vote_type: Plurality Voting
 options:
