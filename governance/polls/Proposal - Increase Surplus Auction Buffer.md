@@ -1,6 +1,6 @@
 ---
 title: Increase the Surplus Auction Buffer to 2 Million DAI - August 10, 2020
-summary: Signal your support for increasing the system surplus FLOP threshold from 500,000 DAI to 2,000,000 DAI
+summary: Signal your support for increasing the Surplus Auction Buffer from 500,000 DAI to 2,000,000 DAI
 discussion_link: https://forum.makerdao.com/t/3316
 vote_type: Plurality Voting
 options:
