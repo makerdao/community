@@ -1,10 +1,15 @@
 ---
-title: Template - [Executive Vote] Increase the WBTC-A debt ceiling
+title: Template - [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
 
 ---
-## [Executive Vote] Increase the WBTC-A debt ceiling
+## [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
+
+### Urgent Configuration change to the ETH-A lump size
+The MakerDAO Smart Contracts Domain Team have discovered a risk present in the Maker Protocol that needs to be addressed as a matter of urgency. In order to mitigate this risk the Smart Contracts Team suggest that the ETH-A `lump` parameter should be reduced from 500 ETH to 100 ETH. Further details of this issue can be reviewed [here](https://forum.makerdao.com/t/3586).
+
+The `lump` parameter is also known as the 'Auction Lot Size' and determines the size of the auction lots when liquidating collateral in the Maker Protocol.
 
 ### Increase the WBTC-A debt ceiling
 
@@ -17,12 +22,13 @@ This expedited action is being taken in response to DAI consistently trading abo
 Therefore, if this Executive proposal passes the following will occur:
 
 - The WBTC-A Debt Ceiling will increase from 40 million to 80 million.
+- The ETH-A `lump` parameter will decrease from 500 ETH to 100 ETH.
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
 ## Review
 
-Community debate on this topic can be found [here](https://forum.makerdao.com/t/3519). Please review this thread to inform your position before voting.
+Community debate on this topic can be found [here](https://forum.makerdao.com/t/3519) and [here](https://forum.makerdao.com/t/3586). Please review this thread to inform your position before voting.
 
 Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) and [Audio](https://soundcloud.com/makerdao/sets/governance-calls) for these calls is available to review.
 
