@@ -1,7 +1,7 @@
 ---
 title: MIP10c15-SP6 Governance Poll to Appoint MyCrypto as Oracle Light Feed - August 10, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
-discussion_link: https://forum.makerdao.com/t/3015/2
+discussion_link: https://forum.makerdao.com/t/3383/2
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -16,7 +16,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The proposal to appoint MyCrypto as an Oracle Light Feed can be reviewed here: [MIP10c15-SP6: Subproposal to Appoint MyCrypto as Oracle Light Feed](https://forum.makerdao.com/t/mip10c14-sp6-proposal-appoint-mycrypto-as-a-light-feed/3383/2).
+The proposal to appoint MyCrypto as an Oracle Light Feed can be reviewed here: [MIP10c15-SP6: Subproposal to Appoint MyCrypto as Oracle Light Feed](https://forum.makerdao.com/t/3383/2).
 
 ## Next Steps
 
