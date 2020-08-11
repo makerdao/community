@@ -26,7 +26,7 @@
 
 [00:43](https://youtu.be/ZLgbKyTHPY8?t=43)
 
-- Hello, everyone, welcome to 104th MakerDAO Scientific Governance and Risk meeting. Today is Thursday, August 6th. My name is LongForWisdom. I am one of the MakerDao Governance Facilitators. I am joined by a host of people interested in Maker. We have a fairly large agenda for today. Anybody is free to interrupt and ask questions during any point of this call.
+- Hello, everyone, welcome to 104th MakerDAO Scientific Governance and Risk meeting. Today is Thursday, August 6th. My name is LongForWisdom. I am one of the MakerDAO Governance Facilitators. I am joined by a host of people interested in Maker. We have a fairly large agenda for today. Anybody is free to interrupt and ask questions during any point of this call.
 - Discussions happen in the [Forum.](https://forum.makerdao.com/)
 
 ## Governance at a Glance
