@@ -24,7 +24,7 @@
 
 [00:00](https://youtu.be/eIL6rpL54-s)
 
-- Hello, everyone, welcome to 103rd MakerDAO Scientific Governance and Risk meeting. Today is Thursday, July 30th. My name is LongForWisdom. I am one of the MakerDao Governance Facilitators. I am joined by a host of people who are interested in Maker things. 
+- Hello, everyone, welcome to 103rd MakerDAO Scientific Governance and Risk meeting. Today is Thursday, July 30th. My name is LongForWisdom. I am one of the MakerDAO Governance Facilitators. I am joined by a host of people who are interested in Maker things. 
 - We are going to change up the agenda slightly. We are going to have an update section going forward. This is mainly for the domain teams but also for anybody else who has updates about specific topics. We previously had many five-minute sections that don't make sense to call out directly during the meeting. We will go through with the main people and see if they have anything to say for each meeting. Afterward, we will go through the procedural stuff and then move onto any presentation and discussion topics.
 - Discussions happen in the [forum.](https://forum.makerdao.com/)
 
@@ -72,7 +72,7 @@
     -  Aaron_Bartsch also asks whether we should adjust the ETH-A risk premium.
 - [Increasing the 'dust' amount - Forum Thread](https://forum.makerdao.com/t/signal-request-increasing-the-dust-amount/3445)
     - Jiecut asks if the `dust` parameter should increase, considering the sustained elevation in gas prices over the last few months.
-     - LongForWisdom: The dust parameter is essentially the minimum amount of Dai debt one can create from a vault. It is currently 20 Dai, but due to high gas prices, there is a question of whether this amount is too low and should be increased.
+     - LongForWisdom: The `dust` parameter is essentially the minimum amount of Dai debt one can create from a vault. It is currently 20 Dai, but due to high gas prices, there is a question of whether this amount is too low and should be increased.
 - [Adjust the BAT Risk Premium and Debt Ceiling - Forum Thread](https://forum.makerdao.com/t/signal-request-adjust-the-bat-risk-premium-and-debt-ceiling/3334)
     - Jiecut asks if the BAT-A risk premium and debt ceiling should be adjusted. Note that the BAT-A debt ceiling was changed in the most recent executive vote.
     - LongForWisdom: Yesterday's executive included The debt ceiling change, but the signal continues for the risk premium.
@@ -91,7 +91,7 @@
 
 [9:20](https://youtu.be/eIL6rpL54-s?t=560)
 
-- Cyrus Yonessi: I think there is an argument to make for increasing the `dust` amount, which is ironic because just a few months ago, we were discussing if it should be lower to accommodate more people. It is funny how the Ethereum congestion blew up. Certainly, I think we can kind of do a gas analysis and try to figure out some threshold where below that amount, it doesn't make sense to do liquidations. I think that if I had to guess, the dust amount should probably go up. Of course, this does introduce user adoption trade-offs, which is something to consider.
+- Cyrus Yonessi: I think there is an argument to make for increasing the `dust` amount, which is ironic because just a few months ago, we were discussing if it should be lower to accommodate more people. It is funny how the Ethereum congestion blew up. Certainly, I think we can kind of do a gas analysis and try to figure out some threshold where below that amount, it doesn't make sense to do liquidations. I think that if I had to guess, the `dust` amount should probably go up. Of course, this does introduce user adoption trade-offs, which is something to consider.
 
 [12:38](https://youtu.be/eIL6rpL54-s?t=758)
 
