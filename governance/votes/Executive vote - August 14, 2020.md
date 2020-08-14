@@ -4,7 +4,7 @@ title: Template - [Executive Vote] Modify Multiple System Parameters
 ---
 ### Reduce the Base Rate
 
-As per the weekly Base Rate[poll](https://vote.makerdao.com/polling-proposal/qmpvqs7gycpjdcpwbye4twvwxuhf4ax2tvt6i1pto5qd2p) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be reduced from -4% to -6% if this proposal passes.
+As per the weekly Base Rate[poll](https://vote.makerdao.com/polling-proposal/qmeftwttrdrtiemdoyrmtjnssmlnbdsag2ryxjoycb9l47) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be reduced from -4% to -6% if this proposal passes.
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
