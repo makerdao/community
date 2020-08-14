@@ -1,7 +1,7 @@
 ---
 title: MIP9 Community Greenlight Poll - TCAD (TrueCAD) - August 17, 2020
 summary: This poll will provide guidance to the Domain Teams on how to prioritise onboarding additional collateral assets. 
-discussion_link: $application_thread
+discussion_link: https://forum.makerdao.com/t/3287
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -18,7 +18,7 @@ If greenlight votes exceed defer votes, this poll is to be taken as a signal to 
 
 ## Review
 
-Please review the collateral onboarding application [forum thread]($application_thread) to inform your position before voting.
+Please review the collateral onboarding application [forum thread](https://forum.makerdao.com/t/3287) to inform your position before voting.
 
 ## Next Steps
 
