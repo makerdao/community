@@ -40,6 +40,7 @@ Therefore, if this Executive proposal passes the following will occur:
 - The USDC-B Stability Fee parameter will be reduced from 46% to 44%.
 - The MANA-A Stability Fee parameter will be reduced from 8% to 6%.
 - The `dust` parameter for each vault type will be increased from 20 DAI to 100 DAI.
+- The BAT-A Risk Premium will be increased from 0% to 4%.
 - The Surplus Auction Buffer will be increased from 500K DAI to 2M DAI.
 
 Note that the increase to the BAT-A Risk Premium has no effect on the BAT-A stability fee at this time due to the negative base rate.
