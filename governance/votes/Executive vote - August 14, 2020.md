@@ -2,6 +2,10 @@
 title: Template - [Executive Vote] Modify Multiple System Parameters
 
 ---
+## [Executive Vote] Modify Multiple System Parameters
+
+The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
+
 ### Reduce the Base Rate
 
 As per the weekly Base Rate[poll](https://vote.makerdao.com/polling-proposal/qmeftwttrdrtiemdoyrmtjnssmlnbdsag2ryxjoycb9l47) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be reduced from -4% to -6% if this proposal passes.
