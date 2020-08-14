@@ -1,5 +1,5 @@
 ---
-title: MIP9 Community Greenlight Poll - TCAD (True CAD) - August 17, 2020
+title: MIP9 Community Greenlight Poll - TCAD (TrueCAD) - August 17, 2020
 summary: This poll will provide guidance to the Domain Teams on how to prioritise onboarding additional collateral assets. 
 discussion_link: $application_thread
 vote_type: Plurality Voting
@@ -8,13 +8,13 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---
-# Poll: MIP9 Community Greenlight Poll - TCAD (True CAD) - August 17, 2020
+# Poll: MIP9 Community Greenlight Poll - TCAD (TrueCAD) - August 17, 2020
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset TCAD (True CAD) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset TCAD (TrueCAD) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
-If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding TCAD (True CAD) as a collateral asset to the Maker Protocol.
+If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding TCAD (TrueCAD) as a collateral asset to the Maker Protocol.
 
 ## Review
 
