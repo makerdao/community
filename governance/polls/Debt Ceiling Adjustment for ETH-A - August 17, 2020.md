@@ -12,7 +12,7 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Foundation Risk Team. The community can use this poll to express support or opposition to increasing the ETH-A Debt Ceiling from 340 million to 420 million.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for one day beginning on Monday, August 17 at 16:00 UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Tuesday, August 18, at 16:00 UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for one day beginning on Monday, August 17 at 16:00 UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live later this week.
 
 ## Review 
 
@@ -21,7 +21,7 @@ Please review the [[Discussion] ETH-A Debt Ceiling Raise](https://forum.makerdao
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change will be included in an Executive Vote on Tuesday, August 18, 2020.
+If this poll ends with a 'Yes' majority, this change will be included in either in the Executive Vote on Friday, August 21 2020 or it will be included in an expedited Executive Vote prior to that time.
 
 ---
 
