@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Add USDT as a Collateral Type - August 24, 2020
 
-The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add USDT (Tether) as a collateral type.
+The MakerDAO Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add USDT (Tether) as a collateral type.
 
 The proposed initial Risk Parameters for USDT are:
 
@@ -32,15 +32,15 @@ Please review the [risk evaluation forum thread](https://forum.makerdao.com/t/us
 
 ## Next Steps
 
-If this proposal passes there will be an Executive Vote on **Friday, September 4** asking MKR token holders if they support or reject the change.
+If this proposal passes, it will be included in the Executive Vote on **Friday, September 4** asking MKR token holders if they support or reject the change.
 
 ---
 
 ## Resources
 
-Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
+If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
 
-Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com/#voting).
+Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
