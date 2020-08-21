@@ -164,9 +164,9 @@ https://daistats.com/#/ | http://dai.descipher.io/
 
 ### Articles and Thought Pieces
 
-- [Ethereum Emission Debate Sparked by MakerDao Developer Marc-André Dumas’s Script](https://maxbit.cc/ethereum-emission-debate-sparked-by-makerdao-developer-marc-andre-dumass-script/)
+- [Ethereum Emission Debate Sparked by MakerDAO Developer Marc-André Dumas’s Script](https://maxbit.cc/ethereum-emission-debate-sparked-by-makerdao-developer-marc-andre-dumass-script/)
 
-> "There has always been speculation about the coin limit of Ethereum, and recently, it has been stimulated again with the release of a script by MakerDao developer Marc-André Dumas. The script in question projects the size of the issuance of the second largest cryptocurrency via capitalisation."
+> "There has always been speculation about the coin limit of Ethereum, and recently, it has been stimulated again with the release of a script by MakerDAO developer Marc-André Dumas. The script in question projects the size of the issuance of the second largest cryptocurrency via capitalisation."
  
 - [Who Uses the Maker Protocol and Dai, and Why?](https://blog.makerdao.com/who-uses-the-maker-protocol-and-dai-and-why/)
 
@@ -240,7 +240,7 @@ https://twitter.com/kaiynne/status/1295210203139305472
 
 ## Reference Links
 
-Discuss and debate Maker governance in the [Forum]() and over [Maker Chat](https://chat.makerdao.com/)
+Discuss and debate Maker governance in the [Forum](https://forum.makerdao.com/) and over [Maker Chat](https://chat.makerdao.com/)
 
 Propose technical changes, poll, and vote in the [Governance Portal](https://makerdao.com/en/governance)
 
