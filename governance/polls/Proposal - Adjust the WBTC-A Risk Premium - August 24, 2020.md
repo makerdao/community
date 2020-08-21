@@ -1,26 +1,28 @@
 ---
 title: Adjust the WBTC-A Risk Premium - August 24, 2020
-summary: Signal your support to adjust the WBTC Risk Premium to 4%
-discussion_link: https://forum.makerdao.com/t/signal-request-should-we-change-the-rps-for-various-collateral-types/3484/34
+summary: Signal your support for increasing the WBTC-A Risk Premium to from 2% to 4%
+discussion_link: https://forum.makerdao.com/t/3484
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: WBTC Risk Prmium Adjustment - August 24, 2020
+# Poll: WBTC Risk Premium Adjustment - August 24, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for a **WTBC Risk Premium** adjustment to 4%.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the WBTC-A Risk Premium from 2% to 4%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, August 24 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, August 28, at 16:00 UTC.
 
 ## Review
 
-The **WBTC Risk Premium** was voted on in a forum signal request. Please review the [Thread](https://forum.makerdao.com/t/signal-request-should-we-change-the-rps-for-various-collateral-types/3484) to inform your position before voting.
+The WBTC Risk Premium was voted on in a forum signal request. Please review the [Thread](https://forum.makerdao.com/t/signal-request-should-we-change-the-rps-for-various-collateral-types/3484) to inform your position before voting.
 
 ## Next Steps
 
-If the winning result of this poll is Yes, then the **WBTC Risk Premium** parametere value in the Maker Protocol change to 4% will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on Friday, August 28, 2020.
+
+If this poll ends with a 'No' majority, then no further action will be taken.
 
 If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
