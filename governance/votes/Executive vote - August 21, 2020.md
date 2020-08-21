@@ -15,7 +15,6 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-- 
 - The Base Rate meta-parameter will be increased from -6% to -4%.
 - The USDC-B Stability Fee parameter will be increased from 44% to 46%.
 - The MANA-A Stability Fee parameter will be increased from 6% to 8%.
