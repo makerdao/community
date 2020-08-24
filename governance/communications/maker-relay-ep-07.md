@@ -195,7 +195,7 @@ https://daistats.com/#/ | http://dai.descipher.io/
 ### Articles and Thought Pieces
 
 * [Maker Governance Review: July 2020](https://blog.makerdao.com/maker-governance-review-july-2020/)
-* [Ethereum Emission Debate Sparked by MakerDao Developer Marc-André Dumas’s Script](https://maxbit.cc/ethereum-emission-debate-sparked-by-makerdao-developer-marc-andre-dumass-script/)
+* [Ethereum Emission Debate Sparked by MakerDAO Developer Marc-André Dumas’s Script](https://maxbit.cc/ethereum-emission-debate-sparked-by-makerdao-developer-marc-andre-dumass-script/)
 * [Really Awesome Analytics Dashboard for the Maker Protocol](https://www.reddit.com/r/MakerDAO/comments/i3nqgi/really_awesome_analytics_dashboard_for_the_maker/)
 
 ### Videos and Podcasts
