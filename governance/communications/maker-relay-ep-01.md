@@ -1,9 +1,12 @@
+---
+tags: Maker Relay
+---
 # Maker Relay 01
 
 ![](./assets/maker-relay-ep-1.png)
 _Hey, everyone, thanks for checking out Maker Relay!_
 
-Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved in MakerDAO governance, this is your one-stop-shop for updates on the MakerDAO ecosystem. 
+Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved in MakerDAO governance, this is your one-stop-shop for updates on the MakerDAO ecosystem.
 
 ## Governance
 
@@ -62,10 +65,10 @@ The June MIPs proposal [Executive vote](https://vote.makerdao.com/executive-prop
 
 #### Small bug in the Flopper Contract
 
-- A small bug was discovered in the `flopper` contract. 
-- We have also realized that the three different auction contracts: the `flip`, `flop`, and `flap` (or collateral, debt, and surplus auctions) require double liquidity when interacting with them in certain cases.
-- It has been already fixed, tested, and formally verified. 
-- We plan on fixing those in the next governance cycle, deploying new versions of all of these contracts.
+- A small bug was discovered in the `flopper` contract.
+- The Smart Contract Team have also realized that the three different auction contracts: the `flip`, `flop`, and `flap` (or collateral, debt, and surplus auctions) require double liquidity when interacting with them in certain cases.
+- It has been already fixed, tested, and formally verified.
+- The Smart Contracts Team plans on fixing those in the next governance cycle, deploying new versions of all of these contracts.
 
 #### Impact
 
