@@ -1,5 +1,5 @@
 ---
-title: MIP10c9-SP6 Governance Poll to Whitelist yEarn Finance on ETHUSD Oracle - August 24, 2020
+title: MIP10c9-SP6 Governance Poll to Whitelist yEarn Finance on ETHUSD Oracle - August 25, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp6-whitelist-yearn-finance-on-ethusd-oracle/3773
 vote_type: Plurality Voting
@@ -8,11 +8,11 @@ options:
    1: Yes
    2: No
 ---
-# MIP10c9-SP6 Governance Poll to Whitelist yEarn Finance on ETH/USD Oracle - August 24, 2020
+# MIP10c9-SP6 Governance Poll to Whitelist yEarn Finance on ETH/USD Oracle - August 25, 2020
 
-On August 24, 2020, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP6 will be included in the Executive Vote on August 28, 2020. In short, MIP10c9-SP6 appends yEarn Finance to the ETH/USD Oracle Security Module whitelist to read current and queued price data.
+On August 25, 2020, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP6 will be included in the Executive Vote on August 28, 2020. In short, MIP10c9-SP6 appends yEarn Finance to the ETH/USD Oracle Security Module whitelist to read current and queued price data.
 
-Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
+This subproposal has been submitted as an expedited action in response to support from the Oracle Team and the Maker governance community.
 
 ## Review
 
@@ -20,7 +20,7 @@ The proposal to whitelist yEarn Finance on the ETHUSD Oracle can be reviewed her
 
 ## Next Steps
 
-If the Governance Poll passes, the proposal will proceed to the final ratification vote (Executive Vote) on August 28, 2020.
+If this Governance Poll passes, the proposal will be included in the weekly executive vote on August 28, 2020.
 
 ## Resources
 
