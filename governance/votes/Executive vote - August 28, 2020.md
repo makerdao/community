@@ -41,9 +41,12 @@ Therefore, if this Executive passes the following will occur:
 - The new `dunk` parameter will be initialized to 50 thousand Dai for each collateral type.
 - The WBTC-A Risk Premium will be increased from 2% to 4%.
 - The USDC-A debt ceiling parameter will be reduced from 140 million to 40 million.
+- The USDC-A debt ceiling reduction will reduce the Vat global line from 688 million Dai to 588 million Dai.
 - [yEarn Finance](https://yearn.finance/) will be whitelisted on the ETH/USD Oracle.
 
 Note that the increase to the WBTC-A Risk Premium has no effect on the WBTC-A stability fee at this time due to the negative base rate.
+
+Note that this proposal includes an Office Hours modifier that only allows spell execution between 10am to 5pm EST. 
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
