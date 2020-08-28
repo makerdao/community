@@ -37,8 +37,8 @@ Community discussion around this change can be found [here](https://forum.makerd
 Therefore, if this Executive passes the following will occur:
 - The `cat` contract will be replaced as part of the Liquidations 1.2 upgrade.
 - The `flipper` contracts will be replaced for all collateral types as part of the Liquidations 1.2 upgrade.
-- The new `box` parameter will be initialized to $box.
-- The new `dunk` parameter will be initialized to $dunk for each collateral type.
+- The new `box` parameter will be initialized to 30 million Dai.
+- The new `dunk` parameter will be initialized to 50 thousand Dai for each collateral type.
 - The WBTC-A Risk Premium will be increased from 2% to 4%.
 - The USDC-A debt ceiling parameter will be reduced from 140 million to 40 million.
 - [yEarn Finance](https://yearn.finance/) will be whitelisted on the ETH/USD Oracle.
