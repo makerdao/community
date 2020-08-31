@@ -1,7 +1,7 @@
 ---
 title: Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
-summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote. 
-discussion_link: $link_mips_update
+summary: Signal your support or opposition for the monthly MIPs bundle for $date_MONTH
+discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -10,21 +10,23 @@ options:
 ---
 # Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
+The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
 - [$proposal_name1]($proposal_link1)
 - [$proposal_name2]($proposal_link2)
 - [$proposal_name...]($proposal_link...)
 
-This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for approximately 3 days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) wwill be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE.
 
 ## Review
 
-The proposals can be reviewed in this weeks weekly MIPs update [here]($link_mips_update). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
+The proposals can be reviewed in this weeks weekly MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
 
 ## Next Steps
 
 MKR holders must vote to determine whether to accept or reject the bundle of proposals included within the Monthly Governance Poll, determining whether the bundle should proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle. The Executive Vote will be submitted on $next_executive_date_MONTH_DD,_YYYY if the Governance Facilitators confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on $last_governance_call_date_MONTH_DD,_YYYY.
+
+---
 
 ## Resources
 

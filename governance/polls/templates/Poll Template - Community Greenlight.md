@@ -1,7 +1,7 @@
 ---
 title: MIP9 Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
-summary: This poll will provide guidance to the Domain Teams on how to prioritise onboarding additional collateral assets. 
-discussion_link: $application_thread
+summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
+discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -18,11 +18,13 @@ If greenlight votes exceed defer votes, this poll is to be taken as a signal to 
 
 ## Review
 
-Please review the collateral onboarding application [forum thread]($application_thread) to inform your position before voting.
+Please review the collateral onboarding application [forum thread]($discussion_link) to inform your position before voting.
 
 ## Next Steps
 
-The domain teams will use the outcome of this poll to inform the direction of their collateral onboarding work. 
+The domain teams will use the outcome of this poll to inform the direction of their collateral onboarding work.
+
+---
 
 ## Resources
 
