@@ -255,7 +255,7 @@
 
 - Wil Barnes: [collateral assessments available here](https://forum.makerdao.com/c/risk/6)
 - On the right, you can see the list of current community greenlight polls. Another reminder to vote, if you haven't.
- 
+
 ![Proposals in the RFC Phase](https://i.imgur.com/fO6IxkZ.png)
 
 - There are a few proposals still in the Request For Comments phase. It doesn't look like most of them will be ready for the August cycle.
