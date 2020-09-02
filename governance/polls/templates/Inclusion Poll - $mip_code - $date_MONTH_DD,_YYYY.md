@@ -1,7 +1,7 @@
 ---
 title: Inclusion Poll for $proposal_name - $date_MONTH_DD,_YYYY
-summary: The Inclusion Poll will run from $startdate to $enddate and will determine whether the proposal at hand should proceed to next week's Governance Poll. 
-discussion_link: $proposal_link_forum
+summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
+discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -15,12 +15,13 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
 
 ## Review
-
-The proposal can be reviewed here: $proposal_link_forum. It was also mentioned and possibly discussed on the $governance_call link on $prev_governance_call_date.
+Please review the discussion [thread]($discussion_link) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the $governance_call link on $prev_governance_call_date.
 
 ## Next Steps
 
 If the Inclusion poll passes, the Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Thursday Governance and Risk call on $next_governance_call_date. The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
+
+---
 
 ## Resources
 
