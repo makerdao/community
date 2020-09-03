@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# MIP10c9-SP9 Governance Poll to Whitelist tBTC on ETHBTC Oracle - September 07, 2020
+# MIP10c9-SP9 Governance Poll to Whitelist tBTC on ETHBTC Oracle - September 7, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending tBTC to the ETH/BTC Medianizer whitelist to read price data.
 
