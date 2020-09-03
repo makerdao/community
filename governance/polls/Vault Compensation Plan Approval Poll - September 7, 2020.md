@@ -1,7 +1,7 @@
 
 title: Vault Compensation Plan Approval Poll - September 7, 2020
 summary: Signal your support or opposition to compensating vaults impacted by Black Thursday losses
-discussion link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584
+discussion link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97
 vote type: Ranked Choice IRV
 options: 
    0: Abstain
@@ -22,7 +22,7 @@ The MakerDAO Governance Facilitator has placed a Governance Poll into the [votin
 
 ## Review
 
-The Vault Compensation Plan was discussed in the [Forums](https://forum.makerdao.com/t/vault-compensation-plan-v2/3584) and presented on the [August 13 Maker Governance and Risk Call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-105-thursday-august-13-4-00-pm-utc/3570). Voters are encouraged to review the plan document and discussion to inform their position before voting.
+The Vault Compensation Plan was discussed in the [Forums](https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97) and presented on the [August 13 Maker Governance and Risk Call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-105-thursday-august-13-4-00-pm-utc/3570). Voters are encouraged to review the plan document and discussion to inform their position before voting.
 
 This poll uses ranked choice voting. Details about ranked choice voting can be found [here](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274). The community is encouraged to select multiple options in their order of preference, while withholding their vote for any options they consider unacceptable. 
 
