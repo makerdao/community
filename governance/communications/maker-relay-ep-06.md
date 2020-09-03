@@ -201,7 +201,7 @@ https://daistats.com/#/ | http://dai.descipher.io/
 
 [@FourthStreet](https://forum.makerdao.com/u/FourthStreet) summarizes the state of discussions around the PSM in in [What?, So What?, Now What? PSM Solution:](https://forum.makerdao.com/t/what-so-what-now-what-psm-solution/3154)
 
-> “How does MakerDao scale while also defending the Peg and restoring confidence in the system in a manner that is sustainable and limits exposure to collateral risk (mainly USDC is the current focus)?”
+> “How does MakerDAO scale while also defending the Peg and restoring confidence in the system in a manner that is sustainable and limits exposure to collateral risk (mainly USDC is the current focus)?”
 > 
 
 FourthStreet goes on to describe four major cons with current plans for the PSM to open discussion on how the issues might be mitigated.

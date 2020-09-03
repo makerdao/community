@@ -1,6 +1,8 @@
 # Governance and Risk Meeting Summaries
 
-- [Episode 104: Jul 30, 2020](episode-103.md)
+- [Episode 106: Aug 20, 2020](episode-106.md)
+- [Episode 105: Aug 13, 2020](episode-105.md)
+- [Episode 104: Aug 06, 2020](episode-104.md)
 - [Episode 103: Jul 30, 2020](episode-103.md)
 - [Episode 102: Jul 23, 2020](episode-102.md)
 - [Episode 101: Jul 16, 2020](episode-101.md)
