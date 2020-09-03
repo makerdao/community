@@ -1,8 +1,8 @@
 
-title: Vault Compensation Poll
-summary: Signal your support for vault compensation
+title: Vault Compensation Plan Approval Poll - September 7, 2020
+summary: Signal your support or opposition to compensating vaults impacted by Black Thursday losses
 discussion link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584
-vote type: Ranked Choice Voting
+vote type: Ranked Choice IRV
 options: 
    0: Abstain
    1: 24.67% (theoretical maximum auction yield) - up to 25,925 MKR and 50,000 DAI 
@@ -16,9 +16,9 @@ options:
    9: 0% (oppose vault compensation) - 0 MKR and 0 DAI
    10: Oppose current compensation plan (support vault compensation) 0 MKR and 0 DAI
 ---
-# Vault Compensation Plan Approval Poll
+# Vault Compensation Plan Approval Poll - September 7, 2020
 
-The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash.
+The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from 4:00pm UTC on Monday September 7 to 4:00pm UTC on Monday September 21.
 
 ## Review
 
@@ -38,17 +38,19 @@ In addition to the MKR required for paying compensation claims, each poll option
 
 ## Next Steps
 
-If this poll resolves with a plurality of voters in support of 3% through 24.67% compensation, the compensation working group will proceed with development and voting steps outlined in phase 2 of the vault compensation plan.
+If this poll resolves with a majority of votes in favor of 3% through 24.67% compensation, the compensation working group will proceed with development and voting steps outlined in phase 2 of the vault compensation plan.
 
-If the poll resolves to “0% (oppose vault compensation)”, this matter will be considered closed by governance and no further action will be taken regarding vault compensation.
+If this poll resolves with a majority of votes in favor of “0% (oppose vault compensation)”, this matter will be considered closed by governance and no further action will be taken regarding vault compensation.
 
-If the poll resolves to “Oppose current compensation plan (support vault compensation)”, the community can continue discussing the matter in the Maker forums to determine the best path forward.
+If this poll resolves with a majority of votes in favor of “Oppose current compensation plan (support vault compensation)”, or if this poll resolves with no option receiving at least 50% support, this will be considered a vote of no confidence in the current vault compensation working group. While working group members will remain available for consultation, other members of the community will be empowered to take leadership over the vault compensation process.
 ---
 
 ## Resources
 
-Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
-Demos, help and instructional material for the Governance Dashboard can be found at [Awesome MakerDAO](https://awesome.makerdao.com/#voting).
-To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles&pli=1)
+If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
 
+Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
+
+To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles&pli=1).
