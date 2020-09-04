@@ -64,7 +64,7 @@ As per the [MIP10c15-SP5](https://vote.makerdao.com/polling-proposal/qmsmymcmpbn
 
 Argent's light feed proposal can be found [here](https://forum.makerdao.com/t/mip10c14-sp5-proposal-appoint-argent-as-a-light-feed/3015).
 
-### Appoint Argent as an Oracle Light Feed
+### Appoint MyCrypto as an Oracle Light Feed
 
 As per the [MIP10c15-SP6](https://vote.makerdao.com/polling-proposal/qmryo2jjp24wp5hg7iourzpszbkqoygrabouxgtbruwsyv) poll that took place under the weekly cycle [MyCrypto](https://mycrypto.com/) will be appointed as an Oracle Light Feed if this proposal passes.
 
