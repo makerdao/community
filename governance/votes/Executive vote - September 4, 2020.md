@@ -75,8 +75,8 @@ MyCrypto's light feed proposal can be found [here](https://forum.makerdao.com/t/
 Therefore, if this Executive proposal passes the following will occur:
 - USDT will be onboarded with the parameters listed above.
 - PAX will be onboarded with the parameters listed above.
-- The WBTC-A Debt Ceiling will increase from 80 million to 120 million.
-- The Base Rate meta-parameter will be increase from -6% to -2%.
+- The WBTC-A Debt Ceiling will be increased from 80 million to 120 million.
+- The Base Rate meta-parameter will be increased from -6% to -2%.
 - The BAT-A Stability Fee parameter will be increased from 0% to 2%.
 - The USDC-A Stability Fee parameter will be increased from 0% to 2%.
 - The USDC-B Stability Fee parameter will be increased from 44% to 48%.
