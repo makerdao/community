@@ -18,7 +18,7 @@ options:
 ---
 # Vault Compensation Plan Approval Poll - September 7, 2020
 
-The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from 4:00pm UTC on Monday September 7 to 4:00pm UTC on Monday September 21.
+The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from Monday, September 7 at 16:00 UTC to Monday, September 21 at 16:00 UTC.
 
 ## Review
 
@@ -43,6 +43,7 @@ If this poll resolves with a majority of votes in favor of 3% through 24.67% com
 If this poll resolves with a majority of votes in favor of “0% (oppose vault compensation)”, this matter will be considered closed by governance and no further action will be taken regarding vault compensation.
 
 If this poll resolves with a majority of votes in favor of “Oppose current compensation plan (support vault compensation)”, or if this poll resolves with no option receiving at least 50% support, this will be considered a vote of no confidence in the current vault compensation working group. While working group members will remain available for consultation, other members of the community will be empowered to take leadership over the vault compensation process.
+
 ---
 
 ## Resources
