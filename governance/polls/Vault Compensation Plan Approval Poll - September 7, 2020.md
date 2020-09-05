@@ -1,4 +1,4 @@
-
+---
 title: Vault Compensation Plan Approval Poll - September 7, 2020
 summary: Signal your support or opposition to compensating vaults impacted by Black Thursday losses
 discussion link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97
