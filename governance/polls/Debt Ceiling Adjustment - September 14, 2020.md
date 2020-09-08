@@ -15,7 +15,7 @@ The Maker Foundation Smart Contracts Team has placed a Governance Poll into the 
 
 - Approve the new TUSD [implementation](https://etherscan.io/address/0x7a9701453249e84fd0d5afe5951e9cbe9ed2e90f#code) with the following risk parameters (same as original June risk parameters):
     - TUSD-A Ceiling (`Vat[TUSD-A].line`) 2,000,000 DAI
-    - Min DAI in TUSD-A Vault (`Vat[TUSD-A].dust`) 20 DAI
+    - Min DAI in TUSD-A Vault (`Vat[TUSD-A].dust`) 100 DAI
     - TUSD-A liquidation lot size (`Cat[TUSD-A].dunk`) 50,000
     - TUSD-A liquidation penalty (`Cat[TUSD-A].chop`) 13.00%
     - TUSD-A stability fee (`Jug[TUSD-A].duty`) 0.00%
