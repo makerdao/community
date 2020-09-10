@@ -26,6 +26,8 @@ Approve the new TUSD [implementation](https://etherscan.io/address/0x7a970145324
 
 These parameters match the original risk parameters with the exception of the `dust` parameter, which has been updated to 100 DAI. Also worth noting is that a Risk Premium was never determined, instead Stability Fee was directly set to 0%.
 
+Please note that liquidations for TUSD will be disabled.
+
 This Governance Poll (FAQ) will be active for three days beginning on Monday, September 14 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, September 18, at 16:00 UTC.
 
 ## Review
