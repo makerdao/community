@@ -20,11 +20,11 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 
 If this poll ends with a 'No' majority, then no further action will be taken.
 
-If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
