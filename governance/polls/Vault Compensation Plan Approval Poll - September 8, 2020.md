@@ -1,8 +1,8 @@
 ---
-title: Vault Compensation Plan Approval Poll - September 7, 2020
+title: Vault Compensation Plan Approval Poll - September 8, 2020
 summary: Signal your support or opposition to compensating vaults impacted by Black Thursday losses
-discussion link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97
-vote type: Ranked Choice IRV
+discussion_link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97
+vote_type: Ranked Choice IRV
 options: 
    0: Abstain
    1: 24.67% (theoretical maximum auction yield) - up to 25,925 MKR and 50,000 DAI 
@@ -16,11 +16,11 @@ options:
    9: 0% (oppose vault compensation) - 0 MKR and 0 DAI
    10: Oppose current compensation plan (support vault compensation) 0 MKR and 0 DAI
 ---
-# Vault Compensation Plan Approval Poll - September 7, 2020
+# Vault Compensation Plan Approval Poll - September 8, 2020
 
-The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from Monday, September 7 at 16:00 UTC to Monday, September 21 at 16:00 UTC.
+The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from Tuesday, September 8 at 16:00 UTC to Tuesday, September 22 at 16:00 UTC.
 
-Note: This poll started slightly later than described above due to the need to redeploy it to fix the [incorrect vote type](https://forum.makerdao.com/t/error-in-vault-compensation-poll/4024) in the initial version.
+Note: This poll was pushed back a day after the initial version failed. See details [here](https://forum.makerdao.com/t/error-in-vault-compensation-poll/4024).
 
 ## Review
 
