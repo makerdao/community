@@ -12,6 +12,8 @@ options:
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (MIP12c2-SP4 - LRC Collateral Onboarding) should be included in the Monthly Governance Poll.
 
+Note that this proposal is being proposed for the second time, having failed the first time at the inclusion stage in the August governance cycle.
+
 If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
 
 ## Review
