@@ -20,7 +20,7 @@ The signal request for Quantitative Easing can be found [here](https://forum.mak
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, the community will work on providing an implementation.
+If this poll ends with a 'Yes' majority, the community will have MKR Token Holders support for providing an implementation.
 
 If this poll ends with a 'No' majority, implementation of Quantitative Easing will not be pursued.
 
