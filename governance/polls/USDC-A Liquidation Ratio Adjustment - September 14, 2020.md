@@ -15,7 +15,6 @@ options:
 # Poll: USDC-A Liquidation Ratio Adjustment - September 14, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options for USDC-A Vault. Voters are now able to signal their support for a **USDC-A Liquidation Ratio** within a range of 110% to 101%.
-Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
 This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, September 14 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, September 18 at 16:00 UTC.
 
