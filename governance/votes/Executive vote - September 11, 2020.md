@@ -18,15 +18,12 @@ As per the [MIP10c9-SP9](https://vote.makerdao.com/polling-proposal/qmnmzxuxgbjx
 
 Community discussion of this change may be found [here](https://forum.makerdao.com/t/mip10c9-subproposal-to-whitelist-new-tbtc-oracle-access/3805).
 
-...
-
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
 - The USDC-A Debt Ceiling will be increased from 40 million to 100 million.
 - The Vat global `line` parameter will increase from 763 million to 823 million.
 - [tBTC](https://tbtc.network/) will be whitelisted on the ETHBTC Oracle.
-...
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
