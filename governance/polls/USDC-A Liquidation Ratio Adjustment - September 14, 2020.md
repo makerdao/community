@@ -1,6 +1,6 @@
 ---
 title: USDC-A Liquidation Ratio Adjustment - September 14, 2020
-summary: Signal your support to adjust the USDC-A Liquidation Ratio within a range of 110% to 101%
+summary: Signal your support to lower the USDC-A Liquidation Ratio within a range of 105% to 101%
 discussion_link: https://forum.makerdao.com/t/3886
 vote_type: Ranked Choice IRV
 options:
@@ -14,7 +14,7 @@ options:
 ---
 # Poll: USDC-A Liquidation Ratio Adjustment - September 14, 2020
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options for USDC-A Vault. Voters are now able to signal their support for a **USDC-A Liquidation Ratio** within a range of 110% to 101%.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options for the USDC-A Vault type. Voters are now able to signal their support for a **USDC-A Liquidation Ratio** within a range of 105% to 101%.
 
 This weekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on Monday, September 14 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, September 18 at 16:00 UTC.
 
