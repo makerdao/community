@@ -1,6 +1,5 @@
 ---
 title: Approve New TUSD Implementation with Original Risk Parameters - September 14, 2020
-
 summary: Signal your support to approve the new TUSD implementation with the original risk parameters (outlined below).
 discussion_link: https://forum.makerdao.com/t/3982
 vote_type: Plurality Voting
