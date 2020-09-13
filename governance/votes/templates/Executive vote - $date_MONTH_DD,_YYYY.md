@@ -18,15 +18,12 @@ $executive_entry_description_3
 
 $executive_entry_description_3
 
-...
-
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
 - $executive_action_description_1
 - $executive_action_description_2
 - $executive_action_description_3
-...
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
