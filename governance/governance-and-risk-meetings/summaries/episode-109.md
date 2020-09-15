@@ -44,7 +44,7 @@
 [03:20](https://youtu.be/gWnh4KptWbk?t=200)
 
 - Nik: Kind of brief this week. We had a whitelisting proposal this week to whitelist TBTC on the ETH-BTC Oracle. They were already whitelisted before on their previous deployment. They had a bug and they went back and fixed it. So this was more of a swap between their old and new address. Still, surprising to see one voter with 500 MKR voting against it. Even more surprising to see their voting history, they voted on the first poll to whitelist them in the first place. Not sure what's going on but maybe they want to bring that up in the forum
-- The much more important issue is that last week we deprecated the Oracle V1 contracts. These were the ones used in Single Collateral DAI. We shut down Single Collateral DAI and warned people that after a healthy amount of time after it got shut down we will be shutting the Oracles down as well. We gave people over six months as a heads up and had confirmation from multiple people that they are fine. Other people didn't respond for a few months. And low and behold, we have our first casualties. OPYN sold put options against ETH that don't expire until June 2021 and they have no way of changing which Oracle these are pointed to. If they can't use Oracle v1 Medianizer, they're screwed. I discussed with them what the options are and what if we were to whitelist Oracle V1 on our current Oracles. Then anyone could poke the V1 contract. Then anyone could pay the gas price, call the function to update the price on V1 contract and V1 contract will just read from V2 Oracle. It's a little bit controversial because part of us selling Oracle as a service. If people want to use our data they have to get whitelisted versus this which lets people go around that. If anyone can call this function, and it's not something we can change because the contract has been deployed, means that anyone willing to pay the gas price can get the price anyway. That's something the community needs to weight. I think it's more of a PR issue because we don't want to be the ones to let another protocol hang out to dry. And if it's until June we can see this as a PR move.
+- The much more important issue is that last week we deprecated the Oracle V1 contracts. These were the ones used in Single Collateral DAI. We shut down Single Collateral DAI and warned people that after a healthy amount of time after it got shut down we will be shutting the Oracles down as well. We gave people over six months as a heads up and had confirmation from multiple people that they are fine. Other people didn't respond for a few months. And low and behold, we have our first casualties. OPYN sold put options against ETH that don't expire until June 2021 and they have no way of changing which Oracle these are pointed to. If they can't use Oracle v1 Medianizer, they're screwed. I discussed with them what the options are and what if we were to whitelist Oracle V1 on our current Oracles. Then anyone could poke the V1 contract. Then anyone could pay the gas price, call the function to update the price on V1 contract and V1 contract will just read from V2 Oracle. It's a little bit controversial because part of us selling Oracle as a service. If people want to use our data they have to get whitelisted versus this which lets people go around that. If anyone can call this function, and it's not something we can change because the contract has been deployed, means that anyone willing to pay the gas price can get the price anyway. That's something the community needs to weigh. I think it's more of a PR issue because we don't want to be the ones to let another protocol hang out to dry. And if it's until June we can see this as a PR move.
 - Last week's executive proposal went through. MyCrypto and Argent are light feeds that are supplying prices to the Oracles.
     - LongForWisdom: If we do whitelist the V1 Oracles, we can up-whitelist them again fairly easily in case things go bad?
     - Nik: That's correct. Once those options expire in June we can un-whitelist them and in the meanwhile monitor blockchain data on how many people are using that V1 Oracle. If we see a big spike in usage, we know it's parasitic behavior and we'll know who those people are.
@@ -126,9 +126,9 @@
 ![Proposal in the RFC Phase](https://i.imgur.com/ruZeLY2.png)
 
 - Would like to highlight a few of these:
-    - MIP13c3-SP4- Declaration of intent for off-chain Real-World-Asset collateral onboarding for DAI.
-    - MIP 22 collateral onboarding for Centrifuge.
-    - MIP 23 Domain teams and their roles in those teams.
+    - MIP13c3-SP4- Declaration of Intent for off-chain Real-World-Asset collateral onboarding for DAI.
+    - MIP 22 Collateral Onboarding for Centrifuge.
+    - MIP 23 Domain Teams and Their Roles in Those Teams.
 
 ![](https://i.imgur.com/uhHaq7M.png)
 
@@ -139,7 +139,7 @@
 
 ![](https://i.imgur.com/v88FSXG.png)
 
-##### DAI flash mint with Sam
+##### Dai Flash Mint with Sam
 
 [25:52](https://youtu.be/gWnh4KptWbk?t=1552)
 
@@ -149,10 +149,10 @@
     - Security exploits found quicker, making DeFi stronger
     - A fee provides as an income source
     - DC required
-- I got a little bit of feedback and it's in the final phase. Additionally, I wrote an initial implementation for no UI but should be easy to add. 
-- Brian McMichael: expect a PR with tips and comments to help usher it towards production-ready.
-- Sam: Thanks!
-- Akiva: Speaking of feedback, if anyone has comments on why they didn't vote for forward guidance, message me and we can fix the proposal to improve it in cycle moving forward.
+- I got a little bit of feedback and it's in the final phase. Additionally, I wrote an initial implementation for no UI but should be easy to add.
+    - Brian McMichael: expect a PR with tips and comments to help usher it towards production-ready.
+    - Sam: Thanks!
+    - Akiva: Speaking of feedback, if anyone has comments on why they didn't vote for forward guidance, message me and we can fix the proposal to improve it in cycle moving forward.
 
 ##### Collateral Onboarding
 
@@ -183,9 +183,9 @@
 
 ![Peg](https://i.imgur.com/HLv3EkA.png)
 
-- DAI peg trending upward with ETH going up around the 1st. There was tremendous liquidity in the market at the time.
-- As ETH price fell, we saw liquidations and unwinding on different platforms. There was drying liquidity at the moment.
-- As certain positions unwound more DAI was on the open market followed by the Uniswap. A huge chunk of trades was on Uniswap. While quite a few were unwound, there was a fair amount trading on Oasis.
+- DAI peg trending downward with ETH going up around the 1st of September. There was tremendous liquidity in the market at the time.
+- As ETH price fell and we saw liquidations or unwind on different platforms, we saw drying up of liquidity in the moment.
+- As certain positions unwound, more Dai was on the open market. A huge chunk of the trades that occurred last week was on Uniswap.
 
 ![VWAP](https://i.imgur.com/BoH4780.png)
 
@@ -295,7 +295,7 @@
 - Primoz: We could fast-track it and use a general risk model for crypto assets. If we have the infrastructure in place to monitor current exposure, particularly liquidation infrastructure. But one risk with this collateral type is legal. We have 3 domain teams now and it wasn't discussed who would cover the legal risk.
 - Will R: Yeah I can cover that, we discussed the initial proposal. At the moment there's a legal team at the foundation. The feedback is that the risk team would assume that that legal work would be done but the legal team but I'm not sure at the moment.
 - Lucas Vo: We've been working a lot on this topic and out how to do this. We've been working with lawyers and I outlined how to do liquidations without having a sale of securities within Maker. More info will be on the forum. To address that it would require 3 months of work, I hope that it will not put a hold on smart contract or domain work to move these assets forward.
-- Mathew: I agree. The community needs to weight the maximum impact of bringing DAI to the market knowing that RWA teams have spent a lot of time and effort preparing for this process.
+- Mathew: I agree. The community needs to weigh the maximum impact of bringing DAI to the market knowing that RWA teams have spent a lot of time and effort preparing for this process.
 - Lev: In light of this discussion on priorities, should we have a signal request on this?
 - LongForWisdom: I think that would be a reasonable use of a signal request process.
 - Amy:  We are just lacking the staff needed to work on this. There are grants available if anyone is interested in doing this work. Please do reach out because we've been looking across the community for more help.
