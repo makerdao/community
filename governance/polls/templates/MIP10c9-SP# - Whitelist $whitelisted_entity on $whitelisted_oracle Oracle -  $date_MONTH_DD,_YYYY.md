@@ -24,7 +24,7 @@ If this poll ends with a 'Yes' majority, this change change will be included in 
 
 If this poll ends with a 'No' majority, then no further action will be taken.
 
-If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
