@@ -1,6 +1,6 @@
 ---
 title: Adjust the ETH-A Risk Premium - September 21, 2020
-summary: Signal your support for increasing the ETH-A Risk Premium to from 0% to 2%
+summary: Signal your support or opposition for increasing the ETH-A Risk Premium to from 0% to 2%
 discussion_link: https://forum.makerdao.com/t/4042
 vote_type: Plurality Voting
 options:
@@ -16,7 +16,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
-The ETH-A Risk Premium was voted on in a forum signal request. Please review the [Thread](https://forum.makerdao.com/t/signal-request-increase-eth-a-risk-premium-september-2020/4042) to inform your position before voting.
+The ETH-A Risk Premium was voted on in a forum signal request. Please review the [thread](https://forum.makerdao.com/t/signal-request-increase-eth-a-risk-premium-september-2020/4042) to inform your position before voting.
 
 ## Next Steps
 
