@@ -16,7 +16,7 @@ This non-standard weekly Governance Poll ([FAQ](https://community-development.ma
 
 ## Review
 
-The signal request for Quantitative Easing can be found [here](https://forum.makerdao.com/t/3902) along with the results. Please review the discussion there to inform your position before voting.
+The signal request for RWA prioritisation can be found [here](https://forum.makerdao.com/t/signal-request-should-real-world-asset-collateral-onboarding-be-prioritised-in-the-short-term/4075) along with the results. Please review the discussion there to inform your position before voting.
 
 ## Next Steps
 
