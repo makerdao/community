@@ -1,5 +1,5 @@
 ---
-title: MIP9 Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
+title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---
-# Poll: MIP9 Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
+# Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 
 ## Description
 
