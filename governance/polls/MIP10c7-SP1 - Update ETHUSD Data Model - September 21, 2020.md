@@ -1,5 +1,5 @@
 ---
-title: MIP10c7-SP1 Governance Poll to update the Data Model of the ETHUSD Oracle - September 21, 2020
+title: Update the Data Model of the ETHUSD Oracle (MIP10c7-SP1) - September 21, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
 discussion_link: https://forum.makerdao.com/t/mip10c7-sp1-update-ethusd-data-model/4106
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# MIP10c7-SP1 Governance Poll to Update Data Model on ETHUSD Oracle - September 21, 2020
+# Update the Data Model of the ETHUSD Oracle (MIP10c7-SP1) - September 21, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to updating the data model of the ETHUSD Oracle. The Data Model accounts for which sources are used to collect price data as well as how that data is processed into a canonical price.
 
@@ -16,7 +16,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-Please review the discussion [MIP10c7-SP1: Update ETHUSD Data Model ](https://forum.makerdao.com/t/mip10c7-sp1-update-ethusd-data-model/4106) to inform your position on this issue before voting.
+Please review the discussion [MIP10c7-SP1: Update ETHUSD Data Model](https://forum.makerdao.com/t/mip10c7-sp1-update-ethusd-data-model/4106) to inform your position on this issue before voting.
 
 ## Next Steps
 
@@ -24,7 +24,7 @@ If this poll ends with a 'Yes' majority, this change change will be included in 
 
 If this poll ends with a 'No' majority, then no further action will be taken.
 
-If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
