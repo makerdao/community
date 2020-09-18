@@ -1,5 +1,5 @@
 ---
-title: Should MakerDAO domain teams prioritise the onboarding of Real World Asset collateral in the short term? - September 21, 2020
+title: Prioritising the onboarding of Real World Asset collateral in the short term - September 21, 2020
 summary: Signal your support or opposition for domain teams prioritising the onboarding of Real World Asset collateral in the short term.
 discussion_link: https://forum.makerdao.com/t/signal-request-should-real-world-asset-collateral-onboarding-be-prioritised-in-the-short-term/4075
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Should MakerDAO domain teams prioritise the onboarding of Real World Asset collateral in the short term? - September 21, 2020
+# Poll: Prioritising the onboarding of Real World Asset collateral in the short term - September 21, 2020
 
 The Maker Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to domain teams prioritising the onboarding of Real World Asset collateral in the short term.
 
