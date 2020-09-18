@@ -5,17 +5,17 @@ discussion_link: https://forum.makerdao.com/t/4074
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: - 4
-   2: - 2
-   3: - 1
-   4: - 0.5
-   5: - 0.25
+   1: -4
+   2: -2
+   3: -1
+   4: -0.5
+   5: -0.25
    6: 0
-   7: + 0.25
-   8: + 0.5
-   9: + 1
-   10: + 2
-   11: + 4
+   7: 0.25
+   8: 0.5
+   9: 1
+   10: 2
+   11: 4
 ---
 # Poll: Base Rate Adjustment - September 21, 2020
 
