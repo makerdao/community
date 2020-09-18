@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for $proposal_name - $date_MONTH_DD,_YYYY
+title: Inclusion Poll for $proposal_name ($mip_code)- $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for $proposal_name - $date_MONTH_DD,_YYYY
+# Inclusion Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal ($proposal_name) should be included in the Monthly Governance Poll.
 

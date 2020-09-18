@@ -1,5 +1,5 @@
 ---
-title: MIP10c9-SP$sp_number Governance Poll to Whitelist $whitelisted_entity on $whitelisted_oracle Oracle - $date_MONTH_DD,_YYYY
+title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# MIP10c9-SP$sp_number Governance Poll to Whitelist $whitelisted_entity on $whitelisted_oracle Oracle - $date_MONTH_DD,_YYYY
+# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
 
@@ -24,7 +24,7 @@ If this poll ends with a 'Yes' majority, this change change will be included in 
 
 If this poll ends with a 'No' majority, then no further action will be taken.
 
-If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
