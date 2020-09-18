@@ -1,7 +1,7 @@
 ---
 title: Monthly MIPs Governance Poll - September 21, 2020
 summary: Signal your support or opposition for the monthly MIPs bundle for September
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/4243
 vote_type: Plurality Voting
 options:
    0: Abstain
@@ -24,7 +24,7 @@ This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/m
 
 ## Review
 
-The proposals can be reviewed in this weeks weekly MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/4074) on September 17, 2020.
+The proposals can be reviewed in this weeks weekly MIPs update [here](https://forum.makerdao.com/t/4243). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/4074) on September 17, 2020.
 
 ## Next Steps
 
