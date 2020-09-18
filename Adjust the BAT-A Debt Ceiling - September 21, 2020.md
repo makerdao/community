@@ -1,5 +1,5 @@
 ---
-title: Increase the BAT-A Debt Ceiling - September 21, 2020
+title: Adjust the BAT-A Debt Ceiling - September 21, 2020
 summary: Signal your support or opposition to increase the BAT Debt Ceiling from 5 million Dai to 10 million Dai
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-bat-debt-ceiling/3919
 vote_type: Plurality Voting
