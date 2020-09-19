@@ -1,22 +1,22 @@
 ---
-title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+title: Whitelist Kyber on ETHUSD Medianizer Oracle (MIP10c9-SP11) - September 21, 2020
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/mip10c9-sp11-whitelist-kybers-promo-token-pricing-contract-on-ethusd-oracle/4193
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Whitelist Kyber on ETHUSD Medianizer Oracle (MIP10c9-SP11) - September 21, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending Kyber to the ETHUSD Medianizer whitelist to read price data.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
 ## Review
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the discussion [MIP10c9-SP11: Whitelist Kyber’s Promo Token Pricing Contract on ETHUSD Oracle](https://forum.makerdao.com/t/mip10c9-sp11-whitelist-kybers-promo-token-pricing-contract-on-ethusd-oracle/4193) to inform your position on this issue before voting.
 
 ## Next Steps
 
