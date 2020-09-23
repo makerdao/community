@@ -8,7 +8,7 @@ An Oracle makes both off-chain and on-chain data available for use in smart-cont
 
 In the Maker Protocol, each collateral type has a corresponding Oracle that publishes a reference price that the system uses. Each Oracle consists of an [Oracle Security Module](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation) and a [Medianizer](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation). The Medianizer is sent data through a system of Feeds and relayers.
 
-Each Feed uses a tool called [Setzer](https://github.com/makerdao/setzer-mcd) which pulls the median price from a set of exchanges and then pushes it to a [Secure Scuttlebut Network](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html) that has relayers reading from it. Relayers aggregate the price data and send a transaction to the Medianizer. The Medianizer then takes the median of the multiple reported medians and publishes it as a queued reference price. This price is then delayed by the Oracle Security Module before it is finally used by the system.
+Each Feed uses a tool called [Setzer](https://github.com/makerdao/setzer-mcd) which pulls the median price from a set of exchanges and then pushes it to a [Secure Scuttlebutt Network](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html) that has relayers reading from it. Relayers aggregate the price data and send a transaction to the Medianizer. The Medianizer then takes the median of the multiple reported medians and publishes it as a queued reference price. This price is then delayed by the Oracle Security Module before it is finally used by the system.
 
 Feeds may configure Setzer to pull from any exchanges of their choosing. Relayers are able to configure parameters around when to push price data to the Medianizer. Only MKR [governance](governance.md) can configure or change the Medianizer and Oracle Security Module.
 
@@ -34,9 +34,9 @@ A [Medianizer](https://docs.makerdao.com/smart-contract-modules/oracle-module/me
 
 Each time a relayer pushes a new set of medians to a [Medianizer](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation), it recalculates the median and updates the queued reference price in the [Oracle Security Module(OSM)](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation). The OSM applies a time-delay and acts as the final publisher of the reference price.
 
-## What is a Secure Scuttlebut Network?
+## What is a Secure Scuttlebutt Network?
 
-Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds. For more information on how a Secure Scuttlebut Network works visit this [informative page](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html) on [scuttlebot.io](https://scuttlebot.io/).
+Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds. For more information on how a Secure Scuttlebutt Network works visit this [informative page](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html) on [scuttlebot.io](https://scuttlebot.io/).
 
 ## Why are Oracles an attack target for malicious actors?
 
