@@ -14,7 +14,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The current value of the PAXUSD-A debt ceiling may change before this poll goes live. This value will depend on the outcome of the executive vote taking place on Friday, September 25, 2020.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, September 28 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, October 1, at 16:00 UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, September 28 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, October 2, at 16:00 UTC.
 
 ## Review
 
