@@ -11,15 +11,15 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), this bundle consists of the proposals that have met the prior requirements to be included in the monthly MIPs executive. These proposals are as follows:
 
 **Maker Improvement Proposals**  
-- [MIP15: Dark Spell Mechanism](https://github.com/makerdao/mips/blob/RFC/MIP15/mip15.md) - [Discussion](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578)
+- [MIP15: Dark Spell Mechanism](https://github.com/makerdao/mips/blob/formal-submission/MIP15/mip15.md) - [Discussion](https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578)
 
 **Sub-Proposals**  
-- MIP12c2-SP4: LRC Collateral Onboarding - [Discussion](https://forum.makerdao.com/t/mip12c2-sp4-domain-work-requirements-for-lrc/3558)
-- MIP12c2-SP5: COMP Collateral Onboarding - [Discussion](https://forum.makerdao.com/t/mip12c2-sp5-comp-collateral-onboarding/4065)
-- MIP12c2-SP6: LINK Collateral Onboarding - [Discussion](https://forum.makerdao.com/t/mip12c2-sp6-link-collateral-onboarding/4066)
-- [MIP7c3-SP3: Domain Team Onboarding (Risk Domain Team)](https://github.com/makerdao/mips/blob/RFC/MIP7/MIP7c3-Subproposals/MIP7c3-SP3.md) - [Discussion](https://forum.makerdao.com/t/mip7c3-sp3-domain-team-onboarding-risk-domain-team/4050)
-- MIP7c3-SP4: Domain Team Onboarding (Smart Contract Domain Team) - [Discussion](https://forum.makerdao.com/t/mip7c3-sp4-domain-team-onboarding-smart-contract-domain-team/4057)
-- MIP13c3-SP2: Declaration of Intent - Dai Flash Mint Module - [Discussion](https://forum.makerdao.com/t/mip13c3-sp2-declaration-of-intent-dai-flash-mint-module/3635)
+- [MIP12c2-SP4: LRC Collateral Onboarding](https://github.com/makerdao/mips/blob/formal-submission/MIP12/MIP12c2-Subproposals/MIP12c2-SP4.md) - [Discussion](https://forum.makerdao.com/t/mip12c2-sp4-domain-work-requirements-for-lrc/3558)
+- [MIP12c2-SP5: COMP Collateral Onboarding](https://github.com/makerdao/mips/blob/formal-submission/MIP12/MIP12c2-Subproposals/MIP12c2-SP5.md) - [Discussion](https://forum.makerdao.com/t/mip12c2-sp5-comp-collateral-onboarding/4065)
+- [MIP12c2-SP6: LINK Collateral Onboarding](https://github.com/makerdao/mips/blob/formal-submission/MIP12/MIP12c2-Subproposals/MIP12c2-SP6.md) - [Discussion](https://forum.makerdao.com/t/mip12c2-sp6-link-collateral-onboarding/4066)
+- [MIP7c3-SP3: Domain Team Onboarding (Risk Domain Team)](https://github.com/makerdao/mips/blob/formal-submission/MIP7/MIP7c3-Subproposals/MIP7c3-SP3.md) - [Discussion](https://forum.makerdao.com/t/mip7c3-sp3-domain-team-onboarding-risk-domain-team/4050)
+- [MIP7c3-SP4: Domain Team Onboarding (Smart Contract Domain Team)](https://github.com/makerdao/mips/blob/formal-submission/MIP7/MIP7c3-Subproposals/MIP7c3-SP4.md) - [Discussion](https://forum.makerdao.com/t/mip7c3-sp4-domain-team-onboarding-smart-contract-domain-team/4057)
+- [MIP13c3-SP2: Declaration of Intent - Dai Flash Mint Module](https://github.com/makerdao/mips/blob/formal-submission/MIP13/MIP13c3-Subproposals/MIP13c3-SP2.md) - [Discussion](https://forum.makerdao.com/t/mip13c3-sp2-declaration-of-intent-dai-flash-mint-module/3635)
 
 ### LRC Collateral Onboarding
 
