@@ -24,6 +24,7 @@
     - [Part Three](governance/governance-risk-framework/part-three.md)
   - [Governance and Risk Meeting](governance/governance-and-risk-meetings/README.md)
     - [Summaries](governance/governance-and-risk-meetings/summaries/README.md)
+      - [Episode 110: Sep 17, 2020](governance/governance-and-risk-meetings/summaries/episode-110.md)
       - [Episode 109: Sep 10, 2020](governance/governance-and-risk-meetings/summaries/episode-109.md)
       - [Episode 108: Sep 03, 2020](governance/governance-and-risk-meetings/summaries/episode-108.md)
       - [Episode 107: Aug 27, 2020](governance/governance-and-risk-meetings/summaries/episode-107.md)

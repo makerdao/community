@@ -16,7 +16,7 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 - [MIP12c2-SP4: LRC Collateral Onboarding](https://forum.makerdao.com/t/3558)
 - [MIP12c2-SP5: COMP Collateral Onboarding](https://forum.makerdao.com/t/4065)
 - [MIP12c2-SP6: LINK Collateral Onboarding](https://forum.makerdao.com/t/4066)
-- [MIP7c3-SP3: Domain Team Onboarding (Risk Domain Team) (Smart Contract Domain Team)](https://forum.makerdao.com/t/4050)
+- [MIP7c3-SP3: Domain Team Onboarding (Risk Domain Team)](https://forum.makerdao.com/t/4050)
 - [MIP7c3-SP4: Domain Team Onboarding (Smart Contract Domain Team)](https://forum.makerdao.com/t/4057)
 - [MIP13c3-SP2: Declaration of Intent - Dai Flash Mint Module](https://forum.makerdao.com/t/3635)
 
