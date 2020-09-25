@@ -1,25 +1,25 @@
 ---
 title: Base Rate Adjustment - September 28, 2020
-summary: Signal your support to adjust the Base Rate within a range of $lower_bound to $upper_bound
+summary: Signal your support to adjust the Base Rate within a range of -3.75% to 4.25%
 discussion_link: https://forum.makerdao.com/t/4239
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: $axis - 4
-   2: $axis - 2
-   3: $axis - 1
-   4: $axis - 0.5
-   5: $axis - 0.25
-   6: $axis
-   7: $axis + 0.25
-   8: $axis + 0.5
-   9: $axis + 1
-   10: $axis + 2
-   11: $axis + 4
+   1: -3.75
+   2: -1.75
+   3: -0.75
+   4: -0.25
+   5: 0
+   6: 0.25
+   7: 0.5
+   8: 0.75
+   9: 1.25
+   10: 2.25
+   11: 4.25
 ---
 # Poll: Base Rate Adjustment - September 28, 2020
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -3.75% to 4.25%.
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
