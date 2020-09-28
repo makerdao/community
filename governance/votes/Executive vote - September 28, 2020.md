@@ -106,7 +106,6 @@ Therefore, if this Executive proposal passes the following will occur:
 	- Lucas Manuel will be onboarded as part of the Smart Contract Domain Team. 
 	- Brian McMichael will be onboarded as part of the Smart Contract Domain Team. 
 
-
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
 ## Review
