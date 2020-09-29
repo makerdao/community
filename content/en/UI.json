@@ -1,0 +1,32 @@
+{
+  "Bug_Report": "Report a Bug",
+  "Go_Back": "Go back",
+  "Language": "English",
+  "Flag": "🇺🇸",
+  "Search": "Search (Press \"/\" to focus)",
+  "No_Results": "No results for '{{query}}'",
+  "Home": "Home",
+  "Page_Language_Selector": "Page Language Selector",
+  "Available_Languages": "Available Languages",
+  "Available_Languages_none": "No Available Languages",
+  "Need_Another_Language": "Need another language?",
+  "Join_translation_team": "Join translation team",
+  "Translations": "Translations",
+  "Touts": {
+    "alt_defaultImage": "Default Tout Image",
+    "alt_altImage": "Alternate Tout Image"
+  },
+  "404": "404 Page Not Found",
+  "Back_To_Main_Menu": "Back to Main Menu",
+  "aria_MakerHomeIcon": "MakerDao Home Icon",
+  "aria_MakerFooterLogo": "MakerDao Footer Logo",
+  "aria_GithubIcon": "Github",
+  "aria_TwitterIcon": "Twitter",
+  "aria_MediumIcon": "Medium",
+  "aria_YoutubeIcon": "Youtube",
+  "aria_WeChatIcon": "WeChat",
+  "aria_TelegramIcon": "Telegram",
+  "aria_RedditIcon": "Reddit",
+  "aria_RocketChatIcon": "Rocket Chat",
+  "aria_ExternalWebsite": "External Website"
+}

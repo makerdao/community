@@ -1,0 +1,985 @@
+---
+title: Component Palette
+keywords: "makerdao, component palette"
+description: "This page serves as a palette for all the components this project has to offer."
+hideLanguageSelector: true
+---
+
+# Component Palette
+
+This page serves as a palette for all the components this project has to offer.
+
+If you want to know where we started and **why** components exist see [this](https://www.notion.so/Components-e4455d1797f74c48aae3019692a39413).
+
+---
+
+#### Definitions
+
+- **WYSIWYG**: What you see is what you get.
+
+- **Component**: A lego block like code element you can use for more advanced content like buttons.
+
+- **MD**: Shorthand for Markdown
+
+- **MDX**: Shorthand for MarkdownExtended (ie. MDX is the name of the rendering engine we use.)
+
+- **Child/Children**: Content that is wrapped by a Component. New lines between content will be recognized as a new child.
+
+- **Child Rule**: A pattern introduced for more complex components that recognized each individual child as a repeatable element of a component. (ie. List, InfoBlock, ect.)
+
+---
+
+#### Disclaimers
+
+- To see dark/light mode variants click the moon/sun in the header
+
+- This palette is primarily to showcase component usage in a vacuum.
+
+- For an in-depth chart on props available for these components please see the [Cheatsheet](/resources/technical-content/cheatsheet)
+
+- Any component that's not listed here, but exists in the project
+
+- Always remember. What you see is what you get. (WYSIWYG). We follow the markdown spec and will **NOT** deviate from it.
+
+---
+
+## Accordion
+
+Click the Accordion header to show and hide the content it offers.
+
+The first element is always the header. Every other element will be hidden away.
+
+```js
+<Accordion>Hello World This is hidden inside the Accordion.</Accordion>
+```
+
+---
+
+<Accordion>
+
+Hello World
+
+This is hidden inside the Accordion.
+
+</Accordion>
+
+---
+
+## Aligner
+
+This is a utility component built to work with the `Image` component.
+
+**Dev Note (Réjon): This component exists because remark-images wraps our elements automatically with styles that make it difficult to align an image. It only really works well if the container of the image is large enough to facilitate it.**
+
+```js
+<Aligner center sx={{height: '400px', width: '100%'}}>
+
+<Image src="/images/starfox.png" />
+
+</Aligner>
+
+<Aligner bottom right sx={{height: '400px', width: '100%'}}>
+
+![starfox](/images/starfox.png)
+
+</Aligner>
+```
+
+---
+
+<Aligner center sx={{height: '400px', width: '100%'}}>
+
+<Image src="/images/starfox.png" />
+
+</Aligner>
+
+<Aligner bottom right sx={{height: '400px', width: '100%'}}>
+
+![starfox](/images/starfox.png)
+
+</Aligner>
+
+---
+
+## Authors
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+This is a utility component originally built to display the AllContributors grid.
+Yet, it also serves as good way for folks to set an author at the end of a page.
+
+```js
+<Authors all/>
+
+<Authors list author="@MaximumCrash"/>
+```
+
+---
+
+<Authors all />
+
+<Authors list author="@MaximumCrash" />
+
+---
+
+It's also possible to render a custom author by filling out the correct information like so:
+
+**Dev Note(Réjon): You MUST fill out the information EXACTLY how it's written below to get a custom author to render with the correct information.**
+
+```js
+<Authors list>
+  <Box>
+    ![Réjon](/images/starfox.png) [Réjon Taylor-Foster](https://rejontaylor.com)
+    [Another Test](https://github.com) [Twitter](https://twitter.com)
+    [Medium](https://medium.com) # Réjon Taylor-Foster ## Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Donec pharetra quam augue. Nulla
+    facilisi. Ut sed volutpat nisl. Cras eget nunc sed erat malesuada faucibus.
+    Donec non vehicula elit. Interdum et malesuada fames ac ante ipsum primis in
+    faucibus. Sed blandit imperdiet maximus. In hac habitasse platea dictumst.
+    Sed id luctus justo. Morbi in tortor et quam lacinia finibus ac in quam.
+    Suspendisse mollis efficitur dui eu laoreet. ### MaximumCrash - ideas -
+    audio - doc - 👀 - 💦
+  </Box>
+</Authors>
+```
+
+<Authors list>
+
+<Box>
+
+![Réjon](/images/starfox.png)
+
+[Réjon Taylor-Foster](https://rejontaylor.com)
+
+[Another Test](https://github.com)
+
+[Twitter](https://twitter.com)
+
+[Medium](https://medium.com)
+
+# Réjon Taylor-Foster
+
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra quam augue. Nulla facilisi. Ut sed volutpat nisl. Cras eget nunc sed erat malesuada faucibus. Donec non vehicula elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed blandit imperdiet maximus. In hac habitasse platea dictumst. Sed id luctus justo. Morbi in tortor et quam lacinia finibus ac in quam. Suspendisse mollis efficitur dui eu laoreet.
+
+### MaximumCrash
+
+- ideas
+- audio
+- doc
+- 👀
+- 💦
+
+</Box>
+
+</Authors>
+
+---
+
+## Button
+
+It's a button. Not much more to it.
+
+**Dev Note(Réjon): Because this site doesn't provide any stateful functionality (besides light/dark modes), Buttons are built to serve as a unique visual display of links.**
+
+```js
+<Button to="/"> ET phone Home </Button>
+
+<Button secondary inline to="/resources/recipes/palette"> Inlined Secondary </Button>
+
+<Button outline to="/resources/recipes/palette"> Click Here </Button>
+
+<Button small to="/resources/recipes/palette"> Small Button </Button>
+
+<Button to="https://makerdao.com"> External Link Button </Button>
+```
+
+---
+
+<Button to="/"> ET phone Home </Button>
+
+<Button disabled inline to="/resources/recipes/palette">
+  {" "}
+  Disabled Inline{" "}
+</Button>
+
+<Button secondary inline to="/resources/recipes/palette">
+  {" "}
+  Inlined Secondary{" "}
+</Button>
+
+<Button outline to="/resources/recipes/palette">
+  {" "}
+  Click Here{" "}
+</Button>
+
+<Button small to="/resources/recipes/palette">
+  {" "}
+  Small Button{" "}
+</Button>
+
+<Button to="https://makerdao.com"> External Link Button </Button>
+
+<Button text to="/"> Text Button </Button>
+
+<Button text disabled to="/"> Disabled Text Button </Button>
+
+---
+
+## Callout
+
+This component is for callouts. It can also be written as a blockquote `>` markdown style.
+
+To have icons show up you have to provide an icon name from our icon palette. See the [Icon Palette](/resources/icon-palette) for those.
+
+```js
+<Callout>
+
+Howdy
+
+</Callout>
+
+<Callout icon="lightbulb">
+
+Maker dao callout
+
+</Callout>
+
+> blockquote Callout Markdown Style
+```
+
+---
+
+<Callout>
+
+Howdy
+
+</Callout>
+
+<Callout icon="lightbulb">
+
+Maker dao callout
+
+</Callout>
+
+> blockquote Callout Markdown Style
+
+---
+
+## Checklist
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+This is a non-functioning checklist component. It is simply styled to look like one.
+
+```js
+<Checklist>
+  Child A Child B
+  <Box>
+    Child C<Checklist>Child C - A Child C - B</Checklist>
+  </Box>
+</Checklist>
+```
+
+---
+
+<Checklist>
+
+Child A
+
+Child B
+
+<Box>
+
+Child C
+
+<Checklist>
+
+Child C - A
+
+Child C - B
+
+</Checklist>
+
+</Box>
+
+</Checklist>
+
+---
+
+## Chocolate (Box)
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+Originally named "Chocolate Box" components, this component takes into consideration the child rule.
+Each child is recognized as a new element. Thus it's recommended for more diverse content to be contained
+by a `Box` component.
+
+```js
+<Chocolate>
+  <Box>
+    <Icon size={"40px"} name="maker" />
+    ##### Child A Some content about something
+  </Box>
+
+  <Box>
+    <Icon size={"40px"} name="globe" />
+    ##### Child B Some content about something
+  </Box>
+
+  <Box>
+    <Icon size={"40px"} name="wrench" />
+    ##### Child C Some content about something
+  </Box>
+</Chocolate>
+```
+
+---
+
+<Chocolate>
+
+<Box>
+
+<Icon size={"40px"} name="maker" />
+
+##### Child A
+
+Some content about something
+
+</Box>
+
+<Box>
+
+<Icon size={"40px"} name="globe" />
+
+##### Child B
+
+Some content about something
+
+</Box>
+
+<Box>
+
+<Icon size={"40px"} name="wrench" />
+
+##### Child C
+
+Some content about something
+
+</Box>
+
+</Chocolate>
+
+---
+
+### Code
+
+There are 2 types of code elements.
+
+1. The code blocks you've been seeing so far that leverage 3 back ticks ` (```) `
+2. Inline code that leverage 1 back tick `like this`
+
+#2 makes use of the `Code` component like so:
+
+```
+<Code>
+
+const var = "variable";
+
+</Code>
+```
+
+<Code>const var = "variable";</Code>
+
+However **inline code doesn't support language highlighting**.
+
+#1 makes use of the PrismJS library in conjunction with ThemeUI to render code blocks like so.
+
+**Dev Note(Réjon): We only support so many languages (JS, Text, HTML, CSS, and Markdown). If you want more, check out the [PrismJS documentation](https://prismjs.com/#supported-languages) about it.**
+
+You can provide a language to show it's tab.
+
+```js
+const variable = "string";
+```
+
+If you want to show a file name just provide `title=file-name.js` (or whatever the name is)
+
+```js:title=palette.mdx
+const example = "This is an example with a title tab";
+```
+
+---
+
+### Column
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+This component follows a similar pattern to that of the `Chocolate Box` component.
+To get a header though, there needs to be a child that has children. It is recommended
+to use a `Box`.
+
+**Dev Note(Réjon): In design documentation this is mentioned as the "2-Column Comparison" component.**
+
+```js
+<Column>
+
+Child A - Full Width
+
+</Column>
+
+<Column>
+
+Child A - with Sibling
+
+Child B - with Sibling
+
+</Column>
+
+<Column>
+
+<Box>
+
+#### Child A
+
+Full Width with a Header
+
+</Box>
+
+</Column>
+
+
+<Column>
+
+<Box>
+
+#### Child A
+
+With a sibling and a Header
+
+</Box>
+
+<Box>
+
+#### Child B
+
+With a sibling and a Header
+
+</Box>
+
+</Column>
+```
+
+---
+
+<Column>
+
+Child A - Full Width
+
+</Column>
+
+---
+
+<Column>
+
+Child A - with Sibling
+
+Child B - with Sibling
+
+</Column>
+
+---
+
+<Column>
+
+<Box>
+
+#### Child A
+
+Full Width with a Header
+
+</Box>
+
+</Column>
+
+---
+
+<Column>
+
+<Box>
+
+#### Child A
+
+With a sibling and a Header
+
+</Box>
+
+<Box>
+
+#### Child B
+
+With a sibling and a Header
+
+</Box>
+
+</Column>
+
+---
+
+## Info Block
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+This component is similar to that of a Hero image content section.
+Depending on when you put the image is the side it will show up on. If there's no image first or last in content, the content will be centered.
+
+**It is highly recommend you use a box component here. Each child is recognized and will render as so.**
+
+```js
+<InfoBlock>
+
+![starfox](/images/starfox.png)
+
+<Box>
+
+### Hello World
+
+Some more content
+
+</Box>
+
+</InfoBlock>
+
+<InfoBlock>
+
+<Box>
+
+### Hello World
+
+Some more content
+
+</Box>
+
+<Image src="/images/starfox.png" />
+
+</InfoBlock>
+
+<InfoBlock>
+
+<Box>
+
+### I am centered
+
+<Image src="/images/starfox.png" />
+
+Some more content
+
+</Box>
+
+</InfoBlock>
+```
+
+---
+
+<InfoBlock>
+
+![starfox](/images/starfox.png)
+
+<Box>
+
+### Hello World
+
+Some more content
+
+</Box>
+
+</InfoBlock>
+
+<InfoBlock>
+
+<Box>
+
+### Hello World
+
+Some more content
+
+</Box>
+
+<Image src="/images/starfox.png" />
+
+</InfoBlock>
+
+<InfoBlock>
+
+<Box>
+
+### I am centered
+
+<Image src="/images/starfox.png" />
+
+Some more content
+
+</Box>
+
+</InfoBlock>
+
+---
+
+## List
+
+The List component is great if you want to display content...in the form of....a list.
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+**To get the most out of lists (ie. headers, subcontent, links) you MUST use a `Box` or `Link` component
+based on your specific needs.**
+
+---
+
+```js
+<List>
+
+Element A
+
+Element B
+
+</List>
+
+<List>
+
+<Box>
+
+Element A Header
+
+Some content below the header
+
+</Box>
+
+Element B with no subcontent
+
+<Box>
+
+Element C Header
+
+Some content below the header
+
+</Box>
+
+</List>
+
+<List>
+
+<Link to="/">
+
+Link Element A Header
+
+Some content below the header
+
+</Link>
+
+<Link to="https://makerdao.com/">
+
+External Link Element B Header
+
+Some content below the header
+
+</Link>
+
+</List>
+```
+
+---
+
+<List>
+
+Element A
+
+Element B
+
+</List>
+
+---
+
+<List>
+
+<Box>
+
+Element A Header
+
+Some content below the header
+
+</Box>
+
+Element B with no subcontent
+
+<Box>
+
+Element C Header
+
+Some content below the header
+
+</Box>
+
+</List>
+
+---
+
+<List>
+
+<Link to="/">
+
+Link Element A Header
+
+Some content below the header
+
+</Link>
+
+<Link to="https://makerdao.com/">
+
+External Link Element B Header
+
+Some content below the header
+
+</Link>
+
+</List>
+
+---
+
+## Process
+
+This components great for stepping folks through a numbered process.
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+**Dev Note(Réjon): In design specs this in named "Process Stepper"**
+
+---
+
+```js
+<Process>
+  ### Process Information 1 ### Process Information 2
+  <Box>
+    ### Process Information 3 Some more content here. The usual suspects and
+    whatever you'd want to put.
+  </Box>
+</Process>
+```
+
+---
+
+<Process>
+
+### Process Information 1
+
+### Process Information 2
+
+<Box>
+
+### Process Information 3
+
+Some more content here. The usual suspects and whatever you'd want to put.
+
+</Box>
+
+</Process>
+
+---
+
+### Status Banner
+
+This is your run of the mill status banner. It's also capable of being sticky.
+
+---
+
+```js
+<StatusBanner>
+
+Regular old status banner
+
+</StatusBanner>
+
+<StatusBanner warning>
+
+Warning status!
+
+</StatusBanner>
+
+<StatusBanner sticky>
+
+I will stick to the top of the screen.
+
+</StatusBanner>
+```
+
+---
+
+<StatusBanner>
+
+Regular old status banner
+
+</StatusBanner>
+
+---
+
+<StatusBanner warning>
+
+Warning status!
+
+</StatusBanner>
+
+---
+
+<StatusBanner sticky>
+
+I will stick to the top of the screen.
+
+</StatusBanner>
+
+---
+
+## Tables
+
+We support the lowest spec for tables in MD. None of that Github alignment stuff here.
+
+```js
+| Header A       | Header B                    |
+| --------------- | ------------------------- |
+| Content A        | Content A              |
+| Content B          | Content B              |
+```
+
+| Header A  | Header B  |
+| --------- | --------- |
+| Content A | Content A |
+| Content B | Content B |
+
+---
+
+## Tout
+
+<Callout variant="warning" icon="warning">
+
+#### Child Rule in Effect
+
+</Callout>
+
+Tout components are meant to be like ultra fancy links, but you can put anything inside of them.
+**If there's only one child it will be full width.**
+
+```js
+<Tout>
+
+Element A - Full Width
+
+</Tout>
+
+
+<Tout>
+
+### Element A
+
+### Element B
+
+</Tout>
+```
+
+---
+
+<Tout>
+
+Element A - Full Width
+
+</Tout>
+
+---
+
+<Tout>
+
+### Element A
+
+### Element B
+
+</Tout>
+
+---
+
+## Video
+
+It's possible to show videos here. They'll always be full width with no styles.
+
+---
+
+```js
+`youtube: [Your love!](mzDVaKRApcg)`
+
+<Video src="https://www.youtube.com/embed/kpk2tdsPh0A"/>
+```
+
+---
+
+`youtube: [Your love!](mzDVaKRApcg)`
+
+---
+
+<Video src="https://www.youtube.com/embed/kpk2tdsPh0A" />
+
+---
+
+### Text
+
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Large Text
+
+**Bold text**
+
+Regular text
+
+<Text variant="smallText"> Small text </Text>
+
+<Text variant="microText"> Micro text </Text>
+
+<Text variant="caps">Caps</Text>
+
+<Link to="/">Link </Link>
+
+---
+
+### This is a living document. Add or remove components as you change things. And always remember to have fun.
+
+<Authors author="@MaximumCrash" list />
