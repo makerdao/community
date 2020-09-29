@@ -1,4 +1,7 @@
 # Community Development at Maker
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The Community Development group's mandate is to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We do this through a series of initiatives that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform.
 
@@ -49,3 +52,22 @@ To ensure good governance and accountability, we've set up this section to conta
 ### [Onboarding Guides](onboarding/README.md)
 
 These are community-built guides to help onboard different types of users into our ecosystem. Whether you're a potential MKR voter, a Vault owner, or Dai user, this section should have something for you. If it doesn't, reach out to us in our [chat](https://chat.makerdao.com/channel/community-development) or [forums](https://forum.makerdao.com/). This section has a handful of guides _coming soon™️._
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://rejontaylor.com"><img src="https://avatars1.githubusercontent.com/u/9157341?v=4" width="100px;" alt=""/><br /><sub><b>Réjon Taylor-Foster</b></sub></a><br /><a href="#design-MaximumCrash" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
