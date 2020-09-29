@@ -344,10 +344,7 @@
 ## Credits
 
 - David Utrobin produced this summary.
-- Anna Alexa K Produced this summary.
-- Anatta produced this summary. 
+- Anatta produced this summary.
 - Artem Gordon produced this summary.
 - Gala Guillen produced this summary.
-- Juan Guillen produced this summary.
-- Tim Black produced this summary.
 - Everyone who spoke and presented on the call, listed in the headers.
