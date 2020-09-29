@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MaximumCrash",
+      "name": "Réjon Taylor-Foster",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9157341?v=4",
+      "profile": "https://rejontaylor.com",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "community",
+  "projectOwner": "makerdao",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
