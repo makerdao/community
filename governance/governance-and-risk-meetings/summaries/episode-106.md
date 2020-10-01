@@ -399,17 +399,17 @@
 
 ![](https://i.imgur.com/IDxHsgu.png)
 
-- More or less, the peg has been closer to 1, in terms of ETH<>DAI trades. Hovering at 1.08~9. There has been a fair amount of slippage on Uniswap from traders in both directions. That bidirectional slippage moves the price needle a bit.
+- More or less, the peg has been closer to 1, in terms of ETH<->DAI trades. Hovering at 1.08~9. There has been a fair amount of slippage on Uniswap from traders in both directions. That bidirectional slippage moves the price needle a bit.
 
 ![](https://i.imgur.com/IDxHsgu.png)
 
 ![](https://i.imgur.com/zniBlae.png)
 
-- USDC trades on Curve, dominating a lot of the USDC<>DAI volume. Those trades dropped about a cent. Sitting at an even smaller margin from peg 1.004~5.
+- USDC trades on Curve, dominating a lot of the USDC<->DAI volume. Those trades dropped about a cent. Sitting at an even smaller margin from peg 1.004~5.
 
 ![](https://i.imgur.com/LGdpCVw.png)
 
-- DAI<>USD pairs have a similar pattern. In the last two or three days, the gap is tightening $1.005~7 despite a surprising amount of slippage, even on sources like Coinbase.
+- DAI<->USD pairs have a similar pattern. In the last two or three days, the gap is tightening $1.005~7 despite a surprising amount of slippage, even on sources like Coinbase.
 - Interesting to note the differences in the Dai pairs profile trading. But the general consensus is that the peg has come down. A slight pricing gap exists where peg stands in which venue with an overall blended price at 1.005.
 - This bodes well for the peg in terms of the collateral portfolio.
 

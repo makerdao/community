@@ -271,7 +271,7 @@ _Disclaimer: Some of these conversations are hard to transcribe and capture accu
 [1:04:42](https://youtu.be/uBodW6zm7DY?t=3882)
 
 - D: How about setting a date to close the migration contract? Would that be a sensible first step towards GS?
-    - C: Not sure if that's a super important factor. There are other ways to move SAI<>DAI.
+    - C: Not sure if that's a super important factor. There are other ways to move SAI<->DAI.
     - D: An open migration contract is the simplest way for a 1:1 swap.
     - C: Presuming a date, wouldn't you want an opportunity to migrate? What would closing it achieve?
     - D: One possibility is, it would sidestep the tax and fees question. We could add weight to the tax discussion by making the open market the only solution.

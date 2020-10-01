@@ -319,15 +319,15 @@
 
 - There are stupid amount of trades made on Uniswap for the DAI-ETH pair.
 
-![DAI<>USDC](https://i.imgur.com/l2xS89B.png)
+![DAI<->USDC](https://i.imgur.com/l2xS89B.png)
 
-- DAI<>USDC: since the 9th or so, volume has split a little to where Curve was dominating and now with Swerve there has been a shakeup. That change-up will be an ongoing conversation.
+- DAI<->USDC: since the 9th or so, volume has split a little to where Curve was dominating and now with Swerve there has been a shakeup. That change-up will be an ongoing conversation.
 
-![DAI<>USD](https://i.imgur.com/qlWKjdB.png)
+![DAI<->USD](https://i.imgur.com/qlWKjdB.png)
 
 - The DAI-USD pair has been a little more flat, with individual trades sliding in different directions.
 
-![DAI<>USDT](https://i.imgur.com/qlWKjdB.png)
+![DAI<->USDT](https://i.imgur.com/qlWKjdB.png)
 
 - DAI-USDT is echoing DAI-USDC
 

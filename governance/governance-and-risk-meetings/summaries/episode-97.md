@@ -260,11 +260,11 @@ It's been moderately quiet this week on the forums. Not too many active discussi
 ![](https://i.imgur.com/e1iCXKg.png)
 - Here is the Dai price over the past week.
 - Bit of dip and fluctuation in ETH price, though not large margins or swings. Dai price did rise as ETH fell. That rise against ETH is a pretty consistent trend. Especially in the past month, Dai snapped back into that tight negative correlation.
-- ETH<>DAI trades spike rapidly above a dollar initially as ETH price fell. Pretty consistent, as I mentioned. ETH price recovered from the dip and Dai price stabilized, coming down again. These are tight fluctuations, although the last few weeks have had more ETH volatility. With ETH price cheaper than a week ago, Dai price is still a little elevated. ETH being cheaper now produces hesitancy in Dai holders to increase leverage, which is also a historically consistent trend.
+- ETH<->DAI trades spike rapidly above a dollar initially as ETH price fell. Pretty consistent, as I mentioned. ETH price recovered from the dip and Dai price stabilized, coming down again. These are tight fluctuations, although the last few weeks have had more ETH volatility. With ETH price cheaper than a week ago, Dai price is still a little elevated. ETH being cheaper now produces hesitancy in Dai holders to increase leverage, which is also a historically consistent trend.
 - If people are unsure about what ETH will do, then they are unsure about how to lever up.
  
 ![](https://i.imgur.com/kfaF0F8.png)
-- Looking at an order book perspective for DAI<>USDC trading. The trading price has leveled at $1.008, which is a small buffer above a dollar. Slightly less than what ETH<>DAI trading had indicated. Presumably, because there is a larger spread on ETH<>DAI vs. DAI<>USDC.
+- Looking at an order book perspective for DAI<->USDC trading. The trading price has leveled at $1.008, which is a small buffer above a dollar. Slightly less than what ETH<->DAI trading had indicated. Presumably, because there is a larger spread on ETH<->DAI vs. DAI<->USDC.
 
 ![](https://i.imgur.com/vtpbRvv.png)
 - USDC Dai is flat at this low ~$1.7-1.9 million supply level.

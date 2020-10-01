@@ -254,7 +254,7 @@ https://youtu.be/OeAJCJrGjFI
 
 ![](https://i.imgur.com/HkYyicR.png)
 
-- Low trading volume for Sai over the last 24 hours, as well. Especially since there are fewer trading venues for Sai. You can find some trades farther below a dollar price. Since Oasis cut ETH<>DAI trades on the UI, it looks like these price anomalies are direct on-contract trades.
+- Low trading volume for Sai over the last 24 hours, as well. Especially since there are fewer trading venues for Sai. You can find some trades farther below a dollar price. Since Oasis cut ETH<->DAI trades on the UI, it looks like these price anomalies are direct on-contract trades.
 
 ![](https://i.imgur.com/dZaNVeL.png)
 

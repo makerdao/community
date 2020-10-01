@@ -1,20 +1,16 @@
 /** @jsx jsx */
-import { useEffect, useState, useRef } from "react";
-import { motion } from "framer-motion";
-import { jsx, Text, Box, Flex, useColorMode, useThemeUI } from "theme-ui";
+import { useEffect, useRef } from "react";
+import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
-import { useStaticQuery, graphql } from "gatsby";
 
-import { Link, MobileNav } from "@modules/navigation";
+import { Link } from "@modules/navigation";
 import { useNavigation } from "@modules/navigation/context";
 import { useTranslation } from "@modules/localization";
 import Search from "@modules/search";
-import { UrlConverter, TitleConverter } from "@utils";
 import theme from '@src/gatsby-plugin-theme-ui/'
 
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.
-var scrollBeforeMenuOpen = 0; //<- Scroll position of window prior to
 var isShowingMenu = false; //<- For document  event listeners to know if the menu is being shown or not.
 
 const Header = () => {
@@ -22,7 +18,7 @@ const Header = () => {
   const {headerLinks, mobileNavOpen, showMobileMenu, hideMobileMenu} = useNavigation();
   const breakpoints = theme.breakpoints.slice(0, -1); //NOTE(Rejon): The last element of the break point array SHOULD be infinity.
 
-  const { locale, DEFAULT_LOCALE, t } = useTranslation();
+  const { locale, t } = useTranslation();
   const [colorMode, setColorMode] = useColorMode();
 
   const onMenuClick = (e) => {
@@ -43,19 +39,6 @@ const Header = () => {
         isShowingMenu = false;
         hideMobileMenu();
     }
-  };
-
-  const mobileNavBGVariant = {
-    hidden: {
-      opacity: 0.46,
-      scale: 0,
-      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.1 },
-    },
-    visible: {
-      opacity: 1,
-      scale: 1,
-      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.32 },
-    },
   };
 
   useEffect(() => {
@@ -96,7 +79,7 @@ const Header = () => {
         window.removeEventListener("scroll", onScroll);
       };
     }
-  },[breakpoints]);
+  },[breakpoints, mobileNavOpen]);
 
   return (
     <Box

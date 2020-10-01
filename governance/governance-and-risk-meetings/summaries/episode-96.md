@@ -283,7 +283,7 @@
 
 ![](https://i.imgur.com/nQNuiyZ.png)
 - Overall, Dai has been trading more or less at a dollar. A couple of swings above and below.
-- What happened with ETH was the price fluctuated downward, and Dai rose up a bit, ETH price fluctuated upwards, increasing ETH<>DAI trading volume and Dai went down a bit. Since the last Dai price rise, there was some ETH price reduction, and we'll have to see if the trend continues where Dai price stays above peg. My guess is yes. If ETH jumps and dips quickly, that has a tendency to elevate Dai price. These are small differences in the grand scheme of things. We'll watch and see, but I'd expect it to stay with a slight buffer above a dollar.
+- What happened with ETH was the price fluctuated downward, and Dai rose up a bit, ETH price fluctuated upwards, increasing ETH<->DAI trading volume and Dai went down a bit. Since the last Dai price rise, there was some ETH price reduction, and we'll have to see if the trend continues where Dai price stays above peg. My guess is yes. If ETH jumps and dips quickly, that has a tendency to elevate Dai price. These are small differences in the grand scheme of things. We'll watch and see, but I'd expect it to stay with a slight buffer above a dollar.
 
 ![](https://i.imgur.com/vZGzDoR.png)
 - BAT-Dai supply is still stagnant at half a million.
