@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { Flex, Box, jsx } from "theme-ui";
-import { useStaticQuery, graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Icon } from "@makerdao/dai-ui-icons";
 
@@ -112,7 +111,6 @@ const Footer = () => {
               p: 0,
               color: "text",
               listStyleType: "none",
-
               display: "flex",
               flexWrap: ["wrap", "wrap", "unset"],
               "& > li:not(:last-of-type)": {

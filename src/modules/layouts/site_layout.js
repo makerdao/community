@@ -1,9 +1,8 @@
 /** @jsx jsx */
 import PropTypes from "prop-types";
-import { Box, Flex, jsx } from "theme-ui";
-import Sticky from "react-sticky-el";
+import { Flex, jsx } from "theme-ui";
 
-import { Header, Footer, Sidenav } from "@modules/navigation";
+import { Header, Footer } from "@modules/navigation";
 
 const Layout = ({ children, pageContext, uri, ...props }) => {
   const hasTopSection = uri.split('/').length >= 3;
@@ -35,7 +34,7 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
           <Flex
             sx={{
               alignItems: 'start',
-              pr: ['unset', 'unset','64px']
+              pr: hasTopSection ? ['unset', 'unset', '64px'] : 0
             }}
           >
           {children}

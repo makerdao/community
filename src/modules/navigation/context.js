@@ -1,11 +1,9 @@
 import React, { createContext, useContext, useState } from "react";
 import { useStaticQuery, graphql } from "gatsby";
-import { globalHistory } from "@reach/router"
 
 import { useTranslation } from "@modules/localization/";
 
-import calculateTreeData from "@modules/navigation/calculateTreeData";
-import { UrlConverter, TitleConverter, getLocaleFromPath } from "@utils";
+import { UrlConverter, TitleConverter } from "@utils";
 
 export const NavigationContext = createContext();
 
@@ -20,9 +18,9 @@ export const useNavigation = () => {
 
 const NavigationProvider = ({ children }) => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
-  const { locale, t, DEFAULT_LOCALE } = useTranslation();
+  const { locale, DEFAULT_LOCALE } = useTranslation();
 
-  const { allMdx, headerFiles, headerConfigFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
+  const { headerFiles, headerConfigFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
     query getNavigationData {
       # Regex for all files that are NOT config files
       allMdx: allMdx(

@@ -235,7 +235,7 @@
 [1:22:43](https://youtu.be/vSYO6l0Veq4?t=4963)
 
 ![Dai Peg](https://i.imgur.com/V2EmOtW.png)
-- Dai is above peg. Kind of expected due to extreme illiquidity, and ETH<>DAi supply taking a huge hit.
+- Dai is above peg. Kind of expected due to extreme illiquidity, and ETH<->DAi supply taking a huge hit.
 
 ![](https://i.imgur.com/XZpSnvc.png)
 - The amount of Dai from ETH has not really recovered. It's come up $8 or 9 Million.  They're aware they can get a passive yield supplying elsewhere. In the event something wonky happens with ETH again one can probably make an arbitrage profit.

@@ -57,6 +57,8 @@ module.exports = {
             `**/example.mdx`,
             `**/footer.mdx`,
             `**/**.pptx`,
+            '**/**.jpg',
+            '**/**.png'
           ],
           options: { nocase: true },
         },

@@ -326,19 +326,19 @@
 
 ![](https://i.imgur.com/07cDnlR.png)
 
-- You can see the breakdown of volume and just here, in terms of DAI <> Eth, there's 230 million in trading volume . THis is high for a seven day average and a huge chunk on Uniswap.
+- You can see the breakdown of volume and just here, in terms of DAI <-> Eth, there's 230 million in trading volume . THis is high for a seven day average and a huge chunk on Uniswap.
 
 ![](https://i.imgur.com/WeEZM23.png)
 
-- For DAI<>USDC it echoes that same price movement where in the last few days it's come down a bit closer to the peg. A large part of the volume came from Curve.
+- For DAI<->USDC it echoes that same price movement where in the last few days it's come down a bit closer to the peg. A large part of the volume came from Curve.
 
 ![](https://i.imgur.com/WeEZM23.png)
 
-- DAI<>USD is also volatile but still showing a similar trend. With a decent chunk on Coinbase and some Kraken trades with fair amount of slippage.
+- DAI<->USD is also volatile but still showing a similar trend. With a decent chunk on Coinbase and some Kraken trades with fair amount of slippage.
 
 ![](https://i.imgur.com/gsmGBjL.png)
 
-- DAI<>USDT similar price behavior, with a large chunk on trades on Curve.
+- DAI<->USDT similar price behavior, with a large chunk on trades on Curve.
 
 ![](https://i.imgur.com/gsmGBjL.png)
 

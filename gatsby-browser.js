@@ -1,5 +1,4 @@
 import React from "react";
-import { MDXProvider } from "@mdx-js/react";
 
 import { TranslationProvider } from "@modules/localization";
 

@@ -193,15 +193,15 @@
 
 ![USDC price](https://i.imgur.com/0Pf7LH2.png)
 
-- A large chunk here of DAI<>USDC price is on Curve. We saw a price run up to 1.02 1.03.
+- A large chunk here of DAI<->USDC price is on Curve. We saw a price run up to 1.02 1.03.
 
 ![USD price](https://i.imgur.com/0Pf7LH2.png)
 
-- DAI<>USD echoes that with a fair amount of variability on price.
+- DAI<->USD echoes that with a fair amount of variability on price.
 
 ![USDT price](https://i.imgur.com/UOOknE7.png)
 
-- DAI<>USDT is very similar to USDC.
+- DAI<->USDT is very similar to USDC.
 
 ![Dai Stats](https://i.imgur.com/xAMPNrJ.png)
 

@@ -329,15 +329,15 @@
     - 20 million from WBTC
     - less than 1 million for ZRX and KNC
 
-![BAT-A <> Dai Supply](https://i.imgur.com/gAs2GRp.png)
+![BAT-A <-> Dai Supply](https://i.imgur.com/gAs2GRp.png)
 
 - BAT-Dai pool was capped out at about 3 million.
 
-![WBTC-A <> Dai Supply](https://i.imgur.com/X5lzI2O.png)
+![WBTC-A <-> Dai Supply](https://i.imgur.com/X5lzI2O.png)
 
 - Dai from WBTC has remained sustained at 20 million.
 
-![USDC-A <> Dai Supply](https://i.imgur.com/WhUP6R8.png)
+![USDC-A <-> Dai Supply](https://i.imgur.com/WhUP6R8.png)
 
 - Dai from USDC-A remained steady for a while.
 - A small amount was minted in the last couple of days.
@@ -350,12 +350,12 @@
 - WBTC being capped out.
 - USDC-A being only at about a quarter, 26 million, of where it could be.
 
-![KNC-A <> Dai Supply](https://i.imgur.com/l6NgWcg.png)
+![KNC-A <-> Dai Supply](https://i.imgur.com/l6NgWcg.png)
 
 - Dai from KNC is a small amount.
 - Overall, we've seen a steady increase.
 
-![ETH-A <> Dai Supply](https://i.imgur.com/KIP3QDp.png)
+![ETH-A <-> Dai Supply](https://i.imgur.com/KIP3QDp.png)
 
 - After March 12th, there was a steady recovery in the Dai from ETH-A supply.
 - Around July 2nd, COMP farming started to hit.
