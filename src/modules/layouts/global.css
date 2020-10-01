@@ -1,0 +1,138 @@
+/* Font Loading */
+body {
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+}
+
+@font-face {
+  font-family: 'FT Base';
+  src: url('/fonts/FTBase-Medium.woff2') format('woff2'),
+      url('/fonts/FTBase-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Base';
+  src: url('/fonts/FTBase-Thin.woff2') format('woff2'),
+      url('/fonts/FTBase-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Base';
+  src: url('/fonts/FTBase-Bold.woff2') format('woff2'),
+      url('/fonts/FTBase-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Base Book';
+  src: url('/fonts/FTBase-Book.woff2') format('woff2'),
+      url('/fonts/FTBase-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Base';
+  src: url('/fonts/FTBase-Regular.woff2') format('woff2'),
+      url('/fonts/FTBase-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Base';
+  src: url('/fonts/FTBase-Light.woff2') format('woff2'),
+      url('/fonts/FTBase-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+/* PrismJS Styles - Add your Language Tabs Here */
+   pre[class*="language-"] {
+	position: relative;
+	-webkit-overflow-scrolling: touch;
+  }
+   pre[class*="language-"]::before {
+	color: #232129;
+    font-size: 0.75rem;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	letter-spacing: 0.085em;
+	font-weight: 500;
+    line-height: 1;
+    position: relative;
+    left: 0rem;
+    text-align: right;
+    text-transform: uppercase;
+    top: -3px;
+    border-radius: 0px 0px 4px 4px;
+    padding: 0.25rem 0.5rem;
+  }
+  pre[class~="language-javascript"]::before {
+    content: "js";
+    background: #f7df1e;
+    color: black;
+    }
+    pre[class~="language-text"]::before {
+      content: "text";
+      background: #fff;
+      color: black;
+      }
+
+   pre[class~="language-js"]::before {
+	content: "js";
+	background: #f7df1e;
+	color: black;
+  }
+
+   pre[class~="language-html"]::before {
+	content: "html";
+	background: #005a9c;
+	color: white;
+  }
+
+   pre[class~="language-css"]::before {
+	content: "css";
+	background: #ff9800;
+	color: white;
+  }
+
+  pre[class~="language-markdown"]::before {
+	  content: "MD⇩";
+	  background: #586069;
+	  color: white;
+  }
+
+  .gatsby-code-title {
+    z-index: 1;
+    background: hsla(0, 0%, 100%, 0.16);
+	color: white;
+	display: inline-block;
+	position: relative;
+	font-size: 0.75rem;
+    font-family: monospace;
+    letter-spacing: 0.075em;
+    line-height: 0.9;
+    left: 2.7rem;
+    text-align: right;
+    top: 1.35rem;
+    border-radius: 0px 0px 4px 4px;
+    padding: 0.4rem 0.5rem;
+    padding-left: 0.9rem;
+  }
+pre > .token-line:first-of-type {
+  margin-top: 1rem;
+}

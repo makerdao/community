@@ -1,6 +1,4 @@
----
-tags: Maker Relay
----
+
 # Maker Relay 02
 
 ![](./assets/maker-relay-ep-2.png)
@@ -139,7 +137,7 @@ The self-organized group led by Monet_Supply and MakerMan released a [Vault Comp
 
 ![](https://i.imgur.com/qmXsQMK.png)
 
-- Liquidation walls are at around $147 and $157 ETH<>USD.
+- Liquidation walls are at around $147 and $157 ETH<->USD.
 
 https://daistats.com/#/ | http://dai.descipher.io/ 
 

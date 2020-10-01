@@ -297,7 +297,7 @@ In Februry we actually started this discussion about what to do if we have a cri
 - It begged another question: once you have the liquidation data you can look at it and determine operational characteristics and what it does to the whole system. Now we finally have that data.
     - Bobface made a makerauctions.io site. I asked for the data and we pulled a CSV. We can look at scenarios as a result. We can use this for calculating compensations, should we decide on that. I just got my hands on the data, but I hope to provide a liquidation report soon. We should think about a liquidation dashboard. Conceptually, "How do you model this and what data do you need?" that's what I'm currently working on.
 - I have two sets of data. I should be able to run and match everything up. If I'm lucky I have a vault number, I can see what happened by individual vaults and sort by vault number. It will take time, and I might need help and resources for things I might need.
-- There is data I want. Minute lead data on ETH<>USD price. Matching the OSM's to the CSV I have would be useful. Hopefully, we'll have a zero-bid liquidation report and a general liquidation report too. As of now, I have data.
+- There is data I want. Minute lead data on ETH<->USD price. Matching the OSM's to the CSV I have would be useful. Hopefully, we'll have a zero-bid liquidation report and a general liquidation report too. As of now, I have data.
 
 #### Questions and Comments 6
 

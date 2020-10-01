@@ -293,7 +293,7 @@
 
 ![BAT](https://i.imgur.com/w4jqHKg.png)
 
-- BAT<>Dai supply shot up again in late August because of yield farming opportunities in July.
+- BAT<->Dai supply shot up again in late August because of yield farming opportunities in July.
 
 ![ETH](https://i.imgur.com/irMK4OA.png)
 

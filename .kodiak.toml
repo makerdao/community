@@ -1,0 +1,24 @@
+# Minimal config. version is the only required field.
+version = 1
+
+[merge]
+# label to use to enable Kodiak to merge a PR
+automerge_label = "automerge" # default: "automerge"
+
+# require that the automerge label be set for Kodiak to merge a PR. if you
+# disable this Kodiak will immediately attempt to merge every PR you create
+require_automerge_label = true
+
+# if these labels are set Kodiak will not merge the PR
+blacklist_labels = ["wip", "sync"]
+
+# if there is a merge conflict, make a comment on the PR and remove the
+# automerge label. this is disabled when require_automerge_label is enabled
+notify_on_conflict = true # default: true
+
+# if there are running status checks on a PR when it's up for merge, don't
+# wait for those to finish before updating the branch
+optimistic_updates = false
+
+# once a PR is merged into master, delete the branch
+delete_branch_on_merge = true # default: false

@@ -1,0 +1,92 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MaximumCrash",
+      "name": "Réjon Taylor-Foster",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9157341?v=4",
+      "profile": "https://rejontaylor.com",
+      "contributions": [
+        "code",
+        "design",
+        "example"
+      ]
+    },
+    {
+      "login": "isaacpearl",
+      "name": "isaacpearl",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21342523?v=4",
+      "profile": "https://www.isaacpearl.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "befitsandpiper",
+      "name": "Be Fit Sandpiper",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7257527?v=4",
+      "profile": "https://github.com/befitsandpiper",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "twblack88",
+      "name": "Tim Black",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8991325?v=4",
+      "profile": "https://github.com/twblack88",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "amy-jung",
+      "name": "Amy Jung",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26228406?v=4",
+      "profile": "https://github.com/amy-jung",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "shea-fitz",
+      "name": "shea-fitz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59940380?v=4",
+      "profile": "https://github.com/shea-fitz",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "Davidutro",
+      "name": "Davidutro",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40721951?v=4",
+      "profile": "https://github.com/Davidutro",
+      "contributions": [
+        "doc",
+        "content"
+      ]
+    },
+    {
+      "login": "andersonmmi",
+      "name": "Aaron Anderson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16314437?v=4",
+      "profile": "https://github.com/andersonmmi",
+      "contributions": [
+        "doc",
+        "bug",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 8,
+  "projectName": "community-portal",
+  "projectOwner": "makerdao",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
