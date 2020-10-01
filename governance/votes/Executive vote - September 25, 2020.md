@@ -30,9 +30,9 @@ As per this non-standard weekly [poll](https://vote.makerdao.com/polling-proposa
 
 As per this non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmtbvw3dlunutchhpfkh7l1zjmpztqc65gyksjw6grykrt), [DDEX](https://ddex.io/) will be whitelisted on the BTCUSD Medianizer Oracle if this proposal passes. See this [thread](https://forum.makerdao.com/t/mip10c9-sp8-whitelist-ddex-on-wbtcusd-oracle/4094) for further details.
 
-### Whitelist Opyn on ETHUSD Medianizer Oracle
+### Whitelist ETHUSD v1 Medianizer Oracle on ETHUSD Medianizer Oracle for Opyn
 
-As per this non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmeuuzmxbs8kymukxfrpfs8hlphvzwxuhrregyxwa5qgpr), [Opyn](https://opyn.co/) will be whitelisted on the ETHUSD Medianizer Oracle if this proposal passes. See this [thread](https://forum.makerdao.com/t/mip10c9-sp7-whitelist-opyn-on-ethusd-oracle/4061) for further details.
+As per this non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmeuuzmxbs8kymukxfrpfs8hlphvzwxuhrregyxwa5qgpr), the ETHUSD v1 Medianizer Oracle will be whitelisted on the ETHUSD Medianizer Oracle for [Opyn](https://opyn.co/) if this proposal passes. It will also set the the ETHUSD Medianizer Oracle as the unique source of price of ETHUSD v1 Medianizer Oracle. See this [thread](https://forum.makerdao.com/t/mip10c9-sp7-whitelist-opyn-on-ethusd-oracle/4061) for further details.
 
 ### Whitelist yEarn Finance on BTCUSD OSM Oracle
 
@@ -64,7 +64,7 @@ Therefore, if this Executive proposal passes the following will occur:
 **Oracle Whitelisting**
 - [Kyber](https://kyber.network/) will be whitelisted on the ETHUSD Medianizer contract.
 - [DDEX](https://ddex.io/) will be whitelisted on the BTCUSD Medianizer contract.
-- [Opyn](https://opyn.co/) will be whitelisted on the ETHUSD Medianizer contract.
+- The ETHUSD v1 Medianizer will be whitelisted on the ETHUSD Medianizer contract for [Opyn](https://opyn.co/).
 - [yearn.finance](https://yearn.finance/) will be whitelisted on the BTCUSD OSM contract.
 
 **Rate Changes**
