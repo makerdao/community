@@ -1,0 +1,9 @@
+# Ignore artifacts:
+public
+.cache
+node_modules
+static
+.github
+.vscode
+package.json
+README.md

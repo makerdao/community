@@ -160,19 +160,19 @@
 
 ![dai.descipher.io](https://i.imgur.com/1fbsoNp.png)
 
-- Broad strokes in terms of Dai<>ETH trades, in the last few days, the prices have been fairly volatile and trending slightly upward in the $1.01 range and pushing into $1.02. There has been a fair bit of spread on those trades lately. Part of that will likely be contributed to the volatility in ETH price as there hasn't been an insane amount of movement in terms of farming opportunities and the yield that is available there.
+- Broad strokes in terms of Dai<->ETH trades, in the last few days, the prices have been fairly volatile and trending slightly upward in the $1.01 range and pushing into $1.02. There has been a fair bit of spread on those trades lately. Part of that will likely be contributed to the volatility in ETH price as there hasn't been an insane amount of movement in terms of farming opportunities and the yield that is available there.
 
 ![](https://i.imgur.com/6ZvIRgc.png)
 
-- In terms of the Dai<> USDC pair, the trend is a bit clearer, with trades dominated by Curve. About two weeks ago, the Dai peg dropped down a bit due to the end of a few farming yield opportunities, and now it has kind of stayed flat and then risen a bit in the last day or two. This may be in part due to market volatility and not just farming behavior.
+- In terms of the Dai<-> USDC pair, the trend is a bit clearer, with trades dominated by Curve. About two weeks ago, the Dai peg dropped down a bit due to the end of a few farming yield opportunities, and now it has kind of stayed flat and then risen a bit in the last day or two. This may be in part due to market volatility and not just farming behavior.
 
 ![](https://i.imgur.com/QklH9ri.png)
 
-- For Dai<>USD pair, there is a bit more spread than the Dai<>USDC paired. There is a lot more variability in the sizes of trades on the Dai<>USDC pair. This chart is always a bit messier. But you can see more clearly the moments of run-up and liquidity crunch.
+- For Dai<->USD pair, there is a bit more spread than the Dai<->USDC paired. There is a lot more variability in the sizes of trades on the Dai<->USDC pair. This chart is always a bit messier. But you can see more clearly the moments of run-up and liquidity crunch.
 
 ![](https://i.imgur.com/06IaOQW.png)
 
-- Dai<> USDT is similar to Dai<>USDC.
+- Dai<-> USDT is similar to Dai<->USDC.
 
 ![](https://i.imgur.com/GcB0jqA.png)
 
@@ -189,7 +189,7 @@
 
 ![](https://i.imgur.com/mKq9yuK.png)
 
-- USDC<>DAI is a more instanced vault, where there are a few large individual users minting and repaying. When this happens, there is more impact on the supply curve and a jankier graph. This has not been as heavily used in the last couple of weeks. It is sitting more or less in the 10-20 million Dai range.
+- USDC<->DAI is a more instanced vault, where there are a few large individual users minting and repaying. When this happens, there is more impact on the supply curve and a jankier graph. This has not been as heavily used in the last couple of weeks. It is sitting more or less in the 10-20 million Dai range.
 
 ![](https://i.imgur.com/fHzkCnC.png)
 

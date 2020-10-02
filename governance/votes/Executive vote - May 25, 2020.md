@@ -1,6 +1,4 @@
----
-title: Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
----
+
 ## [Executive Vote] Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
 
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the protocol:

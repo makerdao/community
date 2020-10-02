@@ -339,20 +339,20 @@
 - 50 million Dai from USDC-A.
 - 20 million from WBTC.
 
-![ETH-A <> Dai Supply](https://i.imgur.com/R2FGQLj.png)
+![ETH-A <-> Dai Supply](https://i.imgur.com/R2FGQLj.png)
 
 - In the last 24 hours, we saw a jump in the amount of Dai minted from ETH, up to about 240 million.
 
-![USDC-A <> Dai Supply](https://i.imgur.com/QiC8Ri4.png)
+![USDC-A <-> Dai Supply](https://i.imgur.com/QiC8Ri4.png)
 
 - USDC-A has been volatile recently. There are a few significant positions that have opened and closed for short periods.
 - Net is still up at about 58 million Dai.
 
-![WBTC-A <> Dai Supply](https://i.imgur.com/zuXd15M.png)
+![WBTC-A <-> Dai Supply](https://i.imgur.com/zuXd15M.png)
 
 - The WBTC supply is still capped out.
 
-![BAT-A <> Dai Supply](https://i.imgur.com/iO3qFI8.png)
+![BAT-A <-> Dai Supply](https://i.imgur.com/iO3qFI8.png)
 
 - BAT gained some utilization and then lost some utilization in that same time frame.
 
