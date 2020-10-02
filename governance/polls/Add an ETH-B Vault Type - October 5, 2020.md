@@ -1,5 +1,5 @@
 ---
-title: Add an ETH-B Vault Type - October 5th, 2020.md
+title: Add an ETH-B Vault Type - October 5, 2020.md
 summary: This poll proposes Risk Parameters which, if passed, would be used to initialize ETH-B as a new vault type.
 discussion_link: https://forum.makerdao.com/t/4435
 vote_type: Plurality Voting
@@ -9,7 +9,7 @@ options:
    2: No
 
 ---
-# Poll: Add an ETH-B Vault Type - October 5th, 2020
+# Poll: Add an ETH-B Vault Type - October 5, 2020
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for an **ETH-B Vault Type**.
 
@@ -25,7 +25,7 @@ The proposed intitial Risk Parameters for ETH-B are:
 - Liquidation Penalty: 13%
 - Dust: 100 Dai
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, October 5th at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, October 9th, at 16:00 UTC.
+This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, October 5 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, October 9, at 16:00 UTC.
 
 ## Review
 
