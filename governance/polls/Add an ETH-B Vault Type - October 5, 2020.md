@@ -1,5 +1,5 @@
 ---
-title: Add an ETH-B Vault Type - October 5, 2020.md
+title: Add an ETH-B Vault Type - October 5, 2020
 summary: This poll proposes Risk Parameters which, if passed, would be used to initialize ETH-B as a new vault type.
 discussion_link: https://forum.makerdao.com/t/4435
 vote_type: Plurality Voting
