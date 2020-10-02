@@ -13,7 +13,7 @@ options:
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for an **ETH-B Vault Type**.
 
-The proposed intitial Risk Parameters for ETH-B are:
+The proposed initial Risk Parameters for ETH-B are:
 
 - Stability Fee: 6%
 - Debt Ceiling: 20,000,000
