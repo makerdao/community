@@ -32,7 +32,7 @@
     "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-remark-code-titles": "^1.1.0",
     "gatsby-remark-embed-video": "^3.0.10",
-    "gatsby-remark-images": "^3.3.29",
+    "gatsby-remark-images": "^3.3.32",
     "gatsby-remark-responsive-iframe": "^2.4.13",
     "gatsby-source-filesystem": "^2.3.29",
     "gatsby-transformer-json": "^2.4.13",
