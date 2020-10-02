@@ -1,15 +1,15 @@
 ---
-title: Create ETH-B Vault Type - October 5th, 2020.md
+title: Add an ETH-B Vault Type - October 5th, 2020.md
 summary: This poll proposes Risk Parameters which, if passed, would be used to initialize ETH-B as a new vault type.
 discussion_link: https://forum.makerdao.com/t/4435
-poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
+vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 
 ---
-# Poll: Create ETH-B Vault Type - October 5th, 2020
+# Poll: Add an ETH-B Vault Type - October 5th, 2020
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for an **ETH-B Vault Type**.
 
