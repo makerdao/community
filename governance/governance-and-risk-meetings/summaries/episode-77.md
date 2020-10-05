@@ -235,7 +235,7 @@
 [50:16](https://youtu.be/WuW0e6axaHQ)
 
 - Dawson: I'm trying to understand the price run-up. To summarize: as the price of ETH dropped, order books on exchanges filled, and folks started buying ETH/DAI and running that price up. Then, the price of DAI/USDC went up because of arbitrageurs crossing ETH/DAI and ETH/USD books. Would this chain effect cause net DAI books to go up?
-  - Dawson: Because if ETH is dropping, you wouldn't expect a surplus on USD/DAI unless someone is arbitraging. Unless someone is arbitraging another DAI book like ETH/DAI. (Edit: centralized exchanges like Coinbase do not have a USD<>DAI book) Or was there a surplus on ETH<>DAI because other ETH books were drying up as people were trying to exit their positions to get Dai liquidity.
+  - Dawson: Because if ETH is dropping, you wouldn't expect a surplus on USD/DAI unless someone is arbitraging. Unless someone is arbitraging another DAI book like ETH/DAI. (Edit: centralized exchanges like Coinbase do not have a USD<->DAI book) Or was there a surplus on ETH<->DAI because other ETH books were drying up as people were trying to exit their positions to get Dai liquidity.
   - Vishesh: I could see the case for as liquidations are occurring, despite 0 prices, people will source Dai to engage in settlements and pay down positions. A common historical pattern where ETH crashes and Dai price tends goes up. We've seen it in the past before. If other trading pairs exacerbate that, it's possible, I didn't check though.
 
 [52:31](https://youtu.be/WuW0e6axaHQ?t=3151)

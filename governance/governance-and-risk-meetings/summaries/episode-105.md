@@ -216,7 +216,7 @@
 
 [44:00](https://youtu.be/ZzEbuwyaZRQ?t=2640)
 
-- MakerMan: The first point, we need a strong signal one way or the other. We've worked on this as a group, and we don't have that clarity to settle one way or another. The second point, we changed the method to be this MKR method, and when you look at the numbers in percent, no vaults are going to get that actual percent in collateral compensation even with MKR<>DAI numbers at $250. Even when you see like 6%, no vault will get that, just how we altered compensation. If you wanted to give them 6% back, you'd vote for 12. We are doing this as a difference between what they got back, and what we want to give them is that if they got ETH back, they've already got the ride up, with some returns. If they've got nothing, then the question is, how much do they get? These numbers don't reflect that; they reflect an attempt by picking a number to distribute the compensation equitably across all the people who didn't get that percentage back. I'll be voting my tiny amount of MKR because I would like to see and executive level of MKR participation on this, thank you, everyone!
+- MakerMan: The first point, we need a strong signal one way or the other. We've worked on this as a group, and we don't have that clarity to settle one way or another. The second point, we changed the method to be this MKR method, and when you look at the numbers in percent, no vaults are going to get that actual percent in collateral compensation even with MKR<->DAI numbers at $250. Even when you see like 6%, no vault will get that, just how we altered compensation. If you wanted to give them 6% back, you'd vote for 12. We are doing this as a difference between what they got back, and what we want to give them is that if they got ETH back, they've already got the ride up, with some returns. If they've got nothing, then the question is, how much do they get? These numbers don't reflect that; they reflect an attempt by picking a number to distribute the compensation equitably across all the people who didn't get that percentage back. I'll be voting my tiny amount of MKR because I would like to see and executive level of MKR participation on this, thank you, everyone!
 - LFW: Thank you, Makerman and MonetSupply, to reiterate we're getting to the point where this is dragging on. We need to know clearly if this is something people still want or have realized it isn't worth the trouble. We just need that clarity; otherwise, this issue won't go away. There is no real justification to just drop it entirely without a vote that says so because of the initial vote in favor. So we need a signal that helps us with a clear direction going forward. Thank you all for keeping that in mind.
 
 ##### The Choice of Dai
@@ -247,7 +247,7 @@
 
 ![USDC Supply](https://i.imgur.com/nBGlMWH.png)
 
-- The USDC<>Dai supply since mid-July has been fluctuating a bit day-to-day. It is heavily used by large individual users making potentially short-term transactions. The long-term supply has stayed around 50 million. Trending upward, but very spikey - will continue to watch.
+- The USDC<->Dai supply since mid-July has been fluctuating a bit day-to-day. It is heavily used by large individual users making potentially short-term transactions. The long-term supply has stayed around 50 million. Trending upward, but very spikey - will continue to watch.
 
 ![WBTC Supply](https://i.imgur.com/9MSKslc.png)
 
@@ -276,7 +276,7 @@
 
 ![Trading Volume](https://i.imgur.com/DslppLx.png)
 
-- We've seen relatively large trading volumes in the last seven days between Dai<>ETH and DAI<>USDC. I don't want to belabor too much; we've gone over the broad strokes and can double click on the things that we need to.
+- We've seen relatively large trading volumes in the last seven days between Dai<->ETH and DAI<->USDC. I don't want to belabor too much; we've gone over the broad strokes and can double click on the things that we need to.
 
 ![DSR Locked](https://i.imgur.com/dO6J3Yw.png)
 
