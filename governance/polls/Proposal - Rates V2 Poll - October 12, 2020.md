@@ -39,7 +39,7 @@ Goals:
 Plan:
 
 * Scrap the current Stability Fee formula involving the Base Rate. The Base Rate will no longer be voted on after this proposal passes, and a MIP18 vote will be added to deprecate it formally.
-* Formation of the Rates Working Group. A somewhat loosely defined group consisting of Domain Team Facilitators and community members. Initial members being @hexonaut, @Primoz, @LongForWisdom, @monet-supply and @SebVentures.
+* Formation of the Rates Working Group. A somewhat loosely defined group consisting of Domain Team Facilitators and community members. Initial members being @hexonaut, @Primoz, @LongForWisdom, @monet-supply, @SebVentures and @Akiva.
 * Introduction of the Competitive Rate: A rate which is based on the competitive landscape. For example if our competition is offering borrowing at 5% for a particular asset, we may decide to offer that same asset for 4%.
 * The Rates Working Group will keep track of governance directives, risk premiums and competitive rates to produce a set of stability fees for each vault type. Mostly this will involve setting the rates by competitive analysis coming from risk.
 * The Risk Team will start producing Risk Premium / Competitive Rates on a monthly basis which get handed off to the Rates Working Group who will propose the Stability Fee rate changes.
