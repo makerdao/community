@@ -31,7 +31,9 @@ exports.createPages = async ({ graphql, actions }) => {
   `);
 
   pages.pages.edges.map(({ node }) => {
-    const noLocalePath = UrlConverter(node).replace(/^\/([\w]{2})\//, "/");
+    const noLocalePath = UrlConverter(node)
+                            .replace(/^\/([\w]{2})\//, "/")
+                            .replace('index', '');
 
     createRedirect({
       fromPath: noLocalePath,
