@@ -10,31 +10,13 @@ options:
 ---
 # Poll: Rates V2 Poll - October 12, 2020
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which gives Maker Governance the chance to signal their support for the implementation of Rates V2 plan.
+The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support for the implementation of the Rates V2 plan.
 
 This non-standard weekly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, October 12 at 16:00 UTC.
 
 ## Review
 
-The rates working group would like to present the results of our discussion over the past 3 weeks into a formal proposal. We originally had a large document explaining how to adapt the formula from the current system, but as mentioned in [this post](https://forum.makerdao.com/t/informal-poll-guidance-on-rates-v2/4444) we kept running into edge cases. Based on the results of the informal poll we have stripped down the proposal to the points below.
-
-Current Issues:
-
-* Smart Contracts team finds it hard to follow how Base Rate change affects final Stability Fee for all assets
-* Governance shouldn’t be directly changing Risk Premiums or should stop calling it Risk Premium.
-* Base Rate change is affecting all assets instead of only few that have similar profile
-* Risk premium should be ideally measured and reported continuously. However we may not necessarily want to equal it to the final markup used on top of Base Rate.
-* No mechanism for taking competition into account.
-* Farming assets do not fit into our current rate setting paradigm at all. They should be set based on the yield they generate.
-
-Goals:
-
-* Formation of a new Rates Working Group which sits between Risk, Governance and the Smart Contracts Teams.
-* Grant more rate setting autonomy for the Rates Working Group to allow them to more flexibly update Stability Fees.
-* Add market competition-based rate setting methodology.
-* Minimize governance overhead.
-* Continual transparency of how rates are set.
-* Governance provides higher-level, plain-English business directives such as “set the stability fees on stablecoins to 0%” or “we want to focus on growth over profit”. These directives will follow the signal request format until a more formal MIP is created.
+Please refer to the [Signal Request](https://forum.makerdao.com/t/signal-request-rates-v2/4481) for a detailed outline of the proposal.
 
 Plan:
 
@@ -46,17 +28,13 @@ Plan:
 * Dai Savings Rate will remain at 0% until governance signals otherwise.
 * Development of a more formal MIP as this process is smoothed out.
 
-Responsibilities for the Rate Setting Group
-
-* Weekly meeting to determine adjustments.
-* Produce a rate adjustment proposal based on input from governance (in the form of signals or feedback), the Risk Team (Risk analysis), and from observation of the wider DeFi environment.
-* Forum post whenever adjustments are proposed including rationale and inviting discussion. Forum posts will be made 1 week in advance of the on-chain poll unless the changes are considered an “emergency”.
-* Bundled on-chain poll containing any proposed rate-changes for the week.
-* MIP to be produced within 6 months, group ceases to operate if MIP is not passed within 6 months. Deadline is April 1st, 2021.
-
 ## Next Steps
 
-Upon a successful conclusion of this poll, the Base Rate vote will be halted for the week of October 19th. The Risk Domain Team to begin producing Risk Premium / Competitive Rates starting from the week of October 19th. It may take a bit to ramp up to all assets, but the team will do their best. The Rates Working Group would then propose an initial set of changes which will be voted on October 26th and added to the October 30th executive. After that we will move onto a monthly cycle of rate setting as outlined in the plan with the possibility of skipping November due to the closeness of the October vote.
+* The plan described above will be implemented.
+* There will be no base rate votes starting the week of October 19th.
+* The Risk team will produce numbers starting week of October 19th.
+* The Rates group will make their first proposal in the forums starting the week of October 19th.
+* The Rates group will create a governance poll for October 26th which, pending success, will go into the Friday executive.
 
 ---
 
