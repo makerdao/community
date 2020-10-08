@@ -6918,6 +6918,13 @@ gatsby-plugin-mdx@^1.2.43:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
+gatsby-plugin-meta-redirect@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-meta-redirect/-/gatsby-plugin-meta-redirect-1.1.1.tgz#058e8e53edff38dc44d3bb6153109d01c910f863"
+  integrity sha512-Oc4qgU3SlDUM9qoxIMKO+re2bdMs3/a2KXrfL65gb8XMLsHylBbveWtXZRhgjd2QDL/49RX4S9SEykuadRju2w==
+  dependencies:
+    fs-extra "^7.0.0"
+
 gatsby-plugin-offline@^3.2.28:
   version "3.2.28"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-3.2.28.tgz#63eaf3cb031be6f9c27128ed07cf5e6351eefe14"
@@ -7107,6 +7114,11 @@ gatsby-recipes@^0.2.30:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
     yup "^0.27.0"
+
+gatsby-redirect-from@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/gatsby-redirect-from/-/gatsby-redirect-from-0.2.4.tgz#23862e1e53163a750b314e7a3466d72f07b1e014"
+  integrity sha512-A+nxoZo7JMmTmHKAcdVmIvVZhyIXvTObuX9eawjHKavzDWvigV+TEARk7nK0h/BFuVfcnMlF7bTku1OIaeFCmg==
 
 gatsby-remark-code-titles@^1.1.0:
   version "1.1.0"
