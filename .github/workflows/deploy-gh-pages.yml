@@ -1,0 +1,36 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - production
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      
+      - name: install yarn
+        run: npm install -g yarn
+
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Install and Build 🔧
+        run: |
+          yarn
+          yarn build
+        env: 
+          GOOGLE_ANALYTICS_TRACKING_ID: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
+          GOOGLE_ANALYTICS_OPTIMIZE_ID: ${{ secrets.GOOGLE_ANALYTICS_OPTIMIZE_ID }}   
+  
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: public

@@ -15,7 +15,7 @@
 
 ## Video
 
-<add link here>
+<!-- <add link here> -->
 
 ## Introduction
 
@@ -197,7 +197,11 @@
 ## Credits
 
 - David Utrobin produced this summary.
+
 - Artem Gordon produced this summary.
+
 - Juan Guillen produced this summary.
+
 - Tim Black produced this summary.
+
 - Everyone who spoke and presented on the call, listed in the headers.

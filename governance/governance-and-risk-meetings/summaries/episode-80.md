@@ -202,7 +202,7 @@
 
 [55:40](https://youtu.be/N03Aw8lzJFE?t=3341)
 
-- Cyrus: Regarding the debt ceiling for peg arbitrage: There are tools that estimate the number of sell bids on the USDC<>DAI pair. Governance can estimate how much Dai needs to be sold to get the peg back down. Roughly about $5 Million biddings above a dollar right now. Neat data point to track.
+- Cyrus: Regarding the debt ceiling for peg arbitrage: There are tools that estimate the number of sell bids on the USDC<->DAI pair. Governance can estimate how much Dai needs to be sold to get the peg back down. Roughly about $5 Million biddings above a dollar right now. Neat data point to track.
 
 ## Governance
 

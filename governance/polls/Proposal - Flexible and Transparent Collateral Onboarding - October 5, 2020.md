@@ -36,11 +36,11 @@ If this poll ends with a 'No' majority, the collateral onboarding process will c
 
 The MIPs mentioned in this poll can be found at the following links: [MIP8](https://github.com/makerdao/mips/blob/Accepted/MIP8/mip8.md), [MIP10](https://github.com/makerdao/mips/tree/Accepted/MIP10), [MIP11](https://github.com/makerdao/mips/blob/Accepted/MIP11/mip11.md), and [MIP12](https://github.com/makerdao/mips/blob/Accepted/MIP12/mip12.md).
 
-If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
-Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
+Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 

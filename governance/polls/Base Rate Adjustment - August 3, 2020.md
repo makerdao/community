@@ -1,22 +1,23 @@
+---	
+title: Base Rate Adjustment - August 3, 2020	
+summary: Signal your support to adjust the Base Rate within a range of -8% to 0%	
+discussion_link: https://forum.makerdao.com/t/3318	
+vote_type: Ranked Choice IRV	
+options:	
+   0: Abstain	
+   1: -8	
+   2: -6	
+   3: -5	
+   4: -4.5	
+   5: -4.25	
+   6: -4	
+   7: -3.75	
+   8: -3.5	
+   9: -3	
+   10: -2	
+   11: 0	
 ---
-title: Base Rate Adjustment - August 3, 2020
-summary: Signal your support to adjust the Base Rate within a range of -8% to 0%
-discussion_link: https://forum.makerdao.com/t/3318
-vote_type: Ranked Choice IRV
-options:
-   0: Abstain
-   1: -8
-   2: -6
-   3: -5
-   4: -4.5
-   5: -4.25
-   6: -4
-   7: -3.75
-   8: -3.5
-   9: -3
-   10: -2
-   11: 0
----
+
 # Poll: Base Rate Adjustment - August 3, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of-8% to 0%
