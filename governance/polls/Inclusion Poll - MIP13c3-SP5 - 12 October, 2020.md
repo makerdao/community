@@ -19,7 +19,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/mip13c3-sp5-d
 
 ## Next Steps
 
-If the Inclusion poll passes, the Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Thursday Governance and Risk call on Thursday, October 15, 2020. The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
+If the Inclusion poll passes, the Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on Thursday, October 15, 2020. The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
 
 ---
 
