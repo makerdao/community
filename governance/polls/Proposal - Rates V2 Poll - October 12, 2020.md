@@ -1,6 +1,6 @@
 ---
 title: Rates V2 Poll - October 12, 2020
-summary: Signal your support to execute the Rates V2 plan.
+summary: Signal your support or opposition for executing the Rates V2 plan.
 discussion_link: https://forum.makerdao.com/t/signal-request-rates-v2/4481
 vote_type: Plurality Voting
 options:
@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Rates V2 Poll - October 12, 2020
 
-The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support for the implementation of the Rates V2 plan.
+The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support or opposition for the implementation of the Rates V2 plan.
 
 This non-standard weekly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, October 12 at 16:00 UTC.
 
