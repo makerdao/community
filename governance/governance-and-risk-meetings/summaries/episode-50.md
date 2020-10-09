@@ -142,7 +142,7 @@
 
 #### Links from the Chat
 
-- [Aragon <> Maker DAO Governance connector](https://hackmd.io/ws6mKKbRTeiuA--1Nu7FkQ)
+- [Aragon <-> Maker DAO Governance connector](https://hackmd.io/ws6mKKbRTeiuA--1Nu7FkQ)
 - [Signaling guidelines](https://forum.makerdao.com/t/signaling-guidelines/223)
 - [Mandate: Risk Teams](https://forum.makerdao.com/t/mandate-risk-teams/282)
 - [Mandate: Interim Governance Facilitators](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264)
