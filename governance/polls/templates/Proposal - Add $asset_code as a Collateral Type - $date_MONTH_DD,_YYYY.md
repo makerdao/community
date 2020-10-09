@@ -28,7 +28,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
-Please review the following forum threads containing information about $asset_code ($asset_name):
+Please review the following forum threads containing information about $asset_code ($asset_name) to inform your position before voting.
 * [Initial Collateral Application]($application_link)
 * [Risk Evaluation]($risk_link)
 * [Smart Contracts Evaluation]($sc_link)
@@ -36,9 +36,9 @@ Please review the following forum threads containing information about $asset_co
 
 ## Next Steps
 
-If this proposal passes, $asset_code ($asset_name) will be included in a future executive vote as the Smart Contracts domain team's schedule allows. It is expected that this executive vote will take place within 28 days of this poll passing, absent external factors.
+If this proposal passes, $asset_code ($asset_name) will be included in a future executive vote as the Smart Contracts domain team's schedule allows. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 
-If this proposal fails to pass, $asset_code ($asset_name) will not be added to the Maker Protocol at this time, with these parameters.
+If this proposal fails to pass, $asset_code ($asset_name) will not be added to the Maker Protocol at this time.
 
 ---
 
