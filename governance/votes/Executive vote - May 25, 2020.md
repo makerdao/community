@@ -1,3 +1,6 @@
+---	
+title: Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator	
+---
 
 ## [Executive Vote] Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
 

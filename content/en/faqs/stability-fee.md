@@ -1,16 +1,22 @@
+<StatusBanner sticky>
+
+These are legacy guides and will not be maintened. You may be looking for the page on <Button  secondary inline to="/learn/vaults/stability-fees/">Stability Fees</Button>
+
+</StatusBanner>
+
 # Stability Fee
 
 ## What is the Stability Fee?
 
-The Maker Protocol collects a Stability Fee on Dai that is generated from [Maker Vaults](vault.md). It is a variable-rate fee that changes when Maker’s governing body votes on proposals put forth by Risk Teams.
+The Maker Protocol collects a Stability Fee on Dai that is generated from [Maker Vaults](/learn/vaults/). It is a variable-rate fee that changes when Maker’s governing body votes on proposals put forth by Risk Teams.
 
 ## What is the purpose of the Stability Fee?
 
-The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](vault.md). A part of the Stability Fee is also set aside for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
+The Stability Fee is a Risk Parameter designed to address the inherent risk in generating Dai against collateral in [Maker Vaults](/learn/vaults/). A part of the Stability Fee is also set aside for the purpose of sustaining operations of the Maker Protocol which include the [DSR](dsr.md), Risk Teams, and other costs inherent to the protocol.
 
 ## When do I have to pay the Stability Fee?
 
-The Stability Fee continuously accrues to the generated Dai Balance of a user’s [Vault](vault.md). Vault owners are free to pay back Dai at any time they wish. Vaults have no standards around repayment, instead, they require the owner of the Vault to keep its [Collateralization Ratio](vault.md#what-is-the-collateralization-ratio) above the [Liquidation Ratio](liquidation.md#what-is-the-liquidation-ratio).
+The Stability Fee continuously accrues to the generated Dai Balance of a user’s [Vault](/learn/vaults/). Vault owners are free to pay back Dai at any time they wish. Vaults have no standards around repayment, instead, they require the owner of the Vault to keep its [Collateralization Ratio](/learn/vaults/#what-is-the-collateralization-ratio) above the [Liquidation Ratio](/learn/liquidation.mdx#what-is-the-liquidation-ratio).
 
 ## Do I have to pay the new fees on old debt in the case of a Stability Fee change?
 
@@ -18,7 +24,7 @@ No. Stability Fees are never applied retroactively. After a fee change, users wi
 
 ## Why does the Stability Fee Change?
 
-The Stability Fee for each [Vault](vault.md) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on Collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
+The Stability Fee for each [Vault](/learn/vaults/) type changes as a result of the decisions of MKR token holders who govern the protocol. These decisions are based on the recommendation of Risk Teams who perform risk assessments on Collateral used in the system. The Risk Teams may update their proposed Stability Fee when something fundamental changes about the underlying asset or the system as a whole.
 
 ## How is the Stability Fee calculated?
 

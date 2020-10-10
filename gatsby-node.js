@@ -31,7 +31,9 @@ exports.createPages = async ({ graphql, actions }) => {
   `);
 
   pages.pages.edges.map(({ node }) => {
-    const noLocalePath = UrlConverter(node).replace(/^\/([\w]{2})\//, "/");
+    const noLocalePath = UrlConverter(node)
+                            .replace(/^\/([\w]{2})\//, "/")
+                            .replace('index', '');
 
     createRedirect({
       fromPath: noLocalePath,
@@ -39,6 +41,73 @@ exports.createPages = async ({ graphql, actions }) => {
       isPermanent: true,
     });
   });
+
+  //Legacy Redirect Fix
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs',
+    toPath: `/${FALLBACK_LOCALE}/faqs/`
+  });
+
+  createRedirect({
+    fromPath: '/governance',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/`
+  });
+
+
+  createRedirect({
+    fromPath: '/contributing',
+    toPath: `/${FALLBACK_LOCALE}/contribute/`
+  });
+
+  createRedirect({
+    fromPath: '/grants',
+    toPath: `/${FALLBACK_LOCALE}/funding/development-grants`
+  })
+
+  createRedirect({
+    fromPath: '/meetups',
+    toPath: `/${FALLBACK_LOCALE}/funding/meetup-funding`
+  })
+
+  createRedirect({
+    fromPath: '/meetups/requesting-funds',
+    toPath: `/${FALLBACK_LOCALE}/funding/meetup-funding`
+  })
+
+  createRedirect({
+    fromPath: '/hackathons',
+    toPath: `/${FALLBACK_LOCALE}/funding/hackathon-funding`
+  })
+
+  createRedirect({
+    fromPath: '/risk',
+    toPath: `/${FALLBACK_LOCALE}/learn/collateral-and-risk/`
+  })
+
+  createRedirect({
+    fromPath: '/translations',
+    toPath: `/${FALLBACK_LOCALE}/contribute/translations`
+  })
+
+  createRedirect({
+    fromPath: '/onboarding',
+    toPath: `/${FALLBACK_LOCALE}/learn`
+  })
+
+  createRedirect({
+    fromPath: '/onboarding/vault-onboarding',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/vaults-tutorial`
+  })
+
+  createRedirect({
+    fromPath: '/onboarding/voter-onboarding',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/how-voting-works`
+  })
+
+  createRedirect({
+    fromPath: '/scd-faqs',
+    toPath: `/${FALLBACK_LOCALE}/faqs`
+  })
 };
 
 exports.onCreatePage = async ({page, pathPrefix, actions}) => {

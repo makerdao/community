@@ -41,7 +41,7 @@ const PageLayout = ({ children, seoTitle, t }) => (
       {children}
       <Box>
         <Button
-          to={"https://github.com/makerdao/community-portal/issues"}
+          to={"https://github.com/makerdao/community/issues"}
           inline
           sx={{
             mt: "5px",
