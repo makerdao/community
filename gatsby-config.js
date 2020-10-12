@@ -230,9 +230,14 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-
+    // {
+    //   resolve: 'gatsby-redirect-from',
+    //   options: {
+    //     query: 'allMdx'
+    //   }
+    // },
     `gatsby-plugin-client-side-redirect`, //<- NOTE(Rejon): We're only using this because we're using Github Pages. If we're on vercel or netlify just use their redirect scripts.
-    
+    // `gatsby-plugin-meta-redirect`,
     {
       resolve: "gatsby-plugin-offline",
       options: {
