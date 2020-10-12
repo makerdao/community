@@ -1,8 +1,15 @@
+<StatusBanner sticky>
+
+These are legacy guides and will not be maintened. You may be looking for the page on <Button  secondary inline to="/learn/MakerDAO/">MakerDAO</Button>
+
+</StatusBanner>
+
+
 # MakerDAO
 
 ## What is MakerDAO?
 
-MakerDAO is a decentralized organization dedicated to bringing financial stability and transparency to the world economy. MakerDAO is the community behind the Maker Protocol, which enables the generation of [Dai](dai.md), the world’s leading decentralized stablecoin. The Maker Protocol, the set of smart contracts that make Dai possible, is run by the decentralized governance community of MakerDAO. The Maker Protocol, as one of the largest decentralized applications (dapps) on the Ethereum blockchain, was the first decentralized finance (DeFi) application to earn significant adoption. All Dai is backed by a surplus of collateral that has been locked into audited and publicly viewable Ethereum smart contracts. Anyone with an internet connection can monitor the health of the system anytime at [daistats.com](https://daistats.com/) or through [other third party tools.](https://awesome.makerdao.com/#watch-dai)
+MakerDAO is a decentralized organization dedicated to bringing financial stability and transparency to the world economy. MakerDAO is the community behind the Maker Protocol, which enables the generation of [Dai](/learn/Dai/), the world’s leading decentralized stablecoin. The Maker Protocol, the set of smart contracts that make Dai possible, is run by the decentralized governance community of MakerDAO. The Maker Protocol, as one of the largest decentralized applications (dapps) on the Ethereum blockchain, was the first decentralized finance (DeFi) application to earn significant adoption. All Dai is backed by a surplus of collateral that has been locked into audited and publicly viewable Ethereum smart contracts. Anyone with an internet connection can monitor the health of the system anytime at [daistats.com](https://daistats.com/) or through [other third party tools.](https://awesome.makerdao.com/#watch-dai)
 
 ## Who Started MakerDAO and When?
 
@@ -39,7 +46,7 @@ No; the Maker Foundation plans to dissolve when MakerDAO becomes self-sustainabl
 The primary areas of focus are:
 
 1. Governance Development and Contributions to System Maintenance: push MakerDAO to become self-sustaining through initiatives such as the [Maker Improvement Proposals](https://forum.makerdao.com/c/MIPs/14)); support the current governance user interface (though any community member can build their own governance UI and should be encouraged to do so); system maintenance; educating regulatory agencies and members of government in various jurisdictions about the Maker Protocol and decentralized finance.
-1. Oasis: A reimagined and rebuilt Oasis supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets that back Dai, while conveniently accessing Vault features for all of these assets; in addition to a convenient place for Dai holders to access the [DSR.](dsr.md)
+1. Oasis: A reimagined and rebuilt Oasis supporting the MakerDAO ecosystem. It will be a place where people can trade a multitude of collateral assets that back Dai, while conveniently accessing Vault features for all of these assets; in addition to a convenient place for Dai holders to access the [DSR.](/learn/Dai/dsr/)
 1. Eliminate informational asymmetries with the Maker Community: The Foundation will continue to contribute information from our teams to educate Dai market makers and MKR holders about day-to-day activity in Dai markets. This step is mission-critical for two reasons: one, we want other actors, specifically MKR holders, to see important trends that may foreshadow the need for MKR votes; and two, we want our team to be one voice, among many, providing reliable market information to the Maker Community.
 
 ## Where does The Maker Foundation get funding from?

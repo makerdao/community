@@ -1,3 +1,9 @@
+<StatusBanner sticky>
+
+These are legacy guides and will not be maintened.
+
+</StatusBanner>
+
 # Glossary of Terms
 
 ## A
