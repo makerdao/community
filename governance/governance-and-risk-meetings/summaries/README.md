@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 113: Oct 08, 2020](episode-113.md)
 - [Episode 112: Oct 01, 2020](episode-112.md)
 - [Episode 111: Sep 24, 2020](episode-111.md)
 - [Episode 110: Sep 17, 2020](episode-110.md)
