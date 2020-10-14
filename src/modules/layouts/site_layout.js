@@ -5,7 +5,7 @@ import { Flex, jsx } from "theme-ui";
 import { Header, Footer } from "@modules/navigation";
 
 const Layout = ({ children, pageContext, uri, ...props }) => {
-  const hasTopSection = uri.split('/').length >= 3;
+  const hasTopSection = uri ? uri.split('/').length >= 3 : false ; 
   
   return (
     <Flex
