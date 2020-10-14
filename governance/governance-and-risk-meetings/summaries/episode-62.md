@@ -340,7 +340,7 @@ https://youtu.be/W6AeAC7mmDk
      - Cyrus: How much is still in there?
      - Taylor: Balance of withdrawal contract is $$1.142 $ billion vs. supply of $1.152 billion
      - Cyrus: But how much of original was withdrawn?
-     - Taylor: No idea. I'm just making a point to track this migration graph against the SAI<>DAI migration graph.
+     - Taylor: No idea. I'm just making a point to track this migration graph against the SAI<->DAI migration graph.
      - Matthew: Exchanges were less robust at the time.
      - Taylor: True! Today is more diverse, both positive and negative. The DAO communication was also centralized on slack and Reddit. Today the community is much more varied: retail vs. sophisticated. I would assume a slower migration is just the way it works today. Reaching all the different audiences and convincing them to migrate.
      - Rich: Depends on how you measure. People will rush the exit despite being slower at the beginning. It won't end without an Emergency Shutdown.
@@ -351,7 +351,7 @@ https://youtu.be/W6AeAC7mmDk
 - Cyrus: Doing some quick math if we increase the DSR to 10% and drop the SF to 0 on MCD it will cost us less than $900K a month. That gives us a rough boundary on both costs and timeline.
      - Rich: A saunter towards the exit is my hope. I think incentivizing speed might create more headaches.
      - Matthew: Hypothetically, if you make the DSR  high but don't reduce the DC, then what keeps people from returning?
-     - Cyrus: Reversing back is constrained by liquidity; it's not as simple to migrate back and forth(DAI<>SAI).
+     - Cyrus: Reversing back is constrained by liquidity; it's not as simple to migrate back and forth(DAI<->SAI).
      - Rich: We don't want cold wars with all the secondary lending platforms.
      - Cyrus: We have to start making business-oriented decisions and helping the community usher in business decisions. Harder when it's an apathetic but good use of delegation.
      - Rich: Another good point, since it is the community's job to determine what to do, maybe a recap or having a business analyst pointing out effects and trade-offs and providing suggestions is an excellent option.

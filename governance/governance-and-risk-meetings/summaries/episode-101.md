@@ -351,19 +351,19 @@
 - Dai from ETH has grown to 154 million Dai out of 160 million debt ceiling.
 - Total Dai at $198 million.
 
-![ETH-A <> Dai Supply](https://i.imgur.com/2J8XeNx.png)
+![ETH-A <-> Dai Supply](https://i.imgur.com/2J8XeNx.png)
 
 - A few significant mints over the last couple weeks, where it ballooned from 114 million to 154 million.
 
-![USDC-A <> Dai Supply](https://i.imgur.com/vhrsf9o.png)
+![USDC-A <-> Dai Supply](https://i.imgur.com/vhrsf9o.png)
 
 - USDC-A roughly 19 million Dai jump issued since July 1st. Primarily one to two large users. We saw it grow from then.
 
-![WBTC-A <> Dai Supply](https://i.imgur.com/K6iAko7.png)
+![WBTC-A <-> Dai Supply](https://i.imgur.com/K6iAko7.png)
 
 - After the initial 10 million steady-state utilization, it increased pretty really quickly to 20 million after the DC was increased.
 
-![BAT-A <> Dai Supply](https://i.imgur.com/tupxC1E.png)
+![BAT-A <-> Dai Supply](https://i.imgur.com/tupxC1E.png)
 
 - A significant dip in BAT after the March 12th events, and then another dip on July 1st timeline. As we all know, a few weeks ago, Compound Farming activity began, which impacted the Dai ecosystem in a significant way.
 

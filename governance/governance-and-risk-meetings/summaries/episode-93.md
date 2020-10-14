@@ -250,7 +250,7 @@
 - Unfortunately, ETH has been jerking around the DAI price, but despite that, Dai does seem to be doing its best to return to Peg.
 
 ![](https://i.imgur.com/AaT1lFM.png)
-- In terms of volumes, we saw that only 28.66M Dai was traded for ETH, which, in the global timescale in the history of Dai is a very solid amount. However, in terms of the last couple of months, it is not that much trading. The lower end of that was actually on Coinbase, and the higher bulk was on dYdX. A bit on Uniswap and Oasis. For a time, when a lot of the crash was happening in March, what we saw was that Oasis reclaimed a portion of the trading volume. Since then, a lot has reverted to dYdX. Most of the Dai<>ETH trading happens on dYdX, and a reasonably decent amount happens on Coinbase, which is on the lower end of the price range.
+- In terms of volumes, we saw that only 28.66M Dai was traded for ETH, which, in the global timescale in the history of Dai is a very solid amount. However, in terms of the last couple of months, it is not that much trading. The lower end of that was actually on Coinbase, and the higher bulk was on dYdX. A bit on Uniswap and Oasis. For a time, when a lot of the crash was happening in March, what we saw was that Oasis reclaimed a portion of the trading volume. Since then, a lot has reverted to dYdX. Most of the Dai<->ETH trading happens on dYdX, and a reasonably decent amount happens on Coinbase, which is on the lower end of the price range.
 
 ![](https://i.imgur.com/fNwtc2f.png)
 - As far as collateral is concerned, for the WBTC collateral pool, it's kind of all or nothing right now in terms of liquidations.
