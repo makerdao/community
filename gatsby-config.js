@@ -13,7 +13,7 @@ module.exports = {
     description: `A Community of developers, designers, innovators, and just about everything cool under the sun. Come join our team!`,
     author: `MakerDAO Commuminty Development Team`,
     copyright: "",
-    siteUrl: "http://localhost:9000", // NOTE(Isaac): TODO: change this to production URL
+    siteUrl: "https://community-development.makerdao.com/",
   },
   plugins: [
     'gatsby-plugin-theme-ui',
