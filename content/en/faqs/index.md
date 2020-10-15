@@ -1,8 +1,14 @@
+<StatusBanner sticky>
+
+These are legacy guides and will not be maintened. Each button links to the newer pages in the community portal covering the same topics.
+
+</StatusBanner>
+
 # MakerDAO MCD FAQs
 
 - [Glossary of Terms](glossary.md)
 
-## Dai
+<Button to="/learn/Dai/">Dai page</Button>
 
 - [What is Dai?](dai.md#what-is-dai)
 - [Why would I want to use Dai?](dai.md#why-would-i-want-to-use-dai)
@@ -12,7 +18,7 @@
 - [Where can I see the amount of collateral that is backing Dai?](dai.md#where-can-i-see-the-amount-of-collateral-that-is-backing-dai)
 - [What organizations are using Dai?](dai.md#what-organizations-are-using-dai)
 
-## Dai Savings Rate
+<Button to="/learn/Dai/dsr">DSR page</Button>
 
 - [What is the Dai Savings Rate?](dsr.md#what-is-the-dai-savings-rate)
 - [How does the DSR work?](dsr.md#how-does-the-dsr-work)
@@ -30,7 +36,7 @@
 - [Are Stability Fees structurally higher due to the existence of the DSR?](dsr.md#are-stability-fees-structurally-higher-due-to-the-existence-of-the-dsr)
 - [Where can I find more technical information about the DSR?](dsr.md#where-can-i-find-more-technical-information-about-the-dsr)
 
-## Emergency Shutdown
+<Button to="/learn/governance/emergency-shutdown/">Emergency shutdown</Button>
 
 - [What is an Emergency Shutdown?](emergency-shutdown.md#what-is-an-emergency-shutdown)
 - [What happens during an Emergency Shutdown?](emergency-shutdown.md#what-happens-during-an-emergency-shutdown)
@@ -57,7 +63,7 @@
 - [How will Vault users and Dai holders be notified of Emergency Shutdown?](emergency-shutdown.md#how-will-vault-users-and-dai-holders-be-notified-of-emergency-shutdown)
 - [Where can I find more technical information about Emergency Shutdown?](emergency-shutdown.md#where-can-i-find-more-technical-information-about-emergency-shutdown)
 
-## Governance
+<Button to="/learn/governance/">Governance</Button>
 
 - [What is Governance?](governance.md#what-is-governance)
 - [How is the Maker Protocol governed?](governance.md#how-is-the-maker-protocol-governed)
@@ -107,7 +113,7 @@
 - [How are proposals created?](governance.md#how-are-proposals-created)
 - [Where can I find more technical information about the Maker Protocol Governance mechanism?](governance.md#where-can-i-find-more-technical-information-about-the-maker-protocol-governance-mechanism)
 
-## Liquidation
+<Button to="/learn/vaults/liquidation/">Liquidation</Button>
 
 - [What is Liquidation?](liquidation.md#what-is-liquidation)
 - [Why does Liquidation exist?](liquidation.md#why-does-liquidation-exist)
@@ -126,7 +132,7 @@
 - [Where can I view live information about Liquidations?](liquidation.md#where-can-i-view-live-information-about-liquidations)
 - [Where can I find more technical information about Liquidations?](liquidation.md#where-can-i-find-more-technical-information-about-liquidations)
 
-## MakerDAO
+<Button to="/learn/MakerDAO">MakerDAO</Button>
 
 - [What is MakerDAO?](makerdao.md#what-is-makerdao)
 - [Who Started MakerDAO and When?](makerdao.md#who-started-makerdao-and-when)
@@ -146,7 +152,7 @@
 - [What is the Dai Foundation?](makerdao.md#what-is-the-dai-foundation)
 - [Who is on the Board of Trustees of the Dai Foundation?](makerdao.md#who-is-on-the-board-of-trustees-of-the-dai-foundation)
 
-## MKR Token
+<Button to="/learn/governance/mkr-token/">MKR token</Button>
 
 - [What is MKR?](mkr-token.md#what-is-mkr)
 - [What is the MKR token used for?](mkr-token.md#what-is-the-mkr-token-used-for)
@@ -160,7 +166,7 @@
 - [What happens to MKR in the event of an Emergency Shutdown?](mkr-token.md#what-happens-to-mkr-in-the-event-of-an-emergency-shutdown)
 - [How much MKR is there?](mkr-token.md#how-much-mkr-is-there)
 
-## Oracles
+<Button to="/learn/Oracles/">Oracles</Button>
 
 - [What is an Oracle?](oracles.md#what-is-an-oracle)
 - [How does the Oracle system work?](oracles.md#how-does-the-oracle-system-work)
@@ -178,7 +184,7 @@
 - [What happens if there is a flash crash on an exchange?](oracles.md#what-happens-if-there-is-a-flash-crash-on-an-exchange)
 - [Where can I find more technical information about Oracles?](oracles.md#where-can-i-find-more-technical-information-about-oracles)
 
-## Stability Fee
+<Button to="/learn/vaults/stability-fees/">Stability Fees</Button>
 
 - [What is the Stability Fee?](stability-fee.md#what-is-the-stability-fee)
 - [What is the purpose of the Stability Fee?](stability-fee.md#what-is-the-purpose-of-the-stability-fee)
@@ -194,7 +200,7 @@
 - [How often do Stability Fees change?](stability-fee.md#how-often-do-stability-fees-change)
 - [Where can I find more technical information about Stability Fees?](stability-fee.md#where-can-i-find-more-technical-information-about-stability-fees)
 
-## Vaults
+<Button to="/learn/vaults/">Vaults</Button>
 
 - [What are Maker Vaults?](vault.md#what-are-maker-vaults)
 - [How does a Vault work?](vault.md#how-does-a-vault-work)

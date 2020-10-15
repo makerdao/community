@@ -27,7 +27,7 @@ export default (
           node.fileAbsolutePath.indexOf(`/${_locale}/${currentTopSection}/`) !==
             -1 &&
           node.fileAbsolutePath.indexOf(
-            `/${_locale}/${currentTopSection}/index.mdx`
+            `/${_locale}/${currentTopSection}/index.`
           ) === -1
       )
       .flatMap(({ node: { headings, frontmatter, fileAbsolutePath } }) => {
