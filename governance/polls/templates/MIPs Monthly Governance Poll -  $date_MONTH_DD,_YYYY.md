@@ -16,7 +16,7 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 - [$proposal_name2]($proposal_link2)
 - [$proposal_name...]($proposal_link...)
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 
