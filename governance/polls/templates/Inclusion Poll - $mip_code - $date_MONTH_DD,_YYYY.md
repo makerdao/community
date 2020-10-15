@@ -14,12 +14,16 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
 
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
 ## Review
 Please review the discussion [thread]($discussion_link) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the $governance_call link on $prev_governance_call_date.
 
 ## Next Steps
 
 If the Inclusion poll passes, the Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Thursday Governance and Risk call on $next_governance_call_date. The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
+
+If this poll fails to pass, then this proposal will not be included in this month's governance cycle.
 
 ---
 
