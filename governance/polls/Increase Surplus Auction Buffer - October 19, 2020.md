@@ -1,6 +1,6 @@
 ---
 title: Increase the Surplus Auction Buffer - October 19, 2020
-summary: Signal your support or opposition for increasing the Surplus Buffer to 4,000,000 DAI
+summary: Signal your support or opposition for increasing the Surplus Buffer from 2,000,000 DAI to 4,000,000 DAI
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-the-auction-surplus-buffer-by-2m-system-surplus-october-2020/4716
 vote_type: Plurality Voting
 options:

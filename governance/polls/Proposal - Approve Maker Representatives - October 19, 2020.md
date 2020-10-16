@@ -16,9 +16,9 @@ This non-standard weekly Governance Poll ([FAQ](https://community-development.ma
 
 ## Review
 
-Please review the [Signal Request](https://forum.makerdao.com/t/signal-request-approve-maker-representatives-as-an-oversight-role-for-real-world-assets-october-2020/4656) for a detailed outline of the proposal and to inform your position before voting. A brief summary of the inidividuals nominated is provided below.
+Please review the [Signal Request](https://forum.makerdao.com/t/signal-request-approve-maker-representatives-as-an-oversight-role-for-real-world-assets-october-2020/4656) for a detailed outline of the proposal and to inform your position before voting. A brief summary of the individuals nominated is provided below.
 
-Subject to both [MIP13c3-SP4 Declaration of Intent & Commercial Points - Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914) and [MIP21: Real World Assets - Off-Chain Asset Backed Lender](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) passing successfully through the October governance cycle, the community nominates the individuals below to serve as Maker Representatives pursuant to MIP21 and its subproposal.
+Subject to both [MIP13c3-SP4](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914) and [MIP21](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) passing successfully through the October governance cycle, the community nominates the individuals below to serve as Maker Representatives pursuant to MIP21 and MIP13c3-SP4.
 
 The individuals proposed to be the initial Maker Representatives are:  
 @Joshua_Pritikin  

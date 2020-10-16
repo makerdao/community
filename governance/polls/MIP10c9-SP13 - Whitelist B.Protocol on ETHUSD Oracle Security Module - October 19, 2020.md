@@ -16,7 +16,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-Please review the discussion [MIP10c9-SP13: Whitelist B.Protocol on the ETHUSD Oracle (OSM)](https://forum.makerdao.com/t/mip10c9-sp13-whitelist-b-protocol-contract-on-ethusd-oracle-osm/4621) to inform your position on this issue before voting.
+Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp13-whitelist-b-protocol-contract-on-ethusd-oracle-osm/4621) to inform your position on this issue before voting.
 
 ## Next Steps
 

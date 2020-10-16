@@ -16,7 +16,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-Please review the discussion [MIP10c9-SP12: Whitelist B.Protocol on ETHUSD Oracle Medianizer](https://forum.makerdao.com/t/mip10c9-sp12-whitelist-b-protocol-contract-on-ethusd-oracle/4620) to inform your position on this issue before voting.
+Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp12-whitelist-b-protocol-contract-on-ethusd-oracle/4620) to inform your position on this issue before voting.
 
 ## Next Steps
 

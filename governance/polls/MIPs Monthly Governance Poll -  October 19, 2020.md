@@ -14,24 +14,23 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 
 **MIPs**
 
-* [MIP14: Protocol Dai Transfer](https://forum.makerdao.com/t/mip14-protocol-dai-transfer/2462/38)
-* [MIP20: Target Price Adjustment Module (Vox)](https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196/62)
+* [MIP14: Protocol Dai Transfer](https://forum.makerdao.com/t/mip14-protocol-dai-transfer-update/3844)
+* [MIP20: Target Price Adjustment Module (Vox)](https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196)
 * [MIP21: Real World Assets - Off-Chain Asset Backed Lender](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917)
-* [MIP22: Centrifuge Direct Liquidation Module](https://forum.makerdao.com/t/mip-22-centrifuge-direct-liquidation-module/3930/5)
+* [MIP22: Centrifuge Direct Liquidation Module](https://forum.makerdao.com/t/mip-22-centrifuge-direct-liquidation-module/3930)
 * [MIP23: Domain Structure and Roles](https://forum.makerdao.com/t/mip23-domain-structure-and-roles/4021)
 
 **Subproposals**
 
 * [MIP13c3-SP3: Declaration of Intent - Strategic Reserves Fund](https://forum.makerdao.com/t/mip13c3-sp3-declaration-of-intent-strategic-reserves-fund-srf/3765)
-* [MIP13c3-SP4 Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914/23)
+* [MIP13c3-SP4 Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
 * [MIP13c3-SP5: Declaration of Intent: Maker to commence onboarding work of Centrifuge based Collateral](https://forum.makerdao.com/t/mip13c3-sp5-declaration-of-intent-maker-to-commence-onboarding-work-of-centrifuge-based-collateral/4059)
-
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 19 at 16:00 UTC.
 
 ## Review
 
-The proposals can be reviewed in this weeks weekly MIPs update [here](https://forum.makerdao.com/t/weekly-mips-update-17/4746). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-114-thursday-october-15-16-00-utc/4657) on October 15, 2020.
+The proposals can be reviewed in this week's weekly MIPs update [here](https://forum.makerdao.com/t/weekly-mips-update-17/4746). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-114-thursday-october-15-16-00-utc/4657) on October 15, 2020.
 
 ## Next Steps
 
