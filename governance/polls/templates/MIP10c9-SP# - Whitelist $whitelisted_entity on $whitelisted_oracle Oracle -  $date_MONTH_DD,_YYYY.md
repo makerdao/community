@@ -18,7 +18,7 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
 
 ## Next Steps
 
