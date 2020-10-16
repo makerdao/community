@@ -112,18 +112,6 @@ exports.createPages = async ({ graphql, actions }) => {
     fromPath: '/governance/common-topics',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/common-topics`
   })
-  // createRedirect({
-  //   fromPath: '/scd-faqs',
-  //   toPath: `/${FALLBACK_LOCALE}/faqs`
-  // })
-  // createRedirect({
-  //   fromPath: '/scd-faqs',
-  //   toPath: `/${FALLBACK_LOCALE}/faqs`
-  // })
-  // createRedirect({
-  //   fromPath: '/scd-faqs',
-  //   toPath: `/${FALLBACK_LOCALE}/faqs`
-  // })
 };
 
 exports.onCreatePage = async ({page, pathPrefix, actions}) => {
