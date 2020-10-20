@@ -23,7 +23,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 Details on how the **Dai Savings Rate Spread** parameter was introduced and its impact on the **Dai Savings Rate** parameter can be found in the following [threads](https://forum.makerdao.com/tag/dsr-spread) on the MakerDAO forum.
 
-This biweekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE, the results of which may inform an Executive Vote which will go live on $execdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 

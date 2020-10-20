@@ -14,13 +14,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
 ## Review
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+If this poll ends with a 'Yes' majority, this change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 
 If this poll ends with a 'No' majority, then no further action will be taken.
 

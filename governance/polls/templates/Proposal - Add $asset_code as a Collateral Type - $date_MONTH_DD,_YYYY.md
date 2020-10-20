@@ -12,6 +12,10 @@ options:
 
 The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol.
 
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
+## Review
+
 The proposed initial system parameters for $asset_code are:
 
 * Stability Fee: $stability_fee
@@ -23,10 +27,6 @@ The proposed initial system parameters for $asset_code are:
 * Max Auction Duration: $auction_duration
 * Liquidation Penalty: $liquidation_penalty
 * Dust: $dust
-
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE.
-
-## Review
 
 Please review the following forum threads containing information about $asset_code ($asset_name) to inform your position before voting.
 * [Initial Collateral Application]($application_link)
