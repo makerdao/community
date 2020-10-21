@@ -47,12 +47,56 @@ exports.createPages = async ({ graphql, actions }) => {
     fromPath: '/makerdao-mcd-faqs/faqs',
     toPath: `/${FALLBACK_LOCALE}/faqs/`
   });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/dsr',
+    toPath: `/${FALLBACK_LOCALE}/learn/Dai/dsr`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/vault',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-scd-faqs/scd-faqs/stability-fee',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/liquidation',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/mcd-faqs/stability-fee',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/mcd-faqs/dai',
+    toPath: `/${FALLBACK_LOCALE}/learn/Dai`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/mcd-faqs/mkr-token',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/mkr-token`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-scd-faqs/scd-faqs/liquidation',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/mcd-faqs/oracles',
+    toPath: `/${FALLBACK_LOCALE}/learn/Oracles`
+  });
 
   createRedirect({
     fromPath: '/governance',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/`
   });
-
 
   createRedirect({
     fromPath: '/contributing',
@@ -106,8 +150,14 @@ exports.createPages = async ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: '/governance/governance',
-    toPath: `/${FALLBACK_LOCALE}/learn/governance/`
+    toPath: `/${FALLBACK_LOCALE}/learn/governance`
   })
+
+  createRedirect({
+    fromPath: '/governance/governance-risk-framework/part-one',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework`
+  })
+
   createRedirect({
     fromPath: '/governance/common-topics',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/common-topics`
