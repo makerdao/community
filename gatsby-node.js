@@ -43,10 +43,10 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 
   //Legacy Redirect Fix
-  createRedirect({
-    fromPath: '/makerdao-mcd-faqs/faqs',
-    toPath: `/${FALLBACK_LOCALE}/faqs/`
-  });
+   createRedirect({
+     fromPath: '/makerdao-mcd-faqs/faqs',
+     toPath: `/${FALLBACK_LOCALE}/faqs/`
+   });
   
   createRedirect({
     fromPath: '/makerdao-mcd-faqs/faqs/dsr',
@@ -69,17 +69,17 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 
   createRedirect({
-    fromPath: '/makerdao-mcd-faqs/mcd-faqs/stability-fee',
+    fromPath: '/makerdao-mcd-faqs/faqs/stability-fee',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`
   });
 
   createRedirect({
-    fromPath: '/makerdao-mcd-faqs/mcd-faqs/dai',
+    fromPath: '/makerdao-mcd-faqs/faqs/dai',
     toPath: `/${FALLBACK_LOCALE}/learn/Dai`
   });
 
   createRedirect({
-    fromPath: '/makerdao-mcd-faqs/mcd-faqs/mkr-token',
+    fromPath: '/makerdao-mcd-faqs/faqs/mkr-token',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/mkr-token`
   });
 
@@ -89,8 +89,18 @@ exports.createPages = async ({ graphql, actions }) => {
   });
   
   createRedirect({
-    fromPath: '/makerdao-mcd-faqs/mcd-faqs/oracles',
+    fromPath: '/makerdao-mcd-faqs/faqs/oracles',
     toPath: `/${FALLBACK_LOCALE}/learn/Oracles`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/emergency-shutdown',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/emergency-shutdown`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/glossary',
+    toPath: `/${FALLBACK_LOCALE}/learn/faqs/glossary`
   });
 
   createRedirect({
@@ -155,7 +165,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: '/governance/governance-risk-framework/part-one',
-    toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework`
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework/`
   })
 
   createRedirect({
