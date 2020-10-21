@@ -106,7 +106,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: '/governance/governance',
-    toPath: `/${FALLBACK_LOCALE}/learn/governance/`
+    toPath: `/${FALLBACK_LOCALE}/learn/governance`
   })
   createRedirect({
     fromPath: '/governance/common-topics',
