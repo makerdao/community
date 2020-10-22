@@ -18,19 +18,19 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 The proposed initial system parameters for PAXG are:
 
-* Stability Fee: $stability_fee
-* Liquidation Ratio: $liquidation_ratio
-* Debt Ceiling: $debt_ceiling
-* Auction Lot Size: $auction_lot_size
-* Minimum Bid Increment: $min_bid
-* Bid Duration: $bid_duration
-* Max Auction Duration: $auction_duration
-* Liquidation Penalty: $liquidation_penalty
-* Dust: $dust
+* Stability Fee: 4%
+* Liquidation Ratio: 125%
+* Debt Ceiling: 5 million
+* Auction Lot Size: 50,000 DAI
+* Minimum Bid Increment: 3%
+* Bid Duration: 6 hours
+* Max Auction Duration: 6 hours
+* Liquidation Penalty: 13%
+* Dust: 100 DAI
 
 Please review the following forum threads containing information about PAXG (PAX Gold) to inform your position before voting.
 * [Initial Collateral Application](https://forum.makerdao.com/t/paxg-pax-gold-mip6-collateral-application/2584)
-* [Risk Evaluation]($risk_link)
+* [Risk Evaluation](https://forum.makerdao.com/t/paxg-collateral-onboarding-risk-evaluation/4833)
 * [Smart Contracts Evaluation](https://forum.makerdao.com/t/paxg-erc20-token-smart-contract-domain-community-assessment/3443)
 * [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp11-proposal-paxgusd-oracle-collateral-onboarding-oracle-assessment/4221)
 
