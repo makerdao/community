@@ -10,7 +10,7 @@ Association: Per Ilk
 
 The Debt Ceiling parameter controls the maximum total amount of DAI that can be minted using a specific vault type (`ilk`). If a user tries to mint DAI and the amount of DAI minted would put the vault type's amount of DAI minted above its Debt Ceiling limit, the transaction will fail and no DAI will be minted.
 
-Each vault type has it's own individually changable Debt Ceiling. Additionally, there is a global Debt Ceiling parameter that is not covered in this entry. In order for a user to mint DAI using a specific vault type, there must be space available in both the vault type's Debt Ceiling and the global system Debt Ceiling.
+Each vault type has it's own individually adjustable Debt Ceiling. Additionally, there is a global Debt Ceiling parameter that is not covered in this entry. In order for a user to mint DAI using a specific vault type, there must be space available in both the vault type's Debt Ceiling and the global system Debt Ceiling.
 
 The Debt Ceiling for each vault type is set in absolute rather than relative terms, so 1,000,000 DAI rather than 10% of the total Debt Ceiling.
 

@@ -13,12 +13,6 @@ Association: $Association
 ## Purpose
 * Why does this parameter exist?
 
-## Considerations
-* Is there anything little known about this parameter?
-* How does this interact with other parts of the protocol?
-* Are there any Emergency Shutdown considerations to take into account?
-* How are changes to this parameter made?
-
 ## Trade-offs
 * What dangers does this parameter represent?
 * What advantages does this parameter represent?
@@ -26,3 +20,9 @@ Association: $Association
 ## Changes
 * Why increase this parameter?
 * Why decrease this parameter?
+
+## Considerations
+* Is there anything little known about this parameter?
+* How does this interact with other parts of the protocol?
+* Are there any Emergency Shutdown considerations to take into account?
+* How are changes to this parameter made?
