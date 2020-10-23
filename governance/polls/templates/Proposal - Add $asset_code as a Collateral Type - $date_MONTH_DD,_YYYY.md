@@ -1,6 +1,6 @@
 ---
-title: Add $asset_code as a Collateral Type - $date_MONTH_DD,_YYYY
-summary: This poll proposes system parameters which could be used to initialize $asset_code as a new collateral type.
+title: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
+summary: This poll proposes system parameters which could be used to initialize $asset_code ($asset_name) as a new collateral type.
 discussion_link: $application_link
 vote_type: Plurality Voting
 options:
@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Add $asset_code as a Collateral Type - $date_MONTH_DD,_YYYY
+# Poll: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
 
 The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol.
 
@@ -16,7 +16,7 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-The proposed initial system parameters for $asset_code are:
+The proposed initial system parameters for $asset_code ($asset_name) are:
 
 * Stability Fee: $stability_fee
 * Liquidation Ratio: $liquidation_ratio
@@ -50,4 +50,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
