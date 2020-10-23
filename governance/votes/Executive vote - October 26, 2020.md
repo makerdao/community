@@ -8,7 +8,7 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 ###  October 2020 Governance Cycle Bundle
 
-As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), this bundle consists of the proposals that have met the prior requirements to be included in the monthly MIPs executive. These proposals are as follows:
+As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), this bundle consists of the proposals included in the MIPs monthly governance [poll](https://vote.makerdao.com/polling/QmZ1ir2c?network=mainnet#poll-detail). The monthly poll for October has passed and these proposals can now be confirmed via this executive vote. The included proposals are as follows:
 
 **Maker Improvement Proposals**  
 * [MIP14: Protocol Dai Transfer](https://github.com/makerdao/mips/blob/formal-submission/MIP14/mip14.md) - [Discussion](https://forum.makerdao.com/t/mip14-protocol-dai-transfer-update/3844)
