@@ -1,22 +1,22 @@
 ---
-title: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million to $new_ceiling million.
-discussion_link: $discussion_link
+title: Adjust the USDT Debt Ceiling - November 2, 2020
+summary: Signal your support or opposition for adjusting the USDT Debt Ceiling from 10 million DAI to 2.5 million DAI.
+discussion_link: https://forum.makerdao.com/t/signal-request-delist-usdt-as-a-collateral-asset/4853
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
+# Poll: Adjust the USDT Debt Ceiling - November 2, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to adjusting the $ilk_name Debt Ceiling from $current_ceiling million to $new_ceiling million.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. The community can vote in this poll to express support or opposition to adjusting the USDT Debt Ceiling from 10 million DAI to 2.5 million DAI.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://forum.makerdao.com/t/signal-request-delist-usdt-as-a-collateral-asset/4853) will be active for three days beginning on October 24,2020 at 00:00 UTC.
 
 ## Review 
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-delist-usdt-as-a-collateral-asset/4853) to inform your position on this issue before voting.
 
 ## Next Steps
 
