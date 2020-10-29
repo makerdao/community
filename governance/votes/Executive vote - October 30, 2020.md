@@ -16,16 +16,16 @@ As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-s
 
 As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Oracle Freeze Module (also known as `OsmMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of the Oracle price feed by an attacker using flash loans. This change will also prevent Maker Governance from freezing the oracle price feed without waiting for the GSM Pause Delay of 72 hours.
 
-### Deauthorize the Liquidations Freeze Module
+### Deauthorize the Liquidations Circuit Breaker
 
-As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Freeze module (also known as the Circuit Breaker and `FlipperMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing liquidations without waiting for the GSM Pause Delay of 72 hours.
+As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Circuit Breaker (also known as the  and `FlipperMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing or unfreezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing or unfreezing liquidations without waiting for the GSM Pause Delay of 72 hours.
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
 - The GSM Pause Delay will be increased from 12 hours to 72 hours.
 - The Oracle Freeze Module will be deauthorized.
-- The Liquidations Freeze Module will be deauthorized.
+- The Liquidations Circuit Breaker will be deauthorized.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
