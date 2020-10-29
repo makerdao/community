@@ -1,22 +1,22 @@
 ---
-title: Adjust the BAT-A Debt Ceiling - September 21, 2020
-summary: Signal your support or opposition to increase the BAT Debt Ceiling from 5 million Dai to 10 million Dai
-discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-bat-debt-ceiling/3919
+title: Adjust the WBTC Debt Ceiling - October 24, 2020
+summary: Signal your support or opposition to increase the WBTC Debt Ceiling from 120 million Dai to 160 million Dai
+discussion_link: https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Adjust the BAT-A Debt Ceiling - September 21, 2020.md
+# Poll: Adjust the WBTC Debt Ceiling - October 24, 2020.md
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for a **BAT Debt Ceiling** increase from 5 million Dai to 10 million Dai.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for a **WBTC Debt Ceiling** increase from 120 million Dai to 160 million Dai.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) will be active for three days beginning on Monday, September 21 at 16:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, September 25, at 16:00 UTC.
+This Governance Poll ([FAQ](https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861)) will be active for six days beginning on Saturday, October 24 at 00:00 UTC, the results of which may inform an Executive Vote which will go live on Friday, October 29, at 16:00 UTC.
 
 ## Review
 
-The **BAT Debt Ceiling** was voted on in a forum signal request. Please review the [thread](https://forum.makerdao.com/t/signal-request-adjust-the-bat-debt-ceiling/3919) to inform your position before voting.
+The **WBTC Debt Ceiling** was voted on in a forum signal request. Please review the [thread](https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861) to inform your position before voting.
 
 ## Next Steps
 
