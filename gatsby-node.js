@@ -43,16 +43,70 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 
   //Legacy Redirect Fix
+   createRedirect({
+     fromPath: '/makerdao-mcd-faqs/faqs',
+     toPath: `/${FALLBACK_LOCALE}/faqs/`
+   });
+  
   createRedirect({
-    fromPath: '/makerdao-mcd-faqs/faqs',
-    toPath: `/${FALLBACK_LOCALE}/faqs/`
+    fromPath: '/makerdao-mcd-faqs/faqs/dsr',
+    toPath: `/${FALLBACK_LOCALE}/learn/Dai/dsr`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/vault',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-scd-faqs/scd-faqs/stability-fee',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/liquidation',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/stability-fee',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/dai',
+    toPath: `/${FALLBACK_LOCALE}/learn/Dai`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/mkr-token',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/mkr-token`
+  });
+
+  createRedirect({
+    fromPath: '/makerdao-scd-faqs/scd-faqs/liquidation',
+    toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/oracles',
+    toPath: `/${FALLBACK_LOCALE}/learn/Oracles`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/emergency-shutdown',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/emergency-shutdown`
+  });
+  
+  createRedirect({
+    fromPath: '/makerdao-mcd-faqs/faqs/glossary',
+    toPath: `/${FALLBACK_LOCALE}/learn/faqs/glossary`
   });
 
   createRedirect({
     fromPath: '/governance',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/`
   });
-
 
   createRedirect({
     fromPath: '/contributing',
@@ -105,8 +159,18 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   createRedirect({
-    fromPath: '/scd-faqs',
-    toPath: `/${FALLBACK_LOCALE}/faqs`
+    fromPath: '/governance/governance',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance`
+  })
+
+  createRedirect({
+    fromPath: '/governance/governance-risk-framework/part-one',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework/`
+  })
+
+  createRedirect({
+    fromPath: '/governance/common-topics',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/common-topics`
   })
 };
 
