@@ -14,11 +14,11 @@ As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-s
 
 ### Deauthorize the Oracle Freeze Module
 
-As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Oracle Freeze Module (also known as `OsmMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of the Oracle price feed by an attacker using flash loans. This change will also prevent Maker Governance from freezing the Oracle price feed in less than 72 hours.
+As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Oracle Freeze Module (also known as `OsmMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of the Oracle price feed by an attacker using flash loans. This change will also prevent Maker Governance from freezing the oracle price feed without waiting for the GSM Pause Delay of 72 hours.
 
 ### Deauthorize the Liquidations Freeze Module
 
-As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Freeze module (also known as the Circuit Breaker) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing the Liquidations in less than 72 hours.
+As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Freeze module (also known as the Circuit Breaker and `FlipperMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing liquidations without waiting for the GSM Pause Delay of 72 hours.
 
 ## Summary
 
