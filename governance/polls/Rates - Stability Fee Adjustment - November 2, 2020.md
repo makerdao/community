@@ -1,6 +1,6 @@
 ---
 title: Stability Fee Adjustment - November 2, 2020
-summary: Signal your support or opposition for executing the Rates V2 plan.
+summary: Signal your support or opposition for the proposed Stability Fee changes.
 discussion_link: https://forum.makerdao.com/t/rates-changes-proposal-26-oct-2020/4877
 vote_type: Plurality Voting
 options:
