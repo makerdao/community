@@ -30,7 +30,7 @@ Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t
  * TUSD-B
  * PAXUSD-B
 
-The target for this executive spell is Friday, December 18th, 2020. The Rates Working Group will run a governance poll on Monday, December 14th, 2020 to confirm the executive is still desired. This plan can also be cancelled at any point between now and December 18th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
+The target for this executive spell is Friday, December 18th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio. The Rates Working Group will run a governance poll on Monday, December 14th, 2020 to confirm the executive is still desired. This plan can also be cancelled at any point between now and December 18th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
 
 ---
 
