@@ -30,11 +30,11 @@ Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t
  * TUSD-B
  * PAXUSD-B
 
-The target for this executive spell is Friday, December 18th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio. The Rates Working Group will run a governance poll on Monday, December 14th, 2020 to confirm the executive is still desired. This plan can also be cancelled at any point between now and December 18th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
+The target for this executive spell is Friday, December 11th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting it too close to the holiday break. The Rates Working Group will run a governance poll on Monday, December 7th, 2020 to confirm the executive is still desired. This plan can also be cancelled at any point between now and December 11th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
 
 ---
 
-## Resources
+# Resources
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
@@ -42,5 +42,5 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
 
