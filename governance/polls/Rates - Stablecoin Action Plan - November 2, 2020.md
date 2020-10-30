@@ -18,7 +18,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for an overview of the proposed plan.
 
-`Option 3 - Migrate Users to a new Vault Type` won the signal request. If this poll passes, the Rates Working Group will work with the Smart Contracts Team to add an executive spell which will set both the Stability Fee and Debt Ceilings to 0 on the following vault types:
+`Option 3 - Migrate Users to a new Vault Type` won the signal request. If this poll passes, the tentitive plan is that the Rates Working Group will work with the Smart Contracts Team to add an executive spell which will set both the Stability Fee and Debt Ceilings to 0 on the following vault types:
 
  * USDC-A
  * TUSD-A
@@ -30,7 +30,7 @@ Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t
  * TUSD-B
  * PAXUSD-B
 
-The target for this executive spell is Friday, December 11th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting it too close to the holiday break. The Rates Working Group will run a governance poll on Monday, December 7th, 2020 to confirm the executive is still desired. This plan can also be cancelled at any point between now and December 11th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
+The target for this executive spell is Friday, December 11th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting it too close to the holiday break. The Rates Working Group will run a governance poll on Monday, December 7th, 2020 to confirm the executive is still desired. This plan can also be cancelled or amended at any point between now and December 11th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
 
 ---
 
