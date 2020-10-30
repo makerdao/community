@@ -13,12 +13,13 @@ options:
 The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Rates Working Group which gives Maker Governance the chance to signal their support or opposition for the proposed Stability Fee changes.
 
 Summary of Proposed Changes:
-
- * Reduce ETH-B Stability Fee by 2% (6% -> 4%)
+ * Reduce ETH-B Stability Fee from 6% to 4%.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, November 2 at 16:00 UTC.
 
 ## Review
+
+Discussion and rationale for these changes can be found in this weeks rates proposal thread [here](https://forum.makerdao.com/t/rates-changes-proposal-26-oct-2020/4877). Please review this thread to inform your position before voting.
 
 Please refer to the [Rates V2 thread](https://forum.makerdao.com/t/signal-request-rates-v2/4481) for an overview of the Rates Working Group mandate.
 
@@ -32,5 +33,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
