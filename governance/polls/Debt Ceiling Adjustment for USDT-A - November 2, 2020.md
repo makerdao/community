@@ -12,7 +12,7 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the USDT-A Debt Ceiling from 10 million DAI to 2.5 million DAI.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on November 2, 2020 at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 2 at 16:00 UTC.
 
 ## Review 
 
