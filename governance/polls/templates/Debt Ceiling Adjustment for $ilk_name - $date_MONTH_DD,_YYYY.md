@@ -1,6 +1,6 @@
 ---
 title: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million to $new_ceiling million.
+summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to adjusting the $ilk_name Debt Ceiling from $current_ceiling million to $new_ceiling million.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
