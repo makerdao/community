@@ -1,22 +1,22 @@
 ---
-title: Adjust the WBTC-A Debt Ceiling - November 2, 2020
-summary: Signal your support or opposition for adjusting the WBTC-A Debt Ceiling from 120 million DAI to 160 million DAI
-discussion_link: https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861
+title: Adjust the MANA-A Debt Ceiling - November 2, 2020
+summary: Signal your support or opposition for adjusting the MANA-A Debt Ceiling from 1,000,000 DAI to 250,000 DAI.
+discussion_link: https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Adjust the WBTC-A Debt Ceiling - November 2, 2020
+# Poll: Adjust the MANA-A Debt Ceiling - November 2, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the USDT-A Debt Ceiling from 120 million DAI to 160 million DAI.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to adjusting the MANA-A Debt Ceiling from 1,000,000 DAI to 250,000 DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 2 at 16:00 UTC.
 
-## Review
+## Review 
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931) to inform your position on this issue before voting.
 
 ## Next Steps
 
