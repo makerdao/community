@@ -7,7 +7,7 @@
   "dependencies": {
     "@makerdao/dai-ui-icons": "^0.0.62",
     "@makerdao/dai-ui-icons-branding": "^0.0.62",
-    "@makerdao/dai-ui-theme-maker": "^0.0.62",
+    "@makerdao/dai-ui-theme-maker": "^0.0.66",
     "@mdx-js/mdx": "^1.6.19",
     "@mdx-js/react": "^1.6.18",
     "@theme-ui/prism": "^0.3.0",
