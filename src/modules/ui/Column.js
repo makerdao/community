@@ -11,7 +11,7 @@ const Column = ({ children }) => {
     bg: "surfaceAlt",
     px: "27px",
     py: "10px",
-    boxShadow: "raised",
+    boxShadow: "float",
     border: "1px solid",
     borderColor: "muted",
     "& > *:only-child, & >*:only-child > *": { m: 0 },
@@ -40,7 +40,7 @@ const Column = ({ children }) => {
               sx={{
                 borderRadius: "12px",
                 overflow: "hidden",
-                boxShadow: "raised",
+                boxShadow: "float",
                 border: "1px solid",
                 borderColor: "muted",
                 bg: "surfaceAlt"

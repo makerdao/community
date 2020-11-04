@@ -48,6 +48,13 @@ const MD_Overrides = {
       sx={{
         mb: "24px",
         lineHeight: "normal",
+        fontSize: "48px",
+        letterSpacing: "0.3px",
+        fontWeight: "500",
+        fontFamily: 'heading',
+        color: 'text',
+        marginTop: '48px',
+        marginBottom: '32px',
       }}
       {...props}
     />
@@ -58,6 +65,13 @@ const MD_Overrides = {
       sx={{
         mb: "32px",
         lineHeight: "normal",
+        fontSize: '32px',
+        fontWeight: "500",
+        letterSpacing: "0.3px",
+        fontFamily: 'heading',
+        color: 'text',
+        marginTop: '48px',
+        marginBottom: '24px'
       }}
       {...props}
     />
@@ -68,6 +82,13 @@ const MD_Overrides = {
       sx={{
         mb: "32px",
         lineHeight: "normal",
+        fontSize: '24px',
+        fontWeight: '500',
+        letterSpacing: "0.3px",
+        fontFamily: 'heading',
+        color: 'text',
+        marginTop: '16px',
+        marginBottom: '16px'
       }}
       {...props}
     />
@@ -78,6 +99,13 @@ const MD_Overrides = {
       sx={{
         mb: "32px",
         lineHeight: "normal",
+        fontSize: '20px',
+        fontWeight: '500',
+        letterSpacing: '0.3px',
+        fontFamily: 'heading',
+        color: 'text',
+        marginTop: '8px',
+        marginBottom: '8px'
       }}
       {...props}
     />
@@ -100,7 +128,7 @@ const MD_Overrides = {
   hr: (props) => <Divider sx={{ my: 4 }} />,
   p: (props) => (
     <Text
-      sx={{ mb: "16px", fontSize: "16px", letterSpacing: "0.3px", lineHeight: "150%", "& .button": { display: "inline-block" } }}
+      sx={{ mb: "16px", fontSize: "16px", letterSpacing: "0.4px", lineHeight: "150%", marginBottom: '24px', "& .button": { display: "inline-block" } }}
       {...props}
     />
   ), //NOTE(Rejon): Don't add the as="p" prop to this text component, else you'll get warnings about our interweaving.

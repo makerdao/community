@@ -28,7 +28,8 @@ const Process = ({ children }) => {
                 color: "onPrimary",
                 textAlign: "center",
                 backgroundColor: "primary",
-              }}
+                // marginTop: "12px",
+            }}
             >
               {`${index + 1}`}
             </Box>

@@ -24,9 +24,9 @@ const Sidenav_Node = ({
   }
 
   const fontWeight = [
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : "normal",
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : "normal",
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : null || parentDepth === 1 ? "600" : "normal",
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : "normal",
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : "normal",
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : null || parentDepth === 1 ? "500" : "normal",
   ];
 
   useEffect(() => {
@@ -53,7 +53,7 @@ const Sidenav_Node = ({
           onClick={onClick}
           sx={{
             color: currentPath === url || currentPath.includes(otherProps.slugPart) ? "primary" : "text",
-            fontWeight,
+            fontWeight: 'normal',
             py: "6px",
             pr: "36px",
             textDecoration: "none",

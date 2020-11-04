@@ -53,7 +53,7 @@ export default (props) => {
     featuredImage,
     status,
     hideLanguageSelector,
-    hideBreadcrumbs
+    hideBreadcrumbs,
   } = pageContext.frontmatter;
 
   const pathDirs = pagePath.replace(/^\/|\/$/g, "").split("/").slice(1);
@@ -119,7 +119,7 @@ export default (props) => {
 
     return undefined;
   };
-  
+
   //SEO page title priority is: frontmatter title -> First H1 in mdx -> Filename fallback from uri
   //NOTE(Rejon): If the page is an index of a directory, the uri split will be the name of the directory. ie. /en/bounties -> bounties
   const _pageTitle = title || getFirstHeading() || uri.split("/").pop();
@@ -168,10 +168,11 @@ export default (props) => {
       }
       <Box as="article" sx={{
         width: ['100%', '100%', `calc(100% - ${contentWidthSubtract}px)`],
-        mt: hasTopSection ? [4, 4, "59px"] : 0,
+        mt: hasTopSection ? [4, 4, "64px"] : 0,
         pl: hasTopSection ? [4, 4, "64px"] : 0,
         pr: hasTopSection ? [4, 4, 0] : 0,
         pb: 4,
+        
       }}>
       <SEO {...seo} />
       
