@@ -113,15 +113,6 @@ const Header = () => {
           "& a:hover": {
             textDecoration: "none",
           },
-          "& > ul": {
-            p: 0,
-            m: 0,
-            listStyleType: "none",
-            display: "inline-flex",
-          },
-          "& > ul > li > a": {
-            textDecoration: "none",
-          },
         }}
       >
         <Link
@@ -179,6 +170,26 @@ const Header = () => {
               {title}
             </Link>
           ))}
+          <Link
+            to={'https://forum.makerdao.com/'}
+            hideExternalIcon
+            sx={{
+              fontWeight: "normal",
+              flexShrink: 0
+            }}
+          >
+            {t('Forum')}
+          </Link>
+          <Link
+            to={'https://chat.makerdao.com/'}
+            hideExternalIcon
+            sx={{
+              fontWeight: "normal",
+              flexShrink: 0
+            }}
+          >
+            {t('Chat')}
+          </Link>
         </Flex>
         <Flex
           sx={{
@@ -243,8 +254,6 @@ const Header = () => {
               height: "32px",
               width: "32px",
             }}
-            // whileTap={{ scale: 0.9 }}
-            // whileHover={{ scale: 1.1 }}
           >
             <Icon
               size={"32px"}
@@ -305,7 +314,6 @@ const Header = () => {
           },
         }}
       >
-        
       </Box>
     </Box>
   );

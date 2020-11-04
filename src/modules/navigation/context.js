@@ -20,7 +20,7 @@ const NavigationProvider = ({ children }) => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const { locale, DEFAULT_LOCALE } = useTranslation();
 
-  const { headerFiles, headerConfigFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
+  const { headerFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
     query getNavigationData {
       # Regex for all files that are NOT config files
       allMdx: allMdx(
@@ -69,20 +69,6 @@ const NavigationProvider = ({ children }) => {
         }
       }
 
-      #Get header.mdx files from only the top level locale folders. (ie. /content/en/header.mdx)
-      headerConfigFiles: allMdx(
-        filter: {
-          fileAbsolutePath: { regex: "//content/([^/]+)/?/(header.mdx)$/" }
-        }
-      ) {
-        nodes {
-          fileAbsolutePath
-          internal {
-            content
-          }
-        }
-      }
-
       footerFiles: allMdx(
         filter: {
           fileAbsolutePath: { regex: "//content/([^/]+)/?/(footer.mdx)$/" }
@@ -124,7 +110,7 @@ const NavigationProvider = ({ children }) => {
 
   //allMDX will return all header.mdx files at top level locale folders.
   //Find only the one we need for our current locale and use it's body in the MDX renderer below.
-  const headerDataLinks = headerLinkEdges
+  const headerLinks = headerLinkEdges
     .sort((a, b) => {
       const aNode = {
         ...a.node,
@@ -171,22 +157,6 @@ const NavigationProvider = ({ children }) => {
         title,
       };
     });
-
-  const headerConfigLinks = headerConfigFiles.nodes
-    .find((n) => n.fileAbsolutePath.includes(`/${locale}/`))
-    .internal.content.trim()
-    .split("\n")
-    .map((l, index) => {
-      const url = l.match(/\(([^)]+)\)/)[1];
-      const title = l.match(/\[([^)]+)\]/)[1];
-
-      return {
-        url,
-        title,
-      };
-    });
-
-  const headerLinks = headerDataLinks.concat(headerConfigLinks);
 
   const showMobileMenu = (scrollBeforeMenuOpen) => {
     if (typeof window !== "undefined") {

@@ -28,5 +28,7 @@
   "aria_TelegramIcon": "Telegram",
   "aria_RedditIcon": "Reddit",
   "aria_RocketChatIcon": "Rocket Chat",
-  "aria_ExternalWebsite": "External Website"
+  "aria_ExternalWebsite": "External Website",
+  "Forum": "Forum",
+  "Chat": "Chat"
 }
