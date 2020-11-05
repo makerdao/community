@@ -3,6 +3,8 @@ title: Adjust the ETH-A Debt Ceiling - November 2, 2020
 summary: Signal your support or opposition for adjusting the ETH-A Debt Ceiling from 540 million DAI to 490 million DAI.
 discussion_link: https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: Yes

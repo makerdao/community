@@ -1,15 +1,8 @@
 [
-  "Stability Fee",
-  "Debt Ceiling",
-  "Dai Savings Rate",
-  "Liquidation Ratio",
-  "MIPs",
-  "Technical Protocol Change",
-  "Instant Access Module Change",
-  "Collateral Addition/Removal",
+  "Collateral",
   "Oracles",
-  "Governance Security Module",
-  "Liquidation Mechanism",
-  "Vault Mechanism",
+  "Governance",
+  "Risk Variable",
+  "Technical",
   "Other"
 ]
