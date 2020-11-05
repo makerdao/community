@@ -77,59 +77,27 @@ const PageLayout = ({ children, seoTitle, t }) => (
 );
 
 const NotFoundPage = () => {
-  const { locale, t } = useTranslation();
-  //NOTE(Rejon): I could do a gatsby-node and programmatically create these pages.
-  //             But there's a chance that a missing 404 in the content folder will break the app.
-  //             I'll take the L.
-  const { allMdx: nodes } = useStaticQuery(graphql`
-    query Get404Pages {
-      allMdx(
-        filter: { fileAbsolutePath: { regex: "//([\\\\w]{2})/404.mdx$/" } }
-      ) {
-        nodes {
-          headings(depth: h1) {
-            value
-          }
-          fileAbsolutePath
-          body
-          frontmatter {
-            title
-          }
-        }
-      }
-    }
-  `);
-
+  const { locale, t } = useTranslation('404');
   if (!browser) {
     return <Fragment></Fragment>;
   }
 
-  const page = nodes.nodes.find(
-    ({ fileAbsolutePath }) => fileAbsolutePath.indexOf(`/${locale}/`) !== -1
-  );
-
-  const title = page && page.frontmatter ? page.frontmatter.title : null;
-  const firstHeading =
-    page && page.headings.length > 0 ? page.headings[0].value : null;
-
   //Use the Title Rule. Else just use a hardcoded value.
-  const seoTitle = title || firstHeading || t("404");
+  const seoTitle = t("404");
 
   return (
     <PageLayout seoTitle={seoTitle} t={t}>
-      {page ? (
-        <MDXRenderer>{page.body}</MDXRenderer>
-      ) : (
-        <Box sx={{ fontSize: "1.5em" }}>
-          <Text sx={{ fontSize: "2em", mt: "1em", mb: ".75em" }}>404</Text>
-          <Box sx={{ mt: "1em", mb: "1em" }}>
-            Uh oh, the page you're looking for doesn't exist.
-            <br />
-            <br />
-            Think something's broken on our end?
-          </Box>
-        </Box>
-      )}
+      <Box sx={{fontSize: "1.5em"}}>
+
+        <Text sx={{ fontSize: "2em", mt: "1em", mb: ".5em" }}>404</Text>
+
+        {t('line_1')}
+
+        {t('line_2')}
+
+        {t('line_3')}
+
+      </Box>
     </PageLayout>
   );
 };

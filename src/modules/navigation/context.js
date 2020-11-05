@@ -20,7 +20,7 @@ const NavigationProvider = ({ children }) => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const { locale, DEFAULT_LOCALE } = useTranslation();
 
-  const { headerFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
+  const { headerFiles, socialLinks } = useStaticQuery(graphql`
     query getNavigationData {
       # Regex for all files that are NOT config files
       allMdx: allMdx(
@@ -66,17 +66,6 @@ const NavigationProvider = ({ children }) => {
               value
             }
           }
-        }
-      }
-
-      footerFiles: allMdx(
-        filter: {
-          fileAbsolutePath: { regex: "//content/([^/]+)/?/(footer.mdx)$/" }
-        }
-      ) {
-        nodes {
-          fileAbsolutePath
-          body
         }
       }
 
@@ -200,7 +189,6 @@ const NavigationProvider = ({ children }) => {
         showMobileMenu, 
         hideMobileMenu,
         headerLinks,
-        footerFiles,
         socialLinks
       }}>
       {children}

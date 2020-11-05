@@ -38,7 +38,8 @@ const prismPreset = {
 
 export default {
 ...maker, //<- Your default theme.
-	//useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore. 
+  useCustomProperties: true,
+	useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore. 
   breakpoints: ["640px", "932px", "infinity"],
   icons: {
     ...themeIcons,

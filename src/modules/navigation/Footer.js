@@ -8,27 +8,8 @@ import { useNavigation } from "@modules/navigation/context";
 import { getLinkIcon, Link } from "@modules/navigation";
 
 const Footer = () => {
-  const { locale, DEFAULT_LOCALE, t } = useTranslation();
-  const { footerFiles, socialLinks } = useNavigation();
-
-  const footerConfigLinks =
-    DEFAULT_LOCALE !== locale
-      ? footerFiles.nodes.find((n) =>
-          n.fileAbsolutePath.includes(`/${locale}/`)
-        )
-      : [];
-
-  //Default locale fallback
-  const defaultLocaleFooterLinks = footerFiles.nodes.find((n) =>
-    n.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
-  );
-
-  const footerLinks =
-    footerConfigLinks && footerConfigLinks.length !== 0
-      ? footerConfigLinks.body
-      : defaultLocaleFooterLinks
-      ? defaultLocaleFooterLinks.body
-      : null;
+  const { locale, DEFAULT_LOCALE, t } = useTranslation('Footer');
+  const { socialLinks } = useNavigation();
 
   const socialConfigLinks =
     DEFAULT_LOCALE !== locale
@@ -53,11 +34,11 @@ const Footer = () => {
     <Box
       as="footer"
       sx={{
-        width: "100%",
         bg: "backgroundAlt",
       }}
     >
       <Flex
+        className="footer-content"
         sx={{
           px: ["26px", "26px", "52px"],
           pt: ["40px", "40px", "54px"],
@@ -67,39 +48,8 @@ const Footer = () => {
           margin: "auto",
         }}
       >
-        <Box
-          sx={{
-            color: "onBackgroundAlt",
-            display: "inline-block",
-            width: "217px",
-            "& > *, & svg": { color: "onBackgroundAlt" },
-          }}
-        >
-          <Link
-            to="/"
-            sx={{
-              display: "inline-block",
-              mb: "31px",
-            }}
-            aria-label={t("aria_MakerFooterLogo")}
-          >
-            <Icon
-              name="makerLogo"
-              sx={{ width: "217px", height: "30px", display: "block" }}
-            />
-          </Link>
-          <Box sx={{ "& > *:not(:last-of-type)": { mr: "18px" }, '& > a': {mr: 0} }}>
-            {_socialLinks.map((s, index) => {
-              const link = s.match(/\(([^)]+)\)/)[1];
-
-              return link
-                ? getLinkIcon(link, `footer-social-link-${index}`)
-                : null;
-            })}
-            {/* <a href="javascript:gaOptout();">Deactivate Google Analytics</a> */}
-          </Box>
-        </Box>
-        <Box
+        
+        <div
           sx={{
             ml: ["unset", "unset", "5vw"],
             mt: ["56px", "56px", "unset"],
@@ -151,12 +101,127 @@ const Footer = () => {
             },
           }}
         >
-          {footerLinks && (
-            <Box sx={{ flex: 1 }}>
-              <MDXRenderer>{footerLinks}</MDXRenderer>
-            </Box>
-          )}
-        </Box>
+            <div sx={{ flex: 1 }}>
+              <ul>
+                <li>
+                  <p>
+                    {t('Resources')}
+                  </p>
+
+                  <ul>
+                    <li>
+                      <Link to={'https://makerdao.com/en/whitepaper'}>
+                        {t('Whitepaper')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://awesome.makerdao.com/#faqs'}>
+                        {t('FAQs')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/en/privacy'}>
+                        {t('Privacy_Policy')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4'}>
+                        {t('Brand_Assets')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/en/feeds'}>
+                        {t('Feeds')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.statuspage.io/'}>
+                        {t('Service_Status')}
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <p>
+                    {t('Products')}
+                  </p>
+
+                  <ul>
+                    <li>
+                      <Link to={'https://oasis.app/'}>
+                        {t('Oasis')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://migrate.makerdao.com/'}>
+                        {t('Migrate')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/en/ecosystem'}>
+                        {t('Ecosystem')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/en/governance'}>
+                        {t('Governance')}
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <p>
+                    {t('Developers')}
+                  </p>
+
+                  <ul>
+                    <li>
+                      <Link to={'https://docs.makerdao.com/'}>
+                        {t('Documentation')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://docs.makerdao.com/dai.js'}>
+                        {t('Dai_js')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://github.com/makerdao/developerguides'}>
+                        {t('Developer_Guides')}
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <p>
+                    {t('Foundation')}
+                  </p>
+                  <ul>
+                    <li>
+                      <Link to={'https://makerdao.com/team/'}>
+                        {t('Team')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/careers'}>
+                        {t('Careers')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://makerdao.com/en/contact'}>
+                        {t('Contact')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to={'https://blog.makerdao.com/'}>
+                        {t('Blog')}
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+        </div>
       </Flex>
     </Box>
   );

@@ -16,7 +16,6 @@
     "alt_defaultImage": "Default Tout Image",
     "alt_altImage": "Alternate Tout Image"
   },
-  "404": "404 Page Not Found",
   "Back_To_Main_Menu": "Back to Main Menu",
   "aria_MakerHomeIcon": "MakerDao Home Icon",
   "aria_MakerFooterLogo": "MakerDao Footer Logo",
@@ -30,5 +29,34 @@
   "aria_RocketChatIcon": "Rocket Chat",
   "aria_ExternalWebsite": "External Website",
   "Forum": "Forum",
-  "Chat": "Chat"
+  "Chat": "Chat",
+  "404": {
+    "seoTitle": "404 Page Not Found",
+    "line_1": "Uh oh, the page you're looking for doesn't exist.",
+    "line_2": "We've moved some things around recently.",
+    "line_3": "Think something's broken on our end?"
+  },
+  "Footer": {
+    "Resources": "Resources",
+    "Whitepaper": "Whitepaper",
+    "FAQs": "FAQs",
+    "Privacy_Policy": "Privacy_Policy",
+    "Brand_Assets": "Brand Assets",
+    "Feeds": "Feeds",
+    "Service_Status": "Service Status",
+    "Products": "Products",
+    "Oasis": "Oasis",
+    "Migrate": "Migrate",
+    "Ecosystem": "Ecosystem",
+    "Governance": "Governance",
+    "Developers": "Developers",
+    "Documentation": "Documentation",
+    "Dai_js": "Dai.js",
+    "Developer_Guides": "Developer Guides",
+    "Foundation": "Foundation",
+    "Team": "Team",
+    "Careers": "Careers",
+    "Contact": "Contact",
+    "Blog": "Blog"
+  }
 }
