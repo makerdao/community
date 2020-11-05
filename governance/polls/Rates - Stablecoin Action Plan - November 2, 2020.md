@@ -16,9 +16,9 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
-Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for an overview of the proposed plan.
+Please refer to the Stablecoin Action Plan [thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for an overview of the proposed plan. **Option 3 - Migrate Users to a new Vault Type** had the highest level of support in the signal request. A brief summary of this option is provided below.
 
-`Option 3 - Migrate Users to a new Vault Type` won the signal request. If this poll passes, the tentitive plan is that the Rates Working Group will work with the Smart Contracts Team to add an executive spell which will set both the Stability Fee and Debt Ceilings to 0 on the following vault types:
+The tentitive plan is that the Rates Working Group will work with the Smart Contracts Team to add an executive spell which will set both the Stability Fee and Debt Ceilings to 0 on the following vault types:
 
  * USDC-A
  * TUSD-A
@@ -30,7 +30,15 @@ Please refer to the [Stablecoin Action Plan thread](https://forum.makerdao.com/t
  * TUSD-B
  * PAXUSD-B
 
-The target for this executive spell is Friday, December 11th, 2020 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting it too close to the holiday break. The Rates Working Group will run a governance poll on Monday, December 7th, 2020 to confirm the executive is still desired. This plan can also be cancelled or amended at any point between now and December 11th, 2020 via Signal Request + Governance Poll in case the market conditions materially change.
+The target for this executive spell is Friday, December 11 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting the action too close to the holiday break. 
+
+The Rates Working Group will sumbit a governance poll on Monday, December 7, 2020 to confirm the executive is still desired at that time. This plan may also be cancelled or amended at any point between now and December 7, 2020 via a Signal Request and Governance Poll.
+
+## Next Steps
+
+If this poll ends with a 'Yes' majority, then an additional governance poll will run on the week beginning Monday, December 7, 2020 to reconfirm this action closer to the target implementation date.
+
+If this poll ends with a 'No' majority, then further options to deal with stablecoin vaults will be discussed on the forum.
 
 ---
 
