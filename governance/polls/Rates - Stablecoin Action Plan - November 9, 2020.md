@@ -27,7 +27,7 @@ The options are:
  * **Do Nothing** - Stability Fees remain at 4% for stablecoin vault types, the surplus buffer is not increased as a result of this issue.
  * **Option 1a** - Stability Fees remain at 4% for stablecoin vault types, the surplus buffer is increased to prevent the burning of MKR until the issue is resolved.
  * **Option 1b** - Stability Fees are lowered (but remain above 0%) for stablecoin vault types, the surplus buffer is increased to prevent the burning of MKR until the issue is resolved.
- * **Option 2** - Stability Fees are lowered for stablecoins (with the goal of setting them to 0% as vaults approach 100% collateralization ratio) 
+ * **Option 2** - Stability Fees are lowered for stablecoin vault types (with the goal of setting them to 0% as vaults approach 100% collateralization ratio) 
  * **Option 3** - Stability Fees and Debt Ceiling are lowered to zero for existing stablecoin vault types, new stablecoin vault types are created with 4% Stability Fees.
  * **Something else** - I want to do something not listed here
 
