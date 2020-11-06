@@ -3,18 +3,21 @@
 ```
 Parameter Name: line
 Containing Contract: Vat
-Association: Per Ilk
+Scope: Ilk
 ```
 
 ## Description
 
-The Debt Ceiling parameter controls the maximum amount of DAI that can be minted using a specific vault type. If a user tries to mint DAI and the amount of DAI minted would put the vault type's amount of DAI minted above its Debt Ceiling limit, the transaction will fail and no DAI will be minted.
+The Debt Ceiling parameter controls the maximum amount of DAI that can be minted using a specific vault type across all vault users. If a user tries to mint DAI and the amount of DAI minted would put the vault type's amount of DAI minted above its Debt Ceiling, the transaction will fail and no DAI will be minted.
 
-Each vault type has it's own individually adjustable Debt Ceiling. Additionally, there is a Global Debt Ceiling parameter that is not covered in this entry. In order for a user to mint DAI using a specific vault type, there must be space available in both the vault type's Debt Ceiling and the Global Debt Ceiling.
+Each vault type has its own Debt Ceiling that can be adjusted by Maker Governance. Note that the Debt Ceiling applies collectively to all vaults created using a specific vault type, rather than to individual vaults.
 
-The Debt Ceiling for each vault type is set in absolute rather than relative terms, so 1,000,000 DAI rather than 10% of the Global Debt Ceiling.
+Additionally, there is a Global Debt Ceiling parameter that is not covered in this entry. In order for a user to mint DAI from their vault, there must be space available in both the vault type's Debt Ceiling and the Global Debt Ceiling.
+
+The Debt Ceiling for each vault type is expressed in absolute rather than relative terms, so 1,000,000 DAI rather than 10% of the Global Debt Ceiling.
 
 ## Purpose
+
 The primary purpose of the Debt Ceiling parameter is to allow Governance to control the amount of DAI that can be created using a certain vault type. Controlling the amount of DAI minted from a vault type limits the risk exposure to the type of collateral used within that vault type. It also limits the risk from the combination of system parameters that are used within a vault type - for example a very low liquidation ratio combined with high stability fees.
 
 ## Trade-offs
@@ -28,6 +31,8 @@ Having a large amount of 'open space' between the Debt Ceiling for a vault type 
 Leaving a large amount of 'open space' in the Debt Ceiling for a vault type also means that the DAI supply can change rapidly in a way that may have a negative effect on the DAI peg.
 
 ## Changes
+
+There is currently no system for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type. Changes to Debt Ceiling parameters are subjects to the GSM Pause Delay.
 
 **Why increase a Debt Ceiling Parameter?**
 
@@ -49,9 +54,9 @@ The Debt Ceiling might also be lowered as an attempt to affect monetary policy, 
 
 The Debt Ceiling for a vault type can be exceeded as stability fees accrue to vaults within that vault type. 
 
-There is currently no system for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type.
-
 If a Debt Ceiling parameter for a vault type is dropped below the current amount of DAI minted using that vault type, this does not have any negative effects beyond preventing further mints from vaults using that vault type.
+
+* Are there any Emergency Shutdown considerations to take into account?
 
 
 

@@ -3,7 +3,7 @@
 ```
 Parameter Name: $ParameterName
 Containing Contract: $Contract
-Association: $Association
+Scope: $Scope
 ```
 
 ## Description
@@ -18,11 +18,13 @@ Association: $Association
 * What advantages does this parameter represent?
 
 ## Changes
-* Why increase this parameter?
-* Why decrease this parameter?
+* How are changes to this parameter made?
+
+**Why increase this parameter?**
+
+**Why decrease this parameter?**
 
 ## Considerations
 * Is there anything little known about this parameter?
 * How does this interact with other parts of the protocol?
 * Are there any Emergency Shutdown considerations to take into account?
-* How are changes to this parameter made?
