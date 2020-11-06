@@ -16,26 +16,28 @@ options:
 
 The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support for various Stablecoin Action Plan options.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for 3 days beginning on Monday, November 9 at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for 3 days beginning on Monday, November 9 at 16:00 UTC.
 
 ## Review
 
-Due to the [first Stablecoin Action Plan vote](https://vote.makerdao.com/polling/QmQed3Ca?network=mainnet#poll-detail) failing, we are going wide with the options to figure out what path governance wants to take. This is a broad poll to figure out direction before working out the details.
+Due to the first Stablecoin Action Plan [poll](https://vote.makerdao.com/polling/QmQed3Ca?network=mainnet#poll-detail) failing, we are going wide with the options to figure out what path governance wants to take. This is a broad poll to figure out direction before working out the details.
 
 The options are:
 
- * Do Nothing - MKR will be burned and Dai will no longer be overcollateralized w.r.t. stablecoins.
- * Option 1a - Keep Raising the Surplus Buffer, Stability Fees stay at 4%
- * Option 2a - Keep Raising the Surplus Buffer, Lower Stability Fees a bit
- * Option 2 - Lower the Stablecoin Stability Fees towards 0%
- * Option 3 - Migrate Users to a new Vault Type
- * Something else - I want to do something not listed here
+ * **Do Nothing** - Stability Fees remain at 4% for stablecoin vault types, the surplus buffer is not increased as a result of this issue.
+ * **Option 1a** - Stability Fees remain at 4% for stablecoin vault types, the surplus buffer is increased to prevent the burning of MKR until the issue is resolved.
+ * **Option 1b** - Stability Fees are lowered (but remain above 0%) for stablecoin vault types, the surplus buffer is increased to prevent the burning of MKR until the issue is resolved.
+ * **Option 2** - Stability Fees are lowered for stablecoins (with the goal of setting them to 0% as vaults approach 100% collateralization ratio) 
+ * **Option 3** - Stability Fees and Debt Ceiling are lowered to zero for existing stablecoin vault types, new stablecoin vault types are created with 4% Stability Fees.
+ * **Something else** - I want to do something not listed here
 
-Please refer to the Stablecoin Action Plan [thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for an overview of proposed options.
+Please refer to the Stablecoin Action Plan [thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for a more detailed explanation and discussion of proposed options.
 
 ## Next Steps
 
-A followup poll will be made for the week of November 16, 2020 to determine the scheduling and details of whichever option is selected.
+An option must have over 50% of the vote in order to be considered successful. In the event of no option having a majority, further discussion will take place about how to best move forwards.
+
+If an option has over 50% of the vote, a follow-up poll will be made for the week of November 16, 2020 to determine the schedule and details of implementation.
 
 ---
 
