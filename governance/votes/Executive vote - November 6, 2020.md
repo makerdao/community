@@ -105,13 +105,15 @@ Therefore, if this Executive proposal passes the following will occur:
 - The USDT-A Debt Ceiling will decrease from 10 million DAI to 2.5 million DAI
 - The ETH-A Debt Ceiling will decrease from 540 million DAI to 490 million DAI
 - The MANA-A Debt Ceiling will decrease from 1 million DAI to 250 thousand DAI
-- The Global line parameter will decrease from 1,476,000,000 DAI to 1,452,750,000 DAI due to the above changes.
+- The Global line parameter will decrease from 1,476,000,000 DAI to 1,463,750,000 DAI due to the above changes.
 
 **Stability Fee Changes**
 - The ETH-B Stability Fee will decrease from 6% to 4%
 
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
 
 ## Review
 
