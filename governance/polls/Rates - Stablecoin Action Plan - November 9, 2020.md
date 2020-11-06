@@ -6,11 +6,11 @@ vote_type: Ranked Choice IRV
 options:
    0: Abstain
    1: Do Nothing
-   2: Option 1a - Keep Raising the Surplus Buffer, Stability Fees stay at 4%
-   3: Option 1b - Keep Raising the Surplus Buffer, Lower Stability Fees a bit
-   4: Option 2 - Lower the Stablecoin Stability Fees towards 0%
-   5: Option 3 - Migrate Users to a new Vault Type
-   6: I want to do something not listed here
+   2: Option 1a
+   3: Option 1b
+   4: Option 2
+   5: Option 3
+   6: Something else
 ---
 # Poll: Stablecoin Action Plan - November 9, 2020
 
@@ -21,6 +21,15 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 ## Review
 
 Due to the [first Stablecoin Action Plan vote](https://vote.makerdao.com/polling/QmQed3Ca?network=mainnet#poll-detail) failing, we are going wide with the options to figure out what path governance wants to take. This is a broad poll to figure out direction before working out the details.
+
+The options are:
+
+ * Do Nothing - MKR will be burned and Dai will no longer be overcollateralized w.r.t. stablecoins.
+ * Option 1a - Keep Raising the Surplus Buffer, Stability Fees stay at 4%
+ * Option 2a - Keep Raising the Surplus Buffer, Lower Stability Fees a bit
+ * Option 2 - Lower the Stablecoin Stability Fees towards 0%
+ * Option 3 - Migrate Users to a new Vault Type
+ * Something else - I want to do something not listed here
 
 Please refer to the Stablecoin Action Plan [thread](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808) for an overview of proposed options.
 
