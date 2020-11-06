@@ -105,7 +105,7 @@ Therefore, if this Executive proposal passes the following will occur:
 - The USDT-A Debt Ceiling will decrease from 10 million DAI to 2.5 million DAI
 - The ETH-A Debt Ceiling will decrease from 540 million DAI to 490 million DAI
 - The MANA-A Debt Ceiling will decrease from 1 million DAI to 250 thousand DAI
-- The Global line parameter will decrease from 1,476,000,000 DAI to 1,452,750,000 DAI due to the above changes.
+- The Global line parameter will decrease from 1,476,000,000 DAI to 1,463,750,000 DAI due to the above changes.
 
 **Stability Fee Changes**
 - The ETH-B Stability Fee will decrease from 6% to 4%
