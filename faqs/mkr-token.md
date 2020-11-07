@@ -30,7 +30,7 @@ Another important responsibility for MKR holders is to communicate publicly abou
 
 MKR holders have the ability to enact technical changes to the Maker Protocol itself and also to ratify decisions on-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy, MKR voters have ultimate control. To learn more about governance in the Maker Protocol visit the [Governance FAQ](/learn/governance/).
 
-MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](/en/learn/governance/how-voting-works) for an overview of how to get started.
+MKR holders who are interested in actively participating in the management of the Maker Protocol can visit the [Voter Onboarding Guide](/learn/governance/how-voting-works) for an overview of how to get started.
 
 ## What addresses hold the most MKR?
 
@@ -60,7 +60,7 @@ MKR Dilution can recapitalize the system to a certain limit. The severity of the
 
 ## How do I redeem old MKR?
 
-[Makerdao.com/redeem](https://makerdao.com/redeem/) is the only official page for upgrading MKR tokens.
+[MakerDAO.com/redeem](https://makerdao.com/redeem/) is the only official page for upgrading MKR tokens.
 
 **Important note:** Do NOT send tokens directly to the redeemer contract. Doing so will cause all the tokens you send to become permanently lost! ONLY follow the official steps on Makerdao.com/redeem to redeem MKR.
 
@@ -68,7 +68,7 @@ There is no time limit on when redemption needs to be done. It is important that
 
 ## What happens to MKR in the event of an Emergency Shutdown?
 
-In the case of an [Emergency Shutdown](emergency-shutdown.md) the system would need to be redeployed. The redeployed version of the Maker Protocol still requires MKR for voting the same as it did before.
+In the case of an [Emergency Shutdown](/learn/governance/emergency-shutdown/) the system would need to be redeployed. The redeployed version of the Maker Protocol still requires MKR for voting the same as it did before.
 
 Emergency Shutdown is not necessarily indicative of an MKR Dilution event. MKR Dilution occurs when the system is running a deficit and needs to be recapitalized. If the system is going through Emergency Shutdown, the price feeds and state of the system will be frozen at a particular moment in time. MKR Dilution might occur in the moments preceding that if the Emergency Shutdown is due to a severe market failure that would cause many Vaults to default.
 

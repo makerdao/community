@@ -113,13 +113,11 @@ If a user’s [Vault](/learn/vaults/) is close to the Liquidation Price, they ma
 
 The most efficient way a user can lower their Liquidation Price is to repay DAI. This also has the added benefit of reducing the Stability Fees that accrue for the owner of the Vault. This can be proven by the following example:
 
-
 Formula:
 
 ```
 (Generated Dai x Liquidation Ratio) ÷ Collateral Amount = Liquidation Price
 ```
-
 
 Given that:
 

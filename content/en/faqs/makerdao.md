@@ -4,7 +4,6 @@ These are legacy guides and will not be maintened. You may be looking for the pa
 
 </StatusBanner>
 
-
 # MakerDAO
 
 ## What is MakerDAO?
