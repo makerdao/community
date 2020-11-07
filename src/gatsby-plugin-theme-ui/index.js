@@ -393,18 +393,38 @@ export default {
   styles: {
 	  ...maker.styles,
     root: {
-    ...maker.styles.root,
-    color: "textMuted",
-  },
+      ...maker.styles.root,
+      color: "textMuted",
+    },
     a: {
-      color: "link",
-      fontWeight: "500",
-      textDecoration: "none"
+        color: "link",
+      fontWeight: "600",
+      textDecoration: "none",
+      transition: "all .1s ease",
+      "&.active": {
+          color: "linkAlt",
+      },
+      "&:hover": {
+        color: "linkAlt",
+      },
+      "&:hover > svg": {
+        color: "linkAlt",
+      },
     },
     Link: {
       color: "link",
-      fontWeight: "500",
-      textDecoration: "none"
+      fontWeight: "600",
+      textDecoration: "none",
+      transition: "all .1s ease",
+      "&.active": {
+          color: "linkAlt",
+      },
+      "&:hover": {
+        color: "linkAlt",
+      },
+      "&:hover > svg": {
+        color: "linkAlt",
+      },
     },
     pre: {
       ...prismPreset,

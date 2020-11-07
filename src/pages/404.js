@@ -39,7 +39,7 @@ const PageLayout = ({ children, seoTitle, t }) => (
       }}
     >
       {children}
-      <Box>
+      <Box sx={{mt: 4}}>
         <Button
           to={"https://github.com/makerdao/community/issues"}
           inline
@@ -77,13 +77,13 @@ const PageLayout = ({ children, seoTitle, t }) => (
 );
 
 const NotFoundPage = () => {
-  const { locale, t } = useTranslation('404');
+  const { locale, t } = useTranslation();
   if (!browser) {
     return <Fragment></Fragment>;
   }
 
   //Use the Title Rule. Else just use a hardcoded value.
-  const seoTitle = t("404");
+  const seoTitle = t("seoTitle", "NotFoundPage");
 
   return (
     <PageLayout seoTitle={seoTitle} t={t}>
@@ -91,12 +91,13 @@ const NotFoundPage = () => {
 
         <Text sx={{ fontSize: "2em", mt: "1em", mb: ".5em" }}>404</Text>
 
-        {t('line_1')}
-
-        {t('line_2')}
-
-        {t('line_3')}
-
+        {t('line_1', "NotFoundPage")}
+        <br/>
+        <br/>
+        {t('line_2', "NotFoundPage")}
+        <br/>
+        <br/>
+        {t('line_3', "NotFoundPage")}
       </Box>
     </PageLayout>
   );

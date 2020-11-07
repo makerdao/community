@@ -30,7 +30,7 @@
   "aria_ExternalWebsite": "External Website",
   "Forum": "Forum",
   "Chat": "Chat",
-  "404": {
+  "NotFoundPage": {
     "seoTitle": "404 Page Not Found",
     "line_1": "Uh oh, the page you're looking for doesn't exist.",
     "line_2": "We've moved some things around recently.",
@@ -40,7 +40,7 @@
     "Resources": "Resources",
     "Whitepaper": "Whitepaper",
     "FAQs": "FAQs",
-    "Privacy_Policy": "Privacy_Policy",
+    "Privacy_Policy": "Privacy Policy",
     "Brand_Assets": "Brand Assets",
     "Feeds": "Feeds",
     "Service_Status": "Service Status",
@@ -51,7 +51,7 @@
     "Governance": "Governance",
     "Developers": "Developers",
     "Documentation": "Documentation",
-    "Dai_js": "Dai.js",
+    "Daijs": "Dai.js",
     "Developer_Guides": "Developer Guides",
     "Foundation": "Foundation",
     "Team": "Team",
