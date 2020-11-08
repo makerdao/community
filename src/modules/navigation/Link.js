@@ -4,7 +4,7 @@ import { Link as GatsbyLink } from "gatsby";
 import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+// import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 import { useTranslation } from "@modules/localization";
 

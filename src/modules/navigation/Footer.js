@@ -1,34 +1,21 @@
 /** @jsx jsx */
 import { Flex, Box, jsx } from "theme-ui";
-import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Icon } from "@makerdao/dai-ui-icons";
 import Link from "@modules/navigation/Link";
 
 import { useTranslation } from "@modules/localization";
-import { useNavigation } from "@modules/navigation/context";
 import { getLinkIcon } from "@modules/navigation";
 
+const socialLinks = {
+  "Twitter": "https://twitter.com/MakerDAO",
+  "Reddit": "https://www.reddit.com/r/MakerDAO/",
+  "Telegram": "https://t.me/makerdaoOfficial",
+  "Chat": "https://chat.makerdao.com/",
+  "Youtube": "https://www.youtube.com/MakerDAO"
+}
+
 const Footer = () => {
-  const { locale, DEFAULT_LOCALE, t } = useTranslation();
-  const { socialLinks } = useNavigation();
-
-  const socialConfigLinks =
-    DEFAULT_LOCALE !== locale
-      ? socialLinks.nodes.find((n) =>
-          n.fileAbsolutePath.includes(`/${locale}/`)
-        )
-      : [];
-
-  const defaultSocialConfigLinks = socialLinks.nodes.find((n) =>
-    n.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
-  );
-
-  const _socialLinks =
-    socialConfigLinks && socialConfigLinks.length !== 0
-      ? socialConfigLinks.internal.content.trim().split("\n")
-      : defaultSocialConfigLinks
-      ? defaultSocialConfigLinks.internal.content.trim().split("\n")
-      : null;
+  const { t } = useTranslation();
 
   return (
     <Box
@@ -75,14 +62,7 @@ const Footer = () => {
               "& > a": { mr: 0 },
             }}
           >
-            {_socialLinks.map((s, index) => {
-              const link = s.match(/\(([^)]+)\)/)[1];
-
-              return link
-                ? getLinkIcon(link, `footer-social-link-${index}`)
-                : null;
-            })}
-            {/* <a href="javascript:gaOptout();">Deactivate Google Analytics</a> */}
+            {Object.keys(socialLinks).map((s, index) => getLinkIcon(socialLinks[s], `footer-social-link-${index}`))}
           </Box>
         </Box>
         <div

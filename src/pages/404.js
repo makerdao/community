@@ -2,8 +2,6 @@
 import { Fragment } from "react";
 
 import { Box, Flex, Text, Image, jsx } from "theme-ui";
-import { useStaticQuery, graphql } from "gatsby";
-import { MDXRenderer } from "gatsby-plugin-mdx";
 import { navigate } from "@reach/router";
 
 import Button from "@modules/ui/Button";
@@ -82,7 +80,7 @@ const PageLayout = ({ children, seoTitle, t }) => (
 );
 
 const NotFoundPage = () => {
-  const { locale, t } = useTranslation();
+  const { t } = useTranslation();
   if (!browser) {
     return <Fragment></Fragment>;
   }

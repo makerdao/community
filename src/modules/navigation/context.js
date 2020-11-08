@@ -22,28 +22,6 @@ const NavigationProvider = ({ children }) => {
 
   const { headerFiles, socialLinks } = useStaticQuery(graphql`
     query getNavigationData {
-      # Regex for all files that are NOT config files
-      allMdx: allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "//([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              order
-            }
-          }
-        }
-      }
-
       #Get files that have header/headerOrder frontmatter
       headerFiles: allMdx(
         filter: {

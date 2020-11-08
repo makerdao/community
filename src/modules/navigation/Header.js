@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { useEffect, useRef } from "react";
+import React, { useEffect, useRef } from "react";
 import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 
@@ -83,7 +83,7 @@ const ColorModeToggles = () => {
   );
 };
 
-const HeaderNav = (headerLinks, locale) => {
+const HeaderNav = ({headerLinks, hideMenu}) => {
   const { locale, t } = useTranslation();
 
   return (
@@ -175,6 +175,7 @@ const Header = () => {
     showMobileMenu,
     hideMobileMenu,
   } = useNavigation();
+  
   const breakpoints = theme.breakpoints.slice(0, -1); //NOTE(Rejon): The last element of the break point array SHOULD be infinity.
 
   const onMenuClick = (e) => {
@@ -268,7 +269,7 @@ const Header = () => {
           },
         }}
       >
-        <HeaderNav />
+        <HeaderNav headerLinks={headerLinks} hideMenu={hideMenu}/>
         <Flex
           sx={{
             width: ["100%", "100%", "auto"],
