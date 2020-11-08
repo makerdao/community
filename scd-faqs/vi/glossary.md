@@ -34,11 +34,11 @@
 
 - số lượng tài sản thế chấp có thể mua lại và chủ sở hữu CDP có thể yêu cầu bồi thường trong trường hợp Tắt Hệ thống Khẩn cấp (Emergency Shutdown)
 
-#####  Tài sản thế chấp (Collateral)
+##### Tài sản thế chấp (Collateral)
 
 - tài sản bị khóa trong một CDP
 
-#####  Tỷ lệ thế chấp (Collateralization Ratio)
+##### Tỷ lệ thế chấp (Collateralization Ratio)
 
 - tỷ lệ giữa tài sản thế chấp CDP và Dai do CDP đó tạo ra.
 
@@ -124,11 +124,11 @@
 
 ## L
 
-##### Phí phạt thanh lý 
+##### Phí phạt thanh lý
 
 - một khoản phí phạt sẽ được áp dụng khi số dư đồng Dai CDP bị thanh lý
 
-##### Giá Thanh lý 
+##### Giá Thanh lý
 
 - Giá thấp nhất trên mỗi đơn vị tài sản thế chấp trước khi CDP dễ dàng bị thanh lý.
 

@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from "react";
+import { Children } from "react";
 import { Box, Grid, jsx } from "theme-ui";
 
 const Tout = ({ children }) => {

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { icons as themeIcons } from "@makerdao/dai-ui-icons";
 import { icons as brandingIcons } from "@makerdao/dai-ui-icons-branding";
 import maker from "@makerdao/dai-ui-theme-maker";
@@ -37,9 +37,9 @@ const prismPreset = {
 };
 
 export default {
-...maker, //<- Your default theme.
+  ...maker, //<- Your default theme.
   useCustomProperties: true,
-	useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore. 
+  useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore.
   breakpoints: ["640px", "932px", "infinity"],
   icons: {
     ...themeIcons,
@@ -241,7 +241,7 @@ export default {
     },
   }, //<- Icon package
   colors: {
-	  ...maker.colors, //<- Deconstruct maker.colors so default colors aren't lost.
+    ...maker.colors, //<- Deconstruct maker.colors so default colors aren't lost.
     primary: "#5AE2CA",
     primaryEmphasis: "#68FEE3",
     primaryAlt: "#1AAA9B",
@@ -329,51 +329,51 @@ export default {
   text: {
     text: {
       ...maker.text.text,
-      color: 'textMuted'
+      color: "textMuted",
     },
     heaing: {
       ...maker.text.heading,
-      color: 'textMuted'
+      color: "textMuted",
     },
     h1: {
-      fontSize: ['48px', '64px', '64px'],
+      fontSize: ["48px", "64px", "64px"],
       letterSpacing: "0.3px",
       fontWeight: "600",
-      fontFamily: 'heading',
-      color: 'textMuted'
+      fontFamily: "heading",
+      color: "textMuted",
     },
     h2: {
-      fontSize: '48px',
+      fontSize: "48px",
       fontWeight: "600",
-      letterSpacing: '0.3px',
-      fontFamily: 'heading',
-      color: 'textMuted'
+      letterSpacing: "0.3px",
+      fontFamily: "heading",
+      color: "textMuted",
     },
     h3: {
-      fontSize: '32px',
-      fontWeight: '600',
+      fontSize: "32px",
+      fontWeight: "600",
       letterSpacing: "0.3px",
-      fontFamily: 'heading',
-      color: 'textMuted'
+      fontFamily: "heading",
+      color: "textMuted",
     },
     h4: {
-      fontSize: '24px',
-      fontWeight: '600',
-      letterSpacing: '0.3px',
-      fontFamily: 'heading',
-      color: 'textMuted'
+      fontSize: "24px",
+      fontWeight: "600",
+      letterSpacing: "0.3px",
+      fontFamily: "heading",
+      color: "textMuted",
     },
     largeText: {
-      fontSize: '20px',
-      fontWeight: 'normal',
-      letterSpacing: '0.3px',
-      fontFamily: 'heading'
+      fontSize: "20px",
+      fontWeight: "normal",
+      letterSpacing: "0.3px",
+      fontFamily: "heading",
     },
     smallText: {
-      fontSize: '14px',
-      lineHeight: '17px',
-      letterSpacing: '0.1px'
-    }
+      fontSize: "14px",
+      lineHeight: "17px",
+      letterSpacing: "0.1px",
+    },
   },
   shadows: {
     high: "0px 2px 17px rgba(35, 21, 54, 0.46)",
@@ -381,28 +381,30 @@ export default {
     float: "0px 2px 10px rgba(35, 21, 54, 0.05)",
   },
   radii: {
-	  ...maker.radii,
+    ...maker.radii,
     round: "32px",
   },
   fonts: {
-	  ...maker.fonts,
-    body: 'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
-    heading: 'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
+    ...maker.fonts,
+    body:
+      'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
+    heading:
+      'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
     transparencyDashboard: 'system-ui,"Helvetica Neue",sans-serif',
   },
   styles: {
-	  ...maker.styles,
+    ...maker.styles,
     root: {
       ...maker.styles.root,
       color: "textMuted",
     },
     a: {
-        color: "link",
+      color: "link",
       fontWeight: "600",
       textDecoration: "none",
       transition: "all .1s ease",
       "&.active": {
-          color: "linkAlt",
+        color: "linkAlt",
       },
       "&:hover": {
         color: "linkAlt",
@@ -417,7 +419,7 @@ export default {
       textDecoration: "none",
       transition: "all .1s ease",
       "&.active": {
-          color: "linkAlt",
+        color: "linkAlt",
       },
       "&:hover": {
         color: "linkAlt",
@@ -431,10 +433,10 @@ export default {
     },
     code: {
       ...prismPreset,
-      background: 'none'
+      background: "none",
     },
   },
-  
+
   buttons: {
     primary: {
       cursor: "pointer",
@@ -545,10 +547,10 @@ export default {
       variant: "buttons.outline",
     },
     text: {
-      variant: 'buttons.primary',
-      fontSize: 3, 
-      bg: 'transparent', 
-      color: 'link',
+      variant: "buttons.primary",
+      fontSize: 3,
+      bg: "transparent",
+      color: "link",
       "&:hover": {
         color: "primaryEmphasis",
         textDecoration: "none",
@@ -566,10 +568,10 @@ export default {
       },
     },
     textSmall: {
-      variant: 'buttons.text'
+      variant: "buttons.text",
     },
     icon_text: {
-      variant: 'buttons.text'
-    }
+      variant: "buttons.text",
+    },
   },
-}
+};

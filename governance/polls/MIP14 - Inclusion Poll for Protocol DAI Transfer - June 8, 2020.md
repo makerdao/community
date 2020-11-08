@@ -1,13 +1,14 @@
 ---
 title: "MIP14: Inclusion Poll for Protocol DAI Transfer - June 8, 2020"
-summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2462
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP14: Inclusion Poll for Protocol DAI Transfer - June 8, 2020
 
 On June 8, the Maker Community will vote to determine whether the Maker Improvement Proposal, [MIP14 (Protocol DAI Transfer)](https://forum.makerdao.com/t/2462), will proceed to next week's Governance Poll. In short, MIP14 defines a generic process for transfering DAI from the Maker Protocol to a target Ethereum address.

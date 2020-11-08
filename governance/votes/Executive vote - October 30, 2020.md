@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
-
 ---
+
 ## [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
 
 The Governance Facilitator and the Smart Contracts Domain Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -10,7 +10,7 @@ These changes have been created as an urgent response to the increased risk from
 
 ### Increase the GSM Pause Delay
 
-As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the GSM Pause Delay will be increased from 12 hours to 72 hours if this proposal passes. This change is being proposed in order to allow governance sufficient time to react to a governance attack on the Maker Protocol. 
+As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the GSM Pause Delay will be increased from 12 hours to 72 hours if this proposal passes. This change is being proposed in order to allow governance sufficient time to react to a governance attack on the Maker Protocol.
 
 ### Deauthorize the Oracle Freeze Module
 
@@ -18,11 +18,12 @@ As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-s
 
 ### Deauthorize the Liquidations Circuit Breaker
 
-As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Circuit Breaker (also known as the  and `FlipperMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing or unfreezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing or unfreezing liquidations without waiting for the GSM Pause Delay of 72 hours.
+As per this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), the Liquidations Circuit Breaker (also known as the and `FlipperMom`) will be deauthorized if this proposal passes. This change is being proposed in order to prevent the freezing or unfreezing of vault liquidations by an attacker using flash loans. This change will also prevent Maker Governance from freezing or unfreezing liquidations without waiting for the GSM Pause Delay of 72 hours.
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The GSM Pause Delay will be increased from 12 hours to 72 hours.
 - The Oracle Freeze Module will be deauthorized.
 - The Liquidations Circuit Breaker will be deauthorized.

@@ -4,10 +4,11 @@ summary: Signal your support for increasing the Surplus Auction Buffer from 500,
 discussion_link: https://forum.makerdao.com/t/3316
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Increase the Surplus Auction Buffer to 2 Million DAI - August 10, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the Surplus Auction Buffer, also referred to as the 'System Surplus', from 500,000 DAI to 2,000,000 DAI. More information on this parameter can be found [here](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#surplus-auction).

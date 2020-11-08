@@ -82,14 +82,14 @@ const MD_Overrides = {
       {...props}
     />
   ),
-  h5: ({children,...props}) => (
+  h5: ({ children, ...props }) => (
     <Text
       as="h5"
       sx={{
-        mb: '32px',
-        fontSize: '20px',
-        fontWeight: 'normal',
-        lineHeight: "normal" ,
+        mb: "32px",
+        fontSize: "20px",
+        fontWeight: "normal",
+        lineHeight: "normal",
       }}
     >
       {children}
@@ -100,7 +100,13 @@ const MD_Overrides = {
   hr: (props) => <Divider sx={{ my: 4 }} />,
   p: (props) => (
     <Text
-      sx={{ mb: "16px", fontSize: "16px", letterSpacing: "0.3px", lineHeight: "150%", "& .button": { display: "inline-block" } }}
+      sx={{
+        mb: "16px",
+        fontSize: "16px",
+        letterSpacing: "0.3px",
+        lineHeight: "150%",
+        "& .button": { display: "inline-block" },
+      }}
       {...props}
     />
   ), //NOTE(Rejon): Don't add the as="p" prop to this text component, else you'll get warnings about our interweaving.

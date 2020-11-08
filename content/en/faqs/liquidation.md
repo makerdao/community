@@ -22,7 +22,7 @@ To make sure that the required surplus of collateral exists at all times, a clas
 
 The Liquidation Ratio is the minimum required collateralization level for each [Vault](/learn/vaults/) type before it is considered undercollateralized and subject to Liquidation. The Maker Protocol’s [Oracles](/learn/Oracles/) provide the system with pricing data that is used to track Vaults for when their Liquidation Ratio is breached. Once breached, they are available for Liquidation.
 
-For example, a Vault with a 150% Liquidation Ratio will require a minimum $1.50 of collateral value for every $1 of Dai generated. If the value of the collateral falls to $1.49 it will be Liquidated to cover the generated Dai in addition to a fee called the Liquidation Penalty.
+For example, a Vault with a 150% Liquidation Ratio will require a minimum $1.50 of collateral value for every $1 of Dai generated. If the value of the collateral falls to \$1.49 it will be Liquidated to cover the generated Dai in addition to a fee called the Liquidation Penalty.
 
 Each Vault type’s Liquidation Ratio is determined by a combination of the collateral’s risk profile and the [Stability Fee](/learn/vaults/stability-fees/). There may be multiple Vault types for each collateral, with varying Liquidation Ratios and Stability Fees.
 
@@ -67,11 +67,11 @@ The Liquidation Price for a given [Vault](/learn/vaults/) is usually shown on fr
 (Generated Dai * Liquidation Ratio) / (Amount of Collateral) = Liquidation Price
 ```
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Generated Dai | 1000 DAI |
-  | Liquidation Ratio | 150% |
-  | Amount of Collateral | 10 ETH |
+| Variable             | Value    |
+| -------------------- | -------- |
+| Generated Dai        | 1000 DAI |
+| Liquidation Ratio    | 150%     |
+| Amount of Collateral | 10 ETH   |
 
 ### Result
 
@@ -93,11 +93,11 @@ Formula:
 
 Given that:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Collateral Amount | 10 ETH |
-  | Collateral Price | 300 USD |
-  | Generated Dai | 1000 DAI |
+| Variable          | Value    |
+| ----------------- | -------- |
+| Collateral Amount | 10 ETH   |
+| Collateral Price  | 300 USD  |
+| Generated Dai     | 1000 DAI |
 
 Result:
 
@@ -121,12 +121,12 @@ Formula:
 
 Given that:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Liquidation Ratio | 150% |
-  | Collateral Amount | 10 ETH|
-  | Collateral Price | 200 USD |
-  | Generated Dai | 1000 DAI |
+| Variable          | Value    |
+| ----------------- | -------- |
+| Liquidation Ratio | 150%     |
+| Collateral Amount | 10 ETH   |
+| Collateral Price  | 200 USD  |
+| Generated Dai     | 1000 DAI |
 
 Current Liquidation Price:
 

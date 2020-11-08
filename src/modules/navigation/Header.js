@@ -7,37 +7,190 @@ import { Link } from "@modules/navigation";
 import { useNavigation } from "@modules/navigation/context";
 import { useTranslation } from "@modules/localization";
 import Search from "@modules/search";
-import theme from '@src/gatsby-plugin-theme-ui/'
+import theme from "@src/gatsby-plugin-theme-ui/";
 
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.
 var isShowingMenu = false; //<- For document  event listeners to know if the menu is being shown or not.
 
+const ColorModeToggles = () => {
+  const [colorMode, setColorMode] = useColorMode();
+
+  return (
+    <>
+      <div
+        sx={{
+          display: ["none", "none", "inline-block"],
+          height: "32px",
+          width: "32px",
+          mr: "21px",
+        }}
+      >
+        <Icon
+          size={"32px"}
+          name={"sun"}
+          sx={{
+            borderRadius: "100%",
+            p: "2px",
+            bg: colorMode !== "default" ? "transparent" : "primary",
+            color: colorMode !== "default" ? "onBackgroundAlt" : "text",
+
+            minWidth: "32px",
+            minHeight: "32px",
+            cursor: "pointer",
+            "&:hover": {
+              bg: colorMode !== "default" ? "background" : "",
+            },
+          }}
+          onClick={(e) => {
+            if (colorMode !== "default") {
+              setColorMode("default");
+            }
+          }}
+        />
+      </div>
+
+      <div
+        sx={{
+          display: ["none", "none", "inline-block"],
+          height: "32px",
+          width: "32px",
+        }}
+      >
+        <Icon
+          size={"32px"}
+          name={"moon"}
+          sx={{
+            borderRadius: "100%",
+            p: "2px",
+            bg: colorMode !== "dark" ? "transparent" : "primary",
+            color: colorMode !== "dark" ? "onBackgroundAlt" : "background",
+            minWidth: "32px",
+            minHeight: "32px",
+            cursor: "pointer",
+            "&:hover": {
+              bg: colorMode !== "dark" ? "surfaceDark" : "",
+            },
+          }}
+          onClick={(e) => {
+            if (colorMode !== "dark") {
+              setColorMode("dark");
+            }
+          }}
+        />
+      </div>
+    </>
+  );
+};
+
+const HeaderNav = (headerLinks, locale) => {
+  const { locale, t } = useTranslation();
+
+  return (
+    <>
+      <Link
+        to={`/${locale}/`}
+        variant="nav"
+        onClick={hideMenu}
+        sx={{
+          textDecoration: "none",
+          color: "onBackgroundAlt",
+          letterSpacing: ".03px",
+          width: "52px",
+          height: "52px",
+        }}
+        aria-label={t("aria_MakerHomeIcon")}
+      >
+        <div>
+          <Icon name="maker" color="primary" size={"52px"} />
+        </div>
+      </Link>
+      <Flex
+        sx={{
+          display: ["none", "none", "flex"],
+          flex: "auto",
+          ml: [3, 3, "56px"],
+          alignItems: "center",
+          justifyContent: "center",
+          "& > a": { fontSize: "16px", p: 2, textAlign: "center" },
+          "& > a:not(:last-child)": { mr: "1.4vw" },
+        }}
+      >
+        <Link
+          to={`/${locale}/`}
+          variant="nav"
+          onClick={hideMenu}
+          sx={{
+            textDecoration: "none",
+            fontWeight: "normal",
+            letterSpacing: ".03px",
+            color: "onBackgroundAlt",
+          }}
+        >
+          {t("Home")}
+        </Link>
+        {headerLinks.map(({ url, title }, index) => (
+          <Link
+            to={url}
+            hideExternalIcon
+            key={`header-link-${index}`}
+            sx={{
+              fontWeight: "normal",
+              flexShrink: 0,
+            }}
+          >
+            {title}
+          </Link>
+        ))}
+        <Link
+          to={"https://forum.makerdao.com/"}
+          hideExternalIcon
+          sx={{
+            fontWeight: "normal",
+            flexShrink: 0,
+          }}
+        >
+          {t("Forum")}
+        </Link>
+        <Link
+          to={"https://chat.makerdao.com/"}
+          hideExternalIcon
+          sx={{
+            fontWeight: "normal",
+            flexShrink: 0,
+          }}
+        >
+          {t("Chat")}
+        </Link>
+      </Flex>
+    </>
+  );
+};
+
 const Header = () => {
   const headerContainer = useRef(null);
-  const {headerLinks, mobileNavOpen, showMobileMenu, hideMobileMenu} = useNavigation();
+  const {
+    headerLinks,
+    mobileNavOpen,
+    showMobileMenu,
+    hideMobileMenu,
+  } = useNavigation();
   const breakpoints = theme.breakpoints.slice(0, -1); //NOTE(Rejon): The last element of the break point array SHOULD be infinity.
-
-  const { locale, t } = useTranslation();
-  const [colorMode, setColorMode] = useColorMode();
 
   const onMenuClick = (e) => {
     if (mobileNavOpen) {
       hideMobileMenu(lastScroll);
-    }
-    else {
+    } else {
       showMobileMenu();
-      
     }
-    
+
     isShowingMenu = !mobileNavOpen;
-    
   };
 
   const hideMenu = () => {
     if (mobileNavOpen) {
-        isShowingMenu = false;
-        hideMobileMenu();
+      isShowingMenu = false;
+      hideMobileMenu();
     }
   };
 
@@ -79,7 +232,7 @@ const Header = () => {
         window.removeEventListener("scroll", onScroll);
       };
     }
-  },[breakpoints, mobileNavOpen]);
+  }, [breakpoints, mobileNavOpen]);
 
   return (
     <Box
@@ -115,86 +268,11 @@ const Header = () => {
           },
         }}
       >
-        <Link
-          to={`/${locale}/`}
-          variant="nav"
-          onClick={hideMenu}
-          sx={{
-            textDecoration: "none",
-            color: "onBackgroundAlt",
-            letterSpacing: ".03px",
-            width: "52px",
-            height: "52px",
-          }}
-          aria-label={t("aria_MakerHomeIcon")}
-        >
-          <div
-          >
-            <Icon name="maker" color="primary" size={"52px"} />
-          </div>
-        </Link>
-        <Flex
-          sx={{
-            display: ["none", "none", "flex"],
-            flex: "auto",
-            ml: [3,3,'56px'],
-            alignItems: "center",
-            justifyContent: "center",
-            "& > a": { fontSize: "16px", p: 2, textAlign: "center" },
-            "& > a:not(:last-child)": { mr: "1.4vw" },
-          }}
-        >
-          <Link
-            to={`/${locale}/`}
-            variant="nav"
-            onClick={hideMenu}
-            sx={{
-              textDecoration: "none",
-              fontWeight: "normal",
-              letterSpacing: ".03px",
-              color: "onBackgroundAlt",
-            }}
-          >
-            {t("Home")}
-          </Link>
-          {headerLinks.map(({ url, title }, index) => (
-            <Link
-              to={url}
-              hideExternalIcon
-              key={`header-link-${index}`}
-              sx={{
-                fontWeight: "normal",
-                flexShrink: 0
-              }}
-            >
-              {title}
-            </Link>
-          ))}
-          <Link
-            to={'https://forum.makerdao.com/'}
-            hideExternalIcon
-            sx={{
-              fontWeight: "normal",
-              flexShrink: 0
-            }}
-          >
-            {t('Forum')}
-          </Link>
-          <Link
-            to={'https://chat.makerdao.com/'}
-            hideExternalIcon
-            sx={{
-              fontWeight: "normal",
-              flexShrink: 0
-            }}
-          >
-            {t('Chat')}
-          </Link>
-        </Flex>
+        <HeaderNav />
         <Flex
           sx={{
             width: ["100%", "100%", "auto"],
-            ml: [3,3,"3rem"],
+            ml: [3, 3, "3rem"],
             alignItems: "center",
             letterSpacing: ".03px",
             color: "onBackgroundAlt",
@@ -216,67 +294,7 @@ const Header = () => {
             }}
           />
 
-          <div
-            sx={{
-              display: ["none", "none", "inline-block"],
-              height: "32px",
-              width: "32px",
-              mr: "21px",
-            }}
-          >
-            <Icon
-              size={"32px"}
-              name={"sun"}
-              sx={{
-                borderRadius: "100%",
-                p: "2px",
-                bg: colorMode !== "default" ? "transparent" : "primary",
-                color: colorMode !== "default" ? "onBackgroundAlt" : "text",
-
-                minWidth: "32px",
-                minHeight: "32px",
-                cursor: "pointer",
-                "&:hover": {
-                  bg: colorMode !== "default" ? "background" : "",
-                },
-              }}
-              onClick={(e) => {
-                if (colorMode !== "default") {
-                  setColorMode("default");
-                }
-              }}
-            />
-          </div>
-
-          <div
-            sx={{
-              display: ["none", "none", "inline-block"],
-              height: "32px",
-              width: "32px",
-            }}
-          >
-            <Icon
-              size={"32px"}
-              name={"moon"}
-              sx={{
-                borderRadius: "100%",
-                p: "2px",
-                bg: colorMode !== "dark" ? "transparent" : "primary",
-                color: colorMode !== "dark" ? "onBackgroundAlt" : "background",
-                minWidth: "32px",
-                minHeight: "32px",
-                cursor: "pointer",
-                "&:hover": {
-                  bg: colorMode !== "dark" ? "surfaceDark" : "",
-                },
-              }}
-              onClick={(e) => {
-                if (colorMode !== "dark") {
-                  setColorMode("dark");
-                }
-              }}
-            />
-          </div>
+          <ColorModeToggles />
         </Flex>
         <Icon
           size={"39px"}
@@ -313,8 +331,7 @@ const Header = () => {
             transition: "all .5s cubic-bezier(0.65, 0, 0.35, 1)",
           },
         }}
-      >
-      </Box>
+      ></Box>
     </Box>
   );
 };

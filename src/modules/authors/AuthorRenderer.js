@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react';
+import { Children } from "react";
 import { Grid, jsx } from "theme-ui";
 
 import { ListElement, GridCell, MDXtoAuthor } from "@modules/authors";
@@ -116,7 +116,6 @@ const AuthorRenderer = ({
   } else if (_children.length > 0) {
     authorsToRender = getAuthorDataFromChildren();
   }
-
 
   return (
     <Grid

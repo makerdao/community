@@ -30,7 +30,7 @@ Nếu CDP chuyển sang tình trạng không được thế chấp, hoặc "khô
 
 Tỷ lệ tài sản thế chấp là tỷ lệ giữa giá trị tài sản thế chấp đã thêm vào CDP và số lượng DAI mà họ đã rút ra.
 
-Ví dụ: giả sử hiện tại Ether bị khóa trong CDP có giá là 150 đô la và được vay 50 Dai. Thì tỷ lệ thế chấp sẽ là 300%. Đối với mỗi 1 Dai, giá trị tài sản thế chấp sẽ có giá là $ 3. Trong hệ thống Maker, CDP của bạn sẽ bị thanh lý nếu nó nằm dưới [Tỷ lệ thanh lý](liquidation.md#what-is-the-liquidation-ratio), là tỷ lệ thế chấp tối thiểu.
+Ví dụ: giả sử hiện tại Ether bị khóa trong CDP có giá là 150 đô la và được vay 50 Dai. Thì tỷ lệ thế chấp sẽ là 300%. Đối với mỗi 1 Dai, giá trị tài sản thế chấp sẽ có giá là \$ 3. Trong hệ thống Maker, CDP của bạn sẽ bị thanh lý nếu nó nằm dưới [Tỷ lệ thanh lý](liquidation.md#what-is-the-liquidation-ratio), là tỷ lệ thế chấp tối thiểu.
 
 ## Những rủi ro liên quan đến việc sở hữu CDP?
 
@@ -41,16 +41,17 @@ Sở hữu CDP chẳng khác gì đang nắm giữ rủi ro. Khi sử dụng nó
 - **Rủi ro người dùng:** Đây là những rủi ro liên quan đến lỗi người dùng. MakerDAO không có khả năng đảo ngược bất kỳ giao dịch hoặc thu hồi tiền được gửi đến địa chỉ hoặc hợp đồng không chính xác.
 
 - **Rủi ro hệ thống:** Có khá nhiều rủi ro tiềm ẩn trong quá trình hoạt động và trên con đường thành công của Maker. Sau đây là một số rủi ro hệ thống phổ biến mà chúng tôi tìm được và vẫn chưa phải là tất cả:
-   - Cơ sở hạ tầng của hợp đồng thông minh đột ngột bị tấn công mạnh
-   - Sự kiện Black Swan trong một hoặc nhiều tài sản thế chấp
-   - Lỗi về giá, sự bất hợp lý và các trường hợp không lường trước được
-   - Thất bại của cơ sở hạ tầng tập trung. Ví dụ: kết nối internet không thành công, lỗi MetaMask, v.v.
+
+  - Cơ sở hạ tầng của hợp đồng thông minh đột ngột bị tấn công mạnh
+  - Sự kiện Black Swan trong một hoặc nhiều tài sản thế chấp
+  - Lỗi về giá, sự bất hợp lý và các trường hợp không lường trước được
+  - Thất bại của cơ sở hạ tầng tập trung. Ví dụ: kết nối internet không thành công, lỗi MetaMask, v.v.
 
 - **Rủi ro biến đổi tham số:** Điều quan trọng cần lưu ý là chủ sở hữu CDP phải chấp nhận tất cả thay đổi của “Risk Parameters”, bộ phận chịu trách nhiệm quản lý hệ thống. Đây chẳng khác gì là rủi ro tài chính đối với chủ sở hữu CDP. Sau đây là một phần danh sách các tham số sẽ bị thay đổi:
-   - Phí ổn định
-   - Tỷ lệ thanh lý
-   - Hạn mức nợ của loại tài sản thế chấp
-   - Hình phạt thanh lý
+  - Phí ổn định
+  - Tỷ lệ thanh lý
+  - Hạn mức nợ của loại tài sản thế chấp
+  - Hình phạt thanh lý
 
 ## Hành động thực tiễn để hạn chế rủi ro là gì?
 
@@ -80,7 +81,7 @@ Có rất nhiều lý do khiến cho mọi người phải sử dụng CDP. Thô
 
 ## Có lý do gì để tránh mở CDP không?
 
-_Không có câu nào trong bài này là lời khuyên đầu tư cả nhưng mọi người nên lưu ý các lý do để tránh mở CDP.
+\_Không có câu nào trong bài này là lời khuyên đầu tư cả nhưng mọi người nên lưu ý các lý do để tránh mở CDP.
 
 Chẳng hạn, nếu bạn quan tâm đến một loại tiền điện tử ổn định nào đó nhưng không quen với các phương thức tương tác của hợp đồng thông minh, thì bạn không nên mở CDP. Thay vào đó, bạn nên chuyển sang mua DAI trên sàn giao dịch.
 
@@ -121,4 +122,3 @@ Có thể, miễn là vẫn có tài sản thế chấp bên trong CDP thì bạ
 ## Làm thế nào để tôi có thể xác thực khả năng thanh toán của hệ sinh thái CDP?
 
 Hệ thống làm việc trên blockchain Ethereum, vì vậy tất cả các hợp đồng và giao dịch đều được công khai. Người dùng có thể tương tác với một hệ thống tài chính hoàn toàn rõ ràng mà không cần phải dựa vào trung gian. Bất cứ ai cũng có thể tự xác thực khả năng thanh toán của hệ thống bằng cách truy cập vào một trong nhiều [bảng điều khiển thống kê của MakerDAO](https://github.com/makerdao/awclaw-makerdao/blob/master/README.md#watch-your-dai) hoặc tìm hiểu trực tiếp trên blockchain.
-

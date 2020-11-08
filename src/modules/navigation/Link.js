@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Fragment} from 'react';
+import { Fragment } from "react";
 import { Link as GatsbyLink } from "gatsby";
 import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
@@ -53,19 +53,19 @@ const Link = ({
         partiallyActive={
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
-        sx={{variant: 'styles.a'}}
+        sx={{ variant: "styles.a" }}
         // onClick={(e) => {
-          //NOTE(Rejon): Afaik we aren't using Google Analytics atm.
-          // const eventProps = Object.assign(
-          //   {
-          //     category: "Internal Link",
-          //     action: "Click",
-          //     label: linkHref,
-          //   },
-          //   gaProps
-          // );
+        //NOTE(Rejon): Afaik we aren't using Google Analytics atm.
+        // const eventProps = Object.assign(
+        //   {
+        //     category: "Internal Link",
+        //     action: "Click",
+        //     label: linkHref,
+        //   },
+        //   gaProps
+        // );
 
-          // trackCustomEvent(eventProps);
+        // trackCustomEvent(eventProps);
         // }}
         {...other}
       >

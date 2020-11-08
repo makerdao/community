@@ -1,6 +1,6 @@
 # Encuesta**: Añadir GUSD como Tipo de Colateral - 26 de octubre del 2020**
 
-Los Facilitadores de Gobernanza ha colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la Comunidad de la Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a añadir GUSD (Gemini Dollar) ****como tipo de colateral en el Protocolo Maker.
+Los Facilitadores de Gobernanza ha colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la Comunidad de la Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a añadir GUSD (Gemini Dollar) \*\*\*\*como tipo de colateral en el Protocolo Maker.
 
 Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza estará activa por tres días comenzando el lunes 26 de octubre a las 16:00 UTC.
 

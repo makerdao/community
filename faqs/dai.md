@@ -28,7 +28,7 @@ Retail and Consumer Use of Cryptocurrency: Use of cryptocurrency in regular day-
 
 ## Is one Dai always worth exactly one USD?
 
-No, though it stays pretty close. Dai is not a hard-pegged currency, so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility against the US dollar. Notably, in the event of an [Emergency Shutdown](/learn/governance/emergency-shutdown/), each Dai is redeemable for $1 worth of collateral.
+No, though it stays pretty close. Dai is not a hard-pegged currency, so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility against the US dollar. Notably, in the event of an [Emergency Shutdown](/learn/governance/emergency-shutdown/), each Dai is redeemable for \$1 worth of collateral.
 
 ## How is the price of Dai kept stable?
 
@@ -38,11 +38,11 @@ It achieves this stability through a combination of external market forces, comp
 
 If Dai demand consistently exceeds Dai supply, or vice-versa, it creates a signal that MKR holders need to adjust the [Dai Savings Rate](/learn/Dai/dsr/), which is the primary tool for influencing Dai demand and steering the monetary policy of Dai. Raising the Dai Savings Rate increases the demand for holding Dai; lowering the rate decreases the demand for holding Dai. This ultimately translates to a stable Dai peg.
 
-[Stability Fees](/learn/vaults/stability-fees/) for various Vault types are another policy tool that can be used to help Dai stability but are primarily used for covering the [risk premium](https://www.investopedia.com/terms/r/riskpremium.asp) of different  Vault types. Decreases in a Stability Fee, reflecting the cost of borrowing, can incentivize the additional creation of Dai. Similarly, increasing Stability Fees can reduce the rate of Dai generation.
+[Stability Fees](/learn/vaults/stability-fees/) for various Vault types are another policy tool that can be used to help Dai stability but are primarily used for covering the [risk premium](https://www.investopedia.com/terms/r/riskpremium.asp) of different Vault types. Decreases in a Stability Fee, reflecting the cost of borrowing, can incentivize the additional creation of Dai. Similarly, increasing Stability Fees can reduce the rate of Dai generation.
 
 Arbitrageurs also contribute to the short term stability of the peg by taking advantage of price differences across various Dai markets.
 
-Vault owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than $1. This allows a Vault owner to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar, Vault owners are incentivized to purchase Dai and pay down their Dai balances at a discount.
+Vault owners are able to participate in maintaining the peg by taking advantage of opportunities when spikes in demand push the Dai price higher than \$1. This allows a Vault owner to issue Dai that can be used to purchase assets with an additional variable amount of purchasing power. Inversely, when Dai is trading below a dollar, Vault owners are incentivized to purchase Dai and pay down their Dai balances at a discount.
 
 ## How can I generate Dai?
 

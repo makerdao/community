@@ -51,13 +51,13 @@ Owning a Vault is inherently risky. There are four major categories of risks to 
 - **Market Risks:** Using a Vault involves generating Dai and transferring ownership of your assets to a smart-contract that can sell your assets in the event of a market downturn. Any Vault with Generated Dai has a Liquidation Price, the price of the underlying asset at which one's Vault would be liquidated. Using a Vault for leverage introduces additional risk. The potential for reward is higher through leverage, but the potential for loss is magnified as well. It is a common practice among users to maintain a high Collateralization Ratio to protect from Market Risks and thereby Liquidation.
 - **User Risks:** These are risks associated with user errors. MakerDAO does not possess the ability to reverse any transactions or recover funds sent to incorrect addresses or contracts.
 - **Systemic Risks:** There are many potential risks facing the successful and continued operation of the Maker Protocol. The following non-exhaustive list highlights some of these risks:
-    - A malicious hacking attack against the smart-contract infrastructure.
-    - A Black Swan event in one or more Collateral assets.
-    - Failure of centralized infrastructure. E.g., failed internet connections, MetaMask bugs, etc.
+  - A malicious hacking attack against the smart-contract infrastructure.
+  - A Black Swan event in one or more Collateral assets.
+  - Failure of centralized infrastructure. E.g., failed internet connections, MetaMask bugs, etc.
 - **Parameter Variability Risk:** It's important to note that Vault owners are subject to changes in the Risk Parameters that govern the system. This equates to financial risk for the Vault owner. Below is a partial list of parameters that are subject to change:
-    - [Stability Fee](stability-fee.md)
-    - [Debt Ceiling](#what-is-a-debt-ceiling)
-    - [Liquidation Penalty](liquidation.md#what-is-the-liquidation-penalty)
+  - [Stability Fee](stability-fee.md)
+  - [Debt Ceiling](#what-is-a-debt-ceiling)
+  - [Liquidation Penalty](liquidation.md#what-is-the-liquidation-penalty)
 
 ## What are Common Practices to limit risk?
 

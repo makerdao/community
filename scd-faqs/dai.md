@@ -30,7 +30,7 @@ A decentralized digital economy needs stability in order to function. The Dai st
 
 ## Is one Dai always worth exactly one USD?
 
-No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an Emergency Shutdown, Dai is redeemable for exactly $1 worth of collateral according to the oracles' prices at the time of Emergency Shutdown.
+No. Dai is not a hard-pegged currency so it does not perfectly track the value of an existing fiat currency. Rather, it maintains a free-floating peg that experiences extremely low volatility when compared with other cryptocurrencies. Notably, in the event of an Emergency Shutdown, Dai is redeemable for exactly \$1 worth of collateral according to the oracles' prices at the time of Emergency Shutdown.
 
 ## Where does Dai come from?
 

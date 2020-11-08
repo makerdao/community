@@ -14,7 +14,7 @@ Hackathons are great for several reasons: participants get to push themselves to
 
 Teams are usually created both before the event and at the event. Teams at the event form around the provided hack categories. If you would like to start a team or are looking for a team to join be sure to attend the opening ceremony, make an announcement, and talk to the people who are there. You can also propose or join a team through the event's forum, the event's Facebook page, or other relevant sites that other hackathon participants are likely to see.
 
-### Where do I find resources to work with? 
+### Where do I find resources to work with?
 
 You can find developer resources in our [Awesome-MakerDAO](makerdao/awesome-makerdao/blob/master/README.md) community repository. In addition, you can check out our [Developer Quickstart Guide](./hackathons/developer-quick-start-guide.md) for other helpful information.
 

@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react';
+import { Children } from "react";
 import { Flex, Box, jsx } from "theme-ui";
 
 const Process = ({ children }) => {

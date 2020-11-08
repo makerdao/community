@@ -4,17 +4,18 @@ summary: Signal your support to adjust the Stability Fee within a range of 16.5%
 discussion_link: https://forum.makerdao.com/t/236
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 16.5
-   2: 17.5
-   3: 18.5
-   4: 19.5
-   5: 20.5
-   6: 21.5
-   7: 22.5
-   8: 23.5
-   9: 24.5
+  0: Abstain
+  1: 16.5
+  2: 17.5
+  3: 18.5
+  4: 19.5
+  5: 20.5
+  6: 21.5
+  7: 22.5
+  8: 23.5
+  9: 24.5
 ---
+
 # Poll: Stability Fee Adjustment - August 12, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible Dai Stability Fee options. Voters are now able to signal their support for a Stability Fee within a range of 16.5% to 24.5%.
@@ -27,8 +28,8 @@ The Stability Fee was discussed in the Governance call on Thursday, August 8. Pl
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
-* **This weekly cycle of Polling and Voting will continue until the community believes that stability has returned to the peg.**
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- **This weekly cycle of Polling and Voting will continue until the community believes that stability has returned to the peg.**
 
 ---
 

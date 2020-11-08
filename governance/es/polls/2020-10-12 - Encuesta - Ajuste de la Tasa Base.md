@@ -1,6 +1,6 @@
 # Encuesta: Ajuste de la Tasa Base - 12 de octubre de 2020
 
-Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta ofrece varias opciones posibles para la **Tasa Base**.  Los votantes ahora pueden opinar en favor de una **Tasa Base** en el rango de -4% a 4%.
+Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta ofrece varias opciones posibles para la **Tasa Base**. Los votantes ahora pueden opinar en favor de una **Tasa Base** en el rango de -4% a 4%.
 
 Las Tarifas de Estabilidad se calculan a partir de la Tasa Base y de los Premiums de Riesgo usando la fórmula `Tarifa de Estabilidad = max(Tasa Base + Premium de Riesgo, 0%)`. **Nótese que una Tasa Base negativa no conlleva Tarifas de Estabilidad negativas**.
 
@@ -16,13 +16,13 @@ Usualmente no se discute de manera explícita sobre la **Tasa Base** con frecu
 
 Si el resultado ganador de esta encuesta difiere del valor del parámetro de la **Tasa Base** actual en el Protocolo Maker, entonces este cambio será incluido en el Voto Ejecutivo del viernes que sigue a la conclusión de esta encuesta.
 
-Si el Voto Ejecutivo del viernes es aprobado, esta modificación de la tasa se volverá activa  en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
+Si el Voto Ejecutivo del viernes es aprobado, esta modificación de la tasa se volverá activa en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
 
 ---
 
 ## **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

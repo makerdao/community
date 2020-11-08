@@ -1,11 +1,11 @@
 /** @jsx jsx */
-import {Children, Fragment} from 'react';
+import { Children, Fragment } from "react";
 import { Box, Flex, jsx } from "theme-ui";
 import Sticky from "react-sticky-el";
 import { useStaticQuery, graphql } from "gatsby";
 import { useLocation } from "@reach/router";
 
-import {MobileNav} from '@modules/navigation';
+import { MobileNav } from "@modules/navigation";
 import { useTranslation } from "@modules/localization/";
 import { LanguageSelector } from "@modules/localization";
 import { Sidenav, Breadcrumbs } from "@modules/navigation";
@@ -45,7 +45,7 @@ export default (props) => {
 
   const { children, pageContext, uri } = props;
 
-  const {pagePath} = pageContext; 
+  const { pagePath } = pageContext;
   const {
     title,
     description,
@@ -53,12 +53,15 @@ export default (props) => {
     featuredImage,
     status,
     hideLanguageSelector,
-    hideBreadcrumbs
+    hideBreadcrumbs,
   } = pageContext.frontmatter;
 
-  const pathDirs = pagePath.replace(/^\/|\/$/g, "").split("/").slice(1);
+  const pathDirs = pagePath
+    .replace(/^\/|\/$/g, "")
+    .split("/")
+    .slice(1);
   const urlNoLocale = pathDirs.join("/");
-  
+
   const { sidenavData, breadcrumbData } = calculateTreeData(
     allMdx.edges,
     pathDirs[0],
@@ -68,7 +71,7 @@ export default (props) => {
   );
 
   //NOTE(Rejon): Must be in the shape that React Select expects for it's options.
-  //Something that can be queried? 
+  //Something that can be queried?
   const languageSelectorData = allMdx.edges
     .filter(({ node }) => {
       //Drop the end slash, remove the locale, compare the string
@@ -119,7 +122,7 @@ export default (props) => {
 
     return undefined;
   };
-  
+
   //SEO page title priority is: frontmatter title -> First H1 in mdx -> Filename fallback from uri
   //NOTE(Rejon): If the page is an index of a directory, the uri split will be the name of the directory. ie. /en/bounties -> bounties
   const _pageTitle = title || getFirstHeading() || uri.split("/").pop();
@@ -127,9 +130,13 @@ export default (props) => {
   const hasTopSection =
     currentTopSection !== undefined && currentTopSection !== "";
 
-  const renderSidenav = pageContext.frontmatter && !pageContext.frontmatter.hideSidenav && hasTopSection;
+  const renderSidenav =
+    pageContext.frontmatter &&
+    !pageContext.frontmatter.hideSidenav &&
+    hasTopSection;
   const renderLanguageSelector = hasTopSection && !hideLanguageSelector;
-  const renderBreadcrumbs = (!hideBreadcrumbs || (hasTopSection && !hideLanguageSelector));
+  const renderBreadcrumbs =
+    !hideBreadcrumbs || (hasTopSection && !hideLanguageSelector);
 
   const seo = {
     title: _pageTitle,
@@ -144,69 +151,72 @@ export default (props) => {
     contentWidthSubtract += 256;
   }
 
-
   return (
     <Fragment>
-      {renderSidenav
-          &&
-          <Box
-            sx={{
-              width: "256px",
-              display: ["none", "none", "initial"],
-            }}
-          >
+      {renderSidenav && (
+        <Box
+          sx={{
+            width: "256px",
+            display: ["none", "none", "initial"],
+          }}
+        >
           <Sticky
             boundaryElement=".content-boundary"
             dontUpdateHolderHeightWhenSticky={true}
             style={{ position: "relative" }}
             hideOnBoundaryHit={false}
-            sx={{display: ["none", "none", "initial"]}}
+            sx={{ display: ["none", "none", "initial"] }}
           >
-            <Sidenav data={sidenavData} currentPath={pagePath}/>
+            <Sidenav data={sidenavData} currentPath={pagePath} />
           </Sticky>
         </Box>
-      }
-      <Box as="article" sx={{
-        width: ['100%', '100%', `calc(100% - ${contentWidthSubtract}px)`],
-        mt: hasTopSection ? [4, 4, "59px"] : 0,
-        pl: hasTopSection ? [4, 4, "64px"] : 0,
-        pr: hasTopSection ? [4, 4, 0] : 0,
-        pb: 4,
-      }}>
-      <SEO {...seo} />
-      
-      {status && (
-        <Box sx={{ marginTop: hasTopSection ? 2 : 0 }}>
-          <StatusBanner sticky {...statusProps} sx={{ width: "100%" }} />
-        </Box>
       )}
-      {renderBreadcrumbs && 
-        <Flex
-          sx={{
-            justifyContent: "space-between",
-            position: "relative",
-            alignItems: "flex-start",
-            flexWrap: ["wrap", "wrap", "unset"],
-            px: !hasTopSection ? [3, 3, 0] : 0,
-          }}
-        >
-          <Breadcrumbs data={breadcrumbData} pathDirs={pathDirs}/>
-        </Flex>
-      }
-      <Box sx={{display: ['block', 'block', 'none']}}>
-        {/* MOBILE LANGUAGE SELECTOR */}
-        {renderLanguageSelector && <LanguageSelector data={languageSelectorData} pagePath={pagePath}/>}
+      <Box
+        as="article"
+        sx={{
+          width: ["100%", "100%", `calc(100% - ${contentWidthSubtract}px)`],
+          mt: hasTopSection ? [4, 4, "59px"] : 0,
+          pl: hasTopSection ? [4, 4, "64px"] : 0,
+          pr: hasTopSection ? [4, 4, 0] : 0,
+          pb: 4,
+        }}
+      >
+        <SEO {...seo} />
+
+        {status && (
+          <Box sx={{ marginTop: hasTopSection ? 2 : 0 }}>
+            <StatusBanner sticky {...statusProps} sx={{ width: "100%" }} />
+          </Box>
+        )}
+        {renderBreadcrumbs && (
+          <Flex
+            sx={{
+              justifyContent: "space-between",
+              position: "relative",
+              alignItems: "flex-start",
+              flexWrap: ["wrap", "wrap", "unset"],
+              px: !hasTopSection ? [3, 3, 0] : 0,
+            }}
+          >
+            <Breadcrumbs data={breadcrumbData} pathDirs={pathDirs} />
+          </Flex>
+        )}
+        <Box sx={{ display: ["block", "block", "none"] }}>
+          {/* MOBILE LANGUAGE SELECTOR */}
+          {renderLanguageSelector && (
+            <LanguageSelector data={languageSelectorData} pagePath={pagePath} />
+          )}
+        </Box>
+        <Box>{children}</Box>
       </Box>
-      <Box>
-        {children}
-      </Box>
-      </Box>
-      
-      <Box sx={{display: ['none', 'none', 'block']}}>
+
+      <Box sx={{ display: ["none", "none", "block"] }}>
         {/* DESKTOP LANGUAGE SELECTOR */}
-        {renderLanguageSelector && <LanguageSelector data={languageSelectorData} pagePath={pagePath}/>}
+        {renderLanguageSelector && (
+          <LanguageSelector data={languageSelectorData} pagePath={pagePath} />
+        )}
       </Box>
-      <MobileNav sidenavData={sidenavData}/>
+      <MobileNav sidenavData={sidenavData} />
     </Fragment>
   );
 };

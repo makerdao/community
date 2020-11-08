@@ -5,8 +5,8 @@ import { Flex, jsx } from "theme-ui";
 import { Header, Footer } from "@modules/navigation";
 
 const Layout = ({ children, pageContext, uri, ...props }) => {
-  const hasTopSection = uri ? uri.split('/').length >= 3 : false ; 
-  
+  const hasTopSection = uri ? uri.split("/").length >= 3 : false;
+
   return (
     <Flex
       sx={{
@@ -29,22 +29,27 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
         }}
         className="content-boundary"
       >
-        
-        <Flex sx={{ flexGrow: 1, flexDirection: "column", width: hasTopSection ? '80%' : '' }}>
+        <Flex
+          sx={{
+            flexGrow: 1,
+            flexDirection: "column",
+            width: hasTopSection ? "80%" : "",
+          }}
+        >
           <Flex
             sx={{
-              alignItems: 'start',
-              pr: hasTopSection ? ['unset', 'unset', '64px'] : 0
+              alignItems: "start",
+              pr: hasTopSection ? ["unset", "unset", "64px"] : 0,
             }}
           >
-          {children}
+            {children}
           </Flex>
         </Flex>
       </Flex>
       <Footer />
     </Flex>
-);
-}
+  );
+};
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

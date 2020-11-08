@@ -10,11 +10,11 @@ export const NavigationContext = createContext();
 export const useNavigation = () => {
   const context = useContext(NavigationContext);
   if (context === undefined) {
-    throw new Error('useNavigation must be within a NavigationProvider');
+    throw new Error("useNavigation must be within a NavigationProvider");
   }
 
-  return context; 
-}
+  return context;
+};
 
 const NavigationProvider = ({ children }) => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
@@ -44,8 +44,7 @@ const NavigationProvider = ({ children }) => {
         }
       }
 
-
-    #Get files that have header/headerOrder frontmatter
+      #Get files that have header/headerOrder frontmatter
       headerFiles: allMdx(
         filter: {
           frontmatter: { header: { in: true } }
@@ -95,7 +94,8 @@ const NavigationProvider = ({ children }) => {
     node.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
   );
 
-  const headerLinkEdges = headerEdges.length !== 0 ? headerEdges : defaultHeaderLocaleEdges;
+  const headerLinkEdges =
+    headerEdges.length !== 0 ? headerEdges : defaultHeaderLocaleEdges;
 
   //allMDX will return all header.mdx files at top level locale folders.
   //Find only the one we need for our current locale and use it's body in the MDX renderer below.
@@ -155,7 +155,7 @@ const NavigationProvider = ({ children }) => {
         document.body.style.position = "";
         document.body.style.top = "";
         document.body.style.width = "";
-        console.log(scrollBeforeMenuOpen)
+        console.log(scrollBeforeMenuOpen);
         window.scrollTo(0, scrollBeforeMenuOpen);
       } else {
         //We're showing the menu. Add fixed styling so the user doesn't scroll the window when in the menu.
@@ -167,7 +167,7 @@ const NavigationProvider = ({ children }) => {
 
       setMobileNavOpen(true);
     }
-  }
+  };
 
   const hideMobileMenu = (scrollBeforeMenuOpen) => {
     if (mobileNavOpen) {
@@ -180,17 +180,18 @@ const NavigationProvider = ({ children }) => {
         setMobileNavOpen(false);
       }
     }
-  }
+  };
 
   return (
     <NavigationContext.Provider
       value={{
         mobileNavOpen,
-        showMobileMenu, 
+        showMobileMenu,
         hideMobileMenu,
         headerLinks,
-        socialLinks
-      }}>
+        socialLinks,
+      }}
+    >
       {children}
     </NavigationContext.Provider>
   );

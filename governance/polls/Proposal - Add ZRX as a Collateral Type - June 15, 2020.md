@@ -4,11 +4,11 @@ summary: This poll proposes Risk Parameters which could be used to initialize ZR
 discussion_link: https://forum.makerdao.com/t/2730
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add ZRX as a Collateral Type - June 15, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add ZRX as a collateral type.

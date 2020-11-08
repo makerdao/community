@@ -4,11 +4,12 @@ summary: Signal your support to change the structure of the weekly Stability Fee
 discussion_link: https://forum.makerdao.com/t/2380
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: Yes (allow negative Base Rate)
-   2: Yes (disallow negative Base Rate)
-   3: No
+  0: Abstain
+  1: Yes (allow negative Base Rate)
+  2: Yes (disallow negative Base Rate)
+  3: No
 ---
+
 # Change the Stability Fee Structure - May 18 2020
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support for changing the structure of the weekly Stability Fee votes.
@@ -30,7 +31,7 @@ A summary of the proposed changes:
 
 ## Next Steps
 
-* If this proposal passes, the changes listed in Review will be made starting the week of May 25th, 2020.
+- If this proposal passes, the changes listed in Review will be made starting the week of May 25th, 2020.
 
 ---
 

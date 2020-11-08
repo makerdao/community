@@ -2,7 +2,7 @@
 import { Flex, Box, jsx } from "theme-ui";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Icon } from "@makerdao/dai-ui-icons";
-import Link from '@modules/navigation/Link';
+import Link from "@modules/navigation/Link";
 
 import { useTranslation } from "@modules/localization";
 import { useNavigation } from "@modules/navigation/context";
@@ -29,7 +29,6 @@ const Footer = () => {
       : defaultSocialConfigLinks
       ? defaultSocialConfigLinks.internal.content.trim().split("\n")
       : null;
-
 
   return (
     <Box
@@ -70,7 +69,12 @@ const Footer = () => {
               sx={{ width: "217px", height: "30px", display: "block" }}
             />
           </Link>
-          <Box sx={{ "& > *:not(:last-of-type)": { mr: "18px" }, '& > a': {mr: 0} }}>
+          <Box
+            sx={{
+              "& > *:not(:last-of-type)": { mr: "18px" },
+              "& > a": { mr: 0 },
+            }}
+          >
             {_socialLinks.map((s, index) => {
               const link = s.match(/\(([^)]+)\)/)[1];
 
@@ -90,7 +94,7 @@ const Footer = () => {
             verticalAlign: "top",
             "& > * > ul": {
               m: 0,
-             
+
               p: 0,
               color: "text",
               listStyleType: "none",
@@ -111,9 +115,9 @@ const Footer = () => {
                   p: 0,
                   mt: 3,
                   listStyleType: "none",
-                  '& li a': {
+                  "& li a": {
                     color: "onBackgroundAlt",
-                    fontWeight: 'normal'
+                    fontWeight: "normal",
                   },
                   "& li:not(:last-of-type)": {
                     mb: "10px",
@@ -123,126 +127,150 @@ const Footer = () => {
             },
           }}
         >
-            <div sx={{ flex: 1 }}>
-              <ul>
-                <li>
-                  <span sx={{mt: 0}}>
-                    {t('Resources', 'Footer')}
-                  </span>
+          <div sx={{ flex: 1 }}>
+            <ul>
+              <li>
+                <span sx={{ mt: 0 }}>{t("Resources", "Footer")}</span>
 
-                  <ul>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/whitepaper'}>
-                        {t('Whitepaper', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://awesome.makerdao.com/#faqs'}>
-                        {t('FAQs', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/privacy'}>
-                        {t('Privacy_Policy', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4'}>
-                        {t('Brand_Assets', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/feeds'}>
-                        {t('Feeds', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.statuspage.io/'}>
-                        {t('Service_Status', 'Footer')}
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <span>
-                    {t('Products', 'Footer')}
-                  </span>
+                <ul>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/whitepaper"}
+                    >
+                      {t("Whitepaper", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://awesome.makerdao.com/#faqs"}
+                    >
+                      {t("FAQs", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/privacy"}
+                    >
+                      {t("Privacy_Policy", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={
+                        "https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4"
+                      }
+                    >
+                      {t("Brand_Assets", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/en/feeds"}>
+                      {t("Feeds", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.statuspage.io/"}
+                    >
+                      {t("Service_Status", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Products", "Footer")}</span>
 
-                  <ul>
-                    <li>
-                      <Link hideExternalIcon to={'https://oasis.app/'}>
-                        {t('Oasis', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://migrate.makerdao.com/'}>
-                        {t('Migrate', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/ecosystem'}>
-                        {t('Ecosystem', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/governance'}>
-                        {t('Governance', 'Footer')}
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <span>
-                    {t('Developers', 'Footer')}
-                  </span>
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://oasis.app/"}>
+                      {t("Oasis", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://migrate.makerdao.com/"}>
+                      {t("Migrate", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/ecosystem"}
+                    >
+                      {t("Ecosystem", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/governance"}
+                    >
+                      {t("Governance", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Developers", "Footer")}</span>
 
-                  <ul>
-                    <li>
-                      <Link hideExternalIcon to={'https://docs.makerdao.com/'}>
-                        {t('Documentation', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://docs.makerdao.com/dai.js'}>
-                        {t('Daijs', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://github.com/makerdao/developerguides'}>
-                        {t('Developer_Guides', 'Footer')}
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <span>
-                    {t('Foundation', 'Footer')}
-                  </span>
-                  <ul>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/team/'}>
-                        {t('Team', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/careers'}>
-                        {t('Careers', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://makerdao.com/en/contact'}>
-                        {t('Contact', 'Footer')}
-                      </Link>
-                    </li>
-                    <li>
-                      <Link hideExternalIcon to={'https://blog.makerdao.com/'}>
-                        {t('Blog', 'Footer')}
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://docs.makerdao.com/"}>
+                      {t("Documentation", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://docs.makerdao.com/dai.js"}
+                    >
+                      {t("Daijs", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://github.com/makerdao/developerguides"}
+                    >
+                      {t("Developer_Guides", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Foundation", "Footer")}</span>
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/team/"}>
+                      {t("Team", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/careers"}>
+                      {t("Careers", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/contact"}
+                    >
+                      {t("Contact", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://blog.makerdao.com/"}>
+                      {t("Blog", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
         </div>
       </Flex>
     </Box>

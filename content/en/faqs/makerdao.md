@@ -14,7 +14,7 @@ MakerDAO is a decentralized organization dedicated to bringing financial stabili
 
 The idea of MakerDAO became public on March 26th, 2015 with Rune Christensen’s post, [Introducing eDollar, the ultimate stablecoin built on Ethereum,](https://www.reddit.com/r/ethereum/comments/30f98i/introducing_edollar_the_ultimate_stablecoin_built/) on the r/ethereum subreddit.
 
-## Why did the founders call it _Maker_DAO?
+## Why did the founders call it \_Maker_DAO?
 
 The term "Maker" is from the term Market Maker. This was driven in part based upon [BitUSD's](https://web.archive.org/web/20200426202839/https://bitshares.org/technology/price-stable-cryptocurrencies/) inability to attract market makers, which resulted in its lack of robust liquidity. One original idea was to distribute MKR specifically to crypto market makers, which we later started calling keepers, to ensure they were incentivized in the system and would help bootstrap its liquidity.
 
@@ -70,7 +70,7 @@ The various entities associated with the Maker Foundation are currently held und
 
 ## How do I distinguish between the DAO and the team who is developing and bootstrapping MakerDAO?
 
-MKR token holders are all members of MakerDAO. At times, this creates an overlap between the DAO and the Maker Foundation because many Maker Foundation team members are MKR token holders themselves (and many of them were MKR holders and supporters before joining the Maker Foundation). That said, the Maker Foundation does not control, participate or vote in MakerDAO governance.  MKR token holders alone decide what happens to the Maker Protocol. Moreover, all interested parties may publicly submit their opinions related to MakerDAO governance.
+MKR token holders are all members of MakerDAO. At times, this creates an overlap between the DAO and the Maker Foundation because many Maker Foundation team members are MKR token holders themselves (and many of them were MKR holders and supporters before joining the Maker Foundation). That said, the Maker Foundation does not control, participate or vote in MakerDAO governance. MKR token holders alone decide what happens to the Maker Protocol. Moreover, all interested parties may publicly submit their opinions related to MakerDAO governance.
 
 ## What is the Dai Foundation?
 

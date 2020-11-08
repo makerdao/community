@@ -49,23 +49,23 @@ If you have the time to read over and vote in active threads, that would be much
 ##### Discussions
 
 - [MakerDAO Protocol Cover using Nexus Mutual](https://forum.makerdao.com/t/makerdao-protocol-cover-using-nexus-mutual/4761)
-    - We've had some reasonably active discussions on the forum this week with an exciting post from Hugh_Karp of Nexus Mutual talking about MakerDAO potentially taking out insurance against bad debt on the protocol, which kind of garnered a lot of discussion and some good points from both sides from various people. I think we're going to try and get Hugh on next week's governance and risk meeting to do a brief presentation and open a discussion on this meeting. If anybody's interested in that, make sure you come next week.
+  - We've had some reasonably active discussions on the forum this week with an exciting post from Hugh_Karp of Nexus Mutual talking about MakerDAO potentially taking out insurance against bad debt on the protocol, which kind of garnered a lot of discussion and some good points from both sides from various people. I think we're going to try and get Hugh on next week's governance and risk meeting to do a brief presentation and open a discussion on this meeting. If anybody's interested in that, make sure you come next week.
 - [Rate Setting Framework](https://forum.makerdao.com/t/rate-setting-framework/4809)
-    - The rates working group posted some guidance on the rate-setting framework that's going to be in use now that that's our proposal going through governance, so this will be a basic description of how rates proposals will be formed, what time things should happen. Read it if you're interested in how rates will be set up and how rate changes will be proposed from now on.
+  - The rates working group posted some guidance on the rate-setting framework that's going to be in use now that that's our proposal going through governance, so this will be a basic description of how rates proposals will be formed, what time things should happen. Read it if you're interested in how rates will be set up and how rate changes will be proposed from now on.
 - [Official Launch of mkranalytics.com](https://forum.makerdao.com/t/official-launch-of-mkranalytics-com/4811)
-    - I also wanted to highlight a post from hexonaut talking about the official launch of mkranalytics.com. Sam, if you wish to speak briefly about it now, you can. It's a really awesome analytics site for the maker protocol with all sorts of metrics. You can track and combine them in interesting ways. I look forward to seeing what kind of conclusions people can draw from it.
-        - SamM: You want me to talk about it now?
-        - LongForWisdom: If you want to do a brief, a few sentence plug, or something like that, that would be fine.
-        - SamM: Sure, so mkranalytics is a site for basically tracking time series of every stat within the maker protocol. It doesn't have everything right now, but it has most things that are relevant. If there's anything that needs to be added, feel free to just open up an issue or a pull request or whatever; all the code is open-source, so have a look. You can break down by vault type and time-series data, so let me know if anybody has any questions.
-        - LongForWisdom: Yeah, this existed for a little while, but it's kind of now just coming into proper functionality, and it's great. Everyone, go and take a look.
+  - I also wanted to highlight a post from hexonaut talking about the official launch of mkranalytics.com. Sam, if you wish to speak briefly about it now, you can. It's a really awesome analytics site for the maker protocol with all sorts of metrics. You can track and combine them in interesting ways. I look forward to seeing what kind of conclusions people can draw from it.
+    - SamM: You want me to talk about it now?
+    - LongForWisdom: If you want to do a brief, a few sentence plug, or something like that, that would be fine.
+    - SamM: Sure, so mkranalytics is a site for basically tracking time series of every stat within the maker protocol. It doesn't have everything right now, but it has most things that are relevant. If there's anything that needs to be added, feel free to just open up an issue or a pull request or whatever; all the code is open-source, so have a look. You can break down by vault type and time-series data, so let me know if anybody has any questions.
+    - LongForWisdom: Yeah, this existed for a little while, but it's kind of now just coming into proper functionality, and it's great. Everyone, go and take a look.
 
 ##### Signal Requests
 
 - [Stablecoin Action Plan](https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808)
-    - Seeking consensus this week had, I think, one new signal request only, which was hexonaut's proposal for starting a stablecoin action plan for stablecoin vaults. As people have seen in previous meetings, they will be aware this has been discussed thoroughly in these meetings. Sam kindly put together a post that summarizes the various options of the poll. Please take a look at that and vote if you have strong feelings about dealing with the stablecoin vaults.
+  - Seeking consensus this week had, I think, one new signal request only, which was hexonaut's proposal for starting a stablecoin action plan for stablecoin vaults. As people have seen in previous meetings, they will be aware this has been discussed thoroughly in these meetings. Sam kindly put together a post that summarizes the various options of the poll. Please take a look at that and vote if you have strong feelings about dealing with the stablecoin vaults.
 - [Approve Maker Representatives as an oversight role for Real-World Assets](https://forum.makerdao.com/t/signal-request-approve-maker-representatives-as-an-oversight-role-for-real-world-assets-october-2020/4656)
 - [Increase the Auction Surplus Buffer by 2m (System Surplus)](https://forum.makerdao.com/t/signal-request-increase-the-auction-surplus-buffer-by-2m-system-surplus-october-2020/4716)
-    - The other signal requests from last week: increase the auction surplus buffer, and approving Maker representatives are currently on-chain. They both just finished, and both polls have passed.
+  - The other signal requests from last week: increase the auction surplus buffer, and approving Maker representatives are currently on-chain. They both just finished, and both polls have passed.
 
 ### Christopher Mooney
 
@@ -75,9 +75,9 @@ If you have the time to read over and vote in active threads, that would be much
 
 - Last week, we worked on the ETH-B executive, which passed, and it's on mainnet now, and we didn't do any collateral assessments for last week. We were busy with onboarding BAL-A to Kovan the previous week, which took a lot longer because we've been working on this collateral onboarding documentation. At the same time, we're onboarding BAL-A, so BAL-A was the collateral that we used, and that was days and days. I just wanted to put a sort of shout out to Sam and Brian and the integration team for smart contracts because it's a lot of work. I think that doc is pretty much done, and it should pay dividends in the future for us in terms of ramping up other teams to onboard collateral.
 - I think BrianMcMichael and LucasManual also worked on the DSS executive. I don't know if they want to mention anything yet, I'll let you guys chime in if you want to.
-    - BrianMcMichael: We've spent the last couple of weeks working on an executive library that'll help us speed up and reduce potential errors in our executive spell crafting process. Our collateral onboarding process is a very manual process where we go through checklists and follow a prescribed work pattern. The exec lib is basically going to automate a lot of that for us and take a lot of work off of our development team and then collateral onboarding teams outside of the foundation. Then there are just additional things. We can set all of our debt ceilings, stability fees, and rates with a single call now rather than all of the boilerplate we had before.
-    - LucasManuel: Another good thing was to abstract away a lot of the "Daiwanese" so outside community members can just call these functions, they're called like setGlobalDebtCeiling instead of creasefat.line
-    - BrianMcMichael: Much clearer Dai.
+  - BrianMcMichael: We've spent the last couple of weeks working on an executive library that'll help us speed up and reduce potential errors in our executive spell crafting process. Our collateral onboarding process is a very manual process where we go through checklists and follow a prescribed work pattern. The exec lib is basically going to automate a lot of that for us and take a lot of work off of our development team and then collateral onboarding teams outside of the foundation. Then there are just additional things. We can set all of our debt ceilings, stability fees, and rates with a single call now rather than all of the boilerplate we had before.
+  - LucasManuel: Another good thing was to abstract away a lot of the "Daiwanese" so outside community members can just call these functions, they're called like setGlobalDebtCeiling instead of creasefat.line
+  - BrianMcMichael: Much clearer Dai.
 - Thanks, guys. Let's see, so we didn't do a lot of work on the priority sheet. Last week, most of that was done, but we adjusted the weights in the priority sheet slightly.
 - We did a domain team review of MIP22. [The results of that are in the forum post for MIP22.](https://forum.makerdao.com/t/mip22-centrifuge-direct-liquidation-module/3930/9)
 - In the coming week, we're going to get YFI into Kovan using that new documentation, which actually will probably be done by the end of this week.
@@ -113,11 +113,11 @@ If you have the time to read over and vote in active threads, that would be much
 - Not much to update for governance; we have some initiatives not ready to be announced yet.
 - We are looking to do more communications and announcements around new vault types as they come about.
 - Generally, there are a few initiatives that the community has been working on:
-    - [The Dai-rectory](https://github.com/makerdao/community/issues/895), a directory of retail merchants that accept Dai.
-    - [The Dai LatAM Action group](https://github.com/makerdao/community/issues/670) had a successful 3-month pilot.
-    - [POAP NFTs for contributor recognition.](https://github.com/makerdao/community/issues/907)
-    - [Exploring a MakerDAO-form podcast for voters.](https://github.com/makerdao/community/issues/753)
-    - We onboarded the grantee Valante POS system, making it easier for merchants to generate tax-compliant invoices.
+  - [The Dai-rectory](https://github.com/makerdao/community/issues/895), a directory of retail merchants that accept Dai.
+  - [The Dai LatAM Action group](https://github.com/makerdao/community/issues/670) had a successful 3-month pilot.
+  - [POAP NFTs for contributor recognition.](https://github.com/makerdao/community/issues/907)
+  - [Exploring a MakerDAO-form podcast for voters.](https://github.com/makerdao/community/issues/753)
+  - We onboarded the grantee Valante POS system, making it easier for merchants to generate tax-compliant invoices.
 
 ### Juan
 
@@ -158,18 +158,18 @@ If you have the time to read over and vote in active threads, that would be much
 #### Questions
 
 - Chris: Yes, I was just wondering. I kind of asked this in the forums, but crypto.com's liquidity for Dai is pretty low. I was interested if they plan on using their CRO token to provide more liquidity on their exchange if we were to add it as collateral because I assume they have CRO reserves that they would sort of pivot into DAI liquidity on their exchange. Still, they answered pretty broadly in the forums, but I wasn't sure if they had touched on that at all in the collateral onboarding call.
-    - Juan: They did speak a little bit, but we did not go a lot into detail. I guess the Q&A wasn't particularly structured, but yeah, we can try asking again in the forums, I guess; sorry to not have a better answer, Chris.
+  - Juan: They did speak a little bit, but we did not go a lot into detail. I guess the Q&A wasn't particularly structured, but yeah, we can try asking again in the forums, I guess; sorry to not have a better answer, Chris.
 - Frank Cruz: I have a quick question, that company that's greenlighting right now that's in real estate, OST-1, did they ever come on your show? If so, do you remember when so that I could look at it because I'm having a hard time trying to figure out what exactly they do.
-    - Juan: Which company?
-    - LongForWisdom: OST One, I believe they're out to boost an LP or something.
-    - Frank Cruz: Yeah, the one that's trying to build the building or they're trying to buy one apartment or something.
-    - LongForWisdom: Uprets is the group.
-    - Juan: I cannot remember having them, so I don't think so, I'll check David's link, but I do not remember having them. No, they did not, I don't think, or maybe it was one of the first ones, but I can not remember them, to be honest.
-    - LongForWisdom: I don't think they have, from what I can remember.
-    - David: They look pretty active in the forums; their last response was 14 hours ago.
-    - Juan: I mean, we can always invite them if they have not yet presented.
-    - Frank Cruz: That would be interesting if you could.
-    - Juan: Yes, let's reach out.
+  - Juan: Which company?
+  - LongForWisdom: OST One, I believe they're out to boost an LP or something.
+  - Frank Cruz: Yeah, the one that's trying to build the building or they're trying to buy one apartment or something.
+  - LongForWisdom: Uprets is the group.
+  - Juan: I cannot remember having them, so I don't think so, I'll check David's link, but I do not remember having them. No, they did not, I don't think, or maybe it was one of the first ones, but I can not remember them, to be honest.
+  - LongForWisdom: I don't think they have, from what I can remember.
+  - David: They look pretty active in the forums; their last response was 14 hours ago.
+  - Juan: I mean, we can always invite them if they have not yet presented.
+  - Frank Cruz: That would be interesting if you could.
+  - Juan: Yes, let's reach out.
 
 ### Charles St. Louis
 
@@ -190,15 +190,15 @@ If you have the time to read over and vote in active threads, that would be much
 ![](https://i.imgur.com/CtY1elW.png)
 
 - As far as the proposals currently in the RFC phase, it's been a busy October. It's going to be a busy November, pending that all the authors of these proposals intend to submit them for November. It should be noted that the proposals that have entered the RFC phase are the same as last week:
-     - [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021), which is a rewrite of the original one that was looking at DC adjustments as well as RP adjustments. However, this one is now proposed by PlanetX, and it's only for the weekly actual DC adjustments. I highly recommend checking that out, looking at the logic, and seeing if people agree is how we should move forward.
-    - [MIP24](https://forum.makerdao.com/t/mip24-emergency-response/4009/12) is an emergency response system proposed by John Athman recently updated by David Utro, which was presented a couple of weeks ago. It should be eligible for November. LongForWisdom and I have made some comments in the post, but we'll follow up with others. Still, if you want to submit this proposal for November, you should make sure all the changes have been made by October 28th.
-    - We have the [MIP25](https://forum.makerdao.com/t/mip25-flash-mint-module/4400) Flash Mint Module by Sam, and that was a follow-up to the declarations of intent for creating a flash module for Maker. This is the technical implementation of that intent.
-    - Next, we have the [MIP26](https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589), which is the Governance contract redesign, called DSS-Gov. It includes a vote delegation functionality.
-    - Then, there is the [MIP 27](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625) Debt Ceiling Instant Access Module, which you can think of as an automated version of MIP17, although there are some differences. So if you're looking at MIP27, then you should look at MIP17 to compare and see if the manual processes transfer over to the automatic one.
-    - There's [MIP28](https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627) operational support domain definitions ultimately defines the entire support domain. If it were to be approved, what the actions the domain would take in helping facilitate and running the DAO.
-    - In terms of sub-proposals, we had a source cred funding proposal.
-    - We had another sub-proposal as a follow-up to MIP28 to onboard Amy as a support facilitator.
-    - There is the sub-proposal for calendar exceptions, which is an amendment to potentially skip, for lack of a better term, the December governance cycle given that a lot of people are away and not as many people will be paying attention during that time.
+  - [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021), which is a rewrite of the original one that was looking at DC adjustments as well as RP adjustments. However, this one is now proposed by PlanetX, and it's only for the weekly actual DC adjustments. I highly recommend checking that out, looking at the logic, and seeing if people agree is how we should move forward.
+  - [MIP24](https://forum.makerdao.com/t/mip24-emergency-response/4009/12) is an emergency response system proposed by John Athman recently updated by David Utro, which was presented a couple of weeks ago. It should be eligible for November. LongForWisdom and I have made some comments in the post, but we'll follow up with others. Still, if you want to submit this proposal for November, you should make sure all the changes have been made by October 28th.
+  - We have the [MIP25](https://forum.makerdao.com/t/mip25-flash-mint-module/4400) Flash Mint Module by Sam, and that was a follow-up to the declarations of intent for creating a flash module for Maker. This is the technical implementation of that intent.
+  - Next, we have the [MIP26](https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589), which is the Governance contract redesign, called DSS-Gov. It includes a vote delegation functionality.
+  - Then, there is the [MIP 27](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625) Debt Ceiling Instant Access Module, which you can think of as an automated version of MIP17, although there are some differences. So if you're looking at MIP27, then you should look at MIP17 to compare and see if the manual processes transfer over to the automatic one.
+  - There's [MIP28](https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627) operational support domain definitions ultimately defines the entire support domain. If it were to be approved, what the actions the domain would take in helping facilitate and running the DAO.
+  - In terms of sub-proposals, we had a source cred funding proposal.
+  - We had another sub-proposal as a follow-up to MIP28 to onboard Amy as a support facilitator.
+  - There is the sub-proposal for calendar exceptions, which is an amendment to potentially skip, for lack of a better term, the December governance cycle given that a lot of people are away and not as many people will be paying attention during that time.
 
 ![](https://i.imgur.com/h9q9y63.png)
 
@@ -261,15 +261,15 @@ If you have the time to read over and vote in active threads, that would be much
 ![](https://i.imgur.com/Qj2YnGb.png)
 
 - [Chris Mooney?](https://youtu.be/1BcBrArV-5A?t=2278): So, for a new executive that's coming, is there still a section where it references how much MKR is needed to move to the next hat? I know you already voted on that one, so I don't know if it would otherwise be there.
-   - Derek: Yes, it will say how much more is required to become the hat, yes. So in the old portal, we would have said "amount required to pass." I believe we do still have that if that's what you're were referring to.
-   - Chris Mooney?: Yeah, thank you.
+  - Derek: Yes, it will say how much more is required to become the hat, yes. So in the old portal, we would have said "amount required to pass." I believe we do still have that if that's what you're were referring to.
+  - Chris Mooney?: Yeah, thank you.
 
 ![](https://i.imgur.com/W5XqOVy.png)
 
 ![](https://i.imgur.com/QqiWaAA.png)
 
 - Yeah, so let me know what you guys think; I think that's my very brief overview of the three pages and likewise looking for all the feedback you have. Long, I saw your document, and we've got a list of improvements that we're working through as a backlog, hoping to add to that and get it looking good across the board.
-    - LongForWisdom: Great, thanks very much, Derek, that was awesome. Thanks so much to you and all the people who worked on it; it's a significant improvement, I think. Hopefully, this new portal will mean that people more consistently vote on everything because what we've always seen before is that people tend to vote on the more controversial things than ordinary stuff. Still, with this new system, they'll be able to vote on everything for the same amount of gas and, hopefully, a similar amount of effort or less effort.
+  - LongForWisdom: Great, thanks very much, Derek, that was awesome. Thanks so much to you and all the people who worked on it; it's a significant improvement, I think. Hopefully, this new portal will mean that people more consistently vote on everything because what we've always seen before is that people tend to vote on the more controversial things than ordinary stuff. Still, with this new system, they'll be able to vote on everything for the same amount of gas and, hopefully, a similar amount of effort or less effort.
 - Derek: Hoping to see participation in the polls go up; I know it's actually been pretty good. When I was looking over the numbers, it was plus or minus a few percent difference across polls. Definitely, the more controversial ones got more attention but hopefully, this way, streamline that participation will be helpful for people.
 
 #### Discussion & Questions
@@ -277,11 +277,11 @@ If you have the time to read over and vote in active threads, that would be much
 [40:32](https://youtu.be/1BcBrArV-5A?t=2432)
 
 - David: I wanted to quickly just ask the question because I just want to make sure it's covered here; I already kind of know the answer because you came on the community call on Tuesday, but there is a comment capability for executives, and I know that there's no comment capability for governance polls. Can you give just a brief update on whether that's in the plan?
-    - Derek: Yeah, and I know roone commented on that earlier in the week in the RocketChat channel as well; we haven't planned on it, to be honest, but if there is a request for it and people want to see it, there's no reason why we can't add it. We prioritize the executives because there was a lot of discussion in the forum and the polls specifically. It was a little unclear as to what people's sentiment was around the executive, so we prioritize that first. We can certainly look to do the same for the poles no reason why not. If there's an appetite for it, absolutely.
-    - David: Sweet, thanks so much.
-    - Derek: Alright, I guess I wanted to see how it was going to go with the executives and what sort of feedback and value we got from it before we put some dev time towards it but let's see how it goes, and then I'll give you guys a shout out when we think we're gonna jump to get that in as well but the things that we have coming up, of course, we've got the new governance contract so that's going to require a rewrite of the executive page to support multiple concurrent executives and that, of course, brings in some work around delegation which will change the interface again. There will also be instant access modules once we get past MIP17 and 26 or 27; I can't remember anymore, but there will be ongoing updates and improvements. Still, that stuff is coming down the line, so it will keep us busy.
+  - Derek: Yeah, and I know roone commented on that earlier in the week in the RocketChat channel as well; we haven't planned on it, to be honest, but if there is a request for it and people want to see it, there's no reason why we can't add it. We prioritize the executives because there was a lot of discussion in the forum and the polls specifically. It was a little unclear as to what people's sentiment was around the executive, so we prioritize that first. We can certainly look to do the same for the poles no reason why not. If there's an appetite for it, absolutely.
+  - David: Sweet, thanks so much.
+  - Derek: Alright, I guess I wanted to see how it was going to go with the executives and what sort of feedback and value we got from it before we put some dev time towards it but let's see how it goes, and then I'll give you guys a shout out when we think we're gonna jump to get that in as well but the things that we have coming up, of course, we've got the new governance contract so that's going to require a rewrite of the executive page to support multiple concurrent executives and that, of course, brings in some work around delegation which will change the interface again. There will also be instant access modules once we get past MIP17 and 26 or 27; I can't remember anymore, but there will be ongoing updates and improvements. Still, that stuff is coming down the line, so it will keep us busy.
 - LongForWisdom: Great, yeah, thanks very much, Derek. That was awesome. I'm looking forward to using it more. Kenton just asked when are we switching to snapshot voting? I don't think we're planning to switch to it immediately; I don't believe there are plans to change. We're kind of just investigating integrating it with the current portal, right Derek?
-    - Derek: Exactly, yes, we're investigating integrating it with the portal, whether it will be side by side or complete replacement of the polling that we have is TBD based on that we have work to do to ensure that we can support rank choice voting which they do not currently support, so there's a little bit more work to do on it. I wouldn't put a date on it yet, but as soon as we get closer, that code's all public, so you guys will see when those improvements get done that we can start looking to integrate.
+  - Derek: Exactly, yes, we're investigating integrating it with the portal, whether it will be side by side or complete replacement of the polling that we have is TBD based on that we have work to do to ensure that we can support rank choice voting which they do not currently support, so there's a little bit more work to do on it. I wouldn't put a date on it yet, but as soon as we get closer, that code's all public, so you guys will see when those improvements get done that we can start looking to integrate.
 
 ### Juan
 
@@ -296,19 +296,19 @@ If you have the time to read over and vote in active threads, that would be much
 ![](https://i.imgur.com/Aq3epnF.png)
 
 - I'm going to publish a [post in the forum with the Google sheet](https://forum.makerdao.com/t/collateral-onboarding-framework-a-model/4838), which is what I'm going to show right now.
--  Regarding how to read the frameworks, this will be on the forums, so don't worry too much. Basically, the first row is each team responsible for filling each parameter. Row number two is the weight that each parameter will have for the scoring. And row number three will be each parameter. Everything green is a benefit or a good thing, and the things that have a red background is a little bit of a "cost." The green light score was taken from the amount of Maker approved in each greenlight poll, and then it was normalized between minus 16 and plus 16. Why the minus 16 and plus 16? When each domain team or working group chooses between low, medium, high and extreme, you get one, two, three, four square, which means you get one, four, nine, sixteen. That's why the greenlight score is normalized between those values. Once everything is calculated, we multiply the values that I just mentioned by the weight. We add them and what we do to calculate the prioritization score. We subtract all the costs minus the benefits times the weight. So we do the sum-product, then we do the subtraction, and we end up with this list of collateral types, with this order.
+- Regarding how to read the frameworks, this will be on the forums, so don't worry too much. Basically, the first row is each team responsible for filling each parameter. Row number two is the weight that each parameter will have for the scoring. And row number three will be each parameter. Everything green is a benefit or a good thing, and the things that have a red background is a little bit of a "cost." The green light score was taken from the amount of Maker approved in each greenlight poll, and then it was normalized between minus 16 and plus 16. Why the minus 16 and plus 16? When each domain team or working group chooses between low, medium, high and extreme, you get one, two, three, four square, which means you get one, four, nine, sixteen. That's why the greenlight score is normalized between those values. Once everything is calculated, we multiply the values that I just mentioned by the weight. We add them and what we do to calculate the prioritization score. We subtract all the costs minus the benefits times the weight. So we do the sum-product, then we do the subtraction, and we end up with this list of collateral types, with this order.
 - We should think about some considerations. This is a model, so it's an imperfect representation of reality. We believe that some data is better than no data; each team's input is subjective and reflects the instance of their current knowledge, so they might change their mind as soon as they investigate more. The weights will get adjusted with time, so we're looking forward to getting feedback regarding that.
 - There are some things, for example, these pooled collateral types, they are quite difficult. Still, we believe, for example, that if they were treated simultaneously, once you do the first, the rest should be relatively straightforward, so there are more considerations than just taking the prioritization score at face value.
 
 ![](https://i.imgur.com/W1t0PDX.png)
 
 - Some potential improvements we thought about are adjusting the weight-tweaking into new parameters if needed. So if you guys think there's a benefit or cost that we're not considering, please let us know, maybe add a definition of the parameters, so everyone understands the same thing. And ideally, each domain team or working group would draft documents to allow contributors to help even if they come from outside. This will help scale and onboard more collateral types if that's what the protocol and the maker holders want. And then we also thought about having a better UI for visualization and maybe for data entry and modification, so perhaps a nicer dashboard. And again, any feedback proposed is more than welcome; I'll post this later today. So I'm going to open it for questions?
-    - LongForWisdom: Not a question, but do you want to briefly cover the status tab as well?
-    - Juan: Yes, sure. So this is, I don't know if it's a replacement for the collateral status index forum post, is it?
-    - LongForWisdom: I'd like it to be a replacement because it's easier to keep up to date than the collateral status index.
-    - Juan: Sure, so the collateral status index that Long was maintaining in the forum was moved here. So this is where the greenlight score was calculated and normalized. I don't know if I mentioned anything that does not have a greenlight score yet; no, was it yellow? I forgot, Long, sorry.
-    - LongForWisdom: Yes, yellow hasn't had a greenlight poll yet. The number comes from...
-    - Juan: Oh yeah, yeah, so that's why the yellow ones have all the same numbers, it's because we're taking it as if they got zero, so nothing in favor and nothing against. This is where the domain teams or working groups will post their work to access it easily. Yeah, I mean, a Google sheet is the best way of doing things. Still, it was the fastest way for us to get something that works and hopefully provide value faster than developing something if we don't know if we're going to use it. Any questions?
+  - LongForWisdom: Not a question, but do you want to briefly cover the status tab as well?
+  - Juan: Yes, sure. So this is, I don't know if it's a replacement for the collateral status index forum post, is it?
+  - LongForWisdom: I'd like it to be a replacement because it's easier to keep up to date than the collateral status index.
+  - Juan: Sure, so the collateral status index that Long was maintaining in the forum was moved here. So this is where the greenlight score was calculated and normalized. I don't know if I mentioned anything that does not have a greenlight score yet; no, was it yellow? I forgot, Long, sorry.
+  - LongForWisdom: Yes, yellow hasn't had a greenlight poll yet. The number comes from...
+  - Juan: Oh yeah, yeah, so that's why the yellow ones have all the same numbers, it's because we're taking it as if they got zero, so nothing in favor and nothing against. This is where the domain teams or working groups will post their work to access it easily. Yeah, I mean, a Google sheet is the best way of doing things. Still, it was the fastest way for us to get something that works and hopefully provide value faster than developing something if we don't know if we're going to use it. Any questions?
 
 #### Discussion & Questions
 
@@ -316,8 +316,8 @@ If you have the time to read over and vote in active threads, that would be much
 
 - Frank Cruz: Hey, Juan. I guess I'm having a little trouble understanding the diversification score. How does yEarn have a low diversification score, and Gemini USD has a high, and so does TUSD have a high as well? Is this a diversification towards DAI or what?
 - Juan: Primoz, would you like to comment on it, or I can try too?
-    - Primoz: Normally, it should be diversification in terms of collateral; in this case, I'm not sure why they're high. I think the idea was that cUSDC is a bit different versus yUSDC in terms that you have a Compound platform risk, so it should be looked at differently as something like the YY curve.
-    - Juan: Thank you, Primoz, are there any other questions? Alright, I'll give it to you, Long.
+  - Primoz: Normally, it should be diversification in terms of collateral; in this case, I'm not sure why they're high. I think the idea was that cUSDC is a bit different versus yUSDC in terms that you have a Compound platform risk, so it should be looked at differently as something like the YY curve.
+  - Juan: Thank you, Primoz, are there any other questions? Alright, I'll give it to you, Long.
 - LongForWisdom: Sound good, so I'll just reiterate, as Juan said, this is going to be public soon, the link will be comment enabled, so if anyone has comments on individual scores, you'll be able to just leave them in the sheet, and someone will read them. Hopefully, someone should read them. We're looking at the sheet probably weekly or monthly, so all of this stuff will get looked at, and every time new assets get onboarded. This should be reasonably high traffic in terms of people looking at it. Thank you for that, Juan. I look forward to seeing that public and see if anyone else has individual feedback on individual things.
 
 ### Vishesh Choudry
@@ -381,8 +381,8 @@ If you have the time to read over and vote in active threads, that would be much
 
 ![](https://i.imgur.com/5xOLQYU.png)
 
-- At ETH $320/318, that would be 30 million liquidated.
-- $280 is still the middle point, now with a giant wall of 100 million, it's almost a meme. The last few times we've looked, it's always the most prominent wall. Something where vault holders look and manage against. Beyond that price, it's a continuous curve—lots of those vault holders, pools exchanges, etc. Individual users slope out from there.
+- At ETH \$320/318, that would be 30 million liquidated.
+- \$280 is still the middle point, now with a giant wall of 100 million, it's almost a meme. The last few times we've looked, it's always the most prominent wall. Something where vault holders look and manage against. Beyond that price, it's a continuous curve—lots of those vault holders, pools exchanges, etc. Individual users slope out from there.
 - That's a positive caveat on the risk profile, in the sense that the larger positions have a logic below them. The percentage is managed at least.
 
 ![](https://i.imgur.com/VBLrwkR.png)
@@ -407,13 +407,13 @@ If you have the time to read over and vote in active threads, that would be much
 
 - LongForWisdom: We can have a brief Q&A. If anyone has any comments or questions about any of the things we've seen in the call thus far, feel free to chime in.
 - BrianMcMichael: Hey Long, I might add I did [post a forum post late last week](https://forum.makerdao.com/t/dss-chain-log-an-on-chain-mcd-smart-contract-registry/4767) about the new DSS chain log, so if there are any developers on the call, we do have a single contract on mainnet Kovan and then also our Ropsten and Rinkeby deployments that you can point your smart contracts to and test against the chain log. Our current website at changelog.makerdao.com has the keys. It basically provides a way to get the contract addresses for the MCD system from an on-chain source rather than relying on a hosted document. If anyone has any questions about that, let me know or send me a message privately.
-    - LongForWisdom: Yeah, I think that's great; this would also be useful if I'm correct in having governance audit executive votes or executive spells as well, right?  Because they can compare that the contracts modified in the spell are the same as those in the DSS the chain log, right?
-    - Brian: Yeah, so you can pass it a parameter the MCD-VAT, and it will return the vat address on that particular network. It might be useful for smart contract developers and auditing and UI developers who want to develop for both Kovan and mainnet. You can just point to the chain log address and code in your keys for the particular contracts. That's really all you need to do. It'll return the correct contract, and then you can request information from that contract rather than having to hard code those addresses in there.
-    - Christopher Mooney: Basically, a DNS for us.
-    - LongForWisdom: Right, it is governance managed, so we'll probably be updating those; when we add new collateral types, we'll add those in the executive spell. Currently, the smart contracts team does have access to modify that contract with our deployer key. However, once we get this fully integrated into our processes and everybody's aware of the need to make these updates, we can deny that, deploy our key, and give governance full access to create updates and delete keys in that.
-    - LongForWisdom: Great, yeah, that sounds really useful; thanks for mentioning that. All right, so I think we're across the hour, so I think we'll maybe do a kind of the last call for reminders. Juan, do you want to just mention the Kleros cool again?
+  - LongForWisdom: Yeah, I think that's great; this would also be useful if I'm correct in having governance audit executive votes or executive spells as well, right? Because they can compare that the contracts modified in the spell are the same as those in the DSS the chain log, right?
+  - Brian: Yeah, so you can pass it a parameter the MCD-VAT, and it will return the vat address on that particular network. It might be useful for smart contract developers and auditing and UI developers who want to develop for both Kovan and mainnet. You can just point to the chain log address and code in your keys for the particular contracts. That's really all you need to do. It'll return the correct contract, and then you can request information from that contract rather than having to hard code those addresses in there.
+  - Christopher Mooney: Basically, a DNS for us.
+  - LongForWisdom: Right, it is governance managed, so we'll probably be updating those; when we add new collateral types, we'll add those in the executive spell. Currently, the smart contracts team does have access to modify that contract with our deployer key. However, once we get this fully integrated into our processes and everybody's aware of the need to make these updates, we can deny that, deploy our key, and give governance full access to create updates and delete keys in that.
+  - LongForWisdom: Great, yeah, that sounds really useful; thanks for mentioning that. All right, so I think we're across the hour, so I think we'll maybe do a kind of the last call for reminders. Juan, do you want to just mention the Kleros cool again?
 - Juan: Federico, we'll be joining in 14 minutes from Kleros to speak about the fellowship with the Maker foundation, so if you're interested, I'll see you there.
-- LongForWisdom: I want to remind people that the onboarding polls for GUSD and PAXG will be on-chain on Monday next week. Thanks to everyone for coming, and  I'll see you all again next week.
+- LongForWisdom: I want to remind people that the onboarding polls for GUSD and PAXG will be on-chain on Monday next week. Thanks to everyone for coming, and I'll see you all again next week.
 
 #### Links from Chat
 

@@ -16,7 +16,7 @@ module.exports = {
     siteUrl: "https://community-development.makerdao.com/",
   },
   plugins: [
-    'gatsby-plugin-theme-ui',
+    "gatsby-plugin-theme-ui",
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
     {
@@ -57,8 +57,8 @@ module.exports = {
             `**/example.mdx`,
             `**/footer.mdx`,
             `**/**.pptx`,
-            '**/**.jpg',
-            '**/**.png'
+            "**/**.jpg",
+            "**/**.png",
           ],
           options: { nocase: true },
         },
@@ -126,7 +126,6 @@ module.exports = {
       },
     },
 
-    
     {
       //NOTE(Rejon): Your search will have to be manually updated for ever new locale that's added.
       resolve: "gatsby-plugin-lunr",

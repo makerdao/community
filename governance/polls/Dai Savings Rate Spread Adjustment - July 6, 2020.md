@@ -4,15 +4,16 @@ summary: Signal your support to adjust the Dai Savings Rate Spread within a rang
 discussion_link: https://forum.makerdao.com/t/2944
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: 0
-   2: 0.25
-   3: 0.5
-   4: 0.75
-   5: 1.25
-   6: 2.25
-   7: 4.25
+  0: Abstain
+  1: 0
+  2: 0.25
+  3: 0.5
+  4: 0.75
+  5: 1.25
+  6: 2.25
+  7: 4.25
 ---
+
 # Poll: Dai Savings Rate Spread Adjustment - July 6, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Savings Rate Spread** options. Voters are now able to signal their support for a **Dai Savings Rate Spread** within a range of 0% to 4.25%.

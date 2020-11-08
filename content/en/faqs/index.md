@@ -135,7 +135,7 @@ These are legacy guides and will not be maintened. Each button links to the newe
 
 - What is MakerDAO?
 - Who Started MakerDAO and When?
-- Why did the founders call it _Maker_DAO?
+- Why did the founders call it \_Maker_DAO?
 - What does _DAO_ mean?
 - Who is the Maker Community?
 - What is the Maker Foundation, and how does it relate to MakerDAO?

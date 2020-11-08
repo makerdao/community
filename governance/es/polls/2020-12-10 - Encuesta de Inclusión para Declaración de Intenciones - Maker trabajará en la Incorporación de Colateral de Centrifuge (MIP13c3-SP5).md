@@ -1,4 +1,4 @@
-# Encuesta de Inclusión para Declaración de Intenciones **- Maker trabajará en la Incorporación  de Colateral de Centrifuge (MIP13c3-SP5) - 12 de Octubre de 2020**
+# Encuesta de Inclusión para Declaración de Intenciones **- Maker trabajará en la Incorporación de Colateral de Centrifuge (MIP13c3-SP5) - 12 de Octubre de 2020**
 
 Los Facilitadores de Gobernanza han colocado una encuesta de inclusión en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si la propuesta (Declaración de Intenciones - Maker trabajará en la Incorporación de Colateral de Centrifuge) debería incluirse en la Encuesta de Gobernanza Mensual.
 
@@ -18,7 +18,7 @@ Si esta encuesta de inclusión es aprobada, los Facilitadores de Gobernanza conf
 
 [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) (en español: [https://forum.makerdao.com/t/mip3-en-espanol/4605](https://forum.makerdao.com/t/mip3-en-espanol/4605)) describe este tipo de encuesta y detalla más profundamente su posición y su significado dentro del resto del Ciclo de Gobernanza.
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

@@ -4,17 +4,18 @@ summary: Signal your support or opposition for adjusting the USDT-A Debt Ceiling
 discussion_link: https://forum.makerdao.com/t/signal-request-delist-usdt-as-a-collateral-asset/4853
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the USDT-A Debt Ceiling - November 2, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the USDT-A Debt Ceiling from 10 million DAI to 2.5 million DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 2 at 16:00 UTC.
 
-## Review 
+## Review
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-delist-usdt-as-a-collateral-asset/4853) to inform your position on this issue before voting.
 

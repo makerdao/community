@@ -4,15 +4,16 @@ summary: Signal your support or opposition for adjusting the $ilk_name Risk Prem
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Poll: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,_YYYY
+
+# Poll: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,\_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to increasing the $ilk_name Risk Premium from $current_premium to $new_premium.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
 
 ## Review
 

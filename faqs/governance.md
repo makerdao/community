@@ -63,7 +63,7 @@ Yes, anyone may start these threads. Signal threads that stick to the guidelines
 
 ## What is the difference between a forum signal thread and a regular forum poll?
 
-A forum signal thread is created with the specific  intention of gathering consensus around an issue and moving that issue to an on-chain Governance Poll. It is also suggested that it adhere to the [semi-formal signal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223) that can be found within the governance forum.
+A forum signal thread is created with the specific intention of gathering consensus around an issue and moving that issue to an on-chain Governance Poll. It is also suggested that it adhere to the [semi-formal signal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223) that can be found within the governance forum.
 
 Regular forum polls can be used to measure community sentiment about anything and their use is encouraged. There are no guidelines on the general use of forum polls, other than courtesy and common sense.
 
@@ -244,7 +244,7 @@ All past votes are preserved in the on-chain history. If MKR is withdrawn from a
 
 ## Do I need to withdraw MKR from the voting contract immediately after voting?
 
-No, voters who are active in governance can leave their MKR in the voting contract. 
+No, voters who are active in governance can leave their MKR in the voting contract.
 
 Executive Votes, by design of [Continuous Approval Voting](https://en.wikipedia.org/wiki/Approval_voting), require voters to leave their stake on the proposal they wish to support. Doing so increases the requirement for a new proposal to pass.
 
