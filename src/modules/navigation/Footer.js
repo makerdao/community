@@ -78,6 +78,7 @@ const Footer = () => {
               p: 0,
               color: "text",
               listStyleType: "none",
+
               display: "flex",
               flexWrap: ["wrap", "wrap", "unset"],
               "& > li:not(:last-of-type)": {

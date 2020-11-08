@@ -268,7 +268,7 @@ export default {
     warningAlt: "#FFBA44",
     text: "#291A42",
     onBackgroundAlt: "#FFFFFF",
-    textMuted: "#4D4968",
+    textMuted: "#302F35",
     strawberry: "#FF78F2",
     bubblegum: "#F2B9FF",
     grape: "#9B9FFF",
@@ -285,7 +285,7 @@ export default {
         secondaryMuted: "#94008E",
         text: "#FFFFFF",
         onBackgroundAlt: "#FFFFFF",
-        textMuted: "#E1DFEC",
+        textMuted: "#E3E2EA",
         muted: "#E1DFEC",
         mutedAlt: "#4D4968",
         background: "#291A42",
@@ -329,51 +329,60 @@ export default {
   text: {
     text: {
       ...maker.text.text,
-      color: "textMuted",
+      color: 'textMuted',
+      marginBottom: '24px'
     },
-    heaing: {
+    heading: {
       ...maker.text.heading,
-      color: "textMuted",
+      color: 'text'
     },
     h1: {
-      fontSize: ["48px", "64px", "64px"],
+      fontSize: ['48px', '48px', '48px'],
       letterSpacing: "0.3px",
-      fontWeight: "600",
-      fontFamily: "heading",
-      color: "textMuted",
+      fontWeight: "500",
+      fontFamily: 'heading',
+      color: 'text',
+      marginTop: '48px',
+      marginBottom: '32px'
     },
     h2: {
-      fontSize: "48px",
-      fontWeight: "600",
+      fontSize: '32px',
+      fontWeight: "500",
       letterSpacing: "0.3px",
-      fontFamily: "heading",
-      color: "textMuted",
+      fontFamily: 'heading',
+      color: 'text',
+      marginTop: '48px',
+      marginBottom: '24px'
     },
     h3: {
-      fontSize: "32px",
-      fontWeight: "600",
+      fontSize: '24px',
+      fontWeight: '500',
       letterSpacing: "0.3px",
-      fontFamily: "heading",
-      color: "textMuted",
+      fontFamily: 'heading',
+      color: 'text',
+      marginTop: '16px',
+      marginBottom: '16px'
     },
     h4: {
-      fontSize: "24px",
-      fontWeight: "600",
-      letterSpacing: "0.3px",
-      fontFamily: "heading",
-      color: "textMuted",
+      fontSize: '20px',
+      fontWeight: '500',
+      letterSpacing: '0.3px',
+      fontFamily: 'heading',
+      color: 'text',
+      marginTop: '8px',
+      marginBottom: '8px'
     },
     largeText: {
-      fontSize: "20px",
-      fontWeight: "normal",
-      letterSpacing: "0.3px",
-      fontFamily: "heading",
+      fontSize: '18px',
+      fontWeight: 'normal',
+      letterSpacing: '0.3px',
+      fontFamily: 'heading'
     },
     smallText: {
-      fontSize: "14px",
-      lineHeight: "17px",
-      letterSpacing: "0.1px",
-    },
+      fontSize: '14px',
+      lineHeight: '17px',
+      letterSpacing: '0.3px'
+    }
   },
   shadows: {
     high: "0px 2px 17px rgba(35, 21, 54, 0.46)",
@@ -450,6 +459,7 @@ export default {
       fontSize: "18px",
       letterSpacing: "0.03px",
       lineHeight: "19px",
+      margin: "8px 24px 8px 0",
       bg: "primary",
       "&:hover": {
         bg: "primaryEmphasis",

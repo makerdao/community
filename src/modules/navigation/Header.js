@@ -2,8 +2,9 @@
 import React, { useEffect, useRef } from "react";
 import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { useStaticQuery, graphql } from "gatsby";
 
-import { Link } from "@modules/navigation";
+import { Link, MobileNav } from "@modules/navigation";
 import { useNavigation } from "@modules/navigation/context";
 import { useTranslation } from "@modules/localization";
 import Search from "@modules/search";
@@ -11,6 +12,7 @@ import theme from "@src/gatsby-plugin-theme-ui/";
 
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.
+var scrollBeforeMenuOpen = 0; //<- Scroll position of window prior to
 var isShowingMenu = false; //<- For document  event listeners to know if the menu is being shown or not.
 
 const ColorModeToggles = () => {
@@ -95,7 +97,7 @@ const HeaderNav = ({headerLinks, hideMenu}) => {
         sx={{
           textDecoration: "none",
           color: "onBackgroundAlt",
-          letterSpacing: ".03px",
+          letterSpacing: "0.3px",
           width: "52px",
           height: "52px",
         }}
@@ -123,7 +125,7 @@ const HeaderNav = ({headerLinks, hideMenu}) => {
           sx={{
             textDecoration: "none",
             fontWeight: "normal",
-            letterSpacing: ".03px",
+            letterSpacing: "0.3px",
             color: "onBackgroundAlt",
           }}
         >
@@ -193,6 +195,19 @@ const Header = () => {
       isShowingMenu = false;
       hideMobileMenu();
     }
+  };
+
+  const mobileNavBGVariant = {
+    hidden: {
+      opacity: 0.46,
+      scale: 0,
+      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.1 },
+    },
+    visible: {
+      opacity: 1,
+      scale: 1,
+      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.32 },
+    },
   };
 
   useEffect(() => {
@@ -275,7 +290,7 @@ const Header = () => {
             width: ["100%", "100%", "auto"],
             ml: [3, 3, "3rem"],
             alignItems: "center",
-            letterSpacing: ".03px",
+            letterSpacing: "0.3px",
             color: "onBackgroundAlt",
             flexDirection: "row",
           }}
@@ -289,7 +304,7 @@ const Header = () => {
               mr: ["unset", "unset", "1vw"],
 
               fontFamily: "body",
-              letterSpacing: ".03px",
+              letterSpacing: "0.3px",
               display: "inline-block",
               fontSize: "15px",
             }}

@@ -1,8 +1,9 @@
 /** @jsx jsx */
 import PropTypes from "prop-types";
-import { Flex, jsx } from "theme-ui";
+import { Box, Flex, jsx } from "theme-ui";
+import Sticky from "react-sticky-el";
 
-import { Header, Footer } from "@modules/navigation";
+import { Header, Footer, Sidenav } from "@modules/navigation";
 
 const Layout = ({ children, pageContext, uri, ...props }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
@@ -19,7 +20,7 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
       <Flex
         as="main"
         sx={{
-          maxWidth: "1440px",
+          maxWidth: "1296px",
           flex: "1 0 auto",
           width: "100%",
           m: "0 auto",
@@ -38,8 +39,8 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
         >
           <Flex
             sx={{
-              alignItems: "start",
-              pr: hasTopSection ? ["unset", "unset", "64px"] : 0,
+              alignItems: 'start',
+              pr: ['unset', 'unset','64px']
             }}
           >
             {children}
