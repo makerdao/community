@@ -1,0 +1,366 @@
+---
+title: Brand Guide
+order: 5
+hideLanguageSelector: true
+keywords: "branding, guide, design, help, technical, color"
+description: "Visual guidelines for Comm-Dev branded content."
+---
+
+# Brand Guide
+
+The following are basic visual guidelines for all Comm-Dev branded content, including UI, marketing materials, and social media assets. 
+
+Here you will find:
+- Color
+- Typography
+- Illustrations
+- Document templates
+
+<Callout icon="lightbulb">
+
+For more specific visual guidelines on how to use components when building pages for this site, check out the [Component Palette](/resources/technical-content/palette-recipes). 
+
+</Callout>
+
+## Color
+
+There are two variations of our color palette: light mode and dark mode. Every color is named semantically, or after its purpose as opposed to its appearance (e.g. "error" instead of "red"). Semantic color names allow this site to seamlessly toggle between light and dark modes. (Haven't tried? Click the sun and moon icons in the site navigation.)
+
+In a UI context, the suffixes `Emphasis`, `Alt`, and `Muted` are generally used for interactive elements to differentiate interaction states or provide increased accessibility. In an illustration or editorial context, they can be used more flexibly at the artist or designer's discretion.
+
+Additional notes:
+- For marketing and editorial materials (in other words, anything that doesn't have two "modes" of appearance), default to the "light mode" palette.
+- If a color only has one hex code listed, it is the same in both light and dark modes.
+
+### Brand colors
+
+Comm-Dev's primary and secondary brand colors are a slightly more saturated version of [MakerDAO's](https://makerdao.com/en/) primary green and gold. 
+
+<Chocolate>
+  <Box sx={{backgroundColor: 'primary', color: 'onPrimary', padding: 3}}>
+    primary <br/>
+    #5AE2CA – light mode <br/>
+    #68FEE3 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'primaryEmphasis', color: 'onPrimary', padding: 3}}>
+    primaryEmphasis <br/>
+    #68FEE3 – light mode <br/>
+    #5AE2CA – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'primaryAlt', color: 'onPrimary', padding: 3}}>
+    primaryAlt <br/>
+    #1AAA9B – light mode <br/>
+    #A6FFEF – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'primaryMuted', color: 'text', padding: 3}}>
+    primaryMuted <br/>
+    #E7FCFA – light mode <br/>
+    #00585E – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'secondary', color: 'onPrimary', padding: 3}}>
+    secondary <br/>
+    #FFBA44 – light mode <br/>
+    #F2B9FF – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'secondaryEmphasis', color: 'onPrimary', padding: 3}}>
+    secondaryEmphasis <br/>
+    #FFE1A8 – light mode <br/>
+    #FF78F2 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'secondaryAlt', color: 'onPrimary', padding: 3}}>
+    secondaryAlt <br/>
+    #FBA615 – light mode <br/>
+    #5AE2CA – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'secondaryMuted', color: 'text', padding: 3}}>
+    secondaryMuted <br/>
+    #FFF3DD – light mode <br/>
+    #94008E – dark mode
+  </Box>
+
+</Chocolate>
+
+### Text
+
+<Chocolate>
+  <Box sx={{backgroundColor: 'text', color: 'background', padding: 3}}>
+    text <br/>
+    #291A42 – light mode <br/>
+    #FFFFFF – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'textMuted', color: 'background', padding: 3}}>
+    textMuted <br/>
+    #4D4968 – light mode <br/>
+    #E1DFEC – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'onBackgroundAlt', color: 'onPrimary', padding: 3}}>
+    onBackgroundAlt <br/>
+    #FFFFFF
+  </Box>
+
+   <Box sx={{backgroundColor: 'onPrimary', color: 'onBackgroundAlt', padding: 3}}>
+    onPrimary <br/>
+    #291A42
+  </Box>
+
+  <Box sx={{backgroundColor: 'link', color: 'onPrimary', padding: 3}}>
+    link <br/>
+    #1AAA9B – light mode <br/>
+    #68FEE3 – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'linkAlt', color: 'onPrimary', padding: 3}}>
+    linkAlt (hover state) <br/>
+    #5AE2CA – light mode <br/>
+    #A6FFEF – dark mode 
+  </Box>
+
+</Chocolate>
+
+  ### Neutrals
+
+<Chocolate>
+  <Box sx={{backgroundColor: 'background', color: 'text', padding: 3}}>
+    background <br/>
+    #FFFFFF – light mode <br/>
+    #291A42 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'backgroundAlt', color: 'onBackgroundAlt', padding: 3}}>
+    backgroundAlt <br/>
+    #291A42 – light mode <br/>
+    #4D4968 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'surface', color: 'text', padding: 3}}>
+    surface <br/>
+    #E7FCFA – light mode <br/>
+    #4D4968 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'surfaceAlt', color: 'text', padding: 3}}>
+    surfaceAlt <br/>
+    #FFFFFF – light mode <br/>
+    #4D4968 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'muted', color: 'onPrimary', padding: 3}}>
+    muted<br/>
+    #D0D3D7 – light mode <br/>
+    #E1DFEC – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'mutedAlt', color: 'onPrimary', padding: 3}}>
+    mutedAlt <br/>
+    #90969C – light mode <br/>
+    #4D4968 – dark mode 
+  </Box>
+
+</Chocolate>
+
+ ### Messaging
+
+<Chocolate>
+  <Box sx={{backgroundColor: 'error', color: 'onPrimary', padding: 3}}>
+    error <br/>
+    #FF6948
+  </Box>
+
+  <Box sx={{backgroundColor: 'success', color: 'onPrimary', padding: 3}}>
+    success <br/>
+    #5AE2CA – light mode <br/>
+    #68FEE3 – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'successAlt', color: 'onPrimary', padding: 3}}>
+    successAlt <br/>
+    #68FEE3 – light mode <br/>
+    #A6FFEF – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'notice', color: 'onPrimary', padding: 3}}>
+    notice <br/>
+   #FF78F2 – light mode <br/>
+    #F2B9FF – dark mode 
+  </Box>
+
+  <Box sx={{backgroundColor: 'noticeAlt', color: 'onPrimary', padding: 3}}>
+    noticeAlt <br/>
+    #F2B9FF – light mode <br/>
+    #FF78F2 – dark mode
+  </Box>
+
+  <Box sx={{backgroundColor: 'warning', color: 'onPrimary', padding: 3}}>
+    warning <br/>
+    #FFBA44
+  </Box>
+
+   <Box sx={{backgroundColor: 'warningAlt', color: 'onPrimary', padding: 3}}>
+    warningAlt <br/>
+    #FFE1A8 – light mode <br/>
+    #FBA615 – dark mode 
+  </Box>
+
+</Chocolate>
+
+ ### Accent (use for editorial illustrations only)
+
+<Chocolate>
+  <Box sx={{backgroundColor: 'strawberry', color: 'onPrimary', padding: 3}}>
+    strawberry <br/>
+    #FF78F2
+  </Box>
+
+  <Box sx={{backgroundColor: 'bubblegum', color: 'onPrimary', padding: 3}}>
+    bubblegum <br/>
+   ##F2B9FF
+  </Box>
+
+  <Box sx={{backgroundColor: 'grape', color: 'onPrimary', padding: 3}}>
+    grape <br/>
+    #9B9FFF
+  </Box>
+
+  <Box sx={{backgroundColor: 'lemon', color: 'onPrimary', padding: 3}}>
+    lemon <br/>
+    #F3FF64
+  </Box>
+
+</Chocolate>
+
+## Typography
+
+### Fonts
+
+We use the font **FT Base** on this site, which requires a font license to be used publicly. For internal prototypes, sketches, or other proofs-of-concept that aren't public, FT Base offers a [trial font](https://www.frostype.com/base) that anyone can download from their foundry site and use. 
+
+When a free font is needed (e.g. in a PowerPoint template), we use [Work Sans](https://fonts.google.com/specimen/Work+Sans).
+
+### Scale
+
+Our type scale and spacing systems are derived from [Dai UI.](https://dai-ui.now.sh/)
+
+## Illustrations
+
+Community contributor [Richard Rosa](https://chat.makerdao.com/direct/RichardR) created all the illustrations on this site, including a collection of spot illustrations. 
+
+### Using and Creating Illustrations
+
+Consider incorporating an illustration if:
+- You are trying to break up a dense amount of information
+- You are asking something of a user (e.g. asking a user to take time to complete a feedback survey)
+- A user may be frustrated or confused
+
+If you want to commission or create new illustrations for this site, keep the following considerations in mind:
+- All illustrations should use our brand palette
+- All illustrations should be usable on both light and dark backgrounds
+- All illustrations should be saved as .svg or .png
+
+### Spot Illustrations
+
+These illustrations can be used alone, or combined and remixed to create a whole scene. They can be found in `static/images/illustrations`.
+
+<Chocolate>
+
+   <Box>
+      <Image src="/images/illustrations/Astro-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Astro-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Astro-4.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Robot-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Robot-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Robot-4.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Tall-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Tall-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Tall-4.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Short-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Short-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Short-4.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/ghost-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/ghost-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/ghost-4.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Squid-2.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Squid-3.png"/>
+  </Box>
+
+   <Box>
+      <Image src="/images/illustrations/Squid-4.png"/>
+  </Box>
+
+</Chocolate>
+
+<Image src="/images/header.jpg" sx={{padding: 5}}/>
+
+## Document templates
+
+<List>
+
+<Link to="https://docs.google.com/presentation/d/1tkCHdmaXwHC64VPH397_4voZeEed-nOCxh8dlElzRh4/edit?usp=sharing">
+
+PowerPoint (Google Slides)
+
+</Link>
+
+<Link to="https://docs.google.com/presentation/d/1wIoiQoXt8HPikhIqvXMJjk-r_TOjKSUwOe-pY1w29tI/edit?usp=sharing">
+
+User Research Personas (Google Slides)
+
+</Link>
+
+</List>

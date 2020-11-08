@@ -4,7 +4,6 @@ These are legacy guides and will not be maintened. Find the newer  <Button  seco
 
 </StatusBanner>
 
-
 # Governance
 
 In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](/learn/governance/voting-setup/) for a more detailed guide on how to begin voting.
@@ -19,7 +18,7 @@ In the context of MakerDAO, governance can be divided into two main parts: on-ch
 
 MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol's on-chain governance system. There are two types of votes in this system, Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
 
-Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](https://awesome.makerdao.com/#meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
+Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](/contribute/governance_and_risk_meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
 
 ## Is there more than one type of vote?
 
