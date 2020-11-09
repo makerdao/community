@@ -1,9 +1,11 @@
 # Liquidation Ratio
 
 ```
+Alias: N/A
 Parameter Name: mat
 Containing Contract: Spot
 Scope: Ilk
+Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/spot-detailed-documentation
 ```
 
 ## Description
@@ -28,7 +30,7 @@ However, the higher the Liquidation Ratio of a vault type, the less capital effi
 
 ## Changes
 
-There is currently no system for automatically adjusting the Liquidation Ratio parameter for a specific vault type. An executive vote is required to modify the Liquidation Ratio parameter for a particular vault type. Changes to Liquidation Ratio parameters are subjects to the GSM Pause Delay.
+There is currently no system for automatically adjusting the Liquidation Ratio parameter for a specific vault type. An executive vote is required to modify the Liquidation Ratio parameter for a particular vault type. Changes to Liquidation Ratio parameters are subject to the GSM Pause Delay.
 
 **Why increase a Liquidation Ratio Parameter?**
 
@@ -59,8 +61,6 @@ If a Liquidation Ratio parameter for a vault type is increased above the current
 Some vault types do not have liquidations enabled. For these vault types, users whose Collateralization Ratio drops below the Liquidation Ratio cannot be liquidated until liquidations are enabled for those vault types. However, they are still unable to draw additional DAI debt while their Collateralization Ratio is less than the liquidation ratio.
 
 For USD denominated stablecoin vaults, Liquidation Ratios can be decreased to very low levels in order to allow arbitrage of the DAI peg. This puts an effective cap on the price of DAI while these vault types have available debt-ceiling space. The trade-off around this decision are not covered here.
-
-* Are there any Emergency Shutdown considerations to take into account?
 
 
 

@@ -1,9 +1,11 @@
 # $HumanReadableName
 
 ```
+Alias:
 Parameter Name: $ParameterName
 Containing Contract: $Contract
 Scope: $Scope
+Technical Docs:
 ```
 
 ## Description

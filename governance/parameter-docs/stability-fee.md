@@ -1,9 +1,11 @@
 # Stability Fee
 
 ```
+Alias: N/A
 Parameter Name: duty
 Containing Contract: Jug
 Scope: Ilk
+Technical Docs: https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation
 ```
 
 ## Description
@@ -65,8 +67,4 @@ Absent active management by a vault user, the accrual of Stability Fees can push
 A Global Stability Fee parameter also exists within the Maker Protocol. In practice this has not been used because it adds unecessary complexity to the governance process and Stability Fee calculation.
 
 Previously the Stability Fee parameters have been composited from Risk Premiums and a Base Rate voted by governance. This is no longer the case.
-
-(Has there been stability fee changes in the past and what has occurred?
-How does this interact with other parts of the protocol?
-Are there any Emergency Shutdown considerations to take into account?
 

@@ -1,9 +1,11 @@
 # Debt Ceiling
 
 ```
+Alias: N/A
 Parameter Name: line
 Containing Contract: Vat
 Scope: Ilk
+Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation
 ```
 
 ## Description
@@ -32,7 +34,7 @@ Leaving a large amount of 'open space' in the Debt Ceiling for a vault type also
 
 ## Changes
 
-There is currently no system for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type. Changes to Debt Ceiling parameters are subjects to the GSM Pause Delay.
+There is currently no system for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type. Changes to Debt Ceiling parameters are subject to the GSM Pause Delay.
 
 **Why increase a Debt Ceiling Parameter?**
 
@@ -55,8 +57,6 @@ The Debt Ceiling might also be lowered as an attempt to affect monetary policy, 
 The Debt Ceiling for a vault type can be exceeded as stability fees accrue to vaults within that vault type. 
 
 If a Debt Ceiling parameter for a vault type is dropped below the current amount of DAI minted using that vault type, this does not have any negative effects beyond preventing further mints from vaults using that vault type.
-
-* Are there any Emergency Shutdown considerations to take into account?
 
 
 
