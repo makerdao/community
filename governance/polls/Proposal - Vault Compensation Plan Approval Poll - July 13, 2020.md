@@ -4,10 +4,11 @@ summary: Signal your support for the proposed Vault Compensation Plan.
 discussion link: https://forum.makerdao.com/t/2900
 vote type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Vault Compensation Plan Approval Poll
 
 The Maker Foundation Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal whether to accept and move ahead with the proposed Vault Compensation Plan.

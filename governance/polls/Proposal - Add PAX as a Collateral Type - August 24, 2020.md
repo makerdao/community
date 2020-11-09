@@ -4,25 +4,26 @@ summary: This poll proposes Risk Parameters which could be used to initialize PA
 discussion_link: https://forum.makerdao.com/t/usdt-pax-mip12c2-sp2-collateral-onboarding-risk-evaluation/3723
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add PAX as a Collateral Type - August 24, 2020
 
 The MakerDAO Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add PAX (Paxos) as a collateral type.
 
 The proposed initial Risk Parameters for PAX are:
 
-* Risk Premium: 4%
-* Liquidation Ratio: 120%
-* Debt Ceiling: 5 million
-* Auction Lot Size: 50,000
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 Dai
+- Risk Premium: 4%
+- Liquidation Ratio: 120%
+- Debt Ceiling: 5 million
+- Auction Lot Size: 50,000
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will be active for approximately 3 days beginning on Monday, August 24 at 4:00 PM UTC.
 

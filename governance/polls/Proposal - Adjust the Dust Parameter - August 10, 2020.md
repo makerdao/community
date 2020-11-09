@@ -4,10 +4,11 @@ summary: Signal your support for increasing the Dust Parameter from 20 DAI to 10
 discussion_link: https://forum.makerdao.com/t/3445
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the Dust Parameter - August 10, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the Dust Parameter from 20 DAI to 100 DAI for all vault types.

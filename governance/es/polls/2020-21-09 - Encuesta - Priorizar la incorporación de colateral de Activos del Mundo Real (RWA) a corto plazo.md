@@ -3,7 +3,7 @@
 Translation from:
 [makerdao/community](https://github.com/makerdao/community/blob/92a042313c838371bad3f4773cdd8bbe8a7c7f03/governance/polls/Proposal%20-%20Prioritising%20Real%20World%20Asset%20Collateral%20-%20September%2021%2C%202020.md)
 
-Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad de Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a que los equipos de dominio prioricen la incorporación de colateral de activos del mundo real (real-world assets, RWA)  a corto plazo.
+Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad de Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a que los equipos de dominio prioricen la incorporación de colateral de activos del mundo real (real-world assets, RWA) a corto plazo.
 
 Esta Encuesta de Gobernanza semanal no-estándar ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) estará activa por tres días a partir del lunes 21 de septiembre a las 16:00 UTC.
 

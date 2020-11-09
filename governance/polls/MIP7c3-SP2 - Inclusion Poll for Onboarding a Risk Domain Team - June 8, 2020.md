@@ -1,16 +1,17 @@
 ---
 title: "MIP7c3-SP2: Inclusion Poll for Onboarding a Risk Domain Team - June 8, 2020"
-summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2702
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP7c3-SP2: Inclusion Poll for Onboarding a Risk Domain Team - June 8, 2020
 
-On June 8, the Maker Community will vote to determine whether the Maker Improvement Subproposal, [MIP7c3-SP2 (Domain Team Onboarding (Risk Domain Team)](https://forum.makerdao.com/t/2702), will proceed to next week's Governance Poll. In short, MIP7c3-SP2 proposes to onboard [Cyrus Younessi](https://twitter.com/cyounessi1) as an official Risk Domain Team. 
+On June 8, the Maker Community will vote to determine whether the Maker Improvement Subproposal, [MIP7c3-SP2 (Domain Team Onboarding (Risk Domain Team)](https://forum.makerdao.com/t/2702), will proceed to next week's Governance Poll. In short, MIP7c3-SP2 proposes to onboard [Cyrus Younessi](https://twitter.com/cyounessi1) as an official Risk Domain Team.
 
 **Inclusion Poll Details:**
 

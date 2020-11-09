@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Approve Monthly Governance Cycle Bundle, Increase the ETH-A debt ceiling
-
 ---
+
 ## [Executive Vote] Approve Monthly Governance Cycle Bundle, Increase the ETH-A debt ceiling
 
 The Governance Facilitators have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -11,11 +11,13 @@ The Governance Facilitators have placed an Executive Vote into the voting system
 As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), this bundle consists of the proposals that have met the prior requirements to be included in the monthly MIPs executive. These proposals are as follows:
 
 **Maker Improvement Proposals**
+
 - [MIP16: The Weekly Governance Cycle](https://forum.makerdao.com/t/3008)
 - [MIP18: Meta-Parameter Adjustments](https://forum.makerdao.com/t/3118)
 - [MIP19: Liquidations System 1.1 Upgrade](https://forum.makerdao.com/t/3098)
 
 **Sub-Proposals**
+
 - [MIP18c4-SP1: Subproposal for Modifying Meta-Parameter Adjustments](https://forum.makerdao.com/t/3119)
 - [MIP12c2-SP3: Domain Work Requirements for the Onboarding of MANA](https://forum.makerdao.com/t/3139)
 
@@ -43,7 +45,7 @@ The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mc
 
 ## Review
 
-These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the threads linked above to inform your position before voting.  
+These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the threads linked above to inform your position before voting.
 
 Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) and [Audio](https://soundcloud.com/makerdao/sets/governance-calls) for these calls is available to review.
 

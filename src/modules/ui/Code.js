@@ -3,13 +3,14 @@ import { jsx, Box } from "theme-ui";
 
 const Code = ({ children }) => {
   return (
-    <pre 
-      sx={{ 
-        display: "inline-block", 
-        whiteSpace: 'pre-wrap', 
-        wordBreak: 'break-all', 
-        m:0 
-      }}>
+    <pre
+      sx={{
+        display: "inline-block",
+        whiteSpace: "pre-wrap",
+        wordBreak: "break-all",
+        m: 0,
+      }}
+    >
       <Box
         as="code"
         sx={{

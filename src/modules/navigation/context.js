@@ -10,42 +10,19 @@ export const NavigationContext = createContext();
 export const useNavigation = () => {
   const context = useContext(NavigationContext);
   if (context === undefined) {
-    throw new Error('useNavigation must be within a NavigationProvider');
+    throw new Error("useNavigation must be within a NavigationProvider");
   }
 
-  return context; 
-}
+  return context;
+};
 
 const NavigationProvider = ({ children }) => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const { locale, DEFAULT_LOCALE } = useTranslation();
 
-  const { headerFiles, headerConfigFiles, footerFiles, socialLinks } = useStaticQuery(graphql`
+  const { headerFiles, socialLinks } = useStaticQuery(graphql`
     query getNavigationData {
-      # Regex for all files that are NOT config files
-      allMdx: allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "//([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              order
-            }
-          }
-        }
-      }
-
-
-    #Get files that have header/headerOrder frontmatter
+      #Get files that have header/headerOrder frontmatter
       headerFiles: allMdx(
         filter: {
           frontmatter: { header: { in: true } }
@@ -66,31 +43,6 @@ const NavigationProvider = ({ children }) => {
               value
             }
           }
-        }
-      }
-
-      #Get header.mdx files from only the top level locale folders. (ie. /content/en/header.mdx)
-      headerConfigFiles: allMdx(
-        filter: {
-          fileAbsolutePath: { regex: "//content/([^/]+)/?/(header.mdx)$/" }
-        }
-      ) {
-        nodes {
-          fileAbsolutePath
-          internal {
-            content
-          }
-        }
-      }
-
-      footerFiles: allMdx(
-        filter: {
-          fileAbsolutePath: { regex: "//content/([^/]+)/?/(footer.mdx)$/" }
-        }
-      ) {
-        nodes {
-          fileAbsolutePath
-          body
         }
       }
 
@@ -120,11 +72,12 @@ const NavigationProvider = ({ children }) => {
     node.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
   );
 
-  const headerLinkEdges = headerEdges.length !== 0 ? headerEdges : defaultHeaderLocaleEdges;
+  const headerLinkEdges =
+    headerEdges.length !== 0 ? headerEdges : defaultHeaderLocaleEdges;
 
   //allMDX will return all header.mdx files at top level locale folders.
   //Find only the one we need for our current locale and use it's body in the MDX renderer below.
-  const headerDataLinks = headerLinkEdges
+  const headerLinks = headerLinkEdges
     .sort((a, b) => {
       const aNode = {
         ...a.node,
@@ -172,22 +125,6 @@ const NavigationProvider = ({ children }) => {
       };
     });
 
-  const headerConfigLinks = headerConfigFiles.nodes
-    .find((n) => n.fileAbsolutePath.includes(`/${locale}/`))
-    .internal.content.trim()
-    .split("\n")
-    .map((l, index) => {
-      const url = l.match(/\(([^)]+)\)/)[1];
-      const title = l.match(/\[([^)]+)\]/)[1];
-
-      return {
-        url,
-        title,
-      };
-    });
-
-  const headerLinks = headerDataLinks.concat(headerConfigLinks);
-
   const showMobileMenu = (scrollBeforeMenuOpen) => {
     if (typeof window !== "undefined") {
       //Solution from: https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/
@@ -196,7 +133,7 @@ const NavigationProvider = ({ children }) => {
         document.body.style.position = "";
         document.body.style.top = "";
         document.body.style.width = "";
-        console.log(scrollBeforeMenuOpen)
+        console.log(scrollBeforeMenuOpen);
         window.scrollTo(0, scrollBeforeMenuOpen);
       } else {
         //We're showing the menu. Add fixed styling so the user doesn't scroll the window when in the menu.
@@ -208,7 +145,7 @@ const NavigationProvider = ({ children }) => {
 
       setMobileNavOpen(true);
     }
-  }
+  };
 
   const hideMobileMenu = (scrollBeforeMenuOpen) => {
     if (mobileNavOpen) {
@@ -221,18 +158,18 @@ const NavigationProvider = ({ children }) => {
         setMobileNavOpen(false);
       }
     }
-  }
+  };
 
   return (
     <NavigationContext.Provider
       value={{
         mobileNavOpen,
-        showMobileMenu, 
+        showMobileMenu,
         hideMobileMenu,
         headerLinks,
-        footerFiles,
-        socialLinks
-      }}>
+        socialLinks,
+      }}
+    >
       {children}
     </NavigationContext.Provider>
   );

@@ -5,7 +5,7 @@
 - [8:26](https://youtu.be/v_OtobM_Mrg?t=506): Vamsi's presentation on Debt Auctions(flop auctions)
 - [23:10](https://youtu.be/v_OtobM_Mrg?t=1388): Dockerized auction keeper presentation overview by Marc Andre
 - [32:00](https://youtu.be/v_OtobM_Mrg?t=1978): Potential executive vote to lower minimum bid on Debt Auctions
-- *SCD shutdown discussion, tabled for Wednesday*
+- _SCD shutdown discussion, tabled for Wednesday_
 - [1:05:54](https://youtu.be/v_OtobM_Mrg?t=3952) Circuit breaker discussion and USDC overview/recap
 - [1:26:33](https://youtu.be/v_OtobM_Mrg?t=5193): SCD migration
 
@@ -56,6 +56,7 @@
 ![](https://i.imgur.com/XYGGgcd.png)
 
 ![](https://i.imgur.com/6OYOUWr.png)
+
 - We have both debt and surplus. (Which is why that calculation shows as a negative total on Dai stats.)
 
 ![](https://i.imgur.com/nmltsYp.png)
@@ -69,6 +70,7 @@
 ![](https://i.imgur.com/8TdKnKR.png)
 
 ![](https://i.imgur.com/chNItUx.png)
+
 - Slight typo, lot size starts at 200. Later on, Cyrus talks about potentially adjusting this to a number that makes more sense.
 
 ![](https://i.imgur.com/IfTpme2.png)
@@ -106,6 +108,7 @@
 - Keepers require optimization to improve auctions; the dockerized model is a solid start but requires individual tweaking for further optimization.
 
 ![](https://i.imgur.com/QvDbZdL.png)
+
 - New sharding functionalities allow for multiple accounts to work around the limit of 50 transactions per specific address.
 
 #### Questions and Comments
@@ -134,7 +137,7 @@
 [32:00](https://youtu.be/v_OtobM_Mrg?t=1978)
 
 - Flop auctions are beginning at approximately 10:30 AM Eastern this Thursday. If the system accrues further liquidation penalties, this time could push back. Due to yesterday's surge in liquidation penalties, it was pushed back from 6:30 AM to 10:30 AM. On the accounting side of the system, some of the bad debt clears out and the auction pushes back.
-- One of the critical questions that have been discussed is the starting price. The current structure is 250 lot of MKR for 50,000 Dai. While illiquid, the implied USD price is $200 per MKR.
+- One of the critical questions that have been discussed is the starting price. The current structure is 250 lot of MKR for 50,000 Dai. While illiquid, the implied USD price is \$200 per MKR.
   - That 200 number was chosen back in November during the MCD launch. Due to recent development, a massive crash in collateral prices could lead to a crisis of confidence in the amount of Dai. As a result, flop auctions were created to get bad debt out of the queue as soon as possible, 48 hrs after bad debt accrues. A 2/3rd discount was built into the system at $600 for the post-crisis MKR price was set to about $200.
   - We did not see that crisis of confidence in Dai. The Dai price has remained stable, reflecting the community's belief that Maker's long-term prospects are fine. There is less urgency to clear out the bad debt, so long as it gets cleared out eventually; which is partially why the extension from 48 hours to 6.5 days was suggested and passed.
     - Now, there is a case where if the MKR spot price is below the 200 Dai per MKR starting bid, then we may see no bids. In this case, the auction would be put back 72 hours(three days.) In this case, the price would drop from 200 to 166 Dai per MKR. The question is: should we propose a governance vote to change the starting price to avoid potentially pushing the auction back? Or do we want to keep it as is? There is an argument to be made that even if the spot price is below 200, due to illiquidity, the auction might stil clear just fine. An executive vote can be used to either increase the lot size or decrease the bidding amount such that the starting price is reduced a bit. We would need to do this before the auctions start this coming thursday(with a 4 hour governance delay.)
@@ -158,7 +161,7 @@
 
 [44:42](https://youtu.be/v_OtobM_Mrg?t=2682)
 
-- Emilainobonassi: A price reduction is an opportunity for speculators. If there is a reduction to, say $100, it could lead to people shorting MKR. If lowering the price could affect the system by introducing speculation, it may be better to reduce time delays instead of providing for more agile responses. This, to me, is a better signal than lowering a price.
+- Emilainobonassi: A price reduction is an opportunity for speculators. If there is a reduction to, say \$100, it could lead to people shorting MKR. If lowering the price could affect the system by introducing speculation, it may be better to reduce time delays instead of providing for more agile responses. This, to me, is a better signal than lowering a price.
   - Cyrus: There is no good rationale for lowering the price arbitrarily. We could drop to a dollar, but that could open us up to an attack. Some people may look at that approach as a free-market, but we should understand the risks involved in this decision.
 
 [48:30](https://youtu.be/v_OtobM_Mrg?t=2910)
@@ -166,7 +169,7 @@
 - 0age(person talking for the backstop syndicate): From my perspective, regarding the backstop-syndicate, the risk is one sophisticated keeper mounting an account to steal collateral and execute malicious upgrades. A community of users that rely on Dai is stronger when there is less opportunity for attack. Regardless of where the auction price starts, a 100 Dai for 1 MKR is a good shelling point with broad consensus. Some people are trying to buy into Maker who are willing to pay, then some opportunistic people are trying to scalp Maker, and finally, there is the third group of people who just want to help.
   - Auctions that begin higher and then trend down is preferable. This gives those in the community without the capital and sophistication a chance of participation and contribution to the backstop syndicate. The real goal, in our case, is not to buy Maker but to make sure that Maker is sold. If more people come in at a higher price, it's a win-win. For us, if the price starts at $1, the idea is still to bid at $100.
   - There will be a hundred auctions going on at once. Our intention is signaling support for the Dai ecosystem and helping prevent a considerable chunk of Maker from selling at low prices and centralizing into a few hands. We'll go in whatever direction is decided. But I don't think it makes sense to have no one bidding if the spot price is not accurate. The thing that worries me about the time that the auctions are running is: if the `ttl` is being pushed out, then the auction compresses into a smaller window.
-  - Cyrus: Another idea is the step size in between failed auctions. It is currently at 20%, so if an auction fails at $200, it would fall to $160. We can set the step to 50%,  aggressively lowering the bid price between auctions.
+  - Cyrus: Another idea is the step size in between failed auctions. It is currently at 20%, so if an auction fails at $200, it would fall to $160. We can set the step to 50%, aggressively lowering the bid price between auctions.
   - Cmooney: I think 20% is a decent parameter because it stops slippage. The three-day delay may not be great.
 
 [55:49](https://youtu.be/v_OtobM_Mrg?t=3349)
@@ -178,11 +181,11 @@
 - David: Priority is not having the first round of flop auctions be re-initialized. Would it make sense to vote on 20% below the current spot price the day before the flop auctions start?
   - Aaron Bartsch: Won't someone just dump MKR on the open market?
   - Cyrus: Relying on a last-minute executive is not best.
-  - David: We know we have backstop syndicate, and other public signals, who would bid at $100 maybe we could use that as a start for the flops?
+  - David: We know we have backstop syndicate, and other public signals, who would bid at \$100 maybe we could use that as a start for the flops?
   - Cyrus: Nice in theory. I agree that it's a reasonable starting bid, but I don't want to cater to the minimum bids based on certain keepers.
   - David: There is competition, Paradigm, Dharma, Backstop syndicate, and several others. If we start at whatever we know to be the lowest public signal then that might be a good benchmark.
   - Cyrus: I just hope to have an unbiased way to determine that number.
-  - Charlie: I would second not tailoring around keepers, but picking a market price, $100 is about willingness to purchase at that price point.
+  - Charlie: I would second not tailoring around keepers, but picking a market price, \$100 is about willingness to purchase at that price point.
 
 [1:01:11](https://youtu.be/v_OtobM_Mrg?t=3671)
 
@@ -206,12 +209,13 @@
 - What this didn't give us was a proper solution to the Dai liquidity issue.
 
 ![](https://i.imgur.com/9ETXGme.png)
+
 - Vishesh added [more tools](http://makervaults.descipher.io/) to examine how much Dai will get liquidated at different price points (the middle chart in purple).
   - If ETH hits say $80, then around $6 million Dai will need active keeper bidding. If it hits $70, that's $11 million. $60 Eth is $26 million. At $55 or lower, it's $55 million Dai that gets liquidated. These numbers are no joke. This risk wasn't properly processed by the community in the fast-moving context of the past few days.
   - `ttl` doesn't affect auction keeper liquidity problems. If the price this in that lower bound, I have a gut feeling that keepers won't get the $50 MM Dai they need for the auctions. This isn't a function of exchange liquidity, centralized or decentralized. Even if they could handle $50 million worth of ETH, with a 30% buffer, it is possible it's the Dai liquidity that's the problem.
   - The basic premise for the circuit breaker: slow the rate of liquidations should they occur. An example: if $20 mil is on the table a mechanism to liquidate in $5 million chunks, then keepers would be able to recycle the Dai they use in auctions to continue bidding. Let's say a keeper has $10 million at their disposal, and $30 million is up for bidding. If they could recycle their proceeds to bid on the next batch, that would be doable.
   - Changing the auction format is a month's long process. Working on slowing down the collateral liquidating, is where the liquidation freeze mechanism discussion started. If you have a one hour delay based on the oracle, then governance can rally a vote to freeze the liquidations.
-  - Also, we have to deal with unfrozen accounts, and that situation was the impetus for adding USDC as a collateral type. Since many DeFi players have large capital balances in USDC, rather than Dai or Eth. Adding USDC as a collateral type allows USDC based keepers to mint Dai and bid on the auctions. Yesterday Dai also hit $1.10, evident signs of a liquidity crunch (in peg terms). We tracked some of the USDC denominated Dai, and most of it has gone to push the peg back to normal.
+  - Also, we have to deal with unfrozen accounts, and that situation was the impetus for adding USDC as a collateral type. Since many DeFi players have large capital balances in USDC, rather than Dai or Eth. Adding USDC as a collateral type allows USDC based keepers to mint Dai and bid on the auctions. Yesterday Dai also hit \$1.10, evident signs of a liquidity crunch (in peg terms). We tracked some of the USDC denominated Dai, and most of it has gone to push the peg back to normal.
   - IMHO, allowing keepers an opportunity to mint Dai for auctions, is vastly more important than adding USDC for the peg.
 
 #### Questions and Discussion
@@ -230,10 +234,11 @@
 [1:20:19](https://youtu.be/v_OtobM_Mrg?t=4819)
 
 - `chat` is there any evidence of active keepers with large USDC balances?
+
   - (see the following section)
 
 - `chat` Matteo Leibowitz: Are keepers correctly incentivized to alert MKR holders to trigger the circuit breaker? It seems like in most instances, they'd be better off just letting auctions proceed and bidding low.
-  - `chat` cmooney: we can know if keepers are tapped out too.  If we start seeing liquidations below market that are accumulating to system debt.
+  - `chat` cmooney: we can know if keepers are tapped out too. If we start seeing liquidations below market that are accumulating to system debt.
 
 ## Primoz
 
@@ -242,30 +247,38 @@
 [1:26:33](https://youtu.be/v_OtobM_Mrg?t=5193)
 
 ![](https://i.imgur.com/DC9Ez7J.png)
+
 - Last week we had one of the most active weeks this year in migration. Sai supply dropped by $4.5 Million, and the migration contract was $2.5 Million.
 
 ![Collateralization Ratio](https://i.imgur.com/tkyLEpg.png)
+
 - Since SCD CR was much higher than on MCD, we didn't see nearly as many liquidations.
 
 ![CDP repayment activity](https://i.imgur.com/RP7tOj5.png)
-- CDP repayment activity: 170 CDPs repaid or got liquidated in the last week, about $4.7 Million in debt repaid.
+
+- CDP repayment activity: 170 CDPs repaid or got liquidated in the last week, about \$4.7 Million in debt repaid.
 
 ![CDPs migrated](https://i.imgur.com/zLMcxWf.png)
+
 - The day after Ether crashed, many CDPs migrated.
 
 ![Data on migration](https://i.imgur.com/BUIuHda.png)
+
 - 1st hypothesis is: in the last few weeks, CDPs could deposit additional Ether to fight liquidation. Now they capitulated, extra exposure wasn't worth it. The only way to close the position was to migrate.
 - 2nd hypothesis: SCD is a bit different than MCD; it could have been fear of more significant losses in the system, which would dilute PETH. That would lead to compounding losses.
-- There is less flexibility in SCD. You can deposit more ETH or migrate, so it seemed that my guess from the past few months (that falling Ether would force their hand) turned out correct. Also, a reminder that penalty fees go to PETH holders. $200K in interest paid to the system as a result of these migrations.
+- There is less flexibility in SCD. You can deposit more ETH or migrate, so it seemed that my guess from the past few months (that falling Ether would force their hand) turned out correct. Also, a reminder that penalty fees go to PETH holders. \$200K in interest paid to the system as a result of these migrations.
 
 ![Migrating Sai](https://i.imgur.com/oLqq7Ok.png)
+
 - This is a chart of Sai flowing into the migration contract. Spike on Thursday, likely because there is a premium on Dai, which you can get by migrating. The other option is depositing Dai in secondary markets. There were bite's today, but no one was bidding. This morning I saw many of them clearing out. There are still a few CDPs with liquidation ratios below 150%, when the peg returns that should alleviate itself.
 
 ![](https://i.imgur.com/w1i8DpJ.png)
-- Cyrus showed how much debt liquidates in MCD. In SCD, the situation might be better, but if ETH price goes to $60, most of the debt gets wiped. $80 or even $70 is fine since there is liquidity in the migration contract. If the price drops that low, then we have a Sai liquidity crunch. We mentioned SCD shutdown, however these should be some polling about that.
+
+- Cyrus showed how much debt liquidates in MCD. In SCD, the situation might be better, but if ETH price goes to $60, most of the debt gets wiped. $80 or even \$70 is fine since there is liquidity in the migration contract. If the price drops that low, then we have a Sai liquidity crunch. We mentioned SCD shutdown, however these should be some polling about that.
 
 ![](https://i.imgur.com/9ABgKUb.png)
-- I checked how much Sai supply is inactive, holders that don't move have almost $10 million Sai. Hard to say when the incentive to migration will arrive.
+
+- I checked how much Sai supply is inactive, holders that don't move have almost \$10 million Sai. Hard to say when the incentive to migration will arrive.
 
 #### Questions
 
@@ -280,6 +293,7 @@
   - Cyrus: Great point! In the forum post, we mentioned that the collateral type initialized with frozen liquidations. Even SF accruals will not trigger USDC vault liquidations.
 
 ![](https://i.imgur.com/pQnD0bf.png)
+
 - Cyrus: As a brief early analysis of Dai backed by USDC, the primary value of backing by USDC is that it allows keepers to maintain liquidity. You can see here that much of the USDC minting was used for peg arbitrage.
 
 #### Links from the Chat

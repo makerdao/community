@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { Button as ThemedButton, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { motion } from "framer-motion";
 
 import { Link } from "@modules/navigation";
 
@@ -27,7 +28,13 @@ const Button = ({
   // Instead of
   // <Button variant="primaryOutline" />
   let _variant = `${icon ? "icon_" : ""}${
-    variant || secondary ? "secondary" : outline ? "outline" : text ? "text" : "primary"
+    variant || secondary
+      ? "secondary"
+      : outline
+      ? "outline"
+      : text
+      ? "text"
+      : "primary"
   }${small ? "Small" : ""}`;
 
   const internal = /^\/(?!\/)/.test(href) || /^\/(?!\/)/.test(to);
@@ -43,41 +50,40 @@ const Button = ({
       sx={{
         whiteSpace: "nowrap",
         display: inline ? "inline-block" : "block",
-        cursor: disabled ? 'not-allowed' : '',
-        '&:not(:last-child)': {
-          mb: 3
+        cursor: disabled ? "not-allowed" : "",
+        "&:not(:last-child)": {
+          mb: 3,
         },
         ...sx,
       }}
     >
-        <ThemedButton
-          className="button"
-          disabled={disabled}
-          variant={_variant}
-          sx={{
-            
-            p: willHaveIcon ? "13px 32px" : "",
-            "& > *": { display: "inline-block", mb: "0 !important" }, //NOTE(Rejon): I use important here because we don't want child elements to dictate margins
-          }}
-          {...otherProps}
-        >
-          {willHaveIcon && (
-            <Icon
-              name={icon || "increase"}
-              className="increase"
-              size={"20px"}
-              sx={{
-                ml: "2px",
-                mr: ".5em",
-                verticalAlign: "middle",
-              }}
-            />
-          )}
+      <ThemedButton
+        className="button"
+        disabled={disabled}
+        variant={_variant}
+        sx={{
+          p: willHaveIcon ? "13px 32px" : "",
+          "& > *": { display: "inline-block", mb: "0 !important" }, //NOTE(Rejon): I use important here because we don't want child elements to dictate margins
+        }}
+        {...otherProps}
+      >
+        {willHaveIcon && (
+          <Icon
+            name={icon || "increase"}
+            className="increase"
+            size={"20px"}
+            sx={{
+              ml: "2px",
+              mr: ".5em",
+              verticalAlign: "middle",
+            }}
+          />
+        )}
 
-          <Text sx={{ verticalAlign: willHaveIcon ? "middle" : "" }}>
-            {children}
-          </Text>
-        </ThemedButton>
+        <Text sx={{ verticalAlign: willHaveIcon ? "middle" : "" }}>
+          {children}
+        </Text>
+      </ThemedButton>
     </Link>
   );
 };

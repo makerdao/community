@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Changes to USDC-A and PAX-A Parameters, Reduce Box Parameter - September 14, 2020
-
 ---
+
 ## [Executive Vote] Changes to USDC-A and PAX-A Parameters, Reduce Box Parameter - September 14, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This expedited executive vote is taking place due to an [emergency signal request](https://forum.makerdao.com/t/signal-request-should-we-take-emergency-action-to-fix-the-peg/4096) put forward by the Maker governance community. Discussion of this executive vote can be found [here](https://forum.makerdao.com/t/expedited-executive-vote-2020-09-14/4125).
@@ -17,6 +17,7 @@ As per this [signal request](https://forum.makerdao.com/t/signal-request-should-
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The USDC-A collateralization ratio will be decreased from 110% to 103%.
 - The PAX-A collateralization ratio will be decreased from 120% to 103%.
 - The USDC-A debt ceiling will be increased from 100 million to 200 million.

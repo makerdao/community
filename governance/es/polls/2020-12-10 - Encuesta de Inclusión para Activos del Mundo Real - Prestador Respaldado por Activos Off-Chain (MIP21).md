@@ -1,6 +1,6 @@
 # Encuesta de Inclusión para Activos del Mundo Real **- Prestador Respaldado por Activos Off-Chain (MIP21) - 12 de octubre de 2020**
 
-Los Facilitadores de Gobernanza han colocado una encuesta de inclusión en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si la propuesta (Activos del Mundo Real- Prestador Respaldado por Activos Off-Chain)  debería ser incluida en la Encuesta de Gobernanza Mensual.
+Los Facilitadores de Gobernanza han colocado una encuesta de inclusión en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si la propuesta (Activos del Mundo Real- Prestador Respaldado por Activos Off-Chain) debería ser incluida en la Encuesta de Gobernanza Mensual.
 
 Si los votos por **Sí** en esta encuesta de inclusión son más que la combinación de votos por **No** más el **Umbral de Inclusión por Defecto** al cierre de la encuesta, la propuesta debería incluirse en la Encuesta de Gobernanza Mensual. Nótese que el Umbral de Inclusión por Defecto está establecido en **3000 MKR**. En resumen, si los votos por **Sí** > (votos por **No** + **Umbral de Inclusión por Defecto**) = inclusión en la Encuesta de Gobernanza.
 
@@ -18,7 +18,7 @@ Si esta encuesta de inclusión es aprobada, los Facilitadores de Gobernanza conf
 
 [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) (en español: [https://forum.makerdao.com/t/mip3-en-espanol/4605](https://forum.makerdao.com/t/mip3-en-espanol/4605)) describe este tipo de encuesta y detalla más profundamente su posición y su significado dentro del resto del Ciclo de Gobernanza.
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

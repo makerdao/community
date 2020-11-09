@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Raise the ETH-A Debt Ceiling
-
 ---
+
 ## [Executive Vote] Raise the ETH-A Debt Ceiling
 
 The Maker Foundation Interim Governance Facilitator has placed an **unscheduled** Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol as outlined in this forum thread: [[Signal Request] ETH-A Stability Fee and Debt Ceiling adjustments](https://forum.makerdao.com/t/3059).

@@ -4,10 +4,11 @@ summary: Signal your support to activate the GSM by setting the delay to 24 hour
 discussion_link: https://forum.makerdao.com/t/914
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Activate the Governance Security Module - December 9, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to activate the [Governance Security Module](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation#1-introduction-summary).
@@ -20,7 +21,7 @@ Additional context was presented in a [blog post](https://blog.makerdao.com/gove
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

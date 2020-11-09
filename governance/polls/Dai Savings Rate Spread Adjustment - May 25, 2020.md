@@ -4,14 +4,15 @@ summary: Signal your support to adjust the Dai Savings Rate Spread within a rang
 discussion_link: https://forum.makerdao.com/t/2579
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 0
-   2: 0.25
-   3: 0.5
-   4: 1
-   5: 2
-   6: 4
+  0: Abstain
+  1: 0
+  2: 0.25
+  3: 0.5
+  4: 1
+  5: 2
+  6: 4
 ---
+
 # Poll: Dai Savings Rate Spread Adjustment - May 25, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Savings Rate Spread** options. Voters are now able to signal their support for a **Dai Savings Rate Spread** within a range of 0% to 4%.
@@ -24,7 +25,7 @@ The **Dai Savings Rate Spread** was discussed in the Governance call on Thursday
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

@@ -4,10 +4,11 @@ summary: Signal your support for raising or lowering the priority of this token
 discussion_link: https://forum.makerdao.com/t/217
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Collateral Asset Priority for Basic Attention Token (BAT) - August 12, 2019
 
 The Maker Foundation Interim Risk Team has placed seven Governance Polls into the [voting system](https://vote.makerdao.com/polling), one for each of the asset types proposed for inclusion the Multi-Collateral Dai system when it launches.

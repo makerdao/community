@@ -4,10 +4,11 @@ summary: Signal your support or opposition for implementing Quantitative Easing 
 discussion_link: https://forum.makerdao.com/t/3902
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Quantitative Easing aka Manual PSM - September 14, 2020
 
 The Maker Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to a community implementation of Quantitative Easing (aka Manual PSM).

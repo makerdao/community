@@ -1,7 +1,7 @@
 ---
 title: Monthly MIPs Official Ratification
-
 ---
+
 ## [Executive Vote] Monthly MIPs Official Ratification
 
 The Maker Foundation Interim Governance Facilitators have placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the Maker Protocol:
@@ -23,14 +23,13 @@ The proposals can be reviewed below:
 - [MIP4c2-SP4: MIP12 Amendments](https://forum.makerdao.com/t/mip4c2-sp4-mip12-amendments/2666)
 - [MIP7c3-SP2: Subproposal Adding a Risk Domain Team Onboarding](https://forum.makerdao.com/t/mip7c3-sp2-subproposal-adding-a-risk-domain-team-onboarding/2702)
 
-
 These changes were discussed in the Governance call on Thursday, June 18. Please review the [Video](https://www.youtube.com/watch?v=cIqyJ8-3MMs&feature=youtu.be) and [Audio](https://soundcloud.com/makerdao/ep-97-governance-and-risk-meeting?in=makerdao/sets/governance-calls).
 
 The MakerDAO community is moving forward with an Executive Vote to determine whether it will enact the changes established by the previous [Governance Poll](https://vote.makerdao.com/polling).
 
 ## Action
 
-**Voting for this proposal will place your MKR in support of implementing the  changes outlined above.**
+**Voting for this proposal will place your MKR in support of implementing the changes outlined above.**
 
 ---
 
