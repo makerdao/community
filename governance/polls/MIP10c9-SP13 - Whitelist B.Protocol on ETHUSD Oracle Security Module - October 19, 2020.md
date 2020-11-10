@@ -1,13 +1,14 @@
 ---
 title: Whitelist B.Protocol on ETHUSD Medianizer Oracle Security Module (MIP10c9-SP13) - October 19, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp13-whitelist-b-protocol-contract-on-ethusd-oracle-osm/4621
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist B.Protocol on ETHUSD Oracle Security Module (MIP10c9-SP13) - October 19, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending B.Protocol to the ETHUSD Oracle Security Module whitelist to read price data.

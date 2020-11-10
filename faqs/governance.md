@@ -1,6 +1,6 @@
 # Governance
 
-In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](../onboarding/voter-onboarding.md) for a more detailed guide on how to begin voting.
+In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](/learn/governance/how-voting-works) for a more detailed guide on how to begin voting.
 
 ## What is Governance?
 
@@ -12,7 +12,7 @@ In the context of MakerDAO, governance can be divided into two main parts: on-ch
 
 MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol's on-chain governance system. There are two types of votes in this system, Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
 
-Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](https://awesome.makerdao.com/#meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
+Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](en/contribute/governance_and_risk_meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
 
 ## Is there more than one type of vote?
 
@@ -63,7 +63,7 @@ Yes, anyone may start these threads. Signal threads that stick to the guidelines
 
 ## What is the difference between a forum signal thread and a regular forum poll?
 
-A forum signal thread is created with the specific  intention of gathering consensus around an issue and moving that issue to an on-chain Governance Poll. It is also suggested that it adhere to the [semi-formal signal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223) that can be found within the governance forum.
+A forum signal thread is created with the specific intention of gathering consensus around an issue and moving that issue to an on-chain Governance Poll. It is also suggested that it adhere to the [semi-formal signal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223) that can be found within the governance forum.
 
 Regular forum polls can be used to measure community sentiment about anything and their use is encouraged. There are no guidelines on the general use of forum polls, other than courtesy and common sense.
 
@@ -244,7 +244,7 @@ All past votes are preserved in the on-chain history. If MKR is withdrawn from a
 
 ## Do I need to withdraw MKR from the voting contract immediately after voting?
 
-No, voters who are active in governance can leave their MKR in the voting contract. 
+No, voters who are active in governance can leave their MKR in the voting contract.
 
 Executive Votes, by design of [Continuous Approval Voting](https://en.wikipedia.org/wiki/Approval_voting), require voters to leave their stake on the proposal they wish to support. Doing so increases the requirement for a new proposal to pass.
 

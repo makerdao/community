@@ -13,16 +13,16 @@
 - Discussion about things in the call continue in the [forum](https://forum.makerdao.com/)
 - Don't be hesitant to give us feedback, questions, comments, and concerns about these calls and conversations!
 - This is not a governance committee, we don't decide things on this call. This where we debate things, talk about trends, clear up misconceptions, present analytics, and so on.
-- We have a new [forum](https://forum.makerdao.com/) that was long overdue. It's turning out great, there's a ton of activity going on. 
-- I want to talk about emergent processes and workflows in the community: 
-    - Important questions to think about: How do we surface valuable information? How do we collect this information? Where does this information live?
-    - Calls are good, but the conversations aren't easily referenceable and the info isn't as comprehensive as it could be in writing. Other mediums are better.
-    - The chats and forums have the meat of the conversations. However, the chats are temporal while the forum has better visibility over time. The next place to make materials more canonical is importing them into the MakerDAO community GitHub. The details of that will be hashed out through a thread that will be posted soon on the forum.
+- We have a new [forum](https://forum.makerdao.com/) that was long overdue. It's turning out great, there's a ton of activity going on.
+- I want to talk about emergent processes and workflows in the community:
+  - Important questions to think about: How do we surface valuable information? How do we collect this information? Where does this information live?
+  - Calls are good, but the conversations aren't easily referenceable and the info isn't as comprehensive as it could be in writing. Other mediums are better.
+  - The chats and forums have the meat of the conversations. However, the chats are temporal while the forum has better visibility over time. The next place to make materials more canonical is importing them into the MakerDAO community GitHub. The details of that will be hashed out through a thread that will be posted soon on the forum.
 - [01:01:15](https://youtu.be/DlH0bMvqO9w?t=3676): Discussion about Debt Ceiling and seeking consensus to change the Gov poll in the coming weeks for a Debt Ceiling vote.
 
 ### Cyrus: Quantitative Modeling: [13:20](https://youtu.be/DlH0bMvqO9w?t=798)
 
-- We will finish up and recap the Stability Fee model today. 
+- We will finish up and recap the Stability Fee model today.
 
 #### Review Slides
 

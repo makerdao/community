@@ -1,12 +1,10 @@
 ---
 title: Template - [Executive Vote] Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
-
 ---
+
 ## [Executive Vote] Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
 
 The Interim Risk Team has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
-
-
 
 ## Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
 
@@ -14,18 +12,17 @@ The Risk Team has requested that the debt ceilings be raised as an emergency mea
 
 The Risk Team has called for the following changes:
 
-* ETH-A debt ceiling to be increased from 260 to 340 million.
-* USDC-A debt ceiling to be increased from 80 to 140 million.
-* USDC-B debt ceiling to be increased from 10 to 30 million.
-* W-BTC debt ceiling to be increased from 20 to 40 million.
-* BAT-A debt ceiling to be increased from 3 to 5 million.
+- ETH-A debt ceiling to be increased from 260 to 340 million.
+- USDC-A debt ceiling to be increased from 80 to 140 million.
+- USDC-B debt ceiling to be increased from 10 to 30 million.
+- W-BTC debt ceiling to be increased from 20 to 40 million.
+- BAT-A debt ceiling to be increased from 3 to 5 million.
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
 ## Review
 
-Please discuss the proposed changes in the  [Maker governance forum](https://forum.makerdao.com/) to inform your position before voting.  
-
+Please discuss the proposed changes in the [Maker governance forum](https://forum.makerdao.com/) to inform your position before voting.
 
 ## Action
 

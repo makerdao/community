@@ -1,14 +1,14 @@
 ---
 title: Should we add FTM to the Maker Protocol? - May 25, 2020
-summary: This poll will provide guidance to the Domain Teams when they onboard additional assets. 
+summary: This poll will provide guidance to the Domain Teams when they onboard additional assets.
 discussion_link: https://forum.makerdao.com/t/2292
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should we add FTM to the Maker Protocol? - May 25, 2020
 
 ## Description

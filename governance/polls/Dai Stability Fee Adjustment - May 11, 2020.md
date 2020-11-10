@@ -4,16 +4,17 @@ summary: Signal your support to adjust the Dai Stability Fee within a range of 0
 discussion_link: https://forum.makerdao.com/t/2406
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 0
-   2: 0.25
-   3: 0.5
-   4: 0.75
-   5: 1
-   6: 1.5
-   7: 2.5
-   8: 4.5
+  0: Abstain
+  1: 0
+  2: 0.25
+  3: 0.5
+  4: 0.75
+  5: 1
+  6: 1.5
+  7: 2.5
+  8: 4.5
 ---
+
 # Poll: Dai Stability Fee Adjustment - May 11, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Stability Fee** options. Voters are now able to signal their support for a **Dai Stability Fee** within a range of 0% to 4.5%.
@@ -26,7 +27,7 @@ The **Dai Stability Fee** was discussed in the Governance call on Thursday, May 
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 
@@ -39,4 +40,3 @@ Demos, help and instructional material for the Governance Dashboard can be found
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

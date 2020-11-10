@@ -1,13 +1,14 @@
 ---
 title: Governance Poll for Core Personnel Onboarding (Governance Facilitator) - May 18, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote.
 discussion_link: https://forum.makerdao.com/t/2351
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Governance Poll for Core Personnel Onboarding (Governance Facilitator) - May 18, 2020
 
 Today, on May 18, the Maker Community will vote to determine whether the subproposal to add [@LongForWisdom](https://forum.makerdao.com/u/longforwisdom/summary) as a Governance Facilitator should proceed to the final Executive Vote next week.

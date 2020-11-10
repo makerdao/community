@@ -1,13 +1,14 @@
 ---
 title: MKR Oracle Deactivation in SCD - April 20th, 2020
-summary: Signal your support to deactivate the MKR oracle porior to SCD shutdown. 
+summary: Signal your support to deactivate the MKR oracle porior to SCD shutdown.
 discussion_link: https://forum.makerdao.com/t/1823
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: MKR Oracle Deactivation in SCD - April 20th, 2020
 
 The Maker Foundation Interim Risk Team and the Interim Oracle Team have placed a Governance Poll into the voting system for the community to signal their support for the Oracle team to deactivate the MKR Oracle in Single Collateral Dai.

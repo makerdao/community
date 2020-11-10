@@ -4,10 +4,11 @@ summary: Signal your support for increasing the BAT-A Risk Premium from 0% to 4%
 discussion_link: https://forum.makerdao.com/t/3334
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the BAT-A Risk Premium - August 10, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the BAT-A Risk Premium from 0% to 4%.

@@ -22,7 +22,7 @@ Si es aprobada en el voto ejecutivo del viernes, entonces este cambio se activar
 
 Puedes encontrar información adicional sobre las MIPs en el repositorio de las [Propuestas de Mejora de Maker (MIPs)](https://github.com/makerdao/mips).
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

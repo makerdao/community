@@ -1,18 +1,19 @@
 ---
 title: MIP9 Community Greenlight Poll - AMPL (Ampleforth Token) - July 20, 2020
-summary: This poll will provide guidance to the Domain Teams on how to prioritize onboarding additional collateral assets. 
+summary: This poll will provide guidance to the Domain Teams on how to prioritize onboarding additional collateral assets.
 discussion_link: https://forum.makerdao.com/t/2985
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: MIP9 Community Greenlight Poll - AMPL (Ampleforth Token) - July 20, 2020
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset AMPL (Ampleforth Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset AMPL (Ampleforth Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding AMPL (Ampleforth Token) as a collateral asset to the Maker Protocol.
 
@@ -22,7 +23,7 @@ Please review the collateral onboarding application [forum thread](https://forum
 
 ## Next Steps
 
-The domain teams will use the outcome of this poll to inform the direction of their collateral onboarding work. 
+The domain teams will use the outcome of this poll to inform the direction of their collateral onboarding work.
 
 ## Resources
 

@@ -4,13 +4,14 @@ summary: Signal your support to adjust the Liquidation Ratio Adjustment within a
 discussion_link: https://forum.makerdao.com/t/2119
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 105
-   2: 110
-   3: 115
-   4: 120
-   5: 125
+  0: Abstain
+  1: 105
+  2: 110
+  3: 115
+  4: 120
+  5: 125
 ---
+
 # Poll: USDC Liquidation Ratio Adjustment - April 22, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options. Voters are now able to signal their support for a **USDC Liquidation Ratio** within a range of 105% to 125%.
@@ -23,7 +24,7 @@ The **USDC Liquidation Ratio** was discussed in the [[USDC plus additional Stabl
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

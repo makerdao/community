@@ -2,7 +2,7 @@
 
 [makerdao/community](https://github.com/makerdao/community/blob/ad64bcd38af6caf06c8098868f78cf2f1ed4efe4/governance/polls/Adjust%20the%20BAT-A%20Debt%20Ceiling%20-%20September%2021%2C%202020.md)
 
-Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad de Gobernanza de Maker.  La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a un incremento del **Techo de Deuda de BAT** de 5 millones de Dai a 10 millones de Dai.
+Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad de Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a un incremento del **Techo de Deuda de BAT** de 5 millones de Dai a 10 millones de Dai.
 
 Esta Encuesta de Gobernanza ([FAQ](https://community-development.makerdao.com/makerdao-scd-faqs/scd-faqs/governance)) estará activa por tres días a partir del lunes 21 de septiembre a las 16:00 UTC. Los resultados que se desprendan de ella podrían informar un Voto Ejecutivo a realizarse el viernes 25 de septiembre a las 16:00 UTC.
 

@@ -1,5 +1,6 @@
 ---
 title: Component Palette
+order: 7
 keywords: "makerdao, component palette"
 description: "This page serves as a palette for all the components this project has to offer."
 hideLanguageSelector: true
@@ -57,11 +58,13 @@ The first element is always the header. Every other element will be hidden away.
 
 <Accordion>
 
+
 Hello World
 
 This is hidden inside the Accordion.
 
 </Accordion>
+
 
 ---
 
@@ -89,15 +92,19 @@ This is a utility component built to work with the `Image` component.
 
 <Aligner center sx={{height: '400px', width: '100%'}}>
 
+
 <Image src="/images/starfox.png" />
 
 </Aligner>
 
+
 <Aligner bottom right sx={{height: '400px', width: '100%'}}>
+
 
 ![starfox](/images/starfox.png)
 
 </Aligner>
+
 
 ---
 
@@ -105,9 +112,11 @@ This is a utility component built to work with the `Image` component.
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 This is a utility component originally built to display the AllContributors grid.
 Yet, it also serves as good way for folks to set an author at the end of a page.
@@ -149,7 +158,9 @@ It's also possible to render a custom author by filling out the correct informat
 
 <Authors list>
 
+
 <Box>
+
 
 ![Réjon](/images/starfox.png)
 
@@ -175,7 +186,9 @@ It's also possible to render a custom author by filling out the correct informat
 
 </Box>
 
+
 </Authors>
+
 
 ---
 
@@ -223,9 +236,15 @@ It's a button. Not much more to it.
 
 <Button to="https://makerdao.com"> External Link Button </Button>
 
-<Button text to="/"> Text Button </Button>
+<Button text to="/">
+  {" "}
+  Text Button{" "}
+</Button>
 
-<Button text disabled to="/"> Disabled Text Button </Button>
+<Button text disabled to="/">
+  {" "}
+  Disabled Text Button{" "}
+</Button>
 
 ---
 
@@ -255,15 +274,19 @@ Maker dao callout
 
 <Callout>
 
+
 Howdy
 
 </Callout>
 
+
 <Callout icon="lightbulb">
+
 
 Maker dao callout
 
 </Callout>
+
 
 > blockquote Callout Markdown Style
 
@@ -273,9 +296,11 @@ Maker dao callout
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 This is a non-functioning checklist component. It is simply styled to look like one.
 
@@ -292,15 +317,18 @@ This is a non-functioning checklist component. It is simply styled to look like 
 
 <Checklist>
 
+
 Child A
 
 Child B
 
 <Box>
 
+
 Child C
 
 <Checklist>
+
 
 Child C - A
 
@@ -308,9 +336,12 @@ Child C - B
 
 </Checklist>
 
+
 </Box>
 
+
 </Checklist>
+
 
 ---
 
@@ -318,9 +349,11 @@ Child C - B
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 Originally named "Chocolate Box" components, this component takes into consideration the child rule.
 Each child is recognized as a new element. Thus it's recommended for more diverse content to be contained
@@ -349,7 +382,9 @@ by a `Box` component.
 
 <Chocolate>
 
+
 <Box>
+
 
 <Icon size={"40px"} name="maker" />
 
@@ -359,7 +394,9 @@ Some content about something
 
 </Box>
 
+
 <Box>
+
 
 <Icon size={"40px"} name="globe" />
 
@@ -369,7 +406,9 @@ Some content about something
 
 </Box>
 
+
 <Box>
+
 
 <Icon size={"40px"} name="wrench" />
 
@@ -379,7 +418,9 @@ Some content about something
 
 </Box>
 
+
 </Chocolate>
+
 
 ---
 
@@ -426,9 +467,11 @@ const example = "This is an example with a title tab";
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 This component follows a similar pattern to that of the `Chocolate Box` component.
 To get a header though, there needs to be a child that has children. It is recommended
@@ -489,13 +532,16 @@ With a sibling and a Header
 
 <Column>
 
+
 Child A - Full Width
 
 </Column>
 
+
 ---
 
 <Column>
+
 
 Child A - with Sibling
 
@@ -503,11 +549,14 @@ Child B - with Sibling
 
 </Column>
 
+
 ---
 
 <Column>
 
+
 <Box>
+
 
 #### Child A
 
@@ -515,13 +564,17 @@ Full Width with a Header
 
 </Box>
 
+
 </Column>
+
 
 ---
 
 <Column>
 
+
 <Box>
+
 
 #### Child A
 
@@ -529,7 +582,9 @@ With a sibling and a Header
 
 </Box>
 
+
 <Box>
+
 
 #### Child B
 
@@ -537,7 +592,9 @@ With a sibling and a Header
 
 </Box>
 
+
 </Column>
+
 
 ---
 
@@ -545,9 +602,11 @@ With a sibling and a Header
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 This component is similar to that of a Hero image content section.
 Depending on when you put the image is the side it will show up on. If there's no image first or last in content, the content will be centered.
@@ -602,35 +661,45 @@ Some more content
 
 <InfoBlock>
 
+
 ![starfox](/images/starfox.png)
 
 <Box>
 
+
 ### Hello World
 
 Some more content
 
 </Box>
+
 
 </InfoBlock>
 
+
 <InfoBlock>
 
+
 <Box>
+
 
 ### Hello World
 
 Some more content
 
 </Box>
+
 
 <Image src="/images/starfox.png" />
 
 </InfoBlock>
 
+
 <InfoBlock>
 
+
 <Box>
+
 
 ### I am centered
 
@@ -640,7 +709,9 @@ Some more content
 
 </Box>
 
+
 </InfoBlock>
+
 
 ---
 
@@ -650,9 +721,11 @@ The List component is great if you want to display content...in the form of....a
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 **To get the most out of lists (ie. headers, subcontent, links) you MUST use a `Box` or `Link` component
 based on your specific needs.**
@@ -715,17 +788,21 @@ Some content below the header
 
 <List>
 
+
 Element A
 
 Element B
 
 </List>
 
+
 ---
 
 <List>
 
+
 <Box>
+
 
 Element A Header
 
@@ -733,9 +810,11 @@ Some content below the header
 
 </Box>
 
+
 Element B with no subcontent
 
 <Box>
+
 
 Element C Header
 
@@ -743,13 +822,17 @@ Some content below the header
 
 </Box>
 
+
 </List>
+
 
 ---
 
 <List>
 
+
 <Link to="/">
+
 
 Link Element A Header
 
@@ -757,7 +840,9 @@ Some content below the header
 
 </Link>
 
+
 <Link to="https://makerdao.com/">
+
 
 External Link Element B Header
 
@@ -765,7 +850,9 @@ Some content below the header
 
 </Link>
 
+
 </List>
+
 
 ---
 
@@ -775,9 +862,11 @@ This components great for stepping folks through a numbered process.
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 **Dev Note(Réjon): In design specs this in named "Process Stepper"**
 
@@ -797,11 +886,13 @@ This components great for stepping folks through a numbered process.
 
 <Process>
 
+
 ### Process Information 1
 
 ### Process Information 2
 
 <Box>
+
 
 ### Process Information 3
 
@@ -809,7 +900,9 @@ Some more content here. The usual suspects and whatever you'd want to put.
 
 </Box>
 
+
 </Process>
+
 
 ---
 
@@ -843,25 +936,31 @@ I will stick to the top of the screen.
 
 <StatusBanner>
 
+
 Regular old status banner
 
 </StatusBanner>
+
 
 ---
 
 <StatusBanner warning>
 
+
 Warning status!
 
 </StatusBanner>
+
 
 ---
 
 <StatusBanner sticky>
 
+
 I will stick to the top of the screen.
 
 </StatusBanner>
+
 
 ---
 
@@ -887,9 +986,11 @@ We support the lowest spec for tables in MD. None of that Github alignment stuff
 
 <Callout variant="warning" icon="warning">
 
+
 #### Child Rule in Effect
 
 </Callout>
+
 
 Tout components are meant to be like ultra fancy links, but you can put anything inside of them.
 **If there's only one child it will be full width.**
@@ -915,19 +1016,23 @@ Element A - Full Width
 
 <Tout>
 
+
 Element A - Full Width
 
 </Tout>
 
+
 ---
 
 <Tout>
+
 
 ### Element A
 
 ### Element B
 
 </Tout>
+
 
 ---
 
@@ -954,7 +1059,6 @@ It's possible to show videos here. They'll always be full width with no styles.
 ---
 
 ### Text
-
 
 # Header 1
 

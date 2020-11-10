@@ -70,12 +70,12 @@ Anyone can redeploy the system since the Maker Protocol is open source.
 
 Since the Maker Protocol is open source and decentralized, anyone can redeploy the system and decide with what configuration. Ideally, the parameters of redeployment should depend on the reason for the Emergency Shutdown, and should not be altered unilaterally and arbitrarily. What will likely happen is that the Maker governance community will come to decide on the most appropriate redeployment, or to launch a redeployment themselves with the appropriate configuration. Here is a rough example of a framework for protocol changes on redeployment:
 
-| Reason           | Solution           |
-| ---------------- | ------------------ |
-| Governance attack | Fork out malicious MKR holders and reimburse MKR placed in the ESM in new redistribution, redeploy system with everything else as-is. 
-| Oracle attack | Fork out Oracle module for a new one with a vulnerability fix, reimburse MKR placed in the ESM, redeploy system with everything else as-is. |
+| Reason                          | Solution                                                                                                                                                                                                                            |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Governance attack               | Fork out malicious MKR holders and reimburse MKR placed in the ESM in new redistribution, redeploy system with everything else as-is.                                                                                               |
+| Oracle attack                   | Fork out Oracle module for a new one with a vulnerability fix, reimburse MKR placed in the ESM, redeploy system with everything else as-is.                                                                                         |
 | Black Swan event in the Markets | Allow MKR voters to decide how best to address this event through new or improved system mechanics that can be added into the new deployment. Redeploy with the new improvements if necessary, reimburse the MKR placed in the ESM. |
-| Unwarranted Emergency Shutdown | Fork out malicious MKR holders that triggered the ES, redeploy system with everything else as-is. |
+| Unwarranted Emergency Shutdown  | Fork out malicious MKR holders that triggered the ES, redeploy system with everything else as-is.                                                                                                                                   |
 
 ## What if multiple redeployments happen, who decides which one is legitimate?
 

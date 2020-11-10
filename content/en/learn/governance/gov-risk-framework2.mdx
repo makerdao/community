@@ -10,7 +10,7 @@ description: "Part 2 of the section describing risk management in Maker"
 
 ## Risk and Scientific Governance
 
-The [first part](/learn/governance/gov-risk-framework.mdx) of this three-part series covered the stablecoin universe, defined decentralized risk management, and outlined the governance structure around the risk function. 
+The [first part](/learn/governance/gov-risk-framework.mdx) of this three-part series covered the stablecoin universe, defined decentralized risk management, and outlined the governance structure around the risk function.
 
 In part two of the series, we'll take a more in-depth look at the risks underlying the system, describe how parameters in the MakerDAO system encapsulate those risks, and finally, outline the models that are most appropriate for measuring and managing those risks.
 
@@ -24,6 +24,7 @@ Risk factor to consider include:
 
 <Accordion>
 
+
 #### Concentrated Exposure
 
 MakerDAO could find itself with a concentrated position in a particular token if the majority of its owners used it as collateral. The higher the aggregate relative exposure to total supply, the more risk in trying to realize its value. Also, the higher the correlation, the less the diversification benefit.
@@ -32,7 +33,7 @@ How much exposure of one collateral type are we willing to take? When is too muc
 
 "Too much" represents the level of exposure relative to the available supply. If the level of exposure exceeds the available supply, liquidating the collateral would negatively impact the market value of the token such that it would become impossible to liquidate enough collateral to repay lenders.
 
-This level of collateral exposure is called the Maximum Exposure Level. Given the Liquidation Ratio, we can calculate the Dai exposure level as the maximum amount of Dai that should be lent out given this collateral type. 
+This level of collateral exposure is called the Maximum Exposure Level. Given the Liquidation Ratio, we can calculate the Dai exposure level as the maximum amount of Dai that should be lent out given this collateral type.
 
 The maximium amount of Dai lent out in exchange for a given type of collateral is referred to as the Debt Ceiling. This level is not absolute, and it is related to the available supply.
 
@@ -50,7 +51,7 @@ The Debt Ceiling may rise too quickly due to increased speculative activity or a
 
 Using the Defensive Debt Ceiling, the rate at which the debt ceiling may increase may be calculated as:
 
-defensive debt ceiling = current level of debt + constrained rate * available supply
+defensive debt ceiling = current level of debt + constrained rate \* available supply
 
 Where the ‘constrained rate’ will capture the maximum rate of increase over a given period.
 
@@ -58,11 +59,13 @@ The Theoretical Debt Ceiling is the maximum token based supply of Dai allowed fo
 
 </Accordion>
 
+
 <Accordion>
+
 
 #### Correlation Risk
 
-If you create a portfolio of two financial assets, the risk of that portfolio will almost always be less than the sum of the individual risks of the underlying assets because the correlation of returns between two different assets are generally never perfect. 
+If you create a portfolio of two financial assets, the risk of that portfolio will almost always be less than the sum of the individual risks of the underlying assets because the correlation of returns between two different assets are generally never perfect.
 
 The result is a diversification benefit for the portfolio.
 
@@ -78,9 +81,9 @@ The way to manage correlation risk is by adding more collateral types to the por
 
 ### Risk Management Function
 
-Understanding how to manage correlation risk requires a working definition of book-building and risk capital. 
+Understanding how to manage correlation risk requires a working definition of book-building and risk capital.
 
-Book-building is the way you include assets in the portfolio and risk capital is the amount of actual capital that an organization wishes to risk to remain solvent to attain an expected return. 
+Book-building is the way you include assets in the portfolio and risk capital is the amount of actual capital that an organization wishes to risk to remain solvent to attain an expected return.
 
 Consuming risk capital efficiently means book-building a collateral portfolio with specific goals for managing risk and return.
 
@@ -90,13 +93,15 @@ Ideally, we want to build the collateral portfolio of uncorrelated tokens to max
 
 </Accordion>
 
+
 <Accordion>
+
 
 #### Credit Risk
 
-Traditionally, loans are made with sufficient collateral in place to minimize the exposure at the time of default. 
+Traditionally, loans are made with sufficient collateral in place to minimize the exposure at the time of default.
 
-The question is, what makes that collateral sufficient? 
+The question is, what makes that collateral sufficient?
 
 Collateral is adequate when there is enough of it to cover all of a loan if ever that loan is placed into default.
 
@@ -106,9 +111,9 @@ How much capital must be set aside for the operation to remain solvent if the co
 
 #### Risk Management Function
 
-Each loan in MakerDAO is charged a stability fee to compensate MakerDAO for operating and maintaining the stability of the system. 
+Each loan in MakerDAO is charged a stability fee to compensate MakerDAO for operating and maintaining the stability of the system.
 
-The stability fee is similar to an interest rate. Interest rates: 
+The stability fee is similar to an interest rate. Interest rates:
 
 - Must compensate for purchasing power or first pay for inflation.
 
@@ -124,19 +129,19 @@ To summarize, the credit stability fee simplistically can be seen as the sum of 
 
 ![](https://cdn-images-1.medium.com/max/2400/1*SspHtnDr1sX2X705x1Nx4g.png)
 
-The credit insurance premium component is more applicable to our context at the moment. Assume inflation and operational costs of the organization are zero. We then consider the stability fee as a premium that pays the system to provide the insurance if the collateral is not sufficient. 
+The credit insurance premium component is more applicable to our context at the moment. Assume inflation and operational costs of the organization are zero. We then consider the stability fee as a premium that pays the system to provide the insurance if the collateral is not sufficient.
 
 A way of understanding the stability fee is thinking of it as the probability that MakerDAO will use all of its risk capital. Assuming all the risk capital used, we represent expected loss as:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*zaZe5Oh8SqKFbbfQh-43lQ.png)
 
-So if we use a nominal value for risk capital — say $100, then the expected loss is $2.50 if the probability of the event is 2.5%. Clearly showing that $2.50 or instead 2.5% is the appropriate compensation per year for taking on such risk.
+So if we use a nominal value for risk capital — say $100, then the expected loss is $2.50 if the probability of the event is 2.5%. Clearly showing that \$2.50 or instead 2.5% is the appropriate compensation per year for taking on such risk.
 
 Now the way the economic capital and stability fee relate to each other is through this interpretation of probability. Remember if we think of the stability fee as a probability that we would use all the risk capital then we would want the expected value of our business to be positive that is:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ygLn2cV584kKjOyWxQP3-w.png)
 
-The above inequality represents two events. The first term is no event of default over a one year period where we earn a stability fee. The second term is the event of default within a one year period and uses all the risk capital. 
+The above inequality represents two events. The first term is no event of default over a one year period where we earn a stability fee. The second term is the event of default within a one year period and uses all the risk capital.
 
 Events are mutually exclusive in this exercise. Either a default occurs and we use the risk capital or it does not.
 
@@ -150,17 +155,19 @@ Then our risk capital term would be defined as:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*sCDWwUHzfvQ9N8j7yatSOg.png)
 
-Risk capital represents the part of the loan that collateral does not cover. The resolved inequality (Risk Capital < 97.5%) then states that risk capital should be less than 97.5% of the outstanding loan! 
+Risk capital represents the part of the loan that collateral does not cover. The resolved inequality (Risk Capital < 97.5%) then states that risk capital should be less than 97.5% of the outstanding loan!
 
-This should be the case as we hope that the collateral will cover the lion’s share of the risk. We expect risk capital would represent a relatively small portion of the outstanding loan. 
+This should be the case as we hope that the collateral will cover the lion’s share of the risk. We expect risk capital would represent a relatively small portion of the outstanding loan.
 
 Conservatively, the proportion would not exceed 8–10% of the outstanding loan. Far less than the Risk Capital < 97.5% requirement. If we take the upper value of 10% and recreate the return reciprocal, the return on risk-adjusted capital would be (2.5%/10%) 25% — a more attractive yield.
 
-The economic capital calculation is a top-down tool used to calculate the stability fee for each collateral type and can be used to assess the minimum stability fee for the portfolio as a whole. 
+The economic capital calculation is a top-down tool used to calculate the stability fee for each collateral type and can be used to assess the minimum stability fee for the portfolio as a whole.
 
 </Accordion>
 
+
 <Accordion>
+
 
 #### Exogenous Risk
 
@@ -172,15 +179,15 @@ The primary question raised by exogenous risk is how much capital must be set as
 
 #### Risk Management Function
 
-Economic capital represents the amount of risk an organization is prepared to take, so what does it expect to get in return? 
+Economic capital represents the amount of risk an organization is prepared to take, so what does it expect to get in return?
 
-Each loan in MakerDAO attracts a stability fee to compensate MakerDAO for operating and maintaining the stability of the system. The stability fee is similar to an interest rate, and an interest rate is made up of a couple of components. 
+Each loan in MakerDAO attracts a stability fee to compensate MakerDAO for operating and maintaining the stability of the system. The stability fee is similar to an interest rate, and an interest rate is made up of a couple of components.
 
 An interest rate must compensate for purchasing power, so it must first pay for inflation. The credit stability fee can be seen as the sum of the inflation rate, operational cost premium, and credit insurance premium.
 
 #### Managing Price Feeds
 
-Management of the risk associated with price feeds is currently handled by vetting multiple sources and taking the median of the price with a delay mechanism. 
+Management of the risk associated with price feeds is currently handled by vetting multiple sources and taking the median of the price with a delay mechanism.
 
 Taking a cross-section of the multiple sources and applying the median ensures unrealistic size differentials does not bias the result as it would with averaging, the following unbiased and unbiased sets show an example of the fact:
 
@@ -188,7 +195,9 @@ The delay mechanism allows for the comparison of the delayed price to the curren
 
 </Accordion>
 
+
 <Accordion>
+
 
 #### Liquidity and Volatility
 
@@ -204,19 +213,19 @@ From volatility risk we can calculate the initial amount of required capital and
 
 #### Example
 
-How much gold would be needed to collateralize a $100 loan? If the volatility of the price of gold is 10% per day, you would probably want something around $125. If you're conservative, you would probably want twice the volatility of the daily price incorporated into the collateral value, which is conservative as the chance of the price falling by 20% in one day is very small. 
+How much gold would be needed to collateralize a $100 loan? If the volatility of the price of gold is 10% per day, you would probably want something around $125. If you're conservative, you would probably want twice the volatility of the daily price incorporated into the collateral value, which is conservative as the chance of the price falling by 20% in one day is very small.
 
-The collateral we would need would be $100/0.8 = $125, or, put another way, starting at $125: if the collateral value drops by 20% that would equal a $25 loss in value but we would still have $100 in value which is enough to cover the outstanding loan, given nothing is paid back.
+The collateral we would need would be $100/0.8 = $125, or, put another way, starting at $125: if the collateral value drops by 20% that would equal a $25 loss in value but we would still have \$100 in value which is enough to cover the outstanding loan, given nothing is paid back.
 
-Now we include the Liquidity Risk Factor. We have assumed that $125 of gold would be sufficient to cover the $100 loan. What about a $1m loan? Well we know the amount of collateral we would need is $1.25m, but getting rid of $1.25m in gold is a more complicated problem than getting rid of $125 of gold. We have to consider the liquidity of the market yet again. 
+Now we include the Liquidity Risk Factor. We have assumed that $125 of gold would be sufficient to cover the $100 loan. What about a $1m loan? Well we know the amount of collateral we would need is $1.25m, but getting rid of $1.25m in gold is a more complicated problem than getting rid of $125 of gold. We have to consider the liquidity of the market yet again.
 
-What is required is an adjustment of the collateral value to compensate for liquidity risk. If we assume the liquidity adjustment is 1.15 or an increase of 15% in value. Then the final collateral value required would be $1.435m.
+What is required is an adjustment of the collateral value to compensate for liquidity risk. If we assume the liquidity adjustment is 1.15 or an increase of 15% in value. Then the final collateral value required would be \$1.435m.
 
 Given the volatility risk, and a uniform application of the liquidity risk adjustment, we have determined that to borrow $100 one would need to pledge $143.50 in collateral.
 
-The outstanding issue is the duration of the loan. If the loan is for longer than a day, then more collateral needs to be posted or an adjustment to the collateral needs to be performed on a daily basis. 
+The outstanding issue is the duration of the loan. If the loan is for longer than a day, then more collateral needs to be posted or an adjustment to the collateral needs to be performed on a daily basis.
 
-Considering the loans in MakerDAO are open-ended, we don't need a massive amount of collateral. Unlike a traditional loan, loans of Dai are immediately liquidated if a default occurs. 
+Considering the loans in MakerDAO are open-ended, we don't need a massive amount of collateral. Unlike a traditional loan, loans of Dai are immediately liquidated if a default occurs.
 
 The applicable period to consider is then the length of time to liquidate the position. So we will include a predetermined maximum amount of time to liquidate the position and adjust the collateral calculation for it.
 
@@ -224,9 +233,9 @@ To summarize, from volatility risk we can calculate the initial amount of requir
 
 #### Risk Management Function
 
-The liquidation ratio is the required amount of collateral as a proportion of the loan. 
+The liquidation ratio is the required amount of collateral as a proportion of the loan.
 
-So in our example, if we consider that from volatility the necessary amount of gold as collateral was $125. Then after adjusting for liquidity, it was $143.50, then adjusting for the expected liquidation period it turned out to be $175. The liquidation ratio would then be $175/$100 = 175%. So the liquidation ratio can be generally approximated by:
+So in our example, if we consider that from volatility the necessary amount of gold as collateral was $125. Then after adjusting for liquidity, it was $143.50, then adjusting for the expected liquidation period it turned out to be $175. The liquidation ratio would then be $175/\$100 = 175%. So the liquidation ratio can be generally approximated by:
 
 ![liquidation ratio calculation](https://cdn-images-1.medium.com/max/1600/1*hr05cBlHByBkFK3_kEOv5g.png)
 
@@ -236,13 +245,15 @@ Participants in the system liquidate the collateral if the collateral to debt ra
 
 </Accordion>
 
+
 <Accordion>
+
 
 #### Tokenomics and Qualitative Risk
 
 The less stable the fundamentals of the organization, the less confident holders will be.
 
-Evaluating new tokens requires due diligence on the value proposition of the token, its fair market value, and the organization(s) behind a project. 
+Evaluating new tokens requires due diligence on the value proposition of the token, its fair market value, and the organization(s) behind a project.
 
 #### Risk Management Function
 
@@ -253,6 +264,7 @@ MKR token holders will use the available information, along with the collective 
 A rejected token will go to the back of the queue; otherwise, collateral will be included in the portfolio or assigned to be ‘reviewed.’ On ‘review’ means no decision made because of an impasse or not enough information was available to make the decision.
 
 </Accordion>
+
 
 ### Managing Risk
 
@@ -284,9 +296,8 @@ Assigning a rating to each feature will result in an overall rating. A score bel
 
 Maker (MKR) Token Holders will create a qualitative risk template and assign ratings on this template. The model and information will be made available for MTH and other teams to use for themselves. Ultimately the risk function, made up of many groups, will collectively produce a weighted group rating for the token.
 
-Token holders must use the available information, along with the collective rating, to decide whether to include the token into the collateral portfolio. 
+Token holders must use the available information, along with the collective rating, to decide whether to include the token into the collateral portfolio.
 
-A rejected token will go to the back of the queue; otherwise, collateral will be included in the portfolio or assigned to be ‘reviewed.’ 
+A rejected token will go to the back of the queue; otherwise, collateral will be included in the portfolio or assigned to be ‘reviewed.’
 
 On ‘review’ means no decision made because of an impasse, or not enough information was available to make the decision.
-

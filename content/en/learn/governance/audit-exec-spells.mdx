@@ -8,7 +8,7 @@ description: "This section describes risk management in Maker"
 
 # Auditing Executive Spells
 
-This is a guide to help MKR Holders verify executive spells in the Maker Protocol before voting for them. 
+This is a guide to help MKR Holders verify executive spells in the Maker Protocol before voting for them.
 
 This document contains three main sections:
 
@@ -61,6 +61,7 @@ Each contract will contain a number of variables to be used in the other functio
 #### Constructor
 
 The constructor should always look the same:
+
 ```
     constructor() public {
         sig = abi.encodeWithSignature("execute()");
@@ -71,6 +72,7 @@ The constructor should always look the same:
         tag = _tag
     }
 ```
+
 #### Schedule and Cast
 
 The schedule and cast functions will usually be the same, but for now any SCD changes will be tucked into schedule. If they deviate from the following, it will be commented:
@@ -88,6 +90,7 @@ The schedule and cast functions will usually be the same, but for now any SCD ch
         pause.exec(action, tag, sig, eta);
     }
 ```
+
 After `schedule` has been called and after the delay is up, anyone can call `cast()` which will execute the code in the SpellAction's `execute()` function (see below).
 
 ### SpellAction
@@ -150,6 +153,7 @@ function execute() external {
     DSPauseAbstract(PAUSE).setDelay(60 * 60 * 24);
    }
 ```
+
 The `execute()` function will be too large to go into detail, but each change should be well documented and one should make sure the code does what the comment says.
 
 ## A Non-exhaustive Checklist
@@ -211,7 +215,6 @@ Before we change any of the rates, we must call `drip` on those respective contr
 
 ### All SpellAction Contract Variables must be declared 'constant'
 
-Because of how the `SpellAction` is called, it must never have anything in contract memory. That is, all the variables that look like they are contract variables in the example contract are actually declared as constant. 
+Because of how the `SpellAction` is called, it must never have anything in contract memory. That is, all the variables that look like they are contract variables in the example contract are actually declared as constant.
 
 At execution time, the contract's variables will be that of the DSPauseProxy. If there are variables in this section that are anything other than constant then it is a MAJOR bug. If this is the case and the spell might look like it’s doing one thing but is actually doing another. and needs to be called out in maker chat. DO NOT vote for a spell with non-constant variables here.
-

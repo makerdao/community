@@ -1,13 +1,14 @@
 ---
-title: Adjust the Governance Security Module - April 20, 2020 
+title: Adjust the Governance Security Module - April 20, 2020
 summary: Signal your support for adjusting the GSM to either 12 or 24 hours.
 discussion_link: https://forum.makerdao.com/t/signal-request-calibrating-gsm-delay-in-light-of-recent-market-events/1979
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 12 Hours
-   2: 24 Hours
+  0: Abstain
+  1: 12 Hours
+  2: 24 Hours
 ---
+
 # Poll: Adjust the Governance Security Module - April 20, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to increase the [Governance Security Module](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation#1-introduction-summary) delay.
@@ -20,7 +21,7 @@ Additional context was presented in a [Forum Thread](https://forum.makerdao.com/
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

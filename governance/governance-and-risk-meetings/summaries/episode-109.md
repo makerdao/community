@@ -46,10 +46,10 @@
 - Nik: Kind of brief this week. We had a whitelisting proposal this week to whitelist TBTC on the ETH-BTC Oracle. They were already whitelisted before on their previous deployment. They had a bug and they went back and fixed it. So this was more of a swap between their old and new address. Still, surprising to see one voter with 500 MKR voting against it. Even more surprising to see their voting history, they voted on the first poll to whitelist them in the first place. Not sure what's going on but maybe they want to bring that up in the forum
 - The much more important issue is that last week we deprecated the Oracle V1 contracts. These were the ones used in Single Collateral DAI. We shut down Single Collateral DAI and warned people that after a healthy amount of time after it got shut down we will be shutting the Oracles down as well. We gave people over six months as a heads up and had confirmation from multiple people that they are fine. Other people didn't respond for a few months. And low and behold, we have our first casualties. OPYN sold put options against ETH that don't expire until June 2021 and they have no way of changing which Oracle these are pointed to. If they can't use Oracle v1 Medianizer, they're screwed. I discussed with them what the options are and what if we were to whitelist Oracle V1 on our current Oracles. Then anyone could poke the V1 contract. Then anyone could pay the gas price, call the function to update the price on V1 contract and V1 contract will just read from V2 Oracle. It's a little bit controversial because part of us selling Oracle as a service. If people want to use our data they have to get whitelisted versus this which lets people go around that. If anyone can call this function, and it's not something we can change because the contract has been deployed, means that anyone willing to pay the gas price can get the price anyway. That's something the community needs to weigh. I think it's more of a PR issue because we don't want to be the ones to let another protocol hang out to dry. And if it's until June we can see this as a PR move.
 - Last week's executive proposal went through. MyCrypto and Argent are light feeds that are supplying prices to the Oracles.
-    - LongForWisdom: If we do whitelist the V1 Oracles, we can up-whitelist them again fairly easily in case things go bad?
-    - Nik: That's correct. Once those options expire in June we can un-whitelist them and in the meanwhile monitor blockchain data on how many people are using that V1 Oracle. If we see a big spike in usage, we know it's parasitic behavior and we'll know who those people are.
-    - Sam MacPherson: Do they need the Oracle the whole time or would it be sufficient to get access to the Oracle for June?
-    - Nik: They need it the whole time because options are collateralized and can get liquidated if the price drops low enough on the underlying. They posted a proposal in the Oracle section in the forum, you can ask them more specifics there.
+  - LongForWisdom: If we do whitelist the V1 Oracles, we can up-whitelist them again fairly easily in case things go bad?
+  - Nik: That's correct. Once those options expire in June we can un-whitelist them and in the meanwhile monitor blockchain data on how many people are using that V1 Oracle. If we see a big spike in usage, we know it's parasitic behavior and we'll know who those people are.
+  - Sam MacPherson: Do they need the Oracle the whole time or would it be sufficient to get access to the Oracle for June?
+  - Nik: They need it the whole time because options are collateralized and can get liquidated if the price drops low enough on the underlying. They posted a proposal in the Oracle section in the forum, you can ask them more specifics there.
 
 ### Primoz
 
@@ -58,14 +58,14 @@
 [09:34](https://youtu.be/gWnh4KptWbk?t=574)
 
 - This week we published 2 collateral risk evaluations. One was posted by our independent analyst, Will, for LINK. We posted one for COMP. There was also another for Loopring, which didn't pass. Will suggested a 5M DC, 2% RP, and 175 LR as the risk parameters for LINK.
-    - I commented that these risk parameters are conservative. The analysis shows that LINK is very liquid especially compared to other assets we've looked at in the past. If you look at yEarn vaults there is a possibility they may use LINK in one of them using Maker for their strategy. We could go higher, I think it's fairly safe, but that's up to governance. We can lower the debt ceiling initially and then increase in time based on behavior and risk exposure. 
+  - I commented that these risk parameters are conservative. The analysis shows that LINK is very liquid especially compared to other assets we've looked at in the past. If you look at yEarn vaults there is a possibility they may use LINK in one of them using Maker for their strategy. We could go higher, I think it's fairly safe, but that's up to governance. We can lower the debt ceiling initially and then increase in time based on behavior and risk exposure.
 - A seven million DC for COMP is fairly liquid. What's particularly good is the DEX volume which bodes well for liquidations. 3% RP LR 175.
 - Marko and I [published research for cUSD and cDAI](https://forum.makerdao.com/t/research-ctokens-as-collateral/3979). I suggest checking it out. It's interesting to model the DAI price effects from those assets. The main strategy now in Compound is to recycle DAI, but enabling cUSDC is a more interesting strategy where people re-leverage through Maker vaults, achieve nice yields, and push DAI price down.
 - We're also focusing on a different rate-setting approach which I wrote about in the past coming up with solutions that benefit governance, make it more agile and less complex. There are inconsistencies with how we set rates and apply RPs.
-- We're going to apply some tests so we can better understand the vault actions.  My idea to have more community participation in the risk related organization as well as understand the current risk exposure of vaults. We'd ideally want to know what users are doing with DAI before we're setting rates. I'll provide tests and ask for feedback if there is an opportunity to help us out and possibly become a contributor to the risk team, which is currently understaffed.
+- We're going to apply some tests so we can better understand the vault actions. My idea to have more community participation in the risk related organization as well as understand the current risk exposure of vaults. We'd ideally want to know what users are doing with DAI before we're setting rates. I'll provide tests and ask for feedback if there is an opportunity to help us out and possibly become a contributor to the risk team, which is currently understaffed.
 - Lastly, there were two posts initiated this week:
-    - [Lowering auction box 50 and potentially lowering ttl](https://forum.makerdao.com/t/signal-request-should-we-change-box-ttl-auction-parameters/4023), this opens for on-chain vote beginning September 14th.
-    - [Signal for DC on USDC-A vault](https://forum.makerdao.com/t/signal-request-should-we-increase-usdc-a-debt-ceiling/4068/) we've seen more minting because DAI price is trending higher. Today we've seen a couple of strategies for minting DAI through USDC and getting better yields. Ideally, we'd want to diversify from USDC to other stable coins and we wanted to see the USDT and PAX demand. Not sure how interesting those newly launched vaults are for arbitrageurs, it makes more sense to increase USDC DC. If this passes, it goes into the September 11th executive.
+  - [Lowering auction box 50 and potentially lowering ttl](https://forum.makerdao.com/t/signal-request-should-we-change-box-ttl-auction-parameters/4023), this opens for on-chain vote beginning September 14th.
+  - [Signal for DC on USDC-A vault](https://forum.makerdao.com/t/signal-request-should-we-increase-usdc-a-debt-ceiling/4068/) we've seen more minting because DAI price is trending higher. Today we've seen a couple of strategies for minting DAI through USDC and getting better yields. Ideally, we'd want to diversify from USDC to other stable coins and we wanted to see the USDT and PAX demand. Not sure how interesting those newly launched vaults are for arbitrageurs, it makes more sense to increase USDC DC. If this passes, it goes into the September 11th executive.
 
 ## Governance
 
@@ -80,34 +80,34 @@
 ##### Discussions
 
 - [Discussion - MakerDAO in 5 years](https://forum.makerdao.com/t/discussion-makerdao-in-5-years/3804)
-    - SebVentures discussing different changes in the DeFi ecosystem and MakerDAO’s role in it.
+  - SebVentures discussing different changes in the DeFi ecosystem and MakerDAO’s role in it.
 - [Working Group: Autonomous MakerDAO](https://forum.makerdao.com/t/working-group-autonomous-makerdao/4036)
-    - LongForWisdom introduces a largely community working group making an effort to push the decentralization of MakerDAO.
-    - The autonomous MakerDAO working group, which is working on pushing the DAO more towards decentralization.
-    - We're focusing on the responsibilities of a facilitator and getting sign off on that from governance. We are also improving to tidy up the MIPs process and make it more streamlined while working on the Governance cycle.
+  - LongForWisdom introduces a largely community working group making an effort to push the decentralization of MakerDAO.
+  - The autonomous MakerDAO working group, which is working on pushing the DAO more towards decentralization.
+  - We're focusing on the responsibilities of a facilitator and getting sign off on that from governance. We are also improving to tidy up the MIPs process and make it more streamlined while working on the Governance cycle.
 
 ##### Signal Requests
 
 - [Should we increase USDC-A debt ceiling?](https://forum.makerdao.com/t/signal-request-should-we-increase-usdc-a-debt-ceiling/4068)
-    - Primoz proposes an urgent signal request to raise the USDC-A debt ceiling. Will be included in the executive on Friday, September 11th.
+  - Primoz proposes an urgent signal request to raise the USDC-A debt ceiling. Will be included in the executive on Friday, September 11th.
 - [Should we change box & ttl auction parameters?](https://forum.makerdao.com/t/signal-request-should-we-change-box-ttl-auction-parameters/4023)
-    -  Primoz posts a signal to gather input on the box and `ttl` parameter.
-    -  Semi-urgent poll which ended on Friday, September 11th.
+  - Primoz posts a signal to gather input on the box and `ttl` parameter.
+  - Semi-urgent poll which ended on Friday, September 11th.
 
 ##### Initiatives
 
 - [Collateral Calls - Calling all Projects!](https://forum.makerdao.com/t/collateral-calls-calling-all-projects/3715)
-    - juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
+  - juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
 - [Collateral Status Index](https://forum.makerdao.com/t/collateral-status-index/2231)
-    - Confused about the current status of the various collateral types that have been discussed recently? Check out this post to find out the status and current position of each within the onboarding process.
+  - Confused about the current status of the various collateral types that have been discussed recently? Check out this post to find out the status and current position of each within the onboarding process.
 - [Weekly MIPs Updates](https://forum.makerdao.com/tag/mips-update)
-    - charlesstlouis is producing a weekly update on the world of MIPs.
+  - charlesstlouis is producing a weekly update on the world of MIPs.
 - [The Official Welcome Thread](https://forum.makerdao.com/t/the-official-welcome-thread/771/4)
-    - A welcome and introductions thread. Not strictly speaking governance, but if anyone new or old wants to introduce themselves, now is your chance!
+  - A welcome and introductions thread. Not strictly speaking governance, but if anyone new or old wants to introduce themselves, now is your chance!
 - [Forum Navigation Index](https://forum.makerdao.com/t/forum-tag-index/648)
-    - An index that aims to make navigation and browsing easier around the forum.
+  - An index that aims to make navigation and browsing easier around the forum.
 - [Practical Guide to the Signaling Process](https://forum.makerdao.com/t/practical-guide-to-the-signaling-process/2623)
-    - LongForWisdom writes an updated guide to the signaling process, highlighting conventions to follow.
+  - LongForWisdom writes an updated guide to the signaling process, highlighting conventions to follow.
 
 ## MIPs
 
@@ -126,9 +126,9 @@
 ![Proposal in the RFC Phase](https://i.imgur.com/ruZeLY2.png)
 
 - Would like to highlight a few of these:
-    - MIP13c3-SP4- Declaration of Intent for off-chain Real-World-Asset collateral onboarding for DAI.
-    - MIP 22 Collateral Onboarding for Centrifuge.
-    - MIP 23 Domain Teams and Their Roles in Those Teams.
+  - MIP13c3-SP4- Declaration of Intent for off-chain Real-World-Asset collateral onboarding for DAI.
+  - MIP 22 Collateral Onboarding for Centrifuge.
+  - MIP 23 Domain Teams and Their Roles in Those Teams.
 
 ![](https://i.imgur.com/uhHaq7M.png)
 
@@ -144,15 +144,15 @@
 [25:52](https://youtu.be/gWnh4KptWbk?t=1552)
 
 - The Flash mint module is a request for the Smart contracts team for building, approved ideally via Governance. What is does is allow DAI minting for arb opportunities for what they want. As long as it's returned with a fee they get to keep the excess similar to flash loans.
-    - Improves market efficiency
-    - Democratized of arbitrage
-    - Security exploits found quicker, making DeFi stronger
-    - A fee provides as an income source
-    - DC required
+  - Improves market efficiency
+  - Democratized of arbitrage
+  - Security exploits found quicker, making DeFi stronger
+  - A fee provides as an income source
+  - DC required
 - I got a little bit of feedback and it's in the final phase. Additionally, I wrote an initial implementation for no UI but should be easy to add.
-    - Brian McMichael: expect a PR with tips and comments to help usher it towards production-ready.
-    - Sam: Thanks!
-    - Akiva: Speaking of feedback, if anyone has comments on why they didn't vote for forward guidance, message me and we can fix the proposal to improve it in cycle moving forward.
+  - Brian McMichael: expect a PR with tips and comments to help usher it towards production-ready.
+  - Sam: Thanks!
+  - Akiva: Speaking of feedback, if anyone has comments on why they didn't vote for forward guidance, message me and we can fix the proposal to improve it in cycle moving forward.
 
 ##### Collateral Onboarding
 
@@ -218,9 +218,9 @@
 ![ETH-A supply](https://i.imgur.com/IgDeG8n.png)
 
 - We saw a trend for ETH-A supply trending up and then run down to clear out. What was going on? a few things:
-    - ETH price dropped, some liquidations, but they were small. Compared to 80 million or so clearing out over three days.
-    - Much of that move wasn't liquidation it was refinancing or unwinding.
-    - Repayments of DAI brought the supply down.
+  - ETH price dropped, some liquidations, but they were small. Compared to 80 million or so clearing out over three days.
+  - Much of that move wasn't liquidation it was refinancing or unwinding.
+  - Repayments of DAI brought the supply down.
 
 ![yETH vaults](https://i.imgur.com/IgDeG8n.png)
 
@@ -260,7 +260,7 @@
 
 ## Open Discussion
 
-#### Liquidation 
+#### Liquidation
 
 [45:20](https://youtu.be/gWnh4KptWbk?t=2731)
 
@@ -287,7 +287,7 @@
 - Lev: The way to frame it is not asking why is there a pile-up of greenlit collateral types that haven't been assessed by risk teams but rather should we have a discussion about priorities and making sure we're making the most efficient use of domain team resources. In the near future, it will always be easier to add mid-market cap ERC20 tokens. It will continue being low hanging fruit forever. Eventually, we'll need to bite the bullet and look towards other potentially much more scalable collateral types. There's a lot more to do there but maybe it's time to raise other priorities and when is the right time to start looking at these other collateral types. When we needed emergency action to fix the DAI peg, it invigorated a lot of activity around adding new collateral types, like WBTC, which turned out to be a success. Can we do a similar kind of initiative to kick start adding real-world assets and raise those priorities?
 - Nik: I agree and its all a balancing act of short versus long term prioritization.
 - Will R: Another consideration for RWA is we have to adapt other practices like the risk framework. We'll need to consider how we will assess risk premiums, sources of information, OSM. It will take time and effort that goes into adaptation to RWA and we have some ideas that I'll bring to the table from working in banking for a long time. Data sources and properly assessing the risk will be important.
-- Lucas Vo:  Centrifuge has been working with Maker for a while and I propose moving forward with collateral onboarding on a small scale with reduced complexity. The same way as Single Collateral DAI was launched with a small debt ceiling with one asset and we spent years managing ETH as a collateral type. We can learn a lot by taking these small steps and do it at a safe scale as the core of MIP13 declaration of intent which I'd love feedback on and to solidify with everyone.
+- Lucas Vo: Centrifuge has been working with Maker for a while and I propose moving forward with collateral onboarding on a small scale with reduced complexity. The same way as Single Collateral DAI was launched with a small debt ceiling with one asset and we spent years managing ETH as a collateral type. We can learn a lot by taking these small steps and do it at a safe scale as the core of MIP13 declaration of intent which I'd love feedback on and to solidify with everyone.
 - Will R: Sounds good. Most important is capturing data as soon as possible so we work with real data rather than theoretical and we can measure expectations. Start conservative and scale accordingly.
 - Lucas Vo: We talked to credit people in the traditional financial world and onboarding RWA will give access to collateral types that are several times the size of our current DAI supply. If we figure out how to do this safely we won't have an issue with DAI supply. We'll have plenty of borrowers willing to pay SF generating us revenue and allowing us to bring back the DSR and normalizing the system. the peg is broken at the moment and adding this baseline of a stable supply of DAI will drastically change DAI market because of diverse collateral types.
 - Planet_X: Is this a feasible solution? Is possible to fast-track Centrifuge collateral with a low debt ceiling and see how it plays out?
@@ -298,7 +298,7 @@
 - Mathew: I agree. The community needs to weigh the maximum impact of bringing DAI to the market knowing that RWA teams have spent a lot of time and effort preparing for this process.
 - Lev: In light of this discussion on priorities, should we have a signal request on this?
 - LongForWisdom: I think that would be a reasonable use of a signal request process.
-- Amy:  We are just lacking the staff needed to work on this. There are grants available if anyone is interested in doing this work. Please do reach out because we've been looking across the community for more help.
+- Amy: We are just lacking the staff needed to work on this. There are grants available if anyone is interested in doing this work. Please do reach out because we've been looking across the community for more help.
 - LongForWisdom: I look forward to a discussion on the forum, thanks to everyone for coming.
 
 #### Links from Chat

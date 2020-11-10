@@ -52,9 +52,9 @@ Significato:
 
 **e** = [La costante di Eulero o Nepero](https://www.youmath.it/domande-a-risposte/view/6078-quanto-vale-il-numero-e.html)
 
-* **P** \(1 + r/n\)^nt - P = A: Interesse annuale composto
-* **P** \(1 + r/n\)^nt - P = A: Interesse mensile composto
-* **P** \(e\)^rt - P = A: Interesse continuo composto
+- **P** \(1 + r/n\)^nt - P = A: Interesse annuale composto
+- **P** \(1 + r/n\)^nt - P = A: Interesse mensile composto
+- **P** \(e\)^rt - P = A: Interesse continuo composto
 
 ### Semplificazione
 
@@ -82,11 +82,11 @@ La differenza tra l'interesse annuale composto e l'intresse continuo composto su
 
 Assumiamo che:
 
-* Un CDP è stato creato e ha generato un totale di **1000 DAI**
-* Il CDP è aperto da **30 giorni**
-* Il valore attuale di un token MKR è di **100 DAI**
-* La Stability Fee \(tasso d'interesse\) è del **5%**
-* L'utente ripaga una porzione del proprio debito per un totale di **50 DAI**
+- Un CDP è stato creato e ha generato un totale di **1000 DAI**
+- Il CDP è aperto da **30 giorni**
+- Il valore attuale di un token MKR è di **100 DAI**
+- La Stability Fee \(tasso d'interesse\) è del **5%**
+- L'utente ripaga una porzione del proprio debito per un totale di **50 DAI**
 
 Il costo totale \(denominato in Dai\) per ripagare **50 DAI** su **1000 DAI** dopo **30 giorni** è di **0.208 DAI** o, approssimativamente, 0.21 USD.
 

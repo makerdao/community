@@ -4,15 +4,16 @@ summary: Signal your support or opposition for adjusting the $ilk_name Risk Prem
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Poll: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,_YYYY
+
+# Poll: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,\_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to increasing the $ilk_name Risk Premium from $current_premium to $new_premium.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
 
 ## Review
 
@@ -34,4 +35,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

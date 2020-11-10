@@ -6,9 +6,9 @@
 
 ## **Descripción**
 
-Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta encuesta consulta si el activo cDAI (Compound DAI)  en el debería ser priorizado para su inclusión en el Protocolo Maker por parte de los [equipos de dominio](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
+Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta encuesta consulta si el activo cDAI (Compound DAI) en el debería ser priorizado para su inclusión en el Protocolo Maker por parte de los [equipos de dominio](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
-Si los votos de visto bueno exceden los votos diferidos, esta encuesta será considerada por los equipos de dominio como una señal de que los poseedores de tokens MKR han aprobado que se continúe con trabajos de dominio en pos de la inclusión de cDAI (Compound DAI)  al Protocolo Maker como activo colateral.
+Si los votos de visto bueno exceden los votos diferidos, esta encuesta será considerada por los equipos de dominio como una señal de que los poseedores de tokens MKR han aprobado que se continúe con trabajos de dominio en pos de la inclusión de cDAI (Compound DAI) al Protocolo Maker como activo colateral.
 
 ## **Reseña**
 

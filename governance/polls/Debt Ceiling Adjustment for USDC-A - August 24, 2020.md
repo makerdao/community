@@ -4,21 +4,20 @@ summary: Signal your support for decreasing the USDC-A Debt Ceiling from 140 mil
 discussion_link: https://forum.makerdao.com/t/3738/2
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the USDC-A Debt Ceiling - August 24, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Foundation Risk Team. The community can use this poll to express support or opposition to decreasing the USDC-A Debt Ceiling from 140 million to 40 million.
 
 This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on Monday, August 24 at 16:00 UTC, the results of which may inform an Executive Vote ([FAQ](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting)) which will go live on Friday, August 28, at 16:00 UTC.
 
-
 ## Review
 
 Please review the [[Discussion]](https://forum.makerdao.com/t/3738/2) Reduce the USDC-A Debt Ceiling forum thread to inform your position before voting.
-
 
 ## Next Steps
 
