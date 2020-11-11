@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import { Button as ThemedButton, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
-import { motion } from "framer-motion";
 
 import { Link } from "@modules/navigation";
 
