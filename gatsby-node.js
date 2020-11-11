@@ -49,6 +49,11 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 
   createRedirect({
+    fromPath: "/makerdao-mcd-faqs/",
+    toPath: `/${FALLBACK_LOCALE}/faqs/`,
+  });
+
+  createRedirect({
     fromPath: "/makerdao-mcd-faqs/faqs/dsr",
     toPath: `/${FALLBACK_LOCALE}/learn/Dai/dsr`,
   });
@@ -109,10 +114,15 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 
   createRedirect({
+    fromPath: "/governance/governance-risk-framework",
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework/`,
+  });
+
+  createRedirect({
     fromPath: "/contributing",
     toPath: `/${FALLBACK_LOCALE}/contribute/`,
   });
-
+  
   createRedirect({
     fromPath: "/grants",
     toPath: `/${FALLBACK_LOCALE}/funding/development-grants`,
@@ -171,6 +181,11 @@ exports.createPages = async ({ graphql, actions }) => {
   createRedirect({
     fromPath: "/governance/common-topics",
     toPath: `/${FALLBACK_LOCALE}/learn/governance/common-topics`,
+  });
+
+  createRedirect({
+    fromPath: "/governance/core-principles",
+    toPath: `/${FALLBACK_LOCALE}/learn/MakerDAO/core-principles`,
   });
 };
 
