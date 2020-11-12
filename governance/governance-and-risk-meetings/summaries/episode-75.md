@@ -55,7 +55,7 @@
 
 - [Should MKR governance get involved with Ethereum hard forks?](https://forum.makerdao.com/t/should-mkr-governance-get-involved-with-ethereum-hard-forks/1353)
 - [How to audit executive contract code?](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292)
-  - *Answered!* In which @Joshua_Pritikin asks how we are supposed to audit executive spell contract code.
+  - _Answered!_ In which @Joshua_Pritikin asks how we are supposed to audit executive spell contract code.
   - [Answer comment form Chris Mooney](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?u=twblack88)
 - [Using tranches to insure against defaults of real-world assets and providing an extremely stable asset](https://forum.makerdao.com/t/using-tranches-to-insure-against-defaults-of-real-world-assets-and-providing-an-extremely-stable-asset/1286)
   - In which @spin presents Drop as a potential token for inclusion as collateral in MCD. Explanation and QA video available on youtube.
@@ -82,7 +82,7 @@
   - Cyrus: Conceivably, Maker would support both, then Rich's job gets infinitely complex. That's 2 Dais and 2 Sais. Is there a reason we can't support both?
   - R: If the collateral gets split into two systems(one good one bad), Crypto collateral gets messy. But real-world collateral doesn't get divided into two systems. From a risk perspective, wouldn't leaving one be safest?
   - C: Yes! But not obvious or automatic.
-  - David: Also, during a fork, there are technical considerations too. Oracles, liquidations, everyone would have double Dai balances, etc. Plus, in the new fork Dai may not equal $1, ETH pricing would be unclear for the first hour or two when it happens. It would be a mess.
+  - David: Also, during a fork, there are technical considerations too. Oracles, liquidations, everyone would have double Dai balances, etc. Plus, in the new fork Dai may not equal \$1, ETH pricing would be unclear for the first hour or two when it happens. It would be a mess.
   - R: I can't remember the last discussion, but you can't simply double the infrastructure.
   - Tim Black: You could make a framework, based on hash power to secure the chain, and stakeholders with value signaling towards one direction.
   - R: Huge can of worms, the old days of twice the collateral doesn't exist. Now we have interdependent pieces where it's much more intricate. Businesses depend on these chains and each other. No one is going to step in and fix it for us.
@@ -100,6 +100,7 @@
 [18:27](https://youtu.be/6APWQZ_7y2g?t=1107)
 
 The conversation below is regarding the [DSR Spread Cadence Thread](https://forum.makerdao.com/t/signal-request-reduce-the-frequency-of-the-dsr-spread-governance-poll/1207)
+
 - SamM: Overwhelmingly, the on-chain GP vote was no, so that's disappointing. In the forum thread, there were two votes: reducing to a month or two weeks. Those votes were stuck in a tie. Instead of multiple options, we launched the poll with the prospect that slightly won out. So now we have more questions instead of answers.
 - As a result, I started [a new signal thread for ranked-choice voting](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274). The ideal situation would have been to launch with three options and then pick your second and third. You'd still get a winner out of the vote, rather than a no.
   - R: Ranked-choice voting thread surfaced another signal which, again, Sam, is fascinating.
@@ -132,6 +133,7 @@ The conversation below is regarding the [DSR Spread Cadence Thread](https://foru
 ![](https://i.imgur.com/8yIBXmP.png)
 
 ![](https://i.imgur.com/12JOvqd.png)
+
 - Oracles are data suppliers. They are frequently used to assess the price of an asset. They are used to determine the price of each collateral asset, how much a user is allowed to borrow, and which open positions are undercollateralized and need to be liquidated. This is highly necessary both for the Maker Protocol and for Defi
 - There are over a billion dollars in Defi, about 750 million of which is secured by our Oracles.
 - One consideration is which chain our oracles will support in the case of a fork. This would affect the entire ecosystem. Some users include Compound, dYdX, Set Protocol, ENS, Nosys, Polymath, and dozens of others.
@@ -139,28 +141,35 @@ The conversation below is regarding the [DSR Spread Cadence Thread](https://foru
 [38:30](https://youtu.be/6APWQZ_7y2g)
 
 ![](https://i.imgur.com/K0bNJqb.png)
+
 - One of the key components of Oracles is feeds.
 
 ![](https://i.imgur.com/Wh4CbHj.png)
+
 - Dark feeds increase the entropy of the 'coordination problem.' The coordination problem is the difficulty of coordinating an attack on multiple oracles at the same time. This becomes more difficult if they are anonymous.
 - Dark feeds are not Sybil-resistant: they can all be controlled by one person, and no one would know.
 
 ![](https://i.imgur.com/vSHyVuw.png)
+
 - Light feeds are easily targetable by government entities.
 - The ideal system is a hybrid model, one where there is a preservation of the security of the Dark feed but maintains the reputation-based trust of the light feeds.
 
 ![](https://i.imgur.com/QPtI8xT.png)
 
 ![](https://i.imgur.com/RQlbiyC.png)
+
 - Feeds collect price information from different exchanges and send that data to their own smart contract, on-chain, which triggers the Medianzer smart contract. Medianizer sorts and takes the median of all these price feeds. This is then used by the Maker protocol and third parties as a reference price.
 
 ![](https://i.imgur.com/98FBi0O.png)
+
 - Oracles v2 was released alongside MCD. It addresses some of the problems of scalability, liability, and cost.
 
 ![](https://i.imgur.com/jpdnWo0.png)
+
 - From a computational/operational point of view, the Oracle v1 is wasteful as every feed needs to make an on-chain transaction with every update to the Medianizer.
 
 ![](https://i.imgur.com/ST69BEv.png)
+
 - One major difference between Oracle V2 and Oracle V1 is that a lot of the process has been moved off-chain. Asset prices are signed using Ethereum keys. A peer-to-peer gossip network (called [Scuttlebutt](https://scuttlebutt.nz/about/)) takes in this information. It works similarly to viral propagation in social media.
 - Relayers are essentially keepers run by a third party. Think of them as the messenger boy. All they do is pick up a bunch of these signed messages from the Scuttlebutt network and submit them all at once to the Medianzer, as part of one transaction. This increases scalability dramatically and reduces costs dramatically while making the network more resilient.
 - Rather than submitting multiple transactions, which limited Oracle updates if there weren't enough transactions, we can submit a single transaction. This helps update the Oracle prices more efficiently during heavy congestion of the Ethereum network.
@@ -170,6 +179,7 @@ The conversation below is regarding the [DSR Spread Cadence Thread](https://foru
 ![](https://i.imgur.com/S8fNAQ7.png)
 
 ![](https://i.imgur.com/oXXxnfP.png)
+
 - One of the biggest differences between Oracles v1 and v2 is: V1 was open access. This led to a flourishing of the DeFi community. However, Oracle v2 will have a whitelist, which we will discuss later in the presentation.
 
 ![](https://i.imgur.com/V84sqO7.png)
@@ -177,9 +187,11 @@ The conversation below is regarding the [DSR Spread Cadence Thread](https://foru
 ![](https://i.imgur.com/m6UCB5t.png)
 
 ![](https://i.imgur.com/1YxtL7x.png)
+
 - Oracles need to be a self-sustaining system with incentives to be run in a decentralized manner. Currently, Maker runs feeds that contribute to 75% of DeFi's value.
 
 ![](https://i.imgur.com/Yd5D5PN.png)
+
 - Governance has a responsibility for the users of the Oracles in both V2 and V1. We shouldn't extort people with the advent of Oracles V2. Hence they will run in parallel until at least until the SCD shutdown. Afterward, any organization will be able to get access to any Oracle for free for one year as part of the [Responsible Oracle Migration](https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509) proposal that was ratified before the new year.
 
 ![](https://i.imgur.com/rLR9Hnm.png)
@@ -191,6 +203,7 @@ The conversation below is regarding the [DSR Spread Cadence Thread](https://foru
 [46:30](https://youtu.be/6APWQZ_7y2g?t=2790)
 
 - R: Isn't there a risk relying on an active network graph for data propagation. How can you insure or maintain the health of the Scuttlebutt network?
+
   - N: Define enough, feeds have to publish data; if they don't, then it is equivalent to a censorship attack. When you're making an attack that denies quorum, you would probably attempt **manipulating** the price rather than **censoring** the price. It's much more profitable from the feed, in my opinion.
 
 - Vishesh: Who comprises the Scuttlebutt network?
@@ -228,35 +241,45 @@ These are questions in the call's chat that were left unanswered due to the time
 [1:12:19](https://youtu.be/6APWQZ_7y2g?t=4338)
 
 ![](https://i.imgur.com/pGgYBpr.png)
+
 - Large quantities of Dai trading in the last 24 hours, about 36 million Dai. Previously 24 hours traded at about 38 million Dai (overlapping windows). Dai trading slightly above peg. May need to redefine 'slightly' as Dai has been trading tighter to peg recently.
 - A lot of this volume is Oasis and dYdX, some more recently on Coinbase as well - trending toward higher volumes.
 
 ![](https://i.imgur.com/gM6rEyo.png)
+
 - The last 24 hours were interspersed, with a few trades running above and a few below.
 
 ![](https://i.imgur.com/TWHSJOQ.png)
+
 - Over the 7-day timescale, pretty heavy volumes trading due to ETH craziness. Usually, the crazier ETH is, the more active DAI is. This makes sense as a lot of the use case for DAI is leveraged on ETH.
 
 ![](https://i.imgur.com/4cXAbYC.png)
+
 - dYdX and Oasis accounting for a large share of trading volume over the last week, total Dai traded at 101.053 million Dai. Much of the trades were on-peg or slightly below. This likely corresponds to the purchasing of Dai as people try to deleverage or pay down debt.
 
 ![](https://i.imgur.com/8njy4Sd.png)
+
 - Overall, the total Dai supply from ETH has stayed more or less steady, coming down slightly at ~114 Million Dai. The BAT amount came up a bit, now at 1.7 million Dai; this is interesting because it usually never moves.
 
 ![](https://i.imgur.com/ammeTNS.png)
+
 - The top three positions currently account for 25% of the supply. Top 15 positions account for roughly half of the supply. Average collateralization on a weighted basis is about 330%. The top 5 positions drop down to about 280% and the top 3% drop to 275%.
 - Some of these few largest positions are somewhat low in the amount of collateral. These are risks to be aware of; if these top positions get liquidated, there will be a large quantity of Dai being sold, and there will be a subsequent impact on DAI price.
 
 ![](https://i.imgur.com/WA3rqQE.png)
+
 - DAI supply growth has ticked down a little bit, same with SAI supply decline asymptotically leveling off.
 
 ![](https://i.imgur.com/tzF57TL.png)
-- With the total amount of trading activity, DAI liquidity has come up a little bit. The volume on Uniswap has come up a bit, but Uniswap hasn't been a huge participant in this effect. 
+
+- With the total amount of trading activity, DAI liquidity has come up a little bit. The volume on Uniswap has come up a bit, but Uniswap hasn't been a huge participant in this effect.
 
 ![](https://i.imgur.com/NR0M7qy.png)
+
 - MKR liquidity hasn't moved since then. MKR that was previously removed has not been placed back on Uniswap.
 
 ![](https://i.imgur.com/0DcpFG9.png)
+
 - Fair amount of auctions in the last 24-48 hours as seen on [Daiauctions.com](https://daiauctions.com/)
 
 #### Risk Questions and Discussion
@@ -264,44 +287,53 @@ These are questions in the call's chat that were left unanswered due to the time
 [1:14:50](https://youtu.be/6APWQZ_7y2g?t=4490)
 
 - R: Do we know why dYdX is represented so prominently?
-    - V: Yes, there is a lot of discussion on this. A lot of people are discussing potential liquidation of riskier margin positions. Also, I think, in general, dYdX tends to be the platform of choice for higher risk, higher yield, short-term trades. We've learned that Maker is nestled into this longer-term position, where Compound is usually where people refinance when rates are better.
+  - V: Yes, there is a lot of discussion on this. A lot of people are discussing potential liquidation of riskier margin positions. Also, I think, in general, dYdX tends to be the platform of choice for higher risk, higher yield, short-term trades. We've learned that Maker is nestled into this longer-term position, where Compound is usually where people refinance when rates are better.
 
-### Primoz 
+### Primoz
 
 #### Migration Analysis
 
 [1:19:18](https://youtu.be/6APWQZ_7y2g?t=4755)
 
 ![](https://i.imgur.com/sIc20PK.png)
+
 - Increase of SAI in the migration contract in the last couple of days. SAI supply hasn't really increased, which tells us that SAI holders are migrating.
 
 ![](https://i.imgur.com/jP4l8Bm.png)
+
 - Red bars indicate SAI supply over the last month. It dropped down to 2 Million and just a few days ago reached 5 Million SAI. This is the second-highest inventory we've seen since the migration started. In mid-January, it reached an all-time-high but was quickly drained down because of migrations. Currently, we haven't seen much drainage, which means SCD CDP's are not using that inventory or are not in such a rush to repay their debts as they were in earlier stages of the migration.
 
 ![](https://i.imgur.com/8JsMfQj.png)
+
 - SAI to DAI has not seen much increase except for on the last day, where a larger inflow of SAI in the migration contract can be seen. In the last month, about 300,000 SAI has been migrated daily to be converted into DAI.
 
 ![](https://i.imgur.com/3KAQRtC.png)
+
 - In the last month, about 13 Million SAI has been converted into DAI. 10 Million SAI is accounted for in migration changes. The remaining 3 Million Sai has been accumulated through a reverse migration. By this process, people are minting DAI, converting it to SAI through the migration contract, and then using it for various reasons (providing liquidity, bidding on a premium once liquidations happened, etc.).
 - 6.3 Million SCD CDP's have been repaid. This is higher than the SAI supply drop because we have also had an additional 1 million SAI minting in this month.
-    - 300,000 SAI came from new CDP's in that period, and around 700,00 SAI was minted from old CDP's.
+  - 300,000 SAI came from new CDP's in that period, and around 700,00 SAI was minted from old CDP's.
 - 300 CDP's did repayment, about 200 migrated directly. 457,000 in outstanding fees were collected, about 600,000 in fees, which is high in value when compared to MCD net fees adjusted for DSR. About 1.3 Million in fees are left for the period before the migration started. 20% of outstanding fees were paid in one month, which is not a low figure at all.
 - Most of the repayment was made by the larger CDP's. The eight largest CDP's repaid 350,000 in this month. Most of these repayments have been made at the beginning of the month.
 
 ![](https://i.imgur.com/JgSxXqh.png)
+
 - A small number of smaller CDP's repaid using the migration tool. Only 2-3 CDP's migrating per day.
 
 ![](https://i.imgur.com/IOj8Azd.png)
-- 54.89% of SCD CDP's are still inactive, as compared to one month ago. This represents 1.3 million in fees. The active SCD CDP's still owe about 9 million in debt and about 600,000 in fees. 
+
+- 54.89% of SCD CDP's are still inactive, as compared to one month ago. This represents 1.3 million in fees. The active SCD CDP's still owe about 9 million in debt and about 600,000 in fees.
 - SAI minting corresponds to general debt repayment in all groups in the active group except for those with `wipe` activities, which are more aggressive and clearly want to repay their debt.
- 
+
 ![](https://i.imgur.com/aVQp5jL.png)
+
 - Larger DAI CDP's hold most of the debt and fees. Most have been inactive for about three months.
 
 ![](https://i.imgur.com/ppOgNT2.png)
+
 - Sai held in the migration contract represents a quarter of all supply. Not as many large Sai holders, the second largest is Compound, which holds about 1.1 million Sai. Uniswap and Karbo hold about 0.5 million in Sai.
 
 ![](https://i.imgur.com/hfF15Gr.png)
+
 - The share of active wallets is dropping, which means the share of inactive wallets is rising. Wallets that are inactive for more than six months represent more than 12 million Sai. This is the same number that the CDP borrows owe in inactive wallets, and maybe the lower bound for debt owed.
 
 ## Insights
@@ -312,7 +344,7 @@ These are questions in the call's chat that were left unanswered due to the time
 
 [1:31:14](https://youtu.be/6APWQZ_7y2g?t=5460)
 
-- Vishesh: Do you have a comparison between Draws and Wipes in Sai compared to Dai. You can see an asymptotic curve in Sai supply, leveling off at $20 million. Is this an actual trend, or due to exogenous price effects due to ETH? Is this a temporary slow down or leveling off.
+- Vishesh: Do you have a comparison between Draws and Wipes in Sai compared to Dai. You can see an asymptotic curve in Sai supply, leveling off at \$20 million. Is this an actual trend, or due to exogenous price effects due to ETH? Is this a temporary slow down or leveling off.
   - Primoz: It's hard to say, but I think it's leveling off. CDP's are, in general, inactive, so I don't believe it has to do with ETH. The situation is either forgotten wallets or people waiting and hoping for a better outcome.
   - V: That's why I was benchmarking Dai vs. Sai. Dai was growing, Sai was shrinking, but both Dai growth and Sai decrease slowed down this week. I'm interested to know whether this slow down is temporary or beginning to level off. It has to level off at some point, whether this happens now at $20 million Sai or at $12 million Sai is unknown.
   - P: There isn't much leverage in SCD anymore, and they are well protected. They don't have to make numerous repayments. It's hard to say.

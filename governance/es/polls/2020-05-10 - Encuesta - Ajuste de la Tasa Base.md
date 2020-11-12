@@ -18,7 +18,7 @@ Usualmente no se discute de manera explícita sobre la **Tasa Base** con frecu
 
 Si el resultado ganador de esta encuesta difiere del valor del parámetro de la **Tasa Base** actual en el Protocolo Maker, entonces este cambio será incluido en el Voto Ejecutivo del viernes que sigue a la conclusión de esta encuesta.
 
-Si el Voto Ejecutivo del viernes es aprobado, esta modificación de la tasa se volverá activa  en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
+Si el Voto Ejecutivo del viernes es aprobado, esta modificación de la tasa se volverá activa en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
 
 ---
 

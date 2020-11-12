@@ -1,18 +1,19 @@
 ---
 title: Community Greenlight Poll - KF-DROP (Kickfurther DROP) - October 19, 2020
-summary: Signal your support or opposition to prioritising onboarding KF-DROP (Kickfurther DROP). 
+summary: Signal your support or opposition to prioritising onboarding KF-DROP (Kickfurther DROP).
 discussion_link: https://forum.makerdao.com/t/kf-drop-mip6-application-kickfurther-drop-consignment-inventory-finance-for-ecommerce-retail-brands/4064
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - KF-DROP (Kickfurther DROP) - October 19, 2020
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset KF-DROP (Kickfurther DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset KF-DROP (Kickfurther DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding KF-DROP (Kickfurther DROP) as a collateral asset to the Maker Protocol.
 

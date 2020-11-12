@@ -1,8 +1,8 @@
 ---
 title: Template - [Executive Vote] Multiple Changes - September 25, 2020
-
 ---
-## [Executive Vote]  Multiple Changes - September 25, 2020
+
+## [Executive Vote] Multiple Changes - September 25, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -10,11 +10,11 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 As per the urgent [signal request](https://forum.makerdao.com/t/signal-request-should-we-increase-stablecoin-dc-and-diversify-exposure/4331) created by a risk contributor, the USDC-A debt ceiling will be increased from 400 million to 485 million if this proposal passes.
 
-### TUSD-A Debt Ceiling Increase 
+### TUSD-A Debt Ceiling Increase
 
 As per the urgent [signal request](https://forum.makerdao.com/t/signal-request-should-we-increase-stablecoin-dc-and-diversify-exposure/4331) created by a risk contributor, the TUSD-A debt ceiling will be increased from 50 million to 135 million if this proposal passes.
 
-### PAX-A Debt Ceiling Increase 
+### PAX-A Debt Ceiling Increase
 
 As per the urgent [signal request](https://forum.makerdao.com/t/signal-request-should-we-increase-stablecoin-dc-and-diversify-exposure/4331) created by a risk contributor, the PAX-A debt ceiling will be increased from 30 million to 60 million if this proposal passes.
 
@@ -55,6 +55,7 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 Therefore, if this Executive proposal passes the following will occur:
 
 **Debt Ceiling Changes**
+
 - The BAT-A Debt Ceiling will increase from 5 million to 10 million.
 - The USDC-A Debt Ceiling will increase from 400 million to 485 million.
 - The TUSD-A Debt will increase from Ceiling 50 million to 135 million.
@@ -62,12 +63,14 @@ Therefore, if this Executive proposal passes the following will occur:
 - Due to the above debt ceiling changes, the Global Line parameter will increase from 1196 million to 1401 million.
 
 **Oracle Whitelisting**
+
 - [Kyber](https://kyber.network/) will be whitelisted on the ETHUSD Medianizer contract.
 - [DDEX](https://ddex.io/) will be whitelisted on the BTCUSD Medianizer contract.
 - The ETHUSD v1 Medianizer will be whitelisted on the ETHUSD Medianizer contract for [Opyn](https://opyn.co/).
 - [yearn.finance](https://yearn.finance/) will be whitelisted on the BTCUSD OSM contract.
 
 **Rate Changes**
+
 - The Base Rate meta-parameter will increase from 0% to 0.25%
 - The ETH-A Risk Premium will increase from 0% to 2%
 - The ETH-A Stability Fee will increase from 0% to 2.25%

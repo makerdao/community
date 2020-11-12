@@ -1,20 +1,21 @@
 ---
 title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+
+# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,\_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
 
 ## Review
 

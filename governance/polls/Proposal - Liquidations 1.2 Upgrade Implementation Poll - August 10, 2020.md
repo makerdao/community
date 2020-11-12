@@ -3,10 +3,11 @@ title: Liquidations 1.2 Upgrade - August 10, 2020
 summary: Signal your support for the Liqudations 1.2 Upgrade.
 discussion_link: https://forum.makerdao.com/t/liquidations-system-1-2-upgrade-timeline/3592
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Liquidations 1.2 Upgrade - August 10, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Risk and Smart Contracts domain teams which gives Maker Governance the chance to signal their support for the Liquidations 1.2 Upgrade.
@@ -19,7 +20,7 @@ The Liquidations 1.2 Upgrade discussion and timeline is taking place on the offi
 
 ## Next Steps
 
-The governance poll timeline for this issue can be found in this [thread](https://forum.makerdao.com/t/liquidations-system-1-2-upgrade-timeline/3592). 
+The governance poll timeline for this issue can be found in this [thread](https://forum.makerdao.com/t/liquidations-system-1-2-upgrade-timeline/3592).
 
 If this poll ends with a 'Yes' majority, then the Liquidations 1.2 Upgrade will be included in the Executive Vote on Friday, August 14, 2020.
 
@@ -34,4 +35,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

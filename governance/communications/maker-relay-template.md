@@ -44,25 +44,30 @@ BT Vault analysis team
 ## Meetings
 
 #### Community Development Meetings
-  - Tuesdays at 16:00 UTC
-    - [Zoom](https://us02web.zoom.us/j/85424444710) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
-    - [Contributing](https://community-development.makerdao.com/contributing)
+
+- Tuesdays at 16:00 UTC
+  - [Zoom](https://us02web.zoom.us/j/85424444710) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
+  - [Contributing](https://community-development.makerdao.com/contributing)
+
 #### Community Collateral Onboarding
-  - Wednesdays at 17:50 UTC
-    - [Zoom](https://zoom.us/j/697074715) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
+
+- Wednesdays at 17:50 UTC
+  - [Zoom](https://zoom.us/j/697074715) - Message #community-development in [Maker Chat](https://chat.makerdao.com/) for password
+
 #### Governance and Risk
-  - Thursdays at 16:00 UTC
-    - [Video/Voice](https://zoom.us/j/697074715)
-    - [Dial-in](https://zoom.us/u/acRbIMDvK)
-    - [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
-    - [Archives](https://community-development.makerdao.com/governance/governance-and-risk-meetings)
-    - [Contributing](https://forum.makerdao.com/c/governance/gnr/8)
+
+- Thursdays at 16:00 UTC
+  - [Video/Voice](https://zoom.us/j/697074715)
+  - [Dial-in](https://zoom.us/u/acRbIMDvK)
+  - [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
+  - [Archives](https://community-development.makerdao.com/governance/governance-and-risk-meetings)
+  - [Contributing](https://forum.makerdao.com/c/governance/gnr/8)
 
 # Reference Links
 
 **Disclaimer** (This update is assembled by a group of contributing members in the MakerDAO community. By no means should this serve as financial advice or an inducement to vote in a specific way. This update is purely for informative and for communications purposes only.)
 
-____________________________________________
+---
 
 # Noobs
 
@@ -76,8 +81,8 @@ ____________________________________________
 
 Check out these excellent resources:
 
-* [Introduction to the Maker Protocol](https://docs.makerdao.com/)
-* [Awesome-MakerDAO (AMD)](https://awesome.makerdao.com/') is a community-driven resource people can use to familiarize themselves with Dai and MakerDAO.
+- [Introduction to the Maker Protocol](https://docs.makerdao.com/)
+- [Awesome-MakerDAO (AMD)](https://awesome.makerdao.com/') is a community-driven resource people can use to familiarize themselves with Dai and MakerDAO.
 
 ## Feedback
 

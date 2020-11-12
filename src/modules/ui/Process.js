@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react';
+import { Children } from "react";
 import { Flex, Box, jsx } from "theme-ui";
 
 const Process = ({ children }) => {
@@ -28,7 +28,8 @@ const Process = ({ children }) => {
                 color: "onPrimary",
                 textAlign: "center",
                 backgroundColor: "primary",
-              }}
+                // marginTop: "12px",
+            }}
             >
               {`${index + 1}`}
             </Box>

@@ -6,34 +6,29 @@ La Gestión de Riesgos, en el contexto de MakerDAO, es el proceso de identificac
 
 ## ¿Qué es una Gestión de Riesgos Descentralizada?
 
-Una Gestión de Riesgos Descentralizada es la cooperación y la interacción competitiva entre los dueños del token Maker y los todos los Equipos de Riesgo para cumplir el objetivo de cuantificar, analizar y mitigar los riesgos del sistema MakerDAO. La descentralización de la Gestión de Riesgos permite tomar decisiones imparciales a los votantes de MKR y ayuda a la Gobernanza de Maker a ponerse de acuerdo en qué es mejor para el sistema. 
+Una Gestión de Riesgos Descentralizada es la cooperación y la interacción competitiva entre los dueños del token Maker y los todos los Equipos de Riesgo para cumplir el objetivo de cuantificar, analizar y mitigar los riesgos del sistema MakerDAO. La descentralización de la Gestión de Riesgos permite tomar decisiones imparciales a los votantes de MKR y ayuda a la Gobernanza de Maker a ponerse de acuerdo en qué es mejor para el sistema.
 
 ## ¿Qué son los Equipos de Riesgo?
 
 Los Equipos de Riesgo son personas o grupos de personas que de forma independiente crean los Informes de Riesgo que serán usados como base científica para la toma de decisiones por parte de la Gobernanza Maker. Los Equipos de Riesgo son introducidos por votación y se les otorga una ponderación a la hora de enviar Informes de Riesgo a la comunidad de Gobernanza de MakerDAO.
 
-
 ## ¿Qué es un Informe de Riesgo?
 
 Un Informe de Riesgo es el conjunto de datos, modelos de riesgo y rendimientos recogidos por un Equipo de Riesgo. Funcionan como marco de referencia para permitir describir las valoraciones, relaciones y detalles de cómo se mide el riesgo en el sistema MakerDAO. Existe un Informe de Riesgo por cada Equipo de Riesgo.
-
 
 ## ¿Qué es un Modelo de Riesgo?
 
 Un Modelo de Riesgo debe incorporar un análisis basado en datos y puede hacer uso de modelos financieros ajustado a las especificaciones del protocolo MakerDAO. Cuanto más exhaustivo es, más confianza tendrán los dueños de MKR al asignarle una ponderación.
 
-Cada componente del modelo debe estar acompañado de documentación explicando su metodología, de donde y cómo fueron extraídos los datos, así como también un análisis de los resultados. 
-
+Cada componente del modelo debe estar acompañado de documentación explicando su metodología, de donde y cómo fueron extraídos los datos, así como también un análisis de los resultados.
 
 ## ¿Los Modelos de Riesgo cambian?
 
 Un Modelo de Riesgo debe actualizarse continuamente con nueva información que refute o refuerce las conclusiones. Dada la naturaleza evolutiva del sistema MakerDAO y el panorama económico que se forma a su alrededor, diferentes Modelos de Riesgo competirán para representar con certeza las dinámicas de riesgo del sistema.
 
-
 ## ¿Existen diferentes tipos de Equipos de Riesgo?
 
 Si, dados los variados tipos de riesgo, es improbable que un único equipo de riesgo pueda cubrir todo el protocolo. Podría haber Equipos de Riesgo dedicados a diferentes clases de riesgo en el sistema, como por ejemplo Política Monetaria o la Tasa de Interés de Dai. Por otro lado, podría haber Equipos de Riesgo centrados en una gama de áreas más amplia, como la evaluación de determinados tipos de colateral, que podrían requerir especialización en diferentes temas como Riesgos Legales y Evaluación Operativa. Habrá diferentes tipos de Equipos de Riesgo, así como también terceros que investigarán de forma independiente pero que tal vez no envíen sus propios Modelos de Riesgo.
-
 
 ## ¿Quiénes forman los Equipos de Riesgo?
 
@@ -63,7 +58,7 @@ Las propuestas de un nuevo colateral atraviesan un extenso análisis, incluyendo
 
 ## ¿Qué es el Análisis Cualitativo de Riesgo, y cómo deberíamos abordarlo?
 
-El Análisis Cualitativo de Riesgos usa una escala relativa o descriptiva para medir el riesgo basándose en la probabilidad de ocurrencia y en el impacto sobre el activo en caso de llegar a ocurrir. Para evaluar un activo por sus riesgos, se debe entender y evaluar la organización encargada del activo, las características del token y otros detalles de relevancia. A esto se le llama Análisis Cualitativo, el proceso de recopilación de información tiene tres partes: 
+El Análisis Cualitativo de Riesgos usa una escala relativa o descriptiva para medir el riesgo basándose en la probabilidad de ocurrencia y en el impacto sobre el activo en caso de llegar a ocurrir. Para evaluar un activo por sus riesgos, se debe entender y evaluar la organización encargada del activo, las características del token y otros detalles de relevancia. A esto se le llama Análisis Cualitativo, el proceso de recopilación de información tiene tres partes:
 
 - El proceso de incorporación de colateral inicial: abarca las plataformas comerciales, distribución de tokens y series de datos disponibles.
 - El proceso de evaluación operacional: cubre la organización a cargo, los riesgos operacionales de la organización, los riesgos regulatorios, la calidad de su comunidad, etc.
@@ -91,15 +86,13 @@ El nivel de Riesgo de Exposición de un colateral tiene relación directa con el
 
 Riesgo de Liquidez, o Riesgo de Liquidez de un Activo, evalúa la liquidez actual de un activo en el mercado. Se debe tomar en cuenta un ajuste de liquidez en el Ratio de Liquidación para compensar el riesgo de liquidez de un activo en particular.
 
-
 ## ¿Qué es el Riesgo de Volatilidad?
 
 El Riesgo de Volatilidad evalúa el riesgo de precio para un token concreto. El nivel de liquidez en un mercado influye en el riesgo de volatilidad de un activo dado el incremento o decremento del precio durante su compraventa. El Riesgo de Volatilidad ayuda a calcular el monto de sobre-colateralización inicial requerido por cada activo, que se refleja en el Ratio de Liquidación.
 
-
 ## ¿Qué es el Riesgo de Correlación?
 
-El Riesgo de Correlación es tener demasiada exposición a un grupo de activos cuyos precios estén altamente correlacionados. Cuando un portafolio de activos crece para incluir activos sin correlación, decimos que el riego de correlación decrece. Un principio generalmente aceptado es que una combinación diversa de activos rebajará el riesgo de cualquier activo individual. El beneficio de diversificación se ve maximizado al añadir activos no correlacionados.  El riesgo de correlación se define como la volatilidad del beneficio de diversificación.
+El Riesgo de Correlación es tener demasiada exposición a un grupo de activos cuyos precios estén altamente correlacionados. Cuando un portafolio de activos crece para incluir activos sin correlación, decimos que el riego de correlación decrece. Un principio generalmente aceptado es que una combinación diversa de activos rebajará el riesgo de cualquier activo individual. El beneficio de diversificación se ve maximizado al añadir activos no correlacionados. El riesgo de correlación se define como la volatilidad del beneficio de diversificación.
 
 ## ¿Qué es Riesgo del Indicador de Precio?
 

@@ -22,6 +22,7 @@ Technical documentation on Stability Fees can be found in the [Jug - Detailed Do
 
 <Indent pad={2}>
 
+
 The Stability Fee for each Vault type changes as a result of the decisions of MKR token holders who govern the protocol.
 
 These decisions are based on the recommendation of Risk Teams who perform risk assessments on Collateral used in the system.
@@ -30,9 +31,11 @@ The Risk Teams may update their proposed Stability Fee when something fundamenta
 
 </Indent>
 
+
 ## Where Stability Fees Go
 
 <Indent pad={2}>
+
 
 Stability Fees are collected inside the Maker Protocol’s [internal balance sheet](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation).
 
@@ -40,9 +43,11 @@ Once the maximum level of surplus is reached, the system automatically sends Dai
 
 </Indent>
 
+
 ## Calculating Stability Fees
 
 <Indent pad={2}>
+
 
 The Stability Fee is continuously compounding interest at a growth rate of x% per second.
 
@@ -50,7 +55,9 @@ Technical documentation about how Rates work in the Maker Protocol can be found 
 
 </Indent>
 
+
 <Callout icon="lightbulb">
+
 
 #### Example
 
@@ -60,10 +67,13 @@ Assuming the user put in 100 Dai, at the end of year one they would have 102.00.
 
 </Callout>
 
+
 ## Stability Fees During Emergency Shutdown
 
 <Indent pad={2}>
 
+
 During Emergency Shutdown, Vault owners indirectly pay Stability Fees by not being able to withdraw more collateral than the excess in their Vault.
 
 </Indent>
+

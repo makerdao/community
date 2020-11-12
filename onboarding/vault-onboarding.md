@@ -107,7 +107,7 @@ Active Vaults can be managed from the main dashboard. Each Vault type is managed
 
 ### Generating More Dai
 
-To generate more Dai, click "Generate" on the dashboard and fill in the requested information. The maximum available to generate is displayed for reference. **PLEASE NOTE  generating additional Dai without subsequently adding additional collateral will result in a lower Liquidation Price putting the Vault at higher risk for liquidation.**
+To generate more Dai, click "Generate" on the dashboard and fill in the requested information. The maximum available to generate is displayed for reference. **PLEASE NOTE generating additional Dai without subsequently adding additional collateral will result in a lower Liquidation Price putting the Vault at higher risk for liquidation.**
 
 Check the preview to make sure the Vault's new terms are acceptable. Click "Generate" and follow prompts to confirm the transaction. Once approved, the Vault's dashboard will update to reflect the changes.
 
@@ -135,7 +135,7 @@ Check the preview to make sure the Vault's new terms are acceptable. Click “Pa
 
 ### Withdrawing Collateral
 
-To withdraw collateral from a Vault and return it to the wallet, click “Withdraw” on the dashboard and enter an amount to withdraw. The maximum available to withdraw is displayed for reference. **PLEASE NOTE  withdrawing collateral without first paying back Dai will result in a lower Liquidation Price putting the Vault at higher risk for liquidation.**
+To withdraw collateral from a Vault and return it to the wallet, click “Withdraw” on the dashboard and enter an amount to withdraw. The maximum available to withdraw is displayed for reference. **PLEASE NOTE withdrawing collateral without first paying back Dai will result in a lower Liquidation Price putting the Vault at higher risk for liquidation.**
 
 Check the preview to make sure the Vault's new terms are acceptable. Click “Withdraw” and follow prompts to confirm the transaction. Once approved, the Vault dashboard will update to reflect the changes. Withdrawn collateral will appear in the wallet, unlocked, and ready for use.
 
@@ -156,20 +156,20 @@ The sections below present some best practices, useful tips, and resources relat
 **Maintaining a Vault's health is the Vault owner's responsibility.** Given the volatile nature of cryptocurrencies, a safe Vault can become at risk very quickly depending on the Dai balance and amount of Collateral locked within. Ensuring that the collateralized assets remain safe from liquidation is entirely in the hands of each Vault owner. Some commonly observed practices to avoid liquidation can be found below:
 
 - **Monitor the Vault:**
-    - Keep note of the Vault ID numbers that you are responsible for. This will enable you to identify your Vault without needing access to the wallet that owns it.
-    - Maintain adequate access to the Vaults, especially during volatile periods in the markets.
-    - Use [available tools and services](https://awesome.makerdao.com/#watch-your-dai) to keep an eye on a Vault’s status.
-    - Set up price alerts for the collateral asset(s) being used, so that you know when the Liquidation Price is being approached.
+  - Keep note of the Vault ID numbers that you are responsible for. This will enable you to identify your Vault without needing access to the wallet that owns it.
+  - Maintain adequate access to the Vaults, especially during volatile periods in the markets.
+  - Use [available tools and services](https://awesome.makerdao.com/#watch-your-dai) to keep an eye on a Vault’s status.
+  - Set up price alerts for the collateral asset(s) being used, so that you know when the Liquidation Price is being approached.
 - **Maintain Sideline Assets:**
-    - Maintain access to readily available emergency funds or assets to pay back Dai or add collateral.
+  - Maintain access to readily available emergency funds or assets to pay back Dai or add collateral.
 - **Unwind the Vault:**
-    - Unwinding is when some collateral is withdrawn from the Vault and sold for Dai, the Dai is then used to pay down the Vault's generated Dai balance. Repeat the process until the Liquidation Price is a comfortable number.
-    - When done manually, this technique temporarily puts the Vault in a riskier position until Dai is paid on the balance. This is because collateral is being withdrawn, which increases the Liquidation Price.
-    - Set a personal rule to unwinding the Vault if the collateral price falls below a certain level or takes a sharp downturn. This may act as an additional buffer.
-    - Some services will offer Vault unwinding for a nominal fee.
+  - Unwinding is when some collateral is withdrawn from the Vault and sold for Dai, the Dai is then used to pay down the Vault's generated Dai balance. Repeat the process until the Liquidation Price is a comfortable number.
+  - When done manually, this technique temporarily puts the Vault in a riskier position until Dai is paid on the balance. This is because collateral is being withdrawn, which increases the Liquidation Price.
+  - Set a personal rule to unwinding the Vault if the collateral price falls below a certain level or takes a sharp downturn. This may act as an additional buffer.
+  - Some services will offer Vault unwinding for a nominal fee.
 - **Use a Vault Unwinding service:**
-    - There are 3rd party web3 applications that enable a Vault owner to automate the unwinding process. One example is [DefiSaver.com’s](https://defisaver.com/) Automate feature.
-    - Note that the Vault owner is responsible for doing their due diligence to assess whether such a service is safe to use and legitimate.
+  - There are 3rd party web3 applications that enable a Vault owner to automate the unwinding process. One example is [DefiSaver.com’s](https://defisaver.com/) Automate feature.
+  - Note that the Vault owner is responsible for doing their due diligence to assess whether such a service is safe to use and legitimate.
 
 Refer to the [Oasis Terms of Service](https://oasis.app/terms) for relevant legal information. Opening a Vault and generating Dai is an implicit agreement to the risks involved, you are solely responsible for your use of the Services, including all transfers of Digital Assets you make.
 

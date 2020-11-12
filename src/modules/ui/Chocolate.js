@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react';
+import { Children } from "react";
 import { jsx, Grid } from "theme-ui";
 
 const Chocolate = ({ children }) => {
@@ -22,24 +22,22 @@ const Chocolate = ({ children }) => {
   };
 
   return (
-    (
-      <Grid
-        gap={4}
-        columns={['1fr', '1fr', columnWidth()]}
-        sx={{
-          "& > * > * > img": {
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-            objectPosition: "center",
-          },
-          mb: 4,
-        }}
-      >
-        {children}
-      </Grid>
-    )
-  )
+    <Grid
+      gap={4}
+      columns={["1fr", "1fr", columnWidth()]}
+      sx={{
+        "& > * > * > img": {
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition: "center",
+        },
+        mb: 4,
+      }}
+    >
+      {children}
+    </Grid>
+  );
 };
 
 export default Chocolate;

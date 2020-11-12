@@ -17,9 +17,9 @@ const Accordion = ({ children, defaultOpen, openIcon, closeIcon }) => {
   return (
     <Box
       sx={{
-        color: "textMuted",
+        color: "text",
         fontSize: "20px",
-        letterSpacing: ".03px",
+        letterSpacing: "0.3px",
         borderBottom: "1px solid",
         borderColor: "muted",
         mb: 4,
@@ -41,7 +41,7 @@ const Accordion = ({ children, defaultOpen, openIcon, closeIcon }) => {
         {!expanded ? (
           <Icon
             name={OpenIcon}
-            color="text"
+            color="textMuted"
             sx={{
               width: "20px",
               height: "20px",
@@ -73,7 +73,7 @@ const Accordion = ({ children, defaultOpen, openIcon, closeIcon }) => {
           sx={{
             pb: "24px",
             px: "12px",
-            fontSize: "18px",
+            fontSize: "16px",
             color: "textMuted",
             "& > *:only-child": { m: 0 },
           }}

@@ -10,7 +10,7 @@ Virtual meetups are organized events that take place using teleconferencing soft
 
 ## What does a grant for a Virtual Meetup cover?
 
-Grants for Virtual Meetups primarily cover [honorarium.](https://www.investopedia.com/terms/h/honorarium.asp) Any other associated expenses 
+Grants for Virtual Meetups primarily cover [honorarium.](https://www.investopedia.com/terms/h/honorarium.asp) Any other associated expenses
 
 ## Am I eligible to receive a micro-grant if Maker and Dai are only one part of my agenda?
 
@@ -31,7 +31,7 @@ You may seek additional help or advice in our [#community-development](https://c
 
 ## Should I record the talks and take photos of the event?
 
- Yes, absolutely. One of the best things you can do to improve the impactfulness of your event is by creating and sharing pictures and videos. Recording the talks and hosting them on online can be a very effective way of providing a referenceable resource for others in your local community to share between each other and even with friends of neighboring cities and countries. Media provides very useful learning resources, gives you something you can send to people remotely, and generally gives you a larger reach.
+Yes, absolutely. One of the best things you can do to improve the impactfulness of your event is by creating and sharing pictures and videos. Recording the talks and hosting them on online can be a very effective way of providing a referenceable resource for others in your local community to share between each other and even with friends of neighboring cities and countries. Media provides very useful learning resources, gives you something you can send to people remotely, and generally gives you a larger reach.
 
 ## Can I organize more than one meetup group?
 

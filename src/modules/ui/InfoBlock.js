@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react'
+import { Children } from "react";
 import { Flex, jsx } from "theme-ui";
 
 //TODO(Rejon): On mobile have image ALWAYS stack in order first. Do this when we have breakpoints figured out.

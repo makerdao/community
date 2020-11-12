@@ -19,7 +19,7 @@ El hilo de opiniones que motivó esta encuesta puede encontrarse [aquí](https:/
 
 Si esta encuesta termina con una mayoría de "Sí", el proceso de incorporación de colateral cambiará en línea con los puntos arriba mencionados.
 
-Si esta encuesta termina con una mayoría de "No",  el proceso de incorporación de colateral continuará operando como lo hace actualmente.
+Si esta encuesta termina con una mayoría de "No", el proceso de incorporación de colateral continuará operando como lo hace actualmente.
 
 ---
 

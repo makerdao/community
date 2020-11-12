@@ -55,20 +55,20 @@
 ##### Discussions
 
 - [Thread]()
-    - notes
+  - notes
 - [Thread]()
-    - notes
+  - notes
 - [Thread]()
-    - notes
+  - notes
 
 ##### Signal Requests
 
 - [Thread]()
-    - notes
+  - notes
 - [Thread]()
-    - notes
+  - notes
 - [Thread]()
-    - notes
+  - notes
 
 ## Governance
 

@@ -1,13 +1,14 @@
 ---
 title: "Inclusion Poll for MIP18: Meta-Parameter Adjustments - July 13, 2020"
-summary: The Inclusion Poll will run from July 13, 2020 to July 16, 2020 and will determine whether the proposal at hand should proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from July 13, 2020 to July 16, 2020 and will determine whether the proposal at hand should proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/3118
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for MIP18: Meta-Parameter Adjustments - July 13, 2020
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (MIP18: Meta-Parameter Adjustments) should be included into the Monthly Governance Poll.

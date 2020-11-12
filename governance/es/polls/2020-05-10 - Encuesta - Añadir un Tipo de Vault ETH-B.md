@@ -24,7 +24,7 @@ El **Tipo de Vault ETH-B** fue votado en una solicitud de opinión en un foro. 
 
 Si esta encuesta termina con una mayoría de 'Sí', este cambio será incluido en el Voto Ejecutivo del viernes siguiente a la conclusión de esta encuesta.
 
-Si el Voto Ejecutivo del viernes es aprobado, el tipo de Vault ETH-B ****estará activo en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
+Si el Voto Ejecutivo del viernes es aprobado, el tipo de Vault ETH-B \*\*\*\*estará activo en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
 
 ---
 

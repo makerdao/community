@@ -4,10 +4,11 @@ summary: Signal your support for increasing the WBTC Debt Ceiling from 20MM to 3
 discussion_link: https://forum.makerdao.com/t/3223
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the WBTC Debt Ceiling - July 27, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the WBTC Debt Ceiling from 20MM to 34MM.

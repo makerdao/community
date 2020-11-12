@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Fragment} from 'react';
+import { Fragment } from "react";
 import { Box, Flex, Image, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 
@@ -96,7 +96,11 @@ const AuthorListElement = ({
               {Array.isArray(profile) ? (
                 <Fragment>
                   {/* NOTE(Rejon): I'm not fleshing this out on purpose. This doesn't need a robust solution. */}
-                  {profile.map((url, index) => <Fragment key={`profile-link-icon-${index}`}>{getLinkIcon(url)}</Fragment> )}
+                  {profile.map((url, index) => (
+                    <Fragment key={`profile-link-icon-${index}`}>
+                      {getLinkIcon(url)}
+                    </Fragment>
+                  ))}
                 </Fragment>
               ) : (
                 getLinkIcon(profile)

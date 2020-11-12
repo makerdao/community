@@ -43,7 +43,7 @@ Khi:
 
 **t** = số năm mà tiền được đầu tư hoặc được vay
 
-**e** = [hằng số Euler](https://vi.wikipedia.org/wiki/E_(s%E1%BB%91))
+**e** = [hằng số Euler](<https://vi.wikipedia.org/wiki/E_(s%E1%BB%91)>)
 
 - **P** \(1 + r/n\)^nt - P = A: Lãi kép hàng năm
 - **P** \(1 + r/n\)^nt - P = A: Lãi kép hàng tháng
@@ -79,7 +79,7 @@ Giả thiết:
 - CDP đã mở trong **30** **ngày**
 - Giá trị hiện tại của token MKR là **1000** **DAI**
 - Phí Ổn định là **5%**
-- hMột người dùng trả lại một phần nợ với số tiền  **50** **DAI**
+- hMột người dùng trả lại một phần nợ với số tiền **50** **DAI**
 
 Tổng chi phí Dai phải trả lại cho **50 DAI** trên khoản nợ **1000 DAI** đã có **30 ngày** tuổi là **0.208 DAI**, tương đương khoảng 21 cent USD.
 
@@ -115,7 +115,7 @@ Bây giờ chuyển đổi sang MKR, sẽ là:
 0.2009 ÷ 1000 = 0.0002009 MKR
 ```
 
-Người dùng sẽ cần phải có  **0.0002009 MKR** trong ví của họ để trả phí tích lũy cho **50 DAI** sau **30 ngày**.
+Người dùng sẽ cần phải có **0.0002009 MKR** trong ví của họ để trả phí tích lũy cho **50 DAI** sau **30 ngày**.
 
 Sau khi hoàn thành giao dịch, tổng số phí còn lại trong CDP sẽ là:
 
@@ -152,6 +152,7 @@ Mức phí cho khoản nợ 10.000 DAI trong suốt 31 ngày ở mức 5,0%:
 ```
 
 Và ở mức 10.0%
+
 ```text
 (10000 x (2.7183...) ^ (10.0%*(31/365)) - 10000 = 85.2937 DAI
 ```

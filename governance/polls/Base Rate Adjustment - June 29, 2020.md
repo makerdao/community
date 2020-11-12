@@ -4,19 +4,20 @@ summary: Signal your support to adjust the Base Rate within a range of -3.75% to
 discussion_link: https://forum.makerdao.com/t/2878
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: -3.75
-   2: -1.75
-   3: -0.75
-   4: -0.25
-   5: 0
-   6: 0.25
-   7: 0.50
-   8: 0.75
-   9: 1.25
-   10: 2.25
-   11: 4.25
+  0: Abstain
+  1: -3.75
+  2: -1.75
+  3: -0.75
+  4: -0.25
+  5: 0
+  6: 0.25
+  7: 0.50
+  8: 0.75
+  9: 1.25
+  10: 2.25
+  11: 4.25
 ---
+
 # Poll: Base Rate Adjustment - June 29, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -3.75% to 4.25%.
@@ -29,7 +30,7 @@ The **Base Rate** was discussed in an online [discussion](https://forum.makerdao
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 
