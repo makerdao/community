@@ -8,7 +8,7 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 ### Onboard GUSD as a new Collateral Type
 
-A new collateral type, GUSD (Gemini Dollar), will be added to the Maker Protocol if this proposal passes. GUSD will be added with the following parameters in the GUSD-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmWh3nQN?network=mainnet)
+A new collateral type, GUSD (Gemini Dollar), will be added to the Maker Protocol if this proposal passes. GUSD will be added with the following parameters in the GUSD-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmWh3nQN?network=mainnet).
 
 - Stability Fee: 4%
 - Liquidation Ratio: 101%
