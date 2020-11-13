@@ -7,7 +7,7 @@ import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
 
-const LanguageSelector = ({sx, data, pagePath}) => {
+const LanguageSelector = ({ sx, data, pagePath }) => {
   const { theme } = useThemeUI();
   const navigate = useNavigate();
   const { locale, t, allLocales } = useTranslation();
@@ -113,7 +113,7 @@ const LanguageSelector = ({sx, data, pagePath}) => {
         sx={{
           width: ["100%", "100%", "205px"],
           mb: [3, 3, "unset"],
-          position: 'relative',
+          position: "relative",
           top: 0,
           right: 0,
         }}
@@ -179,8 +179,8 @@ const LanguageSelector = ({sx, data, pagePath}) => {
         borderRadius: "12px",
         bg: "background",
         mb: 2,
-        mt: ['unset','unset','64px'],
-        position: 'relative',
+        mt: ["unset", "unset", "64px"],
+        position: "relative",
         right: 0,
         top: 0,
       }}

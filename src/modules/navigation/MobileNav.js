@@ -10,10 +10,10 @@ import { useTranslation } from "@modules/localization";
 import { useNavigation } from "@modules/navigation/context";
 
 const MobileNav = ({ sidenavData }) => {
-  const { headerLinks, mobileNavOpen,hideMobileMenu } = useNavigation()
+  const { headerLinks, mobileNavOpen, hideMobileMenu } = useNavigation();
   const { locale, t } = useTranslation();
   const { pathname } = useLocation();
-  
+
   //If there's sidenav data we're on a page with a topSection
   //If the sidenav data's top section matches our current url path section
   //AND if the sidenav for this top section has items render inside the submenu.
@@ -39,30 +39,30 @@ const MobileNav = ({ sidenavData }) => {
         height: "calc(100vh - 90px)",
         zIndex: 100,
         position: "fixed",
-        top: '90px',
-        display: ['block', 'block', 'none'],
+        top: "90px",
+        display: ["block", "block", "none"],
         width: "100%",
       }}
     >
       <div
-          className={mobileNavOpen ? 'open' : ''}
-          sx={{
-            bg: "backgroundAlt",
-            right: "-2500px",
-            top: "-2500px",
-            position: "absolute",
-            width: "5000px",
-            opacity: 0,
-            height: "5000px",
-            borderRadius: "10000px",
-            zIndex: 0,
-            transition: 'all .25s ease',
-            transformOrigin: "center",
-            '&.open': {
-              opacity: 1
-            }
-          }}
-        ></div>
+        className={mobileNavOpen ? "open" : ""}
+        sx={{
+          bg: "backgroundAlt",
+          right: "-2500px",
+          top: "-2500px",
+          position: "absolute",
+          width: "5000px",
+          opacity: 0,
+          height: "5000px",
+          borderRadius: "10000px",
+          zIndex: 0,
+          transition: "all .25s ease",
+          transformOrigin: "center",
+          "&.open": {
+            opacity: 1,
+          },
+        }}
+      ></div>
       <AnimatePresence exitBeforeEnter>
         {showMainMenu && (
           <motion.div
@@ -339,7 +339,7 @@ const MobileNav = ({ sidenavData }) => {
                   sx={{
                     m: 0,
                     p: 0,
-                    pb: '5rem',
+                    pb: "5rem",
                     listStyleType: "none",
                     "& li > a": {
                       color: "onBackgroundAlt",
@@ -352,13 +352,13 @@ const MobileNav = ({ sidenavData }) => {
                         textDecoration: "none",
                       },
                     },
-                    '& li > svg': {
-                        width: "54px",
-                        height: "54px",
-                        color: 'onBackgroundAlt',
-                        padding: '18px',
-                        right: '4%',
-                    }
+                    "& li > svg": {
+                      width: "54px",
+                      height: "54px",
+                      color: "onBackgroundAlt",
+                      padding: "18px",
+                      right: "4%",
+                    },
                   }}
                 >
                   {sidenavData.items[0].items.map((item, index) => (

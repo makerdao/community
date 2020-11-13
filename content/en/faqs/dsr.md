@@ -52,12 +52,12 @@ A = P(1 + r)^t
 
 Where:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | A | ending value of your deposit |
-  | P | the principal deposit amount |
-  | r | the annual interest rate \(decimal\) |
-  | t | the number of years the principal amount will stay in the DSR |
+| Variable | Value                                                         |
+| -------- | ------------------------------------------------------------- |
+| A        | ending value of your deposit                                  |
+| P        | the principal deposit amount                                  |
+| r        | the annual interest rate \(decimal\)                          |
+| t        | the number of years the principal amount will stay in the DSR |
 
 ## Will there be any constraints, like minimum lockup time or withdrawal limits?
 

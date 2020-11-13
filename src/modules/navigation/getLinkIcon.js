@@ -13,10 +13,8 @@ const LinkWrapper = ({ ariaLabel, ...props }) => {
   const { t } = useTranslation();
 
   return (
-    <div 
-      // whileTap={{scale: 0.9}}
-      // whileHover={{scale: 1.16}}
-      sx={{backfaceVisibility: "hidden", display: 'inline-block'}}
+    <div
+      sx={{ backfaceVisibility: "hidden", display: "inline-block" }}
     >
       <Link
         hideExternalIcon

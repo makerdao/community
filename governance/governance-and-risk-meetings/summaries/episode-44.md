@@ -11,13 +11,13 @@
 ### Rich: [00:00](https://youtu.be/0wScyBRdLwE?t=5)
 
 - MCD launch is a two stage process.
-    - The Foundation builds and facilitates all the pieces.
-    - The Governance community matures in its body and process in order to handle MCD Governance
+  - The Foundation builds and facilitates all the pieces.
+  - The Governance community matures in its body and process in order to handle MCD Governance
 - Check out the new [forum](https://forum.makerdao.com), all the heavy discussion happens there.
 - This is not the first time a decentralized group of people came together to do work over the internet. We are working to self organize and create processes and standards around Governance.
-    - We should internalize the idea of Open-Source Governance. The same way that developers can work together on versions of software, we as a community can do the same with workflows, standards, contributions, etc.
-    - We may be looking at a system where there are MIPs(Maker Improvement Proposals).
-    - Each of the venues we use to communicate serves a specific purpose.
+  - We should internalize the idea of Open-Source Governance. The same way that developers can work together on versions of software, we as a community can do the same with workflows, standards, contributions, etc.
+  - We may be looking at a system where there are MIPs(Maker Improvement Proposals).
+  - Each of the venues we use to communicate serves a specific purpose.
 - Add your questions in the [discussion thread for this call](https://forum.makerdao.com/t/scientific-governance-and-risk-w-special-guest-alex-evans-thursday-july-18-9am-pst-4-00-pm-utc/141)
 
 ## Risk
@@ -31,16 +31,16 @@
 
 - Is pretty obvious, we've covered it many times before. As Maker holders we recognize the importance of risk. We need to think systematically and rigorously about Risk and how to manage it.
 - We went for this approach because of 3 reasons:
-    - It works well with smart contracts, since the world is defined in "states". These models incorporate the idea of "state".
-    - Model work well with State-dependent payoffs.
-    - These models are very adaptable and modular. You can play with it very easily.
+  - It works well with smart contracts, since the world is defined in "states". These models incorporate the idea of "state".
+  - Model work well with State-dependent payoffs.
+  - These models are very adaptable and modular. You can play with it very easily.
 
 ![The Model's Key Assumptions](https://i.imgur.com/hj3I1DP.jpg)
 
 - The way this model thinks about Maker is it thinks about Maker as a collection of loans. The way we describe the global behavior of Maker is by looking at the emergent properties of that pool of loans.
 - First we define what a loan is: an individual draw transaction
 - Each loan can be in 1 of 4 states: Safe, Unsafe, Wiped, Bitten.
-    - If the loan is wiped or bitten it cannot return to the safe/unsafe state again.
+  - If the loan is wiped or bitten it cannot return to the safe/unsafe state again.
 - There is a map for how states can transition into each-other.
 - The amount of time a loan spends in a given state is an important data point.
 
@@ -67,23 +67,23 @@
 
 - There is a typo in the unsafe->bitten state change (should be `qub` instead of `qwb`)
 - [17:47](https://youtu.be/0wScyBRdLwE?t=1069): Are you dealing with Safe->bitten at all?
-    - It should be 0 in the matrix, but the reason I keep it there with a value `qsb` is because if you look at larger time intervals there may be some data that shows up here that shows a safe->bitten state change.
+  - It should be 0 in the matrix, but the reason I keep it there with a value `qsb` is because if you look at larger time intervals there may be some data that shows up here that shows a safe->bitten state change.
 - [26:19](https://youtu.be/0wScyBRdLwE?t=1579): Are you defining ‘loss’ as bite? or liquidation below 100%?
-    - It's defined as bite.
-    - To get the actual "loss" you need to have an additional assumption about how many CDPs are bitten below the 100% level. It would be a distribution that tells us the recovery rate.
+  - It's defined as bite.
+  - To get the actual "loss" you need to have an additional assumption about how many CDPs are bitten below the 100% level. It would be a distribution that tells us the recovery rate.
 - [27:06](https://youtu.be/0wScyBRdLwE?t=1626): Have you done any research on how one would go about calculating those transition probabilities and if so can you talk about the challenges associated with that?
-    - 1: We shared a GitHub page with both the code to run for all of these.
-    - 2: The data the Vishesh provided is a good place to start.
-    - 3: You can try to project based on the distribution we get from current data, but it's probably an exercise in conjecture due to lack of historic data. 
-    - Cyrus: All risk models right now are in a state where they lack long history of data to back-test by.
+  - 1: We shared a GitHub page with both the code to run for all of these.
+  - 2: The data the Vishesh provided is a good place to start.
+  - 3: You can try to project based on the distribution we get from current data, but it's probably an exercise in conjecture due to lack of historic data.
+  - Cyrus: All risk models right now are in a state where they lack long history of data to back-test by.
 - [31:02](https://youtu.be/0wScyBRdLwE?t=1862): Do you think transition probabilities would be similar across collateral types?
-    - The rates depend on the price path of the collateral, and the borrower behavior associated with borrowing that collateral. Do you behave differently when you borrow against `ETH` versus a `House`?
-- [32:50](https://youtu.be/0wScyBRdLwE?t=1970): To what extent is the relative rate between different states determined by user behavior vs asset volatility? 
-    - Should we be thinking about relative transitions from one state vs another or should be using the overall aggregate amount of liquidation you would expect?
-    - Aggregate amount of liquidation would be more standardized to human behavior across assets than the others.
+  - The rates depend on the price path of the collateral, and the borrower behavior associated with borrowing that collateral. Do you behave differently when you borrow against `ETH` versus a `House`?
+- [32:50](https://youtu.be/0wScyBRdLwE?t=1970): To what extent is the relative rate between different states determined by user behavior vs asset volatility?
+  - Should we be thinking about relative transitions from one state vs another or should be using the overall aggregate amount of liquidation you would expect?
+  - Aggregate amount of liquidation would be more standardized to human behavior across assets than the others.
 - [34:44](https://youtu.be/0wScyBRdLwE?t=2084): How can this be applied to MKR valuation?
-    - There is a brief note at the end of the paper talking about this.
-    - This model is actually very good at estimating value of derivatives with state dependent payoffs (which sounds like MKR)
+  - There is a brief note at the end of the paper talking about this.
+  - This model is actually very good at estimating value of derivatives with state dependent payoffs (which sounds like MKR)
 
 ## Analysis
 
@@ -129,15 +129,15 @@
 #### Questions to Vishesh
 
 - [45:02](https://youtu.be/0wScyBRdLwE?t=2704): Is MKR governance forced to take directional bets on ETH price then?
-    - If you think the system does not have enough transaction volume, sticky demand, amount of oversupply, then you should be weary of having a lower stability fee.
-    - You need to be mindful how much your opening up the system to be affected by ETH price.
-    - If you have a lot of Dai that's been drawn out on transient demand based on leverage, this can be considered oversupply. In this scenario a lower SF would exacerbate the problem.
-    - If your oversupply is low, and you have high tx volumes, not as much leverage happening, then you can be a little more confident with a lower fee.
+  - If you think the system does not have enough transaction volume, sticky demand, amount of oversupply, then you should be weary of having a lower stability fee.
+  - You need to be mindful how much your opening up the system to be affected by ETH price.
+  - If you have a lot of Dai that's been drawn out on transient demand based on leverage, this can be considered oversupply. In this scenario a lower SF would exacerbate the problem.
+  - If your oversupply is low, and you have high tx volumes, not as much leverage happening, then you can be a little more confident with a lower fee.
 - [57:16](https://youtu.be/0wScyBRdLwE?t=3436): How is the tx volume of Dai versus the trading volume? (double check)
-    - We saw trading volume in 7MM-10MM per day on average
-    - Tx volume on chain has been around 60MM on average
+  - We saw trading volume in 7MM-10MM per day on average
+  - Tx volume on chain has been around 60MM on average
 - [01:12:11](https://youtu.be/0wScyBRdLwE?t=4331): I am concerned that the new 22.5% is going to put on even more delayed pressure and we are going to find ourselves in a supply crunch.
-    - If this happens and the Dai price goes up we can always lower the SF again. But it is agreed that moving the SF so quickly is not as effective as a slower approach.
+  - If this happens and the Dai price goes up we can always lower the SF again. But it is agreed that moving the SF so quickly is not as effective as a slower approach.
 
 #### Links from the Chat
 

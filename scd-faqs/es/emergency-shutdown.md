@@ -54,7 +54,7 @@ Tanto los propietarios de CDP como los poseedores de Dai necesitan reembolsar su
 
 El ratio de PETH cae instantáneamente cuando ocurre un Apagado de Emergencia y se recupera a medida que se procesen los CDPs. Los poseedores de PETH deben esperar el periodo de 6 horas de retraso al igual que los propietarios de CDP.
 
-## Si el precio continúa cayendo después de que el indicador de precio se congelase, ¿no significa esto que las personas que reembolsan Dai y CDPs pueden recibir menos de 1$ de colateral?
+## Si el precio continúa cayendo después de que el indicador de precio se congelase, ¿no significa esto que las personas que reembolsan Dai y CDPs pueden recibir menos de 1\$ de colateral?
 
 Sí, es posible que los usuarios obtengan un colateral de menos de un dólar. Los poseedores de Dai pueden canjear inmediatamente su Dai por colateral y pueden experimentar alguna disminución. Los propietarios de CDP deben esperar el periodo de retraso de 6 horas para que los reclamos sean calculados y por ende, están expuestos al riesgo del movimiento del precio del colateral subyacente durante estas 6 horas.
 
@@ -82,10 +82,10 @@ Dependiendo de los detalles de cada despliegue, el mercado, junto con varios par
 
 Ya que es un software de código abierto, cualquiera puede decidir. Idealmente, los parámetros de despliegue deberían depender de la razón del Apagado de Emergencia, y no deberían ser alterados unilateral ni arbitrariamente. Este es un ejemplo aproximado de un marco para realizar cambios en el despliegue:
 
-| Razón | Solución |
-| --- | --- |
-| Ataque a la Gobernanza | Apartar a los dueños de MKR maliciosos en una nueva redistribución, volver a desplegar el sistema sin modificar todo lo demás |
-| Ataque al Oráculo | Cambiar el módulo de Oráculo por uno nuevo solucionando la vulnerabilidad, volver a desplegar el sistema sin modificar todo lo demás |
+| Razón                  | Solución                                                                                                                                                                                                                                                 |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ataque a la Gobernanza | Apartar a los dueños de MKR maliciosos en una nueva redistribución, volver a desplegar el sistema sin modificar todo lo demás                                                                                                                            |
+| Ataque al Oráculo      | Cambiar el módulo de Oráculo por uno nuevo solucionando la vulnerabilidad, volver a desplegar el sistema sin modificar todo lo demás                                                                                                                     |
 | Mercado de Cisne Negro | Volver a desplegar el sistema con todo como está, permitir a los votantes de MKR decidir cómo abordar de la mejor manera este evento a través de unos mecanismos del sistema nuevos o mejorados que puedan ser agregados después de la reimplementación. |
 
 ## Durante el Apagado de Emergencia, ¿se entregará el colateral de los propietarios de CDP a otras personas?
@@ -95,7 +95,7 @@ Durante el Apagado de Emergencia, el colateral se vuelve disponible inmediatamen
 Por ejemplo:
 
 > Si tienes un CDP con 1 ETH valorado en 300 USD, y una deuda de 100, se te dejará con 0.6666 ETH y sin deuda.
-> El valor neto del CDP se hace disponible para su reembolso, el cual es de 300 USD de valor de colateral, menos 100 USD de la deuda. 
+> El valor neto del CDP se hace disponible para su reembolso, el cual es de 300 USD de valor de colateral, menos 100 USD de la deuda.
 > Por lo tanto, podrás reclamar 0.6666 ETH después del periodo de retraso de 6 horas.
 
 ## ¿Hay algo que impida que los dueños de MKR activen un Apagado de Emergencia para evitar una dilución debido a una mala gestión?

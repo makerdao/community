@@ -41,11 +41,11 @@ Crear un meetup para la comunidad requiere bastante planificación y organizaci�
 
 #### Algunos pasos fundamentales en la organización de un evento:
 
-* Preparar una agenda claramente delineada para la reunión.
-* Crear un Presupuesto.
-* Asegurar una ubicación y hora para el evento.
-* Preparar un plan para promocionar su evento.
-* Prepara un plan para grabar y compartir las presentaciones del meetup.
+- Preparar una agenda claramente delineada para la reunión.
+- Crear un Presupuesto.
+- Asegurar una ubicación y hora para el evento.
+- Preparar un plan para promocionar su evento.
+- Prepara un plan para grabar y compartir las presentaciones del meetup.
 
 A continuación hemos preparado links de varias guías que elaboramos para ayudarte a planificar y organizar el evento.
 
@@ -78,15 +78,15 @@ Una vez tengas tu plan del meetup listo, oradores confirmados, el lugar de celeb
 
 **En la Fecha del Evento**
 
-* Envíe comunicados a todas las partes esenciales temprano en el día.
-* También es recomendable repetir los mensajes promocionales en todos tus canales el día del evento.
-* Lea el [Formulario de Comentarios](https://airtable.com/shrcvkjoLGtrVAqvB) de antemano para familiarizarse con los detalles a los que debe realizar seguimiento.
-* Juzgando por el contexto, llegar al lugar unas horas antes para preparar y probar todo siempre es algo recomendable. Recuerde reservar un tiempo aparte para asegurarse que los componentes técnicos \(micrófonos, proyectores, diapositivas, cámaras, livestream, etc.\) estén configurados y probados.
-* Si estás grabando el evento, configura la ubicación de la cámara y los detalles asociados con este proceso.
-* Por favor asegúrate de presentar el programa, los oradores y expresar las conclusiones clave que los participantes puedan esperar en el evento.
-* Sé acogedor e informativo.
-* Disfruta el evento, conoce gente y cree lazos con los intereses comunes que todos compartimos.
-* Al final, siempre es positivo y respetuoso mencionar y agradecer a los patrocinadores, organizadores, oradores y a los asistentes por hacer que el meetup sea un éxito.
+- Envíe comunicados a todas las partes esenciales temprano en el día.
+- También es recomendable repetir los mensajes promocionales en todos tus canales el día del evento.
+- Lea el [Formulario de Comentarios](https://airtable.com/shrcvkjoLGtrVAqvB) de antemano para familiarizarse con los detalles a los que debe realizar seguimiento.
+- Juzgando por el contexto, llegar al lugar unas horas antes para preparar y probar todo siempre es algo recomendable. Recuerde reservar un tiempo aparte para asegurarse que los componentes técnicos \(micrófonos, proyectores, diapositivas, cámaras, livestream, etc.\) estén configurados y probados.
+- Si estás grabando el evento, configura la ubicación de la cámara y los detalles asociados con este proceso.
+- Por favor asegúrate de presentar el programa, los oradores y expresar las conclusiones clave que los participantes puedan esperar en el evento.
+- Sé acogedor e informativo.
+- Disfruta el evento, conoce gente y cree lazos con los intereses comunes que todos compartimos.
+- Al final, siempre es positivo y respetuoso mencionar y agradecer a los patrocinadores, organizadores, oradores y a los asistentes por hacer que el meetup sea un éxito.
 
 ### **Proceso Post-Evento**
 
@@ -98,9 +98,9 @@ Como se mencionó en el punto \#3, es recomendable para los organizadores leer c
 
 ### **Recursos**
 
-* [Archivos de diseño](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
-* [Ejemplos de presentaciones](https://github.com/makerdao/awesome-makerdao#videos)
-* [Diapositivas utilizables y Decks de presentación](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
+- [Archivos de diseño](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
+- [Ejemplos de presentaciones](https://github.com/makerdao/awesome-makerdao#videos)
+- [Diapositivas utilizables y Decks de presentación](https://github.com/makerdao/community/tree/master/meetups/assets/slides)
 
 ### **Guía de Tipos de Formato**
 
@@ -108,37 +108,37 @@ Esta es una lista no exhaustiva de sugerencias para los diferentes tipos de comp
 
 1. **Académico** \(Educación / ligero\): Este formato se concentra en la promoción de ideas, debates, preguntas y respuestas, el panorama general, filosofía, y economías generales para nuestro proyecto. Los eventos necesitan tener un tema o tesis claros y formatos que lo respalden.
    1. _Presentaciones_
-      * Más apropiada para un orador, por ejemplo. Dé una presentación llamada “Ethereum, Comercio y el futuro de la Criptomonedas estables”.
+      - Más apropiada para un orador, por ejemplo. Dé una presentación llamada “Ethereum, Comercio y el futuro de la Criptomonedas estables”.
    2. _Debates, Paneles, Entrevistas o Charlas_
-      * Las presentaciones más adecuadas para más de un experto, pueden ir desde paneles formales hasta conversaciones más informales entre un grupo.
-      * Buenos para agregar color a presentaciones secas o muy técnicas.
-      * Encuentre ejemplos en Demos y sesiones prácticas a continuación.
+      - Las presentaciones más adecuadas para más de un experto, pueden ir desde paneles formales hasta conversaciones más informales entre un grupo.
+      - Buenos para agregar color a presentaciones secas o muy técnicas.
+      - Encuentre ejemplos en Demos y sesiones prácticas a continuación.
 2. **Desarrollo** \(Técnico\): Este formato se concentra en aplicaciones de negocios y/o implementación para casos de uso reales, por lo que puede ser de naturaleza más técnica. También puede concentrarse en el lado del software, y actuar más como un meetup de desarrolladores donde los aspectos más técnicos de MakerDAO pueden ser explorados.
    1. _Centrado en Desarrollo_
-      * Presentaciones
-        * Generales de implementación.
-      * Talleres
-        * Integraciones \(por ejemplo, demostrando el hack de Dai que has creado, probándolo y mejorándolo juntos\)
-        * Dai.js \(documentación de la librería [aquí](https://makerdao.com/documentation/)\)
-        * Cómo funcionan los smart contracts
+      - Presentaciones
+        - Generales de implementación.
+      - Talleres
+        - Integraciones \(por ejemplo, demostrando el hack de Dai que has creado, probándolo y mejorándolo juntos\)
+        - Dai.js \(documentación de la librería [aquí](https://makerdao.com/documentation/)\)
+        - Cómo funcionan los smart contracts
    2. _Centrado en Negocios_
-      * Presentaciones
-        * Integraciones \(por ejemplo, cómo solventamos nuestros problemas de la dapp con Dai; o Paralelni Polis: [nuestras estrategias usando solamente criptos](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/)\).
-        * Puede ser combinado con formatos sociales \(excelentes para trabajo en la red\) o Formato de Demo \(ayuda en la adopción y entendimiento\).
+      - Presentaciones
+        - Integraciones \(por ejemplo, cómo solventamos nuestros problemas de la dapp con Dai; o Paralelni Polis: [nuestras estrategias usando solamente criptos](https://paralelnapolis.sk/paralelna-polis-from-chicago-bitcoin-and-blockchain-meetup/)\).
+        - Puede ser combinado con formatos sociales \(excelentes para trabajo en la red\) o Formato de Demo \(ayuda en la adopción y entendimiento\).
 3. **Centrado en Sociales** \(sugerimos encarecidamente usar este formato en combinación con otros formatos\): Este formato se concentra en reunir a miembros de la comunidad con el propósito de trabajar en las redes y brindar un lugar para reunirse en persona. 1. _Dai Dappy Hour_ \_**\(debería combinarse con algún evento de aprendizaje\) — mira estas Dappy Hours pasadas \(**[**1**](https://www.eventbrite.com/e/makerdao-dappy-hour-sf-blockchain-week-tickets-50926733230#)**,**[**2**](https://medium.com/makerdao/going-to-devcon-see-the-maker-events-schedule-fa6b05664a2f)**,**[**3**](https://cryptocoingrowth.com/2018/12/10/swapping-dai-for-beer-at-makers-dappy-hour/)**\) y cómo ponerse en marcha \(contacta a** [**Mariano**](https://twitter.com/Mariandipietra)**\) 1.** Meetup de Fans de Maker \*\* — inspiración posible[ aquí ](https://www.meetup.com/EthereumSiliconValley/events/249307694/)— Juegos, Rifas, subastas en Dai\)
 4. **Demos y sesiones prácticas** \(excelentes para mercados emergentes\): Este formato se enfoca en educar a las personas sobre las maneras en que pueden utilizar Dai e interactuar con el sistema de MakerDAO. Este tipo de formato podría poner un énfasis especial en enseñar a las personas a cómo usar las herramientas web3 básicas como wallets, exchanges y dapps. Es recomendado hacerlo junto con otros formatos. 1. _Demos Complejas_
-   * Jugando con CDPs \([ejemplo](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd)\)
-   * Jugando con DeFi dapps \([lista](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai)\)
-   * Shorts y tokens apalancados \([dYdX](https://dydx.exchange/)\)
-   * Tasas de Interés \([Financiamiento compuesto](https://app.compound.finance/)\)
-   * Contabilidad y Liquidación \([Red de solicitudes](https://request.network/#/)\)
-   * [Dai.js](https://makerdao.com/documentation/)
+   - Jugando con CDPs \([ejemplo](https://medium.com/@deepitag/opening-a-cdp-with-the-new-makerdao-portal-c2f009b0f5fd)\)
+   - Jugando con DeFi dapps \([lista](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#playing-with-dai)\)
+   - Shorts y tokens apalancados \([dYdX](https://dydx.exchange/)\)
+   - Tasas de Interés \([Financiamiento compuesto](https://app.compound.finance/)\)
+   - Contabilidad y Liquidación \([Red de solicitudes](https://request.network/#/)\)
+   - [Dai.js](https://makerdao.com/documentation/)
      1. _Demos Simples_
-   * ¿Cómo lo obtengo? \(navegar [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai)\)
-   * ¿Qué puedo hacer con ello? \(reteniendo [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai), gastando [aquí](https://www.thebigcoin.io/pay-with-dai)\)
-   * ¿Por qué es bueno? \(el por qué respondido [aquí](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e), inspiraciones: [casos de uso](https://medium.com/makerdao/stablecoins-casos-de-uso-f4d59f21980c?source=---------12---------------------), donaciones de caridad [1](https://needslist.co/donate),[2](https://merrymerkle.africa/),[3](https://medium.com/alice-si/heres-what-happened-at-the-blockchain-for-good-workshop-at-devcon4-and-what-s-coming-next-f198dd84a4b9)\)
+   - ¿Cómo lo obtengo? \(navegar [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#trade-your-dai)\)
+   - ¿Qué puedo hacer con ello? \(reteniendo [aquí](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#hold-your-dai), gastando [aquí](https://www.thebigcoin.io/pay-with-dai)\)
+   - ¿Por qué es bueno? \(el por qué respondido [aquí](https://medium.com/makerdao/part-1-why-stablecoins-matter-3b273e1c529e), inspiraciones: [casos de uso](https://medium.com/makerdao/stablecoins-casos-de-uso-f4d59f21980c?source=---------12---------------------), donaciones de caridad [1](https://needslist.co/donate),[2](https://merrymerkle.africa/),[3](https://medium.com/alice-si/heres-what-happened-at-the-blockchain-for-good-workshop-at-devcon4-and-what-s-coming-next-f198dd84a4b9)\)
 5. **Otras Ideas** 1. Juegos 1. Rifas 1. Subastas en Dai
-   * Iniciativa de Donación Correspondiente
+   - Iniciativa de Donación Correspondiente
 
 ### **Guía de Promoción y Marketing**
 
@@ -146,47 +146,47 @@ Tan pronto como hayas elegido el lugar para el evento y asegurado la fecha, aseg
 
 Hay varios recursos de planificación para elegir:
 
-* [Meetup.com](https://www.meetup.com/) es un recurso fantástico para promover tu meetup.
-* [Eventos en Facebook](https://m.facebook.com/help/131325477007622/) también son un formato decente para organizar una página de un evento.
-* [Eventbrite.com](https://www.eventbrite.com/) tiene un sistema de tickets gratis que puedes usar para tu meetup.
-* [Kickback.events](https://kickback.events/) aborda el factor de no presentación en la organización de estos eventos. Este es un servicio que permite a los que asistan apostar una pequeña cantidad de cripto cuando se registran para un meetup. Esta cantidad es devuelta a ellos si atienden al evento.
+- [Meetup.com](https://www.meetup.com/) es un recurso fantástico para promover tu meetup.
+- [Eventos en Facebook](https://m.facebook.com/help/131325477007622/) también son un formato decente para organizar una página de un evento.
+- [Eventbrite.com](https://www.eventbrite.com/) tiene un sistema de tickets gratis que puedes usar para tu meetup.
+- [Kickback.events](https://kickback.events/) aborda el factor de no presentación en la organización de estos eventos. Este es un servicio que permite a los que asistan apostar una pequeña cantidad de cripto cuando se registran para un meetup. Esta cantidad es devuelta a ellos si atienden al evento.
 
 Redes Sociales Cripto-Amigables en las que posiblemente quieras promover:
 
-* [Peepeth](https://peepeth.com/): Piensa en ella como un twitter de blockchain.
-* [Telegram](https://telegram.org/): Muchas salas de chat de meetups de criptos públicas, encuentra la indicada para ti.
-* [Wechat](https://web.wechat.com/): Muchas salas de chat de meetup de criptos públicas, encuentra la indicada para ti.
-* [Facebook](https://www.facebook.com/): Compartir eventos con amigos es una poderosa herramienta para difundir conocimiento.
-* [Twitter](https://twitter.com/): Cripto twitter tiene un muy largo alcance
-* [Craigslist](https://www.craigslist.org/): Publicar en la sección de Grupos y Eventos de tu sitio de cragilist local puede atraer a más personas a tu evento.
+- [Peepeth](https://peepeth.com/): Piensa en ella como un twitter de blockchain.
+- [Telegram](https://telegram.org/): Muchas salas de chat de meetups de criptos públicas, encuentra la indicada para ti.
+- [Wechat](https://web.wechat.com/): Muchas salas de chat de meetup de criptos públicas, encuentra la indicada para ti.
+- [Facebook](https://www.facebook.com/): Compartir eventos con amigos es una poderosa herramienta para difundir conocimiento.
+- [Twitter](https://twitter.com/): Cripto twitter tiene un muy largo alcance
+- [Craigslist](https://www.craigslist.org/): Publicar en la sección de Grupos y Eventos de tu sitio de cragilist local puede atraer a más personas a tu evento.
 
 Lugares locales para promover tu evento:
 
-* Bibliotecas
-* Centros comunitarios
-* Campus de Universidades
-* Espacios de Trabajo
-* Cafeterías
+- Bibliotecas
+- Centros comunitarios
+- Campus de Universidades
+- Espacios de Trabajo
+- Cafeterías
 
 #### **Configurando la Página de tu Evento**
 
 Para que las personas estén informadas de tu evento, necesitas crear una página del evento. Una página del Evento tiene algunos elementos fundamentales.
 
 1. El nombre del Evento
-   * Puedes nombrar a tu evento como quieras. Un buen nombre puede capturar el tema, el tema principal o el espíritu general de la charla.
+   - Puedes nombrar a tu evento como quieras. Un buen nombre puede capturar el tema, el tema principal o el espíritu general de la charla.
 2. La fecha y ubicación
 3. Descripción
-   * Es un buen lugar para entrar en detalle sobre la propuesta para tu evento, la agenda, quien hablará, quienes son los patrocinadores, etc…
+   - Es un buen lugar para entrar en detalle sobre la propuesta para tu evento, la agenda, quien hablará, quienes son los patrocinadores, etc…
 4. Detalles adicionales \(así como “¿Cómo encontrarnos?”\)
-   * Esto va a variar dependiendo del evento. En pocas palabras, agregue cualquier información adicional única a su evento que un asistente potencial pueda encontrar útil.
+   - Esto va a variar dependiendo del evento. En pocas palabras, agregue cualquier información adicional única a su evento que un asistente potencial pueda encontrar útil.
 
 #### **Algunos Consejos**
 
-* Siempre actualice sus páginas del evento con cualquier cambio que pueda ocurrir.
-* Recomendamos que llegues a los participantes con recordatorios, actualizaciones o adelantos.
-* Además de la plataforma que estás usando para albergar la página principal del evento, recomendamos el uso generalizado de redes sociales para promover su evento y atraer a más participantes \(vea las redes sociales de MakerDAO arriba\) — no olvides enlazar el URL de la página principal de tu evento!
-* Incentivar a los miembros para que traigan a sus amigos. Repartir premios y crear competencias para que los participantes compartan en Facebook, Twitter, etc…
-* Colaborar con otros organizadores de Meetups y realizar eventos juntos. Los grupos deben complementarse.
+- Siempre actualice sus páginas del evento con cualquier cambio que pueda ocurrir.
+- Recomendamos que llegues a los participantes con recordatorios, actualizaciones o adelantos.
+- Además de la plataforma que estás usando para albergar la página principal del evento, recomendamos el uso generalizado de redes sociales para promover su evento y atraer a más participantes \(vea las redes sociales de MakerDAO arriba\) — no olvides enlazar el URL de la página principal de tu evento!
+- Incentivar a los miembros para que traigan a sus amigos. Repartir premios y crear competencias para que los participantes compartan en Facebook, Twitter, etc…
+- Colaborar con otros organizadores de Meetups y realizar eventos juntos. Los grupos deben complementarse.
 
 #### **Recursos Adicionales**
 
@@ -229,7 +229,7 @@ Llena y envía el [Formulario del meetup de la comunidad](https://airtable.com/s
 #### _Questions on the form:_
 
 1. Cual es tu Nombre ?
-2. Cual es tu Email ? 
+2. Cual es tu Email ?
 3. Cual es el nombre del Evento ?
 4. En que Ciudad y Pais lo harias ?
 5. Describí brevemente que tenés en mente para el evento
@@ -251,7 +251,7 @@ Llena y envía el [Formulario del meetup de la comunidad](https://airtable.com/s
 21. Tenés algún sponsor para la meetup?
 22. Cual seria tu honorario por el esfuerzo y la organización de la meetup ?
 23. Por favor, comparti links, videos, blog post o cualquier otro material relacionado con tu experiencia previa en meetups.
-24. Por favor manda tu request Network Invoice al siguiente Payer Address Payer Address: 
+24. Por favor manda tu request Network Invoice al siguiente Payer Address Payer Address:
 
 ## **Formulario de Comentarios**
 
@@ -293,4 +293,3 @@ Llena y envia [**Formulario de Feedback**](https://airtable.com/shrcvkjoLGtrVAqv
 #### Planes a futuro
 
 1. Consideras volver a hacer un Meetup en un futuro ?
-

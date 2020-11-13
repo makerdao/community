@@ -22,13 +22,13 @@ Este spell ejecutivo añadirá después los siguiente tipos de vault con los mis
 
 El objetivo de este ejecutivo es el viernes 11 de diciembre — la fecha aproximada en que la ventaja competitiva de las vaults alcanzará una Tasa de Colaterización del 100% sin que la acción se despliegue demasiado cerca de las vacaciones.
 
-El Grupo de Trabajo de Tasas presentará una encuesta de gobernanza el lunes 7 de diciembre de 2020 para confirmar que se sigue queriendo la ejecutiva en ese momento.  Este plan es susceptible de cancelarse o enmendarse en cualquier momento entre ahora y el 7 de diciembre de 2020 mediante una Solicitud de Opiniones y una Encuesta de Gobernanza.
+El Grupo de Trabajo de Tasas presentará una encuesta de gobernanza el lunes 7 de diciembre de 2020 para confirmar que se sigue queriendo la ejecutiva en ese momento. Este plan es susceptible de cancelarse o enmendarse en cualquier momento entre ahora y el 7 de diciembre de 2020 mediante una Solicitud de Opiniones y una Encuesta de Gobernanza.
 
 ## Pasos Siguientes
 
-Si esta encuesta termina con una mayoría de *Sí*, se llevará a cabo una encuesta de gobernanza adicional a partir del lunes 7 de diciembre de 2020 para reconfirmar esta acción en la vecindad de la fecha de implementación prevista.
+Si esta encuesta termina con una mayoría de _Sí_, se llevará a cabo una encuesta de gobernanza adicional a partir del lunes 7 de diciembre de 2020 para reconfirmar esta acción en la vecindad de la fecha de implementación prevista.
 
-Si esta encuesta termina una mayoría de *No*, se discutirán en el foro alternativas para lidiar con vaults de stablecoins.
+Si esta encuesta termina una mayoría de _No_, se discutirán en el foro alternativas para lidiar con vaults de stablecoins.
 
 ---
 

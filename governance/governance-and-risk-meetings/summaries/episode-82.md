@@ -59,10 +59,12 @@
 
 ![](https://i.imgur.com/CZRUorP.png)
 
-![](https://i.imgur.com/kpnHQbh.png) 
+![](https://i.imgur.com/kpnHQbh.png)
+
 - **green words represents terms in the system**
 
 ![](https://i.imgur.com/XZRLM0v.png)
+
 - **Red words represent alternative nomenclature not used in the code, can be found in literature like [Pymaker](https://github.com/makerdao/pymaker)**
 - `Awe` always has a non-zero balance.
 - System surplus/deficit aren't precise terms, as the total credit of the system may either be positive (surplus) or negative (deficit) when you subtracted the `Awe` from the `joy`.
@@ -84,14 +86,17 @@
 ![](https://i.imgur.com/xQAARKl.png)
 
 ![](https://i.imgur.com/8Y1rB6z.png)
+
 - In `heal`, debt is healed by canceling out `woe` with `joy.`
 
 ![](https://i.imgur.com/CONKo4K.png)
 
 ![](https://i.imgur.com/vnK4y2C.png)
+
 - In `kiss`, debt is healed by canceling out `Ash` instead of `woe`.
 
 ![](https://i.imgur.com/6H7Kkau.png)
+
 - If we are close to a debt auction, we can use `kiss` as demonstrated below:
 
 ![](https://i.imgur.com/sRwmsEM.png)
@@ -99,31 +104,38 @@
 ![](https://i.imgur.com/C15MHik.png)
 
 ![](https://i.imgur.com/aQnyby1.png)
+
 - Here, we cancel out the `Ash` with the `joy`.
 
 ![](https://i.imgur.com/s51MICF.png)
+
 - This leaves us with no `Ash`, no `joy`, no surplus. We can proceed to a flop auction.
-  
+
 ![](https://i.imgur.com/Ukl7pdx.png)
+
 - `Heal` takes `woe` and gets rid of it. That means there isn't enough `woe` to initiate the flop auction.
 
 ![](https://i.imgur.com/T7AAgm2.png)
+
 - The system should have been able to flop because the system was in a state where it should have a debt auction to cancel out the `woe`. Instead, the heal function was called, the `woe` was healed, and we could not have another flop auction.
 
 ![](https://i.imgur.com/sLq8wET.png)
-- Once you miss the flop auction, you cannot restart it without some sort of intervention. 
+
+- Once you miss the flop auction, you cannot restart it without some sort of intervention.
 
 ![](https://i.imgur.com/1ENd4ic.png)
 
 ![](https://i.imgur.com/73n5utW.png)
 
 ![](https://i.imgur.com/fLr6G7n.png)
+
 - We've processed through the whole `sin` queue, so there aren't more flop auctions that are expected in the future. This means that the debt is stuck as `ash`.
 
 ![](https://i.imgur.com/V7O3c3f.png)
 
 ![](https://i.imgur.com/ksig4ui.png)
-- This keeper update requires compliance, which is difficult in a blockchain world. This will make things better, but it isn't a complete solution. 
+
+- This keeper update requires compliance, which is difficult in a blockchain world. This will make things better, but it isn't a complete solution.
 
 ![](https://i.imgur.com/7rEz0PG.png)
 
@@ -152,7 +164,7 @@
 
 [38:08](https://youtu.be/erh25lnaIo0?t=2288)
 
-- I imagine most of you are aware of these threads. Vault holders are demanding/expecting compensation due to the auction and some extent the oracle system not working as intended. If anyone has thoughts on this, feel free to jump in. The context is: Vault owners were liquidated due to $0 bid auctions. Also, the on-chain oracle wasn't updating in a timely matter. There are a lot of points on the other side saying we shouldn't compensate people and summarizing all sides is difficult.
+- I imagine most of you are aware of these threads. Vault holders are demanding/expecting compensation due to the auction and some extent the oracle system not working as intended. If anyone has thoughts on this, feel free to jump in. The context is: Vault owners were liquidated due to \$0 bid auctions. Also, the on-chain oracle wasn't updating in a timely matter. There are a lot of points on the other side saying we shouldn't compensate people and summarizing all sides is difficult.
 - One point is that Oasis Borrow defines a liquidation penalty at 13%. Most vault holders believed that this was the max penalty on top of their debt. That is not correct, but potentially this is a UI messaging failure.
 - There is also the PR/optics for compensation to consider. Again, points to be made on both sides, namely the code is on the chain and auditable. The issue is if we compensate users now, do we set an expectation that we'll do the same in the future?
   - Mitote: There is a [signaling thread](https://forum.makerdao.com/t/signal-thread-do-we-compensate-vault-holders-that-were-completely-liquidated/1713) also posted by Joshua.
@@ -161,11 +173,11 @@
   - Mitote: An obvious main point to clarify is liquidations and uncertainty. Especially if there is more risk of losing your collateral. There is no algorithm for compensating vault holders.
   - Rich; That's an interesting discussion to start with. Easier than philosophy. Hasn't there been some numbers discussion in the forums?
   - Mitote: MakerMan has brought up numbers.
-  - MM: You can look at where people liquidate, someone posted the math. 66% +13% hits, and you get no more than 21% back (including the liquidation penalty). I take a business focus; at most, you get 10.5% back. I've refrained from posting this, but you can look at zero bid auctions as the most significant issue. Someone else posted a different scenario, but I split them into classes. $0 bids and then everything else.
-  - If I rough the numbers out as a total, 69K ETH was lost, so 10% of that is 6900 ETH split again by whomever and however. Max exposure makes sense. Vault #2288 flipped half of his ETH; 2500 at $75. You can see a fair amount of sophisticated activity to redeem this loss. If the auctions were functioning faster, you wouldn't have found that great a bid price, ETH was congested, and Dai peg was off, it would have even been harder. Based on the current system structure, the idea that you get 13% and you get your collateral auctioned off at your liquidation price is unreasonable. Only tit-for-tat would have that kind of "good" pricing.
+  - MM: You can look at where people liquidate, someone posted the math. 66% +13% hits, and you get no more than 21% back (including the liquidation penalty). I take a business focus; at most, you get 10.5% back. I've refrained from posting this, but you can look at zero bid auctions as the most significant issue. Someone else posted a different scenario, but I split them into classes. \$0 bids and then everything else.
+  - If I rough the numbers out as a total, 69K ETH was lost, so 10% of that is 6900 ETH split again by whomever and however. Max exposure makes sense. Vault #2288 flipped half of his ETH; 2500 at \$75. You can see a fair amount of sophisticated activity to redeem this loss. If the auctions were functioning faster, you wouldn't have found that great a bid price, ETH was congested, and Dai peg was off, it would have even been harder. Based on the current system structure, the idea that you get 13% and you get your collateral auctioned off at your liquidation price is unreasonable. Only tit-for-tat would have that kind of "good" pricing.
   - There are two reasons, and I try to look at the whole community, advocating for vault and Dai holders. From their perspective:
     - Vault owners didn't understand the full nature of the risk(s).
-    - They didn't expect to be liquidated at $0 bid. Which is the real crux?
+    - They didn't expect to be liquidated at \$0 bid. Which is the real crux?
   - Those issues (alongside some venting and opinion surfacing) is why I put the threads up, especially the compensation thread. We're getting a decent amount of drive by's, unfortunately. I thought of these threads as a cathartic mechanism for the entire system to come in and digest together.
 
 [49:49](https://youtu.be/erh25lnaIo0?t=2989)
@@ -174,11 +186,12 @@
   - LFW: There isn't a strict dichotomy. Considering the 0 bid auctions as a separate class from the other auctions might not be the best idea. Other vaults got un-favored pricing, even though it wasn't strictly a 0-bid.
   - MM; If auctions go at 60-70%, the protocol eats a lot of the loss. The deal here is auctions hitting way below wipes people out, and Maker eats the rest. That's why I think digesting it is so hard. In terms of the way the system functions, if the bids are 80 or 70% of your liquidation value back. They already got 2/3 their ETH value for liquidating them.
   - LFW: I think communication about penalties is worth examining. Is that our responsibility? or should users have to research liquidations and understand that?
-  - MM: On the protocol perspective, the onus is on them. They should have researched that. I've seen auctions go in the real world, and things hit at 1-3% of actual resale value. Talking about distressed assets? "pft" we don't even have liquidity in there. Liquidity is a truth no one is facing.  Those liquidity mechanisms can be improved, but they were given a loan and had that money in hand. If they lose that ETH and have Dai on hand and they can't pay it back, well, that's how the system works.
+  - MM: On the protocol perspective, the onus is on them. They should have researched that. I've seen auctions go in the real world, and things hit at 1-3% of actual resale value. Talking about distressed assets? "pft" we don't even have liquidity in there. Liquidity is a truth no one is facing. Those liquidity mechanisms can be improved, but they were given a loan and had that money in hand. If they lose that ETH and have Dai on hand and they can't pay it back, well, that's how the system works.
   - Mitote: The issue is that the interfaces didn't address it. All the information is available, but without explicit pointing to the risk(s) is the point.
   - MM: How do you include the information like that for every interface? In crypto, it's like every investment. "Don't put more in than you can lose." Nothing is guaranteed, particularly in the last market drop. I wanted people to blow off steam on the 0 bid auctions, which I felt needed a proposal to remedy. Even if the proposal was something like; If the OSM price and the live price is like 20% off, Maker should just ride the collateral through. Screw the auction. If you have an 80% price dislocation, you might as well auction MKR and print money, no point to pad it with an auction.
 
 [56:28](https://youtu.be/erh25lnaIo0?t=3388)
+
 - LFW: Two points struck me. One is that people lost all their Dai, but they leveraged up, and no one forced their hands to do that.
   - MM: Correct.
   - Rich: While you dig up the second point, we heard from one side of the aisle, are there other contrary opinions, anyone affected by the situation want to share opinions?
@@ -189,11 +202,11 @@
   - LFW: I don't think that's hard to do; it's impossible to take responsibility for even half of them. We can't be responsible for some amount of teams building UI's.
   - MM: The normal system is a banking system that has laws and rules about who can make loans. What the rules are for liquidations is what we're missing, it throws the onus on Governance and the system therein to be clear about the system and the hazards thereof. I don't know how to communicate this to people: "you are responsible for your own money." Systems and laws exist outside to protect people, do we want to get to the point where regulators come after the protocol based on their assumptions. E.g., informing people of the real risks and hazards. It sucks that we had to go through this as an example.
   - LFW: It would be nice to hear from the compensation side. In the sidebar, one point is "the personal responsibility is not directly important, the goal is giving users the confidence to use the system in the future. Especially for those who got burned."
-  - Mitote; We don't want to give confidence when we aren't confident. 
+  - Mitote; We don't want to give confidence when we aren't confident.
   - LFW: That's where I have an issue too. If we compensate now, then we're setting up expectations for the future. If confidence comes as a result of being compensated in a situation like this, it's not sustainable.
   - Mitote: Since we communicated in a way that presented confidence when we shouldn't have, maybe we compensate users this time. Moving forward, we can be a lot more clear in our communications, so future compensation under a similar scenario is not warranted.
   - MM: We could always provide our own insurance. Buffer the surplus in advance. Setting the system to be more robust. Sacrificing the PR on 0 option bids is a tougher call.
-  - MM: If that ETH had all liquidated at a fair price, I don't think there would have been enough Dai to soak it up. Like $75 in the crash, I don't know if that would have even cleared. I still think it would have been below the 75% threshold the way the market moved. While I have a PR sympathy, to appease people at whatever number it is: 6K ETH and divide it up. Pick a number 10% or something; right now, we have these holes that make it difficult.
+  - MM: If that ETH had all liquidated at a fair price, I don't think there would have been enough Dai to soak it up. Like \$75 in the crash, I don't know if that would have even cleared. I still think it would have been below the 75% threshold the way the market moved. While I have a PR sympathy, to appease people at whatever number it is: 6K ETH and divide it up. Pick a number 10% or something; right now, we have these holes that make it difficult.
   - LFW: Insurance is an interesting idea for later. Coming back to effective communications. We need to be clear about what do we mean by "we." Is it because Oasis UI wasn't clear is that why we compensate? Some set of users used DeFi saver.
   - MM: I think our documentation should include a significant disclaimer about the hazards and risks.
   - LFW: Core maker sites have that, and yes, I agree.
@@ -216,8 +229,8 @@
   - Charlie: The number is assuming they bid the fair market price.
   - MM: The number assumes they got the liquidation price. That's the assumption of the liquidation price for the money priced at auction.
   - LFW: This is the thing about including keeper data in the numbers. They need to make a profit so they would pay a little less.
-  - Kurt: let me add color on calculating that number: at liquidation, the value of your ether is 150% the value of your debt. There is a 13% liquidation penalty. The debt bumps from there. 
-  - Let's use numbers: $100 Dai on $150 ETH debt needs to raise $113. In the auction, there is a technical detail where the price can only change 3% each time. Expecting keepers to bid rationally falls within a range of where bidding stops for keeper profitability. Adding that in, (150-116) / 150 gets to that 21% figure.
+  - Kurt: let me add color on calculating that number: at liquidation, the value of your ether is 150% the value of your debt. There is a 13% liquidation penalty. The debt bumps from there.
+  - Let's use numbers: $100 Dai on $150 ETH debt needs to raise \$113. In the auction, there is a technical detail where the price can only change 3% each time. Expecting keepers to bid rationally falls within a range of where bidding stops for keeper profitability. Adding that in, (150-116) / 150 gets to that 21% figure.
   - MM: That's about right.
   - LFW: This is helpful to give us a general overview that needs a big old spreadsheet. All the liquidated vaults, all the prices they got hit at, and the price range that would have happened optimally. Pulling the data from the chain with scripts. To make a fair decision.
 
@@ -230,7 +243,7 @@
   - Charlie: I have a couple of suggestions; data first party on the 0 liquidated vaults. Data on a range of scenarios based on what holders could have been anticipating receiving had they not been liquidated at zero. The chat has surfaced some of the factors. We know the upper band, we could apply a constant modifier to it(or with the data, we could get more sophisticated.) At that point, we'd have hard data on, in a range of scenarios, what they expected to receive. From there we have two mechanisms do we remedy this
     - One is diverting SF's to it.
     - Minting new MKR through flop auctions.
-  - Charlie: I'm not suggesting we should compensate them, but just establishing how to look at it. Regardless of knowing the risks, Something went idiosyncratically wrong. Optically this isn't fantastic. It makes it a lot easier to have any conversation without the information displayed. Ultimately if it's $1 Million, or something, that's not that much money to compensate people.
+  - Charlie: I'm not suggesting we should compensate them, but just establishing how to look at it. Regardless of knowing the risks, Something went idiosyncratically wrong. Optically this isn't fantastic. It makes it a lot easier to have any conversation without the information displayed. Ultimately if it's \$1 Million, or something, that's not that much money to compensate people.
   - LFW: The philosophical examination is: the DAO should have consistent decision making. Anytime we make a decision, it sets a precedent. In the future, if we want to make a decision, we need to think about how/why that might be different in the future. While they seem less important than optics, we must consider the reasons why.
 
 [1:17:56](https://youtu.be/erh25lnaIo0?t=4676)
@@ -261,7 +274,7 @@
   - MM: When you borrow Dai, have a chart with the 90/80/60--->10 % on your collateral price. If someone sees that 75% mark and 0 collateral, how could you complain about the liquidation price visible? Asking "what do I get if it's below 20" that seems ridiculous to me. Even TOC that says: "do you understand these risks" then get Dai.
   - LFW: We could make an API that populates that info into anyone who builds a UI.
   - WR: I think the way it provides extra information to take on the risk. The way Vishesh does with the distribution of collateralization ratios. It makes the risk appetite clear. Understanding that risk is key, if you don't get it, you probably shouldn't be in the space. Risk rather than greed should be the measure.
-  - MM: I posited to Vishesh that now that we have the chart that you are talking about, I want those 90, 80, 60-50, 20, I want to those as lines on a running a chart so that you have a chart of risk appetite vs. the snapshot that gives us every once in a while or that we can look at. We need a graph of this risk appetite. What I'm seeing is, when the markets settle down, you can tell me what you see, but I've seen that the system goes back to this 10 percent down, and we lose 10 percent of our collateral. 50% down, and it's 50% of our collateral. Only when the markets have taken a hit does that start to skew, but then over time, it starts to normalize. It's almost like a risk-collateral optimization game that our people are plying. And it looks like we kind of land in similar areas.  Right now, we go down 50%; we lose just about 50% of our collateral. I found it interesting to observe over time that it looks like the risk appetite kind of change, but it looks like a market event not necessarily because of the risk appetite changes. And what the risk ratios do over time is important, and we need to see them as data for science.
+  - MM: I posited to Vishesh that now that we have the chart that you are talking about, I want those 90, 80, 60-50, 20, I want to those as lines on a running a chart so that you have a chart of risk appetite vs. the snapshot that gives us every once in a while or that we can look at. We need a graph of this risk appetite. What I'm seeing is, when the markets settle down, you can tell me what you see, but I've seen that the system goes back to this 10 percent down, and we lose 10 percent of our collateral. 50% down, and it's 50% of our collateral. Only when the markets have taken a hit does that start to skew, but then over time, it starts to normalize. It's almost like a risk-collateral optimization game that our people are plying. And it looks like we kind of land in similar areas. Right now, we go down 50%; we lose just about 50% of our collateral. I found it interesting to observe over time that it looks like the risk appetite kind of change, but it looks like a market event not necessarily because of the risk appetite changes. And what the risk ratios do over time is important, and we need to see them as data for science.
   - WR: I've observed similar dynamics around that, and it was counterintuitive from a risk perspective. I could not understand it from the human aspect of greediness going into that.
     - Mitote: Cyrus has also pointed out that qualitative models are really important aspects of risk analysis will be important for future model making and understanding of risk and collateral. It's more complicated than just what price and how much collateral incurs losses. But I do think that this is a good place to start.
 
