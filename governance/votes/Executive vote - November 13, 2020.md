@@ -33,7 +33,7 @@ Please review the following forum threads containing information about GUSD (Gem
 
 Therefore, if this Executive proposal passes the following will occur:
 - The GUSD-A vault type will be added using GUSD as collateral with the parameters listed above.
-- The Global line parameter will decrease from 1,463,750,000 DAI to 1,468,750,000 DAI due to the addition of GUSD-A.
+- The Global line parameter will increase from 1,463,750,000 DAI to 1,468,750,000 DAI due to the addition of GUSD-A.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
