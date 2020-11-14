@@ -1,0 +1,101 @@
+---
+title: Navigation
+order: 1
+hideLanguageSelector: true
+---
+
+# Navigation Automagic
+
+While there are many great gatsby-starters out there for documentation, we decided
+to build our own from scratch because we needed to satisfy a number of requirements
+unique to decentralized projects, which include: handling multiple languages easily and
+making it as easy as possible for content contributors to write and adapt the site
+as they see fit without requiring them to learn React.
+
+Our philosophy is **"content creators write the website"**, which means that we
+have put a lot of thought and effort into how navigation, translations and 404 pages work
+and how non-developers can control all these things using nothing more than mdx.
+
+## The Sidenav
+
+Each top level section (Funding, Learn, Contribute) has it's own directory displayed
+in the form of a vertical [sidenav](https://github.com/makerdao/community-portal/tree/r2d/src/modules/navigation).
+This sidenav has very specific features:
+
+1. Auto-magically generated links based on existing file structure of top level section
+2. Recursively intelligent
+3. Support for multiple languages
+4. Default locale ("en") fills in the gaps for missing pages when on a different locale page
+
+To do this, we leverage Gatsby's file-source querying with a graphql regex filter to get every
+single page in the entire content folder (this sounds expensive, but it's only run once
+in the form of a static query during build time). We then pull in the edges and convert
+that data into something usable in the form of a sidenav.
+
+<CTA>
+
+
+**We get**: uglified data in one array.
+
+**We need**: an array of objects that can contain recursive layer of children  
+(i.e. the sidenav needs to look exactly like the file structure).
+
+</CTA>
+
+
+We used parts of the [hasura/gastsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter)
+as a reference for how to logically put this together.
+
+To keep it short, there's a file called `Sidenav_Tree` that exports a method that
+converts the MDX edge data into {title, slug, rawSlug} (rawSlug being the file path without it's locale)
+and only returns elements for the locale specified and our currentTopSection (Learn, Contribute, Funding, etc.).
+We convert this into sidenav objects for our default locale and our current locale
+(if our current locale is the same as the default we don't make objects for it).
+Then we merge overlap the locale files over the default locale files.
+
+After we've gotten our `mergedLocaleFiles` we reduce all them using some of the sidenav example
+from the hasura starter to generate an object `items` that contain more items
+(tl;dr: our sidenav in object/array form).
+
+Our Tree component then takes that data, and renders our `Sidenav_Node` component by mapping
+through all of the elements.
+
+**Importantly**, content creators can specify an `order` in the frontmatter of their files which
+is taken into account by the algorithm in `Sidenav_Tree` and will determine the order in which links
+to different pages appear in the sidenav (otherwise this would happen alphabetically, which is not
+ideal). The "order" number can range from -infinity -> infinity, and pages will be ordered
+relative to their siblings based on these simple rules:
+
+1. If order exists in a file it will always be above files without order.
+2. The lower the order number, the higher it is in the list. 0 -> 10 is Top -> Bottom
+3. If relative files have the same order (ie. human error) then they will be sorted alphabetically of their Title.
+4. Files without order are sorted in alphabetical order of their title (Title rule applies, localeCompare is used for non english characters).
+
+## Breadcrumbs
+
+Breadcrumbs are very simple. They are aware of their location in the app, run a query to get all the MDX,
+and then breaks down the data blob based on our current route to produce an array of objects to be rendered.
+
+You would think that we could just utilize the route/uri and convert those, however this solution doesn't
+cover every edge case. Based on our specs, the expectation is that the Breadcrumb labels will match the
+title (keeping to the Title Rule). So we HAVE to pull down their path, frontmatter, and headings to generate
+the title and url for the label.
+
+It will look something like this:
+**Home / Learn / Bounties / ... / ... / ... / ... / Page we're on**
+
+Note: If we're more than 3 levels deep in directories then our specs showed that we need to display
+ellipsis in place of their full title. They are still clickable links though.
+
+## 404s
+
+Following the philosophy of "content creators write the website" means we should allow them to
+write 404 pages as well. Yes, from a developer standpoint this sounds outlandish, but because our
+content (specifically our translations) are all encapsulated in the content folder it should stay that way
+(instead of having translators bounce into code to fix the 404 page).
+
+The solution is to have one 404.js page live in the `src/pages` directory, which performs a static query to
+pull down all `404.mdx` pages at the top level of a locale folder, i.e. **content/locale(en)/404.mdx**.
+Similarly to `header.mdx` files we then render the body of the current locale mdx content.
+
+If no 404 exists for the current locale we default to en. If no en 404 exists, we use an inline developer 404 page.

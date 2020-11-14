@@ -23,7 +23,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 Details on how the **Dai Savings Rate Spread** parameter was introduced and its impact on the **Dai Savings Rate** parameter can be found in the following [threads](https://forum.makerdao.com/tag/dsr-spread) on the MakerDAO forum.
 
-This biweekly Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance)) will be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE, the results of which may inform an Executive Vote which will go live on $execdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 
@@ -39,10 +39,10 @@ If the Friday executive passes, then this rate change will become active in the 
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voter onboarding guide](https://community-development.makerdao.com/onboarding/voter-onboarding) to learn how to use this dashboard and set up your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
-Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework)
+Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

@@ -1,0 +1,71 @@
+---
+order: 1
+hideLanguageSelector: true
+---
+
+# Cheat Sheet
+
+## Overview of all components
+
+| Component       | Syntax                    | Markdown Equivalent       | Props                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------- | ------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Link            | `<Link />`                | `[Text](https://link)`    | `to`: the URL <br />`icon`: an icon from DAI-ui <br />                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Button          | `<Button />`              | None                      | `to`: the URL <br /> `variant`: A property from dai-ui <br /> `secondary`: use secondary styles <br /> `outline`: use outline styles. **Can be combined with secondary** <br /> `disabled`: Disable button interaction <br /> `inline`: Force the button to be 'display: inline-block' **block by default** <br /> `sx`: SX style props                                                                                                                                                           |
+| Inline Code     | \`\`\`js:title=example.js | \`\`\`                    | Just remember that you can add titles and language highlighting!                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| CTA             | `<CTA />`                 | `>`                       | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Callout         | `<Callout />`             | None                      | `secondary`: use secondary styles, **defaults to primary** <br /> `icon`: specify the icon to appear with text                                                                                                                                                                                                                                                                                                                                                                                    |
+| Status Banner   | `<StatusBanner />`        | None                      | `warning`: orange <br /> `error`: red <br /> `notice`: yellow <br /> `color`: custom color i.e. #fff000 or "red" <br /> `sticky`: make the element use it's sticky version                                                                                                                                                                                                                                                                                                                        |
+| Image           | `<Image />`               | `![Alt text](image link)` | None - use Aligner for styling                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Aligner         | `<Aligner />`             | None                      | `center`: Center the image on the X and Y <br /> `right`: Align the image to the right <br /> `bottom`: Align the image to the bottom <br /> `yCenter`: Center the image on the Y axis <br /> `xCenter`: Center the image on the X axis                                                                                                                                                                                                                                                           |
+| Inline Video    | \`youtube: mzDVaKRApcg\`  | None                      | Supports YouTube (as shown), Vimeo, videoPress.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Playlist Video  | `<Video />`               | None                      | `src`: expects an **iframe embed url** beginning with **videoseries?list=** <br /> `title`: provide an accessibility title for your iframe. Defaults to "Inline Iframe Video".                                                                                                                                                                                                                                                                                                                    |
+| Checklist       | `<Checklist />`           | None                      | No props - just follow the Child Rule and you can put anything in here!                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| List            | `<List />`                | `-` or `*`                | No props                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Accordion       | `<Accordion />`           | None                      | `openIcon`: defaults to `+`, can be anything from DAI-ui though <br /> `closeIcon`: defaults to `-` <br /> `defaultOpen`: control whether the menu is open, or closed (default)                                                                                                                                                                                                                                                                                                                   |
+| Process Stepper | `<Process />`             | None                      | No props                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Column          | `<Column />`              | None                      | No props                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Box             | `<Box />`                 | None                      | No props, but this is how we bundle together lots of children (i.e. new lines in mdx) and pass them as one thing to React components. Works like a `<div>` in html. See [here](https://theme-ui.com/components/box) for more info and uses.                                                                                                                                                                                                                                                       |
+| Chocolate Box   | `<Chocolate />`           | None                      | `iconSize`: applied by default if the first child of Chocolate "Box" is an Icon (52px default) <br /> `minBoxSize`: Minimum Size of each grid cell (for responsiveness) (100px default) <br /> `gapSize`: Size of graps between grid cells (58px default)                                                                                                                                                                                                                                         |
+| Tout            | `<Tout />`                | None                      | `alt`: applies yellow alt color <br /> `color`: specify custom css colors/hex codes for the background. If a custom color prop is provided the copy will change to check against HexLuminance rules. <br /> `stroke`: removes background and applies a colored border of (default, alt, or color) <br /> `fade`: fades the background from the specified color (or default/alt variants) to transparent. <br /> `image`: applies 1 of 2 static images depending on the existance of the alt prop. |
+| InfoBlock       | `<InfoBlock />`           | None                      | No props, but three kinds. <br /> 1. Image on left (put `<Image />` as first child) <br /> 2. Image on right (put `<Image />` as last child) <br /> 3. No image priority (`<Image />` neither first nor last).                                                                                                                                                                                                                                                                                    |
+
+## Using the "sx" property
+
+[Theme UI](https://theme-ui.com/home) is a library which allows us to do enormously cool things,
+like building a fully themed design system for an open source, decentralized community of makers. Enter
+[DAI-UI](https://design-system.mkr-js-prod.now.sh/). Built on top of Theme UI, DAI-UI provides us with predefined spacings, fontsizes, colors, icons, and much, much more.
+Moreover, we can be sure that all our colours, icons, spacing, headers and whatever other styles we wish to use are all the same
+not just on this website, but across **every single community project**! It's really mind-blowing when you get to grips with it.
+
+You, as the content creator, have **complete control** over how the content appears, and you need never ask a developer to insert some fancy UI element for you. It's all within you power...
+
+You can provide any css style you want in the `sx` prop. It's best to consult the docs above - especially the "Recipes" files of DAI-UI - to get a sense of the great variety on offer. Here, we'll just explain the preset sizing and spaces like the `4` we've used
+above and what they mean, so that you can use the correct preset in the correct place and we can achieve uniformity across our entire
+ecosystem.
+
+> Note that `sx` props must use camelCase, which means first letter lower case, any other word uppercase and no spacing.
+> So the css property font-size becomes fontSize, or background-image becomes backgroundImage when being passed as a prop to
+> any React component. To find more details on object styling, please see the [Theme UI docs](https://theme-ui.com/guides/object-styles/).
+
+<Box sx={{backgroundColor: 'notice', padding: 3, marginBottom: 4}}>
+
+
+The `fontSize` and `Spacing` are given below in **px**. `fontSize` can be used for any text element, including headings, and
+`spacing` gets applied both when specifying margins or padding.
+
+</Box>
+
+
+| Preset | fontSize | Spacing |
+| ------ | -------- | ------- |
+| 1      | 10       | 0       |
+| 2      | 12       | 4       |
+| 3      | 14       | 8       |
+| 4      | 16       | 16      |
+| 5      | 18       | 32      |
+| 6      | 20       | 64      |
+| 7      | 24       | 128     |
+| 8      | 32       | 256     |
+| 9      | 48       | 512     |
+| 10     | 64       | -       |
+| 11     | 96       | -       |

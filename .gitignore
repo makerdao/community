@@ -1,0 +1,9 @@
+public
+.cache
+node_modules
+*.DS_Store
+*DS_Store
+*.env
+*.swp
+yarn-error.log
+package-lock.json

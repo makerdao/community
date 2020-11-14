@@ -1,0 +1,215 @@
+---
+title: Translations
+order: 3
+hideLanguageSelector: true
+---
+
+# Translations and the UI
+
+Translations can present a challenge. But not if you're our lead developer. Our philosophy is that
+"content creators write the website", so the `content` folder therefore decides how the site is rendered,
+including translated content. However, this is an issue when translating inline UI elements that we won't
+provide in MDX (like the Search bar). This means there's a break in how we can translate copy like "Search"
+and "No results" into the current locale...
+
+## Why Not i18n or another library?
+
+i18n is a Javascript API that allows developers an easy and "lightweight" (<- we'll get to that) way of translating
+textual content for a node based application. It's been great, but the reason we decided NOT to use it for this
+project is because it would couple translated content with our code. This is a big no-no, as it goes against our WYSIWYG
+philosophy for the content folder and means that content creators would have to translate text in 2 different places.
+
+Add to this the fact that the i18n package for gatsby, and other frameworks, has a tendency to be larger than necessary.
+We believe that keeping things simple will be a positive for the scale of our application. Therefore, we present:
+
+## useTranslation aka MaximumLang
+
+useTranslation is a hook developed by Réjon Taylor-Foster with inspiration from and reference to
+[this blog](https://w11i.me/how-to-build-multilingual-website-in-next-js). It is capable of being initialized
+inside a functional components and exports the current site's locale, and a `t` function.
+
+### How to translate in code
+
+If your `en/UI.json` looks like this:
+
+```json:title=en/UI.json
+{
+  "UI": {
+    "Language": "English",
+    "Search": "Search",
+    "No_Results": "No results for '{{searchText}}'",
+    "Home": "Home"
+  }
+}
+```
+
+you can have it translated and render the word "Search" by writing the following:
+
+```js:title=component-example.js
+import useTranslation from "@modules/localization/useTranslation";
+
+const ComponentExample = () => {
+  const { locale, t } = useTranslation();
+
+  return <p>{t("Search")}</p>;
+};
+```
+
+### LangSpaces
+
+We can extend the capabilities of this simple `t` function with what we call LangSpaces (Language Space):
+
+```json:title=en/UI.json
+{
+  "UI": {
+    "Language": "English",
+    "Search": "Search",
+    "No_Results": "No results for '{{searchText}}'",
+    "Home": "Home",
+    "Errors": {
+      "error_a": "This is an error inside of a langspace called Errors"
+    }
+  }
+}
+```
+
+you can have it translate and render "error_a" by writing the following:
+
+```js:title=component-langspace-example.js
+import useTranslation from "@modules/localization/useTranslation";
+
+const ComponentExample = () => {
+  const { locale, t } = useTranslation();
+
+  return <p>{t("error_a", "Errors")}</p>;
+};
+```
+
+For the sake of quality of life it's possible to pass in a default lang space for your current translation as well:
+
+```js:title=component-langspace-default-example.js
+import useTranslation from "@modules/localization/useTranslation";
+
+const ComponentExample = () => {
+  const { locale, t } = useTranslation("Errors"); //<- Notice
+
+  return (
+    <p>{t("error_a")}</p> //<- Notice
+  );
+};
+```
+
+### Variables and Plurals
+
+You want the variable of counter included and with plurals? No problem, anything inside `{{}}` will be replaced when rendered:
+
+```json:title=en/UI.json
+{
+  "UI": {
+    "Friend": "A Friend",
+    "Friend_plural": "{{count}} Friends",
+    "VariableExample": "My name is {{name}}"
+  }
+}
+```
+
+```js:title=variable-component-example.js
+import useTranslation from '@modules/localization/useTranslation'
+
+const ComponentExample = () => {
+   const {locale, t} = useTranslation();
+
+  return (
+       <p>{t("Friend", null, {count: 0})}</p> //0 Friends
+       <p>{t("Friend", null, {count: 1})}</p> //Friend
+       <p>{t("Friend", null, {count: 2})}</p> //2 Friends, ect.
+       <p>{t("VariableExample", null, {name: "Réjon"})}</p> // My name is Réjon
+   )
+}
+```
+
+### Advanced Plurals
+
+Because different locales can have multiple plurals, and different ways of counting (ie. Arabic),
+we have a system in place to handle counting differently if the strict variable is added to the `t` function like so:
+`t('Friend', null, {count: 1, strict: true})`.
+
+Your json will look like:
+NOTE: `Friend` and `Friend_plural` are still valid, but will be overriden when strict is provided to the variables argument.
+
+```json:title=en/UI.json
+{
+  "UI": {
+    "Friend": "A Friend",
+    "Friend_plural": "{{count}} Friends",
+    "Friend_0": "No Friends",
+    "Friend_1": "A Friend",
+    "Friend_2": "Two Friends",
+    "Friend_3": "Few Friends",
+    "Friend_4": "Many Friends",
+    "Friend_5": "Other/Lots of Friends"
+  }
+}
+```
+
+Your output will look something like this:
+
+```js:title=advanced-variable-example.js
+import useTranslation from '@modules/localization/useTranslation'
+
+const ComponentExample = () => {
+   const {locale, t} = useTranslation();
+
+  return (
+       <p>{t("Friend", null, {count: 0, strict: true})}</p> //No Friends (key: Friend_0)
+       <p>{t("Friend", null, {count: 1, strict: true})}</p> //A Friend (key: Friend_1)
+       <p>{t("Friend", null, {count: 2, strict: true})}</p> //Two Friends (key: Friend_2)
+       <p>{t("Friend", null, {count: 5, strict: true})}</p> //Other/Lots of Friends (key: Friend_5)
+   )
+}
+```
+
+<CTA>
+
+
+NOTE: If your count goes past 4 or is less than 0, it will default to key_5
+
+</CTA>
+
+
+### Getting a localized string from another locale
+
+Let's say you're currently on the English locale, but you need a string from the French locale,
+but also want to keep your current locale. Say no more fam:
+
+```json:title=en/UI.json
+{
+  "UI": {
+    "Language": "English"
+  }
+}
+```
+
+```json:title=fr/UI.json
+{
+  "UI": {
+    "Language": "Français"
+  }
+}
+```
+
+```js:title=multilang-example.js
+import useTranslation from '@modules/localization/useTranslation'
+
+const ComponentExample = () => {
+   const {locale, t} = useTranslation(); //Current locale is "en"
+
+  return (
+       <p>{t("Language")}</p> //English
+       <p>{t("Language",null,null,'fr')}</p> //Français
+   )
+}
+```
+
+These are just examples for the sake of documentation. For an indepth on how the function works,
+see the [comments in code](https://github.com/makerdao/community-portal/blob/r2d/src/modules/utility/useTranslation.js).

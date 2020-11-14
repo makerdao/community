@@ -1,0 +1,69 @@
+---
+# --- Basic Frontmatter ---
+
+# title[String] - Display title used for Header,Sidenav, and SEO.
+# NOTE: Overrides every other title rule. (frontmatter -> first H1 -> filename)
+# title: Example MDX
+
+# order[Integer] - The order in which this file is displayed on the sidenav.
+# NOTE: Order in the sidenav is based on lowest number (TOP) to highest (BOTTOM).
+# NOTE: Files that don't have an order are applied AFTER files that have order in alphabetical order.
+# NOTE: If this file isn't rendered on the sidenav (ie. Top section files) this won't matter.
+# order: 0
+
+# hideLanguageSelector[Boolean] - Language selectors render by default, setting this to true for your page allows you to hide it.
+# hideLanguageSelector: false
+
+# hideSidenav[Boolean] - Sidenavs on top level sections (/LOCALE/TOP_LEVEL_SECTION/path/to/path/ect) render sidenavs by default,
+#                        this setting allows you to hide it.
+# hideSidenav: false
+
+# hideBreadcrumbs[Boolean] - Breadcrumbs render on every single page by default, this setting allows you to hide it.
+# hideBreadcrumbs: false
+
+# --- Header Navigation Frontmatter ---
+
+# header[String] -  Whether this File should be rendered in the Header Navigation.
+# NOTE: This is the easy way of adding internal files to the header. header.mdx gets applied AFTER these.
+# header: true
+
+# headerOrder[Integer] - The order in which this file will be displayed on the header.
+# NOTE: Files in the header is based on lowest number (LEFT) to highest (RIGHT).
+# NOTE: "Home" is ALWAYS first, then files with headerOrder, then links in header.mdx.
+# headerOrder: 0
+
+# --- SEO Frontmatter ---
+# NOTE: "title" is used for the title meta attribute. Title rule applies.
+
+# featuredImage[String] - Image to use when a link is shared (ie. Twitter/Facebook)
+# NOTE: Image must be a path to the images in content/images/
+# featuredImage: "../images/test.png"
+
+# keywords[String] - Comma seperated keywords used for SEO
+# keywords: "cool, sweet, awesome"
+
+# description[String] - Description of this page for SEO.
+# NOTE: "description" can ALSO used for the excerpt that gets rendered and indexed for searching articles on the site.
+# description: "SEO Description"
+---
+
+# Example File for MDX
+
+## This is purely an starter example file for getting started with a new page.
+
+<CTA warning>
+
+
+** MIND THE GAP **
+If you're writing MD inside of a component like below make sure it has a line break at the beginning and end!
+
+```md:title=example.mdx
+<CTA>
+
+Go Wild!
+
+</CTA>
+```
+
+</CTA>
+

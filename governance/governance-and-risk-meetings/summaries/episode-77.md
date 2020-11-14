@@ -56,11 +56,11 @@
 
 [4:58](https://youtu.be/WuW0e6axaHQ?t=298)
 
-- LFW: is $0 a valid bid?
+- LFW: is \$0 a valid bid?
   - Kurt: Yes. Someone is getting a lot of ETH for free.
   - LFW: That's not great.
   - D: So the person who is liquidated, they get no collateral in return, and their position is under-collateralized.
-  - Kurt: They were already under-collateralized. But they don't get an amount back that they should if the markets were operating efficiently. You always expect to lose some amount of ETH, but these $0 bids cause Vault owners to lose even the ETH they would have gotten back.
+  - Kurt: They were already under-collateralized. But they don't get an amount back that they should if the markets were operating efficiently. You always expect to lose some amount of ETH, but these \$0 bids cause Vault owners to lose even the ETH they would have gotten back.
   - `(From Maker Chat)` Kurt: it's impossible to actually bid zero, most of the bids that were described as "zero" were actually one wei. 10^-18 Dai is close enough to zero for all practical purposes, of course.
 
 ## Analysis
@@ -76,17 +76,17 @@
 ![](https://i.imgur.com/Zt6Z7DN.png)
 
 - Migration is doing much better than in the recent few weeks.
-- Over the last few weeks, Sai slightly was pretty stable, even experiencing a small increase about a week ago. Then, three days ago, we noticed a drop in Sai supply along with some larger CDP repayments. Now, the Sai supply is about $20 million, which is about 1.5 million lower than it was about a week ago.
+- Over the last few weeks, Sai slightly was pretty stable, even experiencing a small increase about a week ago. Then, three days ago, we noticed a drop in Sai supply along with some larger CDP repayments. Now, the Sai supply is about \$20 million, which is about 1.5 million lower than it was about a week ago.
 - As I said before, it was mostly flat, and this decrease came mostly from 2 larger CDPs migrating. This happened because before CDPs were defending CR by depositing additional ETH. This was done to avoid repaying their debt.
 - As ETH started to really drop heavily, some of these CDPs capitulated and migrated to MCD to close their positions. I'm guessing that the fallen ETH price forced this migration, as the two events coincide.
-  
+
 ![](//i.imgur.com/bMGnn7R.png)
 
 - This chart shows how many CDPs migrated per day. There were 5-10 CDPs migrating per day, but a steady increase can be seen in the last few days.
 
 ![](https://i.imgur.com/fnVzpvA.png)
 
-- Here is the breakdown. About $1.5 million Sai was replayed fully to mostly three larger CDPs. There are about 64 CDPs in total and about 81,000 Sai fees paid in MKR over the last few days.
+- Here is the breakdown. About \$1.5 million Sai was replayed fully to mostly three larger CDPs. There are about 64 CDPs in total and about 81,000 Sai fees paid in MKR over the last few days.
 - Also notable is quite a bit of minting in the last few weeks: there has been new minting activity, likely from keepers minting to provide SCD liquidity.
 - The current drop in price corresponds to a lot of CDPs being liquidated. There were `bites`, but the auction is still not closed at 811,254 Sai below 150% We should expect penalty fees to cover from these undercollateralized CDPs. Net, this will be a positive outcome as the system will be getting more than just the SF.
 
@@ -99,7 +99,7 @@
 [11:36](https://youtu.be/WuW0e6axaHQ?t=684)
 
 - Rich: Is there a trustable resource to track the debt of SCD and MCD systems right now, and the general health of the vaults?
-![ General Collateralization Ratio](https://i.imgur.com/S1ZSXlc.png)
+  ![ General Collateralization Ratio](https://i.imgur.com/S1ZSXlc.png)
 - Primoz: [saistats.com](https://saistats.com/)
 - R: I was thinking about something a little more detailed. Is Makerscan up to date?
 - P: Makerscan only shows the top 100 CDPs. There is also [mkr.tools.](https://mkr.tools/)
@@ -110,12 +110,12 @@
 
 [12:54](https://youtu.be/WuW0e6axaHQ?t=774)
 
-- The Debt auctions have a two-day trigger delay built-in. They won't begin for two days after the liquidation of the vault. This morning liquidations started. In a little less than two days, the debt auction will kick in(subsequent [executive vote](https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters) changed this to 6.5 Days). The issue of $0 bids does not apply to debt auctions since they're structured differently. The current set up is as follows:
+- The Debt auctions have a two-day trigger delay built-in. They won't begin for two days after the liquidation of the vault. This morning liquidations started. In a little less than two days, the debt auction will kick in(subsequent [executive vote](https://vote.makerdao.com/executive-proposal/adjust-multiple-risk-parameters) changed this to 6.5 Days). The issue of \$0 bids does not apply to debt auctions since they're structured differently. The current set up is as follows:
   - MKR `lot size` parameter is 250, and the `bid amount` is 50k Dai. It will attempt to offer the market a floor price of `250 MKR at 50,000 Dai`. This translates into a cost of $200 for MKR and can be thought of as the minimum price. If that auction doesn't clear, then it reinitializes at 20% lower. This would be roughly $160. It will keep dropping the price by about 20% until it receives bids and clears.
   - LFW: How long does the period go, where nothing happens, and there is a reduction in price?
-  - Cyrus: That's the `tau` of 3 days, which is the max auction length. This means that if no one bids at $200, there will be a three day period before the re-initialization at a 20% decrease.
+  - Cyrus: That's the `tau` of 3 days, which is the max auction length. This means that if no one bids at \$200, there will be a three day period before the re-initialization at a 20% decrease.
   - What's interesting is that Governance has the option to tinker with these parameters if we're aware of the trade-off. If we don't want to mint MKR at too quick a rate, we could increase the `Debt Auction Delay`. That means bad debt in the queue can sit longer, for however long that may be. The two-day delay exists to give the collateral auction time to finish. We didn't have to worry about that until now. We wanted to provide keepers time to get their bearings and figure out what price to bid for MKR.
-  - Debt auctions have significant different game theory in them versus collateral auctions. You can't arbitrage as quickly. There is a lack of clarity on what the clearing price might be. For whatever reason, it may be a  good idea to spread them out over time with that debt sitting in the system.
+  - Debt auctions have significant different game theory in them versus collateral auctions. You can't arbitrage as quickly. There is a lack of clarity on what the clearing price might be. For whatever reason, it may be a good idea to spread them out over time with that debt sitting in the system.
   - Classically, the optics of bad debt sitting doesn't look great. Still, given that the ETH protocol layer is so volatile with gas prices, the community might find it a suitable trade-off to lengthen that out knowing that the bad debt may eventually clear.
 
 ## Keeper Discussion
@@ -125,7 +125,7 @@
 [18:02](https://youtu.be/WuW0e6axaHQ?t=1081)
 
 - BMM: We've also discussed with the smart contract team to lower the ETH DC. We're considering raising the system debt surplus to give us some more padding in the future against similar occurrences. We're also recommending possibly lowering the ETH Stability Fee because we are above peg and lowering the DSR to a broader band to help recapitalize the system. I don't know how to propose that as this is a governance call.
-  - Cyrus: Yeah, I think certainly lowering the Debt Ceiling for ETH is probably the most significant. Fortunately, we didn't hit any OSM risk on the drop. It was closer than we would have liked. Right now, there is a $50 million empty buffer in the ETH debt ceiling that should lower immediately. In terms of the SF and DSR, that is up for discussion.
+  - Cyrus: Yeah, I think certainly lowering the Debt Ceiling for ETH is probably the most significant. Fortunately, we didn't hit any OSM risk on the drop. It was closer than we would have liked. Right now, there is a \$50 million empty buffer in the ETH debt ceiling that should lower immediately. In terms of the SF and DSR, that is up for discussion.
   - BMC: Also, we should consider using this time to raise the surplus buffer. Right now, it is at 500,000, which is an arbitrary number. Now that we have real-world experience of a market drop, it may be time to raise that.
   - Cyrus: Raising the surplus would still not have been enough to cover this bad debt. Ironically, this was going to be the subject of next week's presentation
 
@@ -202,7 +202,7 @@
 
 [40:40](https://youtu.be/WuW0e6axaHQ?t=2440)
 
-- Cyrus: I don't think there is a specific threshold or event to trigger ES. This decision is at Governance's discretion. Some rules of thumb to be used are: Is the ESM less harmful than doing a flop auction for $20 million (as an example, won't be that high). I would personally say that the flop auction is more desirable since Dai will be fully backed.
+- Cyrus: I don't think there is a specific threshold or event to trigger ES. This decision is at Governance's discretion. Some rules of thumb to be used are: Is the ESM less harmful than doing a flop auction for \$20 million (as an example, won't be that high). I would personally say that the flop auction is more desirable since Dai will be fully backed.
   - LFW: I'm more concerned about the Vault holders at this stage. If they get under-collateralized and close and get nothing back, they will try to leave as soon as possible.
   - SamM: I just closed my position for that exact reason.
   - LFW: Frank says that that is the risk you take for borrowing, but it's framed as 13% and not **all** of it.
@@ -210,7 +210,7 @@
 [42:38](https://youtu.be/WuW0e6axaHQ?t=2558)
 
 - Matthew R: For people who hold Dai, what does that mean for the average user?
-  - BMM: Dai price at Coingecko is $1.04, so we're still above peg for Dai holders.
+  - BMM: Dai price at Coingecko is \$1.04, so we're still above peg for Dai holders.
   - MR: The default issue is if you have a vault and the liquidation in there. For Dai holders outside of this, it's there is no issue with collateral.
   - BMM: Dai holders shouldn't receive any losses as a result of this, it's entirely on Vault owners and MKR holders.
   - LFW: Unless there are more drops, then there's not that much liquidity, right?
@@ -227,7 +227,7 @@
   - LFW: Even if it's not to fix the short term volatility, should we not bring it down anyway? It seems like things will get worse before they get better.
   - D: Doesn't that imply "wait and see," though?
   - LFW: Perhaps. But if each price action is downward and they come in waves, they all trend downward.
-  - Vishesh: A lot of folks will feel the same, good point. What I'm more concerned about is if Dai goes back to $1. Then, if ETH is considered cheap, it could trigger a small bull surge if ETH is stable or going back up. Then, we've set up a situation in the future where it's at a higher risk on the peg drifting below a dollar. From a policy standpoint, the SF is about managing Dai trading below peg. Above the peg resettling is an arbitrage mechanism. The most significant risk here is reactivity and, again, set ourselves up for future problems based on how we react now.
+  - Vishesh: A lot of folks will feel the same, good point. What I'm more concerned about is if Dai goes back to \$1. Then, if ETH is considered cheap, it could trigger a small bull surge if ETH is stable or going back up. Then, we've set up a situation in the future where it's at a higher risk on the peg drifting below a dollar. From a policy standpoint, the SF is about managing Dai trading below peg. Above the peg resettling is an arbitrage mechanism. The most significant risk here is reactivity and, again, set ourselves up for future problems based on how we react now.
   - LFW: I agree, but if ETH dumps further, we're in a worse position.
   - Vishesh: There was a good question about the liquidity crunch, which a SF doesn't fix. I doubt system participants want to participate in short term arbitrage because of that long term cost. SF doesn't factor into short term decision-making process.
   - LFW: Fair.
@@ -235,13 +235,13 @@
 [50:16](https://youtu.be/WuW0e6axaHQ)
 
 - Dawson: I'm trying to understand the price run-up. To summarize: as the price of ETH dropped, order books on exchanges filled, and folks started buying ETH/DAI and running that price up. Then, the price of DAI/USDC went up because of arbitrageurs crossing ETH/DAI and ETH/USD books. Would this chain effect cause net DAI books to go up?
-  - Dawson: Because if ETH is dropping, you wouldn't expect a surplus on USD/DAI unless someone is arbitraging. Unless someone is arbitraging another DAI book like ETH/DAI. (Edit: centralized exchanges like Coinbase do not have a USD<>DAI book) Or was there a surplus on ETH<>DAI because other ETH books were drying up as people were trying to exit their positions to get Dai liquidity.
+  - Dawson: Because if ETH is dropping, you wouldn't expect a surplus on USD/DAI unless someone is arbitraging. Unless someone is arbitraging another DAI book like ETH/DAI. (Edit: centralized exchanges like Coinbase do not have a USD<->DAI book) Or was there a surplus on ETH<->DAI because other ETH books were drying up as people were trying to exit their positions to get Dai liquidity.
   - Vishesh: I could see the case for as liquidations are occurring, despite 0 prices, people will source Dai to engage in settlements and pay down positions. A common historical pattern where ETH crashes and Dai price tends goes up. We've seen it in the past before. If other trading pairs exacerbate that, it's possible, I didn't check though.
 
 [52:31](https://youtu.be/WuW0e6axaHQ?t=3151)
 
 - Vishesh: Someone asked about the Sai graph. It's the same situation since they are locked to each other. VWAP looks like a $1.026. Most recent trades at $1.04.
-  - Mitote: How worried are you about a drop of ETH to $100. Will there be 0 Dai bids and auction problems?
+  - Mitote: How worried are you about a drop of ETH to \$100. Will there be 0 Dai bids and auction problems?
   - Cyrus: I think we shouldn't speculate on ETH price. It's beyond anyone's control.
   - Mitote: We could lose collateral, and that's a problem for vault holders?
   - Cyrus: I'm interested in seeing how Keeper liquidity improves.

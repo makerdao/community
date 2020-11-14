@@ -1,0 +1,162 @@
+---
+title: Summaries
+order: 1
+hideLanguageSelector: true
+keywords: "governance, risk, makerdao, note-taking, notes, summaries, governance call"
+description: "This guide will help you produce high-quality summaries of recurring Maker Governance and Risk meetings."
+---
+
+# G&R Summary Style Guide
+
+This guide will help you produce high-quality summaries of Maker's recurring Governance and Risk meetings.
+
+The _most_ critical part of these summaries is accuracy, readability, and intuitive formatting.
+
+## Table of Contents
+
+**Standard Operating Procedure**
+
+- [Getting Started](/governance_and_risk_meetings/summaries#getting-started/)
+- [Roles](/governance_and_risk_meetings/summaries#roles/)
+- [Workflow](/governance_and_risk_meetings/summaries#workflow/)
+
+**Summary Format Rules**
+
+- The Structure
+- General Rules
+- Header and Spacing Rules
+- Speakers and Discussions
+- Special Language Rules
+- Screenshot Best Practices
+- Tips
+
+## Standard Operating Procedure
+
+### Getting Started
+
+To become a part of the working group that produces these summaries, please join the [Maker Chat](https://chat.makerdao.com) and communicate your interest in the [#community-development](https://chat.makerdao.com/channel/community-development) channel. Dai grants are available for contributing!
+
+### Roles
+
+Producing a summary requires two roles, a Writer and Reviewer.
+
+- **Writer:** Takes initial notes, adds screenshots, and fixes notes in post-editing with the recording's availability.
+  - Recommended to be done by at least two people, splitting up the work for the complete summary.
+  - Multiple writers have the advantage of supporting each other with formatting, screenshots, and quality assurance sections that they are not taking the initial notes on.
+  - Writers use the ✋ symbol during live calls to request help from another writer.
+- **Reviewer:** Sets up the initial working doc, does a full review of the summary, performs quality checks for formatting and semantic errors, and submits the final version of the summary to GitHub and the Forum.
+  - Recommended to be done by one person.
+
+### Workflow
+
+1. **Reviewer:** Prepares the working doc in HackMD by starting a new note from a template of the summary and sends it to the Writers.
+1. **Writer:** Joins the [Governance Call](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles) and begins taking notes.
+   - If multiple Writers are doing the summary, they should decide amongst themselves which sections they are taking notes on.
+   - Communication between writers can happen in the working doc or through a separate chat group.
+1. **Writer:** Skims the working doc and fix any obvious errors once the call concludes.
+1. **Writer:** Receives a link to the recording of the call a few hours later.
+1. **Writer:** Completes the summary with the aid of the recording, adding time-anchored-links, adding relevant links, and fixing unclear or unfinished notes.
+1. **Writers** Notifies the Reviewer that they are finished with the summary.
+1. **Reviewer:** Performs a full quality-check of the summary.
+1. **Reviewer:** Submits a single Pull Request to the [MakerDAO Community Repository](https://github.com/makerdao/community)
+   - Adds the summary as a new file in the [summaries folder](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings/summaries)
+   - Adds a link to the new file in the [summaries README](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/README.md)
+   - Adds a link to the new file in community repo's [SUMMARY](https://github.com/makerdao/community/blob/master/SUMMARY.md)
+1. **Reviewer:** Submits the summary as a comment on the call's [forum thread.](https://forum.makerdao.com/c/governance/gnr)
+
+## Summary Format Rules
+
+### The Structure
+
+This is the general structure of the document. #h refers to the heading type. Headings are useful for standardizing the structure of a summary.
+
+```
+
+#h1 Title: Ep00: Month 00, 0000
+  ├ ##h2 Agenda
+  ├ ##h2 Video
+  ├ ##h2 Main Theme (MIPs, Risk, Oracles, Smart Contracts, etc.)
+  | └ ###h3 Name of person presenting
+  |     ├ #####h4 Segment Description
+  |       └ ######h5 Sub-Segment Descriptions
+  |     └ #####h4 Discussion 1
+  ├ ##h2 Main Theme (Risk, Oracles, Governance, etc.)
+  | └ ###h3 Name of person presenting
+  |     ├ #####h4 Segment Description
+  |       └ ######h5 Sub-Segment Descriptions
+  |     └ #####h4 Discussion 2
+  ├ ##h2 Ending Discussion
+  ├ ##h2 Links from the Chat
+  ├ ##h2 Terms
+  ├ ##h2 Credits
+
+```
+
+### General Rules
+
+- Summaries are created in [HackMD](https://hackmd.io/) and saved as markdown files(`.md`). The final version is published to GitHub and the Forums, which are both markdown friendly.
+- Filename Format: `episode-000.md`
+- Notes are chronological.
+
+### Header and Spacing Rules
+
+- Headers follow the rules in the structure displayed above and occur chronologically.
+- The same "Main Theme" can occur more than once but must be numbered, similar to the discussion section headers.
+- Include line breaks above and below headings.
+- Include time-anchored-links in the [Agenda.](https://i.imgur.com/vSzBr1M.png)
+- Include time-anchored-links under ["Segment Description" headers.](https://i.imgur.com/ai4wx4K.png)
+- Include time-anchored-links [every five minutes or so for individual questions and comments during the discussion segments.](https://i.imgur.com/v3XjjOy.png)
+- Include line breaks [above and below time-anchored-links.](https://i.imgur.com/vIZyKN1.png)
+- Add line breaks [above and below screenshots](https://i.imgur.com/yA0l3zv.png) and their relevant notes.
+- Do not leave [trailing spaces.](https://i.imgur.com/SkoADWU.png)
+- Ensure there is a single empty line, called a hard-return, at the end of the file.
+
+### Speakers and Discussions
+
+- The goal of the summary is the accuracy and readability of the content on the call.
+- Notes should be "semi-transcribed." They should only deviate from what was said on the call if it is to fix the note's readability.
+- Minor edits to bridge spoken word to written word are permitted if they respect the semantic information conveyed by the speaker.
+- Do not include "umm," "so," "like," irrelevant tangents, or any other obfuscating language. The summary aims to most clearly capture the main points in a concise and readable fashion.
+- Add an `h4` discussion header at the end of each section if there are questions or comments.
+  - If there are no questions or comments, do not include a discussion header.
+- Add a `` `Chat` `` marker to the beginning of questions or comments coming from the chat.
+  - Only include insightful comments and questions. Especially include content that is responded to on the call.
+
+### Special Language Rules
+
+In standardizing the rules around contributing, the community maintains a [Writing Style Guide](/en/contribute/content/writing-style-guide/) that contains all the rules for consistent language, grammar, and formatting. Below are the rules most relevant to these summaries:
+
+- Please follow the [Naming Convention Guidelines](/contribute/content/writing-style-guide/) found in the writing style guide.
+- Use short, concise sentences. The balance is to use the least words for the most accurate and comprehensive coverage of what the speakers are saying.
+- Use [oxford commas.](https://en.wikipedia.org/wiki/Serial_comma)
+- Capitalize the names of people and online handles.
+- Capitalize and use backticks for any [specific system parameters:](https://docs.makerdao.com/other-documentation/system-glossary)
+  - For example: `` `flop` ``, `` `bite` ``, `` `vow` ``, `` `kick` ``
+- Do not use backticks when referring to [generalized system language.](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
+  - For example: Stability Fee, Debt Ceiling, Debt Auction, Vault ETH-A, MIPs.
+- When referencing material from the summary, please use "below" and "above" language.
+
+### Screenshot Best Practices
+
+Governance Calls often have visual presentations. The most efficient way to capture these is through screenshots and elaborating notes below the image. The recommended software below should keep the last screenshot in your clipboard as a copied image. In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you. (See: [Example](<![](https://i.imgur.com/nNBR9UT.png)>))
+
+- Windows: Download [Puush](https://puush.me/) or [ShareX](https://getsharex.com/) and create a hotkey for "Region Screenshot."
+  - Both of these options keep the last screenshot in your clipboard as a copied image.
+  - In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you. (See: [Example](<![](https://i.imgur.com/nNBR9UT.png)>))
+- OSX: [Katana](https://github.com/bluegill/katana) is a simple, open-source screenshot utility for macOS that lives in your menu-bar.
+  - Katana does 90% of what ShareX can do, but it's Imgur link needs formatting in HackMD after pasting.
+
+### Tips
+
+- Consult the [Writing Style Guide](/en/contribute/content/writing-style-guide/) and [Reviewer Guides](/contribute/content/reviewer-guide/) for additional information.
+- Read for clarity before rewatching. While doing so, edit for low hanging fruit: readability, spelling or grammar mistakes, and formatting errors.
+- Rewatch at a comfortable playback speed; speeds up to 2x are available on YouTube.
+- Use tools like [Grammarly](https://app.grammarly.com/) to help find missed mistakes.
+- Use a Linter in VSCode to find formatting errors. For more information on linters, see the [Contributor Tools Guide.](/contribute/content/contributor-tools/)
+- Take readable screenshots.
+- Don't duplicate information already presented on slides. Focus on the additional points made during presentations that include slides.
+- Conversations may be hard to transcribe at the moment, so do your best.
+  - Use initials when conversations get fast back-and-forth. It also helps readability.
+  - Use bullet points to semantically break apart longer speaking segments, both in presentations and discussions.
+  - Add video links to the above individual questions and transition points during the call.
+- Aim to keep notes readable. Always ask, "does this make sense?" Even if the conversation breaks off into a tangent, always try to find the thread.

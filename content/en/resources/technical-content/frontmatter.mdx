@@ -1,0 +1,112 @@
+---
+title: Frontmatter
+order: 2
+hideLanguageSelector: true
+keywords: "frontmatter, guide, markdown, help, technical"
+description: "The most complete guide to writing frontmatter in mdx files that you've ever read."
+---
+
+# Frontmatter
+
+Frontmatter is the stuff you put at the very top of your markdown files to control everything from the title, page description,
+images, and SEO. On this site, we also use it to control what appears in the global header navigation, as well as how the sidebar
+gets rendered in each section. It's therefore quite important to know how to structure your frontmatter so that your file appears
+in the place you want it to.
+
+## Title
+
+```md:title=title-example.mdx
+title[String] - Display title used for Header,Sidenav, and SEO.  
+title: Frontmatter
+```
+
+<Box sx={{backgroundColor: 'success', padding: 3, marginBottom: 4}}>
+
+
+### The Title Rule
+
+This specifies that we read and display the title in the **frontmatter first**, then the **first h1 (#) in the file**,
+then we **fall back to the name of the file**.
+
+</Box>
+
+
+The "title" attribute is used for the title meta attribute for SEO. The title rule still applies - it is global.
+
+## Order
+
+This is a frontmatter attribute unique to this site which we use to define the order in which different pages appear
+in the sidebar navigation.
+
+```md:title=order-example.mdx
+order[Integer] - The order in which this file is displayed on the sidenav.
+order: 0
+```
+
+<Box sx={{backgroundColor: 'success', padding: 3, marginBottom: 4}}>
+
+
+### Ordering
+
+Order in the sidenav is based on lowest number (TOP) to highest (BOTTOM). Files that don't have an order are applied AFTER files that have order in alphabetical order. If this file isn't rendered on the sidenav (ie. Top section files) this won't matter.
+
+</Box>
+
+
+The "order" is **relative to the current directory**, so it's not possible to take a page deeper in the directory
+and put it on the top level of the sidebar. For example, `/work_with_us/bounties/test.mdx` with an order of 0 will
+just appear at the top of the `bounties` dropdown in the sidenav and not at the top of the `work_with_us` sidenav.
+
+## Language Selector
+
+This is a frontmatter attribute unique to this site which defines whether users will be able to see the different languages available for
+the particular page they are currently on.
+
+```md:title=language-example.mdx
+hideLanguageSelector[Boolean] - Language selectors render by default, setting this to true for your page allows you to hide it.
+hideLanguageSelector: false
+```
+
+## Header Navigation
+
+The header options are an easy way of adding internal files to the global header. Files specified in header.mdx gets applied AFTER these.
+Files are organised in the header based on lowest number (LEFT) to highest (RIGHT). "Home" is ALWAYS first, then files with headerOrder,
+then links in header.mdx.
+
+```md:title=header-example.mdx
+header[String] - Whether this File should be rendered in the Header Navigation.
+header: true
+
+headerOrder[Integer] - The order in which this file will be displayed on the header.
+headerOrder: 0
+```
+
+## SEO
+
+So you want your page to rank well, and have a nice image and description when you share it on social media to show your friends
+the awesome work you've done? We've got you covered.
+
+```md:title=image-example.mdx
+featuredImage[String] - Image to use when a link is shared (ie. Twitter/Facebook)
+featuredImage: "content/images/test.png"
+```
+
+<Box sx={{backgroundColor: 'warning', padding: 3, marginBottom: 4}}>
+
+
+The "image" attribute **must** be a path to the images in `content/images/`
+
+</Box>
+
+
+```md:title=keywords-example.mdx
+keywords[String] - Comma seperated keywords used for SEO
+keywords: "cool, sweet, awesome"
+```
+
+```md:title=description-example.mdx
+description[String] - Description of this page for SEO.
+description: "The most complete guide to writing frontmatter in mdx files that you've ever read."
+```
+
+The "description" attribute can ALSO be used for the excerpt that gets rendered and indexed for searching articles on the site.

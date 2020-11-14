@@ -1,10 +1,10 @@
 ---
 name: Create a new issue
 about: Use this template for creating new tasks
-title: 'Project/Section name + Actionable item (Example: Onboarding - Create Dai Onboarding Guide)'
+title: 'Project/Section name + Actionable item (Example: Onboarding - Create Dai Onboarding
+  Guide)'
 labels: ''
 assignees: ''
-
 
 ---
 

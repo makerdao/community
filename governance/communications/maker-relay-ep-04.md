@@ -1,13 +1,10 @@
----
-tags: Maker Relay
----
 # Maker Relay 04
 
 ![](https://i.imgur.com/xZEr8Lr.png)
 
 _Hey everyone, thanks for checking out Maker Relay!_
 
-Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved in MakerDAO governance, this is your one-stop-shop for updates on the MakerDAO ecosystem. 
+Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved in MakerDAO governance, this is your one-stop-shop for updates on the MakerDAO ecosystem.
 
 ## Governance
 
@@ -18,6 +15,7 @@ Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved i
 [**Governance at a Glance**](https://forum.makerdao.com/t/governance-at-a-glance/84/76)
 
 ### MIPs Updates
+
 The Maker Improvement Proposal (MIPs) Framework provides a clear process for Maker governance to change the Protocol as needed. Note that the MIPs editor keeps an [_excellent_ board of the MIPs process](https://github.com/makerdao/mips/projects/1) on github. Also note that @charlesstlouis began adding one liners for MIPs in the updates. 🙌
 
 - [Weekly MIPS Update #9 7/13 - 7/14](https://forum.makerdao.com/t/weekly-mips-update-9/3269)
@@ -27,7 +25,7 @@ Proposals in the Request-For-Comments phase include:
 - [MIP20](https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196) Target Price Adjustment Module
 - [MIP13c3-SP1](https://forum.makerdao.com/t/mip13c3-sp1-declaration-of-intent-forward-guidance/3130/5) Declaration of Intent for Forward Guidance
 
-*Learn more about [Maker Improvement Proposals (MIPs)](https://forum.makerdao.com/c/MIPs/14)*
+_Learn more about [Maker Improvement Proposals (MIPs)](https://forum.makerdao.com/c/MIPs/14)_
 
 ## Domain Teams
 
@@ -35,7 +33,7 @@ Proposals in the Request-For-Comments phase include:
 
 #### Token Smart Contract Assessments
 
-![MANA](https://i.imgur.com/LZgXC0l.png) 
+![MANA](https://i.imgur.com/LZgXC0l.png)
 
 [MANA Risk evaluation forum thread](https://forum.makerdao.com/t/mana-mip12c2-sp2-collateral-onboarding-risk-evaluation/3128)
 
@@ -47,13 +45,15 @@ TUSD - [Poll still ongoing](https://forum.makerdao.com/t/tusd-update-forum-poll-
 
 ### Risk
 
-[Signal Request: Should we raise the ETH debt ceiling?](https://forum.makerdao.com/t/signal-request-should-we-raise-the-eth-debt-ceiling/3228) 
+[Signal Request: Should we raise the ETH debt ceiling?](https://forum.makerdao.com/t/signal-request-should-we-raise-the-eth-debt-ceiling/3228)
+
 - 180 million was the winning poll option, was placed in Monday’s Executive Vote, and passed.
 
 [Signal Request: Increases in the ETH and USDC-A debt ceilings](https://forum.makerdao.com/t/signal-request-increases-in-the-eth-and-usdc-a-debt-ceilings/3265)
-- The farming trend is taking another turn towards YFI farming, the community signaled on what the new ETH and USDC-A debt ceiling should be. 
-    - 220 million for ETH with 68 total votes.
-    - 80 million for USDC-A with 56 total votes.
+
+- The farming trend is taking another turn towards YFI farming, the community signaled on what the new ETH and USDC-A debt ceiling should be.
+  - 220 million for ETH with 68 total votes.
+  - 80 million for USDC-A with 56 total votes.
 
 ## Working Groups
 
@@ -68,30 +68,34 @@ TUSD - [Poll still ongoing](https://forum.makerdao.com/t/tusd-update-forum-poll-
 
 ![Peg](https://i.imgur.com/6Sk5cEv.png)
 
-- DAI peg down very slightly from last week at 1.013. 
+- DAI peg down very slightly from last week at 1.013.
 
 ![Dai Supply](https://i.imgur.com/Mehnj9N.png)
+
 - 218 million total Dai.
 
 ![VWAP](https://i.imgur.com/q5aknYG.png)
-- Volume at around $33 million this last week. 
-- Average VWAP over seven days places Dai at $ 1.015
+
+- Volume at around \$33 million this last week.
+- Average VWAP over seven days places Dai at \$ 1.015
 
 ![](https://i.imgur.com/SrU8TPA.png)
+
 - ETH vaults collateralization ratio continues to grow in the 200-300 and 250-300 buckets. ~$67 million in the first bucket and $46 million in the second. Slightly more risk-on behavior as the ETH-A debt ceiling climbs.
 
 ![](https://i.imgur.com/Ei4IaS1.png)
-- ETH at $150 nets out to ~34 million Dai liquidated but an even steeper curve at around $148 where $75 million in Dai would be liquidated. 
 
-![](https://i.imgur.com/WX6d5Dg.png) 
+- ETH at $150 nets out to ~34 million Dai liquidated but an even steeper curve at around $148 where \$75 million in Dai would be liquidated.
 
-- WBTC Collateralization ratios even more bimodal, with 10 million at 200-250% and ~$9 million at 150-200%
+![](https://i.imgur.com/WX6d5Dg.png)
+
+- WBTC Collateralization ratios even more bimodal, with 10 million at 200-250% and ~\$9 million at 150-200%
 
 ![](https://i.imgur.com/LkdNd51.png)
 
-- First significant liquidation wall for WBTC at $8226.
+- First significant liquidation wall for WBTC at \$8226.
 
-https://daistats.com/#/ | http://dai.descipher.io/ 
+https://daistats.com/#/ | http://dai.descipher.io/
 
 ##### Governance and Risk Observation
 
@@ -103,7 +107,8 @@ https://daistats.com/#/ | http://dai.descipher.io/
 
 ### Hackathons Winner Demos
 
-From the [Protect Privacy Hackathon](https://gitcoin.co/hackathon/privacy/onboard): 
+From the [Protect Privacy Hackathon](https://gitcoin.co/hackathon/privacy/onboard):
+
 - Sarang & Akash: [Private Delegation Maker Governance](https://github.com/sarangparikh22/Private-delegation-Maker-Governance)
 - Sunny Radadiya: [TrustlessDAI](https://github.com/sunnyRK/TrustlessDai)
 - Eugene Koinov: [ZKVote](https://github.com/sunnyRK/TrustlessDai)
@@ -112,20 +117,20 @@ Want to learn more? Join the community call on Tuesday.
 
 ### Articles
 
-* [Why Online Merchants Should Accept Dai For Crypto Payments](https://blog.makerdao.com/why-online-merchants-should-accept-dai-for-crypto-payments/)
+- [Why Online Merchants Should Accept Dai For Crypto Payments](https://blog.makerdao.com/why-online-merchants-should-accept-dai-for-crypto-payments/)
 
 ### Forum Notable Thread(s)
 
-* [Wanted: Governance Help](https://forum.makerdao.com/t/wanted-governance-help/3277)
+- [Wanted: Governance Help](https://forum.makerdao.com/t/wanted-governance-help/3277)
 
 @LongForWisdom is looking for someone to assist with the Governance Facilitator role on a regular basis. Duties include writing governance documentation, creating MIPs and pursuing initiatives that improve the efficiency and integrity of the MakerDAO governance process.
 
-### Social 
+### Social
 
 - MonetSupply provides his thoughts on [his voting decisions](https://twitter.com/monetsupply/status/1285273487515373568?s=21)
 - Sam from FTX, shares a [state of DeFi tweetstorm](https://twitter.com/sbf_alameda/status/1284965991445704705?s=21) articulating some of the risks and the potential of the space at the moment.
 
-## Meetings and Events 
+## Meetings and Events
 
 ### MakerDAO Open Calls
 
@@ -135,15 +140,15 @@ Want to learn more? Join the community call on Tuesday.
 
 #### Community Collateral Onboarding
 
-- Wednesdays at 17:50 UTC | [Zoom](https://zoom.us/j/697074715) - Message [#governance-and-risk]((https://chat.makerdao.com/channel/governance-and-risk)) in Maker Chat for password
+- Wednesdays at 17:50 UTC | [Zoom](https://zoom.us/j/697074715) - Message [#governance-and-risk](<(https://chat.makerdao.com/channel/governance-and-risk)>) in Maker Chat for password
 
 #### Governance & Risk
 
-- Thursdays at 16:00 UTC | [Zoom](https://zoom.us/j/697074715) 
-    - Message [#governance-and-risk](https://chat.makerdao.com/channel/governance-and-risk) for Admission
-    - [Agenda](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-99-thursday-july-2-9am-pst-4-00-pm-utc/2944) | [Dial-in call link](https://zoom.us/u/acRbIMDvK) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
-    - [Archives](https://community-development.makerdao.com/governance/governance-and-risk-meetings)
-    - [Contributing](https://forum.makerdao.com/c/governance/gnr/8)
+- Thursdays at 16:00 UTC | [Zoom](https://zoom.us/j/697074715)
+  - Message [#governance-and-risk](https://chat.makerdao.com/channel/governance-and-risk) for Admission
+  - [Agenda](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-99-thursday-july-2-9am-pst-4-00-pm-utc/2944) | [Dial-in call link](https://zoom.us/u/acRbIMDvK) | [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
+  - [Archives](https://community-development.makerdao.com/governance/governance-and-risk-meetings)
+  - [Contributing](https://forum.makerdao.com/c/governance/gnr/8)
 
 ### Community Events
 
@@ -167,8 +172,8 @@ Propose technical changes, poll, and vote in the [Governance Portal](https://mak
 
 Learn more about the Maker protocol in our [Documentation](https://docs.makerdao.com/)
 
-### Have Feedback? 
+### Have Feedback?
 
 We value your input! Post in the [forum](https://forum.makerdao.com/), take our [survey](https://forms.gle/Z2QAgywU2Sesm7Vy6), or join us in the [Community-Development](https://chat.makerdao.com/channel/community-development) channel to let us know what you want to see.
 
-*Disclaimer: This update is assembled by a group of contributing members in the MakerDAO community. This does and should not serve as financial advice or an inducement to vote in any specific way. This update is purely for informative and for communications purposes only.*
+_Disclaimer: This update is assembled by a group of contributing members in the MakerDAO community. This does and should not serve as financial advice or an inducement to vote in any specific way. This update is purely for informative and for communications purposes only._

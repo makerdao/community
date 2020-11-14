@@ -24,7 +24,7 @@
 
 [00:00](https://youtu.be/eIL6rpL54-s)
 
-- Hello, everyone, welcome to 103rd MakerDAO Scientific Governance and Risk meeting. Today is Thursday, July 30th. My name is LongForWisdom. I am one of the MakerDAO Governance Facilitators. I am joined by a host of people who are interested in Maker things. 
+- Hello, everyone, welcome to 103rd MakerDAO Scientific Governance and Risk meeting. Today is Thursday, July 30th. My name is LongForWisdom. I am one of the MakerDAO Governance Facilitators. I am joined by a host of people who are interested in Maker things.
 - We are going to change up the agenda slightly. We are going to have an update section going forward. This is mainly for the domain teams but also for anybody else who has updates about specific topics. We previously had many five-minute sections that don't make sense to call out directly during the meeting. We will go through with the main people and see if they have anything to say for each meeting. Afterward, we will go through the procedural stuff and then move onto any presentation and discussion topics.
 - Discussions happen in the [forum.](https://forum.makerdao.com/)
 
@@ -44,15 +44,15 @@
 [03:34](https://youtu.be/eIL6rpL54-s?t=214)
 
 - [Governance at a Glance - Forum Thread](https://forum.makerdao.com/t/governance-at-a-glance/84): If you have the time to read over and vote in active threads, that would be much appreciated.
-- We have had a lot of forum interactions over the last few days. Activity is probably the highest it has ever been, which is, on the one hand, good, but on the other hand, it gives us a lot more information for everyone to absorb. I am going to try to point people towards the relevant bits. 
+- We have had a lot of forum interactions over the last few days. Activity is probably the highest it has ever been, which is, on the one hand, good, but on the other hand, it gives us a lot more information for everyone to absorb. I am going to try to point people towards the relevant bits.
 
 #### Discussions
 
 - [We Should be Lowering the Base Rate - Forum Thread](https://forum.makerdao.com/t/we-should-be-lowering-the-base-rate/3439): Hexonaut advocates for using the Base Rate lever to adjust the overall stability fee when making monetary policy decisions as opposed to changing the risk premiums.
-    - Sam MacPherson: I just put up a thread advocating that we should be lowering the base rate. This thread, in particular, isn't about lowering the base rate versus risk premium. I was just saying that we have the tools to spur supply growth with Dai, and we should use these tools. I felt that a lot of people were voting at a base rate of zero for week after week. That vote behavior seems like it is from partially misunderstanding how the mechanism works. I am glad to see that people shifted their vote to a -4%, which is fantastic and hopefully will help with the peg.
+  - Sam MacPherson: I just put up a thread advocating that we should be lowering the base rate. This thread, in particular, isn't about lowering the base rate versus risk premium. I was just saying that we have the tools to spur supply growth with Dai, and we should use these tools. I felt that a lot of people were voting at a base rate of zero for week after week. That vote behavior seems like it is from partially misunderstanding how the mechanism works. I am glad to see that people shifted their vote to a -4%, which is fantastic and hopefully will help with the peg.
 - [Discussion on Uniswap liquidity - pooling as a potential tool - Forum Thread](https://forum.makerdao.com/t/discussion-on-uniswap-liquidity-pooling-as-a-potential-tool/3444): befitsandpiper opens up a discussion on the potential of Uniswap liquidity tokens held in reserve instead of Dai.
 - [TUSD Update: TrustToken Response to Implementation Concerns - Forum Thread](https://forum.makerdao.com/t/tusd-update-trusttoken-response-to-implementation-concerns/3407): Rafael Cosman, CEO of TrustToken responds to some of the concerns highlighted by the Maker Foundation smart contracts team concerning the TUSD token.
-    - LongForWisdom: I was very impressed with the response and willingness by Rafael to compromise based on Maker's requirements. I would encourage people who are voting on TUSD to address that.
+  - LongForWisdom: I was very impressed with the response and willingness by Rafael to compromise based on Maker's requirements. I would encourage people who are voting on TUSD to address that.
 
 #### Signal Requests
 
@@ -60,24 +60,24 @@
 
 - LongForWisdom: There have been quite a lot of signal requests in the last week mainly from Aaron and those who have taken the initiative and proposed a bunch of things, which is excellent on the one hand and, on the other hand, demands a lot of attention from governance. I would advise everyone who is creating signal requests to try avoiding overload of governance attention if possible. There isn't any strict limit, but I encourage everyone to keep this in mind when creating signal requests.
 - [Increase System Surplus Threshold - Forum Thread](https://forum.makerdao.com/t/signal-request-increase-system-surplus-threshold/3316)
-    - Aaron_Bartsch asks whether it is the right time to increase the system surplus threshold.
-    - LongForWisdom: The system surplus threshold is currently at 500,000, and Aaron asks if we should increase it.
+  - Aaron_Bartsch asks whether it is the right time to increase the system surplus threshold.
+  - LongForWisdom: The system surplus threshold is currently at 500,000, and Aaron asks if we should increase it.
 - [Should MKR be added as collateral - Forum Thread](https://forum.makerdao.com/t/signal-request-should-mkr-be-added-as-collateral/3350)
-    - Aaron_Bartsch does some initial polling around the inclusion of MKR as collateral. Worth noting that outside of emergencies, collateral onboarding needs to happen through the monthly governance cycle, but this can serve as an indicator to sentiment for the domain teams.
-    - Vote concluded majority, "No."
+  - Aaron_Bartsch does some initial polling around the inclusion of MKR as collateral. Worth noting that outside of emergencies, collateral onboarding needs to happen through the monthly governance cycle, but this can serve as an indicator to sentiment for the domain teams.
+  - Vote concluded majority, "No."
 - [Add ETH-B Vault - Forum Thread](https://forum.makerdao.com/t/signal-request-add-eth-b-vault/3349)
-    - Aaron_Bartsch polls the community around the introduction of an ETH-B Vault type. Worth noting once again that outside of emergencies, collateral onboarding needs to happen through the monthly governance cycle, but this can serve as an indicator to sentiment for the domain teams.
-    - LongForWisdom: One point I have made on this is that collateral onboarding, outside of emergencies, follows the monthly governance cycle. Therefore, these signal requests will be more advisory and unlikely to go into the weekly cycle and rather more advisory toward the domain teams as to their direction. I still encourage people to vote in them because they are high signals for the domain teams.
+  - Aaron_Bartsch polls the community around the introduction of an ETH-B Vault type. Worth noting once again that outside of emergencies, collateral onboarding needs to happen through the monthly governance cycle, but this can serve as an indicator to sentiment for the domain teams.
+  - LongForWisdom: One point I have made on this is that collateral onboarding, outside of emergencies, follows the monthly governance cycle. Therefore, these signal requests will be more advisory and unlikely to go into the weekly cycle and rather more advisory toward the domain teams as to their direction. I still encourage people to vote in them because they are high signals for the domain teams.
 - [Increase ETH-A Risk Premium - Forum Thread](https://forum.makerdao.com/t/signal-request-increase-eth-a-risk-premium/3377)
-    -  Aaron_Bartsch also asks whether we should adjust the ETH-A risk premium.
+  - Aaron_Bartsch also asks whether we should adjust the ETH-A risk premium.
 - [Increasing the 'dust' amount - Forum Thread](https://forum.makerdao.com/t/signal-request-increasing-the-dust-amount/3445)
-    - Jiecut asks if the `dust` parameter should increase, considering the sustained elevation in gas prices over the last few months.
-     - LongForWisdom: The `dust` parameter is essentially the minimum amount of Dai debt one can create from a vault. It is currently 20 Dai, but due to high gas prices, there is a question of whether this amount is too low and should be increased.
+  - Jiecut asks if the `dust` parameter should increase, considering the sustained elevation in gas prices over the last few months.
+  - LongForWisdom: The `dust` parameter is essentially the minimum amount of Dai debt one can create from a vault. It is currently 20 Dai, but due to high gas prices, there is a question of whether this amount is too low and should be increased.
 - [Adjust the BAT Risk Premium and Debt Ceiling - Forum Thread](https://forum.makerdao.com/t/signal-request-adjust-the-bat-risk-premium-and-debt-ceiling/3334)
-    - Jiecut asks if the BAT-A risk premium and debt ceiling should be adjusted. Note that the BAT-A debt ceiling was changed in the most recent executive vote.
-    - LongForWisdom: Yesterday's executive included The debt ceiling change, but the signal continues for the risk premium.
+  - Jiecut asks if the BAT-A risk premium and debt ceiling should be adjusted. Note that the BAT-A debt ceiling was changed in the most recent executive vote.
+  - LongForWisdom: Yesterday's executive included The debt ceiling change, but the signal continues for the risk premium.
 - [TUSD Update (Forum Poll): Concerns Surrounding the TUSD Collateral Type - Forum Thread](https://forum.makerdao.com/t/tusd-update-forum-poll-concerns-surrounding-the-tusd-collateral-type/3225)
-    - Lucasmanuel from the Maker Foundation Smart Contracts team asks how governance wishes to move forward with the TUSD collateral type considering the recent contract upgrades.
+  - Lucasmanuel from the Maker Foundation Smart Contracts team asks how governance wishes to move forward with the TUSD collateral type considering the recent contract upgrades.
 
 #### Discussion 1
 
@@ -109,10 +109,10 @@
 [11:22](https://youtu.be/eIL6rpL54-s?t=682)
 
 - Sam MacPherson: I would like to point out that, since the base rate is negative, we could set the ETH-A and BAT-A risk premiums without actually affecting the stability fees.
-    - LongForWisdom: Yes, I was going to make that point, as well. If the base rate is going negative, it might be an excellent chance to set them to what we think would make sense as risk premium and not affect the peg.
-    - Cyrus Younessi: For down the line when the base rate goes back up, everything will sort of fall into place?
-    - Sam MacPherson: Yes, exactly.
-    - Cyrus: Sure, yes, that sounds like a good idea.
+  - LongForWisdom: Yes, I was going to make that point, as well. If the base rate is going negative, it might be an excellent chance to set them to what we think would make sense as risk premium and not affect the peg.
+  - Cyrus Younessi: For down the line when the base rate goes back up, everything will sort of fall into place?
+  - Sam MacPherson: Yes, exactly.
+  - Cyrus: Sure, yes, that sounds like a good idea.
 
 ### Wil Barnes
 
@@ -163,20 +163,20 @@
 
 - I think it makes sense to make a substantial DC increases to reduce the governance overhead.
 - Those DC passed in executive early this morning.
-    - ETH-A is going up by 80 million.
-    - USDC-A is going up by another 60 million.
+  - ETH-A is going up by 80 million.
+  - USDC-A is going up by another 60 million.
 - Additionally, there were increases for:
-    - WBTC.
-    - USDC-B, the emergency reserve for keepers.
-    - BAT as well.
+  - WBTC.
+  - USDC-B, the emergency reserve for keepers.
+  - BAT as well.
 - Later today, when the governance delay has ended, and the vote is officially live we will start monitoring the demand for this additional Dai supply and take it from there.
 
 #### Moving Forward
 
 - There are undoubtedly some good discussions to have around:
-    - Increased risk to the system
-    - Liquidations
-    - Centralization
+  - Increased risk to the system
+  - Liquidations
+  - Centralization
 - In the absence of any short term solution, I believe that the community is more or less on the same page for increasing these DCs.
 
 #### Discussion 2
@@ -186,25 +186,25 @@
 #### The Risks of Raising the Debt Ceiling
 
 - Brian McMichael: I think that one of the reasons we have the debt ceilings we do is to protect us from a technical risk where someone could utilize that debt ceilings through some unforeseen exploit. We have a situation like that now, where we have unprecedented demand. Is there any reason that you could foresee why we wouldn't want to double or triple the existing debt ceiling? What kind of risks would that pose?
-    - Cyrus Younessi: It's pretty straightforward; if ETH crashes, the Protocol will struggle to efficiently liquidate a couple hundred million Ether in the current Ethereum Network congestion environment, and the current Dai liquidity environment. I tend to think we passed that danger threshold a while ago. At this point, we have to seriously revitalize the circuit-breaker discussions and start talking about operational protocols for how something like that might look, in case ETH were to correct back down.
-    - Kurt: On top of the sheer size of the amount we might have to sell into the market in a liquidation event, there's another risk involved with having a DC much higher than utilization. In one of those events, someone might see that, and if the decline is significant enough, it's profitable to throw ETH into the Protocol and pull a bunch of Dai out, which will be worth more than what ETH is about to be worth. This is the OSM risk, as you have an hour warning before price drops trigger a liquidation.
+  - Cyrus Younessi: It's pretty straightforward; if ETH crashes, the Protocol will struggle to efficiently liquidate a couple hundred million Ether in the current Ethereum Network congestion environment, and the current Dai liquidity environment. I tend to think we passed that danger threshold a while ago. At this point, we have to seriously revitalize the circuit-breaker discussions and start talking about operational protocols for how something like that might look, in case ETH were to correct back down.
+  - Kurt: On top of the sheer size of the amount we might have to sell into the market in a liquidation event, there's another risk involved with having a DC much higher than utilization. In one of those events, someone might see that, and if the decline is significant enough, it's profitable to throw ETH into the Protocol and pull a bunch of Dai out, which will be worth more than what ETH is about to be worth. This is the OSM risk, as you have an hour warning before price drops trigger a liquidation.
 - befitsandpiper: Is there a reason we haven't increased the oracle refresh to fix that OSM risk?
-    - Christopher Mooney: We would never be able to respond to an oracle attack if the delay was 15 minutes.
-    - Kurt: The more you lower that time, the more you mitigate the OSM attack. But as you lower that time, you increase the risk that if something goes wrong with the oracles, there's some actual manipulation of the oracle prices, we have much less time to react. An hour is already quite short, to be honest.
+  - Christopher Mooney: We would never be able to respond to an oracle attack if the delay was 15 minutes.
+  - Kurt: The more you lower that time, the more you mitigate the OSM attack. But as you lower that time, you increase the risk that if something goes wrong with the oracles, there's some actual manipulation of the oracle prices, we have much less time to react. An hour is already quite short, to be honest.
 
 #### Reducing the Executive Votes
 
 - Brian McMichael: I agree with all of that, but we're making emergency executive every two or three days. Is the community okay with that, or should we consider more substantial increases?
-    - Christopher Mooney: The Smart Contracts team hates it. I will say that much.
-    - Kurt: There's also the possibility of adding an Instant Access Module that would allow more frequent and periodic debt ceiling increases based on utilization, and that would not require an executive vote every time. That's [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021), as Charles is calling in the chat.
-    - LongForWisdom: From a governance perspective doing emergency votes multiple times a week is also not ideal. If we can and feel safe about getting ahead of things, I would prefer if governance signaled to do that, rather than leaving it for the Risk team to react as an emergency response.
+  - Christopher Mooney: The Smart Contracts team hates it. I will say that much.
+  - Kurt: There's also the possibility of adding an Instant Access Module that would allow more frequent and periodic debt ceiling increases based on utilization, and that would not require an executive vote every time. That's [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021), as Charles is calling in the chat.
+  - LongForWisdom: From a governance perspective doing emergency votes multiple times a week is also not ideal. If we can and feel safe about getting ahead of things, I would prefer if governance signaled to do that, rather than leaving it for the Risk team to react as an emergency response.
 
 #### Instant Access Module
 
 - Cyrus Younessi: Not to put you on the spot, Kurt, but what's the status on the Instant Access Module for DC upgrades? I think that's something that's been discussed a few times in the past.
-    - Kurt: Gonzalo implemented one quite a while ago. We can deploy whenever the Community wants. We can discuss on the forums about what the parameters should be, or if there should be any tweak to its behavior. It's not complicated from a technical perspective, at all.
-    - LongForWisdom: Just as a personal note, I've heard about Instant Access Modules before, and I understand the theory of how they work. I don't know if we ever had a communication of what they are and how they work in practice in detail on the forums.
-    - Charles St-Louis `chat`: Short definition of an Instant Access Module (IAM) - a module that provides a way to change the Maker Protocol without going through an Executive Vote and the subsequent delay in the Governance Security Module.
+  - Kurt: Gonzalo implemented one quite a while ago. We can deploy whenever the Community wants. We can discuss on the forums about what the parameters should be, or if there should be any tweak to its behavior. It's not complicated from a technical perspective, at all.
+  - LongForWisdom: Just as a personal note, I've heard about Instant Access Modules before, and I understand the theory of how they work. I don't know if we ever had a communication of what they are and how they work in practice in detail on the forums.
+  - Charles St-Louis `chat`: Short definition of an Instant Access Module (IAM) - a module that provides a way to change the Maker Protocol without going through an Executive Vote and the subsequent delay in the Governance Security Module.
 
 #### MIP17 Prepares IAM Logic
 
@@ -213,21 +213,21 @@
 #### Liquidation Risk
 
 - Iant: I haven't read MIP17, but I'm curious about how we handle liquidation risk, and how do we handle the amount of collateral, and what is deemed an acceptable amount of risk that we should lever up and when not to, and where do we draw that line and why. I don't have the right answer for this, and I just go with my gut feeling. What numbers or analysis have you done? Or is there anything you could concretely refer to as to reasons why you have that opinion? It's so hard for me to construct an eloquent opinion on the topic.
-    - Cyrus Younessi: The gut feeling is an essential part of it. Certainly, one very cool tool is Vishesh's [Liquidation Price Graph](http://makervaults.descipher.io/). It shows you the price points you will get specific amounts of collateral liquidated. The distribution is reasonably smooth, but occasionally you see these vast increases from large vaults. After March, we informally talked to a bunch of different keepers to get a sense of how available Dai liquidity was out there to bid on keepers. It's just a small percentage of the total Dai supply. Those numbers are hard to pin down, but if you're liquidating 100 million of ETH collateral, you're not going to instantly find 80 million of liquid Dai to bid on that on that.
-    - Iant: So that's where we set it up? Anywhere around 100 million, we should be careful?
-    - Cyrus Younessi: That's the first pass, intuition. We've also done some risk modeling in terms of liquidity and order book depth and try to bake in a slippage discount for how much the price would suffer from an increase in the amount of collateral selling. That tends to break down around 200 million of ETH collateral. That's the unofficial number we were targeting back in April-May, which we have blown through. We have some grants out, with some quant firms doing more sophisticated liquidity analysis. We're waiting to hear back on that as well. Ultimately, it's a hybrid of academic approaches as well as practical trader approaches. Just intuitively, if ETH falls 50% and we have to liquidate some 100-150 million of ETH collateral, that doesn't inspire much confidence for me.
+  - Cyrus Younessi: The gut feeling is an essential part of it. Certainly, one very cool tool is Vishesh's [Liquidation Price Graph](http://makervaults.descipher.io/). It shows you the price points you will get specific amounts of collateral liquidated. The distribution is reasonably smooth, but occasionally you see these vast increases from large vaults. After March, we informally talked to a bunch of different keepers to get a sense of how available Dai liquidity was out there to bid on keepers. It's just a small percentage of the total Dai supply. Those numbers are hard to pin down, but if you're liquidating 100 million of ETH collateral, you're not going to instantly find 80 million of liquid Dai to bid on that on that.
+  - Iant: So that's where we set it up? Anywhere around 100 million, we should be careful?
+  - Cyrus Younessi: That's the first pass, intuition. We've also done some risk modeling in terms of liquidity and order book depth and try to bake in a slippage discount for how much the price would suffer from an increase in the amount of collateral selling. That tends to break down around 200 million of ETH collateral. That's the unofficial number we were targeting back in April-May, which we have blown through. We have some grants out, with some quant firms doing more sophisticated liquidity analysis. We're waiting to hear back on that as well. Ultimately, it's a hybrid of academic approaches as well as practical trader approaches. Just intuitively, if ETH falls 50% and we have to liquidate some 100-150 million of ETH collateral, that doesn't inspire much confidence for me.
 
 #### Rate Limiting Liquidations
 
 - befitsandpaper: Would rate-limiting the liquidations help the issue, or would it make things worse, since while waiting, the price of collateral could fall more. I mean, only liquidating up to X amount of collateral per hour.
-    - Cyrus Younessi: We discussed that during Black Thursday as well, and that discussion naturally converged into the circuit breaker implementation. Instead of trying to figure out discrete numbers or implement some sort of complicated logic where there's just a big red button to push where we can just put a pause on all liquidations if needed.
-    - Christopher Mooney: For Liquidations 2.0, I worked on a PR that can rate limit by outstanding Dai for the next version of liquidations. So we may have that in Liquidations 2.0.
-    - Iant: That is awesome.
+  - Cyrus Younessi: We discussed that during Black Thursday as well, and that discussion naturally converged into the circuit breaker implementation. Instead of trying to figure out discrete numbers or implement some sort of complicated logic where there's just a big red button to push where we can just put a pause on all liquidations if needed.
+  - Christopher Mooney: For Liquidations 2.0, I worked on a PR that can rate limit by outstanding Dai for the next version of liquidations. So we may have that in Liquidations 2.0.
+  - Iant: That is awesome.
 
 ##### Bitcoin Liquidations
 
-- Akash: I have a question. Has that Quant firm, or you guys, done the same kind of analysis for Bitcoin? I know that wBTC or whatever other variant is not Bitcoin, but how much Bitcoin liquidity is out there for this kind of the same scenario. 
-    - Cyrus Younessi: We haven't done wBTC, which would be the relevant metric here. The market cap has blown up so much over the past few weeks that we would have to revisit that anyways. I don't know off the top of my head, but Bitcoin is wildly more liquid than ETH, in my opinion.
+- Akash: I have a question. Has that Quant firm, or you guys, done the same kind of analysis for Bitcoin? I know that wBTC or whatever other variant is not Bitcoin, but how much Bitcoin liquidity is out there for this kind of the same scenario.
+  - Cyrus Younessi: We haven't done wBTC, which would be the relevant metric here. The market cap has blown up so much over the past few weeks that we would have to revisit that anyways. I don't know off the top of my head, but Bitcoin is wildly more liquid than ETH, in my opinion.
 
 ### Charles St. Louis
 
@@ -243,11 +243,11 @@
 
 - Five proposals plus adjustments were added to the Maker Protocol.
 - I will share a thread of what it means for the Maker Protocol to have all these five proposals implemented. In short:
-    - We added a Weekly Governance Cycle to focus on things that need quicker action than the monthly cycle.
-    - Meta-parameter adjustments that are not directly related to Smart Contracts.
-    - A subproposal that proposes to remove the DSR spread.
-    - Adding MANA as a collateral type.
-    - An upgraded liquidation system V1.1
+  - We added a Weekly Governance Cycle to focus on things that need quicker action than the monthly cycle.
+  - Meta-parameter adjustments that are not directly related to Smart Contracts.
+  - A subproposal that proposes to remove the DSR spread.
+  - Adding MANA as a collateral type.
+  - An upgraded liquidation system V1.1
 
 ![Next Week's Activity](https://i.imgur.com/sHjwl3R.png)
 
@@ -279,7 +279,7 @@
 [42:45](https://youtu.be/eIL6rpL54-s?t=2565)
 
 - Akiva Dubrofsky: Why do some proposals have to extend the RFC process if they have met the deadlines?
-    - Charles St. Louis: When a proposal is submitted, it has a dedicated amount of time that it has to be in the request-for-comments phase, called the Feedback Period. There's also a frozen period where the proposal can't be edited, to make sure that no last-minute edits can sneak in before it gets submitted. Based on [MIP 0](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md), we have a timeline for the feedback period, which is three months. The Dark Fix Mechanism is going through that period.
+  - Charles St. Louis: When a proposal is submitted, it has a dedicated amount of time that it has to be in the request-for-comments phase, called the Feedback Period. There's also a frozen period where the proposal can't be edited, to make sure that no last-minute edits can sneak in before it gets submitted. Based on [MIP 0](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md), we have a timeline for the feedback period, which is three months. The Dark Fix Mechanism is going through that period.
 
 ## Procedural
 
@@ -302,8 +302,8 @@
 ##### ETH-A Debt Ceiling Added to the Executive Vote
 
 - In terms of the final executive, it's worth mentioning that we opted to include the ETH-A DC in the final mix executive, which is not ideal because the whole point of going through the entire cycle and having inclusion polls is that everyone knows what's in that final executive. Unfortunately, we were in a situation where the issues with the peg and the state of the debt ceilings forced our hand a bit. It's possible that affected how quickly the MIP proposals passed, or the fact that it passed. I don't think it's controversial, but we do need to be aware.
-    - Charles St. Louis: I think we also need to highlight how unanimous the poll was. If it was a closer call between the yes and the no, then it could be a problem.
-    - LongForWisdom: It's potentially a problem. If it's something that we put into the vote that didn't go through, the cycle is controversial, and you risk throwing away a month's worth of governance away that people otherwise agree with. It's risky, but I agree. In this case, the reason I bundled them was because I didn't think that it was a huge problem. We got lucky in the fact that it wasn't a huge problem in this case.
+  - Charles St. Louis: I think we also need to highlight how unanimous the poll was. If it was a closer call between the yes and the no, then it could be a problem.
+  - LongForWisdom: It's potentially a problem. If it's something that we put into the vote that didn't go through, the cycle is controversial, and you risk throwing away a month's worth of governance away that people otherwise agree with. It's risky, but I agree. In this case, the reason I bundled them was because I didn't think that it was a huge problem. We got lucky in the fact that it wasn't a huge problem in this case.
 
 #### Governance Next Cycle
 
@@ -314,8 +314,8 @@
 #### MIP13 Summary
 
 - Akiva Dubrofsky: I updated it a lot. The main point is that it establishes a Vault Holder Advocacy Group, which aims to work with risk teams to provide forward guidance and more transparency on what the risk parameters are going to be. Historically, Maker has provided this fluctuating rate, which didn't matter to people if the market was fluctuating because of the base rate or DSR. If you see my presentation on the [Community Call this week](https://www.youtube.com/watch?v=mOC5n9mfyxQ), you will see that lots of people are involved in hedging the base rate. This hedging opens the question: is Maker going to be transparent with other risk parameters?
-    - LongForWisdom: If I can summarize, I think the goal is to provide more reassurance to vault holders that the risk premiums are not going to change willy-nilly.
-    - Akiva Dubrofksy: Exactly. We want to optimize transparency and stability in the risk premium.
+  - LongForWisdom: If I can summarize, I think the goal is to provide more reassurance to vault holders that the risk premiums are not going to change willy-nilly.
+  - Akiva Dubrofksy: Exactly. We want to optimize transparency and stability in the risk premium.
 
 ## Risk
 
@@ -339,20 +339,20 @@
 - 50 million Dai from USDC-A.
 - 20 million from WBTC.
 
-![ETH-A <> Dai Supply](https://i.imgur.com/R2FGQLj.png)
+![ETH-A <-> Dai Supply](https://i.imgur.com/R2FGQLj.png)
 
 - In the last 24 hours, we saw a jump in the amount of Dai minted from ETH, up to about 240 million.
 
-![USDC-A <> Dai Supply](https://i.imgur.com/QiC8Ri4.png)
+![USDC-A <-> Dai Supply](https://i.imgur.com/QiC8Ri4.png)
 
 - USDC-A has been volatile recently. There are a few significant positions that have opened and closed for short periods.
 - Net is still up at about 58 million Dai.
 
-![WBTC-A <> Dai Supply](https://i.imgur.com/zuXd15M.png)
+![WBTC-A <-> Dai Supply](https://i.imgur.com/zuXd15M.png)
 
 - The WBTC supply is still capped out.
 
-![BAT-A <> Dai Supply](https://i.imgur.com/iO3qFI8.png)
+![BAT-A <-> Dai Supply](https://i.imgur.com/iO3qFI8.png)
 
 - BAT gained some utilization and then lost some utilization in that same time frame.
 
@@ -373,7 +373,7 @@
 
 ![Liquidation Walls](https://i.imgur.com/WbwnCFl.png)
 
-- As Cyrus alluded to these liquidation walls, we have a pretty large one at about $200 ETH. At that price drop, you would see 113 million Dai liquidated. At $155 is 190 million Dai. Even at $230, you would see 34 million Dai liquidated, which in percentage terms is not quite that large, but if you compare it to what it would have been a problem for mass liquidations, say, like three months ago, 34 million is nothing to sneeze at either.
+- As Cyrus alluded to these liquidation walls, we have a pretty large one at about $200 ETH. At that price drop, you would see 113 million Dai liquidated. At $155 is 190 million Dai. Even at \$230, you would see 34 million Dai liquidated, which in percentage terms is not quite that large, but if you compare it to what it would have been a problem for mass liquidations, say, like three months ago, 34 million is nothing to sneeze at either.
 
 ![3 Day Dai VWAP Breakdown](https://i.imgur.com/8qqlxTb.png)
 

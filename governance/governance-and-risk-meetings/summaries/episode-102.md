@@ -44,7 +44,7 @@
 
 [6:15](https://youtu.be/mI1NziGay5k?t=375)
 
-- I want to leave on a super high note and do some self-congratulating. Well, I shouldn't have said that myself *laughs* I want to congratulate the community on what it's accomplished here too. At the very beginning, there was definitely this question: "is there something worth talking about here? Should we have a call maybe every week to talk about this? What are we going to talk about every week?" How that situation has evolved! The work I did at the Foundation and with the Community has been some of the most rewarding work I've ever done, and if you guys knew how old I actually was, you'd understand how much weight that carried. The things that we are doing in this Governance ecosystem can feel like a slug sometimes, it can feel a bit chaotic sometimes, but it's important to remember that when we all got started, DeFi wasn't a meme yet. Community Governance; obviously, we didn't invent it, but, in the crypto space was largely unheard of. The constant iteration, the passion, intelligence, and work that the Community has brought to the table here has not only created something special and important for the Maker Protocol, but you don't have to cast your eyes too far to notice that there are five or six other protocols that have governance now as well and it looks a lot - suspiciously - like Maker Governance. With some tweaks and optimizations, but the principles and the basic frameworks were sorts of my author. Many of them were discovered in these calls and in our forums and in our chats because of the work of the people that come to these calls every week. Maybe take a moment to congratulate yourselves on the fantastic amount of work that has happened here. I know that I will be congratulating myself secretly and congratulating you all as well.
+- I want to leave on a super high note and do some self-congratulating. Well, I shouldn't have said that myself _laughs_ I want to congratulate the community on what it's accomplished here too. At the very beginning, there was definitely this question: "is there something worth talking about here? Should we have a call maybe every week to talk about this? What are we going to talk about every week?" How that situation has evolved! The work I did at the Foundation and with the Community has been some of the most rewarding work I've ever done, and if you guys knew how old I actually was, you'd understand how much weight that carried. The things that we are doing in this Governance ecosystem can feel like a slug sometimes, it can feel a bit chaotic sometimes, but it's important to remember that when we all got started, DeFi wasn't a meme yet. Community Governance; obviously, we didn't invent it, but, in the crypto space was largely unheard of. The constant iteration, the passion, intelligence, and work that the Community has brought to the table here has not only created something special and important for the Maker Protocol, but you don't have to cast your eyes too far to notice that there are five or six other protocols that have governance now as well and it looks a lot - suspiciously - like Maker Governance. With some tweaks and optimizations, but the principles and the basic frameworks were sorts of my author. Many of them were discovered in these calls and in our forums and in our chats because of the work of the people that come to these calls every week. Maybe take a moment to congratulate yourselves on the fantastic amount of work that has happened here. I know that I will be congratulating myself secretly and congratulating you all as well.
 
 ##### Rich as a Community Member
 
@@ -79,38 +79,38 @@
 
 - This week most of the active discussions have focused around the PEG, the PSM concept, and around other options, we could take to move the PEG in the right direction.
 - [A word on the PSM concept and next steps for the Foundation](https://forum.makerdao.com/t/a-word-on-the-psm-concept-and-next-steps-for-the-foundation/3293)
-    - Rune shares some details on the Foundation’s focus over the next few months, and explains why the Foundation will no longer be working on the PSM. In case you weren't aware, I would recommend quickly browsing that thread before you get into the discussions.
+  - Rune shares some details on the Foundation’s focus over the next few months, and explains why the Foundation will no longer be working on the PSM. In case you weren't aware, I would recommend quickly browsing that thread before you get into the discussions.
 - [Negative DSR / TRFM](https://forum.makerdao.com/t/negative-dsr-trfm/3175)
-    - OliverNChalk begins a discussion and argues in favor of negative rates.
-    - Combined with the MIP20 proposal from Lev.
-    - And other options in terms of influencing negative rates, which has been good to see.
+  - OliverNChalk begins a discussion and argues in favor of negative rates.
+  - Combined with the MIP20 proposal from Lev.
+  - And other options in terms of influencing negative rates, which has been good to see.
 
 ##### Signal Requests
 
 [12:03](https://youtu.be/mI1NziGay5k?t=724)
 
-- [Increase duration of governance security module?](https://forum.makerdao.com/t/signal-request-increase-duration-of-governance-security-module/3065) - *Failed to Pass*
-    - A couple of weeks ago, Joshua_Pritikin asked whether we should increase the Governance Security Module delay to 24 hours to make it easier to defend against governance attacks. That has failed.
-- [Concerns Surrounding the TUSD Collateral Type](https://forum.makerdao.com/t/tusd-update-forum-poll-concerns-surrounding-the-tusd-collateral-type/3225) - *Moving On-chain*
-    - Lucas Manuel from the Maker Foundation Smart Contracts team asks how governance wishes to move forward with the TUSD collateral type considering the recent contract upgrades.
-    - Adjusting the TUSD debt ceiling to zero was the chosen path.
-    - The Smart Contract Team thinks that's probably a wise call.
-- [Adjust the WBTC Debt Ceiling and Risk Premium](https://forum.makerdao.com/t/signal-request-adjust-the-wbtc-debt-ceiling-and-risk-premium/2824) - *Moving On-chain*
-    - Prompted by Andy.
-    - I just realized it was left out of Governance at a Glance forum thread.
-- [Adjust the ZRX and KNC Risk Premiums](https://forum.makerdao.com/t/signal-request-adjust-the-zrx-and-knc-risk-premiums/3181) - *Continuing*
-    - Monet-supply proposes decreasing the risk premiums for KNC and/or ZRX.
-- [Lower the USDC-A Liquidation Ratio and Risk Premium](https://forum.makerdao.com/t/signal-request-lower-the-usdc-a-liquidation-ratio-and-risk-premium/3296) - *New*
-    - @hexonaut asks if Maker governance should increase the USDC-A liquidation Ratio and/or Risk Premium to help fix the recent peg deviation.
+- [Increase duration of governance security module?](https://forum.makerdao.com/t/signal-request-increase-duration-of-governance-security-module/3065) - _Failed to Pass_
+  - A couple of weeks ago, Joshua_Pritikin asked whether we should increase the Governance Security Module delay to 24 hours to make it easier to defend against governance attacks. That has failed.
+- [Concerns Surrounding the TUSD Collateral Type](https://forum.makerdao.com/t/tusd-update-forum-poll-concerns-surrounding-the-tusd-collateral-type/3225) - _Moving On-chain_
+  - Lucas Manuel from the Maker Foundation Smart Contracts team asks how governance wishes to move forward with the TUSD collateral type considering the recent contract upgrades.
+  - Adjusting the TUSD debt ceiling to zero was the chosen path.
+  - The Smart Contract Team thinks that's probably a wise call.
+- [Adjust the WBTC Debt Ceiling and Risk Premium](https://forum.makerdao.com/t/signal-request-adjust-the-wbtc-debt-ceiling-and-risk-premium/2824) - _Moving On-chain_
+  - Prompted by Andy.
+  - I just realized it was left out of Governance at a Glance forum thread.
+- [Adjust the ZRX and KNC Risk Premiums](https://forum.makerdao.com/t/signal-request-adjust-the-zrx-and-knc-risk-premiums/3181) - _Continuing_
+  - Monet-supply proposes decreasing the risk premiums for KNC and/or ZRX.
+- [Lower the USDC-A Liquidation Ratio and Risk Premium](https://forum.makerdao.com/t/signal-request-lower-the-usdc-a-liquidation-ratio-and-risk-premium/3296) - _New_
+  - @hexonaut asks if Maker governance should increase the USDC-A liquidation Ratio and/or Risk Premium to help fix the recent peg deviation.
 
 ##### Help Wanted
 
 [13:26](https://youtu.be/mI1NziGay5k?t=805)
 
 - [Wanted: Governance Help](https://forum.makerdao.com/t/wanted-governance-help/3277)
-    - LongForWisdom asks for applicants to help out with some of the necessary governance work.
-    - Ironically I decided to post this one day before I realized that Rich was leaving, so it becomes more important now that I have found out.
-    - If you want to get involved more in governance, please drop me a line.
+  - LongForWisdom asks for applicants to help out with some of the necessary governance work.
+  - Ironically I decided to post this one day before I realized that Rich was leaving, so it becomes more important now that I have found out.
+  - If you want to get involved more in governance, please drop me a line.
 
 ## MIPs
 
@@ -144,8 +144,8 @@
 
 - TUSD: If that passes, it will proceed to a weekly executive on the following Friday.
 - [PSM Vote](https://vote.makerdao.com/polling-proposal/qmeee6knhrjyocet2mkzlltxjsqbkprc8tispgzmn181tw): Sam MacPherson on chat
-    - PSM did not pass
-    - 50.04% against
+  - PSM did not pass
+  - 50.04% against
 - Charles St-Louis: I checked five minutes ago, thanks for that correction.
 
 ![Join the community](https://i.imgur.com/tcrSkMC.png)
@@ -158,7 +158,7 @@
 
 - As Charles said, the poll passed 18 thousand Maker in favor and zero against. I don't see any reason to prevent that from continuing to the executive. We will continue with the executive on Monday, according to the MIPs process.
 - Sam just informed us that the PSM poll did not pass. It ended 50.04% against, which is perhaps the closest poll we've had so far.
-    - Charles St-Louis: thanks for that correction.
+  - Charles St-Louis: thanks for that correction.
 - Yes, it was very split. We will talk about it tomorrow, hopefully.
 
 ## Smart Contracts
@@ -220,11 +220,11 @@
 ##### Feedback Received
 
 - Over the past week, we've got a little bit of feedback in the forums. Potential things that might get more support for the poll going forward. We have heard:
-    - Too many steps and votes.
-    - Too much governance overhead, making it less appealing to MKR voters. Simpler and fewer steps might be good.
-    - Not having clarity at the very beginning about potential costs, which would have been made clear later in the process, had it been approved—still a fair concern.
-    - Not enough time or awareness built about the vote. More people to get more publicity on it. Possibly a longer voting period: maybe a couple of weeks instead of a couple of days. MakerMan suggested waiting until you get enough quorum of MKR before closing it. Not sure if technically possible, just an idea.
-    - Not enough clarity between MakerDAO and Maker Foundation, and who would be responsible and where the money would and should be coming from.
+  - Too many steps and votes.
+  - Too much governance overhead, making it less appealing to MKR voters. Simpler and fewer steps might be good.
+  - Not having clarity at the very beginning about potential costs, which would have been made clear later in the process, had it been approved—still a fair concern.
+  - Not enough time or awareness built about the vote. More people to get more publicity on it. Possibly a longer voting period: maybe a couple of weeks instead of a couple of days. MakerMan suggested waiting until you get enough quorum of MKR before closing it. Not sure if technically possible, just an idea.
+  - Not enough clarity between MakerDAO and Maker Foundation, and who would be responsible and where the money would and should be coming from.
 - That was most of the feedback. My take on that is, "How much overlap is there between the people providing feedback and the people voting no?" You can't be sure, but my guess is, "not that high." So some of these ideas might be speculative about what would make it more appealing for MKR voters.
 
 ##### Next Steps
@@ -250,7 +250,7 @@
 
 [36:21](https://youtu.be/mI1NziGay5k?t=2181)
 
-- That said, if the community does want to pursue it separately from the Foundation, there are avenues we can start to work on. Any implementation would probably need to go through the MIP process at this point. 
+- That said, if the community does want to pursue it separately from the Foundation, there are avenues we can start to work on. Any implementation would probably need to go through the MIP process at this point.
 - A good start might be a Declaration of Intent, through MIP13. I'm trying to confirm whether MKR holders want the PSM, which may be a little bit difficult considering the recent vote. That would be the place to try and resolve the blockers and move forward.
 
 ## Risk
@@ -291,7 +291,7 @@
 
 [44:36](https://youtu.be/mI1NziGay5k?t=2676)
 
-- Matthew Light: When the peg goes this high, it produces the desire of people to borrow in Dai, because they're facing issues. If they borrow 30,000 Dai and the peg slips a couple of points, they may lose thousands of dollars pretty quickly. The peg not being in control really does affect demand for borrowing Dai, especially the demand for borrowing Dai to bet on assets. 
+- Matthew Light: When the peg goes this high, it produces the desire of people to borrow in Dai, because they're facing issues. If they borrow 30,000 Dai and the peg slips a couple of points, they may lose thousands of dollars pretty quickly. The peg not being in control really does affect demand for borrowing Dai, especially the demand for borrowing Dai to bet on assets.
 
 ##### Yield Farming and the Peg
 
@@ -323,21 +323,21 @@
 
 - Room for 345 million Dai to be minted.
 - Right now, 235 million Dai have been minted.
-    - 184 million is Dai from ETH
-    - 3 million from BAT
-    - 26 million from USDC
-    - 20 million from WBTC
-    - less than 1 million for ZRX and KNC
+  - 184 million is Dai from ETH
+  - 3 million from BAT
+  - 26 million from USDC
+  - 20 million from WBTC
+  - less than 1 million for ZRX and KNC
 
-![BAT-A <> Dai Supply](https://i.imgur.com/gAs2GRp.png)
+![BAT-A <-> Dai Supply](https://i.imgur.com/gAs2GRp.png)
 
 - BAT-Dai pool was capped out at about 3 million.
 
-![WBTC-A <> Dai Supply](https://i.imgur.com/X5lzI2O.png)
+![WBTC-A <-> Dai Supply](https://i.imgur.com/X5lzI2O.png)
 
 - Dai from WBTC has remained sustained at 20 million.
 
-![USDC-A <> Dai Supply](https://i.imgur.com/WhUP6R8.png)
+![USDC-A <-> Dai Supply](https://i.imgur.com/WhUP6R8.png)
 
 - Dai from USDC-A remained steady for a while.
 - A small amount was minted in the last couple of days.
@@ -350,12 +350,12 @@
 - WBTC being capped out.
 - USDC-A being only at about a quarter, 26 million, of where it could be.
 
-![KNC-A <> Dai Supply](https://i.imgur.com/l6NgWcg.png)
+![KNC-A <-> Dai Supply](https://i.imgur.com/l6NgWcg.png)
 
 - Dai from KNC is a small amount.
 - Overall, we've seen a steady increase.
 
-![ETH-A <> Dai Supply](https://i.imgur.com/KIP3QDp.png)
+![ETH-A <-> Dai Supply](https://i.imgur.com/KIP3QDp.png)
 
 - After March 12th, there was a steady recovery in the Dai from ETH-A supply.
 - Around July 2nd, COMP farming started to hit.
@@ -394,8 +394,8 @@
 ![dai.descipher.io 2](https://i.imgur.com/cZfHMTJ.png)
 
 - In the grand scheme of things, this is not representative of what the previous peg problem was.
-    - The previous problem was dealing with it at 1.01 - 1.02
-    - This is an overnight trend at 1.03 - 1.04
+  - The previous problem was dealing with it at 1.01 - 1.02
+  - This is an overnight trend at 1.03 - 1.04
 - Whether that's actually going to be sustained is questionable. That's important to keep in mind.
 - I'm not saying that overnight it's going to go back to 1.00, but it may level back to 1.01 - 1.02. We'll have to wait and see.
 
@@ -416,13 +416,13 @@
 - These could be very impermanent trends.
 - The question of how much this upward pressure will sustain is the question of how much these yields will sustain.
 - A huge chunk of Dai is being minted to go into these platforms but, more importantly, very little Dai is minted and being sold on the open market. That's where the elevated price pressure comes from. There are questions:
-    - How long will the price pressure last?
-    - What does the Maker Community want to do about current Dai liquidity?
-    - How much of an impact will that have on the peg?
+  - How long will the price pressure last?
+  - What does the Maker Community want to do about current Dai liquidity?
+  - How much of an impact will that have on the peg?
 - The third question is nested within the second because the amount of price impact that increases market liquidity for Dai would have on the peg is primarily a function of how much people are willing to relinquish that Dai and sell it in order to arb the current profit.
 - The problem right now is that a 3% or 4% haircut is something that people are willing to take in the short term to get access to 600% yields on some of these platforms.
 - Those yields are likely to dry up very soon, as Cyrus mentioned. Will the next yield come up? Probably not to that same extent.
-    - Matthew Light: Looks like the YFI will dry up on Saturday or Sunday. But mStable is going to have a yield of maybe 100%.
+  - Matthew Light: Looks like the YFI will dry up on Saturday or Sunday. But mStable is going to have a yield of maybe 100%.
 
 ##### Why Dai
 
@@ -443,10 +443,10 @@
 ![ETH Dai Projected Liquidations](https://i.imgur.com/enGayYZ.png)
 
 - That means that there could be some liquidations. That's a risk to be aware of.
-- At $220 ETH, you'd have 12 million Dai being liquidated.
-- At $150 ETH, you would have 92 million being liquidated.
+- At \$220 ETH, you'd have 12 million Dai being liquidated.
+- At \$150 ETH, you would have 92 million being liquidated.
 - Those are big jumps. Although, yes, only a small amount is at risk for more realistic price drops.
-- $150 dollar price is not completely out of reason for ETH. It's important to consider that on a percentage basis, it's not out of pattern, but in nominal terms, that is huge.
+- \$150 dollar price is not completely out of reason for ETH. It's important to consider that on a percentage basis, it's not out of pattern, but in nominal terms, that is huge.
 - What would happen is there were a price drop and massive liquidation events to Dai? Given the liquidity problems right now, and given just the degree of Dai that's locked up in farming, at the moment, that could be a potential problem.
 
 ![WBTC Dai Projected Liquidations](https://i.imgur.com/X3kbTqY.png)
@@ -493,8 +493,8 @@
 
 - Christopher Mooney: If there isn't too much competition on this week's executive vote, we may want to consider creating a really quick ad-hoc bundle set. Ultimately Maker Governance gets to decide whether or not they want it. We'd be able to possibly do the USDC CR. Maybe BAT DC. It would break our normal flow, but we're at a 1.03 Dai price right now.
 - LongForWisdom: That's a good point for me to go over how it would happen again. In order to do something outside of the governance cycle, we need to, in some way, say that this is an emergency. Currently, this could happen from Cyrus or a Risk Team, saying that they think it's an emergency. Or it could happen if there's a poll in the forum getting a majority saying that there's an emergency and we want to do these things. Given that all the things we're discussing are stuff we've done before, I don't think there's any reason to make it more than 50%. If someone wants to see emergency action in some form, they need to create a signal request forum poll and get people to agree that we need an emergency action for this.
-    - Christopher Mooney: How detailed does it need to be?
-    - LongForWisdom: I would prefer it if it said what we wanted to do as an emergency measure. But we have had more general ones in the past that just declare an emergency situation and the will to do things generally. So it could be flexible, but I would much prefer it if there was a specific proposal.
+  - Christopher Mooney: How detailed does it need to be?
+  - LongForWisdom: I would prefer it if it said what we wanted to do as an emergency measure. But we have had more general ones in the past that just declare an emergency situation and the will to do things generally. So it could be flexible, but I would much prefer it if there was a specific proposal.
 - Sam MacPherson: With regards to the [signal thread](https://forum.makerdao.com/t/signal-request-lower-the-usdc-a-liquidation-ratio-and-risk-premium/3296), there does seem to be the vast majority of people wanting to lower the LR of USDC-A to some number, if that helps. Cyrus would need to make that call if it's an emergency, though.
 - LongForWisdom: I think that Cyrus's point is that he would take leadership from the community in this case. It's a reasonable assumption to create a poll.
 

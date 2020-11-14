@@ -1,0 +1,108 @@
+---
+title: Search
+order: 2
+hideLanguageSelector: true
+---
+
+# The Intricacies of Search
+
+We began implementing search using Algolia, but then pivoted to Lunr. The pros were obvious:
+no server side apis, no external requests, search indexing as a part of the build process.
+It was everything we got out of the old Algolia integration but without the need to manage yet
+another service. The integration works well, yet it took some time to understand how the indexing
+is handled.
+
+## Why Lunr
+
+Algolia is great, but it has limits since it's a SAAS (software as service). The indexing and tools
+they provide are fantastic, and if this were a project that had a larger dependancy on search we'd
+consider it. However, that's not the case. We don't need an extremely robust elastic search engine
+to index our content pages. We just need a search that meets the minimal requirements of being search.
+
+Lunr is also used widely. If you've used mkdocs or docusaurus recently then you've used Lunr.
+
+## How Lunr Indexes
+
+Since we're using Gatsby, there's always an integration someone has built, and luckily we have
+the gatsby-plugin-lunr that does a lot of heavy lifting for us. We provide languages and how to filternodes
+in the options oof our plugin in the `gatsby-config` like so:
+
+```js:title=gatsby-config.js
+options: {
+  languages: [
+    {
+      name: "en",
+      filterNodes: (node) =>
+        node.frontmatter !== undefined &&
+        node.fileAbsolutePath &&
+        node.fileAbsolutePath.match(
+          /\/en\/(?!header.mdx|index.mdx|404.mdx|.js|.json)/
+        ) !== null,
+    },
+  ];
+}
+```
+
+<CTA>
+
+
+Here, we filter out nodes that don't have frontmatter, don't have an absolute path, and the
+path doesn't match any file at the top section of our locale like header.mdx, index.mdx, 404.mdx, ect.)
+
+</CTA>
+
+
+For every new locale we add, we just make sure to update it's name, and the regex match `/\/[LOCALE]\/(?!header.mdx|index.mdx|404.mdx|.js|.json)/`.
+
+We also provide it with which fields to index, if they should store it, and how it should be weighted:
+
+```js:title=gatsby-config.js
+fields: [
+          { name: "title", store: true, attributes: { boost: 20 } },
+          { name: "keywords", attributes: { boost: 15 } },
+          { name: "url", store: true },
+          { name: "excerpt", store: true, attributes: { boost: 5 } },
+        ],
+```
+
+Then comes the hard part. How the fields get populated.
+We provide Lunr with resolvers that match the key we would provide when querying through GraphQL.
+However, Lunr prefaces its resolvers with `all`, so `Mdx` refers too `allMdx` in GraphQL:
+
+```js:title=gatsby-config.js
+resolvers: {
+          Mdx: {
+              title: TitleConverter,
+              url: UrlConverter,
+                ...
+```
+
+Since we also have some rules around what a Title is and how the URL is provided from the data we have
+(remember, automagic) we added some util methods that take in a node and transforms its data to meet our needs (TitleConverter, UrlConverter, etc).
+
+Providing an excerpt on search requires more work, since the excerpt is supposed to be our compiled MDX in HTML form. \
+However, that doesn't happen during build time, so `excerpt` is undefined due to a timing issue with Lunr.
+The solution is to
+
+1. Use the description from the frontmatter if provided, or
+2. use the `rawBody` and parse it manually like so:
+
+```js:title=gatsby-config.js
+excerpt: (node) => {.
+              if (node.frontmatter.description) {
+                return node.frontmatter.description;
+              }
+              const excerptLength = 136; // Hard coded excerpt length
+              let excerpt = "";
+              const tree = remark()
+                .use(remarkFrontmatter)
+                .use(removeFrontmatter)
+                .parse(node.rawBody);
+              visit(tree, "text", (node) => {
+                excerpt += node.value;
+              });
+              return `${excerpt.slice(0, excerptLength)}${
+                excerpt.length > excerptLength ? "..." : ""
+              }`;
+            },
+```

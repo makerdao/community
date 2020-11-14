@@ -1,0 +1,91 @@
+---
+title: Installation Guide
+order: 3
+keywords: "yarn, gatsby, homebrew, MakerDAO, community development portal"
+description: "Let's set up local development environments! Being able to hotload your changes into a local website is no small feat and is a useful skill."
+hideLanguageSelector: true
+---
+
+# Migration from .md to (.mdx) files
+
+### Setting up Local Development
+
+Let's set up local development environments! Being able to hotload your changes into a local website is no small feat and is a useful skill. [Here is Gatsby's guide to doing basically everything in this doc](https://www.gatsbyjs.org/tutorial/) it's elegant, thorough, and extraordinarily helpful. Plus it's like a half-hour, tops, of following directions and installing things.
+
+### The Terminal
+
+🤨 ** I see you're reading on... **
+
+If one hasn't done anything before in the terminal, recognize that it's the pinnacle of laziness & elegance. Developers literally have set this thing up to run on as few characters as possible. Our devs, specifically, have set community contributors to use even fewer commands.
+
+If you're lazy (congratulations 🎊 ) then here the short-short guide to installs and spinning up your local development environment:
+
+- [VS code](https://code.visualstudio.com/download)
+  - IDE's with the best text highlighting experience, and development ease/packages/extensions/themes, borders on an obsession. so, download packages/extensions at one's discretion. Generally, it's best to have:
+    - A linter
+    - A prettier extension
+    - Something to enable terminal(the shell) in your IDE
+    - A theme <-- this is where the obsessions start
+- [homebrew](https://brew.sh/)
+  - Little package manager that makes life so much easier. Also, it allows package installs for everything this portal needs.
+- [node.js](https://nodejs.org/en/)
+  - the underlying architecture under the hood is react.js. Both Nodejs and React are javascript languages that can be executed both client and server-side. Developers can execute the Reactjs code directly in the Nodejs environment. The React DOM has components specifically designed to work with Nodejs that reduce lines of code, making server-side rendering comparatively easy.
+
+```shell
+brew install node
+```
+
+- [yarn](https://yarnpkg.com/)
+  - A simpler package manager with some fancy sauce on it in the comm-dev instance. Let's do command line for yarn too 🤭
+
+```shell
+brew install yarn
+ // or
+ npm install -g yarn
+```
+
+- [Gatsby]()
+  - Let's install gatsby via terminal, keeping those terminal command skills sharp.
+
+```shell
+npm install -g gatsby-cli
+```
+
+<Tout>
+
+
+<Box>
+
+
+## On a PC?
+
+Homebrew isn't necessary on PC, since the command prompt in windows allows you to interact with the same stack. You'll only need node, yarn, and gatsby. Repeating the intro: the Gatsby [guide to installs](https://www.gatsbyjs.org/tutorial/) covers other platform setups.
+
+[Windows instructions](https://www.gatsbyjs.com/tutorial/part-zero/#windows-instructions)
+
+[Linux instructions](https://www.gatsbyjs.com/tutorial/part-zero/#linux-instructions)
+
+</Box>
+
+
+</Tout>
+
+
+### I Pressed Buttons, Now What??
+
+By this point all the dependencies should be downloaded. The next step is to pull the portal and build some pages up locally.
+
+[clone that community repo](https://github.com/makerdao/community-portal) and get building in the IDE! Getting started is as simple as entering the commands `yarn` then `yarn start` in the terminal. So head to terminal and run those commands in order. Normally, there is a flurry of activity in the terminal and eventually some pages that say success.
+
+![](https://i.imgur.com/EL88h6k.png)
+
+Navigate to localhost:8000 in the web browser of choice. 💥 Boom, you just built your local environment. Now when editing an .mdx file and hitting save, Gatsby will do all the work to render the site for you with all the new **_glorious_** changes.
+
+### Common Commands to Fix Things
+
+- `yarn` before you `yarn start`
+- `yarn clean`
+- `gatsby clean`
+- Possibly you'll need to delete the packagelock.json file. then run those clean commands again.
+- Occasionally closing VScode and the browser will fix things, in addition to the commands above.
+- Opening multiple terminal windows and running `yarn start` will make the browser throw errors; it's trying to send two builds to one server. Close one of the terminals and try it all again.
