@@ -11,7 +11,7 @@ options:
 
 # Monthly MIPs Governance Poll - November 16, 2020
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
+The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on November 23, 2020. The bundled contents of this poll consist of:
 
 **MIPS**
 - [MIP24: Emergency Voting System](https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009)
