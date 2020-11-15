@@ -1,34 +1,43 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+title: Template - [Executive Vote] Onboard GUSD - November 13, 2020
 
 ---
-## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+## [Executive Vote] Onboard GUSD - November 13, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
-### $executive_entry_1
+### Onboard GUSD as a new Collateral Type
 
-$executive_entry_description_1
+A new collateral type, GUSD (Gemini Dollar), will be added to the Maker Protocol if this proposal passes. GUSD will be added with the following parameters in the GUSD-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmWh3nQN?network=mainnet).
 
-### $executive_entry_2
+- Stability Fee: 4%
+- Liquidation Ratio: 101%
+- Debt Ceiling: 5 million
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
-$executive_entry_description_3
+Liquidations for GUSD-A will be disabled.
 
-### $executive_entry_3
+Please review the following forum threads containing information about GUSD (Gemini Dollar) to inform your position before voting.
 
-$executive_entry_description_3
+- [Initial Collateral Application](https://forum.makerdao.com/t/gusd-mip6-collateral-onboarding-application/3319)
+- [Risk Evaluation](https://forum.makerdao.com/t/gusd-collateral-onbording-risk-evaluation/4791/1)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/gusd-erc20-token-smart-contract-technical-assessment/4603)
+- [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp13-proposal-gusd-oracle-collateral-onboarding-oracle-assessment/4777)
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- The GUSD-A vault type will be added using GUSD as collateral with the parameters listed above.
+- The Global line parameter will increase from 1,463,750,000 DAI to 1,468,750,000 DAI due to the addition of GUSD-A.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
-$OfficeHours? Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
+Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday.
 
 ## Review
 
