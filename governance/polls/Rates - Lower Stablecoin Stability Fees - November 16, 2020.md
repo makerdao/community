@@ -10,7 +10,7 @@ options:
    3: 2%
    4: 1%
    5: 0%
-   5: Something else
+   6: Something else
 ---
 # Poll: Lower Stablecoin Stability Fees - November 16, 2020
 
