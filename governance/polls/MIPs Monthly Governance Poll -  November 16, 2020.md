@@ -14,7 +14,7 @@ options:
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
 **MIPS**
-- [MIP24: Emergency Voting System](https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009/1)
+- [MIP24: Emergency Voting System](https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009/)
 - [MIP25: Flash Mint Module](https://forum.makerdao.com/t/mip25-flash-mint-module/4400)
 - [MIP27: Debt Ceiling Instant Access Module](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625)
 - [MIP28: Operational Support Domain Definition](https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627)

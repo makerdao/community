@@ -5,10 +5,11 @@ discussion_link: https://forum.makerdao.com/t/signal-request-lower-the-stablecoi
 vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: 0%
-   2: 1%
+   1: No Change (4%)
+   2: 3%
    3: 2%
-   4: 4%
+   4: 1%
+   5: 0%
    5: Something else
 ---
 # Poll: Lower Stablecoin Stability Fees - November 16, 2020
@@ -19,9 +20,9 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-Maker Governance is currently in the process of settling whether we proceed with Stablecoin Action Plan [Option 3](https://vote.makerdao.com/polling/QmY1vJPs?network=mainnet#vote-breakdown) or the new [PSM option](https://forum.makerdao.com/t/signal-request-accelerate-the-psm-launch/5094) that was suggsted this week. 
+Maker Governance is currently in the process of settling whether we proceed with Stablecoin Action Plan [Option 3](https://vote.makerdao.com/polling/QmY1vJPs?network=mainnet#vote-breakdown) or the new [PSM option](https://forum.makerdao.com/t/signal-request-accelerate-the-psm-launch/5094) that was suggested this week. 
 
-The [DsChief 1.2](https://forum.makerdao.com/t/dschief-1-2-flash-loan-protection-for-maker-governance/5115) migration will likely mean that we cannot make non-emergency changes to the Maker Protocol on the November 27th and December 4th. The November 20th executive will likely be the last chance to make non-emergency changes before the December 11th.
+The [DsChief 1.2](https://forum.makerdao.com/t/dschief-1-2-flash-loan-protection-for-maker-governance/5115) migration will likely mean that we cannot make non-emergency changes to the Maker Protocol on November 27th and December 4th. The November 20th executive will likely be the last chance to make non-emergency changes before December 11th.
 
 Given this delay, it may be advantageous to lower the stablecoin vault fees until the path forward can be decided.
 
