@@ -1,63 +1,31 @@
 /** @jsx jsx */
 import { Flex, Box, jsx } from "theme-ui";
-import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Icon } from "@makerdao/dai-ui-icons";
+import Link from "@modules/navigation/Link";
 
 import { useTranslation } from "@modules/localization";
-import { useNavigation } from "@modules/navigation/context";
-import { getLinkIcon, Link } from "@modules/navigation";
+import { getLinkIcon } from "@modules/navigation";
+
+const socialLinks = {
+  "Twitter": "https://twitter.com/MakerDAO",
+  "Reddit": "https://www.reddit.com/r/MakerDAO/",
+  "Telegram": "https://t.me/makerdaoOfficial",
+  "Chat": "https://chat.makerdao.com/",
+  "Youtube": "https://www.youtube.com/MakerDAO"
+}
 
 const Footer = () => {
-  const { locale, DEFAULT_LOCALE, t } = useTranslation();
-  const { footerFiles, socialLinks } = useNavigation();
-
-  const footerConfigLinks =
-    DEFAULT_LOCALE !== locale
-      ? footerFiles.nodes.find((n) =>
-          n.fileAbsolutePath.includes(`/${locale}/`)
-        )
-      : [];
-
-  //Default locale fallback
-  const defaultLocaleFooterLinks = footerFiles.nodes.find((n) =>
-    n.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
-  );
-
-  const footerLinks =
-    footerConfigLinks && footerConfigLinks.length !== 0
-      ? footerConfigLinks.body
-      : defaultLocaleFooterLinks
-      ? defaultLocaleFooterLinks.body
-      : null;
-
-  const socialConfigLinks =
-    DEFAULT_LOCALE !== locale
-      ? socialLinks.nodes.find((n) =>
-          n.fileAbsolutePath.includes(`/${locale}/`)
-        )
-      : [];
-
-  const defaultSocialConfigLinks = socialLinks.nodes.find((n) =>
-    n.fileAbsolutePath.includes(`/${DEFAULT_LOCALE}/`)
-  );
-
-  const _socialLinks =
-    socialConfigLinks && socialConfigLinks.length !== 0
-      ? socialConfigLinks.internal.content.trim().split("\n")
-      : defaultSocialConfigLinks
-      ? defaultSocialConfigLinks.internal.content.trim().split("\n")
-      : null;
-
+  const { t } = useTranslation();
 
   return (
     <Box
       as="footer"
       sx={{
-        width: "100%",
         bg: "backgroundAlt",
       }}
     >
       <Flex
+        className="footer-content"
         sx={{
           px: ["26px", "26px", "52px"],
           pt: ["40px", "40px", "54px"],
@@ -88,18 +56,16 @@ const Footer = () => {
               sx={{ width: "217px", height: "30px", display: "block" }}
             />
           </Link>
-          <Box sx={{ "& > *:not(:last-of-type)": { mr: "18px" }, '& > a': {mr: 0} }}>
-            {_socialLinks.map((s, index) => {
-              const link = s.match(/\(([^)]+)\)/)[1];
-
-              return link
-                ? getLinkIcon(link, `footer-social-link-${index}`)
-                : null;
-            })}
-            {/* <a href="javascript:gaOptout();">Deactivate Google Analytics</a> */}
+          <Box
+            sx={{
+              "& > *:not(:last-of-type)": { mr: "18px" },
+              "& > a": { mr: 0 },
+            }}
+          >
+            {Object.keys(socialLinks).map((s, index) => getLinkIcon(socialLinks[s], `footer-social-link-${index}`))}
           </Box>
         </Box>
-        <Box
+        <div
           sx={{
             ml: ["unset", "unset", "5vw"],
             mt: ["56px", "56px", "unset"],
@@ -108,9 +74,11 @@ const Footer = () => {
             verticalAlign: "top",
             "& > * > ul": {
               m: 0,
+
               p: 0,
               color: "text",
               listStyleType: "none",
+
               display: "flex",
               flexWrap: ["wrap", "wrap", "unset"],
               "& > li:not(:last-of-type)": {
@@ -118,45 +86,173 @@ const Footer = () => {
               },
               "& > li": {
                 fontWeight: "500",
-                fontSize: "1rem",
                 flexShrink: 0,
                 flex: ["0 50%", "0 50%", 1],
                 width: ["calc(50% - 66px)", "calc(50% - 66px)", "unset"],
                 pr: ["66px", "66px", "unset"],
                 mb: ["64px", "64px", "unset"],
                 color: "onBackgroundAlt",
-                "& > *:nth-of-type(1):not(ul)": {
-                  mb: "8px",
-                },
                 "& > ul": {
-                  fontSize: "1rem",
                   p: 0,
+                  mt: 3,
                   listStyleType: "none",
-                  "& li:not(:last-of-type)": {
-                    mb: "10px",
-                  },
-                  "& a": {
+                  "& li a": {
                     color: "onBackgroundAlt",
                     fontWeight: "normal",
-                    textDecoration: "none",
-                    "& svg": {
-                      display: "none",
-                    },
-                    "&:hover": {
-                      textDecoration: "none",
-                    },
+                  },
+                  "& li:not(:last-of-type)": {
+                    mb: "10px",
                   },
                 },
               },
             },
           }}
         >
-          {footerLinks && (
-            <Box sx={{ flex: 1 }}>
-              <MDXRenderer>{footerLinks}</MDXRenderer>
-            </Box>
-          )}
-        </Box>
+          <div sx={{ flex: 1 }}>
+            <ul>
+              <li>
+                <span sx={{ mt: 0 }}>{t("Resources", "Footer")}</span>
+
+                <ul>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/whitepaper"}
+                    >
+                      {t("Whitepaper", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://awesome.makerdao.com/#faqs"}
+                    >
+                      {t("FAQs", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/privacy"}
+                    >
+                      {t("Privacy_Policy", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={
+                        "https://www.notion.so/makerdao/Maker-Brand-ac517c82ff9a43089d0db5bb2ee045a4"
+                      }
+                    >
+                      {t("Brand_Assets", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/en/feeds"}>
+                      {t("Feeds", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.statuspage.io/"}
+                    >
+                      {t("Service_Status", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Products", "Footer")}</span>
+
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://oasis.app/"}>
+                      {t("Oasis", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://migrate.makerdao.com/"}>
+                      {t("Migrate", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/ecosystem"}
+                    >
+                      {t("Ecosystem", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/governance"}
+                    >
+                      {t("Governance", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Developers", "Footer")}</span>
+
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://docs.makerdao.com/"}>
+                      {t("Documentation", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://docs.makerdao.com/dai.js"}
+                    >
+                      {t("Daijs", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://github.com/makerdao/developerguides"}
+                    >
+                      {t("Developer_Guides", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span>{t("Foundation", "Footer")}</span>
+                <ul>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/team/"}>
+                      {t("Team", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://makerdao.com/careers"}>
+                      {t("Careers", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      hideExternalIcon
+                      to={"https://makerdao.com/en/contact"}
+                    >
+                      {t("Contact", "Footer")}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link hideExternalIcon to={"https://blog.makerdao.com/"}>
+                      {t("Blog", "Footer")}
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
       </Flex>
     </Box>
   );

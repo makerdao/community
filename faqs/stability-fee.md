@@ -46,7 +46,7 @@ Please visit our Risk Management FAQ(_coming soon_) to learn more about Risk Tea
 
 ## Is there a limit to how much a Stability Fee can change?
 
-Yes, there is a weekly limit to how much a given Stability Fee can change, defined by the range of options available for MKR  governors to vote on. It is a range that is subject to change. The Stability Fee adjustment votes that were going on in October 2019, for example, offered a range of -4% to 4%. To find out the current range on a given Stability Fee adjustment, visit [mkrgov.science/polls](https://mkrgov.science/polls) and look at the most recent relevant Governance Poll.
+Yes, there is a weekly limit to how much a given Stability Fee can change, defined by the range of options available for MKR governors to vote on. It is a range that is subject to change. The Stability Fee adjustment votes that were going on in October 2019, for example, offered a range of -4% to 4%. To find out the current range on a given Stability Fee adjustment, visit [mkrgov.science/polls](https://mkrgov.science/polls) and look at the most recent relevant Governance Poll.
 
 ## How often do Stability Fees change?
 

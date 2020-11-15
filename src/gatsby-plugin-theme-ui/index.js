@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { icons as themeIcons } from "@makerdao/dai-ui-icons";
 import { icons as brandingIcons } from "@makerdao/dai-ui-icons-branding";
 import maker from "@makerdao/dai-ui-theme-maker";
@@ -37,8 +37,9 @@ const prismPreset = {
 };
 
 export default {
-...maker, //<- Your default theme.
-	//useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore. 
+  ...maker, //<- Your default theme.
+  useCustomProperties: true,
+  useColorSchemeMediaQuery: true, //TODO(Rejon): useBodyStyles could be the culprit for the flashing we're seeing. Will explore.
   breakpoints: ["640px", "932px", "infinity"],
   icons: {
     ...themeIcons,
@@ -240,7 +241,7 @@ export default {
     },
   }, //<- Icon package
   colors: {
-	  ...maker.colors, //<- Deconstruct maker.colors so default colors aren't lost.
+    ...maker.colors, //<- Deconstruct maker.colors so default colors aren't lost.
     primary: "#5AE2CA",
     primaryEmphasis: "#68FEE3",
     primaryAlt: "#1AAA9B",
@@ -267,7 +268,7 @@ export default {
     warningAlt: "#FFBA44",
     text: "#291A42",
     onBackgroundAlt: "#FFFFFF",
-    textMuted: "#4D4968",
+    textMuted: "#302F35",
     strawberry: "#FF78F2",
     bubblegum: "#F2B9FF",
     grape: "#9B9FFF",
@@ -284,7 +285,7 @@ export default {
         secondaryMuted: "#94008E",
         text: "#FFFFFF",
         onBackgroundAlt: "#FFFFFF",
-        textMuted: "#E1DFEC",
+        textMuted: "#E3E2EA",
         muted: "#E1DFEC",
         mutedAlt: "#4D4968",
         background: "#291A42",
@@ -328,42 +329,51 @@ export default {
   text: {
     text: {
       ...maker.text.text,
-      color: 'textMuted'
+      color: 'textMuted',
+      marginBottom: '24px'
     },
-    heaing: {
+    heading: {
       ...maker.text.heading,
-      color: 'textMuted'
+      color: 'text'
     },
     h1: {
-      fontSize: ['48px', '64px', '64px'],
+      fontSize: ['48px', '48px', '48px'],
       letterSpacing: "0.3px",
-      fontWeight: "600",
+      fontWeight: "500",
       fontFamily: 'heading',
-      color: 'textMuted'
+      color: 'text',
+      marginTop: '48px',
+      marginBottom: '32px'
     },
     h2: {
-      fontSize: '48px',
-      fontWeight: "600",
-      letterSpacing: '0.3px',
-      fontFamily: 'heading',
-      color: 'textMuted'
-    },
-    h3: {
       fontSize: '32px',
-      fontWeight: '600',
+      fontWeight: "500",
       letterSpacing: "0.3px",
       fontFamily: 'heading',
-      color: 'textMuted'
+      color: 'text',
+      marginTop: '48px',
+      marginBottom: '24px'
+    },
+    h3: {
+      fontSize: '24px',
+      fontWeight: '500',
+      letterSpacing: "0.3px",
+      fontFamily: 'heading',
+      color: 'text',
+      marginTop: '16px',
+      marginBottom: '16px'
     },
     h4: {
-      fontSize: '24px',
-      fontWeight: '600',
+      fontSize: '20px',
+      fontWeight: '500',
       letterSpacing: '0.3px',
       fontFamily: 'heading',
-      color: 'textMuted'
+      color: 'text',
+      marginTop: '8px',
+      marginBottom: '8px'
     },
     largeText: {
-      fontSize: '20px',
+      fontSize: '18px',
       fontWeight: 'normal',
       letterSpacing: '0.3px',
       fontFamily: 'heading'
@@ -371,7 +381,7 @@ export default {
     smallText: {
       fontSize: '14px',
       lineHeight: '17px',
-      letterSpacing: '0.1px'
+      letterSpacing: '0.3px'
     }
   },
   shadows: {
@@ -380,40 +390,62 @@ export default {
     float: "0px 2px 10px rgba(35, 21, 54, 0.05)",
   },
   radii: {
-	  ...maker.radii,
+    ...maker.radii,
     round: "32px",
   },
   fonts: {
-	  ...maker.fonts,
-    body: 'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
-    heading: 'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
+    ...maker.fonts,
+    body:
+      'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
+    heading:
+      'FT Base, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif',
     transparencyDashboard: 'system-ui,"Helvetica Neue",sans-serif',
   },
   styles: {
-	  ...maker.styles,
+    ...maker.styles,
     root: {
-    ...maker.styles.root,
-    color: "textMuted",
-  },
+      ...maker.styles.root,
+      color: "textMuted",
+    },
     a: {
       color: "link",
-      fontWeight: "500",
-      textDecoration: "none"
+      fontWeight: "600",
+      textDecoration: "none",
+      transition: "all .1s ease",
+      "&.active": {
+        color: "linkAlt",
+      },
+      "&:hover": {
+        color: "linkAlt",
+      },
+      "&:hover > svg": {
+        color: "linkAlt",
+      },
     },
     Link: {
       color: "link",
-      fontWeight: "500",
-      textDecoration: "none"
+      fontWeight: "600",
+      textDecoration: "none",
+      transition: "all .1s ease",
+      "&.active": {
+        color: "linkAlt",
+      },
+      "&:hover": {
+        color: "linkAlt",
+      },
+      "&:hover > svg": {
+        color: "linkAlt",
+      },
     },
     pre: {
       ...prismPreset,
     },
     code: {
       ...prismPreset,
-      background: 'none'
+      background: "none",
     },
   },
-  
+
   buttons: {
     primary: {
       cursor: "pointer",
@@ -427,6 +459,7 @@ export default {
       fontSize: "18px",
       letterSpacing: "0.03px",
       lineHeight: "19px",
+      margin: "8px 24px 8px 0",
       bg: "primary",
       "&:hover": {
         bg: "primaryEmphasis",
@@ -524,10 +557,10 @@ export default {
       variant: "buttons.outline",
     },
     text: {
-      variant: 'buttons.primary',
-      fontSize: 3, 
-      bg: 'transparent', 
-      color: 'link',
+      variant: "buttons.primary",
+      fontSize: 3,
+      bg: "transparent",
+      color: "link",
       "&:hover": {
         color: "primaryEmphasis",
         textDecoration: "none",
@@ -545,10 +578,10 @@ export default {
       },
     },
     textSmall: {
-      variant: 'buttons.text'
+      variant: "buttons.text",
     },
     icon_text: {
-      variant: 'buttons.text'
-    }
+      variant: "buttons.text",
+    },
   },
-}
+};

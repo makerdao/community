@@ -5,7 +5,7 @@ import { Icon } from "@makerdao/dai-ui-icons";
 
 import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization/";
-import {titleCase} from '@utils';
+import { titleCase } from "@utils";
 
 const Breadcrumbs = ({ children, data, pathDirs }) => {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
@@ -14,7 +14,7 @@ const Breadcrumbs = ({ children, data, pathDirs }) => {
     <Flex
       sx={{
         alignItems: "center",
-        width: '100%',
+        width: "100%",
         mb: "28px",
         flexWrap: "wrap",
         fontSize: 3,
@@ -54,24 +54,23 @@ const Breadcrumbs = ({ children, data, pathDirs }) => {
                 }}
                 key={`breadcrumb-${index}`}
               >
-                {titleCase(p.replace(/-|_|\./g, ' '))}
-
+                {titleCase(p.replace(/-|_|\./g, " "))}
               </Text>
-            )
+            );
           }
 
           return (
             <Fragment key={`breadcrumb-${index}`}>
-            <Text
-              sx={{
-                display: "inline-block",
-                color: "textMuted",
-              }}
-              key={`breadcrumb-${index}`}
-            >
-              {titleCase(p.replace(/-|_|\./g, ' '))}
-            </Text>
-            <Icon name="chevron_right" size={3} sx={{ mx: "13px" }} />
+              <Text
+                sx={{
+                  display: "inline-block",
+                  color: "textMuted",
+                }}
+                key={`breadcrumb-${index}`}
+              >
+                {titleCase(p.replace(/-|_|\./g, " "))}
+              </Text>
+              <Icon name="chevron_right" size={3} sx={{ mx: "13px" }} />
             </Fragment>
           );
         }

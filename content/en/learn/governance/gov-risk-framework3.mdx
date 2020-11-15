@@ -8,7 +8,7 @@ description: "Part 3 of the section describing risk management in Maker"
 
 # Governance Risk Framework (Part 3)
 
-[Part 1](/learn/governance/gov-risk-framework/) of this three-part series covered the stablecoin universe, defined decentralized risk management, and outlined the governance structure around the risk function. 
+[Part 1](/learn/governance/gov-risk-framework/) of this three-part series covered the stablecoin universe, defined decentralized risk management, and outlined the governance structure around the risk function.
 
 [Part 2](/learn/governance/gov-risk-framework2/) took an in-depth look at the risks underlying the system, describe how parameters in the MakerDAO system encapsulate those risks, and finally, outline the models that are most appropriate for measuring and managing those risks.
 
@@ -24,7 +24,7 @@ Governance describes how an organization is controlled and who is accountable to
 
 ### Proposals
 
-Proposals are introduced to the community, discussed, and put up for a Governance Poll and Executive Vote as necessary. 
+Proposals are introduced to the community, discussed, and put up for a Governance Poll and Executive Vote as necessary.
 
 Proposals may be divided into two categories:
 
@@ -46,7 +46,7 @@ Executive Votes use Continuous Approval Voting and are used to vote on what the 
 
 Executive Votes use Continuous Approval Voting, which means the voting process is used to maintain the state or "continuity" of the system rather than introduce new and various initiatives as is the case with Governance Polls.
 
-Imagine that all one million MKR tokens are in the voting construct, with a majority of the tokens in one proposal that reflects the current state of the system. The remaining tokens could then be distributed throughout a collection of new proposals wishing to challenge the state of the system. 
+Imagine that all one million MKR tokens are in the voting construct, with a majority of the tokens in one proposal that reflects the current state of the system. The remaining tokens could then be distributed throughout a collection of new proposals wishing to challenge the state of the system.
 
 Given the overall distribution of tokens, the status quo of the system will likely remain because the majority of the tokens are still voting for the current state.
 
@@ -64,7 +64,9 @@ The lack of quorum incentivizes all MKR token holders to participate in votes an
 
 <List>
 
+
 <Box>
+
 
 #### Governing MakerDAO requires awareness of the tradeoff between the incentives of the liquidity construct and voting construct
 
@@ -72,37 +74,43 @@ MakerDAO becomes a better a system if it is subjected to an array of proposals f
 
 </Box>
 
+
 <Box>
+
 
 #### Governing MakerDAO requires constant involvement
 
-There is no quorum requirement, therefore the governing body needs to be always engaged in order to prevent, what would be, a non-representative number of votes changing the state of the system. 
+There is no quorum requirement, therefore the governing body needs to be always engaged in order to prevent, what would be, a non-representative number of votes changing the state of the system.
 
-Instituting a quorum from the outset would seem a better proposition but institutes an injection of central authority. 
+Instituting a quorum from the outset would seem a better proposition but institutes an injection of central authority.
 
 Quorums are essentially a way of representing the importance of a vote, this is subjective, and any predetermined quorums will only represent what a person or group of people consider to be important.
 
 </Box>
 
+
 <Box>
+
 
 #### Governing MakerDAO requires iterative change
 
-The Maker Protocol is based on scientific governance and the system gets better by continuously being challenged and changed. A foundational component of the scientific method is empiricism, which states that we should always be validating or challenging hypotheses with data. 
+The Maker Protocol is based on scientific governance and the system gets better by continuously being challenged and changed. A foundational component of the scientific method is empiricism, which states that we should always be validating or challenging hypotheses with data.
 
-Changes would be expected to have material marginal benefits at first and slowly diminish to negligible marginal benefits. At this point, the system would ideally be in a steady state of equilibrium. 
+Changes would be expected to have material marginal benefits at first and slowly diminish to negligible marginal benefits. At this point, the system would ideally be in a steady state of equilibrium.
 
 Then a regime shift would occur and we would have the next wave of changes. Regime changes should always be expected.
 
 </Box>
 
+
 </List>
+
 
 ### Governance Security Module
 
 The Governance Security Module mitigates the effects of detrimental proposals in the Maker Protocol by instituting a delay before executing the outcome of Executive Votes.
 
-The new code is encapsulated by the module before deployment to the system and held for final consideration for 24 hours, during which all stakeholders may review the code to ensure the integrity of the system, especially the stakeholders responsible for Emergency Shutdown. 
+The new code is encapsulated by the module before deployment to the system and held for final consideration for 24 hours, during which all stakeholders may review the code to ensure the integrity of the system, especially the stakeholders responsible for Emergency Shutdown.
 
 If the code is reviewed and considered detrimental to the system then the system will be shut down before it can be deployed.
 
@@ -124,6 +132,7 @@ The procedure required to vote in a new Risk Team is as follows:
 
 <Process>
 
+
 Risk team describes and demonstrates their set of tools. This includes interacting with MKR token holders and other Risk Teams.
 
 When the Risk Team is confident that the tools are understood, they should formally submit their tools to be included.
@@ -142,19 +151,21 @@ If MKR token holders find the values submitted to the Executive Vote are not the
 
 </Process>
 
+
 #### Executive Vote Process: Voting in a New Collateral Type and Risk Parameters
 
-A new collateral type added to the system implies the possibility of generating new Dai. The inclusion of a new collateral type should be considered from two angles. 
+A new collateral type added to the system implies the possibility of generating new Dai. The inclusion of a new collateral type should be considered from two angles.
 
-The first is the potential that it brings to generate new Dai, the second is the amount of stability it brings to the system. 
+The first is the potential that it brings to generate new Dai, the second is the amount of stability it brings to the system.
 
-A qualitative assessment of the organization representing the token gives an indication of how robust the token could be, providing insight into the level of stability it could contribute to the system. 
+A qualitative assessment of the organization representing the token gives an indication of how robust the token could be, providing insight into the level of stability it could contribute to the system.
 
 A quantitative assessment of the token gives an indication of the risks faced in trading the token in secondary markets, as well as the amount of the token that should be used in the system. Such an assessment would indicate the potential amount of Dai that could be generated as well the market risks of the token.
 
 Every Executive Vote is preceded by a Governance Vote. The sequence for the Governance Vote will be:
 
 <Process>
+
 
 The collateral type will be presented one or a group of Risk Teams, including the qualitative and quantitative assessment of the collateral type.
 
@@ -166,9 +177,11 @@ At the end of the voting period, the proposal will pass if it has the majority v
 
 </Process>
 
+
 The sequence for the Executive Vote will be:
 
 <Process>
+
 
 The qualitative and quantitative assessment of the collateral type will be updated with any new information and made public again.
 
@@ -183,6 +196,7 @@ The governance security module will kick in and delay the deployment of code to 
 The code is then deployed to the blockchain and the state of MakerDAO is changed.
 
 </Process>
+
 
 At this point, the new collateral type is then free to be used as collateral and to contribute to the overall supply of Dai. This covers the different types of voting constructs.
 

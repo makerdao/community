@@ -2,11 +2,11 @@
 
 ## What is Liquidation?
 
-Liquidation is the process of selling collateral to cover the amount of Dai a user has generated from their [Vault](vault.md). Liquidation is the process of selling collateral to cover a user’s generated Dai. A Vault can be Liquidated if the value of its collateral falls below the required minimum level, called the Liquidation Ratio. During the Liquidation process, enough collateral is sold to cover the debt along with a Liquidation Penalty, leaving the remaining collateral available for withdrawal.
+Liquidation is the process of selling collateral to cover the amount of Dai a user has generated from their [Vault](/learn/vaults/). Liquidation is the process of selling collateral to cover a user’s generated Dai. A Vault can be Liquidated if the value of its collateral falls below the required minimum level, called the Liquidation Ratio. During the Liquidation process, enough collateral is sold to cover the debt along with a Liquidation Penalty, leaving the remaining collateral available for withdrawal.
 
 ## Why does Liquidation exist?
 
-Dai is a proxy for the US Dollar, with the additional benefit of being fully backed by real value in the form of various collateral assets. Liquidation helps to ensure that Dai is always backed by an appropriate amount of collateral by closing-out [Vaults](vault.md) that are under their minimum required Collateralization Ratio for their given collateral type.
+Dai is a proxy for the US Dollar, with the additional benefit of being fully backed by real value in the form of various collateral assets. Liquidation helps to ensure that Dai is always backed by an appropriate amount of collateral by closing-out [Vaults](/learn/vaults/) that are under their minimum required Collateralization Ratio for their given collateral type.
 
 ## Who triggers Liquidation?
 
@@ -14,19 +14,19 @@ To make sure that the required surplus of collateral exists at all times, a clas
 
 ## What is the Liquidation Ratio?
 
-The Liquidation Ratio is the minimum required collateralization level for each [Vault](vault.md) type before it is considered undercollateralized and subject to Liquidation. The Maker Protocol’s [Oracles](oracles.md) provide the system with pricing data that is used to track Vaults for when their Liquidation Ratio is breached. Once breached, they are available for Liquidation.
+The Liquidation Ratio is the minimum required collateralization level for each [Vault](/learn/vaults/) type before it is considered undercollateralized and subject to Liquidation. The Maker Protocol’s [Oracles](/learn/Oracles/) provide the system with pricing data that is used to track Vaults for when their Liquidation Ratio is breached. Once breached, they are available for Liquidation.
 
-For example, a Vault with a 150% Liquidation Ratio will require a minimum $1.50 of collateral value for every $1 of Dai generated. If the value of the collateral falls to $1.49 it will be Liquidated to cover the generated Dai in addition to a fee called the Liquidation Penalty.
+For example, a Vault with a 150% Liquidation Ratio will require a minimum $1.50 of collateral value for every $1 of Dai generated. If the value of the collateral falls to \$1.49 it will be Liquidated to cover the generated Dai in addition to a fee called the Liquidation Penalty.
 
-Each Vault type’s Liquidation Ratio is determined by a combination of the collateral’s risk profile and the [Stability Fee](stability-fee.md). There may be multiple Vault types for each collateral, with varying Liquidation Ratios and Stability Fees.
+Each Vault type’s Liquidation Ratio is determined by a combination of the collateral’s risk profile and the [Stability Fee](/learn/vaults/stability-fees/). There may be multiple Vault types for each collateral, with varying Liquidation Ratios and Stability Fees.
 
 ## What is the Liquidation Price?
 
-This is the price at which a [Vault](vault.md) becomes vulnerable to Liquidation. It is unique to each user’s Vault and moves up slowly as [Stability Fees](stability-fee.md) accrue.
+This is the price at which a [Vault](/learn/vaults/) becomes vulnerable to Liquidation. It is unique to each user’s Vault and moves up slowly as [Stability Fees](/learn/vaults/stability-fees/) accrue.
 
 ## What is the Liquidation Penalty?
 
-This is a fee that is paid by [Vault](vault.md) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
+This is a fee that is paid by [Vault](/learn/vaults/) owners when their Vaults are Liquidated. The fee is added to the Vault’s total outstanding generated DAI when a Liquidation occurs, which results in more of the collateral being sold on [Auction](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol).
 
 Proceeds from Liquidation Penalties are put towards the Surplus Auctions, which result in burned MKR.
 
@@ -40,7 +40,7 @@ Liquidation occurs through an [Auction mechanism](https://docs.makerdao.com/auct
 
 The simplified order of operations looks like this:
 
-- A Keeper detects an undercollateralized [Vault](vault.md) and triggers a Liquidation.
+- A Keeper detects an undercollateralized [Vault](/learn/vaults/) and triggers a Liquidation.
 - All of the collateral is put up for auction to cover the outstanding Dai + Liquidation Penalty
 - Once bids reach the Dai amount equaling to the outstanding Dai + Liquidation Penalty, the auction reverses and bidders now compete by offering to accept less collateral for the Dai they bid in the previous phase.
 - Once the auction completes bidders receive the sold collateral, the winning bidders Dai is burned, and the Vault owner receives leftover collateral if any remains.
@@ -53,7 +53,7 @@ Since Liquidations occur through [Collateral Auctions](https://docs.makerdao.com
 
 ## How do I calculate my Liquidation Price?
 
-The Liquidation Price for a given [Vault](vault.md) is usually shown on front-ends that offer Vaults. Though one can manually calculate their Liquidation Price by using the following simplified formula:
+The Liquidation Price for a given [Vault](/learn/vaults/) is usually shown on front-ends that offer Vaults. Though one can manually calculate their Liquidation Price by using the following simplified formula:
 
 ### Formula
 
@@ -61,11 +61,11 @@ The Liquidation Price for a given [Vault](vault.md) is usually shown on front-en
 (Generated Dai * Liquidation Ratio) / (Amount of Collateral) = Liquidation Price
 ```
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Generated Dai | 1000 DAI |
-  | Liquidation Ratio | 150% |
-  | Amount of Collateral | 10 ETH |
+| Variable             | Value    |
+| -------------------- | -------- |
+| Generated Dai        | 1000 DAI |
+| Liquidation Ratio    | 150%     |
+| Amount of Collateral | 10 ETH   |
 
 ### Result
 
@@ -77,7 +77,7 @@ If we use ETH as an example, it would need to fall to 150 USD before the Vault i
 
 ## How do I calculate my Collateralization Ratio?
 
-The Collateralization Ratio for a given [Vault](vault.md) is usually shown on front-ends that offer Vaults. Though one can manually calculate their Collateralization Ratio by using the following simplified formula:
+The Collateralization Ratio for a given [Vault](/learn/vaults/) is usually shown on front-ends that offer Vaults. Though one can manually calculate their Collateralization Ratio by using the following simplified formula:
 
 Formula:
 
@@ -87,11 +87,11 @@ Formula:
 
 Given that:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Collateral Amount | 10 ETH |
-  | Collateral Price | 300 USD |
-  | Generated Dai | 1000 DAI |
+| Variable          | Value    |
+| ----------------- | -------- |
+| Collateral Amount | 10 ETH   |
+| Collateral Price  | 300 USD  |
+| Generated Dai     | 1000 DAI |
 
 Result:
 
@@ -103,10 +103,9 @@ The Vault in this example has a Collateralization Ratio of 300%.
 
 ## How do I lower my Liquidation Price?
 
-If a user’s [Vault](vault.md) is close to the Liquidation Price, they may either add more collateral or pay Dai back into the Vault.
+If a user’s [Vault](/learn/vaults/) is close to the Liquidation Price, they may either add more collateral or pay Dai back into the Vault.
 
 The most efficient way a user can lower their Liquidation Price is to repay DAI. This also has the added benefit of reducing the Stability Fees that accrue for the owner of the Vault. This can be proven by the following example:
-
 
 Formula:
 
@@ -114,15 +113,14 @@ Formula:
 (Generated Dai x Liquidation Ratio) ÷ Collateral Amount = Liquidation Price
 ```
 
-
 Given that:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | Liquidation Ratio | 150% |
-  | Collateral Amount | 10 ETH|
-  | Collateral Price | 200 USD |
-  | Generated Dai | 1000 DAI |
+| Variable          | Value    |
+| ----------------- | -------- |
+| Liquidation Ratio | 150%     |
+| Collateral Amount | 10 ETH   |
+| Collateral Price  | 200 USD  |
+| Generated Dai     | 1000 DAI |
 
 Current Liquidation Price:
 
@@ -144,7 +142,7 @@ Liquidation Price change by **repaying** 400 Dai:
 
 ## What are typical practices to avoid getting Liquidated?
 
-Remaining aware of a [Vault’s](vault.md) condition is the Vault owner’s own responsibility. Ensuring that assets remain safe from Liquidation is entirely in the hands of each Vault owner. Below are some common practices to monitor the health of a Vault:
+Remaining aware of a [Vault’s](/learn/vaults/) condition is the Vault owner’s own responsibility. Ensuring that assets remain safe from Liquidation is entirely in the hands of each Vault owner. Below are some common practices to monitor the health of a Vault:
 
 Vault owners could:
 
@@ -158,7 +156,7 @@ Remember that opening a Vault and generating Dai represents the creation of risk
 
 ## How would a flash crash affect the Liquidation of Vaults?
 
-A flash crash on a single exchange will not affect the system as each [Oracle](oracles.md) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s decentralized Oracles in the [Oracle FAQ](oracles.md).
+A flash crash on a single exchange will not affect the system as each [Oracle](/learn/Oracles/) aggregates prices from many sources. The Oracle calculates the median of these prices, which naturally filters outliers like a broken price from an exchange that’s experienced a flash crash. You can read more about the Maker Protocol’s decentralized Oracles in the [Oracle FAQ](/learn/Oracles/).
 
 ## Where can I view live information about Liquidations?
 

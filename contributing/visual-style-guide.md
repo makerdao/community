@@ -7,6 +7,7 @@ This style guide outlines the aesthetic elements & standards currently being use
 Maker uses three highlight colors - `Maker Teal`, `Maker Orange` & `Maker Blue`, plus a color for `Headings` and one for `Body Text`.
 
 ### CSS
+
 Declare the colors as global CSS variables.
 
 ```css
@@ -297,7 +298,7 @@ Maker currently uses system fonts across its properties, with Helvetica Neue as 
 
 ```css
 * {
-  font-family: system-ui, 'Helvetica Neue', sans-serif;
+  font-family: system-ui, "Helvetica Neue", sans-serif;
 }
 ```
 
@@ -323,48 +324,47 @@ For any secondary calls-to-action, like canceling out of a flow, or triggering a
 
 ```css
 .buttonPrimary {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    padding: 0.875rem 1.5rem 0.875rem 1.5rem;
-    color: #fafafa;
-    background: var(--color-makerteal);
-    font-size: 1.25rem;
-    border: 1px solid var(--color-makerteal);
-    border-radius: 2px;
-    outline: none;
-    opacity: 1;
-    font-size: 1.25rem;
-    transition: 0.2s ease-in-out;
-    };
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 0.875rem 1.5rem 0.875rem 1.5rem;
+  color: #fafafa;
+  background: var(--color-makerteal);
+  font-size: 1.25rem;
+  border: 1px solid var(--color-makerteal);
+  border-radius: 2px;
+  outline: none;
+  opacity: 1;
+  font-size: 1.25rem;
+  transition: 0.2s ease-in-out;
+}
 
 .buttonPrimary:hover {
-    translate: transformY(-10%);
-    cursor: pointer;
-};
+  translate: transformY(-10%);
+  cursor: pointer;
+}
 
 .buttonSecondary {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    padding: 0.875rem 1.5rem 0.875rem 1.5rem;
-    color: var(--color-makerteal);
-    background: transparent;
-    font-size: 1.25rem;
-    border: 1px solid var(--color-makerteal);
-    border-radius: 2px;
-    outline: none;
-    opacity: 1;
-    font-size: 1.25rem;
-    transition: 0.2s ease-in-out;
-    }
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 0.875rem 1.5rem 0.875rem 1.5rem;
+  color: var(--color-makerteal);
+  background: transparent;
+  font-size: 1.25rem;
+  border: 1px solid var(--color-makerteal);
+  border-radius: 2px;
+  outline: none;
+  opacity: 1;
+  font-size: 1.25rem;
+  transition: 0.2s ease-in-out;
+}
 
 .buttonPrimary:hover {
-    translate: transformY(-10%);
-    cursor: pointer;
-    };
+  translate: transformY(-10%);
+  cursor: pointer;
+}
 ```
-
 
 ```html
 <button class="buttonPrimary">A Primary Button</button>
@@ -393,29 +393,26 @@ Used as a tab mechanism, to filter content within a specific section on a page.
 
 ### Code
 
-
 ```html
-<button class="makerPill">
-Pill
-</button>
+<button class="makerPill">Pill</button>
 ```
 
 ```css
 .makerPill {
-min-width: 120px;
-color: var(--maker-bodycolor);
-padding: 0.5rem 0.875rem 0.5rem 0.875rem;
-outline: none;
-border-radius: 100px;
-border: 1px solid var(--maker-bodycolor);
-text-transform: uppercase;
-font-weight: 400;
-transition: 0.2s ease-in-out;
+  min-width: 120px;
+  color: var(--maker-bodycolor);
+  padding: 0.5rem 0.875rem 0.5rem 0.875rem;
+  outline: none;
+  border-radius: 100px;
+  border: 1px solid var(--maker-bodycolor);
+  text-transform: uppercase;
+  font-weight: 400;
+  transition: 0.2s ease-in-out;
 }
 
 makerPill:hover {
-border: 1px solid var(--maker-teal);
-color: var(--maker-teal);
+  border: 1px solid var(--maker-teal);
+  color: var(--maker-teal);
 }
 ```
 
@@ -470,113 +467,110 @@ _This example is a list of Grantees displayed on the Maker Transparency Dashboar
 ```css
 /* Wraps all the RowCard objects */
 .rowCardWrapper {
-    grid-column: 1 / -1;
-    display: grid;
-    grid-template-columns: minmax(300px,1024px);
-    justify-items: center;
-    justify-content: space-around;
-    margin: 0rem 1rem 0rem 1rem;
-    }
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(300px, 1024px);
+  justify-items: center;
+  justify-content: space-around;
+  margin: 0rem 1rem 0rem 1rem;
+}
 
 /* The RowCard object */
 .rowCardContainer {
-    display: flex;
-    width: 100%;
-    max-width: 1024px;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: space-between;
-    background: hsl(210,33%,98%);
-    border: 1px solid hsla(240,10%,90%,1);
-    border-top: 0px;
-    padding: 1rem;
+  display: flex;
+  width: 100%;
+  max-width: 1024px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  background: hsl(210, 33%, 98%);
+  border: 1px solid hsla(240, 10%, 90%, 1);
+  border-top: 0px;
+  padding: 1rem;
 }
 
 .rowCardContainer:first-child {
-    border-top: 1px solid hsla(240,10%,90%,1);
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+  border-top: 1px solid hsla(240, 10%, 90%, 1);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 /* Contains the RowCard title and optional secondary content */
 .rowCardContainerTop {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
 }
 
-    .rowCardLink {
-        transition: 0.2s ease-in-out;
-    }
+.rowCardLink {
+  transition: 0.2s ease-in-out;
+}
 
-    .rowCardLink:hover {
-        color: var(--Maker-Teal);
-    }
+.rowCardLink:hover {
+  color: var(--Maker-Teal);
+}
 
-    .rowCardHeadline {
-        font-size: 1.5rem;
-        color: var(--Maker-Headline);
-        margin: 0;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        transition: 0.15s ease-in-out;
-    }
+.rowCardHeadline {
+  font-size: 1.5rem;
+  color: var(--Maker-Headline);
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: 0.15s ease-in-out;
+}
 
-    /* Contains the social icons in the example. Optional and can be removed if unnecessary for your use case */
-    .rowCardContentSecondary {
-        display: flex;
-        justify-items: center;
-        align-items: center;
-    }
+/* Contains the social icons in the example. Optional and can be removed if unnecessary for your use case */
+.rowCardContentSecondary {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
 
 /* Any secondary content. In the example this contains the project description, but it can be used for any relevant text-string. */
 .rowCardContentSecondary {
-    color: var(--body-color);
-    width: 75%;
-    white-space: normal;
-    text-overflow: ellipsis;
-    max-height: 140px;
-    overflow: hidden;
-    padding: 1rem 1rem 1rem 0rem;
+  color: var(--body-color);
+  width: 75%;
+  white-space: normal;
+  text-overflow: ellipsis;
+  max-height: 140px;
+  overflow: hidden;
+  padding: 1rem 1rem 1rem 0rem;
 }
 
 /* Contains any supporting content. In the example, we list out descriptive/category labels*/
 .rowCardBottomContainer {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 100%;
 }
 
-    /* Our standard label object */
-    .makerLabel {
-        font-size: 1rem;
-        margin: 0 1rem;
-        color: var(--body-color);
-        text-transform: uppercase;
-        text-align: left;
-    }
+/* Our standard label object */
+.makerLabel {
+  font-size: 1rem;
+  margin: 0 1rem;
+  color: var(--body-color);
+  text-transform: uppercase;
+  text-align: left;
+}
 
 /* Mobile styles */
 @media and (max-width: 420px) {
+  .rowCardWrapper {
+    grid-gap: 1rem;
+  }
 
-   .rowCardWrapper {
-       grid-gap: 1rem;
-   }
-
-   .rowCardContainer {
+  .rowCardContainer {
     max-width: 280px;
     border-radius: 4px;
     padding-bottom: 0;
+  }
 
-   }
-
-   .makerLabel {
-       padding: 1rem 0rem 1rem 0rem;
-   }
-
+  .makerLabel {
+    padding: 1rem 0rem 1rem 0rem;
+  }
 }
 ```
 
@@ -599,8 +593,10 @@ The title for a list of common questions that link out to their respective answe
 
 ```css
 .sectionTitle {
-    text-transform: uppercase;
-    color: var(--color-makerteal) /* Use a color that's complimentary to the background */
+  text-transform: uppercase;
+  color: var(
+    --color-makerteal
+  ); /* Use a color that's complimentary to the background */
 }
 ```
 
@@ -612,12 +608,12 @@ Links to external sites for in-line text, e.g. within a paragraph of text.
 
 ```css
 a {
-    color: var(—color-makerteal);
-    transition: 0.15s ease-in-out;
+  color: var(—color-makerteal);
+  transition: 0.15s ease-in-out;
 }
 
 a:hover {
-    border: 1px solid var(—color-makerteal)
+  border: 1px solid var(—color-makerteal);
 }
 ```
 
@@ -656,25 +652,25 @@ Used in the Footer of the Transparency Dashboard to link out to external educati
 ```css
 /* Wraps all LinkCards */
 .LinkCardWrapper {
-    display: grid;
-    grid-template-columns: minmax(320px,540px);
-    grid-gap: 2rem;
+  display: grid;
+  grid-template-columns: minmax(320px, 540px);
+  grid-gap: 2rem;
 }
 
 /* The parent container object for each LinkCard */
 .LinkCardContainer {
-    color: var(--body-color);
-    padding: 1.5rem 1.875rem 1.875rem 3rem;
-    border-radius: 4px;
-    margin: 1rem 0rem;
-    background: none;
-    transition: 0.15s linear;
-    border: 1px solid hsla(209,51%,80%,1);
-    border-radius: 4px;
+  color: var(--body-color);
+  padding: 1.5rem 1.875rem 1.875rem 3rem;
+  border-radius: 4px;
+  margin: 1rem 0rem;
+  background: none;
+  transition: 0.15s linear;
+  border: 1px solid hsla(209, 51%, 80%, 1);
+  border-radius: 4px;
 }
 
 .LinkCardContainer:hover {
-    background: */ Whatever background-gradient is complimentary */
+  background: * / Whatever background-gradient is complimentary * /;
 }
 ```
 

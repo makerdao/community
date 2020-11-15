@@ -1,4 +1,3 @@
-
 ![](./assets/maker-relay-ep-0.png)
 
 Hey Maker community, welcome to the first edition of Maker Relay!
@@ -17,33 +16,34 @@ Whether you hold Maker (MKR) or DAI, own a vault, or want to get more involved i
 
 Polls are using Instant Run-off so you can select multiple options and ranked-choices will be prioritized.
 
-*Standard rate polls close Thursday June 25, 2020 at 4PM UTC.*
+_Standard rate polls close Thursday June 25, 2020 at 4PM UTC._
 
-- [Base Rate Adjustment](https://vote.makerdao.com/polling-proposal/qmvqc9njedfcfttk6sjpnun8qnyuc52uc6adt2hst4vtrz) -  [-4% and 4%]  \
-Select a base rate for stability fees collected on Vaults. The current base rate is 0%.
+- [Base Rate Adjustment](https://vote.makerdao.com/polling-proposal/qmvqc9njedfcfttk6sjpnun8qnyuc52uc6adt2hst4vtrz) - [-4% and 4%] \
+  Select a base rate for stability fees collected on Vaults. The current base rate is 0%.
 - [Dai Savings Rate Spread Adjustment](https://vote.makerdao.com/polling-proposal/qmzvkijnqgwg8an3pyhy376glsfbqfelxgqcpbnswqwx82) - [0% and 4%] \
-Select a Dai Savings Rate Spread, the difference between the Dai Savings Rate and the Base Rate. The current Dai Savings Rate is 0%.
+  Select a Dai Savings Rate Spread, the difference between the Dai Savings Rate and the Base Rate. The current Dai Savings Rate is 0%.
 
-*Collateral inclusion polls will run until Monday July 6, 2020 at 4PM UTC.*
+_Collateral inclusion polls will run until Monday July 6, 2020 at 4PM UTC._
 
 - [Should we add LINK to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmaleb9ryc4xmhkjlm9ailxtxroft6khjejcd7otm6yf13) - [Yes/No] \
-Chainlink is a generalized blockchain agnostic framework for building decentralized oracle networks that provide smart contracts with tamper-resistant access to real world data, events, and payments that reside on off-chain systems. [[MIP-6]](https://forum.makerdao.com/t/link-collateral-onboarding-application/2586)
+  Chainlink is a generalized blockchain agnostic framework for building decentralized oracle networks that provide smart contracts with tamper-resistant access to real world data, events, and payments that reside on off-chain systems. [[MIP-6]](https://forum.makerdao.com/t/link-collateral-onboarding-application/2586)
 - [Should we add WKT to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmrzr4xwqxaiznubckiquwbyffffgkpdjrngczcwwfcdr7) - [Yes/No] \
-Wizkey has deployed Define, a decentralized market for tokenized loans, invoices and asset backed securities. [[MIP-6]](https://forum.makerdao.com/t/wkt-mip6-mcd-application-wizkey-token-insured-tokenized-invoices/2643)
+  Wizkey has deployed Define, a decentralized market for tokenized loans, invoices and asset backed securities. [[MIP-6]](https://forum.makerdao.com/t/wkt-mip6-mcd-application-wizkey-token-insured-tokenized-invoices/2643)
 - [Should we add ENJ to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmrt8b8jwrynwiucvbpqmofxpqiskwyryszvdcqaka8xrz) - [Yes/No] \
-Enjin offers an ecosystem of integrated blockchain products, tools, and services that enable anyone to easily manage, explore, distribute, and integrate blockchain assets. [[MIP-6]](https://forum.makerdao.com/t/enj-mip6-mcd-application-enjin/2639)
+  Enjin offers an ecosystem of integrated blockchain products, tools, and services that enable anyone to easily manage, explore, distribute, and integrate blockchain assets. [[MIP-6]](https://forum.makerdao.com/t/enj-mip6-mcd-application-enjin/2639)
 - [Should we add PAXG to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmu8ty14qpgpy86dtwycpasywxgl4m4kwz7fyatyg3bwwm) - [Yes/No] \
-PAX Gold (PAXG) is an ERC-20 token. Each token is backed by one fine troy ounce (t oz) of a 400 oz London Good Delivery gold bar, stored in Brink’s vaults. [[MIP-6]](https://forum.makerdao.com/t/paxg-pax-gold-mip6-collateral-application/2584)
+  PAX Gold (PAXG) is an ERC-20 token. Each token is backed by one fine troy ounce (t oz) of a 400 oz London Good Delivery gold bar, stored in Brink’s vaults. [[MIP-6]](https://forum.makerdao.com/t/paxg-pax-gold-mip6-collateral-application/2584)
 - [Should we add MATIC to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmpilr6zwthsc6lpf4jnpkknqwywqlpnuvoa3jakwkfyca) - [Yes/No] \
-Matic Network is a Layer 2 scaling solution that aims to provide a generalized Layer2 platform which offers various Layer2 approaches over any Layer1 blockchain to developers to scale their apps for large scale usage. [[MIP-6]](https://forum.makerdao.com/t/matic-mcd-application-matic-network/2570)
+  Matic Network is a Layer 2 scaling solution that aims to provide a generalized Layer2 platform which offers various Layer2 approaches over any Layer1 blockchain to developers to scale their apps for large scale usage. [[MIP-6]](https://forum.makerdao.com/t/matic-mcd-application-matic-network/2570)
 - [Should we add LEND to the Maker Protocol?](https://vote.makerdao.com/polling-proposal/qmfhnsk3vaahvf3dwaujzwczevrne9usfbblogl52ubqrz) - [Yes/No] \
-Aave is a decentralized non-custodial money market protocol where users can participate as depositors or borrowers. [[MIP-6]](https://forum.makerdao.com/t/lend-mip6-collateral-onboarding-aave/2529)
+  Aave is a decentralized non-custodial money market protocol where users can participate as depositors or borrowers. [[MIP-6]](https://forum.makerdao.com/t/lend-mip6-collateral-onboarding-aave/2529)
 
 [Governance at a glance](https://forum.makerdao.com/t/governance-at-a-glance/84/76)
 
 ## Whats Happening with MIPs
 
 The Maker Improvement Proposal (MIPs) Framework provides a clear process for Maker governance to change the Protocol as needed.
+
 - [Monthly MIPs executive vote is live!](https://forum.makerdao.com/t/the-monthly-mips-executive-vote-is-live/2842)
 - [Weekly MIPs Update #6 (June 15 - 19)](https://forum.makerdao.com/t/weekly-mips-update-6/2914)
 - [Weekly MIPs Update #5 (June 8 - 12)](https://forum.makerdao.com/t/weekly-mips-update-5/2833)
@@ -64,7 +64,7 @@ The Maker Improvement Proposal (MIPs) Framework provides a clear process for Mak
 
 #### Dai-ve deeper into the Forums
 
-1. [Why aren’t MKR Holders voting?](https://forum.makerdao.com/t/why-arent-mkr-holders-voting/301) 
+1. [Why aren’t MKR Holders voting?](https://forum.makerdao.com/t/why-arent-mkr-holders-voting/301)
 
 2. [COMP as DAI collateral discussion](https://forum.makerdao.com/t/comp-as-dai-collateral-a-pre-mip-discussion/2892/14)
 
@@ -81,13 +81,14 @@ The Maker Improvement Proposal (MIPs) Framework provides a clear process for Mak
 ### Meetings
 
 #### Community Development Meetings
-  - Tuesdays at 16:00 UTC
-    - [Crowdcast](https://www.crowdcast.io/e/the-makerdao-tuesday-2) - Message [General](https://chat.makerdao.com/channel/general) for any password updates
+
+- Tuesdays at 16:00 UTC
+  - [Crowdcast](https://www.crowdcast.io/e/the-makerdao-tuesday-2) - Message [General](https://chat.makerdao.com/channel/general) for any password updates
 
 #### Community Collateral Onboarding
 
 - Wednesdays at 17:50 UTC
-    - [Zoom]( https://zoom.us/j/697074715) - Message in [Maker Chat](https://chat.makerdao.com/channel/general) for password
+  - [Zoom](https://zoom.us/j/697074715) - Message in [Maker Chat](https://chat.makerdao.com/channel/general) for password
 
 #### Governance & Risk
 

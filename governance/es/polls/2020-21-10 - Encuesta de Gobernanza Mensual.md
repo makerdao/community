@@ -2,7 +2,7 @@
 
 [https://github.com/makerdao/community/blob/ad64bcd38af6caf06c8098868f78cf2f1ed4efe4/governance/polls/MIPs Monthly Governance Poll - September 21%2C 2020.md](https://github.com/makerdao/community/blob/ad64bcd38af6caf06c8098868f78cf2f1ed4efe4/governance/polls/MIPs%20Monthly%20Governance%20Poll%20-%20%20September%2021%2C%202020.md)
 
-Los Facilitadores de Gobernanza han colocado la MIP3: Encuesta de Gobernanza mensual en el sistema de votación. Esta encuesta consulta si el conjunto del contenido del Ciclo de Gobernanza de este mes debería proceder al Voto Ejecutivo que tendrá lugar el 28 de Septiembre de 2020.  Los contenidos de esta encuesta consisten en:
+Los Facilitadores de Gobernanza han colocado la MIP3: Encuesta de Gobernanza mensual en el sistema de votación. Esta encuesta consulta si el conjunto del contenido del Ciclo de Gobernanza de este mes debería proceder al Voto Ejecutivo que tendrá lugar el 28 de Septiembre de 2020. Los contenidos de esta encuesta consisten en:
 
 - [MIP15: Dark Spell Mechanism](https://forum.makerdao.com/t/2578)
 - [MIP12c2-SP4: LRC Collateral Onboarding](https://forum.makerdao.com/t/3558)
@@ -12,7 +12,7 @@ Los Facilitadores de Gobernanza han colocado la MIP3: Encuesta de Gobernanza men
 - [MIP7c3-SP4: Domain Team Onboarding (Smart Contract Domain Team)](https://forum.makerdao.com/t/4057)
 - [MIP13c3-SP2: Declaration of Intent - Dai Flash Mint Module](https://forum.makerdao.com/t/3635)
 
- La Encuesta Mensual de Gobernanza de este mes estará activa por tres días a partir del lunes 21 de septiembre a las 16:00 UTC.
+La Encuesta Mensual de Gobernanza de este mes estará activa por tres días a partir del lunes 21 de septiembre a las 16:00 UTC.
 
 ## **Reseña**
 

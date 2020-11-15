@@ -2,7 +2,7 @@
 
 This is a guide to producing a high quality summary of recurring Governance and Risk meetings at MakerDAO.
 
-TL;DR: The *most* important part of these summaries is accuracy, readability, and a format that is intuitive for the reader.
+TL;DR: The _most_ important part of these summaries is accuracy, readability, and a format that is intuitive for the reader.
 
 ## Table of Contents
 
@@ -43,18 +43,18 @@ Producing a summary requires two roles, a Writer and Reviewer.
 
 1. **Reviewer:** Prepares the working doc in HackMD by starting a new note from a [template of the summary](./gnr-summary-template.md) and sends it to the Writer(s).
 1. **Writer(s):** Joins the [governance call](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles) and begins taking notes.
-    - If there are multiple Writers doing the summary, they should decide amongst themselves which sections they are taking notes on.
-    - Communication between writers can happen in the working doc or through a separate chat group.
+   - If there are multiple Writers doing the summary, they should decide amongst themselves which sections they are taking notes on.
+   - Communication between writers can happen in the working doc or through a separate chat group.
 1. **Writer(s):** Skims the working doc and fix any obvious errors once the call concludes.
 1. **Writer(s):** Receives a link to the recording of the call a few hours later.
 1. **Writer(s):** Completes the summary with the aid of the recording, adding time-anchored-links, adding relevant links, and fixing unclear or unfinished notes.
 1. **Writer(s):** Notifies the Reviewer that they are finished with the summary.
 1. **Reviewer:** Performs a full quality-check of the summary.
 1. **Reviewer:** Submits a single Pull Request to the [MakerDAO community repository](https://github.com/makerdao/community) that:
-    -  Adds the summary as a new file in the [summaries folder](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings/summaries)
-    -  Adds a link to the new file in the [summaries README file](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/README.md)
-    -  Adds a link to the new file in community repo's [SUMMARY.md file](https://github.com/makerdao/community/blob/master/SUMMARY.md)
-1.  **Reviewer:** Submits the summary as a comment on the call's [forum thread.](https://forum.makerdao.com/c/governance/gnr)
+   - Adds the summary as a new file in the [summaries folder](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings/summaries)
+   - Adds a link to the new file in the [summaries README file](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/README.md)
+   - Adds a link to the new file in community repo's [SUMMARY.md file](https://github.com/makerdao/community/blob/master/SUMMARY.md)
+1. **Reviewer:** Submits the summary as a comment on the call's [forum thread.](https://forum.makerdao.com/c/governance/gnr)
 
 ## Summary Format Rules
 
@@ -110,9 +110,9 @@ This is the general structure of the document. #h refers to the heading type. He
 - Minor edits to bridge spoken word to written word are permitted and should respect the semantic information being conveyed by the speaker.
 - Do not include "umm", "so", "like", irrelevant tangents, and any other obfuscating language. The aim of the summary is to most clearly capture the main points in a concise and readable fashion that is semantically true to how the point was spoken.
 - Add an `h4` Discussion header at the end of each section if there are questions or comments.
-    -  If there are no questions or comments, do not include a Discussion header.
+  - If there are no questions or comments, do not include a Discussion header.
 - Add a `` `Chat` `` marker to the beginning of questions or comments coming from the chat.
-    - Only include insightful comments or important questions. Especially include content that is responded to on the call.
+  - Only include insightful comments or important questions. Especially include content that is responded to on the call.
 
 ### Special Language Rules
 
@@ -123,20 +123,20 @@ In standardizing the rules around contributing, the community maintains a [writi
 - Use [oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - Capitalize names of people and online handles.
 - Capitalize and use backticks for any [specific system parameters:](https://docs.makerdao.com/other-documentation/system-glossary)
-    - For example,`` `flop` ``, `` `bite` ``, `` `vow` ``, `` `kick` ``, etc.
+  - For example,`` `flop` ``, `` `bite` ``, `` `vow` ``, `` `kick` ``, etc.
 - Do not use backticks when referring to [generalized system language.](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/glossary)
-    - For example, Stability Fee, Debt Ceiling, Debt Auction, Vault ETH-A, MIPs, etc.
+  - For example, Stability Fee, Debt Ceiling, Debt Auction, Vault ETH-A, MIPs, etc.
 - When referencing material inside the summary itself, please use "below" and "above" language.
 
 ### Screenshot Best Practices
 
-The Governance Calls often have visual presentations. The most efficient way to capture these is through screenshots, and add elaborating notes below the image if necessary. The recommended software below should keep the last screenshot in your clipboard as a copied image. In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you([see example.](![](https://i.imgur.com/nNBR9UT.png)))
+The Governance Calls often have visual presentations. The most efficient way to capture these is through screenshots, and add elaborating notes below the image if necessary. The recommended software below should keep the last screenshot in your clipboard as a copied image. In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you([see example.](<![](https://i.imgur.com/nNBR9UT.png)>))
 
 - For PCs: Download [Puush](https://puush.me/) or [ShareX](https://getsharex.com/) and create a hotkey for "Region Screenshot."
-    - Both of these options keep the last screenshot in your clipboard as a copied image. 
-    - In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you([see example.](![](https://i.imgur.com/nNBR9UT.png)))
+  - Both of these options keep the last screenshot in your clipboard as a copied image.
+  - In HackMD, pasting copied images will automatically upload them to Imgur and provide an embedded link for you([see example.](<![](https://i.imgur.com/nNBR9UT.png)>))
 - For Mac: [Katana](https://github.com/bluegill/katana) is a simple, open-source screenshot utility for macOS that lives in your menu-bar.
-    - Katana does 90% of what ShareX can do, but it's Imgur link needs formatting in HackMD after pasting.
+  - Katana does 90% of what ShareX can do, but it's Imgur link needs formatting in HackMD after pasting.
 
 ### Tips
 
@@ -148,7 +148,7 @@ The Governance Calls often have visual presentations. The most efficient way to 
 - Take screenshots that are readable.
 - Don't duplicate information already presented on slides. Focus on the additional points being made during presentations that include slides.
 - Conversations may be hard to transcribe in the moment so do your best.
-    - Use initials when conversations get fast back-and-forth. Also helps readability.
-    - Use bullet points to semantically break apart longer speaking segments, both in presentations and discussions.
-    - Add video links to above individual questions and transition points during the call.
+  - Use initials when conversations get fast back-and-forth. Also helps readability.
+  - Use bullet points to semantically break apart longer speaking segments, both in presentations and discussions.
+  - Add video links to above individual questions and transition points during the call.
 - Aim to keep the notes readable. Always ask "does this make sense?" Even if the conversation breaks off into a tangent, always try to find the thread.
