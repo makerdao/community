@@ -10,7 +10,7 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/system-stabiliz
 
 ## Description
 
-The System Surplus Buffer parameter controls the maximum amount of DAI that can accrue to the protocol from Stability Fee revenue prior to FLAP auctions being triggered. As Staability Fees come in, the total amount of DAI inside the System Surplus Buffer increases until it reaches `System Surplus Buffer (hump) + Surplus Lot Size (bump)` at that point a FLAP auction can be triggered and DAI is auctioned off for MKR. This purchased MKR is then burned.
+The System Surplus Buffer parameter controls the maximum amount of DAI that can accrue to the protocol from Stability Fee revenue prior to FLAP auctions being triggered. As Stability Fees come in, the total amount of DAI inside the System Surplus Buffer increases until it reaches `System Surplus Buffer (hump) + Surplus Lot Size (bump)` at that point a FLAP auction can be triggered and DAI is auctioned off for MKR. This purchased MKR is then burned.
 
 The Maker Protocol only has one System Surplus Buffer and the stability fees from all vaults accrue to it.
 
@@ -20,20 +20,20 @@ The System Surplus Buffer is expressed in absolute rather than relative terms, s
 
 The System Surplus Buffer primarily exists so that in the event of bad debt resulting from market events or poor governance MKR is not immediately minted unless the bad debt exceeds the DAI in the buffer. This is beneficial to the protocol because each time an auction takes place (whether FLAP or FLOP), the auction is not perfectly efficient and the protocol loses some percentage of the auctioned value. 
 
-In addition to this, the buffer provides a reserve of DAI which may be used by governance to fund the operations of domain teams and to pay for the Maker oracles without requiring the minting of MKR.
+In addition to this, the buffer provides a reserve of DAI which may be used by governance to fund the operations of domain teams and to pay for Oracle feeds without requiring the minting of MKR.
 
 ## Trade-offs
 
 Increasing the System Surplus Buffer allows the Maker Protocol to accrue a larger reserve of DAI before burning MKR. This larger reserve provides greater security for the protocol in the event of bad debt.
 
-However, while the buffer is not full FLAP auctions do not take place, and MKR is not burned. This means that Maker Governance do not get directly rewarded for their governance during this time.
+However, while the buffer is not full FLAP auctions do not take place, and MKR is not burned. This means that Maker Governance are not get directly rewarded for their efforts during this time.
 
-Additionally, DAI in the System Surplus Buffer is not circulating in the market. This means that holding large amounts of DAI in the System Surplus Buffer has the potential to provide upwards pressure on the DAI peg.
+Additionally, DAI in the System Surplus Buffer is not circulating in the market. This means that holding large amounts of DAI in the System Surplus Buffer will increase upwards pressure on the DAI peg.
 
 Maintaining too low of a System Surpus Buffer on the other hand means that FLOP auctions are more likely to take place in the event of bad debt. This makes it more likely that the supply of MKR will increase and dilute the value of current MKR Holders. 
 
 ## Changes
-There is currently no system for automatically adjusting the System Surpus Buffer parameter. An executive vote is required to modify the parameter. Changes to the System Surpus Buffer are subject to the GSM Pause Delay.
+There is currently no process or system in place for automatically adjusting the System Surpus Buffer parameter. An executive vote is required to modify the parameter. Changes to the System Surpus Buffer are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
 
@@ -53,4 +53,4 @@ Care should be taken when decreasing the System Surplus Buffer parameter while t
 
 If Emergency Shutdown is triggered, the DAI inside the System Surplus Buffer is destroyed and the collateral backing it is proportionally redeemable by other DAI Holders. This means that the DAI in the System Surplus Buffer can be discounted in terms of the total amount of DAI that needs to be backed by collateral.
 
-DAI can be pulled out of the system by Maker Governance by using the `suck` method as part of an executive vote. DAI `suck`ed from the protocol in this way will be deducted from the System Surplus Buffer, and will trigger MKR mints if more DAI is `suck`ed than exists in the System  Surplus Buffer.
+DAI can be pulled out of the Maker Protocol by Maker Governance by using the `suck` method as part of an executive vote. DAI `suck`ed from the protocol in this way will be deducted from the System Surplus Buffer, and will trigger MKR mints if more DAI is `suck`ed than exists in the System Surplus Buffer.

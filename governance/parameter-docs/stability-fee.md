@@ -36,7 +36,7 @@ Likewise, lower stability feels may temporarily or permanently decrease the reve
 
 ## Changes
 
-There is currently no system for automatically adjusting the Stability Fee parameter for a specific vault type. An executive vote is required to modify the Stability Fee parameter for a particular vault type. Changes to Stability Fee parameters are subject to the GSM Pause Delay.
+There is currently no process or system in place for automatically adjusting the Stability Fee parameter for a specific vault type. An executive vote is required to modify the Stability Fee parameter for a particular vault type. Changes to Stability Fee parameters are subject to the GSM Pause Delay.
 
 The Rates Working Group has been empowered by Maker Governance to propose rate changes based on monetary policy, risk and competitve landscape. The operations, membership and historic proposals of this working group can be found on the Maker Governance Forum.
 

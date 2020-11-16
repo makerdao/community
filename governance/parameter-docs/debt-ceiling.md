@@ -34,7 +34,7 @@ Leaving a large amount of 'open space' in the Debt Ceiling for a vault type also
 
 ## Changes
 
-There is currently no system for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type. Changes to Debt Ceiling parameters are subject to the GSM Pause Delay.
+There is currently no process or system in place for automatically adjusting the Debt Ceiling parameter for a specific vault type. An executive vote is required to modify the Debt Ceiling parameter for a particular vault type. Changes to Debt Ceiling parameters are subject to the GSM Pause Delay.
 
 **Why increase a Debt Ceiling Parameter?**
 

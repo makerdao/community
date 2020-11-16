@@ -30,7 +30,7 @@ However, the higher the Liquidation Ratio of a vault type, the less capital effi
 
 ## Changes
 
-There is currently no system for automatically adjusting the Liquidation Ratio parameter for a specific vault type. An executive vote is required to modify the Liquidation Ratio parameter for a particular vault type. Changes to Liquidation Ratio parameters are subject to the GSM Pause Delay.
+There is currently no process or system in place for automatically adjusting the Liquidation Ratio parameter for a specific vault type. An executive vote is required to modify the Liquidation Ratio parameter for a particular vault type. Changes to Liquidation Ratio parameters are subject to the GSM Pause Delay.
 
 **Why increase a Liquidation Ratio Parameter?**
 
