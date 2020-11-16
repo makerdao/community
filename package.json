@@ -29,7 +29,7 @@
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-sharp": "^2.6.31",
     "gatsby-plugin-sitemap": "^2.4.16",
-    "gatsby-plugin-theme-ui": "^0.3.0",
+    "gatsby-plugin-theme-ui": "^0.3.3",
     "gatsby-remark-code-titles": "^1.1.0",
     "gatsby-remark-embed-video": "^3.0.10",
     "gatsby-remark-images": "^3.3.32",
