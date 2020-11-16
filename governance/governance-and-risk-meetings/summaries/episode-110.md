@@ -47,31 +47,31 @@
 [Governance at a Glance - Forum Thread](https://forum.makerdao.com/t/governance-at-a-glance/84)
 
 - If you have the time to read over and vote in the active threads, that would be much appreciated.
-- I want to let everyone know that I am not sure how useful Governance at a Glance has been. If you are continuing to find it useful, please let me know because I might stop doing it. 
+- I want to let everyone know that I am not sure how useful Governance at a Glance has been. If you are continuing to find it useful, please let me know because I might stop doing it.
 
 ##### Discussions
 
 - [The Smart Contracts Team and Domain Work](https://forum.makerdao.com/t/the-smart-contracts-team-and-domain-work/4173)
-    - Kurt_Barry from the Maker Foundation Smart Contracts team starts a discussion about the balancing of responsibilities and prioritization that the team needs to consider.
+  - Kurt_Barry from the Maker Foundation Smart Contracts team starts a discussion about the balancing of responsibilities and prioritization that the team needs to consider.
 - [How much DAI is needed to get the peg back to 1:1](https://forum.makerdao.com/t/how-much-dai-is-needed-to-get-the-peg-back-to-1-1/4122)
-    - Mrabino1 posts an informal poll asking how much DAI is needed to restore the peg, which leads to a spirited discussion.
+  - Mrabino1 posts an informal poll asking how much DAI is needed to restore the peg, which leads to a spirited discussion.
 - [Working Group: RWA Onboarding](https://forum.makerdao.com/t/working-group-rwa-onboarding/4167)
-    - SebVentures starts a new working group to address the onboarding of real world assets with some interested community members and representatives from Centrifuge and 6s. If you want to join the working group, check out the forum thread above, and leave a comment.
+  - SebVentures starts a new working group to address the onboarding of real world assets with some interested community members and representatives from Centrifuge and 6s. If you want to join the working group, check out the forum thread above, and leave a comment.
 
 ##### Ongoing Initiatives
 
 - [Collateral Calls - Calling all Projects!](https://forum.makerdao.com/t/collateral-calls-calling-all-projects/3715)
-    - Juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
-    - Juan: We had an exciting collateral meeting yesterday regarding real-world assets. We had both Matthew from 6S Capital and Lucas from Centrifuge presenting. Next Wednesday, on September the 23rd at 5:00 UTC, we will have Aave presenting their token and Gemini presenting GUSD.
+  - Juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
+  - Juan: We had an exciting collateral meeting yesterday regarding real-world assets. We had both Matthew from 6S Capital and Lucas from Centrifuge presenting. Next Wednesday, on September the 23rd at 5:00 UTC, we will have Aave presenting their token and Gemini presenting GUSD.
 - [Help Wanted! Scientific Governance and Risk Call Summaries](https://forum.makerdao.com/t/wanted-join-the-summary-team/4318)
-    - Davidutro is looking for additional people who would be interested to participate in the call summaries team who regularly produce high-quality summaries and shorter snippets of public MakerDAO calls.
+  - Davidutro is looking for additional people who would be interested to participate in the call summaries team who regularly produce high-quality summaries and shorter snippets of public MakerDAO calls.
 
 ##### Signal Requests
 
 - [Should Urgent Action be Taken to modify the proposed TUSD Risk Parameters?](https://forum.makerdao.com/t/signal-request-should-urgent-action-be-taken-to-modify-the-proposed-tusd-risk-parameters/4145)
-    - Jiecut presents a signal to adjust the TUSD risk parameters to reflect the recent move towards low LR stablecoin vaults.
+  - Jiecut presents a signal to adjust the TUSD risk parameters to reflect the recent move towards low LR stablecoin vaults.
 - [Increase USDC-A Debt Ceiling](https://forum.makerdao.com/t/urgent-signal-request-increase-usdc-a-debt-ceiling/4186)
-    - Aaron_Bartsch presents a signal to adjust the USDC-A debt ceiling to reflect the potential decrease to 101% LR on Friday.
+  - Aaron_Bartsch presents a signal to adjust the USDC-A debt ceiling to reflect the potential decrease to 101% LR on Friday.
 
 ### Lucas Manuel
 
@@ -142,10 +142,10 @@
 [17:39](https://youtu.be/nkRh4oiNJJA?t=1059)
 
 - Christopher Mooney: For the automatical DC adjustment module, I know that last time we proposed the MIP, it got shut down. I think it was more complicated than we thought; it included some additional functionality. It would be extremely time-saving for governance, users, and peg management if we all heavily considered that module. As long as it is configured well, it will automatically raise the DC within a predefined value. Please, everyone, check that out.
-    - Charles St. Louis: From my understanding, this MIP got rejected due to recent uncertainty concerning the increase in the DC, and the solution for it was not completely fleshed out. The instant access module a lot of sense. Please, check out the [discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924/9).
-    - LongForWisdom: The first version of the MIP was not planned to be completely automated as well. It was up for the facilitators to work the appropriate increases. If the new version defines the instant access module, that would be awesome.
+  - Charles St. Louis: From my understanding, this MIP got rejected due to recent uncertainty concerning the increase in the DC, and the solution for it was not completely fleshed out. The instant access module a lot of sense. Please, check out the [discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924/9).
+  - LongForWisdom: The first version of the MIP was not planned to be completely automated as well. It was up for the facilitators to work the appropriate increases. If the new version defines the instant access module, that would be awesome.
 - Derek: My aim during the next steps is to write a formal MIP with feedback that people have to help rework some of the parameters around the DC and buffer, and incorporate that into the formal MIP. Correct me if I am wrong, but I can present this to the community within the next several weeks so that it meets the deadline, correct?
-    - LongForWisdom: Yes, the next deadline is October the 7th regarding the feedback requirements.
+  - LongForWisdom: Yes, the next deadline is October the 7th regarding the feedback requirements.
 - Brian McMichael: There are two things to configure, which are the amount (or percentage) that the line gets increased or decreased, and the ultimate ceiling, which will require another executive in order to raise if we hit. However, you can set that high enough to avoid having three executives a week for the DC requirements.
 
 ## Segments
@@ -227,9 +227,9 @@
 
 - The Vault Compensation Plan Poll is live and ends on Tuesday, September 22nd.
 - Currently, it is kind of a hung vote.
-    - 45% support for 15% compensation.
-    - 43% support for 0% compensation.
-    - 11% support for 12% compensation.
+  - 45% support for 15% compensation.
+  - 43% support for 0% compensation.
+  - 11% support for 12% compensation.
 - If there's a hung vote, the default result is to scrap the current compensation plan, but still leave the possibility of another working group possibly forming or other community members leading this and choosing a different direction. That would be the result that happens if the poll was to end today.
 - It's ranked-choice, so for those voting 12%, consider voting for 15% or vice versa. Not trying to swing anyone's vote, but I am just bringing awareness for the options in ranked-choice voting.
 - If anyone has any questions, message me on Rocket Chat.
@@ -238,15 +238,15 @@
 #### Discussion 2
 
 - Christopher Mooney: Because it is a ranked-choice, it could not end in a hung vote, right? The algorithm would iterate until one of those options takes 51%.
-    - Monet Supply: No, because people do not have to choose additional options. If someone bullet votes for 12%, for example, and did not choose 15% as their secondary option, the 15% vote would stay at 44%. This vote breakdown is what the results would look like if the poll were to end today.
-    - Christopher Mooney: I did not realize that a ranked vote could have a dead end. I guess you are right.
-    - Monet Supply: It usually would not. Due to the nature of this subject, I am assuming people have really strong opinions.
+  - Monet Supply: No, because people do not have to choose additional options. If someone bullet votes for 12%, for example, and did not choose 15% as their secondary option, the 15% vote would stay at 44%. This vote breakdown is what the results would look like if the poll were to end today.
+  - Christopher Mooney: I did not realize that a ranked vote could have a dead end. I guess you are right.
+  - Monet Supply: It usually would not. Due to the nature of this subject, I am assuming people have really strong opinions.
 - LongForWisdom: If we set it up where everyone needs to rank all options, it would work.
-    - Andrew Burban: I did not realize that it was ranked-choice. I might go and change my vote.
+  - Andrew Burban: I did not realize that it was ranked-choice. I might go and change my vote.
 - Christopher Mooney: I will try to republicize it as much as I can. People may be more open to compromise as the deadline gets nearer. If no option gets 50%, the poll will default to oppose the vault compensation plan.
 - LongForWisdom: We require a majority vote because any option that succeeds here will have to go through multiple executive votes. I am not comfortable with having a non-majority vote go through executive due to the risk of it not passing.
-    - Monet Supply: Yes, it is going to be frustrating for vault owners. Likely, it will not go through if it does not get the majority vote.
-    - LongForWisdom: There is no way to eliminate the risk because there is a chance that people who have not voted in this poll will vote down on the executive. There is only so much we can do.
+  - Monet Supply: Yes, it is going to be frustrating for vault owners. Likely, it will not go through if it does not get the majority vote.
+  - LongForWisdom: There is no way to eliminate the risk because there is a chance that people who have not voted in this poll will vote down on the executive. There is only so much we can do.
 
 ### LongForWisdom
 
@@ -264,41 +264,41 @@
 #### Discussion 3
 
 - LongForWisdom: I will comment on the governance aspect of this. The Smart Contracts team is recommending one thing, Risk another, and Community another thing. It is hard to reconcile these things. The Smart Contracts team is recommending 10 million to start; correct me if I'm wrong. Community resolved in 50 million, and Primoz discussed various strategies.
-    - Brian McMichael: I do not think that the Smart Contracts team has a personal position. As far as technicals, it is no different than USDC or PAX.
-    - LongForWisdom: Maybe that's something that we want to talk about more.
+  - Brian McMichael: I do not think that the Smart Contracts team has a personal position. As far as technicals, it is no different than USDC or PAX.
+  - LongForWisdom: Maybe that's something that we want to talk about more.
 - Brian McMichael: There is a [forum](https://forum.makerdao.com/t/signal-request-approve-new-tusd-implementation/3982/4) post about the implementation to TUSD, which we reviewed. We don't have any major technical concerns besides one regarding compatibility with the V1 token, which would affect the users but not Maker and vaults.
-    - Lucas Manuel: I agree with Brian. The contracts are technically sound. I'm personally not a risk expert, so I can't speak to this in an educated way. The contract was made yesterday and has been in use for less than twenty-four hours. My personal recommendation on the forums is to start with ten million and raise that over time to meet demand. TUSD probably has the most transparent accounting out of all the stable coins. If their contracts are technically sound, I am happy to start with ten million, allowing the contracts to have some time under deployment and allow people to use it for a week.
+  - Lucas Manuel: I agree with Brian. The contracts are technically sound. I'm personally not a risk expert, so I can't speak to this in an educated way. The contract was made yesterday and has been in use for less than twenty-four hours. My personal recommendation on the forums is to start with ten million and raise that over time to meet demand. TUSD probably has the most transparent accounting out of all the stable coins. If their contracts are technically sound, I am happy to start with ten million, allowing the contracts to have some time under deployment and allow people to use it for a week.
 - Sébastian Derivaux: Can someone elaborate on what will happen if tomorrow USDC will change their implementation?
-    - Brian McMichael: Essentially, everything would keep operating as it is right now. However, This could be a problem if the TUSD contract got updated to something that could perform a re-entrance and attack us. We face the risk with smart contracts, and interacting with these proxy upgrade tokens is one of them. Assuming it is a standard upgrade on their part and not manipulation of balances, it should not cause any problems as long as they stick with the ERC standard.
-    - Sébastian Derivaux: Is there a USD stable coin that doesn't have non-degradable contracts?
-    - Christopher Mooney: Dai. Does anybody want to say Dai?
-    - Brian McMichael: Dai is not upgradable.
+  - Brian McMichael: Essentially, everything would keep operating as it is right now. However, This could be a problem if the TUSD contract got updated to something that could perform a re-entrance and attack us. We face the risk with smart contracts, and interacting with these proxy upgrade tokens is one of them. Assuming it is a standard upgrade on their part and not manipulation of balances, it should not cause any problems as long as they stick with the ERC standard.
+  - Sébastian Derivaux: Is there a USD stable coin that doesn't have non-degradable contracts?
+  - Christopher Mooney: Dai. Does anybody want to say Dai?
+  - Brian McMichael: Dai is not upgradable.
 - LongForWisdom: If anyone else wants to weight in on the DC? Given that the Smart Contracts team is split on the TUSD DC can we follow the community and go to 15 million?
-    - Brian McMichael: This question should be forwarded to the Risk team.
-    - Primoz: It's not a standard choice. It's related to smart contracts. It's not a financial risk. I propose to solve the peg, increase USDC-A on Friday, and then focus on relocating stable coins next week. If we decrease USDC-A DC and then increase other ones, there will be an arbitrage at 101%, which will result in the same outcome.
+  - Brian McMichael: This question should be forwarded to the Risk team.
+  - Primoz: It's not a standard choice. It's related to smart contracts. It's not a financial risk. I propose to solve the peg, increase USDC-A on Friday, and then focus on relocating stable coins next week. If we decrease USDC-A DC and then increase other ones, there will be an arbitrage at 101%, which will result in the same outcome.
 - MakerMan: Looking at which stable coins we can capture, USDT is a big dog; the rest are 3B in total. We are cranking up USDT. The concern I have is that the Dai demand might be growing exponentially, and at some point, we will run out of collateral to liquidize Dai with one-to-one backing. I look at it from the risk perspective against Maker. MakerDAO market capitalization is floating at around 500 million, and our total outstanding is 600 million. 1-2% is not horrible, but what is the risk to the MKR holders, as well as the entire system? I'm pointing out a warning that we might get ourselves into a liquidity trap that we cannot solve because there is no collateral to back up new Dai. I have concerns about taking more than 50% of these total markets unless we are looking at USDT.
-    - Primoz: I don't think that is a worry if you hold a certain percentage of stable coin. If there's a demand for it as collateral, the supply will go up. But if you charge only 1% SF on such large exposure, you're possibly not properly compensating risk of a one in a hundred-year possibility that this will fail.
-    - MakerMan: If you have to back it with TUSD, I get it. The question is if these assets are going to grow in a way to provide Dai liquidity, which is a maybe. I'm just pointing out my concern that we'll get to a point where we don't have enough collateral to mint Dai.
-    - Primoz: That's more of a systemic risk related to stable coins.
-    - Brian McMichael: As long as the CR is 101% and there's space available in the DC, those assets will find their way to the Maker Protocol as long as there's an arbitrage available.
-    - MakerMan: As they make their way into Maker collateral, you eat these things up, they're not going to be available unless more USD comes in to back it.
-    - Christopher Mooney: You mean if we exhaust the capacity of all the stable coins on Ethereum in the medium term. In that case, we need to start RWA.
-    - Brian McMichael: Right now, we are trying to balance out the curve pools, which we need to get to just to drive down the pressure of the price going up.
-    - MakerMan: I am looking three months out instead of a week or two, and I just see demand growing so fast, I don't see RWA onboarding fast enough. I see Dai demand growing exponentially. It just doubled in the previous month, and I think it will double again next month.
-    - Matthew Rabinowits: Challenge accepted.
-    - Jon: And we still have Bitcoin. TBTC is coming out in the next several months. WBTC is growing exponentially. REN is doing very well. Furthermore, yETH is going to put on a Y token of that as well. I think in weeks or near months, there won't be a problem with more collateral.
-    - MakerMan: I'm seeing us eat up a lot of markets.
-    - Christopher Moony: It's a hop skip and a jump to get BCH, zCash, and others as well.
-    - MakerMan: We have a good problem. We need to be on our A-game, and the MKR value is currently not appreciating.
+  - Primoz: I don't think that is a worry if you hold a certain percentage of stable coin. If there's a demand for it as collateral, the supply will go up. But if you charge only 1% SF on such large exposure, you're possibly not properly compensating risk of a one in a hundred-year possibility that this will fail.
+  - MakerMan: If you have to back it with TUSD, I get it. The question is if these assets are going to grow in a way to provide Dai liquidity, which is a maybe. I'm just pointing out my concern that we'll get to a point where we don't have enough collateral to mint Dai.
+  - Primoz: That's more of a systemic risk related to stable coins.
+  - Brian McMichael: As long as the CR is 101% and there's space available in the DC, those assets will find their way to the Maker Protocol as long as there's an arbitrage available.
+  - MakerMan: As they make their way into Maker collateral, you eat these things up, they're not going to be available unless more USD comes in to back it.
+  - Christopher Mooney: You mean if we exhaust the capacity of all the stable coins on Ethereum in the medium term. In that case, we need to start RWA.
+  - Brian McMichael: Right now, we are trying to balance out the curve pools, which we need to get to just to drive down the pressure of the price going up.
+  - MakerMan: I am looking three months out instead of a week or two, and I just see demand growing so fast, I don't see RWA onboarding fast enough. I see Dai demand growing exponentially. It just doubled in the previous month, and I think it will double again next month.
+  - Matthew Rabinowits: Challenge accepted.
+  - Jon: And we still have Bitcoin. TBTC is coming out in the next several months. WBTC is growing exponentially. REN is doing very well. Furthermore, yETH is going to put on a Y token of that as well. I think in weeks or near months, there won't be a problem with more collateral.
+  - MakerMan: I'm seeing us eat up a lot of markets.
+  - Christopher Moony: It's a hop skip and a jump to get BCH, zCash, and others as well.
+  - MakerMan: We have a good problem. We need to be on our A-game, and the MKR value is currently not appreciating.
 - Sam MacPherson: Do we want to lower ETH-A DC?
-    - Christopher Mooney: Isn't there an ETH-B alternative plan that will lower the DC?
-    - Sam Macpherson: No, It's at 540 Million, and we're currently using approximately 66% of it.
-    - Davidutro: I think that is good this way, personally.
-    - Matthew Rabinowitz: The intent was to keep it low in case of yETH kicked up to have enough space. If they don't spin that strategy back up again, it will be wise to pull it back in.
-    - Sam MacPherson: Are they planning?
-    - Davidutro: They're waiting for Curve Governance changes. However, nothing has changed in terms of using MKR vaults underneath.
-    - Sam MacPherson: Okay, let's wait then.
-    - Primoz Kordez: They changed the parameter, which would increase the price on the curve that used to be artificially lower, and I think they want to proceed with the old strategy. That vote just recently passed.
+  - Christopher Mooney: Isn't there an ETH-B alternative plan that will lower the DC?
+  - Sam Macpherson: No, It's at 540 Million, and we're currently using approximately 66% of it.
+  - Davidutro: I think that is good this way, personally.
+  - Matthew Rabinowitz: The intent was to keep it low in case of yETH kicked up to have enough space. If they don't spin that strategy back up again, it will be wise to pull it back in.
+  - Sam MacPherson: Are they planning?
+  - Davidutro: They're waiting for Curve Governance changes. However, nothing has changed in terms of using MKR vaults underneath.
+  - Sam MacPherson: Okay, let's wait then.
+  - Primoz Kordez: They changed the parameter, which would increase the price on the curve that used to be artificially lower, and I think they want to proceed with the old strategy. That vote just recently passed.
 
 ### Vishesh Choudry
 
@@ -354,7 +354,7 @@
 - From there, it will jump based on attractive yields.
 
 ![DAI USDC](https://i.imgur.com/5htOrTQ.png)
- 
+
 - Dai from USDC supply has been a huge driver in growth. 110 million on the 15th, and in 2 days, 100 million more Dai minted from USDC. That is a significant number.
 
 ![ETH Supply](https://i.imgur.com/ooks2T1.png)
@@ -367,12 +367,12 @@
 
 ![ETH Large Vaults](https://i.imgur.com/7n2dyZf.png)
 
-- For ETH, the same three or four vaults account for a large chunk of the ETH-DAI supply. A majority of that supply minted in the top of the distribution comes from the top ten vaults. 
+- For ETH, the same three or four vaults account for a large chunk of the ETH-DAI supply. A majority of that supply minted in the top of the distribution comes from the top ten vaults.
 
 ![Liquidation Walls](https://i.imgur.com/FZ2WS6a.png)
 
-- In terms of liquidation prices, there is a big wall at $280 ETH. That price drop would be a third of the DAI-ETH supply, which is the biggest wall to watch for. Of the largest vaults, ETH is also the highest priced volatile coin in terms of market risk.
-- There is a smaller wall at about $300 ETH.
+- In terms of liquidation prices, there is a big wall at \$280 ETH. That price drop would be a third of the DAI-ETH supply, which is the biggest wall to watch for. Of the largest vaults, ETH is also the highest priced volatile coin in terms of market risk.
+- There is a smaller wall at about \$300 ETH.
 
 ![Top USDC vaults](https://i.imgur.com/OBRUNje.png)
 

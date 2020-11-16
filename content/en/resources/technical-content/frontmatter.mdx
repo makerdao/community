@@ -22,12 +22,14 @@ title: Frontmatter
 
 <Box sx={{backgroundColor: 'success', padding: 3, marginBottom: 4}}>
 
+
 ### The Title Rule
 
 This specifies that we read and display the title in the **frontmatter first**, then the **first h1 (#) in the file**,
 then we **fall back to the name of the file**.
 
 </Box>
+
 
 The "title" attribute is used for the title meta attribute for SEO. The title rule still applies - it is global.
 
@@ -43,11 +45,13 @@ order: 0
 
 <Box sx={{backgroundColor: 'success', padding: 3, marginBottom: 4}}>
 
+
 ### Ordering
 
 Order in the sidenav is based on lowest number (TOP) to highest (BOTTOM). Files that don't have an order are applied AFTER files that have order in alphabetical order. If this file isn't rendered on the sidenav (ie. Top section files) this won't matter.
 
 </Box>
+
 
 The "order" is **relative to the current directory**, so it's not possible to take a page deeper in the directory
 and put it on the top level of the sidebar. For example, `/work_with_us/bounties/test.mdx` with an order of 0 will
@@ -89,9 +93,11 @@ featuredImage: "content/images/test.png"
 
 <Box sx={{backgroundColor: 'warning', padding: 3, marginBottom: 4}}>
 
+
 The "image" attribute **must** be a path to the images in `content/images/`
 
 </Box>
+
 
 ```md:title=keywords-example.mdx
 keywords[String] - Comma seperated keywords used for SEO
@@ -104,4 +110,3 @@ description: "The most complete guide to writing frontmatter in mdx files that y
 ```
 
 The "description" attribute can ALSO be used for the excerpt that gets rendered and indexed for searching articles on the site.
-

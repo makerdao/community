@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from "react";
+import { Children } from "react";
 import { Box, Grid, jsx } from "theme-ui";
 
 const Tout = ({ children }) => {
@@ -12,7 +12,8 @@ const Tout = ({ children }) => {
         backgroundColor: "surface",
         borderRadius: "12px",
         border: "1px solid",
-        borderColor: "primary",
+        borderColor: "muted",
+        boxShadow: "float",
         mb: !isGrid ? "24px" : "",
         "& > *:only-child": {
           m: 0,

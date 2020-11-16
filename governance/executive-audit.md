@@ -1,6 +1,6 @@
 # Auditing Executive Spells
 
-This is intended as a guide to help MKR Holders verify executive spells in the Maker Protocol before they vote for them. This document contains three main sections. 
+This is intended as a guide to help MKR Holders verify executive spells in the Maker Protocol before they vote for them. This document contains three main sections.
 
 First, finding the Contract Code deals with locating the code for the executive in question.
 
@@ -34,6 +34,7 @@ The spell action contract on the other hand includes the `execute()` function. T
 ### DssSpell
 
 #### Contract Variables
+
 Each contract will contain a number of variables to be used in the other functions. In our example, this section looks like this:
 
 ```
@@ -48,10 +49,10 @@ Each contract will contain a number of variables to be used in the other functio
     bool             public done;
 ```
 
-
-#### Constructor 
+#### Constructor
 
 The constructor should always look the same:
+
 ```
     constructor() public {
         sig = abi.encodeWithSignature("execute()");
@@ -66,6 +67,7 @@ The constructor should always look the same:
 #### Schedule and Cast
 
 The `schedule` and `cast` functions will usually be the same, but for now any SCD changes will be tucked into `schedule`. If they deviate from the following, it will be commented:
+
 ```
     function schedule() public {
         require(eta == 0, "spell-already-scheduled");
@@ -80,8 +82,7 @@ The `schedule` and `cast` functions will usually be the same, but for now any SC
     }
 ```
 
-After `schedule()` has been called and after the delay is up, anyone can call `cast()` which will execute the code in the SpellAction's `execute()` function (see below). 
-
+After `schedule()` has been called and after the delay is up, anyone can call `cast()` which will execute the code in the SpellAction's `execute()` function (see below).
 
 ### SpellAction
 
@@ -104,6 +105,7 @@ uint256 constant NEW_BEG = 1.02E18; // 2%
 **NOTE:** Review "All SpellAction Contract Variables must be declared 'constant'" in the checklist section below.
 
 #### Execute
+
 The `execute()` function will contain each MCD change that is being made in this executive spell.
 
 ```
@@ -143,11 +145,9 @@ The `execute()` function will contain each MCD change that is being made in this
         OsmMomAbstract(OSM_MOM).setOsm("BAT-A", BAT_OSM);
         DSPauseAbstract(PAUSE).setDelay(60 * 60 * 24);
    }
-   ```
+```
 
-
-The `execute()` function will be too large to go into detail, but each change should be well documented and one should make sure the code does what the comment says. 
-
+The `execute()` function will be too large to go into detail, but each change should be well documented and one should make sure the code does what the comment says.
 
 ## A Non-exhaustive Checklist
 
@@ -161,20 +161,20 @@ Each of these functions should match the templates shown above unless comments a
 
 ### Verify that the contents of the execute function are as expected
 
-Make sure that you are seeing what you expected to see from the voting dashboard. 
+Make sure that you are seeing what you expected to see from the voting dashboard.
 
 Ensure that everything present is correct and that nothing is missing from this function.
 
 ### Verify all addresses against the changelog
 
-Any addresses you see in either of the above contracts should be verified against the most recent mainnet changelog.  Currently MCD is at version `1.0.5`, and the address list can be found here:
+Any addresses you see in either of the above contracts should be verified against the most recent mainnet changelog. Currently MCD is at version `1.0.5`, and the address list can be found here:
 https://changelog.makerdao.com/releases/mainnet/1.0.5/contracts.json
 
 To find the latest release you can look at https://changelog.makerdao.com/
 
 In order to verify these, you should ensure that each address in the contract matches one of the addresses in the changelog.
 
-Note that in the example spell, there were SCD changes. Those are well documented and done with SaiMomAbstract(SAIMOM).setFee(NEW_FEE);. This calls a contract that has privileged access to make a few configuration changes in SCD. 
+Note that in the example spell, there were SCD changes. Those are well documented and done with SaiMomAbstract(SAIMOM).setFee(NEW_FEE);. This calls a contract that has privileged access to make a few configuration changes in SCD.
 
 Verify the address of `SAIMOM` from the contract definition above. This is trickier, but you can put the `SAIMOM` address into etherscan: https://etherscan.io/address/0xF2C5369cFFb8Ea6284452b0326e326DbFdCb867C#code
 
@@ -210,4 +210,4 @@ Before we change any of the rates, we must call `drip()` on those respective con
 
 ### All SpellAction Contract Variables must be declared 'constant'
 
-Because of how the `SpellAction` is called, it must never have anything in contract memory.  That is, all the variables that look like they are contract variables in the example contract are actually declared as `constant`.  This is because, at execution time, the contract's variables will be that of the `DSPauseProxy`.  If there are variables in this section that are anything other than `constant` then it is a MAJOR bug.  If this is the case and the spell might look like it’s doing one thing but is actually doing another. and needs to be called out in maker [chat](https://chat.makerdao.com/channel/governance-and-risk).  DO NOT vote for a spell with non-constant variables here.
+Because of how the `SpellAction` is called, it must never have anything in contract memory. That is, all the variables that look like they are contract variables in the example contract are actually declared as `constant`. This is because, at execution time, the contract's variables will be that of the `DSPauseProxy`. If there are variables in this section that are anything other than `constant` then it is a MAJOR bug. If this is the case and the spell might look like it’s doing one thing but is actually doing another. and needs to be called out in maker [chat](https://chat.makerdao.com/channel/governance-and-risk). DO NOT vote for a spell with non-constant variables here.

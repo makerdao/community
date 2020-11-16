@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Fragment} from 'react';
+import { Fragment } from "react";
 import { Link as GatsbyLink } from "gatsby";
 import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
@@ -16,7 +16,6 @@ const Link = ({
   icon,
   activeClassName,
   partiallyActive,
-  disabled,
   hideExternalIcon,
   originalType,
   mdxType,
@@ -47,44 +46,25 @@ const Link = ({
 
     return (
       <GatsbyLink
-        to={!disabled ? linkHref : ""}
+        href={linkHref}
         activeClassName={
           activeClassName || (linkHref !== `/${locale}/` ? "active" : null)
         }
         partiallyActive={
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
+        sx={{ variant: "styles.a" }}
         onClick={(e) => {
-          const eventProps = Object.assign(
-            {
-              category: "Internal Link",
-              action: "Click",
-              label: linkHref,
-            },
-            gaProps
-          );
+        const eventProps = Object.assign(
+          {
+            category: "Internal Link",
+            action: "Click",
+            label: linkHref,
+          },
+          gaProps
+        );
 
-          trackCustomEvent(eventProps);
-        }}
-        sx={{
-          color: "link",
-          cursor: "pointer",
-          fontWeight: "600",
-          textDecoration: isButton && "none",
-          pointerEvents: disabled ? "none" : "initial",
-          transition: "all .1s ease",
-          "&.active": {
-            color: "linkAlt",
-          },
-          "&:hover": {
-            color: "linkAlt",
-          },
-          "&:hover > svg": {
-            color: "linkAlt",
-          },
-          "& > *": {
-            display: "inline-block",
-          },
+        trackCustomEvent(eventProps);
         }}
         {...other}
       >
@@ -121,34 +101,12 @@ const Link = ({
 
   return (
     <ThemeLink
-      href={!disabled ? linkHref : "#"}
+      href={linkHref}
       as={OutboundLink}
-      eventCategory={gaProps ? gaProps["category"] : null}
-      eventAction={gaProps ? gaProps["action"] : null}
-      eventLabel={gaProps ? gaProps["label"] : null}
-      eventValue={gaProps ? gaProps["value"] : null}
-      sx={{
-        pointerEvents: disabled ? "none" : "initial",
-        transition: "all .1s ease",
-        color: "link",
-        fontWeight: "600",
-        textDecoration: isButton && "none",
-        "&.active": {
-          color: "linkAlt",
-        },
-        "&:hover": {
-          color: "linkAlt",
-        },
-        "&:hover > svg": {
-          color: "linkAlt",
-        },
-        "& > *": {
-          display: "inline-block",
-        },
-      }}
+      variant="styles.a"
       className="external-link"
       {...other}
-      target={!disabled && "_blank"}
+      target={"_blank"}
       rel="nofollow noopener"
     >
       {icon && linkHref && (

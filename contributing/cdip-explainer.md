@@ -32,6 +32,7 @@ Once the CDIP is approved, these resources are granted. As a general rule of thu
 For general resources, if what’s needed is not in the [contributing section](https://community-development.makerdao.com/contributing) of the community development portal, come onto the [#community-development](https://chat.makerdao.com/channel/community-development) channel on our chat and ask.
 
 ### What happens if a CDIP needs more resources than originally proposed?
+
 The assigned Guide will relay the information to the team and work with the CDIP owner to coordinate a meeting, outline the required resources, and present them to the approving group. This meeting determines if additional resources can be approved to continue the project or if it can’t proceed due to the increased resource requirement.
 
 ### What happens if a CDIP can’t be completed?
@@ -69,7 +70,7 @@ The approving group is a mix of Maker Foundation employees and seasoned contribu
 - If a CDIP requires work before it is approved, like a design or some light dev work, communicate this to the CDIP Guide or approving group members.
 - Expect 1-3 hours of time to frame and flesh out the idea before paid, approved work begins.
 - Create a contingency plan for cases that would increase the required resources, and add them to the CDIP.
-- Bring your friends and colleagues to help.  Use the various resources found in the [contributing section](./README.md) of the community development portal.
+- Bring your friends and colleagues to help. Use the various resources found in the [contributing section](./README.md) of the community development portal.
 
 #### Don’t
 

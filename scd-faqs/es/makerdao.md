@@ -8,7 +8,7 @@ MakerDAO es una organización descentralizada dedicada a brindar estabilidad a l
 
 La idea de MakerDAO se hizo pública el 26 de Marzo del 2015 con el post de Rune Christensen, [Presentando eDollar, la _stablecoin_ definitiva basada en Ethereum](https://www.reddit.com/r/ethereum/comments/30f98i/introducing_edollar_the_ultimate_stablecoin_built/), en el subreddit r/ethereum.
 
-## ¿Por qué los fundadores lo llaman _Maker_DAO?
+## ¿Por qué los fundadores lo llaman \_Maker_DAO?
 
 El término “Maker” proviene del término en inglés _Market Maker_ (creador de mercado). Esto se debió en parte a la incapacidad de BitUSD para atraer a creadores de mercado, lo que resultó en su falta de liquidez. Una idea original fue distribuir MKR específicamente a los creadores de mercado, a los que más tarde comenzamos a llamar _keepers_, para asegurarnos que estuvieran incentivados en el sistema y ayudasen a impulsar su liquidez.
 

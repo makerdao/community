@@ -12,11 +12,12 @@ The Dai Savings Rate (DSR) is a variable rate of accrual earned by locking Dai i
 
 Its purpose is to allow Maker governance to influence demand for Dai through changes in monetary policy.
 
-Dai holders can earn savings automatically and natively while retaining control of their Dai. 
+Dai holders can earn savings automatically and natively while retaining control of their Dai.
 
 The DSR smart contract has no withdrawal limits, deposit limits, or liquidity constraints and the rate is actively set by MKR token holders through [on-chain governance](/learn/governance/).
 
 <Box sx={{ padding: 4 }}>
+
 
 ## How it Works
 
@@ -26,11 +27,13 @@ For more technical details, please visit [Pot - Detailed Documentation](https://
 
 </Box>
 
+
 ## FAQs
 
 ### Can the DSR be negative or zero?
 
 <Box sx={{ px: 4 }}>
+
 
 It is not possible for the DSR to be set to a negative rate with the current code-base.
 
@@ -38,17 +41,21 @@ In theory, MKR governors can commission a rewrite of the code to be able to supp
 
 </Box>
 
+
 ### Does Dai automatically earn the DSR?
 
 <Box sx={{ px: 4 }}>
+
 
 No. Dai only earns the rate if it is deposited into the DSR smart-contract.
 
 </Box>
 
+
 ### Is the DSR its own smart contract?
 
 <Box sx={{ px: 4 }}>
+
 
 Yes, the DSR is a part of the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module). This module is responsible for collecting Stability Fees and distributing Dai to DSR users.
 
@@ -56,17 +63,21 @@ For a better understanding of the smart-contract structure of the Maker Protocol
 
 </Box>
 
+
 ### When users lock Dai into the DSR, is that Dai pooled?
 
 <Box sx={{ px: 4 }}>
+
 
 Yes, all Dai locked into the DSR is technically pooled together. However, the system tracks deposits on an individual basis.
 
 </Box>
 
+
 ### Do DSR accruals compound or are they only earned on the principal?
 
 <Box sx={{ px: 4 }}>
+
 
 In the code, DSR is continuously compounding at a growth rate of x% per second. For example, when the DSR is set to 2%, it will be accumulating at 1.0000000006279371924910298109948‬% per second.
 
@@ -76,9 +87,11 @@ Technical documentation about how Rates work in the Maker Protocol can be found 
 
 </Box>
 
+
 ### What is the formula for the expected accruals earned through the DSR?
 
 <Box sx={{ px: 4 }}>
+
 
 Although the DSR compounds at a growth rate of x% per second, in practice the user experiences an annual compounding of the displayed rate.
 
@@ -90,18 +103,20 @@ Formula:
 
 Where:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | A | ending value of your deposit |
-  | P | the principal deposit amount |
-  | r | the annual interest rate \(decimal\) |
-  | t | the number of years the principal amount will stay in the DSR |
+| Variable | Value                                                         |
+| -------- | ------------------------------------------------------------- |
+| A        | ending value of your deposit                                  |
+| P        | the principal deposit amount                                  |
+| r        | the annual interest rate \(decimal\)                          |
+| t        | the number of years the principal amount will stay in the DSR |
 
 </Box>
+
 
 ### Are there constraints such as minimum lockup time or withdrawal limits?
 
 <Box sx={{ px: 4 }}>
+
 
 Dai in DSR has no liquidity or time constraints. There is no minimum lockup time and no withdrawal limit for Dai in the DSR.
 
@@ -109,9 +124,11 @@ Users can freely enter into and out of the DSR, only needing to pay the Ethereum
 
 </Box>
 
+
 ### Does Dai earned by the DSR get calculated and paid out at the time of withdrawal, or is it continuously added to the user’s balance?
 
 <Box sx={{ px: 4 }}>
+
 
 The amount earned is recalculated and counted towards each user’s balance multiple times a day. In practice, the DSR compounds once a year and is paid out pro-rata at the time of withdrawal.
 
@@ -121,9 +138,11 @@ Technical documentation about how rates work in the Maker Protocol can be found 
 
 </Box>
 
+
 ### How is the DSR being used by MKR token holders as a monetary policy tool?
 
 <Box sx={{ px: 4 }}>
+
 
 The DSR is a global parameter that can be raised or lowered to influence demand for Dai.
 
@@ -135,33 +154,41 @@ Conversely, if Dai is trading above a dollar, then the DSR can be lowered to red
 
 </Box>
 
+
 ### Where can someone find information to better understand the economic impact of the DSR?
 
 <Box sx={{ px: 4 }}>
+
 
 The In-Depth Analysis section of the Awesome-MakerDAO resource library offers comprehensive literature on this topic. This section is always expanding as more information becomes available.
 
 </Box>
 
+
 ### Does the DSR reduce the MKR burn rate?
 
 <Box sx={{ px: 4 }}>
+
 
 To answer this question accurately, one must understand what the value of the DSR is. The DSR is a cost to the system, but it is also one of the most important drivers of demand for Dai. The value that it brings as a monetary policy tool and source of Dai demand largely outweighs its cost.
 
 </Box>
 
+
 ### Are stability fees structurally higher due to the existence of the DSR?
 
 <Box sx={{ px: 4 }}>
+
 
 Yes.
 
 </Box>
 
+
 ### Where can I find more technical information about the DSR?
 
 <Box sx={{ px: 4 }}>
+
 
 Visit our [Documentation Portal](https://docs.makerdao.com/) for all technical documentation of the Maker Protocol.
 
@@ -170,3 +197,4 @@ Technical documentation of the DSR is included in the [Pot - Detailed Documentat
 And documentation about how rates work in the Maker Protocol is located in the [Rates Module](https://docs.makerdao.com/smart-contract-modules/rates-module) section.
 
 </Box>
+

@@ -59,7 +59,7 @@ Start participating in public discussions by joining the recommended channels be
 - [#oasis](https://chat.makerdao.com/channel/oasis)
 - [#dai-lending](https://chat.makerdao.com/channel/dai-lending)
 
-***Pro Tips:***
+**_Pro Tips:_**
 
 - Visit [#community-development](https://chat.makerdao.com/channel/community-development) regularly.
   - It's an excellent channel for collaboration.
@@ -92,7 +92,7 @@ The Comm-Dev team hosts meetings on Google Hangouts and Zoom. Invitations are se
 - Avoid including direct links in a Google Doc.
   - Use the Markdown format to simplify conversion later on.
     - **Incorrect:** <https://bad.link.com>
-    - **Correct:** ``[link](https://link.com)``
+    - **Correct:** `[link](https://link.com)`
 - Versions can be named, renamed, downloaded, or revisited at any time.
   - Versions help other contributors quickly find and see any changes.
     - **Example:** [Naming a Version](https://imgur.com/a/3dyO2FM)
@@ -116,7 +116,7 @@ MakerDAO prepares its long-form documentation in [HackMD](https://hackmd.io/), a
   - Copy text from the rendered preview into Grammarly and address any errors it flags.
   - Grammarly will miss errors if it’s given raw Markdown text.
 
-***Pro Tip:** Install the HackMD Google Chrome [extension](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh?hl=en) to make searching easier.*
+**\*Pro Tip:** Install the HackMD Google Chrome [extension](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh?hl=en) to make searching easier.\*
 
 ### Markdown
 
@@ -155,7 +155,7 @@ MakerDAO documents hosted on GitHub are written in Markdown, a plaintext formatt
   - Consider including a timestamp or username:
     - **Markdown:** `> Look Here! [name=John Doe]`
     - **Rendered:**
-        > Look Here! [name=John Doe]
+      > Look Here! [name=John Doe]
   - Make sure to delete comments before submitting Pull Requests.
 - Use an emoji to call attention to an important point, when necessary.
   - Practice discretion and use them sparingly.
@@ -174,7 +174,7 @@ MakerDAO documents hosted on GitHub are written in Markdown, a plaintext formatt
   - **Correct:** `meeting-summary-ep-01.md`
   - **Incorrect:** `scientific-governance-and-risk-meeting-summary-ep-01.md`
 
-***Pro Tip:** For a document's final draft, name it "Final draft, moving to GitHub." Post a link to the HackMD file or a relevant page on GitHub.*
+**\*Pro Tip:** For a document's final draft, name it "Final draft, moving to GitHub." Post a link to the HackMD file or a relevant page on GitHub.\*
 
 #### VSCode
 
@@ -202,8 +202,8 @@ Check out this short [video](https://www.youtube.com/watch?v=w3jLJU7DT5E) for a 
 
 :exclamation: **New Users** :exclamation:
 
-***Lost and have no idea how GitHub works?***
-*The tutorials in [Getting Started 101](#getting-started-101) below are a great place to start. They cover many of GitHub's functions used for Comm-Dev. Set aside some time to go through them.*
+**_Lost and have no idea how GitHub works?_**
+_The tutorials in [Getting Started 101](#getting-started-101) below are a great place to start. They cover many of GitHub's functions used for Comm-Dev. Set aside some time to go through them._
 
 Experienced users can skip ahead to [Community GitHub Overview](#community-github-overview).
 
@@ -211,15 +211,15 @@ Experienced users can skip ahead to [Community GitHub Overview](#community-githu
 
 1. Create an account on [GitHub](https://github.com/).
 1. Go through the comprehensive, interactive tutorials on [GitHub Lab](https://lab.github.com).
-    - Set aside a few hours to complete the tutorials.
+   - Set aside a few hours to complete the tutorials.
 1. Click [Find Your First Course](https://lab.github.com/login/github).
-    - Follow prompts to install GitHub Learning Lab to personal repositories.
+   - Follow prompts to install GitHub Learning Lab to personal repositories.
 1. Go through the introductory learning paths.
-    - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-    - [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github)
-    - [First Week on GitHub](https://lab.github.com/githubtraining/paths/first-week-on-github)
+   - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+   - [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github)
+   - [First Week on GitHub](https://lab.github.com/githubtraining/paths/first-week-on-github)
 
-***Pro Tip:** Consider installing [GitHub Desktop](https://desktop.github.com/). Most GitHub functions are available online, but some actions (e.g., uploading images) are more straightforward with GitHub Desktop.*
+**\*Pro Tip:** Consider installing [GitHub Desktop](https://desktop.github.com/). Most GitHub functions are available online, but some actions (e.g., uploading images) are more straightforward with GitHub Desktop.\*
 
 ### Community GitHub Overview
 
@@ -247,7 +247,7 @@ The [MakerDAO Community Repository](https://github.com/makerdao/community) is th
 
 #### Best Practices
 
-***Pro Tip:** Practice in a test environment first to prevent merging issues down the road. Fork the Maker Community repository (repo) or clone it to a local machine.*
+**\*Pro Tip:** Practice in a test environment first to prevent merging issues down the road. Fork the Maker Community repository (repo) or clone it to a local machine.\*
 
 - Discuss efforts, blockers, and problems in [#community-development](https://chat.makerdao.com/channel/community-development).
 - Ensure repositories are up to date.
@@ -274,17 +274,17 @@ Click the links in this section for short animated examples of key GitHub action
 - Clone a repository.
   - **Example:** [Cloning a GitHub Repository](https://imgur.com/GjX6cf9)
   - Make sure to have the [repository's URL](repository-url.png)
-- Sync the Comm-Dev repo when it's already on the machine with the Fetch Origin Master button. 
-    - In the command line, this is called: `~ git fetch`.
+- Sync the Comm-Dev repo when it's already on the machine with the Fetch Origin Master button.
+  - In the command line, this is called: `~ git fetch`.
   - **Example:** [Fetch Origin Master](https://imgur.com/VREFUKV)
 - Use [GitHub Desktop](https://desktop.github.com/) to simplify uploading images.
 - Create distinct branches to later merge changes into the master.
 - Make branch names short.
   - **Example:** [Upload image locally and create branch name](https://imgur.com/WJ460E8)
 - Rename any incorrectly named files.
-    - Make sure filenames on GitHub include dashes instead of spaces.
-        - GitHub and GitBooks cannot manage links to files with strange characters (e.g., spaces).
-        - See the [naming files](#naming-files-and-versions) section above.
+  - Make sure filenames on GitHub include dashes instead of spaces.
+    - GitHub and GitBooks cannot manage links to files with strange characters (e.g., spaces).
+    - See the [naming files](#naming-files-and-versions) section above.
   - **Example:** [Rename a file and pushing it to a local branch](https://imgur.com/EXwsHzA)
 - GitHub desktop opens Pull Requests in the GitHub web GUI.
   - **Example:** [Opening a PR with GitHub Desktop](https://imgur.com/iRYNBC4)
@@ -297,23 +297,13 @@ Click the links in this section for short animated examples of key GitHub action
 - Link Pull Requests to the open issue if resolving the issue requires uploading a file.
   - **Example:** [Uploading a file and closing an issue](https://imgur.com/Kl5LtmQ)
 - Consider this screenshot example of a [Pull Request](github-fixing-a-commit.png) on the Comm-Dev repo with multiple annotations, commits, and requests for changes.
-    - Key points are labeled: 
-        1. Multiple commits.
-        2. Connect Pull Request to the issue.
-        3. The approver requests changes.
-        4. The change request asks to fix relative pathing.
-        **Note:** Correctly defining relative paths to files within a repo is a common problem. 
-            - Depending on where in the repo the file lives, a relative path may involve:
-                - **Full Stops:** `.`
-                - **Slashes:** `/` 
-            - For files in the same folder:
-                - Write the file name or use a full stop with a slash`./`.
-                - **Example:** `file-name.md`
-                - **Example:** `./file-name.md`
-            - To navigate to a file one folder up:
-                - Use two full stops with a slash `../` 
-                - **Example:** `../contributing/file-one-folder-up.md`
-        5. Final comments.
+  - Key points are labeled:
+    1. Multiple commits.
+    2. Connect Pull Request to the issue.
+    3. The approver requests changes.
+    4. The change request asks to fix relative pathing.
+       **Note:** Correctly defining relative paths to files within a repo is a common problem. - Depending on where in the repo the file lives, a relative path may involve: - **Full Stops:** `.` - **Slashes:** `/` - For files in the same folder: - Write the file name or use a full stop with a slash`./`. - **Example:** `file-name.md` - **Example:** `./file-name.md` - To navigate to a file one folder up: - Use two full stops with a slash `../` - **Example:** `../contributing/file-one-folder-up.md`
+    5. Final comments.
 - If changes are correct, comment on the request and "resolve" the comments.
 - After addressing all change requests, comment on the PR to notify the Approver that it’s time to merge.
 
