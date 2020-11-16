@@ -20,11 +20,11 @@ The Debt Ceiling for each vault type is expressed in absolute rather than relati
 
 ## Purpose
 
-The primary purpose of the Debt Ceiling parameter is to allow Governance to control the amount of DAI that can be created using a certain vault type. Controlling the amount of DAI minted from a vault type limits the risk exposure to the type of collateral used within that vault type. It also limits the risk from the combination of system parameters that are used within a vault type - for example a very low liquidation ratio combined with high stability fees.
+The primary purpose of the Debt Ceiling parameter is to allow Governance to control the amount of DAI that can be created using a certain vault type. Controlling the amount of DAI minted from a vault type limits the risk exposure to the type of collateral used within that vault type. It also limits the risk from the combination of system parameters that are used within a vault type - for example, a very low liquidation ratio combined with high stability fees.
 
 ## Trade-offs
 
-Increasing the Debt Ceiling parameter for a vault type allows more DAI to be minted using that vault type. In most cases this is positive as Maker Governance will almost always want more DAI to exist given that the peg can be maintained at $1.
+Increasing the Debt Ceiling parameter for a vault type allows more DAI to be minted using that vault type. In most cases, this is positive as Maker Governance will almost always want more DAI to exist given that the peg can be maintained at $1.
 
 However, increasing the Debt Ceiling and allowing DAI to be collateralized heavily by a single asset increases the risk from a black swan event that is localized to that asset.
 
@@ -46,7 +46,7 @@ This reason is usually only valid if it is predicted that the current Debt Ceili
 
 The primary reason for decreasing the Debt Ceiling for a Vault type is to decrease the risk and impact of the 'OSM Timing Attack' described above.
 
-A Debt Ceiling can also be lowered below the currently utilized amount of debt for the vault type to deprecate or temporarily prevent DAI being minted using that vault type.
+A Debt Ceiling can also be lowered below the currently utilized amount of debt for the vault type to deprecate or temporarily prevent DAI from being minted using that vault type.
 
 The parameter can also be used to encourage diversification between vault types that are based on similar assets. For example, decreasing the Debt Ceiling on USDC-A could be used to shift stablecoin usage towards TUSD-A or PAX-A.
 
