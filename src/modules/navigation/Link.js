@@ -4,7 +4,7 @@ import { Link as GatsbyLink } from "gatsby";
 import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
-// import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 import { useTranslation } from "@modules/localization";
 
@@ -54,19 +54,18 @@ const Link = ({
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
         sx={{ variant: "styles.a" }}
-        // onClick={(e) => {
-        //NOTE(Rejon): Afaik we aren't using Google Analytics atm.
-        // const eventProps = Object.assign(
-        //   {
-        //     category: "Internal Link",
-        //     action: "Click",
-        //     label: linkHref,
-        //   },
-        //   gaProps
-        // );
+        onClick={(e) => {
+        const eventProps = Object.assign(
+          {
+            category: "Internal Link",
+            action: "Click",
+            label: linkHref,
+          },
+          gaProps
+        );
 
-        // trackCustomEvent(eventProps);
-        // }}
+        trackCustomEvent(eventProps);
+        }}
         {...other}
       >
         {/*add space as workaround for svg padding resizing issue*/}
