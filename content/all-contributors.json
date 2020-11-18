@@ -81,9 +81,30 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "Artem Isios Gordon",
+      "name": "Artem Isios",
+      "avatar_url": "https://chat.makerdao.com/avatar/artemisios",
+      "profile": "https://forum.makerdao.com/u/artem_gordon/summary",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "aburban90",
+      "name": "Andrew Burban",
+      "avatar_url": "https://chat.makerdao.com/avatar/Saint.Burban",
+      "profile": "https://forum.makerdao.com/u/aburban90/summary",
+      "contributions": [
+        "content",
+        "review",
+        "ideas"
+      ]
     }
   ],
-  "contributorsPerLine": 8,
+  "contributorsPerLine": 6,
   "projectName": "community-portal",
   "projectOwner": "makerdao",
   "repoType": "github",
