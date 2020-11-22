@@ -26,7 +26,7 @@ The PSM provides many benefits over the status quo:
  * Additional profit on the unwinding stage which would previously have gone to vault holders.
  * We enable very large traders to go between Dai and Stablecoins without slippage.
 
-The proposed initial parameters for the PSM are `tin` of 0.1% and a `tout` of 0.1%. To maximize fee collection the `tin` parameter will be initialized at 1% and lowered continuously to 0.1% over the course of a week. We will initially roll the PSM out for USDC, but plan to add support for the other stablecoins pending risk assessments.
+The proposed initial parameters for the PSM are `tin` of 0.1% and a `tout` of 0.1%. To maximize fee collection the `tin` parameter will be initialized at 1% and lowered continuously to 0.1% over the course of a week. The PSM will be initially rolled out for at least USDC and (time permitting) to the other stablecoins as well. Debt ceilings are to be determined by risk.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-accelerate-the-psm-launch/5094) to further inform your position on this issue before voting.
 
