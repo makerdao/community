@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Accelerate the Peg Stability Module Launch - November 23, 2020
 
-The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support or opposition accelerating the PSM launch.
+The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support or opposition to accelerating the PSM launch.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for 3 days beginning on Monday, November 23 at 16:00 UTC.
 
