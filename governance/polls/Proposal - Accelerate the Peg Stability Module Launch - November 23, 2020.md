@@ -1,6 +1,6 @@
 ---
 title: Accelerate the Peg Stability Module Launch - November 23, 2020
-summary: Signal your support or opposition accelerating the PSM launch.
+summary: Signal your support or opposition to accelerating the PSM launch.
 discussion_link: https://forum.makerdao.com/t/signal-request-accelerate-the-psm-launch/5094
 vote_type: Plurality Voting
 options:
@@ -16,25 +16,31 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-The Peg Stability Module (PSM) can be used to replace the 101% collateralization ratio stablecoin vaults which will reach 100% collateralization by approximately December 18th. Currently the plan is to replace these stablecoin vaults with duplicates as per the [Stablecoin Action Plan](https://vote.makerdao.com/polling/QmY1vJPs?network=mainnet#vote-breakdown) vote from 2 weeks ago. Part way through the vote a new option became available - the PSM, and so I am running this vote to see if MKR holders prefer the PSM instead.
+The Peg Stability Module (PSM) can be used to replace the 101% collateralization ratio stablecoin vaults which will reach 100% collateralization by approximately December 18th. Currently, the plan is to replace these stablecoin vaults with duplicates as per the [Stablecoin Action Plan](https://vote.makerdao.com/polling/QmY1vJPs?network=mainnet#vote-breakdown) vote from 2 weeks ago. Partway through the vote, a new option became available - the PSM, so we are running this vote to determine if MKR holders prefer the PSM instead.
 
 The PSM provides many benefits over the status quo:
 
  * Restore the peg. We can move the price into a tighter spread because we no longer need to worry about liquidations.
- * Fee collection is up front and exact instead of having to time roll overs at 100% CR.
+ * Fee collection is upfront and exact instead of having to time rollovers at 100% CR.
  * No longer have to worry about liquidations as the PSM will self-unwind when Dai drops below $0.999.
  * Additional profit on the unwinding stage which would previously have gone to vault holders.
  * We enable very large traders to go between Dai and Stablecoins without slippage.
 
-The proposed initial parameters for the PSM are `tin` of 0.1% and a `tout` of 0.1%. To maximize fee collection the `tin` parameter will be initialized at 1% and lowered continuously to 0.1% over the course of a week. The PSM will be initially rolled out for at least USDC and (time permitting) to the other stablecoins as well. Debt ceilings will be made high enough to allow as much supply as needed to return the peg to 1.001 USDC.
+The proposed initial parameters for the PSM are `tin` of 0.1% and a `tout` of 0.1%. To maximize fee collection the `tin` parameter will be initialized at 1% and lowered continuously to 0.1% over a week. The PSM will be initially rolled out for at least USDC and (time permitting) to the other stablecoins as well. Debt ceilings will be made high enough to allow as much supply as needed to return the peg to 1.001 USDC.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-accelerate-the-psm-launch/5094) to further inform your position on this issue before voting.
 
-## Next Steps
+## Outcomes
 
-If the winning result is yes, then the Domain Teams will prioritize the PSM and aim for a tentative launch date of Friday, December 18th, 2020. A forum post will be made to track the status of technical audits and risk assessment. This action overrides the current Stablecoin Action Plan - Option 3 plan.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* The Domain Teams will prioritize the PSM and aim for a tentative launch date of Friday, December 18th, 2020. 
+* A forum post will be made to track the status of technical audits and risk assessment of the PSM. 
+* The 'Stablecoin Action Plan - Option 3' will no longer be pursued.
 
-If the winning result is no, then we will proceed with Stablecoin Action Plan - Option 3 and run an additional poll to determine the switch date. The PSM can still be added later through the regular monthly MIPs cycle.
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then the following actions will be taken:**
+* We will proceed with the 'Stablecoin Action Plan - Option 3' as previously voted.
+* An additional poll will be run to determine the date on which we switch to new stablecoin vaults as detailed in the 'Stablecoin Action Plan - Option 3'
+* The PSM may or may not be added later via the regular monthly MIPs cycle.
 
 ---
 
