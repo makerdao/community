@@ -10,7 +10,7 @@ options:
 ---
 # Poll: Adjust the ETH-B Debt Ceiling - November 30, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [voting system](https://vote.makerdao.com/polling). The community can vote in this poll to express support or opposition to adjusting the ETH-B Debt Ceiling from $current_ceiling million DAI to **TODO** $new_ceiling million DAI.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [voting system](https://vote.makerdao.com/polling). The community can vote in this poll to express support or opposition to adjusting the ETH-B Debt Ceiling from 10 million DAI to **TODO** $new_ceiling million DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 30 at 16:00 UTC.
 
