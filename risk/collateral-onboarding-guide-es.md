@@ -59,7 +59,7 @@ Cada tipo de Colateral en DCS está asociada con su propio conjunto de parámetr
 - **Tarifa de estabilidad**
   Cuando Dai es generado por una posición de deuda colateralizada (CDP), se acumula una tarifa de estabilidad continuamente. Cuando se devuelve el Dai, la tarifa de estabilidad acumulada debe pagarse. Una parte de la tarifa se destina al pago de la tasa de ahorro de Dai a los tenedores de Dai. Otra parte de la tarifa se destina a comprar y quemar tokens MKR para compensar a los poseedores de tokens MKR por comprometerse a respaldar al DCS en caso de un evento “Black Swan”
 - **Relación de liquidación**
-  La relación de liquidación es la relación mínima entre el valor de la Colateral en el CDP y el valor de Dai extraído del CDP. Por ejemplo, si la proporción es del 150%, el CDP se liquidará si se extraen 100 Dai y el valor de la Colateral cae por debajo de $150.
+  La relación de liquidación es la relación mínima entre el valor de la Colateral en el CDP y el valor de Dai extraído del CDP. Por ejemplo, si la proporción es del 150%, el CDP se liquidará si se extraen 100 Dai y el valor de la Colateral cae por debajo de \$150.
 - **Multa por liquidación**
   En el caso de la liquidación de CDP, el propietario de CDP paga una multa que sirve para comprar y quemar tokens MKR.
 - **Techo de deuda**
@@ -218,13 +218,13 @@ Este formulario aún no ha sido aprobado por los titulares de MKR como una plant
 4. ¿Tiene el token algún mecanismo especial para manipular las horquillas? Esto puede incluir bifurcaciones en la aplicación del token o en la cadena de bloques subyacente.
    1. En caso afirmativo, proporcione una referencia a más información sobre el manejo de la horquilla.
 5. Mi token encaja con el siguiente adaptador Dai Credit System:
-    1. GemJoin
-    2. Suministraré mi propio contrato de adaptador. Ingrese la referencia a continuación.
+   1. GemJoin
+   2. Suministraré mi propio contrato de adaptador. Ingrese la referencia a continuación.
 6. ¿El token ha pasado la verificación formal?
-    1. En caso afirmativo:
-        1. Por favor describa la especificación.
-        2. ¿Quién compuso la especificación?
-        3. Por favor, proporcione un enlace al resultado de la verificación.
+   1. En caso afirmativo:
+      1. Por favor describa la especificación.
+      2. ¿Quién compuso la especificación?
+      3. Por favor, proporcione un enlace al resultado de la verificación.
 7. Auditoria tecnica
    1. Subir informe de auditoría creado por personal de investigación calificado.
 

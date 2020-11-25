@@ -10,10 +10,12 @@ const IndexPage = () => {
   const { allLocales, DEFAULT_LOCALE } = useTranslation();
 
   useEffect(() => {
-    let initialLocale = getInitialLocale(allLocales, DEFAULT_LOCALE);
+    if (typeof window !== "undefined" && window) {
+      let initialLocale = getInitialLocale(allLocales, DEFAULT_LOCALE);
 
-    //Replace current route with locale based index.
-    navigate(`/${initialLocale}/`, { replace: true });
+      //Replace current route with locale based index.
+      navigate(`/${initialLocale}/`, { replace: true });
+    }
   });
 
   return (

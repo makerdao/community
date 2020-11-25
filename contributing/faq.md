@@ -18,7 +18,7 @@ Some examples include improving or creating educational materials and resources,
 
 There are several formats for contributing. These include [Bounties, CDIPs, Meetup Grants, and Developer Grants.](./contributor-onboarding-guide.md#explore-ways-to-earn-as-a-contributor)
 
-**Bounties** are smaller predefined tasks, designed for contributors to jump in with little to no context, and few dependencies. 
+**Bounties** are smaller predefined tasks, designed for contributors to jump in with little to no context, and few dependencies.
 
 **CDIPs** are used to propose new initiatives and expand the scope of existing ones. These projects require planning, review, feedback, and approval before work can begin.
 
@@ -32,13 +32,13 @@ Yes! The Community Development Group runs various programs that reward contribut
 
 Some opportunities have predefined rewards. Others require plans to be submitted, reviewed, and approved.
 
-To learn more about available reward opportunities, visit [Earn as a Contributor](./earn-as-a-contributor.md). 
+To learn more about available reward opportunities, visit [Earn as a Contributor](./earn-as-a-contributor.md).
 
 To ask specific questions, join the [#community-development](https://chat.makerdao.com/channel/community-development) channel on MakerDAO's chat.
 
 ## How do I receive a reward for contributing?
 
-Contributors should submit an invoice for their work. 
+Contributors should submit an invoice for their work.
 
 For instructions on how to submit an invoice, ask for the Community Development Invoice Guide in the [#community-development chat channel.](https://chat.makerdao.com/channel/community-development)
 
@@ -83,4 +83,3 @@ To learn more about creating issues and submitting pull requests, see the [GitHu
 ## Why was my contribution not accepted?
 
 The final Approver will explain any issues or requests for changes in the PRs comment section Contributions may go through several rounds of revisions before being merged.
- 

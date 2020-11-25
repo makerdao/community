@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {Children} from 'react'
+import { Children } from "react";
 import { Box, Grid, jsx } from "theme-ui";
 
 const Column = ({ children }) => {
@@ -11,7 +11,7 @@ const Column = ({ children }) => {
     bg: "surfaceAlt",
     px: "27px",
     py: "10px",
-    boxShadow: "raised",
+    boxShadow: "float",
     border: "1px solid",
     borderColor: "muted",
     "& > *:only-child, & >*:only-child > *": { m: 0 },
@@ -26,7 +26,7 @@ const Column = ({ children }) => {
       columns={[[1, "1fr"], [1, "1fr"], desktopColumns]}
     >
       {_Children.map((child, index) => {
-        const childChildren =  Children.toArray(child.props.children);
+        const childChildren = Children.toArray(child.props.children);
         if (
           typeof child.props.children !== "string" &&
           childChildren.length > 0
@@ -40,10 +40,10 @@ const Column = ({ children }) => {
               sx={{
                 borderRadius: "12px",
                 overflow: "hidden",
-                boxShadow: "raised",
+                boxShadow: "float",
                 border: "1px solid",
                 borderColor: "muted",
-                bg: "surfaceAlt"
+                bg: "surfaceAlt",
               }}
             >
               <Box
@@ -77,7 +77,11 @@ const Column = ({ children }) => {
           );
         }
 
-        return <Box sx={containerStyles} key={`column-child-element-${index}`}>{child}</Box>;
+        return (
+          <Box sx={containerStyles} key={`column-child-element-${index}`}>
+            {child}
+          </Box>
+        );
       })}
     </Grid>
   );

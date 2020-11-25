@@ -16,11 +16,11 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 - [$proposal_name2]($proposal_link2)
 - [$proposal_name...]($proposal_link...)
 
-This Monthly Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) wwill be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 
-The proposals can be reviewed in this weeks weekly MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
+The proposals can be reviewed in this week's MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
 
 ## Next Steps
 
@@ -38,4 +38,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

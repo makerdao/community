@@ -13,20 +13,17 @@ import { getInitialLocale } from "@utils";
 import "@modules/layouts/global.css"; //<- Load in Prismjs css. Our custom styles have to be loaded this way cause Prismjs is blackboxed from our own code.
 
 export const wrapRootElement = ({ element, props }) => (
-  <TranslationProvider>
-      {element}
-  </TranslationProvider>
+  <TranslationProvider>{element}</TranslationProvider>
 );
 
-export const wrapPageElement = ({element, props}) => (
+export const wrapPageElement = ({ element, props }) => (
   <NavigationProvider>
-    <Layout {...props}>
-      {element}
-    </Layout>
+    <Layout {...props}>{element}</Layout>
   </NavigationProvider>
-)
-
+);
 
 export const onRenderBody = ({ setPreBodyComponents }) => {
-  setPreBodyComponents([jsx(InitializeColorMode, { key: 'theme-ui-no-flash' })])
-}
+  setPreBodyComponents([
+    jsx(InitializeColorMode, { key: "theme-ui-no-flash" }),
+  ]);
+};

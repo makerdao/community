@@ -119,8 +119,8 @@ It takes four transactions with a total cost of approximately 1M gas to set up t
 It takes four separate transactions to set up the voting contract.
 
 1. **Initiate link**: The first step is to specify which wallet to use as your hot wallet. This transaction is called "Initiate link" and must come from your cold wallet. This transaction is meant to prove your control of the cold wallet, and specify which wallet to use as your hot wallet.
-1. **Approve link**:  Next, it is time for you to specify and prove control of your hot wallet and create the link between your wallets with the "Approve link" transaction. This action will also create the personalized voting contract that you will use to cast your votes.
-1. **Approve MKR transfer**:  Once the link between your cold and hot wallets has been created, you must approve your MKR to be transferred to the voting contract.
+1. **Approve link**: Next, it is time for you to specify and prove control of your hot wallet and create the link between your wallets with the "Approve link" transaction. This action will also create the personalized voting contract that you will use to cast your votes.
+1. **Approve MKR transfer**: Once the link between your cold and hot wallets has been created, you must approve your MKR to be transferred to the voting contract.
 1. **Lock MKR**: The last step transfers MKR to the voting system contract to specify your voting weight. This step can be repeated at any time to "top up" with additional MKR.
 
 You can participate in both Polling and Executive Voting after completing these steps.

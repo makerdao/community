@@ -12,7 +12,7 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to increasing the $ilk_name Risk Premium from $current_premium to $new_premium.
 
-This Governance Poll ([FAQ](https://community-development.makerdao.com/governance/governance#is-there-more-than-one-type-of-vote)) will be active for three days beginning on $startdate_DAY,_MONTH_DD_at_H_PM_ZONE.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 
@@ -20,11 +20,9 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 If this poll ends with a 'No' majority, then no further action will be taken.
-
-If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 
@@ -36,4 +34,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
