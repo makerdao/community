@@ -1,11 +1,74 @@
 /** @jsx jsx */
+import {useState, useEffect} from 'react';
 import PropTypes from "prop-types";
-import {Flex, jsx } from "theme-ui";
+import {Flex, Text, jsx } from "theme-ui";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { motion } from "framer-motion";
 
 import { Header, Footer } from "@modules/navigation";
+import {Button} from '@modules/ui';
 
 const Layout = ({ children, pageContext, uri, ...props }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
+
+  
+  const [showScrollCTA, setShowScrollCTA] = useState(typeof window !== "undefined" ? sessionStorage.getItem("ScrollCTAHidden") : false);
+  const hideScrollCTA = pageContext.frontmatter ? pageContext.frontmatter.hideScrollCTA : false;
+  const CTAScrollPercent = 55; //<- 75% - Footer 20% height
+  const scrollCTAHidden = typeof window !== "undefined" ? sessionStorage.getItem("ScrollCTAHidden") : false;
+
+  useEffect(() => {
+    const onScroll = () => {
+      if (hideScrollCTA || scrollCTAHidden === true || showScrollCTA)
+      {
+        return;
+      }
+
+      var h = document.documentElement, 
+        b = document.body,
+        st = 'scrollTop',
+        sh = 'scrollHeight';
+
+      const scrollPercent = (h[st]||b[st]) / ((h[sh]||b[sh]) - h.clientHeight) * 100;
+
+      if (scrollPercent > CTAScrollPercent && !scrollCTAHidden)
+      {
+        //Show the Scroll CTA
+        setShowScrollCTA(true);
+        
+      }
+    }
+
+    if (typeof window !== "undefined") {
+      window.addEventListener("scroll", onScroll);
+
+      return () => {
+        window.removeEventListener("scroll", onScroll);
+      }
+    }
+  });
+
+  const closeScrollCTA = () => {
+    if (typeof window !== 'undefined')
+    {
+      sessionStorage.setItem("ScrollCTAHidden", true);
+    }
+    
+    setShowScrollCTA(false);
+  }
+
+  const CTAVariant = {
+    visible: {
+      opacity: 1,
+      bottom: '27px',
+      transition: {ease: 'easeOut'}
+    },
+    hidden: {
+      opacity: 0,
+      bottom: '-23px',
+      transition: {ease: 'easeOut'}
+    }
+  }
 
   return (
     <Flex
@@ -47,6 +110,47 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
         </Flex>
       </Flex>
       <Footer />
+      <motion.div 
+        initial="hidden"
+        variants={CTAVariant}
+        animate={showScrollCTA ? 'visible' : 'hidden'}
+        sx={{
+        borderRadius: '12px',
+        boxShadow: 'raised',
+        backgroundColor: 'primaryMuted',
+        border: '0.5px solid',
+        borderColor: 'muted',
+        width: '100%',
+        position: 'fixed',
+        right: '23px',
+        width: '390px',
+        padding: '24px',
+        pt: '22px',
+        bottom: '27px',
+      }}>
+        <Text sx={{
+          fontWeight: '500',
+          fontSize: '20px',
+          letterSpace: '0.4px',
+          color: 'text',
+          mb: '10px',
+          lineHeight: 'normal'
+        }}>
+          Help us make this site better!
+        </Text>
+
+        <Text as="p" sx={{mb: '26px'}}>
+          Short description
+        </Text>
+
+        <Icon name="close" size="15px" sx={{position: 'absolute', top: '27px', right: '24px', cursor: 'pointer'}} onClick={closeScrollCTA}/>
+
+        <Button outline inline hideExternalIcon  onClick={closeScrollCTA} href="https://timothywilliamblack.typeform.com/to/yp8T7ogv" sx={{margin: 0}}>
+          Take Survey
+        </Button>
+
+          
+      </motion.div>
     </Flex>
   );
 };
