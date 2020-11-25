@@ -2,11 +2,13 @@
 title: $GenericChange - $date_MONTH_DD,_YYYY
 summary: Rank your preferred options to resolve $GenericChange
 discussion_link: $discussion_link
-vote_type: Plurality Voting
+vote_type: Ranked Choice IRV
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: $A
+   2: $B
+   3: $C
+   4: $D
 ---
 # Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
