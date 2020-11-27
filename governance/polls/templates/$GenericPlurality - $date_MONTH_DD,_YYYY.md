@@ -1,28 +1,32 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange
+summary: Signal your preferred option to resolve $GenericChange
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: $A
+   2: $B
+   3: $C
+   4: $D
 ---
 # Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to $GenericChange
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to signal their preferred option to resolve $GenericChange
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
+**This is a plurality vote. In a plurality vote, you may vote for a single option. You should vote for the option that you prefer. Alternatively, if you would accept any of the listed options and have no preference, you should vote 'Abstain'.**
 
 ## Review
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
-## Next Steps
+## Outcomes
 
-If this poll ends with a 'Yes' majority, this change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
-
-If this poll ends with a 'No' majority, then no further action will be taken.
+**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
+* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 ---
 

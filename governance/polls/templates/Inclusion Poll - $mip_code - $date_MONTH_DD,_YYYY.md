@@ -12,18 +12,22 @@ options:
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal ($proposal_name) should be included in the Monthly Governance Poll.
 
-If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
-
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 Please review the discussion [thread]($discussion_link) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
 
-## Next Steps
+## Outcomes
 
-If the Inclusion poll passes, the Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Thursday Governance and Risk call on $next_governance_call_date. The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
+This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
-If this poll fails to pass, then this proposal will not be included in this month's governance cycle.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
+* The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on $next_governance_call_date. 
+* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
+
+**If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 
 ---
 
