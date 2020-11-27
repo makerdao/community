@@ -138,7 +138,7 @@ export default (props) => {
     pageContext.frontmatter &&
     !pageContext.frontmatter.hideSidenav &&
     hasTopSection;
-  const renderLanguageSelector = true;//hasTopSection && !hideLanguageSelector;
+  const renderLanguageSelector = hasTopSection && !hideLanguageSelector;
   const renderBreadcrumbs =
     !hideBreadcrumbs || (hasTopSection && !hideLanguageSelector);
 
