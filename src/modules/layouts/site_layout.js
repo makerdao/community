@@ -133,7 +133,8 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
           letterSpace: '0.4px',
           color: 'text',
           mb: '10px',
-          lineHeight: 'normal'
+          lineHeight: 'normal',
+          maxWidth: '90%'
         }}>
           Help us make this site better!
         </Text>
