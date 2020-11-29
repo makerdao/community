@@ -22,7 +22,7 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp14-subproposal-to-whitelist-yearn-finance-on-yfiusd-oracle/5228) to inform your position on this issue before voting.
 
-## Next Steps
+## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote. Normally this Execute Vote would be scheduled on the Friday following the conclusion of this poll. However, due to the timing of the DsChief 1.2 migration, it is likely no Executive Vote will take place on December 4. Hence, if this poll is ratified by Maker Governance, the Executive Vote is expected to occur the following Friday on December 11.
