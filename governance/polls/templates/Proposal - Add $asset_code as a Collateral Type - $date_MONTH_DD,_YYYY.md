@@ -39,7 +39,7 @@ Please review the following forum threads containing information about $asset_co
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $asset_code ($asset_name) will be included in a future executive vote as the Smart Contracts domain team's schedule allows. 
+* $asset_code ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
