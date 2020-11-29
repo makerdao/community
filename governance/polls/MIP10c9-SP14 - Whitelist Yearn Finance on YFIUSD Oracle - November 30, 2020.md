@@ -14,9 +14,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on 
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 30 at 16:00 UTC.
 
-30, November at 16:00 UTC.
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
@@ -24,11 +24,11 @@ Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp14
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change will be included in an upcoming Executive Vote. Normaly this Execute Vote would be scheduled on the Friday following the conclusion of this poll. However, due to the timing of the DsChief 1.2 migration, it is likely no Executive Vote will take place on December 4. Hence, if this poll is ratified by Maker Governance, the Executive Vote is expected to occur the following Friday on December 11.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This change will be included in an upcoming Executive Vote. Normally this Execute Vote would be scheduled on the Friday following the conclusion of this poll. However, due to the timing of the DsChief 1.2 migration, it is likely no Executive Vote will take place on December 4. Hence, if this poll is ratified by Maker Governance, the Executive Vote is expected to occur the following Friday on December 11.
+* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
-If this poll ends with a 'No' majority, then no further action will be taken.
-
-If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired. 
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
 
 ---
 
