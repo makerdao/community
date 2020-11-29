@@ -1,6 +1,5 @@
 ---
 title: Add RWA-001 as a Collateral Type - November 30, 2020
-
 summary: This poll proposes system parameters which could be used to initialize RWA-001 as a new collateral type.
 discussion_link: https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914
 vote_type: Plurality Voting
@@ -10,7 +9,6 @@ options:
    2: No
 ---
 # Poll: Add RWA-001 as a Collateral Type - November 30, 2020
-
 
 The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This poll allows the MakerDAO governance community to signal their support or opposition to adding RWA-001 as a collateral type in the Maker Protocol.
 
@@ -22,8 +20,8 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 The proposed initial system parameters for RWA-001 are:
 
-* Debt Ceiling: 15M
-* Stability Fees: 3%
+* Stability Fee: 3%
+* Debt Ceiling: 15 Million DAI
 * Liquidation: See [MIP21](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) for details.  
 
 Please review the following forum threads containing information about RWA-001 to inform your position before voting.
