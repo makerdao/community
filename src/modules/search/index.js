@@ -51,7 +51,7 @@ const useKeyPress = function (targetKey) {
       setKeyPressed(false);
     }
   };
-  
+
   useEffect(() => {
     window.addEventListener("keydown", downHandler);
     window.addEventListener("keyup", upHandler);
@@ -205,14 +205,14 @@ export default function Search({ onClick, ...otherProps }) {
         variants={resultsVariant}
         animate={query.length > 0 && focus ? "visible" : "hidden"}
         sx={{
-          position: ["fixed", "fixed","absolute"],
+          position: ["fixed", "fixed", "absolute"],
           boxShadow: "high",
           zIndex: ["1000000", "1000000", null],
           left: "50%",
           transform: "translateX(-50%)",
           top: ["5rem", "5rem", "3.5rem"],
           width: ["90vw", "90vw", "100%"],
-          mt: [4,4,0],
+          mt: [4, 4, 0],
           minHeight: 4,
           borderRadius: "roundish",
           overflow: "hidden",
@@ -266,7 +266,10 @@ export default function Search({ onClick, ...otherProps }) {
             }}
           >
             {results.map((result, index) => (
-              <li key={`search-hit-${index}`} className={index === cursor ? "active" : ""}>
+              <li
+                key={`search-hit-${index}`}
+                className={index === cursor ? "active" : ""}
+              >
                 <SearchHit
                   {...result}
                   query={query}

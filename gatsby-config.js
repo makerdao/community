@@ -13,10 +13,10 @@ module.exports = {
     description: `A Community of developers, designers, innovators, and just about everything cool under the sun. Come join our team!`,
     author: `MakerDAO Commuminty Development Team`,
     copyright: "",
-    siteUrl: "http://localhost:9000", // NOTE(Isaac): TODO: change this to production URL
+    siteUrl: "https://community-development.makerdao.com/",
   },
   plugins: [
-    'gatsby-plugin-theme-ui',
+    "gatsby-plugin-theme-ui",
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
     {
@@ -57,8 +57,8 @@ module.exports = {
             `**/example.mdx`,
             `**/footer.mdx`,
             `**/**.pptx`,
-            '**/**.jpg',
-            '**/**.png'
+            "**/**.jpg",
+            "**/**.png",
           ],
           options: { nocase: true },
         },
@@ -126,7 +126,6 @@ module.exports = {
       },
     },
 
-    
     {
       //NOTE(Rejon): Your search will have to be manually updated for ever new locale that's added.
       resolve: "gatsby-plugin-lunr",
@@ -230,9 +229,14 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-
+    // {
+    //   resolve: 'gatsby-redirect-from',
+    //   options: {
+    //     query: 'allMdx'
+    //   }
+    // },
     `gatsby-plugin-client-side-redirect`, //<- NOTE(Rejon): We're only using this because we're using Github Pages. If we're on vercel or netlify just use their redirect scripts.
-    
+    // `gatsby-plugin-meta-redirect`,
     {
       resolve: "gatsby-plugin-offline",
       options: {

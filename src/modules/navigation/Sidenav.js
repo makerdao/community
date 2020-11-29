@@ -3,7 +3,7 @@ import { jsx, Box } from "theme-ui";
 
 import Sidenav_Node from "@modules/navigation/Sidenav_Node";
 
-const Sidenav = ({data, currentPath}) => {
+const Sidenav = ({ data, currentPath }) => {
   return (
     <Box
       as="aside"
@@ -12,14 +12,14 @@ const Sidenav = ({data, currentPath}) => {
         position: "relative",
         height: "calc(100vh)",
         pt: "60px",
-        pl: '26px',
+        pl: "26px",
         pr: 2,
         pb: "90px",
         width: "256px",
-        overflowY: 'auto',
-        overflowX: 'hidden',
+        overflowY: "auto",
+        overflowX: "hidden",
         borderRight: "1px solid",
-        borderColor: "muted"
+        borderColor: "muted",
       }}
     >
       {data && data.items[0] && (

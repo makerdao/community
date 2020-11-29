@@ -12,17 +12,22 @@ options:
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
-If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding $asset_code ($asset_name) as a collateral asset to the Maker Protocol.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
-Please review the collateral onboarding application [forum thread]($discussion_link) to inform your position before voting.
+Please review the collateral onboarding application [thread]($discussion_link) to inform your position before voting.
 
-## Next Steps
+## Outcomes
 
-The domain teams will use the outcome of this poll to inform the direction of their collateral onboarding work.
+**Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
+* The 'greenlight score' will be calculated for $asset_code ($asset_name) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for $asset_code ($asset_name) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
 
@@ -36,4 +41,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

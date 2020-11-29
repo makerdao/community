@@ -45,10 +45,12 @@ options: {
 
 <CTA>
 
+
 Here, we filter out nodes that don't have frontmatter, don't have an absolute path, and the
 path doesn't match any file at the top section of our locale like header.mdx, index.mdx, 404.mdx, ect.)
 
 </CTA>
+
 
 For every new locale we add, we just make sure to update it's name, and the regex match `/\/[LOCALE]\/(?!header.mdx|index.mdx|404.mdx|.js|.json)/`.
 

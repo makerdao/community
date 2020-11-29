@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import {useState, useEffect} from 'react';
+import { useState, useEffect } from "react";
 import { Link } from "@modules/navigation";
 
 import { jsx } from "theme-ui";
@@ -15,7 +15,9 @@ const Sidenav_Node = ({
   onClick,
   ...otherProps
 }) => {
-  const [active, setActive] = useState(currentPath === url || currentPath.includes(otherProps.slugPart))
+  const [active, setActive] = useState(
+    currentPath === url || currentPath.includes(otherProps.slugPart)
+  );
   const hasChildren = items.length !== 0;
 
   //URL fallback for directories that have children, but don't have an index file.
@@ -23,22 +25,22 @@ const Sidenav_Node = ({
     url = items[0].url;
   }
 
-  const fontWeight = [
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : "normal",
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : "normal",
-    currentPath === url || currentPath.includes(otherProps.slugPart) ? "600" : null || parentDepth === 1 ? "600" : "normal",
-  ];
-
   useEffect(() => {
-    if (!active && (currentPath === url || currentPath.includes(otherProps.slugPart))) {
+    if (
+      !active &&
+      (currentPath === url || currentPath.includes(otherProps.slugPart))
+    ) {
       setActive(true);
     }
-  }, [currentPath, url, otherProps.slugPart])
+  }, [currentPath, url, otherProps.slugPart]);
 
   return (
     <li
       sx={{
-        color: currentPath === url || currentPath.includes(otherProps.slugPart) ? "primary" : "text",
+        color:
+          currentPath === url || currentPath.includes(otherProps.slugPart)
+            ? "primary"
+            : "text",
         position: "relative",
         "&:not(:last-of-type)": {
           mb: "14px",
@@ -53,7 +55,7 @@ const Sidenav_Node = ({
           onClick={onClick}
           sx={{
             color: currentPath === url || currentPath.includes(otherProps.slugPart) ? "primary" : "text",
-            fontWeight,
+            fontWeight: 'normal',
             py: "6px",
             pr: "36px",
             textDecoration: "none",
@@ -74,36 +76,36 @@ const Sidenav_Node = ({
           }}
         >
           {title}
-
-          
         </Link>
       )}
 
       {hasChildren && (
-            <Icon
-              name={active ? "chevron_down" : "chevron_right"}
-              onClick={() => setActive(!active)}
-              sx={{
-                position: "absolute",
-                cursor: 'pointer',
-                width: '32px',
-                height: '32px',
-                right: "2%",
-                p: '7px',
-                top: [
-                  "calc(1.5em)",
-                  "calc(1.5em)",
-                  !active ? "50%" : "calc(.8em + 6px)",
-                ],
-                transform: "translate(0, -50%) rotate(0deg)",
-                transformOrigin: "center",
-                transition: "all .2s ease",
-                '&:hover': {
-                  transform: active ? "translate(0, -50%) rotate(180deg)" : "translate(0, -50%) rotate(90deg)",
-                }
-              }}
-            />
-          )}
+        <Icon
+          name={active ? "chevron_down" : "chevron_right"}
+          onClick={() => setActive(!active)}
+          sx={{
+            position: "absolute",
+            cursor: "pointer",
+            width: "32px",
+            height: "32px",
+            right: "2%",
+            p: "7px",
+            top: [
+              "calc(1.5em)",
+              "calc(1.5em)",
+              !active ? "50%" : "calc(.8em + 6px)",
+            ],
+            transform: "translate(0, -50%) rotate(0deg)",
+            transformOrigin: "center",
+            transition: "all .2s ease",
+            "&:hover": {
+              transform: active
+                ? "translate(0, -50%) rotate(180deg)"
+                : "translate(0, -50%) rotate(90deg)",
+            },
+          }}
+        />
+      )}
 
       {active && hasChildren && (
         <ul

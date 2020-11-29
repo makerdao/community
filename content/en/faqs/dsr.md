@@ -1,8 +1,14 @@
+<StatusBanner sticky>
+
+These are legacy guides and will not be maintened. You may be looking for the <Button  secondary inline to="/learn/Dai/dsr/">DSR page</Button>
+
+</StatusBanner>
+
 # Dai Savings Rate
 
 ## What is the Dai Savings Rate?
 
-The Dai Savings Rate (DSR) is a variable rate of accrual earned by locking Dai in the DSR smart contract. Dai holders can earn savings automatically and natively while retaining control of their Dai. The DSR smart contract has no withdrawal limits, deposit limits, or liquidity constraints. The rate is actively set by MKR token holders through on-chain [governance.](governance.md)
+The Dai Savings Rate (DSR) is a variable rate of accrual earned by locking Dai in the DSR smart contract. Dai holders can earn savings automatically and natively while retaining control of their Dai. The DSR smart contract has no withdrawal limits, deposit limits, or liquidity constraints. The rate is actively set by MKR token holders through [on-chain governance.](/learn/governance/on-chain-gov/)
 
 The DSR is also a monetary policy tool used by Maker governance to influence demand for Dai.
 
@@ -10,7 +16,7 @@ The DSR is also a monetary policy tool used by Maker governance to influence dem
 
 Dai holders can lock their Dai into the DSR smart contract at any time. Once locked, Dai continuously accrues to the users balance, based on the current DSR.
 
-For more technical details on how the DSR works, visit [Pot - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) on our [Documentation Portal.](https://docs.makerdao.com/)
+For more technical details on how the DSR works, visit [Pot - Detailed Documentation](https://docs.makerdao.com/smart-contract-modules/rates-module/pot-detailed-documentation) on our [Documentation.](https://docs.makerdao.com/)
 
 ## Are there any range limits to the DSR, can it be negative or zero?
 
@@ -46,12 +52,12 @@ A = P(1 + r)^t
 
 Where:
 
-  | Variable              | Value |
-  | ------------------------- | ----- |
-  | A | ending value of your deposit |
-  | P | the principal deposit amount |
-  | r | the annual interest rate \(decimal\) |
-  | t | the number of years the principal amount will stay in the DSR |
+| Variable | Value                                                         |
+| -------- | ------------------------------------------------------------- |
+| A        | ending value of your deposit                                  |
+| P        | the principal deposit amount                                  |
+| r        | the annual interest rate \(decimal\)                          |
+| t        | the number of years the principal amount will stay in the DSR |
 
 ## Will there be any constraints, like minimum lockup time or withdrawal limits?
 
