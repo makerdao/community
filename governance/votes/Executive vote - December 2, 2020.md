@@ -6,6 +6,8 @@ title: Template - [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This Governance Contract migration is taking place to protect the Maker Protocol from the impact of flash loaned MKR on the governance process.
 
+An overview and guide to the migration process can be found in this [forum post]($todo).
+
 ### De-authorize DsChief v1.1 on MCD
 
 As described in this [forum post](https://forum.makerdao.com/t/dschief-1-2-flash-loan-protection-for-maker-governance/5115) if this proposal passes, DSChief v1.1 will be de-authorized from making changes to the Maker Protocol (MCD).
@@ -22,6 +24,10 @@ As described [here](https://forum.makerdao.com/t/urgent-flash-loans-and-securing
 
 As described [here](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), one of the initial changes to protect the Maker Protocol from governance attacks using flash loans was to de-authorize the Oracle Freeze Module. Given that DsChief v1.2 is not vulnerable to flash loans, this module can be re-authorized safely. If this proposal passes, the Oracle Freeze Module will be re-authorized.
 
+### Reduce the  GSM Pause Delay
+
+As described [here]($todo), the GSM Pause Delay will be reduced from 72 hours to 48 hours if this proposal passes. The GSM Pause Delay was raised to 72 hours as part of the initial set of changes to protocol the Maker Protocol from governance attacks using flash loans.
+
 ### De-authorize DsChief v1.1 on SCD (Single Collateral DAI)
 
 SCD is no longer supported by Maker Governance, but DsChief v1.1 still retains permissions over SCD. Governance power over SCD is no longer necessary and can be removed safely. If this proposal passes, DSChief v1.1 will be de-authorized from making changes to Single Collateral DAI. 
@@ -37,12 +43,13 @@ Therefore, if this Executive proposal passes the following will occur:
 - DsChief v1.2 will be authorized to make changes to the Maker Protocol (MCD).
 - The Liquidations Circuit Breaker will be authorized to make changes to the Maker Protocol (MCD).
 - The Oracle Freeze Module will be authorized to make changes to the Maker Protocol (MCD).
+- The GSM Pause Delay will be reduced from 72 hours to 48 hours.
 - DsChief v1.1 will be de-authorized and will no longer be able to make changes to Single Collateral DAI (SCD).
 - The Chainlog will be updated to point to the new version of the VoteProxyFactory contract.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
-Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that the Smart Contracts Team are available to react to any issues that arise from the migration process.
+Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that the Smart Contracts Team is available to react to any issues that arise from the migration process.
 
 ## Review
 
