@@ -14,13 +14,13 @@ The Liquidation Ratio parameter limits the maximum amount of DAI debt that a vau
 
 Each vault type has its own Liquidation Ratio that can be adjusted by Maker Governance. Note that the Liquidation Ratio applies collectively to all vaults created using a specific vault type, rather than to individual vaults.
 
- The Liquidation Ratio for each vault type is expressed as a percentage value of the collateral that must be present in the vault to support its debt. For example, a 150% Liquidation Ratio means that a debt of 66 DAI must be supported by a collateral value of at least $100. 
+ The Liquidation Ratio for each vault type is expressed as a percentage value of the collateral that must be present in the vault to support its debt. For example, a 150% Liquidation Ratio means that a debt of 66.66 DAI must be supported by a collateral value of at least $100. 
 
 ## Purpose
 
 The primary purpose of the Liquidation Ratio parameter is to control the risk to the protocol that comes from a drop in the price of a collateral asset. When the value of collateral drops, vaults dropping below the Liquidation Ratio can be liquidated. By triggering liquidations at a ratio greater than 100%, there is a much greater chance that the protocol can recover at least the full value of the DAI debt. 
 
-Requiring a Liquidation Ratio above 100% means that DAI is always be backed by at least $1 of assets (outside of price fluctuations in the market.) This is what is meant when DAI is described as over-collateralized.
+Requiring a Liquidation Ratio above 100% means that DAI is always backed by at least $1 of assets (outside of price fluctuations in the market.) This is what is meant when DAI is described as over-collateralized.
 
 ## Trade-offs
 
@@ -30,13 +30,13 @@ However, the higher the Liquidation Ratio of a vault type, the less capital effi
 
 ## Changes
 
-There is currently no process or system in place for automatically adjusting the Liquidation Ratio parameter for a specific vault type. An executive vote is required to modify the Liquidation Ratio parameter for a particular vault type. Changes to Liquidation Ratio parameters are subject to the GSM Pause Delay.
+Adjusting a Liquidation Ratio parameter is a manual process that requires an executive vote. Changes to Liquidation Ratio parameters are subject to the GSM Pause Delay.
 
 **Why increase a Liquidation Ratio Parameter?**
 
-Increasing the Liquidation Ratio of a vault type can be used to reduce the risk from a vault type in the face of extreme market conditions. However, increasing the Liquidation Ratio will immediately trigger liquidations for all vault users that are maintaining a collateralization ratio above the current value, but below the new value. This is likely to result in an extremely negative reaction from those vault users.
+Increasing the Liquidation Ratio of a vault type can be used to reduce the risk from a vault type in the face of extreme market conditions. However, increasing the Liquidation Ratio will immediately trigger liquidations for all vault users that are maintaining a collateralization ratio above the current value, but below the new value. This is likely to result in an extremely negative reaction from the affected vault users.
 
-Increasing the Liquidation Ratio to a ridiculously high value can be used to forcibly close all vaults within a certain vault type. This could be used if the Maker Governance decides that it no longer wants to support vaults of that type. However, this is likely to result in a negative reaction from those vault users, especially if done prematurely, or in addition to charging a Liquidation Penalty.
+Increasing the Liquidation Ratio to an arbitrarily high value can be used to forcibly close all vaults within a certain vault type. This could be used if the Maker Governance decides that it no longer wants to support vaults of that type. However, this is likely to result in a negative reaction from those vault users, especially if done prematurely, or in addition to charging a Liquidation Penalty.
 
 Increasing a Liquidation Ratio parameter should only be done for VERY compelling reasons due to the possibility for it to result in forced liquidations.
 
@@ -50,7 +50,7 @@ If Maker Governance wants to increase the Liquidation Ratio for a vault type, a 
 
 One reason for decreasing the Liquidation Ratio for a vault type is that of monetary policy. Maker Governance may wish to encourage further minting of DAI, and consider the additional risk taken to be a reasonable trade-off to achieve this goal.
 
-Alternatively, a Liquidation Ratio might be decreased to increase the competitiveness of a vault type when compared to the wider market.
+Alternatively, a Liquidation Ratio might be decreased to increase the competitiveness (in terms of capital efficiency) of a vault type when compared to the wider market.
 
 Finally, Maker Governance or the Risk Domain Team may have judged that the collateral in question has become less risky, such that a lower Liquidation Ratio can be supported safely.
 

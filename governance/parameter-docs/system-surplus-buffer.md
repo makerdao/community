@@ -18,7 +18,7 @@ The System Surplus Buffer is expressed in absolute rather than relative terms, s
 
 ## Purpose
 
-The System Surplus Buffer primarily exists so that in the event of bad debt resulting from market events or poor governance MKR is not immediately minted unless the bad debt exceeds the DAI in the buffer. This is beneficial to the protocol because each time an auction takes place (whether FLAP or FLOP), the auction is not perfectly efficient and the protocol loses some percentage of the auctioned value. 
+In general terms, whenever the Maker Protocol makes money in DAI, MKR is bought and burnt. Likewise, every time the system loses money (bad debt), it mints MKR, sells it, and buys DAI. The primary purpose of the System Surplus Buffer is to reduce the frequency that this occurs. This is beneficial to the protocol because each time an auction takes place (whether FLAP or FLOP), the auction is not perfectly efficient and the protocol loses some percentage of the auctioned value. 
 
 In addition to this, the buffer provides a reserve of DAI which may be used by governance to fund the operations of domain teams and to pay for Oracle feeds without requiring the minting of MKR.
 
@@ -26,14 +26,14 @@ In addition to this, the buffer provides a reserve of DAI which may be used by g
 
 Increasing the System Surplus Buffer allows the Maker Protocol to accrue a larger reserve of DAI before burning MKR. This larger reserve provides greater security for the protocol in the event of bad debt.
 
-However, while the buffer is not full FLAP auctions do not take place, and MKR is not burned. This means that Maker Governance is not getting directly rewarded for their efforts during this time.
+However, while the buffer is not full FLAP auctions do not take place, and MKR is not burned. This means that Maker Governance is not being rewarded for their efforts during this time.
 
 Additionally, DAI in the System Surplus Buffer is not circulating in the market. This means that holding large amounts of DAI in the System Surplus Buffer will increase upwards pressure on the DAI peg.
 
 Maintaining too low of a System Surplus Buffer on the other hand means that FLOP auctions are more likely to take place in the event of bad debt. This makes it more likely that the supply of MKR will increase and dilute the value of current MKR Holders. 
 
 ## Changes
-There is currently no process or system in place for automatically adjusting the System Surplus Buffer parameter. An executive vote is required to modify the parameter. Changes to the System Surplus Buffer are subject to the GSM Pause Delay.
+Adjusting the Surplus Auction Buffer parameter is a manual process that requires an executive vote. Changes to the System Surplus Buffer are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
 
