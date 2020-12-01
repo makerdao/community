@@ -6,7 +6,7 @@ title: Template - [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This Governance Contract migration is taking place to protect the Maker Protocol from the impact of flash loaned MKR on the governance process.
 
-An overview and guide to the migration process can be found in this [forum post]($todo).
+An overview and guide to the migration process can be found in this [forum post](https://forum.makerdao.com/t/dschief-v1-2-migration-steps/5412).
 
 ### De-authorize DsChief v1.1 on MCD
 
@@ -26,7 +26,7 @@ As described [here](https://forum.makerdao.com/t/urgent-flash-loans-and-securing
 
 ### Reduce the  GSM Pause Delay
 
-As described [here]($todo), the GSM Pause Delay will be reduced from 72 hours to 48 hours if this proposal passes. The GSM Pause Delay was raised to 72 hours as part of the initial set of changes to protocol the Maker Protocol from governance attacks using flash loans.
+As described [here](https://forum.makerdao.com/t/governance-security-module-gsm-adjustment/5421), the GSM Pause Delay will be reduced from 72 hours to 48 hours if this proposal passes. The GSM Pause Delay was raised to 72 hours as part of the initial set of changes to protocol the Maker Protocol from governance attacks using flash loans.
 
 ### De-authorize DsChief v1.1 on SCD (Single Collateral DAI)
 
