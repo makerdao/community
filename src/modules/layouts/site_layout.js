@@ -140,7 +140,10 @@ const Layout = ({ children, pageContext, uri, ...props }) => {
         </Text>
 
         <Text as="p" sx={{mb: '26px'}}>
-          Short description
+          Your feedback will help us improve the overall experience on this website. 
+          <br/>
+          <br/>
+          Do you have 20 minutes to spare?
         </Text>
 
         <Icon name="close" size="15px" sx={{position: 'absolute', top: '27px', right: '24px', cursor: 'pointer'}} onClick={closeScrollCTA}/>
