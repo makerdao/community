@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
-
 ---
+
 ## [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
 
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol as outlined in these Polls:

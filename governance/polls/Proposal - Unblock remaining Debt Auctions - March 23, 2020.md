@@ -4,11 +4,11 @@ summary: Signal your support to unblock the remaining Debt Auctions from the sys
 discussion_link: https://forum.makerdao.com/t/1748
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Unblock the remaining Debt Auctions - March 23, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to unblock the remaining Debt Auctions from the system.
@@ -21,7 +21,7 @@ The method for unblocking the remaining Debt Auctions was discussed in the Gover
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

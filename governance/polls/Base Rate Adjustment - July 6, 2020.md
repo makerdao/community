@@ -4,19 +4,20 @@ summary: Signal your support to adjust the Base Rate within a range of -4% to 4%
 discussion_link: https://forum.makerdao.com/t/2944
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: -4
-   2: -2
-   3: -1
-   4: -0.5
-   5: -0.25
-   6: 0
-   7: 0.25
-   8: 0.5
-   9: 1
-   10: 2
-   11: 4
+  0: Abstain
+  1: -4
+  2: -2
+  3: -1
+  4: -0.5
+  5: -0.25
+  6: 0
+  7: 0.25
+  8: 0.5
+  9: 1
+  10: 2
+  11: 4
 ---
+
 # Poll: Base Rate Adjustment - July 6, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -4% to 4%.

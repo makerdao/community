@@ -1,14 +1,14 @@
 ---
 title: Template - [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
-
 ---
+
 ## [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
 
 The Governance Facilitator and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the Surplus Buffer
 
-As per the on-chain governance [poll](https://vote.makerdao.com/polling/QmY74kHx?network=mainnet#vote-breakdown), the System Surplus Buffer will be increased from 2,000,000 DAI to 4,000,000 DAI if this proposal passes. 
+As per the on-chain governance [poll](https://vote.makerdao.com/polling/QmY74kHx?network=mainnet#vote-breakdown), the System Surplus Buffer will be increased from 2,000,000 DAI to 4,000,000 DAI if this proposal passes.
 
 Further details and discussion on this change can be found on the governance forum in [this](https://forum.makerdao.com/t/signal-request-increase-the-auction-surplus-buffer-by-2m-system-surplus-october-2020/4716) signal request thread.
 
@@ -21,6 +21,7 @@ Further details and discussion on these whitelist proposals can be found [here](
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The System Surplus Buffer limit will be increased from 2,000,000 DAI to 4,000,000 DAI.
 - B.Protocol will be whitelisted on the ETHUSD Medianizer Oracle.
 - B.Protocol will be whitelisted on the ETHUSD OSM Oracle.

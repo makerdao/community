@@ -4,10 +4,11 @@ summary: Signal your support or opposition for the proposed Stability Fee change
 discussion_link: https://forum.makerdao.com/t/rates-changes-proposal-26-oct-2020/4877
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Stability Fee Adjustment Proposal- November 2, 2020
 
 The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Rates Working Group which gives Maker Governance the chance to signal their support or opposition for the proposed Stability Fee changes.
@@ -17,7 +18,8 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 ## Review
 
 Summary of Proposed Changes:
- * **Reduce ETH-B Stability Fee from 6% to 4%.**
+
+- **Reduce ETH-B Stability Fee from 6% to 4%.**
 
 Discussion and rationale for these changes can be found in this week's rates proposal thread [here](https://forum.makerdao.com/t/rates-changes-proposal-26-oct-2020/4877). Please review this thread to inform your position before voting.
 

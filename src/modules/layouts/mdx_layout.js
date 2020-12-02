@@ -1,10 +1,9 @@
 /** @jsx jsx */
-import { Children, Fragment, useEffect, useState } from "react";
-import { Box, Flex, Text, jsx } from "theme-ui";
+import { Children, Fragment } from "react";
+import { Box, Flex, jsx } from "theme-ui";
 import Sticky from "react-sticky-el";
 import { useStaticQuery, graphql } from "gatsby";
-import { useLocation } from "@reach/router"; 
-
+import { useLocation } from "@reach/router";
 
 import { MobileNav } from "@modules/navigation";
 import { useTranslation } from "@modules/localization/";
@@ -17,7 +16,6 @@ import { UrlConverter, getLocaleFromPath } from "@utils";
 
 export default (props) => {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
-  
 
   const { allMdx } = useStaticQuery(graphql`
     query getMDXData {
@@ -57,7 +55,6 @@ export default (props) => {
     hideLanguageSelector,
     hideBreadcrumbs,
   } = pageContext.frontmatter;
-  
 
   const pathDirs = pagePath
     .replace(/^\/|\/$/g, "")
@@ -108,7 +105,6 @@ export default (props) => {
   const { pathname } = useLocation();
   const path = pathname.split("/");
   const currentTopSection = path[2];
-   
 
   //For the sake of SEO we may want the page title to be based on the first h1 in our MDX file.
   //if no title is specified in the metadata.
@@ -214,15 +210,13 @@ export default (props) => {
         <Box>{children}</Box>
       </Box>
 
-      <Box sx={{position: 'relative'}}>
+      <Box sx={{ display: ["none", "none", "block"] }}>
         {/* DESKTOP LANGUAGE SELECTOR */}
         {renderLanguageSelector && (
-          <LanguageSelector sx={{ display: ["none", "none", "block"] }} data={languageSelectorData} pagePath={pagePath} />
+          <LanguageSelector data={languageSelectorData} pagePath={pagePath} />
         )}
-          
       </Box>
       <MobileNav sidenavData={sidenavData} />
-      
     </Fragment>
   );
 };

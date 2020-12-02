@@ -4,10 +4,11 @@ summary: Signal your support for increasing the WBTC-A Risk Premium to from 2% t
 discussion_link: https://forum.makerdao.com/t/3484
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: WBTC Risk Premium Adjustment - August 24, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the WBTC-A Risk Premium from 2% to 4%.

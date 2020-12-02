@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Onboard YFI and BAL, Debt Ceiling and Stability Fee Adjustments - November 6, 2020
-
 ---
+
 ## [Executive Vote] Onboard YFI and BAL, Debt Ceiling and Stability Fee Adjustments - November 6, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -10,43 +10,43 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 A new collateral type, YFI (yearn.finance), will be added to the Maker Protocol if this proposal passes. YFI will be added with the following parameters in the YFI-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmVNJNQf?network=mainnet)
 
-* Stability Fee: 4%
-* Liquidation Ratio: 175%
-* Debt Ceiling: 7 million
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 DAI
+- Stability Fee: 4%
+- Liquidation Ratio: 175%
+- Debt Ceiling: 7 million
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 DAI
 
 Please review the following forum threads containing information about YFI (yearn.finance) to inform your position before voting.
 
-* [Initial Collateral Application](https://forum.makerdao.com/t/yfi-mip6-collateral-onboarding-yearn/3815)
-* [Risk Evaluation](https://forum.makerdao.com/t/yfi-collateral-onboarding-risk-evaluation/4575)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/yfi-erc20-token-smart-contract-technical-assessment/4626)
-* [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp10-proposal-yfiusd-oracle-collateral-onboarding-oracle-assessment/4220)
+- [Initial Collateral Application](https://forum.makerdao.com/t/yfi-mip6-collateral-onboarding-yearn/3815)
+- [Risk Evaluation](https://forum.makerdao.com/t/yfi-collateral-onboarding-risk-evaluation/4575)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/yfi-erc20-token-smart-contract-technical-assessment/4626)
+- [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp10-proposal-yfiusd-oracle-collateral-onboarding-oracle-assessment/4220)
 
 ### Onboard BAL as a new Collateral Type
 
 A new collateral type, BAL (Balancer), will be added to the Maker Protocol if this proposal passes. BAL will be added with the following parameters in the BAL-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmRbWqVW?network=mainnet)
 
-* Stability Fee: 5%
-* Liquidation Ratio: 175%
-* Debt Ceiling: 4 million
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 DAI
+- Stability Fee: 5%
+- Liquidation Ratio: 175%
+- Debt Ceiling: 4 million
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 DAI
 
 Please review the following forum threads containing information about BAL (Balancer) to inform your position before voting.
 
-* [Initial Collateral Application](https://forum.makerdao.com/t/bal-mip6-collateral-onboarding-application/3880)
-* [Risk Evaluation](https://forum.makerdao.com/t/bal-collateral-onboarding-risk-evaluation/4600/1)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/bal-erc20-token-smart-contract-technical-assessment/4630)
-* [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp12-proposal-balusd-oracle-collateral-onboarding-oracle-assessment/4638)
+- [Initial Collateral Application](https://forum.makerdao.com/t/bal-mip6-collateral-onboarding-application/3880)
+- [Risk Evaluation](https://forum.makerdao.com/t/bal-collateral-onboarding-risk-evaluation/4600/1)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/bal-erc20-token-smart-contract-technical-assessment/4630)
+- [Oracles Evaluation](https://forum.makerdao.com/t/mip10c3-sp12-proposal-balusd-oracle-collateral-onboarding-oracle-assessment/4638)
 
 ### Reduce the ETH-A Debt Ceiling
 
@@ -95,10 +95,12 @@ Please review the rates proposal [thread](https://forum.makerdao.com/t/rates-cha
 Therefore, if this Executive proposal passes the following will occur:
 
 **Collateral Onboarding**
+
 - The YFI-A vault type will be added using YFI as collateral with the parameters listed above.
 - The BAL-A vault type will be added using BAL as collateral with the parameters listed above.
 
 **Debt Ceiling Changes**
+
 - The WBTC-A Debt Ceiling will increase from 120 million DAI to 160 million DAI
 - The LINK-A Debt Ceiling will increase from 5 million DAI to 10 million DAI
 - The ETH-B Debt Ceiling will decrease from 20 million DAI to 10 million DAI
@@ -108,8 +110,8 @@ Therefore, if this Executive proposal passes the following will occur:
 - The Global line parameter will decrease from 1,476,000,000 DAI to 1,463,750,000 DAI due to the above changes.
 
 **Stability Fee Changes**
-- The ETH-B Stability Fee will decrease from 6% to 4%
 
+- The ETH-B Stability Fee will decrease from 6% to 4%
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 

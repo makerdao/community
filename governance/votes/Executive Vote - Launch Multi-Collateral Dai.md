@@ -2,6 +2,7 @@
 title: Executive vote - Multi-Collateral Dai Launch November 15, 2019
 summary: Ratify the collection of system parameters needed to activate Multi-Collateral Dai
 ---
+
 ## [Executive Vote] Executive vote - Multi-Collateral Dai Launch
 
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the [voting system](https://vote.makerdao.com/), which will enable the community to enact the collection of system parameters needed to activate Multi-Collateral Dai.

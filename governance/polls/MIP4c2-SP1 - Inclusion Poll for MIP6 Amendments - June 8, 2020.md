@@ -1,13 +1,14 @@
 ---
 title: "MIP4c2-SP1: Inclusion Poll for MIP6 Amendments - June 8, 2020"
-summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2663
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP4c2-SP1: Inclusion Poll for MIP6 Amendments - June 8, 2020
 
 On June 8, the Maker Community will vote to determine whether the Maker Improvement Subproposal, [MIP4c2-SP1 (MIP6 Amendment)](https://forum.makerdao.com/t/2663), will proceed to next week's Governance Poll. In short, MIP4c2-SP1 proposes updates to the collateral onboarding process to allow MIP6 collateral applications to be eligible for MIP9 Community Greenlight polls at least two weeks after the MIP6 application has been proposed, as well as moving the Domain Greenlight process until after the MIP9 polls have concluded.

@@ -1,13 +1,14 @@
 ---
 title: Should we add PAXG to the Maker Protocol? - June 22, 2020
-summary: This poll will provide guidance to the Domain Teams for when they onboard additional assets. 
+summary: This poll will provide guidance to the Domain Teams for when they onboard additional assets.
 discussion_link: https://forum.makerdao.com/t/2584
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should we add PAXG to the Maker Protocol? - June 22, 2020
 
 ## Description

@@ -1,19 +1,20 @@
 ---
 title: Template - [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
-
 ---
+
 ## [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Urgent Configuration change to the ETH-A lump size
+
 The MakerDAO Smart Contracts Domain Team have discovered a risk present in the Maker Protocol that needs to be addressed as a matter of urgency. In order to mitigate this risk the Smart Contracts Team suggest that the ETH-A `lump` parameter should be reduced from 500 ETH to 100 ETH. Further details of this issue can be reviewed [here](https://forum.makerdao.com/t/3586).
 
 The `lump` parameter is also known as the 'Auction Lot Size' and determines the size of the auction lots when liquidating collateral in the Maker Protocol.
 
 ### Increase the WBTC-A debt ceiling
 
-As per the community signal request located [here](https://forum.makerdao.com/t/3519), this proposal asks whether the WBTC-A Debt Ceiling should be increased from 40 million to 80 million. This proposal has successfully met the requirements to be expedited as an emergency action based on the community response within that signal request. 
+As per the community signal request located [here](https://forum.makerdao.com/t/3519), this proposal asks whether the WBTC-A Debt Ceiling should be increased from 40 million to 80 million. This proposal has successfully met the requirements to be expedited as an emergency action based on the community response within that signal request.
 
 This expedited action is being taken in response to DAI consistently trading above peg for the past few months.
 

@@ -505,7 +505,7 @@ export default {
     },
     outline: {
       variant: "buttons.primary",
-      bg: "transparent",
+      bg: "background",
       color: "textMuted",
       border: "1px solid",
       borderColor: "text",

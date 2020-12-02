@@ -4,14 +4,15 @@ summary: Signal your support to modify the USDC-A and PAX-A Liquidation Ratio wi
 discussion_link: https://forum.makerdao.com/t/3886
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: No Change
-   2: 105%
-   3: 104%
-   4: 103%
-   5: 102%
-   6: 101%
+  0: Abstain
+  1: No Change
+  2: 105%
+  3: 104%
+  4: 103%
+  5: 102%
+  6: 101%
 ---
+
 # Poll: Reduce USDC-A and PAX-A Liquidation Ratio - September 14, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Liquidation Ratio** options for the USDC-A and PAX-A Vault types. Voters are now able to signal their support for a **USDC-A and PAX-A Liquidation Ratio** within a range of 105% to 101%.
@@ -30,7 +31,7 @@ Please review the discussion on the linked threads to inform your position befor
 
 ## Next Steps
 
-If the expedited executive vote posted on Monday, September 14 passes, then the options of 105% and 104% will not lead to any further action regardless of this poll's outcome because this could result in unbacked DAI. 
+If the expedited executive vote posted on Monday, September 14 passes, then the options of 105% and 104% will not lead to any further action regardless of this poll's outcome because this could result in unbacked DAI.
 
 Given the above caveat, on the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 

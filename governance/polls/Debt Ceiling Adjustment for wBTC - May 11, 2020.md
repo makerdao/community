@@ -1,13 +1,14 @@
 ---
-title: Adjust the WBTC Debt Ceiling - May 11 2020 
+title: Adjust the WBTC Debt Ceiling - May 11 2020
 summary: Signal your support for lowering the WBTC Debt Ceiling to 3M from 10M.
 discussion_link: https://forum.makerdao.com/t/2333
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the WBTC Debt Ceiling - May 11 2020
 
 The Maker Governance Community has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to lower the WBTC Debt Ceiling from 10M to 3M.
@@ -20,7 +21,7 @@ Additional context was presented in a [Forum Thread](https://forum.makerdao.com/
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

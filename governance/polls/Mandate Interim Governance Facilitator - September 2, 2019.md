@@ -4,17 +4,18 @@ summary: If this mandate is accepted by the community, it will signal its suppor
 discussion_link: https://forum.makerdao.com/t/264
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Ratify the Interim Governance Facilitator Mandate
 
 ## Introduction
 
 The Maker Foundation is proposing a new role, the Interim Governance Facilitator, which is responsible for maintaining the ecosystem supporting the governance process. This role will follow the same ‘interim' model shared by other foundation teams and is designed to, eventually, be entirely community-driven.
 
-*"Interim Governance Facilitators (IGFs) are tasked with ensuring the smooth operation of the governance process. This involves a wide range of activities, anything from general administration to signals gathering to governance scheduling."*
+_"Interim Governance Facilitators (IGFs) are tasked with ensuring the smooth operation of the governance process. This involves a wide range of activities, anything from general administration to signals gathering to governance scheduling."_
 
 Their key function, though, is encapsulated in the name of the role, _facilitation_. The primary duty of the Facilitators is to ensure the smooth and efficient running of the distributed and open source governance process at Maker.
 
@@ -242,6 +243,6 @@ This week could also include an executive vote ratifying the previous month's go
 
 ## Conclusion
 
-If this mandate is accepted by the community, it will signal its support for the new Governance Facilitator Role, Richard Brown as the first Interim Governance Facilitator, and signals support for the general scope of the initiatives outlined in this mandate. 
+If this mandate is accepted by the community, it will signal its support for the new Governance Facilitator Role, Richard Brown as the first Interim Governance Facilitator, and signals support for the general scope of the initiatives outlined in this mandate.
 
 This mandate should be considered a living document and will be updated based on community feedback.

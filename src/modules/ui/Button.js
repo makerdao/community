@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { Button as ThemedButton, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { motion } from "framer-motion";
 
 import { Link } from "@modules/navigation";
 
@@ -19,7 +20,6 @@ const Button = ({
   test,
   icon,
   sx,
-  hideExternalIcon,
   ...otherProps
 }) => {
   //NOTE(Rejon): This may seem outlandish, but we do this to ensure content creators write LESS code.
@@ -39,7 +39,7 @@ const Button = ({
 
   const internal = /^\/(?!\/)/.test(href) || /^\/(?!\/)/.test(to);
 
-  const willHaveIcon = icon || ((!internal && !hideExternalIcon) && !small);
+  const willHaveIcon = icon || (!internal && !small);
 
   return (
     <Link
@@ -51,7 +51,6 @@ const Button = ({
         whiteSpace: "nowrap",
         display: inline ? "inline-block" : "block",
         cursor: disabled ? "not-allowed" : "",
-        fontWeight: '500',
         "&:not(:last-child)": {
           mb: 3,
         },

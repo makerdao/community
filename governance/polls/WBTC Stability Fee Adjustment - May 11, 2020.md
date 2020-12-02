@@ -4,17 +4,18 @@ summary: Signal your support to adjust the WBTC Stability Fee within a range of 
 discussion_link: https://forum.makerdao.com/t/2406
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 0
-   2: 0.5
-   3: 0.75
-   4: 1
-   5: 1.25
-   6: 1.5
-   7: 2
-   8: 3
-   9: 5
+  0: Abstain
+  1: 0
+  2: 0.5
+  3: 0.75
+  4: 1
+  5: 1.25
+  6: 1.5
+  7: 2
+  8: 3
+  9: 5
 ---
+
 # Poll: WBTC Stability Fee Adjustment - May 11, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **WTBC Stability Fee** options. Voters are now able to signal their support for a **WTBC Stability Fee** within a range of 0% to 5%.
@@ -27,7 +28,7 @@ The **WBTC Stability Fee** was discussed in the Governance call on Thursday, May
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

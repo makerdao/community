@@ -25,6 +25,12 @@ const Sidenav_Node = ({
     url = items[0].url;
   }
 
+  const fontWeight = [
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : "normal",
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : "normal",
+    currentPath === url || currentPath.includes(otherProps.slugPart) ? "500" : null || parentDepth === 1 ? "500" : "normal",
+  ];
+
   useEffect(() => {
     if (
       !active &&
