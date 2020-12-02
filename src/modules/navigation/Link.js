@@ -22,6 +22,7 @@ const Link = ({
   href,
   gaProps,
   isButton,
+  onClick,
   ...other
 }) => {
   const { locale } = useTranslation();
@@ -46,7 +47,7 @@ const Link = ({
 
     return (
       <GatsbyLink
-        href={linkHref}
+        to={linkHref}
         activeClassName={
           activeClassName || (linkHref !== `/${locale}/` ? "active" : null)
         }
@@ -55,6 +56,11 @@ const Link = ({
         }
         sx={{ variant: "styles.a" }}
         onClick={(e) => {
+        if (onClick !== null && onClick !== undefined)
+        {
+          onClick();
+        }
+
         const eventProps = Object.assign(
           {
             category: "Internal Link",
@@ -105,6 +111,7 @@ const Link = ({
       as={OutboundLink}
       variant="styles.a"
       className="external-link"
+      onClick={onClick}
       {...other}
       target={"_blank"}
       rel="nofollow noopener"
