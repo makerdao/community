@@ -4,7 +4,7 @@ import { Link as GatsbyLink } from "gatsby";
 import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
-// import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 import { useTranslation } from "@modules/localization";
 
@@ -22,6 +22,7 @@ const Link = ({
   href,
   gaProps,
   isButton,
+  onClick,
   ...other
 }) => {
   const { locale } = useTranslation();
@@ -46,7 +47,7 @@ const Link = ({
 
     return (
       <GatsbyLink
-        href={linkHref}
+        to={linkHref}
         activeClassName={
           activeClassName || (linkHref !== `/${locale}/` ? "active" : null)
         }
@@ -54,19 +55,23 @@ const Link = ({
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
         sx={{ variant: "styles.a" }}
-        // onClick={(e) => {
-        //NOTE(Rejon): Afaik we aren't using Google Analytics atm.
-        // const eventProps = Object.assign(
-        //   {
-        //     category: "Internal Link",
-        //     action: "Click",
-        //     label: linkHref,
-        //   },
-        //   gaProps
-        // );
+        onClick={(e) => {
+        if (onClick !== null && onClick !== undefined)
+        {
+          onClick();
+        }
 
-        // trackCustomEvent(eventProps);
-        // }}
+        const eventProps = Object.assign(
+          {
+            category: "Internal Link",
+            action: "Click",
+            label: linkHref,
+          },
+          gaProps
+        );
+
+        trackCustomEvent(eventProps);
+        }}
         {...other}
       >
         {/*add space as workaround for svg padding resizing issue*/}
@@ -106,6 +111,7 @@ const Link = ({
       as={OutboundLink}
       variant="styles.a"
       className="external-link"
+      onClick={onClick}
       {...other}
       target={"_blank"}
       rel="nofollow noopener"

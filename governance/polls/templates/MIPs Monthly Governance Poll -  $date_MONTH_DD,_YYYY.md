@@ -4,29 +4,34 @@ summary: Signal your support or opposition for the monthly MIPs bundle for $date
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
-  0: Abstain
-  1: Yes
-  2: No
+   0: Abstain
+   1: Yes
+   2: No
 ---
+# Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 
-# Monthly MIPs Governance Poll - \$date_MONTH_DD,\_YYYY
+The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on \$executive_date. The bundled contents of this poll consist of:
+- [$proposal_name1]($proposal_link1)
+- [$proposal_name2]($proposal_link2)
+- [$proposal_name...]($proposal_link...)
 
-- [\$proposal_name1]($proposal_link1)
-- [\$proposal_name2]($proposal_link2)
-- [\$proposal_name...]($proposal_link...)
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
-The proposals can be reviewed in this week's MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on \$last_governance_call_date_MONTH_DD,\_YYYY.
+The proposals can be reviewed in this week's MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
 
-## Next Steps
+## Outcomes
 
-MKR holders must vote to determine whether to accept or reject the bundle of proposals included within the Monthly Governance Poll, determining whether the bundle should proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle. The Executive Vote will be submitted on $next_executive_date_MONTH_DD,_YYYY if the Governance Facilitators confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on $last_governance_call_date_MONTH_DD,\_YYYY.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This MIPs bundle will proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle provided the Governance Facilitator(s) confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on $last_governance_call_date_MONTH_DD,_YYYY.
+* The Executive Vote will be submitted on $next_executive_date_MONTH_DD,_YYYY assuming a positive outcome is confirmed by the Governance Facilitator(s).
 
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+* MIPs may be resubmitted to the governance cycle up to three times if they are voted down.
 ---
 
 ## Resources
