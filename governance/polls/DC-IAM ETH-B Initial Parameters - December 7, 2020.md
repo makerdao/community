@@ -1,6 +1,6 @@
 ---
 title: ETH-B Debt Ceiling Instant Access Module - December 7, 2020
-summary: Signal your support or opposition to adding a Debt Ceiling Instant Access Module for ETH-B with the listed parameters.
+summary: Signal your support or opposition to using the Debt Ceiling Instant Access Module for ETH-B with the listed parameters.
 discussion_link: https://forum.makerdao.com/t/eth-b-dc-iam-initial-parameters/5512
 vote_type: Plurality Voting
 options:
@@ -10,7 +10,7 @@ options:
 ---
 # Poll: ETH-B Debt Ceiling Instant Access Module - December 7, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to adding a Debt Ceiling Instant Access Module for ETH-B with the listed parameters.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for ETH-B with the listed parameters.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, December 7 at 16:00 UTC.
 
@@ -34,7 +34,7 @@ Additional information on the Debt Ceiling Instant Access Module can be found in
 * The Debt Ceiling Instant Access Module will be deployed to mainnet.
 * The Debt Ceiling Instant Access Module will be granted permissions to modify debt ceilings in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * The above Debt Ceiling Instant Access Module parameters will be set for ETH-B in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
