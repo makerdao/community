@@ -10,7 +10,7 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 The Maker governance contract (DSChief) is being replaced to mitigate the risk of governance attack posed by flash-loans and accessible MKR liquidity. Further details can be found [here](https://forum.makerdao.com/t/dschief-1-2-flash-loan-protection-for-maker-governance/5115).
 
-A step-by-step guide to the migration process can be found on the official forum [here](https://forum.makerdao.com/t/dschief-v1-2-migration-steps/5412).
+A [step-by-step guide](https://forum.makerdao.com/t/dschief-v1-2-migration-steps/5412) to the migration process can be found on the official forum.
 
 Part 1 of the migration process took place in this previous [executive vote](https://vote.makerdao.com/executive/migrate-to-dschief-v1-2?network=mainnet#proposal-detail) which transferred permissions from DSChief v1.1 to DSChief v1.2. Parts 2 and 3 do not require an executive vote. This executive proposal represents the fourth and final step of the migration process.
 
