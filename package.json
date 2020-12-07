@@ -50,9 +50,12 @@
     "react-smooth-collapse": "^2.1.0",
     "react-sticky-el": "^2.0.5",
     "remark-frontmatter": "^2.0.0",
+    "remark-slug": "^6.0.0",
     "theme-ui": "^0.3.1"
   },
   "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-plugin-react": "^7.21.5",
     "prettier": "2.1.1"
   },
   "keywords": [
@@ -62,6 +65,7 @@
   "scripts": {
     "build": "npm run acrollout && gatsby build",
     "acrollout": "node scripts/allcontributors-transformer.js",
+    "lint": "eslint --max-warnings 50 '**/*.{js,jsx}'",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",

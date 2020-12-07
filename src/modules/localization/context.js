@@ -21,6 +21,7 @@ const TranslationProvider = ({ children }) => {
   const allLocales = allDirectory.nodes.map((n) => {
     const loc = n.absolutePath.split("/").pop();
 
+    // eslint-disable-next-line
     const uiData = require(`@content/${loc}/UI.json`);
 
     if (uiData) {
