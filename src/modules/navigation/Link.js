@@ -17,11 +17,8 @@ const Link = ({
   activeClassName,
   partiallyActive,
   hideExternalIcon,
-  originalType,
-  mdxType,
   href,
   gaProps,
-  isButton,
   onClick,
   ...other
 }) => {
@@ -55,22 +52,21 @@ const Link = ({
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
         sx={{ variant: "styles.a" }}
-        onClick={(e) => {
-        if (onClick !== null && onClick !== undefined)
-        {
-          onClick();
-        }
+        onClick={() => {
+          if (onClick !== null && onClick !== undefined) {
+            onClick();
+          }
 
-        const eventProps = Object.assign(
-          {
-            category: "Internal Link",
-            action: "Click",
-            label: linkHref,
-          },
-          gaProps
-        );
+          const eventProps = Object.assign(
+            {
+              category: "Internal Link",
+              action: "Click",
+              label: linkHref,
+            },
+            gaProps
+          );
 
-        trackCustomEvent(eventProps);
+          trackCustomEvent(eventProps);
         }}
         {...other}
       >

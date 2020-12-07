@@ -1,9 +1,4 @@
-export const TitleConverter = ({
-  frontmatter,
-  title,
-  headings,
-  fileAbsolutePath,
-}) => {
+export const TitleConverter = ({ frontmatter, headings, fileAbsolutePath }) => {
   const splitPath = fileAbsolutePath.split("/");
   let fileName = splitPath.pop().replace(/(.mdx|.md)$/gm, "");
 

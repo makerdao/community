@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import React, { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 
@@ -11,7 +11,6 @@ import theme from "@src/gatsby-plugin-theme-ui/";
 
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.
-var scrollBeforeMenuOpen = 0; //<- Scroll position of window prior to
 var isShowingMenu = false; //<- For document  event listeners to know if the menu is being shown or not.
 
 const ColorModeToggles = () => {
@@ -43,7 +42,7 @@ const ColorModeToggles = () => {
               bg: colorMode !== "default" ? "background" : "",
             },
           }}
-          onClick={(e) => {
+          onClick={() => {
             if (colorMode !== "default") {
               setColorMode("default");
             }
@@ -73,7 +72,7 @@ const ColorModeToggles = () => {
               bg: colorMode !== "dark" ? "surfaceDark" : "",
             },
           }}
-          onClick={(e) => {
+          onClick={() => {
             if (colorMode !== "dark") {
               setColorMode("dark");
             }
@@ -84,7 +83,7 @@ const ColorModeToggles = () => {
   );
 };
 
-const HeaderNav = ({headerLinks, hideMenu}) => {
+const HeaderNav = ({ headerLinks, hideMenu }) => {
   const { locale, t } = useTranslation();
 
   return (
@@ -176,10 +175,10 @@ const Header = () => {
     showMobileMenu,
     hideMobileMenu,
   } = useNavigation();
-  
+
   const breakpoints = theme.breakpoints.slice(0, -1); //NOTE(Rejon): The last element of the break point array SHOULD be infinity.
 
-  const onMenuClick = (e) => {
+  const onMenuClick = () => {
     if (mobileNavOpen) {
       hideMobileMenu(lastScroll);
     } else {
@@ -270,7 +269,7 @@ const Header = () => {
           },
         }}
       >
-        <HeaderNav headerLinks={headerLinks} hideMenu={hideMenu}/>
+        <HeaderNav headerLinks={headerLinks} hideMenu={hideMenu} />
         <Flex
           sx={{
             width: ["100%", "100%", "auto"],

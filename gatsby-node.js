@@ -122,7 +122,7 @@ exports.createPages = async ({ graphql, actions }) => {
     fromPath: "/contributing",
     toPath: `/${FALLBACK_LOCALE}/contribute/`,
   });
-  
+
   createRedirect({
     fromPath: "/grants",
     toPath: `/${FALLBACK_LOCALE}/funding/development-grants`,
@@ -189,7 +189,7 @@ exports.createPages = async ({ graphql, actions }) => {
   });
 };
 
-exports.onCreatePage = async ({ page, pathPrefix, actions }) => {
+exports.onCreatePage = async ({ page, actions }) => {
   const { createPage, deletePage } = actions;
 
   // inject breadcrumbs into page context

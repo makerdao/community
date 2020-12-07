@@ -7,7 +7,7 @@ import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
 
-const LanguageSelector = ({ sx, data, pagePath }) => {
+const LanguageSelector = ({ data, pagePath }) => {
   const { theme } = useThemeUI();
   const navigate = useNavigate();
   const { locale, t, allLocales } = useTranslation();
