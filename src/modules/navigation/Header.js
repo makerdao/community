@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { useEffect, useRef } from "react";
+import { Fragment, useEffect, useRef } from "react";
 import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
 
@@ -17,7 +17,7 @@ const ColorModeToggles = () => {
   const [colorMode, setColorMode] = useColorMode();
 
   return (
-    <>
+    <Fragment>
       <div
         sx={{
           display: ["none", "none", "inline-block"],
@@ -79,7 +79,7 @@ const ColorModeToggles = () => {
           }}
         />
       </div>
-    </>
+    </Fragment>
   );
 };
 
@@ -87,7 +87,7 @@ const HeaderNav = ({ headerLinks, hideMenu }) => {
   const { locale, t } = useTranslation();
 
   return (
-    <>
+    <Fragment>
       <Link
         to={`/${locale}/`}
         variant="nav"
@@ -163,7 +163,7 @@ const HeaderNav = ({ headerLinks, hideMenu }) => {
           {t("Chat")}
         </Link>
       </Flex>
-    </>
+    </Fragment>
   );
 };
 

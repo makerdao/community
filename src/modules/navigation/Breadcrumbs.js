@@ -120,9 +120,9 @@ const Breadcrumbs = ({ data, pathDirs }) => {
                 activeClassName="breadcrumb-no-active"
               >
                 {index >= 2 ? (
-                  <>{`...${fallbackString}`}</>
+                  <Fragment>{`...${fallbackString}`}</Fragment>
                 ) : (
-                  <>
+                  <Fragment>
                     <span
                       sx={{
                         whiteSpace: "nowrap",
@@ -134,17 +134,17 @@ const Breadcrumbs = ({ data, pathDirs }) => {
                       {title}
                     </span>
                     {fallbackString}
-                  </>
+                  </Fragment>
                 )}
               </Link>
             ) : (
-              <>
+              <Fragment>
                 {index >= 2 ? (
-                  <>{`...${fallbackString}`}</>
+                  <Fragment>{`...${fallbackString}`}</Fragment>
                 ) : (
                   `${title}${fallbackString}`
                 )}
-              </>
+              </Fragment>
             )}
             <Icon name="chevron_right" size={3} sx={{ mx: "13px" }} />
           </Fragment>

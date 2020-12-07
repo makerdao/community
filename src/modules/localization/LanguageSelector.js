@@ -1,4 +1,5 @@
 /** @jsx jsx */
+import { Fragment } from "react";
 import Select, { components } from "react-select";
 import { useNavigate } from "@reach/router";
 import { Box, jsx, Text, useThemeUI } from "theme-ui";
@@ -227,7 +228,9 @@ const LanguageSelector = ({ data, pagePath }) => {
         }}
       >
         {availableLanguages.length > 0 && (
-          <>{availableLanguages.map((loc) => t("Flag", null, null, loc))}</>
+          <Fragment>
+            {availableLanguages.map((loc) => t("Flag", null, null, loc))}
+          </Fragment>
         )}
       </Text>
 
