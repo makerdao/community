@@ -1,6 +1,6 @@
 ---
 title: Parameter - Liquidation Ratio
-keywords: "liquidation-ratio"
+keywords: "mat, liquidation ratio"
 ---
 
 # Liquidation Ratio

@@ -1,6 +1,6 @@
 ---
 title: Parameter - Debt Ceiling
-keywords: "line, debt-ceiling"
+keywords: "line, debt ceiling"
 ---
 
 # Debt Ceiling

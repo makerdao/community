@@ -1,6 +1,6 @@
 ---
 title: Parameter - Debt Floor
-keywords: "dust, debt-floor, minimum-debt"
+keywords: "dust, debt floor, minimum debt"
 ---
 
 # Debt Floor

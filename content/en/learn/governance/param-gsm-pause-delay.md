@@ -1,6 +1,6 @@
 ---
 title: Parameter - Pause Delay
-keywords: "GSM, pause, pause-delay"
+keywords: "GSM, pause, pause delay"
 ---
 
 # GSM Pause Delay

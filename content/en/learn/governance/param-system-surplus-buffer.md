@@ -1,6 +1,6 @@
 ---
 title: Parameter - System Surplus Buffer
-keywords: "system-surplus-buffer, surplus-auction-buffer"
+keywords: "hump, system surplus buffer, surplus auction buffer"
 ---
 
 # System Surplus Buffer

@@ -1,6 +1,6 @@
 ---
 title: Parameter - Stability Fee
-keywords: "stability-fee"
+keywords: "duty, stability fee"
 ---
 
 # Stability Fee
