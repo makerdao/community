@@ -1,7 +1,9 @@
 const path = require("path");
 const remark = require("remark");
 const remarkFrontmatter = require("remark-frontmatter");
+const remarkSlug = require("remark-slug");
 const removeFrontmatter = () => (tree) =>
+  // eslint-disable-next-line
   filter(tree, (node) => node.type !== "yaml");
 const visit = require("unist-util-visit");
 const { TitleConverter, UrlConverter } = require("./src/build-utils");
@@ -95,6 +97,7 @@ module.exports = {
         defaultLayouts: {
           default: require.resolve("./src/modules/layouts/mdx_layout.js"),
         },
+        remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [
           {
             resolve: "gatsby-remark-embed-video",
