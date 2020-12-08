@@ -2,7 +2,7 @@
 import { jsx, Text } from "theme-ui";
 import { Link } from "@modules/navigation";
 
-const SearchHit = ({ title, excerpt, url, query, ...props }) => (
+const SearchHit = ({ title, excerpt, url, ...props }) => (
   <Link
     to={url}
     partiallyActive={false}

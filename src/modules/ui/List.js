@@ -5,7 +5,7 @@ import { Icon } from "@makerdao/dai-ui-icons";
 
 import { Link } from "@modules/navigation";
 
-const ListElement = ({ children, ...props }) => (
+const ListElement = ({ children }) => (
   <Flex
     sx={{
       px: "8px",
@@ -41,7 +41,6 @@ const ListElement = ({ children, ...props }) => (
 const AdvancedListElement = ({
   childData: { heading, _children },
   linkData,
-  index,
 }) => {
   const ListEl = ({ children }) => (
     <ListElement sx={{ flexDirection: children ? "row" : "" }}>

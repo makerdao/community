@@ -20,7 +20,12 @@ jobs:
     
     - name: install yarn
       run: npm install -g yarn
-      
+    
+    # TODO: Uncomment this step after eslint setup commit is merged
+    # - name: Run ESLint 
+    #   run: | 
+    #     yarn lint
+
     - name: yarn install, build, and test
       run: |
         yarn install

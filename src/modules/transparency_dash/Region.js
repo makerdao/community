@@ -1,4 +1,5 @@
 /** @jsx jsx */
+import { Fragment } from "react";
 import { Flex, Image, Text, jsx } from "theme-ui";
 
 import Regions from "./data/regions";
@@ -33,7 +34,7 @@ const Region = ({ data, region }) => {
       }}
     >
       {_reg ? (
-        <>
+        <Fragment>
           {_reg.image && (
             <Image src={_reg.image} sx={{ width: "160px", opacity: 0.8 }} />
           )}
@@ -56,12 +57,12 @@ const Region = ({ data, region }) => {
           >
             {_reg.label || region}
           </Text>
-        </>
+        </Fragment>
       ) : (
-        <>
+        <Fragment>
           {_data}
           <Text>{region}</Text>
-        </>
+        </Fragment>
       )}
     </Flex>
   );
