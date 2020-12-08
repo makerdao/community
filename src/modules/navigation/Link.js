@@ -34,6 +34,7 @@ const Link = ({
       <GatsbyLink to={`${window.location.pathname}${linkHref}`}
       sx={{ variant: "styles.a" }}
         onClick={() => {
+          //TODO(Rejon): See how marketing team wants to handle anchor links. 
           // if (onClick !== null && onClick !== undefined) {
           //   onClick();
           // }
