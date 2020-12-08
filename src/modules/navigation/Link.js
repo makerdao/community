@@ -25,10 +25,42 @@ const Link = ({
   const { locale } = useTranslation();
   let linkHref = to || href;
 
+  //Check if the link has a # at the front. 
+  //If it does, append it to the end our current pages url for "to". 
+  const isAnchor = /^[#]/.test(linkHref);
+
+  if (isAnchor && typeof window !== 'undefined') {
+    return (
+      <GatsbyLink to={`${window.location.pathname}${linkHref}`}
+      sx={{ variant: "styles.a" }}
+        onClick={() => {
+          // if (onClick !== null && onClick !== undefined) {
+          //   onClick();
+          // }
+
+          // const eventProps = Object.assign(
+          //   {
+          //     category: "Internal Link",
+          //     action: "Click",
+          //     label: linkHref,
+          //   },
+          //   gaProps
+          // );
+
+          // trackCustomEvent(eventProps);
+        }}
+        {...other}
+    >
+      {children}
+    </GatsbyLink>
+    )
+  }
+
   // Tailor the following test to your environment.
   // This assumes that any internal link (intended for Gatsby)
   // will start with exactly one slash, and that anything else is external.
   const internal = /^\/(?!\/)/.test(linkHref);
+
   // Use Gatsby Link for internal links, and <a> for others
   if (internal) {
     const hasLocale = /^\/([\w]{2})\//.test(linkHref);
