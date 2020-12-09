@@ -2,9 +2,8 @@
 import React, { useEffect, useRef } from "react";
 import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
-import { useStaticQuery, graphql } from "gatsby";
 
-import { Link, MobileNav } from "@modules/navigation";
+import { Link } from "@modules/navigation";
 import { useNavigation } from "@modules/navigation/context";
 import { useTranslation } from "@modules/localization";
 import Search from "@modules/search";
@@ -195,19 +194,6 @@ const Header = () => {
       isShowingMenu = false;
       hideMobileMenu();
     }
-  };
-
-  const mobileNavBGVariant = {
-    hidden: {
-      opacity: 0.46,
-      scale: 0,
-      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.1 },
-    },
-    visible: {
-      opacity: 1,
-      scale: 1,
-      transition: { ease: [0.65, 0, 0.35, 1], duration: 0.32 },
-    },
   };
 
   useEffect(() => {

@@ -1,32 +1,34 @@
 ---
 title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
----
 
-## [Executive Vote] $executive_title - $date_MONTH_DD,\_YYYY
+---
+## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
-### \$executive_entry_1
+### $executive_entry_1
 
-\$executive_entry_description_1
+$executive_entry_description_1
 
-### \$executive_entry_2
+### $executive_entry_2
 
-\$executive_entry_description_3
+$executive_entry_description_3
 
-### \$executive_entry_3
+### $executive_entry_3
 
-\$executive_entry_description_3
+$executive_entry_description_3
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-
-- \$executive_action_description_1
-- \$executive_action_description_2
-- \$executive_action_description_3
+- $executive_action_description_1
+- $executive_action_description_2
+- $executive_action_description_3
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+$OfficeHours? Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
+
 
 ## Review
 
