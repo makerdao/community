@@ -20,10 +20,6 @@ jobs:
     
     - name: install yarn
       run: npm install -g yarn
-    
-    - name: Run ESLint 
-      run: | 
-        yarn lint
 
     - name: yarn install, build, and test
       run: |
@@ -32,7 +28,11 @@ jobs:
         yarn test
       env: 
         GOOGLE_ANALYTICS_TRACKING_ID: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
-        GOOGLE_ANALYTICS_OPTIMIZE_ID: ${{ secrets.GOOGLE_ANALYTICS_OPTIMIZE_ID }}   
+        GOOGLE_ANALYTICS_OPTIMIZE_ID: ${{ secrets.GOOGLE_ANALYTICS_OPTIMIZE_ID }}
+    
+    - name: Run ESLint 
+      run: | 
+        yarn lint
         
     - name: Making your code pretty. 
       run: | 
