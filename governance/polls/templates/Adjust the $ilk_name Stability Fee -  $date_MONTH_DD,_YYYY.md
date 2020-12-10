@@ -1,6 +1,6 @@
 ---
-title: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
+title: Adjust the $ilk_name Stability Fee - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition for adjusting the $ilk_name Stability Fee to from $current_fee to $new_fee
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 options:
@@ -8,15 +8,15 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
+# Poll: Adjust the $ilk_name Stability Fee - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
-## Review 
+## Review
 
-The community can vote in this poll to express support or opposition to adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
+The community can vote in this poll to express support or opposition to increasing the $ilk_name Stability Fee from $current_fee to $new_fee.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
 

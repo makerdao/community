@@ -10,19 +10,25 @@ options:
 ---
 # Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to $GenericChange
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
+The community can vote in this poll to express support or opposition to the follow changes: 
+* $GenericChangeA
+* $GenericChangeB
+
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
-## Next Steps
+## Outcomes
 
-If this poll ends with a 'Yes' majority, this change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
-If this poll ends with a 'No' majority, then no further action will be taken.
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
