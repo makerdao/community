@@ -27,7 +27,7 @@ Therefore, if this Executive proposal passes the following will occur:
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
 
-If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass. 
+If this executive vote does not pass within 30 days then it will expire, and will have no effect on the Maker Protocol, even if it should later pass. 
 
 $OfficeHours? Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
 
