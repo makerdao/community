@@ -47,9 +47,36 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blog`,
+        path: `${__dirname}/blogPosts`,
+      },
+    },
+    {
       resolve: "gatsby-plugin-page-creator",
       options: {
         path: `${__dirname}/content`,
+        ignore: {
+          patterns: [
+            `**/header.mdx`,
+            `**/**.js`,
+            `**/**.json`,
+            `**/404.mdx`,
+            `**/example.mdx`,
+            `**/footer.mdx`,
+            `**/**.pptx`,
+            "**/**.jpg",
+            "**/**.png",
+          ],
+          options: { nocase: true },
+        },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-page-creator",
+      options: {
+        path: `${__dirname}/blogPosts`,
         ignore: {
           patterns: [
             `**/header.mdx`,
@@ -95,7 +122,8 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve("./src/modules/layouts/mdx_layout.js"),
+          default: require.resolve("./src/modules/layouts/default_layout.js"),
+          blog: require.resolve("./src/modules/layouts/blog_layout.js")
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [

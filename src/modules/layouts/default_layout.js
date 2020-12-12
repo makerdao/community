@@ -54,7 +54,17 @@ export default (props) => {
     status,
     hideLanguageSelector,
     hideBreadcrumbs,
+    isCorePage
   } = pageContext.frontmatter;
+
+  //Core Pages store their own layout and functionality. Ignore everything and just return the children.
+  if (isCorePage) {
+    return (
+      <Fragment>
+        {children}
+      </Fragment>
+    )
+  }
 
   const pathDirs = pagePath
     .replace(/^\/|\/$/g, "")
