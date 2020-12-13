@@ -8,7 +8,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll:Rates Proposal - December 14, 2020
+# Poll: Rates Proposal - December 14, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Rates Working Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, December 14 at 16:00 UTC.
 
@@ -38,7 +38,7 @@ Please review the proposal [thread](https://forum.makerdao.com/t/rates-changes-p
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * These stability fee changes will be included in the weekly executive vote on the Friday following the conclusion of this poll.
-* If for whatever reason, some or all of these changes cannot be included in this weeks executive vote, they will be instead be included in the next available executive vote.
+* If for whatever reason, some or all of these changes cannot be included in this week's executive vote, they will be instead be included in the next available executive vote.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**

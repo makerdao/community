@@ -1,6 +1,6 @@
 ---
 title: Whitelist Gnosis on ETHUSD Oracle (MIP10c9-SP15) - December 14, 2020
-summary: Signal your support or opposition for whitelisting Gnosis on the ETHUSD Oracle
+summary: Signal your support or opposition for appending Gnosis to the ETHUSD Oracle Security Module whitelist.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp15-whitelist-gnosis-maker-adapter-contract-on-eth-usd-oracle/5359
 vote_type: Plurality Voting
 options:
