@@ -18,15 +18,15 @@ The MakerDAO governance facilitator has placed a Governance Poll into the [votin
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol with the parameters below:
 
-* Stability Fee: $stability_fee
-* Liquidation Ratio: $liquidation_ratio
-* Debt Ceiling: $debt_ceiling
+* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
+* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
+* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
 * Auction Lot Size: $auction_lot_size
 * Minimum Bid Increment: $min_bid
 * Bid Duration: $bid_duration
 * Max Auction Duration: $auction_duration
 * Liquidation Penalty: $liquidation_penalty
-* Dust: $dust
+* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $dust
 
 Please review the following forum threads containing information about $asset_code ($asset_name) to inform your position before voting.
 * [Initial Collateral Application]($application_link)
