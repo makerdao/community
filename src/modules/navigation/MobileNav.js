@@ -222,7 +222,7 @@ const MobileNav = ({ sidenavData }) => {
                       bg: colorMode !== "default" ? "background" : "",
                     },
                   }}
-                  onClick={(e) => {
+                  onClick={() => {
                     if (colorMode !== "default") {
                       setColorMode("default");
                     }
@@ -255,7 +255,7 @@ const MobileNav = ({ sidenavData }) => {
                       bg: colorMode !== "dark" ? "surfaceDark" : "",
                     },
                   }}
-                  onClick={(e) => {
+                  onClick={() => {
                     if (colorMode !== "dark") {
                       setColorMode("dark");
                     }

@@ -17,21 +17,51 @@ const Link = ({
   activeClassName,
   partiallyActive,
   hideExternalIcon,
-  originalType,
-  mdxType,
   href,
   gaProps,
-  isButton,
   onClick,
   ...other
 }) => {
   const { locale } = useTranslation();
   let linkHref = to || href;
 
+  //Check if the link has a # at the front. 
+  //If it does, append it to the end our current pages url for "to". 
+  const isAnchor = /^[#]/.test(linkHref);
+
+  if (isAnchor && typeof window !== 'undefined') {
+    return (
+      <GatsbyLink to={`${window.location.pathname}${linkHref}`}
+      sx={{ variant: "styles.a" }}
+        onClick={() => {
+          //TODO(Rejon): See how marketing team wants to handle anchor links. 
+          // if (onClick !== null && onClick !== undefined) {
+          //   onClick();
+          // }
+
+          // const eventProps = Object.assign(
+          //   {
+          //     category: "Internal Link",
+          //     action: "Click",
+          //     label: linkHref,
+          //   },
+          //   gaProps
+          // );
+
+          // trackCustomEvent(eventProps);
+        }}
+        {...other}
+    >
+      {children}
+    </GatsbyLink>
+    )
+  }
+
   // Tailor the following test to your environment.
   // This assumes that any internal link (intended for Gatsby)
   // will start with exactly one slash, and that anything else is external.
   const internal = /^\/(?!\/)/.test(linkHref);
+
   // Use Gatsby Link for internal links, and <a> for others
   if (internal) {
     const hasLocale = /^\/([\w]{2})\//.test(linkHref);
@@ -55,22 +85,21 @@ const Link = ({
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
         sx={{ variant: "styles.a" }}
-        onClick={(e) => {
-        if (onClick !== null && onClick !== undefined)
-        {
-          onClick();
-        }
+        onClick={() => {
+          if (onClick !== null && onClick !== undefined) {
+            onClick();
+          }
 
-        const eventProps = Object.assign(
-          {
-            category: "Internal Link",
-            action: "Click",
-            label: linkHref,
-          },
-          gaProps
-        );
+          const eventProps = Object.assign(
+            {
+              category: "Internal Link",
+              action: "Click",
+              label: linkHref,
+            },
+            gaProps
+          );
 
-        trackCustomEvent(eventProps);
+          trackCustomEvent(eventProps);
         }}
         {...other}
       >

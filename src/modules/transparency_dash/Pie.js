@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { Box, jsx, useThemeUI } from "theme-ui";
 
-const Pie = ({ size = 200, value = 0, min = 0, max = 1, bear, ...props }) => {
+const Pie = ({ size = 200, value = 0, min = 0, max = 1, bear }) => {
   const { theme } = useThemeUI();
   const _value = value < min ? 0 : value;
 
