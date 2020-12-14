@@ -39,6 +39,7 @@ Please review the following forum threads containing information about $asset_co
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * $asset_code ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
