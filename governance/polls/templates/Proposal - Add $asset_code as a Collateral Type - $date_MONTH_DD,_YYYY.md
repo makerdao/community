@@ -10,15 +10,13 @@ options:
 ---
 # Poll: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
 
-The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol.
-
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
-The proposed initial system parameters for $asset_code ($asset_name) are:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol with the parameters below:
 
 * Stability Fee: $stability_fee
 * Liquidation Ratio: $liquidation_ratio
@@ -39,7 +37,7 @@ Please review the following forum threads containing information about $asset_co
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $asset_code ($asset_name) will be included in a future executive vote as the Smart Contracts domain team's schedule allows. 
+* $asset_code ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
