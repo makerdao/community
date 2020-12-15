@@ -12,13 +12,17 @@ options:
 ---
 # Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to signal their preferred option to resolve $GenericChange
-
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a plurality vote. In a plurality vote, you may vote for a single option. You should vote for the option that you prefer. Alternatively, if you would accept any of the listed options and have no preference, you should vote 'Abstain'.**
 
 ## Review
+
+The community can vote in this poll to express support for one of the following options:
+* $A_Detailed
+* $B_Detailed
+* $C_Detailed
+* $D_Detailed
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
