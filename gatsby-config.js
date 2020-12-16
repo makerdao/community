@@ -49,7 +49,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `blog`,
+        name: `blogPosts`,
         path: `${__dirname}/blogPosts`,
       },
     },
@@ -123,7 +123,7 @@ module.exports = {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
           default: require.resolve("./src/modules/layouts/default_layout.js"),
-          blog: require.resolve("./src/modules/layouts/blog_layout.js")
+          blogPosts: require.resolve("./src/modules/layouts/blogPost_layout.js")
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [
