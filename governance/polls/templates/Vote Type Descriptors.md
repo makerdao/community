@@ -45,7 +45,7 @@
 ## $Instant-RunoffVoteOutcomes
 
 **If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast then the following actions will be taken:**
+* outcome1
+* outcome2
 
 **Otherwise, no further actions will be taken at this time.**
-
-Note that an additional requirement may be applied to the poll to require that the outcome have a 50% majority of the *total* votes cast in the poll in order to proceed to an executive. If this is the case for a given poll, it will be listed clearly in the 'Outcomes' section.
