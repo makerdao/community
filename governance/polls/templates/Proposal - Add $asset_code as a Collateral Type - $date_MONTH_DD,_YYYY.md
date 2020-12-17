@@ -3,6 +3,8 @@ title: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
 summary: This poll proposes system parameters which could be used to initialize $asset_code ($asset_name) as a new collateral type.
 discussion_link: $application_link
 vote_type: Plurality Voting
+categories:
+   - Collateral
 options:
    0: Abstain
    1: Yes
