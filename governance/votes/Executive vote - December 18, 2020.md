@@ -4,7 +4,7 @@ title: Template - [Executive Vote] Collateral Onboarding, Rates Changes, Oracle 
 ---
 ## [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
 
-The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Onboard Aave as a new Collateral Type
 
