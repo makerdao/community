@@ -3,6 +3,8 @@ title: Adjust the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: Yes
