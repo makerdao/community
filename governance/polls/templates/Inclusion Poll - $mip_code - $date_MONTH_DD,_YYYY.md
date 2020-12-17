@@ -3,6 +3,9 @@ title: Inclusion Poll for $proposal_name ($mip_code)- $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Governance
+   - Technical
 options:
    0: Abstain
    1: Yes
