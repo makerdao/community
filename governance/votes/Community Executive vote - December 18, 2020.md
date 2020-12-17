@@ -17,7 +17,7 @@ As per this governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network
 
 ### Reduce Stablecoin Debt Ceilings
 
-As per the same governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail), the USDC-A, TUSD-A, PAXUSD-A and GUSD-A debt ceilings will be reduced to zero  if this proposal passes.
+As per the same governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail), the USDC-A, TUSD-A, PAXUSD-A and GUSD-A debt ceilings will be reduced to zero if this proposal passes.
 
 Please review the following threads to help inform your position before voting.
 * [Signal Thread](https://forum.makerdao.com/t/signal-request-psm-parameters/5532)
