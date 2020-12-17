@@ -17,7 +17,7 @@ As per this governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network
 
 ### Reduce Stablecoin Debt Ceilings
 
-As per the same governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail), the USDC-A, TUSD-A, PAXUSD-A and GUSD-A debt ceilings will be reduced to zero if this proposal passes.
+As per the same governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail), the USDC-A, TUSD-A, PAXUSD-A, and GUSD-A debt ceilings will be reduced to zero if this proposal passes.
 
 Please review the following threads to help inform your position before voting.
 * [Signal Thread](https://forum.makerdao.com/t/signal-request-psm-parameters/5532)
@@ -39,7 +39,7 @@ This [Executive Vote](https://community-development.makerdao.com/en/learn/govern
 
 If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass. 
 
-Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that smart contracts engineers are on-standby at time of activation to react to any unforeseen issues.
+Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that smart contracts engineers are on-standby at the time of activation to react to any unforeseen issues.
 
 ## Review
 
