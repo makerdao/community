@@ -11,7 +11,7 @@ The Governance Facilitator(s) have placed an Executive Vote into the voting syst
 As per this governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail) in combination with this [forum post](https://forum.makerdao.com/t/psm-usdc-a-starting-debt-ceiling-19th-dec-2020/5739) from the risk domain team, the USDC PSM will be added to the Maker Protocol with the parameters given below if this proposal passes.
 
 * The USDC PSM will be onboarded as the PSM-USDC-A vault type.
-* The `tin` parameter will be set to 0.1%. `tin` refers to the fee when trading USDC in exchange for DAI.
+* The `tin` parameter will be set to 1% initially and will decrease to 0.1% over 7 days. `tin` refers to the fee when trading USDC in exchange for DAI.
 * The `tout` parameter will be set to 0.1%. `tout` refers to the fee when trading DAI in exchange for USDC.
 * The initial debt ceiling of the USDC PSM will equal 3 million DAI.
 
