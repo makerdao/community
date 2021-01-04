@@ -27,7 +27,7 @@ Further details can be found in this [forum post](https://forum.makerdao.com/t/u
 Therefore, if this Executive proposal passes the following will occur:
 * The ETH-A Debt Ceiling will increase from 590M to 740M
 * The USDC-A Debt Ceiling will increase from 485M to 555M
-* The PSM-USDC Debt Ceiling will increase from 3M to 30M
+* The PSM-USDC-A Debt Ceiling will increase from 3M to 30M
 * The Global Debt Ceiling will increase by 247M
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
