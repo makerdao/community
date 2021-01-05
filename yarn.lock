@@ -15707,6 +15707,11 @@ widest-line@^3.1.0:
   dependencies:
     string-width "^4.0.0"
 
+window-or-global@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/window-or-global/-/window-or-global-1.0.1.tgz#dbe45ba2a291aabc56d62cf66c45b7fa322946de"
+  integrity sha1-2+RboqKRqrxW1iz2bEW3+jIpRt4=
+
 with-open-file@^0.1.6:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/with-open-file/-/with-open-file-0.1.7.tgz#e2de8d974e8a8ae6e58886be4fe8e7465b58a729"

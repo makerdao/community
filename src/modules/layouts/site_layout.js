@@ -7,23 +7,20 @@ import { motion } from "framer-motion";
 
 import { Header, Footer } from "@modules/navigation";
 import { Button } from "@modules/ui";
+import window from "window-or-global";
 
 const Layout = ({ children, pageContext, uri }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
 
   const [showScrollCTA, setShowScrollCTA] = useState(
-    typeof window !== "undefined"
-      ? sessionStorage.getItem("ScrollCTAHidden")
-      : false
+    window.sessionStorage?.getItem("ScrollCTAHidden") === "true"
   );
   const hideScrollCTA = pageContext.frontmatter
     ? pageContext.frontmatter.hideScrollCTA
     : false;
   const CTAScrollPercent = 55; //<- 75% - Footer 20% height
   const scrollCTAHidden =
-    typeof window !== "undefined"
-      ? sessionStorage.getItem("ScrollCTAHidden")
-      : false;
+    window.sessionStorage?.getItem("ScrollCTAHidden") === "true";
 
   useEffect(() => {
     const onScroll = () => {
@@ -45,7 +42,7 @@ const Layout = ({ children, pageContext, uri }) => {
       }
     };
 
-    if (typeof window !== "undefined") {
+    if (window.addEventListener) {
       window.addEventListener("scroll", onScroll);
 
       return () => {
@@ -55,8 +52,8 @@ const Layout = ({ children, pageContext, uri }) => {
   });
 
   const closeScrollCTA = () => {
-    if (typeof window !== "undefined") {
-      sessionStorage.setItem("ScrollCTAHidden", true);
+    if (window.sessionStorage) {
+      window.sessionStorage.setItem("ScrollCTAHidden", true);
     }
 
     setShowScrollCTA(false);
@@ -70,7 +67,7 @@ const Layout = ({ children, pageContext, uri }) => {
     },
     hidden: {
       opacity: 0,
-      bottom: "-23px",
+      bottom: "-300px",
       transition: { ease: "easeOut" },
     },
   };
@@ -115,6 +112,7 @@ const Layout = ({ children, pageContext, uri }) => {
         </Flex>
       </Flex>
       <Footer />
+
       <motion.div
         initial="hidden"
         variants={CTAVariant}
