@@ -17,7 +17,7 @@ const Layout = ({ children, pageContext, uri }) => {
   );
   const hideScrollCTA = pageContext.frontmatter
     ? pageContext.frontmatter.hideScrollCTA
-    : false;
+    : true;
   const CTAScrollPercent = 55; //<- 75% - Footer 20% height
   const scrollCTAHidden =
     window.sessionStorage?.getItem("ScrollCTAHidden") === "true";
@@ -38,7 +38,7 @@ const Layout = ({ children, pageContext, uri }) => {
 
       if (scrollPercent > CTAScrollPercent && !scrollCTAHidden) {
         //Show the Scroll CTA
-        setShowScrollCTA(true);
+        setShowScrollCTA(false);
       }
     };
 
