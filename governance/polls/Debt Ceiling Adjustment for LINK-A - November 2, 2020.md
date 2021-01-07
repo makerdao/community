@@ -3,6 +3,8 @@ title: Adjust the LINK-A Debt Ceiling - November 2, 2020
 summary: Signal your support or opposition for adjusting the LINK-A Debt Ceiling from 5 million DAI to 10 million DAI.
 discussion_link: https://forum.makerdao.com/t/4863
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: Yes

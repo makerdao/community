@@ -3,6 +3,8 @@ title: Dai Savings Rate Spread Adjustment - $date_MONTH_DD,_YYYY
 summary: Signal your support to adjust the Dai Savings Rate Spread within a range of $lower_bound to $upper_bound
 discussion_link: $discussion_link
 vote_type: Ranked Choice IRV
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: $axis - 4
