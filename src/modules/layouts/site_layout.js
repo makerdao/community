@@ -12,65 +12,65 @@ import window from "window-or-global";
 const Layout = ({ children, pageContext, uri }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
 
-  const [showScrollCTA, setShowScrollCTA] = useState(
-    window.sessionStorage?.getItem("ScrollCTAHidden") === "true"
-  );
-  const hideScrollCTA = pageContext.frontmatter
-    ? pageContext.frontmatter.hideScrollCTA
-    : true;
-  const CTAScrollPercent = 55; //<- 75% - Footer 20% height
-  const scrollCTAHidden =
-    window.sessionStorage?.getItem("ScrollCTAHidden") === "true";
+  // const [showScrollCTA, setShowScrollCTA] = useState(
+  //   window.sessionStorage?.getItem("ScrollCTAHidden") === "true"
+  // );
+  // const hideScrollCTA = pageContext.frontmatter
+  //   ? pageContext.frontmatter.hideScrollCTA
+  //   : false;
+  // const CTAScrollPercent = 55; //<- 75% - Footer 20% height
+  // const scrollCTAHidden =
+  //   window.sessionStorage?.getItem("ScrollCTAHidden") === "true";
 
-  useEffect(() => {
-    const onScroll = () => {
-      if (hideScrollCTA || scrollCTAHidden === true || showScrollCTA) {
-        return;
-      }
+  // useEffect(() => {
+  //   const onScroll = () => {
+  //     if (hideScrollCTA || scrollCTAHidden === true || showScrollCTA) {
+  //       return;
+  //     }
 
-      var h = document.documentElement,
-        b = document.body,
-        st = "scrollTop",
-        sh = "scrollHeight";
+  //     var h = document.documentElement,
+  //       b = document.body,
+  //       st = "scrollTop",
+  //       sh = "scrollHeight";
 
-      const scrollPercent =
-        ((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100;
+  //     const scrollPercent =
+  //       ((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100;
 
-      if (scrollPercent > CTAScrollPercent && !scrollCTAHidden) {
-        //Show the Scroll CTA
-        setShowScrollCTA(false);
-      }
-    };
+  //     if (scrollPercent > CTAScrollPercent && !scrollCTAHidden) {
+  //       //Show the Scroll CTA
+  //       setShowScrollCTA(true);
+  //     }
+  //   };
 
-    if (window.addEventListener) {
-      window.addEventListener("scroll", onScroll);
+  //   if (window.addEventListener) {
+  //     window.addEventListener("scroll", onScroll);
 
-      return () => {
-        window.removeEventListener("scroll", onScroll);
-      };
-    }
-  });
+  //     return () => {
+  //       window.removeEventListener("scroll", onScroll);
+  //     };
+  //   }
+  // });
 
-  const closeScrollCTA = () => {
-    if (window.sessionStorage) {
-      window.sessionStorage.setItem("ScrollCTAHidden", true);
-    }
+  // const closeScrollCTA = () => {
+  //   if (window.sessionStorage) {
+  //     window.sessionStorage.setItem("ScrollCTAHidden", true);
+  //   }
 
-    setShowScrollCTA(false);
-  };
+  //   setShowScrollCTA(true);
+  // };
 
-  const CTAVariant = {
-    visible: {
-      opacity: 1,
-      bottom: "27px",
-      transition: { ease: "easeOut" },
-    },
-    hidden: {
-      opacity: 0,
-      bottom: "-300px",
-      transition: { ease: "easeOut" },
-    },
-  };
+  // const CTAVariant = {
+  //   visible: {
+  //     opacity: 1,
+  //     bottom: "27px",
+  //     transition: { ease: "easeOut" },
+  //   },
+  //   hidden: {
+  //     opacity: 0,
+  //     bottom: "-300px",
+  //     transition: { ease: "easeOut" },
+  //   },
+  // };
 
   return (
     <Flex
@@ -113,7 +113,7 @@ const Layout = ({ children, pageContext, uri }) => {
       </Flex>
       <Footer />
 
-      <motion.div
+      {/* <motion.div
         initial="hidden"
         variants={CTAVariant}
         animate={showScrollCTA ? "visible" : "hidden"}
@@ -175,7 +175,7 @@ const Layout = ({ children, pageContext, uri }) => {
         >
           Take Survey
         </Button>
-      </motion.div>
+      </motion.div> */}
     </Flex>
   );
 };
