@@ -18,7 +18,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending Gnosis to the ETHUSD Oracle Security Module whitelist to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending Gnosis to the ZRXUSD Oracle Security Module whitelist to read current and queued price data.
 
 Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp18-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-zrx-usd-oracle-access/5687) to inform your position on this issue before voting.
 
