@@ -1,36 +1,27 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+title: Template - [Executive Vote] Activate DSChief v1.2 - December 7, 2020
 
 ---
-## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+## [Executive Vote] Activate DSChief v1.2 - December 7, 2020
 
-The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
-### $executive_entry_1
+### Activate DSChief v1.2
 
-$executive_entry_description_1
+The Maker governance contract (DSChief) is being replaced to mitigate the risk of governance attack posed by flash-loans and accessible MKR liquidity. Further details can be found [here](https://forum.makerdao.com/t/dschief-1-2-flash-loan-protection-for-maker-governance/5115).
 
-### $executive_entry_2
+A [step-by-step guide](https://forum.makerdao.com/t/dschief-v1-2-migration-steps/5412) to the migration process can be found on the official forum.
 
-$executive_entry_description_3
+Part 1 of the migration process took place in this previous [executive vote](https://vote.makerdao.com/executive/migrate-to-dschief-v1-2?network=mainnet#proposal-detail) which transferred permissions from DSChief v1.1 to DSChief v1.2. Parts 2 and 3 do not require an executive vote. This executive proposal represents the fourth and final step of the migration process.
 
-### $executive_entry_3
-
-$executive_entry_description_3
+If this proposal reaches 80,000 MKR in favor then DSChief v1.2 will be activated and Maker Governance will be able to use it to govern the Maker Protocol. 
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- DSChief v1.2 will be activated and Maker Governance will be able to use it to govern the Maker Protocol.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
-
-If this executive vote does not pass within 30 days then it will expire, and will have no effect on the Maker Protocol, even if it should later pass. 
-
-$OfficeHours? Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses 80,000 MKR.
 
 ## Review
 

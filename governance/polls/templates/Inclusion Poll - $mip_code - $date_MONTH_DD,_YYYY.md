@@ -1,8 +1,11 @@
 ---
 title: Inclusion Poll for $proposal_name ($mip_code)- $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
+summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Governance
+   - Technical
 options:
    0: Abstain
    1: Yes
@@ -10,13 +13,14 @@ options:
 ---
 # Inclusion Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal ($proposal_name) should be included in the Monthly Governance Poll.
-
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
+
+The community can vote in this poll to express support or opposition to $proposal_name being included in this month's governance cycle.
+
 Please review the discussion [thread]($discussion_link) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
 
 ## Outcomes
@@ -33,7 +37,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 
 ## Resources
 
-[MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) describes this type of poll and its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
