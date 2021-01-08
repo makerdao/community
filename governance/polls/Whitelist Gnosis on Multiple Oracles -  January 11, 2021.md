@@ -20,7 +20,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending Gnosis to the following oracle whitelists to read price data:
+The community can vote in this poll to express support or opposition to appending [Gnosis](https://gnosis.io/) to the following oracle whitelists to read price data:
 * BTC/USD OSM ([MIP10c9-SP16](https://forum.makerdao.com/t/mip10c9-sp16-whitelist-gnosis-maker-adapter-contract-on-btc-usd-oracle/5685))
 * LINK/USD OSM ([MIP10c9-SP17](https://forum.makerdao.com/t/mip10c9-sp17-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-link-usd-oracle-access/5686))
 * ZRX/USD OSM ([MIP10c9-SP18](https://forum.makerdao.com/t/mip10c9-sp18-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-zrx-usd-oracle-access/5687))

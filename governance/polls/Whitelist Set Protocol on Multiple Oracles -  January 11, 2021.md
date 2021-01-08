@@ -20,7 +20,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending Set Protocol to the following oracle whitelists to read price data:
+The community can vote in this poll to express support or opposition to appending [Set Protocol](https://www.setprotocol.com/) to the following oracle whitelists to read price data:
 * AAVE/USD Medianzer ([MIP10c9-SP21](https://forum.makerdao.com/t/mip10c9-sp21-subproposal-to-whitelist-set-for-aave-usd-oracle-access/5850))
 * LRC/USD Medianzer ([MIP10c9-SP22](https://forum.makerdao.com/t/mip10c9-sp22-subproposal-to-whitelist-set-for-lrc-usd-oracle-access/5851))
 * YFI/USD Medianzer ([MIP10c9-SP23](https://forum.makerdao.com/t/mip10c9-sp23-subproposal-to-whitelist-set-for-yfi-usd-oracle-access/5853))
