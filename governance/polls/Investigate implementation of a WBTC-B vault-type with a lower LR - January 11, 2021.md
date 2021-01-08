@@ -1,6 +1,6 @@
 ---
-title: Should we add a new WBTC vault type with lower LR? - January 11, 2021
-summary: This poll will provide guidance to the Domain Teams for creating a new WBTC based vault type
+title: Investigate implementation of a WBTC-B vault-type with a lower LR - January 11, 2021
+summary: Signal your support or opposition to prioritising onboarding a WBTC-B vault-type
 discussion_link: https://forum.makerdao.com/t/signal-request-new-iam-vault-type-for-wbtc-with-lower-lr/5736/
 vote_type: Plurality Voting
 options:
@@ -8,13 +8,17 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Should we add a new WBTC vault type with lower LR? - January 11, 2021
+# Poll: Investigate implementation of a WBTC-B vault-type with a lower LR - January 11, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. The community can vote in this poll to express support or opposition to add a new WBTC-based vault type with a lower Liquidation Ratio - similar to ETH-B.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11th at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
+
+## Description
+
+If passed, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding a new WBTC-based vault-type with lower Liquidation Ratio to the Maker Protocol.
 
 ## Review
 
@@ -24,7 +28,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
 
-The new vault-type gets added to the collateral prioritisation list for the risk team and other mandated actors to prioritise, evaluate and potentially implement when they feel it is the most valuable use of time.
+A WBTC-B vault-type will be added to the collateral prioritisation list for the risk team and other mandated actors to prioritise, evaluate and potentially implement when they feel it is the most valuable use of time.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
