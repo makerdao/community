@@ -3,6 +3,8 @@ title: Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for the monthly MIPs bundle for $date_MONTH
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Governance
 options:
    0: Abstain
    1: Yes
