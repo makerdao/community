@@ -1,16 +1,14 @@
 ---
-title: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
-summary: This poll proposes system parameters which could be used to initialize $asset_code ($asset_name) as a new collateral type.
-discussion_link: $application_link
+title: Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY
+summary: This poll proposes system parameters which could be used to initialize $ilk as a new vault type.
+discussion_link: $proposal_thread
 vote_type: Plurality Voting
-categories:
-   - Collateral
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Add $asset_code ($asset_name) as a Collateral Type - $date_MONTH_DD,_YYYY
+# Poll: Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY
 
 The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -18,8 +16,9 @@ The MakerDAO governance facilitator has placed a Governance Poll into the [votin
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding $asset_code ($asset_name) as a collateral type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk as a new vault type in the Maker Protocol with the parameters below:
 
+* Underlying Collateral: $collateral_asset
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
@@ -30,8 +29,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Liquidation Penalty: $liquidation_penalty
 * [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $dust
 
-Please review the following forum threads containing information about $asset_code ($asset_name) to inform your position before voting.
-* [Initial Collateral Application]($application_link)
+Please review the following forum threads containing information about $ilk and the underlying collateral $collateral_asset to inform your position before voting.
+* [Proposal Thread]($proposal_thread)
 * [Risk Evaluation]($risk_link)
 * [Smart Contracts Evaluation]($sc_link)
 * [Oracles Evaluation]($oracles_link)
@@ -39,7 +38,7 @@ Please review the following forum threads containing information about $asset_co
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $asset_code ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
+* $ilk ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
