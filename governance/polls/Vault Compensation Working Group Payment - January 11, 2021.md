@@ -1,5 +1,5 @@
 ---
-title: Vault Compensation Working Group Payment - January 11, 2021
+title: Vault Compensation Working Group Payment - January 18, 2021
 summary: Signal your support or opposition to paying 12,700 Dai from the surplus buffer to the vault compensation working group for past labor.
 discussion_link: https://forum.makerdao.com/t/signal-request-vault-compensation-working-group-payment/5562
 vote_type: Plurality Voting
@@ -8,11 +8,11 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Vault Compensation Working Group Payment - January 11, 2021
+# Poll: Vault Compensation Working Group Payment - January 18, 2021
 
 ## Description
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC. 
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC. 
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
@@ -20,15 +20,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to transferring 12,700 Dai from the surplus buffer to members of the vault compensation working group for their past work organizing the vault compensation proposals. Funds will be allocated to individual members as follows:
 
-@makerman: 6,300 Dai to [address]
+@makerman: 6,300 Dai to [0x9ac6a6b24bcd789fa59a175c0514f33255e1e6d0]
 
 @monet-supply: 3,800 Dai to [0x8d07D225a769b7Af3A923481E1FdF49180e6A265]
 
-@Joshua_Pritikin: 2,000 Dai to [address]
+@Joshua_Pritikin: 2,000 Dai to [0x2235A5D7bCC37855CB91dFf66334F4DFD9C39b58]
 
-@befitsandpiper: 400 Dai to [address]
+@befitsandpiper: 400 Dai to [0x851fB899dA7F80c211d9B8e5f231FB3BC9eca41a]
 
-@Vault2288: 200 Dai to [address]
+@Vault2288: 200 Dai to [0x92e5a14b08e5232682eb38269a1ce661f04ec93d]
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-vault-compensation-working-group-payment/5562) to help inform your position before voting.
 
