@@ -1,8 +1,10 @@
 ---
-title: Base Rate Adjustment - $date_MONTH_DD,_YYYY
-summary: Signal your support to adjust the Base Rate within a range of $lower_bound to $upper_bound
+title: Dai Savings Rate Spread Adjustment - $date_MONTH_DD,_YYYY
+summary: Signal your support to adjust the Dai Savings Rate Spread within a range of $lower_bound to $upper_bound
 discussion_link: $discussion_link
 vote_type: Ranked Choice IRV
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: $axis - 4
@@ -17,23 +19,21 @@ options:
    10: $axis + 2
    11: $axis + 4
 ---
-# Poll: Base Rate Adjustment - $date_MONTH_DD,_YYYY
+# Poll: Dai Savings Rate Spread Adjustment - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Dai Savings Rate Spread** options. Voters are now able to signal their support for a **Dai Savings Rate Spread** within a range of $lower_bound to $upper_bound.
 
-Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
-
-Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
+Details on how the **Dai Savings Rate Spread** parameter was introduced and its impact on the **Dai Savings Rate** parameter can be found in the following [threads](https://forum.makerdao.com/tag/dsr-spread) on the MakerDAO forum.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 ## Review
 
-The **Base Rate** is usually not discussed explicitly on a weekly basis as this poll is a regular occurrence. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
+The **Dai Savings Rate Spread** parameter is usually not discussed explicitly on a weekly basis as this poll is a regular occurrence. Please review the [governance forum](https://forum.makerdao.com/c/governance) to see if there has been any discussion on the vote this week to inform your position before voting.
 
 ## Next Steps
 
-If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If the winning result of this poll differs from the current **Dai Savings Rate Spread** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
 
 If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
@@ -48,4 +48,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
-

@@ -1,9 +1,12 @@
 [
-  "System Risk Variables",
-  "Protocol Changes",
-  "Procedural Changes",
-  "MIPs",
+  "Collateral",
   "Oracles",
-  "Collateral Onboarding",
+  "Governance",
+  "Risk Variable",
+  "Technical",
   "Other"
+  "MIPs",
+  "Rates",
+  "Auctions",
+  "Greenlight"
 ]
