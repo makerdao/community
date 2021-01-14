@@ -1,7 +1,7 @@
 ---
 title: Monthly MIPs Governance Poll - January 18, 2021
 summary: Signal your support or opposition for the monthly MIPs bundle for January
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/weekly-mips-update-24/6052
 vote_type: Plurality Voting
 categories:
    - Governance
@@ -29,12 +29,11 @@ This poll asks whether the bundled contents of this month's Governance Cycle sho
 **Subproposals**
 
 - [Declaration of Intent - Governance Communications Domain (MIP13c3-SP7)](https://forum.makerdao.com/t/mip13c3-sp7-governance-communications-declaration-of-intent/5028)
-- [Declaration of Intent - Maker Protocol Cover with Nexus Mutual (MIP13c3-SP8)](https://forum.makerdao.com/t/mip13c3-sp8-maker-protocol-cover-with-nexus-mutual-declaration-of-intent/5056)
 - [Onboarding Sébastien Derivaux to the Risk Domain (MIP7c3-SP5)](https://forum.makerdao.com/t/mip7c3-sp5-domain-team-onboarding-risk-domain-team/5476)
 - [Onboarding Sam MacPherson to the Smart Contracts Domain (MIP7c3-SP6)](https://forum.makerdao.com/t/mip7c3-sp6-domain-team-onboarding-smart-contracts-domain-team/5559)
 - [Onboarding JuanJuan to the Operational Support Domain (MIP28c7-SP2)](https://forum.makerdao.com/t/mip28c7-sp2-subproposal-for-operational-support-domain-facilitator-onboarding/5309)
 
-The proposals can be reviewed in this week's MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-124-thursday-january-14-17-00-utc/5967) on January 14, 2021.
+The proposals can be reviewed in this week's MIPs update [here](https://forum.makerdao.com/t/weekly-mips-update-24/6052). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-124-thursday-january-14-17-00-utc/5967) on January 14, 2021.
 
 ## Outcomes
 
