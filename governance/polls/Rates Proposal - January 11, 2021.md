@@ -1,29 +1,32 @@
 ---
-title: Rates Proposal - $date_MONTH_DD,_YYYY
+title: Rates Proposal - January 11, 2021
 summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/rates-changes-proposal-6-jan-2021/5948
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
    - Rates
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Rates Proposal - $date_MONTH_DD,_YYYY
+# Rates Proposal - January 11, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Rates Working Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the Rates Working Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) changes: 
-* $IncreaseDecrease the $ilkA Stability Fee from $before% to $after%.
-* $IncreaseDecrease the $ilkB Stability Fee from $before% to $after%.
+* Increase the ETH-A Stability Fee from 2.5% to 3.5%.
+* Increase the ETH-B Stability Fee from 5% to 6.5%.
+* Decrease the WBTC-A Stability Fee from 4.5% to 4%.
+* Decrease the YFI-A Stability Fee from 9% to 6%.
+* Decrease the MANA-A Stability Fee from 10% to 5%.
+* Decrease the AAVE-A Stability Fee from 6% to 4%.
 
-Please review the proposal [thread]($discussion_link) to help inform your position before voting.
+Please review the proposal [thread](https://forum.makerdao.com/t/rates-changes-proposal-6-jan-2021/5948) to help inform your position before voting.
 
 ## Outcomes
 
@@ -43,6 +46,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

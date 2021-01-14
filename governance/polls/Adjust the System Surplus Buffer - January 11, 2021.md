@@ -1,7 +1,7 @@
 ---
-title: $IncreaseDecrease the System Surplus Buffer - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the Surplus Buffer from $currentBuffer to $newBuffer
-discussion_link: $discussion_link
+title: Increase the System Surplus Buffer - January 11, 2021
+summary: Signal your support or opposition for adjusting the Surplus Buffer from 4 Million DAI to 10 Million DAI
+discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer/5767
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -10,20 +10,18 @@ options:
    1: Yes
    2: No
 ---
-# Poll: $IncreaseDecrease the System Surplus Buffer - $date_MONTH_DD,_YYYY
+# Poll: Increase the System Surplus Buffer - January 11, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 # Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following change to the [System Surplus Buffer](https://community-development.makerdao.com/en/learn/governance/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
-* $IncreaseDecrease the System Surplus Buffer from $currentBuffer to $newBuffer. 
+* Increase the System Surplus Buffer from 4 Million DAI to 10 Million DAI. 
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
-
-More information on this parameter can be found [here](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#surplus-auction).
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer/5767) to inform your position on this issue before voting.
 
 # Outcomes
 
