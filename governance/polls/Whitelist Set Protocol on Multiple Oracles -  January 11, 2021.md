@@ -1,7 +1,7 @@
 ---
-title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for whitelisting $whitelisted_entity on the $whitelisted_oracle Oracle
-discussion_link: $discussion_link
+title: Whitelist Set Protocol on Multiple Oracles - January 11, 2021
+summary: Signal your support or opposition for whitelisting Set Protocol on multiple oracles
+discussion_link: https://forum.makerdao.com/t/mip10c9-sp21-subproposal-to-whitelist-set-for-aave-usd-oracle-access/5850
 vote_type: Plurality Voting
 categories:
    - Oracles
@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 ---
-# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Whitelist Set Protocol on Multiple Oracles - January 11, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,9 +20,14 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending [Set Protocol](https://www.setprotocol.com/) to the following oracle whitelists to read price data:
+* AAVE/USD Medianzer ([MIP10c9-SP21](https://forum.makerdao.com/t/mip10c9-sp21-subproposal-to-whitelist-set-for-aave-usd-oracle-access/5850))
+* LRC/USD Medianzer ([MIP10c9-SP22](https://forum.makerdao.com/t/mip10c9-sp22-subproposal-to-whitelist-set-for-lrc-usd-oracle-access/5851))
+* YFI/USD Medianzer ([MIP10c9-SP23](https://forum.makerdao.com/t/mip10c9-sp23-subproposal-to-whitelist-set-for-yfi-usd-oracle-access/5853))
+* ZRX/USD Medianzer ([MIP10c9-SP24](https://forum.makerdao.com/t/mip10c9-sp24-subproposal-to-whitelist-set-for-zrx-usd-oracle-access/5877))
+* UNI/USD Medianzer ([MIP10c9-SP25](https://forum.makerdao.com/t/mip10c9-sp25-subproposal-to-whitelist-set-for-uni-usd-oracle-access/5879))
 
-Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application threads to inform your position on this issue before voting.
 
 ## Outcomes
 
@@ -42,6 +47,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

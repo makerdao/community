@@ -1,35 +1,39 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange
-discussion_link: $discussion_link
+title: Adjust FLAP Auction Parameters - January 11, 2021
+summary: Signal your support or opposition to adjusting the FLAP Auction Parameters
+discussion_link: https://forum.makerdao.com/t/flap-surplus-auction-parameter-adjustments-11th-jan-2021/6006
 vote_type: Plurality Voting
 categories:
-   - $CategoryA
-   - $CategoryB
+   - Risk Variable
+   - Auctions
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Adjust FLAP Auction Parameters - January 11, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the Risk Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes: 
-* $GenericChangeA
-* $GenericChangeB
+FLAP auctions refer to the Maker Protocol's System Surplus auctions. These auctions sell off DAI revenue from Stability Fees and Liquidation Fees in exchange for MKR which is then burned.
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+The community can vote in this poll to express support or opposition to the following changes: 
+* Increase the Minimum Bid Increase (`beg`) for FLAP auctions from 2% to 4%.
+* Increase the Bid Duration (`ttl`) for FLAP auctions from 30 minutes to 60 minutes.
+
+Please review the discussion [thread](https://forum.makerdao.com/t/flap-surplus-auction-parameter-adjustments-11th-jan-2021/6006) to help inform your position before voting.
+
+More information on these parameters can be found [here](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#surplus-auction).
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
