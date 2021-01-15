@@ -38,7 +38,7 @@ The proposals can be reviewed in this week's MIPs update [here](https://forum.ma
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This MIPs bundle will proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle provided the Governance Facilitator(s) confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on January 14, 2021.
+* This MIPs bundle will proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle provided the Governance Facilitator(s) confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on January 21, 2021.
 * The Executive Vote will be submitted on January 25, 2021 assuming a positive outcome is confirmed by the Governance Facilitator(s).
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
