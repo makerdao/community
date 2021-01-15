@@ -1,4 +1,6 @@
+/** @jsx jsx */
 import React from "react";
+import {jsx, Flex} from 'theme-ui'
 import {format} from 'date-fns';
 
 import allContributors from '@content/all-contributors.json'
@@ -60,17 +62,22 @@ const BlogAuthor = ({
 	//NOTE(Rejon): Would typically go at the top of an article, 
 	//			   or below an article title inside of an article card.
 	return (
-		<div>
+		<Flex>
 			{
 				authorToRender.avatar_url &&
-				<div>
-					<img src={authorToRender.avatar_url}/>
-				</div>
+					<img src={authorToRender.avatar_url} sx={{
+						borderRadius: '100%',
+						width: '64px',
+						height: '64px',
+						display: 'inline-block'
+					}}/>
 			}
 			
-			{authorToRender.name}
-			{date && format(new Date(date), 'MMMM d, yyyy')}
-		</div>
+			<div sx={{display: 'inline-block', ml: '10px'}}>
+				<p sx={{fontWeight: 400, mb: '3px', mt: 0}}>{authorToRender.name}</p>
+				{date &&<p sx={{color: 'mutedAlt', fontWeight: 400, m: 0}}> { format(new Date(date), 'MMMM d, yyyy')}</p>}
+			</div>
+		</Flex>
 	)
 }
 
