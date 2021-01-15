@@ -11,6 +11,9 @@ import {UrlConverter} from '@utils'
 const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) => {
 	const {authors, date, description, title, type} = frontmatter;
 	let postImage = null; 
+	const postLink = fileAbsolutePath 
+    .slice(fileAbsolutePath.indexOf("/blogPosts/") + 10, fileAbsolutePath.length)
+    .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "")
 	
 	//Grab the first image from the mdx file and use it for the featured image. 
 	if (mdxAST && mdxAST.children.length > 0)
@@ -41,9 +44,9 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 					fontWeight: 400
 				}}>{type}</Link>
 			</p>
-			{postImage && <img src={postImage} sx={{ width: '288px', height: '188px', objectFit: 'cover', mb: 2}}/>}
+			{postImage && <Link to={postLink} hideExternalIcon sx={{display: 'block'}}><img src={postImage} sx={{ width: '288px', height: '188px', objectFit: 'cover', mb: 2,}}/></Link>}
 
-			<h3 sx={{m: 0, fontWeight: 500, fontSize: 6, mb: '26px'}}> {title} </h3>
+			<Link sx={{mb: '26px', fontWeight: 500, fontSize: 6, color: 'text', display: 'block'}} to={postLink} hideExternalIcon> {title} </Link>
 
 			<BlogAuthor author={authors} date={date}/>
 
