@@ -58,5 +58,12 @@
     "Careers": "Careers",
     "Contact": "Contact",
     "Blog": "Blog"
-  }
+  },
+  "Blog": "Blog",
+  "Editorial": "Editorial",
+    "Community": "Community",
+    "Governance": "Governance",
+    "Maker_Community_Blog": "Maker Community Blog",
+    "Latest_In": "Latest In ",
+    "See_More_Posts": "See More Posts"
 }

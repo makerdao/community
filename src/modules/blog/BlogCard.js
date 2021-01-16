@@ -2,13 +2,15 @@
 import React from 'react';
 import {jsx} from 'theme-ui'
 import {Link} from '@modules/navigation';
-import { navigate } from '@reach/router';
 
 
 import {BlogAuthor} from '@modules/blog'
 import {UrlConverter} from '@utils'
+import { useTranslation } from "@modules/localization";
 
 const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) => {
+	const { t } = useTranslation();
+
 	const {authors, date, description, title, type} = frontmatter;
 	let postImage = null; 
 	const postLink = fileAbsolutePath 
@@ -39,10 +41,17 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 				mt: 0,
 				mb: 3
 			}}>
-				{isLatest && 'Latest in '} 
-				<Link to={`/blog?section=${type}`} sx={{
-					fontWeight: 400
-				}}>{type}</Link>
+				{isLatest && t('Latest_In')} 
+				{type && 
+					<Link 
+						to={`/blog?section=${type}`} 
+						sx={{
+							fontWeight: 400
+						}}
+					>
+						{t(type)}
+					</Link>
+				}
 			</p>
 			{postImage && <Link to={postLink} hideExternalIcon sx={{display: 'block'}}><img src={postImage} sx={{ width: '288px', height: '188px', objectFit: 'cover', mb: 2,}}/></Link>}
 
