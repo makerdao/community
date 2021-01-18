@@ -10,11 +10,11 @@ This out-of-schedule Executive Vote is taking place due to the increased usage o
 
 ### Increase ETH-A Debt Ceiling
 
-Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmegwnzR?network=mainnet#poll-detail) that is currently on-going, the ETH-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 740 million DAI to 1 billion DAI if this proposal passes.
+Due to this [forum post](https://forum.makerdao.com/t/urgent-executive-debt-ceiling-adjustments-18th-jan-2021/6094) in combination with this [poll](https://vote.makerdao.com/polling/QmegwnzR?network=mainnet#poll-detail) that is currently on-going, the ETH-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 740 million DAI to 1 billion DAI if this proposal passes.
 
 ### Increase WBTC-A Debt Ceiling
 
-Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmZPB46j?network=mainnet#poll-detail) that is currently on-going, the WBTC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 160 million DAI to 210 million DAI if this proposal passes.
+Due to this [forum post](https://forum.makerdao.com/t/urgent-executive-debt-ceiling-adjustments-18th-jan-2021/6094) in combination with this [poll](https://vote.makerdao.com/polling/QmZPB46j?network=mainnet#poll-detail) that is currently on-going, the WBTC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 160 million DAI to 210 million DAI if this proposal passes.
 
 ## Summary
 
@@ -45,6 +45,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
