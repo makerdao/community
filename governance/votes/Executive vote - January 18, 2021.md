@@ -10,11 +10,11 @@ This out-of-schedule Executive Vote is taking place due to the increased usage o
 
 ### Increase ETH-A Debt Ceiling
 
-Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmegwnzR?network=mainnet#poll-detail) that is currently on-going, the ETH-A Debt Ceiling will increase from 740 million DAI to 1 billion DAI if this proposal passes.
+Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmegwnzR?network=mainnet#poll-detail) that is currently on-going, the ETH-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 740 million DAI to 1 billion DAI if this proposal passes.
 
 ### Increase WBTC-A Debt Ceiling
 
-Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmZPB46j?network=mainnet#poll-detail) that is currently on-going, the WBTC-A Debt Ceiling will increase from 160 million DAI to 210 million DAI if this proposal passes.
+Due to this [forum post]() in combination with this [poll](https://vote.makerdao.com/polling/QmZPB46j?network=mainnet#poll-detail) that is currently on-going, the WBTC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase from 160 million DAI to 210 million DAI if this proposal passes.
 
 ## Summary
 
