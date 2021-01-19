@@ -1,5 +1,6 @@
 # Governance and Risk Meeting Summaries
 
+- [Episode 124: Jan 14, 2020](episode-124.md)
 - [Episode 123: Jan 07, 2020](episode-123.md)
 - [Episode 122: Dec 17, 2020](episode-122.md)
 - [Episode 121: Dec 10, 2020](episode-121.md)
