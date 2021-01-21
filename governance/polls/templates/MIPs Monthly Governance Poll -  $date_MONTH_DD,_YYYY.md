@@ -34,7 +34,7 @@ The proposals can be reviewed in this week's MIPs update [here]($discussion_link
 * The Executive Vote will be submitted on $next_executive_date_MONTH_DD,_YYYY assuming a positive outcome is confirmed by the Governance Facilitator(s).
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
-* MIPs may be resubmitted to the governance cycle up to three times if they are voted down.
+* Proposals may be resubmitted to the governance cycle up to three times if they are voted down.
 ---
 
 ## Resources
