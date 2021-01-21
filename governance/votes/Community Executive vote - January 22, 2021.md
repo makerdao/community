@@ -10,15 +10,15 @@ The Governance Facilitator(s) have placed an Executive Vote into the voting syst
 
 A new collateral type, UNI-V2-USDC-ETH, will be added to the Maker Protocol if this proposal passes. UNI-V2-USDC-ETH will be added with the following parameters in the UNIV2USDCETH-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmNnd9ty#poll-detail) with the exception of the Debt Floor (`dust`) parameter which has been updated to 2000 DAI to match the outcome of this [poll](https://vote.makerdao.com/polling/QmWPAu5z?network=mainnet#poll-detail).
 
-* Stability Fee: 1%
-* Liquidation Ratio: 125%
-* Debt Ceiling: 3 million DAI
+* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1%
+* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 125%
+* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
 * Auction Lot Size: 50,000 DAI
 * Minimum Bid Increment: 3%
 * Bid Duration: 6 hours
 * Max Auction Duration: 6 hours
 * Liquidation Penalty: 13%
-* Dust: 2000 DAI
+* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2000 DAI
 
 Please review the following forum threads containing information about UNI-V2-USDC-ETH (UniswapV2 USDC-ETH LP Token) to inform your position before voting.
 * [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-usdc-eth-uniswap-v2-usdc-eth-liquidity-token-collateral-application/3481)
@@ -138,11 +138,11 @@ Therefore, if this Executive proposal passes the following will occur:
 * The USDC-B Debt Floor (dust) parameter will increase from 500 DAI to 2000 DAI
 
 **DAI Distributions**
-* 6,300 Dai will be transferred from the Maker Protocol to @makerman at [0x9ac6a6b24bcd789fa59a175c0514f33255e1e6d0] for services rendered.
+* 6,300 Dai will be transferred from the Maker Protocol to @makerman at [0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0] for services rendered.
 * 3,800 Dai will be transferred from the Maker Protocol to @monet-supply at [0x8d07D225a769b7Af3A923481E1FdF49180e6A265] for services rendered.
 * 2,000 Dai will be transferred from the Maker Protocol to @Joshua_Pritikin at [0x2235A5D7bCC37855CB91dFf66334F4DFD9C39b58] for services rendered.
 * 400 Dai will be transferred from the Maker Protocol to @befitsandpiper at [0x851fB899dA7F80c211d9B8e5f231FB3BC9eca41a] for services rendered.
-* 200 Dai will be transferred from the Maker Protocol to @Vault2288 at [0x92e5a14b08e5232682eb38269a1ce661f04ec93d] for services rendered.
+* 200 Dai will be transferred from the Maker Protocol to @Vault2288 at [0x92e5a14b08E5232682Eb38269A1cE661F04Ec93D] for services rendered.
 
 **Oracle Whitelisting**
 * Instadapp will be whitelisted on the ETHUSD OSM Oracle.
