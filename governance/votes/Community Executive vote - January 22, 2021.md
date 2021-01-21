@@ -111,6 +111,7 @@ Therefore, if this Executive proposal passes the following will occur:
 **[Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) Decreases**
 * The BAT-A Debt Ceiling will decrease from 10 million DAI to 2 million DAI.
 * The TUSD-A Debt Ceiling will decrease from 135 million DAI to zero DAI.
+* The Global System Debt Ceiling will decrease by 126,250,000 DAI.
 
 **[Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) Changes**
 * The ETH-A Debt Floor (dust) parameter will increase from 500 DAI to 2000 DAI
