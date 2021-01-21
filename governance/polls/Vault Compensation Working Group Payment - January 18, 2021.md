@@ -3,6 +3,9 @@ title: Vault Compensation Working Group Payment - January 18, 2021
 summary: Signal your support or opposition to paying 12,700 Dai from the surplus buffer to the vault compensation working group for past labor.
 discussion_link: https://forum.makerdao.com/t/signal-request-vault-compensation-working-group-payment/5562
 vote_type: Plurality Voting
+categories:
+   - Governance
+   - Other
 options:
    0: Abstain
    1: Yes
@@ -29,8 +32,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These transfers will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these transfers will execute after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
