@@ -37,7 +37,7 @@ Therefore, if this Executive proposal passes the following will occur:
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
 
-If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
+If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 
 ## Review
 
