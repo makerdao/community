@@ -55,13 +55,13 @@ The DC-IAM smart contract contains a single relevant method to control usage. Th
 
 When `exec` is called, the following logic is executed by the smart contract:
 
-1. Is the difference between the current debt usage and the Debt Ceiling greater than the Target Available Debt?
-	a) If yes, go to 3.
-	b) If no, do nothing.
-2. Is the difference between the current debt usage and the Debt Ceiling less than the Target Available Debt AND has the Ceiling Increase Cooldown expired?
-	a) If yes, go to 3.
-	b) If no, do nothing.
-3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value.
+1. Is the difference between the current debt usage and the Debt Ceiling greater than the Target Available Debt? 
+	a) If yes, go to 3. 
+	b) If no, do nothing. 
+2. Is the difference between the current debt usage and the Debt Ceiling less than the Target Available Debt AND has the Ceiling Increase Cooldown expired? 
+	a) If yes, go to 3. 
+	b) If no, do nothing. 
+3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value. 
 
 In practice, this means that calling the `exec` function will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation *decreases* the Debt Ceiling. If this operation will *increase* the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
 
