@@ -3,7 +3,7 @@
 ```
 Alias: DC-IAM
 Contract Name: DssAutoLine
-Scope: A single Autoline optionally has parameters for each vault type.
+Scope: A single DssAutoLine contract can contain a set of parameters for each vault type.
 ```
 
 ## Description
