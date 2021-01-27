@@ -1,7 +1,7 @@
 ---
-title:  Create Multiple Oracles for dYdX - January 25, 2021
+title:  Create Multiple Oracles for dYdX on Starkware - February 1, 2021
 summary: Signal your support or opposition for creating multiple oracles for dYdX
-discussion_link: $forum_application_A
+discussion_link: https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238
 vote_type: Plurality Voting
 categories:
    - Oracles
@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 ---
-# Create Multiple Oracles for dYdX - January 25, 2021
+# Create Multiple Oracles for dYdX on Starkware- February 1, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on January 25, 2021 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on February 1, 2021 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -21,7 +21,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 ## Review
 
 The community can vote in this poll to express support or opposition to create multiple oracles to that will be used by dyYdX on Starkware:
-([MIP10c9-SP#]($forum_application_A))
+([MIP10c9-SP21](https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238))
 * DOTUSD 
 * SNXUSD
 * FILUSD
@@ -32,6 +32,14 @@ The community can vote in this poll to express support or opposition to create m
 * SOLUSD
 * AVAXUSD
 * XTZUSD
+* BTCUSD
+* ETHUSD
+* LINKUSD
+* YFIUSD
+* UNIUSD
+* COMPUSD
+* AAVEUSD
+
 
 Please review the application threads to inform your position on this issue before voting.
 
