@@ -39,7 +39,7 @@ The Target Available Debt parameter controls how much of a gap the DC-IAM aims t
 
 The higher this value, the more risk there is from large collateral drops in very short amounts of time. 
 
-The smaller this value, the more vault-usage is negatively affected. For example, a relatively low Target Available Debt of 100,000 DAI would be bad for anyone that wished to mint more than 100,000k DAI at one time (and other users besides.) The reason for this ties into the Ceiling Increase Cooldown parameter.
+The smaller this value, the more vault-usage is negatively affected. For example, a relatively low Target Available Debt of 100,000 DAI would be bad for anyone that wished to mint more than 100,000 DAI at one time (and other users besides.) The reason for this ties into the Ceiling Increase Cooldown parameter.
 
 **Ceiling Increase Cooldown (`ttl`)**
 
