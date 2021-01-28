@@ -8,7 +8,7 @@ import { NavigationProvider } from "@modules/navigation";
 //Load our Primsjs css and Fonts
 import "@modules/layouts/global.css"; //<- Load in Prismjs css. Our custom styles have to be loaded this way cause Prismjs is blackboxed from our own code.
 
-export const wrapRootElement = ({ element, props }) => (
+export const wrapRootElement = ({ element }) => (
   <TranslationProvider>{element}</TranslationProvider>
 );
 

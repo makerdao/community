@@ -115,7 +115,7 @@ const NavigationProvider = ({ children }) => {
       if (aNode.headerOrder > bNode.headerOrder) return 1;
       return 0;
     })
-    .map(({ node }, index) => {
+    .map(({ node }) => {
       const title = TitleConverter(node);
       const url = UrlConverter(node);
 
@@ -133,29 +133,28 @@ const NavigationProvider = ({ children }) => {
         document.body.style.position = "";
         document.body.style.top = "";
         document.body.style.width = "";
-        console.log(scrollBeforeMenuOpen);
         window.scrollTo(0, scrollBeforeMenuOpen);
+        setMobileNavOpen(false);
       } else {
         //We're showing the menu. Add fixed styling so the user doesn't scroll the window when in the menu.
         scrollBeforeMenuOpen = window.scrollY;
         document.body.style.position = "fixed";
         document.body.style.width = "100vw";
         document.body.style.top = `-${scrollBeforeMenuOpen}px`;
+        setMobileNavOpen(true);
       }
-
-      setMobileNavOpen(true);
     }
   };
 
   const hideMobileMenu = (scrollBeforeMenuOpen) => {
+    setMobileNavOpen(false);
+
     if (mobileNavOpen) {
       if (typeof window !== "undefined") {
         document.body.style.position = "";
         document.body.style.top = "";
         document.body.style.width = "";
         window.scrollTo(0, scrollBeforeMenuOpen);
-
-        setMobileNavOpen(false);
       }
     }
   };
