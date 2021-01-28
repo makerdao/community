@@ -210,10 +210,14 @@ export default (props) => {
         <Box>{children}</Box>
       </Box>
 
-      <Box sx={{ display: ["none", "none", "block"] }}>
+      <Box sx={{ position: "relative" }}>
         {/* DESKTOP LANGUAGE SELECTOR */}
         {renderLanguageSelector && (
-          <LanguageSelector data={languageSelectorData} pagePath={pagePath} />
+          <LanguageSelector
+            sx={{ display: ["none", "none", "block"] }}
+            data={languageSelectorData}
+            pagePath={pagePath}
+          />
         )}
       </Box>
       <MobileNav sidenavData={sidenavData} />

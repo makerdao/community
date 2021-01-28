@@ -10,15 +10,14 @@ const Button = ({
   variant,
   secondary,
   outline,
-  bottomOut,
   text,
   small,
   disabled,
   children,
   inline,
-  test,
   icon,
   sx,
+  hideExternalIcon,
   ...otherProps
 }) => {
   //NOTE(Rejon): This may seem outlandish, but we do this to ensure content creators write LESS code.
@@ -38,7 +37,7 @@ const Button = ({
 
   const internal = /^\/(?!\/)/.test(href) || /^\/(?!\/)/.test(to);
 
-  const willHaveIcon = icon || (!internal && !small);
+  const willHaveIcon = icon || (!internal && !hideExternalIcon && !small);
 
   return (
     <Link
@@ -50,6 +49,7 @@ const Button = ({
         whiteSpace: "nowrap",
         display: inline ? "inline-block" : "block",
         cursor: disabled ? "not-allowed" : "",
+        fontWeight: "500",
         "&:not(:last-child)": {
           mb: 3,
         },
