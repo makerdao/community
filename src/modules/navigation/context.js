@@ -115,7 +115,7 @@ const NavigationProvider = ({ children }) => {
       if (aNode.headerOrder > bNode.headerOrder) return 1;
       return 0;
     })
-    .map(({ node }, index) => {
+    .map(({ node }) => {
       const title = TitleConverter(node);
       const url = UrlConverter(node);
 

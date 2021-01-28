@@ -27,6 +27,7 @@ import { Aligner, Video, Indent } from "@modules/utility/";
 
 import { AuthorRenderer } from "@modules/authors";
 
+import { Heading } from "../modules/ui/heading";
 import {
   TDRegion,
   TDStat,
@@ -42,93 +43,24 @@ import {
 const MD_Overrides = {
   a: (props) => <Link to={props.href} {...props} />,
   img: Image,
-  h1: (props) => (
-    <Text
-      variant="h1"
-      sx={{
-        mb: "24px",
-        lineHeight: "normal",
-        fontSize: "48px",
-        letterSpacing: "0.3px",
-        fontWeight: "500",
-        fontFamily: 'heading',
-        color: 'text',
-        marginTop: '48px',
-        marginBottom: '32px',
-      }}
-      {...props}
-    />
-  ),
-  h2: (props) => (
-    <Text
-      as="h2"
-      sx={{
-        mb: "32px",
-        lineHeight: "normal",
-        fontSize: '32px',
-        fontWeight: "500",
-        letterSpacing: "0.3px",
-        fontFamily: 'heading',
-        color: 'text',
-        marginTop: '48px',
-        marginBottom: '24px'
-      }}
-      {...props}
-    />
-  ),
-  h3: (props) => (
-    <Text
-      as="h3"
-      sx={{
-        mb: "32px",
-        lineHeight: "normal",
-        fontSize: '24px',
-        fontWeight: '500',
-        letterSpacing: "0.3px",
-        fontFamily: 'heading',
-        color: 'text',
-        marginTop: '16px',
-        marginBottom: '16px'
-      }}
-      {...props}
-    />
-  ),
-  h4: (props) => (
-    <Text
-      as="h4"
-      sx={{
-        mb: "32px",
-        lineHeight: "normal",
-        fontSize: '20px',
-        fontWeight: '500',
-        letterSpacing: '0.3px',
-        fontFamily: 'heading',
-        color: 'text',
-        marginTop: '8px',
-        marginBottom: '8px'
-      }}
-      {...props}
-    />
-  ),
-  h5: ({ children, ...props }) => (
-    <Text
-      as="h5"
-      sx={{
-        mb: "32px",
-        fontSize: "20px",
-        fontWeight: "normal",
-        lineHeight: "normal",
-      }}
-    >
-      {children}
-    </Text>
-  ),
+  h1: (props) => <Heading level={1} {...props} />,
+  h2: (props) => <Heading level={2} {...props} />,
+  h3: (props) => <Heading level={3} {...props} />,
+  h4: (props) => <Heading level={4} {...props} />,
+  h5: (props) => <Heading level={5} {...props} />,
   table: (props) => <Table {...props} />,
-  thematicBreak: (props) => <Divider sx={{ my: 4 }} />,
-  hr: (props) => <Divider sx={{ my: 4 }} />,
+  thematicBreak: (props) => <Divider sx={{ my: 4 }} {...props} />,
+  hr: (props) => <Divider sx={{ my: 4 }} {...props} />,
   p: (props) => (
     <Text
-      sx={{ mb: "16px", fontSize: "16px", letterSpacing: "0.4px", lineHeight: "150%", marginBottom: '24px', "& .button": { display: "inline-block" } }}
+      sx={{
+        mb: "16px",
+        fontSize: "16px",
+        letterSpacing: "0.4px",
+        lineHeight: "150%",
+        marginBottom: "24px",
+        "& .button": { display: "inline-block" },
+      }}
       {...props}
     />
   ), //NOTE(Rejon): Don't add the as="p" prop to this text component, else you'll get warnings about our interweaving.

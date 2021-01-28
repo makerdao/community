@@ -107,7 +107,7 @@ export default (
 
   //Reduce all of our mergedLocaleFiles into a object structure that closely resembles our final sidenav.
   const sidenavData = mergedLocaleFiles.reduce(
-    (accu, { title, slug, rawSlug, slugPart, order }) => {
+    (accu, { title, slug, rawSlug, order }) => {
       const parts = rawSlug.split("/");
 
       let { items: prevItems } = accu;
