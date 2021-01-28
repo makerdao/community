@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 28, 2021
+title: Template - [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 29, 2021
 
 ---
-## [Executive Vote] Activate Debt Ceiling Instant Access Module for ETH-A - January 28, 2021
+## [Executive Vote] Activate Debt Ceiling Instant Access Module for ETH-A - January 29, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
