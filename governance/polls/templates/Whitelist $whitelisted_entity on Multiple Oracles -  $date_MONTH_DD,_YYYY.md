@@ -1,7 +1,7 @@
 ---
-title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for whitelisting $whitelisted_entity on the $whitelisted_oracle Oracle
-discussion_link: $discussion_link
+title: Whitelist $whitelisted_entity on Multiple Oracles - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition for whitelisting $whitelisted_entity on multiple oracles
+discussion_link: $forum_application_A
 vote_type: Plurality Voting
 categories:
    - Oracles
@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 ---
-# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Whitelist $whitelisted_entity on Multiple Oracles - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -20,9 +20,11 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the following oracle whitelists to read current and queued price data:
+* $whitelisted_oracleA $OSM/Medianzer ([MIP10c9-SP#]($forum_application_A))
+* $whitelisted_oracleB $OSM/Medianzer ([MIP10c9-SP#]($forum_application_B))
 
-Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application threads to inform your position on this issue before voting.
 
 ## Outcomes
 
