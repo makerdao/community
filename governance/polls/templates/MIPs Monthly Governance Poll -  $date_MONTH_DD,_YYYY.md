@@ -5,6 +5,7 @@ discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
    - Governance
+   - MIPs
 options:
    0: Abstain
    1: Yes
@@ -33,7 +34,7 @@ The proposals can be reviewed in this week's MIPs update [here]($discussion_link
 * The Executive Vote will be submitted on $next_executive_date_MONTH_DD,_YYYY assuming a positive outcome is confirmed by the Governance Facilitator(s).
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
-* MIPs may be resubmitted to the governance cycle up to three times if they are voted down.
+* Proposals may be resubmitted to the governance cycle up to three times if they are voted down.
 ---
 
 ## Resources
@@ -44,6 +45,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

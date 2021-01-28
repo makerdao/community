@@ -1,7 +1,7 @@
 ---
-title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
-discussion_link: $discussion_link
+title: Community Greenlight Poll - stETH (LidoDAO Staked Ether) - January 18, 2021
+summary: Signal your support or opposition to prioritising onboarding stETH (LidoDAO Staked Ether). 
+discussion_link: https://forum.makerdao.com/t/steth-mip6-collateral-onboarding/5762
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -11,25 +11,25 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---
-# Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
+# Poll: Community Greenlight Poll - stETH (LidoDAO Staked Ether) - January 18, 2021
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 18 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
-This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset stETH (LidoDAO Staked Ether) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
-Please review the collateral onboarding application [thread]($discussion_link) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/steth-mip6-collateral-onboarding/5762) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for $asset_code ($asset_name) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for $asset_code ($asset_name) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+* The 'greenlight score' will be calculated for stETH (LidoDAO Staked Ether) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for stETH (LidoDAO Staked Ether) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
 * The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---

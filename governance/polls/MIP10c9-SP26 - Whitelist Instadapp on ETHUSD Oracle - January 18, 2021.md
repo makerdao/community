@@ -1,7 +1,7 @@
 ---
-title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for whitelisting $whitelisted_entity on the $whitelisted_oracle Oracle
-discussion_link: $discussion_link
+title: Whitelist Instadapp on ETHUSD Oracle (MIP10c9-SP26) - January 18, 2021
+summary: Signal your support or opposition for whitelisting Instadapp on the ETHUSD Oracle Security Module
+discussion_link: https://forum.makerdao.com/t/mip10c9-sp26-subproposal-to-whitelist-instadapp-gelato-automation-contract-for-eth-usd-oracle-access/5901
 vote_type: Plurality Voting
 categories:
    - Oracles
@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 ---
-# Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Whitelist Instadapp on ETHUSD Oracle (MIP10c9-SP26) - January 18, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,9 +20,9 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending $whitelisted_entity to the $whitelisted_oracle Oracle Security Module whitelist to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending [Instadapp](https://instadapp.io/) to the ETHUSD Oracle Security Module whitelist to read current and queued price data.
 
-Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp26-subproposal-to-whitelist-instadapp-gelato-automation-contract-for-eth-usd-oracle-access/5901) to inform your position on this issue before voting.
 
 ## Outcomes
 

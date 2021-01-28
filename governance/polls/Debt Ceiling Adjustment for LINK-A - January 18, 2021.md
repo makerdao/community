@@ -1,7 +1,7 @@
 ---
-title: $IncreaseDecrease the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Debt Ceiling from $current_ceiling million DAI to $new_ceiling million DAI.
-discussion_link: $discussion_link
+title: Increase the LINK-A Debt Ceiling - January 18, 2021
+summary: Signal your support or opposition for adjusting the LINK-A Debt Ceiling from 10 million DAI to 20 million DAI.
+discussion_link: https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-11th-jan-2021/6005
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -10,18 +10,18 @@ options:
    1: Yes
    2: No
 ---
-# Poll: $IncreaseDecrease the $ilk_name Debt Ceiling - $date_MONTH_DD,_YYYY
+# Poll: Increase the LINK-A Debt Ceiling - January 18, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the $ilk_name [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
-* $IncreaseDecrease from $current_ceiling million DAI to $new_ceiling million DAI.
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the LINK-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+* Increase from 10 million DAI to 20 million DAI.
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-11th-jan-2021/6005) to inform your position on this issue before voting.
 
 ## Outcomes
 
