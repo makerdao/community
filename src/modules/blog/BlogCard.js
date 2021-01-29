@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import React from 'react';
 import {jsx} from 'theme-ui'
+import isNil from 'lodash/isNil'
 import {Link} from '@modules/navigation';
 
 
@@ -16,6 +17,7 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 	const postLink = fileAbsolutePath 
     .slice(fileAbsolutePath.indexOf("/blogPosts/") + 10, fileAbsolutePath.length)
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "")
+
 	
 	//Grab the first image from the mdx file and use it for the featured image. 
 	if (mdxAST && mdxAST.children.length > 0)
@@ -57,7 +59,9 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 
 			<Link sx={{mb: '26px', fontWeight: 500, fontSize: 6, color: 'text', display: 'block'}} to={postLink} hideExternalIcon> {title} </Link>
 
-			<BlogAuthor author={authors} date={date}/>
+			{(!isNil(authors) &&
+				<BlogAuthor author={authors} date={date}/>
+			)}
 
 			<p>
 				{description || excerpt}

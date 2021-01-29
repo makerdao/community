@@ -20,7 +20,7 @@ const BlogHome = ({data}) => {
 	const initialSection = queryString.parse(search).section || null;
 	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => node.frontmatter.type).filter((value, index, self) => self.indexOf(value) === index))
 	const  initialSectionExists = types.length > 0 ? types.indexOf(initialSection) !== -1 : false; //NOTE(Rejon): Checks if the section provided in query string actually exists. 
-
+		
 	const latestPosts = initialSection !== null && initialSectionExists ? 
 						data.allMdx.edges.filter(({node}) => node.frontmatter.type === initialSection).slice(0,3) 
 						: 
@@ -37,6 +37,7 @@ const BlogHome = ({data}) => {
 		currentPage: 0
 	})
 
+	const availableLanguages = data.allSitePage.nodes.map(({path}) => path.split('/')[1]);
 
 	//Update the data and local type if we click one of the category tags
 	useEffect(() => {
@@ -47,7 +48,7 @@ const BlogHome = ({data}) => {
 	}, [initialSection])
 
 	//Whether to show pagination button or not. 
-	const showNextButton = ((sectionData.currentPage + 1) * postsPerPage < sectionData.allPosts);
+	const showNextButton = ((sectionData.currentPage + 1) * postsPerPage < sectionData.allPosts.length);
 
 	const setBlogCategory = (cat = null) => {
 		let allPosts = [...data.allMdx.edges]; //Spread it so we don't edit the original data. 
@@ -83,8 +84,6 @@ const BlogHome = ({data}) => {
 			currentPage: 0
 		});
 	}
-
-	console.log();
 
 	return (
 		<Flex sx={{
@@ -168,36 +167,29 @@ const BlogHome = ({data}) => {
 						<BlogResult {...node} key={`blog-result-${index}`}/>
 					)}
 				</Flex>
-
+				
 				<div sx={{pt: '24px'}}>
-					<p sx={{textTransform: 'uppercase'}}>Languages</p>
+					<p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
 
 					<ul sx={{
 						listStyleType: 'none',
 						p:0
 					}}>
-						<li>
-							<Link to="/blog/en">
-								English
-							</Link>
-						</li>
-						<li>
-							<Link to="/blog/es">
-								Español
-							</Link>
-						</li>
-						<li>
-							<Link to="/blog/it">
-								Italiano
-							</Link>
-						</li>
+						{availableLanguages.map((loc, index) => (
+							<li key={`available-blog-lang-${index}`}>
+								<Link to={`/${loc}/blog`}>
+									{t("Language", null, null, loc)}
+								</Link>
+							</li>
+						))}
 					</ul>
 				</div>
 			</Flex>
 			{showNextButton 
 				&&
-				<div>
-					<Button icon="plus" onClick={() => {
+				<div sx={{mb: '114px'}}>
+
+					<Button outline icon="plus" onClick={() => {
 						setSectionData({
 							...sectionData,
 							currentPage: sectionData.currentPage + 1
@@ -226,10 +218,16 @@ const BlogHome = ({data}) => {
 				date(formatString: "MMMM DD, YYYY", locale: $locale)
 				description
 				authors
+				
 				}
 				mdxAST
 				id
 			}
+			}
+		}
+		allSitePage(filter: {path: {regex: "/\/([\\w]{2})\/blog\/$/"}}) {
+			nodes {
+			path
 			}
 		}
 	}

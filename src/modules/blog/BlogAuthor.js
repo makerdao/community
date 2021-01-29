@@ -51,7 +51,6 @@ const BlogAuthor = ({
 			</div>
 		);
 	}
-
 	//NOTE(Rejon): We don't have a case of rendering multiple authors in a list like format.
 	//			   So we only support one author for this case, unless otherwise specified.
 	const soleAuthor = Array.isArray(author) ? author[0] : author;
