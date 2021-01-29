@@ -34,7 +34,13 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 
 	return (
 		<div sx={{
-			width:'286px'
+			maxWidth:'286px',
+			width: '100%',
+			px: 2,
+			borderBottom: ['1px solid', 'unset', 'unset'],
+			borderColor: 'muted',
+			pb: [3,'unset','unset'],
+			pt: ['34px', 'unset', 'unset']
 		}}>
 			<p sx={{
 				fontWeight: 400,
@@ -55,7 +61,7 @@ const BlogCard = ({excerpt, fileAbsolutePath, frontmatter, mdxAST, isLatest}) =>
 					</Link>
 				}
 			</p>
-			{postImage && <Link to={postLink} hideExternalIcon sx={{display: 'block'}}><img src={postImage} sx={{ width: '288px', height: '188px', objectFit: 'cover', mb: 2,}}/></Link>}
+			{postImage && <Link to={postLink} hideExternalIcon sx={{display: 'block'}}><img src={postImage} sx={{ maxWidth: '288px', width: '100%', height: '188px', objectFit: 'cover', mb: 2,}}/></Link>}
 
 			<Link sx={{mb: '26px', fontWeight: 500, fontSize: 6, color: 'text', display: 'block'}} to={postLink} hideExternalIcon> {title} </Link>
 

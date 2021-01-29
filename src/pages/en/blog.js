@@ -4,9 +4,10 @@ import { jsx, Box, Flex, useColorMode } from "theme-ui";
 import {graphql} from 'gatsby'
 import {useLocation} from '@reach/router';
 import queryString from 'query-string';
-import { navigate } from '@reach/router';
+import { useNavigate } from '@reach/router';
 
-import {Button} from '@modules/ui';
+
+import {Button, Select} from '@modules/ui';
 import {Link} from '@modules/navigation';
 import {BlogCard, BlogResult} from '@modules/blog'
 import { useTranslation } from "@modules/localization";
@@ -15,7 +16,8 @@ const postsPerPage = 4;
 
 const BlogHome = ({data}) => {
 	const {search} = useLocation();
-	const { t } = useTranslation();
+	const { t, locale } = useTranslation();
+	const navigate = useNavigate();
 
 	const initialSection = queryString.parse(search).section || null;
 	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => node.frontmatter.type).filter((value, index, self) => self.indexOf(value) === index))
@@ -39,6 +41,14 @@ const BlogHome = ({data}) => {
 
 	const availableLanguages = data.allSitePage.nodes.map(({path}) => path.split('/')[1]);
 
+	const onSelectChange = ({value, label}) =>  {
+		//Update local storage on switch
+		if (typeof window !== "undefined") {
+		localStorage.setItem("locale", value.split("/")[1]);
+		}
+
+		console.log(value,  label)
+	}
 	//Update the data and local type if we click one of the category tags
 	useEffect(() => {
 		if (initialSection !== null && sectionData.type !== initialSection)
@@ -89,25 +99,51 @@ const BlogHome = ({data}) => {
 		<Flex sx={{
 			flexDirection: 'column',
 			alignItems: 'center',
-			mt: '128px',
+			mt: [0,0,'128px'],
 			width: '100%',
-			px: '12.3%'
+			px: ['22px', '22px', '12.3%']
 		}}>
+		{availableLanguages.length > 0 &&
+			<div sx={{width: '100%', mt: 4, mb: '42px', display: ['block', 'block', 'none']}}>
+				<Select 
+					onChange={onSelectChange}
+					options={availableLanguages.map((loc) =>  {
+						return ({
+							value: `/${loc}/blog`,
+							label: t(
+								"Language",
+								null,
+								null,
+								loc
+							)
+						})
+					})}
+					aria-label={t("Blog_Language_Selector")}
+					value={{
+						value: `/${locale}`,
+						label: t("Language")
+					}}
+				/>
+			</div>
+		}
+			
 			
 			<h1 sx={{
 				mt: 0,
 				fontWeight: 500,
 				fontSize: '48px',
-				mb: '50px'
+				mb: ['66px', '50px', '50px'],
+				textAlign: 'center'
 			}}>
 			{t('Maker_Community_Blog')}
 			</h1>
 			
 			<Flex sx={{
-				mb: '98px',
+				mb: ['70px', '70px', '98px'],
 				'& > *:not(:last-child)': {
 					mr: '64px'
-				}
+				},
+				display: ['none', 'flex', 'flex']
 			}}>
 				<Link sx={{
 						color: sectionData.type === null ? 'link' : 'mutedAlt',
@@ -146,7 +182,8 @@ const BlogHome = ({data}) => {
 			<Flex sx={{
 				justifyContent: 'space-evenly',
 				width: '100%',
-				mb: '80px'
+				mb: [0, '80px', '80px'],
+				flexDirection: ['column', 'row', 'row']
 			}}>
 				{sectionData.latestPosts.map(({node}, index) => (
 					<BlogCard isLatest {...node} key={`blog-card-latest-${index}`}/>
@@ -168,7 +205,7 @@ const BlogHome = ({data}) => {
 					)}
 				</Flex>
 				
-				<div sx={{pt: '24px'}}>
+				<div sx={{pt: '24px', display:  ['none', 'none', 'initial']}}>
 					<p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
 
 					<ul sx={{
@@ -187,7 +224,7 @@ const BlogHome = ({data}) => {
 			</Flex>
 			{showNextButton 
 				&&
-				<div sx={{mb: '114px'}}>
+				<div sx={{mb: ['50px', '50px', '114px']}}>
 
 					<Button outline icon="plus" onClick={() => {
 						setSectionData({

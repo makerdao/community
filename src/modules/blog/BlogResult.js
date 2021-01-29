@@ -15,7 +15,7 @@ const BlogResult = ({frontmatter,  excerpt, fileAbsolutePath}) => {
 
 	return (
 		<div sx={{
-			px: '32px',
+			px: [0,0,'32px'],
 			pt: '34px',
 			pb: '50px',
 			borderBottom: '1px solid',
