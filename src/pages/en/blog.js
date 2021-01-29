@@ -5,7 +5,7 @@ import {graphql} from 'gatsby'
 import {useLocation} from '@reach/router';
 import queryString from 'query-string';
 import { useNavigate } from '@reach/router';
-
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 import {Button, Select} from '@modules/ui';
 import {Link} from '@modules/navigation';
@@ -47,8 +47,18 @@ const BlogHome = ({data}) => {
 		localStorage.setItem("locale", value.split("/")[1]);
 		}
 
-		console.log(value,  label)
+		//Google Analytics Tracking
+		trackCustomEvent({
+		category: "Language Selector",
+		action: `Switch Blog Language to ${label}`,
+		label: `From Page: ${pagePath} (${locale}) |  To Page: ${value} (${
+			value.split("/")[1]
+		})`,
+		});
+
+		navigate(value);
 	}
+
 	//Update the data and local type if we click one of the category tags
 	useEffect(() => {
 		if (initialSection !== null && sectionData.type !== initialSection)
@@ -103,7 +113,7 @@ const BlogHome = ({data}) => {
 			width: '100%',
 			px: ['22px', '22px', '12.3%']
 		}}>
-		{availableLanguages.length > 0 &&
+		{availableLanguages.length > 1 &&
 			<div sx={{width: '100%', mt: 4, mb: '42px', display: ['block', 'block', 'none']}}>
 				<Select 
 					onChange={onSelectChange}
