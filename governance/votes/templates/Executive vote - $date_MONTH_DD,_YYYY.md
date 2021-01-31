@@ -4,7 +4,7 @@ title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
 ---
 ## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
 
-The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### $executive_entry_1
 
