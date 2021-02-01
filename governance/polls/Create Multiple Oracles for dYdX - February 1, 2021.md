@@ -20,7 +20,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to creating multiple oracles that will be used by dyYdX on Starkware. Below is a list of each oracle, which can also be found in [MIP10c9-SP21](https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238):
+The community can vote in this poll to express support or opposition to creating multiple oracles that will be used by dYdX on Starkware. Below is a list of each oracle, which can also be found in [MIP10c9-SP21](https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238):
 * DOT/USD 
 * SNX/USD
 * FIL/USD
