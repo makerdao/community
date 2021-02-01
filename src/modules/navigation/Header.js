@@ -142,6 +142,14 @@ const HeaderNav = ({ headerLinks, hideMenu }) => {
             {title}
           </Link>
         ))}
+        <Link 
+          to={'/blog'} 
+          sx={{
+            fontWeight: "normal",
+            flexShrink: 0,
+          }}>
+          {t("Blog")}
+        </Link>
         <Link
           to={"https://forum.makerdao.com/"}
           hideExternalIcon
