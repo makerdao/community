@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 ---
-# Create Multiple Oracles for dYdX on Starkware- February 1, 2021
+# Create Multiple Oracles for dYdX on Starkware - February 1, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on February 1, 2021 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 1 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,34 +20,34 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to create multiple oracles to that will be used by dyYdX on Starkware:
-([MIP10c9-SP21](https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238))
-* DOTUSD 
-* SNXUSD
-* FILUSD
-* ZECUSD
-* CRVUSD
-* WNXMUSD
-* XRPUSD
-* SOLUSD
-* AVAXUSD
-* XTZUSD
-* BTCUSD
-* ETHUSD
-* LINKUSD
-* YFIUSD
-* UNIUSD
-* COMPUSD
-* AAVEUSD
+The community can vote in this poll to express support or opposition to creating multiple oracles that will be used by dYdX on Starkware. Below is a list of each oracle, which can also be found in [MIP10c9-SP21](https://forum.makerdao.com/t/mip10c3-sp21-subproposal-to-create-oracles-for-dydx-on-starkware/6238):
+* DOT/USD 
+* SNX/USD
+* FIL/USD
+* ZEC/USD
+* CRV/USD
+* WNXM/USD
+* XRP/USD
+* SOL/USD
+* AVAX/USD
+* XTZ/USD
+* BTC/USD
+* ETH/USD
+* LINK/USD
+* YFI/USD
+* UNI/USD
+* COMP/USD
+* AAVE/USD
 
+DYdX does not require an oracle on the Ethereum network, and as such no medianizer and OSM smart contracts will be deployed on Ethereum as part of this subproposal.
 
-Please review the application threads to inform your position on this issue before voting.
+Please review the application [thread](https://forum.makerdao.com/t/mip10c2-sp-dydx-starkware-oracle-requests/5413) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These oracles will be setup and become operational within 30 days of this poll passing, absent external factors.
+* No changes are required to be included in an executive vote as a result of this poll.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
 
