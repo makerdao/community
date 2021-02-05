@@ -1,5 +1,5 @@
 ---
-title: Interim DAO Budget - February 1, 2021
+title: Interim DAO Budget - February 8, 2021
 summary: Signal your support or opposition to the Interim DAO Budget proposal in this poll.
 discussion_link: https://forum.makerdao.com/t/rates-changes-proposal-6-jan-2021/5948
 vote_type: Plurality Voting
@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 ---
-# Interim DAO Budget - February 1, 2021
+# Interim DAO Budget - February 8, 2021
 
-The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the DAO Autonomous Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 1 at 16:00 UTC.
+The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the DAO Autonomous Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 8 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
@@ -22,19 +22,21 @@ The DAO Autonomous Group has been growing a lot since its inception. We now have
 
 The DAO Autonomous Group proposes setting up a 4-of-5 Gnosis multi-sig wallet owned by all mandated domain facilitators who opt-in. This will initially consist of the following mandated actors:
 
- * @LongForWisdom
- * @Primoz
- * @SebVentures
- * @juanjuan
- * @hexonaut
+ * @LongForWisdom - 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69
+ * @Primoz - 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c
+ * @SebVentures - 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b
+ * @juanjuan - 0xFCa6e196c2ad557E64D9397e283C2AFe57344b75
+ * @hexonaut - 0x18CaE82909C31b60Fe0A9656D76406345C9cb9FB
+
+The multi-sig wallet can be found [here](https://etherscan.io/address/XXX).
 
 Governance will have full administrative access to the multi-sig, so as to provide a safety mechanism for lost keys.
 
-As of this poll 50,292.25 will be used to cover previous expenses:
+As of this poll 52,567.15 will be used to cover previous expenses:
 
-Quantstamp Audit: 40,000
-PSM / DssGovRewards Development Time: 9160.80
-Deployment Gas Cost: 1131.45
+Quantstamp Audit: 40,000.00
+PSM / DssGovRewards Development Time: 11,435.70
+Deployment Gas Cost: 1,131.45
 
 These expenses and any additional will be cateloged in a publically accessible document. The remaining amount will be used to cover ongoing community development on things such as DssGovRewards and anything else the Foundation grants program cannot cover.
 
