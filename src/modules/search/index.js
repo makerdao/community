@@ -216,6 +216,7 @@ export default function Search({ onClick, ...otherProps }) {
           minHeight: 4,
           borderRadius: "roundish",
           overflow: "hidden",
+          pointerEvents: query.length > 0 && focus ? 'all' : 'none'
         }}
       >
         <Box

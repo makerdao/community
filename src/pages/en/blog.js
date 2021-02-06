@@ -8,9 +8,10 @@ import { useNavigate } from '@reach/router';
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 import {Button, Select} from '@modules/ui';
-import {Link} from '@modules/navigation';
+import {Link, MobileNav} from '@modules/navigation';
 import {BlogCard, BlogResult} from '@modules/blog'
 import { useTranslation } from "@modules/localization";
+import {getBlogPostTypeFromPath} from '@utils'
 
 const postsPerPage = 4;
 
@@ -19,22 +20,23 @@ const BlogHome = ({data}) => {
 	const { t, locale } = useTranslation();
 	const navigate = useNavigate();
 
+
 	const initialSection = queryString.parse(search).section || null;
-	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => node.frontmatter.type).filter((value, index, self) => self.indexOf(value) === index))
+	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath)).filter((value, index, self) => self.indexOf(value) === index))
 	const  initialSectionExists = types.length > 0 ? types.indexOf(initialSection) !== -1 : false; //NOTE(Rejon): Checks if the section provided in query string actually exists. 
 		
 	const latestPosts = initialSection !== null && initialSectionExists ? 
-						data.allMdx.edges.filter(({node}) => node.frontmatter.type === initialSection).slice(0,3) 
+						data.allMdx.edges.filter(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath) === initialSection).slice(0,3) 
 						: 
 						(types.length > 0 ?
-							types.map((type) => data.allMdx.edges.find(({node}, index) => node.frontmatter.type === type))
+							types.map((type) => data.allMdx.edges.find(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath) === type))
 							:
 							data.allMdx.edges.slice(0,3)	
 						);
 
 	const [sectionData, setSectionData] = useState({
 		type: initialSectionExists ? initialSection : null, 
-		allPosts: initialSection !== null && initialSectionExists ?  data.allMdx.edges.filter(({node}) => node.frontmatter.type === initialSection) : data.allMdx.edges.filter(({node}) => latestPosts.find((fNode) => node.id === fNode.node.id) === undefined),
+		allPosts: initialSection !== null && initialSectionExists ?  data.allMdx.edges.filter(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath) === initialSection) : data.allMdx.edges.filter(({node}) => latestPosts.find((fNode) => node.id === fNode.node.id) === undefined),
 		latestPosts,
 		currentPage: 0
 	})
@@ -59,11 +61,17 @@ const BlogHome = ({data}) => {
 		navigate(value);
 	}
 
-	//Update the data and local type if we click one of the category tags
+	
 	useEffect(() => {
+		//Update the data and local type if we click one of the category tags via link
 		if (initialSection !== null && sectionData.type !== initialSection)
 		{
 			setBlogCategory(initialSection)
+		}
+		//If we go back to the blog index page without query params, but our state isn't up to spec, update it. 
+		else if (initialSection === null && sectionData.type !== null) 
+		{
+			setBlogCategory(null);
 		}
 	}, [initialSection])
 
@@ -78,7 +86,7 @@ const BlogHome = ({data}) => {
 		{
 			latestPosts = types.length > 0 ?
 						types.map((type) => allPosts.find(({node}, index) => {
-							const hasType = node.frontmatter.type === type; 
+							const hasType = getBlogPostTypeFromPath(node.fileAbsolutePath) === type; 
 
 							if (hasType)
 							{
@@ -93,7 +101,7 @@ const BlogHome = ({data}) => {
 		}
 		else 
 		{
-			allPosts = data.allMdx.edges.filter(({node}) => node.frontmatter.type === cat); //allBlogPosts of a specific type
+			allPosts = data.allMdx.edges.filter(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath) === cat); //allBlogPosts of a specific type
 			latestPosts = allPosts.splice(0, 3);
 		}
 
@@ -139,7 +147,7 @@ const BlogHome = ({data}) => {
 			
 			
 			<h1 sx={{
-				mt: 0,
+				mt: [4, 4,0],
 				fontWeight: 500,
 				fontSize: '48px',
 				mb: ['66px', '50px', '50px'],
@@ -215,7 +223,7 @@ const BlogHome = ({data}) => {
 					)}
 				</Flex>
 				
-				<div sx={{pt: '24px', display:  ['none', 'none', 'initial']}}>
+				<div sx={{pt: '24px', ml:'12.3%', display:  ['none', 'none', 'initial']}}>
 					<p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
 
 					<ul sx={{
@@ -236,7 +244,7 @@ const BlogHome = ({data}) => {
 				&&
 				<div sx={{mb: ['50px', '50px', '114px']}}>
 
-					<Button outline icon="plus" onClick={() => {
+					<Button outline icon="plus" sx={{mr: 0}} onClick={() => {
 						setSectionData({
 							...sectionData,
 							currentPage: sectionData.currentPage + 1
@@ -248,6 +256,7 @@ const BlogHome = ({data}) => {
 					</Button>
 				</div>
 			}
+			<MobileNav blogData={types} />
 		</Flex>
 	)
 }
@@ -260,7 +269,6 @@ const BlogHome = ({data}) => {
 				fileAbsolutePath
 				excerpt(truncate: true, pruneLength: 200)
 				frontmatter {
-				type
 				title
 				date(formatString: "MMMM DD, YYYY", locale: $locale)
 				description
