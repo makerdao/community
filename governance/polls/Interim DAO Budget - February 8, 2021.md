@@ -32,11 +32,11 @@ The multi-sig wallet can be found [here](https://etherscan.io/address/0x73f09254
 
 Governance will have full administrative access to the multi-sig, so as to provide a safety mechanism for lost keys.
 
-As of this poll 52,567.15 will be used to cover previous expenses:
+As of this poll 52,627.15 will be used to cover previous expenses:
 
 Quantstamp Audit: 40,000.00
 PSM / DssGovRewards Development Time: 11,435.70
-Deployment Gas Cost: 1,131.45
+Deployment Gas Cost: 1,191.45
 
 These expenses and any additional will be cateloged in a publically accessible document. The remaining amount will be used to cover ongoing community development on things such as DssGovRewards and anything else the Foundation grants program cannot cover.
 
