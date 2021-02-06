@@ -28,7 +28,7 @@ The DAO Autonomous Group proposes setting up a 4-of-5 Gnosis multi-sig wallet ow
  * @juanjuan - 0xFCa6e196c2ad557E64D9397e283C2AFe57344b75
  * @hexonaut - 0x18CaE82909C31b60Fe0A9656D76406345C9cb9FB
 
-The multi-sig wallet can be found [here](https://etherscan.io/address/XXX).
+The multi-sig wallet can be found [here](https://etherscan.io/address/0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff#code).
 
 Governance will have full administrative access to the multi-sig, so as to provide a safety mechanism for lost keys.
 
