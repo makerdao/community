@@ -1,26 +1,63 @@
+/** @jsx jsx */
 import React from 'react';
-import {BlogAuthor} from '@modules/blog';
+import { jsx, Box, Flex, useColorMode } from "theme-ui";
+import { graphql, useStaticQuery } from "gatsby";
+
+import {BlogAuthor, BlogCard} from '@modules/blog';
 import { SEO } from "@modules/utility";
+import { console } from 'window-or-global';
 
 ///MDX Layout for POSTs
-export default ({children, pageContext}) => {
-
+export default (props) => {
+	const {children, pageContext} = props;
 	const {
 		title,
 		description,
 		keywords, //<- Seo
 		authors, 
 		date, 
-		recommendations, //<- Links to other blogs TODO(Rejon): I'm thinking of fetching blog posts based on their slugs using lunr
+		recommend, //<- Links to other blogs TODO(Rejon): I'm thinking of fetching blog posts based on their slugs using lunr
 	} = pageContext.frontmatter;
+
+	const {allMdx} = useStaticQuery(graphql`
+		query allBlogPosts {
+			#Regex for all blog posts
+			allMdx(
+				filter: {
+					fileAbsolutePath: {
+						regex: "//blogPosts/"
+					}
+				}
+			)
+			{
+				edges {
+						node {
+							fileAbsolutePath
+							excerpt(truncate: true, pruneLength: 200)
+							frontmatter {
+								title
+								date(formatString: "MM/DD/YYYY")
+								description
+								authors
+							}
+							mdxAST
+							id
+						}
+					}
+				}
+			}
+	`)
+
+	const otherPosts = recommend?.map((rec) => {
+		return allMdx.edges.filter((({node}) => node.fileAbsolutePath.includes(rec)))[0]
+	})
+	
 	
 	const seo = {
 		title, 
 		description, 
 		keywords
 	};
-
-	console.log(pageContext)
 
 	return (
 		<div>
@@ -37,17 +74,22 @@ export default ({children, pageContext}) => {
 					<BlogAuthor author={authors} isContributors/>
 				</div>
 			}
-			{recommendations &&
+			{(otherPosts && otherPosts.length > 0) &&
 				<div>
-					<h3> Read More </h3>
-					{/* TODO(Rejon): Figure out data for fetching recommendations */}
-					<ul>
-						<li>
-							<BlogCard isLatest post={{type: 'governance'}} />
-							<BlogCard isLatest post={{type: 'governance'}} />
-							<BlogCard isLatest post={{type: 'governance'}} />
-						</li>
-					</ul>
+					<h2 sx={{mb: '66px'}}> Read More </h2>
+					<Flex sx={{
+							justifyContent: 'start',
+							width: '100%',
+							mb: [0, '80px', '80px'],
+							flexDirection: ['column', 'row', 'row'],
+							'& > *:not(:last-child)': {
+								mr: '96px'
+							},
+						}}>
+							{otherPosts.map(({node}, index) => (
+								<BlogCard {...node} key={`blog-recommendation-${index}`} />
+							))}
+					</Flex>
 				</div>
 			}
 		</div>

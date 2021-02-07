@@ -419,6 +419,37 @@ const MobileNav = ({ sidenavData, blogData }) => {
                       mb: "33px",
                     }}
                   >
+                  <Link
+                      to={`/${locale}/blog/`}
+                      sx={{
+                        py: "2vh",
+                        textDecoration: "none",
+                        color: "onBackgroundAlt",
+                        position: "relative",
+                        fontWeight: "normal",
+                        px: [3, "30px", null],
+                        "&:hover": {
+                          textDecoration: "none",
+                        },
+                      }}
+                      onClick={hideMobileMenu}
+                      key={`mobile-nav-header-link-blog-home`}
+                      hideExternalIcon
+                    >
+                      {t('Home')}
+                      <Icon
+                        name={
+                          "chevron_right"
+                        }
+                        size={"3.9vw"}
+                        sx={{
+                          position: "absolute",
+                          right: 4,
+                          top: "50%",
+                          transform: "translateY(-50%)",
+                        }}
+                      />
+                    </Link>
                   {blogData.map((section, index) => (
                     <Link
                       to={`/${locale}/blog?section=${section}`}
@@ -434,7 +465,7 @@ const MobileNav = ({ sidenavData, blogData }) => {
                         },
                       }}
                       onClick={hideMobileMenu}
-                      key={`mobile-nav-header-link-${index}`}
+                      key={`mobile-nav-header-link-blog-${index}`}
                       hideExternalIcon
                     >
                       {section}

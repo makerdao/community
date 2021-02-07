@@ -185,6 +185,7 @@ const BlogHome = ({data}) => {
 						cursor: 'pointer',
 						transition: 'all .16s',
 						fontWeight:  400,
+						textTransform: 'capitalize',
 						'&:hover':  {
 							color: 'linkAlt'
 						}
@@ -273,7 +274,6 @@ const BlogHome = ({data}) => {
 				date(formatString: "MMMM DD, YYYY", locale: $locale)
 				description
 				authors
-				
 				}
 				mdxAST
 				id
