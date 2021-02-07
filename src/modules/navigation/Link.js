@@ -61,11 +61,11 @@ const Link = ({
   // This assumes that any internal link (intended for Gatsby)
   // will start with exactly one slash, and that anything else is external.
   const internal = /^\/(?!\/)/.test(linkHref);
+  
 
   // Use Gatsby Link for internal links, and <a> for others
   if (internal) {
     const hasLocale = /^\/([\w]{2})\//.test(linkHref);
-
     //If it doesn't have the locale specified use the current locale.
     //NOTE(Réjon): While I could also check if it has a locale and if it exists,
     //             I think it could mess with the expectations of how links work.

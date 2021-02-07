@@ -3,12 +3,15 @@ title: Rates Proposal - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
+   - Rates
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll:Rates Proposal - $date_MONTH_DD,_YYYY
+# Poll: Rates Proposal - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Rates Working Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -40,6 +43,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

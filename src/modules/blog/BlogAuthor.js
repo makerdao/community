@@ -61,9 +61,10 @@ export default function BlogAuthor({
           <Image
             src={authorToRender.avatar_url}
             sx={{
-              width: 60,
-              height: 60,
-              borderRadius: 99999,
+              width: 64,
+              height: 64,
+              borderRadius: "100%",
+              display: "inline-block",
             }}
           />
         </Box>
@@ -71,10 +72,12 @@ export default function BlogAuthor({
 
       <Box>
         <Flex sx={{ flexDirection: "column" }}>
-          <Box sx={{ pl: 2 }}>{authorToRender.name}</Box>
+          <Box sx={{ pl: 2 }}>
+            <Text sx={{ fontWeight: 400 }}>{authorToRender.name}</Text>
+          </Box>
           {date ? (
             <Box sx={{ pl: 2 }}>
-              <Text sx={{ color: "muted" }}>
+              <Text sx={{ color: "mutedAlt", fontWeight: 400 }}>
                 {format(new Date(date), "MMMM d, yyyy")}
               </Text>
             </Box>

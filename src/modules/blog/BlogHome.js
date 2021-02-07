@@ -1,4 +1,5 @@
 import React from 'react'
+import {graphql} from 'gatsby'
 
 import {Button} from '@modules/ui';
 import {Link} from '@modules/navigation';
@@ -65,5 +66,7 @@ const BlogHome = () => {
 		</div>
 	)
 }
+
+// export const query = graphql``
 
 export default BlogHome; 
