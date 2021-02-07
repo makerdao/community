@@ -201,33 +201,6 @@ exports.onCreatePage = async ({ page, actions }) => {
     oldPageContext.regex =`//blogPosts/${page.path.split('/')[1]}/` //ie. /blogPosts/en
   }
 
-  //NOTE(Rejon): Check for a blog post page (not home page) and provide recommendation regex. 
-  if (page.path.includes("/blog/") && page.componentPath.includes("/blogPosts/") && oldPageContext.frontmatter !== undefined)
-  {
-    const recommandations = oldPageContext.frontmatter?.recommend;
-      if (Array.isArray(recommandations))
-      {
-        oldPageContext.recommendationRegex = `/`;
-        
-        recommandations.map((rec, index) => {
-          oldPageContext.recommendationRegex += `(/blogPosts/${page.path.split('/')[1]}/blog${rec}.mdx)`
-
-          if (index !== recommandations.length - 1)
-          {
-            oldPageContext.recommendationRegex += '|'
-          }
-          else 
-          {
-            oldPageContext.recommendationRegex += '/gm'
-          }
-        })
-      }
-      else if (typeof recommandations === 'string')
-      {
-        oldPageContext.recommendationRegex = `/(/blogPosts/${page.path.split('/')[1]}/blog${recommandations}.mdx)`;
-      }
-  }
-
   deletePage(page);
   createPage({
     ...page,
