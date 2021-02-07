@@ -19,8 +19,9 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-theme-ui",
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-catch-links`,
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-flow",
     {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."
       resolve: `gatsby-plugin-alias-imports`,
@@ -123,7 +124,9 @@ module.exports = {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
           default: require.resolve("./src/modules/layouts/default_layout.js"),
-          blogPosts: require.resolve("./src/modules/layouts/blogPost_layout.js")
+          blogPosts: require.resolve(
+            "./src/modules/layouts/blogPost_layout.js"
+          ),
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [

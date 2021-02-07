@@ -1,56 +1,96 @@
-import React from 'react';
-import {BlogAuthor} from '@modules/blog';
+/** @jsx jsx */
+
+import React, { Fragment } from "react";
+import { BlogAuthor, BlogContributors } from "@modules/blog";
+import { Divider } from "@modules/ui";
 import { SEO } from "@modules/utility";
+import { Heading } from "@modules/ui/heading";
+import { Box, Flex, jsx } from "theme-ui";
 
 ///MDX Layout for POSTs
-export default ({children, pageContext}) => {
+export default ({ children, pageContext }) => {
+  const {
+    title,
+    description,
+    keywords, //<- Seo
+    authors,
+    contributors,
+    date,
+    recommendations, //<- Links to other blogs TODO(Rejon): I'm thinking of fetching blog posts based on their slugs using lunr
+  } = pageContext.frontmatter;
 
-	const {
-		title,
-		description,
-		keywords, //<- Seo
-		authors, 
-		date, 
-		recommendations, //<- Links to other blogs TODO(Rejon): I'm thinking of fetching blog posts based on their slugs using lunr
-	} = pageContext.frontmatter;
-	
-	const seo = {
-		title, 
-		description, 
-		keywords
-	};
+  const seo = {
+    title,
+    description,
+    keywords,
+  };
 
-	console.log(pageContext)
+  return (
+    <Flex sx={{ flexDirection: "column" }}>
+      <ContentBlock>
+        <SEO {...seo} />
 
-	return (
-		<div>
-			<SEO {...seo} />
-			<h1>{title}</h1>
-			{authors && <BlogAuthor author={authors} date={date}/>}
-			<div>
-				{children}
-			</div>
-			{authors && (Array.isArray(authors) && authors.length > 1) &&
-				<div>
-					<h3> Contributors </h3>
-					<p> This article is possible with a little help from friends.</p>
-					<BlogAuthor author={authors} isContributors/>
-				</div>
-			}
-			{recommendations &&
-				<div>
-					<h3> Read More </h3>
-					{/* TODO(Rejon): Figure out data for fetching recommendations */}
-					<ul>
-						<li>
-							<BlogCard isLatest post={{type: 'governance'}} />
-							<BlogCard isLatest post={{type: 'governance'}} />
-							<BlogCard isLatest post={{type: 'governance'}} />
-						</li>
-					</ul>
-				</div>
-			}
-		</div>
-	)
+        <Heading level={1}>{title}</Heading>
 
+        {authors ? (
+          <BlogAuthor sx={{ mb: "16px" }} authors={authors} date={date} />
+        ) : null}
+
+        {children}
+      </ContentBlock>
+
+      {contributors ? (
+        <Box sx={{ pl: [4, 4, "64px"], pr: [4, 4, 0], mt: 2, mb: 2 }}>
+          <Divider />
+        </Box>
+      ) : null}
+
+      {contributors ? (
+        <ContentBlock>
+          <h2> Contributors </h2>
+          <p>This article is possible with a little help from friends.</p>
+          <BlogContributors contributors={contributors} />
+        </ContentBlock>
+      ) : null}
+
+      {recommendations ? (
+        <Box sx={{ pl: [4, 4, "64px"], pr: [4, 4, 0], mt: 4, mb: 2 }}>
+          <Divider />
+        </Box>
+      ) : null}
+
+      {recommendations ? (
+        <ContentBlock>
+          <h2>Read More</h2>
+          {/* TODO(Rejon): Figure out data for fetching recommendations */}
+          <ul>
+            <li>
+              {/* <BlogCard isLatest post={{ type: "governance" }} />
+            <BlogCard isLatest post={{ type: "governance" }} />
+            <BlogCard isLatest post={{ type: "governance" }} /> */}
+            </li>
+          </ul>
+        </ContentBlock>
+      ) : null}
+    </Flex>
+  );
+};
+
+function ContentBlock({ children }) {
+  return (
+    <Box
+      as="post"
+      sx={{
+        width: ["100%", "100%", "80%"],
+        m: "0 auto",
+        mt: [2, 2, 2],
+        mb: [2, 2, 2],
+        pl: [4, 4, "64px"],
+        pr: [4, 4, 0],
+        position: "relative",
+      }}
+    >
+      {children}
+    </Box>
+  );
 }
