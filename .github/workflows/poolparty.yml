@@ -34,9 +34,10 @@ jobs:
       run: | 
         yarn lint
     
-    - name: Check types
-      run: |
-        yarn flow check
+    # Uncomment when 1049 is merged
+    # - name: Check types
+    #   run: |
+    #     yarn flow check
         
     - name: Making your code pretty. 
       run: | 
