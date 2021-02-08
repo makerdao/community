@@ -1,3 +1,8 @@
+---
+title: Module - Peg Stability Module
+keywords: "peg stability module, psm, dsspsm, stability"
+---
+
 # Peg Stability Module
 
 ```
