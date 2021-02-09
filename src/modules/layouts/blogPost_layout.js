@@ -122,8 +122,8 @@ function ContentBlock({ children }) {
       sx={{
         width: ["100%", "100%", "80%"],
         m: "0 auto",
-        mt: [2, 2, 2],
-        mb: [2, 2, 2],
+        mt: [2, 4, 4],
+        mb: [2, 4, 4],
         pl: [4, 4, "64px"],
         pr: [4, 4, 0],
         position: "relative",
