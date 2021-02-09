@@ -5,7 +5,7 @@ import isNil from "lodash/isNil";
 import { Link } from "@modules/navigation";
 
 import { BlogAuthor } from "@modules/blog";
-import { UrlConverter } from "@utils";
+import { UrlConverter, getBlogPostTypeFromPath } from "@utils";
 import { useTranslation } from "@modules/localization";
 
 const BlogCard = ({
@@ -17,7 +17,8 @@ const BlogCard = ({
 }) => {
   const { t } = useTranslation();
 
-  const { authors, date, description, title, type } = frontmatter;
+  const { authors, date, description, title } = frontmatter;
+  const type = getBlogPostTypeFromPath(fileAbsolutePath);
   let postImage = null;
   const postLink = fileAbsolutePath
     .slice(
@@ -41,7 +42,7 @@ const BlogCard = ({
   return (
     <div
       sx={{
-        maxWidth: "286px",
+        maxWidth: ["unset", "unset", "286px"],
         width: "100%",
         px: 2,
         borderBottom: ["1px solid", "unset", "unset"],
@@ -76,7 +77,7 @@ const BlogCard = ({
           <img
             src={postImage}
             sx={{
-              maxWidth: "288px",
+              maxWidth: ["unset", "unset", "288px"],
               width: "100%",
               height: "188px",
               objectFit: "cover",
@@ -90,7 +91,7 @@ const BlogCard = ({
         sx={{
           mb: "26px",
           fontWeight: 500,
-          fontSize: 6,
+          fontSize: [6],
           color: "text",
           display: "block",
         }}

@@ -198,7 +198,7 @@ exports.onCreatePage = async ({ page, actions }) => {
   //NOTE(Rejon): Pass a regex string variable for blog home pages so we can make sure we're getting the correct locale. 
   if (page.path.includes("/blog/") && !page.componentPath.includes("/blogPosts/"))
   {
-    oldPageContext.regex =`//blogPosts/${page.path.split('/')[1]}/`
+    oldPageContext.regex =`//blogPosts/${page.path.split('/')[1]}/` //ie. /blogPosts/en
   }
 
   deletePage(page);
