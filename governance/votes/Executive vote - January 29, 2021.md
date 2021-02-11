@@ -1,36 +1,31 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+title: Template - [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 29, 2021
 
 ---
-## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+## [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 29, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
-### $executive_entry_1
+### Activate Debt Ceiling Instant Access Module for ETH-A
 
-$executive_entry_description_1
+Due to the recent usage of the ETH-A vault type and the need to frequently increase the Debt Ceiling, ETH-A is proposed to be added to the Debt Ceiling Instant Access Module (DC-IAM) as described [here](https://forum.makerdao.com/t/iam-dc-eth-a-parameters-27th-jan-2021/6235). If this proposal passes, the DC-IAM will be activated for ETH-A with the following parameters:
 
-### $executive_entry_2
+* Maximum Debt Ceiling (`line`): 1.5 billion DAI
+* Target Available Debt (`gap`): 30 million DAI
+* Ceiling Increase Cooldown (`ttl`): 12 hours
 
-$executive_entry_description_3
+This proposal ties in with this ongoing [signal request](https://forum.makerdao.com/t/signal-request-adjust-eth-a-debt-ceiling-2021-03/6187) to adjust the ETH-A Debt Ceiling in the face of a continued increase in demand for the ETH-A vault-type.
 
-### $executive_entry_3
-
-$executive_entry_description_3
+Documentation covering the Debt Ceiling Instant Access Module can be found [here](https://community-development.makerdao.com/en/learn/governance/module-dciam).
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+* The DC-IAM will be activated for ETH-A with the parameters listed above.
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
 
 If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass. 
-
-$OfficeHours? Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
 
 ## Review
 
