@@ -12,7 +12,7 @@ options:
 ---
 # Poll: Set COMP-A Debt Ceiling Instant Access Module Parameters - February 8, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for AAVE-A with the listed parameters.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for COMP-A with the listed parameters.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 8 at 16:00 UTC.
 
