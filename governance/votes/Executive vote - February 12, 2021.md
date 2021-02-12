@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] UNI LPT Onboarding, Rates Updates, Other Changes - February 12, 2021
+title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs, Rates Updates, Other Changes - February 12, 2021
 
 ---
-## [Executive Vote] UNI LPT Onboarding, Rates Updates, Other Changes - February 12, 2021
+## [Executive Vote] Onboarding Uniswap V2 LPTs, Rates Updates, Other Changes - February 12, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
