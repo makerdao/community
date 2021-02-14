@@ -10,7 +10,7 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
----   
+---
 # Poll: Community Greenlight Poll - REINNO (REINNO Stablecoin) - February 15, 2021
 
 ## Description
@@ -21,7 +21,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset REINNO (REINNO Stablecoin) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset REINNO (REINNO Stablecoin) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). This is the second greenlight poll run for the REINNO (REINNO Stablecoin) asset, allowed due to resubmission of a revised application with significant differences from the original application.
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/reinno-mip6-collateral-onboarding-application-new/6218) to inform your position before voting.
 
@@ -29,7 +29,7 @@ Please review the collateral onboarding application [thread](https://forum.maker
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
 * The 'greenlight score' will be calculated for REINNO (REINNO Stablecoin) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for REINNO (REINNO Stablecoin) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+* The current 'greenlight score' for REINNO (REINNO Stablecoin) will be replaced with the new value on the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
 * The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 

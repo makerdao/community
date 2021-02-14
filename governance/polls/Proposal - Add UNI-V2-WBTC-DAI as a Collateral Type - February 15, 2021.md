@@ -23,7 +23,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 3%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 125%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 10 million DAI
+* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
 * Auction Lot Size: 50,000 DAI
 * Minimum Bid Increment: 3%
 * Bid Duration: 6 hours
