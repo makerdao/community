@@ -21,7 +21,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset SB-LDB (SolidBlock London Digital Bonds) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset SB-LDB (SolidBlock London Digital Bonds) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/sb-ldb-mip6-application-solidblock-democratizes-real-estate-with-london-digital-bonds-a-smart-tradable-property-investment/6276) to inform your position before voting.
 
