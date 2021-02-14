@@ -21,7 +21,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset FFT1-DROP (Fortunafi DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset FFT1-DROP (Fortunafi DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/fft1-drop-mip6-application-fortunafi-drop-revenue-based-financing-assets/6015) to inform your position before voting.
 
