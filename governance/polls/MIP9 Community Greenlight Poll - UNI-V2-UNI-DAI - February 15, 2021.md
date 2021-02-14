@@ -1,7 +1,7 @@
 ---
-title: Community Greenlight Poll - UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token) - February 15, 2021
-summary: Signal your support or opposition to prioritising onboarding UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token). 
-discussion_link: https://forum.makerdao.com/t/uni-v2-dai-uni-mip6-collateral-onboarding-application/6059
+title: Community Greenlight Poll - UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token) - February 15, 2021
+summary: Signal your support or opposition to prioritising onboarding UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token). 
+discussion_link: https://forum.makerdao.com/t/uni-v2-uni-dai-mip6-collateral-onboarding-application/6059
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -11,7 +11,7 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---   
-# Poll: Community Greenlight Poll - UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token)- February 15, 2021
+# Poll: Community Greenlight Poll - UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token)- February 15, 2021
 
 ## Description
 
@@ -21,15 +21,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
-Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/uni-v2-dai-uni-mip6-collateral-onboarding-application/6059) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/uni-v2-uni-dai-mip6-collateral-onboarding-application/6059) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for UNI-V2-DAI-UNI (UniswapV2 DAI-UNI Liquidity Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+* The 'greenlight score' will be calculated for UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for UNI-V2-UNI-DAI (UniswapV2 UNI-DAI Liquidity Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
 * The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 

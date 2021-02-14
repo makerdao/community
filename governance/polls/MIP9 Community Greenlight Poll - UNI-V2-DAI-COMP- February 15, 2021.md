@@ -10,7 +10,7 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
----   
+---
 # Poll: Community Greenlight Poll - UNI-V2-DAI-COMP (UniswapV2 DAI-COMP Liquidity Token) - February 15, 2021
 
 ## Description

@@ -2,14 +2,14 @@
 title: Increase the System Surplus Buffer - February 15, 2021
 summary: Signal your support or opposition for adjusting the Surplus Buffer 
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-2021-2/6250/1
-vote_type: Ranked Choice IRV	
+vote_type: Ranked Choice IRV
 categories:
    - Risk Variable
 options:
    0: Abstain
-   1: 10 MM (no change)
-   2: 20 MM (+10 MM)
-   3: 30 MM (+20 MM)
+   1: 10 million DAI (no change)
+   2: 20 million DAI (+10M)
+   3: 30 million DAI (+20M)
 ---
 # Poll: Increase the System Surplus Buffer - February 15, 2021
 
@@ -20,18 +20,16 @@ The Governance Facilitator(s) have placed a Governance Poll into the voting syst
 # Review
 
 MKR Token Holders may vote in this poll to keep or adjust the  [System Surplus Buffer](https://community-development.makerdao.com/en/learn/governance/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
-
-* 10 MM (no change)
-* 20 MM (+10 MM)
-* 30 MM (+20 MM)
+* 10 million DAI (no change)
+* 20 million DAI (+10 MM)
+* 30 million DAI (+20 MM)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-2021-2/6250) to inform your position on this issue before voting.
 
 # Outcomes
 
-**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast then the following actions will be taken:**
-
-* If the result is changing the current setting, the change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
+* If the result requires a change to the current setting, the change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **Otherwise, no further actions will be taken at this time.**
