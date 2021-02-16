@@ -33,6 +33,11 @@ jobs:
     - name: Run ESLint 
       run: | 
         yarn lint
+    
+    # Uncomment when 1049 is merged
+    # - name: Check types
+    #   run: |
+    #     yarn flow check
         
     - name: Making your code pretty. 
       run: | 

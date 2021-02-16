@@ -13,4 +13,5 @@ export { default as Accordion } from "./Accordion";
 export { default as Checklist } from "./Checklist";
 export { default as Column } from "./Column";
 export { default as Code } from "./Code";
-export {default as  Select} from './Select'
+export { default as Divider } from "./Divider";
+export { default as Select } from "./Select";
