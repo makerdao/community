@@ -271,6 +271,7 @@ const BlogHome = ({data}) => {
 				excerpt(truncate: true, pruneLength: 200)
 				frontmatter {
 				title
+				image
 				date(formatString: "MMMM DD, YYYY", locale: $locale)
 				description
 				authors

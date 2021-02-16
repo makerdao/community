@@ -7,19 +7,18 @@ import { Link } from "@modules/navigation";
 import { BlogAuthor } from "@modules/blog";
 import { UrlConverter, getBlogPostTypeFromPath } from "@utils";
 import { useTranslation } from "@modules/localization";
+import { console } from "window-or-global";
 
 const BlogCard = ({
   excerpt,
   fileAbsolutePath,
   frontmatter,
-  mdxAST,
   isLatest,
 }) => {
   const { t } = useTranslation();
 
-  const { authors, date, description, title } = frontmatter;
+  const { authors, date, description, image, title } = frontmatter;
   const type = getBlogPostTypeFromPath(fileAbsolutePath);
-  let postImage = null;
   const postLink = fileAbsolutePath
     .slice(
       fileAbsolutePath.indexOf("/blogPosts/") + 10,
@@ -27,18 +26,24 @@ const BlogCard = ({
     )
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
 
-  //Grab the first image from the mdx file and use it for the featured image.
-  if (mdxAST && mdxAST.children.length > 0) {
-    if (
-      mdxAST.children[0].type === "paragraph" &&
-      mdxAST.children[0].children[0].type === "image"
-    ) {
-      postImage = mdxAST.children[0].children[0].url;
-    } else if (mdxAST.children[0].type === "image") {
-      postImage = mdxAST.children[0].url;
-    }
-  }
+    //Split absolute path up to blog, get directory AFTER blog. 
+    let postType = null;
 
+    const pagePathSplit = postLink.split("/").splice(1, postLink.split("/").length - 1);
+    const typeIndex = pagePathSplit.indexOf("blog") + 1; 
+
+    //If the slug in the path is NOT the last slug, treat it as the post type.
+    if (typeIndex !== pagePathSplit.length - 1)
+    {
+      postType = pagePathSplit[typeIndex];
+    }
+
+    let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_01.png`;
+
+    if (typeof image === "number" && (image <= 4 && image >= 1))
+    {
+        postImage = `/images/blog_headers/${postType}_0${image}.png`;
+    }
   return (
     <div
       sx={{

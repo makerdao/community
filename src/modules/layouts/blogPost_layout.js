@@ -1,6 +1,7 @@
 /** @jsx jsx */
 
 import React, { Fragment } from "react";
+import isNil from 'lodash/isNil'
 import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
 import { Divider } from "@modules/ui";
 import { SEO } from "@modules/utility";
@@ -18,7 +19,8 @@ export default ({ children, pageContext }) => {
     authors,
     contributors,
     date,
-    recommend, //<- Links to other blogs TODO(Rejon): I'm thinking of fetching blog posts based on their slugs using lunr
+    image,
+    recommend, 
   } = pageContext.frontmatter;
 
   const { allMdx } = useStaticQuery(graphql`
@@ -34,8 +36,8 @@ export default ({ children, pageContext }) => {
               date(formatString: "MM/DD/YYYY")
               description
               authors
+              image
             }
-            mdxAST
             id
           }
         }
@@ -43,14 +45,32 @@ export default ({ children, pageContext }) => {
     }
   `);
 
-  const otherPosts = recommendations?.map((rec) => {
+  //Split absolute path up to blog, get directory AFTER blog. 
+  let postType = null;
+
+  const pagePathSplit = pageContext.pagePath.split("/").splice(1, pageContext.pagePath.split("/").length - 2);
+  const typeIndex = pagePathSplit.indexOf("blog") + 1; 
+
+  //If the slug in the path is NOT the last slug, treat it as the post type.
+  if (typeIndex !== pagePathSplit.length - 1)
+  {
+    postType = pagePathSplit[typeIndex];
+  }
+
+  let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_01.png`;
+
+  if (typeof image === "number" && (image <= 4 && image >= 1))
+  {
+      postImage = `/images/blog_headers/${postType}_0${image}.png`;
+  }
+
+  const otherPosts = recommend?.map((rec) => {
     return allMdx.edges.filter(({ node }) =>
       node.fileAbsolutePath.includes(rec)
     )[0];
   });
-
   const recommendations = otherPosts && otherPosts.length > 0;
-
+  
   const seo = {
     title,
     description,
@@ -68,7 +88,20 @@ export default ({ children, pageContext }) => {
           <BlogAuthor sx={{ mb: "16px" }} authors={authors} date={date} />
         ) : null}
 
-        {children}
+        <img src={postImage} sx={{
+          width: '100%',
+          objectFit: 'cover',
+          maxHeight: '478px',
+          mb: '48px'
+        }} />
+
+        <div sx={{
+          '& > *:first-of-type': {
+            mt: 0
+          }
+        }}>
+          {children}
+        </div>
       </ContentBlock>
 
       {contributors ? (

@@ -22,11 +22,12 @@ export default function BlogContributors({
         margin: "auto",
       }}
     >
-      {contributors.map((author) => {
+      {contributors.map((author, index) => {
         const authorData = getAuthorData(author);
 
         return (
           <Flex
+            key={`blog-contributor-${index}`}
             sx={{
               flexDirection: "column",
               alignItems: "center",
