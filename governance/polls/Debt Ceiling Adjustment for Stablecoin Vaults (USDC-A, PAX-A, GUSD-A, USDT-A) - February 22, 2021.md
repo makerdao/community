@@ -1,7 +1,7 @@
 ---
 title: Decrease the Stablecoin (USDC-A, PAX-A, GUSD-A, USDT-A) Debt Ceilings - February 22, 2021
 summary: Signal your support or opposition for adjusting the Stablecoin (USDC-A, PAX-A, GUSD-A, USDT-A) Debt Ceilings from 662.5 million DAI to 0 DAI.
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/turn-stablecoins-dc-to-0/6432
 vote_type: Plurality Voting
 categories:
    - Risk Variable
