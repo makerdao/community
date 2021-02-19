@@ -72,7 +72,7 @@ For further details and discussion around this proposed change, check the signal
 
 ### Revoke Stablecoin Permissions for Liquidations Circuit Breaker
 
-As per this forum [post]() from the MakerDAO Smart Contracts Domain Team, the Liquidations Circuit Breaker (`FlipperMom`) will no longer have permission to enable liquidations on PSM-USDC-A and UNIV2USDCDAI-A if this proposal passes. This will mean liquidations cannot be enabled for these vault-types without waiting for the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). Please see the linked thread for further details on this proposed change.
+As per this forum [post](https://forum.makerdao.com/t/limiting-governance-attack-surface-for-stablecoins/6057/7) from the MakerDAO Smart Contracts Domain Team, the Liquidations Circuit Breaker (`FlipperMom`) will no longer have permission to enable liquidations on PSM-USDC-A and UNIV2USDCDAI-A if this proposal passes. This will mean liquidations cannot be enabled for these vault-types without waiting for the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). Please see the linked thread for further details on this proposed change.
 
 ## Summary
 
