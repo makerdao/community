@@ -1,7 +1,7 @@
 ---
 title: Rates Proposal - February 22, 2021
 summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
-discussion_link: TODO
+discussion_link: https://forum.makerdao.com/t/mid-month-rates-changes-proposal-19-feb-2021/6660
 vote_type: Plurality Voting
 categories:
   - Risk Variable
@@ -27,7 +27,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 - Increase the ETH-A Stability Fee from 4.5% to 5.5%.
 - Increase the ETH-B Stability Fee from 7.5% to 9.0%.
 
-Please review the proposal [thread](TODO) to help inform your position before voting.
+Please review the proposal [thread](https://forum.makerdao.com/t/mid-month-rates-changes-proposal-19-feb-2021/6660) to help inform your position before voting.
 
 ## Outcomes
 
