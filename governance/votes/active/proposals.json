@@ -1,9 +1,9 @@
 {
-    "mainnet": [
-        "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%2012%2C%202021.md",
-     ],
-    "kovan": [
-        "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%2012%2C%202021.md",
-        "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%205%2C%202021.md"
-    ]
+  "mainnet": [
+    "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%2012%2C%202021.md"
+  ],
+  "kovan": [
+    "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%2012%2C%202021.md",
+    "https://raw.githubusercontent.com/makerdao/community/master/governance/votes/Executive%20vote%20-%20February%205%2C%202021.md"
+  ]
 }
