@@ -23,7 +23,7 @@ export default (props) => {
       allMdx(
         filter: {
           fileAbsolutePath: {
-            regex: "//([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
           }
         }
       ) {

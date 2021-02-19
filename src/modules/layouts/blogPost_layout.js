@@ -2,6 +2,7 @@
 
 import React, { Fragment } from "react";
 import isNil from 'lodash/isNil'
+import isArray from 'lodash/isArray'
 import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
 import { Divider } from "@modules/ui";
 import { SEO } from "@modules/utility";
@@ -17,16 +18,15 @@ export default ({ children, pageContext }) => {
     description,
     keywords, //<- Seo
     authors,
-    contributors,
     date,
     image,
     recommend, 
   } = pageContext.frontmatter;
 
-  const { allMdx } = useStaticQuery(graphql`
-    query allBlogPosts {
+  const { blogPosts, siteContent } = useStaticQuery(graphql`
+    query blogPostRecommendations {
       #Regex for all blog posts
-      allMdx(filter: { fileAbsolutePath: { regex: "//blogPosts/" } }) {
+      blogPosts:allMdx(filter: { fileAbsolutePath: { regex: "//blogPosts/" } }) {
         edges {
           node {
             fileAbsolutePath
@@ -42,9 +42,34 @@ export default ({ children, pageContext }) => {
           }
         }
       }
+      siteContent: allMdx(
+        filter: {
+          fileAbsolutePath: {
+            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+          }
+        }
+      ) {
+        edges {
+          node {
+            excerpt(truncate: true, pruneLength: 200)
+            headings(depth: h1) {
+              value
+            }
+            fileAbsolutePath
+            frontmatter {
+              title
+              description
+              order
+            }
+          }
+        }
+      }
     }
   `);
 
+  const hasContributors = isArray(authors) && authors.length > 1;
+  const contributors = hasContributors ? authors.slice(1, authors.length) : [];
+    
   //Split absolute path up to blog, get directory AFTER blog. 
   let postType = null;
 
@@ -64,11 +89,18 @@ export default ({ children, pageContext }) => {
       postImage = `/images/blog_headers/${postType}_0${image}.png`;
   }
 
-  const otherPosts = recommend?.map((rec) => {
-    return allMdx.edges.filter(({ node }) =>
+  const otherPosts = recommend?.map((rec) => { //Run through recommendation map for blog post recommendations
+    return blogPosts.edges.filter(({ node }) =>
       node.fileAbsolutePath.includes(rec)
     )[0];
-  });
+  }).concat(recommend?.map((rec) => { //Concat recommendations for all other site content.
+    return siteContent.edges.filter(({node}) => 
+      node.fileAbsolutePath.includes(rec)
+    )[0];
+  })).filter((el) => el !== undefined); //Filter out empty array/undefined runs of recommend. 
+
+
+
   const recommendations = otherPosts && otherPosts.length > 0;
   
   const seo = {
@@ -104,16 +136,16 @@ export default ({ children, pageContext }) => {
         </div>
       </ContentBlock>
 
-      {contributors ? (
+      {hasContributors ? (
         <Box sx={{ pl: [4, 4, "64px"], pr: [4, 4, 0], mt: 2, mb: 2 }}>
           <Divider />
         </Box>
       ) : null}
 
-      {contributors ? (
+      {hasContributors  ? (
         <ContentBlock>
-          <h2> Contributors </h2>
-          <p>This article is possible with a little help from friends.</p>
+          <h2 sx={{fontWeight: '500', fontSize: '32px'}}> Contributors </h2>
+          <p sx={{mb: '40px'}}>This article is possible with a little help from friends.</p>
           <BlogContributors contributors={contributors} />
         </ContentBlock>
       ) : null}
@@ -125,8 +157,16 @@ export default ({ children, pageContext }) => {
       ) : null}
 
       {recommendations ? (
-        <ContentBlock>
-          <h2 sx={{ mb: "66px" }}> Read More </h2>
+        <Box sx={{
+          width: ["100%", "100%", "90%"],
+          m: "0 auto",
+          mt: [2, 4, 4],
+          mb: [2, 4, 4],
+          pl: [4, 4, 0],
+          pr: [4, 4, 0],
+          position: "relative"
+        }}>
+          <h2 sx={{ mb: "66px", fontWeight: '500', fontSize: '32px' }}> Read More </h2>
           <Flex
             sx={{
               justifyContent: "start",
@@ -142,7 +182,7 @@ export default ({ children, pageContext }) => {
               <BlogCard {...node} key={`blog-recommendation-${index}`} />
             ))}
           </Flex>
-        </ContentBlock>
+        </Box>
       ) : null}
     </Flex>
   );
@@ -159,7 +199,7 @@ function ContentBlock({ children }) {
         mb: [2, 4, 4],
         pl: [4, 4, "64px"],
         pr: [4, 4, 0],
-        position: "relative",
+        position: "relative"
       }}
     >
       {children}

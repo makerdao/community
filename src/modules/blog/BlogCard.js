@@ -5,7 +5,7 @@ import isNil from "lodash/isNil";
 import { Link } from "@modules/navigation";
 
 import { BlogAuthor } from "@modules/blog";
-import { UrlConverter, getBlogPostTypeFromPath } from "@utils";
+import { UrlConverter, TitleConverter, getBlogPostTypeFromPath } from "@utils";
 import { useTranslation } from "@modules/localization";
 import { console } from "window-or-global";
 
@@ -14,17 +14,25 @@ const BlogCard = ({
   fileAbsolutePath,
   frontmatter,
   isLatest,
+  headings
 }) => {
   const { t } = useTranslation();
 
   const { authors, date, description, image, title } = frontmatter;
   const type = getBlogPostTypeFromPath(fileAbsolutePath);
-  const postLink = fileAbsolutePath
+
+  const isContent = fileAbsolutePath.indexOf('/content/') !== -1;
+
+  const postLink = isContent ?
+    UrlConverter({fileAbsolutePath})
+  : 
+  fileAbsolutePath
     .slice(
       fileAbsolutePath.indexOf("/blogPosts/") + 10,
       fileAbsolutePath.length
     )
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+
 
     //Split absolute path up to blog, get directory AFTER blog. 
     let postType = null;
@@ -43,6 +51,16 @@ const BlogCard = ({
     if (typeof image === "number" && (image <= 4 && image >= 1))
     {
         postImage = `/images/blog_headers/${postType}_0${image}.png`;
+    }
+
+    let postTitle = title; 
+
+    if (isContent)
+    {
+      //TODO(Rejon): Need to get uncatagorized images for shea to use here. 
+      postImage = "/images/blog_headers/governance_01.png" 
+      postType = null;
+      postTitle = TitleConverter({frontmatter, fileAbsolutePath, headings})
     }
   return (
     <div
