@@ -10,7 +10,7 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
----   
+---
 # Poll: Community Greenlight Poll - UNI-V2-COMP-ETH (UniswapV2 COMP-ETH Liquidity Token) - February 15, 2021
 
 ## Description
