@@ -262,8 +262,10 @@ const BlogHome = ({data}) => {
 	)
 }
 
+//NOTE(Rejon): Change the name of this query when adding new locales!!! 
+//		       ie. BlogHomeQueryEN -> BlogHomeQueryES
  export const query = graphql`
-	query BlogHomeQuery($regex: String, $locale: String) {
+	query BlogHomeQueryEN($regex: String, $locale: String) {
 		allMdx(filter: {fileAbsolutePath: {regex: $regex}}, sort: {fields: frontmatter___date, order: DESC}) {
 			edges {
 			node {

@@ -4,10 +4,11 @@ import React, { Fragment } from "react";
 import isNil from 'lodash/isNil'
 import isArray from 'lodash/isArray'
 import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
-import { Divider } from "@modules/ui";
+import { Divider, Button } from "@modules/ui";
 import { SEO } from "@modules/utility";
 import { Heading } from "@modules/ui/heading";
 import { Box, Flex, jsx } from "theme-ui";
+import { useTranslation } from "@modules/localization";
 import { graphql, useStaticQuery } from "gatsby";
 import { console } from "window-or-global";
 
@@ -22,6 +23,8 @@ export default ({ children, pageContext }) => {
     image,
     recommend, 
   } = pageContext.frontmatter;
+
+  const { t, locale, DEFAULT_LOCALE } = useTranslation();
 
   const { blogPosts, siteContent } = useStaticQuery(graphql`
     query blogPostRecommendations {
@@ -113,11 +116,12 @@ export default ({ children, pageContext }) => {
     <Flex sx={{ flexDirection: "column" }}>
       <ContentBlock>
         <SEO {...seo} />
+        <Button outline icon="chevron_left" to="/blog">{t('Back_To_Blog')}</Button>
 
         <Heading level={1}>{title}</Heading>
 
         {authors ? (
-          <BlogAuthor sx={{ mb: "16px" }} authors={authors} date={date} />
+          <BlogAuthor sx={{ mb: "16px" }} authors={authors} date={date} isDefaultLocale={true}/>
         ) : null}
 
         <img src={postImage} sx={{

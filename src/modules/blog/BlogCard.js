@@ -16,7 +16,7 @@ const BlogCard = ({
   isLatest,
   headings
 }) => {
-  const { t } = useTranslation();
+  const { t, locale, DEFAULT_LOCALE } = useTranslation();
 
   const { authors, date, description, image, title } = frontmatter;
   const type = getBlogPostTypeFromPath(fileAbsolutePath);
@@ -125,7 +125,7 @@ const BlogCard = ({
         {title}{" "}
       </Link>
 
-      {!isNil(authors) && <BlogAuthor authors={authors} date={date} />}
+      {!isNil(authors) && <BlogAuthor authors={authors} date={date} isDefaultLocale={locale === DEFAULT_LOCALE} />}
 
       <p>{description || excerpt}</p>
     </div>
