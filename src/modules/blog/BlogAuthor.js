@@ -55,14 +55,7 @@ export default function BlogAuthor({
 
   const authorToRender = getAuthorData(soleAuthor);
 
-  console.log(isDefaultLocale)
-
-  /*
-		Single Author Element
-		NOTE(Rejon): Would typically go at the top of an article,
-		or below an article title inside of an article card.
-	*/
-  return (
+  const renderObj = () => (
     <Flex {...props}>
       
         <Box>
@@ -92,5 +85,21 @@ export default function BlogAuthor({
         </Flex>
       </Box>
     </Flex>
-  );
+  )
+
+  if (authorToRender.profile)
+  {
+    return (
+      <a href={authorToRender.profile} target="_blank">
+        {renderObj}
+      </a>
+    )
+  }
+
+  /*
+		Single Author Element
+		NOTE(Rejon): Would typically go at the top of an article,
+		or below an article title inside of an article card.
+	*/
+  return renderObj;
 }
