@@ -1,7 +1,7 @@
 ---
 title: Lower PSM-USDC-A tout Parameter - February 22, 2021
 summary: Signal your support or opposition for adjusting the PSM-USDC-A tout parameter.
-discussion_link: https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-04/6332
+discussion_link: https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447
 vote_type: Ranked Choice IRV
 categories:
    - Risk Variable
