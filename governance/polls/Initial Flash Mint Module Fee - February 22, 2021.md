@@ -25,7 +25,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
-* If the result requires a change to the current setting, the ETH-A Maximum Debt Ceiling (also referred as `line`) will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+* If the result requires a change to the current setting, the Initial Flash Mint Module Fee will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **Otherwise, no further actions will be taken at this time.**
