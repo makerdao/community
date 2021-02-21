@@ -1,6 +1,6 @@
 ---
 title: Lower PSM-USDC-A tout Parameter - February 22, 2021
-summary: Signal your support or opposition for lowering the PSM-USDC-A tout parameter.
+summary: Signal your support or opposition for lowering the PSM-USDC-A tout parameter from 0.1% to 0.04%.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447
 vote_type: Plurality Voting
 categories:
@@ -18,15 +18,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 ## Review 
 
-MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter to 0.04%. For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm). 
+MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter from 0.1% to 0.04%. For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm). 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-
-* Lowering the PSM-USDC-A `tout` Parameter to 0.04% will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+* Lowering the PSM-USDC-A `tout` Parameter from 0.1% to 0.04% will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**

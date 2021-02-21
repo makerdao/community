@@ -1,7 +1,7 @@
 ---
 title: Initial Flash Mint Module Fee - February 22, 2021
 summary: Signal your support for an initial Flash Mint Module fee.
-discussion_link: https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-04/6332
+discussion_link: https://forum.makerdao.com/t/signal-request-initial-flash-mint-module-fee/6485
 vote_type: Plurality Voting
 categories:
    - Rates
@@ -25,8 +25,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **At the conclusion of this poll the following actions will be taken:**
-
-* The option with the most votes (excluding 'Abstain') will be used as the initial Flash Mint Module Fee when the Flash Mint Module is deployed.
+* The option with the most votes (excluding 'Abstain') will be used as the initial Flash Mint Module Fee when the Flash Mint Module is implemented.
 * Implementation of the Flash Mint Module will be prioritized by the Smart Contracts Domain Team against other work.
 
 ---
