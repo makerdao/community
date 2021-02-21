@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Decrease the Stablecoin Debt Ceilings - February 22, 2021
+# Poll: Decrease the Stablecoin Vault Debt Ceilings - February 22, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 22 at 16:00 UTC.
 
