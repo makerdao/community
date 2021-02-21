@@ -1,7 +1,7 @@
 ---
 title: Initial Flash Mint Module Fee - February 22, 2021
 summary: Signal your support for an initial Flash Mint Module fee.
-discussion_link: https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-04/6332
+discussion_link: https://forum.makerdao.com/t/signal-request-initial-flash-mint-module-fee/6485
 vote_type: Ranked Choice IRV
 categories:
    - Rates
