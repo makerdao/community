@@ -35,7 +35,7 @@ Please review the following forum threads containing information about UNI-V2-DA
 * [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-usdt-mip6-collateral-onboarding-application/5865)
 * [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdt-collateral-onboarding-risk-evaluation/6659)
 * [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdt-erc20-token-smart-contract-technical-assessment/6624)
-* [Oracles Evaluation]($oracles_link)
+* [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdt-collateral-onboarding-oracle-assessments-mip10c3-sp28/6674)
 
 ## Outcomes
 
