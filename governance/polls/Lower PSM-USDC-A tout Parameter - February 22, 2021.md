@@ -1,38 +1,35 @@
 ---
 title: Lower PSM-USDC-A tout Parameter - February 22, 2021
-summary: Signal your support or opposition for adjusting the PSM-USDC-A tout parameter.
+summary: Signal your support or opposition for lowering the PSM-USDC-A tout parameter.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447
-vote_type: Ranked Choice IRV
+vote_type: Plurality Voting
 categories:
    - Risk Variable
    - Rates
 options:
-   0: Abstain
-   1: 0.04%
-   2: 0.05%
-   3: 0.075%
-   4: 0.1% (No Change)
+  0: Abstain
+  1: Yes
+  2: No
 ---
 # Poll: Lower PSM-USDC-A tout Parameter - February 22, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 22 at 16:00 UTC.
 
-**This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
-
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 ## Review 
 
-MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter. 
+MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter to 0.04%. For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm). 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-* If the result requires a change to the current setting, the PSM-USDC-A `tout` Parameter will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+* Lowering the PSM-USDC-A `tout` Parameter to 0.04% will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**Otherwise, no further actions will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
