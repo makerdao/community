@@ -27,6 +27,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 **At the conclusion of this poll the following actions will be taken:**
 
 * The option with the most votes (excluding 'Abstain') will be used as the initial Flash Mint Module Fee when the Flash Mint Module is deployed.
+* Implementation of the Flash Mint Module will be prioritized by the Smart Contracts Domain Team against other work.
 
 ---
 
