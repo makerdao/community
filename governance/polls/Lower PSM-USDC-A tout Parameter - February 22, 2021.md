@@ -21,14 +21,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter. This change will aim to increase the amount of DAI -> USDC trades through the PSM as 0.1% is completely uncompetitive at current prices.
+MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
-* If the result requires a change to the current setting, the ETH-A Maximum Debt Ceiling (also referred as `line`) will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+
+* If the result requires a change to the current setting, the PSM-USDC-A `tout` Parameter will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **Otherwise, no further actions will be taken at this time.**
