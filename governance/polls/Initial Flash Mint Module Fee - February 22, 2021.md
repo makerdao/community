@@ -26,8 +26,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **At the conclusion of this poll the following actions will be taken:**
 
-* The option with the most votes (excluding 'Abstain') for the Initial Flash Mint Module Fee will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* The option with the most votes (excluding 'Abstain') will be used as the initial Flash Mint Module Fee when the Flash Mint Module is deployed.
 
 ---
 
