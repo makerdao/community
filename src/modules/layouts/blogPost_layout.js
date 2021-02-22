@@ -1,7 +1,6 @@
 /** @jsx jsx */
 
 import React, { Fragment } from "react";
-import isNil from 'lodash/isNil'
 import isArray from 'lodash/isArray'
 import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
 import { Divider, Button } from "@modules/ui";
