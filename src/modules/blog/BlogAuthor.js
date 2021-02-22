@@ -34,14 +34,12 @@ export function getAuthorData(_author: string): TAuthor {
 }
 
 type TBlogAuthorProps = {
-  isContributors?: boolean,
   date?: string,
   authors: Array<string>,
   isDefaultLocale?: boolean
 };
 
 export default function BlogAuthor({
-  isContributors = false,
   date = null,
   authors,
   isDefaultLocale,
@@ -55,7 +53,7 @@ export default function BlogAuthor({
 
   const authorToRender = getAuthorData(soleAuthor);
 
-  const renderObj = () => (
+  const renderObj = (
     <Flex {...props}>
       
         <Box>
@@ -73,7 +71,7 @@ export default function BlogAuthor({
       <Box>
         <Flex sx={{ flexDirection: "column" }}>
           <Box sx={{ pl: 2 }}>
-            <Text sx={{ fontWeight: 400 }}>{authorToRender.name}</Text>
+            <Text sx={{ fontWeight: 400, color: 'text' }}>{authorToRender.name}</Text>
           </Box>
           {date ? (
             <Box sx={{ pl: 2 }}>
@@ -90,7 +88,7 @@ export default function BlogAuthor({
   if (authorToRender.profile)
   {
     return (
-      <a href={authorToRender.profile} target="_blank">
+      <a href={authorToRender.profile} sx={{display: 'inline-block', textDecoration: 'none'}} target="_blank">
         {renderObj}
       </a>
     )
@@ -101,5 +99,9 @@ export default function BlogAuthor({
 		NOTE(Rejon): Would typically go at the top of an article,
 		or below an article title inside of an article card.
 	*/
-  return renderObj;
+  return (
+    <>
+    {renderObj}
+    </>
+  );
 }
