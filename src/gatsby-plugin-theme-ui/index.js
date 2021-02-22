@@ -556,6 +556,9 @@ export default {
     icon_outline: {
       variant: "buttons.outline",
     },
+    icon_outlineSmall: {
+      variant: "buttons.outlineSmall"
+    },
     text: {
       variant: "buttons.primary",
       fontSize: 3,

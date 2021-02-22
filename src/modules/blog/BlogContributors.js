@@ -22,11 +22,12 @@ export default function BlogContributors({
         margin: "auto",
       }}
     >
-      {contributors.map((author) => {
+      {contributors.map((author, index) => {
         const authorData = getAuthorData(author);
 
         return (
           <Flex
+            key={`blog-contributor-${index}`}
             sx={{
               flexDirection: "column",
               alignItems: "center",
@@ -38,8 +39,8 @@ export default function BlogContributors({
                 <Image
                   src={authorData.avatar_url}
                   sx={{
-                    width: 60,
-                    height: 60,
+                    width: 100,
+                    height: 100,
                     borderRadius: 99999,
                     mt: [2, "unset", "unset"],
                   }}
@@ -48,7 +49,7 @@ export default function BlogContributors({
             ) : (
               <Icon
                 name="person"
-                size={"64px"}
+                size={"100px"}
                 sx={{
                   color: "primary",
                   mt: [2, "unset", "unset"],
@@ -56,7 +57,7 @@ export default function BlogContributors({
               />
             )}
 
-            <Box>
+            <Box sx={{mt: '12px'}}>
               <Box sx={{ mb: [2, "unset", "unset"] }}>{authorData.name}</Box>
             </Box>
           </Flex>

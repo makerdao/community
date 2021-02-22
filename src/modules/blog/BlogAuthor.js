@@ -4,7 +4,11 @@
 import React from "react";
 import type { Node } from "react";
 import { format } from "date-fns";
+import { es } from 'date-fns/locale' //NOTE(Rejon): MUST be updated with existing locales
+const _dateLocales = {es};
 import { Image, Box, Flex, Text, jsx } from "theme-ui";
+
+
 
 // $FlowFixMe
 import allContributors from "@content/all-contributors.json";
@@ -33,12 +37,14 @@ type TBlogAuthorProps = {
   isContributors?: boolean,
   date?: string,
   authors: Array<string>,
+  isDefaultLocale?: boolean
 };
 
 export default function BlogAuthor({
   isContributors = false,
   date = null,
   authors,
+  isDefaultLocale,
   ...props
 }: TBlogAuthorProps): Node {
   /*
@@ -49,17 +55,12 @@ export default function BlogAuthor({
 
   const authorToRender = getAuthorData(soleAuthor);
 
-  /*
-		Single Author Element
-		NOTE(Rejon): Would typically go at the top of an article,
-		or below an article title inside of an article card.
-	*/
-  return (
+  const renderObj = () => (
     <Flex {...props}>
-      {authorToRender.avatar_url ? (
+      
         <Box>
           <Image
-            src={authorToRender.avatar_url}
+            src={authorToRender.avatar_url ? authorToRender.avatar_url : '/images/avatar-default.png'}
             sx={{
               width: 64,
               height: 64,
@@ -68,7 +69,6 @@ export default function BlogAuthor({
             }}
           />
         </Box>
-      ) : null}
 
       <Box>
         <Flex sx={{ flexDirection: "column" }}>
@@ -78,12 +78,28 @@ export default function BlogAuthor({
           {date ? (
             <Box sx={{ pl: 2 }}>
               <Text sx={{ color: "mutedAlt", fontWeight: 400 }}>
-                {format(new Date(date), "MMMM d, yyyy")}
+                {!isDefaultLocale ? date : format(new Date(date), "MMMM d, yyyy")}
               </Text>
             </Box>
-          ) : null}
+          ) : null}             
         </Flex>
       </Box>
     </Flex>
-  );
+  )
+
+  if (authorToRender.profile)
+  {
+    return (
+      <a href={authorToRender.profile} target="_blank">
+        {renderObj}
+      </a>
+    )
+  }
+
+  /*
+		Single Author Element
+		NOTE(Rejon): Would typically go at the top of an article,
+		or below an article title inside of an article card.
+	*/
+  return renderObj;
 }
