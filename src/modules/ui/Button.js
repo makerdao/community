@@ -79,7 +79,6 @@ const Button = ({
     <Link
       to={to || href}
       disabled={disabled}
-      isButton={true}
       hideExternalIcon={true}
       sx={{
         whiteSpace: "nowrap",

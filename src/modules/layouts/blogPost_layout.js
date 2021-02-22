@@ -84,11 +84,11 @@ export default ({ children, pageContext }) => {
     postType = pagePathSplit[typeIndex];
   }
 
-  let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_01.png`;
+  let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_1.png`;
 
   if (typeof image === "number" && (image <= 4 && image >= 1))
   {
-      postImage = `/images/blog_headers/${postType}_0${image}.png`;
+      postImage = `/images/blog_headers/${postType}_${image}.png`;
   }
 
   const otherPosts = recommend?.map((rec) => { //Run through recommendation map for blog post recommendations
@@ -194,7 +194,6 @@ export default ({ children, pageContext }) => {
 function ContentBlock({ children }) {
   return (
     <Box
-      as="post"
       sx={{
         width: ["100%", "100%", "80%"],
         m: "0 auto",

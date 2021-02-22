@@ -46,11 +46,11 @@ const BlogCard = ({
       postType = pagePathSplit[typeIndex];
     }
 
-    let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_01.png`;
+    let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_1.png`;
 
     if (typeof image === "number" && (image <= 4 && image >= 1))
     {
-        postImage = `/images/blog_headers/${postType}_0${image}.png`;
+        postImage = `/images/blog_headers/${postType}_${image}.png`;
     }
 
     let postTitle = title; 
@@ -58,7 +58,7 @@ const BlogCard = ({
     if (isContent)
     {
       //TODO(Rejon): Need to get uncatagorized images for shea to use here. 
-      postImage = "/images/blog_headers/governance_01.png" 
+      postImage = "/images/blog_headers/governance_1.png" 
       postType = null;
       postTitle = TitleConverter({frontmatter, fileAbsolutePath, headings})
     }
