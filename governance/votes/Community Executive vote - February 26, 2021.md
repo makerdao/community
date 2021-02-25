@@ -8,7 +8,7 @@ The Governance Facilitator(s) have placed an Executive Vote into the voting syst
 
 ### Stability Fee Changes for ETH Vault Types
 
-Given the successful outcome of the mid-Feburary rates update [poll](https://vote.makerdao.com/polling/QmWN699J#poll-detail), [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) parameters will be increased for ETH-A and ETH-B vault types if this executive proposal passes. ETH-A will increase from 4.5% to 5.5% and ETH-B will increase from 7.5% to 9%. 
+Given the successful outcome of the mid-February rates update [poll](https://vote.makerdao.com/polling/QmWN699J#poll-detail), [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) parameters will be increased for ETH-A and ETH-B vault types if this executive proposal passes. ETH-A will increase from 4.5% to 5.5% and ETH-B will increase from 7.5% to 9%. 
 
 Further details and rationale can be found in the proposal [thread](https://forum.makerdao.com/t/mid-month-rates-changes-proposal-19-feb-2021/6660).
 
