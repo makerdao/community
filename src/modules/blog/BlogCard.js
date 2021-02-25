@@ -7,7 +7,8 @@ import { Link } from "@modules/navigation";
 import { BlogAuthor } from "@modules/blog";
 import { UrlConverter, TitleConverter, getBlogPostTypeFromPath } from "@utils";
 import { useTranslation } from "@modules/localization";
-import { console } from "window-or-global";
+import { console, NaN } from "window-or-global";
+import { parseInt } from "lodash";
 
 const BlogCard = ({
   excerpt,
@@ -34,34 +35,41 @@ const BlogCard = ({
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
 
 
-    //Split absolute path up to blog, get directory AFTER blog. 
-    let postType = null;
+    
 
     const pagePathSplit = postLink.split("/").splice(1, postLink.split("/").length - 1);
     const typeIndex = pagePathSplit.indexOf("blog") + 1; 
 
-    //If the slug in the path is NOT the last slug, treat it as the post type.
-    if (typeIndex !== pagePathSplit.length - 1)
+    //Split absolute path up to blog, get directory AFTER blog. 
+    let postType = typeIndex !== pagePathSplit.length - 1 ? pagePathSplit[typeIndex] : 'general';
+
+    let postImage = null;
+    
+    if (image === null || image === undefined)
     {
-      postType = pagePathSplit[typeIndex];
+      postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
     }
-
-    let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_1.png`;
-
-    if (typeof image === "number" && (image <= 4 && image >= 1))
+    else 
     {
+      if (typeof parseInt(image) === NaN) //Not a number, but a string. Expect entire src url
+      {
+        postImage = image;
+      }
+      else
+      {
         postImage = `/images/blog_headers/${postType}_${image}.png`;
+      }
     }
 
     let postTitle = title; 
 
     if (isContent)
     {
-      //TODO(Rejon): Need to get uncatagorized images for shea to use here. 
-      postImage = "/images/blog_headers/governance_1.png" 
+      postImage = `/images/blog_headers/general_1.png`
       postType = null;
       postTitle = TitleConverter({frontmatter, fileAbsolutePath, headings})
     }
+
   return (
     <div
       sx={{
@@ -122,7 +130,8 @@ const BlogCard = ({
         hideExternalIcon
       >
         {" "}
-        {title}{" "}
+        {postTitle}
+        {" "}
       </Link>
 
       {!isNil(authors) && <BlogAuthor authors={authors} date={date} isDefaultLocale={locale === DEFAULT_LOCALE} />}
