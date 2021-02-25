@@ -72,24 +72,29 @@ export default ({ children, pageContext }) => {
   const hasContributors = isArray(authors) && authors.length > 1;
   const contributors = hasContributors ? authors.slice(1, authors.length) : [];
     
-  //Split absolute path up to blog, get directory AFTER blog. 
-  let postType = null;
-
   const pagePathSplit = pageContext.pagePath.split("/").splice(1, pageContext.pagePath.split("/").length - 2);
   const typeIndex = pagePathSplit.indexOf("blog") + 1; 
+  
+  //Split absolute path up to blog, get directory AFTER blog. 
+  let postType = typeIndex !== pagePathSplit.length - 1 ? pagePathSplit[typeIndex] : 'general';
 
-  //If the slug in the path is NOT the last slug, treat it as the post type.
-  if (typeIndex !== pagePathSplit.length - 1)
-  {
-    postType = pagePathSplit[typeIndex];
-  }
-
-  let postImage = typeof image === 'string' ? image : `/images/blog_headers/${postType}_1.png`;
-
-  if (typeof image === "number" && (image <= 4 && image >= 1))
-  {
-      postImage = `/images/blog_headers/${postType}_${image}.png`;
-  }
+  let postImage = null;
+    
+    if (image === null || image === undefined)
+    {
+      postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
+    }
+    else 
+    {
+      if (typeof parseInt(image) === NaN) //Not a number, but a string. Expect entire src url
+      {
+        postImage = image;
+      }
+      else
+      {
+        postImage = `/images/blog_headers/${postType}_${image}.png`;
+      }
+    }
 
   const otherPosts = recommend?.map((rec) => { //Run through recommendation map for blog post recommendations
     return blogPosts.edges.filter(({ node }) =>
