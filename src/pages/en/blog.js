@@ -21,8 +21,16 @@ const BlogHome = ({data}) => {
 	const navigate = useNavigate();
 
 
+
 	const initialSection = queryString.parse(search).section || null;
-	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath)).filter((value, index, self) => self.indexOf(value) === index))
+	const [types, setTypes] = useState(data.allMdx.edges.map(({node}) => getBlogPostTypeFromPath(node.fileAbsolutePath)).filter((value, index, self) => {
+		return (
+			self.indexOf(value) === index
+			&&
+			value !== null
+		)
+	}))
+
 	const  initialSectionExists = types.length > 0 ? types.indexOf(initialSection) !== -1 : false; //NOTE(Rejon): Checks if the section provided in query string actually exists. 
 
 	const latestPosts = initialSection !== null && initialSectionExists ? 

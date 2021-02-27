@@ -49,7 +49,7 @@ const BlogResult = ({ frontmatter, excerpt, fileAbsolutePath }) => {
           {title}
         </h2>
       </Link>
-      <BlogAuthor authors={authors} date={date} />
+      {authors && <BlogAuthor authors={authors} date={date} />}
       <p sx={{ mt: "26px" }}>{description || excerpt}</p>
     </div>
   );
