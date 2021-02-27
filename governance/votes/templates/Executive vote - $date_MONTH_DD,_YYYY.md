@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+title: $executive_title - $date_MONTH_DD,_YYYY
+summary: $summary
+date: $posted_date_utc_iso_8601
+address: "$spell_address"
 
 ---
-## [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
-
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### $executive_entry_1
