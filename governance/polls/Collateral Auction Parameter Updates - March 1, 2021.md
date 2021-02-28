@@ -24,7 +24,6 @@ The community can vote in this poll to express support or opposition to the foll
 * Decrease the Max Auction Duration (`tau`) parameter from 6 hours to 4 hours for all vault types with active liquidations.
 * Increase the `box` parameter from 15 million DAI to 20 million DAI.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the ETH-B vault type.
-* Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the ETH-B vault type.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the UNIV2USDCETH-A vault type.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the UNIV2WBTCETH-A vault type.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the UNIV2DAIUSDC-A vault type.
@@ -41,7 +40,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/flip-auctions
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
