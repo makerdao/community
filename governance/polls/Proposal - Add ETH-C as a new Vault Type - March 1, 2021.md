@@ -29,8 +29,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Ceiling Increase Cooldown](https://community-development.makerdao.com/en/learn/governance/module-dciam): 12 hours
 * Auction Lot Size: 50,000 DAI
 * Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
+* Bid Duration: 4 hours
+* Max Auction Duration: 4 hours
 * Liquidation Penalty: 13%
 * [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2,000 DAI
 
