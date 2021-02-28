@@ -20,8 +20,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Decrease the Bid Duration (`ttl`) parameter from 6 hours to 4 hours for all vault types with active liquidations.
-* Decrease the Max Auction Duration (`tau`) parameter from 6 hours to 4 hours for all vault types with active liquidations.
+* Decrease the Bid Duration (`ttl`) parameter from 6 hours to 4 hours for all vault types where liquidations are enabled.
+* Decrease the Max Auction Duration (`tau`) parameter from 6 hours to 4 hours for all vault types where liquidations are enabled.
 * Increase the `box` parameter from 15 million DAI to 20 million DAI.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the ETH-B vault type.
 * Increase the Minimum Bid Increment (`beg`) parameter from 3% to 5% for the UNIV2USDCETH-A vault type.

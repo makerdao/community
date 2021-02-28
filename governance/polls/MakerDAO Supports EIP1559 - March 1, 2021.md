@@ -1,6 +1,6 @@
 ---
 title: MakerDAO Supports EIP1559 - March 1, 2021
-summary: Signal your support or opposition to MakerDAO Supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)
+summary: Signal your support or opposition to the statement *"MakerDAO Supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)"*
 discussion_link: https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646
 vote_type: Plurality Voting
 categories:

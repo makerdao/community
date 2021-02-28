@@ -38,7 +38,7 @@ Please review the following forum threads containing information about ETH-C and
 * [Proposal Thread](https://forum.makerdao.com/t/signal-request-new-vault-type-for-eth-with-a-higher-lr/6069)
 * [Risk Evaluation](https://forum.makerdao.com/t/eth-c-risk-parameters/6684)
 
-Note that there is no oracle or smart contract evaluation for this vault type due to the previous use of Ether (ETH) as a collateral type in the ETH-A and ETH-B vault types.
+Note that there is no oracle or smart contract evaluation for this vault type due to the previous use of Ether (ETH) as collateral in the ETH-A and ETH-B vault types.
 
 ## Outcomes
 
