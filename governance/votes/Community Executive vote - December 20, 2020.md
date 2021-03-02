@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
-
+title: Activate the USDC PSM
+summary: Vote for this proposal to activate the USDC PSM
+date: 2020-12-20T00:00:00.000Z
+address: "0x437F5aAF195C97a01f85e672bb8e371484D96C57"
 ---
-## [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
-
 The Governance Facilitator(s) have placed an Executive Vote into the voting system on behalf of the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Activate the USDC Peg Stability Module (PSM)
@@ -49,4 +49,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

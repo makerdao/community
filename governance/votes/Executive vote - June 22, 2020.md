@@ -1,9 +1,9 @@
 ---
-title: Monthly MIPs Official Ratification
-
+title: June 2020 MIPs Official Ratification
+summary: Vote for this proposal to officially ratify the June Governance Cycle's Maker Improvement Proposals
+date: 2020-06-22T00:00:00.000Z
+address: "0x1D51ca29E35b6Ce30167F634Dd21376Da1341D9b"
 ---
-## [Executive Vote] Monthly MIPs Official Ratification
-
 The Maker Foundation Interim Governance Facilitators have placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the Maker Protocol:
 
 - [Monthly MIPs Governance Poll](https://vote.makerdao.com/polling-proposal/qmtxpw9xlsg1ozyymqxujdfdemn1vd7iacbrykqp9miakq)
@@ -24,7 +24,7 @@ The proposals can be reviewed below:
 - [MIP7c3-SP2: Subproposal Adding a Risk Domain Team Onboarding](https://forum.makerdao.com/t/mip7c3-sp2-subproposal-adding-a-risk-domain-team-onboarding/2702)
 
 
-These changes were discussed in the Governance call on Thursday, June 18. Please review the [Video](https://www.youtube.com/watch?v=cIqyJ8-3MMs&feature=youtu.be) and [Audio](https://soundcloud.com/makerdao/ep-97-governance-and-risk-meeting?in=makerdao/sets/governance-calls).
+These changes were discussed in the Governance call on Thursday, June 18. Please review the [Video](https://www.youtube.com/watch?v=cIqyJ8-3MMs&amp;feature=youtu.be) and [Audio](https://soundcloud.com/makerdao/ep-97-governance-and-risk-meeting?in=makerdao/sets/governance-calls).
 
 The MakerDAO community is moving forward with an Executive Vote to determine whether it will enact the changes established by the previous [Governance Poll](https://vote.makerdao.com/polling).
 
@@ -42,4 +42,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).

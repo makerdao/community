@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
-
+title: Mitigating Flash Loan Risk
+summary: Vote for this proposal to mitigate flash loan risk
+date: 2020-10-30T00:00:00.000Z
+address: "0xF1079CA834758b1082FB94412BbB0C9f024EA7d6"
 ---
-## [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
-
 The Governance Facilitator and the Smart Contracts Domain Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 These changes have been created as an urgent response to the increased risk from flash loans, which are summarized in this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901).
@@ -49,4 +49,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

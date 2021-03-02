@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Approve October 2020 Governance Cycle Bundle - October 26, 2020
-
+title: Approve October 2020 Governance Cycle Bundle - October 26, 2020
+summary: Vote for this proposal to approve October 2020 Governance Cycle Bundle - October 26, 2020
+date: 2020-10-26T00:00:00.000Z
+address: "0xBc59B45F54f88EfD5f8f5cf0FbcBf5970A9255cc"
 ---
-## [Executive Vote] Approve October 2020 Governance Cycle Bundle - October 26, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ###  October 2020 Governance Cycle Bundle
@@ -19,7 +19,7 @@ As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP
 
 **Sub-Proposals**  
 * [MIP13c3-SP3: Declaration of Intent - Strategic Reserves Fund](https://github.com/makerdao/mips/blob/formal-submission/MIP13/MIP13c3-Subproposals/MIP13c3-SP3.md) - [Discussion](https://forum.makerdao.com/t/mip13c3-sp3-declaration-of-intent-strategic-reserves-fund-srf/3765)
-* [MIP13c3-SP4 Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan](https://github.com/makerdao/mips/blob/formal-submission/MIP13/MIP13c3-Subproposals/MIP13c3-SP4.md) - [Discussion](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
+* [MIP13c3-SP4 Declaration of Intent &amp; Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan](https://github.com/makerdao/mips/blob/formal-submission/MIP13/MIP13c3-Subproposals/MIP13c3-SP4.md) - [Discussion](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
 * [MIP13c3-SP5: Declaration of Intent: Maker to commence onboarding work of Centrifuge based Collateral](https://github.com/makerdao/mips/blob/formal-submission/MIP13/MIP13c3-Subproposals/MIP13c3-SP5.md) - [Discussion](https://forum.makerdao.com/t/mip13c3-sp5-declaration-of-intent-maker-to-commence-onboarding-work-of-centrifuge-based-collateral/4059)
 
 ## Summary
@@ -31,7 +31,7 @@ Therefore, if this Executive proposal passes the following will occur:
 * *MIP22: Centrifuge Direct Liquidation Module* will move to Accepted status.
 * *MIP23: Domain Structure and Roles* will move to Accepted status.
 * *MIP13c3-SP3: Declaration of Intent - Strategic Reserves Fund* will move to Accepted status.
-* *MIP13c3-SP4: Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan* will move to Accepted status.
+* *MIP13c3-SP4: Declaration of Intent &amp; Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan* will move to Accepted status.
 * *MIP13c3-SP5: Declaration of Intent: Maker to commence onboarding work of Centrifuge based Collateral* will move to Accepted status.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
@@ -56,4 +56,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

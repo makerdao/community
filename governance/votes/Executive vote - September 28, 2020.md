@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Approve September 2020 Governance Cycle Bundle - September 28, 2020
-
+title: Approve September 2020 Governance Cycle Bundle - September 28, 2020
+summary: Vote for this proposal to approve the September 2020 Governance Cycle Bundle - September 28, 2020
+date: 2020-09-28T00:00:00.000Z
+address: "0x85652B397a5E7B5D92e7c0F4158D2b1c6761F280"
 ---
-## [Executive Vote] Approve September 2020 Governance Cycle Bundle - September 28, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ## August 2020 Governance Cycle Bundle
@@ -128,4 +128,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).

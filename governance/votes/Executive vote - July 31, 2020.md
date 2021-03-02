@@ -1,14 +1,14 @@
 ---
-title: Template - [Executive Vote] Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
-
+title: Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
+summary: Vote for this proposal to reduce the Base Rate, and whitelist DyDx on the ETHUSD Oracle
+date: 2020-07-31T00:00:00.000Z
+address: "0xf132619F3AA8Fc35b256C089097E91A0C2b3902a"
 ---
-## [Executive Vote] Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Reduce the Base Rate
 
-As per the weekly Base Rate[poll](https://vote.makerdao.com/polling-proposal/qmpvqs7gycpjdcpwbye4twvwxuhf4ax2tvt6i1pto5qd2p) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be reduced from 0% to -4% if this proposal passes.
+As per the weekly Base Rate [poll](https://vote.makerdao.com/polling-proposal/qmpvqs7gycpjdcpwbye4twvwxuhf4ax2tvt6i1pto5qd2p) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be reduced from 0% to -4% if this proposal passes.
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
@@ -51,4 +51,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).

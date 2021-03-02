@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
-
+title: Add Oracles, Lower the Base Rate, Raise the WBTC and USDC Debt Ceiling and Risk Premiums
+summary: Vote for this Proposal to Add Oracles, Lower the Base Rate, Raise the WBTC and USDC Debt Ceiling and Risk Premiums
+date: 2020-07-03T00:00:00.000Z
+address: "0x057d35a858D6350D10F714785bAf5C07703DbD4C"
 ---
-## [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
-
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol as outlined in these Polls:
 
 - [Raise the WBTC Debt Ceiling and Risk Premium](https://vote.makerdao.com/polling-proposal/qmzbjhbvompj77ud2yw3f1zatxgitt72q7cukx3mqtath9)
-- [Lower the Base Rate from 0.25% to 0%](https://vote.makerdao.com/polling-proposal/qmyyuvc3fphgt9bqotkedijxt5mpnjfktz/3je9c2cspfae)
+- [Lower the Base Rate from 0.25% to 0%](https://vote.makerdao.com/polling-proposal/qmtsig9y1zmfwb2eg62mbydqdjh12ftsdoyc9qc1kamkwu)
 - [MIP10c9-SP1 Proposal: Whitelist DeFi Saver on ETHUSD Oracle](https://vote.makerdao.com/polling-proposal/qmscvakatc3gwhtn7ouhags7een8vynez9eazdringlyqs)
 - [MIP10c9-SP2 Proposal: Whitelist DeFi Saver on BATUSD Oracle](https://vote.makerdao.com/polling-proposal/qmnjvvw9h23l48yxew1ehqwfeso4kafwilrfhycoxhgc14)
 - [MIP10c9-SP3 Proposal: Whitelist DeFi Saver on WBTCUSD Oracle](https://vote.makerdao.com/polling-proposal/qmry7yogtnipce9kywjr4vmixk68aluefpuoqqmx7wzbcn)
@@ -25,7 +25,7 @@ Therefore, voting for this Executive will:
 
 - Add multiple Oracle Feeds
 - Raise the USDC-A Stability Fee to 1% to 4%
-- Raise the USDC-A Debt Ceiling from 10 to 40 Million
+- Raise the USDC-A Debt Ceiling from 20 to 40 Million
 - Raise the WBTC-A Stability Fee from 1% to 2%
 - Raise the WBTC-A Debt Ceiling from 10 million to 20 million
 - Lower the Base Rate from 0.25% to 0% which, in conjunction with the Base Rate change, will set the following Stability Fees:
@@ -60,4 +60,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).

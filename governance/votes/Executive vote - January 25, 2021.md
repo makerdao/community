@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
-
+title: Approve January 2021 Governance Cycle Bundle
+summary: Vote for this proposal to approve the January 2021 Governance Cycle Bundle
+date: 2021-01-25T00:00:00.000Z
+address: "0x047178B77A3996f9688BcE68A53009d2576c8F19"
 ---
-## [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
-
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following proposals relating to MakerDAO.
 
 ###  January 2021 Governance Cycle Bundle
@@ -37,7 +37,7 @@ Therefore, if this Executive proposal passes the following will occur:
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
 
-If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
+If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 
 ## Review
 
@@ -59,4 +59,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

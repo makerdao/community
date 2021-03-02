@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
-
+title: Urgent configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
+summary: Vote for this proposal to make an urgent configuration change to the ETH-A lump size, and Increase the WBTC-A debt ceiling
+date: 2020-08-07T00:00:00.000Z
+address: "0xD17abF984740145DB4b3D61559EeBe2170A3D6Da"
 ---
-## [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Urgent Configuration change to the ETH-A lump size
@@ -46,4 +46,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).

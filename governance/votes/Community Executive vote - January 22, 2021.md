@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Collateral Onboarding, Debt Ceiling Adjustments, Other Changes - January 22, 2021
-
+title: Collateral Onboarding, Debt Ceiling Adjustments, Other Changes
+summary: Vote for this proposal to add new collateral, make debt ceiling adjustments, and make other changes
+date: 2021-01-22T00:00:00.000Z
+address: "0x02b288B361539462c0Ab80FdC7eAE53E120268C7"
 ---
-## [Executive Vote] Collateral Onboarding, Debt Ceiling Adjustments, Other Changes - January 22, 2021
-
 The Governance Facilitator(s) have placed an Executive Vote into the voting system on behalf of the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Onboard UNI-V2-USDC-ETH as a new Collateral Type
@@ -174,4 +174,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

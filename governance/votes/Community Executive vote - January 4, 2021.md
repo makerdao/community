@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings - January 4, 2021
-
+title: Increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings
+summary: Vote for this proposal to increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings
+date: 2021-01-04T00:00:00.000Z
+address: "0x3ee0C26aE7aa8cCc759e4Ee4f1E6F2C16220e5f6"
 ---
-## [Executive Vote] Increase ETH-A, USDC-A, and PSM-USDC-A Debt Ceilings - January 4, 2021
-
 The Governance Facilitator(s) have placed an urgent, out-of-schedule Executive Vote into the voting system on behalf of the MakerDAO mandated actors and the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Increase ETH-A Debt Ceiling
@@ -54,4 +54,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).

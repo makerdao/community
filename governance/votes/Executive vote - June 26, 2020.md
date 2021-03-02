@@ -1,9 +1,9 @@
 ---
-title: Template - [Executive Vote] Raise the Base Rate, the DSR, add KNC and ZRX as collateral types
-
+title: Raise the Base Rate and the DSR, add KNC and ZRX as collateral types
+summary: Vote for this proposal to raise the Base Rate and the DSR, add KNC and ZRX as collateral types
+date: 2020-06-26T00:00:00.000Z
+address: "0x9ef95251233e0586bf3b17f14d31e2a756454a0d"
 ---
-## [Executive Vote] Raise the Base Rate and the DSR, add KNC and ZRX as collateral types
-
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol:
 
 - [Add KNC as a Collateral Type](https://vote.makerdao.com/polling-proposal/qmranqqaxjrhet8xorhkqtgki5mzxa1mizudoylcsrfapt)
@@ -44,4 +44,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
