@@ -36,7 +36,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 - Decrease the MANA-A Stability Fee from 5% to 4%.
 - Decrease the UNIV2WBTCDAI-AA Stability Fee from 3% to 2%.
-- Increase the RENBTC-A Stability Fee from 6% to 5%.
+- Decrease the RENBTC-A Stability Fee from 6% to 5%.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/rates-changes-proposal-2-mar-2021/6812) to help inform your position before voting.
 
