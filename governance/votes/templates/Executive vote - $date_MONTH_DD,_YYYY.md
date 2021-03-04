@@ -12,7 +12,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes the following **changes** will occur:
+If this executive proposal passes the following **changes** will occur within the Maker Protocol:
 - $executive_action_description_1
 - $executive_action_description_2
 - $executive_action_description_3
@@ -23,6 +23,8 @@ If this executive proposal passes the following **additions** will be made to th
 - $executive_addition_3
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+
+Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
 $OfficeHours? This executive proposal includes an office-hours modifier that means that it can only be executed between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
