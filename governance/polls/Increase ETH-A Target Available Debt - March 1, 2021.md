@@ -1,6 +1,6 @@
 ---
-title: ETH-A DC-IAM Parameter Change - March 1, 2021
-summary: Signal your support or opposition to adjust the `gap` of the ETH-A DC-IAM
+title: Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021
+summary: Signal your support or opposition to adjust the [Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) for the ETH-A vault type.
 discussion_link: https://forum.makerdao.com/t/6603
 vote_type: Plurality Voting
 categories:
@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Increase the `gap` of the ETH-A DC-IAM - March 1, 2021
+# Poll: Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 1 at 16:00 UTC.
 
@@ -18,7 +18,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether the `gap` parameter of the ETH-A DC-IAM should be raised from 30M to 80M.
+This poll asks whether the [Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) parameter for the ETH-A vault type should be increased from 30M to 80M.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/6603) to help inform your position before voting.
 
