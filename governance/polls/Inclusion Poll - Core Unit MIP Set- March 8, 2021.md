@@ -21,13 +21,15 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/road-to-dao-the-core-unit-operating-model/6105) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. This Inclusion Poll MIP Set contains the following MIPs:
+ This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP38: DAO Primitives State](https://forum.makerdao.com/t/mip38-dao-primitives-state/6095)
 * [MIP39: Core Unit Framework](https://forum.makerdao.com/t/mip39-core-unit-framework/6096)
 * [MIP40: Budget Framework](https://forum.makerdao.com/t/mip40-budget-framework/6097)
 * [MIP41: Facilitator Framework](https://forum.makerdao.com/t/mip41-facilitator-framework/6098)
 * [MIP4c2-SP10: MIP0 Amendments ](https://forum.makerdao.com/t/mip4c2-sp10-mip0-amendments/6099)
 * [MIP4c2-SP12: MIP16 Amendments](https://forum.makerdao.com/t/mip4c2-sp12-mip16-amendments/6101)
+
+Please review the discussion [thread](https://forum.makerdao.com/t/road-to-dao-the-core-unit-operating-model/6105) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
 
 ## Outcomes
 
