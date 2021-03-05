@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/road-to-dao-the-core-unit-operatin
 vote_type: Plurality Voting
 categories:
    - Governance
-   - Technical
+   - MIPs
 options:
    0: Abstain
    1: Yes
