@@ -1,36 +1,34 @@
 ---
-title: Lower PSM-USDC-A tout Parameter - February 22, 2021
-summary: Signal your support or opposition for lowering the PSM-USDC-A tout parameter from 0.1% to 0.04%.
-discussion_link: https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447
+title: Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021
+summary: Signal your support or opposition to adjust the [Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) for the ETH-A vault type.
+discussion_link: https://forum.makerdao.com/t/6603
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Rates
 options:
-  0: Abstain
-  1: Yes
-  2: No
+   0: Abstain
+   1: Yes
+   2: No
 ---
-# Poll: Lower PSM-USDC-A tout Parameter - February 22, 2021
+# Poll: Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 1 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
-## Review 
 
-MKR holders can signal if they want to lower the PSM-USDC-A `tout` parameter from 0.1% to 0.04%. For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm). 
+## Review
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-psm-usdc-a-tout-parameter/6447) to inform your position on this issue before voting.
+This poll asks whether the [Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) parameter for the ETH-A vault type should be increased from 30M to 80M.
+
+Please review the discussion [thread](https://forum.makerdao.com/t/6603) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* Lowering the PSM-USDC-A `tout` Parameter from 0.1% to 0.04% will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
-
----
 
 ## Resources
 

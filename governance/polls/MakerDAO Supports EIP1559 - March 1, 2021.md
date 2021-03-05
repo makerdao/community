@@ -1,32 +1,33 @@
 ---
-title: Initial Flash Mint Module Fee - February 22, 2021
-summary: Signal your support for an initial Flash Mint Module fee.
-discussion_link: https://forum.makerdao.com/t/signal-request-initial-flash-mint-module-fee/6485
+title: MakerDAO Supports EIP1559 - March 1, 2021
+summary: Signal your support or opposition to the statement *"MakerDAO Supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)"*
+discussion_link: https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646
 vote_type: Plurality Voting
 categories:
-   - Rates
+   - Other
+   - Governance
 options:
    0: Abstain
-   1: 0.05%
-   2: 0.09%
+   1: Yes
+   2: No
 ---
-# Poll: Initial Flash Mint Module Fee - February 22, 2021
+# Poll: MakerDAO Supports EIP1559 - March 1, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO governance community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 1 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
-## Review 
+## Review
 
-This vote is to determine the initial fee for [MIP25: Flash Mint Module](https://forum.makerdao.com/t/mip25-flash-mint-module/4400).
+The community can vote in this poll to express support or opposition to the following statement: 
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-initial-flash-mint-module-fee/6485) to inform your position on this issue before voting.
+*"MakerDAO supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)"*
+
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646) (which includes an overview of [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)) to help inform your position before voting.
 
 ## Outcomes
 
-**At the conclusion of this poll the following actions will be taken:**
-* The option with the most votes (excluding 'Abstain') will be used as the initial Flash Mint Module Fee when the Flash Mint Module is implemented.
-* Implementation of the Flash Mint Module will be prioritized by the Smart Contracts Domain Team against other work.
+**Regardless of the outcome of this poll, no action will be taken at this time.**
 
 ---
 
