@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-g
 vote_type: Plurality Voting
 categories:
    - Governance
-   - Technical
+   - MIPs
 options:
    0: Abstain
    1: Yes
