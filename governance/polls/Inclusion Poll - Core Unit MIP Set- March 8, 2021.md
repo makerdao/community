@@ -29,7 +29,7 @@ The community can vote in this poll to express support or opposition to these pr
 * [MIP4c2-SP10: MIP0 Amendments ](https://forum.makerdao.com/t/mip4c2-sp10-mip0-amendments/6099)
 * [MIP4c2-SP12: MIP16 Amendments](https://forum.makerdao.com/t/mip4c2-sp12-mip16-amendments/6101)
 
-Please review the linked discussion threads to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
+Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
 
 ## Outcomes
 
