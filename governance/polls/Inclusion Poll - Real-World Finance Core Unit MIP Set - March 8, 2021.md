@@ -4,7 +4,6 @@ summary: Signal your support or opposition for this proposal being included in t
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224
 vote_type: Plurality Voting
 categories:
-   - Governance
    - MIPs
    - Core Unit
    - Budget
@@ -21,24 +20,23 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
+The community can vote in this poll to express support or opposition to these proposals being included in this month's governance cycle.
 
-This Inclusion Poll MIP Set contains the following MIPs:
+This MIP Set contains the following MIPs:
 * [MIP39c2-SP1: Adding Core Unit (Real-World Finance)](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224)
 * [MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
 * [MIP41c4-SP1: Facilitator Onboarding (Real-World Finance)](https://forum.makerdao.com/t/mip41c4-sp1-facilitator-onboarding-real-world-finance/6226)
 
-Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
+Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
 
 ## Outcomes
 
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
+* The Governance Facilitator(s) will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
 * The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
-
-Note: This set of subproposals will only be included if the Core Unit MIP Set is included as well.
+* These proposals will only continue to the Monthly Governance Poll if the Core Unit MIP Set is also included.
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 
