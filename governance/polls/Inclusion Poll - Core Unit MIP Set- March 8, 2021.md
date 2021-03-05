@@ -6,6 +6,7 @@ vote_type: Plurality Voting
 categories:
    - Governance
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
