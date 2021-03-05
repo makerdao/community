@@ -4,7 +4,6 @@ summary: Signal your support or opposition for this proposal being included in t
 discussion_link: https://forum.makerdao.com/t/road-to-dao-the-core-unit-operating-model/6105
 vote_type: Plurality Voting
 categories:
-   - Governance
    - MIPs
    - Core Unit
 options:
@@ -20,7 +19,7 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
+The community can vote in this poll to express support or opposition to these proposals being included in this month's governance cycle.
 
  This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP38: DAO Primitives State](https://forum.makerdao.com/t/mip38-dao-primitives-state/6095)
@@ -30,14 +29,14 @@ The community can vote in this poll to express support or opposition to this pro
 * [MIP4c2-SP10: MIP0 Amendments ](https://forum.makerdao.com/t/mip4c2-sp10-mip0-amendments/6099)
 * [MIP4c2-SP12: MIP16 Amendments](https://forum.makerdao.com/t/mip4c2-sp12-mip16-amendments/6101)
 
-Please review the discussion [thread](https://forum.makerdao.com/t/road-to-dao-the-core-unit-operating-model/6105) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
+Please review the linked discussion threads to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
 
 ## Outcomes
 
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
+* The Governance Facilitator(s) will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
 * The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
