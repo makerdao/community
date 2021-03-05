@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for Real-World Finance Core Unit (RWF-001) - March 8, 2021
+title: Inclusion Poll for Real-World Finance Core Unit (RWF-001) MIP Set - March 8, 2021
 summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224
 vote_type: Plurality Voting
@@ -13,7 +13,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for Real-World Finance Core Unit (RWF-001) - March 8, 2021
+# Inclusion Poll for Real-World Finance Core Unit (RWF-001) MIP Set - March 8, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 8 at 16:00 UTC.
 
