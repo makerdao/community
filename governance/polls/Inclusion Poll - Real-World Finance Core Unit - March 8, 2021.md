@@ -23,10 +23,12 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. This Inclusion Poll MIP Set contains the following MIPs:
+This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP39c2-SP1: Adding Core Unit (Real-World Finance)](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224)
 * [MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
 * [MIP41c4-SP1: Facilitator Onboarding (Real-World Finance)](https://forum.makerdao.com/t/mip41c4-sp1-facilitator-onboarding-real-world-finance/6226)
+
+Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
 
 ## Outcomes
 
