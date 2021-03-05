@@ -21,7 +21,7 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. This MIP Set contains the following MIPs:
+Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP39c2-SP3: Governance Core Unit - GOV-001](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348)
 * [MIP40c2-SP3: Core Unit Budget - GOV-001](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
 * [MIP41c4-SP3: Core Unit Facilitator Onboarding - GOV-001](https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350)
