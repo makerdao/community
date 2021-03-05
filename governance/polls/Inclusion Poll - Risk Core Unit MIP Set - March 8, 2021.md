@@ -1,6 +1,6 @@
 ---
 title: Inclusion Poll for Risk Core Unit (RISK-001) MIP Set - March 8, 2021
-summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
+summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/6342
 vote_type: Plurality Voting
 categories:
@@ -28,7 +28,7 @@ This MIP Set contains the following MIPs:
 * [MIP40c2-SP2: Add Core Unit Budget (Risk Core Unit)](https://forum.makerdao.com/t/mip40c2-sp2-add-core-unit-budget-risk-core-unit/6343)
 * [MIP41c4-SP2: Risk Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp2-risk-core-unit-facilitator-onboarding/6344)
 
-Please review the linked discussion threads to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
+Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
 
 ## Outcomes
 
