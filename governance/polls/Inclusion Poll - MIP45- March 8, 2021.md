@@ -4,7 +4,7 @@ summary: Signal your support or opposition for this proposal being included in t
 discussion_link: https://forum.makerdao.com/t/mip45-liquidations-2-0-liq-2-0-liquidation-system-redesign/6352
 vote_type: Plurality Voting
 categories:
-   - Governance
+   - MIPs
    - Technical
 options:
    0: Abstain
