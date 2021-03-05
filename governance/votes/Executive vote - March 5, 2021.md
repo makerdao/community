@@ -1,12 +1,12 @@
 ---
-title: [Executive Vote] Parameter Updates and Onboarding RWA-001  - March 5, 2021
+title: Template - [Executive Vote] Parameter Updates and Onboarding RWA-001  - March 5, 2021
 
 ---
 # [Executive Proposal] Parameter Updates and Onboarding RWA-001 - March 5, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote. 
 
 ---
 
@@ -29,7 +29,7 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 This executive proposal includes an office-hours modifier that means that it can only be executed between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots caused by auction parameter changes.
 
-If this executive proposal does not pass within **30 days** then it will expire and can no longer have any effect on the Maker Protocol.
+If this executive proposal does not pass within **30 days** then it will expire and can no longer have any effect on the Maker Protocol. 
 
 ---
 
