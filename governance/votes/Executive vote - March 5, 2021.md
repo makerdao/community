@@ -14,11 +14,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes the following **changes** will occur within the Maker Protocol:
 - The ETH-A [Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) will increase from 30 million DAI to 80 million DAI.
-- The Bid Duration (ttl) parameter will decrease from 6 hours to 4 hours for all vault types where liquidations are enabled.
-- The Max Auction Duration (tau) parameter will decrease from 6 hours to 4 hours for all vault types where liquidations are enabled.
+- The Bid Duration (`ttl`) parameter will decrease from 6 hours to 4 hours for all vault types where liquidations are enabled.
+- The Max Auction Duration (`tau`) parameter will decrease from 6 hours to 4 hours for all vault types where liquidations are enabled.
 - The `box` parameter will increase from 15 million DAI to 20 million DAI.
-- The Minimum Bid Increment (beg) parameter will increase from 3% to 5% for the ETH-B vault type.
-- The Minimum Bid Increment (beg) parameter will increase from 3% to 5% for the UniswapV2 Liquidity Pool vault types.
+- The Minimum Bid Increment (`beg`) parameter will increase from 3% to 5% for the ETH-B vault type.
+- The Minimum Bid Increment (`beg`) parameter will increase from 3% to 5% for the UniswapV2 Liquidity Pool vault types.
 
 If this executive proposal passes the following **additions** will be made to the Maker Protocol:
 - The RWA001-A vault type will be added using RWA001 (6s Capital) as collateral with preliminary, non-final parameters for testing purposes.
@@ -56,6 +56,7 @@ The preliminary parameters for RWA-001 (6s Capital) are:
 
 Please review the following forum threads containing information about RWA-001 (6s Capital) to inform your position before voting.
 
+* [MIP21: Real World Assets - Off-Chain Asset Backed Lender](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917)
 * [Declaration of Intent](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
 * [Risk Evaluation](https://forum.makerdao.com/t/sixs-collateral-onboarding-risk-evaluation/5352)
 * [Smart Contracts Evaluation](https://forum.makerdao.com/t/rwa-001-erc20-token-smart-contract-domain-community-assessment/5363)
