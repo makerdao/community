@@ -5,7 +5,9 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/
 vote_type: Plurality Voting
 categories:
    - Governance
-   - Technical
+   - MIPs
+   - Core Unit
+   - Budget
 options:
    0: Abstain
    1: Yes
