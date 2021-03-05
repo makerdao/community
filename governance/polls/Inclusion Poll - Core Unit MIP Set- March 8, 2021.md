@@ -1,6 +1,6 @@
 ---
 title: Inclusion Poll for Core Unit MIP Set (MIP38-41 and Subproposals) - March 8, 2021
-summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
+summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
 discussion_link: https://forum.makerdao.com/t/road-to-dao-the-core-unit-operating-model/6105
 vote_type: Plurality Voting
 categories:
