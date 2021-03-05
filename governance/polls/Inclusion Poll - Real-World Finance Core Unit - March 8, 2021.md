@@ -33,7 +33,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
 * The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
 * The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
-* Note: This set of subproposals will only be included if the Core Unit MIP Set is included as well.
+* This set of subproposals will only be included if the Core Unit MIP Set is included as well.
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 
