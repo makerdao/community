@@ -4,7 +4,6 @@ summary: Signal your support or opposition for this proposal being included in t
 discussion_link: https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338
 vote_type: Plurality Voting
 categories:
-   - Governance
    - MIPs
 options:
    0: Abstain
