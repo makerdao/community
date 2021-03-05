@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for Governance Core Unit (GOV-001) - March 8, 2021
+title: Inclusion Poll for Governance Core Unit (GOV-001) MIP Set - March 8, 2021
 summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348
 vote_type: Plurality Voting
@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for Governance Core Unit (GOV-001) - March 8, 2021
+# Inclusion Poll for Governance Core Unit (GOV-001) MIP Set - March 8, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 8 at 16:00 UTC.
 
@@ -21,10 +21,12 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. This Inclusion Poll MIP Set contains the following MIPs:
+This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP39c2-SP3: Governance Core Unit - GOV-001](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348)
 * [MIP40c2-SP3: Core Unit Budget - GOV-001](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
 * [MIP41c4-SP3: Core Unit Facilitator Onboarding - GOV-001](https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350)
+
+Please review the discussion [thread](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
 
 ## Outcomes
 
