@@ -1,11 +1,9 @@
 ---
-title: Template - [Executive Vote] Rates Updates, UNI-V2-DAI-USDT Onboarding - February 26, 2021
+title: Rates Updates, UNI-V2-DAI-USDT Onboarding - February 26, 2021
 summary: Vote for this proposal to make rate updates and onboard UNI-V2-DAI-USDT
 date: 2021-02-26T00:00:00.000Z
 address: "0x969b3701a17391f2906d8c5e5d816abcd9d0f199"
 ---
-## [Executive Vote] Rates Updates, UNI-V2-DAI-USDT Onboarding - February 26, 2021
-
 The Governance Facilitator(s) have placed an Executive Vote into the voting system on behalf of the Maker Governance community. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Stability Fee Changes for ETH Vault Types

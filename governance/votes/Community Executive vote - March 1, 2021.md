@@ -1,12 +1,10 @@
 ---
-title: Template - [Executive Vote] Increase PSM-USDC-A Debt Ceiling - March 1, 2021
+title: Increase PSM-USDC-A Debt Ceiling - March 1, 2021
 summary: Vote for this community proposal to increase PSM-USDC-A Debt Ceiling
 date: 2021-03-01T00:00:00.000Z
 address: "0x088D6b3f68Bc4F93F90006A1356A21145EDD96E2"
 
 ---
-## [Executive Vote] Increase PSM-USDC-A Debt Ceiling - March 1, 2021
-
 The Governance Facilitator(s) and the MakerDAO Risk Domain team have placed an urgent, out-of-schedule Executive Proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Increase PSM-USDC-A Debt Ceiling
