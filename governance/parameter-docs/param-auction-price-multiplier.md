@@ -26,7 +26,7 @@ In a situation where a drop in collateral prices triggers liquidations but is sw
 
 The advantage of the Auction Price Multiplier greater than 1.0x is best illustrated with an example. 
 
-Imagine that ETH is drops from $1000 to $800 and liquidations are triggered for multiple vaults. Due to the OSM (Oracle Security Module), these liquidations are delayed by one hour. In that one hour, the ETH price then increases to $900. With an Auction Price Multiplier of 1.0x, the collateral would be sold for $800, $100 below the market price. With an Auction Price Multiplier of 1.2x, the auction would start at $960 and a short time later would end at around the market price of $900.
+Imagine that ETH drops from $1000 to $800 and liquidations are triggered for multiple vaults. Due to the OSM (Oracle Security Module), these liquidations are delayed by one hour. In that one hour, the ETH price then increases to $900. With an Auction Price Multiplier of 1.0x, the collateral would be sold for $800, $100 below the market price. With an Auction Price Multiplier of 1.2x, the auction would start at $960 and a short time later would end at around the market price of $900.
 
 However, the downside to a higher Auction Price Multiplier is that in a situation where the market price of a collateral type *continues* to drop, the falling price auction may never reach the market price before it expires. In this situation sale of the collateral is delayed and results in an overall worse price than if the Auction Price Multiplier had been lower.
 
@@ -49,3 +49,5 @@ An Auction Price Multiplier parameter might be decreased for a specific vault ty
 * Is there anything little known about this parameter?
 * How does this interact with other parts of the protocol?
 * Are there any Emergency Shutdown considerations to take into account?
+
+The Starting Price for an auction is calculated using the OSM (Oracle Security Module) price feed multiplied by the Auction Price Multiplier.
