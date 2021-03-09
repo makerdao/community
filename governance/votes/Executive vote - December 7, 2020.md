@@ -1,10 +1,10 @@
 ---
-title: Activate DSChief v1.2
+title: Template - [Executive Vote] Activate DSChief v1.2 - December 7, 2020
 summary: Vote for this proposal to activate DSChief v1.2
 date: 2020-12-07T00:00:00.000Z
 address: "0x0000000000000000000000000000000000000000"
 ---
-## [Executive Vote] Activate DSChief v1.2
+## [Executive Vote] Activate DSChief v1.2 - December 7, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -45,4 +45,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

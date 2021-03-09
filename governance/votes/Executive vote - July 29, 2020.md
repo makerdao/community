@@ -1,5 +1,5 @@
 ---
-title: Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
+title: Template - [Executive Vote] Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
 summary: Vote for this proposal to increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
 date: 2020-07-29T00:00:00.000Z
 address: "0x4fF0258545528b01902d826368246F330eEABD2c"
@@ -7,6 +7,7 @@ address: "0x4fF0258545528b01902d826368246F330eEABD2c"
 ## [Executive Vote] Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
 
 The Interim Risk Team has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
+
 
 
 ## Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
@@ -20,8 +21,6 @@ The Risk Team has called for the following changes:
 * USDC-B debt ceiling to be increased from 10 to 30 million.
 * W-BTC debt ceiling to be increased from 20 to 40 million.
 * BAT-A debt ceiling to be increased from 3 to 5 million.
-
-
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
@@ -44,4 +43,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

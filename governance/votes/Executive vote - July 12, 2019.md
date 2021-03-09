@@ -1,6 +1,6 @@
 ---
-title: Keep the Stability fee set to 20.5% per year
-summary: Vote for this proposal to keep the Stability Fee set to a total of 20.5% per year
+title: Executive vote - July 12, 2019
+summary: Raise the Stability fee by 2% to a total of 20.5% per year
 date: 2019-07-12T00:00:00.000Z
 address: "0x2a8e8588ae9d420656c49c910c2c820450a01f95"
 ---
@@ -10,7 +10,7 @@ The Executive Vote ([FAQ](https://makerdao.com/en/faq/voting#what-is-executive-v
 
 ## Review
 
-The need to increase the Stability Fee was discussed in the Governance call on Thursday, July 11. Please review the [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk), [Transcript](https://github.com/makerdao/community/tree/master/governance/transcripts) (delayed by 24 to 48 hours), and the online [discussion](https://www.reddit.com/r/mkrgov/) to inform your position before voting.
+The need to increase the Stability Fee was discussed in the Governance call on Thursday, July 11. Please review the [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan), [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk), [Transcript](https://community-development.makerdao.com/governance/governance-and-risk-meetings/transcripts) (delayed by 24 to 48 hours), and the online [discussion](https://www.reddit.com/r/mkrgov/) to inform your position before voting.
 
 The MakerDAO community is moving forward with an Executive Vote to enact the rate determined by the [previous](https://vote.makerdao.com/polling) Governance Poll.
 
@@ -28,4 +28,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

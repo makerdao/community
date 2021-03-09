@@ -1,10 +1,10 @@
 ---
-title: Multiple Changes - September 25, 2020
+title: Template - [Executive Vote] Multiple Changes - September 25, 2020
 summary: Vote for this proposal to support multiple changes - September 25, 2020
 date: 2020-09-25T00:00:00.000Z
 address: "0xB1f7c0E7100d0bb36ef3e63416484F3b4b12719c"
 ---
-## [Executive Vote] Multiple Changes - September 25, 2020
+## [Executive Vote]  Multiple Changes - September 25, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -106,4 +106,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

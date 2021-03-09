@@ -1,10 +1,11 @@
 ---
-title: Officially Ratify Onboarding a Second Governance Facilitator
+title: Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
 summary: Vote for this proposal to Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
 date: 2020-05-25T00:00:00.000Z
 address: "0x9713187b6d7C8D54aC041EfdBaC13d52c2120Fb9"
 ---
-## [Executive Vote] Officially Ratify Onboarding a Second Governance Facilitator
+
+## [Executive Vote] Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator
 
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the protocol:
 
@@ -22,7 +23,7 @@ The MakerDAO community is moving forward with an Executive Vote to determine whe
 
 ## Action
 
-**Voting for this proposal will place your MKR in support of implementing the  changes outlined above.**
+**Voting for this proposal will place your MKR in support of implementing the changes outlined above.**
 
 ---
 
@@ -34,4 +35,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

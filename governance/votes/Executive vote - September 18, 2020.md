@@ -1,5 +1,5 @@
 ---
-title: Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
+title: Template - [Executive Vote] Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
 summary: Vote for this proposal to enable TUSD, reduce Stablecoin Liquidation Ratios, other changes.
 date: 2020-09-18T00:00:00.000Z
 address: "0x7E47c04a41A78F355C33a94cD3889E4551121ae1"
@@ -10,7 +10,7 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 ### Base Rate Increase
 
-As per the weekly Base Rate [poll](https://vote.makerdao.com/polling-proposal/qmabz1ezdmdmvshqjxmpw1geyjogz8npcb5hehk31bnb6w) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be increased from -2% to 0% if this proposal passes.
+As per the weekly Base Rate[poll](https://vote.makerdao.com/polling-proposal/qmabz1ezdmdmvshqjxmpw1geyjogz8npcb5hehk31bnb6w) the [Base Rate](https://forum.makerdao.com/t/discussion-change-the-stability-fee-structure/2258) meta-parameter will be increased from -2% to 0% if this proposal passes.
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. **Please note that a negative Base Rate does NOT imply negative Stability Fees**.
 
@@ -100,4 +100,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

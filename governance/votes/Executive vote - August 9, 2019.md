@@ -1,10 +1,10 @@
 ---
-title: Lower the Stability fee by 1% to a total of 19.5% per year
-summary: Vote for this proposal to lower the Stability fee by 1% to a total of 19.5% per year
+title: Executive vote - August 9, 2019
+summary: Lower the Stability fee by 1% to a total of 19.5% per year
 date: 2019-08-09T00:00:00.000Z
 address: "0x30899738762d84343f615DE62c8D1283Cc3364da"
 ---
-The Maker Foundation Interim Risk Team has placed an Executive Vote into the [voting system](https://vote.makerdao.com/), which will enable the community to enact a new Dai Stability Fee of **19.5%**.
+The Maker Foundation Interim Risk Team has placed an Executive Vote into the [voting system](https://vote.makerdao.com), which will enable the community to enact a new Dai Stability Fee of **19.5%**.
 
 The Executive Vote ([FAQ](https://makerdao.com/en/faq/voting#what-is-executive-voting)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/governance/governance#what-is-continuous-approval-voting) vote.
 
@@ -28,4 +28,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

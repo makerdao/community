@@ -1,10 +1,10 @@
 ---
-title: Onboard GUSD
+title: Template - [Executive Vote] Onboard GUSD - November 13, 2020
 summary: Vote for this proposal to onboard GUSD
 date: 2020-11-13T00:00:00.000Z
 address: "0xa24311446583f22432b335B53282CF8ecbfBC7A9"
 ---
-## [Executive Vote] Onboard GUSD
+## [Executive Vote] Onboard GUSD - November 13, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -35,6 +35,7 @@ Please review the following forum threads containing information about GUSD (Gem
 
 Therefore, if this Executive proposal passes the following will occur:
 - The GUSD-A vault type will be added using GUSD as collateral with the parameters listed above.
+- The Global line parameter will increase from 1,463,750,000 DAI to 1,468,750,000 DAI due to the addition of GUSD-A.
 
 The [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
@@ -60,4 +61,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

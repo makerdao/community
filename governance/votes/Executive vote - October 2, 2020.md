@@ -1,10 +1,10 @@
 ---
-title: Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
+title: Template - [Executive Vote] Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
 summary: Vote for this proposal to raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
 date: 2020-10-02T00:00:00.000Z
 address: "0xd2127E16741Bb1Fd275E5E81F170b177698926D1"
 ---
-## [Executive Vote] Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
+## [Executive Vote] Raise the PAX-A Debt Ceiling and Decrease the Base Rate - October 2, 2020
 
 The Governance Facilitator and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -32,7 +32,7 @@ Therefore, if this Executive proposal passes the following will occur:
 - The ETH-A Stability Fee will decrease from 2.25% to 2%
 - The WBTC-A Stability Fee will decrease from 4.25% to 4%
 - The TUSD-A Stability Fee will decrease from 4.25% to 4%
-- The PAXUSD-A Stability Fee will decrease from 4.25% to 4%
+- The PAXUSD-AStability Fee will decrease from 4.25% to 4%
 - The BAT-A Stability Fee will decrease from 4.25% to 4%
 - The LRC-A Stability Fee will decrease from 3.25% to 3%
 - The MANA-A Stability Fee will decrease from 12.25% to 12%
@@ -66,4 +66,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

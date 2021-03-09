@@ -1,10 +1,10 @@
 ---
-title: Onboard USDT and PAX, Multiple Other Changes - September 4, 2020
+title: Template - [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
 summary: Vote for this proposal to onboard USDT and PAX, multiple other changes - September 4, 2020
 date: 2020-09-04T00:00:00.000Z
 address: "0x2D72e95685c39A7f85327d7A7F8D752AA82B62E9"
 ---
-## [Executive Vote] Onboard USDT and PAX, Multiple Other Changes - September 4, 2020
+## [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -30,7 +30,7 @@ The oracle evaluation for USDT can be found [here](https://forum.makerdao.com/t/
 
 ### Onboard PAX (Paxos Standard)
 
-As per the non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmd2y6dyv9zxve85u3jaxvogtzd4ihvqtmt5c7du6vcghk) PAX will be added to the Maker Protocol as a collateral type if this proposal passes. PAX collateral will be added with auctions disabled and with the following parameters, which match those in the linked poll.
+As per the non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmd2y6dyv9zxve85u3jaxvogtzd4ihvqtmt5c7du6vcghk) PAX will be added to the Maker Protocol as a collateral type if this proposal passes. PAX will be added with the following parameters, which match those in the linked poll.
 
 * Risk Premium: 4%
 * Liquidation Ratio: 120%
@@ -112,4 +112,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

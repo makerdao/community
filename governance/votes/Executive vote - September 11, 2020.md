@@ -1,5 +1,5 @@
 ---
-title: Increase the USDC-A Debt Ceiling, Whitelist tBTC on the ETHBTC Oracle - September 11, 2020
+title: Template - [Executive Vote] Increase the USDC-A Debt Ceiling, Whitelist tBTC on the ETHBTC Oracle - September 11, 2020
 summary: Vote for this proposal to increase the USDC-A debt ceiling, whitelist tBTC on the ETHBTC Oracle - September 11, 2020
 date: 2020-09-11T00:00:00.000Z
 address: "0x223735DeF0eD8b129429Fb580cA0A91cefC3aE02"
@@ -49,4 +49,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

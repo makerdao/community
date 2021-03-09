@@ -1,10 +1,10 @@
 ---
-title: Collateral Onboarding, ETH-B DC-IAM, Other Changes
+title: Template - [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
 summary: Vote for this proposal to onboard renBTC and UNI, Enable DC-IAM for ETH-B, Reduce Stablecoin SFs to 0%, Modify YFI-A parameters, and whitelist Yearn.finance...
 date: 2020-12-11T00:00:00.000Z
 address: "0x58401b64CA6b91E346c87B057254F040990c4F98"
 ---
-## [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes
+## [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
 
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -132,4 +132,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

@@ -1,5 +1,5 @@
 ---
-title: Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
+title: Template - [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
 summary: Vote for this proposal to increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
 date: 2020-10-23T00:00:00.000Z
 address: "0xb04A29de213411DDb7196eD1327b3B6144893E59"
@@ -49,4 +49,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

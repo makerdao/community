@@ -1,10 +1,10 @@
 ---
-title: Approve November 2020 Governance Cycle Bundle
+title: Template - [Executive Vote] Approve November 2020 Governance Cycle Bundle - November 23, 2020
 summary: Vote for this proposal to approve the November 2020 Governance Cycle Bundle
 date: 2020-11-23T00:00:00.000Z
 address: "0xA2652eb43674bc9cfC517a6FA4CEcE391e29c2d3"
 ---
-## [Executive Vote] Approve November 2020 Governance Cycle Bundle
+## [Executive Vote] Approve November 2020 Governance Cycle Bundle - November 23, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -59,4 +59,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).

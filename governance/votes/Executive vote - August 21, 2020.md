@@ -1,5 +1,5 @@
 ---
-title: Increase the Base Rate
+title: Template - [Executive Vote] Increase the Base Rate
 summary: Vote for this proposal to increase the Base Rate from -6% to -4%
 date: 2020-08-21T00:00:00.000Z
 address: "0x4b46e37f032d0802291dd890acd941ac167ed61d"
@@ -43,4 +43,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

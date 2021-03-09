@@ -1,10 +1,10 @@
 ---
-title: Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types
+title: Template - [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
 summary: Vote for this proposal to increase YFI-A Debt Ceiling, increase Dust Parameter for all Vault-Types
 date: 2020-11-20T00:00:00.000Z
 address: "0x8D602692eE4b5f0ec33A22fe6547822377FDCc4c"
 ---
-## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types
+## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
@@ -66,4 +66,4 @@ Additional information about the Governance process can be found in the [Governa
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&amp;ctz=UTC&amp;mode=week&amp;showCalendars=0&amp;showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
