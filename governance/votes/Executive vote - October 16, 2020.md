@@ -4,6 +4,8 @@ summary: Vote for this proposal to add ETH-B Vault Type - October 16, 2020
 date: 2020-10-16T00:00:00.000Z
 address: "0x96F6CD23fd450D30A12eA0D14FCECc8aE8b4Bc25"
 ---
+## [Executive Vote] Add ETH-B Vault Type - October 16, 2020
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alteration to the protocol.
 
 ### Add ETH-B Vault Type

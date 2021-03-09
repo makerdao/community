@@ -4,6 +4,8 @@ summary: Vote for this proposal to migrate to DsChief v1.2
 date: 2020-12-02T00:00:00.000Z
 address: "0xB70fB4eE900650DCaE5dD63Fd06E07F0b3a45d13"
 ---
+## [Executive Vote] Migrate to DsChief v1.2
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This Governance Contract migration is taking place to protect the Maker Protocol from the impact of flash loaned MKR on the governance process.
 
 An overview and guide to the migration process can be found in this [forum post](https://forum.makerdao.com/t/dschief-v1-2-migration-steps/5412).

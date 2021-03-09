@@ -4,6 +4,8 @@ summary: Vote for this proposal to keep the Stability Fee set to 19.5% per year
 date: 2019-05-03T00:00:00.000Z
 address: "0x2A8E8588ae9d420656c49C910C2c820450a01F95"
 ---
+## [Executive Vote] Keep the Stability Fee set to 19.5% per year
+
 The Maker Foundation Interim Risk Team has placed an Executive Vote into the [voting system](https://vote.makerdao.com/), which will enable the community to enact a new Dai Stability Fee of **19.5%**.
 
 The Executive Vote ([FAQ](https://makerdao.com/en/faq/voting#what-is-executive-voting)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://github.com/makerdao/community/blob/master/faqs/governance.md#what-is-continuous-approval-voting) vote.

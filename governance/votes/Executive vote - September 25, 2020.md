@@ -4,6 +4,8 @@ summary: Vote for this proposal to support multiple changes - September 25, 2020
 date: 2020-09-25T00:00:00.000Z
 address: "0xB1f7c0E7100d0bb36ef3e63416484F3b4b12719c"
 ---
+## [Executive Vote] Multiple Changes - September 25, 2020
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### USDC-A Debt Ceiling Increase

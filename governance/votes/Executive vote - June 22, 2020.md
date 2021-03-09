@@ -4,6 +4,8 @@ summary: Vote for this proposal to officially ratify the June Governance Cycle's
 date: 2020-06-22T00:00:00.000Z
 address: "0x1D51ca29E35b6Ce30167F634Dd21376Da1341D9b"
 ---
+## [Executive Vote] June 2020 MIPs Official Ratification
+
 The Maker Foundation Interim Governance Facilitators have placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the Maker Protocol:
 
 - [Monthly MIPs Governance Poll](https://vote.makerdao.com/polling-proposal/qmtxpw9xlsg1ozyymqxujdfdemn1vd7iacbrykqp9miakq)

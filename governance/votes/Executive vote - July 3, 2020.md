@@ -4,6 +4,8 @@ summary: Vote for this Proposal to Add Oracles, Lower the Base Rate, Raise the W
 date: 2020-07-03T00:00:00.000Z
 address: "0x057d35a858D6350D10F714785bAf5C07703DbD4C"
 ---
+## [Executive Vote] Add Oracles, Lower the Base Rate, Raise the WBTC and USDC Debt Ceiling and Risk Premiums
+
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol as outlined in these Polls:
 
 - [Raise the WBTC Debt Ceiling and Risk Premium](https://vote.makerdao.com/polling-proposal/qmzbjhbvompj77ud2yw3f1zatxgitt72q7cukx3mqtath9)

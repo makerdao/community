@@ -4,6 +4,8 @@ summary: Vote for this Proposal to Modify Multiple System Parameters including; 
 date: 2020-08-14T00:00:00.000Z
 address: "0x9e361d75bDBccD061ce01ACC5265646C19778140"
 ---
+## [Executive Vote] Modify Multiple System Parameters
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Reduce the Base Rate

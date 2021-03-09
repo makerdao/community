@@ -4,6 +4,8 @@ summary: Vote for this proposal to increase YFI-A Debt Ceiling, increase Dust Pa
 date: 2020-11-20T00:00:00.000Z
 address: "0x8D602692eE4b5f0ec33A22fe6547822377FDCc4c"
 ---
+## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase YFI-A Debt Ceiling

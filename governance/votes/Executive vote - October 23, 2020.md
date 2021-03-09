@@ -4,6 +4,8 @@ summary: Vote for this proposal to increase the Surplus Buffer, Oracle Whitelist
 date: 2020-10-23T00:00:00.000Z
 address: "0xb04A29de213411DDb7196eD1327b3B6144893E59"
 ---
+## [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
+
 The Governance Facilitator and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the Surplus Buffer

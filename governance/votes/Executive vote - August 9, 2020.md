@@ -4,6 +4,8 @@ summary: Vote for this proposal to Fix the WBTC-A debt ceiling
 date: 2020-08-09T00:00:00.000Z
 address: "0xCA3b2E6006C996ee361B6Ea6505226A463390B52"
 ---
+## [Executive Vote] Fix the WBTC-A debt ceiling
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Fix the WBTC-A debt ceiling

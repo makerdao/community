@@ -4,6 +4,8 @@ summary: Vote for this proposal to increase the ETH-A, USDC-A, USDC-B, W-BTC, BA
 date: 2020-07-29T00:00:00.000Z
 address: "0x4fF0258545528b01902d826368246F330eEABD2c"
 ---
+## [Executive Vote] Increase the ETH-A, USDC-A, USDC-B, W-BTC, BAT-A debt ceilings
+
 The Interim Risk Team has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 

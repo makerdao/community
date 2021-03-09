@@ -4,6 +4,8 @@ summary: Vote for this proposal to increase the USDC-A debt ceiling, whitelist t
 date: 2020-09-11T00:00:00.000Z
 address: "0x223735DeF0eD8b129429Fb580cA0A91cefC3aE02"
 ---
+## [Executive Vote] Increase the USDC-A Debt Ceiling, Whitelist tBTC on the ETHBTC Oracle - September 11, 2020
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the USDC-A Debt Ceiling

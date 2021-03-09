@@ -4,6 +4,8 @@ summary: Vote for this proposal to activate Liquidations 1.2, WBTC-A Risk Premiu
 date: 2020-08-28T00:00:00.000Z
 address: "0xF8085d74Ad616D48c225f3812a610f5Cd5F676dA"
 ---
+## [Executive Vote] Activate Liquidations 1.2, Multiple Other Changes
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ## Activate Liquidations 1.2

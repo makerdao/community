@@ -4,6 +4,8 @@ summary: Vote for this proposal to approve the January 2021 Governance Cycle Bun
 date: 2021-01-25T00:00:00.000Z
 address: "0x047178B77A3996f9688BcE68A53009d2576c8F19"
 ---
+## [Executive Vote] Approve January 2021 Governance Cycle Bundle
+
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following proposals relating to MakerDAO.
 
 ###  January 2021 Governance Cycle Bundle

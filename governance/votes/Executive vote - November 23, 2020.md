@@ -4,6 +4,8 @@ summary: Vote for this proposal to approve the November 2020 Governance Cycle Bu
 date: 2020-11-23T00:00:00.000Z
 address: "0xA2652eb43674bc9cfC517a6FA4CEcE391e29c2d3"
 ---
+## [Executive Vote] Approve November 2020 Governance Cycle Bundle
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ###  November 2020 Governance Cycle Bundle

@@ -4,6 +4,8 @@ summary: Vote for this proposal to make an urgent configuration change to the ET
 date: 2020-08-07T00:00:00.000Z
 address: "0xD17abF984740145DB4b3D61559EeBe2170A3D6Da"
 ---
+## [Executive Vote] Urgent configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Urgent Configuration change to the ETH-A lump size

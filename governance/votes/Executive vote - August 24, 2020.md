@@ -4,6 +4,8 @@ summary: Vote for this proposal to approve August 2020 Governance Cycle Bundle
 date: 2020-08-24T00:00:00.000Z
 address: "0x0F449cE32456fBD823B7Ac5d162826cD34C48784"
 ---
+## [Executive Vote] Approve August 2020 Governance Cycle Bundle
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ## August 2020 Governance Cycle Bundle

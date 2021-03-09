@@ -4,6 +4,8 @@ summary: Vote for this proposal to onboard YFI and BAL, make debt ceiling and st
 date: 2020-11-06T00:00:00.000Z
 address: "0x268C4bb57f18b04a7380e3EeEEcAeC377C31c850"
 ---
+## [Executive Vote] Onboard YFI and BAL, Debt Ceiling and Stability Fee Adjustments
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Onboard YFI as a new Collateral Type

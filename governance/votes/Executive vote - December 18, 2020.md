@@ -4,6 +4,8 @@ summary: Vote for this proposal to onboard Aave and UNI-V2-DAI-ETH as new collat
 date: 2020-12-18T00:00:00.000Z
 address: "0x6b8b3993cFB253968894C8EcB430CaF2455b51Aa"
 ---
+## [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting
+
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Onboard Aave as a new Collateral Type

@@ -4,6 +4,8 @@ summary: Vote for this proposal to raise the USDC Stability Fee from 0% to 1%
 date: 2020-05-08T00:00:00.000Z
 address: "0xD0DD71814cC2185C3092a477217c9d64E7f3A38E"
 ---
+## [Executive Vote] Raise USDC Stability Fee
+
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the protocol:
 
 - [Raise the USDC Stability Fee from 0% to 1%](https://vote.makerdao.com/polling-proposal/qmfhclbxzjypk4aatyvwqthtuqr5842xnrytj8q89ajb6z)

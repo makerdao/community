@@ -4,6 +4,8 @@ summary: Vote for this proposal to onboard USDT and PAX, multiple other changes 
 date: 2020-09-04T00:00:00.000Z
 address: "0x2D72e95685c39A7f85327d7A7F8D752AA82B62E9"
 ---
+## [Executive Vote] Onboard USDT and PAX, Multiple Other Changes - September 4, 2020
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Onboard USDT (Tether USD)

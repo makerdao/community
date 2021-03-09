@@ -4,6 +4,8 @@ summary: Vote for this proposal to activate DSChief v1.2
 date: 2020-12-07T00:00:00.000Z
 address: "0x0000000000000000000000000000000000000000"
 ---
+## [Executive Vote] Activate DSChief v1.2
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Activate DSChief v1.2

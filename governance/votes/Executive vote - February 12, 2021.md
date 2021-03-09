@@ -4,6 +4,8 @@ summary: Vote for this proposal to onboard Uniswap V2 LPTs, make rate updates, a
 date: 2021-02-12T00:00:00.000Z
 address: "0x0825152884FBe61B0FeB458Af29Cc4aB49972369"
 ---
+## [Executive Vote] Onboarding Uniswap V2 LPTs, Rates Updates, Other Changes
+
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Onboarding UNI-V2-LINK-ETH

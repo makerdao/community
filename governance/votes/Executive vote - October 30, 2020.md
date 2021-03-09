@@ -4,6 +4,8 @@ summary: Vote for this proposal to mitigate flash loan risk
 date: 2020-10-30T00:00:00.000Z
 address: "0xF1079CA834758b1082FB94412BbB0C9f024EA7d6"
 ---
+## [Executive Vote] Mitigating Flash Loan Risk
+
 The Governance Facilitator and the Smart Contracts Domain Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 These changes have been created as an urgent response to the increased risk from flash loans, which are summarized in this [forum thread](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901).

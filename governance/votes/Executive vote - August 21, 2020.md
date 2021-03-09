@@ -4,6 +4,8 @@ summary: Vote for this proposal to increase the Base Rate from -6% to -4%
 date: 2020-08-21T00:00:00.000Z
 address: "0x4b46e37f032d0802291dd890acd941ac167ed61d"
 ---
+## [Executive Vote] Increase the Base Rate
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the Base Rate

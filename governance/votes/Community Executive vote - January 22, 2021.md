@@ -4,6 +4,8 @@ summary: Vote for this proposal to add new collateral, make debt ceiling adjustm
 date: 2021-01-22T00:00:00.000Z
 address: "0x02b288B361539462c0Ab80FdC7eAE53E120268C7"
 ---
+## [Executive Vote] Collateral Onboarding, Debt Ceiling Adjustments, Other Changes
+
 The Governance Facilitator(s) have placed an Executive Vote into the voting system on behalf of the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Onboard UNI-V2-USDC-ETH as a new Collateral Type

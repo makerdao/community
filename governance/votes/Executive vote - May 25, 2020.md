@@ -4,6 +4,8 @@ summary: Vote for this proposal to Officially Ratify the MIP0c12-SP2 Subproposal
 date: 2020-05-25T00:00:00.000Z
 address: "0x9713187b6d7C8D54aC041EfdBaC13d52c2120Fb9"
 ---
+## [Executive Vote] Officially Ratify Onboarding a Second Governance Facilitator
+
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system, which will enable the community to approve the following alterations to the protocol:
 
 - [Core Personnel Onboarding - Add @LongForWisdom as an official Governance Facilitator](https://vote.makerdao.com/polling-proposal/qmugi8agwf9nwhwdbdpbaszbchrwdggkykqhy5mz4x5flb)

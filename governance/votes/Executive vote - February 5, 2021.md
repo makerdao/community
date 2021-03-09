@@ -4,6 +4,8 @@ summary: Vote for this proposal to onboard UNI-V2-DAI-USDC and UNI-V2-ETH-USDT U
 date: 2021-02-05T00:00:00.000Z
 address: "0x296E9C87967427c2539838535175e616eCe761d4"
 ---
+## [Executive Vote] Onboarding Uniswap V2 LPTs
+
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Onboard UNI-V2-DAI-USDC as a new Collateral Type

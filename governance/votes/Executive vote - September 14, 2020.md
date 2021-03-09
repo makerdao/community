@@ -4,6 +4,8 @@ summary: Vote for this proposal to make changes to USDC-A and PAX-A Parameters, 
 date: 2020-09-14T00:00:00.000Z
 address: "0xd155716c72eDCd14FFB60131f83B3eF4d34Aa201"
 ---
+## [Executive Vote] Changes to USDC-A and PAX-A Parameters, Reduce Box Parameter - September 14, 2020
+
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This expedited executive vote is taking place due to an [emergency signal request](https://forum.makerdao.com/t/signal-request-should-we-take-emergency-action-to-fix-the-peg/4096) put forward by the Maker governance community. Discussion of this executive vote can be found [here](https://forum.makerdao.com/t/expedited-executive-vote-2020-09-14/4125).
 
 ### Changes to USDC-A and PAX-A Parameters
