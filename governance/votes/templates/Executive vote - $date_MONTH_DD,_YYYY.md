@@ -1,10 +1,12 @@
 ---
-title: $executive_title - $date_MONTH_DD,_YYYY
+title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
 summary: $summary
-date: $posted_date_utc_iso_8601
+date: $YYYY-MM-DDT00:00:00.000Z
 address: "$spell_address"
 
 ---
+# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote. 
