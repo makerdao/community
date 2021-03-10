@@ -4,7 +4,7 @@
 Alias: N/A
 Parameter Name: duty
 Containing Contract: Jug
-Scope: Ilk
+Scope: Vault Type (Ilk)
 Technical Docs: https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation
 ```
 
