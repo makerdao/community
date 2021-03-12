@@ -2,9 +2,8 @@
 title: Inclusion Poll for Parameter Proposal Groups (MIP46) - March 8, 2021
 summary: Signal your support or opposition for this proposal being included in this month's governance cycle.
 discussion_link: https://forum.makerdao.com/t/mip46-parameter-proposal-groups/6341
-vote_type: Plurality Vote
+vote_type: Plurality Voting
 categories:
-   - Governance
    - MIPs
 options:
    0: Abstain
