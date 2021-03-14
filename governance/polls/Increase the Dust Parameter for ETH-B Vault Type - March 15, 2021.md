@@ -10,7 +10,6 @@ options:
    1: 2,000 DAI (no change)
    2: 10,000 DAI (+ 8,000)
    2: 15,000 DAI (+ 13,000)
-
 ---
 # Poll: Increase the Dust Parameter for ETH-B Vault Type - March 15, 2021
 
@@ -30,7 +29,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
