@@ -19,7 +19,7 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 
 ## Review
 
-This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on March 22, 2021. The bundled contents of this poll consist of the following MIP Sets:
+This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on March 22, 2021. The bundled contents of this poll consist of:
 
 **Core Unit Framework and Amendments**
 
