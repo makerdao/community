@@ -13,20 +13,21 @@ options:
 
 # Poll: Optimism DAI Bridge - March 15, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Optimism DAI Bridge team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 15 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Smart Contracts domain team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 15 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
-Optimism is expected to launch later this month. Due to the expedited time frame, the community does not have enough time to run through a full signal request process. This poll is to gauge interest in deploying the Optimism DAI Bridge alongside the launch of Optimism. This will not include the Fast Withdrawals component which is planned for release later this year and will be put through a separate Declaration of Intent process.
+Optimism is expected to launch later this month. Due to the expedited time frame, the community does not have time to run through a full signal request process. This poll is to gauge interest in deploying the Optimism DAI Bridge alongside the launch of Optimism. This will not include the Fast Withdrawals component which is planned for release later this year and will be put through a separate governance process.
+
+Initially the Optimism DAI Bridge will be owned by a multi-sig wallet on behalf of Maker Governance. The members and details of this multi-sig will be shared publicly when it is setup. 
 
 Please review the proposal [thread](https://forum.makerdao.com/t/announcing-the-optimism-dai-bridge-with-fast-withdrawals/6938) to help inform your position before voting.
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
 - The Optimism DAI Bridge will be developed to be deployed alongside the launch of Optimism.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**

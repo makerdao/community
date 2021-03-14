@@ -1,6 +1,6 @@
 ---
 title: Increase the ETH-A Maximum Debt Ceiling - March 15, 2021
-summary: Signal your support or opposition for adjusting the ETH-A Maximum Debt Ceiling.
+summary: Rank your preferred options to adjust or maintain the ETH-A Maximum Debt Ceiling.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-05/6688/
 vote_type: Ranked Choice IRV
 categories:
@@ -8,8 +8,8 @@ categories:
 options:
   0: Abstain
   1: 2.5 billion DAI (no change)
-  2: 10 billion DAI (+7500 MM)
-  3: 15 billion DAI (+12500 MM)
+  2: 10 billion DAI (+7.5B)
+  3: 15 billion DAI (+12.5B)
 ---
 
 # Poll: Increase the ETH-A Maximum Debt Ceiling - March 15, 2021
@@ -21,18 +21,16 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 MKR Token Holders may vote in this poll to keep or adjust the ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
-
-- 2500 MM DAI (no change)
-- 10000 MM DAI (+7500 MM)
-- 15000 MM DAI (+12500 MM)
+- 2.5 billion DAI (no change)
+- 10 billion DAI (+7.5B)
+- 15 billion DAI (+12.5B)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-05/6688) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
-
-- If the result requires a change to the current setting, the ETH-A Maximum Debt Ceiling (also referred as `line`) will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 - If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **Otherwise, no further actions will be taken at this time.**
