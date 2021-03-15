@@ -84,7 +84,7 @@ For any vault type, these are the steps that must be taken to modify its Debt Ce
 > 3. `0x4554482d41` becomes `0x4554482d41000000000000000000000000000000000000000000000000000000`
 
 ### 2. Input the Code into the DC-IAM Contract and Write
-Run the contract's `exec` function with the hex code for the vault type as the argument. This can be done [here](https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3#writeContract).
+Run the contract's `exec` function with the hexadecimal code for the vault type as the argument. This can be done [here](https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3#writeContract).
 
 ![DC-IAM exec](https://i.imgur.com/pglxvKG.png)
 
