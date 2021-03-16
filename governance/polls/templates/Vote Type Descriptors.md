@@ -26,25 +26,25 @@
 
 **The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
 
-**If the '$A' option recieves the most votes (excluding 'Abstain') then the following actions will be taken:**
+**If the '$A' option receives the most votes (excluding 'Abstain') then the following actions will be taken:**
 * outcome1
 * outcome2
 
-**If the '$B' option recieves the most votes (excluding 'Abstain') then the following actions will be taken:**
+**If the '$B' option receives the most votes (excluding 'Abstain') then the following actions will be taken:**
 * outcome1
 * outcome2
 
-**If the '$C' option recieves the most votes (excluding 'Abstain') then the following actions will be taken:**
+**If the '$C' option receives the most votes (excluding 'Abstain') then the following actions will be taken:**
 * outcome1
 * outcome2
 
-**If the '$D' option recieves the most votes (excluding 'Abstain') then the following actions will be taken:**
+**If the '$D' option receives the most votes (excluding 'Abstain') then the following actions will be taken:**
 * outcome1
 * outcome2
 
 ## $Instant-RunoffVoteOutcomes
 
-**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast then the following actions will be taken:**
+**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast then the following actions will be taken:**
 * outcome1
 * outcome2
 
