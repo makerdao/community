@@ -68,13 +68,13 @@ When `exec` is called, the following logic is executed by the smart contract:
     b) If no, do nothing.  
 3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value.  
 
-In practice, this means that calling the `exec` function will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation *decreases* the Debt Ceiling. If this operation will *increase* the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
+In practice, this means that calling the `exec` method will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation *decreases* the Debt Ceiling. If this operation will *increase* the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
 
 ## Tutorial
 
 For any vault type, these are the steps that must be taken to modify its Debt Ceiling via the DC-IAM:
 
-### 1. Determine the Hexadecimal Code for the Vault Yype
+### 1. Determine the Hexadecimal Code for the Vault Type
 1. Convert the vault name into hexadecimal 
 3. Prefix it with `0x`
 4. Suffix it with zeroes so that the string has a total lenght of 66 characters
@@ -84,11 +84,11 @@ For any vault type, these are the steps that must be taken to modify its Debt Ce
 > 3. `0x4554482d41` becomes `0x4554482d41000000000000000000000000000000000000000000000000000000`
 
 ### 2. Input the Code into the DC-IAM Contract and Write
-Run the contract's `exec` function with the hexadecimal code for the vault type as the argument. This can be done [here](https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3#writeContract).
+Run the contract's `exec` method with the hexadecimal code for the vault type as the argument. This can be done [here](https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3#writeContract).
 
 ![DC-IAM exec](https://i.imgur.com/pglxvKG.png)
 
-Running this function will effectively modify the Debt Ceiling for the given vault type, unless an increase is in order and the Ceiling Increase Cooldown has not yet passed.
+Running this method will effectively modify the Debt Ceiling for the given vault type, unless an increase is in order and the Ceiling Increase Cooldown has not yet passed.
 
 > To check the last time DC-IAM was executed on a given vault, see the [contract's events](https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3#events) and look for the relevant vault type hexadecimal code (next to ``[topic1]``) and for the execution date date. `tty` is currently set to 12 hours.
 > 
@@ -105,7 +105,7 @@ Running this function will effectively modify the Debt Ceiling for the given vau
 
 ## Appendix
 
-* A one-click argumentless contract for executing DC-IAM for all vault types at the same time: <https://etherscan.io/address/0xd5a63a56c790c67e3f92bce5076dc464f98c6df1#writeContract>
+* A one-method contract for executing DC-IAM for all vault types at the same time: <https://etherscan.io/address/0xd5a63a56c790c67e3f92bce5076dc464f98c6df1#writeContract>
 * A list of the hexadecimal codes for all vault types that can be fed into DC-IAM:
     * **AAVE-A**
         *  0x414156452d410000000000000000000000000000000000000000000000000000
