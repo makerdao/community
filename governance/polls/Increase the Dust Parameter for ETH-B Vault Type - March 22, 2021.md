@@ -1,5 +1,5 @@
 ---
-title: Increase the Dust Parameter for ETH-B Vault Type - March 15, 2021
+title: Increase the Dust Parameter for ETH-B Vault Type - March 22, 2021
 summary: Rank your preferred options to adjust the Dust Parameter for the ETH-B vault type.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704
 vote_type: Ranked Choice IRV
@@ -9,11 +9,11 @@ options:
    0: Abstain
    1: 2,000 DAI (no change)
    2: 10,000 DAI (+ 8,000)
-   2: 15,000 DAI (+ 13,000)
+   3: 15,000 DAI (+ 13,000)
 ---
-# Poll: Increase the Dust Parameter for ETH-B Vault Type - March 15, 2021
+# Poll: Increase the Dust Parameter for ETH-B Vault Type - March 22, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on March 15, 2021 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on March 22, 2021 at 16:00 UTC.
 
 **This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
 
@@ -29,7 +29,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
