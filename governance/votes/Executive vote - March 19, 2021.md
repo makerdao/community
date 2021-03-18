@@ -13,8 +13,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes the following **changes** will occur within the Maker Protocol:
-- The ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 2.5 billion to 15 billion.
-- The WBTC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 350 million to 750 million.
+- The ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 2.5 billion DAI to 15 billion DAI.
+- The WBTC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 350 million DAI to 750 million DAI.
 - The [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) parameter will increase from 2,000 DAI to 5,000 DAI for all vault types with the exception of ETH-B, PSM-USDC-A, and RWA001-A.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -31,11 +31,11 @@ If this executive proposal does not pass within 30 days then it will expire and 
 
 ### Increase the ETH-A Maximum Debt Ceiling
 
-As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmQrPyC3#poll-detail) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-05/6688), the ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will increase from 2.5 billion to 15 billion if this executive proposal passes.
+As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmQrPyC3#poll-detail) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-05/6688), the ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will increase from 2.5 billion DAI to 15 billion DAI if this executive proposal passes.
 
 ### Increase the WBTC-A Maximum Debt Ceiling
 
-As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmQGirCV#poll-detail) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjust-wbtc-a-dc-iam-line/6807), the WBTC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will increase from 350 million to 750 million if this executive proposal passes.
+As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmQGirCV#poll-detail) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjust-wbtc-a-dc-iam-line/6807), the WBTC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will increase from 350 million DAI to 750 million DAI if this executive proposal passes.
 
 ### Increase the Dust Parameter for Most Vault Types
 
