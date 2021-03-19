@@ -4,12 +4,7 @@ title: Template - [Executive Vote] Approve March 2021 Governance Cycle Bundle - 
 ---
 # [Executive Proposal] Approve March 2021 Governance Cycle Bundle - March 22, 2021
 
-The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Proposal into the voting system. **MKR Holders should vote for this proposal if they support the following MIPs and Subproposals.**
-
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days.
-As a [continuous approval vote](https://community-development.makerdao.com/en/learn/governance/how-voting-works), the proposal will pass when the number of votes in favor surpasses the votes in favor of the previously leading proposal.
-
-If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
+The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Proposal into the voting system. MKR Holders should vote for this proposal if they support the following MIPs and Subproposals.
 
 _New to voting? Check out our pages on [How Voting Works](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) and how to [Setup your Wallet](https://community-development.makerdao.com/en/learn/governance/voting-setup)_
 
@@ -23,21 +18,32 @@ If this Executive proposal passes the following **MIP status changes** will occu
 * Core Unit MIP set related amendments will move to Accepted status and have their Pull Requests merged.
 * RWF-001, Real World Finance Core Unit Proposals will move to Accepted status.
     * Mandate will move to Accepted Status.
-    * Budget will move to Accepted Status.
+    * Budget of 40k DAI per month for an unspecified number of months will move to Accepted Status.
     * Facilitator Onboarding of Sébastien Derivaux will move to Accepted Status.
 * GOV-001, Governance Core Unit Proposals will move to Accepted status.
     * Mandate will move to Accepted Status.
-    * Budget will move to Accepted Status.
+    * Budget of 80k DAI per month for 3 months, April-June, will move to Accepted Status.
     * Facilitator Onboarding of LongForWisdom will move to Accepted Status.
 * RISK-001, Risk Core Unit Proposals will move to Accepted status.
     * Mandate will move to Accepted Status.
-    * Budget will move to Accepted Status.
+    * Budget of 100,500 DAI per month for 3 months, April-June, will move to Accepted Status.
     * Facilitator Onboarding of Primož Kordež will move to Accepted Status.
 * The Keg module MIP set will move to Accepted status.
 * MIP43: Term Lending Module will move to Accepted status.
 * MIP45: Liquidations 2.0 will move to Accepted status.
 * MIP46: Parameter Proposal Groups will move to Accepted status.
 * MIP47: MakerDAO Multisignature Wallet Management will move to Accepted status.
+
+**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days.
+As a [continuous approval vote](https://community-development.makerdao.com/en/learn/governance/how-voting-works), the proposal will pass when the number of votes in favor surpasses the votes in favor of the previously leading proposal.
+
+If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
+
+Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
 ---
 
@@ -50,7 +56,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 - [MIP38: DAO Primitives State](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md) | [Discussion](https://forum.makerdao.com/t/mip38-dao-primitives-state/6095)
 - [MIP39: Core Unit Framework](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md) | [Discussion](https://forum.makerdao.com/t/mip39-core-unit-framework/6096)
 - [MIP40: Budget Framework](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md) | [Discussion](https://forum.makerdao.com/t/mip40-budget-framework/6097)
-- [MIP41: Facilitator Framework](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md) | [Discussion]https://forum.makerdao.com/t/mip41-facilitator-framework/6098)
+- [MIP41: Facilitator Framework](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md) | [Discussion](https://forum.makerdao.com/t/mip41-facilitator-framework/6098)
 - [MIP4c2-SP12: MIP16 Amendments](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP12.md) | [Discussion](https://forum.makerdao.com/t/mip4c2-sp12-mip16-amendments/6101)
 - [MIP4c2-SP10: MIP0 Amendments](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP10.md) | [Discussion](https://forum.makerdao.com/t/mip4c2-sp10-mip0-amendments/6099)
 
