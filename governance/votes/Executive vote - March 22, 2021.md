@@ -36,10 +36,9 @@ If this Executive proposal passes the following **MIP status changes** will occu
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days.
-As a [continuous approval vote](https://community-development.makerdao.com/en/learn/governance/how-voting-works), the proposal will pass when the number of votes in favor surpasses the votes in favor of the previously leading proposal.
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 
-If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
+As a [continuous approval vote](https://community-development.makerdao.com/en/learn/governance/how-voting-works), the proposal will pass when the number of votes in favor surpasses the votes in favor of the previously leading proposal.
 
 ---
 
