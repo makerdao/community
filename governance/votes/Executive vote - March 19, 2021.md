@@ -39,7 +39,7 @@ As per the outcome of this governance [poll](https://vote.makerdao.com/polling/Q
 
 ### Increase the Dust Parameter for Most Vault Types
 
-As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmSuFZx5?network=mainnet) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704), the Debt Floor (`dust`) parameter will increase from 2,000 DAI to 5,000 DAI for most vault types if this executive proposal passes. Note that the following vault types are **excluded** from this change:
+As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmSuFZx5?network=mainnet) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704), the [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) parameter will increase from 2,000 DAI to 5,000 DAI for most vault types if this executive proposal passes. Note that the following vault types are **excluded** from this change:
 * ETH-B
 * PSM-USDC-A
 * RWA001-A
