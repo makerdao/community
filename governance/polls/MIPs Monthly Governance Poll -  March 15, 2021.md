@@ -21,7 +21,7 @@ The Governance Facilitators have placed the MIP3: Monthly Governance Poll into t
 
 This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on March 22, 2021. The bundled contents of this poll consist of:
 
-**Core Unit Framework and Amendments**
+**Core Unit Framework and Amendments Set**
 
 - [MIP38: DAO Primitives State](https://forum.makerdao.com/t/mip38-dao-primitives-state/6095)
 - [MIP39: Core Unit Framework](https://forum.makerdao.com/t/mip39-core-unit-framework/6096)
@@ -30,8 +30,22 @@ This poll asks whether the bundled contents of this month's Governance Cycle sho
 - [MIP4c2-SP12: MIP16 Amendments](https://forum.makerdao.com/t/mip4c2-sp12-mip16-amendments/6101)
 - [MIP4c2-SP10: MIP0 Amendments](https://forum.makerdao.com/t/mip4c2-sp10-mip0-amendments/6099)
 
-**The Keg Module**
+**Real-World Finance Core Unit Onboarding Set**
+- [MIP39c2-SP1: Adding Core Unit (Real-World Finance)](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224)
+- [MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
+- [MIP41c4-SP1: Facilitator Onboarding (Real-World Finance)](https://forum.makerdao.com/t/mip41c4-sp1-facilitator-onboarding-real-world-finance/6226)
 
+**Risk Core Unit Onboarding Set**
+- [MIP39c2-SP2: Adding Risk Core Unit](https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/6342)
+- [MIP40c2-SP2: Add Core Unit Budget (Risk Core Unit)](https://forum.makerdao.com/t/mip40c2-sp2-add-core-unit-budget-risk-core-unit/6343)
+- [MIP41c4-SP2: Risk Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp2-risk-core-unit-facilitator-onboarding/6344)
+
+**Governance Core Unit Onboarding Set**
+- [MIP39c2-SP3: Governance Core Unit - GOV-001](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348)
+- [MIP40c2-SP3: Core Unit Budget - GOV-001](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
+- [MIP41c4-SP3: Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350)
+
+**The Keg Module Set**
 - [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
 - [MIP48: Streaming Payments via the Keg](https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340)
 
@@ -42,21 +56,6 @@ This poll asks whether the bundled contents of this month's Governance Cycle sho
 **General Proposals**
 - [MIP46: Parameter Proposal Groups](https://forum.makerdao.com/t/mip46-parameter-proposal-groups/6341)
 - [MIP47: MakerDAO Multisignature Wallet Management](https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338)
-
-**Real-World Finance Core Unit Onboarding**
-- [MIP39c2-SP1: Adding Core Unit (Real-World Finance)](https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224)
-- [MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
-- [MIP41c4-SP1: Facilitator Onboarding (Real-World Finance)](https://forum.makerdao.com/t/mip41c4-sp1-facilitator-onboarding-real-world-finance/6226)
-
-**Risk Core Unit Onboarding**
-- [MIP39c2-SP2: Adding Risk Core Unit](https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/6342)
-- [MIP40c2-SP2: Add Core Unit Budget (Risk Core Unit)](https://forum.makerdao.com/t/mip40c2-sp2-add-core-unit-budget-risk-core-unit/6343)
-- [MIP41c4-SP2: Risk Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp2-risk-core-unit-facilitator-onboarding/6344)
-
-**Governance Core Unit Onboarding**
-- [MIP39c2-SP3: Governance Core Unit - GOV-001](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348)
-- [MIP40c2-SP3: Core Unit Budget - GOV-001](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
-- [MIP41c4-SP3: Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350)
 
 The proposals can be reviewed in this week's MIPs update [here](https://forum.makerdao.com/t/weekly-mips-update-29/7000). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-132-thursday-march-11-17-00-utc/6859) on March 11, 2021.
 
