@@ -10,7 +10,7 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2021-03-22T10:00:00
+start_date: 2021-03-22T14:00:00
 end_date: 2021-03-29T20:00:00
 ---
 # Poll:TEMP GENERIC CHANGE TEST POLL2
