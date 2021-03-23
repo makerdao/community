@@ -30,7 +30,7 @@ The primary reason to increase the Global Liquidation Limit would be confidence 
 
 **Why decrease this parameter?**
 
-Conversely, the primary reason to decrease the Global Liquidation Limit is a concern for the underlying collateral auction system. If there are concerns about the liquidity of Maker Keepers or the broader market to absorb the large sell orders promoted by liquidations, one response may be to lower the Global Liquidation Limit which would prevent too much collateral from being auctioned off at once.  
+Conversely, the primary reason to decrease the Global Liquidation Limit is a concern for the underlying collateral auction system. If there are concerns about the liquidity of Maker Keepers, or the broader market, to absorb the large sell orders prompted by liquidations, one response may be to lower the Global Liquidation Limit which would prevent too much collateral from being auctioned off at once.  
 
 ## Considerations
 
