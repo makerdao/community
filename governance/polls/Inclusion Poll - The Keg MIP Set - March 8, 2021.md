@@ -1,7 +1,7 @@
 ---
 title: Inclusion Poll for Keg Streaming Payments Module (MIP34 and MIP48) MIP Set - March 8, 2021
 summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
-discussion_link: https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013 + https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340
+discussion_link: https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013
 vote_type: Plurality Voting
 categories:
    - Technical
