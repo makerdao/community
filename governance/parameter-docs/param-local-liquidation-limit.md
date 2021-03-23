@@ -10,7 +10,7 @@ Technical Docs:
 
 ## Description
 
-The Local Liquidation Limit sets the maximum amount of debt (plus liquidation penalties) that can be up for auction within a particular vault type (`ilk`) at any one time. When the amount of unsafe debt exceeds this maximum for a particular `ilk` , no new auctions  from that `ilk` can begin until others are completed. 
+The Local Liquidation Limit sets the maximum amount of debt (plus liquidation penalties) that can be up for auction within a particular vault type (`ilk`) at any one time. When the amount of unsafe debt exceeds this maximum for a particular `ilk`, no new auctions from that `ilk` can begin until others are completed. 
 
 ## Purpose
 
@@ -18,18 +18,18 @@ Much like the Global Liquidation Limit, the Local Liquidation Limit parameter ex
 
 ## Trade-offs
 
-While the Local Liquidation Limit provides an added measure of safety for individual vault types, setting an appropriate limit is quite difficult. If this parameter is set too high, a major collateral decline or exploit within a particular vault could quickly result in an unacceptable level of bad debt within the system. With that said, if the parameter is set too low a sharp decline in a particular collateral could result in a backlog of unsafe postions that rerquire liquidation. If the collateral value continues to decline in this situation, the protocol could again be met with an unacceptable level of bad debt within the system.
+While the Local Liquidation Limit provides an added measure of safety for individual vault types, setting an appropriate limit is quite difficult. If this parameter is set too high, a major collateral decline or exploit within a particular vault could quickly result in an unacceptable level of bad debt within the system. With that said, if the parameter is set too low a sharp decline in a particular collateral could result in a backlog of unsafe positions that require liquidation. If the collateral value continues to decline in this situation, the protocol could again be met with an unacceptable level of bad debt within the system.
 ## Changes
 
 Adjusting the Local Liquidation Limit parameters is a manual process that requires an executive vote. Changes to the Local Liquidation Limits are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
 
-The primary reason to increase a Local Liquidation Limit would be confidence in a valut-type's risk configuration combined with plenty of market liquidity for the underlying collateral. Provided there is enough liquidity, the community may wish to raise the Local Liquidation Limit to prevent a situation where the protocol is not able to auction off unsafe postions quickly enough.
+The primary reason to increase a Local Liquidation Limit would be confidence in a vault type's risk configuration combined with plenty of market liquidity for the underlying collateral. Provided there is enough liquidity, the community may wish to raise the Local Liquidation Limit to prevent a situation where the protocol is not able to auction off unsafe positions quickly enough.
 
 **Why decrease this parameter?**
 
-Conversely, the primary reason to decrease the Local Liquidation Limit is a concern for the liquidity of an underlying collateral type, or the other risk parameters of a vault type. If there are concerns about the liquidity of Maker Keepers or the broader market to absorb the large sell orders promted by liquidations, one response may be to lower the Local Liquidation Limit for the collateral's availible vaults in order to prevent liquidation auctions from flodding the broader market.
+Conversely, the primary reason to decrease the Local Liquidation Limit is a concern for the liquidity of an underlying collateral type or the other risk parameters of a vault type. If there are concerns about the liquidity of Maker Keepers or the broader market to absorb the large sell orders prompted by liquidations, one response may be to lower the Local Liquidation Limit for the collateral's available vaults in order to prevent liquidation auctions from flooding the broader market.
 
 ## Considerations
 
