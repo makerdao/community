@@ -1,11 +1,9 @@
 ---
-title: "Global Communities Need Translations"
+title: "Translations for Global Communities"
 authors: ["andytudhope", "twblack88", "MaximumCrash"]
 date: 2021-02-19
 image: "4"
 ---
-
-# Translations and the UI
 
 Translations can present a challenge. But not if you're [Maximum Crash](https://github.com/MaximumCrash). Our philosophy is that
 "content creators write the website", so the `content` folder therefore decides how the site is rendered,
@@ -18,19 +16,17 @@ and "No results" into the current locale...
 i18n is a Javascript API that allows developers an easy and "lightweight" (<- we'll get to that) way of translating
 textual content for a node based application. It's been great, but the reason we decided NOT to use it for this
 project is because it would couple translated content with our code. This is a big no-no, as it goes against our WYSIWYG
-philosophy for the content folder and means that content creators would have to translate text in 2 different places.
+philosophy for the `content` folder and means that content creators would have to translate text in 2 different places.
 
 Add to this the fact that the i18n package for gatsby, and other frameworks, has a tendency to be larger than necessary.
 We believe that keeping things simple will be a positive for the scale of our application. Therefore, we present:
-
 ## UseTranslation (aka MaximumLang)
 
-Did you catch the `camlCase` joke? 
+Did you catch the `camlCase` joke? If you did, kudos you're a super nerd too.
 
 useTranslation is a hook developed by Réjon Taylor-Foster with inspiration from and reference to
 [this blog](https://w11i.me/how-to-build-multilingual-website-in-next-js). It initializes
 inside functional components and exports the current site's locale, and a `t` function.
-
 ### How to translate in code
 
 If your `en/UI.json` looks like this:
@@ -45,7 +41,6 @@ If your `en/UI.json` looks like this:
   }
 }
 ```
-
 Accomplish translating and rendering the word "Search" by writing the following:
 
 ```js:title=component-example.js
@@ -57,7 +52,6 @@ const ComponentExample = () => {
   return <p>{t("Search")}</p>;
 };
 ```
-
 ### LangSpaces
 
 We can extend the capabilities of this simple `t` function with what we call LangSpaces (Language Space):
@@ -75,7 +69,6 @@ We can extend the capabilities of this simple `t` function with what we call Lan
   }
 }
 ```
-
 to translate and render "error_a", write the following:
 
 ```js:title=component-langspace-example.js
@@ -101,7 +94,6 @@ const ComponentExample = () => {
   );
 };
 ```
-
 ### Variables and Plurals
 
 You want the variable of counter included and with plurals? No problem, anything inside `{{}}` will be replaced when rendered:
@@ -130,15 +122,13 @@ const ComponentExample = () => {
    )
 }
 ```
-
 ### Advanced Plurals
 
 Because different locales can have multiple plurals, and different ways of counting (ie. Arabic),
 we have a system in place to handle counting differently if the strict variable is added to the `t` function like so:
-`t('Friend', null, {count: 1, strict: true})`. NOTE: `Friend` and `Friend_plural` are still valid, but will be overriden when strict is provided to the variables argument.
+`t('Friend', null, {count: 1, strict: true})`. NOTE: `Friend` and `Friend_plural` are still valid, but will be overridden when a strict argument is provided to the variable(s).
 
 Your json will look like:
-
 
 ```json:title=en/UI.json
 {
@@ -174,11 +164,9 @@ const ComponentExample = () => {
 
 <CTA>
 
-
 NOTE: If your count goes past 4 or is less than 0, it will default to key_5
 
 </CTA>
-
 
 ### Getting a localized string from another locale
 
@@ -214,5 +202,4 @@ const ComponentExample = () => {
 }
 ```
 
-These are just examples for the sake of documentation. For an in-depth dive on how the function works,
-see the [comments in code](https://github.com/makerdao/community/blob/r2d/src/modules/localization/useTranslation.js)
+These are just examples, for an in-depth dive on how the function works see the [comments in code](https://github.com/makerdao/community/blob/r2d/src/modules/localization/useTranslation.js)
