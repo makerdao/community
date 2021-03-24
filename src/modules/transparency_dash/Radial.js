@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { Box, jsx } from "theme-ui";
 
-const Radial = ({ size = 200, value = 0, min = 0, max = 1, ...props }) => {
+const Radial = ({ size = 200, value = 0, min = 0, max = 1 }) => {
   const _value = value < min ? 0 : value;
 
   return (

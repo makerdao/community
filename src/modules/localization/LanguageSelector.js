@@ -1,4 +1,5 @@
 /** @jsx jsx */
+import { Fragment } from "react";
 import Select, { components } from "react-select";
 import { useNavigate } from "@reach/router";
 import { Box, jsx, Text, useThemeUI } from "theme-ui";
@@ -7,7 +8,7 @@ import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
 
-const LanguageSelector = ({ sx, data, pagePath }) => {
+const LanguageSelector = ({ data, pagePath }) => {
   const { theme } = useThemeUI();
   const navigate = useNavigate();
   const { locale, t, allLocales } = useTranslation();
@@ -227,7 +228,9 @@ const LanguageSelector = ({ sx, data, pagePath }) => {
         }}
       >
         {availableLanguages.length > 0 && (
-          <>{availableLanguages.map((loc) => t("Flag", null, null, loc))}</>
+          <Fragment>
+            {availableLanguages.map((loc) => t("Flag", null, null, loc))}
+          </Fragment>
         )}
       </Text>
 

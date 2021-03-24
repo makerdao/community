@@ -3,13 +3,13 @@
 ## System Status
 
 **Catflip: Parameters** - https://catflip.co/  
-Shows the current values for each of the major system parameters. This includes the more commonly known parameeters, such as stability fees for each collateral package, and the less commonly known parameters, such as those related to auctions, accounting and the GSM.
+Shows the current values for each of the major system parameters. This includes the more commonly known parameters, such as stability fees for each collateral package, and the less commonly known parameters, such as those related to auctions, accounting and the GSM.
 
 **DAI Stats** - https://daistats.com/  
 Shows an overview of the current state of the Maker Protocol. Including total DAI minted against each collateral type, current Stability Fee and DSR settings, and the current system surplus / debt.
 
 **MakerBurn** - https://makerburn.com/  
-Clean and Elegant UI. Shows current and historical DAI supply, amount of DAI locked in the DSR, annual MKR token burn rate and highlights any recent changes.
+Clean and Elegant UI. Shows current and historical DAI supply, amount of DAI locked in the DSR, annual MKR token burn rate, and highlights any recent changes.
 
 ## Dai Stability
 
@@ -57,5 +57,5 @@ Shows current auction parameters and the status of auctions that have triggered 
 **Catflip: Changelog** - https://catflip.co/changelog  
 Shows the previous and changed values for system parameters that have changed in each historical executive vote. Useful for figuring out when a certain parameter was last changed.
 
-**MKRGov.science** - https://mkrgov.science/  
-Shows governance analytics for current and historical votes. Also shows aggregated data based on the outcome of individual votes. Useful to find out the outcome of a particular proposal or poll, and find out how many addresses voted in it, the distribution of MKR over time and options.
+**MCD Voting Tracker** - https://beta.mcdgov.info/
+Keeps track of current and historical votes and shows analytics. Useful to find out the outcome of a particular proposal or poll, find out how many and which addresses voted in it, and the distribution of MKR over time and options.

@@ -1,4 +1,4 @@
-const TitleConverter = ({ frontmatter, title, rawBody, fileAbsolutePath }) => {
+const TitleConverter = ({ frontmatter, rawBody, fileAbsolutePath }) => {
   const firstHeading = rawBody
     ? rawBody.split("\n").find((n) => n[0] === "#")
     : null;

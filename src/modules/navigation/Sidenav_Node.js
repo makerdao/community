@@ -9,7 +9,6 @@ const Sidenav_Node = ({
   url,
   title,
   items,
-  parentActive,
   currentPath,
   parentDepth = 0,
   onClick,
@@ -54,8 +53,11 @@ const Sidenav_Node = ({
           activeClassName={active ? "active" : " "}
           onClick={onClick}
           sx={{
-            color: currentPath === url || currentPath.includes(otherProps.slugPart) ? "primary" : "text",
-            fontWeight: 'normal',
+            color:
+              currentPath === url || currentPath.includes(otherProps.slugPart)
+                ? "primary"
+                : "text",
+            fontWeight: "normal",
             py: "6px",
             pr: "36px",
             textDecoration: "none",
@@ -119,7 +121,7 @@ const Sidenav_Node = ({
             listStyleType: "none",
           }}
         >
-          {items.map((item, index) => (
+          {items.map((item) => (
             <Sidenav_Node
               key={`${item.url}-${item.index}`}
               parentActive={active}
