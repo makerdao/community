@@ -26,7 +26,9 @@ This parameter primarily exists to prevent collateral auctions continuing past t
 * What dangers does this parameter represent?
 * What advantages does this parameter represent?
 
-TBC
+Setting this parameter too low may result in collateral auctions selling collateral for below market price in the event of unforseen disruptions that prevent bids. 
+
+On the other hand, setting this parameter too high may delay successful auction resolution due to the auction being reset too frequently. Frequent resets also result in the protocol paying out additional kick incentives (both proportional and flat.) 
 
 ## Changes
 

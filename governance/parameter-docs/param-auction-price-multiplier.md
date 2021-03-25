@@ -22,13 +22,15 @@ The primary purpose of the Auction Price Multiplier is so that when falling pric
 
 ## Trade-offs
 
-In a situation where a drop in collateral prices triggers liquidations but is swiftly followed by an increase in collateral prices, the Protocol runs the risk of starting an auction at a lower price than the market price. This is bad for the vault holder and also potentially for the protocol itself, as the collateral will be sold at a discount. Having a Auction Price Multiplier greater than 1.0x reduces the likelihood of this situation, as the starting price is artificially increased.
+In a situation where a drop in collateral prices triggers liquidations but is swiftly followed by an increase in collateral prices, the Protocol runs the risk of starting an auction at a lower price than the market price. This is bad for the vault holder because the collateral will be sold at a discount. If this discount exceeds the liquidation penalty, this can also be bad for the Maker Protocol. An Auction Price Multiplier greater than 1.0x reduces the likelihood of this situation, as the starting auction price is artificially increased.
 
 The advantage of the Auction Price Multiplier greater than 1.0x is best illustrated with an example. 
 
-Imagine that ETH drops from $1000 to $800 and liquidations are triggered for multiple vaults. Due to the OSM (Oracle Security Module), these liquidations are delayed by one hour. In that one hour, the ETH price then increases to $900. With an Auction Price Multiplier of 1.0x, the collateral would be sold for $800, $100 below the market price. With an Auction Price Multiplier of 1.2x, the auction would start at $960 and a short time later would end at around the market price of $900.
+Imagine that ETH drops from $1000 to $800 and liquidations are triggered for multiple vaults. Due to the OSM (Oracle Security Module), these liquidations are delayed by one hour. In that one hour, the ETH price then increases to $900. 
+* With an Auction Price Multiplier of 1.0x, the collateral would be sold instantly for $800, $100 below the market price. 
+* With an Auction Price Multiplier of 1.2x, the auction would start at $960 and a short time later would drop to $900 and close just below the market price.
 
-However, the downside to a higher Auction Price Multiplier is that in a situation where the market price of a collateral type *continues* to drop, the falling price auction may never reach the market price before it expires. In this situation sale of the collateral is delayed and results in an overall worse price than if the Auction Price Multiplier had been lower.
+However, the downside to a higher Auction Price Multiplier is that in a situation where the market price of a collateral type *continues* to drop, the falling price auction may never reach the market price before it expires. In this situation sale of the collateral is delayed and the result is an overall worse price than if the Auction Price Multiplier had been lower.
 
 This negative effect of the Auction Price Multiplier can be mitigated by setting an Auction Price Function that compliments the multiplier. For example by setting a higher Auction Price Multiplier in combination with an exponentially decreasing Auction Price Function. For more details on the Auction Price Function, see the appropriate documentation.
 
