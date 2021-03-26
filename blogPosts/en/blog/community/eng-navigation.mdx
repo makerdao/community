@@ -7,21 +7,21 @@ image: "2"
 
 While there are many great gatsby-starters out there for documentation, we decided
 to build our own from scratch because we needed to satisfy a number of requirements
-unique to decentralized projects, which include: handling multiple languages easily and
+unique to decentralized projects. These include: handling multiple languages easily and
 making it as easy as possible for content contributors to write and adapt the site
 as they see fit without requiring them to learn React.
 
 Our philosophy is **"content creators write the website"**, which means that we
-have put a lot of thought and effort into how navigation, translations and 404 pages work
+have put a lot of thought and effort into how navigation, translations, and 404 pages work
 and how non-developers can control all these things using nothing more than mdx.
 
 ## The Sidenav
 
-Each top level section (Funding, Learn, Contribute) has it's own directory displayed
+Each top-level section (Funding, Learn, Contribute) has its own directory displayed
 in the form of a vertical [sidenav](https://github.com/makerdao/community-portal/tree/r2d/src/modules/navigation).
 This sidenav has very specific features:
 
-1. Auto-magically generated links based on existing file structure of top level section
+1. Auto-magically generated links based on the existing file structure of top-level section
 2. Recursively intelligent
 3. Support for multiple languages
 4. Default locale ("en") fills in the gaps for missing pages when on a different locale page
@@ -46,13 +46,13 @@ We used parts of the [hasura/gastsby-gitbook-starter](https://github.com/hasura/
 as a reference for how to logically put this together.
 
 To keep it short, there's a file called `Sidenav_Tree` that exports a method that
-converts the MDX edge data into {title, slug, rawSlug} (rawSlug being the file path without it's locale)
-and only returns elements for the locale specified and our currentTopSection (Learn, Contribute, Funding, etc.).
+converts the MDX edge data into {title, slug, rawSlug} (rawSlug being the file path without its locale)
+and only returns elements for the locale specified and our `currentTopSection` (Learn, Contribute, Funding, etc.).
 We convert this into sidenav objects for our default locale and our current locale
 (if our current locale is the same as the default we don't make objects for it).
 Then we merge overlap the locale files over the default locale files.
 
-After we've gotten our `mergedLocaleFiles` we reduce all them using some of the sidenav example
+After we got our `mergedLocaleFiles` we reduce all of them using some of the sidenav example
 from the hasura starter to generate an object `items` that contain more items
 (tl;dr: our sidenav in object/array form).
 
@@ -88,7 +88,7 @@ ellipsis in place of their full title. They are still clickable links though.
 
 ## 404s
 
-Following the philosophy of "content creators write the website" means we should allow them to
+Following the philosophy of **"content creators write the website"** means we should allow them to
 write 404 pages as well. Yes, from a developer standpoint this sounds outlandish, but because our
 content (specifically our translations) are all encapsulated in the content folder it should stay that way
 (instead of having translators bounce into code to fix the 404 page).
