@@ -12,7 +12,7 @@ options:
 ---
 # Poll: Increase Debt Ceiling and enable DC-IAM for UNIV2DAIETH-A - March 22, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Mandated Actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
@@ -20,7 +20,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following changes:
 * Increase Maximum Debt Ceiling for UNIV2DAIETH-A from 3 million DAI to 30 million DAI.
-* Enable the Debt Ceiling Instant Access Module (DC-IAM)[https://community-development.makerdao.com/en/learn/governance/module-dciam] for UNIV2DAIETH-A with the following parameters:
+* Enable the Debt Ceiling Instant Access Module ([DC-IAM](https://community-development.makerdao.com/en/learn/governance/module-dciam)) for UNIV2DAIETH-A with the following parameters:
     * Ceiling Increase Cooldown (`ttl`) = 12h
     * Target Available Debt (`gap`) = 5m
 
