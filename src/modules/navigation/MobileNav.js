@@ -9,7 +9,7 @@ import { Link, SidenavNode } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
 import { useNavigation } from "@modules/navigation/context";
 
-const MobileNav = ({ sidenavData }) => {
+const MobileNav = ({ sidenavData, blogData }) => {
   const { headerLinks, mobileNavOpen, hideMobileMenu } = useNavigation();
   const { locale, t } = useTranslation();
   const { pathname } = useLocation();
@@ -19,9 +19,11 @@ const MobileNav = ({ sidenavData }) => {
   //AND if the sidenav for this top section has items render inside the submenu.
   //Else render the main menu
   const renderSubmenuInitial =
-    sidenavData.items[0] !== undefined &&
+    (blogData !== undefined
+    )
+    || (sidenavData.items[0] !== undefined &&
     sidenavData.items[0].slugPart === pathname.split("/")[2] &&
-    sidenavData.items[0].items.length > 0;
+    sidenavData.items[0].items.length > 0);
 
   const [showMainMenu, setShowMainMenu] = useState(
     renderSubmenuInitial === false
@@ -31,6 +33,83 @@ const MobileNav = ({ sidenavData }) => {
 
   if (!mobileNavOpen) {
     return null;
+  }
+
+  //NOTE(Rejon): This is to mimic the subnav menu link/button logic for the Blog 
+  //             since it's routing logic lives outside of the typical sidenav flow. 
+  const renderBlogButton = () => {
+    //Render the Blog link as a button that can then take us to the submenu
+    if (renderSubmenuInitial && blogData !== undefined)
+    {
+      return (
+        <Box
+          sx={{
+            py: "2vh",
+            px: [3, "30px", null],
+            textDecoration: "none",
+            color: "onBackgroundAlt",
+            position: "relative",
+            fontWeight: "500",
+            cursor: "pointer",
+            "&:hover": {
+              textDecoration: "none",
+              color: "primary",
+            },
+          }}
+          onClick={() => setShowMainMenu(false)}
+          key={`mobile-nav-header-link-blog`}
+        >
+          {t("Blog")}
+          <Icon
+            name={
+              "chevron_right"
+            }
+            size={"3.9vw"}
+            sx={{
+              position: "absolute",
+              right: 4,
+              top: "50%",
+              transform: "translateY(-50%)",
+            }}
+          />
+        </Box>
+      )
+    }
+
+    //Return normal link 
+    return(
+      <Link
+        to={`/${locale}/blog`}
+        sx={{
+          py: "2vh",
+          textDecoration: "none",
+          color: "onBackgroundAlt",
+          position: "relative",
+          fontWeight: "normal",
+          px: [3, "30px", null],
+          "&:hover": {
+            textDecoration: "none",
+          },
+        }}
+        onClick={hideMobileMenu}
+        key={`mobile-nav-header-link-blog`}
+        hideExternalIcon
+      >
+        {t('Blog')}
+        <Icon
+          name={
+            "chevron_right"
+          }
+          size={"3.9vw"}
+          sx={{
+            position: "absolute",
+            right: 4,
+            top: "50%",
+            transform: "translateY(-50%)",
+          }}
+        />
+      </Link>
+    )
   }
 
   return (
@@ -112,7 +191,7 @@ const MobileNav = ({ sidenavData }) => {
                 //destination.
                 if (
                   renderSubmenuInitial &&
-                  sidenavData.items[0] !== undefined
+                  sidenavData?.items[0] !== undefined
                 ) {
                   let urlDirs = url.replace(/\/+$/, "").split("/");
                   urlDirs = urlDirs.slice(2, urlDirs.length);
@@ -188,6 +267,7 @@ const MobileNav = ({ sidenavData }) => {
                   </Link>
                 );
               })}
+              {renderBlogButton()}
             </Flex>
 
             <Flex
@@ -311,14 +391,109 @@ const MobileNav = ({ sidenavData }) => {
                 {t("Back_To_Main_Menu")}
               </Text>
             </Flex>
-            {sidenavData && sidenavData.items[0] && (
+            {blogData !== undefined && (
+              <Box sx={{overflow: "auto", maxHeight: "80vh", pb: "10vh"}}>
+                  <Link
+                    onClick={hideMobileMenu}
+                    sx={{
+                      pb: "2vh",
+                      fontSize: ["7vw", "5vw", null],
+                      textDecoration: "none",
+                      px: [3, "30px", null],
+                      color: "primary",
+                      display: "block",
+                      mb: 3,
+                      pt: "calc(2vh + 6px)",
+                      "&:hover": {
+                        textDecoration: "none",
+                      },
+                    }}
+                    to={`/${locale}/blog/`}
+                  >
+                    {t("Blog")}
+                  </Link>
+                  <Flex
+                    sx={{
+                      flexDirection: "column",
+                      fontSize: ["5vw", "5vw", null],
+                      mb: "33px",
+                    }}
+                  >
+                  <Link
+                      to={`/${locale}/blog/`}
+                      sx={{
+                        py: "2vh",
+                        textDecoration: "none",
+                        color: "onBackgroundAlt",
+                        position: "relative",
+                        fontWeight: "normal",
+                        px: [3, "30px", null],
+                        "&:hover": {
+                          textDecoration: "none",
+                        },
+                      }}
+                      onClick={hideMobileMenu}
+                      key={`mobile-nav-header-link-blog-home`}
+                      hideExternalIcon
+                    >
+                      {t('Home')}
+                      <Icon
+                        name={
+                          "chevron_right"
+                        }
+                        size={"3.9vw"}
+                        sx={{
+                          position: "absolute",
+                          right: 4,
+                          top: "50%",
+                          transform: "translateY(-50%)",
+                        }}
+                      />
+                    </Link>
+                  {blogData.map((section, index) => (
+                    <Link
+                      to={`/${locale}/blog?section=${section}`}
+                      sx={{
+                        py: "2vh",
+                        textDecoration: "none",
+                        color: "onBackgroundAlt",
+                        position: "relative",
+                        fontWeight: "normal",
+                        px: [3, "30px", null],
+                        "&:hover": {
+                          textDecoration: "none",
+                        },
+                      }}
+                      onClick={hideMobileMenu}
+                      key={`mobile-nav-header-link-blog-${index}`}
+                      hideExternalIcon
+                    >
+                      {section}
+                      <Icon
+                        name={
+                          "chevron_right"
+                        }
+                        size={"3.9vw"}
+                        sx={{
+                          position: "absolute",
+                          right: 4,
+                          top: "50%",
+                          transform: "translateY(-50%)",
+                        }}
+                      />
+                    </Link>
+                  ))}
+                </Flex>
+              </Box>
+            )}
+            {sidenavData?.items[0] && blogData === undefined && (
               <Box sx={{ overflow: "auto", maxHeight: "80vh", pb: "10vh" }}>
                 {sidenavData.items[0].slugPart && (
                   <Link
                     onClick={hideMobileMenu}
                     sx={{
                       pb: "2vh",
-                      fontSize: ["5vw", "5vw", null],
+                      fontSize: ["7vw", "5vw", null],
                       textDecoration: "none",
                       px: [3, "30px", null],
                       color: "primary",
@@ -348,6 +523,7 @@ const MobileNav = ({ sidenavData }) => {
                       textDecoration: "none",
                       position: "relative",
                       px: "30px",
+                      pl: '16px',
                       "&:hover": {
                         textDecoration: "none",
                       },

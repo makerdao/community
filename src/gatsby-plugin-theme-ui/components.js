@@ -36,6 +36,10 @@ import {
   TDRadial,
 } from "@modules/transparency_dash";
 
+import {
+  BlogHome
+} from '@modules/blog'
+
 //Markdown Component overrides
 //Replace MDX html defaults with our custom implementation.
 
@@ -104,6 +108,7 @@ const Custom_Components = {
   motionDiv: motion.div,
   motionUL: motion.ul,
   motionLI: motion.li,
+  BlogHome
 };
 
 export default {

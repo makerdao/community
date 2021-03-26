@@ -104,7 +104,7 @@ const Layout = ({ children, pageContext, uri }) => {
           <Flex
             sx={{
               alignItems: "start",
-              pr: ["unset", "unset", "64px"],
+              // pr: ["unset", "unset", "64px"],
             }}
           >
             {children}

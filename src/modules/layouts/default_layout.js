@@ -23,7 +23,7 @@ export default (props) => {
       allMdx(
         filter: {
           fileAbsolutePath: {
-            regex: "//([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
           }
         }
       ) {
@@ -54,7 +54,17 @@ export default (props) => {
     status,
     hideLanguageSelector,
     hideBreadcrumbs,
+    isCorePage
   } = pageContext.frontmatter;
+
+  //Core Pages store their own layout and functionality. Ignore everything and just return the children.
+  if (isCorePage) {
+    return (
+      <Fragment>
+        {children}
+      </Fragment>
+    )
+  }
 
   const pathDirs = pagePath
     .replace(/^\/|\/$/g, "")
