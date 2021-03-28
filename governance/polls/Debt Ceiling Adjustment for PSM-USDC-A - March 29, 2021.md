@@ -1,6 +1,6 @@
 ---
-title: Increase the PSM USDC Debt Ceiling - March 29, 2021
-summary: Signal your support or opposition for adjusting the PSM USDC Debt Ceiling from 1 billion DAI to 2 billion DAI.
+title: Increase the PSM-USDC-A Debt Ceiling - March 29, 2021
+summary: Signal your support or opposition for adjusting the PSM-USDC-A Debt Ceiling from 1 billion DAI to 2 billion DAI.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-dc/7072
 vote_type: Plurality Voting
 categories:
@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Increase the PSM USDC Debt Ceiling - March 29, 2021
+# Poll: Increase the PSM-USDC-A Debt Ceiling - March 29, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 29 at 16:00 UTC.
 
@@ -18,10 +18,12 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the PSM USDC [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
 * Increase from 1 billion DAI to 2 billion DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-dc/7072) to inform your position on this issue before voting.
+
+Further information regarding the Peg Stability Module is available [here](https://community-development.makerdao.com/en/learn/governance/module-psm).
 
 ## Outcomes
 
