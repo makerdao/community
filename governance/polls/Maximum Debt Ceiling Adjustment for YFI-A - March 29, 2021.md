@@ -1,42 +1,35 @@
 ---
 title: Increase the YFI-A Maximum Debt Ceiling - March 29, 2021
-summary: Rank your preferred options to adjust or maintain the YFI-A Maximum Debt Ceiling.
+summary: Signal your support or opposition for adjusting the YFI-A Maximum Debt Ceiling from 45 million DAI to 75 million DAI.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-yfi-a-dc-iam-line/7055
-vote_type: Ranked Choice IRV
+vote_type: Plurality Voting
 categories:
-  - Risk Variable
+   - Risk Variable
 options:
-  0: Abstain
-  1: 45 million DAI (no change)
-  2: 75 million DAI (+30 MM)
-  3: 100 million DAI (+55 MM)
-  4: 150 million DAI (+105 MM)
+   0: Abstain
+   1: Yes
+   2: No
 ---
-
 # Poll: Increase the YFI-A Maximum Debt Ceiling - March 29, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 29 at 16:00 UTC.
 
-**This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to keep or adjust the YFI-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
-
-- 45 million DAI (no change)
-- 75 million DAI (+30 MM)
-- 100 million DAI (+55 MM)
-- 150 million DAI (+105 MM)
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the YFI-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
+* Increase from 45 million DAI to 75 million DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-yfi-a-dc-iam-line/7055) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 

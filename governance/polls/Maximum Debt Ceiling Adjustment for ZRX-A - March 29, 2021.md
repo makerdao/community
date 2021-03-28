@@ -10,7 +10,6 @@ options:
    1: Yes
    2: No
 ---
-
 # Poll: Increase the ZRX-A Maximum Debt Ceiling - March 29, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 29 at 16:00 UTC.
