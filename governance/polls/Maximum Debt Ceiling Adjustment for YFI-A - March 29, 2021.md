@@ -1,34 +1,34 @@
 ---
-title: Adjust the Bump Parameter - March 22, 2021
-summary: Rank your preferred options to adjust the Bump Parameter for FLAP Auctions
-discussion_link: https://forum.makerdao.com/t/signal-request-increase-the-bump-ttl-parameters-of-flap-auctions/6842
+title: Increase the YFI-A Maximum Debt Ceiling - March 29, 2021
+summary: Rank your preferred options to adjust or maintain the YFI-A Maximum Debt Ceiling.
+discussion_link: https://forum.makerdao.com/t/signal-request-adjust-yfi-a-dc-iam-line/7055
 vote_type: Ranked Choice IRV
 categories:
-   - Auctions
+  - Risk Variable
 options:
-   0: Abstain
-   1: 10,000 DAI (no change)
-   2: 20,000 DAI (+ 10,000)
-   3: 30,000 DAI (+ 20,000)
+  0: Abstain
+  1: 45 million DAI (no change)
+  2: 75 million DAI (+30 MM)
+  3: 100 million DAI (+55 MM)
+  4: 150 million DAI (+105 MM)
 ---
-# Poll: Adjust the Bump Parameter - March 22, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
+# Poll: Increase the YFI-A Maximum Debt Ceiling - March 29, 2021
+
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 29 at 16:00 UTC.
 
 **This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
 
 ## Review
 
-FLAP auctions refer to the Maker Protocol's System Surplus auctions. These auctions sell off DAI revenue from Stability Fees and Liquidation Fees in exchange for MKR which is then burned.
+MKR Token Holders may vote in this poll to keep or adjust the YFI-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
 
-The community can vote in this poll to rank their support of the following options for modifying `bump` parameter:  
-* Leave the `bump` parameter unchanged at 10,000 DAI.
-* Adjust the `bump` parameter from 10,000 DAI to 20,000 DAI.
-* Adjust the `bump` parameter from 10,000 DAI to 30,000 DAI.
+- 45 million DAI (no change)
+- 75 million DAI (+30 MM)
+- 100 million DAI (+55 MM)
+- 150 million DAI (+105 MM)
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-the-bump-ttl-parameters-of-flap-auctions/6842) to help inform your position before voting.
-
-More information on the `bump` parameter can be found [here](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/vow-detailed-documentation).
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-yfi-a-dc-iam-line/7055) to inform your position on this issue before voting.
 
 ## Outcomes
 

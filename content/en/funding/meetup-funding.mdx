@@ -23,38 +23,28 @@ The MakerDAO Core Community Development Initiative supports both virtual and phy
 <Flex sx={{alignItems: 'center', justifyContent: 'space-evenly'}}>
 
 
-<TDStat data={data.grants.totalMoneyAwarded}>
-Dai
-
-
-Awarded
+<TDStat data={data.meetups.totalMoneyDispersed}>
+Dai Awarded
 
 </TDStat>
 
 
-<TDStat data={data.grants.totalMoneyDispersed}>
-Dai
-
-
-Dispersed
+<TDStat data={data.meetups.totalNumberMeetups}>
+Meetups Funded
 
 </TDStat>
 
 
-<TDStat data={data.grants.totalMoneyAwarded / data.acceptedProjects.length}>
-Average
+<TDStat data={data.meetups.totalNumberUniqueHosts / data.acceptedProjects.length}>
+Unique Organizers
 
-
-Dai Award
 
 </TDStat>
 
 
-<TDStat alt data={data.grants.applicationsSubmitted}>
-Grant Applications
+<TDStat alt data={data.meetups.totalNumberCountries}>
+Countries
 
-
-Submitted
 
 </TDStat>
 </Flex>

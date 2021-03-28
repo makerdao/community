@@ -1,7 +1,7 @@
 ---
-title: Increase Debt Ceiling and enable DC-IAM for UNIV2DAIETH-A - March 22, 2021
-summary: Signal your support or opposition for adjusting the UNIV2DAIETH-A Debt Ceiling from 3 million DAI to 30 million DAI and enabling DC-IAM for UNIV2DAIETH-A.
-discussion_link: https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063
+title: Increase the PSM USDC Debt Ceiling - March 29, 2021
+summary: Signal your support or opposition for adjusting the PSM USDC Debt Ceiling from 1 billion DAI to 2 billion DAI.
+discussion_link: https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-dc/7072
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -10,27 +10,24 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Increase Debt Ceiling and enable DC-IAM for UNIV2DAIETH-A - March 22, 2021
+# Poll: Increase the PSM USDC Debt Ceiling - March 29, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Mandated Actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 29 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
-## Review
+## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to the following changes:
-* Increase Maximum Debt Ceiling for UNIV2DAIETH-A from 3 million DAI to 30 million DAI.
-* Enable the Debt Ceiling Instant Access Module ([DC-IAM](https://community-development.makerdao.com/en/learn/governance/module-dciam)) for UNIV2DAIETH-A with the following parameters:
-    * Ceiling Increase Cooldown (`ttl`) = 12h
-    * Target Available Debt (`gap`) = 5m
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the PSM USDC [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+* Increase from 1 billion DAI to 2 billion DAI.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-dc/7072) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These parameter changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these parameter changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
