@@ -17,19 +17,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
 
-## Review
+## Review 
 
-MKR Token Holders may vote in this poll to express support or oppostion for adjust the ZRX-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) from 5 million DAI to 10 million DAI.
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the ZRX-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
+* Increase from 5 million DAI to 10 million DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-zrx-a-dc-iam-line/6993) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
-- If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-- If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**Otherwise, no further actions will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
