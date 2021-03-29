@@ -44,7 +44,9 @@ Decreasing the Liquidation Penalty should result in less system revenue during l
 
 ## Considerations
 
-Adjusting the Liquidation Penalty parameter should always be done with great care. As this parameter directly affects the risk of vault holders and the system, changes in either direction could be met with negative consequences. The Liquidation Penalty should always be higher than liquidation rewards so as to discourage incentive farming.
+As this parameter directly affects the risk of vault holders and the system, changes to the Liquidation Penalty parameter should always be done with great care.
+
+The Liquidation Penalty should always be higher than the sum of liquidation rewards (`tip` and `chip`) so as to prevent the farming of incentives, a practice whereby an attacker purposely liquidates their own vaults in order to reap the liquidation rewards.
 
 Particularly important to vault holders is the notion that the Liquidation Penalty represents the minimum loss during a liquidation event, not the maximum. As vault holders will only receive collateral back in excess of the debt liquidated and the Liquidation Penalty, there is no guarantee the auction of collateral will be enough to cover both.
 
