@@ -18,7 +18,7 @@ The Liquidation Penalty is expressed as a percentage of collateral rather than a
 
 ## Purpose
 
-Generally, the Liquidation Penalty may be thought of as a fee to incentivize proper collateralization for vault owners. As a risk parameter, its primary function is to ensure the system does not accumulate unbacked DAI. The Liquidation Penalty gives vault users an added incentive to keep their positions over-collateralized while providing the system additional revenue to mitigate potential losses due to liquidations. 
+Generally, the Liquidation Penalty may be thought of as a fee to incentivize proper collateralization for vault owners. As a risk parameter, its primary function is to ensure the system does not accumulate unbacked DAI. The Liquidation Penalty gives vault users an added incentive to keep their positions over-collateralized while providing the system additional revenue to mitigate potential losses due to liquidations. The Liquidation Penalty also plays an important role acting as a deterrent against liquidation-related attacks by adding some friction to the liquidation process.
 
 ## Trade-offs
 
@@ -44,7 +44,7 @@ Decreasing the Liquidation Penalty should result in less system revenue during l
 
 ## Considerations
 
-Adjusting the Liquidation Penalty parameter should always be done with great care. As this parameter directly affects the risk of vault holders and the system, changes in either direction could be met with negative consequences. 
+Adjusting the Liquidation Penalty parameter should always be done with great care. As this parameter directly affects the risk of vault holders and the system, changes in either direction could be met with negative consequences. The Liquidation Penalty should always be higher than liquidation rewards so as to discourage incentive farming.
 
 Particularly important to vault holders is the notion that the Liquidation Penalty represents the minimum loss during a liquidation event, not the maximum. As vault holders will only receive collateral back in excess of the debt liquidated and the Liquidation Penalty, there is no guarantee the auction of collateral will be enough to cover both.
 
