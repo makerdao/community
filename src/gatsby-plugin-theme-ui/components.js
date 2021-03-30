@@ -25,7 +25,7 @@ import { Link } from "@modules/navigation/";
 
 import { Aligner, Video, Indent } from "@modules/utility/";
 
-import { AuthorRenderer } from "@modules/authors";
+import { Authors } from "@modules/authors";
 
 import { Heading } from "../modules/ui/heading";
 import {
@@ -104,7 +104,7 @@ const Custom_Components = {
   TDDonut,
   TDPie,
   TDRadial,
-  Authors: AuthorRenderer,
+  Authors,
   motionDiv: motion.div,
   motionUL: motion.ul,
   motionLI: motion.li,
