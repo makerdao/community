@@ -64,6 +64,7 @@
     "eslint-plugin-react": "^7.21.5",
     "flow-bin": "^0.142.0",
     "flow-typed": "^3.3.1",
+    "husky": "^6.0.0",
     "import-sort-cli": "^6.0.0",
     "import-sort-parser-babylon": "^6.0.0",
     "import-sort-style-konsch": "^1.1.0",
