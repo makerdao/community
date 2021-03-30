@@ -1,15 +1,14 @@
-/** @jsx jsx */
-import { useState, useEffect, useRef } from "react";
-
-import { Box, Flex, Text, jsx } from "theme-ui";
 import LUNR from "lunr";
-import { useNavigate } from "@reach/router";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { motion } from "framer-motion";
-
 import { useTranslation } from "@modules/localization";
-import SearchInput from "./SearchInput";
+import { useNavigate } from "@reach/router";
+import { motion } from "framer-motion";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+/** @jsx jsx */
+import { useEffect, useRef, useState } from "react";
+import { Box, Flex, jsx, Text } from "theme-ui";
+
 import SearchHit from "./SearchHit";
+import SearchInput from "./SearchInput";
 
 //Hook mostly to detect if there's a click outside of the results element.
 //If a click is detected we hide the results.

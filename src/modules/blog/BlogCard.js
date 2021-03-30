@@ -1,14 +1,13 @@
+import isNil from "lodash/isNil";
 /** @jsx jsx */
 import React from "react";
-import { jsx } from "theme-ui";
-import isNil from "lodash/isNil";
-import { Link } from "@modules/navigation";
-
 import { BlogAuthor } from "@modules/blog";
-import { UrlConverter, TitleConverter, getBlogPostTypeFromPath } from "@utils";
 import { useTranslation } from "@modules/localization";
-import { console, NaN } from "window-or-global";
+import { Link } from "@modules/navigation";
+import { getBlogPostTypeFromPath, TitleConverter, UrlConverter } from "@utils";
 import { parseInt } from "lodash";
+import { jsx } from "theme-ui";
+import { console, NaN } from "window-or-global";
 
 const BlogCard = ({
   excerpt,

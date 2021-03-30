@@ -1,14 +1,14 @@
 /** @jsx jsx */
 
-import React, { Fragment } from "react";
 import isArray from 'lodash/isArray'
-import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
-import { Divider, Button } from "@modules/ui";
-import { SEO } from "@modules/utility";
-import { Heading } from "@modules/ui/heading";
-import { Box, Flex, jsx } from "theme-ui";
+import React, { Fragment } from "react";
+import { BlogAuthor, BlogCard, BlogContributors } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
+import { Button, Divider } from "@modules/ui";
+import { Heading } from "@modules/ui/heading";
+import { SEO } from "@modules/utility";
 import { graphql, useStaticQuery } from "gatsby";
+import { Box, Flex, jsx } from "theme-ui";
 import { console } from "window-or-global";
 
 ///MDX Layout for POSTs

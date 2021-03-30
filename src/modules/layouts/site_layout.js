@@ -1,13 +1,12 @@
-/** @jsx jsx */
-import { useState, useEffect } from "react";
 import PropTypes from "prop-types";
-import { Flex, Text, jsx } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { motion } from "framer-motion";
-
-import { Header, Footer } from "@modules/navigation";
-import { Button } from "@modules/ui";
 import window from "window-or-global";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Footer, Header } from "@modules/navigation";
+import { Button } from "@modules/ui";
+import { motion } from "framer-motion";
+/** @jsx jsx */
+import { useEffect, useState } from "react";
+import { Flex, jsx, Text } from "theme-ui";
 
 const Layout = ({ children, pageContext, uri }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;

@@ -1,9 +1,8 @@
-/** @jsx jsx */
-import { Button as ThemedButton, Text, jsx } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
 import isNil  from 'lodash/isNil'
-
+import { Icon } from "@makerdao/dai-ui-icons";
 import { Link } from "@modules/navigation";
+/** @jsx jsx */
+import { Button as ThemedButton, jsx, Text } from "theme-ui";
 
 const Button = ({
   to,

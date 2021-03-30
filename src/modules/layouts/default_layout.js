@@ -1,18 +1,17 @@
+import calculateTreeData from "@modules/navigation/calculateTreeData";
+import Sticky from "react-sticky-el";
+import { LanguageSelector } from "@modules/localization";
+import { useTranslation } from "@modules/localization/";
+import { MobileNav } from "@modules/navigation";
+import { Breadcrumbs, Sidenav } from "@modules/navigation";
+import { StatusBanner } from "@modules/ui";
+import { SEO } from "@modules/utility";
+import { useLocation } from "@reach/router";
+import { getLocaleFromPath, UrlConverter } from "@utils";
+import { graphql, useStaticQuery } from "gatsby";
 /** @jsx jsx */
 import { Children, Fragment } from "react";
 import { Box, Flex, jsx } from "theme-ui";
-import Sticky from "react-sticky-el";
-import { useStaticQuery, graphql } from "gatsby";
-import { useLocation } from "@reach/router";
-
-import { MobileNav } from "@modules/navigation";
-import { useTranslation } from "@modules/localization/";
-import { LanguageSelector } from "@modules/localization";
-import { Sidenav, Breadcrumbs } from "@modules/navigation";
-import { StatusBanner } from "@modules/ui";
-import calculateTreeData from "@modules/navigation/calculateTreeData";
-import { SEO } from "@modules/utility";
-import { UrlConverter, getLocaleFromPath } from "@utils";
 
 export default (props) => {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();

@@ -1,17 +1,17 @@
 // @flow
 /** @jsx jsx */
 
-import React from "react";
-import type { Node } from "react";
-import { format } from "date-fns";
-import { es } from 'date-fns/locale' //NOTE(Rejon): MUST be updated with existing locales
-const _dateLocales = {es};
-import { Image, Box, Flex, Text, jsx } from "theme-ui";
-
-
-
 // $FlowFixMe
 import allContributors from "@content/all-contributors.json";
+import React from "react";
+import { format } from "date-fns";
+import { es } from 'date-fns/locale' //NOTE(Rejon): MUST be updated with existing locales
+import { Box, Flex, Image, jsx, Text } from "theme-ui";
+import type { Node } from "react";
+const _dateLocales = {es};
+
+
+
 
 type TAuthor = {
   login: string,

@@ -2,8 +2,8 @@
 /** @jsx jsx */
 
 import React from "react";
-import type { Node } from "react";
 import { jsx } from "theme-ui";
+import type { Node } from "react";
 
 export default function Divider(props: any): Node {
   return (

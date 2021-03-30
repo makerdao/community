@@ -1,19 +1,19 @@
 // @flow
-
 /** @jsx jsx */
-import { Children } from "react";
-import { Grid, jsx } from "theme-ui";
 
+import allContributors from "@content/all-contributors.json";
 import {
-  ListElement,
   GridCell,
+  ListElement,
   MDXtoAuthor,
 } from "@modules/authors";
-import allContributorKeys from './data/allContributorKeys';
-import allContributors from "@content/all-contributors.json";
+import { Children } from "react";
+import { Grid, jsx } from "theme-ui";
 import type { Node } from "react";
-import type { TContributorList } from "./types";
+
+import allContributorKeys from './data/allContributorKeys';
 import contributorsData from "./transformers/contributorsData";
+import type { TContributorList } from "./types";
 
 const { contributionKeys } = allContributorKeys;
 

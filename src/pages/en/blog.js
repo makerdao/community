@@ -1,17 +1,16 @@
-/** @jsx jsx */
-import React, {useState, useEffect} from 'react'
-import { jsx, Box, Flex, useColorMode } from "theme-ui";
-import {graphql} from 'gatsby'
-import {useLocation} from '@reach/router';
 import queryString from 'query-string';
-import { useNavigate } from '@reach/router';
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-
-import {Button, Select} from '@modules/ui';
-import {Link, MobileNav} from '@modules/navigation';
+/** @jsx jsx */
+import React, {useEffect, useState} from 'react'
 import {BlogCard, BlogResult} from '@modules/blog'
 import { useTranslation } from "@modules/localization";
+import {Link, MobileNav} from '@modules/navigation';
+import {Button, Select} from '@modules/ui';
+import {useLocation} from '@reach/router';
+import { useNavigate } from '@reach/router';
 import {getBlogPostTypeFromPath} from '@utils'
+import {graphql} from 'gatsby'
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { Box, Flex, jsx, useColorMode } from "theme-ui";
 
 const postsPerPage = 4;
 

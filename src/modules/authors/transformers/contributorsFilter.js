@@ -1,8 +1,9 @@
 // @flow
 
+import allContributors from "@content/all-contributors.json";
+
 import allContributorKeys from "../data/allContributorKeys";
 import type { TContributorList } from "../types";
-import allContributors from "@content/all-contributors.json";
 
 //1. Takes in Author data in the form of an array (contributors)
 //2. Checks for prop filters based on contribution keys

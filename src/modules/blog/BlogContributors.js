@@ -2,10 +2,11 @@
 /** @jsx jsx */
 
 import React from "react";
-import type { Node } from "react";
-import { getAuthorData } from "./BlogAuthor";
-import { Image, Box, Flex, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { Box, Flex, Image, jsx, Text } from "theme-ui";
+import type { Node } from "react";
+
+import { getAuthorData } from "./BlogAuthor";
 
 type TBlogContributorsProps = {
   contributors: Array<string>,

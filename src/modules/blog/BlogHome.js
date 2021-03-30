@@ -1,9 +1,8 @@
 import React from 'react'
-import {graphql} from 'gatsby'
-
-import {Button} from '@modules/ui';
-import {Link} from '@modules/navigation';
 import {BlogCard, BlogResult} from '@modules/blog'
+import {Link} from '@modules/navigation';
+import {Button} from '@modules/ui';
+import {graphql} from 'gatsby'
 
 const BlogHome = () => {
 	return (

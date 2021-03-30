@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import { Helmet } from "react-helmet";
-import { useNavigate } from "@reach/router";
 import { useTranslation } from "@modules/localization";
+import { useNavigate } from "@reach/router";
 import { getInitialLocale } from "@utils";
+import { Helmet } from "react-helmet";
 
 //This page doesn't exist and solely acts as a reroute for language.
 const IndexPage = () => {

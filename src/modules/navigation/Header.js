@@ -1,13 +1,12 @@
-/** @jsx jsx */
-import { Fragment, useEffect, useRef } from "react";
-import { jsx, Box, Flex, useColorMode } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
-
-import { Link } from "@modules/navigation";
-import { useNavigation } from "@modules/navigation/context";
-import { useTranslation } from "@modules/localization";
 import Search from "@modules/search";
 import theme from "@src/gatsby-plugin-theme-ui/";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
+import { useNavigation } from "@modules/navigation/context";
+/** @jsx jsx */
+import { Fragment, useEffect, useRef } from "react";
+import { Box, Flex, jsx, useColorMode } from "theme-ui";
 
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.

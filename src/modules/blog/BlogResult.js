@@ -1,10 +1,9 @@
 /** @jsx jsx */
 import React from "react";
-import { jsx } from "theme-ui";
-
-import { Link } from "@modules/navigation";
 import { BlogAuthor } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
+import { jsx } from "theme-ui";
 
 const BlogResult = ({ frontmatter, excerpt, fileAbsolutePath }) => {
   const { t } = useTranslation();

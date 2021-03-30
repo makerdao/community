@@ -1,44 +1,38 @@
 /** @jsx jsx */
 import { Icon } from "@makerdao/dai-ui-icons";
-import { Image, Text, Divider, Box, Flex, jsx } from "theme-ui";
-import { motion } from "framer-motion";
-
-import {
-  Accordion,
-  Button,
-  Categories,
-  Callout,
-  Chocolate,
-  Checklist,
-  Code,
-  Column,
-  // CTA,
-  StatusBanner,
-  InfoBlock,
-  List,
-  Process,
-  Table,
-  Tout,
-} from "@modules/ui/";
-
-import { Link } from "@modules/navigation/";
-
-import { Aligner, Video, Indent } from "@modules/utility/";
-
 import { Authors } from "@modules/authors";
-
-import { Heading } from "../modules/ui/heading";
-import {
-  TDRegion,
-  TDStat,
-  TDDonut,
-  TDPie,
-  TDRadial,
-} from "@modules/transparency_dash";
-
 import {
   BlogHome
 } from '@modules/blog'
+import { Link } from "@modules/navigation/";
+import {
+  TDDonut,
+  TDPie,
+  TDRadial,
+  TDRegion,
+  TDStat,
+} from "@modules/transparency_dash";
+import {
+  Accordion,
+  Button,
+  Callout,
+  Categories,
+  Checklist,
+  Chocolate,
+  Code,
+  Column,
+  InfoBlock,
+  List,
+  Process,
+  StatusBanner,
+  Table,
+  Tout,
+} from "@modules/ui/";
+import { Aligner, Indent, Video } from "@modules/utility/";
+import { motion } from "framer-motion";
+import { Box, Divider, Flex, Image, jsx, Text } from "theme-ui";
+
+import { Heading } from "../modules/ui/heading";
 
 //Markdown Component overrides
 //Replace MDX html defaults with our custom implementation.
