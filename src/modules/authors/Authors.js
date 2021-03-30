@@ -22,7 +22,6 @@ export type TAuthorRendererProps = {
   all: boolean,
   contributions: boolean,
   noLinks: boolean,
-  // TODO: this should be either a list or a strig but not both.
   author: Array<string> | string,
   noUsername: boolean,
   children: Node,
