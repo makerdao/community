@@ -64,6 +64,11 @@
     "eslint-plugin-react": "^7.21.5",
     "flow-bin": "^0.142.0",
     "flow-typed": "^3.3.1",
+    "import-sort-cli": "^6.0.0",
+    "import-sort-parser-babylon": "^6.0.0",
+    "import-sort-style-konsch": "^1.1.0",
+    "lint-staged": "^10.5.4",
+    "pre-commit": "^1.2.2",
     "prettier": "2.1.1"
   },
   "keywords": [
@@ -74,11 +79,31 @@
     "build": "npm run acrollout && gatsby build",
     "acrollout": "node scripts/allcontributors-transformer.js",
     "lint": "eslint --max-warnings 25 '**/*.{js,jsx}'",
+    "precommit": "lint-staged",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
+  },
+  "lint-staged": {
+    "ignore": [
+      "**/flow-typed/**"
+    ],
+    "linters": {
+      "*.js": [
+        "import-sort --write",
+        "eslint --format pretty --fix --fix-type problem,suggestion",
+        "prettier --write",
+        "git add"
+      ]
+    }
+  },
+  "importSort": {
+    ".js": {
+      "parser": "babylon",
+      "style": "import-sort-style-konsch"
+    }
   },
   "repository": {
     "type": "git",
