@@ -80,6 +80,7 @@
     "build": "npm run acrollout && gatsby build",
     "acrollout": "node scripts/allcontributors-transformer.js",
     "lint": "eslint --max-warnings 25 '**/*.{js,jsx}'",
+    "precommit": "lint-staged",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",
