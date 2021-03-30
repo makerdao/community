@@ -87,17 +87,11 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
   "lint-staged": {
-    "ignore": [
-      "**/flow-typed/**"
-    ],
-    "linters": {
-      "*.js": [
-        "import-sort --write",
-        "eslint --format pretty --fix --fix-type problem,suggestion",
-        "prettier --write",
-        "git add"
-      ]
-    }
+    "*.js": [
+      "import-sort --write",
+      "eslint --format pretty --fix --fix-type problem,suggestion",
+      "prettier --write"
+    ]
   },
   "importSort": {
     ".js": {
