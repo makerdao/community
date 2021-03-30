@@ -80,17 +80,17 @@
     "build": "npm run acrollout && gatsby build",
     "acrollout": "node scripts/allcontributors-transformer.js",
     "lint": "eslint --max-warnings 25 '**/*.{js,jsx}'",
-    "precommit": "lint-staged",
+    "lint-staged": "lint-staged",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
+  "precommit": "lint-staged",
   "lint-staged": {
     "*.js": [
-      "import-sort --write",
-      "eslint --cache --fix"
+      "import-sort --write"
     ],
     "*.{js,jsx,json,md,mdx}": "prettier --write"
   },
