@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { Fragment } from "react";
-import Select, { components } from "react-select";
+
+import { Select } from "@modules/ui";
 import { useNavigate } from "@reach/router";
 import { Box, jsx, Text, useThemeUI } from "theme-ui";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
@@ -97,15 +98,6 @@ const LanguageSelector = ({ data, pagePath }) => {
     />
   );
 
-  //Override select component theme with our theme since it's not connected to theme-ui
-  const uiSelectTheme = {
-    primary: theme.colors.primary,
-    primary75: theme.colors.success,
-    primary50: theme.colors.primaryMuted,
-    primary25: theme.colors.successAlt,
-    danger: theme.colors.bear,
-    dangerLight: theme.colors.bearAlt,
-  };
 
   //If we have existing languages or we're swapping, show the select.
   if (data.length > 0) {
@@ -121,19 +113,6 @@ const LanguageSelector = ({ data, pagePath }) => {
       >
         <Select
           isSearchable={false}
-          theme={(selectTheme) => ({
-            ...selectTheme,
-            fontFamily: theme.fonts.body,
-            colors: { ...selectTheme.colors, ...uiSelectTheme },
-          })}
-          components={{
-            Menu,
-            MenuList,
-            IndicatorsContainer,
-            ValueContainer,
-            Control,
-            Option,
-          }}
           options={data}
           onChange={onChange}
           aria-label={t("Page_Language_Selector")}
