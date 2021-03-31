@@ -2,11 +2,17 @@
 
 ## $BinaryVoteDescriptor
 
-**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
 
 ## $PluralityVoteDescriptor
 
-**This is a plurality vote. In a plurality vote, you may vote for a single option. You should vote for the option that you prefer. Alternatively, if you would accept any of the listed options and have no preference, you should vote 'Abstain'.**
+**This is a plurality vote.** 
+- **You may vote for a single option.**
+- **You should vote for the option that you prefer.** 
+- **If you would accept any of the options you should vote 'Abstain'.**
 
 ## $Instant-RunoffVoteDescriptor
 
