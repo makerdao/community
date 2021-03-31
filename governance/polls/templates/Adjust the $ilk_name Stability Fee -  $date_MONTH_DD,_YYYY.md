@@ -1,6 +1,6 @@
 ---
 title: $IncreaseDecrease the $ilk_name Stability Fee - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Stability Fee to from $current_fee to $new_fee
+summary: Signal your support or opposition for adjusting the $ilk_name Stability Fee to from $current_fee to $new_fee.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
