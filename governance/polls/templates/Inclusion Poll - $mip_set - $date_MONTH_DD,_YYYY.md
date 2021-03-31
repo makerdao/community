@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for $proposal_name ($mip_set) - $date_MONTH_DD,_YYYY
+title: Inclusion Poll for $mip_set - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for $proposal_name ($mip_set) - $date_MONTH_DD,_YYYY
+# Inclusion Poll for $mip_set - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -26,9 +26,9 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
--[mip_number: mip_title]($first_mip_discussion_link)
--[mip_number: mip_title]($second_mip_discussion_link)
--[mip_number: mip_title]($third_mip_discussion_link)
+* [mip_number: mip_title]($first_mip_discussion_link)
+* [mip_number: mip_title]($second_mip_discussion_link)
+* [mip_number: mip_title]($third_mip_discussion_link)
 
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
 
