@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { Fragment } from "react";
-
+import { components } from "react-select";
 import { Select } from "@modules/ui";
 import { useNavigate } from "@reach/router";
 import { Box, jsx, Text, useThemeUI } from "theme-ui";
@@ -97,6 +97,17 @@ const LanguageSelector = ({ data, pagePath }) => {
       {...props}
     />
   );
+
+  //Override select component theme with our theme since it's not connected to theme-ui
+  const uiSelectTheme = {
+    primary: theme.colors.primary,
+    primary75: theme.colors.success,
+    primary50: theme.colors.primaryMuted,
+    primary25: theme.colors.successAlt,
+    danger: theme.colors.bear,
+    dangerLight: theme.colors.bearAlt,
+  };
+
 
 
   //If we have existing languages or we're swapping, show the select.
