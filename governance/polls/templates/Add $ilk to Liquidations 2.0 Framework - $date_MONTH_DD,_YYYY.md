@@ -24,17 +24,18 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
 
-* Underlying Collateral: $collateral_asset
+**Price Function**
 * [Price Change Multiplier]($cut_link): $price_change_multiplier
 * [Price Change Interval]($step_link): $price_change_interval
 * [Auction Price Multiplier]($buf_link): $auction_price_multiplier
+
+**General Parameters**
 * [Proportional Kick Incentive]($chip_link): $proportional_kick_incentive
 * [Flat Kick Incentive]($tip_link): $flat_kick_incentive
 * [Maximum Auction Drawdown]($cusp_link): $maximum_auction_drawdown
 * [Maximum Auction Duration]($tail_link): $maximum_auction_duration
 * [Local Liquidation Limit]($ilk_hole_link): $local_liquidation_limit
 * [Liquidation Penalty]($chop_link): $liquidation_penalty
-* [Global Liquidation Limit]($hole_link): $global_liquidation_limit
 
 Please review the following [Risk Evaluation]($risk_link) containing information about $ilk to inform your position before voting.
 
