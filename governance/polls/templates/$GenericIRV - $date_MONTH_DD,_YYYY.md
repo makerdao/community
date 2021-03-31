@@ -1,6 +1,6 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Rank your preferred options to resolve $GenericChange
+summary: Rank your preferred options to resolve $GenericChange.
 discussion_link: $discussion_link
 vote_type: Ranked Choice IRV
 categories:
