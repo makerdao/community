@@ -5,7 +5,7 @@ import { Input, Flex, jsx } from "theme-ui";
 
 import { useTranslation } from "@modules/localization";
 
-const SearchInput = ({ onChange, onSubmit, ...rest }) => {
+const SearchInput = ({ onChange, onSubmit, alt, ...rest }) => {
   const { t } = useTranslation();
   const searchRef = useRef();
 
@@ -16,6 +16,13 @@ const SearchInput = ({ onChange, onSubmit, ...rest }) => {
       onSubmit(e.currentTarget.value);
     }
   };
+
+  const onInputChange = (e) => {
+    if (onChange)
+    {
+      onChange(e.currentTarget.value)
+    }
+  } 
 
   const onKeyDown = (e) => {
     if (typeof window !== undefined) {
@@ -50,7 +57,7 @@ const SearchInput = ({ onChange, onSubmit, ...rest }) => {
     >
       <Icon
         name="search"
-        color="muted"
+        color={alt ? "text" : "muted"}
         viewBox="-5 -5 24 24"
         sx={{
           width: "33px",
@@ -63,9 +70,9 @@ const SearchInput = ({ onChange, onSubmit, ...rest }) => {
         type="search"
         ref={searchRef}
         autocomplete="none"
-        aria-label={t("Search")}
-        placeholder={t("Search")}
-        onChange={(e) => onChange(e.currentTarget.value)}
+        aria-label={alt ? '' : t("Search")}
+        placeholder={alt ? '': t("Search")}
+        onChange={onInputChange}
         sx={{
           border: "none",
           borderRadius: "0",
@@ -76,12 +83,12 @@ const SearchInput = ({ onChange, onSubmit, ...rest }) => {
           pl: "5px",
           py: "9px",
           fontSize: [3, 3, "inherit"],
-          color: "muted",
+          color: alt ? "text" : "muted",
           "&:focus": {
-            color: "muted",
+            color: alt ? "text" : "muted",
           },
           "::placeholder": {
-            color: "muted",
+            color: alt ? "text" : "muted",
           },
           "::-webkit-search-cancel-button": {
             WebkitAppearance: "none",
