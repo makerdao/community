@@ -1,6 +1,6 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your preferred option to resolve $GenericChange
+summary: Signal your preferred option to resolve $GenericChange.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
