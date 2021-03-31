@@ -17,7 +17,10 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
+**This is an instant-runoff vote.** 
+- **You may rank any number of options that you would support in an executive vote.** 
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
