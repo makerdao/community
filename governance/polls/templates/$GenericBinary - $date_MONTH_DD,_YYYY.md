@@ -1,6 +1,6 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange
+summary: Signal your support or opposition to $GenericChange.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
