@@ -1,6 +1,6 @@
 ---
 title: $IncreaseDecrease the System Surplus Buffer - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the Surplus Buffer from $currentBuffer to $newBuffer
+summary: Signal your support or opposition for adjusting the Surplus Buffer from $currentBuffer to $newBuffer.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
