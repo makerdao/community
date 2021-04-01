@@ -24,7 +24,11 @@ MKR Token Holders may vote in this poll to keep or adjust the [System Surplus Bu
 * 60 million DAI (+30 MM)
 * 60 million DAI (+30 MM) while trying to `flap` 25% of the collected fees 
 
-For the `flap` option we will set up an IAM with a target date aiming at directing just 75% of the new fees collected into the System Surplus by slowly increasing the `hump` so from time to time the the System Surplus is higher than `hump + bump` and a `flap` auction is triggered. **Governance cannot give any guarantee we will eventually burn 25% as there are a lot of factors which will influence of the actual System Surplus.**
+For the `flap` option we will try to target 25% of the stability fee revenues to be used for `flap` auctions by slowly increasing the `hump` instead of directly setting it to the target value of 60 MM. 
+
+This will add additionally complexity to the the executive spell, resulting in extra effort for the Smart Contracts team building it.
+
+**Governance cannot give any guarantee we will eventually burn 25% as there are a lot of factors which will influence of the actual System Surplus.**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979) to inform your position on this issue before voting.
 
