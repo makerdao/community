@@ -17,6 +17,7 @@ import { useStaticQuery, graphql } from "gatsby";
 import Search from '../../modules/search';
 import { min } from 'lodash';
 import BlogResult from '../../modules/blog/BlogResult';
+import { console } from 'window-or-global';
 
 const SearchResults = () => {
     const resultsPerPage = 5;
@@ -62,8 +63,6 @@ const SearchResults = () => {
     );
 
     const query = queryString.parse(search).query || null;
-
-    console.log(query, allLocales)
 
     //LUNR becomes available only via the window.
     //To make it easier for our app to access it we just set it in our app context.
@@ -116,11 +115,11 @@ const SearchResults = () => {
             ); //Group the elements based on whether "isBlog" is true or not.
             //NOTE(Rejon): This is crunchy as hell, but it works. 
             //             The keys returned from the grouping are based on the value of "isBlog"
+            
             setResults({
-                content: results['false'],
-                blog: results['true']
+                content: results['false'] || [],
+                blog: results['true'] || []
             });
-            console.log("Initial Results", results);
         }
     }, [lunr]);
 
@@ -187,12 +186,13 @@ const SearchResults = () => {
 
 		navigate(value);
 	}
-
     //TODO(Rejon): Update this to be correct for content result length.
     const showContentNextButton = results && (results.content.length > 0) && ((contentCurrentPage + 1) * resultsPerPage < results.content.length);
 
     //TODO(Rejon): Update this to be correct for blog result length! 
     const showBlogNextButton = results && (results.blog.length > 0) && ((blogCurrentPage + 1) * resultsPerPage < results.blog.length);
+
+    const noResults = results && results.blog.length === 0 && results.content.length === 0;
 
     return (
         <div sx={{
@@ -231,7 +231,7 @@ const SearchResults = () => {
                         fontSize: '48px',
 
                     }}>
-                        Here's what we found for: <span sx={{color: 'primaryAlt'}}>{query}</span>
+                        {noResults ? "Sorry, no results for" : "Here's what we found for"}: <span sx={{color: 'primaryAlt'}}>{query}</span>
                     </h1>
                     <Flex 
                         sx={{
@@ -260,45 +260,51 @@ const SearchResults = () => {
                             flexDirection: 'column',
                             flex: 1
                         }}>
-                            <h2 sx={{
-                                fontWeight: 500, 
-                                fontSize: '32px',
-                                pl: [0,0,'32px'],
-                                textAlign: 'left',
-                                alignSelf: 'flex-start'
-                            }}>General</h2>
+                            {results.content.length > 0 &&
+                                <h2 sx={{
+                                    fontWeight: 500, 
+                                    fontSize: '32px',
+                                    pl: [0,0,'32px'],
+                                    textAlign: 'left',
+                                    alignSelf: 'flex-start'
+                                }}>General</h2>
+                            }
                             <Flex sx={{
                                 width: '100%',
                                 justifyContent: 'space-around',
                                 textAlign: 'left'
                             }}>
-                                <Flex  sx={{
-                                    flexDirection: 'column',
-                                    flex: 1,
-                                    mb: '48px',
-                                    textAlign: 'left'
-                                }}>
-                                    {results.content.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
-                                        <ContentResult {...node} key={`content-result-${index}`}/>
-                                    ))}
-
-                                </Flex>
-                                <div sx={{pt: '24px', pr: 4, ml:'12.3%', display:  ['none', 'none', 'initial']}}>
-                                    <p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
-
-                                    <ul sx={{
-                                        listStyleType: 'none',
-                                        p:0
+                                {results.content.length > 0 &&
+                                    <Flex  sx={{
+                                        flexDirection: 'column',
+                                        flex: 1,
+                                        mb: '48px',
+                                        textAlign: 'left'
                                     }}>
-                                        {allLocales.map((_loc, index) => (
-                                            <li key={`available-blog-lang-${index}`}>
-                                                <Link to={`/${_loc}/search?query=${query}`}>
-                                                    {t("Language", null, null, _loc)}
-                                                </Link>
-                                            </li>
+                                        {results.content.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
+                                            <ContentResult {...node} key={`content-result-${index}`}/>
                                         ))}
-                                    </ul>
-                                </div>
+    
+                                    </Flex>
+                                }
+                                {!noResults &&
+                                    <div sx={{pt: '24px', pr: 4, ml:'12.3%', display:  ['none', 'none', 'initial']}}>
+                                        <p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
+
+                                        <ul sx={{
+                                            listStyleType: 'none',
+                                            p:0
+                                        }}>
+                                            {allLocales.map((_loc, index) => (
+                                                <li key={`available-blog-lang-${index}`}>
+                                                    <Link to={`/${_loc}/search?query=${query}`}>
+                                                        {t("Language", null, null, _loc)}
+                                                    </Link>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                }
                             </Flex>
                             {showContentNextButton 
                                 &&
@@ -314,57 +320,57 @@ const SearchResults = () => {
                                 </div>
                             }              
                         </Flex>
-                        <Flex sx={{
-                            alignItems: 'flex-start',
-                            flexDirection: 'column',
-                            flex: 1
-                        }}>
-                            <h2 sx={{
-                                fontWeight: 500, 
-                                fontSize: '32px',
-                                pl: [0,0,'32px'],
-                                textAlign: 'left',
-                                alignSelf: 'flex-start'
-                            }}>Blog</h2>
+                        {results.blog.length > 0 &&
                             <Flex sx={{
-                                width: '100%',
-                                maxWidth: ['100%', '100%', '81%'],
-                                justifyContent: 'space-around',
-                                textAlign: 'left'
+                                alignItems: 'flex-start',
+                                flexDirection: 'column',
+                                flex: 1
                             }}>
-                                <Flex  sx={{
-                                    flexDirection: 'column',
-                                    flex: 1,
-                                    mb: '48px',
+                                <h2 sx={{
+                                    fontWeight: 500, 
+                                    fontSize: '32px',
+                                    pl: [0,0,'32px'],
+                                    textAlign: 'left',
+                                    alignSelf: 'flex-start'
+                                }}>Blog</h2>
+                                <Flex sx={{
+                                    width: '100%',
+                                    maxWidth: ['100%', '100%', '81%'],
+                                    justifyContent: 'space-around',
                                     textAlign: 'left'
                                 }}>
-                                    {results.blog.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
-                                        <BlogResult {...node} frontmatter={{...node}} key={`content-result-${index}`}/>
-                                    ))}
-
-                                </Flex>
-                                
-                            </Flex>
-                            {showBlogNextButton 
-                                &&
-                                <div sx={{mb: ['50px', '50px', '114px']}}>
-
-                                    <Button outline icon="plus" sx={{mr: 0}} onClick={() => {
-                                        setBlogCurrentPage(blogCurrentPage + 1);
+                                    <Flex  sx={{
+                                        flexDirection: 'column',
+                                        flex: 1,
+                                        mb: '48px',
+                                        textAlign: 'left'
                                     }}>
-
-                                        {t('See_More_Posts')}
-
-                                    </Button>
-                                </div>
-                            }              
-                        </Flex>
+                                        {results.blog.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
+                                            <BlogResult {...node} frontmatter={{...node}} key={`content-result-${index}`}/>
+                                        ))}
+    
+                                    </Flex>
+                                    
+                                </Flex>
+                                {showBlogNextButton 
+                                    &&
+                                    <div sx={{mb: ['50px', '50px', '114px']}}>
+    
+                                        <Button outline icon="plus" sx={{mr: 0}} onClick={() => {
+                                            setBlogCurrentPage(blogCurrentPage + 1);
+                                        }}>
+    
+                                            {t('See_More_Posts')}
+    
+                                        </Button>
+                                    </div>
+                                }              
+                            </Flex>
+                        }
                     </Flex>
                 </div>
                 :
-                <div>
-                    No query provided.
-                </div>
+                <></>
             }
             <MobileNav sidenavData={sidenavData} />
         </div>
