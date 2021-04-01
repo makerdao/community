@@ -5,7 +5,7 @@ import { Input, Flex, jsx } from "theme-ui";
 
 import { useTranslation } from "@modules/localization";
 
-const SearchInput = ({ onChange, onSubmit, alt, ...rest }) => {
+const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
   const { t } = useTranslation();
   const searchRef = useRef();
 
@@ -93,6 +93,7 @@ const SearchInput = ({ onChange, onSubmit, alt, ...rest }) => {
           "::-webkit-search-cancel-button": {
             WebkitAppearance: "none",
           },
+          ...sx
         }}
         {...rest}
       />

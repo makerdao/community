@@ -5,18 +5,61 @@ import LUNR from 'lunr';
 import {useLocation, useNavigate} from '@reach/router';
 import {jsx, Flex} from 'theme-ui';
 import queryString from 'query-string';
+import groupBy from 'lodash/groupBy';
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+
+import {Button, Select} from '@modules/ui';
 import { useTranslation } from "@modules/localization";
+import {Link, MobileNav} from '@modules/navigation';
+import calculateTreeData from "@modules/navigation/calculateTreeData";
 import SearchInput from '@modules/search/SearchInput';
+import { useStaticQuery, graphql } from "gatsby";
 import Search from '../../modules/search';
+import { min } from 'lodash';
+import BlogResult from '../../modules/blog/BlogResult';
 
 const SearchResults = () => {
-    const MAX_RESULT_COUNT = 5;
+    const resultsPerPage = 5;
     const {search} = useLocation();
     const [lunr, setLunr] = useState(null);
     const [results, setResults] = useState(null);
+    const [contentCurrentPage, setContentCurrentPage] = useState(0);
+    const [blogCurrentPage, setBlogCurrentPage] = useState(0);
     const navigate = useNavigate();
+    const { locale, t, DEFAULT_LOCALE, allLocales } = useTranslation();
+    const { allMdx } = useStaticQuery(graphql`
+        query getMobileNavData {
+        # Regex for all files that are NOT config files
+        allMdx(
+            filter: {
+            fileAbsolutePath: {
+                regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+            }
+            }
+        ) {
+            edges {
+            node {
+                headings(depth: h1) {
+                value
+                }
+                fileAbsolutePath
+                frontmatter {
+                title
+                order
+                }
+            }
+            }
+        }
+        }
+    `);
 
-    const {locale, allLocales, t, DEFAULT_LOCALE} = useTranslation();
+    const { sidenavData } = calculateTreeData(
+        allMdx.edges,
+        'search',
+        DEFAULT_LOCALE,
+        locale,
+        ''
+    );
 
     const query = queryString.parse(search).query || null;
 
@@ -44,7 +87,9 @@ const SearchResults = () => {
         
             const lunrLocalized = lunr[locale] || lunr[DEFAULT_LOCALE];
         
-            const results = lunrLocalized.index
+            const results = 
+            groupBy(
+            lunrLocalized.index
                 .query((q) => {
                 LUNR.tokenizer(lunrQuery).forEach(function (token) {
                     //Fuzzy Match
@@ -64,41 +109,129 @@ const SearchResults = () => {
                     q.term(token.toString(), { fields: ["excerpt"], boost: 5 });
                 });
                 })
-                .slice(0, MAX_RESULT_COUNT)
                 .map(({ ref }) => {
                     return lunr[locale].store[ref];
-                });
-
-
-            //Make sure to sift results between blog and normal results.
-                //Set up the data to be faked for matching the BlogResult.
-        
-            setResults(results);
+                }),
+                (o) => o.isBlog
+            ); //Group the elements based on whether "isBlog" is true or not.
+            //NOTE(Rejon): This is crunchy as hell, but it works. 
+            //             The keys returned from the grouping are based on the value of "isBlog"
+            setResults({
+                content: results['false'],
+                blog: results['true']
+            });
             console.log("Initial Results", results);
         }
     }, [lunr]);
 
     const onSubmit = (val) => {
             //Update page search query appropriately
-            navigate('/search?query=${val}')
+            navigate(`/${locale}/search?query=${val}`)
     }
+
+    const ContentResult = ({url, title, excerpt}) => {
+        let initialSection =  url.split("/")[2] || null;
+
+        return (
+            <div
+            sx={{
+                px: [0, 0, "32px"],
+                pt: "34px",
+                pb: "50px",
+                borderBottom: "1px solid",
+                borderColor: "muted",
+            }}
+            >
+            {initialSection && (
+                <Link
+                to={`/${locale}/${initialSection}/`}
+                sx={{
+                    fontWeight: 400,
+                    textTransform: "uppercase",
+                    mb: 3,
+                }}
+                >
+                {initialSection}
+                </Link>
+            )}
+            <Link to={url} sx={{ color: "text" }}>
+                <h2
+                sx={{
+                    fontWeight: 500,
+                    fontSize: "32px",
+                    mb: "28px",
+                }}
+                >
+                {title}
+                </h2>
+            </Link>
+            <p sx={{ mt: "26px" }}>{excerpt}</p>
+            </div>
+        )
+    }; 
+
+    const onSelectChange = ({value, label}) =>  {
+		//Update local storage on switch
+		if (typeof window !== "undefined") {
+		    localStorage.setItem("locale", value.split("/")[1]);
+		}
+
+		//Google Analytics Tracking
+		trackCustomEvent({
+		category: "Language Selector",
+		action: `Switch Search Language to ${label}`,
+		label: `From Page: /search?query=${query} (${locale}) |  To Page: ${value} (${
+			value.split("/")[1]
+		})`,
+		});
+
+		navigate(value);
+	}
+
+    //TODO(Rejon): Update this to be correct for content result length.
+    const showContentNextButton = results && (results.content.length > 0) && ((contentCurrentPage + 1) * resultsPerPage < results.content.length);
+
+    //TODO(Rejon): Update this to be correct for blog result length! 
+    const showBlogNextButton = results && (results.blog.length > 0) && ((blogCurrentPage + 1) * resultsPerPage < results.blog.length);
 
     return (
         <div sx={{
             width: '100%',
-            paddingTop: '128px'
+            paddingTop: ['30px','30px','128px'],
+            paddingBottom: '118px'
         }}>
-            {query ?
+            {query && results !== null ?
                 <div sx={{
                     textAlign: 'center'
                 }}>
+                    <div sx={{width: '100%', mb: 3, px: 4, display: ['block', 'block', 'none']}}>
+                        <Select 
+                            onChange={onSelectChange}
+                            options={allLocales.map((_loc) =>  {
+                                return ({
+                                    value: `/${_loc}/search?query=${query}`,
+                                    label: t(
+                                        "Language",
+                                        null,
+                                        null,
+                                        _loc
+                                    )
+                                })
+                            })}
+                            aria-label={t("Blog_Language_Selector")}
+                            value={{
+                                value: `/${locale}`,
+                                label: t("Language")
+                            }}
+                        />
+                    </div>
                     <h1 sx={{
                         mt: 0,
                         mb: '48px',
                         fontSize: '48px',
 
                     }}>
-                        Here's what we found for: {query}
+                        Here's what we found for: <span sx={{color: 'primaryAlt'}}>{query}</span>
                     </h1>
                     <Flex 
                         sx={{
@@ -110,23 +243,122 @@ const SearchResults = () => {
                             backgroundColor: 'primaryMuted',
                             position: 'relative',
                             alignItems: 'center', 
-                            mb: '72px'
+                            mb: '72px',
+                            display: ['none', 'none', 'flex']
                         }}
                     >
                         <SearchInput
                             alt
                             onSubmit={onSubmit}
+                            defaultValue={query}
                         />
                     </Flex>
 
-                    <Flex>
-                        <div>
-                            <h3>General</h3>
+                    <Flex sx={{flexDirection: 'column', px: [4,4,0]}}>
+                    <Flex sx={{
+                            alignItems: 'center',
+                            flexDirection: 'column',
+                            flex: 1
+                        }}>
+                            <h2 sx={{
+                                fontWeight: 500, 
+                                fontSize: '32px',
+                                pl: [0,0,'32px'],
+                                textAlign: 'left',
+                                alignSelf: 'flex-start'
+                            }}>General</h2>
+                            <Flex sx={{
+                                width: '100%',
+                                justifyContent: 'space-around',
+                                textAlign: 'left'
+                            }}>
+                                <Flex  sx={{
+                                    flexDirection: 'column',
+                                    flex: 1,
+                                    mb: '48px',
+                                    textAlign: 'left'
+                                }}>
+                                    {results.content.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
+                                        <ContentResult {...node} key={`content-result-${index}`}/>
+                                    ))}
 
-                        </div>
-                        <div>
-                            Languages
-                        </div>
+                                </Flex>
+                                <div sx={{pt: '24px', pr: 4, ml:'12.3%', display:  ['none', 'none', 'initial']}}>
+                                    <p sx={{textTransform: 'uppercase'}}>{t("LANGUAGES")}</p>
+
+                                    <ul sx={{
+                                        listStyleType: 'none',
+                                        p:0
+                                    }}>
+                                        {allLocales.map((_loc, index) => (
+                                            <li key={`available-blog-lang-${index}`}>
+                                                <Link to={`/${_loc}/search?query=${query}`}>
+                                                    {t("Language", null, null, _loc)}
+                                                </Link>
+                                            </li>
+                                        ))}
+                                    </ul>
+                                </div>
+                            </Flex>
+                            {showContentNextButton 
+                                &&
+                                <div sx={{mb: ['50px', '50px', '114px']}}>
+
+                                    <Button outline icon="plus" sx={{mr: 0}} onClick={() => {
+                                        setContentCurrentPage(contentCurrentPage + 1);
+                                    }}>
+
+                                        {t('See_More_Posts')}
+
+                                    </Button>
+                                </div>
+                            }              
+                        </Flex>
+                        <Flex sx={{
+                            alignItems: 'flex-start',
+                            flexDirection: 'column',
+                            flex: 1
+                        }}>
+                            <h2 sx={{
+                                fontWeight: 500, 
+                                fontSize: '32px',
+                                pl: [0,0,'32px'],
+                                textAlign: 'left',
+                                alignSelf: 'flex-start'
+                            }}>Blog</h2>
+                            <Flex sx={{
+                                width: '100%',
+                                maxWidth: ['100%', '100%', '81%'],
+                                justifyContent: 'space-around',
+                                textAlign: 'left'
+                            }}>
+                                <Flex  sx={{
+                                    flexDirection: 'column',
+                                    flex: 1,
+                                    mb: '48px',
+                                    textAlign: 'left'
+                                }}>
+                                    {results.blog.slice(0, resultsPerPage * (1 + contentCurrentPage)).map((node, index) => (
+                                        <BlogResult {...node} frontmatter={{...node}} key={`content-result-${index}`}/>
+                                    ))}
+
+                                </Flex>
+                                
+                            </Flex>
+                            {showBlogNextButton 
+                                &&
+                                <div sx={{mb: ['50px', '50px', '114px']}}>
+
+                                    <Button outline icon="plus" sx={{mr: 0}} onClick={() => {
+                                        setBlogCurrentPage(blogCurrentPage + 1);
+                                    }}>
+
+                                        {t('See_More_Posts')}
+
+                                    </Button>
+                                </div>
+                            }              
+                        </Flex>
                     </Flex>
                 </div>
                 :
@@ -134,6 +366,7 @@ const SearchResults = () => {
                     No query provided.
                 </div>
             }
+            <MobileNav sidenavData={sidenavData} />
         </div>
     )
 }
