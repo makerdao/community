@@ -12,6 +12,7 @@ import { Box, Flex, jsx, useColorMode } from "theme-ui";
 // TODO: Consider to create a shared state for global variables.
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.
 var delta = 5; //<- Rate of change in scroll needed to hide the header.
+// eslint-disable-next-line
 var isShowingMenu = false; //<- For document  event listeners to know if the menu is being shown or not.
 
 const ColorModeToggles = () => {

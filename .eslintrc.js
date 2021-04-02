@@ -1,7 +1,7 @@
 module.exports = {
   env: {
     browser: true,
-    es2021: true,
+    es6: true,
   },
   extends: [
     "eslint:recommended",
@@ -18,12 +18,12 @@ module.exports = {
     sourceType: "module",
   },
   plugins: ["react", "flowtype"],
-  ignorePatterns: ["**/flow-typed/**/*.js"],
   rules: {
     "react/prop-types": "off",
     "react/display-name": "off",
     "no-unused-vars": "warn",
     "flowtype/no-types-missing-file-annotation": "off",
+    "no-console": "off",
   },
   settings: {
     flowtype: {
