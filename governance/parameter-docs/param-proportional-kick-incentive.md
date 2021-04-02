@@ -22,9 +22,9 @@ The Proportional Kick Incentive exists to ensure that auctions are triggered qui
 
 ## Trade-offs
 
-Having a large Proportional Kick Incentive parameter should cause the liquidation auctions of large vaults trigger quickly and reliably. However, this incentive directly cuts into the revenue of the Maker Protocol.
+Having a large Proportional Kick Incentive parameter should cause the liquidation auctions of large vaults to trigger quickly and reliably. However, this incentive directly cuts into the revenue of the Maker Protocol.
 
-Setting the parameter too low may result in liquidation auctions not being triggered quickly enough to avoid a net-loss for the Maker Protocol. 
+Setting the parameter too low may result in liquidation auctions not being triggered quickly enough to avoid a net loss for the Maker Protocol. 
 
 If this parameter is set higher than the Liquidation Penalty for vaults, it provides an opportunity for attackers to exploit the system by liquidating their own vaults to harvest the DAI incentive. 
 
@@ -36,7 +36,7 @@ Adjusting a Proportional Kick Incentive parameter is a manual process that requi
 
 Increasing a Proportionate Kick Incentive may be desirable when gas prices are high enough to discourage keepers from kicking auctions quickly and reliably. 
 
-Having quick and reliable liquidations decreases the chances of accruing bad debt when the price of a collateral is falling.
+Having quick and reliable liquidations decreases the chances of accruing bad debt when the price of a collateral asset is falling.
 
 **Why decrease this parameter?**
 
@@ -50,7 +50,7 @@ The Proportional Kick Incentive parameter should be set such that: `Proportional
 
 The combination of liquidations incentives should be set such that the following is true: `Flat Kick Incentive + Proportional Kick Incentive < Liquidation Penalty + Liquidation Gas Costs + Vault Creation Gas Costs`.
 
-If both the Proportional Kick Incentive and the Flat Kick Incentive are non-zero. A keeper triggering a valid liquidation will recieve both.
+If both the Proportional Kick Incentive and the Flat Kick Incentive are non-zero. A keeper triggering a valid liquidation will receive both.
 
 Resetting a failed auction will also award the triggering keeper the Proportional Kick Incentive. 
 

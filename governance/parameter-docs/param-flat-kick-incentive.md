@@ -18,7 +18,7 @@ Each vault type has its own Flat Kick Incentive that may be adjusted separately 
 
 ## Purpose
 
-The purpose of this parameter is to offset the gas cost of triggering vault liquidations in the event that gas costs on the ethereum blockchain increase to the point where liquidations are not being triggered in a timely manner.
+The purpose of this parameter is to offset the gas cost of triggering vault liquidations if gas costs on the Ethereum blockchain increase to the point where liquidations are not being triggered promptly.
 
 ## Trade-offs
 
@@ -47,7 +47,7 @@ The Flat Kick Incentive parameter should be set such that: `Flat Kick Incentive 
 
 The combination of liquidations incentives should be set such that the following is true: `Flat Kick Incentive + Proportional Kick Incentive < Liquidation Penalty + Liquidation Gas Costs + Vault Creation Gas Costs`.
 
-If both the Flat Kick Incentive and the Proportional Kick Incentive are non-zero. A keeper triggering a valid liquidation will recieve both.
+If both the Flat Kick Incentive and the Proportional Kick Incentive are non-zero. A keeper triggering a valid liquidation will receive both.
 
 Resetting a failed auction will also award the triggering keeper the Flat Kick Incentive. 
 
