@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import React from "react";
+import { jsx } from "theme-ui";
 import { Text } from "theme-ui";
 
 export default function Heading5(props) {

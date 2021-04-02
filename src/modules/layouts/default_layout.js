@@ -1,18 +1,17 @@
+import calculateTreeData from "@modules/navigation/calculateTreeData";
+import Sticky from "react-sticky-el";
+import { LanguageSelector } from "@modules/localization";
+import { useTranslation } from "@modules/localization/";
+import { MobileNav } from "@modules/navigation";
+import { Breadcrumbs, Sidenav } from "@modules/navigation";
+import { StatusBanner } from "@modules/ui";
+import { SEO } from "@modules/utility";
+import { useLocation } from "@reach/router";
+import { getLocaleFromPath, UrlConverter } from "@utils";
+import { graphql, useStaticQuery } from "gatsby";
 /** @jsx jsx */
 import { Children, Fragment } from "react";
 import { Box, Flex, jsx } from "theme-ui";
-import Sticky from "react-sticky-el";
-import { useStaticQuery, graphql } from "gatsby";
-import { useLocation } from "@reach/router";
-
-import { MobileNav } from "@modules/navigation";
-import { useTranslation } from "@modules/localization/";
-import { LanguageSelector } from "@modules/localization";
-import { Sidenav, Breadcrumbs } from "@modules/navigation";
-import { StatusBanner } from "@modules/ui";
-import calculateTreeData from "@modules/navigation/calculateTreeData";
-import { SEO } from "@modules/utility";
-import { UrlConverter, getLocaleFromPath } from "@utils";
 
 export default (props) => {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
@@ -23,7 +22,7 @@ export default (props) => {
       allMdx(
         filter: {
           fileAbsolutePath: {
-            regex: "//([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
           }
         }
       ) {
@@ -54,7 +53,17 @@ export default (props) => {
     status,
     hideLanguageSelector,
     hideBreadcrumbs,
+    isCorePage
   } = pageContext.frontmatter;
+
+  //Core Pages store their own layout and functionality. Ignore everything and just return the children.
+  if (isCorePage) {
+    return (
+      <Fragment>
+        {children}
+      </Fragment>
+    )
+  }
 
   const pathDirs = pagePath
     .replace(/^\/|\/$/g, "")

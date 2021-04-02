@@ -1,12 +1,11 @@
-/** @jsx jsx */
-import { Fragment } from "react";
-import { Link as GatsbyLink } from "gatsby";
-import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { useTranslation } from "@modules/localization";
+import { Link as GatsbyLink } from "gatsby";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-
-import { useTranslation } from "@modules/localization";
+/** @jsx jsx */
+import { Fragment } from "react";
+import { jsx, Link as ThemeLink } from "theme-ui";
 
 // Since DOM elements <a> cannot receive activeClassName
 // and partiallyActive, destructure the prop here and // pass it only to GatsbyLink
@@ -61,11 +60,11 @@ const Link = ({
   // This assumes that any internal link (intended for Gatsby)
   // will start with exactly one slash, and that anything else is external.
   const internal = /^\/(?!\/)/.test(linkHref);
+  
 
   // Use Gatsby Link for internal links, and <a> for others
   if (internal) {
     const hasLocale = /^\/([\w]{2})\//.test(linkHref);
-
     //If it doesn't have the locale specified use the current locale.
     //NOTE(Réjon): While I could also check if it has a locale and if it exists,
     //             I think it could mess with the expectations of how links work.
