@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx, Box } from "theme-ui";
+import { Box, jsx } from "theme-ui";
 
 const Code = ({ children }) => {
   return (

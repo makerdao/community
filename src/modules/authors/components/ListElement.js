@@ -1,16 +1,17 @@
+import allContributors from "@content/all-contributors.json";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { getLinkIcon, Link } from "@modules/navigation";
 /** @jsx jsx */
 import { Fragment } from "react";
-import { Box, Flex, Image, Text, jsx } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
+import { Box, Flex, Image, jsx, Text } from "theme-ui";
 
-import { Link, getLinkIcon } from "@modules/navigation";
-import allContributors from "@content/all-contributors.json";
-import acKeys from "@modules/authors/allContributorKeys";
+import allContributorKeys from "../data/allContributorKeys";
 
-const { emojis } = acKeys;
+const { emojis } = allContributorKeys;
+
 const repoUrl = `${allContributors.repoHost}/${allContributors.projectOwner}/${allContributors.projectName}`;
 
-const AuthorListElement = ({
+export default function AuthorListElement({
   login,
   name,
   avatar_url,
@@ -20,7 +21,7 @@ const AuthorListElement = ({
   description,
   noUsername,
   noLinks,
-}) => {
+}) {
   return (
     <Flex>
       <Box sx={{ minWidth: "75px", maxWidth: "75px", flex: "auto" }}>
@@ -113,6 +114,4 @@ const AuthorListElement = ({
       </Box>
     </Flex>
   );
-};
-
-export default AuthorListElement;
+}

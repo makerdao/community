@@ -1,5 +1,5 @@
-import { useContext } from "react";
 import { useLocation } from "@reach/router";
+import { useContext } from "react";
 
 import { TranslationContext } from "./context";
 import { DEFAULT_LOCALE } from "./index";
