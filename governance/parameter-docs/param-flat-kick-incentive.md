@@ -9,24 +9,46 @@ Technical Docs:
 ```
 
 ## Description
-The Flat Kick Incentive parameter represents a constant reward paid to keepers (callers of `Dog.bark`) expressed in DAI.
+
+The Flat Kick Incentive parameter represents a reward in DAI paid to the keepers that trigger collateral liquidation auctions in the Maker Protocol.
+
+The Flat Kick Incentive is a fixed amount of DAI that is rewarded for each liquidation auction at the point the auction is triggered.
+
+Each vault type has its own Flat Kick Incentive that may be adjusted separately by Maker Governance.
 
 ## Purpose
-This parameter serves the double purpose of offsetting the gas costs incurred by keepers when liquidating vaults and making the liquidation of small vaults more attractive.
+
+The purpose of this parameter is to offset the gas cost of triggering vault liquidations in the event that gas costs on the ethereum blockchain increase to the point where liquidations are not being triggered in a timely manner.
 
 ## Trade-offs
-Increasing the Flat Kick Incentive parameter should make auctions kick reliably even for smaller vaults where the amount of collateral up for auction may not be attractive for keepers. In turn, having auctions kick reliably for smaller vaults may help in keeping a lower Debt Floor.
 
-On the other hand, it is important not to make this parameter so high that it will represent an opportunity for attackers to exploit the system by liquidating their own vaults to reap the incentives.
+Increasing the Flat Kick Incentive parameter should cause auctions to be triggered more reliably even for smaller vaults where the amount of collateral up for auction may not be attractive for keepers. In turn, having auctions trigger reliably for smaller vaults may allow governance to maintain a lower Debt Floor.
+
+However, if this parameter is set higher than the gas cost to both create and liquidate vaults, it provides an opportunity for attackers to exploit the system by liquidating their own vaults to harvest the DAI incentive.
+
+A further trade-off is that the funds for this parameter are removed from the surplus buffer, meaning that liquidations of very small vaults may cost governance more than it gains through the Liquidation Penalty.
 
 ## Changes
-Adjusting the Flat Kick Incentive parameter is a manual process that requires an executive vote. Changes to the Flat Kick Incentive are subject to the GSM Timelock.
+Adjusting a Flat Kick Incentive parameter is a manual process that requires an executive vote. Changes to a Flat Kick Incentive are subject to the GSM Timelock.
 
 **Why increase this parameter?**
-Increasing the Flat Kick Incentive parameter may be necessary in times of high gas fees that would otherwise demotivate the liquidation of smaller, less attractive vaults.
+
+Governance may consider increasing the Flat Kick Incentive for a vault type if high gas prices are preventing the liquidation of smaller vaults within that vault type.
 
 **Why decrease this parameter?**
-Decreasing the Flat Kick Incentive parameter should be considered when gas prices go down and smaller vaults are being liquidated reliably. Decreasing this parameter should also be considered when its correlation with the Proportional Kick Incentive (`chip`) and the Liquidation Penalty (`chop`) is such that attempting the farming of liquidations rewards is an attractive option for attackers.
+
+Governance may consider decreasing the Flat Kick Incentive for a vault type if smaller vaults are being liquidated reliably. 
+
+A decrease to this parameter should be **strongly** considered when in combination with the Proportional Kick Incentive and the Liquidation Penalty the farming of liquidation incentives is a viable option for attackers.
 
 ## Considerations
-TBC
+
+The Flat Kick Incentive parameter should be set such that: `Flat Kick Incentive < Liquidation Gas Costs + Vault Creation Gas Costs`
+
+The combination of liquidations incentives should be set such that the following is true: `Flat Kick Incentive + Proportional Kick Incentive < Liquidation Penalty + Liquidation Gas Costs + Vault Creation Gas Costs`.
+
+If both the Flat Kick Incentive and the Proportional Kick Incentive are non-zero. A keeper triggering a valid liquidation will recieve both.
+
+Resetting a failed auction will also award the triggering keeper the Flat Kick Incentive. 
+
+The funds for the Flat Kick Incentive are removed from the surplus buffer and may trigger MKR minting if there is no DAI available within the surplus buffer.
