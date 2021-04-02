@@ -23,6 +23,7 @@ jobs:
 
     - name: yarn install, build, and test
       run: |
+        yarn cache clean --all
         yarn install
         yarn build
         yarn test
