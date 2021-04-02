@@ -1,17 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import React from "react";
-import type { Node } from "react";
-import { format } from "date-fns";
-import { es } from 'date-fns/locale' //NOTE(Rejon): MUST be updated with existing locales
-const _dateLocales = {es};
-import { Image, Box, Flex, Text, jsx } from "theme-ui";
-
-
-
 // $FlowFixMe
 import allContributors from "@content/all-contributors.json";
+import { format } from "date-fns";
+import { Fragment } from "react";
+import { Box, Flex, Image, jsx, Text } from "theme-ui";
+import type { Node } from "react";
 
 type TAuthor = {
   login: string,
@@ -36,7 +31,7 @@ export function getAuthorData(_author: string): TAuthor {
 type TBlogAuthorProps = {
   date?: string,
   authors: Array<string>,
-  isDefaultLocale?: boolean
+  isDefaultLocale?: boolean,
 };
 
 export default function BlogAuthor({
@@ -55,43 +50,54 @@ export default function BlogAuthor({
 
   const renderObj = (
     <Flex {...props}>
-      
-        <Box>
-          <Image
-            src={authorToRender.avatar_url ? authorToRender.avatar_url : '/images/avatar-default.png'}
-            sx={{
-              width: 64,
-              height: 64,
-              borderRadius: "100%",
-              display: "inline-block",
-            }}
-          />
-        </Box>
+      <Box>
+        <Image
+          src={
+            authorToRender.avatar_url
+              ? authorToRender.avatar_url
+              : "/images/avatar-default.png"
+          }
+          sx={{
+            width: 64,
+            height: 64,
+            borderRadius: "100%",
+            display: "inline-block",
+          }}
+        />
+      </Box>
 
       <Box>
         <Flex sx={{ flexDirection: "column" }}>
           <Box sx={{ pl: 2 }}>
-            <Text sx={{ fontWeight: 400, color: 'text' }}>{authorToRender.name}</Text>
+            <Text sx={{ fontWeight: 400, color: "text" }}>
+              {authorToRender.name}
+            </Text>
           </Box>
           {date ? (
             <Box sx={{ pl: 2 }}>
               <Text sx={{ color: "mutedAlt", fontWeight: 400 }}>
-                {!isDefaultLocale ? date : format(new Date(date), "MMMM d, yyyy")}
+                {!isDefaultLocale
+                  ? date
+                  : format(new Date(date), "MMMM d, yyyy")}
               </Text>
             </Box>
-          ) : null}             
+          ) : null}
         </Flex>
       </Box>
     </Flex>
-  )
+  );
 
-  if (authorToRender.profile)
-  {
+  if (authorToRender.profile) {
     return (
-      <a href={authorToRender.profile} sx={{display: 'inline-block', textDecoration: 'none'}} target="_blank">
+      <a
+        href={authorToRender.profile}
+        sx={{ display: "inline-block", textDecoration: "none" }}
+        target="_blank"
+        rel="noreferrer"
+      >
         {renderObj}
       </a>
-    )
+    );
   }
 
   /*
@@ -99,9 +105,5 @@ export default function BlogAuthor({
 		NOTE(Rejon): Would typically go at the top of an article,
 		or below an article title inside of an article card.
 	*/
-  return (
-    <>
-    {renderObj}
-    </>
-  );
+  return <Fragment>{renderObj}</Fragment>;
 }

@@ -1,6 +1,6 @@
-/** @jsx jsx */
-import { jsx, Flex } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+/** @jsx jsx */
+import { Flex, jsx } from "theme-ui";
 
 const Callout = ({ icon, variant, children }) => {
   return (

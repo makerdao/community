@@ -1,15 +1,13 @@
 /** @jsx jsx */
 
-import React, { Fragment } from "react";
-import isArray from 'lodash/isArray'
-import { BlogAuthor, BlogContributors, BlogCard } from "@modules/blog";
-import { Divider, Button } from "@modules/ui";
-import { SEO } from "@modules/utility";
-import { Heading } from "@modules/ui/heading";
-import { Box, Flex, jsx } from "theme-ui";
+import isArray from "lodash/isArray";
+import { BlogAuthor, BlogCard, BlogContributors } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
+import { Button, Divider } from "@modules/ui";
+import { Heading } from "@modules/ui/heading";
+import { SEO } from "@modules/utility";
 import { graphql, useStaticQuery } from "gatsby";
-import { console } from "window-or-global";
+import { Box, Flex, jsx } from "theme-ui";
 
 ///MDX Layout for POSTs
 export default ({ children, pageContext }) => {
@@ -20,15 +18,17 @@ export default ({ children, pageContext }) => {
     authors,
     date,
     image,
-    recommend, 
+    recommend,
   } = pageContext.frontmatter;
 
-  const { t, locale, DEFAULT_LOCALE } = useTranslation();
+  const { t } = useTranslation();
 
   const { blogPosts, siteContent } = useStaticQuery(graphql`
     query blogPostRecommendations {
       #Regex for all blog posts
-      blogPosts:allMdx(filter: { fileAbsolutePath: { regex: "//blogPosts/" } }) {
+      blogPosts: allMdx(
+        filter: { fileAbsolutePath: { regex: "//blogPosts/" } }
+      ) {
         edges {
           node {
             fileAbsolutePath
@@ -71,45 +71,50 @@ export default ({ children, pageContext }) => {
 
   const hasContributors = isArray(authors) && authors.length > 1;
   const contributors = hasContributors ? authors.slice(1, authors.length) : [];
-    
-  const pagePathSplit = pageContext.pagePath.split("/").splice(1, pageContext.pagePath.split("/").length - 2);
-  const typeIndex = pagePathSplit.indexOf("blog") + 1; 
-  
-  //Split absolute path up to blog, get directory AFTER blog. 
-  let postType = typeIndex !== pagePathSplit.length - 1 ? pagePathSplit[typeIndex] : 'general';
+
+  const pagePathSplit = pageContext.pagePath
+    .split("/")
+    .splice(1, pageContext.pagePath.split("/").length - 2);
+  const typeIndex = pagePathSplit.indexOf("blog") + 1;
+
+  //Split absolute path up to blog, get directory AFTER blog.
+  let postType =
+    typeIndex !== pagePathSplit.length - 1
+      ? pagePathSplit[typeIndex]
+      : "general";
 
   let postImage = null;
-    
-    if (image === null || image === undefined)
-    {
-      postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
+
+  if (image === null || image === undefined) {
+    postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
+  } else {
+    if (isNaN(parseInt(image))) {
+      //Not a number, but a string. Expect entire src url
+      postImage = image;
+    } else {
+      postImage = `/images/blog_headers/${postType}_${image}.png`;
     }
-    else 
-    {
-      if (typeof parseInt(image) === NaN) //Not a number, but a string. Expect entire src url
-      {
-        postImage = image;
-      }
-      else
-      {
-        postImage = `/images/blog_headers/${postType}_${image}.png`;
-      }
-    }
+  }
 
-  const otherPosts = recommend?.map((rec) => { //Run through recommendation map for blog post recommendations
-    return blogPosts.edges.filter(({ node }) =>
-      node.fileAbsolutePath.includes(rec)
-    )[0];
-  }).concat(recommend?.map((rec) => { //Concat recommendations for all other site content.
-    return siteContent.edges.filter(({node}) => 
-      node.fileAbsolutePath.includes(rec)
-    )[0];
-  })).filter((el) => el !== undefined); //Filter out empty array/undefined runs of recommend. 
-
-
+  const otherPosts = recommend
+    ?.map((rec) => {
+      //Run through recommendation map for blog post recommendations
+      return blogPosts.edges.filter(({ node }) =>
+        node.fileAbsolutePath.includes(rec)
+      )[0];
+    })
+    .concat(
+      recommend?.map((rec) => {
+        //Concat recommendations for all other site content.
+        return siteContent.edges.filter(({ node }) =>
+          node.fileAbsolutePath.includes(rec)
+        )[0];
+      })
+    )
+    .filter((el) => el !== undefined); //Filter out empty array/undefined runs of recommend.
 
   const recommendations = otherPosts && otherPosts.length > 0;
-  
+
   const seo = {
     title,
     description,
@@ -120,26 +125,38 @@ export default ({ children, pageContext }) => {
     <Flex sx={{ flexDirection: "column" }}>
       <ContentBlock>
         <SEO {...seo} />
-        <Button outline icon="chevron_left" to="/blog">{t('Back_To_Blog')}</Button>
+        <Button outline icon="chevron_left" to="/blog">
+          {t("Back_To_Blog")}
+        </Button>
 
         <Heading level={1}>{title}</Heading>
 
         {authors ? (
-          <BlogAuthor sx={{ mb: "16px" }} authors={authors} date={date} isDefaultLocale={true}/>
+          <BlogAuthor
+            sx={{ mb: "16px" }}
+            authors={authors}
+            date={date}
+            isDefaultLocale={true}
+          />
         ) : null}
 
-        <img src={postImage} sx={{
-          width: '100%',
-          objectFit: 'cover',
-          maxHeight: '478px',
-          mb: '48px'
-        }} />
+        <img
+          src={postImage}
+          sx={{
+            width: "100%",
+            objectFit: "cover",
+            maxHeight: "478px",
+            mb: "48px",
+          }}
+        />
 
-        <div sx={{
-          '& > *:first-of-type': {
-            mt: 0
-          }
-        }}>
+        <div
+          sx={{
+            "& > *:first-of-type": {
+              mt: 0,
+            },
+          }}
+        >
           {children}
         </div>
       </ContentBlock>
@@ -150,10 +167,12 @@ export default ({ children, pageContext }) => {
         </Box>
       ) : null}
 
-      {hasContributors  ? (
+      {hasContributors ? (
         <ContentBlock>
-          <h2 sx={{fontWeight: '500', fontSize: '32px'}}> Contributors </h2>
-          <p sx={{mb: '40px'}}>This article is possible with a little help from friends.</p>
+          <h2 sx={{ fontWeight: "500", fontSize: "32px" }}> Contributors </h2>
+          <p sx={{ mb: "40px" }}>
+            This article is possible with a little help from friends.
+          </p>
           <BlogContributors contributors={contributors} />
         </ContentBlock>
       ) : null}
@@ -165,16 +184,21 @@ export default ({ children, pageContext }) => {
       ) : null}
 
       {recommendations ? (
-        <Box sx={{
-          width: ["100%", "100%", "90%"],
-          m: "0 auto",
-          mt: [2, 4, 4],
-          mb: [2, 4, 4],
-          pl: [4, 4, 0],
-          pr: [4, 4, 0],
-          position: "relative"
-        }}>
-          <h2 sx={{ mb: "66px", fontWeight: '500', fontSize: '32px' }}> Read More </h2>
+        <Box
+          sx={{
+            width: ["100%", "100%", "90%"],
+            m: "0 auto",
+            mt: [2, 4, 4],
+            mb: [2, 4, 4],
+            pl: [4, 4, 0],
+            pr: [4, 4, 0],
+            position: "relative",
+          }}
+        >
+          <h2 sx={{ mb: "66px", fontWeight: "500", fontSize: "32px" }}>
+            {" "}
+            Read More{" "}
+          </h2>
           <Flex
             sx={{
               justifyContent: "start",
@@ -206,7 +230,7 @@ function ContentBlock({ children }) {
         mb: [2, 4, 4],
         pl: [4, 4, "64px"],
         pr: [4, 4, 0],
-        position: "relative"
+        position: "relative",
       }}
     >
       {children}

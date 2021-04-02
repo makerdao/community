@@ -7,6 +7,12 @@
 [lints]
 
 [options]
+module.name_mapper='^@modules' ->'<PROJECT_ROOT>/src/modules'
+module.name_mapper='^@src' ->'<PROJECT_ROOT>/src'
+module.name_mapper='^@utils' ->'<PROJECT_ROOT>/utils.js'
+module.name_mapper='^@pages' ->'<PROJECT_ROOT>/pages'
+module.name_mapper='^@images' ->'<PROJECT_ROOT>/images'
+module.name_mapper='^@content' ->'<PROJECT_ROOT>/content'
 esproposal.export_star_as=enable
 esproposal.optional_chaining=enable
 module.ignore_non_literal_requires=true

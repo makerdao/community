@@ -1,15 +1,10 @@
 /** @jsx jsx */
-import { useState, useEffect } from "react";
+
 import PropTypes from "prop-types";
-import { Flex, Text, jsx } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { motion } from "framer-motion";
+import { Footer, Header } from "@modules/navigation";
+import { Flex, jsx } from "theme-ui";
 
-import { Header, Footer } from "@modules/navigation";
-import { Button } from "@modules/ui";
-import window from "window-or-global";
-
-const Layout = ({ children, pageContext, uri }) => {
+const Layout = ({ children, uri }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
 
   // const [showScrollCTA, setShowScrollCTA] = useState(

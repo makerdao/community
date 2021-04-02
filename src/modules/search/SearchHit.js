@@ -1,6 +1,6 @@
+import { Link } from "@modules/navigation";
 /** @jsx jsx */
 import { jsx, Text } from "theme-ui";
-import { Link } from "@modules/navigation";
 
 const SearchHit = ({ title, excerpt, url, ...props }) => (
   <Link

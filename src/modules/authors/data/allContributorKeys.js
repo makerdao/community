@@ -1,3 +1,5 @@
+// @flow
+
 //Keys associated with Allcontributors Emoji Keys.
 //Used to identify and filter contributions per author.
 //Add your own if you want...
@@ -67,4 +69,14 @@ const emojis = {
   video: "📹",
 };
 
-export default { contributionKeys: keys, emojis };
+type TEmojis = {
+  [string]: string,
+};
+type TContributorKeys = {
+  contributionKeys: Array<string>,
+  emojis: TEmojis,
+};
+
+const allContributorKeys: TContributorKeys = { contributionKeys: keys, emojis };
+
+export default allContributorKeys;

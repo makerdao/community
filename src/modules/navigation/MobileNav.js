@@ -1,13 +1,12 @@
+import { Icon } from "@makerdao/dai-ui-icons";
+import { useTranslation } from "@modules/localization";
+import { Link, SidenavNode } from "@modules/navigation";
+import { useNavigation } from "@modules/navigation/context";
+import { useLocation } from "@reach/router";
+import { AnimatePresence, motion } from "framer-motion";
 /** @jsx jsx */
 import { useState } from "react";
-import { Box, Flex, Text, jsx, useColorMode } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useLocation } from "@reach/router";
-import { motion, AnimatePresence } from "framer-motion";
-
-import { Link, SidenavNode } from "@modules/navigation";
-import { useTranslation } from "@modules/localization";
-import { useNavigation } from "@modules/navigation/context";
+import { Box, Flex, jsx, Text, useColorMode } from "theme-ui";
 
 const MobileNav = ({ sidenavData, blogData }) => {
   const { headerLinks, mobileNavOpen, hideMobileMenu } = useNavigation();
