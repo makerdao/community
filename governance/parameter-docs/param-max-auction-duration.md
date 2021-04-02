@@ -36,7 +36,10 @@ The Max Auction Duration might be increased when Governance feels comfortable wi
 
 **Why decrease this parameter?**
 
+Conversely, Governance might be interested in decreasing the Max Auction Duration when they want to reduce the variability of auction settlements. Decreasing this parameter leads to shorter auctions with a tighter range on the collateral sale price. While issues of collateral liquidity could motivate a decrease in the Max Auction Duration, such a change might also be warrented when changing other risk parameters (such as the Liquidation Ratio) that have a measured effect on the safety margins when auctioning collateral from a particular vault type. 
+
 ## Considerations
-* Is there anything little known about this parameter?
-* How does this interact with other parts of the protocol?
-* Are there any Emergency Shutdown considerations to take into account?
+
+The Max Auction Duration parameter plays a crucial part in pertecting the integrity of liquidations. Auction resets can only take place when either this parameter or the Max Auction Drawdown parameter are exceeded. 
+
+During an Emergency Shutdown new auctions are halted, but the Three-Stage Liquidations Circut Breaker determines if ongoing auctions can be reset or not. If only one additional level of the circut breaker is triggered the Max Auction Duration will still be used to check eligibility for auction reset, but under the most severe level of the Liquidations Circut breaker no resets can be preformed, thus limiting the effectiveness of the parameter.
