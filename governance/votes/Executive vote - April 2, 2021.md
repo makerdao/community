@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] Increase Debt Ceilings, Provide Core Unit Budgets - April 2, 2021
+title: Template - [Executive Vote] Increase Debt Ceilings, Provide April Core Unit Budgets - April 2, 2021
 
 ---
-# [Executive Proposal] Increase Debt Ceilings, Provide Core Unit Budgets - April 2, 2021
+# [Executive Proposal] Increase Debt Ceilings, Provide April Core Unit Budgets - April 2, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
