@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx, Card } from "theme-ui";
+import { Card, jsx } from "theme-ui";
 
 const CTA = ({ children, ...otherProps }) => (
   <Card

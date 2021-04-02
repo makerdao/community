@@ -1,8 +1,8 @@
-/** @jsx jsx */
-import { Button as ThemedButton, Text, jsx } from "theme-ui";
+import isNil  from 'lodash/isNil'
 import { Icon } from "@makerdao/dai-ui-icons";
-
 import { Link } from "@modules/navigation";
+/** @jsx jsx */
+import { Button as ThemedButton, jsx, Text } from "theme-ui";
 
 const Button = ({
   to,
@@ -39,11 +39,45 @@ const Button = ({
 
   const willHaveIcon = icon || (!internal && !hideExternalIcon && !small);
 
+  if (isNil(to) && isNil(href)) 
+  {
+    return  (
+      <ThemedButton
+        className="button"
+        disabled={disabled}
+        variant={_variant}
+        sx={{
+          p: willHaveIcon ? "13px 32px" : "",
+          display: 'flex',
+          alignItems: 'center',
+          "& > *": { display: "inline-block", mb: "0 !important" }, //NOTE(Rejon): I use important here because we don't want child elements to dictate margins
+        }}
+        {...otherProps}
+      >
+      {willHaveIcon && (
+          <Icon
+            name={icon || "increase"}
+            className="increase"
+            size={"20px"}
+            sx={{
+              ml: "2px",
+              mr: ".5em",
+              verticalAlign: "middle",
+            }}
+          />
+        )}
+
+        <Text sx={{ verticalAlign: willHaveIcon ? "middle" : "" }}>
+          {children}
+        </Text>
+      </ThemedButton>
+    )
+  }
+
   return (
     <Link
       to={to || href}
       disabled={disabled}
-      isButton={true}
       hideExternalIcon={true}
       sx={{
         whiteSpace: "nowrap",
@@ -62,7 +96,9 @@ const Button = ({
         variant={_variant}
         sx={{
           p: willHaveIcon ? "13px 32px" : "",
-          "& > *": { display: "inline-block", mb: "0 !important" }, //NOTE(Rejon): I use important here because we don't want child elements to dictate margins
+          display: 'flex',
+          alignItems:'center',
+          "& > *": { mb: "0 !important" }, //NOTE(Rejon): I use important here because we don't want child elements to dictate margins
         }}
         {...otherProps}
       >

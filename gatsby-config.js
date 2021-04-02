@@ -19,8 +19,9 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-theme-ui",
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-catch-links`,
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-flow",
     {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."
       resolve: `gatsby-plugin-alias-imports`,
@@ -47,9 +48,36 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blogPosts`,
+        path: `${__dirname}/blogPosts`,
+      },
+    },
+    {
       resolve: "gatsby-plugin-page-creator",
       options: {
         path: `${__dirname}/content`,
+        ignore: {
+          patterns: [
+            `**/header.mdx`,
+            `**/**.js`,
+            `**/**.json`,
+            `**/404.mdx`,
+            `**/example.mdx`,
+            `**/footer.mdx`,
+            `**/**.pptx`,
+            "**/**.jpg",
+            "**/**.png",
+          ],
+          options: { nocase: true },
+        },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-page-creator",
+      options: {
+        path: `${__dirname}/blogPosts`,
         ignore: {
           patterns: [
             `**/header.mdx`,
@@ -95,7 +123,10 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve("./src/modules/layouts/mdx_layout.js"),
+          default: require.resolve("./src/modules/layouts/default_layout.js"),
+          blogPosts: require.resolve(
+            "./src/modules/layouts/blogPost_layout.js"
+          ),
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [

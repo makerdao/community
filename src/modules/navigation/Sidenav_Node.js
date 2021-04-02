@@ -1,9 +1,8 @@
-/** @jsx jsx */
-import { useState, useEffect } from "react";
-import { Link } from "@modules/navigation";
-
-import { jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@modules/navigation";
+/** @jsx jsx */
+import { useEffect, useState } from "react";
+import { jsx } from "theme-ui";
 
 const Sidenav_Node = ({
   url,

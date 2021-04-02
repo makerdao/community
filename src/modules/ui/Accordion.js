@@ -1,9 +1,8 @@
-/** @jsx jsx */
-import { useState, Children } from "react";
 import SmoothCollapse from "react-smooth-collapse";
-
-import { Box, Flex, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+/** @jsx jsx */
+import { Children, useState } from "react";
+import { Box, Flex, jsx } from "theme-ui";
 
 const Accordion = ({ children, defaultOpen, openIcon, closeIcon }) => {
   const [expanded, setExpanded] = useState(defaultOpen ? true : false);

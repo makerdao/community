@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { Fragment } from "react";
-import { Flex, Image, Text, jsx } from "theme-ui";
+import { Flex, Image, jsx, Text } from "theme-ui";
 
 import Regions from "./data/regions";
 
