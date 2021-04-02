@@ -17,10 +17,10 @@ If this executive proposal passes the following changes will occur within the Ma
 - ZRX-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be increased from 5 million DAI to 10 million DAI.
 - YFI-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be increased from 45 million DAI to 75 million DAI.
 - PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will be increased from 1 billion DAI to 2 billion DAI.
-- Budgets for the Real-World Finance (RWF-001), Governance (GOV-001), and Risk (RISK-001) Core Units will be paid.
-  - 40,000 DAI for RWF-001 to be transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff
-  - 80,000 DAI for GOV-001 to be transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff
-  - 100,500 DAI for RISK-001 to be transfered to 0xd98ef20520048a35EdA9A202137847A62120d2d9
+- Budgets for the Real-World Finance (RWF-001), Governance (GOV-001), and Risk (RISK-001) Core Units will be distributed.
+  - 40,000 DAI to RWF-001 
+  - 80,000 DAI to GOV-001 
+  - 100,500 DAI to RISK-001 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
