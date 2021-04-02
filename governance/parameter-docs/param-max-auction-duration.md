@@ -30,6 +30,10 @@ If auctions are too short there is a risk of liquidations not ending profitably 
 
 The trade-offs to this parameter are heavily tied to the Auction Price Function parameter, as the shape of the curve may heavily affect the desired auction length.
 
+## Changes
+
+Adjusting a Maximum Auction Duration parameter for a specific vault type is a manual process that requires an executive vote. Changes to Maximum Auction Drawdown parameters are subject to the GSM Pause Delay.
+
 ## Considerations
 
 Auction resets can only take place when either the Max Auction Duration parameter or the Max Auction Drawdown parameter are exceeded. 
