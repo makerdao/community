@@ -89,7 +89,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
-  "precommit": "lint-staged",
+  "precommit": ["lint-staged", "lint"],
   "lint-staged": {
     "*.js": [
       "import-sort --write"
