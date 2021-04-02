@@ -24,36 +24,26 @@ This parameter exists to control the shape of the price curve used when auctioni
 
 ### Exponential Stair Step
 
-Exponential Stair Step 
-
-![image](Assets/ExponentialStairStep.png)
-
 **cut**  
 Controls the 'depth' of each step in the function. A smaller cut means a smoother line, a large one means more pronounced steps.
 
 This is a multiplicative factor. For example, 0.99 equates to a 1% price drop.
 
 **step**  
-Controls the length of time between price drops. A smaller step means a smoother line, a large one means more pronounced steps.
+Controls the length of time between price drops. A smaller step means a smoother line, a large one means more pronounced steps. This is defined in seconds.
 
-### Linear Decrease
-
-![image](Assets/Linear.png)
-
-**tau**  
-Controls how long it takes before the price reaches $0. 
-
-Defined in seconds.
+![](https://i.imgur.com/WxchH5N.png)
 
 ## Trade-offs
-* What dangers does this parameter represent?
-* What advantages does this parameter represent?
+
+Having control over the parameters of the Auction Price Function allows Governance to fine-tune the performance of auctions to best fit changing market conditions. A non-optimal setting could result in auctions resolving less quickly or in collateral being auctioned off at a lower price.
+
+An auction price falling too quickly may lead to a situation where keepers are not able to bid before the auction ends.
+
+An auction price falling too slowly may increase the auction slippage, and could potentially cause bad debt.
 
 ## Changes
 
 Adjusting an Auction Price Function parameter is a manual process that requires an executive vote. Changes to an Auction Price Function are subject to the GSM Pause Delay.
 
-## Considerations
-* Is there anything little known about this parameter?
-* How does this interact with other parts of the protocol?
-* Are there any Emergency Shutdown considerations to take into account?
+
