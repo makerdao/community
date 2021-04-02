@@ -11,7 +11,6 @@
     "@mdx-js/mdx": "^1.6.19",
     "@mdx-js/react": "^1.6.18",
     "@theme-ui/prism": "^0.3.0",
-    "babel-eslint": "^10.1.0",
     "date-fns": "^2.16.1",
     "del": "^6.0.0",
     "dotenv": "^8.2.0",
@@ -60,11 +59,14 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.23.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",
     "flow-bin": "^0.142.0",
     "flow-typed": "^3.3.1",
+    "gatsby-plugin-eslint-v2": "^2.0.0-beta.0",
     "import-sort-cli": "^6.0.0",
     "import-sort-parser-babylon": "^6.0.0",
     "import-sort-style-konsch": "^1.1.0",

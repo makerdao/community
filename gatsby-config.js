@@ -21,6 +21,17 @@ module.exports = {
     "gatsby-plugin-theme-ui",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-catch-links",
+    {
+      resolve: "gatsby-plugin-eslint-v2",
+      options: {
+        test: /\.js$|\.jsx$/,
+        exclude: /(node_modules|cache|public)/,
+        options: {
+          emitWarning: true,
+          failOnError: false,
+        },
+      },
+    },
     "gatsby-plugin-flow",
     {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."
