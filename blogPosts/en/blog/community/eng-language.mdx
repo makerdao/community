@@ -1,13 +1,13 @@
 ---
 title: "Translations for Global Communities"
-authors: ["andytudhope", "twblack88", "MaximumCrash"]
+authors: ["andytudhope", "twblack88", "MaximumCrash", "annaalexakr"]
 date: 2021-02-19
 image: "4"
 ---
 
 Translations can present a challenge. But not if you're [Maximum Crash](https://github.com/MaximumCrash). Our philosophy is that
 "content creators write the website," so the `content` folder therefore decides how the site is rendered,
-*including* translated content. However, this is an issue when translating inline UI elements that we won't
+_including_ translated content. However, this is an issue when translating inline UI elements that we won't
 provide in MDX (like the Search bar). This means there's a break in how we can translate copy like "Search"
 and "No results" into the current locale...
 
@@ -20,6 +20,7 @@ philosophy for the `content` folder and means that content creators would have t
 
 Add to this the fact that the i18n package for gatsby, and other frameworks, has a tendency to be larger than necessary.
 We believe that keeping things simple will be a positive for the scale of our application. Therefore, we present:
+
 ## UseTranslation (aka MaximumLang)
 
 Did you catch the `camlCase` joke? If you did, kudos you're a super nerd too.
@@ -27,6 +28,7 @@ Did you catch the `camlCase` joke? If you did, kudos you're a super nerd too.
 useTranslation is a hook developed by Réjon Taylor-Foster with inspiration from and reference to
 [this blog](https://w11i.me/how-to-build-multilingual-website-in-next-js). It initializes
 inside functional components and exports the current site's locale, and a `t` function.
+
 ### How to translate in code
 
 If your `en/UI.json` looks like this:
@@ -41,6 +43,7 @@ If your `en/UI.json` looks like this:
   }
 }
 ```
+
 Accomplish translating and rendering the word "Search" by writing the following:
 
 ```js:title=component-example.js
@@ -52,6 +55,7 @@ const ComponentExample = () => {
   return <p>{t("Search")}</p>;
 };
 ```
+
 ### LangSpaces
 
 We can extend the capabilities of this simple `t` function with what we call LangSpaces (Language Space):
@@ -69,6 +73,7 @@ We can extend the capabilities of this simple `t` function with what we call Lan
   }
 }
 ```
+
 to translate and render "error_a", write the following:
 
 ```js:title=component-langspace-example.js
@@ -94,6 +99,7 @@ const ComponentExample = () => {
   );
 };
 ```
+
 ### Variables and Plurals
 
 You want the variable of counter included and with plurals? No problem, anything inside `{{}}` will be replaced when rendered:
@@ -122,6 +128,7 @@ const ComponentExample = () => {
    )
 }
 ```
+
 ### Advanced Plurals
 
 Because different locales can have multiple plurals, and different ways of counting (ie. Arabic),
@@ -164,9 +171,11 @@ const ComponentExample = () => {
 
 <CTA>
 
+
 NOTE: If your count goes past 4 or is less than 0, it will default to key_5
 
 </CTA>
+
 
 ### Getting a localized string from another locale
 
@@ -206,28 +215,38 @@ These are just examples, for an in-depth dive on how the function works see the 
 
 <List>
 
+
 <Link to="/en/blog/community/Engineering-for-communities">
+
 
 Engineering For Communities: Part 1
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-search">
+
 
 The Intracacies of Search: Part 2
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-navigation">
+
 
 Navigating Through Automagic: Part 3
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-language">
+
 
 **Translations for Global Communities: Part 4**
 
 </Link>
 
+
 </List>
+

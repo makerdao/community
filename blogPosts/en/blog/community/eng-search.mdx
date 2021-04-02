@@ -1,6 +1,6 @@
 ---
 title: "The Intracacies of Search"
-authors: ["andytudhope", "MaximumCrash","twblack88"]
+authors: ["andytudhope", "MaximumCrash", "twblack88", "annaalexakr"]
 date: 2021-02-19
 image: "3"
 ---
@@ -19,6 +19,7 @@ consider it. However, that's not the case. We don't need an extremely robust ela
 to index our content pages. We just need a search that meets the minimal requirements of being search.
 
 Lunr is also used widely. If you've used mkdocs or docusaurus recently then you've used Lunr.
+
 ## How Lunr Indexes
 
 Since we're using Gatsby, there's almost always an integration someone has built, and luckily we have
@@ -43,10 +44,12 @@ options: {
 
 <CTA>
 
+
 Here, we filter out nodes that don't have frontmatter, don't have an absolute path, and the
 path doesn't match any file at the top section of our locale like header.mdx, index.mdx, 404.mdx, ect.)
 
 </CTA>
+
 
 For every new locale we add, we just make sure to update it's name, and the regex match `/\/[LOCALE]\/(?!header.mdx|index.mdx|404.mdx|.js|.json)/`.
 
@@ -105,28 +108,38 @@ excerpt: (node) => {.
 
 <List>
 
+
 <Link to="/en/blog/community/Engineering-for-communities">
+
 
 Engineering For Communities: Part 1
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-search">
+
 
 **The Intracacies of Search: Part 2**
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-navigation">
+
 
 Navigating Through Automagic: Part 3
 
 </Link>
 
+
 <Link to="/en/blog/community/eng-language">
+
 
 Translations for Global Communities: Part 4
 
 </Link>
 
+
 </List>
+
