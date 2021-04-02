@@ -9,7 +9,7 @@ options:
    0: Abstain
    1: 30 million DAI (no change)
    2: 60 million DAI (+30M)
-   3: 60 million DAI (+30M) while trying to `flap` 25% of the collected fees 
+   3: 60 million DAI (+30M) while auctioning 25% of fees
 ---
 # Poll: Increase the System Surplus Buffer - April 5, 2021
 
@@ -22,13 +22,11 @@ The Governance Facilitator(s) have placed a Governance Poll into the voting syst
 MKR Token Holders may vote in this poll to keep or adjust the [System Surplus Buffer](https://community-development.makerdao.com/en/learn/governance/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
 * 30 million DAI (no change)
 * 60 million DAI (+30 MM)
-* 60 million DAI (+30 MM) while trying to `flap` 25% of the collected fees 
+* 60 million DAI (+30 MM) while auctioning 25% of fees
 
-For the `flap` option we will try to target 25% of the stability fee revenues to be used for `flap` auctions by slowly increasing the `hump` instead of directly setting it to the target value of 60 MM. 
+For the last option, we will target 25% of the stability fee revenues to be used in Surplus Auctions. This will be achieved by a slow increase of the System Surplus Buffer, using linear interpolation, instead of directly setting it to the target value of 60 MM.
 
-This will add additionally complexity to the the executive spell, resulting in extra effort for the Smart Contracts team building it.
-
-**Governance cannot give any guarantee we will eventually burn 25% as there are a lot of factors which will influence of the actual System Surplus.**
+_Note: Mandated Actors cannot give Governance any guarantee to eventually sell the voted-upon 25% of fees due to external factors influencing the System Surplus._
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979) to inform your position on this issue before voting.
 
