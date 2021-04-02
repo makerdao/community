@@ -1,41 +1,39 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Rank your preferred options to resolve $GenericChange
-discussion_link: $discussion_link
-vote_type: Ranked Choice IRV
+title: TEMP GENERIC CHANGE TEST POLL 4th Kovan test
+summary: Signal your support or opposition to TEMP GENERIC CHANGE TEST POLL
+discussion_link: discussion_link
+vote_type: Plurality Voting
 categories:
-   - $CategoryA
-   - $CategoryB
+   - Risk Variable
+   - Auctions
 options:
    0: Abstain
-   1: $A
-   2: $B
-   3: $C
-   4: $D
+   1: Yes
+   2: No
+start_date: 2021-03-27T09:00:00
+end_date: 2021-04-05T16:00:00
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
+# Poll:TEMP GENERIC CHANGE TEST POLL
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
+**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
-The community can vote in this poll to rank their support of the following options:
-* $A_Detailed
-* $B_Detailed
-* $C_Detailed
-* $D_Detailed
+The community can vote in this poll to express support or opposition to the following changes:
+* Risk Variable
+* Auctions
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
-**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 

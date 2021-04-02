@@ -1,31 +1,28 @@
 ---
-title: TEMP GENERIC CHANGE TEST POLL
-summary: Signal your support or opposition to TEMP GENERIC CHANGE TEST POLL
-discussion_link: discussion_link
+title: Increase the Dust Parameter for Most Vault Types - March 15, 2021
+summary: Signal your support or opposition to increase the Dust Parameter from 2,000 DAI to 5,000 DAI for most vault-types.
+discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Auctions
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2021-03-19T19:00:00
-end_date: 2021-03-21T16:00:00
 ---
-# Poll:TEMP GENERIC CHANGE TEST POLL
+# Poll: Increase the Dust Parameter for Most Vault Types - March 15, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on March 15, 2021 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
-* Risk Variable
-* Auctions
+The community can vote in this poll to express support or opposition to modifying the [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (also known as Dust) Parameter for most vault-types: 
+* Increase the Dust Parameter from 2,000 DAI to 5,000 DAI for most vault-types.
+* PSM-USDC-A and ETH-B vault-types will be excluded from this change.
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704) to help inform your position before voting.
 
 ## Outcomes
 
