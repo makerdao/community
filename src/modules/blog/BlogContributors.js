@@ -1,9 +1,8 @@
 // @flow
 /** @jsx jsx */
 
-import React from "react";
 import { Icon } from "@makerdao/dai-ui-icons";
-import { Box, Flex, Image, jsx, Text } from "theme-ui";
+import { Box, Flex, Image, jsx } from "theme-ui";
 import type { Node } from "react";
 
 import { getAuthorData } from "./BlogAuthor";
@@ -58,7 +57,7 @@ export default function BlogContributors({
               />
             )}
 
-            <Box sx={{mt: '12px'}}>
+            <Box sx={{ mt: "12px" }}>
               <Box sx={{ mb: [2, "unset", "unset"] }}>{authorData.name}</Box>
             </Box>
           </Flex>

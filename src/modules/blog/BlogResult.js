@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import React from "react";
+
 import { BlogAuthor } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
 import { Link } from "@modules/navigation";

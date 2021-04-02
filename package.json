@@ -59,6 +59,7 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.15.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",

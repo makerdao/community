@@ -1,21 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import allContributors from "@content/all-contributors.json";
-import {
-  GridCell,
-  ListElement,
-  MDXtoAuthor,
-} from "@modules/authors";
+import { GridCell, ListElement } from "@modules/authors";
 import { Children } from "react";
 import { Grid, jsx } from "theme-ui";
 import type { Node } from "react";
 
-import allContributorKeys from './data/allContributorKeys';
 import contributorsData from "./transformers/contributorsData";
-import type { TContributorList } from "./types";
-
-const { contributionKeys } = allContributorKeys;
 
 export type TAuthorRendererProps = {
   list: boolean,

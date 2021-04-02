@@ -17,10 +17,17 @@ module.exports = {
     sourceType: "module",
   },
   plugins: ["react", "flowtype"],
+  ignorePatterns: ["**/flow-typed/**/*.js"],
   rules: {
     "react/prop-types": "off",
     "react/display-name": "off",
     "no-unused-vars": "warn",
+    "flowtype/no-types-missing-file-annotation": "off",
+  },
+  settings: {
+    flowtype: {
+      onlyFilesWithFlowAnnotation: true,
+    },
   },
   overrides: [
     {

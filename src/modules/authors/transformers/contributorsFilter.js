@@ -1,7 +1,5 @@
 // @flow
 
-import allContributors from "@content/all-contributors.json";
-
 import allContributorKeys from "../data/allContributorKeys";
 import type { TContributorList } from "../types";
 

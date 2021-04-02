@@ -1,73 +1,67 @@
-import isNil from "lodash/isNil";
 /** @jsx jsx */
-import React from "react";
+
+import isNil from "lodash/isNil";
 import { BlogAuthor } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
 import { Link } from "@modules/navigation";
 import { getBlogPostTypeFromPath, TitleConverter, UrlConverter } from "@utils";
 import { parseInt } from "lodash";
 import { jsx } from "theme-ui";
-import { console, NaN } from "window-or-global";
 
 const BlogCard = ({
   excerpt,
   fileAbsolutePath,
   frontmatter,
   isLatest,
-  headings
+  headings,
 }) => {
   const { t, locale, DEFAULT_LOCALE } = useTranslation();
 
   const { authors, date, description, image, title } = frontmatter;
   const type = getBlogPostTypeFromPath(fileAbsolutePath);
 
-  const isContent = fileAbsolutePath.indexOf('/content/') !== -1;
+  const isContent = fileAbsolutePath.indexOf("/content/") !== -1;
 
-  const postLink = isContent ?
-    UrlConverter({fileAbsolutePath})
-  : 
-  fileAbsolutePath
-    .slice(
-      fileAbsolutePath.indexOf("/blogPosts/") + 10,
-      fileAbsolutePath.length
-    )
-    .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+  const postLink = isContent
+    ? UrlConverter({ fileAbsolutePath })
+    : fileAbsolutePath
+        .slice(
+          fileAbsolutePath.indexOf("/blogPosts/") + 10,
+          fileAbsolutePath.length
+        )
+        .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
 
+  const pagePathSplit = postLink
+    .split("/")
+    .splice(1, postLink.split("/").length - 1);
+  const typeIndex = pagePathSplit.indexOf("blog") + 1;
 
-    
+  //Split absolute path up to blog, get directory AFTER blog.
+  let postType =
+    typeIndex !== pagePathSplit.length - 1
+      ? pagePathSplit[typeIndex]
+      : "general";
 
-    const pagePathSplit = postLink.split("/").splice(1, postLink.split("/").length - 1);
-    const typeIndex = pagePathSplit.indexOf("blog") + 1; 
+  let postImage = null;
 
-    //Split absolute path up to blog, get directory AFTER blog. 
-    let postType = typeIndex !== pagePathSplit.length - 1 ? pagePathSplit[typeIndex] : 'general';
-
-    let postImage = null;
-    
-    if (image === null || image === undefined)
-    {
-      postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
+  if (image === null || image === undefined) {
+    postImage = `/images/blog_headers/${postType}_1.png`; //will be general image 1
+  } else {
+    if (isNaN(parseInt(image))) {
+      //Not a number, but a string. Expect entire src url
+      postImage = image;
+    } else {
+      postImage = `/images/blog_headers/${postType}_${image}.png`;
     }
-    else 
-    {
-      if (typeof parseInt(image) === NaN) //Not a number, but a string. Expect entire src url
-      {
-        postImage = image;
-      }
-      else
-      {
-        postImage = `/images/blog_headers/${postType}_${image}.png`;
-      }
-    }
+  }
 
-    let postTitle = title; 
+  let postTitle = title;
 
-    if (isContent)
-    {
-      postImage = `/images/blog_headers/general_1.png`
-      postType = null;
-      postTitle = TitleConverter({frontmatter, fileAbsolutePath, headings})
-    }
+  if (isContent) {
+    postImage = `/images/blog_headers/general_1.png`;
+    postType = null;
+    postTitle = TitleConverter({ frontmatter, fileAbsolutePath, headings });
+  }
 
   return (
     <div
@@ -129,11 +123,16 @@ const BlogCard = ({
         hideExternalIcon
       >
         {" "}
-        {postTitle}
-        {" "}
+        {postTitle}{" "}
       </Link>
 
-      {!isNil(authors) && <BlogAuthor authors={authors} date={date} isDefaultLocale={locale === DEFAULT_LOCALE} />}
+      {!isNil(authors) && (
+        <BlogAuthor
+          authors={authors}
+          date={date}
+          isDefaultLocale={locale === DEFAULT_LOCALE}
+        />
+      )}
 
       <p>{description || excerpt}</p>
     </div>

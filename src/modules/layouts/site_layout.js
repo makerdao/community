@@ -1,14 +1,10 @@
-import PropTypes from "prop-types";
-import window from "window-or-global";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Footer, Header } from "@modules/navigation";
-import { Button } from "@modules/ui";
-import { motion } from "framer-motion";
 /** @jsx jsx */
-import { useEffect, useState } from "react";
-import { Flex, jsx, Text } from "theme-ui";
 
-const Layout = ({ children, pageContext, uri }) => {
+import PropTypes from "prop-types";
+import { Footer, Header } from "@modules/navigation";
+import { Flex, jsx } from "theme-ui";
+
+const Layout = ({ children, uri }) => {
   const hasTopSection = uri ? uri.split("/").length >= 3 : false;
 
   // const [showScrollCTA, setShowScrollCTA] = useState(
