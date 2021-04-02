@@ -11,6 +11,7 @@
     "@mdx-js/mdx": "^1.6.19",
     "@mdx-js/react": "^1.6.18",
     "@theme-ui/prism": "^0.3.0",
+    "babel-eslint": "^10.1.0",
     "date-fns": "^2.16.1",
     "del": "^6.0.0",
     "dotenv": "^8.2.0",
@@ -59,7 +60,6 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
     "eslint": "^7.15.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",
