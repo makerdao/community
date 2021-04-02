@@ -6878,6 +6878,14 @@ gatsby-plugin-client-side-redirect@^1.1.0:
   dependencies:
     fs-extra "^7.0.0"
 
+gatsby-plugin-flow@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-flow/-/gatsby-plugin-flow-1.10.0.tgz#b23d2d754178e771fec10b56f1b033d27fb3cf9d"
+  integrity sha512-U+p9Z4KOCRefL9SMK+9Fsx2ThdRN/DD/sDHQIid7tYTxCeuXVQspSjVX+FNSc2p7s3Z13Vu5S7k14ubjgZBT0g==
+  dependencies:
+    "@babel/preset-flow" "^7.12.1"
+    "@babel/runtime" "^7.12.5"
+
 gatsby-plugin-google-analytics@^2.3.15:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.4.0.tgz#7c2d0dbb93910129518d325083ac740b756e2819"
