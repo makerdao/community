@@ -17,7 +17,7 @@ The Max Auction Drawdown parameter overlaps with the Max Auction Duration parame
 
 ## Purpose
 
-This parameter primarily exists to prevent collateral auctions continuing past the point of sanity and auctioning off collateral at far below market price in the event of an unforeseen issue that prevents bids. It is redundant with the Max Auction Duration parameter and allows Maker Governance to decide whether to set the lowest price directly or implicitly via the Auction Price Curve and Maximum Auction Duration parameters.
+This parameter primarily exists to prevent collateral auctions from continuing past the point of sanity and auctioning off collateral at far below market price in the event of an unforeseen issue that prevents bids. It is redundant with the Max Auction Duration parameter and allows Maker Governance to decide whether to set the lowest price directly or implicitly via the Auction Price Curve and Maximum Auction Duration parameters.
 
 ## Trade-offs
 Setting this parameter too low may result in collateral auctions selling collateral for below market price in the event of unforeseen disruptions that prevent bids. 
