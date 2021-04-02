@@ -17,7 +17,7 @@ If this executive proposal passes the following changes will occur within the Ma
 - ZRX-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be increased from 5 million DAI to 10 million DAI.
 - YFI-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be increased from 45 million DAI to 75 million DAI.
 - PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will be increased from 1 billion DAI to 2 billion DAI.
-- Budgets for the Real-World Finance (RWF-001), Governance (GOV-001), and Risk (RISK-001) Core Units will be distributed.
+- April Budgets for the Real-World Finance (RWF-001), Governance (GOV-001), and Risk (RISK-001) Core Units will be distributed.
   - 40,000 DAI to RWF-001 
   - 80,000 DAI to GOV-001 
   - 100,500 DAI to RISK-001 
@@ -50,12 +50,12 @@ Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/Q
 
 Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/QmUsKRJj) and associated [signal request](https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-dc/7072), the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will be increased from 1 billion DAI to 2 billion DAI if this executive proposal passes.
 
-### Provide Core Unit Budgets
+### Provide April Core Unit Budgets
 
 Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/QmS2rykD) and associated [Governance Cycle Bundle](https://vote.makerdao.com/executive/approve-march-2021-governance-cycle-bundle?network=mainnet#proposal-detail), the following budget allocations will be made if this executive proposal passes.
-  - 40,000 DAI transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff for the [Real-World Finance Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
-  - 80,000 DAI transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff for the [Governance Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
-  - 100,500 DAI transfered to 0xd98ef20520048a35EdA9A202137847A62120d2d9 for the [Risk Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp2-add-core-unit-budget-risk-core-unit/6343)
+  - 40,000 DAI transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff for the [Real-World Finance (RWF-001) Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp1-modify-core-unit-budget-real-world-finance/6225)
+  - 80,000 DAI transfered to 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff for the [Governance (GOV-001) Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp3-core-unit-budget-gov-001/6349)
+  - 100,500 DAI transfered to 0xd98ef20520048a35EdA9A202137847A62120d2d9 for the [Risk (RISK-001) Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp2-add-core-unit-budget-risk-core-unit/6343)
 
 ## Review
 
