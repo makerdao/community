@@ -7553,11 +7553,6 @@ gatsby-plugin-client-side-redirect@^1.1.0:
   dependencies:
     fs-extra "^7.0.0"
 
-gatsby-plugin-eslint-v2@^2.0.0-beta.0:
-  version "2.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-eslint-v2/-/gatsby-plugin-eslint-v2-2.0.0-beta.0.tgz#6c5748916c8cdd54f0c93a55cdc4e2e894b9b651"
-  integrity sha512-LZxc82Ijw0P6nn6+3RkmcSnIoiqDppskVznyUYR7w1xUxf6ZwGB34LokXQWz21hUoRq0kEoYanGbs7dKeldOmw==
-
 gatsby-plugin-flow@^1.8.0:
   version "1.8.0"
   resolved "https://registry.npmjs.org/gatsby-plugin-flow/-/gatsby-plugin-flow-1.8.0.tgz#512ce5fa9cd05086928d8082985b21048ca3cdb7"
