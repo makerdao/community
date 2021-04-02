@@ -18,20 +18,20 @@ The Max Auction Duration parameter overlaps with the Max Auction Drawdown parame
 
 ## Purpose
 
-The Max Auction Duration parameter exists to prevent auctions from continuing for longer than Maker Governance wishes. It is redundant with the Max Auction Drawdown parameter, and allows Maker Governance to decide whether to set the maximum duration directly or implicitly via the Auction Price Curve and Maximum Auction Drawdown parameters.
+The Max Auction Duration parameter exists to prevent auctions from continuing for longer than Maker Governance wishes. It is redundant with the Max Auction Drawdown parameter and allows Maker Governance to decide whether to set the maximum duration directly or implicitly via the Auction Price Curve and Maximum Auction Drawdown parameters.
 
-The Max Auction Duration would need to be used if the Auction Price Curve for a vault type was entirtely flat (offering a fixed price redemption), which may be true when liquidating stablecoin collateral.
+The Max Auction Duration would need to be used if the Auction Price Function for a vault type was entirely flat (offering a fixed price redemption), which may be true when liquidating stablecoin collateral.
 
 ## Trade-offs
 
-A large Max Auction Duration increases the amount of time that keepers have to bid in the auction before it needs to be reset. On the other hand, having a shorter duration means relying more heavily on swift participation of keepers within collateral auctions. 
+A large Max Auction Duration increases the amount of time that keepers have to bid in the auction before it needs to be reset. On the other hand, having a shorter duration means relying more heavily on the swift participation of keepers within collateral auctions. 
 
-If auctions are too short there is risk of liquidation not ending profitably before a reset is required. This may be negative depending on the settings for the Flat Kick Incentive and the Proportional Kick Incentive because at each reset these incentives are paid to keepers.
+If auctions are too short there is a risk of liquidations not ending profitably before a reset is required. This may be negative depending on the settings for the Flat Kick Incentive and the Proportional Kick Incentive because at each reset these incentives are paid to keepers.
 
-The trade-offs to this parameter are heavily tied to the Auction Price Function parameter, as the shape of the curve may heavily affects the desired auction length.
+The trade-offs to this parameter are heavily tied to the Auction Price Function parameter, as the shape of the curve may heavily affect the desired auction length.
 
 ## Considerations
 
 Auction resets can only take place when either the Max Auction Duration parameter or the Max Auction Drawdown parameter are exceeded. 
 
-During an Emergency Shutdown new auctions are halted, but the Three-Stage Liquidations Circut Breaker determines if ongoing auctions can be reset or not. If only one additional level of the circut breaker is triggered the Max Auction Duration will still be used to check eligibility for auction reset, but under the most severe level of the Liquidations Circut breaker no resets can be preformed, thus limiting the effectiveness of the parameter.
+During an Emergency Shutdown, new auctions are halted, but the Three-Stage Liquidations Circut Breaker determines if ongoing auctions can be reset or not. If only one additional level of the circuit breaker is triggered the Max Auction Duration will still be used to check eligibility for auction reset, but under the most severe level of the Liquidations Circut breaker no resets can be performed, thus limiting the effectiveness of the parameter.
