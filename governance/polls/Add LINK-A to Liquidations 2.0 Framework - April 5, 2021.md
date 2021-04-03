@@ -33,6 +33,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Maximum Auction Duration]($tail_link): 8,400 seconds
 * [Local Liquidation Limit]($ilk_hole_link): 6 million DAI
 * [Liquidation Penalty]($chop_link): 13%
+* [Breaker Price Tolerance]($tolerence_link): 0.5
 
 **Global Parameters**
 * [Global Liquidation Limit]($hole_link): 100 million DAI
