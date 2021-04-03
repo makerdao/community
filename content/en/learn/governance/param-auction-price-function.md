@@ -1,7 +1,12 @@
+---
+title: Parameter - Auction Price Function
+keywords: "auction, price, function, curve, calc"
+---
+
 # Auction Price Function
 
 ```
-Alias: Price Curve
+Alias: Auction Price Function, Price Curve
 Parameter Name: calc
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
