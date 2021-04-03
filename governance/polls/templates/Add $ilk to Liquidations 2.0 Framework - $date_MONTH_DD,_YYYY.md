@@ -36,6 +36,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Maximum Auction Duration]($tail_link): $maximum_auction_duration
 * [Local Liquidation Limit]($ilk_hole_link): $local_liquidation_limit
 * [Liquidation Penalty]($chop_link): $liquidation_penalty
+* [Breaker Price Tolerance]($tolerance_link): $breaker_price_tolerance
 
 Please review the following [Risk Evaluation]($risk_link) containing information about $ilk to inform your position before voting.
 
