@@ -6,11 +6,13 @@ keywords: "maximum, auction, drawdawn, cusp"
 # Maximum Auction Drawdown
 
 ```
-Alias:
+
+Alias: Maximum Auction Drawdown
 Parameter Name: cusp
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description

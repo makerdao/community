@@ -6,11 +6,13 @@ keywords: "global, liquidation, limit, hole"
 # Global Liquidation Limit
 
 ```
+
 Alias: Global Liquidation Limit
 Parameter Name: hole
 Containing Contract: Dog
 Scope: System
 Technical Docs:
+
 ```
 
 ## Description

@@ -6,11 +6,13 @@ keywords: "breaker, price, tolerance"
 # Breaker Price Tolerance
 
 ```
+
 Alias: Breaker Price Tolerance
 Parameter Name: tolerance
 Containing Contract: ClipperMom
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description

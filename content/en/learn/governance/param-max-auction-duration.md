@@ -6,11 +6,13 @@ keywords: "maximum, auction, duration, tail"
 # Maximum Auction Duration
 
 ```
+
 Alias: Maximum Auction Duration
 Parameter Name: tail
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description
