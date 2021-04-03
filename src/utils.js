@@ -127,3 +127,25 @@ export const formatNumber = (num) => {
     .toString()
     .replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
 };
+
+//NOTE(Rejon): This seems extraneous, but it's so we can support getting types from the file path instead of writers having to provide type via frontmatter. 
+export const getBlogPostTypeFromPath = (path) => {
+  const pathArr = path.split('/');
+  
+  const nodeAfterBlog = pathArr[pathArr.indexOf('blog') +  1];
+
+  if (nodeAfterBlog !== undefined) //Check if node after blog is not undefined. 
+  {
+    //Check if the node after blog is a mdx/markdown file.  
+    if (nodeAfterBlog.includes('.mdx') || nodeAfterBlog.includes('.md'))
+    {
+      return null; 
+    }
+
+    return nodeAfterBlog; 
+  }
+  else 
+  {
+    return null; 
+  }
+}
