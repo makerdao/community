@@ -8,7 +8,7 @@ module.exports = {
     "plugin:react/recommended",
     "plugin:flowtype/recommended",
   ],
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   parserOptions: {
     requireConfigFile: false,
     ecmaFeatures: {
