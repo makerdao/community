@@ -1,7 +1,12 @@
+---
+title: Parameter - Auction Price Function
+keywords: "auction, price, function, curve, calc"
+---
+
 # Auction Price Function
 
 ```
-Alias: Price Curve
+Alias: Auction Price Function, Price Curve
 Parameter Name: calc
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
@@ -18,7 +23,7 @@ Each vault type may have its own Auction Price Function, though in practice they
 
 ## Purpose
 
-This parameter exists to control the shape of the price curve used when auctioning collateral from liquidated vaults. 
+This parameter exists to control the shape of the price curve used when auctioning collateral from liquidated vaults.
 
 ## Price Curves
 
@@ -32,7 +37,7 @@ This is a multiplicative factor. For example, 0.99 equates to a 1% price drop.
 **step**  
 Controls the length of time between price drops. A smaller step means a smoother line, a large one means more pronounced steps. This is defined in seconds.
 
-![](gi\images\cut-and-step.png)
+![](/images/cut-and-step.png)
 
 ## Trade-offs
 
@@ -45,5 +50,3 @@ An auction price falling too slowly may increase the auction slippage, and could
 ## Changes
 
 Adjusting an Auction Price Function parameter is a manual process that requires an executive vote. Changes to an Auction Price Function are subject to the GSM Pause Delay.
-
-
