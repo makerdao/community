@@ -1,6 +1,6 @@
 ---
 title: Add LINK-A to Liquidations 2.0 Framework - April 5, 2021
-summary: This poll proposes system parameters which could be used to initialize LINK-A with the Liquidations 2.0 Framework.
+summary: This poll proposes system parameters to be used in initializing LINK-A with the Liquidations 2.0 Framework.
 discussion_link: https://forum.makerdao.com/t/link-a-liquidations-2-0-parameters/7180
 vote_type: Plurality Voting
 categories:
@@ -19,25 +19,27 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding LINK-A to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO Community to signal their support or opposition to adding LINK-A to the Liquidations 2.0 Framework with the parameters below:
 
-**Price Function**
-* [Price Change Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
-* [Price Change Interval](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 90 seconds
-* [Auction Price Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.3
-* [Breaker Price Tolerance](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
+**Auction Price**
+* [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
+   * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
+   * [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 90 seconds
+* [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.3
 
-**General Parameters**
-* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
-* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
+**Limts**
+* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 6 million DAI
 * [Maximum Auction Drawdown](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.4
 * [Maximum Auction Duration](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 8,400 seconds
-* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 6 million DAI
-* [Liquidation Penalty](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
+* [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
 
-**Global Parameters**
+**Incentives**
+* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
+* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
+
+**Global Parameters**  
+Because this is the first vault type using liquidations 2.0, the Global Liquidation Limit will also be set:
 * [Global Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-global-liquidation-limit): 100 million DAI
-
 
 Please review the following [Risk Evaluation](https://forum.makerdao.com/t/link-a-liquidations-2-0-parameters/7180) containing information about these proposed parameters to inform your position before voting.
 
