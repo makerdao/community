@@ -12,7 +12,7 @@ options:
 ---
 # Appoint DeFi Saver as Oracle Light Feed (MIP10c14-SP7) - April 5, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of DeFi Saver. This Governance Poll will be active for three days beginning on Monday, April 5 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance Poll will be active for three days beginning on Monday, April 5 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,7 +20,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appointing DeFi Saver as [Oracle Light Feed](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md#feeds).
+The community can vote in this poll to express support or opposition to appointing DeFi Saver as an [Oracle Light Feed](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md#feeds).
 
 Please review the application [thread](https://forum.makerdao.com/t/mip10c14-sp7-proposal-appoint-defi-saver-as-a-light-feed/7207) to inform your position on this issue before voting.
 
