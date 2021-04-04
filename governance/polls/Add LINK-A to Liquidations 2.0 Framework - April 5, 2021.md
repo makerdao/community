@@ -19,7 +19,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding LINK-A to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
 
 **Price Function**
 * [Price Change Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
