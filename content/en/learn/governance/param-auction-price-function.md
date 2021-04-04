@@ -6,11 +6,13 @@ keywords: "auction, price, function, curve, calc"
 # Auction Price Function
 
 ```
+
 Alias: Auction Price Function, Price Curve
 Parameter Name: calc
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description

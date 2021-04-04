@@ -6,11 +6,13 @@ keywords: "flat, kick, incentive, tip"
 # Flat Kick Incentive
 
 ```
+
 Alias: Flat Kick Incentive
 Parameter Name: tip
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description
