@@ -60,8 +60,10 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^4.19.1",
+    "@babel/eslint-parser": "^7.13.14",
+    "@babel/preset-flow": "^7.13.13",
+    "babel-preset-gatsby": "^1.2.0",
+    "eslint": "^7.23.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",

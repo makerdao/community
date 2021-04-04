@@ -30,10 +30,9 @@ jobs:
         GOOGLE_ANALYTICS_TRACKING_ID: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
         GOOGLE_ANALYTICS_OPTIMIZE_ID: ${{ secrets.GOOGLE_ANALYTICS_OPTIMIZE_ID }}
     
-    # TODO: migrate babel-eslint to @babel/eslint-parser
-    # - name: Run ESLint 
-    #   run: | 
-    #     yarn lint
+    - name: Run ESLint 
+      run: | 
+        yarn lint
     
     - name: Check types
       run: |
