@@ -6,11 +6,13 @@ keywords: "liquidation, penalty, chop"
 # Liquidation Penalty
 
 ```
+
 Alias: Liquidation Penalty
 Parameter Name: chop
 Containing Contract: Dog
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description

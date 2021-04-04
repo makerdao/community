@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Réjon Taylor-Foster (@Maximum_Crash)",
   "dependencies": {
+    "@babel/eslint-parser": "^7.13.14",
     "@makerdao/dai-ui-icons": "^0.0.62",
     "@makerdao/dai-ui-icons-branding": "^0.0.62",
     "@makerdao/dai-ui-theme-maker": "^0.0.66",
@@ -59,8 +60,10 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "4.19.1",
+    "@babel/eslint-parser": "^7.13.14",
+    "@babel/preset-flow": "^7.13.13",
+    "babel-preset-gatsby": "^1.2.0",
+    "eslint": "^7.23.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",
@@ -89,7 +92,10 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
-  "precommit": ["lint-staged", "lint"],
+  "precommit": [
+    "lint-staged",
+    "lint"
+  ],
   "lint-staged": {
     "*.js": [
       "import-sort --write"

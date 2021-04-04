@@ -6,11 +6,13 @@ keywords: "auction, price, multiplier, buf"
 # Auction Price Multiplier
 
 ```
+
 Alias: Auction Price Multiplier
 Parameter Name: buf
 Containing Contract: Clipper
 Scope: Vault Type (Ilk)
 Technical Docs:
+
 ```
 
 ## Description
