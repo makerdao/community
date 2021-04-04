@@ -4,7 +4,7 @@ summary: This poll proposes system parameters to be used in initializing LINK-A 
 discussion_link: https://forum.makerdao.com/t/link-a-liquidations-2-0-parameters/7180
 vote_type: Plurality Voting
 categories:
-   - Collateral
+   - Auctions
    - Risk Variable
 options:
    0: Abstain
@@ -28,18 +28,18 @@ This poll allows the MakerDAO Community to signal their support or opposition to
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.3
 
 **Limts**
-* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 6 million DAI
-* [Maximum Auction Drawdown](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.4
-* [Maximum Auction Duration](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 8,400 seconds
+* [Local Liquidation Limit (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 6 million DAI
+* [Maximum Auction Drawdown (`cusp`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.4
+* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 8,400 seconds
 * [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
 
 **Incentives**
-* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
-* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
+* [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
+* [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
 
 **Global Parameters**  
 Because this is the first vault type using liquidations 2.0, the Global Liquidation Limit will also be set:
-* [Global Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-global-liquidation-limit): 100 million DAI
+* [Global Liquidation Limit (`Hole`)](https://community-development.makerdao.com/en/learn/governance/param-global-liquidation-limit): 100 million DAI
 
 Please review the following [Risk Evaluation](https://forum.makerdao.com/t/link-a-liquidations-2-0-parameters/7180) containing information about these proposed parameters to inform your position before voting.
 

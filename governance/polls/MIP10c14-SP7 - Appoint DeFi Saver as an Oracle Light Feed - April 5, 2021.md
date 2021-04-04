@@ -1,6 +1,6 @@
 ---
 title: Appoint DeFi Saver as Oracle Light Feed (MIP10c14-SP7) - April 5, 2021
-summary: Signal your support or opposition for appointing DeFi Saver as Oracle Light Feed
+summary: Signal your support or opposition for appointing DeFi Saver as Oracle Light Feed.
 discussion_link: https://forum.makerdao.com/t/mip10c14-sp7-proposal-appoint-defi-saver-as-a-light-feed/7207
 vote_type: Plurality Voting
 categories:

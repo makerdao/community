@@ -1,6 +1,6 @@
 ---
 title: Increase the System Surplus Buffer - April 5, 2021
-summary: Rank your preferred options to resolve the System Surplus Buffer increase
+summary: Rank your preferred options regarding a System Surplus Buffer increase.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979
 vote_type: Ranked Choice IRV
 categories:
@@ -8,8 +8,8 @@ categories:
 options:
    0: Abstain
    1: 30 million DAI (no change)
-   2: 60 million DAI (+30MM)
-   3: 60 million DAI (+30MM) while auctioning 25% of fees
+   2: 60 million DAI (+30M) - 0% MKR Burn
+   3: 60 million DAI (+30M) - 25% MKR Burn
 ---
 # Poll: Increase the System Surplus Buffer - April 5, 2021
 
@@ -21,12 +21,12 @@ The Governance Facilitator(s) have placed a Governance Poll into the voting syst
 
 MKR Token Holders may vote in this poll to keep or adjust the [System Surplus Buffer](https://community-development.makerdao.com/en/learn/governance/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
 * 30 million DAI (no change)
-* 60 million DAI (+30 MM)
-* 60 million DAI (+30 MM) while auctioning 25% of fees
+* 60 million DAI (+30M) - 0% MKR Burn
+* 60 million DAI (+30M) - 25% MKR Burn
 
-For the last option, we will target 25% of the stability fee revenues to be used in Surplus Auctions. This will be achieved by a slow increase of the System Surplus Buffer, using linear interpolation, instead of directly setting it to the target value of 60 MM. 
+For option 3, we will target 25% of the stability fee revenues to be used in Surplus Auctions to burn MKR. This will be achieved by increasing the System Surplus Buffer over time using a linear interpolation smart contract, instead of directly setting it to the target value of 60 million DAI. 
 
-*Note: Mandated Actors cannot give Governance any guarantee to eventually sell the voted-upon 25% of fees due to external factors influencing the System Surplus.*
+Because the option for 25% burn requires predicting the increase of fees over the next few months, the 25% goal is a target rather than a guaruntee. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979) to inform your position on this issue before voting.
 
