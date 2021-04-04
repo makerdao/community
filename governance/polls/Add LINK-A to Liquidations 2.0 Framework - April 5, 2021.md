@@ -22,8 +22,8 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
 
 **Price Function**
-* [Price Change Multiplier]($cut_link): 0.99
-* [Price Change Interval]($step_link): 90 seconds
+* [Price Change Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
+* [Price Change Interval](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 90 seconds
 * [Auction Price Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.3
 * [Breaker Price Tolerance](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
 
