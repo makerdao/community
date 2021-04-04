@@ -33,6 +33,10 @@ jobs:
     - name: Run ESLint 
       run: | 
         yarn lint
+    
+    - name: Check types
+      run: |
+        yarn flow check
         
     - name: Making your code pretty. 
       run: | 

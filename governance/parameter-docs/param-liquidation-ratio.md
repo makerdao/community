@@ -4,7 +4,7 @@
 Alias: N/A
 Parameter Name: mat
 Containing Contract: Spot
-Scope: Ilk
+Scope: Vault Type (Ilk)
 Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/spot-detailed-documentation
 ```
 

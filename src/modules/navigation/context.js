@@ -1,9 +1,7 @@
 import React, { createContext, useContext, useState } from "react";
-import { useStaticQuery, graphql } from "gatsby";
-
 import { useTranslation } from "@modules/localization/";
-
-import { UrlConverter, TitleConverter } from "@utils";
+import { TitleConverter, UrlConverter } from "@utils";
+import { graphql, useStaticQuery } from "gatsby";
 
 export const NavigationContext = createContext();
 

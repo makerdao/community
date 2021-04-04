@@ -1,11 +1,10 @@
+import { Icon } from "@makerdao/dai-ui-icons";
+import { useTranslation } from "@modules/localization/";
+import { Link } from "@modules/navigation";
+import { titleCase } from "@utils";
 /** @jsx jsx */
 import { Fragment } from "react";
-import { jsx, Text, Flex } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
-
-import { Link } from "@modules/navigation";
-import { useTranslation } from "@modules/localization/";
-import { titleCase } from "@utils";
+import { Flex, jsx, Text } from "theme-ui";
 
 const Breadcrumbs = ({ data, pathDirs }) => {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
