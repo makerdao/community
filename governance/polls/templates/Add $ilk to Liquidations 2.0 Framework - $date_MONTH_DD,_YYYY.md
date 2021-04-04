@@ -25,18 +25,18 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
 
 **Price Function**
-* [Price Change Multiplier]($cut_link): $price_change_multiplier
-* [Price Change Interval]($step_link): $price_change_interval
-* [Auction Price Multiplier]($buf_link): $auction_price_multiplier
+* [Price Change Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_multiplier
+* [Price Change Interval](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_interval
+* [Auction Price Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): $auction_price_multiplier
+* [Breaker Price Tolerance](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): $breaker_price_tolerance
 
 **General Parameters**
-* [Proportional Kick Incentive]($chip_link): $proportional_kick_incentive
-* [Flat Kick Incentive]($tip_link): $flat_kick_incentive
-* [Maximum Auction Drawdown]($cusp_link): $maximum_auction_drawdown
-* [Maximum Auction Duration]($tail_link): $maximum_auction_duration
-* [Local Liquidation Limit]($ilk_hole_link): $local_liquidation_limit
-* [Liquidation Penalty]($chop_link): $liquidation_penalty
-* [Breaker Price Tolerance]($tolerance_link): $breaker_price_tolerance
+* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $proportional_kick_incentive
+* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $flat_kick_incentive
+* [Maximum Auction Drawdown](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): $maximum_auction_drawdown
+* [Maximum Auction Duration](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): $maximum_auction_duration
+* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): $local_liquidation_limit
+* [Liquidation Penalty](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): $liquidation_penalty 
 
 Please review the following [Risk Evaluation]($risk_link) containing information about $ilk to inform your position before voting.
 
