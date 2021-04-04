@@ -24,19 +24,19 @@ This poll allows the MakerDAO governance community to signal their support or op
 **Price Function**
 * [Price Change Multiplier]($cut_link): .99
 * [Price Change Interval]($step_link): 90 seconds
-* [Auction Price Multiplier]($buf_link): 1.3
+* [Auction Price Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.3
+* [Breaker Price Tolerance](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
 
 **General Parameters**
-* [Proportional Kick Incentive]($chip_link): 0.1%
-* [Flat Kick Incentive]($tip_link): 0 DAI
-* [Maximum Auction Drawdown]($cusp_link): 0.4
-* [Maximum Auction Duration]($tail_link): 8,400 seconds
-* [Local Liquidation Limit]($ilk_hole_link): 6 million DAI
-* [Liquidation Penalty]($chop_link): 13%
-* [Breaker Price Tolerance]($tolerence_link): 0.5
+* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
+* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
+* [Maximum Auction Drawdown](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.4
+* [Maximum Auction Duration](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 8,400 seconds
+* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 6 million DAI
+* [Liquidation Penalty](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
 
 **Global Parameters**
-* [Global Liquidation Limit]($hole_link): 100 million DAI
+* [Global Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-global-liquidation-limit): 100 million DAI
 
 
 Please review the following [Risk Evaluation](https://forum.makerdao.com/t/link-a-liquidations-2-0-parameters/7180) containing information about these proposed parameters to inform your position before voting.
