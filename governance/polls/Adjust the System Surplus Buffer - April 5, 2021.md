@@ -26,13 +26,13 @@ MKR Token Holders may vote in this poll to keep or adjust the [System Surplus Bu
 
 For option 3, we will target 25% of the stability fee revenues to be used in Surplus Auctions to burn MKR. This will be achieved by increasing the System Surplus Buffer over time using a linear interpolation smart contract, instead of directly setting it to the target value of 60 million DAI. 
 
-Because the option for 25% burn requires predicting the increase of fees over the next few months, the 25% goal is a target rather than a guaruntee. 
+Because the option for 25% burn requires predicting the increase of fees over the next few months, the 25% goal is a target rather than a guarantee. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979) to inform your position on this issue before voting.
 
 # Outcomes
 
-**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes), then the following actions will be taken:**
+**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes), then the following actions will be taken:**
 * If the result requires a change to the current setting, the change will be included in a weekly Executive Vote on a Friday within the next 30 days.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
