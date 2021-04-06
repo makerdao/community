@@ -13,14 +13,14 @@ const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
     e.preventDefault();
 
     if (onSubmit) {
-      onSubmit(e.currentTarget.value);
+      onSubmit(e.target.keywords.value);
     }
   };
 
   const onInputChange = (e) => {
     if (onChange)
     {
-      onChange(e.currentTarget.value)
+      onChange(e.target.value)
     }
   } 
 
