@@ -1,15 +1,16 @@
 module.exports = {
   env: {
     browser: true,
-    es2021: true,
+    es6: true,
   },
   extends: [
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:flowtype/recommended",
   ],
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   parserOptions: {
+    requireConfigFile: false,
     ecmaFeatures: {
       jsx: true,
     },
@@ -21,6 +22,13 @@ module.exports = {
     "react/prop-types": "off",
     "react/display-name": "off",
     "no-unused-vars": "warn",
+    "flowtype/no-types-missing-file-annotation": "off",
+    "no-console": "off",
+  },
+  settings: {
+    flowtype: {
+      onlyFilesWithFlowAnnotation: true,
+    },
   },
   overrides: [
     {

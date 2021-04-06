@@ -1,12 +1,11 @@
-/** @jsx jsx */
-import { Fragment } from "react";
-import { Link as GatsbyLink } from "gatsby";
-import { jsx, Link as ThemeLink } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { useTranslation } from "@modules/localization";
+import { Link as GatsbyLink } from "gatsby";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-
-import { useTranslation } from "@modules/localization";
+/** @jsx jsx */
+import { Fragment } from "react";
+import { jsx, Link as ThemeLink } from "theme-ui";
 
 // Since DOM elements <a> cannot receive activeClassName
 // and partiallyActive, destructure the prop here and // pass it only to GatsbyLink

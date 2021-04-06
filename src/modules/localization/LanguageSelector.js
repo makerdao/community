@@ -1,13 +1,12 @@
 /** @jsx jsx */
-import { Fragment } from "react";
-import { components } from "react-select";
 import { Select } from "@modules/ui";
 import { useNavigate } from "@reach/router";
-import { Box, jsx, Text, useThemeUI } from "theme-ui";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-
-import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
+import { components } from "react-select";
+import { Fragment } from "react";
+import { Box, jsx, Text, useThemeUI } from "theme-ui";
 
 const LanguageSelector = ({ data, pagePath }) => {
   const { theme } = useThemeUI();

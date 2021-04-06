@@ -1,11 +1,11 @@
 // @flow
 /** @jsx jsx */
 
-import React from "react";
-import type { Node } from "react";
-import { getAuthorData } from "./BlogAuthor";
-import { Image, Box, Flex, Text, jsx } from "theme-ui";
 import { Icon } from "@makerdao/dai-ui-icons";
+import { Box, Flex, Image, jsx } from "theme-ui";
+import type { Node } from "react";
+
+import { getAuthorData } from "./BlogAuthor";
 
 type TBlogContributorsProps = {
   contributors: Array<string>,
@@ -57,7 +57,7 @@ export default function BlogContributors({
               />
             )}
 
-            <Box sx={{mt: '12px'}}>
+            <Box sx={{ mt: "12px" }}>
               <Box sx={{ mb: [2, "unset", "unset"] }}>{authorData.name}</Box>
             </Box>
           </Flex>

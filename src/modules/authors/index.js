@@ -1,6 +1,3 @@
-export { default as GridCell } from "./GridCell";
-export { default as ListElement } from "./ListElement";
-export { default as MDXtoAuthor } from "./MDXtoAuthor";
-export { default as AuthorRenderer } from "./AuthorRenderer";
-export { default as allContributorKeys } from "./allContributorKeys";
-
+export { ListElement, GridCell } from "./components";
+export { MDXtoAuthor, contributorsData } from "./transformers";
+export { default as Authors } from "./Authors";

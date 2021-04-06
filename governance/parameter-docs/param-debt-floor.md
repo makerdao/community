@@ -4,7 +4,7 @@
 Alias: Dust, Minimum Debt
 Parameter Name: dust
 Containing Contract: Vat
-Scope: Ilk
+Scope: Vault Type (Ilk)
 Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation
 ```
 
