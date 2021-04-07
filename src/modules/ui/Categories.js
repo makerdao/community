@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { Children } from "react";
-import { jsx, Flex, Grid } from "theme-ui";
+import { Flex, Grid, jsx } from "theme-ui";
 
 const Categories = ({ children, minBoxSize = "321px" }) => {
   const _Children = Children.toArray(children);
