@@ -5,16 +5,20 @@ import { useTranslation } from "@modules/localization";
 import { Link } from "@modules/navigation";
 import { jsx } from "theme-ui";
 
-const BlogResult = ({ frontmatter, excerpt, fileAbsolutePath }) => {
+const BlogResult = ({ frontmatter, excerpt, fileAbsolutePath, url }) => {
   const { t } = useTranslation();
   const { authors, date, description, title, type } = frontmatter;
-  const postLink = fileAbsolutePath
+
+  const resultPath = url || fileAbsolutePath;
+
+  const postLink = resultPath
     .slice(
-      fileAbsolutePath.indexOf("/blogPosts/") + 10,
-      fileAbsolutePath.length
+      resultPath.indexOf("/blogPosts/") + 10,
+      resultPath.length
     )
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
 
+    
   return (
     <div
       sx={{
