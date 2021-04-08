@@ -15,6 +15,8 @@ const SearchHit = ({ title, excerpt, url, ...props }) => (
       sx={{
         m: 0,
         textDecoration: "none",
+        fontWeight: 500,
+        color: "text",
         "& mark": {
           backgroundColor: "primary",
         },
@@ -26,6 +28,8 @@ const SearchHit = ({ title, excerpt, url, ...props }) => (
       aria-live="assertive"
       sx={{
         textDecoration: "none",
+        fontWeight: 400,
+        color: "textMuted",
         "& mark": {
           backgroundColor: "primaryMuted",
         },

@@ -89,9 +89,7 @@ function Author({ authorToRender, date, isDefaultLocale, ...props }) {
           {date ? (
             <Box sx={{ pl: 2 }}>
               <Text sx={{ color: "mutedAlt", fontWeight: 400 }}>
-                {!isDefaultLocale
-                  ? date
-                  : format(new Date(date), "MMMM d, yyyy")}
+                {format(new Date(date), "MMMM d, yyyy")}
               </Text>
             </Box>
           ) : null}

@@ -6,7 +6,11 @@ const removeFrontmatter = () => (tree) =>
   // eslint-disable-next-line
   filter(tree, (node) => node.type !== "yaml");
 const visit = require("unist-util-visit");
-const { TitleConverter, UrlConverter } = require("./src/build-utils");
+const {
+  TitleConverter,
+  UrlConverter,
+  getBlogPostTypeFromPath,
+} = require("./src/build-utils");
 require("dotenv").config();
 
 module.exports = {
@@ -186,15 +190,31 @@ module.exports = {
         fields: [
           { name: "title", store: true, attributes: { boost: 20 } },
           { name: "keywords", attributes: { boost: 15 } },
+          { name: "isBlog", store: true },
+          { name: "authors", store: true },
+          { name: "type", store: true },
+          { name: "description", store: true, attributes: { boost: 15 } },
+          { name: "date", store: true },
           { name: "url", store: true },
           { name: "excerpt", store: true, attributes: { boost: 5 } },
         ],
         resolvers: {
           Mdx: {
             title: TitleConverter,
+            authors: (node) => node.frontmatter.authors,
+            description: (node) => node.frontmatter.description,
+            date: (node) => node.frontmatter.date,
+            type: (node) => {
+              if (node.frontmatter.type) {
+                return node.frontmatter.type;
+              } else if (node.fileAbsolutePath.includes("/blogPosts/")) {
+                return getBlogPostTypeFromPath(node.fileAbsolutePath);
+              }
+            },
+            isBlog: (node) => node.fileAbsolutePath.includes("/blogPosts/"),
             url: UrlConverter,
             excerpt: (node) => {
-              const excerptLength = 60; // Hard coded excerpt length
+              const excerptLength = 200; // Hard coded excerpt length
 
               //If this node's frontmatter has a description use THAT for excerpts.
               if (node.frontmatter.description) {

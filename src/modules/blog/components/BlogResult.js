@@ -12,20 +12,22 @@ type TBlogResultProps = {
   frontmatter: TFrontmatter,
   excerpt: string,
   fileAbsolutePath: string,
+  url: string,
 };
 
 export default function BlogResult({
   frontmatter,
   excerpt,
   fileAbsolutePath,
+  url,
 }: TBlogResultProps): Node {
   const { t } = useTranslation();
   const { authors, date, description, title, type } = frontmatter;
-  const postLink = fileAbsolutePath
-    .slice(
-      fileAbsolutePath.indexOf("/blogPosts/") + 10,
-      fileAbsolutePath.length
-    )
+
+  const resultPath = url || fileAbsolutePath;
+
+  const postLink = resultPath
+    .slice(resultPath.indexOf("/blogPosts/") + 10, resultPath.length)
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
 
   return (
