@@ -1,6 +1,6 @@
 ---
 title: Parameter Changes Proposal - MakerDAO Open Market Committee - April 12, 2021
-summary: Signal your support or opposition to changing the Parameter changes listed in this poll.
+summary: Signal your support or opposition to changing the Parameter listed in this poll.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-7-april-2021/7358/1
 vote_type: Plurality Voting
 categories:
