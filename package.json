@@ -110,10 +110,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makerdao/community-portal"
+    "url": "https://github.com/makerdao/community"
   },
   "bugs": {
-    "url": "https://github.com/makerdao/community-portal/issues"
+    "url": "https://github.com/makerdao/community/issues"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"
