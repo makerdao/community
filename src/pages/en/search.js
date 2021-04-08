@@ -1,22 +1,19 @@
+/** @jsx jsx */
+
 import calculateTreeData from "@modules/navigation/calculateTreeData";
 import SearchInput from "@modules/search/SearchInput";
 import groupBy from "lodash/groupBy";
 import LUNR from "lunr";
 import queryString from "query-string";
-/** @jsx jsx */
-import React, { useEffect, useState } from "react";
+import { BlogResult } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
 import { Link, MobileNav } from "@modules/navigation";
 import { Button, Select } from "@modules/ui";
 import { useLocation, useNavigate } from "@reach/router";
 import { graphql, useStaticQuery } from "gatsby";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { min } from "lodash";
+import { useEffect, useState } from "react";
 import { Flex, jsx } from "theme-ui";
-import { console } from "window-or-global";
-
-import BlogResult from "../../modules/blog/BlogResult";
-import Search from "../../modules/search";
 
 const SearchResults = () => {
   const resultsPerPage = 5;
@@ -24,7 +21,6 @@ const SearchResults = () => {
   const query = queryString.parse(search).query || null;
 
   const [lunr, setLunr] = useState(null);
-  const [currentQuery, setQuery] = useState(query);
   const [results, setResults] = useState(null);
   const [contentCurrentPage, setContentCurrentPage] = useState(0);
   const [blogCurrentPage, setBlogCurrentPage] = useState(0);

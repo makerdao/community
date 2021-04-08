@@ -28,14 +28,11 @@ export default function BlogPostLayout({
     date,
     image,
     recommend,
-  } = pageContext.frontmatter || {};
+  }: any = pageContext.frontmatter || {};
 
   const { t } = useTranslation();
 
-  const {
-    blogPosts,
-    siteContent,
-  } = useStaticQuery<TGatsbyTypes_blogPostRecommendationsQuery>(
+  const { blogPosts, siteContent } = useStaticQuery(
     BlogPostRecommendationsQuery
   );
 
