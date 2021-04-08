@@ -1,10 +1,20 @@
+// @flow
+
 import React, { createContext } from "react";
 import { graphql, useStaticQuery } from "gatsby";
+import type { Node } from "react";
 
-export const TranslationContext = createContext();
+export const TranslationContext: any = createContext();
+type TranslationProviderProps = {
+  children: Node,
+};
 
-const TranslationProvider = ({ children }) => {
-  const { allDirectory } = useStaticQuery(graphql`
+export default function TranslationProvider({
+  children,
+}: TranslationProviderProps): Node {
+  const {
+    allDirectory,
+  } = useStaticQuery<TGatsbyTypes_getDefaultLocaleQuery>(graphql`
     query getDefaultLocale {
       allDirectory(
         filter: { absolutePath: { regex: "//content/([\\\\w{2}])[^/]$/" } }
@@ -41,7 +51,6 @@ const TranslationProvider = ({ children }) => {
       {children}
     </TranslationContext.Provider>
   );
-};
+}
 
-export default TranslationContext;
 export { TranslationProvider };

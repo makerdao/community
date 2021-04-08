@@ -2491,10 +2491,10 @@
   dependencies:
     "@octokit/openapi-types" "^6.0.0"
 
-"@ofqwx/gatsby-plugin-typegen@^2.2.6":
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/@ofqwx/gatsby-plugin-typegen/-/gatsby-plugin-typegen-2.2.6.tgz#f480f6ba74daa1144fe14640f662beeba5558fe4"
-  integrity sha512-7qgcwRGFqMnSiSiQbITvNWBPaF8BiiRIcBdGe1HIZnkOPpPodDBqcLk11nWSk6PVm1TY1kook9F1lfAJzIFBow==
+"@ofqwx/gatsby-plugin-typegen@^2.2.7":
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/@ofqwx/gatsby-plugin-typegen/-/gatsby-plugin-typegen-2.2.7.tgz#3f0ca3ea0a7a6e4c105d230fe985a6640d193169"
+  integrity sha512-8NT8WJt08kcy3DssuLHRueNfuC9sjScEjIySJr8z36YNEc4rq0eSWPutFEs0KnM6o/jy/geXR+nkPK3mMN90ew==
   dependencies:
     "@cometjs/core" "^0.2.0"
     "@graphql-codegen/core" "^1.17.9"

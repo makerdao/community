@@ -11,7 +11,7 @@
     "@makerdao/dai-ui-theme-maker": "^0.0.66",
     "@mdx-js/mdx": "^1.6.19",
     "@mdx-js/react": "^1.6.18",
-    "@ofqwx/gatsby-plugin-typegen": "^2.2.6",
+    "@ofqwx/gatsby-plugin-typegen": "^2.2.7",
     "@theme-ui/prism": "^0.3.0",
     "date-fns": "^2.16.1",
     "del": "^6.0.0",

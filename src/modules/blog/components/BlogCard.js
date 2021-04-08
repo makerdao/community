@@ -11,13 +11,13 @@ import { jsx } from "theme-ui";
 import type { TFrontmatter } from "@modules-types";
 import type { Node } from "react";
 
-type TBlogCardProps = {
+type TBlogCardProps = {|
   excerpt: string,
   fileAbsolutePath: string,
   frontmatter: TFrontmatter,
   isLatest?: boolean,
   headings: Array<string>,
-};
+|};
 
 export default function BlogCard({
   excerpt,

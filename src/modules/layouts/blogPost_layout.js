@@ -32,7 +32,10 @@ export default function BlogPostLayout({
 
   const { t } = useTranslation();
 
-  const { blogPosts, siteContent } = useStaticQuery(
+  const {
+    blogPosts,
+    siteContent,
+  } = useStaticQuery<TGatsbyTypes_blogPostRecommendationsQuery>(
     BlogPostRecommendationsQuery
   );
 

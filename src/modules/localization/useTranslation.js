@@ -1,8 +1,22 @@
+// @flow
+
 import { useLocation } from "@reach/router";
 import { useContext } from "react";
 
 import { TranslationContext } from "./context";
 import { DEFAULT_LOCALE } from "./index";
+
+type TTranslation = {
+  t: (
+    key: string,
+    lang_space: string | null,
+    variables: any,
+    otherLocale: string
+  ) => string,
+  locale: string,
+  allLocales: Array<string>,
+  DEFAULT_LOCALE: string,
+};
 
 //NOTE(Rejon): This is a react hook I pulled inspiration from: https://w11i.me/how-to-build-multilingual-website-in-next-js
 // 			   I've expanded to add some features like plurals, secondary level spaces (dubbed langspace), variables, and secondary locales.
@@ -12,7 +26,9 @@ import { DEFAULT_LOCALE } from "./index";
 // It's possible to pass in an initialLangSpace when initializing the hook in your component.
 // without ILS: useTranslation() -> t('error_code', 'errors')
 // with ILS: useTranslation('errors') -> t('error_code')
-export default function useTranslation(initialLangSpace) {
+export default function useTranslation(
+  initialLangSpace?: string
+): TTranslation {
   const { allLocales, localeStrings } = useContext(TranslationContext);
 
   //NOTE(Rejon): We trust the path for locale. If it doesn't exist fallback to DEFAULT LOCALE

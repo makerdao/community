@@ -1,14 +1,30 @@
+// @flow
+
 /** @jsx jsx */
+
+import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
 import { Select } from "@modules/ui";
 import { useNavigate } from "@reach/router";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useTranslation } from "@modules/localization";
-import { Link } from "@modules/navigation";
-import { components } from "react-select";
 import { Fragment } from "react";
+import { components } from "react-select";
 import { Box, jsx, Text, useThemeUI } from "theme-ui";
+import type { Node } from "react";
 
-const LanguageSelector = ({ data, pagePath }) => {
+type TData = {
+  value: string,
+  label: string,
+};
+type TLanguageSelectorProps = {
+  data: Array<TData>,
+  pagePath: string,
+};
+
+export default function LanguageSelector({
+  data,
+  pagePath,
+}: TLanguageSelectorProps): Node {
   const { theme } = useThemeUI();
   const navigate = useNavigate();
   const { locale, t, allLocales } = useTranslation();
@@ -106,8 +122,6 @@ const LanguageSelector = ({ data, pagePath }) => {
     danger: theme.colors.bear,
     dangerLight: theme.colors.bearAlt,
   };
-
-
 
   //If we have existing languages or we're swapping, show the select.
   if (data.length > 0) {
@@ -248,6 +262,4 @@ const LanguageSelector = ({ data, pagePath }) => {
       </Box>
     </Box>
   );
-};
-
-export default LanguageSelector;
+}

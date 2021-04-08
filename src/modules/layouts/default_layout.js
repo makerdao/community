@@ -30,7 +30,9 @@ export default function DefaultLayout({
 }: TDefaultLayoutProps): Node {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
 
-  const { allMdx } = useStaticQuery(GetMDXDataQuery);
+  const { allMdx } = useStaticQuery<TGatsbyTypes_getMDXDataQuery>(
+    GetMDXDataQuery
+  );
 
   const { pagePath } = pageContext;
 

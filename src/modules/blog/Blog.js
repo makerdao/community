@@ -1,3 +1,5 @@
+// @flow
+
 /** @jsx jsx */
 
 import queryString from "query-string";
@@ -11,10 +13,15 @@ import { getBlogPostTypeFromPath } from "@utils";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 import { useEffect, useState } from "react";
 import { Flex, jsx } from "theme-ui";
+import type { Node } from "react";
 
 const postsPerPage = 4;
 
-export default function Blog({ data }) {
+type TBlogProps = {
+  data: TGatsbyTypes_BlogHomeQueryENQuery,
+};
+
+export default function Blog({ data }: TBlogProps): Node {
   const { search } = useLocation();
   const { t, locale } = useTranslation();
   const navigate = useNavigate();
@@ -58,7 +65,7 @@ export default function Blog({ data }) {
           )
         : data.allMdx.edges.filter(
             ({ node }) =>
-              latestPosts.find((fNode) => node.id === fNode.node.id) ===
+              latestPosts.find((fNode) => node.id === fNode?.node.id) ===
               undefined
           ),
     latestPosts,
@@ -241,7 +248,7 @@ export default function Blog({ data }) {
           flexDirection: ["column", "row", "row"],
         }}
       >
-        {sectionData.latestPosts.map(({ node }, index) => (
+        {sectionData.latestPosts.map(({ node }: any, index) => (
           <BlogCard isLatest {...node} key={`blog-card-latest-${index}`} />
         ))}
       </Flex>
