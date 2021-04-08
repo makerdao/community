@@ -129,13 +129,9 @@ export default function Search({ onClick, ...otherProps }) {
   };
 
   //On form submission, navigate to the url of the first element.
-  // const onSubmit = () => {
-  //   if (results.length > 0) {
-  //     navigate(results[0].url);
-  //     setFocus(false);
-  //     onClick();
-  //   }
-  // };
+  const onSubmit = () => {
+    navigate(`/${locale}/search?query=${query}`);
+  };
 
   const resultsVariant = {
     visible: {
@@ -196,6 +192,7 @@ export default function Search({ onClick, ...otherProps }) {
     >
       <SearchInput
         onFocus={() => setFocus(true)}
+        onSubmit={onSubmit}
         onChange={onChange}
         {...{ focus }}
       />
@@ -223,11 +220,11 @@ export default function Search({ onClick, ...otherProps }) {
           as="section"
           sx={{
             display: "grid",
-            backgroundColor: "surfaceDark",
+            backgroundColor: "surfaceAlt",
           }}
         >
           {results.length === 0 && query.length > 0 && (
-            <Text sx={{ p: 3, textAlign: "center", color: "muted" }}>
+            <Text sx={{ p: 3, textAlign: "center", color: "text" }}>
               {t("No_Results", null, {
                 query: `${query.slice(0, 30)}${query.length > 30 ? "..." : ""}`,
               })}
@@ -246,17 +243,20 @@ export default function Search({ onClick, ...otherProps }) {
                 "464px",
               ],
               "& > li": {
-                borderRadius: "roundish",
                 backgroundColor: "transparent",
                 transition: "all .1s ease",
                 cursor: "pointer",
                 color: "muted",
+                borderBottom: '1px solid',
+                borderColor: "muted"
+              },
+              "& > li:last-of-type": {
+                border: 'none'
               },
               "& > li > a": {
                 p: 2,
                 color: "muted",
                 display: "block",
-                borderRadius: "roundish",
                 fontSize: [3, 5, 3],
               },
               "& li:hover > a, & li.active > a": {

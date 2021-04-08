@@ -26,7 +26,7 @@ If you have an interest in helping Maker evolve over the next few years, please 
 
 ## When
 
-- [Thursdays 9AM PST (4PM UTC)](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
+- [Thursdays 10AM PST (5PM UTC)](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
 
 ## Connection Info
 
