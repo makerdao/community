@@ -1,6 +1,6 @@
+// @flow
 /** @jsx jsx */
 
-import isArray from "lodash/isArray";
 import { BlogAuthor, BlogCard, BlogContributors } from "@modules/blog";
 import { useTranslation } from "@modules/localization";
 import { Button, Divider } from "@modules/ui";
@@ -8,9 +8,18 @@ import { Heading } from "@modules/ui/heading";
 import { SEO } from "@modules/utility";
 import { graphql, useStaticQuery } from "gatsby";
 import { Box, Flex, jsx } from "theme-ui";
+import type { Node } from "react";
+
+type TBlogPostLayoutProps = {
+  children: Node,
+  pageContext: TGatsbyTypes_SitePageContext,
+};
 
 ///MDX Layout for POSTs
-export default ({ children, pageContext }) => {
+export default function BlogPostLayout({
+  children,
+  pageContext,
+}: TBlogPostLayoutProps): Node {
   const {
     title,
     description,
@@ -19,62 +28,22 @@ export default ({ children, pageContext }) => {
     date,
     image,
     recommend,
-  } = pageContext.frontmatter;
+  } = pageContext.frontmatter || {};
 
   const { t } = useTranslation();
 
-  const { blogPosts, siteContent } = useStaticQuery(graphql`
-    query blogPostRecommendations {
-      #Regex for all blog posts
-      blogPosts: allMdx(
-        filter: { fileAbsolutePath: { regex: "//blogPosts/" } }
-      ) {
-        edges {
-          node {
-            fileAbsolutePath
-            excerpt(truncate: true, pruneLength: 200)
-            frontmatter {
-              title
-              date(formatString: "MM/DD/YYYY")
-              description
-              authors
-              image
-            }
-            id
-          }
-        }
-      }
-      siteContent: allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            excerpt(truncate: true, pruneLength: 200)
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              description
-              order
-            }
-          }
-        }
-      }
-    }
-  `);
+  const {
+    blogPosts,
+    siteContent,
+  } = useStaticQuery<TGatsbyTypes_blogPostRecommendationsQuery>(
+    BlogPostRecommendationsQuery
+  );
 
-  const hasContributors = isArray(authors) && authors.length > 1;
-  const contributors = hasContributors ? authors.slice(1, authors.length) : [];
+  const hasContributors = authors && authors.length > 1;
+  const contributors = hasContributors ? authors?.slice(1, authors.length) : [];
 
-  const pagePathSplit = pageContext.pagePath
-    .split("/")
-    .splice(1, pageContext.pagePath.split("/").length - 2);
+  const pagePathSplitted = pageContext.pagePath?.split("/") || [];
+  const pagePathSplit = pagePathSplitted.splice(1, pagePathSplitted.length - 2);
   const typeIndex = pagePathSplit.indexOf("blog") + 1;
 
   //Split absolute path up to blog, get directory AFTER blog.
@@ -97,21 +66,23 @@ export default ({ children, pageContext }) => {
   }
 
   const otherPosts = recommend
-    ?.map((rec) => {
-      //Run through recommendation map for blog post recommendations
-      return blogPosts.edges.filter(({ node }) =>
-        node.fileAbsolutePath.includes(rec)
-      )[0];
-    })
-    .concat(
-      recommend?.map((rec) => {
-        //Concat recommendations for all other site content.
-        return siteContent.edges.filter(({ node }) =>
-          node.fileAbsolutePath.includes(rec)
-        )[0];
-      })
-    )
-    .filter((el) => el !== undefined); //Filter out empty array/undefined runs of recommend.
+    ? recommend
+        .map((rec) => {
+          //Run through recommendation map for blog post recommendations
+          return blogPosts.edges.filter(({ node }) =>
+            node.fileAbsolutePath.includes(rec)
+          )[0];
+        })
+        .concat(
+          recommend?.map((rec) => {
+            //Concat recommendations for all other site content.
+            return siteContent.edges.filter(({ node }) =>
+              node.fileAbsolutePath.includes(rec)
+            )[0];
+          })
+        )
+        .filter((el) => el !== undefined)
+    : []; //Filter out empty array/undefined runs of recommend.
 
   const recommendations = otherPosts && otherPosts.length > 0;
 
@@ -218,7 +189,7 @@ export default ({ children, pageContext }) => {
       ) : null}
     </Flex>
   );
-};
+}
 
 function ContentBlock({ children }) {
   return (
@@ -237,3 +208,47 @@ function ContentBlock({ children }) {
     </Box>
   );
 }
+
+const BlogPostRecommendationsQuery = graphql`
+  query blogPostRecommendations {
+    #Regex for all blog posts
+    blogPosts: allMdx(filter: { fileAbsolutePath: { regex: "//blogPosts/" } }) {
+      edges {
+        node {
+          fileAbsolutePath
+          excerpt(truncate: true, pruneLength: 200)
+          frontmatter {
+            title
+            date(formatString: "MM/DD/YYYY")
+            description
+            authors
+            image
+          }
+          id
+        }
+      }
+    }
+    siteContent: allMdx(
+      filter: {
+        fileAbsolutePath: {
+          regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+        }
+      }
+    ) {
+      edges {
+        node {
+          excerpt(truncate: true, pruneLength: 200)
+          headings(depth: h1) {
+            value
+          }
+          fileAbsolutePath
+          frontmatter {
+            title
+            description
+            order
+          }
+        }
+      }
+    }
+  }
+`;

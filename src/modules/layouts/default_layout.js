@@ -1,3 +1,7 @@
+// @flow
+
+/** @jsx jsx */
+
 import calculateTreeData from "@modules/navigation/calculateTreeData";
 import Sticky from "react-sticky-el";
 import { LanguageSelector } from "@modules/localization";
@@ -9,42 +13,33 @@ import { SEO } from "@modules/utility";
 import { useLocation } from "@reach/router";
 import { getLocaleFromPath, UrlConverter } from "@utils";
 import { graphql, useStaticQuery } from "gatsby";
-/** @jsx jsx */
 import { Children, Fragment } from "react";
 import { Box, Flex, jsx } from "theme-ui";
+import type { Node } from "react";
 
-export default (props) => {
+type TDefaultLayoutProps = {
+  children: Node,
+  pageContext: TGatsbyTypes_SitePageContext,
+  uri: string,
+};
+
+export default function DefaultLayout({
+  children,
+  pageContext,
+  uri,
+}: TDefaultLayoutProps): Node {
   const { locale, t, DEFAULT_LOCALE } = useTranslation();
 
-  const { allMdx } = useStaticQuery(graphql`
-    query getMDXData {
-      # Regex for all files that are NOT config files
-      allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              order
-            }
-          }
-        }
-      }
-    }
-  `);
-
-  const { children, pageContext, uri } = props;
+  const { allMdx } = useStaticQuery<TGatsbyTypes_getMDXDataQuery>(
+    GetMDXDataQuery
+  );
 
   const { pagePath } = pageContext;
+
+  /* 
+    TODO: Investigate origin of isCorePage, status and hideSidenav since these types are not being generated.
+    Apparently they were never used in a mdx file, perhaps we need an example mdx file with all possible frontmatter fields
+  */
   const {
     title,
     description,
@@ -53,22 +48,17 @@ export default (props) => {
     status,
     hideLanguageSelector,
     hideBreadcrumbs,
-    isCorePage
-  } = pageContext.frontmatter;
+    isCorePage,
+    hideSidenav,
+  }: any = pageContext.frontmatter || {};
 
   //Core Pages store their own layout and functionality. Ignore everything and just return the children.
   if (isCorePage) {
-    return (
-      <Fragment>
-        {children}
-      </Fragment>
-    )
+    return <Fragment>{children}</Fragment>;
   }
 
-  const pathDirs = pagePath
-    .replace(/^\/|\/$/g, "")
-    .split("/")
-    .slice(1);
+  const pagePAthSplitted = pagePath?.replace(/^\/|\/$/g, "").split("/") || [];
+  const pathDirs = pagePAthSplitted.slice(1);
   const urlNoLocale = pathDirs.join("/");
 
   const { sidenavData, breadcrumbData } = calculateTreeData(
@@ -139,10 +129,7 @@ export default (props) => {
   const hasTopSection =
     currentTopSection !== undefined && currentTopSection !== "";
 
-  const renderSidenav =
-    pageContext.frontmatter &&
-    !pageContext.frontmatter.hideSidenav &&
-    hasTopSection;
+  const renderSidenav = hideSidenav && hasTopSection;
   const renderLanguageSelector = hasTopSection && !hideLanguageSelector;
   const renderBreadcrumbs =
     !hideBreadcrumbs || (hasTopSection && !hideLanguageSelector);
@@ -232,4 +219,30 @@ export default (props) => {
       <MobileNav sidenavData={sidenavData} />
     </Fragment>
   );
-};
+}
+
+const GetMDXDataQuery = graphql`
+  query getMDXData {
+    # Regex for all files that are NOT config files
+    allMdx(
+      filter: {
+        fileAbsolutePath: {
+          regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+        }
+      }
+    ) {
+      edges {
+        node {
+          headings(depth: h1) {
+            value
+          }
+          fileAbsolutePath
+          frontmatter {
+            title
+            order
+          }
+        }
+      }
+    }
+  }
+`;

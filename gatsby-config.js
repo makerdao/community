@@ -23,6 +23,14 @@ module.exports = {
     "gatsby-plugin-catch-links",
     "gatsby-plugin-flow",
     {
+      resolve: "@ofqwx/gatsby-plugin-typegen",
+      options: {
+        language: "flow",
+        outputPath: "flow-typed/__generated__/gatsby-types.flow.js",
+        namespace: "TGatsbyTypes_",
+      },
+    },
+    {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."
       resolve: `gatsby-plugin-alias-imports`,
       options: {
