@@ -1,7 +1,6 @@
-/** @jsx jsx */
-import { Box, Text, jsx } from "theme-ui";
-
 import { formatNumber } from "@utils";
+/** @jsx jsx */
+import { Box, jsx, Text } from "theme-ui";
 
 const Stat = ({ data, alt, children }) => (
   <Box
