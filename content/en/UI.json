@@ -8,6 +8,7 @@
   "Home": "Home",
   "Page_Language_Selector": "Page Language Selector",
   "Available_Languages": "Available Languages",
+  "LANGUAGES": "LANGUAGES",
   "Available_Languages_none": "No Available Languages",
   "Need_Another_Language": "Need another language?",
   "Join_translation_team": "Join translation team",
@@ -58,5 +59,14 @@
     "Careers": "Careers",
     "Contact": "Contact",
     "Blog": "Blog"
-  }
+  },
+  "Blog": "Blog",
+  "Back_To_Blog": "Back to Blog",
+  "Blog_Language_Selector":  "Blog Language Selector",
+  "editorial": "Editorial",
+    "community": "Community",
+    "governance": "Governance",
+    "Maker_Community_Blog": "Maker Community Blog",
+    "Latest_In": "Latest In ",
+    "See_More_Posts": "See More Posts"
 }

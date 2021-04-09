@@ -1,9 +1,8 @@
 /** @jsx jsx */
 import { Icon } from "@makerdao/dai-ui-icons";
-import { jsx } from "theme-ui";
-
-import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
+import { jsx } from "theme-ui";
 
 //More of a Utility
 //Specifically used for Author links but I imagine it will have it's own use else where.

@@ -5,12 +5,14 @@
   "version": "0.1.0",
   "author": "Réjon Taylor-Foster (@Maximum_Crash)",
   "dependencies": {
+    "@babel/eslint-parser": "^7.13.14",
     "@makerdao/dai-ui-icons": "^0.0.62",
     "@makerdao/dai-ui-icons-branding": "^0.0.62",
     "@makerdao/dai-ui-theme-maker": "^0.0.66",
     "@mdx-js/mdx": "^1.6.19",
     "@mdx-js/react": "^1.6.18",
     "@theme-ui/prism": "^0.3.0",
+    "date-fns": "^2.16.1",
     "del": "^6.0.0",
     "dotenv": "^8.2.0",
     "framer-motion": "^2.9.1",
@@ -19,6 +21,7 @@
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-catch-links": "^2.3.11",
     "gatsby-plugin-client-side-redirect": "^1.1.0",
+    "gatsby-plugin-flow": "^1.8.0",
     "gatsby-plugin-google-analytics": "^2.3.15",
     "gatsby-plugin-lunr": "^1.5.2",
     "gatsby-plugin-manifest": "^2.4.32",
@@ -39,10 +42,12 @@
     "gatsby-transformer-remark": "^2.8.38",
     "gatsby-transformer-sharp": "^2.5.18",
     "html-react-parser": "^0.14.0",
+    "lodash": "^4.17.20",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "lunr": "^2.3.9",
     "prop-types": "^15.7.2",
+    "query-string": "^6.13.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0",
@@ -55,9 +60,22 @@
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
+    "@babel/eslint-parser": "^7.13.14",
+    "@babel/preset-flow": "^7.13.13",
+    "babel-preset-gatsby": "^1.2.0",
+    "eslint": "^7.23.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-react": "^7.21.5",
-    "prettier": "2.1.1"
+    "flow-bin": "^0.142.0",
+    "flow-typed": "^3.3.1",
+    "import-sort-cli": "^6.0.0",
+    "import-sort-parser-babylon": "^6.0.0",
+    "import-sort-style-konsch": "^1.1.0",
+    "lint-staged": "^10.5.4",
+    "pre-commit": "^1.2.2",
+    "prettier": "2.1.1",
+    "simple-git-hooks": ">=2.0.3"
   },
   "keywords": [
     "gatsby"
@@ -67,17 +85,37 @@
     "build": "npm run acrollout && gatsby build",
     "acrollout": "node scripts/allcontributors-transformer.js",
     "lint": "eslint --max-warnings 25 '**/*.{js,jsx}'",
+    "lint-staged": "lint-staged",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
+  "precommit": [
+    "lint-staged",
+    "lint"
+  ],
+  "lint-staged": {
+    "*.js": [
+      "import-sort --write"
+    ],
+    "*.{js,jsx,json,md,mdx}": "prettier --write"
+  },
+  "importSort": {
+    ".js": {
+      "parser": "babylon",
+      "style": "import-sort-style-konsch"
+    }
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makerdao/community-portal"
+    "url": "https://github.com/makerdao/community"
   },
   "bugs": {
-    "url": "https://github.com/makerdao/community-portal/issues"
+    "url": "https://github.com/makerdao/community/issues"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
   }
 }

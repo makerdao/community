@@ -1,7 +1,7 @@
+import maker from "@makerdao/dai-ui-theme-maker";
 import React from "react";
 import { icons as themeIcons } from "@makerdao/dai-ui-icons";
 import { icons as brandingIcons } from "@makerdao/dai-ui-icons-branding";
-import maker from "@makerdao/dai-ui-theme-maker";
 
 const prismPreset = {
   color: "codeText",
@@ -555,6 +555,9 @@ export default {
     },
     icon_outline: {
       variant: "buttons.outline",
+    },
+    icon_outlineSmall: {
+      variant: "buttons.outlineSmall"
     },
     text: {
       variant: "buttons.primary",
