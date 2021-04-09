@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] Onboard New Silver Series 2 DROP - April 9, 2021
+title: Template - [Executive Vote] Onboard New Silver Series 2 DROP - April 12, 2021
 
 ---
-# [Executive Proposal] Onboard New Silver Series 2 DROP - April 9, 2021
+# [Executive Proposal] Onboard New Silver Series 2 DROP - April 12, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
