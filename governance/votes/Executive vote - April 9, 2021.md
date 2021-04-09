@@ -13,7 +13,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes the following **additions** will be made to the Maker Protocol:
-- New Silver DROP will be onboarded as a collateral type in the Maker Protocol with the parameters given below.
+- New Silver Series 2 DROP will be onboarded as a collateral type in the Maker Protocol with the parameters given below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -27,7 +27,7 @@ If this executive proposal does not pass within 30 days then it will expire and 
 
 ## Proposal Details
 
-### Onboard New Silver DROP
+### New Silver Series 2 DROP
 
 As per this [poll](https://vote.makerdao.com/polling/QmcG3DcU?network=mainnet#poll-detail), New Silver Series 2 DROP will be onboarded to the Maker Protocol as RWA002-A with the parameters given below if this executive proposal passes. More details on the New Silver Series 2 DROP parameters can be found [here](https://forum.makerdao.com/t/new-silver-onboarding-executive-presentation/7373) in presentation format. 
 
