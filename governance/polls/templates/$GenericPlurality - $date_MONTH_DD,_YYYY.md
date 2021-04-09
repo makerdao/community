@@ -1,6 +1,6 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your preferred option to resolve $GenericChange
+summary: Signal your preferred option to resolve $GenericChange.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
@@ -17,7 +17,10 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a plurality vote. In a plurality vote, you may vote for a single option. You should vote for the option that you prefer. Alternatively, if you would accept any of the listed options and have no preference, you should vote 'Abstain'.**
+**This is a plurality vote.** 
+- **You may vote for a single option.**
+- **You should vote for the option that you prefer.** 
+- **If you would accept any of the options you should vote 'Abstain'.**
 
 ## Review
 

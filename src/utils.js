@@ -17,6 +17,12 @@ export const TitleConverter = ({ frontmatter, headings, fileAbsolutePath }) => {
 };
 
 export const UrlConverter = ({ fileAbsolutePath }) => {
+  if (fileAbsolutePath.indexOf("/blogPosts/") !== -1)
+  {
+    return fileAbsolutePath.slive(fileAbsolutePath.indexOf('/blogPosts/') + 10, fileAbsolutePath.length)
+    .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+  }
+
   return fileAbsolutePath
     .slice(fileAbsolutePath.indexOf("/content/") + 8, fileAbsolutePath.length)
     .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
