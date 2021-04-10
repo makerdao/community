@@ -92,7 +92,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0",
     "prepare": "husky install"
   },
-  "precommit": "flow-check",
+  "pre-commit": "flow-check",
   "lint-staged": {
     "*.js": [
       "import-sort --write",
