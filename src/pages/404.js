@@ -1,4 +1,4 @@
-import Button from "@modules/ui/Button";
+import { Button } from "@atoms";
 import { useTranslation } from "@modules/localization";
 import { SEO } from "@modules/utility";
 import { navigate } from "@reach/router";

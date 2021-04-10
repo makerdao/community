@@ -39,7 +39,13 @@ module.exports = {
       resolve: `gatsby-plugin-alias-imports`,
       options: {
         alias: {
+          "@atoms": path.resolve(__dirname, "src/atoms"),
+          "@molecules": path.resolve(__dirname, "src/molecules"),
+          "@templates": path.resolve(__dirname, "src/templates"),
+          "@layouts": path.resolve(__dirname, "src/layouts"),
+          "@styles": path.resolve(__dirname, "src/styles"),
           "@modules": path.resolve(__dirname, "src/modules"),
+          "@data": path.resolve(__dirname, "src/data"),
           "@src": path.resolve(__dirname, "src"),
           "@utils": path.resolve(__dirname, "src/utils.js"),
           "@pages": path.resolve(__dirname, "src/pages"),
@@ -135,10 +141,8 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve("./src/modules/layouts/default_layout.js"),
-          blogPosts: require.resolve(
-            "./src/modules/layouts/blogPost_layout.js"
-          ),
+          default: require.resolve("./src/layouts/DefaultLayout.js"),
+          blogPosts: require.resolve("./src/layouts/BlogPostLayout.js"),
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [

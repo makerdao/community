@@ -14,19 +14,7 @@ import { useThemeUI } from "theme-ui";
 function SEO({ description, lang, meta, title, keywords, url }) {
   const { theme } = useThemeUI();
 
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-          }
-        }
-      }
-    `
-  );
+  const { site } = useStaticQuery(Query);
 
   const metaDescription = description || site.siteMetadata.description;
 
@@ -108,3 +96,15 @@ SEO.propTypes = {
 };
 
 export default SEO;
+
+const Query = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+        description
+        author
+      }
+    }
+  }
+`;

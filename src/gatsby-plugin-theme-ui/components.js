@@ -1,15 +1,3 @@
-/** @jsx jsx */
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Authors } from "@modules/authors";
-import { Blog } from "@modules/blog";
-import { Link } from "@modules/navigation/";
-import {
-  TDDonut,
-  TDPie,
-  TDRadial,
-  TDRegion,
-  TDStat,
-} from "@modules/transparency_dash";
 import {
   Accordion,
   Button,
@@ -19,18 +7,22 @@ import {
   Chocolate,
   Code,
   Column,
+  Heading,
   InfoBlock,
+  Link,
   List,
   Process,
   StatusBanner,
   Table,
   Tout,
-} from "@modules/ui/";
+  TransparencyDash,
+} from "@atoms";
+/** @jsx jsx */
+import { Icon } from "@makerdao/dai-ui-icons";
 import { Aligner, Indent, Video } from "@modules/utility/";
+import { Authors, Blog } from "@templates";
 import { motion } from "framer-motion";
 import { Box, Divider, Flex, Image, jsx, Text } from "theme-ui";
-
-import { Heading } from "../modules/ui/heading";
 
 //Markdown Component overrides
 //Replace MDX html defaults with our custom implementation.
@@ -91,11 +83,11 @@ const Custom_Components = {
   Tout,
   Column,
   Video,
-  TDRegion,
-  TDStat,
-  TDDonut,
-  TDPie,
-  TDRadial,
+  TDRegion: TransparencyDash.Region,
+  TDStat: TransparencyDash.Stat,
+  TDDonut: TransparencyDash.Donut,
+  TDPie: TransparencyDash.Pie,
+  TDRadial: TransparencyDash.Radial,
   Authors,
   motionDiv: motion.div,
   motionUL: motion.ul,

@@ -1,18 +1,17 @@
 /** @jsx jsx */
 
-import calculateTreeData from "@modules/navigation/calculateTreeData";
-import SearchInput from "@modules/search/SearchInput";
 import groupBy from "lodash/groupBy";
 import LUNR from "lunr";
 import queryString from "query-string";
-import { BlogResult } from "@modules/blog";
+import { Button, Link, Select } from "@atoms";
 import { useTranslation } from "@modules/localization";
-import { Link, MobileNav } from "@modules/navigation";
-import { Button, Select } from "@modules/ui";
+import { calculateTreeData } from "@modules/navigation";
+import { MobileNav, SearchInput } from "@molecules";
 import { useLocation, useNavigate } from "@reach/router";
+import { BlogResult } from "@templates/Blog";
 import { graphql, useStaticQuery } from "gatsby";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useEffect, useState } from "react";
+import { Fragment, useEffect, useState } from "react";
 import { Flex, jsx } from "theme-ui";
 
 const SearchResults = () => {
@@ -26,31 +25,7 @@ const SearchResults = () => {
   const [blogCurrentPage, setBlogCurrentPage] = useState(0);
   const navigate = useNavigate();
   const { locale, t, DEFAULT_LOCALE, allLocales } = useTranslation();
-  const { allMdx } = useStaticQuery(graphql`
-    query getMobileNavData {
-      # Regex for all files that are NOT config files
-      allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              order
-            }
-          }
-        }
-      }
-    }
-  `);
+  const { allMdx } = useStaticQuery(GetMobileNavDataQuery);
 
   const { sidenavData } = calculateTreeData(
     allMdx.edges,
@@ -425,7 +400,7 @@ const SearchResults = () => {
           </Flex>
         </div>
       ) : (
-        <></>
+        <Fragment />
       )}
       <MobileNav sidenavData={sidenavData} />
     </div>
@@ -433,3 +408,29 @@ const SearchResults = () => {
 };
 
 export default SearchResults;
+
+const GetMobileNavDataQuery = graphql`
+  query getMobileNavData {
+    # Regex for all files that are NOT config files
+    allMdx(
+      filter: {
+        fileAbsolutePath: {
+          regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+        }
+      }
+    ) {
+      edges {
+        node {
+          headings(depth: h1) {
+            value
+          }
+          fileAbsolutePath
+          frontmatter {
+            title
+            order
+          }
+        }
+      }
+    }
+  }
+`;

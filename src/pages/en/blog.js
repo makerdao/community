@@ -1,7 +1,7 @@
 // @flow
 
 import React from "react";
-import { Blog } from "@modules/blog";
+import { Blog } from "@templates";
 import { graphql } from "gatsby";
 import type { Node } from "react";
 

@@ -87,18 +87,19 @@
     "acrollout": "node scripts/allcontributors-transformer.js",
     "lint": "eslint --max-warnings 25 '**/*.{js,jsx}'",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
+    "flow": "yarn flow",
     "start": "npm run acrollout && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0",
     "prepare": "husky install"
   },
+  "precommit": ["yarn flow"],
   "lint-staged": {
     "*.js": [
       "import-sort --write",
       "eslint --cache --fix",
-      "yarn lint",
-      "flow focus-check"
+      "yarn lint"
     ],
     "*.{js,jsx,json,md,mdx}": "prettier --write"
   },
