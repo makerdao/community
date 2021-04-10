@@ -1,11 +1,10 @@
 // @flow
 
-import allContributors from "@content/all-contributors.json";
-import type { Node } from "react";
-
-import contributorsFilter from "./contributorsFilter";
 import { MDXtoAuthor } from ".";
+import type { Node } from "react";
 import type { TContributorList } from "../types";
+import allContributors from "@content/all-contributors.json";
+import contributorsFilter from "./contributorsFilter";
 
 export default function contributorsData(
   all: boolean,

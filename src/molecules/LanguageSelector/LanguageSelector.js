@@ -2,14 +2,15 @@
 
 /** @jsx jsx */
 
+import { Box, Text, jsx, useThemeUI } from "theme-ui";
 import { Link, Select } from "@atoms";
-import { useTranslation } from "@modules/localization";
-import { useNavigate } from "@reach/router";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+
 import { Fragment } from "react";
-import { components } from "react-select";
-import { Box, jsx, Text, useThemeUI } from "theme-ui";
 import type { Node } from "react";
+import { components } from "react-select";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { useNavigate } from "@reach/router";
+import { useTranslation } from "@modules/localization";
 
 type TData = {
   value: string,

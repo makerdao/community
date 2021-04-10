@@ -1,8 +1,7 @@
 // @flow
 
-import { useContext } from "react";
-
 import { NavigationContext } from "../NavigationProvider";
+import { useContext } from "react";
 
 export default function useNavigation(): any {
   const context = useContext(NavigationContext);

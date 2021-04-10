@@ -2,9 +2,9 @@
 
 /** @jsx jsx */
 
-import SidenavNode from "@molecules/";
 import { Box, jsx } from "theme-ui";
 
+import SidenavNode from "@molecules/";
 import type { TSidenavNodeProps as TSidenavNode } from "./SidenavNode";
 
 export type TSidenavData = {

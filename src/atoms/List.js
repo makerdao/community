@@ -1,11 +1,11 @@
 // @flow
-
 /** @jsx jsx */
 
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Children } from "react";
 import { Box, Flex, jsx } from "theme-ui";
+
+import { Children } from "react";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import type { Node } from "react";
 
 type TListProps = {

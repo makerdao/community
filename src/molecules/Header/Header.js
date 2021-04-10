@@ -2,16 +2,16 @@
 
 /** @jsx jsx */
 
-import theme from "@src/gatsby-plugin-theme-ui/";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useNavigation } from "@modules/navigation";
-import { SearchBar } from "@molecules";
-import { useEffect, useRef } from "react";
 import { Box, Flex, jsx } from "theme-ui";
-import type { Node } from "react";
+import { useEffect, useRef } from "react";
 
 import ColorModeToggles from "./components/ColorModeToggles";
 import HeaderNav from "./components/HeaderNav";
+import { Icon } from "@makerdao/dai-ui-icons";
+import type { Node } from "react";
+import { SearchBar } from "@molecules";
+import theme from "@src/gatsby-plugin-theme-ui/";
+import { useNavigation } from "@modules/navigation";
 
 // TODO: Consider to create a shared state for global variables.
 var lastScroll = 0; //<- Last scroll top of window. Defined outside because we don't want to re-render for scrolling.

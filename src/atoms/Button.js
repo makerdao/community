@@ -1,12 +1,12 @@
 // @flow
-
 /** @jsx jsx */
 
-import isNil from "lodash/isNil";
-import { Link } from "@atoms";
+import { Text, Button as ThemedButton, jsx } from "theme-ui";
+
 import { Icon } from "@makerdao/dai-ui-icons";
-import { Button as ThemedButton, jsx, Text } from "theme-ui";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import isNil from "lodash/isNil";
 
 type TButtonProps = {|
   to: string,

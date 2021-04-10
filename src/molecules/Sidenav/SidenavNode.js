@@ -2,11 +2,12 @@
 
 /** @jsx jsx */
 
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
 import { useEffect, useState } from "react";
-import { jsx } from "theme-ui";
+
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import { jsx } from "theme-ui";
 
 export type TSidenavNodeProps = {
   url: string,

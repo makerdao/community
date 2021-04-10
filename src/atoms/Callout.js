@@ -1,8 +1,9 @@
 // @flow
-
 /** @jsx jsx */
-import { Icon } from "@makerdao/dai-ui-icons";
+
 import { Flex, jsx } from "theme-ui";
+
+import { Icon } from "@makerdao/dai-ui-icons";
 import type { Node } from "react";
 
 type TCalloutProps = {

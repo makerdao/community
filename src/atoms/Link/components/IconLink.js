@@ -1,11 +1,11 @@
 // @flow
-
-import { Link } from "@atoms";
 /** @jsx jsx */
+
 import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization";
-import { jsx } from "theme-ui";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import { jsx } from "theme-ui";
+import { useTranslation } from "@modules/localization";
 
 //More of a Utility
 //Specifically used for Author links but I imagine it will have it's own use else where.

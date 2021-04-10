@@ -1,13 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import { Link } from "@atoms";
-import { useTranslation } from "@modules/localization";
-import { jsx } from "theme-ui";
-import type { Node } from "react";
-
 import BlogAuthor from "./BlogAuthor";
+import { Link } from "@atoms";
+import type { Node } from "react";
 import type { TFrontmatter } from "../../types";
+import { jsx } from "theme-ui";
+import { useTranslation } from "@modules/localization";
 
 type TBlogResultProps = {
   frontmatter: TFrontmatter,

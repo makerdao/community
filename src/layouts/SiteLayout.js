@@ -1,8 +1,9 @@
 // @flow
 /** @jsx jsx */
 
-import { Footer, Header } from "@molecules";
 import { Flex, jsx } from "theme-ui";
+import { Footer, Header } from "@molecules";
+
 import type { Node } from "react";
 
 type TLayoutProps = {

@@ -1,10 +1,11 @@
 // @flow
 
 import React, { createContext, useState } from "react";
-import { useTranslation } from "@modules/localization/";
 import { TitleConverter, UrlConverter } from "@utils";
 import { graphql, useStaticQuery } from "gatsby";
+
 import type { Node } from "react";
+import { useTranslation } from "@modules/localization/";
 
 type TNavigationContext = {
   mobileNavOpen: boolean,

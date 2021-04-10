@@ -1,11 +1,12 @@
-import allContributors from "@content/all-contributors.json";
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
 /** @jsx jsx */
-import { Fragment } from "react";
-import { Box, Flex, Image, jsx, Text } from "theme-ui";
 
+import { Box, Flex, Image, Text, jsx } from "theme-ui";
+
+import { Fragment } from "react";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import allContributorKeys from "../data/allContributorKeys";
+import allContributors from "@content/all-contributors.json";
 
 const { emojis } = allContributorKeys;
 

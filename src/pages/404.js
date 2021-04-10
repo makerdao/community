@@ -1,10 +1,12 @@
+/** @jsx jsx */
+
+import { Box, Flex, Image, Text, jsx } from "theme-ui";
+
 import { Button } from "@atoms";
-import { useTranslation } from "@modules/localization";
+import { Fragment } from "react";
 import { SEO } from "@modules/utility";
 import { navigate } from "@reach/router";
-/** @jsx jsx */
-import { Fragment } from "react";
-import { Box, Flex, Image, jsx, Text } from "theme-ui";
+import { useTranslation } from "@modules/localization";
 
 const browser = typeof window !== "undefined" && window; //<- This is to stop 404 flashes on route fallbacks.
 

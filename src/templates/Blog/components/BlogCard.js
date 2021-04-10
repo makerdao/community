@@ -1,16 +1,16 @@
 // @flow
 /** @jsx jsx */
 
-import isNil from "lodash/isNil";
-import { Link } from "@atoms";
-import { useTranslation } from "@modules/localization";
-import { getBlogPostTypeFromPath, TitleConverter, UrlConverter } from "@utils";
-import { parseInt } from "lodash";
-import { jsx } from "theme-ui";
-import type { Node } from "react";
+import { TitleConverter, UrlConverter, getBlogPostTypeFromPath } from "@utils";
 
 import BlogAuthor from "./BlogAuthor";
+import { Link } from "@atoms";
+import type { Node } from "react";
 import type { TFrontmatter } from "../../types";
+import isNil from "lodash/isNil";
+import { jsx } from "theme-ui";
+import { parseInt } from "lodash";
+import { useTranslation } from "@modules/localization";
 
 type TBlogCardProps = {|
   excerpt: string,

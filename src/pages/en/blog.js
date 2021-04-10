@@ -1,9 +1,9 @@
 // @flow
 
-import React from "react";
 import { Blog } from "@templates";
-import { graphql } from "gatsby";
 import type { Node } from "react";
+import React from "react";
+import { graphql } from "gatsby";
 
 type TBlogPageProps = {
   data: TGatsbyTypes_BlogHomeQueryENQuery,

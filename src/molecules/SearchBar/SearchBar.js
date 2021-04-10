@@ -2,17 +2,17 @@
 
 /** @jsx jsx */
 
-import LUNR from "lunr";
-import { useTranslation } from "@modules/localization";
-import { useNavigate } from "@reach/router";
-import { motion } from "framer-motion";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useEffect, useRef, useState } from "react";
-import { Box, Flex, jsx, Text } from "theme-ui";
-import type { Node } from "react";
-
+import { Box, Flex, Text, jsx } from "theme-ui";
 import { SearchHit, SearchInput } from "./components";
 import { useClickOutside, useKeyPress } from "./hooks";
+import { useEffect, useRef, useState } from "react";
+
+import LUNR from "lunr";
+import type { Node } from "react";
+import { motion } from "framer-motion";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { useNavigate } from "@reach/router";
+import { useTranslation } from "@modules/localization";
 
 type TSearchProps = {
   onClick: () => void,

@@ -1,12 +1,13 @@
 // @flow
-
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
 /** @jsx jsx */
-import { useTranslation } from "@modules/localization";
-import { Fragment } from "react";
+
 import { Flex, jsx } from "theme-ui";
+
+import { Fragment } from "react";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import { useTranslation } from "@modules/localization";
 
 type TLink = {
   url: string,

@@ -2,13 +2,14 @@
 
 /** @jsx jsx */
 
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization/";
-import { titleCase } from "@utils";
+import { Flex, Text, jsx } from "theme-ui";
+
 import { Fragment } from "react";
-import { Flex, jsx, Text } from "theme-ui";
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import { titleCase } from "@utils";
+import { useTranslation } from "@modules/localization/";
 
 type TBreadcrumData = Array<{
   part: string,

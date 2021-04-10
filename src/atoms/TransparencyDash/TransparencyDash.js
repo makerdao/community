@@ -1,11 +1,10 @@
 // @flow
 
-import React from "react";
-import type { Node } from "react";
-
 import Donut from "./components/Donut";
+import type { Node } from "react";
 import Pie from "./components/Pie";
 import Radial from "./components/Radial";
+import React from "react";
 import Region from "./components/Region";
 import Stat from "./components/Stat";
 import type { TDonutProps } from "./components/Donut";

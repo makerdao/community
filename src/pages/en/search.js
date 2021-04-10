@@ -1,18 +1,19 @@
 /** @jsx jsx */
 
-import groupBy from "lodash/groupBy";
-import LUNR from "lunr";
-import queryString from "query-string";
 import { Button, Link, Select } from "@atoms";
-import { useTranslation } from "@modules/localization";
-import { calculateTreeData } from "@modules/navigation";
-import { MobileNav, SearchInput } from "@molecules";
-import { useLocation, useNavigate } from "@reach/router";
-import { BlogResult } from "@templates/Blog";
-import { graphql, useStaticQuery } from "gatsby";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { Fragment, useEffect, useState } from "react";
 import { Flex, jsx } from "theme-ui";
+import { Fragment, useEffect, useState } from "react";
+import { MobileNav, SearchInput } from "@molecules";
+import { graphql, useStaticQuery } from "gatsby";
+import { useLocation, useNavigate } from "@reach/router";
+
+import { BlogResult } from "@templates/Blog";
+import LUNR from "lunr";
+import { calculateTreeData } from "@modules/navigation";
+import groupBy from "lodash/groupBy";
+import queryString from "query-string";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { useTranslation } from "@modules/localization";
 
 const SearchResults = () => {
   const resultsPerPage = 5;

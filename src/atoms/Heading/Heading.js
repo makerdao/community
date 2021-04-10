@@ -1,6 +1,6 @@
-import React from "react";
-
 import { Heading1, Heading2, Heading3, Heading4, Heading5 } from ".";
+
+import React from "react";
 
 export default function Heading({ level, ...props }) {
   switch (level) {

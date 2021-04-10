@@ -1,8 +1,10 @@
+/** @jsx jsx */
+
+import { Flex, Input, jsx } from "theme-ui";
+import { useEffect, useRef } from "react";
+
 import { Icon } from "@makerdao/dai-ui-icons";
 import { useTranslation } from "@modules/localization";
-/** @jsx jsx */
-import { useEffect, useRef } from "react";
-import { Flex, Input, jsx } from "theme-ui";
 
 const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
   const { t } = useTranslation();

@@ -1,18 +1,17 @@
 // @flow
-
 /** @jsx jsx */
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization";
-import { Link as GatsbyLink } from "gatsby";
-import { OutboundLink } from "gatsby-plugin-google-analytics";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { Fragment } from "react";
-import { jsx, Link as ThemeLink } from "theme-ui";
-import type { Node } from "react";
+import { Link as ThemeLink, jsx } from "theme-ui";
 
+import { Fragment } from "react";
+import { Link as GatsbyLink } from "gatsby";
+import { Icon } from "@makerdao/dai-ui-icons";
 import IconLink from "./components/IconLink";
+import type { Node } from "react";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import type { TIconLinkProps } from "./components/IconLink";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { useTranslation } from "@modules/localization";
 
 type TLinkProps = {
   children: Node,

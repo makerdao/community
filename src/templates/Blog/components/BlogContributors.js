@@ -1,10 +1,10 @@
 // @flow
 /** @jsx jsx */
 
-import { Icon } from "@makerdao/dai-ui-icons";
 import { Box, Flex, Image, jsx } from "theme-ui";
-import type { Node } from "react";
 
+import { Icon } from "@makerdao/dai-ui-icons";
+import type { Node } from "react";
 import { getAuthorData } from "../data";
 
 type TBlogContributorsProps = {

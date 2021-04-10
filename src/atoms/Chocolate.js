@@ -1,8 +1,9 @@
 // @flow
-
 /** @jsx jsx */
-import { Children } from "react";
+
 import { Grid, jsx } from "theme-ui";
+
+import { Children } from "react";
 import type { Node } from "react";
 
 type TChocolateProps = {

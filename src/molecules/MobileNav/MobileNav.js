@@ -1,18 +1,18 @@
 // @flow
-
-import { Link } from "@atoms";
 /** @jsx jsx */
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization";
-import { useNavigation } from "@modules/navigation";
-import { SidenavNode } from "@molecules";
-import { useLocation } from "@reach/router";
-import { AnimatePresence, motion } from "framer-motion";
-import { useState } from "react";
-import { Box, Flex, jsx, Text, useColorMode } from "theme-ui";
-import type { Node } from "react";
 
+import { AnimatePresence, motion } from "framer-motion";
+import { Box, Flex, Text, jsx, useColorMode } from "theme-ui";
+
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
+import type { Node } from "react";
+import { SidenavNode } from "@molecules";
 import type { TSidenavData } from "../Sidenav/Sidenav";
+import { useLocation } from "@reach/router";
+import { useNavigation } from "@modules/navigation";
+import { useState } from "react";
+import { useTranslation } from "@modules/localization";
 
 type TMobileNavProps = {
   sidenavData: TSidenavData,

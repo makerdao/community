@@ -1,12 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import { Children } from "react";
 import { Grid, jsx } from "theme-ui";
-import type { Node } from "react";
-
-import contributorsData from "./transformers/contributorsData";
 import { GridCell, ListElement } from "./components";
+
+import { Children } from "react";
+import type { Node } from "react";
+import contributorsData from "./transformers/contributorsData";
 
 export type TAuthorRendererProps = {
   list: boolean,

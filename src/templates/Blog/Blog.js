@@ -2,19 +2,19 @@
 
 /** @jsx jsx */
 
-import queryString from "query-string";
+import { BlogCard, BlogResult } from "./components";
 import { Button, Link, Select } from "@atoms";
-import { useTranslation } from "@modules/localization";
+import { Flex, jsx } from "theme-ui";
+import { useEffect, useState } from "react";
+
 import { MobileNav } from "@molecules";
+import type { Node } from "react";
+import { getBlogPostTypeFromPath } from "@utils";
+import queryString from "query-string";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 import { useLocation } from "@reach/router";
 import { useNavigate } from "@reach/router";
-import { getBlogPostTypeFromPath } from "@utils";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useEffect, useState } from "react";
-import { Flex, jsx } from "theme-ui";
-import type { Node } from "react";
-
-import { BlogCard, BlogResult } from "./components";
+import { useTranslation } from "@modules/localization";
 
 const postsPerPage = 4;
 

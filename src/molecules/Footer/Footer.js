@@ -1,11 +1,12 @@
 // @flow
-
 /** @jsx jsx */
-import { Link } from "@atoms";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization";
+
 import { Box, Flex, jsx } from "theme-ui";
+
+import { Icon } from "@makerdao/dai-ui-icons";
+import { Link } from "@atoms";
 import type { Node } from "react";
+import { useTranslation } from "@modules/localization";
 
 const socialLinks = {
   Twitter: "https://twitter.com/MakerDAO",

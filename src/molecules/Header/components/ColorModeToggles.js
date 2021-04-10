@@ -1,9 +1,10 @@
 // @flow
-
-import { Icon } from "@makerdao/dai-ui-icons";
 /** @jsx jsx */
-import { Fragment } from "react";
+
 import { jsx, useColorMode } from "theme-ui";
+
+import { Fragment } from "react";
+import { Icon } from "@makerdao/dai-ui-icons";
 import type { Node } from "react";
 
 export default function ColorModeToggles(): Node {

@@ -1,10 +1,11 @@
 // @flow
-
 /** @jsx jsx */
-import Sticky from "react-sticky-el";
-import { colorToHex, HexLuminanceCheck } from "@utils";
+
 import { Box, jsx } from "theme-ui";
+import { HexLuminanceCheck, colorToHex } from "@utils";
+
 import type { Node } from "react";
+import Sticky from "react-sticky-el";
 
 type TStatusBannerProps = {
   warning: boolean,

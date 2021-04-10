@@ -1,7 +1,8 @@
 // @flow
-
 /** @jsx jsx */
+
 import { Card, jsx } from "theme-ui";
+
 import type { Node } from "react";
 
 type TCTAProps = {

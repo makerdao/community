@@ -1,6 +1,8 @@
-import { Link } from "@atoms";
 /** @jsx jsx */
-import { jsx, Text } from "theme-ui";
+
+import { Text, jsx } from "theme-ui";
+
+import { Link } from "@atoms";
 
 const SearchHit = ({ title, excerpt, url, ...props }) => (
   <Link

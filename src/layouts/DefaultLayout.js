@@ -1,19 +1,19 @@
 // @flow
-
 /** @jsx jsx */
 
-import Sticky from "react-sticky-el";
-import { StatusBanner } from "@atoms";
-import { useTranslation } from "@modules/localization/";
-import { calculateTreeData } from "@modules/navigation";
-import { SEO } from "@modules/utility";
-import { Breadcrumbs, LanguageSelector, MobileNav, Sidenav } from "@molecules";
-import { useLocation } from "@reach/router";
-import { getLocaleFromPath, UrlConverter } from "@utils";
-import { graphql, useStaticQuery } from "gatsby";
-import { Children, Fragment } from "react";
 import { Box, Flex, jsx } from "theme-ui";
+import { Breadcrumbs, LanguageSelector, MobileNav, Sidenav } from "@molecules";
+import { Children, Fragment } from "react";
+import { UrlConverter, getLocaleFromPath } from "@utils";
+import { graphql, useStaticQuery } from "gatsby";
+
 import type { Node } from "react";
+import { SEO } from "@modules/utility";
+import { StatusBanner } from "@atoms";
+import Sticky from "react-sticky-el";
+import { calculateTreeData } from "@modules/navigation";
+import { useLocation } from "@reach/router";
+import { useTranslation } from "@modules/localization/";
 
 type TDefaultLayoutProps = {
   children: Node,

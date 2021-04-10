@@ -1,18 +1,19 @@
 // @flow
-
 /** @jsx jsx */
-import ReactSelect, { components } from "react-select";
+
 import { Box, jsx, useThemeUI } from "theme-ui";
-import type { Node } from "react";
-import type {
-  IndicatorContainerProps as TReactIndicatorContainerProps,
-  ValueContainerProps as TValueContainerProps,
-} from "react-select/src/components/containers";
-import type { ControlProps as TControlProps } from "react-select/src/components/Control";
+import ReactSelect, { components } from "react-select";
 import type {
   MenuListComponentProps as TMenuListProps,
   MenuProps as TMenuProps,
 } from "react-select/src/components/Menu";
+import type {
+  IndicatorContainerProps as TReactIndicatorContainerProps,
+  ValueContainerProps as TValueContainerProps,
+} from "react-select/src/components/containers";
+
+import type { Node } from "react";
+import type { ControlProps as TControlProps } from "react-select/src/components/Control";
 import type { OptionProps as TOptionProps } from "react-select/src/components/Option";
 import type { Props as TReactSelectProps } from "react-select/src/Select";
 

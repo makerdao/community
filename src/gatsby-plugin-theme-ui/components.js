@@ -1,3 +1,5 @@
+/** @jsx jsx */
+
 import {
   Accordion,
   Button,
@@ -17,12 +19,12 @@ import {
   Tout,
   TransparencyDash,
 } from "@atoms";
-/** @jsx jsx */
-import { Icon } from "@makerdao/dai-ui-icons";
 import { Aligner, Indent, Video } from "@modules/utility/";
 import { Authors, Blog } from "@templates";
+import { Box, Divider, Flex, Image, Text, jsx } from "theme-ui";
+
+import { Icon } from "@makerdao/dai-ui-icons";
 import { motion } from "framer-motion";
-import { Box, Divider, Flex, Image, jsx, Text } from "theme-ui";
 
 //Markdown Component overrides
 //Replace MDX html defaults with our custom implementation.

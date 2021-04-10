@@ -2,6 +2,7 @@
 
 import React, { createContext } from "react";
 import { graphql, useStaticQuery } from "gatsby";
+
 import type { Node } from "react";
 
 export const TranslationContext: any = createContext();

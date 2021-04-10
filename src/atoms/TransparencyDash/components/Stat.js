@@ -1,9 +1,10 @@
 // @flow
-
 /** @jsx jsx */
-import { formatNumber } from "@utils";
-import { Box, jsx, Text } from "theme-ui";
+
+import { Box, Text, jsx } from "theme-ui";
+
 import type { Node } from "react";
+import { formatNumber } from "@utils";
 
 type TData = {
   [string]: {

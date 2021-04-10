@@ -1,10 +1,10 @@
 // @flow
 /** @jsx jsx */
 
-import { format } from "date-fns";
-import { Box, Flex, Image, jsx, Text } from "theme-ui";
-import type { Node } from "react";
+import { Box, Flex, Image, Text, jsx } from "theme-ui";
 
+import type { Node } from "react";
+import { format } from "date-fns";
 import { getAuthorData } from "../data";
 
 type TBlogAuthorProps = {|

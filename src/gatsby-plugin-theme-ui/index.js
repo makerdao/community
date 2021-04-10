@@ -1,7 +1,7 @@
-import maker from "@makerdao/dai-ui-theme-maker";
 import React from "react";
-import { icons as themeIcons } from "@makerdao/dai-ui-icons";
 import { icons as brandingIcons } from "@makerdao/dai-ui-icons-branding";
+import maker from "@makerdao/dai-ui-theme-maker";
+import { icons as themeIcons } from "@makerdao/dai-ui-icons";
 
 const prismPreset = {
   color: "codeText",
@@ -329,60 +329,60 @@ export default {
   text: {
     text: {
       ...maker.text.text,
-      color: 'textMuted',
-      marginBottom: '24px'
+      color: "textMuted",
+      marginBottom: "24px",
     },
     heading: {
       ...maker.text.heading,
-      color: 'text'
+      color: "text",
     },
     h1: {
-      fontSize: ['48px', '48px', '48px'],
+      fontSize: ["48px", "48px", "48px"],
       letterSpacing: "0.3px",
       fontWeight: "500",
-      fontFamily: 'heading',
-      color: 'text',
-      marginTop: '48px',
-      marginBottom: '32px'
+      fontFamily: "heading",
+      color: "text",
+      marginTop: "48px",
+      marginBottom: "32px",
     },
     h2: {
-      fontSize: '32px',
+      fontSize: "32px",
       fontWeight: "500",
       letterSpacing: "0.3px",
-      fontFamily: 'heading',
-      color: 'text',
-      marginTop: '48px',
-      marginBottom: '24px'
+      fontFamily: "heading",
+      color: "text",
+      marginTop: "48px",
+      marginBottom: "24px",
     },
     h3: {
-      fontSize: '24px',
-      fontWeight: '500',
+      fontSize: "24px",
+      fontWeight: "500",
       letterSpacing: "0.3px",
-      fontFamily: 'heading',
-      color: 'text',
-      marginTop: '16px',
-      marginBottom: '16px'
+      fontFamily: "heading",
+      color: "text",
+      marginTop: "16px",
+      marginBottom: "16px",
     },
     h4: {
-      fontSize: '20px',
-      fontWeight: '500',
-      letterSpacing: '0.3px',
-      fontFamily: 'heading',
-      color: 'text',
-      marginTop: '8px',
-      marginBottom: '8px'
+      fontSize: "20px",
+      fontWeight: "500",
+      letterSpacing: "0.3px",
+      fontFamily: "heading",
+      color: "text",
+      marginTop: "8px",
+      marginBottom: "8px",
     },
     largeText: {
-      fontSize: '18px',
-      fontWeight: 'normal',
-      letterSpacing: '0.3px',
-      fontFamily: 'heading'
+      fontSize: "18px",
+      fontWeight: "normal",
+      letterSpacing: "0.3px",
+      fontFamily: "heading",
     },
     smallText: {
-      fontSize: '14px',
-      lineHeight: '17px',
-      letterSpacing: '0.3px'
-    }
+      fontSize: "14px",
+      lineHeight: "17px",
+      letterSpacing: "0.3px",
+    },
   },
   shadows: {
     high: "0px 2px 17px rgba(35, 21, 54, 0.46)",
@@ -557,7 +557,7 @@ export default {
       variant: "buttons.outline",
     },
     icon_outlineSmall: {
-      variant: "buttons.outlineSmall"
+      variant: "buttons.outlineSmall",
     },
     text: {
       variant: "buttons.primary",

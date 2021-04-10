@@ -1,11 +1,12 @@
 // @flow
-
-import Regions from "@data/regions";
 /** @jsx jsx */
+
+import { Flex, Image, Text, jsx } from "theme-ui";
+
 import { Fragment } from "react";
-import { Flex, Image, jsx, Text } from "theme-ui";
-import type { TRegions } from "@data/regions";
 import type { Node } from "react";
+import Regions from "@data/regions";
+import type { TRegions } from "@data/regions";
 
 export type TRegionProps = {
   data: TRegions,

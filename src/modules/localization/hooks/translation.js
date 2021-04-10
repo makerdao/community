@@ -1,10 +1,9 @@
 // @flow
 
-import { useLocation } from "@reach/router";
-import { useContext } from "react";
-
-import { TranslationContext } from "..";
 import { DEFAULT_LOCALE } from "../index";
+import { TranslationContext } from "..";
+import { useContext } from "react";
+import { useLocation } from "@reach/router";
 
 type TTranslation = {
   t: (

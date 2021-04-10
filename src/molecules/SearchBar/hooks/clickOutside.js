@@ -1,7 +1,7 @@
 // @flow
 
-import { useEffect } from "react";
 import type { ElementRef } from "react";
+import { useEffect } from "react";
 
 //Hook mostly to detect if there's a click outside of the results element.
 //If a click is detected we hide the results.

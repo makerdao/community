@@ -1,8 +1,8 @@
 // @flow
-
 /** @jsx jsx */
-import { jsx } from "theme-ui";
+
 import type { Node } from "react";
+import { jsx } from "theme-ui";
 
 type TTableProps = {
   children: Node,

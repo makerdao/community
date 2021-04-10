@@ -1,13 +1,14 @@
 // @flow
 /** @jsx jsx */
 
-import { Button, Divider, Heading } from "@atoms";
-import { useTranslation } from "@modules/localization";
-import { SEO } from "@modules/utility";
 import { BlogAuthor, BlogCard, BlogContributors } from "@templates/Blog";
-import { graphql, useStaticQuery } from "gatsby";
 import { Box, Flex, jsx } from "theme-ui";
+import { Button, Divider, Heading } from "@atoms";
+import { graphql, useStaticQuery } from "gatsby";
+
 import type { Node } from "react";
+import { SEO } from "@modules/utility";
+import { useTranslation } from "@modules/localization";
 
 type TBlogPostLayoutProps = {
   children: Node,

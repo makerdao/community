@@ -1,12 +1,12 @@
 // @flow
-
 /** @jsx jsx */
 
-import SmoothCollapse from "react-smooth-collapse";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Children, useState } from "react";
 import { Box, Flex, jsx } from "theme-ui";
+import { Children, useState } from "react";
+
+import { Icon } from "@makerdao/dai-ui-icons";
 import type { Node } from "react";
+import SmoothCollapse from "react-smooth-collapse";
 
 type TAccordionProps = {
   children: Node,
