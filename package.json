@@ -100,11 +100,6 @@
     ],
     "*.{js,jsx,json,md,mdx}": "prettier --write"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": ["lint-staged", "flow-check"]
-    }
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/makerdao/community-portal"
