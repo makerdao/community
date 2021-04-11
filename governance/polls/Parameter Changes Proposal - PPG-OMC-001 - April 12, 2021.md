@@ -83,40 +83,40 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 **Debt Ceiling Instant Access Module Activations**
 
-- Activate UNIV2WBTCETH-A DC-IAM with: 
-  - Maximum Debt Ceiling of 20 MM
-  - Target Available Debt of 3 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2WBTCETH-A** DC-IAM with: 
+- Maximum Debt Ceiling of 20 MM
+- Target Available Debt of 3 MM
+- Ceiling Increase Cooldown of 12 h
 
-- Activate UNIV2UNIETH-A DC-IAM with: 
-  - Maximum Debt Ceiling of 20 MM
-  - Target Available Debt of 3 MM
-  - Ceiling Increase Cooldown of 12 h
-  
-- Activate UNIV2LINKETH-A DC-IAM with: 
-  - Maximum Debt Ceiling of 20 MM
-  - Target Available Debt of 2 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2UNIETH-A** DC-IAM with: 
+- Maximum Debt Ceiling of 20 MM
+- Target Available Debt of 3 MM
+- Ceiling Increase Cooldown of 12 h
 
-- Activate UNIV2AAVEETH-A DC-IAM with: 
-  - Maximum Debt Ceiling of 20 MM
-  - Target Available Debt of 2 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2LINKETH-A** DC-IAM with: 
+- Maximum Debt Ceiling of 20 MM
+- Target Available Debt of 2 MM
+- Ceiling Increase Cooldown of 12 h
 
-- Activate UNIV2ETHUSDT-A DC-IAM with: 
-  - Maximum Debt Ceiling of 10 MM
-  - Target Available Debt of 2 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2AAVEETH-A** DC-IAM with: 
+- Maximum Debt Ceiling of 20 MM
+- Target Available Debt of 2 MM
+- Ceiling Increase Cooldown of 12 h
 
-- Activate UNIV2DAIUSDT-A DC-IAM with: 
-  - Maximum Debt Ceiling of 10 MM
-  - Target Available Debt of 2 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2ETHUSDT-A** DC-IAM with: 
+- Maximum Debt Ceiling of 10 MM
+- Target Available Debt of 2 MM
+- Ceiling Increase Cooldown of 12 h
 
-- Activate UNIV2WBTCDAI-A DC-IAM with: 
-  - Maximum Debt Ceiling of 20 MM
-  - Target Available Debt of 3 MM
-  - Ceiling Increase Cooldown of 12 h
+Activate **UNIV2DAIUSDT-A** DC-IAM with: 
+- Maximum Debt Ceiling of 10 MM
+- Target Available Debt of 2 MM
+- Ceiling Increase Cooldown of 12 h
+
+Activate **UNIV2WBTCDAI-A** DC-IAM with: 
+- Maximum Debt Ceiling of 20 MM
+- Target Available Debt of 3 MM
+- Ceiling Increase Cooldown of 12 h
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-7-april-2021/7358) to help inform your position before voting.
 
