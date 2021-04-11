@@ -47,7 +47,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 - Decrease the UNIV2WBTCDAI-A Stability Fee from 2% to 0%
 
 **Debt Ceiling Increases**
-- Increase the YFI-A Maximum Debt Ceiling from 75MM to 90 MM
+- Increase the YFI-A Maximum Debt Ceiling from 75 MM to 90 MM
 - Increase the AAVE-A Maximum Debt Ceiling from 25 MM to 50 MM
 - Increase the BAT-A Maximum Debt Ceiling from 3 MM to 7 MM
 - Increase the RENBTC-A Maximum Debt Ceiling from 2 MM to 10 MM
