@@ -4,7 +4,7 @@ summary: This poll proposes system parameters which could be used to initialize 
 discussion_link: $risk_link
 vote_type: Plurality Voting
 categories:
-   - Collateral
+   - Auctions
    - Risk Variable
 options:
    0: Abstain
@@ -24,19 +24,21 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk to the Liquidations 2.0 Framework in the Maker Protocol with the parameters below:
 
-**Price Function**
-* [Price Change Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_multiplier
-* [Price Change Interval](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_interval
-* [Auction Price Multiplier](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): $auction_price_multiplier
-* [Breaker Price Tolerance](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): $breaker_price_tolerance
+**Auction Price**
+* [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $auction_price_function
+   * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_multiplier
+   * [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $price_change_interval
+* [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): $auction_price_multiplier
 
-**General Parameters**
-* [Proportional Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $proportional_kick_incentive
-* [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $flat_kick_incentive
-* [Maximum Auction Drawdown](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): $maximum_auction_drawdown
-* [Maximum Auction Duration](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): $maximum_auction_duration
-* [Local Liquidation Limit](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): $local_liquidation_limit
-* [Liquidation Penalty](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): $liquidation_penalty 
+**Limits**
+* [Local Liquidation Limit (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): $local_liquidation_limit
+* [Maximum Auction Drawdown (`cusp`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): $maximum_auction_drawdown
+* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): $maximum_auction_duration
+* [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): $breaker_price_tolerance
+
+**Incentives**
+* [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $proportional_kick_incentive
+* [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $flat_kick_incentive
 
 Please review the following [Risk Evaluation]($risk_link) containing information about $ilk to inform your position before voting.
 
