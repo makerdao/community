@@ -187,6 +187,16 @@ exports.createPages = async ({ graphql, actions }) => {
     fromPath: "/governance/core-principles",
     toPath: `/${FALLBACK_LOCALE}/learn/MakerDAO/core-principles`,
   });
+
+  createRedirect({
+    fromPath: "/contribute/contest",
+    toPath: `/${FALLBACK_LOCALE}/programs/contest`,
+  });
+
+  createRedirect({
+    fromPath: "/governance/governance-tools",
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/participate`,
+  });
 };
 
 exports.onCreatePage = async ({ page, actions }) => {
@@ -194,11 +204,21 @@ exports.onCreatePage = async ({ page, actions }) => {
 
   // inject breadcrumbs into page context
   const { context: oldPageContext } = page;
+
+  //NOTE(Rejon): Pass a regex string variable for blog home pages so we can make sure we're getting the correct locale.
+  if (
+    page.path.includes("/blog/") &&
+    !page.componentPath.includes("/blogPosts/")
+  ) {
+    oldPageContext.regex = `//blogPosts/${page.path.split("/")[1]}/`; //ie. /blogPosts/en
+  }
+
   deletePage(page);
   createPage({
     ...page,
     context: {
       ...oldPageContext,
+      locale: page.path.split("/")[1],
       pagePath: page.path, //NOTE(Rejon): I provide this so we can have a navigational anchor during static builds for pathDirs and sidenav/breadcrumb data.
     },
   });

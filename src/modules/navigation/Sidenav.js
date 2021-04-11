@@ -1,7 +1,6 @@
-/** @jsx jsx */
-import { jsx, Box } from "theme-ui";
-
 import Sidenav_Node from "@modules/navigation/Sidenav_Node";
+/** @jsx jsx */
+import { Box, jsx } from "theme-ui";
 
 const Sidenav = ({ data, currentPath }) => {
   return (

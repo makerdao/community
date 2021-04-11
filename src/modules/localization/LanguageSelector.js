@@ -1,12 +1,12 @@
 /** @jsx jsx */
-import { Fragment } from "react";
-import Select, { components } from "react-select";
+import { Select } from "@modules/ui";
 import { useNavigate } from "@reach/router";
-import { Box, jsx, Text, useThemeUI } from "theme-ui";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-
-import { Link } from "@modules/navigation";
 import { useTranslation } from "@modules/localization";
+import { Link } from "@modules/navigation";
+import { components } from "react-select";
+import { Fragment } from "react";
+import { Box, jsx, Text, useThemeUI } from "theme-ui";
 
 const LanguageSelector = ({ data, pagePath }) => {
   const { theme } = useThemeUI();
@@ -107,6 +107,8 @@ const LanguageSelector = ({ data, pagePath }) => {
     dangerLight: theme.colors.bearAlt,
   };
 
+
+
   //If we have existing languages or we're swapping, show the select.
   if (data.length > 0) {
     return (
@@ -121,19 +123,6 @@ const LanguageSelector = ({ data, pagePath }) => {
       >
         <Select
           isSearchable={false}
-          theme={(selectTheme) => ({
-            ...selectTheme,
-            fontFamily: theme.fonts.body,
-            colors: { ...selectTheme.colors, ...uiSelectTheme },
-          })}
-          components={{
-            Menu,
-            MenuList,
-            IndicatorsContainer,
-            ValueContainer,
-            Control,
-            Option,
-          }}
           options={data}
           onChange={onChange}
           aria-label={t("Page_Language_Selector")}

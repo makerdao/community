@@ -1,6 +1,6 @@
 ---
 title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Rank your preferred options to resolve $GenericChange
+summary: Rank your preferred options to resolve $GenericChange.
 discussion_link: $discussion_link
 vote_type: Ranked Choice IRV
 categories:
@@ -17,7 +17,10 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is an instant-runoff vote. In an instant-runoff vote, you may rank any number of options in the order of preference. As a general rule, you should rank every option you would be willing to vote for if it was included in an executive vote. By failing to rank an option you signal that you are not willing to vote for it in an executive vote. Alternatively, if you would accept any of the listed options and have no preference as to which, you should vote 'Abstain' as your first choice and rank no other choices.**
+**This is an instant-runoff vote.** 
+- **You may rank any number of options that you would support in an executive vote.** 
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
@@ -31,7 +34,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 
 ## Outcomes
 
-**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
+**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
 * If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
