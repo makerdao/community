@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip4c2-sp8-mip-9-amendments/6793
 vote_type: Plurality Voting
 categories:
    - Governance
-   - Technical
+   - MIPs
 options:
    0: Abstain
    1: Yes
@@ -24,14 +24,14 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-Please review the discussion [MIP4c2-SP8: MIP 9 Amendments](https://forum.makerdao.com/t/mip4c2-sp8-mip-9-amendments/6793) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-136-thursday-april-8-17-00-utc/7279) on April 08, 2021.
+Please review the discussion [thread](https://forum.makerdao.com/t/mip4c2-sp8-mip-9-amendments/6793) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-136-thursday-april-8-17-00-utc/7279) on April 8, 2021.
 
 ## Outcomes
 
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitators will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on $next_governance_call_date. 
+* The Governance Facilitators will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on April 15, 2021. 
 * The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
