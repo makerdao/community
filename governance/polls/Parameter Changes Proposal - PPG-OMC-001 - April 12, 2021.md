@@ -27,84 +27,104 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 ### Parameter Changes by Vault Type (`ilk`)
 
-- **LINK-A**
-  - Increase the LINK-A Stability Fee from 3.5% to 5%
-- **ETH-B** 
-  - Increase the ETB-B Stability Fee from 9% to 10%
-- **YFI-A**
-  - Increase the YFI-A Maximum Debt Ceiling from 75MM to 90 MM
-- **ZRX-A**
-  - Increase the ZRX-A Stability Fee from 2% to 4%
-- **AAVE-A**
-  - Decrease the AAVE-A Stability Fee from 4% to 3%
-  - Increase the AAVE-A Maximum Debt Ceiling from 25 MM to 50 MM
-  - Increase the AAVE-A Target Available Debt from 2MM to 5 MM
-- **BAT-A**
-  - Decrease the BAT-A Stability Fee from 6% to 5%
-  - Increase the BAT-A Maximum Debt Ceiling from 3 MM to 7 MM
-- **RENBTC-A**
-  - Increase the RENBTC-A Maximum Debt Ceiling from 2 MM to 10 MM
-  - Increase the RENBTC-A Target Available Debt from 0.5 MM to 1 MM
-- **LRC-A**
-  - Increase the LRC-A Stability Fee from 3% to 4%
-  - Decrease the LRC-A Maximum Debt Ceiling from 10 MM to 5 MM
-  - Decrease the LRC-A Target Available Debt from 2 MM to 1 MM
-- **MANA-A**
-  - Decrease the MANA-A Stability Fee from 4% to 3%
-  - Increase the MANA-A Maximum Debt Ceiling from 2 MM to 5 MM
-  - Increase the MANA-A Target Available Debt from 0.5 MM to 1 MM
-- **BAL-A**
-  - Decrease the BAL-A Stability Fee from 3.5% to 2%
-  - Increase the BAL-A Maximum Debt Ceiling from 5 MM to 30 MM
-  - Increase the BAL-A Target Available Debt from 1 MM to 3 MM
-- **USDT-A** 
-  - Decrease the USDT-A Debt Ceiling from 2.5 MM to 0 MM
-- **UNIV2DAIETH-A**
-  - Increase the UNIV2DAIETH-A Stability Fee from 3% to 3.5%
-  - Increase the UNIV2DAIETH-A Maximum Debt Ceiling from 30 MM to 50 MM
-- **UNIV2USDCETH-A**
-  - Increase the UNIV2USDCETH-A Stability Fee from 3.5% to 4.5 %
-- **UNIV2DAIUSDC-A**
-  - Decrease the UNIV2DAIUSDC-A Stability Fee from 3% to 1%
-- **UNIV2WBTCETH-A**
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 20 MM
-    - Target Available Debt of 3 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2UNIETH-A**
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 20 MM
-    - Target Available Debt of 3 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2LINKETH-A** 
-  - Decrease the UNIV2LINKETH-A Stability Fee from 5% to 4%
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 20 MM
-    - Target Available Debt of 2 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2AAVEETH-A**
-  - Decrease the UNIV2AAVEETH-A Stability Fee from 5% to 4%
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 20 MM
-    - Target Available Debt of 2 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2ETHUSDT-A** 
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 10 MM
-    - Target Available Debt of 2 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2DAIUSDT-A**
-  - Decrease the UNIV2DAIUSDT-A Stability Fee from 4% to 3%
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 10 MM
-    - Target Available Debt of 2 MM
-    - Ceiling Increase Cooldown of 12 h
-- **UNIV2WBTCDAI-A**
-  - Decrease the UNIV2WBTCDAI-A Stability Fee from 2% to 0%
-  - Activate DC-IAM with: 
-    - Maximum Debt Ceiling of 20 MM
-    - Target Available Debt of 3 MM
-    - Ceiling Increase Cooldown of 12 h
+**LINK-A**
+- Increase the LINK-A Stability Fee from 3.5% to 5%
+
+**ETH-B** 
+- Increase the ETB-B Stability Fee from 9% to 10%
+
+**YFI-A**
+- Increase the YFI-A Maximum Debt Ceiling from 75MM to 90 MM
+
+**ZRX-A**
+- Increase the ZRX-A Stability Fee from 2% to 4%
+
+**AAVE-A**
+- Decrease the AAVE-A Stability Fee from 4% to 3%
+- Increase the AAVE-A Maximum Debt Ceiling from 25 MM to 50 MM
+- Increase the AAVE-A Target Available Debt from 2MM to 5 MM
+
+**BAT-A**
+- Decrease the BAT-A Stability Fee from 6% to 5%
+- Increase the BAT-A Maximum Debt Ceiling from 3 MM to 7 MM
+
+**RENBTC-A**
+- Increase the RENBTC-A Maximum Debt Ceiling from 2 MM to 10 MM
+- Increase the RENBTC-A Target Available Debt from 0.5 MM to 1 MM
+
+**LRC-A**
+- Increase the LRC-A Stability Fee from 3% to 4%
+- Decrease the LRC-A Maximum Debt Ceiling from 10 MM to 5 MM
+- Decrease the LRC-A Target Available Debt from 2 MM to 1 MM
+
+**MANA-A**
+- Decrease the MANA-A Stability Fee from 4% to 3%
+- Increase the MANA-A Maximum Debt Ceiling from 2 MM to 5 MM
+- Increase the MANA-A Target Available Debt from 0.5 MM to 1 MM
+
+**BAL-A**
+- Decrease the BAL-A Stability Fee from 3.5% to 2%
+- Increase the BAL-A Maximum Debt Ceiling from 5 MM to 30 MM
+- Increase the BAL-A Target Available Debt from 1 MM to 3 MM
+
+**USDT-A** 
+- Decrease the USDT-A Debt Ceiling from 2.5 MM to 0 MM
+
+**UNIV2DAIETH-A**
+- Increase the UNIV2DAIETH-A Stability Fee from 3% to 3.5%
+- Increase the UNIV2DAIETH-A Maximum Debt Ceiling from 30 MM to 50 MM
+
+**UNIV2USDCETH-A**
+- Increase the UNIV2USDCETH-A Stability Fee from 3.5% to 4.5 %
+
+**UNIV2DAIUSDC-A**
+- Decrease the UNIV2DAIUSDC-A Stability Fee from 3% to 1%
+
+**UNIV2WBTCETH-A**
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 20 MM
+  - Target Available Debt of 3 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2UNIETH-A**
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 20 MM
+  - Target Available Debt of 3 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2LINKETH-A** 
+- Decrease the UNIV2LINKETH-A Stability Fee from 5% to 4%
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 20 MM
+  - Target Available Debt of 2 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2AAVEETH-A**
+- Decrease the UNIV2AAVEETH-A Stability Fee from 5% to 4%
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 20 MM
+  - Target Available Debt of 2 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2ETHUSDT-A** 
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 10 MM
+  - Target Available Debt of 2 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2DAIUSDT-A**
+- Decrease the UNIV2DAIUSDT-A Stability Fee from 4% to 3%
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 10 MM
+  - Target Available Debt of 2 MM
+  - Ceiling Increase Cooldown of 12 h
+
+**UNIV2WBTCDAI-A**
+- Decrease the UNIV2WBTCDAI-A Stability Fee from 2% to 0%
+- Activate DC-IAM with: 
+  - Maximum Debt Ceiling of 20 MM
+  - Target Available Debt of 3 MM
+  - Ceiling Increase Cooldown of 12 h
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-7-april-2021/7358) to help inform your position before voting.
 
