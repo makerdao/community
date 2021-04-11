@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Inclusion Poll for Declaration of Intent - eudDai (MIP13c3-SP10) - April 12, 2021
+# Inclusion Poll for Declaration of Intent - eurDAI (MIP13c3-SP10) - April 12, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 12 at 16:00 UTC.
 
