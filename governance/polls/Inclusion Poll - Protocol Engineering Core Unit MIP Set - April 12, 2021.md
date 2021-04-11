@@ -4,8 +4,9 @@ summary: Signal your support or opposition for these proposals being included in
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831
 vote_type: Plurality Voting
 categories:
-   - Governance
-   - Technical
+   - MIPs
+   - Core Unit
+   - Budget
 options:
    0: Abstain
    1: Yes
@@ -30,14 +31,14 @@ This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP40c2-SP7: Modify Protocol Engineering Core Unit Budget](https://forum.makerdao.com/t/mip40c2-sp7-modify-protocol-engineering-core-unit-budget/6832)
 * [MIP41c4-SP7: Facilitator Onboarding, Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip41c4-sp7-facilitator-onboarding-protocol-engineering-core-unit/6833)
 
-Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-136-thursday-april-8-17-00-utc/7279) on April 0, 2021.
+Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-136-thursday-april-8-17-00-utc/7279) on April 8, 2021.
 
 ## Outcomes
 
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitators will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on $next_governance_call_date. 
+* The Governance Facilitators will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on April 15, 2021. 
 * The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
