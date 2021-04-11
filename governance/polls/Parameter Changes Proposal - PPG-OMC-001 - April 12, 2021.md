@@ -27,7 +27,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 ### Parameter Changes by Type
 
-**Stability Fee Changes**
+**Stability Fee Increases**
 
 | Vault Type     |   Old |    New | Change |
 |----------------|-------|--------|--------|
