@@ -20,18 +20,44 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following actions: 
-* Signing [this petition](https://ipfsgate.com/ipfs/QmYDpsrhpnBNp4N8ASGCprw8iVEN8tLMGxzkzDNkgaNNWH) addressed to the [Andreessen Horowitz (a16z)](https://a16z.com/) venture capital firm.
-
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-petition-letter-to-a16z/7181) to help inform your position before voting.
+
+The community can vote in this poll to express support or opposition to the signing this petition:
+
+**Petition Letter**
+
+to the attention of the Andreessen Horowitz [A16z Crypto team](https://a16z.com/crypto/#vertical-landing-staff).
+
+Following its [investment thesis](https://a16z.com/crypto/#vertical-landing-investment-thesis) and its long term vision on DeFi, A16z crypto [has invested in MakerDAO in September 2018](https://blog.makerdao.com/part-2-a-primer-on-dai/). The involvement of A16z crypto brought a new level of excitement and credence to the MakerDAO community and [has helped its development](https://a16z.com/2019/11/17/maker-governance-multi-collateral-dai/) over the course of the last few years. Currently A16z owns [the wallet](https://etherscan.io/address/0x05e793ce0c6027323ac150f6d45c2344d28b6019) with the third largest amount of MKR tokens and therefore owns more than 6% of the voting power in the MakerDAO governance system.
+
+Since September 2018 MakerDAO has managed to achieve outstanding technical results, including the [successful launch of multi-collateral DAI in 2019](https://a16z.com/2019/11/17/maker-governance-multi-collateral-dai/), and today is undoubtably one of the [leading protocols](https://defipulse.com/) in the DeFi space. This amazing growth has been enabled by an engaged decentralised community coordinated and supported by the [Maker Foundation](https://makerdao.com/en/about), a private organisation lead by Rune Christensen, one of the founders of MakerDAO.
+
+As planned from the very beginning, however, the Maker Foundation is going to be dissolved soon. This event corresponds to a critical, historical and exciting moment for MakerDAO: the decentralised community will have to manage itself and its DeFi protocol successfully without relying on a single centralised organisation.
+
+Since the beginning of 2021, the MakerDAO decentralised community has made significant steps towards decentralisation. Several *Core Units*, independent and focused groups of contributors paid by MakerDAO with the profits of the protocol, are being proposed, discussed and approved via the Governance process. But the path towards full decentralisation is hard, full of intricacies and is resource consuming. The help of all members of our decentralised community is now more needed than ever.
+
+One of the [key objectives of A16z crypto](https://a16z.com/2021/02/05/on-crypto-governance/) is:
+
+> **``Put simply, our primary objective in governance is to create the conditions necessary for protocols to achieve long-term adoption and self-sustainability.''**
+
+For the above reasons, the MakerDAO decentralised community wishes to ask the full participation and support of A16z in this important moment. We'd be thrilled to be able to interact in a fully transparent way (forums, chats, onchain governance, etc), in the true spirit of DeFi, with the incredibly talented [A16z Crypto team](https://a16z.com/crypto/#vertical-landing-staff).
+
+Specifically, we encourage A16z to:
+
+1. Participate in onchain governance and voting, using the 60k MKR tokens in [their wallet](https://etherscan.io/address/0x05e793ce0c6027323ac150f6d45c2344d28b6019).
+2. Through some chosen representative, participate actively in [chat](https://chat.makerdao.com/) and [forum](https://forum.makerdao.com/) discussions.
+3. Bring ideas and expertise to the community: legal, recruiting processes, marketing, communication, business opportunities, etc.
+4. Interact and challenge the existing and forthcoming Core Units to make sure they meet the highest standards of quality.
+
+We, the MakerDAO decentralised community, are proud to have you onboard and can't wait to interact with you to keep developing our protocol and innovating in the DeFi space.
+
+With best regards,
+
+MakerDAO community
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This action will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this action will be noted in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
-
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**Regardless of the outcome of this poll, no action will be taken at this time.**
 
 ---
 
