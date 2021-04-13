@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { Children } from "react";
-import { Flex, Box, jsx } from "theme-ui";
+import { Box, Flex, jsx } from "theme-ui";
 
 const Process = ({ children }) => {
   const _Children = Children.toArray(children);

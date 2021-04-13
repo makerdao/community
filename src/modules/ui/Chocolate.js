@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { Children } from "react";
-import { jsx, Grid } from "theme-ui";
+import { Grid, jsx } from "theme-ui";
 
 const Chocolate = ({ children }) => {
   const _Children = Children.toArray(children);

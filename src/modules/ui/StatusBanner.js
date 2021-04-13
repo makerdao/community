@@ -1,7 +1,7 @@
+import Sticky from "react-sticky-el";
+import { colorToHex, HexLuminanceCheck } from "@utils";
 /** @jsx jsx */
 import { Box, jsx } from "theme-ui";
-import { HexLuminanceCheck, colorToHex } from "@utils";
-import Sticky from "react-sticky-el";
 
 const StatusBanner = ({ warning, sticky, children, hideSpacer, variant }) => {
   const _variantKey = variant || (warning ? "warning" : null) || "successAlt";

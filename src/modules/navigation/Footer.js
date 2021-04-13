@@ -1,10 +1,9 @@
-/** @jsx jsx */
-import { Flex, Box, jsx } from "theme-ui";
-import { Icon } from "@makerdao/dai-ui-icons";
 import Link from "@modules/navigation/Link";
-
+import { Icon } from "@makerdao/dai-ui-icons";
 import { useTranslation } from "@modules/localization";
 import { getLinkIcon } from "@modules/navigation";
+/** @jsx jsx */
+import { Box, Flex, jsx } from "theme-ui";
 
 const socialLinks = {
   "Twitter": "https://twitter.com/MakerDAO",

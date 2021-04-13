@@ -4,7 +4,7 @@
 Alias: N/A
 Parameter Name: line
 Containing Contract: Vat
-Scope: Ilk
+Scope: Vault Type (Ilk)
 Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation
 ```
 
@@ -34,7 +34,9 @@ Leaving a large amount of 'open space' in the Debt Ceiling for a vault type also
 
 ## Changes
 
-Adjusting the Debt Ceiling parameter for a specific vault type is a manual process that requires an executive vote. Changes to Debt Ceiling parameters are subject to the GSM Pause Delay.
+Adjusting the Debt Ceiling parameter for a specific vault type can be done through a manual process that requires an executive vote. Changes to Debt Ceiling parameters are subject to the GSM Pause Delay.
+
+The Debt Ceiling Instant Access Module allows adjusting the Debt Ceiling of a given vault type instantly according to certain hard-coded rules and parameters. For details see the appropriate documentation.
 
 **Why increase a Debt Ceiling Parameter?**
 

@@ -6,7 +6,7 @@ const removeFrontmatter = () => (tree) =>
   // eslint-disable-next-line
   filter(tree, (node) => node.type !== "yaml");
 const visit = require("unist-util-visit");
-const { TitleConverter, UrlConverter } = require("./src/build-utils");
+const { TitleConverter, UrlConverter, getBlogPostTypeFromPath } = require("./src/build-utils");
 require("dotenv").config();
 
 module.exports = {
@@ -19,8 +19,9 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-theme-ui",
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-catch-links`,
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-flow",
     {
       //NOTE(Rejon): This is what allows us to do aliased imports like "@modules/ect..."
       resolve: `gatsby-plugin-alias-imports`,
@@ -47,9 +48,36 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blogPosts`,
+        path: `${__dirname}/blogPosts`,
+      },
+    },
+    {
       resolve: "gatsby-plugin-page-creator",
       options: {
         path: `${__dirname}/content`,
+        ignore: {
+          patterns: [
+            `**/header.mdx`,
+            `**/**.js`,
+            `**/**.json`,
+            `**/404.mdx`,
+            `**/example.mdx`,
+            `**/footer.mdx`,
+            `**/**.pptx`,
+            "**/**.jpg",
+            "**/**.png",
+          ],
+          options: { nocase: true },
+        },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-page-creator",
+      options: {
+        path: `${__dirname}/blogPosts`,
         ignore: {
           patterns: [
             `**/header.mdx`,
@@ -95,7 +123,10 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve("./src/modules/layouts/mdx_layout.js"),
+          default: require.resolve("./src/modules/layouts/default_layout.js"),
+          blogPosts: require.resolve(
+            "./src/modules/layouts/blogPost_layout.js"
+          ),
         },
         remarkPlugins: [remarkSlug],
         gatsbyRemarkPlugins: [
@@ -147,15 +178,34 @@ module.exports = {
         fields: [
           { name: "title", store: true, attributes: { boost: 20 } },
           { name: "keywords", attributes: { boost: 15 } },
+          { name: "isBlog", store: true},
+          { name: "authors", store: true},
+          { name: "type", store: true},
+          { name: "description", store: true, attributes: {boost: 15}},
+          {name: "date", store: true},
           { name: "url", store: true },
           { name: "excerpt", store: true, attributes: { boost: 5 } },
         ],
         resolvers: {
           Mdx: {
             title: TitleConverter,
+            authors: (node) => node.frontmatter.authors,
+            description: (node) => node.frontmatter.description,
+            date: (node) => node.frontmatter.date,
+            type: (node) => {
+              if (node.frontmatter.type)
+              {
+                return node.frontmatter.type;
+              }
+              else if (node.fileAbsolutePath.includes("/blogPosts/")) 
+              {
+                return getBlogPostTypeFromPath(node.fileAbsolutePath);
+              }
+            }, 
+            isBlog: (node) => node.fileAbsolutePath.includes("/blogPosts/"),
             url: UrlConverter,
             excerpt: (node) => {
-              const excerptLength = 60; // Hard coded excerpt length
+              const excerptLength = 200; // Hard coded excerpt length
 
               //If this node's frontmatter has a description use THAT for excerpts.
               if (node.frontmatter.description) {
