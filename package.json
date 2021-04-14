@@ -42,6 +42,7 @@
     "gatsby-transformer-remark": "^2.8.38",
     "gatsby-transformer-sharp": "^2.5.18",
     "html-react-parser": "^0.14.0",
+    "latest-version": "^5.1.0",
     "lodash": "^4.17.20",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
