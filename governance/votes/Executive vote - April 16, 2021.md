@@ -22,6 +22,7 @@ Further details and rationale can be found in this [thread](https://forum.makerd
 ### Add LINK-A to Liquidations 2.0 Framework
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmPtNp9a?network=mainnet#poll-detail), LINK-A will be added to the Liquidations 2.0 Framework with the following parameters:
+
 **Auction Price**
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
    * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
@@ -46,7 +47,7 @@ Further details and rationale can be found in the following [Risk Evaluation](ht
 
 ### Increase Emergency Shutdown Threshold
 
-Given this [risk assesment](https://forum.makerdao.com/t/informal-poll-should-we-raise-the-minimum-mkr-needed-to-call-end-cage-for-emergency-shutdown/7277/16) the following change will be made to the amount of MKR tokens needed to activate an Emergency Shutdown (call `end.cage`):
+Given this [Risk Evaluation](https://forum.makerdao.com/t/informal-poll-should-we-raise-the-minimum-mkr-needed-to-call-end-cage-for-emergency-shutdown/7277/16) the following change will be made to the amount of MKR tokens needed to activate an Emergency Shutdown (call `end.cage`):
 * Increase threshold from 50,0000 MKR to 75,000 MKR.
 
 ## Summary
