@@ -36,7 +36,7 @@ Given the passing of this [executive](https://vote.makerdao.com/executive/6058ce
 * Replace contract "ILK_REGISTRY" - Contract defining the different vault types within the protocol.
 * Add contract "CLIPPER_MOM" - Contract that enables a "circuit breaker" for Liquidations 2.0 if the price of a collateral drops too severely.
 * Add contract "MCD_CLIP_LINK_A" - Contract containing the LINK-A auction module (with the parameters listed below).
-* Add contract "MCD_CLIP_CALC_LINK_A" - Contract preforming the LINK-A price calculator function.
+* Add contract "MCD_CLIP_CALC_LINK_A" - Contract that calculates the auction price for LINK-A. 
 * Remove contract "MCD_FLIP_LINK_A" - The previous contract setting the LINK-A liquidation parameters.
 
 Contract addresses and updates may be found in the [Collateral Onboarding Updates Rocket.Chat Channel](https://chat.makerdao.com/channel/collateral-onboarding-updates-ext).
