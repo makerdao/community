@@ -13,7 +13,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 * The Liquidations 2.0 Contracts will be authorized.
 * LINK-A will be moved to the Liquidations 2.0 Framework.
-* The Emergency Shutdown Module (ESM) contract will be replaced with the Emergency Shutdown Threshold increased from 50,000 MKR to 75,000 MKR.
+
+
+If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+* The Emergency Shutdown Threshold increased from 50,000 MKR to 75,000 MKR.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
