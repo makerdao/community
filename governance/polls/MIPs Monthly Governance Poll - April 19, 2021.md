@@ -12,10 +12,10 @@ options:
 ---
 # Monthly MIPs Governance Poll - April 19, 2021
 
-The Governance Facilitators have placed the monthly MIPs Governance Poll into the voting system as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 19 at 16:00 UTC.
+The Governance Facilitators have placed the monthly MIPs Governance Poll into the voting system as part of the responsibilities defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 19 at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
@@ -23,12 +23,12 @@ The Governance Facilitators have placed the monthly MIPs Governance Poll into th
 
 This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on April 26, 2021. The bundled contents of this poll consist of:
 
-**Amendments Set**
+**Amendment Proposals**
 - [MIP4c2-SP7: MIP4 Amendments](https://forum.makerdao.com/t/mip4c2-sp7-mip4-amendments/6508)
 - [MIP4c2-SP8: MIP 9 Amendments](https://forum.makerdao.com/t/mip4c2-sp8-mip-9-amendments/6793)
 - [MIP4c2-SP13: MIP0 Amendments](https://forum.makerdao.com/t/mip4c2-sp13-mip0-amendments/6758)
 
-**Declarations of Intent Set**
+**Declaration of Intent Proposal**
 - [MIP13c3-SP10: Declaration of Intent - eurDai](https://forum.makerdao.com/t/mip13c3-sp10-declaration-of-intent-eurdai/6766/17)
 
 **Content Production Core Unit Onboarding Set**
@@ -65,7 +65,7 @@ The proposals can be reviewed in this week's MIPs update [here](https://forum.ma
 
 ## Resources
 
-[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
