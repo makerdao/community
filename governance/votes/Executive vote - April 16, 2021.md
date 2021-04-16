@@ -19,7 +19,7 @@ If this executive proposal passes, the following **additions** will be made to t
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
@@ -38,7 +38,7 @@ Given the passing of this [executive](https://vote.makerdao.com/executive/6058ce
 * Add contract "MCD_CLIP_LINK_A" - Contract containing the LINK-A auction module (with the parameters listed below).
 * Add contract "MCD_CLIP_CALC_LINK_A" - Contract preforming the LINK-A price calculator function.
 * Remove contract "MCD_FLIP_LINK_A" - Previous contract setting the LINK-A liquidation parameters.
-* 
+
 Contract addresses and updates may be found in the [Collateral Onboarding Updates Rocket.Chat](https://chat.makerdao.com/channel/collateral-onboarding-updates-ext).
 
 Further details and rationale can be found in this [thread](https://forum.makerdao.com/t/mip45-liquidations-2-0-liq-2-0-liquidation-system-redesign/6352) or by browsing the [Liq2.0 Tag](https://forum.makerdao.com/tag/liq-20) in the forum.
