@@ -13,7 +13,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 * The Liquidations 2.0 Contracts will be authorized.
 * LINK-A will be moved to the Liquidations 2.0 Framework.
-* The Emergency Shutdown Threshold will be increased from 50,000 to 75,000 MKR.
+* The Emergency Shutdown Threshold will be increased from 50,000 MKR to 75,000 MKR.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -39,7 +39,7 @@ Given the passing of this [executive](https://vote.makerdao.com/executive/6058ce
 * Add contract "MCD_CLIP_CALC_LINK_A" - Contract preforming the LINK-A price calculator function.
 * Remove contract "MCD_FLIP_LINK_A" - Previous contract setting the LINK-A liquidation parameters.
 
-Contract addresses and updates may be found in the [Collateral Onboarding Updates Rocket.Chat](https://chat.makerdao.com/channel/collateral-onboarding-updates-ext).
+Contract addresses and updates may be found in the [Collateral Onboarding Updates Rocket.Chat Channel](https://chat.makerdao.com/channel/collateral-onboarding-updates-ext).
 
 Further details and rationale can be found in this [thread](https://forum.makerdao.com/t/mip45-liquidations-2-0-liq-2-0-liquidation-system-redesign/6352) or by browsing the [Liq2.0 Tag](https://forum.makerdao.com/tag/liq-20) in the forum.
 
@@ -71,7 +71,7 @@ Further details and rationale can be found in the following [Risk Evaluation](ht
 
 ### Increase Emergency Shutdown Threshold
 
-Following this [Risk Evaluation](https://forum.makerdao.com/t/informal-poll-should-we-raise-the-minimum-mkr-needed-to-call-end-cage-for-emergency-shutdown/7277/16) and subsequent [decision by the Governance Facilitator(s)](https://forum.makerdao.com/t/emergency-shutdown-module-threshold-change/7526) the following change will be made to the amount of MKR tokens needed to activate an Emergency Shutdown (call `end.cage`):
+Following this [Risk Evaluation](https://forum.makerdao.com/t/informal-poll-should-we-raise-the-minimum-mkr-needed-to-call-end-cage-for-emergency-shutdown/7277/16) and subsequent [decision by the Governance Facilitator(s)](https://forum.makerdao.com/t/emergency-shutdown-module-threshold-change/7526), the following change will be made to the amount of MKR tokens needed to activate an Emergency Shutdown (call `end.cage`):
 * Increase threshold from 50,0000 MKR to 75,000 MKR.
 
 ## Review
