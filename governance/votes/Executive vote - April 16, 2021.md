@@ -16,7 +16,7 @@ If this executive proposal passes, the following **additions** will be made to t
 
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-* The Emergency Shutdown Threshold increased from 50,000 MKR to 75,000 MKR.
+* The Emergency Shutdown Threshold will increase from 50,000 MKR to 75,000 MKR.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
