@@ -4,7 +4,6 @@ summary: Signal your support or opposition for the monthly MIPs bundle for $date
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
-   - Governance
    - MIPs
 options:
    0: Abstain
@@ -13,7 +12,7 @@ options:
 ---
 # Monthly MIPs Governance Poll - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed the monthly MIPs Governance Poll into the voting system as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -42,7 +41,7 @@ The proposals can be reviewed in this week's MIPs update [here]($discussion_link
 
 ## Resources
 
-[MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
