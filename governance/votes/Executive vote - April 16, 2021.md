@@ -63,7 +63,7 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
 
-*Because this is the first vault type using liquidations 2.0, the Global Liquidation Limit will also be set:*
+*Because this is the first vault type using Liquidations 2.0, the Global Liquidation Limit will also be set:*
 
 **Global Parameters**  
 * [Global Liquidation Limit (`Hole`)](https://community-development.makerdao.com/en/learn/governance/param-global-liquidation-limit): 100 million DAI
