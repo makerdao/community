@@ -29,6 +29,7 @@ However, if this parameter is set higher than the gas cost to both create and li
 A further trade-off is that the funds for this parameter are removed from the surplus buffer, meaning that liquidations of very small vaults may cost governance more than it gains through the Liquidation Penalty.
 
 ## Changes
+
 Adjusting a Flat Kick Incentive parameter is a manual process that requires an executive vote. Changes to a Flat Kick Incentive are subject to the GSM Timelock.
 
 **Why increase this parameter?**
@@ -37,7 +38,7 @@ Governance may consider increasing the Flat Kick Incentive for a vault type if h
 
 **Why decrease this parameter?**
 
-Governance may consider decreasing the Flat Kick Incentive for a vault type if smaller vaults are being liquidated reliably. 
+Governance may consider decreasing the Flat Kick Incentive for a vault type if smaller vaults are being liquidated reliably.
 
 A decrease to this parameter should be **strongly** considered when in combination with the Proportional Kick Incentive and the Liquidation Penalty the farming of liquidation incentives is a viable option for attackers.
 
@@ -49,6 +50,6 @@ The combination of liquidations incentives should be set such that the following
 
 If both the Flat Kick Incentive and the Proportional Kick Incentive are non-zero. A keeper triggering a valid liquidation will receive both.
 
-Resetting a failed auction will also award the triggering keeper the Flat Kick Incentive. 
+Resetting a failed auction will also award the triggering keeper the Flat Kick Incentive.
 
 The funds for the Flat Kick Incentive are removed from the surplus buffer and may trigger MKR minting if there is no DAI available within the surplus buffer.

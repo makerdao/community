@@ -16,16 +16,15 @@ Each vault type has a separate Local Liquidation Limit. If auctions from ETH-A l
 
 ## Purpose
 
-Much like the Global Liquidation Limit, the Local Liquidation Limit parameter exists to prevent an excess of a particular collateral type from overwhelming Maker Keepers or the broader market. While the implementation of Liquidations 2.0 settles many concerns about Keeper Liquidity, the collateral purchased at auction still has to be sold in the broader market. 
+Much like the Global Liquidation Limit, the Local Liquidation Limit parameter exists to prevent an excess of a particular collateral type from overwhelming Maker Keepers or the broader market. While the implementation of Liquidations 2.0 settles many concerns about Keeper Liquidity, the collateral purchased at auction still has to be sold in the broader market.
 
-In the case of a collateral that has multiple vault types, the Local Liquidation Limit helps prevent riskier vault types from accelerating a market selloff that could trigger cascading liquidations in other vault types sharing the same collateral asset. 
+In the case of a collateral that has multiple vault types, the Local Liquidation Limit helps prevent riskier vault types from accelerating a market selloff that could trigger cascading liquidations in other vault types sharing the same collateral asset.
 
 ## Trade-offs
 
-While the Local Liquidation Limit provides an added measure of safety for individual vault types, setting an appropriate limit is quite difficult. If this parameter is set too high, a major collateral decline or exploit within a particular vault could quickly result in an unacceptable level of bad debt within the system. 
+While the Local Liquidation Limit provides an added measure of safety for individual vault types, setting an appropriate limit is quite difficult. If this parameter is set too high, a major collateral decline or exploit within a particular vault could quickly result in an unacceptable level of bad debt within the system.
 
 The main risk of setting the Global Liquidation Limit parameter too low is that a backlog of undercollateralized positions could build-up, leading to the accrual of bad debt that is above market rates by the time it goes to auction. This scenario becomes more dangerous to the protocol the longer it occurs (such as in a prolonged decline in multiple collateral assets.)
-
 
 ## Changes
 

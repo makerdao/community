@@ -1,12 +1,10 @@
-import React from "react";
-
-import { TranslationProvider } from "@modules/localization";
-
-import Layout from "@modules/layouts/site_layout";
-import { NavigationProvider } from "@modules/navigation";
-
 //Load our Primsjs css and Fonts
-import "@modules/layouts/global.css"; //<- Load in Prismjs css. Our custom styles have to be loaded this way cause Prismjs is blackboxed from our own code.
+import "@styles/global.css"; //<- Load in Prismjs css. Our custom styles have to be loaded this way cause Prismjs is blackboxed from our own code.
+
+import React from "react";
+import { Layout } from "@layouts";
+import { TranslationProvider } from "@modules/localization";
+import { NavigationProvider } from "@modules/navigation";
 
 export const wrapRootElement = ({ element }) => (
   <TranslationProvider>{element}</TranslationProvider>

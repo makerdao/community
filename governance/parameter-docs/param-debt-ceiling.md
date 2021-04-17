@@ -24,7 +24,7 @@ The primary purpose of the Debt Ceiling parameter is to allow Governance to cont
 
 ## Trade-offs
 
-Increasing the Debt Ceiling parameter for a vault type allows more DAI to be minted using that vault type. In most cases, this is positive as Maker Governance will almost always want more DAI to exist given that the price peg to $1 can be maintained.
+Increasing the Debt Ceiling parameter for a vault type allows more DAI to be minted using that vault type. In most cases, this is positive as Maker Governance will almost always want more DAI to exist given that the price peg to \$1 can be maintained.
 
 However, increasing the Debt Ceiling and allowing DAI to be collateralized heavily by a single asset increases the risk from a black swan event that is localized to that asset.
 
@@ -40,7 +40,7 @@ The Debt Ceiling Instant Access Module allows adjusting the Debt Ceiling of a gi
 
 **Why increase a Debt Ceiling Parameter?**
 
-The primary reason for increasing the Debt Ceiling for a vault type is to allow more DAI to be minted using that vault type. This is usually positive, because it means additional fees captured by the protocol, and increased DAI supply. 
+The primary reason for increasing the Debt Ceiling for a vault type is to allow more DAI to be minted using that vault type. This is usually positive, because it means additional fees captured by the protocol, and increased DAI supply.
 
 This reason is usually only valid if it is predicted that the current Debt Ceiling will be reached and will prevent further minting.
 
@@ -56,12 +56,6 @@ The Debt Ceiling might also be lowered as an attempt to affect monetary policy, 
 
 ## Considerations
 
-The Debt Ceiling for a vault type can be exceeded as stability fees accrue to vaults within that vault type. 
+The Debt Ceiling for a vault type can be exceeded as stability fees accrue to vaults within that vault type.
 
 If a Debt Ceiling parameter for a vault type is dropped below the current amount of DAI minted using that vault type, this does not have any negative effects beyond preventing further mints from vaults using that vault type.
-
-
-
-
-
-

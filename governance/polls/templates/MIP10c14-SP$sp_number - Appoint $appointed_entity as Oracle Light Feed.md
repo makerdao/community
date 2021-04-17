@@ -4,15 +4,16 @@ summary: Signal your support or opposition for appointing $appointed_entity as O
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
-   - Oracles
+  - Oracles
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance Poll will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+# Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - \$date_MONTH_DD,\_YYYY
+
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance Poll will be active for three days beginning on $date_DAY,\_MONTH_DD at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -20,15 +21,16 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appointing $appointed_entity as an [Oracle Light Feed](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md#feeds).
+The community can vote in this poll to express support or opposition to appointing \$appointed_entity as an [Oracle Light Feed](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md#feeds).
 
 Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This change will be included in a Friday Executive Vote within the next 30 days, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- This change will be included in a Friday Executive Vote within the next 30 days, absent external factors.
+- If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 

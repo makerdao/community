@@ -25,30 +25,25 @@ const UrlConverter = ({ fileAbsolutePath }) => {
 };
 
 const getBlogPostTypeFromPath = (path) => {
-  const pathArr = path.split('/');
-  
-  const nodeAfterBlog = pathArr[pathArr.indexOf('blog') +  1];
+  const pathArr = path.split("/");
 
-  if (nodeAfterBlog !== undefined) //Check if node after blog is not undefined. 
-  {
-    //Check if the node after blog is a mdx/markdown file.  
-    if (nodeAfterBlog.includes('.mdx') || nodeAfterBlog.includes('.md'))
-    {
-      return null; 
+  const nodeAfterBlog = pathArr[pathArr.indexOf("blog") + 1];
+
+  if (nodeAfterBlog !== undefined) {
+    //Check if node after blog is not undefined.
+    //Check if the node after blog is a mdx/markdown file.
+    if (nodeAfterBlog.includes(".mdx") || nodeAfterBlog.includes(".md")) {
+      return null;
     }
 
-    return nodeAfterBlog; 
+    return nodeAfterBlog;
+  } else {
+    return null;
   }
-  else 
-  {
-    return null; 
-  }
-}
+};
 
 module.exports = {
   TitleConverter,
   UrlConverter,
-  getBlogPostTypeFromPath
+  getBlogPostTypeFromPath,
 };
-
-

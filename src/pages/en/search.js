@@ -1,22 +1,19 @@
-import calculateTreeData from "@modules/navigation/calculateTreeData";
-import SearchInput from "@modules/search/SearchInput";
-import groupBy from "lodash/groupBy";
-import LUNR from "lunr";
-import queryString from "query-string";
 /** @jsx jsx */
-import React, { useEffect, useState } from "react";
-import { useTranslation } from "@modules/localization";
-import { Link, MobileNav } from "@modules/navigation";
-import { Button, Select } from "@modules/ui";
-import { useLocation, useNavigate } from "@reach/router";
-import { graphql, useStaticQuery } from "gatsby";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { min } from "lodash";
-import { Flex, jsx } from "theme-ui";
-import { console } from "window-or-global";
 
-import BlogResult from "../../modules/blog/BlogResult";
-import Search from "../../modules/search";
+import { Button, Link, Select } from "@atoms";
+import { Flex, jsx } from "theme-ui";
+import { Fragment, useEffect, useState } from "react";
+import { MobileNav, SearchInput } from "@molecules";
+import { graphql, useStaticQuery } from "gatsby";
+import { useLocation, useNavigate } from "@reach/router";
+
+import { BlogResult } from "@templates/Blog";
+import LUNR from "lunr";
+import { calculateTreeData } from "@modules/navigation";
+import groupBy from "lodash/groupBy";
+import queryString from "query-string";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+import { useTranslation } from "@modules/localization";
 
 const SearchResults = () => {
   const resultsPerPage = 5;
@@ -24,37 +21,12 @@ const SearchResults = () => {
   const query = queryString.parse(search).query || null;
 
   const [lunr, setLunr] = useState(null);
-  const [currentQuery, setQuery] = useState(query);
   const [results, setResults] = useState(null);
   const [contentCurrentPage, setContentCurrentPage] = useState(0);
   const [blogCurrentPage, setBlogCurrentPage] = useState(0);
   const navigate = useNavigate();
   const { locale, t, DEFAULT_LOCALE, allLocales } = useTranslation();
-  const { allMdx } = useStaticQuery(graphql`
-    query getMobileNavData {
-      # Regex for all files that are NOT config files
-      allMdx(
-        filter: {
-          fileAbsolutePath: {
-            regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
-          }
-        }
-      ) {
-        edges {
-          node {
-            headings(depth: h1) {
-              value
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              order
-            }
-          }
-        }
-      }
-    }
-  `);
+  const { allMdx } = useStaticQuery(GetMobileNavDataQuery);
 
   const { sidenavData } = calculateTreeData(
     allMdx.edges,
@@ -429,7 +401,7 @@ const SearchResults = () => {
           </Flex>
         </div>
       ) : (
-        <></>
+        <Fragment />
       )}
       <MobileNav sidenavData={sidenavData} />
     </div>
@@ -437,3 +409,29 @@ const SearchResults = () => {
 };
 
 export default SearchResults;
+
+const GetMobileNavDataQuery = graphql`
+  query getMobileNavData {
+    # Regex for all files that are NOT config files
+    allMdx(
+      filter: {
+        fileAbsolutePath: {
+          regex: "/content/([\\\\w]{2})/(?!header.mdx|index.mdx|sidenav.mdx|example.mdx|social.mdx|footer.mdx|404.mdx|.js|.json)/"
+        }
+      }
+    ) {
+      edges {
+        node {
+          headings(depth: h1) {
+            value
+          }
+          fileAbsolutePath
+          frontmatter {
+            title
+            order
+          }
+        }
+      }
+    }
+  }
+`;
