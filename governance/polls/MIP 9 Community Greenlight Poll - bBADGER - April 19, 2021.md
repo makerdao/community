@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - bBADGER (Badger) - April 19, 2021
-summary: Signal your support or opposition to prioritising onboarding bBADGER (Badger). 
+title: Community Greenlight Poll - bBADGER (Badger Sett Badger) - April 19, 2021
+summary: Signal your support or opposition to prioritising onboarding bBADGER (Badger Sett Badger). 
 discussion_link: https://forum.makerdao.com/t/bbadger-mip6-collateral-onboarding-application/7112
 vote_type: Plurality Voting
 categories:
@@ -11,7 +11,7 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---
-# Poll: Community Greenlight Poll - bBADGER (Badger) - April 19, 2021
+# Poll: Community Greenlight Poll - bBADGER (Badger Sett Badger) - April 19, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://github.com/makerdao/mips/blob/master/MIP9/mip9.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, April 19 at 16:00 UTC.
 
@@ -22,15 +22,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset bBADGER (Badger) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset bBADGER (Badger Sett Badger) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/bbadger-mip6-collateral-onboarding-application/7112) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for bBADGER (Badger) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for bBADGER (Badger) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for bBADGER (Badger Sett Badger) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for bBADGER (Badger Sett Badger) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
