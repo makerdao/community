@@ -1,4 +1,6 @@
 [ignore]
+./gatsby-config.js
+./gatsby-browser.js
 
 [include]
 

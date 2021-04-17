@@ -1,19 +1,19 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, Flex, jsx } from "theme-ui";
-import { Breadcrumbs, LanguageSelector, MobileNav, Sidenav } from "@molecules";
-import { Children, Fragment } from "react";
-import { UrlConverter, getLocaleFromPath } from "@utils";
-import { graphql, useStaticQuery } from "gatsby";
+import { Box, Flex, jsx } from 'theme-ui';
+import { Breadcrumbs, LanguageSelector, MobileNav, Sidenav } from '@molecules';
+import { Children, Fragment } from 'react';
+import { UrlConverter, getLocaleFromPath } from '@utils';
+import { graphql, useStaticQuery } from 'gatsby';
 
-import type { Node } from "react";
-import { SEO } from "@modules/utility";
-import { StatusBanner } from "@atoms";
-import Sticky from "react-sticky-el";
-import { calculateTreeData } from "@modules/navigation";
-import { useLocation } from "@reach/router";
-import { useTranslation } from "@modules/localization/";
+import type { Node } from 'react';
+import { SEO } from '@modules/utility';
+import { StatusBanner } from '@atoms';
+import Sticky from 'react-sticky-el';
+import { calculateTreeData } from '@modules/navigation';
+import { useLocation } from '@reach/router';
+import { useTranslation } from '@modules/localization/';
 
 type TDefaultLayoutProps = {
   children: Node,
@@ -53,9 +53,9 @@ export default function DefaultLayout({
     return <Fragment>{children}</Fragment>;
   }
 
-  const pagePAthSplitted = pagePath?.replace(/^\/|\/$/g, "").split("/") || [];
+  const pagePAthSplitted = pagePath?.replace(/^\/|\/$/g, '').split('/') || [];
   const pathDirs = pagePAthSplitted.slice(1);
-  const urlNoLocale = pathDirs.join("/");
+  const urlNoLocale = pathDirs.join('/');
 
   const { sidenavData, breadcrumbData } = calculateTreeData(
     allMdx.edges,
@@ -72,10 +72,10 @@ export default function DefaultLayout({
       //Drop the end slash, remove the locale, compare the string
       //TODO(Rejon): This works for now, but can probably be optimized with a Regex solution.
       const nodeURL = UrlConverter(node)
-        .replace(/^\/|\/$/g, "")
-        .split("/")
+        .replace(/^\/|\/$/g, '')
+        .split('/')
         .slice(1)
-        .join("/");
+        .join('/');
 
       return (
         nodeURL === urlNoLocale &&
@@ -85,7 +85,7 @@ export default function DefaultLayout({
     .map(({ node }) => ({
       value: UrlConverter(node),
       label: t(
-        "Language",
+        'Language',
         null,
         null,
         getLocaleFromPath(node.fileAbsolutePath)
@@ -93,12 +93,12 @@ export default function DefaultLayout({
     }));
 
   const statusProps =
-    typeof status === "object"
+    typeof status === 'object'
       ? { children: status.text, ...status }
       : { children: status };
 
   const { pathname } = useLocation();
-  const path = pathname.split("/");
+  const path = pathname.split('/');
   const currentTopSection = path[2];
 
   //For the sake of SEO we may want the page title to be based on the first h1 in our MDX file.
@@ -107,7 +107,7 @@ export default function DefaultLayout({
     //NOTE(Rejon): The children of layouts provided are MDX components!
     //Find the first mdx child that's an H1
     const firstHeading = Children.toArray(children).find(
-      (c) => c.props.mdxType === "h1"
+      (c) => c.props.mdxType === 'h1'
     );
 
     //If we have an h1 in our file return it.
@@ -120,12 +120,12 @@ export default function DefaultLayout({
 
   //SEO page title priority is: frontmatter title -> First H1 in mdx -> Filename fallback from uri
   //NOTE(Rejon): If the page is an index of a directory, the uri split will be the name of the directory. ie. /en/bounties -> bounties
-  const _pageTitle = title || getFirstHeading() || uri.split("/").pop();
+  const _pageTitle = title || getFirstHeading() || uri.split('/').pop();
 
   const hasTopSection =
-    currentTopSection !== undefined && currentTopSection !== "";
+    currentTopSection !== undefined && currentTopSection !== '';
 
-  const renderSidenav = hideSidenav && hasTopSection;
+  const renderSidenav = !hideSidenav && hasTopSection;
   const renderLanguageSelector = hasTopSection && !hideLanguageSelector;
   const renderBreadcrumbs =
     !hideBreadcrumbs || (hasTopSection && !hideLanguageSelector);
@@ -148,16 +148,16 @@ export default function DefaultLayout({
       {renderSidenav && (
         <Box
           sx={{
-            width: "256px",
-            display: ["none", "none", "initial"],
+            width: '256px',
+            display: ['none', 'none', 'initial'],
           }}
         >
           <Sticky
             boundaryElement=".content-boundary"
             dontUpdateHolderHeightWhenSticky={true}
-            style={{ position: "relative" }}
+            style={{ position: 'relative' }}
             hideOnBoundaryHit={false}
-            sx={{ display: ["none", "none", "initial"] }}
+            sx={{ display: ['none', 'none', 'initial'] }}
           >
             <Sidenav data={sidenavData} currentPath={pagePath} />
           </Sticky>
@@ -166,9 +166,9 @@ export default function DefaultLayout({
       <Box
         as="article"
         sx={{
-          width: ["100%", "100%", `calc(100% - ${contentWidthSubtract}px)`],
-          mt: hasTopSection ? [4, 4, "64px"] : 0,
-          pl: hasTopSection ? [4, 4, "64px"] : 0,
+          width: ['100%', '100%', `calc(100% - ${contentWidthSubtract}px)`],
+          mt: hasTopSection ? [4, 4, '64px'] : 0,
+          pl: hasTopSection ? [4, 4, '64px'] : 0,
           pr: hasTopSection ? [4, 4, 0] : 0,
           pb: 4,
         }}
@@ -177,23 +177,23 @@ export default function DefaultLayout({
 
         {status && (
           <Box sx={{ marginTop: hasTopSection ? 2 : 0 }}>
-            <StatusBanner sticky {...statusProps} sx={{ width: "100%" }} />
+            <StatusBanner sticky {...statusProps} sx={{ width: '100%' }} />
           </Box>
         )}
         {renderBreadcrumbs && (
           <Flex
             sx={{
-              justifyContent: "space-between",
-              position: "relative",
-              alignItems: "flex-start",
-              flexWrap: ["wrap", "wrap", "unset"],
+              justifyContent: 'space-between',
+              position: 'relative',
+              alignItems: 'flex-start',
+              flexWrap: ['wrap', 'wrap', 'unset'],
               px: !hasTopSection ? [3, 3, 0] : 0,
             }}
           >
             <Breadcrumbs data={breadcrumbData} pathDirs={pathDirs} />
           </Flex>
         )}
-        <Box sx={{ display: ["block", "block", "none"] }}>
+        <Box sx={{ display: ['block', 'block', 'none'] }}>
           {/* MOBILE LANGUAGE SELECTOR */}
           {renderLanguageSelector && (
             <LanguageSelector data={languageSelectorData} pagePath={pagePath} />
@@ -202,11 +202,11 @@ export default function DefaultLayout({
         <Box>{children}</Box>
       </Box>
 
-      <Box sx={{ position: "relative" }}>
+      <Box sx={{ position: 'relative' }}>
         {/* DESKTOP LANGUAGE SELECTOR */}
         {renderLanguageSelector && (
           <LanguageSelector
-            sx={{ display: ["none", "none", "block"] }}
+            sx={{ display: ['none', 'none', 'block'] }}
             data={languageSelectorData}
             pagePath={pagePath}
           />
