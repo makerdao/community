@@ -1,11 +1,11 @@
 // @flow
 
-import React, { createContext, useState } from "react";
-import { TitleConverter, UrlConverter } from "@utils";
-import { graphql, useStaticQuery } from "gatsby";
+import React, { createContext, useState } from 'react';
+import { TitleConverter, UrlConverter } from '@utils';
+import { graphql, useStaticQuery } from 'gatsby';
 
-import type { Node } from "react";
-import { useTranslation } from "@modules/localization/";
+import type { Node } from 'react';
+import { useTranslation } from '@modules/localization/';
 
 type TNavigationContext = {
   mobileNavOpen: boolean,
@@ -27,7 +27,10 @@ export default function NavigationProvider({
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const { locale, DEFAULT_LOCALE } = useTranslation();
 
-  const { headerFiles, socialLinks } = useStaticQuery(NavigationDataQuery);
+  const {
+    headerFiles,
+    socialLinks,
+  } = useStaticQuery<TGatsbyTypes_getNavigationDataQuery>(NavigationDataQuery);
 
   const headerEdges =
     DEFAULT_LOCALE !== locale
@@ -94,20 +97,20 @@ export default function NavigationProvider({
     });
 
   const showMobileMenu = (scrollBeforeMenuOpen) => {
-    if (typeof window !== "undefined" && document.body) {
+    if (typeof window !== 'undefined' && document.body) {
       //Solution from: https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/
       if (mobileNavOpen) {
         //We're hiding the menu. Remove the fixed styling, put scroll position back.
-        document.body.style.position = "";
-        document.body.style.top = "";
-        document.body.style.width = "";
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.width = '';
         window.scrollTo(0, scrollBeforeMenuOpen);
         setMobileNavOpen(false);
       } else {
         //We're showing the menu. Add fixed styling so the user doesn't scroll the window when in the menu.
         scrollBeforeMenuOpen = window.scrollY;
-        document.body.style.position = "fixed";
-        document.body.style.width = "100vw";
+        document.body.style.position = 'fixed';
+        document.body.style.width = '100vw';
         document.body.style.top = `-${scrollBeforeMenuOpen}px`;
         setMobileNavOpen(true);
       }
@@ -118,10 +121,10 @@ export default function NavigationProvider({
     setMobileNavOpen(false);
 
     if (mobileNavOpen && document.body) {
-      if (typeof window !== "undefined") {
-        document.body.style.position = "";
-        document.body.style.top = "";
-        document.body.style.width = "";
+      if (typeof window !== 'undefined') {
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.width = '';
         window.scrollTo(0, scrollBeforeMenuOpen);
       }
     }
