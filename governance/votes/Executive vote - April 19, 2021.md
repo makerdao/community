@@ -1,7 +1,7 @@
 ---
-title: Template - [Executive Vote] Liquidations 2.0 Contracts, Increase Emergency Shutdown Threshold  - April 16, 2021
+title: Template - [Executive Vote] Liquidations 2.0 Contracts, Increase Emergency Shutdown Threshold  - April 19, 2021
 ---
-# [Executive Proposal] Liquidations 2.0 Contracts, Increase Emergency Shutdown Threshold  - April 16, 2021
+# [Executive Proposal] Liquidations 2.0 Contracts, Increase Emergency Shutdown Threshold  - April 19, 2021
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
