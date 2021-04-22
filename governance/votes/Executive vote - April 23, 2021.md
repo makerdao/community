@@ -42,7 +42,7 @@ Further details and rationale can be found in the following [thread](https://for
 
 ### Add YFI-A to Liquidations 2.0 Framework
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmafteTW#poll-detail), YFI-A will be added to the Liquidations 2.0 Framework with the following parameters if this executive proposal passes:
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmafteTW#poll-detail), YFI-A will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes:
 
 **Auction Price**
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
@@ -62,7 +62,7 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 
 Further details and rationale can be found in the following [Risk Evaluation](https://forum.makerdao.com/t/yfi-a-liquidations-2-0-parameters/7502).
 
-### Parameter Changes 
+### Parameter Changes
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmRRzmnF?network=mainnet#poll-detail), the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Maximum Debt Ceiling, Target Available Debt and Ceiling Increase Cooldown](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be made if this executive proposal passes.
 
@@ -124,37 +124,37 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 
 **Debt Ceiling Instant Access Module Activations**
 
-Activate **UNIV2WBTCETH-A** DC-IAM with: 
+Activate **UNIV2WBTCETH-A** DC-IAM with:
 - Maximum Debt Ceiling of 20 MM
 - Target Available Debt of 3 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2UNIETH-A** DC-IAM with: 
+Activate **UNIV2UNIETH-A** DC-IAM with:
 - Maximum Debt Ceiling of 20 MM
 - Target Available Debt of 3 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2LINKETH-A** DC-IAM with: 
+Activate **UNIV2LINKETH-A** DC-IAM with:
 - Maximum Debt Ceiling of 20 MM
 - Target Available Debt of 2 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2AAVEETH-A** DC-IAM with: 
+Activate **UNIV2AAVEETH-A** DC-IAM with:
 - Maximum Debt Ceiling of 20 MM
 - Target Available Debt of 2 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2ETHUSDT-A** DC-IAM with: 
+Activate **UNIV2ETHUSDT-A** DC-IAM with:
 - Maximum Debt Ceiling of 10 MM
 - Target Available Debt of 2 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2DAIUSDT-A** DC-IAM with: 
+Activate **UNIV2DAIUSDT-A** DC-IAM with:
 - Maximum Debt Ceiling of 10 MM
 - Target Available Debt of 2 MM
 - Ceiling Increase Cooldown of 12 h
 
-Activate **UNIV2WBTCDAI-A** DC-IAM with: 
+Activate **UNIV2WBTCDAI-A** DC-IAM with:
 - Maximum Debt Ceiling of 20 MM
 - Target Available Debt of 3 MM
 - Ceiling Increase Cooldown of 12 h
