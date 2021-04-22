@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Approve March 2021 Governance Cycle Bundle - March 22, 2021
-
 ---
+
 # [Executive Proposal] Approve March 2021 Governance Cycle Bundle - March 22, 2021
 
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Proposal into the voting system. MKR Holders should vote for this proposal if they support the following MIPs and Subproposals.
@@ -14,25 +14,25 @@ _New to voting? Check out our pages on [How Voting Works](https://community-deve
 
 If this Executive proposal passes the following **MIP status changes** will occur:
 
-* The Core Unit MIP set will move to Accepted status.
-* Core Unit MIP set related amendments will move to Accepted status and have their Pull Requests merged.
-* RWF-001, Real World Finance Core Unit Proposals will move to Accepted status.
-    * Mandate will move to Accepted Status.
-    * Budget of 40k DAI per month for an unspecified number of months will move to Accepted Status.
-    * Facilitator Onboarding of Sébastien Derivaux will move to Accepted Status.
-* GOV-001, Governance Core Unit Proposals will move to Accepted status.
-    * Mandate will move to Accepted Status.
-    * Budget of 80k DAI per month for 3 months, April-June, will move to Accepted Status.
-    * Facilitator Onboarding of LongForWisdom will move to Accepted Status.
-* RISK-001, Risk Core Unit Proposals will move to Accepted status.
-    * Mandate will move to Accepted Status.
-    * Budget of 100,500 DAI per month for 3 months, April-June, will move to Accepted Status.
-    * Facilitator Onboarding of Primož Kordež will move to Accepted Status.
-* The Keg module MIP set will move to Accepted status.
-* MIP43: Term Lending Module will move to Accepted status.
-* MIP45: Liquidations 2.0 will move to Accepted status.
-* MIP46: Parameter Proposal Groups will move to Accepted status.
-* MIP47: MakerDAO Multisignature Wallet Management will move to Accepted status.
+- The Core Unit MIP set will move to Accepted status.
+- Core Unit MIP set related amendments will move to Accepted status and have their Pull Requests merged.
+- RWF-001, Real World Finance Core Unit Proposals will move to Accepted status.
+  - Mandate will move to Accepted Status.
+  - Budget of 40k DAI per month for an unspecified number of months will move to Accepted Status.
+  - Facilitator Onboarding of Sébastien Derivaux will move to Accepted Status.
+- GOV-001, Governance Core Unit Proposals will move to Accepted status.
+  - Mandate will move to Accepted Status.
+  - Budget of 80k DAI per month for 3 months, April-June, will move to Accepted Status.
+  - Facilitator Onboarding of LongForWisdom will move to Accepted Status.
+- RISK-001, Risk Core Unit Proposals will move to Accepted status.
+  - Mandate will move to Accepted Status.
+  - Budget of 100,500 DAI per month for 3 months, April-June, will move to Accepted Status.
+  - Facilitator Onboarding of Primož Kordež will move to Accepted Status.
+- The Keg module MIP set will move to Accepted status.
+- MIP43: Term Lending Module will move to Accepted status.
+- MIP45: Liquidations 2.0 will move to Accepted status.
+- MIP46: Parameter Proposal Groups will move to Accepted status.
+- MIP47: MakerDAO Multisignature Wallet Management will move to Accepted status.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 

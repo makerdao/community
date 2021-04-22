@@ -4,11 +4,11 @@ summary: This poll proposes Risk Parameters which, if passed, would be used to i
 discussion_link: https://forum.makerdao.com/t/4435
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add an ETH-B Vault Type - October 5, 2020
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for an **ETH-B Vault Type**.
@@ -33,7 +33,7 @@ The **ETH-B Vault Type** was voted on in a forum signal request. Please review t
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this debt ceiling change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 

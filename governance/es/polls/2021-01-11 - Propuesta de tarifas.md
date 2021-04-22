@@ -6,7 +6,7 @@ Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el si
 
 ## **Reseña**
 
-Los tenedores de tokens MKR  puede votar en esta encuesta para expresar su apoyo u oposición a los siguientes cambios en la [Tarifa de Estabilidad](https://community-development.makerdao.com/en/learn/governance/param-stability-fee):
+Los tenedores de tokens MKR puede votar en esta encuesta para expresar su apoyo u oposición a los siguientes cambios en la [Tarifa de Estabilidad](https://community-development.makerdao.com/en/learn/governance/param-stability-fee):
 
 - Incrementar la Tarifa de Estabilidad de ETH-A de 2.5% a 3.5%.
 - Incrementar la Tarifa de Estabilidad de ETH-B de 5% a 6.5%.
@@ -34,7 +34,7 @@ Inseguro acerca del parámetro de tasa de estabilidad que tendrías que tener en
 
 Si es tu primera vez votando en el Protocolo Maker, consulta la [guía de votación](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) para conocer cómo funciona la votación, y esta [guía de configuración de billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
-Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance)  del portal de la comunidad de MakerDAO.
+Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance) del portal de la comunidad de MakerDAO.
 
 Para participar en futuras llamadas sobre gobernanza, [únete a nuestra llamada](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) todos los jueves a las 17:00 UTC.
 

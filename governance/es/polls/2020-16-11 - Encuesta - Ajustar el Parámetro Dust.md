@@ -10,9 +10,9 @@ Por favor revisa el [hilo](https://forum.makerdao.com/t/signal-request-increasin
 
 ## Próximos Pasos
 
-Si esta encuesta termina con una mayoría de *Sí*, estos cambios en los parámetros se incluirán en el Voto Ejecutivo semanal del viernes que sigue a la conclusión de esta encuesta. Si el ejecutivo del viernes es aprobado, este cambio en los parámetros pasará a estar activo en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
+Si esta encuesta termina con una mayoría de _Sí_, estos cambios en los parámetros se incluirán en el Voto Ejecutivo semanal del viernes que sigue a la conclusión de esta encuesta. Si el ejecutivo del viernes es aprobado, este cambio en los parámetros pasará a estar activo en el Protocolo Maker una vez el lapso del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module) haya expirado.
 
-Si esta encuesta termina con una mayoría de *No*, no se tomarán acciones subsiguientes.
+Si esta encuesta termina con una mayoría de _No_, no se tomarán acciones subsiguientes.
 
 ---
 

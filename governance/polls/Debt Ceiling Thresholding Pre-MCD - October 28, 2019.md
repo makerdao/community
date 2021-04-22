@@ -4,10 +4,11 @@ summary: An on-chain executive vote will be created by the Interim Governance Fa
 discussion_link: https://forum.makerdao.com/t/signal-request-should-we-increase-the-scd-debt-ceiling/506
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should we keep at least a 10 million Dai buffer in the debt ceiling until the launch of MCD?
 
 An on-chain executive vote will be created by the Interim Governance Facilitator at any time the difference between the Dai Supply and the Debt Ceiling is less than 10 million, (even if only for one block.)

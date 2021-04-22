@@ -1,9 +1,9 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, jsx } from "theme-ui";
+import { Box, jsx } from 'theme-ui';
 
-import type { Node } from "react";
+import type { Node } from 'react';
 
 export type TRadialProps = {|
   size: number,
@@ -27,12 +27,12 @@ export default function Radial({
         height: `${size}px`,
         background: (theme) =>
           `radial-gradient(50% 50% at 50% 50%, ${theme.colors.transDash_makerOrange} 0%, ${theme.colors.transDash_radialOrangeBG} 100%)`,
-        position: "relative",
-        borderRadius: "100%",
-        alignItems: "center",
-        justifyContent: "center",
-        display: "inline-flex",
-        verticalAlign: "middle",
+        position: 'relative',
+        borderRadius: '100%',
+        alignItems: 'center',
+        justifyContent: 'center',
+        display: 'inline-flex',
+        verticalAlign: 'middle',
         mx: 3,
         mb: 3,
       }}
@@ -43,7 +43,7 @@ export default function Radial({
           height: `${(_value / max) * 100}%`,
           background: (theme) =>
             `radial-gradient(50% 50% at 50% 50%, ${theme.colors.primary} 0%, ${theme.colors.transDash_radialTealBG} 100%)`,
-          borderRadius: "100%",
+          borderRadius: '100%',
         }}
       ></Box>
     </Box>

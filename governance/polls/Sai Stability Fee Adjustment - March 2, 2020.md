@@ -4,19 +4,20 @@ summary: Signal your support to adjust the Sai Stability Fee within a range of 5
 discussion_link: https://forum.makerdao.com/t/1365
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 5.5
-   2: 7.5
-   3: 8.5
-   4: 9
-   5: 9.25
-   6: 9.5
-   7: 9.75
-   8: 10
-   9: 10.5
-   10: 11.5
-   11: 13.5
+  0: Abstain
+  1: 5.5
+  2: 7.5
+  3: 8.5
+  4: 9
+  5: 9.25
+  6: 9.5
+  7: 9.75
+  8: 10
+  9: 10.5
+  10: 11.5
+  11: 13.5
 ---
+
 # Poll: Sai Stability Fee Adjustment - March 2, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Sai Stability Fee** options. Voters are now able to signal their support for a **Sai Stability Fee** within a range of 5.5% to 13.5%.
@@ -29,7 +30,7 @@ The **Sai Stability Fee** was discussed in the Governance call on Thursday, Febr
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

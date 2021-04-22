@@ -4,22 +4,23 @@ summary: Signal your support to adjust the Base Rate within a range of $lower_bo
 discussion_link: $discussion_link
 vote_type: Ranked Choice IRV
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: $axis - 4
-   2: $axis - 2
-   3: $axis - 1
-   4: $axis - 0.5
-   5: $axis - 0.25
-   6: $axis
-   7: $axis + 0.25
-   8: $axis + 0.5
-   9: $axis + 1
-   10: $axis + 2
-   11: $axis + 4
+  0: Abstain
+  1: $axis - 4
+  2: $axis - 2
+  3: $axis - 1
+  4: $axis - 0.5
+  5: $axis - 0.25
+  6: $axis
+  7: $axis + 0.25
+  8: $axis + 0.5
+  9: $axis + 1
+  10: $axis + 2
+  11: $axis + 4
 ---
-# Poll: Base Rate Adjustment - $date_MONTH_DD,_YYYY
+
+# Poll: Base Rate Adjustment - \$date_MONTH_DD,\_YYYY
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of $lower_bound to $upper_bound.
 
@@ -27,7 +28,7 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 
 Details on how the **Base Rate** parameter was introduced, and its impact on the **Stability Fee** parameters for each collateral asset can be found in the following [threads](https://forum.makerdao.com/tag/base-rate) on the MakerDAO forum.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
 
 ## Review
 
@@ -35,7 +36,7 @@ The **Base Rate** is usually not discussed explicitly on a weekly basis as this 
 
 ## Next Steps
 
-If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
@@ -50,4 +51,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
-

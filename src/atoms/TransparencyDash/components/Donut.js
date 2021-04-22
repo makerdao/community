@@ -1,9 +1,9 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, jsx, useThemeUI } from "theme-ui";
+import { Box, jsx, useThemeUI } from 'theme-ui';
 
-import type { Node } from "react";
+import type { Node } from 'react';
 
 export type TDonutProps = {|
   size: number,
@@ -40,7 +40,7 @@ export default function Donut({
       role="img"
       {...props}
       __css={{
-        color: "primary",
+        color: 'primary',
       }}
     >
       <circle

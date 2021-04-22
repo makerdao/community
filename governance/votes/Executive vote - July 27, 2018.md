@@ -2,13 +2,14 @@
 title: Executive vote - July 27, 2018
 summary: Raise the Stability Fee by 2% to a total of 2.5% per year
 ---
+
 A month from now, the Maker Foundation will start the process of stabilizing the Dai target price using adjustments of the stability fee.
 
 With Single Collateral Dai, we will use a manual system of individual proposals, that are each voted in by the community, with the aim of emulating the behaviour of the long run solution planned for Multi Collateral Dai.
 
 # The long run balancing mechanism
 
-In Multi Collateral Dai, the balancing mechanism proposed by the Maker Foundation will utilize oracles and algorithms chosen by Maker governance to adjust the stability fee for balancing supply and demand around the $1 USD Target Price on a semi-automatic basis. This setup will be quite similar in aim to the logic of the Target Rate Feedback Mechanism while avoiding its downsides.
+In Multi Collateral Dai, the balancing mechanism proposed by the Maker Foundation will utilize oracles and algorithms chosen by Maker governance to adjust the stability fee for balancing supply and demand around the \$1 USD Target Price on a semi-automatic basis. This setup will be quite similar in aim to the logic of the Target Rate Feedback Mechanism while avoiding its downsides.
 
 The goal of the balancing algorithm will be very simple: when Dai is observed trading below $1 USD by the oracles, they will trigger a stability fee increase. This reduces the supply of Dai and helps push the price back up towards the $1 USD Target Price. On the other hand, if Dai is observed trading above $1 USD, then the stability fee decrease will be triggered, increasing supply of Dai and pushing the price back down towards $1 USD Target Price. The force of the stability fee change and the sensitivity of when changes are triggered will be decided by Maker governance.
 

@@ -4,12 +4,13 @@ summary: Signal your support or opposition for whitelisting Gnosis on multiple o
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp16-whitelist-gnosis-maker-adapter-contract-on-btc-usd-oracle/5685
 vote_type: Plurality Voting
 categories:
-   - Oracles
+  - Oracles
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist Gnosis on Multiple Oracles - January 11, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
@@ -21,21 +22,23 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 ## Review
 
 The community can vote in this poll to express support or opposition to appending [Gnosis](https://gnosis.io/) to the following oracle whitelists to read price data:
-* BTC/USD OSM ([MIP10c9-SP16](https://forum.makerdao.com/t/mip10c9-sp16-whitelist-gnosis-maker-adapter-contract-on-btc-usd-oracle/5685))
-* LINK/USD OSM ([MIP10c9-SP17](https://forum.makerdao.com/t/mip10c9-sp17-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-link-usd-oracle-access/5686))
-* ZRX/USD OSM ([MIP10c9-SP18](https://forum.makerdao.com/t/mip10c9-sp18-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-zrx-usd-oracle-access/5687))
-* YFI/USD OSM ([MIP10c9-SP19](https://forum.makerdao.com/t/mip10c9-sp19-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-yfi-usd-oracle-access/5688))
-* COMP/USD OSM ([MIP10c9-SP20](https://forum.makerdao.com/t/mip10c9-sp20-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-comp-usd-oracle-access/5689))
+
+- BTC/USD OSM ([MIP10c9-SP16](https://forum.makerdao.com/t/mip10c9-sp16-whitelist-gnosis-maker-adapter-contract-on-btc-usd-oracle/5685))
+- LINK/USD OSM ([MIP10c9-SP17](https://forum.makerdao.com/t/mip10c9-sp17-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-link-usd-oracle-access/5686))
+- ZRX/USD OSM ([MIP10c9-SP18](https://forum.makerdao.com/t/mip10c9-sp18-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-zrx-usd-oracle-access/5687))
+- YFI/USD OSM ([MIP10c9-SP19](https://forum.makerdao.com/t/mip10c9-sp19-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-yfi-usd-oracle-access/5688))
+- COMP/USD OSM ([MIP10c9-SP20](https://forum.makerdao.com/t/mip10c9-sp20-subproposal-to-whitelist-gnosis-maker-adapter-contract-for-comp-usd-oracle-access/5689))
 
 Please review the application threads to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
+- This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+- If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 

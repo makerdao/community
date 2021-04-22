@@ -4,12 +4,13 @@ summary: Signal your support or opposition to the Stability Fee changes listed i
 discussion_link: https://forum.makerdao.com/t/rates-changes-proposal-6-jan-2021/5948
 vote_type: Plurality Voting
 categories:
-   - Rates
+  - Rates
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Rates Proposal - January 11, 2021
 
 The Governance Facilitator(s) have placed a Governance Poll into the voting system on behalf of the Rates Working Group. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
@@ -18,21 +19,23 @@ The Governance Facilitator(s) have placed a Governance Poll into the voting syst
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) changes: 
-* Increase the ETH-A Stability Fee from 2.5% to 3.5%.
-* Increase the ETH-B Stability Fee from 5% to 6.5%.
-* Decrease the WBTC-A Stability Fee from 4.5% to 4%.
-* Decrease the YFI-A Stability Fee from 9% to 6%.
-* Decrease the MANA-A Stability Fee from 10% to 5%.
-* Decrease the AAVE-A Stability Fee from 6% to 4%.
+MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) changes:
+
+- Increase the ETH-A Stability Fee from 2.5% to 3.5%.
+- Increase the ETH-B Stability Fee from 5% to 6.5%.
+- Decrease the WBTC-A Stability Fee from 4.5% to 4%.
+- Decrease the YFI-A Stability Fee from 9% to 6%.
+- Decrease the MANA-A Stability Fee from 10% to 5%.
+- Decrease the AAVE-A Stability Fee from 6% to 4%.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/rates-changes-proposal-6-jan-2021/5948) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These Stability Fee changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- These Stability Fee changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

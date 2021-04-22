@@ -1,16 +1,17 @@
 ---
 title: Inclusion Poll for Keg Streaming Payments Module (MIP34 and MIP48) MIP Set - March 8, 2021
-summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
+summary: Signal your support or opposition for these proposals being included in this month's governance cycle.
 discussion_link: https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013
 vote_type: Plurality Voting
 categories:
-   - Technical
-   - MIPs
+  - Technical
+  - MIPs
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for Keg Streaming Payments Module (MIP34 and MIP48) MIP Set - March 8, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 8 at 16:00 UTC.
@@ -22,18 +23,20 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 The community can vote in this poll to express support or opposition to these proposals being included in this month's governance cycle.
 
 This MIP Set contains the following MIPs:
-* [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
-* [MIP48: Streaming Payments via the Keg](https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340)
 
-Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021. 
+- [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
+- [MIP48: Streaming Payments via the Keg](https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340)
+
+Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-131-thursday-march-4-17-00-utc/6737) on March 4, 2021.
 
 ## Outcomes
 
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitator(s) will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
-* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
+
+- The Governance Facilitator(s) will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021.
+- The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 

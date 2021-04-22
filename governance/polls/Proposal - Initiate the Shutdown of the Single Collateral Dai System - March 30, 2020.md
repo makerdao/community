@@ -4,11 +4,11 @@ summary: Due to volatility in market conditions and the state of the SCD Sai peg
 discussion_link: https://forum.makerdao.com/t/1673
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should we initiate the shutdown of the SCD system through an executive vote on April 24th, 2020?
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support to initiate the shutdown of the Single Collateral Dai system through an executive vote on April 24th, 2020.
@@ -21,7 +21,7 @@ The rationale for shutting down SCD was discussed in the Governance call on Wedn
 
 ## Next Steps
 
-* If this proposal passes, on the Friday April 24th, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- If this proposal passes, on the Friday April 24th, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

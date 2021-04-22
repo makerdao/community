@@ -4,10 +4,11 @@ summary: This poll proposes Risk Parameters which could be used to initialize KN
 discussion_link: https://forum.makerdao.com/t/2732
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add KNC as a Collateral Type - June 15, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add KNC as a collateral type.

@@ -1,13 +1,14 @@
 ---
 title: Inclusion Poll for Core Personnel Onboarding (Governance Facilitator) - May 11, 2020
-summary: The Inclusion Poll will run from May 11 to May 14 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from May 11 to May 14 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2351
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for Core Personnel Onboarding (Governance Facilitator) - May 11, 2020
 
 On May 11, the Maker Community will vote to determine whether the subproposal to add [@LongForWisdom](https://forum.makerdao.com/u/longforwisdom/summary) as a Governance Facilitator will proceed to next week's Governance Poll.

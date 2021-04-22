@@ -4,10 +4,11 @@ summary: Signal your support or opposition for increasing the ETH-A Risk Premium
 discussion_link: https://forum.makerdao.com/t/4042
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the ETH-A Risk Premium - September 21, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the ETH-A Risk Premium from 0% to 2%.

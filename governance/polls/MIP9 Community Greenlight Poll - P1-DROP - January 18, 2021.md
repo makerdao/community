@@ -1,16 +1,17 @@
 ---
 title: Community Greenlight Poll - P1-DROP (Peoples Company DROP) - January 18, 2021
-summary: Signal your support or opposition to prioritising onboarding P1-DROP (Peoples Company DROP). 
+summary: Signal your support or opposition to prioritising onboarding P1-DROP (Peoples Company DROP).
 discussion_link: https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518
 vote_type: Plurality Voting
 categories:
-   - Collateral
-   - Greenlight
+  - Collateral
+  - Greenlight
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - P1-DROP (Peoples Company DROP) - January 18, 2021
 
 ## Description
@@ -21,16 +22,17 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset P1-DROP (Peoples Company DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset P1-DROP (Peoples Company DROP) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for P1-DROP (Peoples Company DROP) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for P1-DROP (Peoples Company DROP) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
-* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+
+- The 'greenlight score' will be calculated for P1-DROP (Peoples Company DROP) using the formula `Score = 'Yes' Votes - 'No' Votes`
+- The 'greenlight score' for P1-DROP (Peoples Company DROP) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+- The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
 

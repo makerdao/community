@@ -1,21 +1,21 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, jsx, useThemeUI } from "theme-ui";
-import ReactSelect, { components } from "react-select";
+import { Box, jsx, useThemeUI } from 'theme-ui';
+import ReactSelect, { components } from 'react-select';
 import type {
   MenuListComponentProps as TMenuListProps,
   MenuProps as TMenuProps,
-} from "react-select/src/components/Menu";
+} from 'react-select/src/components/Menu';
 import type {
   IndicatorContainerProps as TReactIndicatorContainerProps,
   ValueContainerProps as TValueContainerProps,
-} from "react-select/src/components/containers";
+} from 'react-select/src/components/containers';
 
-import type { Node } from "react";
-import type { ControlProps as TControlProps } from "react-select/src/components/Control";
-import type { OptionProps as TOptionProps } from "react-select/src/components/Option";
-import type { Props as TReactSelectProps } from "react-select/src/Select";
+import type { Node } from 'react';
+import type { ControlProps as TControlProps } from 'react-select/src/components/Control';
+import type { OptionProps as TOptionProps } from 'react-select/src/components/Option';
+import type { Props as TReactSelectProps } from 'react-select/src/Select';
 
 export default function Select(props: TReactSelectProps): Node {
   const { theme } = useThemeUI();
@@ -56,10 +56,10 @@ function Menu(props: TMenuProps): Node {
       {...props}
       sx={{
         marginTop: 0,
-        borderRadius: "12px",
-        border: "1px solid",
-        borderColor: "muted",
-        overflow: "hidden",
+        borderRadius: '12px',
+        border: '1px solid',
+        borderColor: 'muted',
+        overflow: 'hidden',
       }}
     />
   );
@@ -67,7 +67,7 @@ function Menu(props: TMenuProps): Node {
 
 function MenuList(props: TMenuListProps): Node {
   return (
-    <components.MenuList {...props} sx={{ py: 0, borderRadius: "12px" }} />
+    <components.MenuList {...props} sx={{ py: 0, borderRadius: '12px' }} />
   );
 }
 
@@ -75,7 +75,7 @@ function Option(props: TOptionProps): Node {
   return (
     <components.Option
       {...props}
-      sx={{ px: "18px", cursor: "pointer", fontSize: ["18px", "18px", 3] }}
+      sx={{ px: '18px', cursor: 'pointer', fontSize: ['18px', '18px', 3] }}
     />
   );
 }
@@ -88,13 +88,13 @@ function IndicatorsContainer(props: TIndicatorContainerProps): Node {
   return (
     <Box
       sx={{
-        width: "auto",
+        width: 'auto',
         pr: 2,
-        "& > * >span": {
-          display: "none",
+        '& > * >span': {
+          display: 'none',
         },
-        "& svg, &:hover svg": {
-          color: props.isDisabled ? "muted" : "backgroundAlt",
+        '& svg, &:hover svg': {
+          color: props.isDisabled ? 'muted' : 'backgroundAlt',
         },
       }}
     >
@@ -108,8 +108,8 @@ function ValueContainer(props: TValueContainerProps): Node {
     <components.ValueContainer
       {...props}
       sx={{
-        fontFamily: "body",
-        color: "textMuted",
+        fontFamily: 'body',
+        color: 'textMuted',
         pl: 3,
       }}
     />
@@ -121,12 +121,12 @@ function Control(props: TControlProps): Node {
     <components.Control
       {...props}
       sx={{
-        border: "1px solid",
-        borderColor: "muted",
-        borderRadius: "12px",
-        fontSize: ["18px", "18px", 3],
+        border: '1px solid',
+        borderColor: 'muted',
+        borderRadius: '12px',
+        fontSize: ['18px', '18px', 3],
         pr: 0,
-        p: ["2px", "2px", 0],
+        p: ['2px', '2px', 0],
       }}
     />
   );

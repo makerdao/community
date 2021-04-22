@@ -1,14 +1,14 @@
 # Encuesta**: Incorporar a AAVE (Aave) como un Tipo de Colateral - 7 de diciembre, 2020**
 
-Los Facilitadores de Gobernanza de MakerDAO han introducido una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de los actores mandados de MakerDAO. Esta encuesta permite a la comunidad de gobernanza de MakerDAO señalizar su apoyo u oposición a incorporar a AAVE (Aave) como un tipo colateral en el Protocolo Maker. 
+Los Facilitadores de Gobernanza de MakerDAO han introducido una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de los actores mandados de MakerDAO. Esta encuesta permite a la comunidad de gobernanza de MakerDAO señalizar su apoyo u oposición a incorporar a AAVE (Aave) como un tipo colateral en el Protocolo Maker.
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-Los parámetros del sistema iniciales para AAVE (Aave) son los siguientes: 
+Los parámetros del sistema iniciales para AAVE (Aave) son los siguientes:
 
 - Tarifa de Estabilidad: 6%
 - Ratio de Liquidación: 175%
@@ -20,7 +20,7 @@ Los parámetros del sistema iniciales para AAVE (Aave) son los siguientes:
 - Penalización por Liquidación: 13%
 - Dust (mínimo): 500 Dai
 
-Por favor consulta los siguientes hilos del foto que contienen información acerca de Aave para informar tu posición antes de votar. 
+Por favor consulta los siguientes hilos del foto que contienen información acerca de Aave para informar tu posición antes de votar.
 
 - [Solicitud Inicial de Colateral](https://forum.makerdao.com/t/lend-mip6-collateral-onboarding-aave/2529)
 - [Evaluación de Riesgo](https://forum.makerdao.com/t/aave-collateral-onboarding-risk-evaluation/5362)

@@ -1,10 +1,10 @@
 // @flow
 
-import { MDXtoAuthor } from ".";
-import type { Node } from "react";
-import type { TContributorList } from "../types";
-import allContributors from "@content/all-contributors.json";
-import contributorsFilter from "./contributorsFilter";
+import { MDXtoAuthor } from '.';
+import type { Node } from 'react';
+import type { TContributorList } from '../types';
+import allContributors from '@content/all-contributors.json';
+import contributorsFilter from './contributorsFilter';
 
 export default function contributorsData(
   all: boolean,
@@ -27,12 +27,12 @@ export default function contributorsData(
     const specificAuthors: TContributorList = Array.isArray(author)
       ? author.map((a) =>
           allContributors.contributors.find(
-            (n) => n.login && n.login === a.replace(/@/g, "")
+            (n) => n.login && n.login === a.replace(/@/g, '')
           )
         )
       : [
           allContributors.contributors.find(
-            (n) => n.login && n.login === author.replace(/@/g, "")
+            (n) => n.login && n.login === author.replace(/@/g, '')
           ),
         ];
 

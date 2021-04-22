@@ -1,11 +1,11 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, Flex, Image, jsx } from "theme-ui";
+import { Box, Flex, Image, jsx } from 'theme-ui';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import type { Node } from "react";
-import { getAuthorData } from "../data";
+import { Icon } from '@makerdao/dai-ui-icons';
+import type { Node } from 'react';
+import { getAuthorData } from '../data';
 
 type TBlogContributorsProps = {
   contributors: Array<string>,
@@ -17,9 +17,9 @@ export default function BlogContributors({
   return (
     <Flex
       sx={{
-        flexDirection: ["column", "row", "row"],
-        justifyContent: "space-evenly",
-        margin: "auto",
+        flexDirection: ['column', 'row', 'row'],
+        justifyContent: 'space-evenly',
+        margin: 'auto',
       }}
     >
       {contributors.map((author, index) => {
@@ -29,8 +29,8 @@ export default function BlogContributors({
           <Flex
             key={`blog-contributor-${index}`}
             sx={{
-              flexDirection: "column",
-              alignItems: "center",
+              flexDirection: 'column',
+              alignItems: 'center',
               mt: 2,
             }}
           >
@@ -42,23 +42,23 @@ export default function BlogContributors({
                     width: 100,
                     height: 100,
                     borderRadius: 99999,
-                    mt: [2, "unset", "unset"],
+                    mt: [2, 'unset', 'unset'],
                   }}
                 />
               </Box>
             ) : (
               <Icon
                 name="person"
-                size={"100px"}
+                size={'100px'}
                 sx={{
-                  color: "primary",
-                  mt: [2, "unset", "unset"],
+                  color: 'primary',
+                  mt: [2, 'unset', 'unset'],
                 }}
               />
             )}
 
-            <Box sx={{ mt: "12px" }}>
-              <Box sx={{ mb: [2, "unset", "unset"] }}>{authorData.name}</Box>
+            <Box sx={{ mt: '12px' }}>
+              <Box sx={{ mb: [2, 'unset', 'unset'] }}>{authorData.name}</Box>
             </Box>
           </Flex>
         );

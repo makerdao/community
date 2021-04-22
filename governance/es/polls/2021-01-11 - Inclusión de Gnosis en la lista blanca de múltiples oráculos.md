@@ -2,7 +2,7 @@
 
 Los Facilitadores de Gobernanza han puesto una encuesta en el sistema de votación en nombre del Equipo de Dominio de Oráculo. Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) de Gobernanza estará activa durante tres días comenzando el lunes 11 de enero a las 16:00 UTC.
 
-Nota: Esta subpropuesta ha sido presentada bajo el ciclo semanal informal en vez de el Ciclo de Gobernanza del MIP3 debido a inconsistencias entre el MIP10 y el MIP3 y para evitar demora en el progreso en el dominio de los oráculos hasta que la MIP10 pueda ser enmendada. 
+Nota: Esta subpropuesta ha sido presentada bajo el ciclo semanal informal en vez de el Ciclo de Gobernanza del MIP3 debido a inconsistencias entre el MIP10 y el MIP3 y para evitar demora en el progreso en el dominio de los oráculos hasta que la MIP10 pueda ser enmendada.
 
 **Este es un voto binario. En un votación binaria, puedes votar por una sola opción. Deberías de votar por la opción de tu preferencia. Alternativamente, si aceptarías cualquiera de las dos opciones y no tienes preferencia entre ellas, deberías abstenerte.**
 

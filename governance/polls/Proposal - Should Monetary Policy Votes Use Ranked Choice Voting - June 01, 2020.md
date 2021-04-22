@@ -4,11 +4,11 @@ summary: Signal your support for the use of ranked choice voting in future monet
 discussion_link: https://forum.makerdao.com/t/2589
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should Monetary Policy Votes Use Ranked Choice Voting? - June 01, 2020
 
 ## Description

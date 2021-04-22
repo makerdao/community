@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs - February 5, 2021
-
 ---
+
 ## [Executive Vote] Onboarding Uniswap V2 LPTs - February 5, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
@@ -12,52 +12,54 @@ A new collateral type, UNI-V2-DAI-USDC, will be added to the Maker Protocol if t
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) as a collateral type in the Maker Protocol with the parameters below:
 
-* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 3%
-* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 110%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
-* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2000 DAI
+- [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 3%
+- [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 110%
+- [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
+- [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2000 DAI
 
-Liquidations for UNIV2DAIUSDC-A will be disabled as both the DAI and USDC Oracles will return a constant price of $1. For this reason, auction parameters have been omitted.
+Liquidations for UNIV2DAIUSDC-A will be disabled as both the DAI and USDC Oracles will return a constant price of \$1. For this reason, auction parameters have been omitted.
 
 Please review the following forum threads containing information about UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) to inform your position before voting.
-* [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-usdc-mip6-collateral-onboarding-application/5830)
-* [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-risk-evaluation/6258)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-erc20-token-smart-contract-technical-assessment/6232)
-* [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-oracle-assessment-mip10c3-sp22/6285)
+
+- [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-usdc-mip6-collateral-onboarding-application/5830)
+- [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-risk-evaluation/6258)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-erc20-token-smart-contract-technical-assessment/6232)
+- [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-oracle-assessment-mip10c3-sp22/6285)
 
 ### Onboard UNI-V2-ETH-USDT as a new Collateral Type
 
 A new collateral type, UNI-V2-ETH-USDT, will be added to the Maker Protocol if this proposal passes. UNI-V2-ETH-USDT will be added with the following parameters in the UNIV2ETHUSDT-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/Qma6wD3v?network=mainnet).
 
-* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4%
-* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 140%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2,000 DAI
+- [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4%
+- [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 140%
+- [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2,000 DAI
 
 Please review the following forum threads containing information about UNI-V2-ETH-USDT (UniswapV2 ETH-USDT LP Token) to inform your position before voting.
-* [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-eth-usdt-dai-collateral-onboarding-application/4280)
-* [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-collateral-onboarding-risk-evaluation/6259)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-erc20-token-smart-contract-technical-assessment/6231)
-* [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-collateral-onboarding-oracle-assessment-mip10c3-sp22/6284)
+
+- [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-eth-usdt-dai-collateral-onboarding-application/4280)
+- [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-collateral-onboarding-risk-evaluation/6259)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-erc20-token-smart-contract-technical-assessment/6231)
+- [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-eth-usdt-collateral-onboarding-oracle-assessment-mip10c3-sp22/6284)
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-* The UNIV2DAIUSDC-A vault type will be added using UNI-V2-DAI-USDC as collateral with the parameters listed above.
-* The UNIV2ETHUSDT-A vault type will be added using UNI-V2-ETH-USDT as collateral with the parameters listed above.
-* The Global System Debt Ceiling will increase by 6 million DAI.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- The UNIV2DAIUSDC-A vault type will be added using UNI-V2-DAI-USDC as collateral with the parameters listed above.
+- The UNIV2ETHUSDT-A vault type will be added using UNI-V2-ETH-USDT as collateral with the parameters listed above.
+- The Global System Debt Ceiling will increase by 6 million DAI.
 
-If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass. 
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 
 Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
 
 ## Review
 

@@ -4,10 +4,11 @@ summary: Signal your support for decreasing the TUSD Debt Ceiling from 2MM to ze
 discussion_link: https://forum.makerdao.com/t/3225
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the TUSD Debt Ceiling - July 27, 2020
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Foundation Smart Contracts Team. The community can use this poll to express support or opposition to decreasing the TUSD Debt Ceiling from 2MM to zero.

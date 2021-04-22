@@ -1,14 +1,14 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings - January 4, 2021
-
 ---
+
 ## [Executive Vote] Increase ETH-A, USDC-A, and PSM-USDC-A Debt Ceilings - January 4, 2021
 
 The Governance Facilitator(s) have placed an urgent, out-of-schedule Executive Vote into the voting system on behalf of the MakerDAO mandated actors and the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Increase ETH-A Debt Ceiling
 
-Due to the recently increased usage of the ETH-A vault-type in combination with the positive response on this [signal request](https://forum.makerdao.com/t/signal-request-adjust-eth-a-debt-ceiling-2021-01/5881) post, the ETH-A debt ceiling will be increased from 590M to 740M if this proposal passes. 
+Due to the recently increased usage of the ETH-A vault-type in combination with the positive response on this [signal request](https://forum.makerdao.com/t/signal-request-adjust-eth-a-debt-ceiling-2021-01/5881) post, the ETH-A debt ceiling will be increased from 590M to 740M if this proposal passes.
 
 Further details can be found in this [forum post](https://forum.makerdao.com/t/urgent-executive-eth-a-usdc-a-and-psm-usdc-a-dc-increase/5907).
 
@@ -25,12 +25,13 @@ Further details can be found in this [forum post](https://forum.makerdao.com/t/u
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-* The ETH-A Debt Ceiling will increase from 590M to 740M
-* The USDC-A Debt Ceiling will increase from 485M to 555M
-* The PSM-USDC-A Debt Ceiling will increase from 3M to 30M
-* The Global Debt Ceiling will increase by 247M
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- The ETH-A Debt Ceiling will increase from 590M to 740M
+- The USDC-A Debt Ceiling will increase from 485M to 555M
+- The PSM-USDC-A Debt Ceiling will increase from 3M to 30M
+- The Global Debt Ceiling will increase by 247M
+
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
 If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass.
 

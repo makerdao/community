@@ -4,10 +4,11 @@ summary: In the case where emergency technical changes to the Dai Credit System 
 discussion_link: https://forum.makerdao.com/t/965
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Should we suspend monetary policy votes when there are emergency technical changes to be made to the system?
 
 If passed, when emergency technical changes to the Dai Credit System are required they will supersede non-emergency monetary policy changes when the next executive bundle is created.

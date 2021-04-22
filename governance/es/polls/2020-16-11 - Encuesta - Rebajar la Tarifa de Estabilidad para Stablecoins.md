@@ -24,7 +24,7 @@ Los votos de Gobernanza continuarán teniendo lugar durante las próximas semana
 
 # **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en la sección de [Gobernanza](https://community-development.makerdao.com/en/learn/governance/) del portal de la comunidad de Maker.
 

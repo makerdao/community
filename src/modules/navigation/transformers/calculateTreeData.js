@@ -1,4 +1,4 @@
-import { titleCase } from "@utils";
+import { titleCase } from '@utils';
 
 //This is an algorithm that does a number of things:
 // - Takes mdx edge data and constructs usable sidenav objects.
@@ -12,8 +12,8 @@ import { titleCase } from "@utils";
 export default (
   edges = [],
   currentTopSection,
-  DEFAULT_LOCALE = "en",
-  currentLocale = "en",
+  DEFAULT_LOCALE = 'en',
+  currentLocale = 'en',
   path
 ) => {
   //Generates a an object with {title[String], slug[String]}
@@ -37,11 +37,11 @@ export default (
             fileAbsolutePath.indexOf(`/${_locale}/`),
             fileAbsolutePath.length
           )
-          .replace(/(.mdx|index.mdx|.md)$/gm, "")
-          .replace(/\/$/, "");
-        const rawSlug = slug.replace(/^\/([\w]{2})\//, "/");
+          .replace(/(.mdx|index.mdx|.md)$/gm, '')
+          .replace(/\/$/, '');
+        const rawSlug = slug.replace(/^\/([\w]{2})\//, '/');
 
-        const slugPart = slug.split("/").slice(-1)[0];
+        const slugPart = slug.split('/').slice(-1)[0];
         //Use frontmatter title, first heading, or file name from slug.
         const title =
           frontmatter.title ||
@@ -99,7 +99,7 @@ export default (
     ? [
         {
           part: currentTopSection,
-          title: titleCase(currentTopSection.replace(/-|_|\./g, " ")),
+          title: titleCase(currentTopSection.replace(/-|_|\./g, ' ')),
           url: `/${currentLocale}/${currentTopSection}`,
         },
       ]
@@ -108,7 +108,7 @@ export default (
   //Reduce all of our mergedLocaleFiles into a object structure that closely resembles our final sidenav.
   const sidenavData = mergedLocaleFiles.reduce(
     (accu, { title, slug, rawSlug, order }) => {
-      const parts = rawSlug.split("/");
+      const parts = rawSlug.split('/');
 
       let { items: prevItems } = accu;
 
@@ -125,7 +125,7 @@ export default (
         } else {
           tmp = {
             slugPart: part,
-            title: titleCase(part.replace(/-|_|\./g, " ")),
+            title: titleCase(part.replace(/-|_|\./g, ' ')),
             items: [],
           };
           prevItems.push(tmp);

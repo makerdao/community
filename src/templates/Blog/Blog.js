@@ -2,19 +2,19 @@
 
 /** @jsx jsx */
 
-import { BlogCard, BlogResult } from "./components";
-import { Button, Link, Select } from "@atoms";
-import { Flex, jsx } from "theme-ui";
-import { useEffect, useState } from "react";
+import { BlogCard, BlogResult } from './components';
+import { Button, Link, Select } from '@atoms';
+import { Flex, jsx } from 'theme-ui';
+import { useEffect, useState } from 'react';
 
-import { MobileNav } from "@molecules";
-import type { Node } from "react";
-import { getBlogPostTypeFromPath } from "@utils";
-import queryString from "query-string";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useLocation } from "@reach/router";
-import { useNavigate } from "@reach/router";
-import { useTranslation } from "@modules/localization";
+import { MobileNav } from '@molecules';
+import type { Node } from 'react';
+import { getBlogPostTypeFromPath } from '@utils';
+import queryString from 'query-string';
+import { trackCustomEvent } from 'gatsby-plugin-google-analytics';
+import { useLocation } from '@reach/router';
+import { useNavigate } from '@reach/router';
+import { useTranslation } from '@modules/localization';
 
 const postsPerPage = 4;
 
@@ -74,21 +74,21 @@ export default function Blog({ data }: TBlogProps): Node {
   });
 
   const availableLanguages = data.allSitePage.nodes.map(
-    ({ path }) => path.split("/")[1]
+    ({ path }) => path.split('/')[1]
   );
 
   const onSelectChange = ({ value, label }) => {
     //Update local storage on switch
-    if (typeof window !== "undefined") {
-      localStorage.setItem("locale", value.split("/")[1]);
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('locale', value.split('/')[1]);
     }
 
     //Google Analytics Tracking
     trackCustomEvent({
-      category: "Language Selector",
+      category: 'Language Selector',
       action: `Switch Blog Language to ${label}`,
       label: `From Page: (${locale}) |  To Page: ${value} (${
-        value.split("/")[1]
+        value.split('/')[1]
       })`,
     });
 
@@ -149,20 +149,20 @@ export default function Blog({ data }: TBlogProps): Node {
   return (
     <Flex
       sx={{
-        flexDirection: "column",
-        alignItems: "center",
-        mt: [0, 0, "128px"],
-        width: "100%",
-        px: ["22px", "22px", "12.3%"],
+        flexDirection: 'column',
+        alignItems: 'center',
+        mt: [0, 0, '128px'],
+        width: '100%',
+        px: ['22px', '22px', '12.3%'],
       }}
     >
       {availableLanguages.length > 1 && (
         <div
           sx={{
-            width: "100%",
+            width: '100%',
             mt: 4,
-            mb: "42px",
-            display: ["block", "block", "none"],
+            mb: '42px',
+            display: ['block', 'block', 'none'],
           }}
         >
           <Select
@@ -170,13 +170,13 @@ export default function Blog({ data }: TBlogProps): Node {
             options={availableLanguages.map((loc) => {
               return {
                 value: `/${loc}/blog`,
-                label: t("Language", null, null, loc),
+                label: t('Language', null, null, loc),
               };
             })}
-            aria-label={t("Blog_Language_Selector")}
+            aria-label={t('Blog_Language_Selector')}
             value={{
               value: `/${locale}`,
-              label: t("Language"),
+              label: t('Language'),
             }}
           />
         </div>
@@ -186,50 +186,50 @@ export default function Blog({ data }: TBlogProps): Node {
         sx={{
           mt: [4, 4, 0],
           fontWeight: 500,
-          fontSize: "48px",
-          mb: ["66px", "50px", "50px"],
-          textAlign: "center",
+          fontSize: '48px',
+          mb: ['66px', '50px', '50px'],
+          textAlign: 'center',
         }}
       >
-        {t("Maker_Community_Blog")}
+        {t('Maker_Community_Blog')}
       </h1>
 
       <Flex
         sx={{
-          mb: ["70px", "70px", "98px"],
-          "& > *:not(:last-child)": {
-            mr: "64px",
+          mb: ['70px', '70px', '98px'],
+          '& > *:not(:last-child)': {
+            mr: '64px',
           },
-          display: ["none", "flex", "flex"],
+          display: ['none', 'flex', 'flex'],
         }}
       >
         <Link
           sx={{
-            color: sectionData.type === null ? "link" : "mutedAlt",
-            cursor: "pointer",
-            transition: "all .16s",
+            color: sectionData.type === null ? 'link' : 'mutedAlt',
+            cursor: 'pointer',
+            transition: 'all .16s',
             fontWeight: 400,
-            "&:hover": {
-              color: "linkAlt",
+            '&:hover': {
+              color: 'linkAlt',
             },
           }}
           partiallyActive={false}
-          activeClassName={"null"}
-          to={"/blog"}
+          activeClassName={'null'}
+          to={'/blog'}
           onClick={() => setBlogCategory(null)}
         >
-          {t("Home")}
+          {t('Home')}
         </Link>
         {types.map((type, index) => (
           <Link
             sx={{
-              color: sectionData.type === type ? "link" : "mutedAlt",
-              cursor: "pointer",
-              transition: "all .16s",
+              color: sectionData.type === type ? 'link' : 'mutedAlt',
+              cursor: 'pointer',
+              transition: 'all .16s',
               fontWeight: 400,
-              textTransform: "capitalize",
-              "&:hover": {
-                color: "linkAlt",
+              textTransform: 'capitalize',
+              '&:hover': {
+                color: 'linkAlt',
               },
             }}
             to={`/blog?section=${type}`}
@@ -243,10 +243,10 @@ export default function Blog({ data }: TBlogProps): Node {
 
       <Flex
         sx={{
-          justifyContent: "space-evenly",
-          width: "100%",
-          mb: [0, "80px", "80px"],
-          flexDirection: ["column", "row", "row"],
+          justifyContent: 'space-evenly',
+          width: '100%',
+          mb: [0, '80px', '80px'],
+          flexDirection: ['column', 'row', 'row'],
         }}
       >
         {sectionData.latestPosts.map(({ node }: any, index) => (
@@ -256,15 +256,15 @@ export default function Blog({ data }: TBlogProps): Node {
 
       <Flex
         sx={{
-          width: "100%",
-          justifyContent: "space-around",
+          width: '100%',
+          justifyContent: 'space-around',
         }}
       >
         <Flex
           sx={{
-            flexDirection: "column",
+            flexDirection: 'column',
             flex: 1,
-            mb: "48px",
+            mb: '48px',
           }}
         >
           {sectionData.allPosts
@@ -275,20 +275,20 @@ export default function Blog({ data }: TBlogProps): Node {
         </Flex>
 
         <div
-          sx={{ pt: "24px", ml: "12.3%", display: ["none", "none", "initial"] }}
+          sx={{ pt: '24px', ml: '12.3%', display: ['none', 'none', 'initial'] }}
         >
-          <p sx={{ textTransform: "uppercase" }}>{t("LANGUAGES")}</p>
+          <p sx={{ textTransform: 'uppercase' }}>{t('LANGUAGES')}</p>
 
           <ul
             sx={{
-              listStyleType: "none",
+              listStyleType: 'none',
               p: 0,
             }}
           >
             {availableLanguages.map((loc, index) => (
               <li key={`available-blog-lang-${index}`}>
                 <Link to={`/${loc}/blog`}>
-                  {t("Language", null, null, loc)}
+                  {t('Language', null, null, loc)}
                 </Link>
               </li>
             ))}
@@ -296,7 +296,7 @@ export default function Blog({ data }: TBlogProps): Node {
         </div>
       </Flex>
       {showNextButton && (
-        <div sx={{ mb: ["50px", "50px", "114px"] }}>
+        <div sx={{ mb: ['50px', '50px', '114px'] }}>
           <Button
             outline
             icon="plus"
@@ -308,7 +308,7 @@ export default function Blog({ data }: TBlogProps): Node {
               });
             }}
           >
-            {t("See_More_Posts")}
+            {t('See_More_Posts')}
           </Button>
         </div>
       )}

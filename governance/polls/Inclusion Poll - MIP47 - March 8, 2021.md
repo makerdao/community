@@ -1,15 +1,16 @@
 ---
 title: Inclusion Poll for MakerDAO Multisignature Wallet Management (MIP47) - March 8, 2021
-summary: Signal your support or opposition for this proposal being included in this month's governance cycle. 
+summary: Signal your support or opposition for this proposal being included in this month's governance cycle.
 discussion_link: https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338
 vote_type: Plurality Voting
 categories:
-   - MIPs
+  - MIPs
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for MakerDAO Multisignature Wallet Management (MIP47) - March 8, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 8 at 16:00 UTC.
@@ -27,8 +28,9 @@ Please review the discussion [thread](https://forum.makerdao.com/t/mip47-makerda
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021. 
-* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
+
+- The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021.
+- The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 

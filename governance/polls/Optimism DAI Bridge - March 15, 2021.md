@@ -21,13 +21,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 Optimism is expected to launch later this month. Due to the expedited time frame, the community does not have time to run through a full signal request process. This poll is to gauge interest in deploying the Optimism DAI Bridge alongside the launch of Optimism. This will not include the Fast Withdrawals component which is planned for release later this year and will be put through a separate governance process.
 
-Initially the Optimism DAI Bridge will be owned by a multi-sig wallet on behalf of Maker Governance. The members and details of this multi-sig will be shared publicly when it is setup. 
+Initially the Optimism DAI Bridge will be owned by a multi-sig wallet on behalf of Maker Governance. The members and details of this multi-sig will be shared publicly when it is setup.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/announcing-the-optimism-dai-bridge-with-fast-withdrawals/6938) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
+
 - The Optimism DAI Bridge will be developed to be deployed alongside the launch of Optimism.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**

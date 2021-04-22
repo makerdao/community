@@ -2,6 +2,7 @@
 public
 .cache
 node_modules
+flow-typed
 static
 .github
 .vscode

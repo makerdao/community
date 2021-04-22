@@ -2,7 +2,7 @@
 
 Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad de la Gobernanza de Maker. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a añadir UNI-V2-USDC-ETH (UniswapV2 USDC-ETH LP Token) como tipo de colateral en el Protocolo Maker.
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 

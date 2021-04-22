@@ -1,9 +1,9 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, jsx, useThemeUI } from "theme-ui";
+import { Box, jsx, useThemeUI } from 'theme-ui';
 
-import type { Node } from "react";
+import type { Node } from 'react';
 
 export type TPieProps = {|
   size: number,
@@ -31,11 +31,11 @@ export default function Pie({
       width={size}
       viewBox="0 0 32 32"
       sx={{
-        borderRadius: "50%",
-        transform: "rotate(-90deg)",
+        borderRadius: '50%',
+        transform: 'rotate(-90deg)',
         border: `1px solid`,
-        borderColor: bear ? "bear" : "primary",
-        bg: "transDash_pieBG",
+        borderColor: bear ? 'bear' : 'primary',
+        bg: 'transDash_pieBG',
         mx: 3,
         mb: 3,
       }}

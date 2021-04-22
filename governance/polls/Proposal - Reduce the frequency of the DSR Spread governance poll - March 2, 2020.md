@@ -4,10 +4,11 @@ summary: In order to reduce the effort required for engaged voters, this proposa
 discussion_link: https://forum.makerdao.com/t/1207
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust DSR Spread Polling Cadence - March 2, 2020
 
 If passed, the frequency of the "Dai Savings Rate Spread Adjustment" governance poll will be reduced to one poll every two weeks. The relative start and end times for the poll will remain unchanged.

@@ -4,10 +4,11 @@ summary: Signal your support or opposition for the initial individuals serving a
 discussion_link: https://forum.makerdao.com/t/signal-request-approve-maker-representatives-as-an-oversight-role-for-real-world-assets-october-2020/4656
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Approve Maker Representatives - October 19, 2020
 
 The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support or opposition for the initial list of individuals serving as Maker Representatives based on the contents of MIP21 and MIP13c3-SP4.
@@ -29,19 +30,19 @@ The individuals proposed to be the initial Maker Representatives are:
 @mario  
 @ejbarraza  
 @SebVentures  
-@spin  
+@spin
 
 ## Next Steps
 
 If this proposal passes then:
 
-* The individuals above are empowered to serve as Maker Representatives as described in the signal request and linked proposals and will collaborate to implement MIP21 and MIP13c3-SP4.
-* 6s Capital will then engage with each person individually.
+- The individuals above are empowered to serve as Maker Representatives as described in the signal request and linked proposals and will collaborate to implement MIP21 and MIP13c3-SP4.
+- 6s Capital will then engage with each person individually.
 
 If this proposal fails to pass then:
 
-* The status quo will remain.
-* 6s Capital will work to produce an alternative proposal based on feedback.
+- The status quo will remain.
+- 6s Capital will work to produce an alternative proposal based on feedback.
 
 ---
 

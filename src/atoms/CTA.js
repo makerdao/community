@@ -1,9 +1,9 @@
 // @flow
 /** @jsx jsx */
 
-import { Card, jsx } from "theme-ui";
+import { Card, jsx } from 'theme-ui';
 
-import type { Node } from "react";
+import type { Node } from 'react';
 
 type TCTAProps = {
   children: Node,
@@ -14,12 +14,12 @@ export default function CTA({ children, ...rest }: TCTAProps): Node {
     <Card
       {...rest}
       sx={{
-        p: "24px",
-        width: "100%",
-        borderColor: "primary",
-        bg: "successAlt",
-        mb: "24px",
-        "& > *:only-child": { m: 0 },
+        p: '24px',
+        width: '100%',
+        borderColor: 'primary',
+        bg: 'successAlt',
+        mb: '24px',
+        '& > *:only-child': { m: 0 },
       }}
     >
       {children}

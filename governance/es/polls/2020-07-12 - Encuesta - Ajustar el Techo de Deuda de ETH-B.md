@@ -1,14 +1,14 @@
 # Encuesta**: Ajustar el Techo de Deuda de ETH-B - 7 de diciembre, 2020**
 
-Los Facilitadores de Gobernanza introducido una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad Maker. La comunidad puede votar para expresar su apoyo u oposición hacia ajustar el Techo de Deuda de ETH-B.  
+Los Facilitadores de Gobernanza introducido una Encuesta de Gobernanza en el sistema de votación en nombre de la Comunidad Maker. La comunidad puede votar para expresar su apoyo u oposición hacia ajustar el Techo de Deuda de ETH-B.
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-El ajuste propuesto al tipo de vault ETH-B es el siguiente: 
+El ajuste propuesto al tipo de vault ETH-B es el siguiente:
 
 - Aumentar el Techo de Deuda de ETH-B de 10 millones a 20 millones de DAI.
 

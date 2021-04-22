@@ -1,4 +1,4 @@
-import { Children } from "react";
+import { Children } from 'react';
 
 //Must an array like
 /* {
@@ -17,67 +17,67 @@ const converter = (mdxObj) => {
   const contributorData = {};
 
   //Check for image
-  if (mdxObj.props.mdxType === "img" || mdxObj.props.mdxType === "Image") {
-    contributorData["avatar_url"] = mdxObj.props.src;
+  if (mdxObj.props.mdxType === 'img' || mdxObj.props.mdxType === 'Image') {
+    contributorData['avatar_url'] = mdxObj.props.src;
     return contributorData;
-  } else if (typeof mdxObj.props.children === "object") {
+  } else if (typeof mdxObj.props.children === 'object') {
     const imgChild = mdxObj.props.children;
 
     if (
       imgChild &&
       !Array.isArray(imgChild) &&
-      (imgChild.props.mdxType === "img" || imgChild.props.mdxType === "Image")
+      (imgChild.props.mdxType === 'img' || imgChild.props.mdxType === 'Image')
     ) {
-      contributorData["avatar_url"] = imgChild.props.src;
+      contributorData['avatar_url'] = imgChild.props.src;
       return contributorData;
     }
   }
 
   //Check for Link
-  if (mdxObj.props.mdxType === "Link" || mdxObj.props.mdxType === "a") {
-    contributorData["profile"] = mdxObj.props.href || mdxObj.props.to;
+  if (mdxObj.props.mdxType === 'Link' || mdxObj.props.mdxType === 'a') {
+    contributorData['profile'] = mdxObj.props.href || mdxObj.props.to;
     return contributorData;
-  } else if (typeof mdxObj.props.children === "object") {
+  } else if (typeof mdxObj.props.children === 'object') {
     const linkChild = mdxObj.props.children;
 
     if (
       linkChild &&
       !Array.isArray(linkChild) &&
-      (linkChild.props.mdxType === "Link" || linkChild.props.mdxType === "a")
+      (linkChild.props.mdxType === 'Link' || linkChild.props.mdxType === 'a')
     ) {
-      contributorData["profile"] = linkChild.props.href || linkChild.props.to;
+      contributorData['profile'] = linkChild.props.href || linkChild.props.to;
       return contributorData;
     }
   }
 
   //Check for Name
-  if (mdxObj.props.mdxType === "h1") {
-    contributorData["name"] = mdxObj.props.children;
+  if (mdxObj.props.mdxType === 'h1') {
+    contributorData['name'] = mdxObj.props.children;
     return contributorData;
   }
 
   //Check for Description
-  if (mdxObj.props.mdxType === "h2") {
-    contributorData["description"] = mdxObj.props.children;
+  if (mdxObj.props.mdxType === 'h2') {
+    contributorData['description'] = mdxObj.props.children;
     return contributorData;
   }
 
   //Check for Login
-  if (mdxObj.props.mdxType === "h3") {
-    contributorData["login"] = mdxObj.props.children;
+  if (mdxObj.props.mdxType === 'h3') {
+    contributorData['login'] = mdxObj.props.children;
     return contributorData;
   }
 
   //Check for Contributions
-  if (mdxObj.props.mdxType === "ul" || mdxObj.props.mdxType === "ol") {
+  if (mdxObj.props.mdxType === 'ul' || mdxObj.props.mdxType === 'ol') {
     const contribList = Children.toArray(mdxObj.props.children);
 
     contribList.forEach((li) => {
-      if (!contributorData["contributions"]) {
-        contributorData["contributions"] = [];
+      if (!contributorData['contributions']) {
+        contributorData['contributions'] = [];
       }
 
-      contributorData["contributions"].push(li.props.children);
+      contributorData['contributions'].push(li.props.children);
     });
   }
 
@@ -93,7 +93,7 @@ const MDXtoAuthor = (children, isList) => {
   return children
     .filter(
       (child) =>
-        child.props.mdxType === "Box" && child.props.children.length > 0
+        child.props.mdxType === 'Box' && child.props.children.length > 0
     )
     .map((child) => {
       const outObj = {};

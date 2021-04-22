@@ -1,8 +1,8 @@
 # Encuesta de Inclusión para el Módulo de Acceso Instantáneo de Techo de Deuda (MIP27)- 9 de Noviembre, 2020
 
-Los Facilitadores de Gobernanza han colocado una encuesta de inclusión dentro del [sistema de votación](https://vote.makerdao.com/polling) que pregunta si la propuesta (Módulo de Acceso Instantáneo del Techo de Deuda) debería ser incluida en la Encuesta Mensual de Gobernanza. 
+Los Facilitadores de Gobernanza han colocado una encuesta de inclusión dentro del [sistema de votación](https://vote.makerdao.com/polling) que pregunta si la propuesta (Módulo de Acceso Instantáneo del Techo de Deuda) debería ser incluida en la Encuesta Mensual de Gobernanza.
 
-Si los **votos a favor** en esta encuesta de inclusión son superiores que la combinación de **votos en contra** más el **umbral de inclusión por defecto** una vez finalizada la encuesta, la propuesta deberá ser incluida en la Encuesta Mensual de Gobernanza. Nótese que el umbral de inclusión por defecto está fijado en **3000 MKR**. En resumen, si los **votos a favor** > (votos en contra + umbral de inclusión por defecto) = inclusión en la encuesta de Gobernanza mensual. 
+Si los **votos a favor** en esta encuesta de inclusión son superiores que la combinación de **votos en contra** más el **umbral de inclusión por defecto** una vez finalizada la encuesta, la propuesta deberá ser incluida en la Encuesta Mensual de Gobernanza. Nótese que el umbral de inclusión por defecto está fijado en **3000 MKR**. En resumen, si los **votos a favor** > (votos en contra + umbral de inclusión por defecto) = inclusión en la encuesta de Gobernanza mensual.
 
 Esta [encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) de Gobernanza estará activa durante tres días empezando el lunes 9 de noviembre a las 16:00 UTC.
 
@@ -12,23 +12,23 @@ Por favor [leete el hilo](https://forum.makerdao.com/t/mip24-emergency-voting-sy
 
 ## Próximos Pasos
 
-Si la encuesta de inclusión es aprobada, el/los Facilitadores de Gobernanza confirmarán la inclusión de esta propuesta dentro de la próxima Encuesta Mensual de Gobernanza durante la próxima llamada de Gobernanza y Riesgo el jueves 12 de noviembre. La encuesta mensual de Gobernanza ocurre durante la tercera semana del [ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).  
+Si la encuesta de inclusión es aprobada, el/los Facilitadores de Gobernanza confirmarán la inclusión de esta propuesta dentro de la próxima Encuesta Mensual de Gobernanza durante la próxima llamada de Gobernanza y Riesgo el jueves 12 de noviembre. La encuesta mensual de Gobernanza ocurre durante la tercera semana del [ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
 
-Si la encuesta no consigue pasar entonces esta propuesta no será incluida en el ciclo de gobernanza de este mes. 
+Si la encuesta no consigue pasar entonces esta propuesta no será incluida en el ciclo de gobernanza de este mes.
 
 ---
 
 ## **Recursos**
 
-[MIP3: Ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) (en español [aquí](https://forum.makerdao.com/t/mip3-en-espanol/4605))describe este tipo de encuesta y se adentra en más detalle acerca de su posición y significado dentro del resto del Ciclo de Gobernanza. 
+[MIP3: Ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) (en español [aquí](https://forum.makerdao.com/t/mip3-en-espanol/4605))describe este tipo de encuesta y se adentra en más detalle acerca de su posición y significado dentro del resto del Ciclo de Gobernanza.
 
-Si eres nuevo al proceso de votar dentro del protocolo Maker entonces por favor consulta la [guía de votación](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) para aprender como funciona la votación y esta [guía de configuración de billeteras](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar. 
+Si eres nuevo al proceso de votar dentro del protocolo Maker entonces por favor consulta la [guía de votación](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) para aprender como funciona la votación y esta [guía de configuración de billeteras](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
-Información adicional acerca del proceso de la Gobernanza puede ser encontrada en la [sección de la Gobernanza](https://community-development.makerdao.com/en/learn/governance) del portal de la comunidad de MakerDAO. 
+Información adicional acerca del proceso de la Gobernanza puede ser encontrada en la [sección de la Gobernanza](https://community-development.makerdao.com/en/learn/governance) del portal de la comunidad de MakerDAO.
 
-Para participar en futuras llamadas de Gobernanza por favor únete a nosotros cada jueves a las 16:00 UTC. 
+Para participar en futuras llamadas de Gobernanza por favor únete a nosotros cada jueves a las 16:00 UTC.
 
-Para agregar votos actuales y futuros a tu calendario por favor consulta el [calendario de eventos públicos de MakerDAO](https://calendar.google.com/calendar/u/0/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0&pli=1). 
+Para agregar votos actuales y futuros a tu calendario por favor consulta el [calendario de eventos públicos de MakerDAO](https://calendar.google.com/calendar/u/0/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0&pli=1).
 
 ---
 

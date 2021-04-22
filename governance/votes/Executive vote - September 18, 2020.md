@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
-
 ---
+
 ## [Executive Vote] Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -16,15 +16,15 @@ Stability Fees are calculated from the Base Rate and Risk Premiums using the for
 
 As per the non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmrcgtqhqpn2cxvsyh8ppozakz92sgx2kf5munmcwfx2cc) in combination with [this](https://forum.makerdao.com/t/signal-request-should-urgent-action-be-taken-to-modify-the-proposed-tusd-risk-parameters/4145) urgent signal request, the new TUSD implementation will be whitelisted on the Maker protocol if this proposal passes. TUSD will be re-enabled with the following parameters, which are a combination of the linked poll and the linked signal request.
 
-* Risk Premium: 4%
-* Liquidation Ratio: 101%
-* Debt Ceiling: 50 million
-* Auction Lot Size: 50,000
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 Dai
+- Risk Premium: 4%
+- Liquidation Ratio: 101%
+- Debt Ceiling: 50 million
+- Auction Lot Size: 50,000
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`.
 
@@ -47,22 +47,26 @@ As per [this](https://forum.makerdao.com/t/fix-gitcoin-feed-key-replacement-on-m
 Therefore, if this Executive proposal passes the following will occur:
 
 **TUSD Implementation Whitelisted**
+
 - The new TUSD Implementation will be whitelisted and enabled for use in the Maker Protocol.
 
 **Liquidation Ratios**
+
 - The USDC-A Liquidation Ratio will decrease from 103% to 101%
 - The PAXUSD-A Liquidation Ratio will decrease from 103% to 101%
 - The TUSD-A Liquidation Ratio will decrease from 120% to 101%
 
 **Debt Ceilings**
+
 - The USDC-A Debt Ceiling will increase from 200 million to 400 million
 - The TUSD-A Debt Ceiling will increase from 2 million to 50 million
 - The Global Line parameter will increase from 948 million to 1,196 million
 
 **Stability Fees**
+
 - The Base Rate meta-parameter will be increased from -2% to 0%
 - The TUSD-A Stability Fee will be increased from 0% to 4%
-- The USDT-A Stability Fee will  be increased from 6% to 8%
+- The USDT-A Stability Fee will be increased from 6% to 8%
 - The PAXUSD-A Stability Fee will be increased from 2% to 4%
 - The USDC-A Stability Fee will be increased from 2% to 4%
 - The USDC-B Stability Fee will be increased from 48% to 50%
@@ -73,8 +77,8 @@ Therefore, if this Executive proposal passes the following will occur:
 - The MANA-A Stability Fee will be increased from 10% to 12%
 
 **Oracles**
-- The Gitcoin feed key will be replaced on the MANAUSD Oracle
 
+- The Gitcoin feed key will be replaced on the MANAUSD Oracle
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 

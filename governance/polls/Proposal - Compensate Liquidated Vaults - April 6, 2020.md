@@ -4,11 +4,11 @@ summary: Signal whether to provide compensation to vault holders to any degree, 
 discussion_link: https://forum.makerdao.com/t/1822
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Vault Compensation Poll - April 06, 2020
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community which the community can use to signal whether to move ahead with a plan to provide compensation to vault holders.
@@ -27,21 +27,20 @@ However, the unusual circumstances left some vaults with less residual collatera
 
 ### Arguments for compensation
 
-* The protocol performed in a sub-optimal manner. Users (i.e. vault holders) were injured. It is in the interest of Maker holders to try to make their users happy. The purpose of the MKR token is to insure against precisely this kind of failure.
-* No compensation may represent a distortion of symmetry and reciprocity i.e. the impression that we’re marketing the product and receiving the reward for growth of the platform, but leaving ecosystem/development risk entirely to the user. This could negatively impact reputation and future mass adoption.
-* Avoid bad press and acrimonious gestures.
-
+- The protocol performed in a sub-optimal manner. Users (i.e. vault holders) were injured. It is in the interest of Maker holders to try to make their users happy. The purpose of the MKR token is to insure against precisely this kind of failure.
+- No compensation may represent a distortion of symmetry and reciprocity i.e. the impression that we’re marketing the product and receiving the reward for growth of the platform, but leaving ecosystem/development risk entirely to the user. This could negatively impact reputation and future mass adoption.
+- Avoid bad press and acrimonious gestures.
 
 ### Arguments against compensation
 
-* Vault users are expected to understand the Ethereum ecosystem and accept the liabilities associated with using that system. All contract code is open sourced and available to be audited. As such, by using the protocol, it is understood that the users are adequately informed and accept the risk of their actions.
-* The keeper bot code is open-source. Users could have run a keeper to liquidate their own Vault at a favorable rate.
-* By compensating Vault users now, the community sets a precedent where it will compensate vault users in the future. This could undermine the game theoretical mechanisms underpinning the protocol.
+- Vault users are expected to understand the Ethereum ecosystem and accept the liabilities associated with using that system. All contract code is open sourced and available to be audited. As such, by using the protocol, it is understood that the users are adequately informed and accept the risk of their actions.
+- The keeper bot code is open-source. Users could have run a keeper to liquidate their own Vault at a favorable rate.
+- By compensating Vault users now, the community sets a precedent where it will compensate vault users in the future. This could undermine the game theoretical mechanisms underpinning the protocol.
 
 ### Even more background discussion
 
-* [Signal Thread: Do we compensate vault holders that were completely liquidated?](https://forum.makerdao.com/t/1713/43)
-* [Compensating vault holders that liquidated at 0 bid?!](https://forum.makerdao.com/t/1541)
+- [Signal Thread: Do we compensate vault holders that were completely liquidated?](https://forum.makerdao.com/t/1713/43)
+- [Compensating vault holders that liquidated at 0 bid?!](https://forum.makerdao.com/t/1541)
 
 ## Next Steps
 

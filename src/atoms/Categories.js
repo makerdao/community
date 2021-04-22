@@ -1,10 +1,10 @@
 // @flow
 /** @jsx jsx */
 
-import { Flex, Grid, jsx } from "theme-ui";
+import { Flex, Grid, jsx } from 'theme-ui';
 
-import { Children } from "react";
-import type { Node } from "react";
+import { Children } from 'react';
+import type { Node } from 'react';
 
 type TCategoriesProps = {
   children: Node,
@@ -13,36 +13,36 @@ type TCategoriesProps = {
 
 export default function Categories({
   children,
-  minBoxSize = "321px",
+  minBoxSize = '321px',
 }: TCategoriesProps): Node {
   const _Children = Children.toArray(children);
 
   const childElementStyles = {
-    position: "relative",
-    alignItems: "center",
-    minHeight: "260px",
-    border: "1px solid",
-    borderColor: "muted",
-    bg: "background",
-    "& > * > div": { color: "textMuted", mb: "9px" },
-    padding: "19px 33px",
-    borderRadius: "4px",
-    "& > * > div:nth-of-type(2) > a, & > * > div:nth-of-type(3) > a": {
-      fontWeight: "500",
-      fontSize: "24px",
+    position: 'relative',
+    alignItems: 'center',
+    minHeight: '260px',
+    border: '1px solid',
+    borderColor: 'muted',
+    bg: 'background',
+    '& > * > div': { color: 'textMuted', mb: '9px' },
+    padding: '19px 33px',
+    borderRadius: '4px',
+    '& > * > div:nth-of-type(2) > a, & > * > div:nth-of-type(3) > a': {
+      fontWeight: '500',
+      fontSize: '24px',
     },
-    "& > * > .statusBanner:first-of-type": {
-      position: "absolute",
-      maxWidth: "65.29%",
-      color: "background",
-      right: "16px",
-      top: "16px",
-      width: "auto",
+    '& > * > .statusBanner:first-of-type': {
+      position: 'absolute',
+      maxWidth: '65.29%',
+      color: 'background',
+      right: '16px',
+      top: '16px',
+      width: 'auto',
     },
-    "& > * > *:only-child": { m: 0 },
-    "& > * > svg:first-of-type, & > * > svg:nth-of-type(2)": {
-      width: "64px",
-      height: "auto",
+    '& > * > *:only-child': { m: 0 },
+    '& > * > svg:first-of-type, & > * > svg:nth-of-type(2)': {
+      width: '64px',
+      height: 'auto',
     },
   };
 
@@ -70,12 +70,12 @@ export default function Categories({
     return (
       <Flex
         sx={{
-          alignItems: "center",
-          justifyContent: "center",
-          width: "107.58%",
-          ml: "calc(-7.58% / 2)",
-          flexDirection: "row",
-          flexWrap: "wrap",
+          alignItems: 'center',
+          justifyContent: 'center',
+          width: '107.58%',
+          ml: 'calc(-7.58% / 2)',
+          flexDirection: 'row',
+          flexWrap: 'wrap',
         }}
       >
         {_Children.map((child, index) => {
@@ -84,9 +84,9 @@ export default function Categories({
               key={`category-child-${index}`}
               sx={{
                 ...childElementStyles,
-                "&:not(:nth-of-type(3n))": { mr: "16px" },
-                mb: "21px",
-                maxWidth: "calc(33% - 8px)",
+                '&:not(:nth-of-type(3n))': { mr: '16px' },
+                mb: '21px',
+                maxWidth: 'calc(33% - 8px)',
                 minWidth: minBoxSize,
               }}
             >
@@ -103,10 +103,10 @@ export default function Categories({
       gap="21px 16px"
       columns={columnWidth()}
       sx={{
-        margin: "auto",
-        width: "107.58%",
-        ml: "calc(-7.58% / 2)",
-        mb: "68px",
+        margin: 'auto',
+        width: '107.58%',
+        ml: 'calc(-7.58% / 2)',
+        mb: '68px',
       }}
     >
       {_Children.map((child, index) => {

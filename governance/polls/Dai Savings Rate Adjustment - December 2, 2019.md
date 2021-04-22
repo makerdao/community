@@ -4,18 +4,19 @@ summary: Signal your support to adjust the Dai Stability Fee within a range of 0
 discussion_link: https://forum.makerdao.com/t/878
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 0
-   2: 1
-   3: 1.5
-   4: 1.75
-   5: 2
-   6: 2.25
-   7: 2.5
-   8: 3
-   9: 4
-   10: 6
+  0: Abstain
+  1: 0
+  2: 1
+  3: 1.5
+  4: 1.75
+  5: 2
+  6: 2.25
+  7: 2.5
+  8: 3
+  9: 4
+  10: 6
 ---
+
 # Poll: Dai Savings Rate Adjustment - December 2, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Savings Rate** options. Voters are now able to signal their support for a **Dai Savings Rate** within a range of 0% to 6%.
@@ -28,7 +29,7 @@ The **Dai Savings Rate** was discussed in the Governance call on Thursday, Novem
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 
