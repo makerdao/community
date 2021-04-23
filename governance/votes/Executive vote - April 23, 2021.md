@@ -14,7 +14,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The System Surplus Buffer will be increased from 30MM to 60MM and a 25% MKR burn will be enabled.
-- Various parameter changes will be made to Vaults.
+- Multiple changes to stability fees and debt ceilings will be made to various vault types as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - YFI-A will be added to the Liquidations 2.0 framework.
@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmRmXKoJ?network=mainnet#poll-detail), the following changes to the System Surplus Buffer will be made if this executive proposal passes:
 
-- Increase the Surplus Buffer from 30 million to 60 million.
+- The System Surplus Buffer will increase from 30 million to 60 million.
 - Target 25% of the stability fee revenues to be used in Surplus Auctions to burn MKR. This will be achieved by increasing the System Surplus Buffer over time using a linear interpolation smart contract (`lerp`), instead of directly setting it to the target value of 60 million DAI. The 25% is a target conditional on a future increase of fees over the next few months.
 
 Further details and rationale can be found in the following [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979).
@@ -66,8 +66,6 @@ Further details and rationale can be found in the following [Risk Evaluation](ht
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmRRzmnF?network=mainnet#poll-detail), the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Maximum Debt Ceiling, Target Available Debt and Ceiling Increase Cooldown](https://community-development.makerdao.com/en/learn/governance/module-dciam/) will be made if this executive proposal passes.
 
-### Parameter Changes by Type
-
 **Stability Fee Increases**
 
 | Vault Type     |   Old |    New | Change |
@@ -93,7 +91,7 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 | UNIV2AAVEETH-A | 5.00% | **4.00%** | -1.00% |
 | UNIV2DAIUSDT-A | 4.00% | **3.00%** | -1.00% |
 
-**Debt Ceiling Increases**
+**Maximum Debt Ceiling Increases**
 
 | Vault Type    | Old        | New        | Change     |
 |---------------|------------|------------|------------|
@@ -105,11 +103,16 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 | BAL-A         | 5,000,000  | **30,000,000** | 25,000,000 |
 | UNIV2DAIETH-A | 30,000,000 | **50,000,000** | 20,000,000 |
 
-**Debt Ceiling Decreases**
+**Maximum Debt Ceiling Decrease**
 
 | Vault Type |        Old |       New |     Change |
 |------------|------------|-----------|------------|
 | LRC-A      | 10,000,000 | **5,000,000** | -5,000,000 |
+
+**Debt Ceiling Decrease**
+
+| Vault Type |        Old |       New |     Change |
+|------------|------------|-----------|------------|
 | USDT-A     |  2,500,000 |         **0** | -2,500,000 |
 
 **Target Available Debt (`gap`) Changes**
