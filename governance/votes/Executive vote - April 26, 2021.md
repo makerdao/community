@@ -31,15 +31,15 @@ If this Executive proposal passes the following **MIP status changes** will occu
 	* Budget of 0 DAI with 50/50 profit sharing will move to Accepted Status.
 	* Facilitator Onboarding of Coulter Mulligan & Mike Porcaro will move to Accepted Status.
 	* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.
-* PE-001,Protocol Engineering Core Unit Proposals will move to Accepted status.
+* PE-001, Protocol Engineering Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 510,000 DAI per month for one year will move to Accepted Status.
 	* Facilitator Onboarding of Derek Flossman will move to Accepted Status.
 	* 510,000 DAI will be distributed to the Protocol Engineering Core Unit Multisig for funding Core Unit expenses.
 	* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when unable to pay team salaries from the protocol.
 	* Allocate 995 MKR supply to each Full Time Core Unit Member, to be vested over a 4 year period. Currently a sum of 9950 MKR.
-	* Allocate 497.5 MKR supply to each Part Time Core Unit Member, to be vested over a 4 year period. Currently a sum of 497.5 MKR.
-		* Total MKR allocation will not exceed the equivilent of 15 full time contributors and 1 part time contributor, or 15,422.5 MKR.
+	* Allocate 497.5 MKR supply to each Part-Time Core Unit Member, to be vested over a 4 year period. Currently a sum of 497.5 MKR.
+		* Total MKR allocation will not exceed the equivalent of 15 full-time contributors and 1 part-time contributor, or 15,422.5 MKR.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -60,7 +60,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 	* Allows MIP amendments to use the Weekly Governance Cycle for the first 3 months after a MIP has passed.
 	* Allows for multiple MIP amendments to happen in one proposal.
 * [MIP4c2-SP8: MIP 9 Amendments](https://forum.makerdao.com/t/mip4c2-sp8-mip-9-amendments/6793)
-	* Introduces a second Collatoral Greenlight poll date on the 1st Monday of each month.
+	* Introduces a second Collateral Greenlight poll date on the 1st Monday of each month.
 * [MIP4c2-SP13: MIP0 Amendments](https://forum.makerdao.com/t/mip4c2-sp13-mip0-amendments/6758)
 	* Adds a procedure for tagging MIP Sets and clarifies the responsibilities of relevant actors.
 
@@ -84,7 +84,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 	* [MIP40c3-SP6: MakerDAO Shop Budget, MDS-001](https://forum.makerdao.com/t/mip40c3-sp6-makerdao-shop-budget-mds-001/6829)
 	* [MIP41c4-SP6: MakerDAO Shop Facilitator Onboarding, MDS-001](https://forum.makerdao.com/t/mip41c4-sp6-makerdao-shop-facilitator-onboarding-mds-001/6828)
 	* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.
-* PE-001,Protocol Engineering Core Unit Proposals 
+* PE-001, Protocol Engineering Core Unit Proposals 
 	* [MIP39c2-SP7: Adding Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831)
 	* [MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp7-modify-protocol-engineering-core-unit-budget/6832)
 	* [MIP41c4-SP7: Facilitator Onboarding, Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip41c4-sp7-facilitator-onboarding-protocol-engineering-core-unit/6833)
