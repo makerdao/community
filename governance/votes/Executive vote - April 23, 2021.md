@@ -25,7 +25,7 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
-If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+The next executive proposal will be submitted on Monday, potentially resulting in this executive proposal being replaced if it has not passed by that time.
 
 ---
 
