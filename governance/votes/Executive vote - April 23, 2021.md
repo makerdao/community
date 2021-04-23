@@ -36,7 +36,7 @@ The next executive proposal will be submitted on Monday, potentially resulting i
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmRmXKoJ?network=mainnet#poll-detail), the following changes to the System Surplus Buffer will be made if this executive proposal passes:
 
 - The System Surplus Buffer will increase from 30 million to 60 million.
-- Target 25% of the stability fee revenues to be used in Surplus Auctions to burn MKR. This will be achieved by increasing the System Surplus Buffer over 105 days starting on May 1st using a linear interpolation smart contract (`lerp`), instead of directly setting it to the target value of 60 million DAI. The 25% is a target conditional on a future increase of fees over the next few months and shouldn't be viewed as a guarantee.
+- Target 25% of the stability fee revenues to be used in Surplus Auctions to burn MKR. This will be achieved by increasing the System Surplus Buffer over 99 days starting on April 30th using a linear interpolation smart contract (`lerp`), instead of directly setting it to the target value of 60 million DAI. The 25% target assumes constant fees and no additional revenue over the time period. It should not be viewed as a guarantee of a specific percentage of revenue burn.
 
 Further details and rationale can be found in the following [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-march-april-2021/6979).
 
