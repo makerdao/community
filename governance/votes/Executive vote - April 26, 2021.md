@@ -83,7 +83,6 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 	* [MIP39c2-SP6: MakerDAO Shop Core Unit, MDS-001](https://forum.makerdao.com/t/mip39c2-sp6-makerdao-shop-core-unit-mds-001/6827)
 	* [MIP40c3-SP6: MakerDAO Shop Budget, MDS-001](https://forum.makerdao.com/t/mip40c3-sp6-makerdao-shop-budget-mds-001/6829)
 	* [MIP41c4-SP6: MakerDAO Shop Facilitator Onboarding, MDS-001](https://forum.makerdao.com/t/mip41c4-sp6-makerdao-shop-facilitator-onboarding-mds-001/6828)
-	* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.
 * PE-001, Protocol Engineering Core Unit Proposals 
 	* [MIP39c2-SP7: Adding Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831)
 	* [MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp7-modify-protocol-engineering-core-unit-budget/6832)
