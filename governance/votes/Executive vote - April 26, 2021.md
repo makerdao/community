@@ -25,7 +25,7 @@ If this Executive proposal passes the following **MIP status changes** will occu
 * GRO-001, Growth Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 126,117 DAI per month for three months will move to Accepted Status.
-	* Facilitator Onboarding of @Nadia will move to Accepted Status.
+	* Facilitator Onboarding of Nadia Alvarez will move to Accepted Status.
 * MDS-001, MakerDAO Shop Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 0 DAI with 50/50 profit sharing will move to Accepted Status.
