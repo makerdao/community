@@ -14,23 +14,32 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this Executive proposal passes the following **MIP status changes** will occur:
 
+### MIP Amendments and Declaration of Intent
 * Approve MIP4c2-SP7: MIP4 Amendments
 * Approve MIP4c2-SP8: MIP 9 Amendments
 * Approve MIP4c2-SP13: MIP0 Amendments
-* MIP13c3-SP10: Declaration of Intent - eurDai to will move Accepted Status
+* MIP13c3-SP10: Declaration of Intent - eurDai will move to Accepted Status
+
+### Content Production Core Unit
 * MKT-001, Content Production Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 44,375 DAI per month for three months will move to Accepted Status.
 	* Facilitator Onboarding of Seth Goldfarb will move to Accepted Status.
+
+### Growth Core Unit
 * GRO-001, Growth Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 126,117 DAI per month for three months will move to Accepted Status.
 	* Facilitator Onboarding of Nadia Alvarez will move to Accepted Status.
+
+### MakerDAO Shop Core Unit
 * MDS-001, MakerDAO Shop Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 0 DAI with 50/50 profit sharing will move to Accepted Status.
 	* Facilitator Onboarding of Coulter Mulligan & Mike Porcaro will move to Accepted Status.
 	* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.
+
+### Protocol Engineering Core Unit
 * PE-001, Protocol Engineering Core Unit Proposals will move to Accepted status.
 	* Mandate will move to Accepted Status.
 	* Budget of 510,000 DAI per month for one year will move to Accepted Status.
