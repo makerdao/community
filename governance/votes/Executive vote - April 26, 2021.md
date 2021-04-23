@@ -92,8 +92,9 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 **Note: Upon passage of this vote the following distributions would also occur**
 
 	* 510,000 DAI to 0xe2c16c308b843eD02B09156388Cb240cEd58C01c, the Protocol Engineering Core Unit Multisig.
-	* 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol cannot provide pre-approved funding. This Multil-Sig requires 3 of 6 signatories and is administered by:
-		*Derek (Protocol Engineering): 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8
+	* 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol cannot provide pre-approved funding. 
+		* **This Multil-Sig requires 3 of 6 signatories and is administered by:**
+		* Derek (Protocol Engineering): 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8
 		* Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8
 		* LongForWisdom (GovAlpha) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69
 		* Primoz (Risk CU): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c
