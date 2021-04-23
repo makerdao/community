@@ -88,6 +88,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 	* [MIP39c2-SP7: Adding Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831)
 	* [MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp7-modify-protocol-engineering-core-unit-budget/6832)
 	* [MIP41c4-SP7: Facilitator Onboarding, Protocol Engineering Core Unit](https://forum.makerdao.com/t/mip41c4-sp7-facilitator-onboarding-protocol-engineering-core-unit/6833)
+
 **Note: Upon passage of this vote the following distributions would also occur**
 	* 510,000 DAI to 0xe2c16c308b843eD02B09156388Cb240cEd58C01c, the Protocol Engineering Core Unit Multisig.
 	* 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol cannot provide pre-approved funding. This Multil-Sig requires 3 of 6 signatories and is administered by:
