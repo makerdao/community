@@ -13,7 +13,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The System Surplus Buffer will be increased from 30MM to 60MM over a period of 105 days, targeting 25% of incoming revenue used to burn MKR
+- The System Surplus Buffer will be increased from 30MM to 60MM over a period of 105 days, targeting 25% of incoming revenue used to burn MKR.
 - Multiple changes to stability fees and debt ceilings will be made to various vault types as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
