@@ -32,11 +32,11 @@ The module was designed with two purposes in mind:
 
 The DC-IAM provides a number of benefits and only one known downside. The main benefits are the reduced governance overhead in setting debt ceilings and risk mitigation in the event of a large decrease in collateral price. These benefits are significant.
 
-The one minor downside is that the DC-IAM enables a griefing attack on the Debt Ceiling of collateral types that are using it. The outcome of this attack is to prevent DAI from being minted using a given collateral type. The severity and likelihood of this attack have been determined to be minimal and the mitigation strategy is straightforward (disable the DC-IAM for the attacked collateral type.)
+The one minor downside is that the DC-IAM enables a griefing attack on the Debt Ceiling of collateral types that are using it. The outcome of this attack is to prevent DAI from being minted using a given collateral type. The severity and likelihood of this attack have been determined to be minimal and the mitigation strategy is straightforward, i.e., disable the DC-IAM for the attacked collateral type.
 
 ## Key Parameters
 
-There are three key parameters to the DC-IAM. These will be discussed in turn. Each of these parameters can be set for each vault type.
+Three key parameters for the DC-IAM are discussed below. Each of these parameters can be set for each vault type.
 
 **Maximum Debt Ceiling (`line`)**
 
@@ -54,13 +54,13 @@ The smaller this value, the more vault usage is negatively affected. For example
 
 The Ceiling Increase Cooldown parameter controls how frequently the Debt Ceiling can be _increased_ by the DC-IAM. If a user attempts to use the DC-IAM to increase the Debt Ceiling of a vault type before this time expires, the transaction will fail to execute and the Debt Ceiling will remain unchanged.
 
-Debt Ceiling _decreases_, on the other hand, are always possible, regardless of the Ceiling Increase Cooldown.
+On the other hand, Debt Ceiling _decreases_ are always possible, regardless of the Ceiling Increase Cooldown.
 
 In combination, the Target Available Debt and the Ceiling Increase Cooldown enforce a maximum rate at which debt usage can increase over time using a given vault type. These parameters should be set such that the maximum increase over time can accommodate all reasonable usage of the vault type in question.
 
 ## User Interaction
 
-The DC-IAM smart contract contains a single relevant method to trigger a potential update of Debt Ceilings for a certain vault type. This method is called `exec`.
+The DC-IAM smart contract contains a single relevant method to trigger a potential update of the Debt Ceiling for a certain vault type. This method is called `exec`.
 
 When `exec` is called, the following logic is executed by the smart contract:
 
@@ -72,7 +72,7 @@ When `exec` is called, the following logic is executed by the smart contract:
    b) If no, do nothing.
 3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value.
 
-In practice, this means that calling the `exec` method will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation _decreases_ the Debt Ceiling. If this operation will _increase_ the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
+In practice, the `exec` method will always set the Debt Ceiling to equal the current debt usage + Target Available Debt. If this operation would _increase_ the Debt Ceiling, then it will only execute if the Ceiling Increase Cooldown has expired.
 
 ## Tutorial
 
