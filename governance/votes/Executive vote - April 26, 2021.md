@@ -36,7 +36,7 @@ If this Executive proposal passes the following **MIP status changes** will occu
 * Approve Protocol Engineering Core Unit (PE-001) Budget of 510,000 DAI per month for one year.
 	* Approve 995 MKR supply to each Full-Time Protocol Engineering Core Unit Member, to be vested over a 4 year period. Currently a sum of 9950 MKR.
 	* Approve 497.5 MKR supply to each Part-Time Protocol Engineering Core Unit Member, to be vested over a 4 year period. Currently a sum of 497.5 MKR.
-	* Total MKR allocation will not exceed the equivalent of 15 full-time contributors and 1 part-time contributor, or 15,422.5 MKR.
+	* Total MKR allocation will not exceed the equivalent of 15 full-time contributors and 1 part-time contributor, or 15,422.5 MKR over a 4 year period.
 	
 ### Budget Payouts
 
