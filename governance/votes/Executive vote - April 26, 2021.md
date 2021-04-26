@@ -41,11 +41,11 @@ If this Executive proposal passes the following **MIP status changes** will occu
 ### Budget Payouts
 
 * 510,000 DAI will be distributed to the Protocol Engineering Core Unit Multisig for funding Core Unit expenses.
-* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when unable to pay team salaries from the protocol.
+* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when the protocol cannot provide pre-approved funding.
 
 ### Domain Rights
 
-* MakerDAO Shop Core Unit will be granted the exclusive right to the **shop.makerdao.com** domain.	
+* MakerDAO Shop Core Unit will be granted the exclusive right to the **shop.makerdao.com** domain, until revoked by Governance.	
 	
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
