@@ -15,42 +15,38 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this Executive proposal passes the following **MIP status changes** will occur:
 
 ### MIP Amendments and Declaration of Intent
+
 * Approve MIP4c2-SP7: MIP4 Amendments
 * Approve MIP4c2-SP8: MIP 9 Amendments
 * Approve MIP4c2-SP13: MIP0 Amendments
 * MIP13c3-SP10: Declaration of Intent - eurDai will move to Accepted Status
 
-### Content Production Core Unit
+### Core Unit Onboarding
+
 * MKT-001, Content Production Core Unit Proposals will move to Accepted status.
-	* Mandate will move to Accepted Status.
-	* Budget of 44,375 DAI per month for three months will move to Accepted Status.
-	* Facilitator Onboarding of Seth Goldfarb will move to Accepted Status.
-
-### Growth Core Unit
 * GRO-001, Growth Core Unit Proposals will move to Accepted status.
-	* Mandate will move to Accepted Status.
-	* Budget of 126,117 DAI per month for three months will move to Accepted Status.
-	* Facilitator Onboarding of Nadia Alvarez will move to Accepted Status.
-
-### MakerDAO Shop Core Unit
 * MDS-001, MakerDAO Shop Core Unit Proposals will move to Accepted status.
-	* Mandate will move to Accepted Status.
-	* Budget of 0 DAI with 50/50 profit sharing will move to Accepted Status.
-	* Facilitator Onboarding of Coulter Mulligan & Mike Porcaro will move to Accepted Status.
-	* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.
-
-### Protocol Engineering Core Unit
 * PE-001, Protocol Engineering Core Unit Proposals will move to Accepted status.
-	* Mandate will move to Accepted Status.
-	* Budget of 510,000 DAI per month for one year will move to Accepted Status.
-	* Facilitator Onboarding of Derek Flossman will move to Accepted Status.
-	* 510,000 DAI will be distributed to the Protocol Engineering Core Unit Multisig for funding Core Unit expenses.
-	* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when unable to pay team salaries from the protocol.
-	* Allocate 995 MKR supply to each Full Time Core Unit Member, to be vested over a 4 year period. Currently a sum of 9950 MKR.
-	* Allocate 497.5 MKR supply to each Part-Time Core Unit Member, to be vested over a 4 year period. Currently a sum of 497.5 MKR.
-		* Total MKR allocation will not exceed the equivalent of 15 full-time contributors and 1 part-time contributor, or 15,422.5 MKR.
 
+### Budget Approvals
 
+* Approve Content Production Core Unit (MKT-001) Budget of 44,375 DAI per month for three months.
+* Approve Growth Core Unit (GRO-001) Budget of 126,117 DAI per month for three months.
+* Approve MakerDAO Shop (MDS-001) Budget of 0 DAI with 50/50 profit sharing with the protocol.
+* Approve Protocol Engineering Core Unit (PE-001) Budget of 510,000 DAI per month for one year.
+	* Approve 995 MKR supply to each Full Time Protocol Engineering Core Unit Member, to be vested over a 4 year period. Currently a sum of 9950 MKR.
+	* Approve 497.5 MKR supply to each Part-Time Protocol Engineering Core Unit Member, to be vested over a 4 year period. Currently a sum of 497.5 MKR.
+	* Total MKR allocation will not exceed the equivalent of 15 full-time contributors and 1 part-time contributor, or 15,422.5 MKR.
+	
+### Budget Payouts
+
+* 510,000 DAI will be distributed to the Protocol Engineering Core Unit Multisig for funding Core Unit expenses.
+* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when unable to pay team salaries from the protocol.
+
+### Domain Rights
+
+* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.	
+	
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
@@ -101,7 +97,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 
 * 510,000 DAI to 0xe2c16c308b843eD02B09156388Cb240cEd58C01c, the Protocol Engineering Core Unit Multisig.
 * 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol cannot provide pre-approved funding. 
-	* **This Multil-Sig requires 3 of 6 signatories and is administered by:**
+	* **This Multi-Sig requires 3 of 6 signatories and is administered by:**
 		* Derek (Protocol Engineering): 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8
 		* Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8
 		* LongForWisdom (GovAlpha) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69
