@@ -41,7 +41,7 @@ If this Executive proposal passes the following **MIP status changes** will occu
 ### Budget Payouts
 
 * 510,000 DAI will be distributed to the Protocol Engineering Core Unit Multisig for funding Core Unit expenses.
-* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when the protocol cannot provide pre-approved funding.
+* 1.3M DAI will be distributed to the Protocol Engineering Continuous Operation Multisig, only to be used when the protocol will not provide pre-approved funding.
 
 ### Domain Rights
 
@@ -96,7 +96,7 @@ If this Executive Proposal passes the following MIPs and Subproposals will move 
 **Note: Upon passage of this vote the following distributions will occur**
 
 * 510,000 DAI to 0xe2c16c308b843eD02B09156388Cb240cEd58C01c, the Protocol Engineering Core Unit Multisig.
-* 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol cannot provide pre-approved funding. 
+* 1.3M DAI to 0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E, the Protocol Engineering Continuous Operation Multisig, which is only to be used when the protocol will not provide pre-approved funding. 
 	* **This Multisig requires 3 of 6 signatories and is administered by:**
 		* Derek (Protocol Engineering): 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8
 		* Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8
