@@ -45,7 +45,7 @@ If this Executive proposal passes the following **MIP status changes** will occu
 
 ### Domain Rights
 
-* MakerDAO Shop Core Unit will be granted the exclusive right to the shop.makerdao.com domain.	
+* MakerDAO Shop Core Unit will be granted the exclusive right to the *shop.makerdao.com* domain.	
 	
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
