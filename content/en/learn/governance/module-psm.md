@@ -17,7 +17,7 @@ Scope: Each PSM interacts with a single underlying vault type.
 
 A Peg Stability Module allows users to swap a given collateral type directly for DAI at a fixed rate, rather than borrowing DAI. The PSM contract was designed with stablecoin collateral in mind, allowing users to swap other stablecoins for DAI at a fixed rate to aid with keeping DAI pegged to 1 dollar.
 
-A PSM operates similarly to a regular vault type with a zero stability fee and a liquidation ratio of 100% that can only be accessed through a user-facing smart contract containing the relevant swap functions. Unlike a regular vault, PSM's user doesn't retain ownership of the asset and borrow DAI, instead they swap the asset directly for DAI.
+A PSM operates similarly to a regular vault type with a zero stability fee and a liquidation ratio of 100% that can only be accessed through a user-facing smart contract containing the relevant swap functions. Unlike the case with regular vaults, users of PSM don't retain ownership of the asset and borrow DAI, instead they swap the asset directly for DAI.
 
 As an example, given the existence of a USDC-backed PSM, a user would be able to swap 100 USDC for 100 DAI (minus fees) using the USDC-backed PSM without taking on any debt or needing to manage a Maker vault.
 
@@ -39,7 +39,7 @@ On the other hand, a PSM offers several advantages:
 
 - Increased DAI stability due to the instant arbitrage opportunity when the DAI price diverges from the price of the collateral type underlying the PSM.
 - Fees are taken upfront on each swap to and from DAI. Because a PSM has no slippage, it's able to attract respectable trading volume.
-- There is no requirement to micromanage parameters (via governance actions) to ensure continued functioning, when compared to low liquidation ratio stablecoin vaults.
+- There is no requirement to micromanage parameters (via governance actions) to ensure continued functioning, in contrast to low liquidation ratio stablecoin vaults.
 
 ## Key Parameters
 

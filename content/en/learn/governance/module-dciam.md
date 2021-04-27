@@ -32,7 +32,7 @@ The module was designed with two purposes in mind:
 
 The DC-IAM provides a number of benefits and only one known downside. The main benefits are the reduced governance overhead in setting debt ceilings and risk mitigation in the event of a large decrease in collateral price. These benefits are significant.
 
-The one minor downside is that the DC-IAM enables a griefing attack on the Debt Ceiling of collateral types that are using it. The outcome of this attack is to prevent DAI from being minted using a given collateral type. The severity and likelihood of this attack have been determined to be minimal and the mitigation strategy is straightforward, i.e., disable the DC-IAM for the attacked collateral type.
+The one minor downside is that the DC-IAM enables a griefing attack on the Debt Ceiling of collateral types that are using it. The outcome of this attack is to prevent DAI from being minted using a given collateral type. The severity and likelihood of this attack have been determined to be minimal and the mitigation strategy is straightforward, namely disabling the DC-IAM for the attacked collateral type.
 
 ## Key Parameters
 
