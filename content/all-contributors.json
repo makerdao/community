@@ -141,7 +141,7 @@
     {
       "login": "Dennis Mitchell",
       "name": "Dennis Mitchell",
-      "avatar_url": "https://lh3.googleusercontent.com/PIfW7LQp5sGDRCu7YqsPC9oeiAA7nVFnlujt-P7yqKUFuKZjnJaB2YRgaxdWpMtUeEwdUg=s85",
+      "avatar_url": "https://pngimg.com/uploads/letter_d/letter_d_PNG13.png",
       "profile": "https://chat.makerdao.com/direct/6GJ5ToSuXpsXFmbcqd3avFPcEiYbDNpAmW",
       "contributions": [
         "content"
@@ -336,6 +336,15 @@
       "contributions": [
         "translation",
         "question"
+      ]
+    },
+    {
+      "login": "Sai Teja",
+      "name": "Sai Teja",
+      "avatar_url": "https://forum.makerdao.com/letter_avatar_proxy/v4/letter/s/e9c0ed/240.png",
+      "profile": "https://forum.makerdao.com/u/saiteja/summary",
+      "contributions": [
+        "content"
       ]
     }
   ],
