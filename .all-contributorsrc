@@ -337,6 +337,15 @@
         "translation",
         "question"
       ]
+    },
+    {
+      "login": "Sai Teja",
+      "name": "Sai Teja",
+      "avatar_url": "https://forum.makerdao.com/letter_avatar_proxy/v4/letter/s/e9c0ed/240.png",
+      "profile": "https://forum.makerdao.com/u/saiteja/summary",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 6,
