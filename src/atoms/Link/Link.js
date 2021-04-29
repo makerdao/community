@@ -55,13 +55,14 @@ export default function Link({
           if (onClick) {
             onClick();
           }
-          const eventProps =
-            ({
-              category: 'Internal Link',
-              action: 'Click',
-              label: linkHref,
-            },
-            gaProps);
+
+          const eventProps = {
+            category: 'Internal Link',
+            action: 'Click',
+            label: linkHref,
+            ...gaProps,
+          };
+
           trackCustomEvent(eventProps);
         }}
         {...(rest: any)}
