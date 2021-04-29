@@ -1,13 +1,14 @@
 ---
 title: Whitelist DDEX on BTCUSD Medianizer Oracle (MIP10c9-SP8) - September 21, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp8-whitelist-ddex-on-wbtcusd-oracle/4094
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist DDEX on BTCUSD Medianizer Oracle (MIP10c9-SP8)- September 21, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending DDEX to the BTCUSD Medianizer Oracle whitelist to read price data.

@@ -2,21 +2,21 @@
 
 ## **Descripción**
 
-Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante catorce días comenzando el día lunes 14 de diciembre a las 16:00 UTC. 
+Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante catorce días comenzando el día lunes 14 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-Esta encuesta pregunta si el activo WFIL (Wrapped Filecoin) debería ser priorizado para su inclusión en el Protocolo Maker por los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+Esta encuesta pregunta si el activo WFIL (Wrapped Filecoin) debería ser priorizado para su inclusión en el Protocolo Maker por los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
-Nótese que esta encuesta hace referencia al token de WFIL creado y operado por [wrapped.com](http://www.wrapped.com). Dada la confusión actual debido a múltiples proyectos compitiendo por el símbolo de token WFIL el nombre de este token puede verse modificado conforme el mercado para ambos tokens se desarrolla. 
+Nótese que esta encuesta hace referencia al token de WFIL creado y operado por [wrapped.com](http://www.wrapped.com). Dada la confusión actual debido a múltiples proyectos compitiendo por el símbolo de token WFIL el nombre de este token puede verse modificado conforme el mercado para ambos tokens se desarrolla.
 
-Por favor consulta el [hilo](https://forum.makerdao.com/t/wfil-mip6-collateral-onboarding-application/5205) de la solicitud de inclusión de colaterales para informar tu posición antes de votar. 
+Por favor consulta el [hilo](https://forum.makerdao.com/t/wfil-mip6-collateral-onboarding-application/5205) de la solicitud de inclusión de colaterales para informar tu posición antes de votar.
 
 ## Resultados
 
-**Independientemente de la opción ganadora, las siguientes acciones tendrán lugar una vez concluida la encuesta:** 
+**Independientemente de la opción ganadora, las siguientes acciones tendrán lugar una vez concluida la encuesta:**
 
 - La "puntuación de visto bueno" será calculada para WFIL (Wrapped Filecoin) haciendo uso de la fórmula: `Puntuación = votos "Sí" - votos "No"`.
 - La "puntuación de visto bueno" para WFIL (Wrapped Filecoin) será agregada a la [Hoja de Priorización de Colaterales](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) por el/los Facilitadores de Gobernanza.

@@ -4,14 +4,15 @@ summary: Signal your support to adjust the Dai Savings Rate Spread within a rang
 discussion_link: https://forum.makerdao.com/t/3145
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: 0
-   2: 0.25
-   3: 0.5
-   4: 1
-   5: 2
-   6: 4
+  0: Abstain
+  1: 0
+  2: 0.25
+  3: 0.5
+  4: 1
+  5: 2
+  6: 4
 ---
+
 # Poll: Dai Savings Rate Spread Adjustment - July 20, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **Dai Savings Rate Spread** options. Voters are now able to signal their support for a **Dai Savings Rate Spread** within a range of 0% to 4%.
@@ -26,7 +27,7 @@ The **Dai Savings Rate Spread** parameter is usually not discussed explicitly on
 
 ## Next Steps
 
-If the winning result of this poll differs from the current **Dai Savings Rate Spread** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If the winning result of this poll differs from the current **Dai Savings Rate Spread** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 

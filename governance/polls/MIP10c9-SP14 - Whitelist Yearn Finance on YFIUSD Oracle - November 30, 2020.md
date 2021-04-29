@@ -1,13 +1,14 @@
 ---
 title: Whitelist Yearn Finance on YFIUSD Oracle (MIP10c9-SP14) - November 30, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp14-subproposal-to-whitelist-yearn-finance-on-yfiusd-oracle/5228
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist Yearn Finance on YFIUSD Oracle (MIP10c9-SP14) - November 30, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending Yearn Finance to the YFIUSD Oracle Security Module whitelist to read current and queued price data.
@@ -25,10 +26,11 @@ Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp14
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote. Normally this Execute Vote would be scheduled on the Friday following the conclusion of this poll. However, due to the timing of the DsChief 1.2 migration, it is likely no Executive Vote will take place on December 4. Hence, if this poll is ratified by Maker Governance, the Executive Vote is expected to occur the following Friday on December 11.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
+- This change will be included in an upcoming Executive Vote. Normally this Execute Vote would be scheduled on the Friday following the conclusion of this poll. However, due to the timing of the DsChief 1.2 migration, it is likely no Executive Vote will take place on December 4. Hence, if this poll is ratified by Maker Governance, the Executive Vote is expected to occur the following Friday on December 11.
+- If the Executive Vote passes, then this change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 

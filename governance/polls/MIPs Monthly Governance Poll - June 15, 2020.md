@@ -1,13 +1,14 @@
 ---
 title: Monthly MIPs Governance Poll - June 15, 2020
-summary: The Governance Poll will run from June 15 to June 18 and will determine whether the proposals at hand will proceed to next week's Executive Vote. 
+summary: The Governance Poll will run from June 15 to June 18 and will determine whether the proposals at hand will proceed to next week's Executive Vote.
 discussion_link: https://forum.makerdao.com/t/2833
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Monthly MIPs Governance Poll
 
 On June 15, the Maker Community will vote to determine whether the following Maker Improvement Proposals, will proceed to next week's Executive Vote to be held on June 22:

@@ -10,21 +10,21 @@ Technical Docs:
 
 ## Description
 
-The Global Liquidation Limit sets the maximum amount of DAI debt for which collateral auctions can be active at any one time. When the total DAI value of auctions exceeds this maximum, no new auctions can begin until others are completed. 
+The Global Liquidation Limit sets the maximum amount of DAI debt for which collateral auctions can be active at any one time. When the total DAI value of auctions exceeds this maximum, no new auctions can begin until others are completed.
 
 The Global Liquidation Limit holds across all vault types. If auctions from ETH-A liquidations fill the Global Liquidation Limit, no further auctions can be triggered on the ETH-A vault or the WBTC-A vault.
 
 ## Purpose
 
-The purpose of the Global Liquidation Limit is to prevent the amount of collateral up for auction from exceeding what the market can handle and incurring unacceptable slippage. While the implementation of Liquidations 2.0 settles many concerns about Keeper liquidity, the collateral purchased at auction still has to be sold off in the broader market. 
+The purpose of the Global Liquidation Limit is to prevent the amount of collateral up for auction from exceeding what the market can handle and incurring unacceptable slippage. While the implementation of Liquidations 2.0 settles many concerns about Keeper liquidity, the collateral purchased at auction still has to be sold off in the broader market.
 
 The Global Liquidation Limit also performs an important role during a malicious attack on the protocol, preventing a large percentage of collateral from being moved into auctions at one time.
 
 ## Trade-offs
 
-While the Global Liquidation Limit provides some safety for the system, setting an appropriate limit may be difficult. If this parameter is set too high, the wider market may be overwhelmed and the collateral auctions may incurr more slippage than is desireable. 
+While the Global Liquidation Limit provides some safety for the system, setting an appropriate limit may be difficult. If this parameter is set too high, the wider market may be overwhelmed and the collateral auctions may incurr more slippage than is desireable.
 
-In addition to concerns noted above, having a Global Liquidation Limit that is too high during a time of major volatility could create such a demand for DAI that the peg breaks high, causing further issues with users attempting to avoid liquidation. 
+In addition to concerns noted above, having a Global Liquidation Limit that is too high during a time of major volatility could create such a demand for DAI that the peg breaks high, causing further issues with users attempting to avoid liquidation.
 
 The main risk of setting the Global Liquidation Limit parameter too low is that a backlog of undercollateralized positions could build-up, leading to the accrual of bad debt that is above market rates by the time it goes to auction. This scenario gets more dangerous to the protocol the longer it occurs (such as in a prolonged decline in multiple collateral assets.)
 

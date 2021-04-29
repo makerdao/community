@@ -4,12 +4,13 @@ summary: Signal your support or opposition to using the Debt Ceiling Instant Acc
 discussion_link: https://forum.makerdao.com/t/iam-dc-parameters-2-lrc-a-bat-a-bal-a-mana-a-zrx-a-knc-a-renbtc-a/6431
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Set Debt Ceiling Instant Access Module Parameters for Multiple Vault Types - February 15, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 15 at 16:00 UTC.
@@ -21,14 +22,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The proposed parameters for the Debt Ceiling Instant Access Module are summarized in this table:
 
 | Vault Type | Current line | Proposed line | gap       | ttl      |
-|------------|--------------|---------------|-----------|----------|
-| LRC-A      |    3,000,000 |    10,000,000 | 2,000,000 | 12 hours |
-| BAT-A      |    2,000,000 |     3,000,000 | 1,000,000 | 12 hours |
-| BAL-A      |    4,000,000 |     5,000,000 | 1,000,000 | 12 hours |
-| MANA-A     |    1,000,000 |     2,000,000 |   500,000 | 12 hours |
-| ZRX-A      |    5,000,000 |     5,000,000 | 1,000,000 | 12 hours |
-| KNC-A      |    5,000,000 |     5,000,000 | 1,000,000 | 12 hours |
-| RENBTC-A   |    2,000,000 |     2,000,000 |   500,000 | 12 hours |
+| ---------- | ------------ | ------------- | --------- | -------- |
+| LRC-A      | 3,000,000    | 10,000,000    | 2,000,000 | 12 hours |
+| BAT-A      | 2,000,000    | 3,000,000     | 1,000,000 | 12 hours |
+| BAL-A      | 4,000,000    | 5,000,000     | 1,000,000 | 12 hours |
+| MANA-A     | 1,000,000    | 2,000,000     | 500,000   | 12 hours |
+| ZRX-A      | 5,000,000    | 5,000,000     | 1,000,000 | 12 hours |
+| KNC-A      | 5,000,000    | 5,000,000     | 1,000,000 | 12 hours |
+| RENBTC-A   | 2,000,000    | 2,000,000     | 500,000   | 12 hours |
 
 Please review the discussion [thread](https://forum.makerdao.com/t/iam-dc-parameters-2-lrc-a-bat-a-bal-a-mana-a-zrx-a-knc-a-renbtc-a/6431) to help inform your position before voting.
 
@@ -37,8 +38,9 @@ For more information regarding the Debt Ceiling Instant Access Module and how th
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

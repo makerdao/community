@@ -1,6 +1,6 @@
 # Encuesta de Inclusión para Excepciones de Calendario **(MIP4c2-SP6), 9 de noviembre del 202 November 9, 2020**
 
-Los Facilitadores de Gobernanza han colocado una encuesta de inclusión en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si la propuesta (Excepciones de Calendario) debe incluirse en la Encuesta de Gobernanza Mensual. 
+Los Facilitadores de Gobernanza han colocado una encuesta de inclusión en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si la propuesta (Excepciones de Calendario) debe incluirse en la Encuesta de Gobernanza Mensual.
 
 Si los votos por **Sí** en esta encuesta de inclusión son más que la combinación de votos por **No** más el **Umbral de Inclusión por Defecto** cuando la encuesta llegue a su fin, esta propuesta deberá incluirse en la Encuesta de Gobernanza Mensual. Nótese que el Umbral de Inclusión por Defecto está establecido en **3000 MKR**. En resumen, si los votos por **Sí** > (votos por **No** + **Umbral de Inclusión por Defecto**) = inclusión en la Encuesta de Gobernanza.
 
@@ -22,7 +22,7 @@ Si esta encuesta no es aprobada, esta propuesta no será incluida en el ciclo de
 
 [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) (en español: [https://forum.makerdao.com/t/mip3-en-espanol/4605](https://forum.makerdao.com/t/mip3-en-espanol/4605)) describe este tipo de encuesta y detalla más profundamente su posición y su significado dentro del resto del Ciclo de Gobernanza.
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

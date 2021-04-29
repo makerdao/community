@@ -4,10 +4,11 @@ summary: Signal your support or opposition to increase the PAXUSD-A Debt Ceiling
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-paxusd-a-debt-ceiling/4263
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the PAXUSD-A Debt Ceiling - September 28, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for a **PAXUSD-A Debt Ceiling** increase from its current value to 100 million Dai.
@@ -22,7 +23,7 @@ The **PAXUSD-A Debt Ceiling** was voted on in a forum signal request. Please rev
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this debt ceiling change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 

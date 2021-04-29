@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
-
 ---
+
 ## [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -10,15 +10,15 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 As per the non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmxm6bdgjqdwzzdueqcq6crplhrvdjlrnpcfk87y76rdtj) USDT will be added to the Maker Protocol as a collateral type if this proposal passes. USDT will be added with the following parameters, which match those in the linked poll.
 
-* Risk Premium: 8%
-* Liquidation Ratio: 150%
-* Debt Ceiling: 10 million
-* Auction Lot Size: 50,000
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 Dai
+- Risk Premium: 8%
+- Liquidation Ratio: 150%
+- Debt Ceiling: 10 million
+- Auction Lot Size: 50,000
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. This means that the initial stability fee for USDT will be 6%.
 
@@ -30,15 +30,15 @@ The oracle evaluation for USDT can be found [here](https://forum.makerdao.com/t/
 
 As per the non-standard weekly [poll](https://vote.makerdao.com/polling-proposal/qmd2y6dyv9zxve85u3jaxvogtzd4ihvqtmt5c7du6vcghk) PAX will be added to the Maker Protocol as a collateral type if this proposal passes. PAX will be added with the following parameters, which match those in the linked poll.
 
-* Risk Premium: 4%
-* Liquidation Ratio: 120%
-* Debt Ceiling: 5 million
-* Auction Lot Size: 50,000
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 Dai
+- Risk Premium: 4%
+- Liquidation Ratio: 120%
+- Debt Ceiling: 5 million
+- Auction Lot Size: 50,000
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
 Stability Fees are calculated from the Base Rate and Risk Premiums using the formula `Stability Fee = max(Base Rate + Risk Premium, 0%)`. This means that the initial stability fee for PAX will be 2%.
 
@@ -73,6 +73,7 @@ MyCrypto's light feed proposal can be found [here](https://forum.makerdao.com/t/
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - USDT will be onboarded with the parameters listed above.
 - PAX will be onboarded with the parameters listed above.
 - The WBTC-A Debt Ceiling will be increased from 80 million to 120 million.

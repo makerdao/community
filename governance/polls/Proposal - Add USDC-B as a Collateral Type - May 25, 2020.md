@@ -4,11 +4,11 @@ summary: This poll proposes Risk Parameters which could be used to initialize US
 discussion_link: https://forum.makerdao.com/t/2582
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
-
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add USDC-B as a Collateral Type - May 25, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) through which the community can signal their support to add USDC-B as a collateral type.

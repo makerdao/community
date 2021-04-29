@@ -4,15 +4,17 @@ summary: Signal your support or opposition to taking a more flexible and transpa
 discussion_link: https://forum.makerdao.com/t/signal-request-should-we-take-a-more-flexible-and-transparent-approach-to-onboarding-collateral/4380
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Poll: Take a more Flexible and Transparent Approach to Collateral Onboarding  - October 5, 2020
+
+# Poll: Take a more Flexible and Transparent Approach to Collateral Onboarding - October 5, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the rest of the MakerDAO mandated actors. The community can use this poll to express support or opposition to taking a more flexible and transparent approach to collateral onboarding along the lines presented in this [signal thread](https://forum.makerdao.com/t/signal-request-should-we-take-a-more-flexible-and-transparent-approach-to-onboarding-collateral/4380).
 
 The changes to the collateral onboarding process can be summarized as such:
+
 - Suspend the usage of MIPs 8, 11 and 12 effective immediately. Suspend the parts of MIP 10 directly related to collateral onboarding.
 - Explicitly allow collateral onboarding to be a flexible process that can adjust to the demands of reality.
 - Publish and maintain a single public document (initially a spreadsheet) with all greenlit (and possibly other) collateral types listed and prioritised according to the varying risks and benefits of each.
@@ -43,4 +45,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

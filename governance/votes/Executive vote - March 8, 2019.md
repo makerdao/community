@@ -2,9 +2,10 @@
 title: Executive vote - March 8, 2019
 summary: Raise the Stability Fee by 2% to a total of 3.5% per year
 ---
+
 The Maker Foundation Interim Risk Team will place an Executive Vote proposal into the [voting system](https://vote.makerdao.com/) to enact a new Dai Stability Fee of 3.5%.
 
-The [Executive Vote](https://makerdao.com/en/faq/voting#why-do-i-have-to-have-mkr-to-vote)  will be begin on Friday, March 8th at 4pm UTC and will continue until the number of votes surpass the previous Executive Vote total. This will be a [continuous approval](https://blog.makerdao.com/makerdao-governance-risk-framework-part-3/) vote.
+The [Executive Vote](https://makerdao.com/en/faq/voting#why-do-i-have-to-have-mkr-to-vote) will be begin on Friday, March 8th at 4pm UTC and will continue until the number of votes surpass the previous Executive Vote total. This will be a [continuous approval](https://blog.makerdao.com/makerdao-governance-risk-framework-part-3/) vote.
 
 # Review
 
@@ -12,9 +13,9 @@ The increase to the Stability Fee was discussed in the [Governance call](https:/
 
 Key factors under consideration for increasing the Stability Fee are:
 
-* Exchange price persists below $1
-* High inventory levels among market makers and prop desks
-* No attributable impact from the previous Stability Fee increases
+- Exchange price persists below \$1
+- High inventory levels among market makers and prop desks
+- No attributable impact from the previous Stability Fee increases
 
 # Analysis
 
@@ -36,9 +37,9 @@ In February, the Stability Fee was increased twice, each time by 0.5%. The impac
 
 # Next Steps
 
-* If an increase to 3.5% is insufficient as measured over the following 7 days, another proposal will be put forth for a subsequent 2% increase.
+- If an increase to 3.5% is insufficient as measured over the following 7 days, another proposal will be put forth for a subsequent 2% increase.
 
-# Resources 
+# Resources
 
 Additional information about the Governance process can be found in the [Governance Risk Framework: Governing MakerDAO](https://blog.makerdao.com/makerdao-governance-risk-framework-part-3/).
 
@@ -46,4 +47,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 17:00 UTC.
 
-To add current and upcoming votes to your calendar please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).  
+To add current and upcoming votes to your calendar please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

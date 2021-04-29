@@ -1,18 +1,19 @@
 ---
 title: Community Greenlight Poll - renZEC (renZEC) - September 21, 2020
-summary: Signal your support or opposition to prioritising onboarding renZEC (renZEC). 
+summary: Signal your support or opposition to prioritising onboarding renZEC (renZEC).
 discussion_link: https://forum.makerdao.com/t/3581
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - renZEC (renZEC) - September 21, 2020
 
 ## Description
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset renZEC (renZEC) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the asset renZEC (renZEC) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/master/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding renZEC (renZEC) as a collateral asset to the Maker Protocol.
 

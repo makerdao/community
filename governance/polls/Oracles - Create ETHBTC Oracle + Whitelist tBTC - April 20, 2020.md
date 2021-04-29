@@ -4,10 +4,11 @@ summary: If this mandate is accepted by the community, it will signal support fo
 discussion_link: https://forum.makerdao.com/t/2010
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No 
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Oracles - Create ETH/BTC Oracle + Whitelist tBTC - April 20, 2020
 
 The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://forum.makerdao.com/t/443), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create ETH/BTC Oracle + Whitelist tBTC**. Voters are now able to signal their support to:
@@ -23,7 +24,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 **Oracle Address:**
 
- `0x81A679f98b63B3dDf2F17CB5619f4d6775b3c5ED` (Medianizer)
+`0x81A679f98b63B3dDf2F17CB5619f4d6775b3c5ED` (Medianizer)
 `N/A` (Oracle Security Module)
 
 **Customer:** tBTC
@@ -43,7 +44,7 @@ Data Models describe the data sources and transformations for calculating the ca
 #### Glossary
 
 - `Source` - The data source for the Oracle Feed
-- `Asset Pair` -  a price quote of the exchange rate for two different assets traded on the source.
+- `Asset Pair` - a price quote of the exchange rate for two different assets traded on the source.
 - `Quorum` - The amount of Feeds needed to reach consensus on a price.
 - `Feed Model` - Model for how a Feed processes all sourced data into a singular price
 - `Oracle Model` - Model for how an Oracle processes all Feed data into a singular price
@@ -57,7 +58,7 @@ Data Models describe the data sources and transformations for calculating the ca
     |   Coinbase    |    ETH/BTC    |
     |   Huobi       |    ETH/BTC    |
     |   Kraken      |    ETH/BTC    |
-    |   Poloniex    |    ETH/BTC    | 
+    |   Poloniex    |    ETH/BTC    |
 
 ### Technical Deliverables
 

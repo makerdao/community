@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
-
 ---
+
 ## [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
 
 The Governance Facilitator(s) have placed an Executive Vote into the voting system on behalf of the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
@@ -10,22 +10,23 @@ The Governance Facilitator(s) have placed an Executive Vote into the voting syst
 
 As per this governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network=mainnet#poll-detail) in combination with this [forum post](https://forum.makerdao.com/t/psm-usdc-a-starting-debt-ceiling-19th-dec-2020/5739) from the risk domain team, the USDC PSM will be added to the Maker Protocol with the parameters given below if this proposal passes.
 
-* The USDC PSM will be onboarded as the PSM-USDC-A vault type.
-* The `tin` parameter will be set to 1% initially and will decrease to 0.1% over 7 days. `tin` refers to the fee when trading USDC in exchange for DAI.
-* The `tout` parameter will be set to 0.1%. `tout` refers to the fee when trading DAI in exchange for USDC.
-* The initial debt ceiling of the USDC PSM will equal 3 million DAI.
+- The USDC PSM will be onboarded as the PSM-USDC-A vault type.
+- The `tin` parameter will be set to 1% initially and will decrease to 0.1% over 7 days. `tin` refers to the fee when trading USDC in exchange for DAI.
+- The `tout` parameter will be set to 0.1%. `tout` refers to the fee when trading DAI in exchange for USDC.
+- The initial debt ceiling of the USDC PSM will equal 3 million DAI.
 
 Note that due to the smaller initial debt ceiling of the USDC PSM, the debt ceilings on other stablecoins will not be lowered at this time.
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-* The PSM-USDC-A vault type will be added using USDC as collateral with the parameters listed above.
-* The global line parameter will increase by 3M due to the debt ceiling changes.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- The PSM-USDC-A vault type will be added using USDC as collateral with the parameters listed above.
+- The global line parameter will increase by 3M due to the debt ceiling changes.
 
-If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass. 
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass.
 
 Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that smart contracts engineers are on-standby at the time of activation to react to any unforeseen issues.
 

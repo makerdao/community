@@ -4,10 +4,11 @@ summary: Signal your support or opposition for adjusting the WBTC-A Debt Ceiling
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the WBTC-A Debt Ceiling - November 2, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the WBTC-A Debt Ceiling from 120 million DAI to 160 million DAI.

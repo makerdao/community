@@ -22,7 +22,7 @@ Puede encontrar más información sobre estos parámetros [aquí](https://docs.m
 **Si los votos por la opción "Sí" superan los votos por la opción "No", entonces se llevarán a cabo las siguientes acciones:**
 
 - Estos cambios serán incluidos en el Voto Ejecutivo semanal del viernes siguiente a la conclusión de esta encuesta
-- Si el Voto Ejecutivo del viernes es aprobado, entonces estos cambios pasarán a estar activos en el Protocolo Maker una vez que el  [Retraso de Pausa del GSM](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) haya expirado.
+- Si el Voto Ejecutivo del viernes es aprobado, entonces estos cambios pasarán a estar activos en el Protocolo Maker una vez que el [Retraso de Pausa del GSM](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) haya expirado.
 
 **Si los votos por la opción "No" alcanzan o superan los votos por la opción "Sí", entonces no se llevarán a cabo más acciones en esta ocasión.**
 

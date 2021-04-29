@@ -4,13 +4,14 @@ summary: Signal your support or opposition for the monthly MIPs bundle for Janua
 discussion_link: https://forum.makerdao.com/t/weekly-mips-update-24/6052
 vote_type: Plurality Voting
 categories:
-   - Governance
-   - MIPs
+  - Governance
+  - MIPs
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Monthly MIPs Governance Poll - January 18, 2021
 
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
@@ -38,11 +39,14 @@ The proposals can be reviewed in this week's MIPs update [here](https://forum.ma
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This MIPs bundle will proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle provided the Governance Facilitator(s) confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on January 21, 2021.
-* The Executive Vote will be submitted on January 25, 2021 assuming a positive outcome is confirmed by the Governance Facilitator(s).
+
+- This MIPs bundle will proceed to the final ratification vote (Executive Vote) in the last week of the monthly Governance Cycle provided the Governance Facilitator(s) confirm a 'yes' outcome of the Monthly Governance Poll on the next Governance and Risk call on January 21, 2021.
+- The Executive Vote will be submitted on January 25, 2021 assuming a positive outcome is confirmed by the Governance Facilitator(s).
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
-* Proposals may be resubmitted to the governance cycle up to three times if they are voted down.
+
+- Proposals may be resubmitted to the governance cycle up to three times if they are voted down.
+
 ---
 
 ## Resources

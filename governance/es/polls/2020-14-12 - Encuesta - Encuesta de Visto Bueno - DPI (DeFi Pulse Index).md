@@ -2,19 +2,19 @@
 
 ## **Descripción**
 
-Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante catorce días comenzando el día lunes 14 de diciembre a las 16:00 UTC. 
+Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante catorce días comenzando el día lunes 14 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-La encuesta pregunta si el activo DPI (DeFi Pulse Index) debería ser priorizado para su inclusión en el Protocolo Maker por los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+La encuesta pregunta si el activo DPI (DeFi Pulse Index) debería ser priorizado para su inclusión en el Protocolo Maker por los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
-Por favor consulta el [hilo](https://forum.makerdao.com/t/dpi-defi-pulse-index-collateral-onboarding-application-mip6/5073) de la inclusión de colaterales para informar tu decisión antes de votar. 
+Por favor consulta el [hilo](https://forum.makerdao.com/t/dpi-defi-pulse-index-collateral-onboarding-application-mip6/5073) de la inclusión de colaterales para informar tu decisión antes de votar.
 
 ## Resultados
 
-I**ndependientemente de la opción ganadora, las siguientes acciones tendrán lugar una vez concluida la encuesta:** 
+I**ndependientemente de la opción ganadora, las siguientes acciones tendrán lugar una vez concluida la encuesta:**
 
 - La "puntuación de visto bueno" será calculada para DPI (DeFi Pulse Index) haciendo uso de la siguiente fórmula: `Puntuación = votos "Sí" - votos "No"`.
 - La "puntuación de visto bueno" para DPI (DeFi Pulse Index) será agregada a la [Hoja de Priorización de Colaterales](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) por los Facilitadores de Gobernanza.

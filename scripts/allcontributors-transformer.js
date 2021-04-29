@@ -1,5 +1,5 @@
-const fs = require("fs");
-const del = require("del");
+const fs = require('fs');
+const del = require('del');
 
 const rootPath = process.cwd();
 const contributorJSON = `${rootPath}/content/all-contributors.json`;
@@ -10,11 +10,11 @@ const main = async () => {
     try {
       await del(contributorJSON);
     } catch (err) {
-      console.error("There was an issue with deleting all-contributors.json");
+      console.error('There was an issue with deleting all-contributors.json');
     }
   }
 
-  fs.readFile(contributorORIGINAL, "utf8", (err, out) => {
+  fs.readFile(contributorORIGINAL, 'utf8', (err, out) => {
     if (err) {
       console.error(err);
       return;

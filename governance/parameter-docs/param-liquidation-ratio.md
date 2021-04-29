@@ -10,17 +10,17 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/spo
 
 ## Description
 
-The Liquidation Ratio parameter limits the maximum amount of DAI debt that a vault user can draw from their vault given the value of their collateral locked in that vault. In practice, it expresses the minimum collateral in percentage terms that can support a given DAI debt. If the ratio of a Vault user's collateral to their debt drops below this value their vault can be liquidated. 
+The Liquidation Ratio parameter limits the maximum amount of DAI debt that a vault user can draw from their vault given the value of their collateral locked in that vault. In practice, it expresses the minimum collateral in percentage terms that can support a given DAI debt. If the ratio of a Vault user's collateral to their debt drops below this value their vault can be liquidated.
 
 Each vault type has its own Liquidation Ratio that can be adjusted by Maker Governance. Note that the Liquidation Ratio applies collectively to all vaults created using a specific vault type, rather than to individual vaults.
 
- The Liquidation Ratio for each vault type is expressed as a percentage value of the collateral that must be present in the vault to support its debt. For example, a 150% Liquidation Ratio means that a debt of 66.66 DAI must be supported by a collateral value of at least $100. 
+The Liquidation Ratio for each vault type is expressed as a percentage value of the collateral that must be present in the vault to support its debt. For example, a 150% Liquidation Ratio means that a debt of 66.66 DAI must be supported by a collateral value of at least \$100.
 
 ## Purpose
 
-The primary purpose of the Liquidation Ratio parameter is to control the risk to the protocol that comes from a drop in the price of a collateral asset. When the value of collateral drops, vaults dropping below the Liquidation Ratio can be liquidated. By triggering liquidations at a ratio greater than 100%, there is a much greater chance that the protocol can recover at least the full value of the DAI debt. 
+The primary purpose of the Liquidation Ratio parameter is to control the risk to the protocol that comes from a drop in the price of a collateral asset. When the value of collateral drops, vaults dropping below the Liquidation Ratio can be liquidated. By triggering liquidations at a ratio greater than 100%, there is a much greater chance that the protocol can recover at least the full value of the DAI debt.
 
-Requiring a Liquidation Ratio above 100% means that DAI is always backed by at least $1 of assets (outside of price fluctuations in the market.) This is what is meant when DAI is described as over-collateralized.
+Requiring a Liquidation Ratio above 100% means that DAI is always backed by at least \$1 of assets (outside of price fluctuations in the market.) This is what is meant when DAI is described as over-collateralized.
 
 ## Trade-offs
 
@@ -41,6 +41,7 @@ Increasing the Liquidation Ratio to an arbitrarily high value can be used to for
 Increasing a Liquidation Ratio parameter should only be done for VERY compelling reasons due to the possibility for it to result in forced liquidations.
 
 If Maker Governance wants to increase the Liquidation Ratio for a vault type, a preferable path to achieve this goal which prevents forced liquidations is to take the following actions:
+
 1. Create a new vault-type identical to the old with the desired new Liquidation Ratio.
 2. Set the Debt Ceiling of the old vault-type to zero, preventing new minting.
 3. Allow vault-type A to unwind naturally without forced liquidations.
@@ -61,9 +62,3 @@ If a Liquidation Ratio parameter for a vault type is increased above the current
 Some vault types do not have liquidations enabled. For these vault types, users whose Collateralization Ratio drops below the Liquidation Ratio cannot be liquidated until liquidations are enabled for those vault types. However, they are still unable to draw additional DAI debt while their Collateralization Ratio is less than the liquidation ratio.
 
 For USD denominated stablecoin vaults, Liquidation Ratios can be decreased to very low levels to allow arbitrage of the DAI peg. This puts an effective cap on the price of DAI while these vault types have available debt-ceiling space. The trade-offs around this decision are not covered here.
-
-
-
-
-
-

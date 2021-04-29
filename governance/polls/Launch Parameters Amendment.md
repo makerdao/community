@@ -4,10 +4,11 @@ summary: This poll is intended to amend the system parameters originally outline
 discussion_link: https://forum.makerdao.com/t/discussion-governance-poll-missing-parameter/732
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Launch Parameters Amendment
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which is intended to amend the system parameters originally outlined in the [Migration Risk Construct Proposal](https://vote.makerdao.com/polling-proposal/qmba2hpv3kcbjgzvlnv7xsogs3jenqdiqo3ffnktgqtepn).

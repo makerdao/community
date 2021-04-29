@@ -4,13 +4,14 @@ summary: Rank your preferred options to adjust the Bump Parameter for FLAP Aucti
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-the-bump-ttl-parameters-of-flap-auctions/6842
 vote_type: Ranked Choice IRV
 categories:
-   - Auctions
+  - Auctions
 options:
-   0: Abstain
-   1: 10,000 DAI (no change)
-   2: 20,000 DAI (+ 10,000)
-   3: 30,000 DAI (+ 20,000)
+  0: Abstain
+  1: 10,000 DAI (no change)
+  2: 20,000 DAI (+ 10,000)
+  3: 30,000 DAI (+ 20,000)
 ---
+
 # Poll: Adjust the Bump Parameter - March 22, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
@@ -21,10 +22,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 FLAP auctions refer to the Maker Protocol's System Surplus auctions. These auctions sell off DAI revenue from Stability Fees and Liquidation Fees in exchange for MKR which is then burned.
 
-The community can vote in this poll to rank their support of the following options for modifying `bump` parameter:  
-* Leave the `bump` parameter unchanged at 10,000 DAI.
-* Adjust the `bump` parameter from 10,000 DAI to 20,000 DAI.
-* Adjust the `bump` parameter from 10,000 DAI to 30,000 DAI.
+The community can vote in this poll to rank their support of the following options for modifying `bump` parameter:
+
+- Leave the `bump` parameter unchanged at 10,000 DAI.
+- Adjust the `bump` parameter from 10,000 DAI to 20,000 DAI.
+- Adjust the `bump` parameter from 10,000 DAI to 30,000 DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-the-bump-ttl-parameters-of-flap-auctions/6842) to help inform your position before voting.
 
@@ -33,8 +35,9 @@ More information on the `bump` parameter can be found [here](https://docs.makerd
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
 

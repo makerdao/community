@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Raise the ETH-A Debt Ceiling - September 2, 2020
-
 ---
+
 ## [Executive Vote] Raise the ETH-A Debt Ceiling - September 2, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -14,9 +14,10 @@ As per the forum poll [here](https://forum.makerdao.com/t/signal-request-forum-p
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The ETH-A debt ceiling parameter will be increased from 420 million to 540 million.
 - The ETH-A debt ceiling increase will increase the Vat global `line` parameter from 588 million Dai to 708 million Dai.
-...
+  ...
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 

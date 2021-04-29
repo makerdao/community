@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Add ETH-B Vault Type - October 16, 2020
-
 ---
+
 ## [Executive Vote] Add ETH-B Vault Type - October 16, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alteration to the protocol.
@@ -10,21 +10,22 @@ The Governance Facilitators and the Maker Foundation Smart Contracts Team have p
 
 A new vault type, ETH-B, will be added to the Maker Protocol if this proposal passes. ETH-B will be added with the following parameters, which match those in the previous governance [poll](https://vote.makerdao.com/polling-proposal/qmzvcsx9lkpejp8xpxsvkvvfot8anarmdq17afjdbbu3wu). ETH-B will use ETH (Ether) as collateral.
 
-* Stability Fee: 6%
-* Debt Ceiling: 20,000,000
-* Liquidation Ratio: 130%
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 100 Dai
+- Stability Fee: 6%
+- Debt Ceiling: 20,000,000
+- Liquidation Ratio: 130%
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 100 Dai
 
-Further details and discussion on the ETH-B vault type can be found on the Maker governance forum [here](https://forum.makerdao.com/t/signal-request-add-eth-b-vault-collateral-type-september-2020/4435). 
+Further details and discussion on the ETH-B vault type can be found on the Maker governance forum [here](https://forum.makerdao.com/t/signal-request-add-eth-b-vault-collateral-type-september-2020/4435).
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - ETH-B will be added as a vault type with the parameters listed above.
 - The Global line parameter will increase from 1,456 million to 1,476 million due to the addition of ETH-B.
 

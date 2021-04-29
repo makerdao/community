@@ -1,13 +1,14 @@
 ---
 title: Inclusion Poll for MIP12c2-SP4 - LRC Collateral Onboarding - September 14, 2020
-summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
+summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll.
 discussion_link: https://forum.makerdao.com/t/3558
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for MIP12c2-SP4 - LRC Collateral Onboarding - September 14, 2020
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (MIP12c2-SP4 - LRC Collateral Onboarding) should be included in the Monthly Governance Poll.
@@ -17,6 +18,7 @@ Note that this proposal is being proposed for the second time, having failed the
 If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
 
 ## Review
+
 Please review the discussion [thread](https://forum.makerdao.com/t/3558) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [governance call](https://forum.makerdao.com/t/3971) on September 10, 2020.
 
 ## Next Steps
@@ -36,4 +38,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

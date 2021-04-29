@@ -1,30 +1,31 @@
 ---
 title: Template - [Executive Vote] Increase Debt Ceilings, Modify Risk Parameters - March 26, 2021
-
 ---
+
 # [Executive Proposal] Increase Debt Ceilings, Modify Risk Parameters - March 26, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote. 
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
 ---
 
 ## Executive Summary
 
 If this executive proposal passes the following changes will occur within the Maker Protocol:
+
 - UNIV2DAIETH-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters:
-	- Maximum Debt Ceiling: 30 million DAI
-	- Target Available Debt: 5 million DAI
-	- Ceiling Increase Cooldown: 12 hours
+  - Maximum Debt Ceiling: 30 million DAI
+  - Target Available Debt: 5 million DAI
+  - Ceiling Increase Cooldown: 12 hours
 - UNIV2USDCETH-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters:
-	- Maximum Debt Ceiling: 50 million DAI
-	- Target Available Debt: 5 million DAI
-	- Ceiling Increase Cooldown: 12 hours
+  - Maximum Debt Ceiling: 50 million DAI
+  - Target Available Debt: 5 million DAI
+  - Ceiling Increase Cooldown: 12 hours
 - UNIV2DAIUSDC-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters:
-	- Maximum Debt Ceiling: 50 million DAI
-	- Target Available Debt: 10 million DAI
-	- Ceiling Increase Cooldown: 12 hours
+  - Maximum Debt Ceiling: 50 million DAI
+  - Target Available Debt: 10 million DAI
+  - Ceiling Increase Cooldown: 12 hours
 - The ETH-B [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor)(`dust`) will be increased from 2,000 DAI to 15,000 DAI.
 - The Surplus Lot Size (`bump`) parameter will increase from 10,000 DAI to 30,000 DAI.
 
@@ -34,7 +35,7 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 This executive proposal **does not include** an office-hours modifier and can be executed immediately once the GSM Pause Delay has expired.
 
-If this executive proposal does not pass within **30 days** then it will expire and can no longer have any effect on the Maker Protocol. 
+If this executive proposal does not pass within **30 days** then it will expire and can no longer have any effect on the Maker Protocol.
 
 ---
 
@@ -51,6 +52,7 @@ Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/Q
 ### Increase Debt Ceiling and enable UNIV2DAIETH-A on the Debt Ceiling Instant Access Module
 
 Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/QmaZE3g6?network=mainnet#poll-detail) and associated [signal request](https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063), UNIV2DAIETH-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters if this executive proposal passes.
+
 - Maximum Debt Ceiling: 30 million DAI
 - Target Available Debt: 5 million DAI
 - Ceiling Increase Cooldown: 12 hours
@@ -60,6 +62,7 @@ Note that the Maximum Debt Ceiling value represents an increase from the current
 ### Increase Debt Ceiling and enable UNIV2USDCETH-A on the Debt Ceiling Instant Access Module
 
 Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/QmZNz7Hf?network=mainnet) and associated [signal request](https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063), UNIV2USDCETH-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters if this executive proposal passes.
+
 - Maximum Debt Ceiling: 50 million DAI
 - Target Available Debt: 5 million DAI
 - Ceiling Increase Cooldown: 12 hours
@@ -69,6 +72,7 @@ Note that the Maximum Debt Ceiling value represents an increase from the current
 ### Increase Debt Ceiling and enable UNIV2DAIUSDC-A on the Debt Ceiling Instant Access Module
 
 Due to the positive outcome from this [poll](https://vote.makerdao.com/polling/QmZordW8?network=mainnet) and associated [signal request](https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063), UNIV2DAIUSDC-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) with the following parameters if this executive proposal passes.
+
 - Maximum Debt Ceiling: 50 million DAI
 - Target Available Debt: 10 million DAI
 - Ceiling Increase Cooldown: 12 hours

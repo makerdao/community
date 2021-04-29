@@ -1,12 +1,12 @@
 ---
 title: Template - [Executive Vote] Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
-
 ---
+
 ## [Executive Vote] Raise the PAX-A Debt Ceiling and Decrease the Base Rate - October 2, 2020
 
 The Governance Facilitator and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
-### PAX-A Debt Ceiling Increase 
+### PAX-A Debt Ceiling Increase
 
 As per this community [signal request](https://forum.makerdao.com/t/signal-request-increase-paxusd-a-debt-ceiling/4263), the PAX-A debt ceiling will be increased from 60 million to 100 million if this proposal passes.
 
@@ -23,6 +23,7 @@ As per this forum [thread](https://forum.makerdao.com/t/tusd-smart-contract-upda
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The PAXUSD-A Debt Ceiling will increase from 60 million to 100 million.
 - Due to the above debt ceiling change, the global Line parameter will increase from 1,416 million to 1,456 million.
 - The Base Rate Meta-parameter will decrease from 0.25% to 0%

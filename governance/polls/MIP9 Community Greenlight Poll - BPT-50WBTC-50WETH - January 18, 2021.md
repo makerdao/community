@@ -1,16 +1,17 @@
 ---
 title: Community Greenlight Poll - BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) - January 18, 2021
-summary: Signal your support or opposition to prioritising onboarding BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token). 
+summary: Signal your support or opposition to prioritising onboarding BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token).
 discussion_link: https://forum.makerdao.com/t/bpt-50wbtc-50weth-balancer-wbtc-eth-50-50-liquidity-token-collateral-application/5662
 vote_type: Plurality Voting
 categories:
-   - Collateral
-   - Greenlight
+  - Collateral
+  - Greenlight
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) - January 18, 2021
 
 ## Description
@@ -21,18 +22,19 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
-Note, there are currently multiple Balancer Pools matching the 50% WBTC 50% WETH profile. In the case that this collateral type is prioritised, the domain teams will make a decision on which balancer pool contract to support. 
+Note, there are currently multiple Balancer Pools matching the 50% WBTC 50% WETH profile. In the case that this collateral type is prioritised, the domain teams will make a decision on which balancer pool contract to support.
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/bpt-50wbtc-50weth-balancer-wbtc-eth-50-50-liquidity-token-collateral-application/5662) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
-* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+
+- The 'greenlight score' will be calculated for BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
+- The 'greenlight score' for BPT-50WBTC-50WETH (50% WBTC 50% ETH Balancer Pool Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+- The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
 

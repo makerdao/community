@@ -17,16 +17,18 @@ Each vault type has its own Stability Fee that can be adjusted by Maker Governan
 As an example, a vault with 100 DAI of debt using a vault-type with a Stability Fee of 4% would be expected to owe 104 DAI after one year has passed (assuming the Stability Fee remains at 4% for the year).
 
 ## Purpose
-The primary purpose of the Stability Fee parameter is to compensate the Maker Protocol for the risk it takes being exposed to changes in the price of the collateral used to back the generated DAI. 
+
+The primary purpose of the Stability Fee parameter is to compensate the Maker Protocol for the risk it takes being exposed to changes in the price of the collateral used to back the generated DAI.
 
 The Stability Fee is also the largest source of revenue for the Maker Protocol and should be expected to be used to:
-* Pay for the operational expenses of running and growing the Maker Protocol.
-* Pay for the operation of the Oracle feeds.
-* Buy and burn MKR to remove it from the total supply, indirectly compensating Maker Governance for operating the Maker Protocol and acting as the lender of last resort.
+
+- Pay for the operational expenses of running and growing the Maker Protocol.
+- Pay for the operation of the Oracle feeds.
+- Buy and burn MKR to remove it from the total supply, indirectly compensating Maker Governance for operating the Maker Protocol and acting as the lender of last resort.
 
 ## Trade-offs
 
-In theory modifying the Stability Fee for a vault type will impact the number of vault users that are willing to use that vault type, with increases reducing the amount of DAI generated, and decreases increasing the amount of DAI generated. 
+In theory modifying the Stability Fee for a vault type will impact the number of vault users that are willing to use that vault type, with increases reducing the amount of DAI generated, and decreases increasing the amount of DAI generated.
 
 However, it is open to debate just how much of an effect Stability Fee modifications have on user behavior. Other, more significant factors play into a user's decision to maintain a vault, including market conditions and the competitive landscape.
 
@@ -44,7 +46,7 @@ The Rates Working Group has been empowered by Maker Governance to propose rate c
 
 **Why increase a Stability Fee parameter?**
 
-The primary reason to increase a Stability Fee parameter is one of monetary policy. If the price of DAI is less than $1, this indicates that the DAI supply should be reduced. The Stability Fee is usually the first parameter that Governance contemplates changing if DAI supply needs to be reduced.
+The primary reason to increase a Stability Fee parameter is one of monetary policy. If the price of DAI is less than \$1, this indicates that the DAI supply should be reduced. The Stability Fee is usually the first parameter that Governance contemplates changing if DAI supply needs to be reduced.
 
 Alternatively, a Stability Fee for a vault type might be increased if Maker Governance does not feel that the protocol is being adequately compensated for the risk from that particular vault type.
 
@@ -54,7 +56,7 @@ Finally, a Stability Fee might be increased if no viable competitors are offerin
 
 **Why decrease a Stability Fee parameter?**
 
-The primary reason to decrease a Stability Fee parameter is also one of monetary policy. If the price of DAI is greater than $1, this indicates that the DAI supply should be increased. The Stability Fee is usually the first parameter that Governance contemplates changing if DAI supply needs to be increased.
+The primary reason to decrease a Stability Fee parameter is also one of monetary policy. If the price of DAI is greater than \$1, this indicates that the DAI supply should be increased. The Stability Fee is usually the first parameter that Governance contemplates changing if DAI supply needs to be increased.
 
 Alternatively, a Stability Fee for a vault type might be decreased if Maker Governance feels that the level of risk from that vault type has decreased.
 
@@ -69,4 +71,3 @@ Absent active management by a vault user, the accrual of Stability Fees can push
 A Global Stability Fee parameter also exists within the Maker Protocol. In practice, this has not been used because it adds unnecessary complexity to the governance process and Stability Fee calculation.
 
 Before the introduction of the Rates Working Group Stability Fee parameters were composited from Risk Premiums and a Base Rate voted by governance.
-

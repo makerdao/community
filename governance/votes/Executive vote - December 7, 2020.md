@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Activate DSChief v1.2 - December 7, 2020
-
 ---
+
 ## [Executive Vote] Activate DSChief v1.2 - December 7, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -14,11 +14,12 @@ A [step-by-step guide](https://forum.makerdao.com/t/dschief-v1-2-migration-steps
 
 Part 1 of the migration process took place in this previous [executive vote](https://vote.makerdao.com/executive/migrate-to-dschief-v1-2?network=mainnet#proposal-detail) which transferred permissions from DSChief v1.1 to DSChief v1.2. Parts 2 and 3 do not require an executive vote. This executive proposal represents the fourth and final step of the migration process.
 
-If this proposal reaches 80,000 MKR in favor then DSChief v1.2 will be activated and Maker Governance will be able to use it to govern the Maker Protocol. 
+If this proposal reaches 80,000 MKR in favor then DSChief v1.2 will be activated and Maker Governance will be able to use it to govern the Maker Protocol.
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - DSChief v1.2 will be activated and Maker Governance will be able to use it to govern the Maker Protocol.
 
 This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes surpasses 80,000 MKR.
