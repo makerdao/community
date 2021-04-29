@@ -52,17 +52,16 @@ export default function Link({
         to={`${window.location.pathname}${linkHref}`}
         sx={{ variant: 'styles.a' }}
         onClick={() => {
-          if (onClick !== null && onClick !== undefined) {
+          if (onClick) {
             onClick();
           }
-          const eventProps = Object.assign(
-            {
+          const eventProps =
+            ({
               category: 'Internal Link',
               action: 'Click',
               label: linkHref,
             },
-            gaProps
-          );
+            gaProps);
           trackCustomEvent(eventProps);
         }}
         {...(rest: any)}
