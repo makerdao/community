@@ -4,10 +4,11 @@ summary: Signal your support or opposition to adjusting the YFI-A System Paramet
 discussion_link: https://forum.makerdao.com/t/signal-request-yfi-vault-options/5425
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust YFI-A System Parameters - December 7, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to adjusting the YFI-A Debt Ceiling and Stability Fee as detailed below.
@@ -19,17 +20,19 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 ## Review
 
 The two proposed adjustments to the YFI-A vault type are as follows:
-* Increase the YFI-A Debt Ceiling from 20 million DAI to 30 million DAI. 
-* Increase the YFI-A Stability Fee from 4% to 10%.
+
+- Increase the YFI-A Debt Ceiling from 20 million DAI to 30 million DAI.
+- Increase the YFI-A Stability Fee from 4% to 10%.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-yfi-vault-options/5425) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* A Debt Ceiling increase from 20 million DAI to 30 million DAI for the YFI-A vault type will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* A Stability Fee increase from 4% to 10% for the YFI-A vault type will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+
+- A Debt Ceiling increase from 20 million DAI to 30 million DAI for the YFI-A vault type will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- A Stability Fee increase from 4% to 10% for the YFI-A vault type will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

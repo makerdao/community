@@ -1,6 +1,6 @@
 # Encuesta**: Acelerar el Lanzamiento del Módulo de Estabilidad de la Paridad - November 23, 2020**
 
-El Facilitador de Gobernanza de MakerDAO ha colocado una encuesta de gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la comunidad de la Gobernanza de Maker; esta le ofrece a la Gobernanza de Maker la oportunidad de señalar su apoyo o su oposición a acelerar el lanzamiento del PSM (Módulo de Estabilidad de la Paridad, *Peg Stability Module*).
+El Facilitador de Gobernanza de MakerDAO ha colocado una encuesta de gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la comunidad de la Gobernanza de Maker; esta le ofrece a la Gobernanza de Maker la oportunidad de señalar su apoyo o su oposición a acelerar el lanzamiento del PSM (Módulo de Estabilidad de la Paridad, _Peg Stability Module_).
 
 Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza estará activa por 3 días a partir del lunes 23 de noviembre a las 17:00 UTC.
 
@@ -12,7 +12,7 @@ El PSM ofrece muchos beneficios sobre el status quo:
 
 - Restaurar la paridad. Podemos acomodar el precio dentro de un spread más apretado porque ya no tenemos que preocuparnos por las liquidaciones.
 - La recolección de tarifas es por adelantado y exacta en lugar de tener que cronometrar las reinversiones al 100% del Ratio de Colateralización.
-- Ya no será necesario preocuparse por las liquidaciones ya que el PSM entrara en acción automáticamente en cuanto Dai esté debajo de $0.999.
+- Ya no será necesario preocuparse por las liquidaciones ya que el PSM entrara en acción automáticamente en cuanto Dai esté debajo de \$0.999.
 - Ganancia adicional sobre la etapa de liquidación que anteriormente habría terminado en manos tenedores de vaults.
 - Permitimos que traders muy grandes se muevan entre Dai y stablecoins sin deslizamiento.
 
@@ -38,7 +38,7 @@ Por favor revista el [hilo](https://forum.makerdao.com/t/signal-request-accelera
 
 # **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en la sección de [Gobernanza](https://community-development.makerdao.com/en/learn/governance/) del portal de la comunidad de Maker.
 

@@ -1,14 +1,14 @@
 // @flow
 /** @jsx jsx */
 
-import { BlogAuthor, BlogCard, BlogContributors } from "@templates/Blog";
-import { Box, Flex, jsx } from "theme-ui";
-import { Button, Divider, Heading } from "@atoms";
-import { graphql, useStaticQuery } from "gatsby";
+import { BlogAuthor, BlogCard, BlogContributors } from '@templates/Blog';
+import { Box, Flex, jsx } from 'theme-ui';
+import { Button, Divider, Heading } from '@atoms';
+import { graphql, useStaticQuery } from 'gatsby';
 
-import type { Node } from "react";
-import { SEO } from "@modules/utility";
-import { useTranslation } from "@modules/localization";
+import type { Node } from 'react';
+import { SEO } from '@modules/utility';
+import { useTranslation } from '@modules/localization';
 
 type TBlogPostLayoutProps = {
   children: Node,
@@ -42,15 +42,15 @@ export default function BlogPostLayout({
   const hasContributors = authors && authors.length > 1;
   const contributors = hasContributors ? authors?.slice(1, authors.length) : [];
 
-  const pagePathSplitted = pageContext.pagePath?.split("/") || [];
+  const pagePathSplitted = pageContext.pagePath?.split('/') || [];
   const pagePathSplit = pagePathSplitted.splice(1, pagePathSplitted.length - 2);
-  const typeIndex = pagePathSplit.indexOf("blog") + 1;
+  const typeIndex = pagePathSplit.indexOf('blog') + 1;
 
   //Split absolute path up to blog, get directory AFTER blog.
   let postType =
     typeIndex !== pagePathSplit.length - 1
       ? pagePathSplit[typeIndex]
-      : "general";
+      : 'general';
 
   let postImage = null;
 
@@ -93,18 +93,18 @@ export default function BlogPostLayout({
   };
 
   return (
-    <Flex sx={{ flexDirection: "column" }}>
+    <Flex sx={{ flexDirection: 'column' }}>
       <ContentBlock>
         <SEO {...seo} />
         <Button outline icon="chevron_left" to="/blog">
-          {t("Back_To_Blog")}
+          {t('Back_To_Blog')}
         </Button>
 
         <Heading level={1}>{title}</Heading>
 
         {authors ? (
           <BlogAuthor
-            sx={{ mb: "16px" }}
+            sx={{ mb: '16px' }}
             authors={authors}
             date={date}
             isDefaultLocale={true}
@@ -114,16 +114,16 @@ export default function BlogPostLayout({
         <img
           src={postImage}
           sx={{
-            width: "100%",
-            objectFit: "cover",
-            maxHeight: "478px",
-            mb: "48px",
+            width: '100%',
+            objectFit: 'cover',
+            maxHeight: '478px',
+            mb: '48px',
           }}
         />
 
         <div
           sx={{
-            "& > *:first-of-type": {
+            '& > *:first-of-type': {
               mt: 0,
             },
           }}
@@ -133,15 +133,15 @@ export default function BlogPostLayout({
       </ContentBlock>
 
       {hasContributors ? (
-        <Box sx={{ pl: [4, 4, "64px"], pr: [4, 4, 0], mt: 2, mb: 2 }}>
+        <Box sx={{ pl: [4, 4, '64px'], pr: [4, 4, 0], mt: 2, mb: 2 }}>
           <Divider />
         </Box>
       ) : null}
 
       {hasContributors ? (
         <ContentBlock>
-          <h2 sx={{ fontWeight: "500", fontSize: "32px" }}> Contributors </h2>
-          <p sx={{ mb: "40px" }}>
+          <h2 sx={{ fontWeight: '500', fontSize: '32px' }}> Contributors </h2>
+          <p sx={{ mb: '40px' }}>
             This article is possible with a little help from friends.
           </p>
           <BlogContributors contributors={contributors} />
@@ -149,7 +149,7 @@ export default function BlogPostLayout({
       ) : null}
 
       {recommendations ? (
-        <Box sx={{ pl: [4, 4, "64px"], pr: [4, 4, 0], mt: 4, mb: 2 }}>
+        <Box sx={{ pl: [4, 4, '64px'], pr: [4, 4, 0], mt: 4, mb: 2 }}>
           <Divider />
         </Box>
       ) : null}
@@ -157,27 +157,27 @@ export default function BlogPostLayout({
       {recommendations ? (
         <Box
           sx={{
-            width: ["100%", "100%", "90%"],
-            m: "0 auto",
+            width: ['100%', '100%', '90%'],
+            m: '0 auto',
             mt: [2, 4, 4],
             mb: [2, 4, 4],
             pl: [4, 4, 0],
             pr: [4, 4, 0],
-            position: "relative",
+            position: 'relative',
           }}
         >
-          <h2 sx={{ mb: "66px", fontWeight: "500", fontSize: "32px" }}>
-            {" "}
-            Read More{" "}
+          <h2 sx={{ mb: '66px', fontWeight: '500', fontSize: '32px' }}>
+            {' '}
+            Read More{' '}
           </h2>
           <Flex
             sx={{
-              justifyContent: "start",
-              width: "100%",
-              mb: [0, "80px", "80px"],
-              flexDirection: ["column", "row", "row"],
-              "& > *:not(:last-child)": {
-                mr: "96px",
+              justifyContent: 'start',
+              width: '100%',
+              mb: [0, '80px', '80px'],
+              flexDirection: ['column', 'row', 'row'],
+              '& > *:not(:last-child)': {
+                mr: '96px',
               },
             }}
           >
@@ -195,13 +195,13 @@ function ContentBlock({ children }) {
   return (
     <Box
       sx={{
-        width: ["100%", "100%", "80%"],
-        m: "0 auto",
+        width: ['100%', '100%', '80%'],
+        m: '0 auto',
         mt: [2, 4, 4],
         mb: [2, 4, 4],
-        pl: [4, 4, "64px"],
+        pl: [4, 4, '64px'],
         pr: [4, 4, 0],
-        position: "relative",
+        position: 'relative',
       }}
     >
       {children}

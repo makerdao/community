@@ -1,4 +1,4 @@
-# **Añadir UNI-V2-WBTC-ETH (Token WBTC-ETH del LP de UniswapV2) como Tipo de Colateral - 11 de enero de  2021**
+# **Añadir UNI-V2-WBTC-ETH (Token WBTC-ETH del LP de UniswapV2) como Tipo de Colateral - 11 de enero de 2021**
 
 El Facilitador de Gobernanza de MakerDAO ha colocado una encuesta de gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de los actores autorizados de MakerDAO. Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza estará activa por tres días a partir del lunes 11 de enero a las 16:00 UTC.
 

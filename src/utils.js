@@ -1,9 +1,9 @@
 export const TitleConverter = ({ frontmatter, headings, fileAbsolutePath }) => {
-  const splitPath = fileAbsolutePath.split("/");
-  let fileName = splitPath.pop().replace(/(.mdx|.md)$/gm, "");
+  const splitPath = fileAbsolutePath.split('/');
+  let fileName = splitPath.pop().replace(/(.mdx|.md)$/gm, '');
 
   //If the filename is index.mdx, use the name of it's directory instead.
-  if (fileName === "index") {
+  if (fileName === 'index') {
     fileName = splitPath[splitPath.length - 1];
   }
 
@@ -17,25 +17,25 @@ export const TitleConverter = ({ frontmatter, headings, fileAbsolutePath }) => {
 };
 
 export const UrlConverter = ({ fileAbsolutePath }) => {
-  if (fileAbsolutePath.indexOf("/blogPosts/") !== -1) {
+  if (fileAbsolutePath.indexOf('/blogPosts/') !== -1) {
     return fileAbsolutePath
       .slive(
-        fileAbsolutePath.indexOf("/blogPosts/") + 10,
+        fileAbsolutePath.indexOf('/blogPosts/') + 10,
         fileAbsolutePath.length
       )
-      .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+      .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, '');
   }
 
   return fileAbsolutePath
-    .slice(fileAbsolutePath.indexOf("/content/") + 8, fileAbsolutePath.length)
-    .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+    .slice(fileAbsolutePath.indexOf('/content/') + 8, fileAbsolutePath.length)
+    .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, '');
 };
 
 //NOTE(Rejon): This won't work if the locale is more than 2 characters (en vs enGB)
 export const getLocaleFromPath = (path) =>
   path
-    .slice(path.indexOf("/content/") + 8, path.indexOf("/content/") + 11)
-    .replace(/^\//g, "");
+    .slice(path.indexOf('/content/') + 8, path.indexOf('/content/') + 11)
+    .replace(/^\//g, '');
 
 export const getInitialLocale = (locales, DEFAULT_LOCALE) => {
   let initialLocale = DEFAULT_LOCALE;
@@ -45,7 +45,7 @@ export const getInitialLocale = (locales, DEFAULT_LOCALE) => {
   }
 
   //Check browser settings for current language.
-  const [browserSetting] = navigator.language.split("-");
+  const [browserSetting] = navigator.language.split('-');
 
   //If it is and it exists in the content directory, we've got a valid locale.
   if (locales.indexOf(browserSetting) !== -1) {
@@ -59,7 +59,7 @@ export const getInitialLocale = (locales, DEFAULT_LOCALE) => {
 //TLDR: If text on a background (hex) should be white or black based on luminance.
 //Taken from: https://stackoverflow.com/a/41491220
 export const HexLuminanceCheck = (hex) => {
-  var color = hex.charAt(0) === "#" ? hex.substring(1, 7) : hex;
+  var color = hex.charAt(0) === '#' ? hex.substring(1, 7) : hex;
   var r = parseInt(color.substring(0, 2), 16); // hexToR
   var g = parseInt(color.substring(2, 4), 16); // hexToG
   var b = parseInt(color.substring(4, 6), 16); // hexToB
@@ -90,10 +90,10 @@ export const colorToRGBA = (color) => {
   }
 
   var cvs, ctx;
-  cvs = document.createElement("canvas");
+  cvs = document.createElement('canvas');
   cvs.height = 1;
   cvs.width = 1;
-  ctx = cvs.getContext("2d");
+  ctx = cvs.getContext('2d');
   ctx.fillStyle = color;
   ctx.fillRect(0, 0, 1, 1);
   return ctx.getImageData(0, 0, 1, 1).data;
@@ -102,7 +102,7 @@ export const colorToRGBA = (color) => {
 //Taken from: https://stackoverflow.com/a/24390910
 export const byteToHex = (num) => {
   // Turns a number (0-255) into a 2-character hex number (00-ff)
-  return ("0" + num.toString(16)).slice(-2);
+  return ('0' + num.toString(16)).slice(-2);
 };
 
 //Taken from: https://stackoverflow.com/a/24390910
@@ -117,36 +117,36 @@ export const colorToHex = (color) => {
     .map(function (idx) {
       return byteToHex(rgba[idx]);
     })
-    .join("");
-  return "#" + hex;
+    .join('');
+  return '#' + hex;
 };
 
 // Capitalize each word
 export const titleCase = (str) => {
   return str
     .toLowerCase()
-    .split(" ")
+    .split(' ')
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
+    .join(' ');
 };
 
 // helper-function to insert comma as separators every 3 digits
 export const formatNumber = (num) => {
   return Math.round(num)
     .toString()
-    .replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
+    .replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
 };
 
 //NOTE(Rejon): This seems extraneous, but it's so we can support getting types from the file path instead of writers having to provide type via frontmatter.
 export const getBlogPostTypeFromPath = (path) => {
-  const pathArr = path.split("/");
+  const pathArr = path.split('/');
 
-  const nodeAfterBlog = pathArr[pathArr.indexOf("blog") + 1];
+  const nodeAfterBlog = pathArr[pathArr.indexOf('blog') + 1];
 
   if (nodeAfterBlog !== undefined) {
     //Check if node after blog is not undefined.
     //Check if the node after blog is a mdx/markdown file.
-    if (nodeAfterBlog.includes(".mdx") || nodeAfterBlog.includes(".md")) {
+    if (nodeAfterBlog.includes('.mdx') || nodeAfterBlog.includes('.md')) {
       return null;
     }
 

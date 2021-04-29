@@ -1,10 +1,10 @@
 /** @jsx jsx */
 
-import { Flex, Input, jsx } from "theme-ui";
-import { useEffect, useRef } from "react";
+import { Flex, Input, jsx } from 'theme-ui';
+import { useEffect, useRef } from 'react';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { useTranslation } from "@modules/localization";
+import { Icon } from '@makerdao/dai-ui-icons';
+import { useTranslation } from '@modules/localization';
 
 const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
   const { t } = useTranslation();
@@ -27,7 +27,7 @@ const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
   const onKeyDown = (e) => {
     if (typeof window !== undefined) {
       if (
-        e.key === "/" &&
+        e.key === '/' &&
         searchRef.current &&
         document.activeElement !== searchRef.current
       ) {
@@ -39,10 +39,10 @@ const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
 
   useEffect(() => {
     if (typeof window !== undefined) {
-      document.addEventListener("keydown", onKeyDown);
+      document.addEventListener('keydown', onKeyDown);
 
       return () => {
-        document.removeEventListener("keydown", onKeyDown);
+        document.removeEventListener('keydown', onKeyDown);
       };
     }
   }, []);
@@ -53,15 +53,15 @@ const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
       method="GET"
       role="search"
       onSubmit={onFormSubmit}
-      sx={{ p: "4px", alignItems: "center", pl: "10px", width: "100%" }}
+      sx={{ p: '4px', alignItems: 'center', pl: '10px', width: '100%' }}
     >
       <Icon
         name="search"
-        color={alt ? "text" : "muted"}
+        color={alt ? 'text' : 'muted'}
         viewBox="-5 -5 24 24"
         sx={{
-          width: "33px",
-          height: "33px",
+          width: '33px',
+          height: '33px',
         }}
       />
       <Input
@@ -70,28 +70,28 @@ const SearchInput = ({ onChange, onSubmit, alt, sx, ...rest }) => {
         type="search"
         ref={searchRef}
         autocomplete="none"
-        aria-label={alt ? "" : t("Search")}
-        placeholder={alt ? "" : t("Search")}
+        aria-label={alt ? '' : t('Search')}
+        placeholder={alt ? '' : t('Search')}
         onChange={onInputChange}
         sx={{
-          border: "none",
-          borderRadius: "0",
-          letterSpacing: "0.3px",
-          minWidth: "auto",
-          width: ["100%", "100%", "300px"],
-          pr: "9px",
-          pl: "5px",
-          py: "9px",
-          fontSize: [3, 3, "inherit"],
-          color: alt ? "text" : "muted",
-          "&:focus": {
-            color: alt ? "text" : "muted",
+          border: 'none',
+          borderRadius: '0',
+          letterSpacing: '0.3px',
+          minWidth: 'auto',
+          width: ['100%', '100%', '300px'],
+          pr: '9px',
+          pl: '5px',
+          py: '9px',
+          fontSize: [3, 3, 'inherit'],
+          color: alt ? 'text' : 'muted',
+          '&:focus': {
+            color: alt ? 'text' : 'muted',
           },
-          "::placeholder": {
-            color: alt ? "text" : "muted",
+          '::placeholder': {
+            color: alt ? 'text' : 'muted',
           },
-          "::-webkit-search-cancel-button": {
-            WebkitAppearance: "none",
+          '::-webkit-search-cancel-button': {
+            WebkitAppearance: 'none',
           },
           ...sx,
         }}

@@ -49,45 +49,45 @@
 
 - Demand surge continues with over 1.75B in DAI supply.
 - Our Surplus Buffer continues to fill at a moderate rate, currently sitting just under 6M DAI at the time of writing.
-- The [DAI VWAP](http://dai.descipher.io/) holds steady (currently at $1.001), despite continued volatility in ETH.
+- The [DAI VWAP](http://dai.descipher.io/) holds steady (currently at \$1.001), despite continued volatility in ETH.
 
 **ICYMI - Announcements**
 
 - The [January Maker Governance](https://forum.makerdao.com/t/maker-governance-review-january-2021/6296) Review 4 is live and really something!
 - The Rates Group [published new recommendations](https://forum.makerdao.com/t/rates-changes-proposal-2-feb-2021/6313) 2 that will be polled for inclusion on Monday, Feb. 8th.
 - [Governance at a Glance - Forum Thread](https://forum.makerdao.com/t/governance-at-a-glance-jan-29-feb-4-2021/6362)
-If you have the time to read over and vote in active threads, that would be much appreciated.
+  If you have the time to read over and vote in active threads, that would be much appreciated.
 
 ##### Discussions
 
 - [Undercollateralized loans in Maker](https://forum.makerdao.com/t/undercollateralized-loans-in-maker/6281)
-    - Hasu makes a case for a new type of loan to be brought to Maker.
+  - Hasu makes a case for a new type of loan to be brought to Maker.
 - [Core Units I Wished Existed](https://forum.makerdao.com/t/core-units-i-wish-existed/6248)
-    - Iammeeoh gives everyone a space to discuss Core Units they would like to see here at Maker. Check out the community ideas and leave one of your own!
+  - Iammeeoh gives everyone a space to discuss Core Units they would like to see here at Maker. Check out the community ideas and leave one of your own!
 
 ##### Signal Requests
 
 - [IAM-DC Parameters: WBTC-A, LINK-A, UNI-A, COMP-A, YFI-A, AAVE-A ](https://forum.makerdao.com/t/iam-dc-parameters-wbtc-a-link-a-uni-a-comp-a-yfi-a-aave-a/6299)
-    - Signal Ending Soon! Just one more day left to give Primoz your opinion on the Debt Ceiling Instant Access Module levels for the above collateral types. Inclusion poll slated for Monday, Feb 8th.
+  - Signal Ending Soon! Just one more day left to give Primoz your opinion on the Debt Ceiling Instant Access Module levels for the above collateral types. Inclusion poll slated for Monday, Feb 8th.
 - [Adjust ETH-A DC-IAM-line (2021-04) ](https://forum.makerdao.com/t/signal-request-adjust-eth-a-dc-iam-line-2021-04/6332)
-    - Ultraschuppi signals raising the ETH-A debt ceiling for the 4th time in 2021. You might be noticing a trend at this point.
+  - Ultraschuppi signals raising the ETH-A debt ceiling for the 4th time in 2021. You might be noticing a trend at this point.
 - [Raise DSR](https://forum.makerdao.com/t/signal-request-raise-dsr/6241)
-    - Signal Continues @ultraschuppi signals for varying levels of increase to the Dai Savings Rate, which has been at 0% since September.
+  - Signal Continues @ultraschuppi signals for varying levels of increase to the Dai Savings Rate, which has been at 0% since September.
 - [Adjust the Surplus Buffer](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-2021-2/6250)
-    - Signal Continues @ultraschuppi signals the raising of the Surplus Buffer, with options to continue MKR buyback and burn operations during the raise.
+  - Signal Continues @ultraschuppi signals the raising of the Surplus Buffer, with options to continue MKR buyback and burn operations during the raise.
 
 ##### Ongoing Initiatives
 
 - [:mega: Collateral Calls - Calling all Projects!](https://forum.makerdao.com/t/collateral-calls-calling-all-projects/3715)
-    - Juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
+  - Juanjuan sets up a signup thread for projects wishing to present on the bi-weekly collateral call. Know any potential collateral partners that want to present? Refer them here.
 - [Collateral Status Index](https://forum.makerdao.com/t/collateral-status-index/2231)
-    - Confused about the current status of the various collateral types that have been discussed recently? Check out this post to find out the status and current position of each within the onboarding process.
+  - Confused about the current status of the various collateral types that have been discussed recently? Check out this post to find out the status and current position of each within the onboarding process.
 - [Weekly MIPs Updates](https://forum.makerdao.com/tag/mips-update)
-    - Davidutro and charlesstlouis bring the latest updates in the world of MIPs.
+  - Davidutro and charlesstlouis bring the latest updates in the world of MIPs.
 - [MakerDAO Standard Governance Processes](https://forum.makerdao.com/t/makerdao-standard-governance-processes/4298)
-    - LongForWisdom writes a brief overview of the currently operating governance processes in the Maker community. Confused between Signals, Declarations, and MIPs? Look no further.
+  - LongForWisdom writes a brief overview of the currently operating governance processes in the Maker community. Confused between Signals, Declarations, and MIPs? Look no further.
 - [The Official Welcome Thread](https://forum.makerdao.com/t/the-official-welcome-thread/771/4)
-    - A welcome and introductions thread. Not strictly speaking governance, but if anyone new or old wants to introduce themselves, now is your chance!
+  - A welcome and introductions thread. Not strictly speaking governance, but if anyone new or old wants to introduce themselves, now is your chance!
 
 ### Christopher Mooney
 
@@ -117,7 +117,7 @@ If you have the time to read over and vote in active threads, that would be much
 - There was a discussion whether we should implement the debt ceiling instant access module for renBTC into the model executive. We might hit the debt ceiling before the end of next week. There is still 35 million unutilized debt. However, it's not growing as extreme for ETH-A. We are probably fine, but we also can't exclude it. I'm leaving this decision for LongForWisdom because this may have implications for governance.
 - The rates group released the monthly rates proposal. We proposed a modest rate increase for major vault types. We included forwarding guidance where we considered the possibility to make additional rate increase before the end of this month, especially if we still see extreme debt growth on ETH-A. Please comment on proposed changes and stay tuned if we may need to propose another rate increase before the end of the month. Yesterday we released sub-proposals for the core unit mandate and the budget. Let us know if you have any recommendations on the structure we have in mind and our proposed budget.
 - Finally, we began studying liquidations 2.0 assets. We are also looking into the ETH-C vault type, which has a high liquidation ratio. These vaults are supported by Maker holders this week, so we proposed some potential liquidation ratios and risk premiums for this vault type in case we might want to implement it soon. This could be beneficial if we're going to move some of this debt growth from ETH-A to ETH-C or begin considering high rates on ETH-A.
-    - LongForWisdom: Great, Thank you, Primoz. I'll briefly speak about W-BTC. We mentioned increasing the line this Friday if it were needed. I don't think we're in a position where there's an apparent urgency given that W-BTC hasn't been rising as much relative to ETH. We can do it next Friday as long as the poll passes.
+  - LongForWisdom: Great, Thank you, Primoz. I'll briefly speak about W-BTC. We mentioned increasing the line this Friday if it were needed. I don't think we're in a position where there's an apparent urgency given that W-BTC hasn't been rising as much relative to ETH. We can do it next Friday as long as the poll passes.
 
 ### Sébastien Derivaux
 
@@ -126,13 +126,13 @@ If you have the time to read over and vote in active threads, that would be much
 [14:23](https://youtu.be/gLdCPwvYuFk?t=863)
 
 - For Real World Assets, I have three updates:
-    - We have published a real-world finance Core Unit for future Core Units, an experiment to provide transparency among the team. Check it out and give your opinions.
-    - We are moving forward on People's Company. It was greenlit last week. However, we are negotiating with them on new terms because the loan to value of 18% was a bit high. If you are interested in knowing more detailed information about that, please ping me on RocketChat. I can use your feedback on the negotiation.
-    - Finally, we are still working on how to scale RWAs. We are figuring out details such as using an asset manager instead of asset originators and using trust instead of SPVS managed by the asset originators themselves, which is an issue for many people. When we make a more significant investment, it will require more safety.
+  - We have published a real-world finance Core Unit for future Core Units, an experiment to provide transparency among the team. Check it out and give your opinions.
+  - We are moving forward on People's Company. It was greenlit last week. However, we are negotiating with them on new terms because the loan to value of 18% was a bit high. If you are interested in knowing more detailed information about that, please ping me on RocketChat. I can use your feedback on the negotiation.
+  - Finally, we are still working on how to scale RWAs. We are figuring out details such as using an asset manager instead of asset originators and using trust instead of SPVS managed by the asset originators themselves, which is an issue for many people. When we make a more significant investment, it will require more safety.
 - Matthew Rabinowitz: Concerning any 6S updates, please stay tuned in the forums. Within the next two weeks, you'll see a lot of content in there.
-    - LongForWisdom: Thank you, Seb. It's exciting to see that move forward as well.
-    - Matthew Rabinowitz: Actually, I need to work with you on how we're going to publish so many documents. We'll have to figure that out.
-    - LongForWisdom: Sure, get in touch with me anytime.
+  - LongForWisdom: Thank you, Seb. It's exciting to see that move forward as well.
+  - Matthew Rabinowitz: Actually, I need to work with you on how we're going to publish so many documents. We'll have to figure that out.
+  - LongForWisdom: Sure, get in touch with me anytime.
 
 ### Juan
 
@@ -152,9 +152,9 @@ If you have the time to read over and vote in active threads, that would be much
 ##### Comments
 
 - Frank Cruz: The REINNO call you had yesterday, Juan, had a tough crowd. Anybody who hasn't watched that should check it out. It's good to see the community come out and really hammer down on MIP6. It's not easy to understand, but it's a really good video. I wanted to ask real quick; do you guys think it would be a good idea to have a core unit for the Clubhouse app to give Maker a little more attention? I was hoping you could promote it. Actually, Nick, I saw you on there, maybe you or Anna could start the room?
-    - Juan: I think core units, in general, should focus on providing value, regardless of the means that they use. Therefore, if the oracle's core unit thinks that they should do something on Clubhouse that provides value to the DAO or the wider community, then, by all means, this might be a great idea. However, I don't think that we should create core units around tools or mediums. Nonetheless, it's whatever the DAO and the Maker holders want. If this is something that the Maker holders agree with, go ahead and publish it.
-    - Frank: Yeah, I know. I was just being sarcastic. But I really do think that it's a good tool. It's getting popular. I've been noticing many other projects going on there, such as DeFi. I'm wondering if some of us can get together and start something. I was being sarcastic about the core unit but maybe start something like a clubhouse. Juan, you'd be good at it. You can be a moderator or anybody else here you guys would want to nominate. In any case, it's getting a lot of traction. I think it'd be a good way to get the word out about DAI, Maker, and what we do as a community. It's something that's needed, in my opinion.
-    - Juan: Thanks for the confidence, Frank. There are definitely core units considering different mediums. It's a good suggestion.
+  - Juan: I think core units, in general, should focus on providing value, regardless of the means that they use. Therefore, if the oracle's core unit thinks that they should do something on Clubhouse that provides value to the DAO or the wider community, then, by all means, this might be a great idea. However, I don't think that we should create core units around tools or mediums. Nonetheless, it's whatever the DAO and the Maker holders want. If this is something that the Maker holders agree with, go ahead and publish it.
+  - Frank: Yeah, I know. I was just being sarcastic. But I really do think that it's a good tool. It's getting popular. I've been noticing many other projects going on there, such as DeFi. I'm wondering if some of us can get together and start something. I was being sarcastic about the core unit but maybe start something like a clubhouse. Juan, you'd be good at it. You can be a moderator or anybody else here you guys would want to nominate. In any case, it's getting a lot of traction. I think it'd be a good way to get the word out about DAI, Maker, and what we do as a community. It's something that's needed, in my opinion.
+  - Juan: Thanks for the confidence, Frank. There are definitely core units considering different mediums. It's a good suggestion.
 
 ### Anna Kryukova
 
@@ -246,27 +246,27 @@ If you have the time to read over and vote in active threads, that would be much
 
 - Chris: Great presentation.
 - LongForWisdom: I speak for everyone when I say that everyone is very appreciative.
-    - Sebastien Derivaux: Should I continue next month? It takes half the day. I think I got the answer.
+  - Sebastien Derivaux: Should I continue next month? It takes half the day. I think I got the answer.
 - LongForWisdom: Great, does anybody want to share comments or questions with Seb? I'll kick one-off. A lot of the increase in revenues has been correlated with the bullish sentiment in crypto. How much of this revenue and usage should we expect to stay if the bullishness decreases?
-    - Sebastien Derivaux: I don't have any answer but what I want to say is that we need to work on one subject to know our own liabilities. We have over one billion DAI outstanding. We need to know how much is used to farm or on protocols and how much people use for daily purposes. I have DAI in some protocols to earn yield, but there's no need to have DAI if there's no yield. Otherwise, I would have ETH. This is important because, say, you can earn 2% on the amount of DAI outstanding. If this amount decreases to 100 million, that's a different story. The minimum is the amount of DAI used by non-farming activities.
-    - LongForWisdom: One other thing I noticed about the space, in general, is if you go to the etherscan tab for DAI, all these addresses for pools and various things are illiquid. This is essentially what you're saying in terms of farming. A lot of the demand comes from liquidity pools. In the case of stablecoin liquidity pools, I'm not sure how sticky that is if there were to be a bearish sentiment, right?
-    - Sebastien Derivaux: The curve of the Uniswap can be sticky because you always need to translate ETH to DAI and vice versa. However, some others like Band bridge or the algorithmic stablecoins. I'm not sure if there is still one, but there were many farming activities on those, which will disappear.
-    - LongForWisdom: Yeah, it makes sense.
-    - Sebastien Derivaux: That's really what we need to focus on because we could see many onboarding new collaterals and prevailing projects. In the end, what matters is to have people happy to hold some DAI because if they switch to USDC, we are dead.
-    - LongForWisdom: I think the focus on the product has mainly been the default right because of the DAI peg-like issue. Up to this point, demand has been exceeding supply, which has been great, but that's not necessarily always the case, as you're saying. Does anybody want to share?
-    - Matthew Rabinowitz: Hopefully, people are using DAI as a liquid medium of exchange. In that regard, if it trades at its peg, you'll never really know who's farming and who's using it in the real world. The fact that it can be farmed is a spectacular use case. Who knows what else it'll be used for. Concerning the question regarding the general valuation of MKR attributed to the crypto bullishness, I hope it's driven by earnings and multiple earnings thereof. The more assets and collateral we bring, the more earnings we'll have, which improves the valuation.
-    - Sebastien Derivaux: Yeah, I see in the chat that Chris says that he has a large position he used in the real world. However, if it's in the real world, it's no longer DAI. he had to sell the DAI to the people. It's the same if we integrate real-world assets; the DAI will stay in DeFi, so we need some people who have DAI on their wallets. The most sticky reason is to transact. For example, when you want to buy a coffee, everyone has a real wallet, which needs cash. When you do a transaction, you need to monitor the money directly. That's why you want to have some reserve of liquidity. Nonetheless, we need to be the winner on the volume transacted.
+  - Sebastien Derivaux: I don't have any answer but what I want to say is that we need to work on one subject to know our own liabilities. We have over one billion DAI outstanding. We need to know how much is used to farm or on protocols and how much people use for daily purposes. I have DAI in some protocols to earn yield, but there's no need to have DAI if there's no yield. Otherwise, I would have ETH. This is important because, say, you can earn 2% on the amount of DAI outstanding. If this amount decreases to 100 million, that's a different story. The minimum is the amount of DAI used by non-farming activities.
+  - LongForWisdom: One other thing I noticed about the space, in general, is if you go to the etherscan tab for DAI, all these addresses for pools and various things are illiquid. This is essentially what you're saying in terms of farming. A lot of the demand comes from liquidity pools. In the case of stablecoin liquidity pools, I'm not sure how sticky that is if there were to be a bearish sentiment, right?
+  - Sebastien Derivaux: The curve of the Uniswap can be sticky because you always need to translate ETH to DAI and vice versa. However, some others like Band bridge or the algorithmic stablecoins. I'm not sure if there is still one, but there were many farming activities on those, which will disappear.
+  - LongForWisdom: Yeah, it makes sense.
+  - Sebastien Derivaux: That's really what we need to focus on because we could see many onboarding new collaterals and prevailing projects. In the end, what matters is to have people happy to hold some DAI because if they switch to USDC, we are dead.
+  - LongForWisdom: I think the focus on the product has mainly been the default right because of the DAI peg-like issue. Up to this point, demand has been exceeding supply, which has been great, but that's not necessarily always the case, as you're saying. Does anybody want to share?
+  - Matthew Rabinowitz: Hopefully, people are using DAI as a liquid medium of exchange. In that regard, if it trades at its peg, you'll never really know who's farming and who's using it in the real world. The fact that it can be farmed is a spectacular use case. Who knows what else it'll be used for. Concerning the question regarding the general valuation of MKR attributed to the crypto bullishness, I hope it's driven by earnings and multiple earnings thereof. The more assets and collateral we bring, the more earnings we'll have, which improves the valuation.
+  - Sebastien Derivaux: Yeah, I see in the chat that Chris says that he has a large position he used in the real world. However, if it's in the real world, it's no longer DAI. he had to sell the DAI to the people. It's the same if we integrate real-world assets; the DAI will stay in DeFi, so we need some people who have DAI on their wallets. The most sticky reason is to transact. For example, when you want to buy a coffee, everyone has a real wallet, which needs cash. When you do a transaction, you need to monitor the money directly. That's why you want to have some reserve of liquidity. Nonetheless, we need to be the winner on the volume transacted.
 - LongForWisdom: Seeing many good comments. If anybody wants to put these in the recording, that might be good. Greg or Chris?
-    - Greg: If you look at DAI's structuring behind the scenes, it's not as conducive to payments as USDC. It's going to be very hard for us to beat them at that game. They have unlimited liquidity from the legacy system. In theory, we have to use USDC to get it. Therefore, it doesn't make much sense to have people onboard USDC to onboard DAI and use that as a payment currency. For savings, DAI can beat all of them. The way I think of it is to start a cycle. Hence, you need to fill all the functions of money. You need a unit of account, a medium of exchange, and a store of value. Still, you need to pick one to start with and get a sink into that vertical. Then, once that builds, you can have the others come organically. I think the one that we build to sync with is savings.
-    - Akiva Dubrofsky: I think there's a significant usage for DAI and structured products, especially when the DSR comes back. That's a project I'm working on. More people will be working on it using DAI and DSR and structured products to stimulate a lot of demand.
-    - Greg: Yes, it's temporary. It's going to go away at some point because it's unsustainable. You can view it as subsidizing our DSR. It's sort of like a DSR, you're getting savings to return, and it's going to eventually go away. We can replace it with the actual DSR when that happens.
-    - Sebastien Derivaux: In that case, it means that the DSR is above what is the natural market rate. It's a risk-free interest rate of the market. If it's above this diminishable spread between how much we borrow and how much we lend, then I'm not sure it'll work very well.
-    - Greg: But isn't our advantage that we can cherry-pick collateral with high margins. As long as we can offer a percentage point over Libor, we'll be the highest yield on the market.
-    - Sebastien Derivaux: Yes, but also creating more risk. What is the difference between a competitor that can do the same? Circle is offering saving products at 10%.
-    - Greg: They can do that by adjusting the risk profile of the investor. Even when you compound, you're going out on the risk curve. DSR has no liquidity constraints. I think that will be very attractive to some of the larger integrators.
-    - Seb: Yeah, sure, but at this point, this will reduce net income.
-    - Greg: Yes, but you get a smaller piece of a bigger pie in my perspective.
-    - Matthew Rabinowitz: It's a wonderful problem to have.
+  - Greg: If you look at DAI's structuring behind the scenes, it's not as conducive to payments as USDC. It's going to be very hard for us to beat them at that game. They have unlimited liquidity from the legacy system. In theory, we have to use USDC to get it. Therefore, it doesn't make much sense to have people onboard USDC to onboard DAI and use that as a payment currency. For savings, DAI can beat all of them. The way I think of it is to start a cycle. Hence, you need to fill all the functions of money. You need a unit of account, a medium of exchange, and a store of value. Still, you need to pick one to start with and get a sink into that vertical. Then, once that builds, you can have the others come organically. I think the one that we build to sync with is savings.
+  - Akiva Dubrofsky: I think there's a significant usage for DAI and structured products, especially when the DSR comes back. That's a project I'm working on. More people will be working on it using DAI and DSR and structured products to stimulate a lot of demand.
+  - Greg: Yes, it's temporary. It's going to go away at some point because it's unsustainable. You can view it as subsidizing our DSR. It's sort of like a DSR, you're getting savings to return, and it's going to eventually go away. We can replace it with the actual DSR when that happens.
+  - Sebastien Derivaux: In that case, it means that the DSR is above what is the natural market rate. It's a risk-free interest rate of the market. If it's above this diminishable spread between how much we borrow and how much we lend, then I'm not sure it'll work very well.
+  - Greg: But isn't our advantage that we can cherry-pick collateral with high margins. As long as we can offer a percentage point over Libor, we'll be the highest yield on the market.
+  - Sebastien Derivaux: Yes, but also creating more risk. What is the difference between a competitor that can do the same? Circle is offering saving products at 10%.
+  - Greg: They can do that by adjusting the risk profile of the investor. Even when you compound, you're going out on the risk curve. DSR has no liquidity constraints. I think that will be very attractive to some of the larger integrators.
+  - Seb: Yeah, sure, but at this point, this will reduce net income.
+  - Greg: Yes, but you get a smaller piece of a bigger pie in my perspective.
+  - Matthew Rabinowitz: It's a wonderful problem to have.
 - LongForWisdom: Alright, so maybe that about wraps up the discussion on that. Lewis just made a point in the sidebar mentioning how gas costs hurt everyone on Ethereum and the use case for DAI for payments and store of value. We need an L2 core unit sooner rather than later.
 
 ## Open Discussion
@@ -276,23 +276,23 @@ If you have the time to read over and vote in active threads, that would be much
 [1:04:22](https://youtu.be/gLdCPwvYuFk?t=3862)
 
 - Frank Cruz: Seb, you mentioned you were going to bring something up.
-    - Sebastien Derivaux: We can discuss that a little bit. I had a call with some AAVE investors. I tried to pitch Maker to them, and it was partially successful. They said was that it was too complicated. I replied that AAVE is a marketplace for borrowers and lenders and that Maker doesn't have lenders. We mint the DAI. They understand that DAI users are not getting fees, but their reaction was that you're done if you don't have DAI anymore. If I invest in AAVE, there is always a new token if DAI disappears. This was the first interaction. I tried to tell them they can make a slight margin on AAVE or maybe even none at the moment. This wasn't a big deal because, in their mind, AAVE is the leader in the money market. If you have a small cut on a bigger market, it's not a big deal. There's almost no risk because even if USDC disappears, AAVE will stay. I tried to tell them it doesn't exactly work like that. It's easier to duplicate AAVE than Maker because you don't have to build trust in DAI. Akiva is asking me if AAVE tokens have legal rights over the platform. That's another question we need to answer. They prefer the marketplace because it's easier to understand. They don't have the token risk. I told them that Maker creates money and burns MKR tokens while AAVE is creating AAVE tokens. This is not a very good argument in DeFi. People don't really care about burning or minting MKR. It will change at some point. The other point they made is that we should use Chainlink oracles. However, we already have some oracles, and the guy said that he doesn't know how that works. We understand that chaining is public and transparent. I told them the oracle is not an issue. We have customers and even new customers every month. If we are so bad, how is it possible to have new customers every month? One interesting thing was that one of the investors always borrowed USDT on AAVE. I thought, what's the point of using USDT? His reason was that it's a good put option because if USDT crashes as he borrowed USDT to borrow something else, there is no risk for him. If it goes down, his loan decreases in value. That was another reason for using AAVE. One of the guys was very interested because he can put some Loopring tokens. After all, we have a vault. AAVE doesn't have one, and it's only three percent. On Binance, it cost him two percent per day. That was a good selling point. If you have some questions or comments, I know we need to work a little bit more on marketing and stuff like that.
+  - Sebastien Derivaux: We can discuss that a little bit. I had a call with some AAVE investors. I tried to pitch Maker to them, and it was partially successful. They said was that it was too complicated. I replied that AAVE is a marketplace for borrowers and lenders and that Maker doesn't have lenders. We mint the DAI. They understand that DAI users are not getting fees, but their reaction was that you're done if you don't have DAI anymore. If I invest in AAVE, there is always a new token if DAI disappears. This was the first interaction. I tried to tell them they can make a slight margin on AAVE or maybe even none at the moment. This wasn't a big deal because, in their mind, AAVE is the leader in the money market. If you have a small cut on a bigger market, it's not a big deal. There's almost no risk because even if USDC disappears, AAVE will stay. I tried to tell them it doesn't exactly work like that. It's easier to duplicate AAVE than Maker because you don't have to build trust in DAI. Akiva is asking me if AAVE tokens have legal rights over the platform. That's another question we need to answer. They prefer the marketplace because it's easier to understand. They don't have the token risk. I told them that Maker creates money and burns MKR tokens while AAVE is creating AAVE tokens. This is not a very good argument in DeFi. People don't really care about burning or minting MKR. It will change at some point. The other point they made is that we should use Chainlink oracles. However, we already have some oracles, and the guy said that he doesn't know how that works. We understand that chaining is public and transparent. I told them the oracle is not an issue. We have customers and even new customers every month. If we are so bad, how is it possible to have new customers every month? One interesting thing was that one of the investors always borrowed USDT on AAVE. I thought, what's the point of using USDT? His reason was that it's a good put option because if USDT crashes as he borrowed USDT to borrow something else, there is no risk for him. If it goes down, his loan decreases in value. That was another reason for using AAVE. One of the guys was very interested because he can put some Loopring tokens. After all, we have a vault. AAVE doesn't have one, and it's only three percent. On Binance, it cost him two percent per day. That was a good selling point. If you have some questions or comments, I know we need to work a little bit more on marketing and stuff like that.
 - SamM: I think a good step is to present your presentation. The numbers speak for themselves.
-    - Sebastien Derivaux: I sent them the presentation before, but they didn't want to speak about it. It couldn't work because they told me that Chainlink and AAVE are making almost the same amount of money as us.
-    - SamM: Chainlink? From what? Price appreciation?
-    - Sebastien Derivaux: No, from something else. I never studied Chainlink.
-    - Nik: They don't make anything at all.
-    - Wouter: They're losing money, right?
-    - Sebastien Derivaux: It's not easy to see that if you don't look in detail. Even for AAVE, there will be some origination fee of 20 bips per loan. I'm not sure if it's true or not, but it's correct that there are 20 bips per origination fee. Suppose you multiply it by the loan originated in the last quarter. In that case, it will be 20 million per year or 20 million per quarter. We are making 60 million. AAVE will probably make the same.
-    - SamM: What are they making that from? The loans?
-    - Sebastien Derivaux: The origination fee. I don't know the details because I haven't studied AAVE as well. For me, they aren't making anything except flash loans.
-    - SamM: Flash loans will be only temporary revenue. They will go to zero as these new tokens come online.
-    - Sebastien Derivaux: But what is the plan for AAVE?
-    - SamM: I don't know.
+  - Sebastien Derivaux: I sent them the presentation before, but they didn't want to speak about it. It couldn't work because they told me that Chainlink and AAVE are making almost the same amount of money as us.
+  - SamM: Chainlink? From what? Price appreciation?
+  - Sebastien Derivaux: No, from something else. I never studied Chainlink.
+  - Nik: They don't make anything at all.
+  - Wouter: They're losing money, right?
+  - Sebastien Derivaux: It's not easy to see that if you don't look in detail. Even for AAVE, there will be some origination fee of 20 bips per loan. I'm not sure if it's true or not, but it's correct that there are 20 bips per origination fee. Suppose you multiply it by the loan originated in the last quarter. In that case, it will be 20 million per year or 20 million per quarter. We are making 60 million. AAVE will probably make the same.
+  - SamM: What are they making that from? The loans?
+  - Sebastien Derivaux: The origination fee. I don't know the details because I haven't studied AAVE as well. For me, they aren't making anything except flash loans.
+  - SamM: Flash loans will be only temporary revenue. They will go to zero as these new tokens come online.
+  - Sebastien Derivaux: But what is the plan for AAVE?
+  - SamM: I don't know.
 - Sebastien Derivaux: We need to understand the competition to discuss it. We need some competitor analysis because I don't have too much time to see that. Still, everyone is investing and think they are making a lot of money. Someone is wrong, and I hope it's not us. I'm quite sure it's not us.
-    - Chris: The entire space can't use Chainlink oracles, right? Oracles are a system risk. We need a lot of diverse competition in oracles. We don't want to put all our eggs in one basket. It's crazy that people think we can go to Chainlink oracles.
-    - LongForWisdom: Out of curiosity, he's using ours with Chainlink as a fallback?
-    - Chris: No, I think that was one of the YFI contracts that I looked at.
+  - Chris: The entire space can't use Chainlink oracles, right? Oracles are a system risk. We need a lot of diverse competition in oracles. We don't want to put all our eggs in one basket. It's crazy that people think we can go to Chainlink oracles.
+  - LongForWisdom: Out of curiosity, he's using ours with Chainlink as a fallback?
+  - Chris: No, I think that was one of the YFI contracts that I looked at.
 - LongForWisdom: Alright, we'll wrap up here unless anyone has any other points to make about Maker or our competitors.
 
 ## Common Abbreviated Terms

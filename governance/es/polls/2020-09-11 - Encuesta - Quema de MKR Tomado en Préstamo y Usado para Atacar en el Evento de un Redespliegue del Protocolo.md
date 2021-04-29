@@ -2,7 +2,7 @@
 
 El Facilitador de Gobernanza de MakerDAO ha colocado una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling). Esta encuesta le permite a la comunidad de gobernanza de MakerDAO señalar tu apoyo o su oposición al declaración que sigue:
 
-*“En el evento de un ataque de gobernanza malicioso que lleve al redespliegue del Protocolo Maker antes de la introducción de los guardias de flash loans al proceso de gobernanza, la comunidad y los equipos de dominio deben hacer todo lo posible para quemar el MKR involucrado en el ataque, independientemente de si el dueño estuvo directamente involucrado en el ataque"*
+_“En el evento de un ataque de gobernanza malicioso que lleve al redespliegue del Protocolo Maker antes de la introducción de los guardias de flash loans al proceso de gobernanza, la comunidad y los equipos de dominio deben hacer todo lo posible para quemar el MKR involucrado en el ataque, independientemente de si el dueño estuvo directamente involucrado en el ataque"_
 
 Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza permanecerá activa por tres días a partir del lunes 9 de noviembre a las 16:00 UTC.
 
@@ -18,7 +18,7 @@ Respecto a esta encuesta no hay próximos pasos. Su fin es señalar las intencio
 
 # **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Increase the USDC-A Debt Ceiling, Whitelist tBTC on the ETHBTC Oracle - September 11, 2020
-
 ---
+
 ## [Executive Vote] Increase the USDC-A Debt Ceiling, Whitelist tBTC on the ETHBTC Oracle - September 11, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -21,6 +21,7 @@ Community discussion of this change may be found [here](https://forum.makerdao.c
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The USDC-A Debt Ceiling will be increased from 40 million to 100 million.
 - The Vat global `line` parameter will increase from 763 million to 823 million.
 - [tBTC](https://tbtc.network/) will be whitelisted on the ETHBTC Oracle.

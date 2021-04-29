@@ -4,10 +4,11 @@ summary: Signal your support to reduce the minimum bid increase to 2%.
 discussion_link: https://forum.makerdao.com/t/1219
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Surplus Auction Adjustment - February 17, 2020
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **alter the minimum bid increase for Surplus Auctions**.

@@ -1,6 +1,6 @@
 // @flow
 
-import allContributors from "@content/all-contributors.json";
+import allContributors from '@content/all-contributors.json';
 
 type TAuthor = {
   login: string,
@@ -16,7 +16,7 @@ type TAuthor = {
 export function getAuthorData(_author: string): TAuthor {
   return (
     allContributors.contributors.find(
-      (n) => n.login && n.login === _author.replace(/@/g, "")
+      (n) => n.login && n.login === _author.replace(/@/g, '')
     ) || { name: _author } //<- Incase someone puts an @ symbol in their entry
   );
 }

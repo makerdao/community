@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A and WBTC-A Debt Ceilings - January 18, 2021
-
 ---
+
 ## [Executive Vote] Increase ETH-A and WBTC-A Debt Ceilings - January 18, 2021
 
 The Governance Facilitator(s) have placed an urgent, out-of-schedule Executive Vote into the voting system on behalf of the MakerDAO mandated actors and the Maker Governance community. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
@@ -19,13 +19,14 @@ Due to this [forum post](https://forum.makerdao.com/t/urgent-executive-debt-ceil
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-* The ETH-A Debt Ceiling will increase from 740 million DAI to 1 billion DAI.
-* The WBTC-A Debt Ceiling will increase from 160 million DAI to 210 million DAI.
-* The Global Debt Ceiling will increase by 310 million DAI.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- The ETH-A Debt Ceiling will increase from 740 million DAI to 1 billion DAI.
+- The WBTC-A Debt Ceiling will increase from 160 million DAI to 210 million DAI.
+- The Global Debt Ceiling will increase by 310 million DAI.
 
-If this executive vote does not pass within 30 days then it will expire, and will have no effect on the Maker Protocol, even if it should later pass. 
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+If this executive vote does not pass within 30 days then it will expire, and will have no effect on the Maker Protocol, even if it should later pass.
 
 ## Review
 

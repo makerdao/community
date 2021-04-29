@@ -4,10 +4,11 @@ summary: "The Inclusion Poll will run from July 13, 2020 to July 16, 2020 and wi
 discussion_link: https://forum.makerdao.com/t/3139
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for MIP12c2-SP3: Domain Work Requirements for the Onboarding of MANA - July 13, 2020
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (MIP12c2-SP3: Domain Work Requirements for the Onboarding of MANA) should be included into the Monthly Governance Poll.

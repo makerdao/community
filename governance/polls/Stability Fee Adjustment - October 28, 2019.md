@@ -4,19 +4,20 @@ summary: Signal your support to adjust the Stability Fee within a range of 5.5% 
 discussion_link: https://forum.makerdao.com/t/686
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 5.5
-   2: 7.5
-   3: 8.5
-   4: 9
-   5: 9.25
-   6: 9.5
-   7: 9.75
-   8: 10
-   9: 10.5
-   10: 11.5
-   11: 13.5
+  0: Abstain
+  1: 5.5
+  2: 7.5
+  3: 8.5
+  4: 9
+  5: 9.25
+  6: 9.5
+  7: 9.75
+  8: 10
+  9: 10.5
+  10: 11.5
+  11: 13.5
 ---
+
 # Poll: Stability Fee Adjustment - October 28, 2019
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible Dai Stability Fee options. Voters are now able to signal their support for a Stability Fee within a range of 5.5% to 13.5%.

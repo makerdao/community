@@ -10,7 +10,7 @@
   "jsxBracketSameLine": false,
   "overrides": [
     {
-      "files": ["*.css", "*.scss"],
+      "files": ["*.css", "*.scss", "*.md", "*.mdx"],
       "options": {
         "singleQuote": false
       }

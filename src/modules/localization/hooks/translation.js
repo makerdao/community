@@ -1,9 +1,9 @@
 // @flow
 
-import { DEFAULT_LOCALE } from "../index";
-import { TranslationContext } from "..";
-import { useContext } from "react";
-import { useLocation } from "@reach/router";
+import { DEFAULT_LOCALE } from '../index';
+import { TranslationContext } from '..';
+import { useContext } from 'react';
+import { useLocation } from '@reach/router';
 
 type TTranslation = {
   t: (
@@ -32,7 +32,7 @@ export default function useTranslation(
 
   //NOTE(Rejon): We trust the path for locale. If it doesn't exist fallback to DEFAULT LOCALE
   const { pathname } = useLocation();
-  const localeFromPath = pathname.replace(/\/+$/, "").split("/")[1];
+  const localeFromPath = pathname.replace(/\/+$/, '').split('/')[1];
   const locale =
     localeFromPath && allLocales.includes(localeFromPath)
       ? localeFromPath
@@ -76,7 +76,7 @@ export default function useTranslation(
       }
     } else if (!localeStrings[locale][key] && !otherLocale) {
       //Check for common base key in locale. For example: en:{settings:"string"}
-      if (typeof window !== "undefined") {
+      if (typeof window !== 'undefined') {
         console.warn(
           `Translation of '${key}' for locale '${locale}' not found.`
         );
@@ -84,7 +84,7 @@ export default function useTranslation(
       return key;
     } else if (otherLocale && !localeStrings[otherLocale][key]) {
       //Check for common base key in locale. For example: en:{settings:"string"}
-      if (typeof window !== "undefined") {
+      if (typeof window !== 'undefined') {
         console.warn(
           `Translation of '${key}' for  other locale '${otherLocale}' not found.`
         );
@@ -92,7 +92,7 @@ export default function useTranslation(
       return key;
     }
 
-    var pluralString = "";
+    var pluralString = '';
 
     //Plurals check
     if (
@@ -106,46 +106,46 @@ export default function useTranslation(
         switch (variables.count) {
           case 0: {
             //Zero
-            pluralString = "_0";
+            pluralString = '_0';
             break;
           }
 
           case 1: {
             //Singular
-            pluralString = "_1";
+            pluralString = '_1';
             break;
           }
 
           case 2: {
             //Two
-            pluralString = "_2";
+            pluralString = '_2';
             break;
           }
 
           case 3: {
             // Few
-            pluralString = "_3";
+            pluralString = '_3';
             break;
           }
 
           case 4: {
             //Many
-            pluralString = "_4";
+            pluralString = '_4';
             break;
           }
 
           default: {
             //Other
-            pluralString = "_5";
+            pluralString = '_5';
             break;
           }
         }
       } else {
         //Not strict, use general "_plural"/"_none"
         if (variables.count === 0) {
-          pluralString = "_none";
+          pluralString = '_none';
         } else if (variables.count !== 1) {
-          pluralString = "_plural";
+          pluralString = '_plural';
         }
       }
     }
@@ -153,7 +153,7 @@ export default function useTranslation(
     //Add plural key if necessary.
     key += pluralString;
 
-    let finalString = key ? localeStrings[locale][key] || "" : "";
+    let finalString = key ? localeStrings[locale][key] || '' : '';
 
     if (
       lang_space !== null &&
@@ -164,8 +164,8 @@ export default function useTranslation(
       finalString = key
         ? localeStrings[locale][lang_space][key] ||
           localeStrings[locale][key] ||
-          ""
-        : "";
+          ''
+        : '';
     }
 
     //Querying otherLocale and otherLocale exists in app locales.
@@ -179,15 +179,15 @@ export default function useTranslation(
         localeStrings[otherLocale][lang_space] !== undefined
       ) {
         finalString = key
-          ? localeStrings[otherLocale][lang_space][key] || ""
-          : "";
+          ? localeStrings[otherLocale][lang_space][key] || ''
+          : '';
       } else {
-        finalString = key ? localeStrings[otherLocale][key] || "" : "";
+        finalString = key ? localeStrings[otherLocale][key] || '' : '';
       }
     }
 
     //Variable Replacement
-    if (variables && typeof variables === "object") {
+    if (variables && typeof variables === 'object') {
       Object.keys(variables).forEach((key) => {
         let variableToReplace = `{{${key}}}`;
 

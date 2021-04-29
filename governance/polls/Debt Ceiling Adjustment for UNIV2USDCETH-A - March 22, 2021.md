@@ -4,12 +4,13 @@ summary: Signal your support or opposition for adjusting the UNIV2USDCETH-A Debt
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Increase Debt Ceiling and enable DC-IAM for UNIV2USDCETH-A - March 22, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Mandated Actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 22 at 16:00 UTC.
@@ -19,18 +20,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following changes:
-* Increase Maximum Debt Ceiling for UNIV2USDCETH-A from 3 million DAI to 50 million DAI.
-* Enable the Debt Ceiling Instant Access Module ([DC-IAM](https://community-development.makerdao.com/en/learn/governance/module-dciam)) for UNIV2USDCETH-A with the following parameters:
-    * Ceiling Increase Cooldown (`ttl`) = 12h
-    * Target Available Debt (`gap`) = 5m
+
+- Increase Maximum Debt Ceiling for UNIV2USDCETH-A from 3 million DAI to 50 million DAI.
+- Enable the Debt Ceiling Instant Access Module ([DC-IAM](https://community-development.makerdao.com/en/learn/governance/module-dciam)) for UNIV2USDCETH-A with the following parameters:
+  - Ceiling Increase Cooldown (`ttl`) = 12h
+  - Target Available Debt (`gap`) = 5m
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-uniswap-dai-eth-usdc-eth-dai-usdc-debt-ceilings-add-dc-iam/7063) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These parameter changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these parameter changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- These parameter changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then these parameter changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

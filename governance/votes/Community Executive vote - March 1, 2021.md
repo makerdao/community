@@ -1,14 +1,14 @@
 ---
 title: Template - [Executive Vote] Increase PSM-USDC-A Debt Ceiling - March 1, 2021
-
 ---
+
 ## [Executive Vote] Increase PSM-USDC-A Debt Ceiling - March 1, 2021
 
 The Governance Facilitator(s) and the MakerDAO Risk Domain team have placed an urgent, out-of-schedule Executive Proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Increase PSM-USDC-A Debt Ceiling
 
-Due to this [post](https://forum.makerdao.com/t/urgent-executive-psm-usdc-a-usdc-a-dc-changes-1st-march-2021/6794) from the MakerDAO Risk Domain Team and this in-progress [signal request](https://forum.makerdao.com/t/signal-request-increase-psm-dc-and-set-debt-ceiling-for-usdc-a-b-to-0/6692) on the same topic, the Governance Facilitator and the MakerDAO Risk Domain Team have decided to propose an urgent increase to the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling). 
+Due to this [post](https://forum.makerdao.com/t/urgent-executive-psm-usdc-a-usdc-a-dc-changes-1st-march-2021/6794) from the MakerDAO Risk Domain Team and this in-progress [signal request](https://forum.makerdao.com/t/signal-request-increase-psm-dc-and-set-debt-ceiling-for-usdc-a-b-to-0/6692) on the same topic, the Governance Facilitator and the MakerDAO Risk Domain Team have decided to propose an urgent increase to the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling).
 
 This urgent proposal is being put forward in order to reduce the chances of the Maker Protocol not having available stablecoin debt provision in the event of an unexpected market downturn. If this executive proposal passes, the PSM-USDC-A debt ceiling will increase to 1 billion DAI from its current value (around 247M at time of writing).
 
@@ -21,10 +21,11 @@ Due to this in-progress [signal request](https://forum.makerdao.com/t/signal-req
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will increase to 1 billion DAI from its current value (around 247M at time of writing).
 - The USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will decrease from 555 million DAI to zero DAI.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
 If this executive vote does not pass within 30 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 

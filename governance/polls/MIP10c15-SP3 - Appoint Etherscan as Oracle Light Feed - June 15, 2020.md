@@ -1,13 +1,14 @@
 ---
 title: MIP10c15-SP3 Governance Poll to Appoint Etherscan as Oracle Light Feed - June 15, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to next week's Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c14-sp3-proposal-appoint-etherscan-as-light-feed/2798/3
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP10c15-SP3 Governance Poll to Appoint Etherscan as Oracle Light Feed - June 15, 2020
 
 On June 15, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c15-SP3 will proceed to the final Executive Vote on June 26th. In short, MIP10c15-SP3 appoints Etherscan as an Oracle Light Feed who submits price data to the MakerDAO Oracles.

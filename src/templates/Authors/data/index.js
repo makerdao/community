@@ -1,1 +1,1 @@
-export { default as allContributorKeys } from "./allContributorKeys";
+export { default as allContributorKeys } from './allContributorKeys';

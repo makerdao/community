@@ -1,16 +1,16 @@
 // @flow
 /** @jsx jsx */
 
-import { TitleConverter, UrlConverter, getBlogPostTypeFromPath } from "@utils";
+import { TitleConverter, UrlConverter, getBlogPostTypeFromPath } from '@utils';
 
-import BlogAuthor from "./BlogAuthor";
-import { Link } from "@atoms";
-import type { Node } from "react";
-import type { TFrontmatter } from "../../types";
-import isNil from "lodash/isNil";
-import { jsx } from "theme-ui";
-import { parseInt } from "lodash";
-import { useTranslation } from "@modules/localization";
+import BlogAuthor from './BlogAuthor';
+import { Link } from '@atoms';
+import type { Node } from 'react';
+import type { TFrontmatter } from '../../types';
+import isNil from 'lodash/isNil';
+import { jsx } from 'theme-ui';
+import { parseInt } from 'lodash';
+import { useTranslation } from '@modules/localization';
 
 type TBlogCardProps = {|
   excerpt: string,
@@ -32,27 +32,27 @@ export default function BlogCard({
   const { authors, date, description, image, title } = frontmatter;
   const type = getBlogPostTypeFromPath(fileAbsolutePath);
 
-  const isContent = fileAbsolutePath.indexOf("/content/") !== -1;
+  const isContent = fileAbsolutePath.indexOf('/content/') !== -1;
 
   const postLink = isContent
     ? UrlConverter({ fileAbsolutePath })
     : fileAbsolutePath
         .slice(
-          fileAbsolutePath.indexOf("/blogPosts/") + 10,
+          fileAbsolutePath.indexOf('/blogPosts/') + 10,
           fileAbsolutePath.length
         )
-        .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, "");
+        .replace(/(.mdx.md|.md|.mdx|index.mdx)$/gm, '');
 
   const pagePathSplit = postLink
-    .split("/")
-    .splice(1, postLink.split("/").length - 1);
-  const typeIndex = pagePathSplit.indexOf("blog") + 1;
+    .split('/')
+    .splice(1, postLink.split('/').length - 1);
+  const typeIndex = pagePathSplit.indexOf('blog') + 1;
 
   //Split absolute path up to blog, get directory AFTER blog.
   let postType =
     typeIndex !== pagePathSplit.length - 1
       ? pagePathSplit[typeIndex]
-      : "general";
+      : 'general';
 
   let postImage = null;
 
@@ -78,25 +78,25 @@ export default function BlogCard({
   return (
     <div
       sx={{
-        maxWidth: ["unset", "unset", "286px"],
-        width: "100%",
+        maxWidth: ['unset', 'unset', '286px'],
+        width: '100%',
         px: 2,
-        borderBottom: ["1px solid", "unset", "unset"],
-        borderColor: "muted",
-        pb: [3, "unset", "unset"],
-        pt: ["34px", "unset", "unset"],
+        borderBottom: ['1px solid', 'unset', 'unset'],
+        borderColor: 'muted',
+        pb: [3, 'unset', 'unset'],
+        pt: ['34px', 'unset', 'unset'],
       }}
     >
       <p
         sx={{
           fontWeight: 400,
-          color: "mutedAlt",
-          textTransform: "uppercase",
+          color: 'mutedAlt',
+          textTransform: 'uppercase',
           mt: 0,
           mb: 3,
         }}
       >
-        {isLatest && t("Latest_In")}
+        {isLatest && t('Latest_In')}
         {type && (
           <Link
             to={`/blog?section=${type}`}
@@ -109,14 +109,14 @@ export default function BlogCard({
         )}
       </p>
       {postImage && (
-        <Link to={postLink} hideExternalIcon sx={{ display: "block" }}>
+        <Link to={postLink} hideExternalIcon sx={{ display: 'block' }}>
           <img
             src={postImage}
             sx={{
-              maxWidth: ["unset", "unset", "288px"],
-              width: "100%",
-              height: "188px",
-              objectFit: "cover",
+              maxWidth: ['unset', 'unset', '288px'],
+              width: '100%',
+              height: '188px',
+              objectFit: 'cover',
               mb: 2,
             }}
           />
@@ -125,17 +125,17 @@ export default function BlogCard({
 
       <Link
         sx={{
-          mb: "26px",
+          mb: '26px',
           fontWeight: 500,
           fontSize: [6],
-          color: "text",
-          display: "block",
+          color: 'text',
+          display: 'block',
         }}
         to={postLink}
         hideExternalIcon
       >
-        {" "}
-        {postTitle}{" "}
+        {' '}
+        {postTitle}{' '}
       </Link>
 
       {!isNil(authors) && (

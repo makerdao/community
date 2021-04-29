@@ -4,10 +4,11 @@ summary: Signal your support or opposition to increase the BAT Debt Ceiling from
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-bat-debt-ceiling/3919
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the BAT-A Debt Ceiling - September 21, 2020.md
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can use this poll to express support or opposition for a **BAT Debt Ceiling** increase from 5 million Dai to 10 million Dai.
@@ -20,7 +21,7 @@ The **BAT Debt Ceiling** was voted on in a forum signal request. Please review t
 
 ## Next Steps
 
-If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If this poll ends with a 'Yes' majority, this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this debt ceiling change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 

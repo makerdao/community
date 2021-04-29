@@ -1,13 +1,14 @@
 ---
 title: Update the Data Model of the ETHUSD Oracle (MIP10c7-SP1) - September 21, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c7-sp1-update-ethusd-data-model/4106
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Update the Data Model of the ETHUSD Oracle (MIP10c7-SP1) - September 21, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to updating the data model of the ETHUSD Oracle. The Data Model accounts for which sources are used to collect price data as well as how that data is processed into a canonical price.

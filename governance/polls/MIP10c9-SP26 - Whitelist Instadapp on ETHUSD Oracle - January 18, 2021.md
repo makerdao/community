@@ -4,12 +4,13 @@ summary: Signal your support or opposition for whitelisting Instadapp on the ETH
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp26-subproposal-to-whitelist-instadapp-gelato-automation-contract-for-eth-usd-oracle-access/5901
 vote_type: Plurality Voting
 categories:
-   - Oracles
+  - Oracles
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist Instadapp on ETHUSD Oracle (MIP10c9-SP26) - January 18, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
@@ -27,10 +28,11 @@ Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp26
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
+- This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+- If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 

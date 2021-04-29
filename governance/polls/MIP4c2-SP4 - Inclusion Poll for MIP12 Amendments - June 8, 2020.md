@@ -1,13 +1,14 @@
 ---
 title: "MIP4c2-SP4: Inclusion Poll for MIP12 Amendments - June 8, 2020"
-summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2666
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP4c2-SP4: Inclusion Poll for MIP12 Amendments - June 8, 2020
 
 On June 8, the Maker Community will vote to determine whether the Maker Improvement Subproposal, [MIP4c2-SP4 (MIP12 Amendments)](https://forum.makerdao.com/t/2666), will proceed to next week's Governance Poll. In short, MIP4c2-SP4 proposes an update to MIP12 to allow the collateral onboarding process to operate more efficiently. More specifically, it states that collateral onboarding can continue to operate despite not having an official General Risk Model ratified through the [MIP11](https://github.com/makerdao/mips/blob/master/MIP11/mip11.md) process.

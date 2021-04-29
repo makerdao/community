@@ -1,12 +1,13 @@
 ---
 title: Template - [Executive Vote] Increase the ETH-A Debt Ceiling
-
 ---
+
 ## [Executive Vote] Increase the ETH-A Debt Ceiling
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the ETH-A Debt Ceiling
+
 As per the recent poll prompted by the MakerDAO Risk Team located [here](https://vote.makerdao.com/polling-proposal/qmp1mutxgaykgempxv5tvr3eu9paqzjwcd8bb9vvz9vyht), this proposal asks whether the ETH-A Debt Ceiling should be increased from 340 million to 420 million.
 
 ## Summary

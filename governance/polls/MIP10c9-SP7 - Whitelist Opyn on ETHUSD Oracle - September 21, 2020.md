@@ -1,13 +1,14 @@
 ---
 title: Whitelist Opyn on ETHUSD Medianizer Oracle (MIP10c9-SP7) - September 21, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp7-whitelist-opyn-on-ethusd-oracle/4061
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Whitelist Opyn on ETHUSD Medianizer Oracle (MIP10c9-SP7) - September 21, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. The community can vote in this poll to express support or opposition to appending Opyn to the ETHUSD Medianizer Oracle whitelist to read price data.

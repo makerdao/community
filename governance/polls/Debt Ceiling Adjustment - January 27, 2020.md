@@ -4,10 +4,11 @@ summary: Signal your support to adjust the Sai Debt Ceiling to 30 million.
 discussion_link: https://forum.makerdao.com/t/1190
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Debt Ceiling Adjustment - January 27, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to alter the **Sai Debt Ceilings**. Voters are now able to signal their support to:
@@ -18,7 +19,7 @@ This Governance Poll ([FAQ](https://community-development.makerdao.com/makerdao-
 
 ## Review
 
->"Until we can fully understand the ramifications of the unpaid stability fees, the ~20 million of unused cap space is likely too much and opens up the community to unnecessary risk.".
+> "Until we can fully understand the ramifications of the unpaid stability fees, the ~20 million of unused cap space is likely too much and opens up the community to unnecessary risk.".
 
 Please review the [discussion thread](https://forum.makerdao.com/t/lowering-the-sai-debt-ceiling/1190) for more information.
 

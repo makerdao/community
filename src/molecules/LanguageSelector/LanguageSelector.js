@@ -2,15 +2,15 @@
 
 /** @jsx jsx */
 
-import { Box, Text, jsx, useThemeUI } from "theme-ui";
-import { Link, Select } from "@atoms";
+import { Box, Text, jsx, useThemeUI } from 'theme-ui';
+import { Link, Select } from '@atoms';
 
-import { Fragment } from "react";
-import type { Node } from "react";
-import { components } from "react-select";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useNavigate } from "@reach/router";
-import { useTranslation } from "@modules/localization";
+import { Fragment } from 'react';
+import type { Node } from 'react';
+import { components } from 'react-select';
+import { trackCustomEvent } from 'gatsby-plugin-google-analytics';
+import { useNavigate } from '@reach/router';
+import { useTranslation } from '@modules/localization';
 
 type TData = {
   value: string,
@@ -31,16 +31,16 @@ export default function LanguageSelector({
 
   const onChange = ({ value, label }) => {
     //Update local storage on switch
-    if (typeof window !== "undefined") {
-      localStorage.setItem("locale", value.split("/")[1]);
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('locale', value.split('/')[1]);
     }
 
     //Google Analytics Tracking
     trackCustomEvent({
-      category: "Language Selector",
+      category: 'Language Selector',
       action: `Switch Page to ${label}`,
       label: `From Page: ${pagePath} (${locale}) |  To Page: ${value} (${
-        value.split("/")[1]
+        value.split('/')[1]
       })`,
     });
 
@@ -52,35 +52,35 @@ export default function LanguageSelector({
       {...props}
       sx={{
         marginTop: 0,
-        borderRadius: "12px",
-        border: "1px solid",
-        borderColor: "muted",
-        overflow: "hidden",
+        borderRadius: '12px',
+        border: '1px solid',
+        borderColor: 'muted',
+        overflow: 'hidden',
       }}
     />
   );
 
   const MenuList = (props) => (
-    <components.MenuList {...props} sx={{ py: 0, borderRadius: "12px" }} />
+    <components.MenuList {...props} sx={{ py: 0, borderRadius: '12px' }} />
   );
 
   const Option = (props) => (
     <components.Option
       {...props}
-      sx={{ px: "18px", cursor: "pointer", fontSize: ["18px", "18px", 3] }}
+      sx={{ px: '18px', cursor: 'pointer', fontSize: ['18px', '18px', 3] }}
     />
   );
 
   const IndicatorsContainer = (props) => (
     <Box
       sx={{
-        width: "auto",
+        width: 'auto',
         pr: 2,
-        "& > * >span": {
-          display: "none",
+        '& > * >span': {
+          display: 'none',
         },
-        "& svg, &:hover svg": {
-          color: props.isDisabled ? "muted" : "backgroundAlt",
+        '& svg, &:hover svg': {
+          color: props.isDisabled ? 'muted' : 'backgroundAlt',
         },
       }}
     >
@@ -91,8 +91,8 @@ export default function LanguageSelector({
   const ValueContainer = (props) => (
     <components.ValueContainer
       sx={{
-        fontFamily: "body",
-        color: "textMuted",
+        fontFamily: 'body',
+        color: 'textMuted',
         pl: 3,
       }}
       {...props}
@@ -102,12 +102,12 @@ export default function LanguageSelector({
   const Control = (props) => (
     <components.Control
       sx={{
-        border: "1px solid",
-        borderColor: "muted",
-        borderRadius: "12px",
-        fontSize: ["18px", "18px", 3],
+        border: '1px solid',
+        borderColor: 'muted',
+        borderRadius: '12px',
+        fontSize: ['18px', '18px', 3],
         pr: 0,
-        p: ["2px", "2px", 0],
+        p: ['2px', '2px', 0],
       }}
       {...props}
     />
@@ -128,9 +128,9 @@ export default function LanguageSelector({
     return (
       <Box
         sx={{
-          width: ["100%", "100%", "205px"],
-          mb: [3, 3, "unset"],
-          position: "relative",
+          width: ['100%', '100%', '205px'],
+          mb: [3, 3, 'unset'],
+          position: 'relative',
           top: 0,
           right: 0,
         }}
@@ -139,32 +139,32 @@ export default function LanguageSelector({
           isSearchable={false}
           options={data}
           onChange={onChange}
-          aria-label={t("Page_Language_Selector")}
+          aria-label={t('Page_Language_Selector')}
           value={{
             value: pagePath,
-            label: t("Language"),
+            label: t('Language'),
           }}
         />
-        <Box sx={{ mt: 2, textAlign: ["left", "left", "right"] }}>
+        <Box sx={{ mt: 2, textAlign: ['left', 'left', 'right'] }}>
           <Text
             sx={{
-              lineHeight: "normal",
-              display: ["inline-block", "inline-block", "unset"],
+              lineHeight: 'normal',
+              display: ['inline-block', 'inline-block', 'unset'],
             }}
           >
-            {`${t("Need_Another_Language")}  `}
+            {`${t('Need_Another_Language')}  `}
             <Link
               to="/contribute/translations"
               sx={{
-                color: "link",
-                textDecoration: "none",
-                fontWeight: "500",
+                color: 'link',
+                textDecoration: 'none',
+                fontWeight: '500',
                 mt: 1,
-                lineHeight: "normal",
-                display: ["inline-block", "inline-block", "block"],
+                lineHeight: 'normal',
+                display: ['inline-block', 'inline-block', 'block'],
               }}
             >
-              {t("Join_translation_team")}
+              {t('Join_translation_team')}
             </Link>
           </Text>
         </Box>
@@ -177,14 +177,14 @@ export default function LanguageSelector({
     <Box
       sx={{
         p: [0, 0, 3],
-        width: ["100%", "100%", "234px"],
-        border: ["unset", "unset", "1px solid"],
-        borderColor: "text",
-        borderRadius: "12px",
-        bg: "background",
+        width: ['100%', '100%', '234px'],
+        border: ['unset', 'unset', '1px solid'],
+        borderColor: 'text',
+        borderRadius: '12px',
+        bg: 'background',
         mb: 2,
-        mt: ["unset", "unset", "64px"],
-        position: "relative",
+        mt: ['unset', 'unset', '64px'],
+        position: 'relative',
         right: 0,
         top: 0,
       }}
@@ -197,7 +197,7 @@ export default function LanguageSelector({
           colors: { ...selectTheme.colors, ...uiSelectTheme },
         })}
         isDisabled={true}
-        sx={{ display: ["block", "block", "none"], width: "100%", mb: 2 }}
+        sx={{ display: ['block', 'block', 'none'], width: '100%', mb: 2 }}
         components={{
           Menu,
           MenuList,
@@ -208,31 +208,31 @@ export default function LanguageSelector({
         }}
         options={data}
         onChange={onChange}
-        aria-label={t("Page_Language_Selector")}
+        aria-label={t('Page_Language_Selector')}
         value={{
           value: pagePath,
-          label: t("Language"),
+          label: t('Language'),
         }}
       />
       <Text
         sx={{
-          display: ["inline-block", "inline-block", "block"],
-          mr: [2, 2, "unset"],
+          display: ['inline-block', 'inline-block', 'block'],
+          mr: [2, 2, 'unset'],
         }}
       >
-        {t("Available_Languages", null, { count: availableLanguages.length })}
+        {t('Available_Languages', null, { count: availableLanguages.length })}
       </Text>
 
       <Text
         sx={{
           mb: [1, 1, 2],
-          letterSpacing: ".7rem",
-          display: ["inline-block", "inline-block", "block"],
+          letterSpacing: '.7rem',
+          display: ['inline-block', 'inline-block', 'block'],
         }}
       >
         {availableLanguages.length > 0 && (
           <Fragment>
-            {availableLanguages.map((loc) => t("Flag", null, null, loc))}
+            {availableLanguages.map((loc) => t('Flag', null, null, loc))}
           </Fragment>
         )}
       </Text>
@@ -240,23 +240,23 @@ export default function LanguageSelector({
       <Box>
         <Text
           sx={{
-            lineHeight: "normal",
-            display: ["inline-block", "inline-block", "unset"],
+            lineHeight: 'normal',
+            display: ['inline-block', 'inline-block', 'unset'],
           }}
         >
-          {`${t("Need_Another_Language")}  `}
+          {`${t('Need_Another_Language')}  `}
           <Link
             to="/contribute/translations"
             sx={{
-              color: "link",
-              textDecoration: "none",
-              fontWeight: "500",
+              color: 'link',
+              textDecoration: 'none',
+              fontWeight: '500',
               mt: 1,
-              lineHeight: "normal",
-              display: ["inline-block", "inline-block", "block"],
+              lineHeight: 'normal',
+              display: ['inline-block', 'inline-block', 'block'],
             }}
           >
-            {t("Join_translation_team")}
+            {t('Join_translation_team')}
           </Link>
         </Text>
       </Box>

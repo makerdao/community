@@ -4,27 +4,29 @@ summary: Signal your support or opposition to using the Debt Ceiling Instant Acc
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
-# Poll: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
+# Poll: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,\_YYYY
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for \$ilk with the listed parameters.
+
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on \$date_DAY,\_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
 ## Review
 
-The proposed parameters for the $ilk Debt Ceiling Instant Access Module are:
-* Collateral Type (`ilk`): $ilk
-* Maximum Debt Ceiling (`line`): $line
-* Target Available Debt (`gap`): $gap
-* Ceiling Increase Cooldown (`ttl`): $ttl
+The proposed parameters for the \$ilk Debt Ceiling Instant Access Module are:
+
+- Collateral Type (`ilk`): \$ilk
+- Maximum Debt Ceiling (`line`): \$line
+- Target Available Debt (`gap`): \$gap
+- Ceiling Increase Cooldown (`ttl`): \$ttl
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
@@ -33,8 +35,9 @@ For more information regarding the Debt Ceiling Instant Access Module and how th
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

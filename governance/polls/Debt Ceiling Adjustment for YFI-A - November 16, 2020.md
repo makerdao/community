@@ -4,17 +4,18 @@ summary: Signal your support or opposition for adjusting the YFI-A Debt Ceiling 
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-the-yfi-debt-ceiling/5114
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the YFI-A Debt Ceiling - November 16, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the YFI-A Debt Ceiling from 7 million DAI to 20 million DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on November 16, 2020 at 16:00 UTC.
 
-## Review 
+## Review
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-the-yfi-debt-ceiling/5114) to inform your position on this issue before voting.
 

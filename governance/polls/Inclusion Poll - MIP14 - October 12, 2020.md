@@ -1,13 +1,14 @@
 ---
 title: Inclusion Poll for Protocol DAI Transfer (MIP14)- October 12, 2020
-summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
+summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll.
 discussion_link: https://forum.makerdao.com/t/mip14-protocol-dai-transfer-update/3844
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for Protocol DAI Transfer (MIP14) - October 12, 2020
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (Protocol DAI Transfer) should be included in the Monthly Governance Poll.
@@ -15,6 +16,7 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 If the **Yes** votes in this inclusion poll are higher than the combination of **No** votes plus the **Default Inclusion Threshold** when the poll ends, the proposal should be included in the Monthly Governance Poll. Note that the Default Inclusion Threshold is set to **3000 MKR**. In summary, if **Yes** votes > (**No** votes + **Default Inclusion Threshold**) = inclusion in the Governance Poll.
 
 ## Review
+
 Please review the discussion [thread](https://forum.makerdao.com/t/mip14-protocol-dai-transfer-update/3844) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance Call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-113-thursday-october-8-16-00-utc/4505) on Thursday, October 8, 2020.
 
 ## Next Steps
@@ -34,4 +36,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

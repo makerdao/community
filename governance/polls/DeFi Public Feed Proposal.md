@@ -4,10 +4,11 @@ summary: If this mandate is accepted by the community, it will signal support fo
 discussion_link: https://forum.makerdao.com/t/475
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: DeFi Public Feed Proposal
 
 For context for this proposal please view the [Oracle V2 Announcement](https://blog.makerdao.com/introducing-oracles-v2-and-defi-feeds/). It explains what Feeds are, why we need Feeds, and why some Feeds needs to be public whereas others are pseudonymous. This proposal was also discussed on the [Governance Call ](https://www.youtube.com/watch?v=7jKNv8DMxmQ&t=2356)on September 5th.

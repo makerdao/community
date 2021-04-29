@@ -6,7 +6,7 @@ Los Facilitadores de Gobernanza han presentado una encuesta de inclusión en el 
 
 ## **Reseña**
 
-La comunidad puede votar en esta encuesta para expresar su apoyo o su oposición a que esta propuesta sea incluida en el ciclo de gobernanza de este mes. 
+La comunidad puede votar en esta encuesta para expresar su apoyo o su oposición a que esta propuesta sea incluida en el ciclo de gobernanza de este mes.
 
 Por favor [consulta este hilo](https://forum.makerdao.com/t/mip7c3-sp5-domain-team-onboarding-risk-domain-team/5476) para informar tu posición en esta propuesta antes de votar. También fue mencionada y posiblemente discutida durante la [llamada de Riesgo y Gobernanza del 7 de enero](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-123-thursday-january-7-17-00-utc/5928) del 2021.
 
@@ -14,7 +14,7 @@ Por favor [consulta este hilo](https://forum.makerdao.com/t/mip7c3-sp5-domain-te
 
 Esta encuesta implementa un **Umbral de inclusión**. El Umbral de inclusión actualmente está establecido en **3,000 MKR**.
 
-**Si los votos para la opción 'Sí' superan los votos para la opción 'No' en al menos 3,000 MKR, se tomarán las siguientes medidas:** 
+**Si los votos para la opción 'Sí' superan los votos para la opción 'No' en al menos 3,000 MKR, se tomarán las siguientes medidas:**
 
 - El Facilitador de Gobernanza confirmará la inclusión de esta propuesta en la próxima Encuesta Mensual de Gobernanza en la próxima llamada de Gobernanza y Riesgo el 14 de enero de 2021.
 - La Encuesta Mensual de Gobernanza ocurre durante la tercera semana del [Ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
@@ -29,7 +29,7 @@ Esta encuesta implementa un **Umbral de inclusión**. El Umbral de inclusión ac
 
 Si es tu primera vez votando en el Protocolo Maker, consulta la [guía de votación](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) para conocer cómo funciona la votación, y esta [guía de configuración de billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
-Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance)  del portal de la comunidad de MakerDAO.
+Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance) del portal de la comunidad de MakerDAO.
 
 Para participar en futuras llamadas sobre gobernanza, [únete a nuestra llamada](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) todos los jueves a las 17:00 UTC.
 

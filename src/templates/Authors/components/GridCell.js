@@ -1,11 +1,11 @@
 /** @jsx jsx */
 
-import { Box, Flex, Image, jsx } from "theme-ui";
+import { Box, Flex, Image, jsx } from 'theme-ui';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Link } from "@atoms";
-import allContributorKeys from "../data/allContributorKeys";
-import allContributors from "@content/all-contributors.json";
+import { Icon } from '@makerdao/dai-ui-icons';
+import { Link } from '@atoms';
+import allContributorKeys from '../data/allContributorKeys';
+import allContributors from '@content/all-contributors.json';
 
 const { emojis } = allContributorKeys;
 
@@ -24,86 +24,86 @@ export default function AuthorGridCell({
   return (
     <Box
       sx={{
-        padding: "6px 13px",
-        border: "1px solid",
-        borderLeft: "none",
-        borderTop: index >= 6 ? "none" : "1px solid",
-        borderColor: "muted",
-        textAlign: "center",
+        padding: '6px 13px',
+        border: '1px solid',
+        borderLeft: 'none',
+        borderTop: index >= 6 ? 'none' : '1px solid',
+        borderColor: 'muted',
+        textAlign: 'center',
       }}
     >
       {profile && !noLinks ? (
         <Link
           hideExternalIcon
           to={profile}
-          sx={{ fontSize: "13px", fontWeight: "500" }}
+          sx={{ fontSize: '13px', fontWeight: '500' }}
         >
           {avatar_url ? (
             <Image
               src={avatar_url}
-              sx={{ width: "100%", height: "100px", objectFit: "contain" }}
+              sx={{ width: '100%', height: '100px', objectFit: 'contain' }}
             />
           ) : (
             <Flex
               sx={{
-                width: "100%",
-                maxWidth: "100px",
-                height: "100px",
-                alignItems: "center",
-                justifyContent: "center",
-                margin: "auto",
-                bg: "primaryMuted",
-                mb: "5px",
+                width: '100%',
+                maxWidth: '100px',
+                height: '100px',
+                alignItems: 'center',
+                justifyContent: 'center',
+                margin: 'auto',
+                bg: 'primaryMuted',
+                mb: '5px',
               }}
             >
-              <Icon name="person" size={"64px"} sx={{ color: "primary" }} />
+              <Icon name="person" size={'64px'} sx={{ color: 'primary' }} />
             </Flex>
           )}
 
-          {name ? name : ""}
+          {name ? name : ''}
         </Link>
       ) : (
-        <Box sx={{ fontSize: "13px", fontWeight: "500" }}>
+        <Box sx={{ fontSize: '13px', fontWeight: '500' }}>
           {avatar_url ? (
             <Image
               src={avatar_url}
-              sx={{ width: "100%", height: "100px", objectFit: "contain" }}
+              sx={{ width: '100%', height: '100px', objectFit: 'contain' }}
             />
           ) : (
             <Flex
               sx={{
-                width: "100%",
-                maxWidth: "100px",
-                height: "100px",
-                alignItems: "center",
-                justifyContent: "center",
-                margin: "auto",
-                bg: "primaryMuted",
-                mb: "5px",
+                width: '100%',
+                maxWidth: '100px',
+                height: '100px',
+                alignItems: 'center',
+                justifyContent: 'center',
+                margin: 'auto',
+                bg: 'primaryMuted',
+                mb: '5px',
               }}
             >
-              <Icon name="person" size={"64px"} sx={{ color: "primary" }} />
+              <Icon name="person" size={'64px'} sx={{ color: 'primary' }} />
             </Flex>
           )}
 
-          {name ? name : ""}
+          {name ? name : ''}
         </Box>
       )}
       {!hideContributions && (
         <Box
           as="ul"
-          sx={{ p: 0, "& > *": { mr: "5px", display: "inline-block" } }}
+          sx={{ p: 0, '& > *': { mr: '5px', display: 'inline-block' } }}
         >
           {contributions.map((c, index) => {
-            if (c === "code" && login) {
+            if (c === 'code' && login) {
               return (
                 <Link
                   key={`${c}-${index}`}
                   to={`${repoUrl}/commits?author=${login}`}
                   hideExternalIcon
                 >
-                  {" "}
-                  {emojis[c] || c}{" "}
+                  {' '}
+                  {emojis[c] || c}{' '}
                 </Link>
               );
             }

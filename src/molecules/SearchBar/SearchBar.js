@@ -2,17 +2,17 @@
 
 /** @jsx jsx */
 
-import { Box, Flex, Text, jsx } from "theme-ui";
-import { SearchHit, SearchInput } from "./components";
-import { useClickOutside, useKeyPress } from "./hooks";
-import { useEffect, useRef, useState } from "react";
+import { Box, Flex, Text, jsx } from 'theme-ui';
+import { SearchHit, SearchInput } from './components';
+import { useClickOutside, useKeyPress } from './hooks';
+import { useEffect, useRef, useState } from 'react';
 
-import LUNR from "lunr";
-import type { Node } from "react";
-import { motion } from "framer-motion";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useNavigate } from "@reach/router";
-import { useTranslation } from "@modules/localization";
+import LUNR from 'lunr';
+import type { Node } from 'react';
+import { motion } from 'framer-motion';
+import { trackCustomEvent } from 'gatsby-plugin-google-analytics';
+import { useNavigate } from '@reach/router';
+import { useTranslation } from '@modules/localization';
 
 type TSearchProps = {
   onClick: () => void,
@@ -26,9 +26,9 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
   const [focus, setFocus] = useState(false);
   const [results, setResults] = useState([]);
   const [lunr, setLunr] = useState(null);
-  const downPress = useKeyPress("ArrowDown");
-  const upPress = useKeyPress("ArrowUp");
-  const enterPress = useKeyPress("Enter");
+  const downPress = useKeyPress('ArrowDown');
+  const upPress = useKeyPress('ArrowUp');
+  const enterPress = useKeyPress('Enter');
   const [cursor, setCursor] = useState(0);
 
   const navigate = useNavigate();
@@ -38,10 +38,10 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
 
   //On input change, run the search query and update our results state.
   const onChange = (val) => {
-    if (lunr && val !== "") {
+    if (lunr && val !== '') {
       const query = val
         .trim() // remove trailing and leading spaces
-        .replace(/\s/g, "*") // remove user's wildcards
+        .replace(/\s/g, '*') // remove user's wildcards
         .toLowerCase();
 
       const lunrLocalized = lunr[locale] || lunr[DEFAULT_LOCALE];
@@ -61,9 +61,9 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
             });
 
             //Field boosts
-            q.term(token.toString(), { fields: ["title"], boost: 20 }); //<- Boost the value of our query for a specific field.
-            q.term(token.toString(), { fields: ["keywords"], boost: 15 });
-            q.term(token.toString(), { fields: ["excerpt"], boost: 5 });
+            q.term(token.toString(), { fields: ['title'], boost: 20 }); //<- Boost the value of our query for a specific field.
+            q.term(token.toString(), { fields: ['keywords'], boost: 15 });
+            q.term(token.toString(), { fields: ['excerpt'], boost: 5 });
           });
         })
         .slice(0, MAX_RESULT_COUNT)
@@ -74,7 +74,7 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
       setResults(results);
     }
 
-    if (val === "") {
+    if (val === '') {
       setResults([]);
     }
 
@@ -90,13 +90,13 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
   const resultsVariant = {
     visible: {
       opacity: 1,
-      top: "64px",
-      transition: { ease: "easeOut" },
+      top: '64px',
+      transition: { ease: 'easeOut' },
     },
     hidden: {
       opacity: 0,
-      top: "86px",
-      transition: { ease: "easeOut" },
+      top: '86px',
+      transition: { ease: 'easeOut' },
     },
   };
 
@@ -136,12 +136,12 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
       ref={ref}
       {...(rest: any)}
       sx={{
-        borderRadius: "round",
-        border: "1px solid",
-        borderColor: "primary",
-        backgroundColor: "surfaceDark",
-        position: "relative",
-        alignItems: "center",
+        borderRadius: 'round',
+        border: '1px solid',
+        borderColor: 'primary',
+        backgroundColor: 'surfaceDark',
+        position: 'relative',
+        alignItems: 'center',
       }}
     >
       <SearchInput
@@ -153,34 +153,34 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
       <motion.div
         initial="hidden"
         variants={resultsVariant}
-        animate={query.length > 0 && focus ? "visible" : "hidden"}
+        animate={query.length > 0 && focus ? 'visible' : 'hidden'}
         sx={{
-          position: ["fixed", "fixed", "absolute"],
-          boxShadow: "high",
-          zIndex: ["1000000", "1000000", null],
-          left: "50%",
-          transform: "translateX(-50%)",
-          top: ["5rem", "5rem", "3.5rem"],
-          width: ["90vw", "90vw", "100%"],
+          position: ['fixed', 'fixed', 'absolute'],
+          boxShadow: 'high',
+          zIndex: ['1000000', '1000000', null],
+          left: '50%',
+          transform: 'translateX(-50%)',
+          top: ['5rem', '5rem', '3.5rem'],
+          width: ['90vw', '90vw', '100%'],
           mt: [4, 4, 0],
           minHeight: 4,
-          borderRadius: "roundish",
-          overflow: "hidden",
-          pointerEvents: query.length > 0 && focus ? "all" : "none",
+          borderRadius: 'roundish',
+          overflow: 'hidden',
+          pointerEvents: query.length > 0 && focus ? 'all' : 'none',
         }}
       >
         <Box
           aria-label="Search results for the entire site"
           as="section"
           sx={{
-            display: "grid",
-            backgroundColor: "surfaceAlt",
+            display: 'grid',
+            backgroundColor: 'surfaceAlt',
           }}
         >
           {results.length === 0 && query.length > 0 && (
-            <Text sx={{ p: 3, textAlign: "center", color: "text" }}>
-              {t("No_Results", null, {
-                query: `${query.slice(0, 30)}${query.length > 30 ? "..." : ""}`,
+            <Text sx={{ p: 3, textAlign: 'center', color: 'text' }}>
+              {t('No_Results', null, {
+                query: `${query.slice(0, 30)}${query.length > 30 ? '...' : ''}`,
               })}
             </Text>
           )}
@@ -188,41 +188,41 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
             ref={resultList}
             sx={{
               m: 0,
-              listStyleType: "none",
+              listStyleType: 'none',
               p: results.length === 0 && query.length > 0 ? 0 : 2,
-              overflow: "auto",
+              overflow: 'auto',
               maxHeight: [
-                "calc(80vh - 90px - 2rem)",
-                "calc(80vh - 90px - 2rem)",
-                "464px",
+                'calc(80vh - 90px - 2rem)',
+                'calc(80vh - 90px - 2rem)',
+                '464px',
               ],
-              "& > li": {
-                backgroundColor: "transparent",
-                transition: "all .1s ease",
-                cursor: "pointer",
-                color: "muted",
-                borderBottom: "1px solid",
-                borderColor: "muted",
+              '& > li': {
+                backgroundColor: 'transparent',
+                transition: 'all .1s ease',
+                cursor: 'pointer',
+                color: 'muted',
+                borderBottom: '1px solid',
+                borderColor: 'muted',
               },
-              "& > li:last-of-type": {
-                border: "none",
+              '& > li:last-of-type': {
+                border: 'none',
               },
-              "& > li > a": {
+              '& > li > a': {
                 p: 2,
-                color: "muted",
-                display: "block",
+                color: 'muted',
+                display: 'block',
                 fontSize: [3, 5, 3],
               },
-              "& li:hover > a, & li.active > a": {
-                backgroundColor: "primaryMuted",
-                color: "textMuted",
+              '& li:hover > a, & li.active > a': {
+                backgroundColor: 'primaryMuted',
+                color: 'textMuted',
               },
             }}
           >
             {results.map((result, index) => (
               <li
                 key={`search-hit-${index}`}
-                className={index === cursor ? "active" : ""}
+                className={index === cursor ? 'active' : ''}
               >
                 <SearchHit
                   {...result}
@@ -232,7 +232,7 @@ export default function Search({ onClick, ...rest }: TSearchProps): Node {
                     onClick();
                     //Google Analytics Tracking
                     trackCustomEvent({
-                      category: "Internal Search",
+                      category: 'Internal Search',
                       action: `Click Result`,
                       label: `Query: ${query} | To Page: ${result.url}`,
                     });

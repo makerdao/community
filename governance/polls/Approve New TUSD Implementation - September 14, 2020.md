@@ -4,15 +4,17 @@ summary: Signal your support to approve the new TUSD implementation with the ori
 discussion_link: https://forum.makerdao.com/t/3982
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Approve New TUSD Implementation with Original Risk Parameters - September 14, 2020
 
 The Maker Foundation Smart Contracts Team has placed a Governance Poll into the voting system to approve/disapprove the new TUSD implementation. Voters are now able to signal their support to:
 
 Approve the new TUSD [implementation](https://etherscan.io/address/0x7a9701453249e84fd0d5afe5951e9cbe9ed2e90f#code) with the following risk parameters:
+
 - TUSD-A Ceiling (`Vat[TUSD-A].line`) 2,000,000 DAI
 - Min DAI in TUSD-A Vault (`Vat[TUSD-A].dust`) 100 DAI
 - TUSD-A liquidation lot size (`Cat[TUSD-A].dunk`) 50,000
@@ -31,7 +33,7 @@ This Governance Poll (FAQ) will be active for three days beginning on Monday, Se
 
 ## Review
 
-The initial proposal for approving the new TUSD implementation can be found [here](https://forum.makerdao.com/t/3982) along with the poll results. 
+The initial proposal for approving the new TUSD implementation can be found [here](https://forum.makerdao.com/t/3982) along with the poll results.
 
 ## Next Steps
 

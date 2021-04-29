@@ -1,12 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import { Grid, jsx } from "theme-ui";
-import { GridCell, ListElement } from "./components";
+import { Grid, jsx } from 'theme-ui';
+import { GridCell, ListElement } from './components';
 
-import { Children } from "react";
-import type { Node } from "react";
-import contributorsData from "./transformers/contributorsData";
+import { Children } from 'react';
+import type { Node } from 'react';
+import contributorsData from './transformers/contributorsData';
 
 export type TAuthorRendererProps = {
   list: boolean,
@@ -36,10 +36,10 @@ export default function Authors({
       gap={0}
       columns={list ? 1 : [2, 4, 6]}
       sx={{
-        borderLeft: !list ? "1px solid" : "unset",
-        borderColor: "muted",
-        gridRowGap: list ? "2rem" : "unset",
-        marginBottom: "1rem",
+        borderLeft: !list ? '1px solid' : 'unset',
+        borderColor: 'muted',
+        gridRowGap: list ? '2rem' : 'unset',
+        marginBottom: '1rem',
       }}
     >
       {contributors.map((data, index) =>

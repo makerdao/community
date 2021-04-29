@@ -1,12 +1,12 @@
 ---
 title: Template - [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
-
 ---
+
 ## [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
 
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following proposals relating to MakerDAO.
 
-###  January 2021 Governance Cycle Bundle
+### January 2021 Governance Cycle Bundle
 
 As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md), this bundle consists of the proposals included in the MIPs monthly governance [poll](https://vote.makerdao.com/polling/Qmc4f5qj?network=mainnet#poll-detail). The monthly poll for January has passed and these proposals can now be confirmed via this executive vote. The included proposals are as follows:
 
@@ -25,17 +25,18 @@ As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
-* *MIP29: Peg Stability Module* will move to Accepted status.
-* *MIP30: Farmable cUSDC Adapter (CropJoin)* will move to Accepted status.
-* *MIP13c3-SP7: Governance Communications* will move to Accepted status.
-* *MIP7c3-SP5: Domain Team Onboarding (Risk Domain Team)* will move to Accepted status.
-	* Sébastien Derivaux will be onboarded as a Risk Domain Team Facilitator. 
-* *MIP7c3-SP6: Domain Team Onboarding (Smart Contracts Domain Team)* will move to Accepted status.
-	* Sam MacPherson will be onboarded as a Smart Contracts Domain Team Facilitator. 
-* *MIP28c7-SP2: Subproposal for Operational Support Domain Facilitator Onboarding* will move to Accepted status.
-	* @juanjuan will be onboarded as an Operational Support Facilitator. 
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- _MIP29: Peg Stability Module_ will move to Accepted status.
+- _MIP30: Farmable cUSDC Adapter (CropJoin)_ will move to Accepted status.
+- _MIP13c3-SP7: Governance Communications_ will move to Accepted status.
+- _MIP7c3-SP5: Domain Team Onboarding (Risk Domain Team)_ will move to Accepted status.
+  - Sébastien Derivaux will be onboarded as a Risk Domain Team Facilitator.
+- _MIP7c3-SP6: Domain Team Onboarding (Smart Contracts Domain Team)_ will move to Accepted status.
+  - Sam MacPherson will be onboarded as a Smart Contracts Domain Team Facilitator.
+- _MIP28c7-SP2: Subproposal for Operational Support Domain Facilitator Onboarding_ will move to Accepted status.
+  - @juanjuan will be onboarded as an Operational Support Facilitator.
+
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
 
 If this executive vote does not pass within 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 

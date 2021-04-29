@@ -4,13 +4,14 @@ summary: Signal your support or opposition for this proposal being included in t
 discussion_link: https://forum.makerdao.com/t/mip43-term-lending-module-tlm/6153
 vote_type: Plurality Voting
 categories:
-   - MIPs
-   - Technical
+  - MIPs
+  - Technical
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for Term Lending Module (TLM) (MIP43) - March 8, 2021
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 8 at 16:00 UTC.
@@ -28,8 +29,9 @@ Please review the discussion [thread](https://forum.makerdao.com/t/mip43-term-le
 This poll implements an **Inclusion Threshold.** The Inclusion Threshold is currently set to **3,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
-* The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021.
-* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
+
+- The Governance Facilitator(s) will confirm the inclusion of this proposal within the next Monthly Governance Poll on the Governance and Risk call on March 11, 2021.
+- The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 

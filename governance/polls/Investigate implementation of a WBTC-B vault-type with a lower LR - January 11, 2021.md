@@ -4,12 +4,13 @@ summary: Signal your support or opposition to prioritizing onboarding a WBTC-B v
 discussion_link: https://forum.makerdao.com/t/signal-request-new-iam-vault-type-for-wbtc-with-lower-lr/5736/
 vote_type: Plurality Voting
 categories:
-   - Collateral
+  - Collateral
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Investigate implementation of a WBTC-B vault-type with a lower LR - January 11, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 11 at 16:00 UTC.
@@ -18,16 +19,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether a WBTC-B vault with a lower [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) (similar to ETH-B) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether a WBTC-B vault with a lower [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) (similar to ETH-B) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-new-iam-vault-type-for-wbtc-with-lower-lr/5736/) to help inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* A WBTC-B vault-type will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s). 
-* This vault-type will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new vault-types.
+
+- A WBTC-B vault-type will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+- This vault-type will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
+- The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new vault-types.
 
 ---
 

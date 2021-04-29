@@ -21,6 +21,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 MKR Token Holders may vote in this poll to keep or adjust the ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
+
 - 2.5 billion DAI (no change)
 - 10 billion DAI (+7.5B)
 - 15 billion DAI (+12.5B)
@@ -30,7 +31,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the support for that option exceeds 50% of the total votes cast (excluding 'Abstain' votes) then the following actions will be taken:**
-- If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+
+- If the winning option represents a change from the status quo, then the winning change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 - If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **Otherwise, no further actions will be taken at this time.**

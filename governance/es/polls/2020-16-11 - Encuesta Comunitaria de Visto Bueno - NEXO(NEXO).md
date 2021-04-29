@@ -2,7 +2,7 @@
 
 ## **Descripción**
 
-Los Facilitadores de Gobernanza han colocado una encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list) deberían priorizar la inclusión del activo NEXO (NEXO) ******en el Protocolo Maker.
+Los Facilitadores de Gobernanza han colocado una encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling); esta inquiere si los [equipos de dominio](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list) deberían priorizar la inclusión del activo NEXO (NEXO) **\*\***en el Protocolo Maker.
 
 Si los votos de visto bueno exceden los votos de postergación, esta encuesta será tomada por los equipos de dominio como una indicación de que los poseedores de MKR han aprobado que se continúe con los trabajos de dominio en pos de la inclusión de NEXO como un activo colateral al Protocolo Maker.
 

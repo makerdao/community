@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
-
 ---
+
 ## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -21,6 +21,7 @@ Please see this [signal request](https://forum.makerdao.com/t/signal-request-inc
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The YFI-A Debt Ceiling will increase from 7 million DAI to 20 million DAI.
 - The Global line parameter will increase from 1,468,750,000 DAI to 1,481,750,000 DAI due to the change to the YFI-A debt ceiling.
 - The ETH-A Debt Floor (dust) Parameter will increase from 100 DAI to 500 DAI

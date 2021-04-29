@@ -4,13 +4,14 @@ summary: Signal your support or opposition to adjusting the Dust Parameter for a
 discussion_link: https://forum.makerdao.com/t/signal-request-increasing-dust-value/5122
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: No Change (100 DAI)
-   2: 250 DAI
-   3: 500 DAI
-   4: 750 DAI
-   5: 1000 DAI
+  0: Abstain
+  1: No Change (100 DAI)
+  2: 250 DAI
+  3: 500 DAI
+  4: 750 DAI
+  5: 1000 DAI
 ---
+
 # Poll: Adjust the Dust Parameter - November 16, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the Dust parameter for all vault types.

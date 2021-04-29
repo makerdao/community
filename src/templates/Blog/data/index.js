@@ -1,1 +1,1 @@
-export { getAuthorData } from "./getAuthorData";
+export { getAuthorData } from './getAuthorData';

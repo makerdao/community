@@ -1,21 +1,21 @@
 # Encuesta**: Bajar las Tarifas de Estabilidad de las Stablecoins - 7 de diciembre, 2020**
 
-Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre del Equipo de Riesgo de MakerDAO. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a ajustar la tarifa de estailidad para los tipos de vaults USDC-A, TUSD-A, PAXUSD-A y GUSD-A . 
+Los Facilitadores de Gobernanza han colocado una Encuesta de Gobernanza en el sistema de votación en nombre del Equipo de Riesgo de MakerDAO. La comunidad puede usar esta encuesta para expresar su apoyo o su oposición a ajustar la tarifa de estailidad para los tipos de vaults USDC-A, TUSD-A, PAXUSD-A y GUSD-A .
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-Los ajustes de los parámetros son los siguientes: 
+Los ajustes de los parámetros son los siguientes:
 
-- Reducir la Tarifa de Estabilidad de USDC-A de un 4% a un  0%.
-- Reducir la Tarifa de Estabilidad de TUSD-A de un 4% a un  0%.
+- Reducir la Tarifa de Estabilidad de USDC-A de un 4% a un 0%.
+- Reducir la Tarifa de Estabilidad de TUSD-A de un 4% a un 0%.
 - Reducir la Tarifa de Estabilidad de PAXUSD-A de un 4% a un 0%.
 - Reducir la Tarifa de Estabilidad de GUSD-A de un 4% a un 0%.
 
-Por favor revisa los [hilos de la discusión](https://forum.makerdao.com/t/on-chain-poll-stablecoin-vaults-fee-adjustment-7th-dec-2020/5414) del foro para ayudar a informar tu posición antes de votar. 
+Por favor revisa los [hilos de la discusión](https://forum.makerdao.com/t/on-chain-poll-stablecoin-vaults-fee-adjustment-7th-dec-2020/5414) del foro para ayudar a informar tu posición antes de votar.
 
 ## Resultados
 
@@ -24,7 +24,7 @@ Por favor revisa los [hilos de la discusión](https://forum.makerdao.com/t/on-ch
 - La reducción de la tarifa de Estabilida de USDC-A, TUSD-A, PAXUSD-A, y GUSD-A de un 4% a un 0% será incluida en el Voto Ejecutivo semanal el viernes que siga a la conclusión de esta encuesta.
 - Si el voto ejecutivo del viernes es aprobado entonces estos cambios estarán activos en el Protocolo Maker tras el vencimiento del [Módulo de Seguridad de la Gobernanza](https://forum.makerdao.com/tag/govsec-module).
 
-    ---
+  ***
 
 **Si los votos para la opción 'No' igualan o superan los votos para la opción 'Sí', no se tomarán más medidas en este momento.**
 

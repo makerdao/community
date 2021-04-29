@@ -1,12 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, Flex, jsx } from "theme-ui";
+import { Box, Flex, jsx } from 'theme-ui';
 
-import { Children } from "react";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Link } from "@atoms";
-import type { Node } from "react";
+import { Children } from 'react';
+import { Icon } from '@makerdao/dai-ui-icons';
+import { Link } from '@atoms';
+import type { Node } from 'react';
 
 type TListProps = {
   children: Node,
@@ -19,22 +19,22 @@ export default function List({ children }: TListProps): Node {
   const childListLinkRenderCheck = (child, index) => {
     if (
       child.props &&
-      (child.props.mdxType === "Box" ||
-        child.props.mdxType === "Link" ||
-        child.props.mdxType === "a" ||
-        (child.props.mdxType === "p" &&
+      (child.props.mdxType === 'Box' ||
+        child.props.mdxType === 'Link' ||
+        child.props.mdxType === 'a' ||
+        (child.props.mdxType === 'p' &&
           child.props.children &&
           child.props.children.props &&
-          child.props.children.props.mdxType === "a"))
+          child.props.children.props.mdxType === 'a'))
     ) {
       const boxChildren = Children.toArray(child.props.children);
       const isLink =
-        child.props.mdxType === "Link" || child.props.mdxType === "a";
+        child.props.mdxType === 'Link' || child.props.mdxType === 'a';
       const isMDLink =
-        child.props.mdxType === "p" &&
+        child.props.mdxType === 'p' &&
         child.props.children &&
         child.props.children.props &&
-        child.props.children.props.mdxType === "a";
+        child.props.children.props.mdxType === 'a';
       const childData = {};
 
       let linkData = isLink ? { ...child.props } : null; //If this element is a Link grab it's href.
@@ -68,7 +68,7 @@ export default function List({ children }: TListProps): Node {
   return (
     <Box
       sx={{
-        "& > *:last-child": {
+        '& > *:last-child': {
           mb: 4,
         },
       }}
@@ -86,29 +86,29 @@ function ListElement({ children }: TListElementProps): Node {
   return (
     <Flex
       sx={{
-        px: "8px",
-        py: "23px",
-        minHeight: "60px",
-        borderTop: "1px solid",
-        borderColor: "muted",
-        flexDirection: "column",
-        alignItems: "flex-start",
-        "& > * > *:only-child, & > * > *:nth-of-type(1)": {
-          fontWeight: "normal",
-          fontSize: "18px",
-          color: "textMuted",
-          lineHeight: "normal",
+        px: '8px',
+        py: '23px',
+        minHeight: '60px',
+        borderTop: '1px solid',
+        borderColor: 'muted',
+        flexDirection: 'column',
+        alignItems: 'flex-start',
+        '& > * > *:only-child, & > * > *:nth-of-type(1)': {
+          fontWeight: 'normal',
+          fontSize: '18px',
+          color: 'textMuted',
+          lineHeight: 'normal',
         },
-        "& > * > *:only-child, & > *:only-child": {
+        '& > * > *:only-child, & > *:only-child': {
           mb: 0,
         },
-        "& > * > *:not(:only-child):nth-of-type(1)": {
-          mb: "8px",
+        '& > * > *:not(:only-child):nth-of-type(1)': {
+          mb: '8px',
         },
-        "& > * > *:not(:nth-of-type(1))": {
-          fontWeight: "normal",
-          fontSize: "16px",
-          color: "textMuted",
+        '& > * > *:not(:nth-of-type(1))': {
+          fontWeight: 'normal',
+          fontSize: '16px',
+          color: 'textMuted',
         },
       }}
     >
@@ -130,27 +130,27 @@ function AdvancedListElement({
   linkData,
 }: TAdvancedListElementProps): Node {
   const ListEl = ({ children }) => (
-    <ListElement sx={{ flexDirection: children ? "row" : "" }}>
+    <ListElement sx={{ flexDirection: children ? 'row' : '' }}>
       {children ? (
-        <Flex sx={{ flexDirection: "row" }}>
+        <Flex sx={{ flexDirection: 'row' }}>
           {children}
           <Flex
             className="content-container"
             sx={{
-              flexDirection: "column",
-              alignItems: "flex-start",
-              "& > *:only-child, & > *:nth-of-type(1)": {
-                fontWeight: "normal",
-                fontSize: "18px",
-                color: "textMuted",
-                lineHeight: "normal",
+              flexDirection: 'column',
+              alignItems: 'flex-start',
+              '& > *:only-child, & > *:nth-of-type(1)': {
+                fontWeight: 'normal',
+                fontSize: '18px',
+                color: 'textMuted',
+                lineHeight: 'normal',
               },
-              "& > *:not(:nth-of-type(1))": {
-                fontWeight: "normal",
-                fontSize: "16px",
-                color: "textMuted",
+              '& > *:not(:nth-of-type(1))': {
+                fontWeight: 'normal',
+                fontSize: '16px',
+                color: 'textMuted',
               },
-              "& > *:only-child, & > *:only-child > *:last-child": {
+              '& > *:only-child, & > *:only-child > *:last-child': {
                 mb: 0,
               },
             }}
@@ -159,7 +159,7 @@ function AdvancedListElement({
               <Box
                 sx={{
                   m: 0,
-                  "& > *": { m: 0, mb: "8px", lineHeight: "normal" },
+                  '& > *': { m: 0, mb: '8px', lineHeight: 'normal' },
                 }}
               >
                 {heading}
@@ -167,8 +167,8 @@ function AdvancedListElement({
             )}
             <Box
               sx={{
-                width: "100%",
-                "& > *:only-child": {
+                width: '100%',
+                '& > *:only-child': {
                   mb: 0,
                 },
               }}
@@ -180,8 +180,8 @@ function AdvancedListElement({
       ) : (
         <Box
           sx={{
-            width: "100%",
-            "& > *:only-child, & > *:only-child > *:last-child": {
+            width: '100%',
+            '& > *:only-child, & > *:only-child > *:last-child': {
               mb: 0,
             },
           }}
@@ -190,21 +190,21 @@ function AdvancedListElement({
             <Box
               sx={{
                 p: {
-                  fontWeight: "normal",
-                  fontSize: "18px",
-                  color: "text",
-                  lineHeight: "normal",
+                  fontWeight: 'normal',
+                  fontSize: '18px',
+                  color: 'text',
+                  lineHeight: 'normal',
                 },
-                "ol,ul": {
+                'ol,ul': {
                   p: 0,
                   pl: 3,
                   m: 0,
                 },
                 m: 0,
-                mb: "8px",
-                "& > *": {
+                mb: '8px',
+                '& > *': {
                   m: 0,
-                  lineHeight: "normal",
+                  lineHeight: 'normal',
                 },
               }}
             >
@@ -213,11 +213,11 @@ function AdvancedListElement({
           )}
           <Box
             sx={{
-              width: "100%",
-              fontWeight: "normal",
-              fontSize: "16px",
-              color: "textMuted",
-              "& > *:only-child": {
+              width: '100%',
+              fontWeight: 'normal',
+              fontSize: '16px',
+              color: 'textMuted',
+              '& > *:only-child': {
                 mb: 0,
               },
             }}
@@ -237,25 +237,25 @@ function AdvancedListElement({
         hideExternalIcon
         {...linkData}
         sx={{
-          display: "block",
-          "& > *": {
-            width: "100%",
-            transition: "all .1s ease",
-            color: "text",
-            "&:hover": {
-              color: "text",
-              bg: "primaryMuted",
-              textDecoration: "none",
+          display: 'block',
+          '& > *': {
+            width: '100%',
+            transition: 'all .1s ease',
+            color: 'text',
+            '&:hover': {
+              color: 'text',
+              bg: 'primaryMuted',
+              textDecoration: 'none',
             },
           },
-          textDecoration: "none",
-          "&:hover": {
-            textDecoration: "none",
+          textDecoration: 'none',
+          '&:hover': {
+            textDecoration: 'none',
           },
         }}
       >
         <ListEl>
-          <Icon name={"increase"} size={3} sx={{ mr: "29px", ml: "5px" }} />
+          <Icon name={'increase'} size={3} sx={{ mr: '29px', ml: '5px' }} />
         </ListEl>
       </Link>
     );

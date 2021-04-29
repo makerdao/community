@@ -1,9 +1,9 @@
 // @flow
 
-import React, { createContext } from "react";
-import { graphql, useStaticQuery } from "gatsby";
+import React, { createContext } from 'react';
+import { graphql, useStaticQuery } from 'gatsby';
 
-import type { Node } from "react";
+import type { Node } from 'react';
 
 export const TranslationContext: any = createContext();
 type TranslationProviderProps = {
@@ -20,7 +20,7 @@ export default function TranslationProvider({
   const localeStrings = {};
 
   const allLocales = allDirectory.nodes.map((n) => {
-    const loc = n.absolutePath.split("/").pop();
+    const loc = n.absolutePath.split('/').pop();
 
     // eslint-disable-next-line
     const uiData = require(`@content/${loc}/UI.json`);
