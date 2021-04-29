@@ -1,12 +1,13 @@
 ---
 title: Template - [Executive Vote] Fix the WBTC-A debt ceiling
-
 ---
+
 ## [Executive Vote] Fix the WBTC-A debt ceiling
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Fix the WBTC-A debt ceiling
+
 Unfortunately, a minor bug in the previous spell contract resulted in the WBTC-A debt ceiling being reduced to approxmiately zero DAI instead of being increased to 80 million DAI which was the original intent. This executive proposal will increase the WBTC-A debt ceiling from approximately zero to 80 million DAI as was originally intended.
 
 ## Summary

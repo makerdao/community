@@ -4,13 +4,14 @@ summary: This poll proposes system parameters which could be used to initialize 
 discussion_link: https://forum.makerdao.com/t/uni-v2-dai-usdc-mip6-collateral-onboarding-application/5830
 vote_type: Plurality Voting
 categories:
-   - Collateral
-   - Risk Variable
+  - Collateral
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) as a Collateral Type - February 1, 2021
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 1 at 16:00 UTC.
@@ -21,25 +22,27 @@ The MakerDAO Governance Facilitator has placed a Governance Poll into the [votin
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) as a collateral type in the Maker Protocol with the parameters below:
 
-* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 3%
-* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 110%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
-* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2000 DAI
+- [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 3%
+- [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 110%
+- [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 3 million DAI
+- [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 2000 DAI
 
-Liquidations for UNI-V2-DAI-USDC will be disabled as both the DAI and USDC Oracles will return a constant price of $1. For this reason, auction parameters have been omitted.
+Liquidations for UNI-V2-DAI-USDC will be disabled as both the DAI and USDC Oracles will return a constant price of \$1. For this reason, auction parameters have been omitted.
 
 Please review the following forum threads containing information about UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) to inform your position before voting.
-* [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-usdc-mip6-collateral-onboarding-application/5830)
-* [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-risk-evaluation/6258)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-erc20-token-smart-contract-technical-assessment/6232)
-* [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-oracle-assessment-mip10c3-sp22/6285)
+
+- [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-usdc-mip6-collateral-onboarding-application/5830)
+- [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-risk-evaluation/6258)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-erc20-token-smart-contract-technical-assessment/6232)
+- [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-usdc-collateral-onboarding-oracle-assessment-mip10c3-sp22/6285)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
-* It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- UNI-V2-DAI-USDC (UniswapV2 DAI-USDC LP Token) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows.
+- It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+- If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

@@ -4,16 +4,17 @@ summary: Signal your support or opposition to paying 12,700 Dai from the surplus
 discussion_link: https://forum.makerdao.com/t/signal-request-vault-compensation-working-group-payment/5562
 vote_type: Plurality Voting
 categories:
-   - Governance
-   - Other
+  - Governance
+  - Other
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Vault Compensation Working Group Payment - January 18, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC. 
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
 
 **This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
 
@@ -25,15 +26,16 @@ The community can vote in this poll to express support or opposition to transfer
 **@monet-supply**: 3,800 Dai for 76 hours to [0x8d07D225a769b7Af3A923481E1FdF49180e6A265]  
 **@Joshua_Pritikin**: 2,000 Dai for 40 hours to [0x2235A5D7bCC37855CB91dFf66334F4DFD9C39b58]  
 **@befitsandpiper**: 400 Dai for 8 hours to [0x851fB899dA7F80c211d9B8e5f231FB3BC9eca41a]  
-**@Vault2288**: 200 Dai for 4 hours to [0x92e5a14b08e5232682eb38269a1ce661f04ec93d]  
+**@Vault2288**: 200 Dai for 4 hours to [0x92e5a14b08e5232682eb38269a1ce661f04ec93d]
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-vault-compensation-working-group-payment/5562) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These transfers will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these transfers will execute after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- These transfers will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then these transfers will execute after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

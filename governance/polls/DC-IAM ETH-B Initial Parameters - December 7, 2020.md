@@ -4,10 +4,11 @@ summary: Signal your support or opposition to using the Debt Ceiling Instant Acc
 discussion_link: https://forum.makerdao.com/t/eth-b-dc-iam-initial-parameters/5512
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: ETH-B Debt Ceiling Instant Access Module - December 7, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for ETH-B with the listed parameters.
@@ -19,10 +20,11 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 ## Review
 
 The proposed initial parameters for the ETH-B Debt Ceiling Instant Access Module are:
-* Collateral Type (`ilk`): ETH-B
-* Maximum Debt Ceiling (`line`): 50 million DAI
-* Target Available Debt (`gap`): 5 million DAI
-* Ceiling Increase Cooldown (`ttl`): 12 hours
+
+- Collateral Type (`ilk`): ETH-B
+- Maximum Debt Ceiling (`line`): 50 million DAI
+- Target Available Debt (`gap`): 5 million DAI
+- Ceiling Increase Cooldown (`ttl`): 12 hours
 
 Please review the discussion [thread](https://forum.makerdao.com/t/eth-b-dc-iam-initial-parameters/5512) to help inform your position before voting.
 
@@ -31,10 +33,11 @@ Additional information on the Debt Ceiling Instant Access Module can be found in
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The Debt Ceiling Instant Access Module will be deployed to mainnet.
-* The Debt Ceiling Instant Access Module will be granted permissions to modify debt ceilings in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* The above Debt Ceiling Instant Access Module parameters will be set for ETH-B in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
+
+- The Debt Ceiling Instant Access Module will be deployed to mainnet.
+- The Debt Ceiling Instant Access Module will be granted permissions to modify debt ceilings in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- The above Debt Ceiling Instant Access Module parameters will be set for ETH-B in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then these changes will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

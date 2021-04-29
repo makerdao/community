@@ -1,16 +1,17 @@
 ---
 title: Community Greenlight Poll - REINNO (REINNO Stablecoin) - February 15, 2021
-summary: Signal your support or opposition to prioritising onboarding REINNO (REINNO Stablecoin). 
+summary: Signal your support or opposition to prioritising onboarding REINNO (REINNO Stablecoin).
 discussion_link: https://forum.makerdao.com/t/reinno-mip6-collateral-onboarding-application-new/6218
 vote_type: Plurality Voting
 categories:
-   - Collateral
-   - Greenlight
+  - Collateral
+  - Greenlight
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - REINNO (REINNO Stablecoin) - February 15, 2021
 
 ## Description
@@ -28,10 +29,10 @@ Please review the collateral onboarding application [thread](https://forum.maker
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for REINNO (REINNO Stablecoin) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The current 'greenlight score' for REINNO (REINNO Stablecoin) will be replaced with the new value on the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
-* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
+- The 'greenlight score' will be calculated for REINNO (REINNO Stablecoin) using the formula `Score = 'Yes' Votes - 'No' Votes`
+- The current 'greenlight score' for REINNO (REINNO Stablecoin) will be replaced with the new value on the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+- The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ## Resources
 

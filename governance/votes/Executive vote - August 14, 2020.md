@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Modify Multiple System Parameters
-
 ---
+
 ## [Executive Vote] Modify Multiple System Parameters
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -36,10 +36,10 @@ The Surplus Auction Buffer is also known as the 'System Surplus' and refers to t
 
 Community Discussion on this change can be found [here](https://forum.makerdao.com/t/3316).
 
-
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The Base Rate meta-parameter will be reduced from -4% to -6%.
 - The USDC-B Stability Fee parameter will be reduced from 46% to 44%.
 - The MANA-A Stability Fee parameter will be reduced from 8% to 6%.
@@ -53,7 +53,7 @@ The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mc
 
 ## Review
 
-Community debate on this topic can be found on the MakerDAO [governance forum](https://forum.makerdao.com/). Please review the linked discussion threads to inform your position before voting. 
+Community debate on this topic can be found on the MakerDAO [governance forum](https://forum.makerdao.com/). Please review the linked discussion threads to inform your position before voting.
 
 Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) and [Audio](https://soundcloud.com/makerdao/sets/governance-calls) for these calls is available to review.
 

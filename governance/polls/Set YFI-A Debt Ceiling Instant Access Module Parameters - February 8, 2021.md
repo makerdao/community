@@ -4,12 +4,13 @@ summary: Signal your support or opposition to using the Debt Ceiling Instant Acc
 discussion_link: https://forum.makerdao.com/t/iam-dc-parameters-wbtc-a-link-a-uni-a-comp-a-yfi-a-aave-a/6299
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Set YFI-A Debt Ceiling Instant Access Module Parameters - February 8, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for YFI-A with the listed parameters.
@@ -21,10 +22,11 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 ## Review
 
 The proposed parameters for the YFI-A Debt Ceiling Instant Access Module are:
-* Collateral Type (`ilk`): YFI-A
-* Maximum Debt Ceiling (`line`): 45 million DAI
-* Target Available Debt (`gap`): 5 million DAI
-* Ceiling Increase Cooldown (`ttl`): 12 hours
+
+- Collateral Type (`ilk`): YFI-A
+- Maximum Debt Ceiling (`line`): 45 million DAI
+- Target Available Debt (`gap`): 5 million DAI
+- Ceiling Increase Cooldown (`ttl`): 12 hours
 
 Please review the discussion [thread](https://forum.makerdao.com/t/iam-dc-parameters-wbtc-a-link-a-uni-a-comp-a-yfi-a-aave-a/6299) to help inform your position before voting.
 
@@ -33,8 +35,9 @@ For more information regarding the Debt Ceiling Instant Access Module and how th
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

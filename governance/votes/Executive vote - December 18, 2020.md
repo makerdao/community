@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
-
 ---
+
 ## [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
 
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
@@ -10,41 +10,43 @@ The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have
 
 A new collateral type, Aave, will be added to the Maker Protocol if this proposal passes. Aave will be added with the following parameters in the AAVE-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/QmUU8WW9?network=mainnet#poll-detail).
 
-* Stability Fee: 6%
-* Liquidation Ratio: 175%
-* Debt Ceiling: 10 million DAI
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 500 Dai
+- Stability Fee: 6%
+- Liquidation Ratio: 175%
+- Debt Ceiling: 10 million DAI
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 500 Dai
 
 Please review the following forum threads containing information about AAVE (Aave) to inform your position before voting.
-* [Initial Collateral Application](https://forum.makerdao.com/t/lend-mip6-collateral-onboarding-aave/2529)
-* [Risk Evaluation](https://forum.makerdao.com/t/aave-collateral-onboarding-risk-evaluation/5362)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/aave-erc20-token-smart-contract-domain-community-assessment/5490)
-* [Oracles Evaluation](https://forum.makerdao.com/t/aave-collateral-onboarding-oracle-assessment-mip10c3-sp14/5374)
+
+- [Initial Collateral Application](https://forum.makerdao.com/t/lend-mip6-collateral-onboarding-aave/2529)
+- [Risk Evaluation](https://forum.makerdao.com/t/aave-collateral-onboarding-risk-evaluation/5362)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/aave-erc20-token-smart-contract-domain-community-assessment/5490)
+- [Oracles Evaluation](https://forum.makerdao.com/t/aave-collateral-onboarding-oracle-assessment-mip10c3-sp14/5374)
 
 ### Onboard UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) as a new Collateral Type
 
 A new collateral type, UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token), will be added to the Maker Protocol if this proposal passes. UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) will be added with the following parameters as the UNIV2DAIETH-A vault type. These parameters match those in the previous governance [poll](https://vote.makerdao.com/polling/Qmd7rfpY?network=mainnet).
 
-* Stability Fee: 1%
-* Liquidation Ratio: 125%
-* Debt Ceiling: 3 million DAI
-* Auction Lot Size: 50,000 DAI
-* Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
-* Liquidation Penalty: 13%
-* Dust: 500 DAI
+- Stability Fee: 1%
+- Liquidation Ratio: 125%
+- Debt Ceiling: 3 million DAI
+- Auction Lot Size: 50,000 DAI
+- Minimum Bid Increment: 3%
+- Bid Duration: 6 hours
+- Max Auction Duration: 6 hours
+- Liquidation Penalty: 13%
+- Dust: 500 DAI
 
 Please review the following forum threads containing information about UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) to inform your position before voting.
-* [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-eth-uniswap-v2-dai-eth-liquidity-token-collateral-application/3480)
-* [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-collateral-onboarding-risk-evaluation/5336)
-* [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-erc20-token-smart-contract-technical-assessment/5013)
-* [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-collateral-onboarding-oracle-assessment-mip10c3-sp18/5499)
+
+- [Initial Collateral Application](https://forum.makerdao.com/t/uni-v2-dai-eth-uniswap-v2-dai-eth-liquidity-token-collateral-application/3480)
+- [Risk Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-collateral-onboarding-risk-evaluation/5336)
+- [Smart Contracts Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-erc20-token-smart-contract-technical-assessment/5013)
+- [Oracles Evaluation](https://forum.makerdao.com/t/uni-v2-dai-eth-collateral-onboarding-oracle-assessment-mip10c3-sp18/5499)
 
 ### Stability Fee Changes
 
@@ -63,31 +65,33 @@ Further details and discussion on this whitelist proposal can be found [here](ht
 Therefore, if this Executive proposal passes the following will occur:
 
 **Collateral Onboarding**
-* The UNIV2DAIETH-A vault type will be added using UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) as collateral with the parameters listed above.
-* The AAVE-A vault type will be added using AAVE as collateral with the parameters listed above.
+
+- The UNIV2DAIETH-A vault type will be added using UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) as collateral with the parameters listed above.
+- The AAVE-A vault type will be added using AAVE as collateral with the parameters listed above.
 
 **Stability Fees**
-* The ETH-A stability fee will be increased from 2% to 2.5%.
-* The ETH-B stability fee will be increased from 4% to 5%.
-* The WBTC-A stability fee will be increased from 4% to 4.5%.
-* The BAT-A stability fee will be increased from 4% to 8%.
-* The KNC-A stability fee will be decreased from 4% to 2%.
-* The ZRX-A stability fee will be decreased from 4% to 2%.
-* The MANA-A stability fee will be decreased from 12% to 10%.
-* The COMP-A stability fee will be decreased from 3% to 2%.
-* The BAL-A stability fee will be decreased from 5% to 2%.
-* The YFI-A stability fee will be decreased from 10% to 9%.
+
+- The ETH-A stability fee will be increased from 2% to 2.5%.
+- The ETH-B stability fee will be increased from 4% to 5%.
+- The WBTC-A stability fee will be increased from 4% to 4.5%.
+- The BAT-A stability fee will be increased from 4% to 8%.
+- The KNC-A stability fee will be decreased from 4% to 2%.
+- The ZRX-A stability fee will be decreased from 4% to 2%.
+- The MANA-A stability fee will be decreased from 12% to 10%.
+- The COMP-A stability fee will be decreased from 3% to 2%.
+- The BAL-A stability fee will be decreased from 5% to 2%.
+- The YFI-A stability fee will be decreased from 10% to 9%.
 
 **Other**
-* Gnosis will be whitelisted on the ETHUSD OSM Oracle.
-* The global line parameter will increase by 13 million DAI as a result of the other debt ceiling changes.
 
-This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote. 
+- Gnosis will be whitelisted on the ETHUSD OSM Oracle.
+- The global line parameter will increase by 13 million DAI as a result of the other debt ceiling changes.
 
-If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass. 
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a [continuous approval](https://community-development.makerdao.com/en/learn/governance/how-voting-works) vote.
+
+If this executive vote does not pass within 30 days then it will no longer have any effect on the Maker Protocol, even if it should later pass.
 
 Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
 
 ## Review
 

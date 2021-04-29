@@ -2,12 +2,12 @@
 
 /** @jsx jsx */
 
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Link } from "@atoms";
-import type { Node } from "react";
-import { jsx } from "theme-ui";
+import { Icon } from '@makerdao/dai-ui-icons';
+import { Link } from '@atoms';
+import type { Node } from 'react';
+import { jsx } from 'theme-ui';
 
 export type TSidenavNodeProps = {
   url: string,
@@ -56,11 +56,11 @@ export default function SidenavNode({
       sx={{
         color:
           currentPath === url || currentPath.includes((rest: TRest).slugPart)
-            ? "primary"
-            : "text",
-        position: "relative",
-        "&:not(:last-of-type)": {
-          mb: "14px",
+            ? 'primary'
+            : 'text',
+        position: 'relative',
+        '&:not(:last-of-type)': {
+          mb: '14px',
         },
       }}
     >
@@ -68,30 +68,30 @@ export default function SidenavNode({
         <Link
           to={url}
           partiallyActive={active}
-          activeClassName={active ? "active" : " "}
+          activeClassName={active ? 'active' : ' '}
           onClick={onClick}
           sx={{
             color:
               currentPath === url ||
               currentPath.includes((rest: TRest).slugPart)
-                ? "primary"
-                : "text",
-            fontWeight: "normal",
-            py: "6px",
-            pr: "36px",
-            textDecoration: "none",
-            width: "100%",
+                ? 'primary'
+                : 'text',
+            fontWeight: 'normal',
+            py: '6px',
+            pr: '36px',
+            textDecoration: 'none',
+            width: '100%',
             fontSize: 3,
-            overflowWrap: "break-word",
-            wordWrap: "break-word",
-            display: "inline-block",
-            "&:hover ": {
-              textDecoration: "none",
-              "& > svg": {
+            overflowWrap: 'break-word',
+            wordWrap: 'break-word',
+            display: 'inline-block',
+            '&:hover ': {
+              textDecoration: 'none',
+              '& > svg': {
                 transform: active
-                  ? "translate(0, -50%) rotate(0deg)"
-                  : "translate(0, -50%) rotate(90deg)",
-                transition: "all .1s ease",
+                  ? 'translate(0, -50%) rotate(0deg)'
+                  : 'translate(0, -50%) rotate(90deg)',
+                transition: 'all .1s ease',
               },
             },
           }}
@@ -102,27 +102,27 @@ export default function SidenavNode({
 
       {hasChildren && (
         <Icon
-          name={active ? "chevron_down" : "chevron_right"}
+          name={active ? 'chevron_down' : 'chevron_right'}
           onClick={() => setActive(!active)}
           sx={{
-            position: "absolute",
-            cursor: "pointer",
-            width: "32px",
-            height: "32px",
-            right: "2%",
-            p: "7px",
+            position: 'absolute',
+            cursor: 'pointer',
+            width: '32px',
+            height: '32px',
+            right: '2%',
+            p: '7px',
             top: [
-              "calc(1.5em)",
-              "calc(1.5em)",
-              !active ? "50%" : "calc(.8em + 6px)",
+              'calc(1.5em)',
+              'calc(1.5em)',
+              !active ? '50%' : 'calc(.8em + 6px)',
             ],
-            transform: "translate(0, -50%) rotate(0deg)",
-            transformOrigin: "center",
-            transition: "all .2s ease",
-            "&:hover": {
+            transform: 'translate(0, -50%) rotate(0deg)',
+            transformOrigin: 'center',
+            transition: 'all .2s ease',
+            '&:hover': {
               transform: active
-                ? "translate(0, -50%) rotate(180deg)"
-                : "translate(0, -50%) rotate(90deg)",
+                ? 'translate(0, -50%) rotate(180deg)'
+                : 'translate(0, -50%) rotate(90deg)',
             },
           }}
         />
@@ -133,11 +133,11 @@ export default function SidenavNode({
           sx={{
             m: 0,
             ml: parentDepth < 3 ? 3 : 0, //NOTE(Rejon): Don't let the margin left continue for more than 3 depth. It just looks wrong.
-            mt: "6px",
+            mt: '6px',
             pl: 0,
-            minWidth: "200px",
-            pr: "31px",
-            listStyleType: "none",
+            minWidth: '200px',
+            pr: '31px',
+            listStyleType: 'none',
           }}
         >
           {items.map((item) => (

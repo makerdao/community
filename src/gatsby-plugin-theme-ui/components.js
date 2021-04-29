@@ -18,13 +18,13 @@ import {
   Table,
   Tout,
   TransparencyDash,
-} from "@atoms";
-import { Aligner, Indent, Video } from "@modules/utility/";
-import { Authors, Blog } from "@templates";
-import { Box, Divider, Flex, Image, Text, jsx } from "theme-ui";
+} from '@atoms';
+import { Aligner, Indent, Video } from '@modules/utility/';
+import { Authors, Blog } from '@templates';
+import { Box, Divider, Flex, Image, Text, jsx } from 'theme-ui';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { motion } from "framer-motion";
+import { Icon } from '@makerdao/dai-ui-icons';
+import { motion } from 'framer-motion';
 
 //Markdown Component overrides
 //Replace MDX html defaults with our custom implementation.
@@ -44,12 +44,12 @@ const MD_Overrides = {
   p: (props) => (
     <Text
       sx={{
-        mb: "16px",
-        fontSize: "16px",
-        letterSpacing: "0.4px",
-        lineHeight: "150%",
-        marginBottom: "24px",
-        "& .button": { display: "inline-block" },
+        mb: '16px',
+        fontSize: '16px',
+        letterSpacing: '0.4px',
+        lineHeight: '150%',
+        marginBottom: '24px',
+        '& .button': { display: 'inline-block' },
       }}
       {...props}
     />

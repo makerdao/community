@@ -1,10 +1,10 @@
 // @flow
 /** @jsx jsx */
 
-import { Box, Grid, jsx } from "theme-ui";
+import { Box, Grid, jsx } from 'theme-ui';
 
-import { Children } from "react";
-import type { Node } from "react";
+import { Children } from 'react';
+import type { Node } from 'react';
 
 type TColumnProps = {
   children: Node,
@@ -14,29 +14,29 @@ export default function Column({ children }: TColumnProps): Node {
   const _Children = Children.toArray(children);
 
   const containerStyles = {
-    borderRadius: "12px",
-    color: "textMuted",
-    bg: "surfaceAlt",
-    px: "27px",
-    py: "10px",
-    boxShadow: "float",
-    border: "1px solid",
-    borderColor: "muted",
-    "& > *:only-child, & >*:only-child > *": { m: 0 },
+    borderRadius: '12px',
+    color: 'textMuted',
+    bg: 'surfaceAlt',
+    px: '27px',
+    py: '10px',
+    boxShadow: 'float',
+    border: '1px solid',
+    borderColor: 'muted',
+    '& > *:only-child, & >*:only-child > *': { m: 0 },
   };
 
-  const desktopColumns = _Children.length > 1 ? [2, "1fr 1fr"] : [1, "1fr"];
+  const desktopColumns = _Children.length > 1 ? [2, '1fr 1fr'] : [1, '1fr'];
 
   return (
     <Grid
-      gap={"24px"}
+      gap={'24px'}
       sx={{ mb: 4 }}
-      columns={[[1, "1fr"], [1, "1fr"], desktopColumns]}
+      columns={[[1, '1fr'], [1, '1fr'], desktopColumns]}
     >
       {_Children.map((child, index) => {
         const childChildren = Children.toArray(child.props.children);
         if (
-          typeof child.props.children !== "string" &&
+          typeof child.props.children !== 'string' &&
           childChildren.length > 0
         ) {
           const headerElement = childChildren[0];
@@ -46,23 +46,23 @@ export default function Column({ children }: TColumnProps): Node {
             <Box
               key={`column-child-element-${index}`}
               sx={{
-                borderRadius: "12px",
-                overflow: "hidden",
-                boxShadow: "float",
-                border: "1px solid",
-                borderColor: "muted",
-                bg: "surfaceAlt",
+                borderRadius: '12px',
+                overflow: 'hidden',
+                boxShadow: 'float',
+                border: '1px solid',
+                borderColor: 'muted',
+                bg: 'surfaceAlt',
               }}
             >
               <Box
                 className="headerElement"
                 sx={{
-                  color: "onPrimary",
-                  bg: "primary",
-                  pt: "15px",
+                  color: 'onPrimary',
+                  bg: 'primary',
+                  pt: '15px',
                   pb: 2,
-                  px: "27px",
-                  "& > *:only-child, & > *:only-child > *": { m: 0 },
+                  px: '27px',
+                  '& > *:only-child, & > *:only-child > *': { m: 0 },
                 }}
               >
                 {headerElement}
@@ -70,11 +70,11 @@ export default function Column({ children }: TColumnProps): Node {
 
               <Box
                 sx={{
-                  px: "27px",
+                  px: '27px',
                   pt: 3,
-                  pb: "27px",
-                  color: "textMuted",
-                  "& > *:only-child, & > *:last-child": {
+                  pb: '27px',
+                  color: 'textMuted',
+                  '& > *:only-child, & > *:last-child': {
                     m: 0,
                   },
                 }}

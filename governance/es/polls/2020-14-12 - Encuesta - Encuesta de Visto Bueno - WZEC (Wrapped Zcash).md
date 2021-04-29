@@ -2,7 +2,7 @@
 
 ## **Descripción**
 
-Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://www.notion.so/Poll-Community-Greenlight-Poll-DPI-DeFi-Pulse-Index-December-14-2020-ed05927b3ecf4455806280c3dfc535de) estará activa durante catorce días comenzando el día Lunes 14 de diciembre a las 16:00 UTC 
+Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) como parte de sus responsabilidades definidas en el [MIP9: Visto Bueno Comunitario (en inglés)](https://github.com/makerdao/mips/blob/Accepted/MIP9/mip9.md). Esta [Encuesta de Gobernanza](https://www.notion.so/Poll-Community-Greenlight-Poll-DPI-DeFi-Pulse-Index-December-14-2020-ed05927b3ecf4455806280c3dfc535de) estará activa durante catorce días comenzando el día Lunes 14 de diciembre a las 16:00 UTC
 
 **Este es un voto binario. En un votación binaria, puedes votar por una sola opción. Deberías de votar por la opción de tu preferencia. Alternativamente, si aceptariás cualquiera de las dos opciones y no tienes preferencia entre ellas, deberías abstenerte.**
 
@@ -14,7 +14,7 @@ Por favor repasa [**el hilo**](https://www.notion.so/Encuesta-Encuesta-de-Visto-
 
 ## Resultados
 
-**Independientemente de la opción ganadora las siguientes acciones tendrán lugar una vez concluida la encuesta:** 
+**Independientemente de la opción ganadora las siguientes acciones tendrán lugar una vez concluida la encuesta:**
 
 - La "puntuación de visto bueno" será calculada para WZEC (Wrapped Zcash) usando la formula `Puntaje = "Sí" Votos - "No" Votos`
 - La "puntuación de visto bueno" para WZEC (Wrapped Zcash) sera agregada a la [Hoja de Priorización de Colaterales](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) por las facilitadores de Gobernanza.

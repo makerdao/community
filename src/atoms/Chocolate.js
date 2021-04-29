@@ -1,10 +1,10 @@
 // @flow
 /** @jsx jsx */
 
-import { Grid, jsx } from "theme-ui";
+import { Grid, jsx } from 'theme-ui';
 
-import { Children } from "react";
-import type { Node } from "react";
+import { Children } from 'react';
+import type { Node } from 'react';
 
 type TChocolateProps = {
   children: Node,
@@ -32,13 +32,13 @@ export default function Chocolate({ children }: TChocolateProps): Node {
   return (
     <Grid
       gap={4}
-      columns={["1fr", "1fr", columnWidth()]}
+      columns={['1fr', '1fr', columnWidth()]}
       sx={{
-        "& > * > * > img": {
-          width: "100%",
-          height: "100%",
-          objectFit: "cover",
-          objectPosition: "center",
+        '& > * > * > img': {
+          width: '100%',
+          height: '100%',
+          objectFit: 'cover',
+          objectPosition: 'center',
         },
         mb: 4,
       }}

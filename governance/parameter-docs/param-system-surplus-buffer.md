@@ -18,7 +18,7 @@ The System Surplus Buffer is expressed in absolute rather than relative terms, s
 
 ## Purpose
 
-In general terms, whenever the Maker Protocol makes money in DAI, MKR is bought and burnt. Likewise, every time the system loses money (bad debt), it mints MKR, sells it, and buys DAI. The primary purpose of the System Surplus Buffer is to reduce the frequency that this occurs. This is beneficial to the protocol because each time an auction takes place (whether FLAP or FLOP), the auction is not perfectly efficient and the protocol loses some percentage of the auctioned value. 
+In general terms, whenever the Maker Protocol makes money in DAI, MKR is bought and burnt. Likewise, every time the system loses money (bad debt), it mints MKR, sells it, and buys DAI. The primary purpose of the System Surplus Buffer is to reduce the frequency that this occurs. This is beneficial to the protocol because each time an auction takes place (whether FLAP or FLOP), the auction is not perfectly efficient and the protocol loses some percentage of the auctioned value.
 
 In addition to this, the buffer provides a reserve of DAI which may be used by governance to fund the operations of domain teams and to pay for Oracle feeds without requiring the minting of MKR.
 
@@ -30,9 +30,10 @@ However, while the buffer is not full FLAP auctions do not take place, and MKR i
 
 Additionally, DAI in the System Surplus Buffer is not circulating in the market. This means that holding large amounts of DAI in the System Surplus Buffer will increase upwards pressure on the DAI peg.
 
-Maintaining too low of a System Surplus Buffer on the other hand means that FLOP auctions are more likely to take place in the event of bad debt. This makes it more likely that the supply of MKR will increase and dilute the value of current MKR Holders. 
+Maintaining too low of a System Surplus Buffer on the other hand means that FLOP auctions are more likely to take place in the event of bad debt. This makes it more likely that the supply of MKR will increase and dilute the value of current MKR Holders.
 
 ## Changes
+
 Adjusting the Surplus Auction Buffer parameter is a manual process that requires an executive vote. Changes to the System Surplus Buffer are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**

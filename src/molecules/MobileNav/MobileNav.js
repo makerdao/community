@@ -1,18 +1,18 @@
 // @flow
 /** @jsx jsx */
 
-import { AnimatePresence, motion } from "framer-motion";
-import { Box, Flex, Text, jsx, useColorMode } from "theme-ui";
+import { AnimatePresence, motion } from 'framer-motion';
+import { Box, Flex, Text, jsx, useColorMode } from 'theme-ui';
 
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Link } from "@atoms";
-import type { Node } from "react";
-import { SidenavNode } from "@molecules";
-import type { TSidenavData } from "../Sidenav/Sidenav";
-import { useLocation } from "@reach/router";
-import { useNavigation } from "@modules/navigation";
-import { useState } from "react";
-import { useTranslation } from "@modules/localization";
+import { Icon } from '@makerdao/dai-ui-icons';
+import { Link } from '@atoms';
+import type { Node } from 'react';
+import { SidenavNode } from '@molecules';
+import type { TSidenavData } from '../Sidenav/Sidenav';
+import { useLocation } from '@reach/router';
+import { useNavigation } from '@modules/navigation';
+import { useState } from 'react';
+import { useTranslation } from '@modules/localization';
 
 type TMobileNavProps = {
   sidenavData: TSidenavData,
@@ -34,7 +34,7 @@ export default function MobileNav({
   const renderSubmenuInitial =
     blogData !== undefined ||
     (sidenavData.items[0] !== undefined &&
-      sidenavData.items[0].slugPart === pathname.split("/")[2] &&
+      sidenavData.items[0].slugPart === pathname.split('/')[2] &&
       sidenavData.items[0].items.length > 0);
 
   const [showMainMenu, setShowMainMenu] = useState(
@@ -55,30 +55,30 @@ export default function MobileNav({
       return (
         <Box
           sx={{
-            py: "2vh",
-            px: [3, "30px", null],
-            textDecoration: "none",
-            color: "onBackgroundAlt",
-            position: "relative",
-            fontWeight: "500",
-            cursor: "pointer",
-            "&:hover": {
-              textDecoration: "none",
-              color: "primary",
+            py: '2vh',
+            px: [3, '30px', null],
+            textDecoration: 'none',
+            color: 'onBackgroundAlt',
+            position: 'relative',
+            fontWeight: '500',
+            cursor: 'pointer',
+            '&:hover': {
+              textDecoration: 'none',
+              color: 'primary',
             },
           }}
           onClick={() => setShowMainMenu(false)}
           key={`mobile-nav-header-link-blog`}
         >
-          {t("Blog")}
+          {t('Blog')}
           <Icon
-            name={"chevron_right"}
-            size={"3.9vw"}
+            name={'chevron_right'}
+            size={'3.9vw'}
             sx={{
-              position: "absolute",
+              position: 'absolute',
               right: 4,
-              top: "50%",
-              transform: "translateY(-50%)",
+              top: '50%',
+              transform: 'translateY(-50%)',
             }}
           />
         </Box>
@@ -90,29 +90,29 @@ export default function MobileNav({
       <Link
         to={`/${locale}/blog`}
         sx={{
-          py: "2vh",
-          textDecoration: "none",
-          color: "onBackgroundAlt",
-          position: "relative",
-          fontWeight: "normal",
-          px: [3, "30px", null],
-          "&:hover": {
-            textDecoration: "none",
+          py: '2vh',
+          textDecoration: 'none',
+          color: 'onBackgroundAlt',
+          position: 'relative',
+          fontWeight: 'normal',
+          px: [3, '30px', null],
+          '&:hover': {
+            textDecoration: 'none',
           },
         }}
         onClick={hideMobileMenu}
         key={`mobile-nav-header-link-blog`}
         hideExternalIcon
       >
-        {t("Blog")}
+        {t('Blog')}
         <Icon
-          name={"chevron_right"}
-          size={"3.9vw"}
+          name={'chevron_right'}
+          size={'3.9vw'}
           sx={{
-            position: "absolute",
+            position: 'absolute',
             right: 4,
-            top: "50%",
-            transform: "translateY(-50%)",
+            top: '50%',
+            transform: 'translateY(-50%)',
           }}
         />
       </Link>
@@ -122,29 +122,29 @@ export default function MobileNav({
   return (
     <Box
       sx={{
-        height: "calc(100vh - 90px)",
+        height: 'calc(100vh - 90px)',
         zIndex: 100,
-        position: "fixed",
-        top: "90px",
-        display: ["block", "block", "none"],
-        width: "100%",
+        position: 'fixed',
+        top: '90px',
+        display: ['block', 'block', 'none'],
+        width: '100%',
       }}
     >
       <div
-        className={mobileNavOpen ? "open" : ""}
+        className={mobileNavOpen ? 'open' : ''}
         sx={{
-          bg: "backgroundAlt",
-          right: "-2500px",
-          top: "-2500px",
-          position: "absolute",
-          width: "5000px",
+          bg: 'backgroundAlt',
+          right: '-2500px',
+          top: '-2500px',
+          position: 'absolute',
+          width: '5000px',
           opacity: 0,
-          height: "5000px",
-          borderRadius: "10000px",
+          height: '5000px',
+          borderRadius: '10000px',
           zIndex: 0,
-          transition: "all .25s ease",
-          transformOrigin: "center",
-          "&.open": {
+          transition: 'all .25s ease',
+          transformOrigin: 'center',
+          '&.open': {
             opacity: 1,
           },
         }}
@@ -155,26 +155,26 @@ export default function MobileNav({
             key="main-menu"
             initial={{
               opacity: 0,
-              x: "32px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '32px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
             animate={{
               opacity: 1,
-              x: "0px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '0px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
             exit={{
               opacity: 0,
-              x: "32px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '32px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
-            sx={{ pb: "30px", pt: "30px" }}
+            sx={{ pb: '30px', pt: '30px' }}
           >
             <Flex
               sx={{
-                flexDirection: "column",
-                fontSize: ["5vw", "5vw", null],
-                mb: "33px",
+                flexDirection: 'column',
+                fontSize: ['5vw', '5vw', null],
+                mb: '33px',
               }}
             >
               <Link
@@ -182,14 +182,14 @@ export default function MobileNav({
                 variant="nav"
                 onClick={hideMobileMenu}
                 sx={{
-                  textDecoration: "none",
-                  color: "onBackgroundAlt",
-                  py: "2vh",
-                  fontWeight: "normal",
-                  px: [3, "30px", null],
+                  textDecoration: 'none',
+                  color: 'onBackgroundAlt',
+                  py: '2vh',
+                  fontWeight: 'normal',
+                  px: [3, '30px', null],
                 }}
               >
-                <Text>{t("Home")}</Text>
+                <Text>{t('Home')}</Text>
               </Link>
               {headerLinks.map(({ url, title }, index) => {
                 //If we rendered the submenu initially AND we're still in the top section
@@ -200,23 +200,23 @@ export default function MobileNav({
                   renderSubmenuInitial &&
                   sidenavData?.items[0] !== undefined
                 ) {
-                  let urlDirs = url.replace(/\/+$/, "").split("/");
+                  let urlDirs = url.replace(/\/+$/, '').split('/');
                   urlDirs = urlDirs.slice(2, urlDirs.length);
 
                   if (urlDirs[0] === sidenavData.items[0].slugPart) {
                     return (
                       <Box
                         sx={{
-                          py: "2vh",
-                          px: [3, "30px", null],
-                          textDecoration: "none",
-                          color: "onBackgroundAlt",
-                          position: "relative",
-                          fontWeight: "500",
-                          cursor: "pointer",
-                          "&:hover": {
-                            textDecoration: "none",
-                            color: "primary",
+                          py: '2vh',
+                          px: [3, '30px', null],
+                          textDecoration: 'none',
+                          color: 'onBackgroundAlt',
+                          position: 'relative',
+                          fontWeight: '500',
+                          cursor: 'pointer',
+                          '&:hover': {
+                            textDecoration: 'none',
+                            color: 'primary',
                           },
                         }}
                         onClick={() => setShowMainMenu(false)}
@@ -225,14 +225,14 @@ export default function MobileNav({
                         {title}
                         <Icon
                           name={
-                            /^\/(?!\/)/.test(url) ? "chevron_right" : "increase"
+                            /^\/(?!\/)/.test(url) ? 'chevron_right' : 'increase'
                           }
-                          size={"3.9vw"}
+                          size={'3.9vw'}
                           sx={{
-                            position: "absolute",
+                            position: 'absolute',
                             right: 4,
-                            top: "50%",
-                            transform: "translateY(-50%)",
+                            top: '50%',
+                            transform: 'translateY(-50%)',
                           }}
                         />
                       </Box>
@@ -244,14 +244,14 @@ export default function MobileNav({
                   <Link
                     to={url}
                     sx={{
-                      py: "2vh",
-                      textDecoration: "none",
-                      color: "onBackgroundAlt",
-                      position: "relative",
-                      fontWeight: "normal",
-                      px: [3, "30px", null],
-                      "&:hover": {
-                        textDecoration: "none",
+                      py: '2vh',
+                      textDecoration: 'none',
+                      color: 'onBackgroundAlt',
+                      position: 'relative',
+                      fontWeight: 'normal',
+                      px: [3, '30px', null],
+                      '&:hover': {
+                        textDecoration: 'none',
                       },
                     }}
                     onClick={hideMobileMenu}
@@ -261,14 +261,14 @@ export default function MobileNav({
                     {title}
                     <Icon
                       name={
-                        /^\/(?!\/)/.test(url) ? "chevron_right" : "increase"
+                        /^\/(?!\/)/.test(url) ? 'chevron_right' : 'increase'
                       }
-                      size={"3.9vw"}
+                      size={'3.9vw'}
                       sx={{
-                        position: "absolute",
+                        position: 'absolute',
                         right: 4,
-                        top: "50%",
-                        transform: "translateY(-50%)",
+                        top: '50%',
+                        transform: 'translateY(-50%)',
                       }}
                     />
                   </Link>
@@ -279,8 +279,8 @@ export default function MobileNav({
 
             <Flex
               sx={{
-                flexDirection: "row",
-                px: [3, "30px", null],
+                flexDirection: 'row',
+                px: [3, '30px', null],
               }}
             >
               <motion.div
@@ -288,30 +288,30 @@ export default function MobileNav({
                 whileTap={{ scale: 0.9 }}
                 whileHover={{ scale: 1.1 }}
                 sx={{
-                  backfaceVisibility: "hidden",
+                  backfaceVisibility: 'hidden',
                 }}
               >
                 <Icon
-                  size={"9vw"}
-                  name={"sun"}
+                  size={'9vw'}
+                  name={'sun'}
                   sx={{
-                    borderRadius: "100%",
-                    p: "2px",
-                    bg: colorMode !== "default" ? "transparent" : "primary",
-                    color: colorMode !== "default" ? "onBackgroundAlt" : "text",
-                    mr: "30px",
-                    minWidth: "32px",
-                    minHeight: "32px",
-                    maxWidth: "60px",
-                    maxHeight: "60px",
-                    cursor: "pointer",
-                    "&:hover": {
-                      bg: colorMode !== "default" ? "background" : "",
+                    borderRadius: '100%',
+                    p: '2px',
+                    bg: colorMode !== 'default' ? 'transparent' : 'primary',
+                    color: colorMode !== 'default' ? 'onBackgroundAlt' : 'text',
+                    mr: '30px',
+                    minWidth: '32px',
+                    minHeight: '32px',
+                    maxWidth: '60px',
+                    maxHeight: '60px',
+                    cursor: 'pointer',
+                    '&:hover': {
+                      bg: colorMode !== 'default' ? 'background' : '',
                     },
                   }}
                   onClick={() => {
-                    if (colorMode !== "default") {
-                      setColorMode("default");
+                    if (colorMode !== 'default') {
+                      setColorMode('default');
                     }
                   }}
                 />
@@ -321,30 +321,30 @@ export default function MobileNav({
                 whileTap={{ scale: 0.9 }}
                 whileHover={{ scale: 1.1 }}
                 sx={{
-                  backfaceVisibility: "hidden",
+                  backfaceVisibility: 'hidden',
                 }}
               >
                 <Icon
-                  size={"9vw"}
-                  name={"moon"}
+                  size={'9vw'}
+                  name={'moon'}
                   sx={{
-                    borderRadius: "100%",
-                    p: "2px",
-                    bg: colorMode !== "dark" ? "transparent" : "primary",
+                    borderRadius: '100%',
+                    p: '2px',
+                    bg: colorMode !== 'dark' ? 'transparent' : 'primary',
                     color:
-                      colorMode !== "dark" ? "onBackgroundAlt" : "background",
-                    minWidth: "32px",
-                    minHeight: "32px",
-                    maxWidth: "60px",
-                    maxHeight: "60px",
-                    cursor: "pointer",
-                    "&:hover": {
-                      bg: colorMode !== "dark" ? "surfaceDark" : "",
+                      colorMode !== 'dark' ? 'onBackgroundAlt' : 'background',
+                    minWidth: '32px',
+                    minHeight: '32px',
+                    maxWidth: '60px',
+                    maxHeight: '60px',
+                    cursor: 'pointer',
+                    '&:hover': {
+                      bg: colorMode !== 'dark' ? 'surfaceDark' : '',
                     },
                   }}
                   onClick={() => {
-                    if (colorMode !== "dark") {
-                      setColorMode("dark");
+                    if (colorMode !== 'dark') {
+                      setColorMode('dark');
                     }
                   }}
                 />
@@ -357,101 +357,101 @@ export default function MobileNav({
           <motion.div
             initial={{
               opacity: 0,
-              x: "32px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '32px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
             animate={{
               opacity: 1,
-              x: "0px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '0px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
             exit={{
               opacity: 0,
-              x: "64px",
-              transition: { ease: "easeOut", duration: 0.2 },
+              x: '64px',
+              transition: { ease: 'easeOut', duration: 0.2 },
             }}
           >
             <Flex
               sx={{
-                color: "primary",
-                px: [3, "30px", null],
-                pt: "30px",
-                pb: "37px",
-                borderBottom: "1px solid",
-                borderColor: "surfaceDark",
-                alignItems: "center",
-                cursor: "pointer",
+                color: 'primary',
+                px: [3, '30px', null],
+                pt: '30px',
+                pb: '37px',
+                borderBottom: '1px solid',
+                borderColor: 'surfaceDark',
+                alignItems: 'center',
+                cursor: 'pointer',
               }}
               onClick={() => setShowMainMenu(true)}
             >
-              <Icon size={"3.3vw"} name="chevron_left" />
+              <Icon size={'3.3vw'} name="chevron_left" />
               <Text
                 variant="caps"
                 sx={{
-                  color: "primary",
-                  fontSize: ["14px", "3vw", null],
-                  display: "inline-block",
-                  lineHeight: "normal",
+                  color: 'primary',
+                  fontSize: ['14px', '3vw', null],
+                  display: 'inline-block',
+                  lineHeight: 'normal',
                   ml: 2,
                 }}
               >
-                {t("Back_To_Main_Menu")}
+                {t('Back_To_Main_Menu')}
               </Text>
             </Flex>
             {blogData !== undefined && (
-              <Box sx={{ overflow: "auto", maxHeight: "80vh", pb: "10vh" }}>
+              <Box sx={{ overflow: 'auto', maxHeight: '80vh', pb: '10vh' }}>
                 <Link
                   onClick={hideMobileMenu}
                   sx={{
-                    pb: "2vh",
-                    fontSize: ["7vw", "5vw", null],
-                    textDecoration: "none",
-                    px: [3, "30px", null],
-                    color: "primary",
-                    display: "block",
+                    pb: '2vh',
+                    fontSize: ['7vw', '5vw', null],
+                    textDecoration: 'none',
+                    px: [3, '30px', null],
+                    color: 'primary',
+                    display: 'block',
                     mb: 3,
-                    pt: "calc(2vh + 6px)",
-                    "&:hover": {
-                      textDecoration: "none",
+                    pt: 'calc(2vh + 6px)',
+                    '&:hover': {
+                      textDecoration: 'none',
                     },
                   }}
                   to={`/${locale}/blog/`}
                 >
-                  {t("Blog")}
+                  {t('Blog')}
                 </Link>
                 <Flex
                   sx={{
-                    flexDirection: "column",
-                    fontSize: ["5vw", "5vw", null],
-                    mb: "33px",
+                    flexDirection: 'column',
+                    fontSize: ['5vw', '5vw', null],
+                    mb: '33px',
                   }}
                 >
                   <Link
                     to={`/${locale}/blog/`}
                     sx={{
-                      py: "2vh",
-                      textDecoration: "none",
-                      color: "onBackgroundAlt",
-                      position: "relative",
-                      fontWeight: "normal",
-                      px: [3, "30px", null],
-                      "&:hover": {
-                        textDecoration: "none",
+                      py: '2vh',
+                      textDecoration: 'none',
+                      color: 'onBackgroundAlt',
+                      position: 'relative',
+                      fontWeight: 'normal',
+                      px: [3, '30px', null],
+                      '&:hover': {
+                        textDecoration: 'none',
                       },
                     }}
                     onClick={hideMobileMenu}
                     key={`mobile-nav-header-link-blog-home`}
                     hideExternalIcon
                   >
-                    {t("Home")}
+                    {t('Home')}
                     <Icon
-                      name={"chevron_right"}
-                      size={"3.9vw"}
+                      name={'chevron_right'}
+                      size={'3.9vw'}
                       sx={{
-                        position: "absolute",
+                        position: 'absolute',
                         right: 4,
-                        top: "50%",
-                        transform: "translateY(-50%)",
+                        top: '50%',
+                        transform: 'translateY(-50%)',
                       }}
                     />
                   </Link>
@@ -459,14 +459,14 @@ export default function MobileNav({
                     <Link
                       to={`/${locale}/blog?section=${section}`}
                       sx={{
-                        py: "2vh",
-                        textDecoration: "none",
-                        color: "onBackgroundAlt",
-                        position: "relative",
-                        fontWeight: "normal",
-                        px: [3, "30px", null],
-                        "&:hover": {
-                          textDecoration: "none",
+                        py: '2vh',
+                        textDecoration: 'none',
+                        color: 'onBackgroundAlt',
+                        position: 'relative',
+                        fontWeight: 'normal',
+                        px: [3, '30px', null],
+                        '&:hover': {
+                          textDecoration: 'none',
                         },
                       }}
                       onClick={hideMobileMenu}
@@ -475,13 +475,13 @@ export default function MobileNav({
                     >
                       {section}
                       <Icon
-                        name={"chevron_right"}
-                        size={"3.9vw"}
+                        name={'chevron_right'}
+                        size={'3.9vw'}
                         sx={{
-                          position: "absolute",
+                          position: 'absolute',
                           right: 4,
-                          top: "50%",
-                          transform: "translateY(-50%)",
+                          top: '50%',
+                          transform: 'translateY(-50%)',
                         }}
                       />
                     </Link>
@@ -490,21 +490,21 @@ export default function MobileNav({
               </Box>
             )}
             {sidenavData?.items[0] && blogData === undefined && (
-              <Box sx={{ overflow: "auto", maxHeight: "80vh", pb: "10vh" }}>
+              <Box sx={{ overflow: 'auto', maxHeight: '80vh', pb: '10vh' }}>
                 {sidenavData.items[0].slugPart && (
                   <Link
                     onClick={hideMobileMenu}
                     sx={{
-                      pb: "2vh",
-                      fontSize: ["7vw", "5vw", null],
-                      textDecoration: "none",
-                      px: [3, "30px", null],
-                      color: "primary",
-                      display: "block",
+                      pb: '2vh',
+                      fontSize: ['7vw', '5vw', null],
+                      textDecoration: 'none',
+                      px: [3, '30px', null],
+                      color: 'primary',
+                      display: 'block',
                       mb: 3,
-                      pt: "calc(2vh + 6px)",
-                      "&:hover": {
-                        textDecoration: "none",
+                      pt: 'calc(2vh + 6px)',
+                      '&:hover': {
+                        textDecoration: 'none',
                       },
                     }}
                     to={`/${locale}/${sidenavData.items[0].slugPart}/`}
@@ -517,26 +517,26 @@ export default function MobileNav({
                   sx={{
                     m: 0,
                     p: 0,
-                    pb: "5rem",
-                    listStyleType: "none",
-                    "& li > a": {
-                      color: "onBackgroundAlt",
-                      py: "2vh",
-                      fontSize: ["5vw", "5vw", null],
-                      textDecoration: "none",
-                      position: "relative",
-                      px: "30px",
-                      pl: "16px",
-                      "&:hover": {
-                        textDecoration: "none",
+                    pb: '5rem',
+                    listStyleType: 'none',
+                    '& li > a': {
+                      color: 'onBackgroundAlt',
+                      py: '2vh',
+                      fontSize: ['5vw', '5vw', null],
+                      textDecoration: 'none',
+                      position: 'relative',
+                      px: '30px',
+                      pl: '16px',
+                      '&:hover': {
+                        textDecoration: 'none',
                       },
                     },
-                    "& li > svg": {
-                      width: "54px",
-                      height: "54px",
-                      color: "onBackgroundAlt",
-                      padding: "18px",
-                      right: "4%",
+                    '& li > svg': {
+                      width: '54px',
+                      height: '54px',
+                      color: 'onBackgroundAlt',
+                      padding: '18px',
+                      right: '4%',
                     },
                   }}
                 >

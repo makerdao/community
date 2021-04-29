@@ -1,6 +1,6 @@
 # Encuesta de Gobernanza Mensual de MIPs **- 18 de enero del 2021**
 
-Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el sistema de votación en representación de la comunidad de Gobernanza Maker. Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) de Gobernanza estará activa durante tres días comenzando el Lunes 18 de enero a las 16:00 UTC. 
+Los Facilitadores de Gobernanza han puesto una Encuesta de Gobernanza en el sistema de votación en representación de la comunidad de Gobernanza Maker. Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) de Gobernanza estará activa durante tres días comenzando el Lunes 18 de enero a las 16:00 UTC.
 
 **Este voto es binario. En un voto binario puedes votar por una sola opción. Deberías votar la opción que prefieres. Alternativamente, si aceptarías cualquiera de ellas y no tienes ninguna preferencia, deberías abstenerte.**
 
@@ -24,12 +24,12 @@ Las propuestas pueden ser revisadas en la actualización semanal de MIPs de esta
 
 ## Resultados
 
-**Si los votos por la opción "Si" superan los votos por la opción "No" entonces las siguientes acciones serán tomadas:** 
+**Si los votos por la opción "Si" superan los votos por la opción "No" entonces las siguientes acciones serán tomadas:**
 
 - Este lote de MIPs procederá al voto de ratificación final (Voto Ejecutivo) en la última semana del Ciclo de Gobernanza mensual, siempre que los facilitadores de gobernanza confirmen un resultado afirmativo de la encuesta de gobernanza mensual en la próxima llamada de gobernanza y riesgo el 21 de enero del 2021.
 - El Voto Ejecutivo será presentado el 25 de enero del 2021 asumiendo que los Facilitadores de Gobernanza confirmen un resultado positivo.
 
-**Si los votos por la opción "No" son iguales o superiores que los votos por la opción "Si" entonces ninguna acción adicional será tomada en estos momentos.** 
+**Si los votos por la opción "No" son iguales o superiores que los votos por la opción "Si" entonces ninguna acción adicional será tomada en estos momentos.**
 
 - Las propuestas se pueden volver a enviar al ciclo de gobernanza hasta tres veces si se rechazan.
 

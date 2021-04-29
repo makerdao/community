@@ -4,10 +4,11 @@ summary: If this mandate is accepted by the community, it will signal support fo
 discussion_link: https://forum.makerdao.com/t/proposal-responsible-oracle-migration/509
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Responsible Oracle Migration Proposal
 
 ## Introduction

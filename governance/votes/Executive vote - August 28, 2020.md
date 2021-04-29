@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Activate Liquidations 1.2, Multiple Other Changes
-
 ---
+
 ## [Executive Vote] Activate Liquidations 1.2, Multiple Other Changes
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -35,6 +35,7 @@ Community discussion around this change can be found [here](https://forum.makerd
 ## Summary
 
 Therefore, if this Executive passes the following will occur:
+
 - The `cat` contract will be replaced as part of the Liquidations 1.2 upgrade.
 - The `flipper` contracts will be replaced for all collateral types as part of the Liquidations 1.2 upgrade.
 - The new `box` parameter will be initialized to 30 million Dai.
@@ -46,13 +47,13 @@ Therefore, if this Executive passes the following will occur:
 
 Note that the increase to the WBTC-A Risk Premium has no effect on the WBTC-A stability fee at this time due to the negative base rate.
 
-Note that this proposal includes an Office Hours modifier that only allows spell execution between 10am to 5pm EST. 
+Note that this proposal includes an Office Hours modifier that only allows spell execution between 10am to 5pm EST.
 
 The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs#governance)) will continue until the number of votes surpasses the total in favor of the previous Executive Vote. This is a [continuous approval](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/governance#what-is-continuous-approval-voting) vote.
 
 ## Review
 
-These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the discussion threads linked above to inform your position before voting.  
+These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the discussion threads linked above to inform your position before voting.
 
 Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) and [Audio](https://soundcloud.com/makerdao/sets/governance-calls) for these calls is available to review.
 

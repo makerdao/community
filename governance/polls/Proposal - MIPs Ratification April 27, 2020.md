@@ -4,10 +4,11 @@ summary: If the Timing poll passes, the Maker community will proceed with the MI
 discussion_link: https://forum.makerdao.com/t/2169
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Timing Poll to Proceed with the MIPs Ratification Vote - April 27, 2020
 
 Today, on April 27th, 2020, the Maker Community will vote to proceed with the ratification vote for the Initial 13 Maker Improvement Proposals (MIPs) and 2 Subproposals. The MIPs cover the Core Governance and Collateral Onboarding frameworks as well as two subproposals for onboarding an official MIP Editor and a Smart Contracts Domain team.
@@ -20,7 +21,7 @@ If passed, the Maker community will proceed with the Ratification Vote of the pr
 
 **[MIP0 (The Maker Improvement Proposals Framework)](https://github.com/makerdao/mips/tree/master/MIP0):** MIP0 defines and describes the MIPs Framework.
 
-- **[MIP0c12-SP1 (Subproposal for Core Personnel Onboarding)](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP1.md):** MIP0c12-SP1 is for adding the first MIP Editor. 
+- **[MIP0c12-SP1 (Subproposal for Core Personnel Onboarding)](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP1.md):** MIP0c12-SP1 is for adding the first MIP Editor.
 
 ### Core Foundational MIPs Set
 
@@ -40,7 +41,7 @@ If passed, the Maker community will proceed with the Ratification Vote of the pr
 
 **[MIP7 (Domain Teams for Collateral Onboarding)](https://github.com/makerdao/mips/tree/master/MIP7):** MIP7 defines processes for onboarding and offboarding domain teams.
 
-- **[MIP7c3-SP1 (Domain Team Onboarding)](https://github.com/makerdao/mips/blob/master/MIP7/MIP7c3-Subproposals/MIP7c3-SP1.md):** MIP7c3-SP1 is for adding the first Smart Contracts Domain Team. 
+- **[MIP7c3-SP1 (Domain Team Onboarding)](https://github.com/makerdao/mips/blob/master/MIP7/MIP7c3-Subproposals/MIP7c3-SP1.md):** MIP7c3-SP1 is for adding the first Smart Contracts Domain Team.
 
 **[MIP8 (Domain Greenlight)](https://github.com/makerdao/mips/tree/master/MIP8):** MIP8 defines the process by which domain teams signal that a potential collateral type is worth the time spent investigating its inclusion in the Maker Protocol.
 
@@ -55,10 +56,10 @@ If passed, the Maker community will proceed with the Ratification Vote of the pr
 ## Next Steps: Timing Poll Outcomes
 
 1. **Approval to proceed with the MIPs Ratification Vote**
-If the Timing Poll resolves to proceed with the Ratification Vote of the proposed MIPs, the vote will occur over four days, May 1-4. If that vote resolves to "Yes," the MIPs will be officially ratified and marked as “Accepted,” and the first Governance Cycle will begin on May 4. Once the Governance Cycle has begun, the formal submission of MIPs and Subproposals will occur between May 4 and May 6.
+   If the Timing Poll resolves to proceed with the Ratification Vote of the proposed MIPs, the vote will occur over four days, May 1-4. If that vote resolves to "Yes," the MIPs will be officially ratified and marked as “Accepted,” and the first Governance Cycle will begin on May 4. Once the Governance Cycle has begun, the formal submission of MIPs and Subproposals will occur between May 4 and May 6.
 
 2. **Delay the MIPs Ratification Vote for one month**
-If the Timing Poll resolves to "no", the Ratification Vote is effectively delayed for one month, where a competition process would begin immediately. The competition process is a MIPs proposal process, where multiple versions of MIPs can be proposed as alternative choices to the intially proposed MIPs. For example, several versions of MIP3, which describe the Governance Cycle, might be presented.
+   If the Timing Poll resolves to "no", the Ratification Vote is effectively delayed for one month, where a competition process would begin immediately. The competition process is a MIPs proposal process, where multiple versions of MIPs can be proposed as alternative choices to the intially proposed MIPs. For example, several versions of MIP3, which describe the Governance Cycle, might be presented.
 
    The deadline for submitting competing proposals would be May 20. The community would then proceed to vote for the proposal version they want to be included in the final MIP Set and put up for the ratification vote. Voting would occur May 23-26.
 

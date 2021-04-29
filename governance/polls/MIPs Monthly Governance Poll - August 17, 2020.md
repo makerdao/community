@@ -1,13 +1,14 @@
 ---
 title: Monthly MIPs Governance Poll - August 17, 2020
-summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand should proceed to next week's Executive Vote.
 discussion_link: https://forum.makerdao.com/t/3618
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Monthly MIPs Governance Poll - August 17, 2020
 
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on August 24, 2020. The bundled contents of this poll consist of:

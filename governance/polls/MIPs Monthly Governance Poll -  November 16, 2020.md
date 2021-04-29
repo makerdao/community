@@ -14,12 +14,14 @@ options:
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on November 23, 2020. The bundled contents of this poll consist of:
 
 **MIPS**
+
 - [MIP24: Emergency Voting System](https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009)
 - [MIP25: Flash Mint Module](https://forum.makerdao.com/t/mip25-flash-mint-module/4400)
 - [MIP27: Debt Ceiling Instant Access Module](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625)
 - [MIP28: Operational Support Domain Definition](https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627)
 
 **Subproposals**
+
 - [MIP4c2-SP6: Calendar Exceptions](https://forum.makerdao.com/t/mip4c2-sp6-calendar-exceptions/4546)
 - [MIP13c3-SP6: SourceCred Funding](https://forum.makerdao.com/t/mip13c3-sp6-sourcecred-funding/4545)
 - [MIP28c7-SP1: Subproposal for Operational Support Domain Facilitator Onboarding](https://forum.makerdao.com/t/mip28c7-sp1-subproposal-for-operational-support-domain-facilitator-onboarding/4628)

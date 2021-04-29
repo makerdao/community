@@ -2,14 +2,14 @@
 
 /** @jsx jsx */
 
-import { Flex, Text, jsx } from "theme-ui";
+import { Flex, Text, jsx } from 'theme-ui';
 
-import { Fragment } from "react";
-import { Icon } from "@makerdao/dai-ui-icons";
-import { Link } from "@atoms";
-import type { Node } from "react";
-import { titleCase } from "@utils";
-import { useTranslation } from "@modules/localization/";
+import { Fragment } from 'react';
+import { Icon } from '@makerdao/dai-ui-icons';
+import { Link } from '@atoms';
+import type { Node } from 'react';
+import { titleCase } from '@utils';
+import { useTranslation } from '@modules/localization/';
 
 type TBreadcrumData = Array<{
   part: string,
@@ -31,32 +31,32 @@ export default function Breadcrumbs({
   return (
     <Flex
       sx={{
-        alignItems: "center",
-        width: "100%",
-        mb: "28px",
-        flexWrap: "wrap",
+        alignItems: 'center',
+        width: '100%',
+        mb: '28px',
+        flexWrap: 'wrap',
         fontSize: 3,
-        pr: [0, 0, "1.5rem"],
+        pr: [0, 0, '1.5rem'],
       }}
     >
       <Link
         to={`/${locale}/`}
         sx={{
-          textDecoration: "none",
-          color: "textMuted",
-          fontWeight: "normal",
-          "&:hover": {
-            textDecoration: "none",
+          textDecoration: 'none',
+          color: 'textMuted',
+          fontWeight: 'normal',
+          '&:hover': {
+            textDecoration: 'none',
           },
         }}
         partiallyActive={false}
       >
-        {t("Home")}
+        {t('Home')}
       </Link>
       <Icon
         name="chevron_right"
         size={3}
-        sx={{ mx: ["10px", "10px", "13px"] }}
+        sx={{ mx: ['10px', '10px', '13px'] }}
       />
       {pathDirs.map((p, index) => {
         const _data = data.find((n) => n.part === p);
@@ -66,13 +66,13 @@ export default function Breadcrumbs({
             return (
               <Text
                 sx={{
-                  display: "inline-block",
-                  fontWeight: "500",
-                  color: "textMuted",
+                  display: 'inline-block',
+                  fontWeight: '500',
+                  color: 'textMuted',
                 }}
                 key={`breadcrumb-${index}`}
               >
-                {titleCase(p.replace(/-|_|\./g, " "))}
+                {titleCase(p.replace(/-|_|\./g, ' '))}
               </Text>
             );
           }
@@ -81,14 +81,14 @@ export default function Breadcrumbs({
             <Fragment key={`breadcrumb-${index}`}>
               <Text
                 sx={{
-                  display: "inline-block",
-                  color: "textMuted",
+                  display: 'inline-block',
+                  color: 'textMuted',
                 }}
                 key={`breadcrumb-${index}`}
               >
-                {titleCase(p.replace(/-|_|\./g, " "))}
+                {titleCase(p.replace(/-|_|\./g, ' '))}
               </Text>
-              <Icon name="chevron_right" size={3} sx={{ mx: "13px" }} />
+              <Icon name="chevron_right" size={3} sx={{ mx: '13px' }} />
             </Fragment>
           );
         }
@@ -101,17 +101,17 @@ export default function Breadcrumbs({
         const isFallback =
           url.includes(`/${DEFAULT_LOCALE}/`) && DEFAULT_LOCALE !== locale;
         const fallbackString = isFallback
-          ? ` (${t("Language", null, null, DEFAULT_LOCALE)})`
-          : "";
+          ? ` (${t('Language', null, null, DEFAULT_LOCALE)})`
+          : '';
 
         //If this is the last crumb, then just render its name.
         if (index === pathDirs.length - 1) {
           return (
             <Text
               sx={{
-                display: "inline-block",
-                fontWeight: "500",
-                color: "textMuted",
+                display: 'inline-block',
+                fontWeight: '500',
+                color: 'textMuted',
               }}
               key={`breadcrumb-${index}`}
             >
@@ -126,13 +126,13 @@ export default function Breadcrumbs({
               <Link
                 to={url}
                 sx={{
-                  textDecoration: "none",
-                  color: "textMuted",
-                  fontWeight: "normal",
-                  "&:hover": {
-                    textDecoration: "none",
+                  textDecoration: 'none',
+                  color: 'textMuted',
+                  fontWeight: 'normal',
+                  '&:hover': {
+                    textDecoration: 'none',
                   },
-                  lineHeight: "normal",
+                  lineHeight: 'normal',
                 }}
                 partiallyActive={false}
                 activeClassName="breadcrumb-no-active"
@@ -143,10 +143,10 @@ export default function Breadcrumbs({
                   <Fragment>
                     <span
                       sx={{
-                        whiteSpace: "nowrap",
-                        overflow: "hidden",
-                        textOverflow: "ellipsis",
-                        maxWidth: "250px",
+                        whiteSpace: 'nowrap',
+                        overflow: 'hidden',
+                        textOverflow: 'ellipsis',
+                        maxWidth: '250px',
                       }}
                     >
                       {title}
@@ -164,7 +164,7 @@ export default function Breadcrumbs({
                 )}
               </Fragment>
             )}
-            <Icon name="chevron_right" size={3} sx={{ mx: "13px" }} />
+            <Icon name="chevron_right" size={3} sx={{ mx: '13px' }} />
           </Fragment>
         );
       })}

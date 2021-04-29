@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
-
 ---
+
 ## [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -15,6 +15,7 @@ Additionally, a community [signal request](https://forum.makerdao.com/t/signal-r
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The ETH-A Debt Ceiling will be increased from 490 million DAI to 590 million DAI.
 - The Global line parameter will be increased from 1,481,750,000 DAI to 1,581,750,000 DAI.
 

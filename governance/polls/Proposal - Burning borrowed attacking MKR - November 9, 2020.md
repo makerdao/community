@@ -4,15 +4,16 @@ summary: Signal your support or opposition for the statement in the poll details
 discussion_link: https://forum.makerdao.com/t/signal-request-should-the-maker-community-burn-attacking-borrowed-mkr-in-the-event-of-a-governance-attack-leading-to-protocol-redeployment/4903
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Agree
-   2: Disagree
+  0: Abstain
+  1: Agree
+  2: Disagree
 ---
+
 # Poll: Burning Borrowed, Attacking MKR in the Event of Protocol Redeployment - November 9, 2020
 
 The MakerDAO governance facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling). This poll allows the MakerDAO governance community to signal their support or opposition to the statement given below:
 
-*“In the event of a malicious governance attack that leads to redeployment of the Maker Protocol prior to the introduction of flash loan guards into the governance process, the community and domain teams should do everything possible to burn the MKR involved in the attack, regardless of whether the owner was directly involved in the attack.”*
+_“In the event of a malicious governance attack that leads to redeployment of the Maker Protocol prior to the introduction of flash loan guards into the governance process, the community and domain teams should do everything possible to burn the MKR involved in the attack, regardless of whether the owner was directly involved in the attack.”_
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 9 at 16:00 UTC.
 

@@ -1,8 +1,8 @@
 /** @jsx jsx */
 
-import { Text, jsx } from "theme-ui";
+import { Text, jsx } from 'theme-ui';
 
-import { Link } from "@atoms";
+import { Link } from '@atoms';
 
 const SearchHit = ({ title, excerpt, url, ...props }) => (
   <Link
@@ -16,11 +16,11 @@ const SearchHit = ({ title, excerpt, url, ...props }) => (
       aria-live="assertive"
       sx={{
         m: 0,
-        textDecoration: "none",
+        textDecoration: 'none',
         fontWeight: 500,
-        color: "text",
-        "& mark": {
-          backgroundColor: "primary",
+        color: 'text',
+        '& mark': {
+          backgroundColor: 'primary',
         },
       }}
     >
@@ -29,11 +29,11 @@ const SearchHit = ({ title, excerpt, url, ...props }) => (
     <Text
       aria-live="assertive"
       sx={{
-        textDecoration: "none",
+        textDecoration: 'none',
         fontWeight: 400,
-        color: "textMuted",
-        "& mark": {
-          backgroundColor: "primaryMuted",
+        color: 'textMuted',
+        '& mark': {
+          backgroundColor: 'primaryMuted',
         },
       }}
     >

@@ -2,7 +2,7 @@
 
 El facilitador de gobernanza de MakerDAO ha introducido esta Encuesta de Gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de los actores mandados de MakerDAO. Esta encuesta permite a la comunidad de gobernanza de MakerDAO señalar su apoyo u oposición hacia incorporar UNI-V2-DAI-ETH (UniswapV2 DAI-ETH LP Token) como un tipo de colateral en el Protocolo Maker.
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 

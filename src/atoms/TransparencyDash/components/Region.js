@@ -1,12 +1,12 @@
 // @flow
 /** @jsx jsx */
 
-import { Flex, Image, Text, jsx } from "theme-ui";
+import { Flex, Image, Text, jsx } from 'theme-ui';
 
-import { Fragment } from "react";
-import type { Node } from "react";
-import Regions from "@data/regions";
-import type { TRegions } from "@data/regions";
+import { Fragment } from 'react';
+import type { Node } from 'react';
+import Regions from '@data/regions';
+import type { TRegions } from '@data/regions';
 
 export type TRegionProps = {
   data: TRegions,
@@ -15,13 +15,13 @@ export type TRegionProps = {
 
 export default function Region({ data, region }: TRegionProps): Node {
   const shortcodes = {
-    na: "northamerica",
-    sa: "southamerica",
-    af: "africa",
-    eu: "europe",
-    as: "asia",
-    oc: "oceania",
-    virt: "virtual",
+    na: 'northamerica',
+    sa: 'southamerica',
+    af: 'africa',
+    eu: 'europe',
+    as: 'asia',
+    oc: 'oceania',
+    virt: 'virtual',
   };
 
   const _region = shortcodes[region] || region;
@@ -31,30 +31,30 @@ export default function Region({ data, region }: TRegionProps): Node {
   return (
     <Flex
       sx={{
-        borderRadius: "4px",
+        borderRadius: '4px',
         background: (theme) => `${theme.colors.transDash_regionBG}`,
         px: 3,
         mr: 3,
         mb: 3,
-        width: "192px",
-        textAlign: "center",
-        display: "inline-block",
-        fontFamily: "transparencyDashboard",
+        width: '192px',
+        textAlign: 'center',
+        display: 'inline-block',
+        fontFamily: 'transparencyDashboard',
       }}
     >
       {_reg ? (
         <Fragment>
           {_reg.image && (
-            <Image src={_reg.image} sx={{ width: "160px", opacity: 0.8 }} />
+            <Image src={_reg.image} sx={{ width: '160px', opacity: 0.8 }} />
           )}
           {_data && (
             <Text
               as="h1"
               sx={{
-                fontSize: "2.25rem",
-                color: "primary",
-                fontWeight: "400",
-                mb: "1rem",
+                fontSize: '2.25rem',
+                color: 'primary',
+                fontWeight: '400',
+                mb: '1rem',
               }}
             >
               {_data}
@@ -62,7 +62,7 @@ export default function Region({ data, region }: TRegionProps): Node {
           )}
           <Text
             as="h3"
-            sx={{ fontSize: "1.25rem", my: "1rem", fontWeight: "400" }}
+            sx={{ fontSize: '1.25rem', my: '1rem', fontWeight: '400' }}
           >
             {_reg.label || region}
           </Text>

@@ -4,10 +4,11 @@ summary: Signal your support or opposition for increasing the Surplus Buffer fro
 discussion_link: https://forum.makerdao.com/t/signal-request-increase-the-auction-surplus-buffer-by-2m-system-surplus-october-2020/4716
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Increase the Surplus Auction Buffer - October 19, 2020
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain. The community can use this poll to express support or opposition to increasing the Surplus Auction Buffer, also referred to as the 'System Surplus', from 2,000,000 DAI to 4,000,000 DAI. More information on this parameter can be found [here](https://docs.makerdao.com/auctions/the-auctions-of-the-maker-protocol#surplus-auction).
@@ -33,4 +34,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

@@ -1,13 +1,14 @@
 ---
 title: "MIP13: Inclusion Poll for Declarations of Intent - June 8, 2020"
-summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll. 
+summary: The Inclusion Poll will run from June 8 to June 11 and will determine whether the proposal at hand will proceed to next week's Governance Poll.
 discussion_link: https://forum.makerdao.com/t/2461
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP13: Inclusion Poll for Declarations of Intent - June 8, 2020
 
 On June 8, the Maker Community will vote to determine whether the Maker Improvement Proposal, [MIP13 (Declarations of Intent)](https://forum.makerdao.com/t/mip13-declarations-of-intent/2461), will proceed to next week's Governance Poll. In short, MIP13 proposes a process that will allow Maker Governance to signal an intention to the wider community.

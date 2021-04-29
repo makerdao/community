@@ -1,13 +1,14 @@
 ---
 title: Community Greenlight Poll - WFIL (Wrapped Filecoin) - December 14, 2020
-summary: Signal your support or opposition to prioritising onboarding WFIL (Wrapped Filecoin). 
+summary: Signal your support or opposition to prioritising onboarding WFIL (Wrapped Filecoin).
 discussion_link: https://forum.makerdao.com/t/wfil-mip6-collateral-onboarding-application/5205
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+  0: Abstain
+  1: Yes (Greenlight)
+  2: No (Defer)
 ---
+
 # Poll: Community Greenlight Poll - WFIL (Wrapped Filecoin) - December 14, 2020
 
 ## Description
@@ -18,7 +19,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset WFIL (Wrapped Filecoin) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list). 
+This poll asks whether the asset WFIL (Wrapped Filecoin) should be prioritized for inclusion in the Maker Protocol by the [domain teams](https://github.com/makerdao/mips/blob/Accepted/MIP7/mip7.md#mip7c2-the-current-domain-roles-list).
 
 Note that this poll refers to the WFIL token created and operated by [wrapped.com](https://www.wrapped.com/). Given the current confusion due to multiple projects competing for the WFIL token symbol, the name of this token may change in the future as the market for both tokens develops.
 
@@ -27,9 +28,10 @@ Please review the collateral onboarding application [thread](https://forum.maker
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for WFIL (Wrapped Filecoin) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for WFIL (Wrapped Filecoin) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
-* The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+
+- The 'greenlight score' will be calculated for WFIL (Wrapped Filecoin) using the formula `Score = 'Yes' Votes - 'No' Votes`
+- The 'greenlight score' for WFIL (Wrapped Filecoin) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitator(s).
+- The Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
 
