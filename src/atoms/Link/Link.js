@@ -1,17 +1,17 @@
 // @flow
 /** @jsx jsx */
 
-import { Link as ThemeLink, jsx } from "theme-ui";
+import { Link as ThemeLink, jsx } from 'theme-ui';
 
-import { Fragment } from "react";
-import { Link as GatsbyLink } from "gatsby";
-import { Icon } from "@makerdao/dai-ui-icons";
-import IconLink from "./components/IconLink";
-import type { Node } from "react";
-import { OutboundLink } from "gatsby-plugin-google-analytics";
-import type { TIconLinkProps } from "./components/IconLink";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
-import { useTranslation } from "@modules/localization";
+import { Fragment } from 'react';
+import { Link as GatsbyLink } from 'gatsby';
+import { Icon } from '@makerdao/dai-ui-icons';
+import IconLink from './components/IconLink';
+import type { Node } from 'react';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
+import type { TIconLinkProps } from './components/IconLink';
+import { trackCustomEvent } from 'gatsby-plugin-google-analytics';
+import { useTranslation } from '@modules/localization';
 
 type TLinkProps = {
   children: Node,
@@ -46,25 +46,23 @@ export default function Link({
   //If it does, append it to the end our current pages url for "to".
   const isAnchor = /^[#]/.test(linkHref);
 
-  if (isAnchor && typeof window !== "undefined") {
+  if (isAnchor && typeof window !== 'undefined') {
     return (
       <GatsbyLink
         to={`${window.location.pathname}${linkHref}`}
-        sx={{ variant: "styles.a" }}
+        sx={{ variant: 'styles.a' }}
         onClick={() => {
-          //TODO(Rejon): See how marketing team wants to handle anchor links.
-          // if (onClick !== null && onClick !== undefined) {
-          //   onClick();
-          // }
-          // const eventProps = Object.assign(
-          //   {
-          //     category: "Internal Link",
-          //     action: "Click",
-          //     label: linkHref,
-          //   },
-          //   gaProps
-          // );
-          // trackCustomEvent(eventProps);
+          if (onClick) {
+            onClick();
+          }
+          const eventProps =
+            ({
+              category: 'Internal Link',
+              action: 'Click',
+              label: linkHref,
+            },
+            gaProps);
+          trackCustomEvent(eventProps);
         }}
         {...(rest: any)}
       >
@@ -94,12 +92,12 @@ export default function Link({
       <GatsbyLink
         to={linkHref}
         activeClassName={
-          activeClassName || (linkHref !== `/${locale}/` ? "active" : null)
+          activeClassName || (linkHref !== `/${locale}/` ? 'active' : null)
         }
         partiallyActive={
           partiallyActive || (linkHref !== `/${locale}/` ? true : null)
         }
-        sx={{ variant: "styles.a" }}
+        sx={{ variant: 'styles.a' }}
         onClick={() => {
           if (onClick !== null && onClick !== undefined) {
             onClick();
@@ -107,8 +105,8 @@ export default function Link({
 
           const eventProps = Object.assign(
             {
-              category: "Internal Link",
-              action: "Click",
+              category: 'Internal Link',
+              action: 'Click',
               label: linkHref,
             },
             gaProps
@@ -124,11 +122,11 @@ export default function Link({
             {` ${(
               <Icon
                 name={icon}
-                size={"2rem"}
+                size={'2rem'}
                 sx={{
-                  verticalAlign: "middle",
-                  top: "-2px",
-                  position: "relative",
+                  verticalAlign: 'middle',
+                  top: '-2px',
+                  position: 'relative',
                 }}
               />
             )}`}
@@ -146,7 +144,7 @@ export default function Link({
   if (!hasHTTP) {
     linkHref = `https://${linkHref}`;
   } else if (!/^(https)?:\/\//i.test(linkHref)) {
-    linkHref = linkHref.replace(/^http?:\/\//, "https://");
+    linkHref = linkHref.replace(/^http?:\/\//, 'https://');
   }
 
   return (
@@ -157,7 +155,7 @@ export default function Link({
       className="external-link"
       onClick={onClick}
       {...(rest: any)}
-      target={"_blank"}
+      target={'_blank'}
       rel="nofollow noopener"
     >
       {icon && linkHref && (
@@ -165,8 +163,8 @@ export default function Link({
           {` `}
           <Icon
             name={icon}
-            size={"2rem"}
-            sx={{ verticalAlign: "middle", top: "-2px", position: "relative" }}
+            size={'2rem'}
+            sx={{ verticalAlign: 'middle', top: '-2px', position: 'relative' }}
           />
         </Fragment>
       )}
@@ -175,7 +173,7 @@ export default function Link({
         <Icon
           name="increase"
           className="increase"
-          sx={{ top: "2px", position: "relative", ml: "2px" }}
+          sx={{ top: '2px', position: 'relative', ml: '2px' }}
         />
       )}
     </ThemeLink>
