@@ -40,7 +40,7 @@ The next executive proposal will be submitted next Friday, potentially resulting
 
 ### Liquidations 2.0
 
-Given the successful outcomes of these polls for [ETH-A](https://vote.makerdao.com/polling/Qme8CTGu#vote-breakdown), [ETH-B](https://vote.makerdao.com/polling/QmTBfsaB?network=mainnet), [ETH-C](https://vote.makerdao.com/polling/QmYU7BMP?network=mainnet) and [WBTC-A](https://vote.makerdao.com/polling/QmT63Z5v?network=mainnet); these vault types will be added to the liquidations 2.0 framework with the following parameters if this executive proposal passes:
+Given the successful outcomes of these polls for [ETH-A](https://vote.makerdao.com/polling/Qme8CTGu?mainnet), [ETH-B](https://vote.makerdao.com/polling/QmTBfsaB?network=mainnet), [ETH-C](https://vote.makerdao.com/polling/QmYU7BMP?network=mainnet) and [WBTC-A](https://vote.makerdao.com/polling/QmT63Z5v?network=mainnet); these vault types will be added to the liquidations 2.0 framework with the following parameters if this executive proposal passes:
 
 **Common Parameters**  
 These parameters are the same for each of the ETH-A, ETH-B, ETH-C, and WBTC-A vault types.
