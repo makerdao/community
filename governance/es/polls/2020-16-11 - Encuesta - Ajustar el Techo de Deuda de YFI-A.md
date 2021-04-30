@@ -2,11 +2,11 @@
 
 Los Facilitadores de Gobernanza de MakerDAO han colocado una encuesta de gobernanza en el sistema de votación en nombre del Equipo de Dominio de Riesgo. La comunidad puede votar en esta encuesta para expresar su apoyo u oposición a ajustar el Techo de Deuda de YFI-A de 7 millones de DAI a 20 millones de DAI.
 
-Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza estará activa por tres días comenzando el lunes 16 de noviembre a las 16:00 UTC. 
+Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de Gobernanza estará activa por tres días comenzando el lunes 16 de noviembre a las 16:00 UTC.
 
 ## **Reseñar**
 
-Por favor revisa el [hilo](https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931) de discusión para informar tu posición sobre este asunto antes de votar. 
+Por favor revisa el [hilo](https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931) de discusión para informar tu posición sobre este asunto antes de votar.
 
 ## Pasos siguientes
 
@@ -18,7 +18,7 @@ Si esta encuesta termina con un "Sí" como mayoría, este cambio de parámetro s
 
 ## **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

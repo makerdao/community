@@ -4,13 +4,14 @@ summary: Signal your support or opposition to the statement *"MakerDAO Supports 
 discussion_link: https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646
 vote_type: Plurality Voting
 categories:
-   - Other
-   - Governance
+  - Other
+  - Governance
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: MakerDAO Supports EIP1559 - March 1, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO governance community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 1 at 16:00 UTC.
@@ -19,9 +20,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following statement: 
+The community can vote in this poll to express support or opposition to the following statement:
 
-*"MakerDAO supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)"*
+_"MakerDAO supports [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)"_
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-does-makerdao-support-eip-1559/6646) (which includes an overview of [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)) to help inform your position before voting.
 

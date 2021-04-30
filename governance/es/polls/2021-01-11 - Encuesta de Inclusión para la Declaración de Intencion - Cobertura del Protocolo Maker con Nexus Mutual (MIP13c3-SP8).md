@@ -14,7 +14,7 @@ Revisa la discusión en este [hilo](https://forum.makerdao.com/t/mip13c3-sp8-mak
 
 Esta encuesta implementa un **Umbral de inclusión**. El Umbral de inclusión actualmente está establecido en **3,000 MKR**.
 
-**Si los votos para la opción 'Sí' superan los votos para la opción 'No' en al menos 3,000 MKR, se tomarán las siguientes medidas:** 
+**Si los votos para la opción 'Sí' superan los votos para la opción 'No' en al menos 3,000 MKR, se tomarán las siguientes medidas:**
 
 - El facilitador (es) de gobernanza confirmará la inclusión de esta propuesta en la próxima encuesta mensual de gobernanza sobre la convocatoria de gobernanza y riesgo el 14 de enero de 2020.
 - La encuesta mensual de gobernanza ocurre en la semana 3 del [Ciclo de gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md).
@@ -29,7 +29,7 @@ Esta encuesta implementa un **Umbral de inclusión**. El Umbral de inclusión ac
 
 Si eres nuevos en cuanto al procedimiento de emitir tu voto en el Protocolo de Maker, consulta la [guía de votación](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) para conocer cómo funciona la votación, y esta [guía de configuración de billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar su billetera para votar.
 
-Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance)  del portal de la comunidad de MakerDAO.
+Puede encontrar información adicional sobre el proceso de gobernanza en la sección [Gobernanza](https://community-development.makerdao.com/en/learn/governance) del portal de la comunidad de MakerDAO.
 
 Para participar en futuras llamadas sobre gobernanza, [únete a nuestra llamada](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) todos los jueves a las 16:00 UTC.
 

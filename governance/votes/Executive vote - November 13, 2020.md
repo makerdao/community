@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Onboard GUSD - November 13, 2020
-
 ---
+
 ## [Executive Vote] Onboard GUSD - November 13, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -32,6 +32,7 @@ Please review the following forum threads containing information about GUSD (Gem
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - The GUSD-A vault type will be added using GUSD as collateral with the parameters listed above.
 - The Global line parameter will increase from 1,463,750,000 DAI to 1,468,750,000 DAI due to the addition of GUSD-A.
 

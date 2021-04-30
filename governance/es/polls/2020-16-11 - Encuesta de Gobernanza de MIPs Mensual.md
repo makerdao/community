@@ -23,7 +23,7 @@ Las propuestas pueden ser revisadas [aquí](https://forum.makerdao.com/t/weekly-
 
 ## Próximos Pasos
 
-Los poseedores de MKR deben votar para determinar si aceptan o rechazan  el lote de propuestas incluidas en la Encuesta de Gobernanza Mensual, determinando si el lote debería avanzar al voto de ratificación final (Voto Ejecutivo) en la última semana del Ciclo de Gobernanza mensual. El Voto Ejecutivo será presentado el 23 de noviembre de 2020 si los Facilitadores de Gobernanza confirman un resultado positivo de la Encuesta de Gobernanza Mensual durante la próxima llamda de Gobernanza y Riesgo del 19 de noviembre de 2020.
+Los poseedores de MKR deben votar para determinar si aceptan o rechazan el lote de propuestas incluidas en la Encuesta de Gobernanza Mensual, determinando si el lote debería avanzar al voto de ratificación final (Voto Ejecutivo) en la última semana del Ciclo de Gobernanza mensual. El Voto Ejecutivo será presentado el 23 de noviembre de 2020 si los Facilitadores de Gobernanza confirman un resultado positivo de la Encuesta de Gobernanza Mensual durante la próxima llamda de Gobernanza y Riesgo del 19 de noviembre de 2020.
 
 ---
 
@@ -31,7 +31,7 @@ Los poseedores de MKR deben votar para determinar si aceptan o rechazan  el lote
 
 La [MIP3: Ciclo de Gobernanza](https://github.com/makerdao/mips/blob/Accepted/MIP3/mip3.md) describe este tipo de encuesta y entra en más detalles acerca de su posición y significado dentro del resto del ciclo de gobernanza.
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la guía de votación para aprender cómo funciona la votación; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en la sección de [Gobernanza](https://community-development.makerdao.com/en/learn/governance/) del portal de la comunidad de Maker.
 

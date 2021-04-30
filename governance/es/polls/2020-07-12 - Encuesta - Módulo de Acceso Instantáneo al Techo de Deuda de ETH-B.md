@@ -1,23 +1,23 @@
 # Encuesta**: Módulo de Acceso Instantáneo al Techo de Deuda de ETH-B - 7 de Diciembre, 2020**
 
-Los Facilitadores de Gobernanza han introducido una Encuesta de Gobernanza en el sistema de votación en nombre del Equipo de Dominio de Riesgo de MakerDAO. La comunidad puede votar en esta encuesta para expresar su apoyo u oposición hacia usar el Módulo de Acceso Instantáneo al Techo de Deuda para ETH-B con los parámetros listados. 
+Los Facilitadores de Gobernanza han introducido una Encuesta de Gobernanza en el sistema de votación en nombre del Equipo de Dominio de Riesgo de MakerDAO. La comunidad puede votar en esta encuesta para expresar su apoyo u oposición hacia usar el Módulo de Acceso Instantáneo al Techo de Deuda para ETH-B con los parámetros listados.
 
-Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC. 
+Esta [Encuesta de Gobernanza](https://community-development.makerdao.com/en/learn/governance/on-chain-gov/) estará activa durante tres días comenzando el lunes 7 de diciembre a las 16:00 UTC.
 
 **Este es un voto binario. En una votación binaria puedes votar por una sola opción. Deberías votar por la opción que prefieras. Alternativamente, si aceptas cualquiera de las dos opciones y no tienes preferencia entre ellas, debes abstenerte.**
 
 ## **Reseña**
 
-Los parámetros iniciales propuestos para el Módulo de Acceso Instantáneo al Techo de Deuda de ETH-B son los siguientes: 
+Los parámetros iniciales propuestos para el Módulo de Acceso Instantáneo al Techo de Deuda de ETH-B son los siguientes:
 
 - Tipo Colateral (`ilk`): ETH-B
 - Techo de Deuda Máximo (`line`): 50 millones de DAI
-- Objetivo de Deuda Disponible  (`gap`): 5 millones de DAI
+- Objetivo de Deuda Disponible (`gap`): 5 millones de DAI
 - Tiempo de reutilización del aumento del techo (`ttl`): 12 horas
 
-Por favor consulta el [hilo de la discusión](https://forum.makerdao.com/t/eth-b-dc-iam-initial-parameters/5512) para ayudar a informar tu posición antes de votar. 
+Por favor consulta el [hilo de la discusión](https://forum.makerdao.com/t/eth-b-dc-iam-initial-parameters/5512) para ayudar a informar tu posición antes de votar.
 
-Información adicional acerca del Módulo de Acceso Instantáneo al Techo de Deuda puede encontrarse en el [MIP27](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625). 
+Información adicional acerca del Módulo de Acceso Instantáneo al Techo de Deuda puede encontrarse en el [MIP27](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625).
 
 ## Resultados
 

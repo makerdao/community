@@ -7,6 +7,7 @@ Scope: Each PSM interacts with a single underlying vault type.
 ```
 
 ## Description
+
 A Peg Stability Module allows users to swap a given collateral type directly for DAI at a fixed rate, rather than borrowing DAI. The PSM contract was designed with stablecoin collateral in mind, allowing users to swap other stablecoins for DAI at a fixed rate to aid with keeping DAI pegged to 1 dollar.
 
 A PSM operates similarly to a regular vault type with a zero stability fee and a liquidation ratio of 100% that can only be accessed through a user-facing smart contract containing the relevant swap functions. Unlike a regular vault, a user of a PSM does not retain ownership of the asset and borrow DAI, instead they swap the asset directly for DAI.
@@ -14,31 +15,34 @@ A PSM operates similarly to a regular vault type with a zero stability fee and a
 As an example, given the existence of a USDC-backed PSM, a user would be able to swap 100 USDC for 100 DAI (minus fees) using the USDC-backed PSM without taking on any debt or needing to manage a Maker vault.
 
 ## Purpose
-The PSM contract was primarily created to help keep the DAI peg close to $1 during times where DAI demand outstrips DAI supply.
+
+The PSM contract was primarily created to help keep the DAI peg close to \$1 during times where DAI demand outstrips DAI supply.
 
 Initially, low liquidation ratio stablecoin vaults were used for this purpose, but this solution proved difficult for Governance to administer due to the risk of stability fees pushing vaults below the 100% collateralization ratio.
 
 The PSM contract allows Governance to collect fees on stablecoins at the point of swap rather than over time.
 
 ## Trade-offs
+
 A PSM offers the same danger as low liquidation ratio stablecoin vault types: the Maker Protocol will take on a large amount of stablecoin collateral at times where DAI demand outstrips DAI supply. This is usually cited to be a risk due to the centralization of other stablecoins and the possibility of regulatory action targeting Maker specifically. The risk of regulatory action may be slightly greater with a PSM than the alternative because the stablecoin collateral created through a PSM is effectively owned by the Maker Protocol, rather than being owned by a user using it as collateral for a loan of DAI.
 
 Additionally, the Maker Protocol bears the risk of the underlying collateral stablecoin losing its peg (though this is no different from regular vault-types with stablecoin collateral.)
 
 On the other hand, a PSM offers several advantages:
-* Increased DAI stability due to the instant arbitrage opportunity when the DAI price diverges from the price of the collateral type underlying the PSM.
-* Fees are taken upfront on each swap to and from DAI. Because a PSM has no slippage, it is expected that it will attract respectable trading volume if given reasonable fee parameters.
-* There is no requirement to micromanage parameters to ensure continued functioning like there is with low liquidation ratio stablecoin vaults.
+
+- Increased DAI stability due to the instant arbitrage opportunity when the DAI price diverges from the price of the collateral type underlying the PSM.
+- Fees are taken upfront on each swap to and from DAI. Because a PSM has no slippage, it is expected that it will attract respectable trading volume if given reasonable fee parameters.
+- There is no requirement to micromanage parameters to ensure continued functioning like there is with low liquidation ratio stablecoin vaults.
 
 ## Key Parameters
 
-Under the hood, a PSM is just a wrapper contract around a privileged vault type in the Maker Protocol. All the parameters that apply to vault types also apply to a PSM. However, a stablecoin PSM should always have a Stability Fee of 0% and a Liquidation Ratio of 100%. 
+Under the hood, a PSM is just a wrapper contract around a privileged vault type in the Maker Protocol. All the parameters that apply to vault types also apply to a PSM. However, a stablecoin PSM should always have a Stability Fee of 0% and a Liquidation Ratio of 100%.
 
 **Debt Ceiling (line)**
 
 The Debt Ceiling refers to the maximum amount of debt the PSM can accrue.
 
-Note that although users do not have a debt when using the PSM to trade between DAI and the collateral asset, the Maker Protocol *does* accrue a DAI debt which is backed by the asset users trade into the PSM in exchange for DAI.
+Note that although users do not have a debt when using the PSM to trade between DAI and the collateral asset, the Maker Protocol _does_ accrue a DAI debt which is backed by the asset users trade into the PSM in exchange for DAI.
 
 **Fee In (tin)**
 

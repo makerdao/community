@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Approve August 2020 Governance Cycle Bundle
-
 ---
+
 ## [Executive Vote] Approve August 2020 Governance Cycle Bundle
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
@@ -13,7 +13,8 @@ As per [MIP3: Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP
 **Maker Improvement Proposals**  
 None present.
 
-**Sub-Proposals**   
+**Sub-Proposals**
+
 - [MIP0c13-SP1: Subproposal for Core Personnel Offboarding](https://github.com/makerdao/mips/blob/RFC/MIP0/MIP0c13-Subproposals/MIP0c13-SP1.md) ([Discussion](https://forum.makerdao.com/t/mip0c13-sp1-subproposal-for-core-personnel-offboarding/3508))
 - [MIP13c3-SP1: Declaration of Intent (Forward Guidance)](https://github.com/makerdao/mips/blob/RFC/MIP13/MIP13c3-Subproposals/MIP13c3-SP1.md) ([Discussion](https://forum.makerdao.com/t/mip13c3-sp1-declaration-of-intent-forward-guidance/3130))
 
@@ -28,7 +29,7 @@ The Executive Vote ([FAQ](https://community-development.makerdao.com/makerdao-mc
 
 ## Review
 
-These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the discussion threads linked above to inform your position before voting.  
+These changes have been discussed over the last month in the [Maker governance forum](https://forum.makerdao.com/), please review the discussion threads linked above to inform your position before voting.
 
 Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) and [Audio](https://soundcloud.com/makerdao/sets/governance-calls) for these calls is available to review.
 

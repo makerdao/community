@@ -4,10 +4,11 @@ summary: Signal your support or opposition for executing the Stablecoin Action P
 discussion_link: https://forum.makerdao.com/t/signal-request-stablecoin-action-plan/4808
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Stablecoin Action Plan - November 2, 2020
 
 The MakerDAO Governance Facilitator has placed a governance poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance community which gives Maker Governance the chance to signal their support or opposition for the implementation of the Stablecoin Action Plan.
@@ -20,17 +21,17 @@ Please refer to the Stablecoin Action Plan [thread](https://forum.makerdao.com/t
 
 The tentitive plan is that the Rates Working Group will work with the Smart Contracts Team to add an executive spell which will set both the Stability Fee and Debt Ceilings to 0 on the following vault types:
 
- * USDC-A
- * TUSD-A
- * PAXUSD-A
+- USDC-A
+- TUSD-A
+- PAXUSD-A
 
- This executive will then add the following vault types with the same settings, original Stability Fees and appropriate Debt Ceilings:
+This executive will then add the following vault types with the same settings, original Stability Fees and appropriate Debt Ceilings:
 
- * USDC-C
- * TUSD-B
- * PAXUSD-B
+- USDC-C
+- TUSD-B
+- PAXUSD-B
 
-The target for this executive spell is Friday, December 11 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting the action too close to the holiday break. 
+The target for this executive spell is Friday, December 11 - the approximate date at which the leading edge of vaults will reach 100% Collateralization Ratio without putting the action too close to the holiday break.
 
 The Rates Working Group will sumbit a governance poll on Monday, December 7, 2020 to confirm the executive is still desired at that time. This plan may also be cancelled or amended at any point between now and December 7, 2020 via a Signal Request and Governance Poll.
 
@@ -51,4 +52,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
-

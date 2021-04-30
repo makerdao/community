@@ -4,12 +4,13 @@ summary: Signal your support or opposition to adjust the [Target Available Debt]
 discussion_link: https://forum.makerdao.com/t/6603
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Increase ETH-A Target Available Debt (`gap`) Parameter - March 1, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 1 at 16:00 UTC.
@@ -25,8 +26,9 @@ Please review the discussion [thread](https://forum.makerdao.com/t/6603) to help
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

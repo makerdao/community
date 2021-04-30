@@ -7,7 +7,8 @@ Scope: A single DssAutoLine contract can contain a set of parameters for each va
 ```
 
 ## Description
-The Debt Ceiling Instant Access Module allows any user to adjust the Debt Ceiling of a supported vault type according to rules defined in the DC-IAM smart-contract logic and parameters set by Maker Governance. 
+
+The Debt Ceiling Instant Access Module allows any user to adjust the Debt Ceiling of a supported vault type according to rules defined in the DC-IAM smart-contract logic and parameters set by Maker Governance.
 
 The rules defined in the DC-IAM smart-contract encourage an amount of 'open space' between the current debt usage and the Debt Ceiling of a vault type. The DC-IAM holds three parameters that can be set by governance for each vault type (such as ETH-A.) These parameters are `line`, `gap`, and `ttl`. The effect of these parameters is described in detail in the Key Parameters section.
 
@@ -16,6 +17,7 @@ For example, if the ETH-A Debt Ceiling is currently 100 DAI, and 90 DAI is drawn
 ## Purpose
 
 The module was designed with two purposes in mind:
+
 1. To minimize the amount of governance overhead involved in updating debt ceilings for a vault type.
 2. To reduce the risk posed in the event of a significant drop in collateral price occurring in less time than the Oracle takes to update collateral prices.
 
@@ -35,17 +37,17 @@ The Maximum Debt Ceiling refers to the maximum value for Debt Ceiling that the D
 
 **Target Available Debt (`gap`)**
 
-The Target Available Debt parameter controls how much of a gap the DC-IAM aims to maintain between the current debt usage and the Debt Ceiling of the vault-type. 
+The Target Available Debt parameter controls how much of a gap the DC-IAM aims to maintain between the current debt usage and the Debt Ceiling of the vault-type.
 
-The higher this value, the more risk there is from large collateral drops in very short amounts of time. 
+The higher this value, the more risk there is from large collateral drops in very short amounts of time.
 
 The smaller this value, the more vault-usage is negatively affected. For example, a relatively low Target Available Debt of 100,000 DAI would be bad for anyone that wished to mint more than 100,000 DAI at one time (and other users besides.) The reason for this ties into the Ceiling Increase Cooldown parameter.
 
 **Ceiling Increase Cooldown (`ttl`)**
 
-The Ceiling Increase Cooldown parameter controls how frequently the Debt Ceiling can be *increased* by the DC-IAM. If a user attempts to use the DC-IAM to increase the Dect Ceiling of a vault type before this time expires the transaction will fail to execute and the Debt Ceiling will remain unchanged.
+The Ceiling Increase Cooldown parameter controls how frequently the Debt Ceiling can be _increased_ by the DC-IAM. If a user attempts to use the DC-IAM to increase the Dect Ceiling of a vault type before this time expires the transaction will fail to execute and the Debt Ceiling will remain unchanged.
 
-Debt Ceiling *decreases*, on the other hand, are always possible, regardless of the Ceiling Increase Cooldown.
+Debt Ceiling _decreases_, on the other hand, are always possible, regardless of the Ceiling Increase Cooldown.
 
 In combination, the Target Available Debt and the Ceiling Increase Cooldown enforce a maximum rate at which debt usage can increase over time using a given vault-type. These parameters should be set such that the maximum increase over time can accommodate all reasonable usage of the vault type in question.
 
@@ -56,20 +58,21 @@ The DC-IAM smart contract contains a single relevant method to trigger a potenti
 When `exec` is called, the following logic is executed by the smart contract:
 
 1. Is the difference between the current debt usage and the Debt Ceiling greater than the Target Available Debt?  
-    a) If yes, go to 3.  
-    b) If no, do nothing.  
+   a) If yes, go to 3.  
+   b) If no, do nothing.
 2. Is the difference between the current debt usage and the Debt Ceiling less than the Target Available Debt AND has the Ceiling Increase Cooldown expired?  
-    a) If yes, go to 3.  
-    b) If no, do nothing.  
-3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value.  
+   a) If yes, go to 3.  
+   b) If no, do nothing.
+3. Set the Debt Ceiling to equal current debt usage + Target Available Debt, capped at the Maximum Debt Ceiling value.
 
-In practice, this means that calling the `exec` function will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation *decreases* the Debt Ceiling. If this operation will *increase* the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
+In practice, this means that calling the `exec` function will always set the Debt Ceiling to equal the current debt usage + Target Available Debt if this operation _decreases_ the Debt Ceiling. If this operation will _increase_ the Debt Ceiling then it will only execute if the Ceiling Increase Cooldown has expired.
 
 ## Considerations
-* Debt Ceiling *decreases* cannot take place in the same block as Debt Ceiling increases. This is to prevent griefing through the use of flash loans.
+
+- Debt Ceiling _decreases_ cannot take place in the same block as Debt Ceiling increases. This is to prevent griefing through the use of flash loans.
 
 ## Further Information
-* [MIP27: Debt Ceiling Instant Access Module](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625)
-* [DssAutoLine Griefing Attack](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625/22)
-* [DC-IAM Forum Tag](https://forum.makerdao.com/tag/dc-iam)
 
+- [MIP27: Debt Ceiling Instant Access Module](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625)
+- [DssAutoLine Griefing Attack](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625/22)
+- [DC-IAM Forum Tag](https://forum.makerdao.com/tag/dc-iam)

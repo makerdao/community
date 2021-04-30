@@ -4,39 +4,43 @@ summary: Signal your preferred option to resolve $GenericChange.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
-   - $CategoryA
-   - $CategoryB
+  - $CategoryA
+  - $CategoryB
 options:
-   0: Abstain
-   1: $A
-   2: $B
-   3: $C
-   4: $D
+  0: Abstain
+  1: $A
+  2: $B
+  3: $C
+  4: $D
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+# Poll:$GenericChange - $date_MONTH_DD,\_YYYY
 
-**This is a plurality vote.** 
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,\_MONTH_DD at 16:00 UTC.
+
+**This is a plurality vote.**
+
 - **You may vote for a single option.**
-- **You should vote for the option that you prefer.** 
+- **You should vote for the option that you prefer.**
 - **If you would accept any of the options you should vote 'Abstain'.**
 
 ## Review
 
 The community can vote in this poll to express support for one of the following options:
-* $A_Detailed
-* $B_Detailed
-* $C_Detailed
-* $D_Detailed
+
+- \$A_Detailed
+- \$B_Detailed
+- \$C_Detailed
+- \$D_Detailed
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
 **The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+
+- If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+- If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 ---
 

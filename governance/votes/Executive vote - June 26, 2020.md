@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Raise the Base Rate, the DSR, add KNC and ZRX as collateral types
-
 ---
+
 ## [Executive Vote] Raise the Base Rate and the DSR, add KNC and ZRX as collateral types
 
 The Maker Foundation Interim Governance Facilitator has placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol:

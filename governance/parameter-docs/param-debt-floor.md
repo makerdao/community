@@ -21,13 +21,15 @@ The Debt Floor for each vault type is expressed in absolute terms.
 The primary purpose of the Debt Floor is to prevent users from creating multiple vaults with very low debt amount and collateral. Keepers may be reluctant to liquidate smaller vaults because the reward is low in comparison to the gas costs of liquidation and bidding in the subsequent auction. This is a problem because the Maker Protocol relies on prompt liquidations to prevent the accrual of bad debt.
 
 ## Trade-offs
+
 Increasing the Debt Floor limits the minimum size of vaults such that Keepers can profitably liquidate vaults where the collateralization ratio has dropped beneath the liquidation ratio.
 
 However, increasing the Debt Floor harms vault usage. Setting the Debt Floor too high can exclude users with less capital from using Maker Vaults completely.
 
-Additionally, the higher the Debt Floor is set, the harder it becomes to test the vault functionality of the Maker Protocol without risking significant capital. 
+Additionally, the higher the Debt Floor is set, the harder it becomes to test the vault functionality of the Maker Protocol without risking significant capital.
 
 ## Changes
+
 Adjusting the Debt Floor parameter for a specific vault type is a manual process that requires an executive vote. Changes to Debt Floor parameters are subject to the GSM Pause Delay.
 
 In the past, Maker Governance has modified the Debt Floor of all vault types in lockstep, rather than setting different values for each vault type.

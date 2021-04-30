@@ -4,10 +4,11 @@ summary: Signal your support for increasing the WBTC-A Debt Ceiling from 80 Mill
 discussion_link: https://forum.makerdao.com/t/3731
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the WBTC-A Debt Ceiling - August 31, 2020
 
 The Maker Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Governance Community. The community can use this poll to express support or opposition to increasing the WBTC-A Debt Ceiling from 80 Million to 120 Million DAI.

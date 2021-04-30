@@ -4,19 +4,20 @@ summary: Signal your support or opposition for adjusting the ETH-A Debt Ceiling 
 discussion_link: https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
+  - Risk Variable
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Adjust the ETH-A Debt Ceiling - November 2, 2020
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to adjusting the ETH-A Debt Ceiling from 540 million DAI to 490 million DAI.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 2 at 16:00 UTC.
 
-## Review 
+## Review
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-debt-ceiling-adjustments-29th-oct-2020/4931) to inform your position on this issue before voting.
 

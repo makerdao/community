@@ -1,13 +1,14 @@
 ---
 title: MIP10c9-SP5 Governance Poll to Whitelist dYdX on ETHUSD Oracle - July 27, 2020
-summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
+summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote.
 discussion_link: https://forum.makerdao.com/t/3290
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # MIP10c9-SP5 Governance Poll to Whitelist dYdX on ETH/USD Oracle - July 27, 2020
 
 On July 27, 2020, the Maker Community will vote to determine whether the Maker Improvement Subproposal MIP10c9-SP5 will be included in the Executive Vote on July 31, 2020. In short, MIP10c9-SP5 appends dYdX to the ETH/USD Medianizer whitelist to read price data.

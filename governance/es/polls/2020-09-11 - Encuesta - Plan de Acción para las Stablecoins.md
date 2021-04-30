@@ -1,6 +1,6 @@
 # Encuesta**: Plan de Acción para las Stablecoins - 9 de noviembre de 2020**
 
-El Facilitador de Gobernanza de MakerDAO ha colocado una encuesta de gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la comunidad de Gobernanza de Maker; esta encuesta le da a la Gobernanza de Maker la oportunidad de señalar su apoyo a varias opciones para el Plan de Acción para las Stablecoins. 
+El Facilitador de Gobernanza de MakerDAO ha colocado una encuesta de gobernanza en el [sistema de votación](https://vote.makerdao.com/polling) en nombre de la comunidad de Gobernanza de Maker; esta encuesta le da a la Gobernanza de Maker la oportunidad de señalar su apoyo a varias opciones para el Plan de Acción para las Stablecoins.
 
 Esta [Encuesta](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) de gobernanza permanecerá activa por 3 días a partir del lunes 9 de noviembre a las 16:00 UTC.
 
@@ -29,7 +29,7 @@ Si una opción obtiene más del 50% de los votos, se hará una encuesta de segui
 
 ## **Recursos**
 
-Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/)  para configurar tu billetera para votar.
+Si esta es tu primera vez votando en el Protocolo Maker, por favor visita la [Guía de Incorporación de Votantes](https://community-development.makerdao.com/onboarding/voter-onboarding) para aprender a usar este tablero; visita también la [guía de configuración de la billetera](https://community-development.makerdao.com/en/learn/governance/voting-setup/) para configurar tu billetera para votar.
 
 Puedes encontrar información adicional acerca del proceso de Gobernanza en el [Framework de Riesgos de Gobernanza: Gobernando MakerDAO](https://community-development.makerdao.com/governance/governance-risk-framework).
 

@@ -4,10 +4,11 @@ summary: If this mandate is accepted by the community, it will signal support fo
 discussion_link: https://forum.makerdao.com/t/2011
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No 
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Oracles - Create BTC/USD Oracle + Whitelist Set Protocol and dYdX - April 20, 2020
 
 The Oracle Team, in accordance with its responsibilities outlined in the [Oracle Team Mandate](https://www.notion.so/makerdao/BTCUSD-ETHBTC-Oracle-Proposal-d1a7b080be044da89bd73554f49f6ad0#479a604e5b8c4a40afeb695852829543), has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) to **Create BTC/USD Oracle + Whitelist Set Protocol & dYdX**. Voters are now able to signal their support to:
@@ -46,7 +47,7 @@ Data Models describe the data sources and transformations for calculating the ca
 #### Glossary
 
 - `Source` - The data source for the Oracle Feed
-- `Asset Pair` -  a price quote of the exchange rate for two different assets traded on the source.
+- `Asset Pair` - a price quote of the exchange rate for two different assets traded on the source.
 - `Quorum` - The amount of Feeds needed to reach consensus on a price.
 - `Feed Model` - Model for how a Feed processes all sourced data into a singular price
 - `Oracle Model` - Model for how an Oracle processes all Feed data into a singular price
@@ -58,7 +59,7 @@ Data Models describe the data sources and transformations for calculating the ca
     |   Binance     |    BTC/USDT   |   13  |    Median   |    Median    |
     |   BitFinex    |    BTC/USDT   |
     |   Bitstamp    |    BTC/USD    |
-    |   Bittrex     |    BTC/USD    | 
+    |   Bittrex     |    BTC/USD    |
     |   Coinbase    |    BTC/USD    |
     |   Gemini      |    BTC/USD    |
     |   Kraken      |    BTC/USD    |
@@ -68,7 +69,7 @@ Data Models describe the data sources and transformations for calculating the ca
 #### USDT/USD
 
     |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
+    | :------------ | :------------ | :----------: |
     |   Binance     |    BTC/USDT   |    Median    |
     |   BitFinex    |    BTC/USDT   |
     |   Huobi       |    BTC/USDT   |

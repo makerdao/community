@@ -1,13 +1,14 @@
 ---
 title: Inclusion Poll for Calendar Exceptions (MIP4c2-SP6)- November 9, 2020
-summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll. 
+summary: Signal your support or opposition for this proposal proceeding to next week's bundled Governance Poll.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp6-calendar-exceptions/4546
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Inclusion Poll for Calendar Exceptions (MIP4c2-SP6) - November 9, 2020
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) which asks whether the proposal (Calendar Exceptions) should be included in the Monthly Governance Poll.
@@ -17,6 +18,7 @@ If the **Yes** votes in this inclusion poll are higher than the combination of *
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 9 at 16:00 UTC.
 
 ## Review
+
 Please review the discussion [thread](https://forum.makerdao.com/t/mip4c2-sp6-calendar-exceptions/4546) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-117-thursday-november-5-16-00-utc/4929) on Thursday, November 5.
 
 ## Next Steps
@@ -38,4 +40,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
-

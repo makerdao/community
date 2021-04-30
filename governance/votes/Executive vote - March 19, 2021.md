@@ -1,18 +1,19 @@
 ---
 title: Template - [Executive Vote] Increase Debt Floor, Increase Debt Ceilings - March 19, 2021
-
 ---
+
 # [Executive Proposal] Increase Debt Floor, Increase Debt Ceilings - March 19, 2021
 
 The Governance Facilitator(s) and the MakerDAO Smart Contracts Domain Team have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote. 
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
 ---
 
 ## Executive Summary
 
 If this executive proposal passes the following **changes** will occur within the Maker Protocol:
+
 - The ETH-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 2.5 billion DAI to 15 billion DAI.
 - The WBTC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam) will increase from 350 million DAI to 750 million DAI.
 - The [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) parameter will increase from 2,000 DAI to 5,000 DAI for all vault types with the exception of ETH-B, PSM-USDC-A, and RWA001-A.
@@ -23,7 +24,7 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 This executive proposal **does not include an office-hours modifier** and may be executed as soon as the GSM Pause Delay has expired.
 
-If this executive proposal does not pass within 30 days then it will expire and can no longer have any effect on the Maker Protocol. 
+If this executive proposal does not pass within 30 days then it will expire and can no longer have any effect on the Maker Protocol.
 
 ---
 
@@ -40,9 +41,10 @@ As per the outcome of this governance [poll](https://vote.makerdao.com/polling/Q
 ### Increase the Dust Parameter for Most Vault Types
 
 As per the outcome of this governance [poll](https://vote.makerdao.com/polling/QmSuFZx5?network=mainnet) and prior signal request [thread](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-2/6704), the [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) parameter will increase from 2,000 DAI to 5,000 DAI for most vault types if this executive proposal passes. Note that the following vault types are **excluded** from this change:
-* ETH-B
-* PSM-USDC-A
-* RWA001-A
+
+- ETH-B
+- PSM-USDC-A
+- RWA001-A
 
 ## Review
 

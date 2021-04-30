@@ -10,7 +10,7 @@ La comunidad puede votar en esta encuesta para expresar su apoyo u oposición a 
 
 - Inicialmente, el único módulo de estabilidad de la paridad a desplegar será para USDC.
 - Los techos de deuda para USDC-A, TUSD-A, PAX-A, and GUSD-A descenderán a cero Dai.
-- El PSM (Módulo de Estabilización de la Paridad, *Peg Stability Module*) de USDC se implementará con los parámetros dados debajo.
+- El PSM (Módulo de Estabilización de la Paridad, _Peg Stability Module_) de USDC se implementará con los parámetros dados debajo.
 
 **Parámetros Propuestos para el PSM de USDC**
 

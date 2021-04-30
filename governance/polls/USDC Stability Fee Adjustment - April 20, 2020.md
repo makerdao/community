@@ -4,19 +4,20 @@ summary: Signal your support to adjust the USDC Stability Fee within a range of 
 discussion_link: https://forum.makerdao.com/t/1938
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: 8
-   2: 10
-   3: 11
-   4: 11.5
-   5: 11.75
-   6: 12
-   7: 12.25
-   8: 12.5
-   9: 13
-   10: 14
-   11: 16
+  0: Abstain
+  1: 8
+  2: 10
+  3: 11
+  4: 11.5
+  5: 11.75
+  6: 12
+  7: 12.25
+  8: 12.5
+  9: 13
+  10: 14
+  11: 16
 ---
+
 # Poll: USDC Stability Fee Adjustment - April 20, 2020
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible **USDC Stability Fee** options. Voters are now able to signal their support for a **USDC Stability Fee** within a range of 8% to 16%.
@@ -29,7 +30,7 @@ The **USDC Stability Fee** was discussed in the Governance call on Thursday, Apr
 
 ## Next Steps
 
-* On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
+- On the Friday following the conclusion of the poll, there will be an Executive Vote asking MKR token holders if they support or reject the change proposed by this Governance Poll.
 
 ---
 

@@ -4,19 +4,20 @@ summary: Signal your support to adjust the Base Rate within a range of -6% to 2%
 discussion_link: https://forum.makerdao.com/t/3850
 vote_type: Ranked Choice IRV
 options:
-   0: Abstain
-   1: -6
-   2: -4
-   3: -3
-   4: -2.5
-   5: -2.25
-   6: -2
-   7: -1.75
-   8: -1.5
-   9: -1
-   10: 0
-   11: 2
+  0: Abstain
+  1: -6
+  2: -4
+  3: -3
+  4: -2.5
+  5: -2.25
+  6: -2
+  7: -1.75
+  8: -1.5
+  9: -1
+  10: 0
+  11: 2
 ---
+
 # Poll: Base Rate Adjustment - September 7, 2020
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) which presents several possible **Base Rate** options. Voters are now able to signal their support for a **Base Rate** within a range of -6% to 2%.
@@ -33,7 +34,7 @@ The **Base Rate** is usually not discussed explicitly on a weekly basis as this 
 
 ## Next Steps
 
-If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll. 
+If the winning result of this poll differs from the current **Base Rate** parameter value in the Maker Protocol then this change will be included in the Executive Vote on the Friday following the conclusion of this poll.
 
 If the Friday executive passes, then this rate change will become active in the Maker Protocol after the [Governance Security Module](https://forum.makerdao.com/tag/govsec-module) delay has expired.
 
@@ -48,4 +49,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://community-development.makerdao.com/governance/governance-and-risk-meetings) every Thursday at 16:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-

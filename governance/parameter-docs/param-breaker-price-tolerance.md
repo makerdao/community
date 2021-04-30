@@ -16,7 +16,7 @@ The Breaker Price Tolerance parameter is a tool for mitigating the risk of a maj
 next_oracle_price < current_oracle_price * breaker_price_tolerance
 ```
 
-The right side of the equation represents the minimum acceptable price for the next OSM reading. Any price below that product could result in the breaker being called for affected vault types. 
+The right side of the equation represents the minimum acceptable price for the next OSM reading. Any price below that product could result in the breaker being called for affected vault types.
 
 It may be easier to understand this parameter in terms of the maximum percentage drop allowed:
 
@@ -30,18 +30,17 @@ In the above example, anything past a 40% decline from the current OSM price cou
 
 ## Purpose
 
-The Breaker Price Tolerance is designed to protect against a sharp decline in the OSM price feed. Liquidations 2.0 increases the severity of attacks on the OSM price feed because of the switch to falling price auctions. Because auctions now start at their highest price point and move downward - catastrophic losses may occur if the auction were to start significantly below market rates. 
+The Breaker Price Tolerance is designed to protect against a sharp decline in the OSM price feed. Liquidations 2.0 increases the severity of attacks on the OSM price feed because of the switch to falling price auctions. Because auctions now start at their highest price point and move downward - catastrophic losses may occur if the auction were to start significantly below market rates.
 
 While this parameter is designed to combat an Oracle attack, it also offers a further safety net during a legitimate market downturn.
 
-
 ## Trade-offs
 
-Like many parameters, Governance should avoid setting the Breaker Price Tolerance too far in either extreme. 
+Like many parameters, Governance should avoid setting the Breaker Price Tolerance too far in either extreme.
 
 If set too high this parameter becomes too sensitive, risking breaker shut-offs during normal market movements and adding a risk of collateral continuing to fall while liquidations are prematurely paused. This may result in significant bad debt for the Maker Protocol.
 
-Conversely, setting the Breaker Price Tolerance too low is similar to not having one in the first place. Because the starting price for each auction is based on the OSM price, bad debt can accrue quickly if there is a sharp decline in the OSM price feed combined with a Breaker Price Tolerance that is set too low. 
+Conversely, setting the Breaker Price Tolerance too low is similar to not having one in the first place. Because the starting price for each auction is based on the OSM price, bad debt can accrue quickly if there is a sharp decline in the OSM price feed combined with a Breaker Price Tolerance that is set too low.
 
 ## Changes
 
@@ -53,10 +52,10 @@ The Breaker Price Tolerance parameter should be increased when Governance wants 
 
 **Why decrease this parameter?**
 
-If Governance wishes to allow for more price volatility from a particular vault type, a decrease in the Breaker Price Tolerance parameter can be pursued. As the Breaker Price Tolerance parameter approaches zero, the underlying collateral would need to experience almost a 100% drawdown before liquidations can be halted. 
+If Governance wishes to allow for more price volatility from a particular vault type, a decrease in the Breaker Price Tolerance parameter can be pursued. As the Breaker Price Tolerance parameter approaches zero, the underlying collateral would need to experience almost a 100% drawdown before liquidations can be halted.
 
 ## Considerations
 
-Re-enabling liquidation auctions on a vault type after the breaker has been triggered requires an executive vote. Importantly though, re-enabling liquidation auctions *does not* require governance to wait for the GSM Pause Delay.
+Re-enabling liquidation auctions on a vault type after the breaker has been triggered requires an executive vote. Importantly though, re-enabling liquidation auctions _does not_ require governance to wait for the GSM Pause Delay.
 
 During an Emergency Shutdown, the Breaker Price Tolerance parameter is not relevant as no new auctions may be triggered.

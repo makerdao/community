@@ -18,7 +18,7 @@ Each vault type may have its own Auction Price Function, though in practice they
 
 ## Purpose
 
-This parameter exists to control the shape of the price curve used when auctioning collateral from liquidated vaults. 
+This parameter exists to control the shape of the price curve used when auctioning collateral from liquidated vaults.
 
 ## Price Curves
 
@@ -45,5 +45,3 @@ An auction price falling too slowly may increase the auction slippage, and could
 ## Changes
 
 Adjusting an Auction Price Function parameter is a manual process that requires an executive vote. Changes to an Auction Price Function are subject to the GSM Pause Delay.
-
-

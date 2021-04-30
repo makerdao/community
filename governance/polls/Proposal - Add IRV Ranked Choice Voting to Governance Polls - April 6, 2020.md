@@ -4,10 +4,11 @@ summary: Signal your support to add ranked choice voting to governance polls.
 discussion_link: https://forum.makerdao.com/t/1274
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll: Add IRV Ranked Choice Voting to Governance Polls - April 6, 2020
 
 The Maker Foundation Interim Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which the community can use to signal their support for adding instant run-off (IRV) ranked choice voting support to future governance polls.
@@ -20,7 +21,7 @@ This proposal was discussed in the [forums](https://forum.makerdao.com/t/1274). 
 
 ## Next Steps
 
-* If this proposal passes, the governance portal development team will begin work on adding support for instant run-off ranked choice voting to the governance portal. Once development is completed, any future poll author will have the option to run the poll as ranked choice.
+- If this proposal passes, the governance portal development team will begin work on adding support for instant run-off ranked choice voting to the governance portal. Once development is completed, any future poll author will have the option to run the poll as ranked choice.
 
 ---
 

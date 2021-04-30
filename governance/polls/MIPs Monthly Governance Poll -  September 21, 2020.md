@@ -4,10 +4,11 @@ summary: Signal your support or opposition for the monthly MIPs bundle for Septe
 discussion_link: https://forum.makerdao.com/t/4243
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Monthly MIPs Governance Poll - September 21, 2020
 
 The Governance Facilitators have placed the MIP3: Monthly Governance Poll into the voting system. This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on September 28, 2020. The bundled contents of this poll consist of:

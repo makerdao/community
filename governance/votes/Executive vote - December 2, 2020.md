@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
-
 ---
+
 ## [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
 
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol. This Governance Contract migration is taking place to protect the Maker Protocol from the impact of flash loaned MKR on the governance process.
@@ -24,21 +24,22 @@ As described [here](https://forum.makerdao.com/t/urgent-flash-loans-and-securing
 
 As described [here](https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901), one of the initial changes to protect the Maker Protocol from governance attacks using flash loans was to de-authorize the Oracle Freeze Module. Given that DsChief v1.2 is not vulnerable to flash loans, this module can be re-authorized safely. If this proposal passes, the Oracle Freeze Module will be re-authorized.
 
-### Reduce the  GSM Pause Delay
+### Reduce the GSM Pause Delay
 
 As described [here](https://forum.makerdao.com/t/governance-security-module-gsm-adjustment/5421), the GSM Pause Delay will be reduced from 72 hours to 48 hours if this proposal passes. The GSM Pause Delay was raised to 72 hours as part of the initial set of changes to protocol the Maker Protocol from governance attacks using flash loans.
 
 ### De-authorize DsChief v1.1 on SCD (Single Collateral DAI)
 
-SCD is no longer supported by Maker Governance, but DsChief v1.1 still retains permissions over SCD. Governance power over SCD is no longer necessary and can be removed safely. If this proposal passes, DSChief v1.1 will be de-authorized from making changes to Single Collateral DAI. 
+SCD is no longer supported by Maker Governance, but DsChief v1.1 still retains permissions over SCD. Governance power over SCD is no longer necessary and can be removed safely. If this proposal passes, DSChief v1.1 will be de-authorized from making changes to Single Collateral DAI.
 
 ### Replace the VoteProxyFactory contract
 
-The VoteProxyFactory contract creates VoteProxy contracts that power the hot/cold voting wallet functionality in MCD. A new version of the factory is required to support DsChief v1.2. 
+The VoteProxyFactory contract creates VoteProxy contracts that power the hot/cold voting wallet functionality in MCD. A new version of the factory is required to support DsChief v1.2.
 
 ## Summary
 
 Therefore, if this Executive proposal passes the following will occur:
+
 - DsChief v1.1 will be de-authorized and will no longer be able to make changes to the Maker Protocol (MCD).
 - DsChief v1.2 will be authorized to make changes to the Maker Protocol (MCD).
 - The Liquidations Circuit Breaker will be authorized to make changes to the Maker Protocol (MCD).

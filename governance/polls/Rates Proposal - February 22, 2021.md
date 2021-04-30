@@ -21,6 +21,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) changes:
+
 - Increase the ETH-A Stability Fee from 4.5% to 5.5%.
 - Increase the ETH-B Stability Fee from 7.5% to 9.0%.
 
@@ -29,6 +30,7 @@ Please review the proposal [thread](https://forum.makerdao.com/t/mid-month-rates
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+
 - These Stability Fee changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 - If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 

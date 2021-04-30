@@ -4,12 +4,13 @@ summary: Signal your support or opposition to adopting the Debt Ceiling Instant 
 discussion_link: https://forum.makerdao.com/t/signal-request-rolling-out-the-debt-ceiling-instant-access-module-dc-iam/6008
 vote_type: Plurality Voting
 categories:
-   - Technical
+  - Technical
 options:
-   0: Abstain
-   1: Yes
-   2: No
+  0: Abstain
+  1: Yes
+  2: No
 ---
+
 # Poll:Adopt the Debt Ceiling Instant Access Module (DC-IAM) for use on current and future vault-types - January 18, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Mandated Actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 18 at 16:00 UTC.
@@ -18,16 +19,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to adopting the Debt Ceiling Instant Access Module (DC-IAM) for use with current and future vault-types. 
+The community can vote in this poll to express support or opposition to adopting the Debt Ceiling Instant Access Module (DC-IAM) for use with current and future vault-types.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-rolling-out-the-debt-ceiling-instant-access-module-dc-iam/6008) to help inform your position before voting. Please see [MIP27](https://forum.makerdao.com/t/mip27-debt-ceiling-instant-access-module/4625/1) for further information about the Debt Ceiling Instant Access Module.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* Implementations for the existing vault-types will be added over the next few months, according to the MakerDAO Risk Domain Team’s availability, with on-chain polls to confirm the new risk parameters on a per vault-type basis.
-* Risk evaluations for new vault-types will also include values for the `ttl` and `gap` parameters required for the DC-IAM.
-* The DC-IAM may not be used for all vault-types, at the discretion of the MakerDAO Risk Domain Team.
+
+- Implementations for the existing vault-types will be added over the next few months, according to the MakerDAO Risk Domain Team’s availability, with on-chain polls to confirm the new risk parameters on a per vault-type basis.
+- Risk evaluations for new vault-types will also include values for the `ttl` and `gap` parameters required for the DC-IAM.
+- The DC-IAM may not be used for all vault-types, at the discretion of the MakerDAO Risk Domain Team.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

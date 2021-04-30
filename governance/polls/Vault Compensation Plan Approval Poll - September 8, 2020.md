@@ -3,19 +3,20 @@ title: Vault Compensation Plan Approval Poll - September 8, 2020
 summary: Signal your support or opposition to compensating vaults impacted by Black Thursday losses
 discussion_link: https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97
 vote_type: Ranked Choice IRV
-options: 
-   0: Abstain
-   1: 24.67% (theoretical maximum auction yield) - up to 25,925 MKR and 50,000 DAI 
-   2: 21% - up to 21,627 MKR and 50,000 DAI
-   3: 18% - up to 18,216 MKR and 50,000 DAI
-   4: 15% - up to 14,871 MKR and 50,000 DAI
-   5: 12% - up to 11,691 MKR and 50,000 DAI
-   6: 9% - up to 5,592 MKR and 50,000 DAI
-   7: 6% - up to 2,748 MKR and 50,000 DAI
-   8: 3% - up to 917 MKR and 50,000 DAI
-   9: 0% (oppose vault compensation) - 0 MKR and 0 DAI
-   10: Oppose current compensation plan (support vault compensation) 0 MKR and 0 DAI
+options:
+  0: Abstain
+  1: 24.67% (theoretical maximum auction yield) - up to 25,925 MKR and 50,000 DAI
+  2: 21% - up to 21,627 MKR and 50,000 DAI
+  3: 18% - up to 18,216 MKR and 50,000 DAI
+  4: 15% - up to 14,871 MKR and 50,000 DAI
+  5: 12% - up to 11,691 MKR and 50,000 DAI
+  6: 9% - up to 5,592 MKR and 50,000 DAI
+  7: 6% - up to 2,748 MKR and 50,000 DAI
+  8: 3% - up to 917 MKR and 50,000 DAI
+  9: 0% (oppose vault compensation) - 0 MKR and 0 DAI
+  10: Oppose current compensation plan (support vault compensation) 0 MKR and 0 DAI
 ---
+
 # Vault Compensation Plan Approval Poll - September 8, 2020
 
 The MakerDAO Governance Facilitator has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the community, which the community can use to signal support for compensating vaults affected by liquidations during the March 12 market crash. This poll will run for two weeks, from Tuesday, September 8 at 16:00 UTC to Tuesday, September 22 at 16:00 UTC.
@@ -26,7 +27,7 @@ Note: This poll was pushed back a day after the initial version failed. See deta
 
 The Vault Compensation Plan was discussed in the [Forums](https://forum.makerdao.com/t/vault-compensation-plan-v2/3584/97) and presented on the [August 13 Maker Governance and Risk Call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-105-thursday-august-13-4-00-pm-utc/3570). Voters are encouraged to review the plan document and discussion to inform their position before voting.
 
-This poll uses ranked choice voting. Details about ranked choice voting can be found [here](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274). The community is encouraged to select multiple options in their order of preference, while withholding their vote for any options they consider unacceptable. 
+This poll uses ranked choice voting. Details about ranked choice voting can be found [here](https://forum.makerdao.com/t/signal-request-add-ranked-choice-voting-as-an-option-for-governance-polls/1274). The community is encouraged to select multiple options in their order of preference, while withholding their vote for any options they consider unacceptable.
 
 Claim amounts will be calculated based upon the compensation percentage decided in this poll, using the “tab change in relation to collateral change” calculation method described in the plan document, paid out in MKR tokens at a rate of 1 MKR per 250 DAI. Individual vault compensation will be determined by the formulae below:
 
@@ -34,9 +35,9 @@ Claim amounts will be calculated based upon the compensation percentage decided 
 `collateral deficit percent = compensation percentage (determined by this poll) - percent of vault collateral already received from liquidation`
 `collateral value in DAI = debt tab at time of liquidation * liquidation ratio`
 
-The MKR amounts shown for each percentage represent the sum of calculated compensation for ETH vaults, multiplied by 1.5. The additional 50% buffer is intended to cover claims from BAT vaults as well as from vaults that self-liquidated their position. It is considered highly unlikely that 100% of eligible vaults will claim compensation, so any residual unclaimed MKR can be retrieved and disposed of by MKR governance once the compensation process has been completed. 
+The MKR amounts shown for each percentage represent the sum of calculated compensation for ETH vaults, multiplied by 1.5. The additional 50% buffer is intended to cover claims from BAT vaults as well as from vaults that self-liquidated their position. It is considered highly unlikely that 100% of eligible vaults will claim compensation, so any residual unclaimed MKR can be retrieved and disposed of by MKR governance once the compensation process has been completed.
 
-In addition to the MKR required for paying compensation claims, each poll option except for “0% (oppose vault compensation)” or “Oppose current compensation plan (support vault compensation)” also authorize 50,000 DAI to be released to the compensation working group to cover operating expenses such as working group labor and smart contract development. Any unused DAI funds will be returned to the Maker surplus account upon project completion. 
+In addition to the MKR required for paying compensation claims, each poll option except for “0% (oppose vault compensation)” or “Oppose current compensation plan (support vault compensation)” also authorize 50,000 DAI to be released to the compensation working group to cover operating expenses such as working group labor and smart contract development. Any unused DAI funds will be returned to the Maker surplus account upon project completion.
 
 ## Next Steps
 
