@@ -1,11 +1,10 @@
 ---
-title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio - May 3, 2021
-summary: Signal your support or opposition for adjusting the UNIV2DAIUSDC-A Liquidation Ratio to from 110% to 105%.
+title: Adjust the UNIV2DAIUSDC-A Liquidation Ratio - May 3, 2021
+summary: Signal your support or opposition for decreasing the UNIV2DAIUSDC-A Liquidation Ratio to from 110% to 105%.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-liquidation-ratio-for-uni-v2-dai-usdc-a-vault-type/7444
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Rates
 options:
    0: Abstain
    1: Yes
@@ -15,14 +14,14 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 3 at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change: 
+MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change:
 * Decrease the UNIV2DAIUSDC-A Liquidation Ratio from 110% to 105%.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-liquidation-ratio-for-uni-v2-dai-usdc-a-vault-type/7444) to inform your position on this issue before voting.
@@ -30,7 +29,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
