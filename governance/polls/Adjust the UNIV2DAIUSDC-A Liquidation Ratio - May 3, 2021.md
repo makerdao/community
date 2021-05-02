@@ -1,5 +1,5 @@
 ---
-title: Adjust the UNIV2DAIUSDC-A Liquidation Ratio - May 3, 2021
+title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio - May 3, 2021
 summary: Signal your support or opposition for decreasing the UNIV2DAIUSDC-A Liquidation Ratio to from 110% to 105%.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-liquidation-ratio-for-uni-v2-dai-usdc-a-vault-type/7444
 vote_type: Plurality Voting
