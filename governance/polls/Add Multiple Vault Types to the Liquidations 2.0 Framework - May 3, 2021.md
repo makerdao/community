@@ -1,6 +1,6 @@
 ---
 title: Add Multiple Vault Types to the Liquidations 2.0 Framework - May 3, 2021
-summary: This poll proposes system parameters which could be used to initialize multiple vault types within the Liquidations 2.0 Framework.
+summary: This poll proposes system parameters that could be used to initialize multiple vault types within the Liquidations 2.0 Framework.
 discussion_link: https://forum.makerdao.com/t/remaining-vaults-liquidations-2-0-parameters/7753
 vote_type: Plurality Voting
 categories:
