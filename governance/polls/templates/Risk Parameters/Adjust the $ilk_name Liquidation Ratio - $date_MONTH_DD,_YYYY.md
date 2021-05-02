@@ -1,11 +1,10 @@
 ---
-title: $IncreaseDecrease the $ilk_name Liquidation Ratio - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Liquidation Ratio to from $current_ratio to $new_ratio.
+title: Adjust the $ilk_name Liquidation Ratio - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition for $IncreasingDecreasing the $ilk_name Liquidation Ratio from $current_ratio to $new_ratio.
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Rates
 options:
    0: Abstain
    1: Yes
@@ -15,14 +14,14 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change: 
+MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change:
 * $IncreaseDecrease the $ilk_name Liquidation Ratio from $current_ratio to $new_ratio.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
@@ -30,7 +29,7 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
