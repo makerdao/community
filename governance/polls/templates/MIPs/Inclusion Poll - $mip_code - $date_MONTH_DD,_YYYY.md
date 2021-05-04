@@ -21,6 +21,8 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 ## Review
 
+($mip_code) ($mip_title): ($sentence_discription).
+
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
