@@ -62,11 +62,11 @@
   },
   "Blog": "Blog",
   "Back_To_Blog": "Back to Blog",
-  "Blog_Language_Selector":  "Blog Language Selector",
+  "Blog_Language_Selector": "Blog Language Selector",
   "editorial": "Editorial",
-    "community": "Community",
-    "governance": "Governance",
-    "Maker_Community_Blog": "Maker Community Blog",
-    "Latest_In": "Latest In ",
-    "See_More_Posts": "See More Posts"
+  "community": "Community",
+  "governance": "Governance",
+  "Maker_Community_Blog": "Maker Community Blog",
+  "Latest_In": "Latest In ",
+  "See_More_Posts": "See More Posts"
 }
