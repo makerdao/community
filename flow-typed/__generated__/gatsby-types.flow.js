@@ -13,6 +13,16 @@ declare type Scalars = {|
   JSON: any,
 |};
 
+
+
+
+
+
+
+
+
+
+
 declare type TGatsbyTypes_BooleanQueryOperatorInput = {|
   eq?: ?$ElementType<Scalars, 'Boolean'>,
   ne?: ?$ElementType<Scalars, 'Boolean'>,
@@ -37,7 +47,7 @@ declare type TGatsbyTypes_ContentJson = {|
     +repoType?: ?$ElementType<Scalars, 'String'>,
     +repoHost?: ?$ElementType<Scalars, 'String'>,
     +skipCi?: ?$ElementType<Scalars, 'Boolean'>,
-  |},
+  |}
 |};
 
 declare type TGatsbyTypes_ContentJsonConnection = {|
@@ -49,9 +59,11 @@ declare type TGatsbyTypes_ContentJsonConnection = {|
   +group: Array<TGatsbyTypes_ContentJsonGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_ContentJsonConnection_distinctArgs = {|
   field: TGatsbyTypes_ContentJsonFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_ContentJsonConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -95,12 +107,9 @@ export const TGatsbyTypes_ContentJsonFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -113,16 +122,11 @@ export const TGatsbyTypes_ContentJsonFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -142,16 +146,11 @@ export const TGatsbyTypes_ContentJsonFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -160,20 +159,13 @@ export const TGatsbyTypes_ContentJsonFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -206,12 +198,11 @@ export const TGatsbyTypes_ContentJsonFieldsEnumValues = Object.freeze({
   projectOwner: 'projectOwner',
   repoType: 'repoType',
   repoHost: 'repoHost',
-  skipCi: 'skipCi',
+  skipCi: 'skipCi'
 });
 
-declare type TGatsbyTypes_ContentJsonFieldsEnum = $Values<
-  typeof TGatsbyTypes_ContentJsonFieldsEnumValues
->;
+
+declare type TGatsbyTypes_ContentJsonFieldsEnum = $Values<typeof TGatsbyTypes_ContentJsonFieldsEnumValues>;
 
 declare type TGatsbyTypes_ContentJsonFilterInput = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -243,6 +234,7 @@ declare type TGatsbyTypes_ContentJsonSortInput = {|
   fields?: ?Array<?ContentJsonFieldsEnum>,
   order?: ?Array<?TGatsbyTypes_SortOrderEnum>,
 |};
+
 
 declare type TGatsbyTypes_DateQueryOperatorInput = {|
   eq?: ?$ElementType<Scalars, 'Date'>,
@@ -295,8 +287,9 @@ declare type TGatsbyTypes_Directory = {|
     +parent?: ?TGatsbyTypes_Node,
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
-  |},
+  |}
 |};
+
 
 declare type TGatsbyTypes_Directory_modifiedTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -305,12 +298,14 @@ declare type TGatsbyTypes_Directory_modifiedTimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_Directory_accessTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_Directory_changeTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -319,12 +314,14 @@ declare type TGatsbyTypes_Directory_changeTimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_Directory_birthTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_Directory_atimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -333,12 +330,14 @@ declare type TGatsbyTypes_Directory_atimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_Directory_mtimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_Directory_ctimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -356,9 +355,11 @@ declare type TGatsbyTypes_DirectoryConnection = {|
   +group: Array<TGatsbyTypes_DirectoryGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_DirectoryConnection_distinctArgs = {|
   field: TGatsbyTypes_DirectoryFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_DirectoryConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -415,12 +416,9 @@ export const TGatsbyTypes_DirectoryFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -433,16 +431,11 @@ export const TGatsbyTypes_DirectoryFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -462,16 +455,11 @@ export const TGatsbyTypes_DirectoryFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -480,20 +468,13 @@ export const TGatsbyTypes_DirectoryFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -511,12 +492,11 @@ export const TGatsbyTypes_DirectoryFieldsEnumValues = Object.freeze({
   internal___ignoreType: 'internal.ignoreType',
   internal___mediaType: 'internal.mediaType',
   internal___owner: 'internal.owner',
-  internal___type: 'internal.type',
+  internal___type: 'internal.type'
 });
 
-declare type TGatsbyTypes_DirectoryFieldsEnum = $Values<
-  typeof TGatsbyTypes_DirectoryFieldsEnumValues
->;
+
+declare type TGatsbyTypes_DirectoryFieldsEnum = $Values<typeof TGatsbyTypes_DirectoryFieldsEnumValues>;
 
 declare type TGatsbyTypes_DirectoryFilterInput = {|
   sourceInstanceName?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -625,7 +605,7 @@ declare type TGatsbyTypes_EnJson = {|
     +Maker_Community_Blog?: ?$ElementType<Scalars, 'String'>,
     +Latest_In?: ?$ElementType<Scalars, 'String'>,
     +See_More_Posts?: ?$ElementType<Scalars, 'String'>,
-  |},
+  |}
 |};
 
 declare type TGatsbyTypes_EnJsonConnection = {|
@@ -637,9 +617,11 @@ declare type TGatsbyTypes_EnJsonConnection = {|
   +group: Array<TGatsbyTypes_EnJsonGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_EnJsonConnection_distinctArgs = {|
   field: TGatsbyTypes_EnJsonFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_EnJsonConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -663,12 +645,9 @@ export const TGatsbyTypes_EnJsonFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -681,16 +660,11 @@ export const TGatsbyTypes_EnJsonFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -710,16 +684,11 @@ export const TGatsbyTypes_EnJsonFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -728,20 +697,13 @@ export const TGatsbyTypes_EnJsonFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -823,12 +785,11 @@ export const TGatsbyTypes_EnJsonFieldsEnumValues = Object.freeze({
   governance: 'governance',
   Maker_Community_Blog: 'Maker_Community_Blog',
   Latest_In: 'Latest_In',
-  See_More_Posts: 'See_More_Posts',
+  See_More_Posts: 'See_More_Posts'
 });
 
-declare type TGatsbyTypes_EnJsonFieldsEnum = $Values<
-  typeof TGatsbyTypes_EnJsonFieldsEnumValues
->;
+
+declare type TGatsbyTypes_EnJsonFieldsEnum = $Values<typeof TGatsbyTypes_EnJsonFieldsEnumValues>;
 
 declare type TGatsbyTypes_EnJsonFilterInput = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -1000,17 +961,18 @@ declare type TGatsbyTypes_File = {|
     +blksize?: ?$ElementType<Scalars, 'Int'>,
     +blocks?: ?$ElementType<Scalars, 'Int'>,
     /** Copy file to static directory and return public url to it */
-    +publicURL?: ?$ElementType<Scalars, 'String'>,
+  +publicURL?: ?$ElementType<Scalars, 'String'>,
     +childImageSharp?: ?TGatsbyTypes_ImageSharp,
     +id: $ElementType<Scalars, 'ID'>,
     +parent?: ?TGatsbyTypes_Node,
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
     +childContentJson?: ?TGatsbyTypes_ContentJson,
-    +childEnJson?: ?TGatsbyTypes_EnJson,
     +childMdx?: ?TGatsbyTypes_Mdx,
-  |},
+    +childEnJson?: ?TGatsbyTypes_EnJson,
+  |}
 |};
+
 
 declare type TGatsbyTypes_File_modifiedTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -1019,12 +981,14 @@ declare type TGatsbyTypes_File_modifiedTimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_File_accessTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_File_changeTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -1033,12 +997,14 @@ declare type TGatsbyTypes_File_changeTimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_File_birthTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_File_atimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -1047,12 +1013,14 @@ declare type TGatsbyTypes_File_atimeArgs = {|
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
 
+
 declare type TGatsbyTypes_File_mtimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
   fromNow?: ?$ElementType<Scalars, 'Boolean'>,
   difference?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_File_ctimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -1070,9 +1038,11 @@ declare type TGatsbyTypes_FileConnection = {|
   +group: Array<TGatsbyTypes_FileGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_FileConnection_distinctArgs = {|
   field: TGatsbyTypes_FileFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_FileConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -1132,20 +1102,15 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childImageSharp___fixed___srcSetWebp: 'childImageSharp.fixed.srcSetWebp',
   childImageSharp___fixed___originalName: 'childImageSharp.fixed.originalName',
   childImageSharp___resolutions___base64: 'childImageSharp.resolutions.base64',
-  childImageSharp___resolutions___tracedSVG:
-    'childImageSharp.resolutions.tracedSVG',
-  childImageSharp___resolutions___aspectRatio:
-    'childImageSharp.resolutions.aspectRatio',
+  childImageSharp___resolutions___tracedSVG: 'childImageSharp.resolutions.tracedSVG',
+  childImageSharp___resolutions___aspectRatio: 'childImageSharp.resolutions.aspectRatio',
   childImageSharp___resolutions___width: 'childImageSharp.resolutions.width',
   childImageSharp___resolutions___height: 'childImageSharp.resolutions.height',
   childImageSharp___resolutions___src: 'childImageSharp.resolutions.src',
   childImageSharp___resolutions___srcSet: 'childImageSharp.resolutions.srcSet',
-  childImageSharp___resolutions___srcWebp:
-    'childImageSharp.resolutions.srcWebp',
-  childImageSharp___resolutions___srcSetWebp:
-    'childImageSharp.resolutions.srcSetWebp',
-  childImageSharp___resolutions___originalName:
-    'childImageSharp.resolutions.originalName',
+  childImageSharp___resolutions___srcWebp: 'childImageSharp.resolutions.srcWebp',
+  childImageSharp___resolutions___srcSetWebp: 'childImageSharp.resolutions.srcSetWebp',
+  childImageSharp___resolutions___originalName: 'childImageSharp.resolutions.originalName',
   childImageSharp___fluid___base64: 'childImageSharp.fluid.base64',
   childImageSharp___fluid___tracedSVG: 'childImageSharp.fluid.tracedSVG',
   childImageSharp___fluid___aspectRatio: 'childImageSharp.fluid.aspectRatio',
@@ -1156,10 +1121,8 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childImageSharp___fluid___sizes: 'childImageSharp.fluid.sizes',
   childImageSharp___fluid___originalImg: 'childImageSharp.fluid.originalImg',
   childImageSharp___fluid___originalName: 'childImageSharp.fluid.originalName',
-  childImageSharp___fluid___presentationWidth:
-    'childImageSharp.fluid.presentationWidth',
-  childImageSharp___fluid___presentationHeight:
-    'childImageSharp.fluid.presentationHeight',
+  childImageSharp___fluid___presentationWidth: 'childImageSharp.fluid.presentationWidth',
+  childImageSharp___fluid___presentationHeight: 'childImageSharp.fluid.presentationHeight',
   childImageSharp___sizes___base64: 'childImageSharp.sizes.base64',
   childImageSharp___sizes___tracedSVG: 'childImageSharp.sizes.tracedSVG',
   childImageSharp___sizes___aspectRatio: 'childImageSharp.sizes.aspectRatio',
@@ -1170,12 +1133,9 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childImageSharp___sizes___sizes: 'childImageSharp.sizes.sizes',
   childImageSharp___sizes___originalImg: 'childImageSharp.sizes.originalImg',
   childImageSharp___sizes___originalName: 'childImageSharp.sizes.originalName',
-  childImageSharp___sizes___presentationWidth:
-    'childImageSharp.sizes.presentationWidth',
-  childImageSharp___sizes___presentationHeight:
-    'childImageSharp.sizes.presentationHeight',
-  childImageSharp___gatsbyImage___imageData:
-    'childImageSharp.gatsbyImage.imageData',
+  childImageSharp___sizes___presentationWidth: 'childImageSharp.sizes.presentationWidth',
+  childImageSharp___sizes___presentationHeight: 'childImageSharp.sizes.presentationHeight',
+  childImageSharp___gatsbyImage___imageData: 'childImageSharp.gatsbyImage.imageData',
   childImageSharp___original___width: 'childImageSharp.original.width',
   childImageSharp___original___height: 'childImageSharp.original.height',
   childImageSharp___original___src: 'childImageSharp.original.src',
@@ -1184,70 +1144,42 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childImageSharp___resize___width: 'childImageSharp.resize.width',
   childImageSharp___resize___height: 'childImageSharp.resize.height',
   childImageSharp___resize___aspectRatio: 'childImageSharp.resize.aspectRatio',
-  childImageSharp___resize___originalName:
-    'childImageSharp.resize.originalName',
+  childImageSharp___resize___originalName: 'childImageSharp.resize.originalName',
   childImageSharp___id: 'childImageSharp.id',
   childImageSharp___parent___id: 'childImageSharp.parent.id',
   childImageSharp___parent___parent___id: 'childImageSharp.parent.parent.id',
-  childImageSharp___parent___parent___children:
-    'childImageSharp.parent.parent.children',
+  childImageSharp___parent___parent___children: 'childImageSharp.parent.parent.children',
   childImageSharp___parent___children: 'childImageSharp.parent.children',
-  childImageSharp___parent___children___id:
-    'childImageSharp.parent.children.id',
-  childImageSharp___parent___children___children:
-    'childImageSharp.parent.children.children',
-  childImageSharp___parent___internal___content:
-    'childImageSharp.parent.internal.content',
-  childImageSharp___parent___internal___contentDigest:
-    'childImageSharp.parent.internal.contentDigest',
-  childImageSharp___parent___internal___description:
-    'childImageSharp.parent.internal.description',
-  childImageSharp___parent___internal___fieldOwners:
-    'childImageSharp.parent.internal.fieldOwners',
-  childImageSharp___parent___internal___ignoreType:
-    'childImageSharp.parent.internal.ignoreType',
-  childImageSharp___parent___internal___mediaType:
-    'childImageSharp.parent.internal.mediaType',
-  childImageSharp___parent___internal___owner:
-    'childImageSharp.parent.internal.owner',
-  childImageSharp___parent___internal___type:
-    'childImageSharp.parent.internal.type',
+  childImageSharp___parent___children___id: 'childImageSharp.parent.children.id',
+  childImageSharp___parent___children___children: 'childImageSharp.parent.children.children',
+  childImageSharp___parent___internal___content: 'childImageSharp.parent.internal.content',
+  childImageSharp___parent___internal___contentDigest: 'childImageSharp.parent.internal.contentDigest',
+  childImageSharp___parent___internal___description: 'childImageSharp.parent.internal.description',
+  childImageSharp___parent___internal___fieldOwners: 'childImageSharp.parent.internal.fieldOwners',
+  childImageSharp___parent___internal___ignoreType: 'childImageSharp.parent.internal.ignoreType',
+  childImageSharp___parent___internal___mediaType: 'childImageSharp.parent.internal.mediaType',
+  childImageSharp___parent___internal___owner: 'childImageSharp.parent.internal.owner',
+  childImageSharp___parent___internal___type: 'childImageSharp.parent.internal.type',
   childImageSharp___children: 'childImageSharp.children',
   childImageSharp___children___id: 'childImageSharp.children.id',
-  childImageSharp___children___parent___id:
-    'childImageSharp.children.parent.id',
-  childImageSharp___children___parent___children:
-    'childImageSharp.children.parent.children',
+  childImageSharp___children___parent___id: 'childImageSharp.children.parent.id',
+  childImageSharp___children___parent___children: 'childImageSharp.children.parent.children',
   childImageSharp___children___children: 'childImageSharp.children.children',
-  childImageSharp___children___children___id:
-    'childImageSharp.children.children.id',
-  childImageSharp___children___children___children:
-    'childImageSharp.children.children.children',
-  childImageSharp___children___internal___content:
-    'childImageSharp.children.internal.content',
-  childImageSharp___children___internal___contentDigest:
-    'childImageSharp.children.internal.contentDigest',
-  childImageSharp___children___internal___description:
-    'childImageSharp.children.internal.description',
-  childImageSharp___children___internal___fieldOwners:
-    'childImageSharp.children.internal.fieldOwners',
-  childImageSharp___children___internal___ignoreType:
-    'childImageSharp.children.internal.ignoreType',
-  childImageSharp___children___internal___mediaType:
-    'childImageSharp.children.internal.mediaType',
-  childImageSharp___children___internal___owner:
-    'childImageSharp.children.internal.owner',
-  childImageSharp___children___internal___type:
-    'childImageSharp.children.internal.type',
+  childImageSharp___children___children___id: 'childImageSharp.children.children.id',
+  childImageSharp___children___children___children: 'childImageSharp.children.children.children',
+  childImageSharp___children___internal___content: 'childImageSharp.children.internal.content',
+  childImageSharp___children___internal___contentDigest: 'childImageSharp.children.internal.contentDigest',
+  childImageSharp___children___internal___description: 'childImageSharp.children.internal.description',
+  childImageSharp___children___internal___fieldOwners: 'childImageSharp.children.internal.fieldOwners',
+  childImageSharp___children___internal___ignoreType: 'childImageSharp.children.internal.ignoreType',
+  childImageSharp___children___internal___mediaType: 'childImageSharp.children.internal.mediaType',
+  childImageSharp___children___internal___owner: 'childImageSharp.children.internal.owner',
+  childImageSharp___children___internal___type: 'childImageSharp.children.internal.type',
   childImageSharp___internal___content: 'childImageSharp.internal.content',
-  childImageSharp___internal___contentDigest:
-    'childImageSharp.internal.contentDigest',
-  childImageSharp___internal___description:
-    'childImageSharp.internal.description',
-  childImageSharp___internal___fieldOwners:
-    'childImageSharp.internal.fieldOwners',
-  childImageSharp___internal___ignoreType:
-    'childImageSharp.internal.ignoreType',
+  childImageSharp___internal___contentDigest: 'childImageSharp.internal.contentDigest',
+  childImageSharp___internal___description: 'childImageSharp.internal.description',
+  childImageSharp___internal___fieldOwners: 'childImageSharp.internal.fieldOwners',
+  childImageSharp___internal___ignoreType: 'childImageSharp.internal.ignoreType',
   childImageSharp___internal___mediaType: 'childImageSharp.internal.mediaType',
   childImageSharp___internal___owner: 'childImageSharp.internal.owner',
   childImageSharp___internal___type: 'childImageSharp.internal.type',
@@ -1260,12 +1192,9 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -1278,16 +1207,11 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -1307,16 +1231,11 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -1325,20 +1244,13 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -1360,137 +1272,153 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childContentJson___id: 'childContentJson.id',
   childContentJson___parent___id: 'childContentJson.parent.id',
   childContentJson___parent___parent___id: 'childContentJson.parent.parent.id',
-  childContentJson___parent___parent___children:
-    'childContentJson.parent.parent.children',
+  childContentJson___parent___parent___children: 'childContentJson.parent.parent.children',
   childContentJson___parent___children: 'childContentJson.parent.children',
-  childContentJson___parent___children___id:
-    'childContentJson.parent.children.id',
-  childContentJson___parent___children___children:
-    'childContentJson.parent.children.children',
-  childContentJson___parent___internal___content:
-    'childContentJson.parent.internal.content',
-  childContentJson___parent___internal___contentDigest:
-    'childContentJson.parent.internal.contentDigest',
-  childContentJson___parent___internal___description:
-    'childContentJson.parent.internal.description',
-  childContentJson___parent___internal___fieldOwners:
-    'childContentJson.parent.internal.fieldOwners',
-  childContentJson___parent___internal___ignoreType:
-    'childContentJson.parent.internal.ignoreType',
-  childContentJson___parent___internal___mediaType:
-    'childContentJson.parent.internal.mediaType',
-  childContentJson___parent___internal___owner:
-    'childContentJson.parent.internal.owner',
-  childContentJson___parent___internal___type:
-    'childContentJson.parent.internal.type',
+  childContentJson___parent___children___id: 'childContentJson.parent.children.id',
+  childContentJson___parent___children___children: 'childContentJson.parent.children.children',
+  childContentJson___parent___internal___content: 'childContentJson.parent.internal.content',
+  childContentJson___parent___internal___contentDigest: 'childContentJson.parent.internal.contentDigest',
+  childContentJson___parent___internal___description: 'childContentJson.parent.internal.description',
+  childContentJson___parent___internal___fieldOwners: 'childContentJson.parent.internal.fieldOwners',
+  childContentJson___parent___internal___ignoreType: 'childContentJson.parent.internal.ignoreType',
+  childContentJson___parent___internal___mediaType: 'childContentJson.parent.internal.mediaType',
+  childContentJson___parent___internal___owner: 'childContentJson.parent.internal.owner',
+  childContentJson___parent___internal___type: 'childContentJson.parent.internal.type',
   childContentJson___children: 'childContentJson.children',
   childContentJson___children___id: 'childContentJson.children.id',
-  childContentJson___children___parent___id:
-    'childContentJson.children.parent.id',
-  childContentJson___children___parent___children:
-    'childContentJson.children.parent.children',
+  childContentJson___children___parent___id: 'childContentJson.children.parent.id',
+  childContentJson___children___parent___children: 'childContentJson.children.parent.children',
   childContentJson___children___children: 'childContentJson.children.children',
-  childContentJson___children___children___id:
-    'childContentJson.children.children.id',
-  childContentJson___children___children___children:
-    'childContentJson.children.children.children',
-  childContentJson___children___internal___content:
-    'childContentJson.children.internal.content',
-  childContentJson___children___internal___contentDigest:
-    'childContentJson.children.internal.contentDigest',
-  childContentJson___children___internal___description:
-    'childContentJson.children.internal.description',
-  childContentJson___children___internal___fieldOwners:
-    'childContentJson.children.internal.fieldOwners',
-  childContentJson___children___internal___ignoreType:
-    'childContentJson.children.internal.ignoreType',
-  childContentJson___children___internal___mediaType:
-    'childContentJson.children.internal.mediaType',
-  childContentJson___children___internal___owner:
-    'childContentJson.children.internal.owner',
-  childContentJson___children___internal___type:
-    'childContentJson.children.internal.type',
+  childContentJson___children___children___id: 'childContentJson.children.children.id',
+  childContentJson___children___children___children: 'childContentJson.children.children.children',
+  childContentJson___children___internal___content: 'childContentJson.children.internal.content',
+  childContentJson___children___internal___contentDigest: 'childContentJson.children.internal.contentDigest',
+  childContentJson___children___internal___description: 'childContentJson.children.internal.description',
+  childContentJson___children___internal___fieldOwners: 'childContentJson.children.internal.fieldOwners',
+  childContentJson___children___internal___ignoreType: 'childContentJson.children.internal.ignoreType',
+  childContentJson___children___internal___mediaType: 'childContentJson.children.internal.mediaType',
+  childContentJson___children___internal___owner: 'childContentJson.children.internal.owner',
+  childContentJson___children___internal___type: 'childContentJson.children.internal.type',
   childContentJson___internal___content: 'childContentJson.internal.content',
-  childContentJson___internal___contentDigest:
-    'childContentJson.internal.contentDigest',
-  childContentJson___internal___description:
-    'childContentJson.internal.description',
-  childContentJson___internal___fieldOwners:
-    'childContentJson.internal.fieldOwners',
-  childContentJson___internal___ignoreType:
-    'childContentJson.internal.ignoreType',
-  childContentJson___internal___mediaType:
-    'childContentJson.internal.mediaType',
+  childContentJson___internal___contentDigest: 'childContentJson.internal.contentDigest',
+  childContentJson___internal___description: 'childContentJson.internal.description',
+  childContentJson___internal___fieldOwners: 'childContentJson.internal.fieldOwners',
+  childContentJson___internal___ignoreType: 'childContentJson.internal.ignoreType',
+  childContentJson___internal___mediaType: 'childContentJson.internal.mediaType',
   childContentJson___internal___owner: 'childContentJson.internal.owner',
   childContentJson___internal___type: 'childContentJson.internal.type',
   childContentJson___files: 'childContentJson.files',
   childContentJson___imageSize: 'childContentJson.imageSize',
   childContentJson___commit: 'childContentJson.commit',
   childContentJson___contributors: 'childContentJson.contributors',
-  childContentJson___contributors___login:
-    'childContentJson.contributors.login',
+  childContentJson___contributors___login: 'childContentJson.contributors.login',
   childContentJson___contributors___name: 'childContentJson.contributors.name',
-  childContentJson___contributors___avatar_url:
-    'childContentJson.contributors.avatar_url',
-  childContentJson___contributors___profile:
-    'childContentJson.contributors.profile',
-  childContentJson___contributors___contributions:
-    'childContentJson.contributors.contributions',
-  childContentJson___contributorsPerLine:
-    'childContentJson.contributorsPerLine',
+  childContentJson___contributors___avatar_url: 'childContentJson.contributors.avatar_url',
+  childContentJson___contributors___profile: 'childContentJson.contributors.profile',
+  childContentJson___contributors___contributions: 'childContentJson.contributors.contributions',
+  childContentJson___contributorsPerLine: 'childContentJson.contributorsPerLine',
   childContentJson___projectName: 'childContentJson.projectName',
   childContentJson___projectOwner: 'childContentJson.projectOwner',
   childContentJson___repoType: 'childContentJson.repoType',
   childContentJson___repoHost: 'childContentJson.repoHost',
   childContentJson___skipCi: 'childContentJson.skipCi',
+  childMdx___rawBody: 'childMdx.rawBody',
+  childMdx___fileAbsolutePath: 'childMdx.fileAbsolutePath',
+  childMdx___frontmatter___title: 'childMdx.frontmatter.title',
+  childMdx___frontmatter___description: 'childMdx.frontmatter.description',
+  childMdx___frontmatter___keywords: 'childMdx.frontmatter.keywords',
+  childMdx___frontmatter___featuredImage: 'childMdx.frontmatter.featuredImage',
+  childMdx___frontmatter___hideBreadcrumbs: 'childMdx.frontmatter.hideBreadcrumbs',
+  childMdx___frontmatter___hideScrollCTA: 'childMdx.frontmatter.hideScrollCTA',
+  childMdx___frontmatter___order: 'childMdx.frontmatter.order',
+  childMdx___frontmatter___hideLanguageSelector: 'childMdx.frontmatter.hideLanguageSelector',
+  childMdx___frontmatter___redirect_from: 'childMdx.frontmatter.redirect_from',
+  childMdx___frontmatter___header: 'childMdx.frontmatter.header',
+  childMdx___frontmatter___headerOrder: 'childMdx.frontmatter.headerOrder',
+  childMdx___frontmatter___authors: 'childMdx.frontmatter.authors',
+  childMdx___frontmatter___date: 'childMdx.frontmatter.date',
+  childMdx___frontmatter___image: 'childMdx.frontmatter.image',
+  childMdx___slug: 'childMdx.slug',
+  childMdx___body: 'childMdx.body',
+  childMdx___excerpt: 'childMdx.excerpt',
+  childMdx___headings: 'childMdx.headings',
+  childMdx___headings___value: 'childMdx.headings.value',
+  childMdx___headings___depth: 'childMdx.headings.depth',
+  childMdx___html: 'childMdx.html',
+  childMdx___mdxAST: 'childMdx.mdxAST',
+  childMdx___tableOfContents: 'childMdx.tableOfContents',
+  childMdx___timeToRead: 'childMdx.timeToRead',
+  childMdx___wordCount___paragraphs: 'childMdx.wordCount.paragraphs',
+  childMdx___wordCount___sentences: 'childMdx.wordCount.sentences',
+  childMdx___wordCount___words: 'childMdx.wordCount.words',
+  childMdx___id: 'childMdx.id',
+  childMdx___parent___id: 'childMdx.parent.id',
+  childMdx___parent___parent___id: 'childMdx.parent.parent.id',
+  childMdx___parent___parent___children: 'childMdx.parent.parent.children',
+  childMdx___parent___children: 'childMdx.parent.children',
+  childMdx___parent___children___id: 'childMdx.parent.children.id',
+  childMdx___parent___children___children: 'childMdx.parent.children.children',
+  childMdx___parent___internal___content: 'childMdx.parent.internal.content',
+  childMdx___parent___internal___contentDigest: 'childMdx.parent.internal.contentDigest',
+  childMdx___parent___internal___description: 'childMdx.parent.internal.description',
+  childMdx___parent___internal___fieldOwners: 'childMdx.parent.internal.fieldOwners',
+  childMdx___parent___internal___ignoreType: 'childMdx.parent.internal.ignoreType',
+  childMdx___parent___internal___mediaType: 'childMdx.parent.internal.mediaType',
+  childMdx___parent___internal___owner: 'childMdx.parent.internal.owner',
+  childMdx___parent___internal___type: 'childMdx.parent.internal.type',
+  childMdx___children: 'childMdx.children',
+  childMdx___children___id: 'childMdx.children.id',
+  childMdx___children___parent___id: 'childMdx.children.parent.id',
+  childMdx___children___parent___children: 'childMdx.children.parent.children',
+  childMdx___children___children: 'childMdx.children.children',
+  childMdx___children___children___id: 'childMdx.children.children.id',
+  childMdx___children___children___children: 'childMdx.children.children.children',
+  childMdx___children___internal___content: 'childMdx.children.internal.content',
+  childMdx___children___internal___contentDigest: 'childMdx.children.internal.contentDigest',
+  childMdx___children___internal___description: 'childMdx.children.internal.description',
+  childMdx___children___internal___fieldOwners: 'childMdx.children.internal.fieldOwners',
+  childMdx___children___internal___ignoreType: 'childMdx.children.internal.ignoreType',
+  childMdx___children___internal___mediaType: 'childMdx.children.internal.mediaType',
+  childMdx___children___internal___owner: 'childMdx.children.internal.owner',
+  childMdx___children___internal___type: 'childMdx.children.internal.type',
+  childMdx___internal___content: 'childMdx.internal.content',
+  childMdx___internal___contentDigest: 'childMdx.internal.contentDigest',
+  childMdx___internal___description: 'childMdx.internal.description',
+  childMdx___internal___fieldOwners: 'childMdx.internal.fieldOwners',
+  childMdx___internal___ignoreType: 'childMdx.internal.ignoreType',
+  childMdx___internal___mediaType: 'childMdx.internal.mediaType',
+  childMdx___internal___owner: 'childMdx.internal.owner',
+  childMdx___internal___type: 'childMdx.internal.type',
   childEnJson___id: 'childEnJson.id',
   childEnJson___parent___id: 'childEnJson.parent.id',
   childEnJson___parent___parent___id: 'childEnJson.parent.parent.id',
-  childEnJson___parent___parent___children:
-    'childEnJson.parent.parent.children',
+  childEnJson___parent___parent___children: 'childEnJson.parent.parent.children',
   childEnJson___parent___children: 'childEnJson.parent.children',
   childEnJson___parent___children___id: 'childEnJson.parent.children.id',
-  childEnJson___parent___children___children:
-    'childEnJson.parent.children.children',
-  childEnJson___parent___internal___content:
-    'childEnJson.parent.internal.content',
-  childEnJson___parent___internal___contentDigest:
-    'childEnJson.parent.internal.contentDigest',
-  childEnJson___parent___internal___description:
-    'childEnJson.parent.internal.description',
-  childEnJson___parent___internal___fieldOwners:
-    'childEnJson.parent.internal.fieldOwners',
-  childEnJson___parent___internal___ignoreType:
-    'childEnJson.parent.internal.ignoreType',
-  childEnJson___parent___internal___mediaType:
-    'childEnJson.parent.internal.mediaType',
+  childEnJson___parent___children___children: 'childEnJson.parent.children.children',
+  childEnJson___parent___internal___content: 'childEnJson.parent.internal.content',
+  childEnJson___parent___internal___contentDigest: 'childEnJson.parent.internal.contentDigest',
+  childEnJson___parent___internal___description: 'childEnJson.parent.internal.description',
+  childEnJson___parent___internal___fieldOwners: 'childEnJson.parent.internal.fieldOwners',
+  childEnJson___parent___internal___ignoreType: 'childEnJson.parent.internal.ignoreType',
+  childEnJson___parent___internal___mediaType: 'childEnJson.parent.internal.mediaType',
   childEnJson___parent___internal___owner: 'childEnJson.parent.internal.owner',
   childEnJson___parent___internal___type: 'childEnJson.parent.internal.type',
   childEnJson___children: 'childEnJson.children',
   childEnJson___children___id: 'childEnJson.children.id',
   childEnJson___children___parent___id: 'childEnJson.children.parent.id',
-  childEnJson___children___parent___children:
-    'childEnJson.children.parent.children',
+  childEnJson___children___parent___children: 'childEnJson.children.parent.children',
   childEnJson___children___children: 'childEnJson.children.children',
   childEnJson___children___children___id: 'childEnJson.children.children.id',
-  childEnJson___children___children___children:
-    'childEnJson.children.children.children',
-  childEnJson___children___internal___content:
-    'childEnJson.children.internal.content',
-  childEnJson___children___internal___contentDigest:
-    'childEnJson.children.internal.contentDigest',
-  childEnJson___children___internal___description:
-    'childEnJson.children.internal.description',
-  childEnJson___children___internal___fieldOwners:
-    'childEnJson.children.internal.fieldOwners',
-  childEnJson___children___internal___ignoreType:
-    'childEnJson.children.internal.ignoreType',
-  childEnJson___children___internal___mediaType:
-    'childEnJson.children.internal.mediaType',
-  childEnJson___children___internal___owner:
-    'childEnJson.children.internal.owner',
-  childEnJson___children___internal___type:
-    'childEnJson.children.internal.type',
+  childEnJson___children___children___children: 'childEnJson.children.children.children',
+  childEnJson___children___internal___content: 'childEnJson.children.internal.content',
+  childEnJson___children___internal___contentDigest: 'childEnJson.children.internal.contentDigest',
+  childEnJson___children___internal___description: 'childEnJson.children.internal.description',
+  childEnJson___children___internal___fieldOwners: 'childEnJson.children.internal.fieldOwners',
+  childEnJson___children___internal___ignoreType: 'childEnJson.children.internal.ignoreType',
+  childEnJson___children___internal___mediaType: 'childEnJson.children.internal.mediaType',
+  childEnJson___children___internal___owner: 'childEnJson.children.internal.owner',
+  childEnJson___children___internal___type: 'childEnJson.children.internal.type',
   childEnJson___internal___content: 'childEnJson.internal.content',
   childEnJson___internal___contentDigest: 'childEnJson.internal.contentDigest',
   childEnJson___internal___description: 'childEnJson.internal.description',
@@ -1509,8 +1437,7 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childEnJson___Page_Language_Selector: 'childEnJson.Page_Language_Selector',
   childEnJson___Available_Languages: 'childEnJson.Available_Languages',
   childEnJson___LANGUAGES: 'childEnJson.LANGUAGES',
-  childEnJson___Available_Languages_none:
-    'childEnJson.Available_Languages_none',
+  childEnJson___Available_Languages_none: 'childEnJson.Available_Languages_none',
   childEnJson___Need_Another_Language: 'childEnJson.Need_Another_Language',
   childEnJson___Join_translation_team: 'childEnJson.Join_translation_team',
   childEnJson___Translations: 'childEnJson.Translations',
@@ -1549,8 +1476,7 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childEnJson___Footer___Developers: 'childEnJson.Footer.Developers',
   childEnJson___Footer___Documentation: 'childEnJson.Footer.Documentation',
   childEnJson___Footer___Daijs: 'childEnJson.Footer.Daijs',
-  childEnJson___Footer___Developer_Guides:
-    'childEnJson.Footer.Developer_Guides',
+  childEnJson___Footer___Developer_Guides: 'childEnJson.Footer.Developer_Guides',
   childEnJson___Footer___Foundation: 'childEnJson.Footer.Foundation',
   childEnJson___Footer___Team: 'childEnJson.Footer.Team',
   childEnJson___Footer___Careers: 'childEnJson.Footer.Careers',
@@ -1564,93 +1490,11 @@ export const TGatsbyTypes_FileFieldsEnumValues = Object.freeze({
   childEnJson___governance: 'childEnJson.governance',
   childEnJson___Maker_Community_Blog: 'childEnJson.Maker_Community_Blog',
   childEnJson___Latest_In: 'childEnJson.Latest_In',
-  childEnJson___See_More_Posts: 'childEnJson.See_More_Posts',
-  childMdx___rawBody: 'childMdx.rawBody',
-  childMdx___fileAbsolutePath: 'childMdx.fileAbsolutePath',
-  childMdx___frontmatter___title: 'childMdx.frontmatter.title',
-  childMdx___frontmatter___description: 'childMdx.frontmatter.description',
-  childMdx___frontmatter___keywords: 'childMdx.frontmatter.keywords',
-  childMdx___frontmatter___featuredImage: 'childMdx.frontmatter.featuredImage',
-  childMdx___frontmatter___hideBreadcrumbs:
-    'childMdx.frontmatter.hideBreadcrumbs',
-  childMdx___frontmatter___hideScrollCTA: 'childMdx.frontmatter.hideScrollCTA',
-  childMdx___frontmatter___order: 'childMdx.frontmatter.order',
-  childMdx___frontmatter___hideLanguageSelector:
-    'childMdx.frontmatter.hideLanguageSelector',
-  childMdx___frontmatter___header: 'childMdx.frontmatter.header',
-  childMdx___frontmatter___headerOrder: 'childMdx.frontmatter.headerOrder',
-  childMdx___frontmatter___redirect_from: 'childMdx.frontmatter.redirect_from',
-  childMdx___frontmatter___authors: 'childMdx.frontmatter.authors',
-  childMdx___frontmatter___date: 'childMdx.frontmatter.date',
-  childMdx___frontmatter___image: 'childMdx.frontmatter.image',
-  childMdx___slug: 'childMdx.slug',
-  childMdx___body: 'childMdx.body',
-  childMdx___excerpt: 'childMdx.excerpt',
-  childMdx___headings: 'childMdx.headings',
-  childMdx___headings___value: 'childMdx.headings.value',
-  childMdx___headings___depth: 'childMdx.headings.depth',
-  childMdx___html: 'childMdx.html',
-  childMdx___mdxAST: 'childMdx.mdxAST',
-  childMdx___tableOfContents: 'childMdx.tableOfContents',
-  childMdx___timeToRead: 'childMdx.timeToRead',
-  childMdx___wordCount___paragraphs: 'childMdx.wordCount.paragraphs',
-  childMdx___wordCount___sentences: 'childMdx.wordCount.sentences',
-  childMdx___wordCount___words: 'childMdx.wordCount.words',
-  childMdx___id: 'childMdx.id',
-  childMdx___parent___id: 'childMdx.parent.id',
-  childMdx___parent___parent___id: 'childMdx.parent.parent.id',
-  childMdx___parent___parent___children: 'childMdx.parent.parent.children',
-  childMdx___parent___children: 'childMdx.parent.children',
-  childMdx___parent___children___id: 'childMdx.parent.children.id',
-  childMdx___parent___children___children: 'childMdx.parent.children.children',
-  childMdx___parent___internal___content: 'childMdx.parent.internal.content',
-  childMdx___parent___internal___contentDigest:
-    'childMdx.parent.internal.contentDigest',
-  childMdx___parent___internal___description:
-    'childMdx.parent.internal.description',
-  childMdx___parent___internal___fieldOwners:
-    'childMdx.parent.internal.fieldOwners',
-  childMdx___parent___internal___ignoreType:
-    'childMdx.parent.internal.ignoreType',
-  childMdx___parent___internal___mediaType:
-    'childMdx.parent.internal.mediaType',
-  childMdx___parent___internal___owner: 'childMdx.parent.internal.owner',
-  childMdx___parent___internal___type: 'childMdx.parent.internal.type',
-  childMdx___children: 'childMdx.children',
-  childMdx___children___id: 'childMdx.children.id',
-  childMdx___children___parent___id: 'childMdx.children.parent.id',
-  childMdx___children___parent___children: 'childMdx.children.parent.children',
-  childMdx___children___children: 'childMdx.children.children',
-  childMdx___children___children___id: 'childMdx.children.children.id',
-  childMdx___children___children___children:
-    'childMdx.children.children.children',
-  childMdx___children___internal___content:
-    'childMdx.children.internal.content',
-  childMdx___children___internal___contentDigest:
-    'childMdx.children.internal.contentDigest',
-  childMdx___children___internal___description:
-    'childMdx.children.internal.description',
-  childMdx___children___internal___fieldOwners:
-    'childMdx.children.internal.fieldOwners',
-  childMdx___children___internal___ignoreType:
-    'childMdx.children.internal.ignoreType',
-  childMdx___children___internal___mediaType:
-    'childMdx.children.internal.mediaType',
-  childMdx___children___internal___owner: 'childMdx.children.internal.owner',
-  childMdx___children___internal___type: 'childMdx.children.internal.type',
-  childMdx___internal___content: 'childMdx.internal.content',
-  childMdx___internal___contentDigest: 'childMdx.internal.contentDigest',
-  childMdx___internal___description: 'childMdx.internal.description',
-  childMdx___internal___fieldOwners: 'childMdx.internal.fieldOwners',
-  childMdx___internal___ignoreType: 'childMdx.internal.ignoreType',
-  childMdx___internal___mediaType: 'childMdx.internal.mediaType',
-  childMdx___internal___owner: 'childMdx.internal.owner',
-  childMdx___internal___type: 'childMdx.internal.type',
+  childEnJson___See_More_Posts: 'childEnJson.See_More_Posts'
 });
 
-declare type TGatsbyTypes_FileFieldsEnum = $Values<
-  typeof TGatsbyTypes_FileFieldsEnumValues
->;
+
+declare type TGatsbyTypes_FileFieldsEnum = $Values<typeof TGatsbyTypes_FileFieldsEnumValues>;
 
 declare type TGatsbyTypes_FileFilterInput = {|
   sourceInstanceName?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -1693,8 +1537,8 @@ declare type TGatsbyTypes_FileFilterInput = {|
   children?: ?TGatsbyTypes_NodeFilterListInput,
   internal?: ?TGatsbyTypes_InternalFilterInput,
   childContentJson?: ?TGatsbyTypes_ContentJsonFilterInput,
-  childEnJson?: ?TGatsbyTypes_EnJsonFilterInput,
   childMdx?: ?TGatsbyTypes_MdxFilterInput,
+  childEnJson?: ?TGatsbyTypes_EnJsonFilterInput,
 |};
 
 declare type TGatsbyTypes_FileGroupConnection = {|
@@ -1728,12 +1572,11 @@ export const TGatsbyTypes_HeadingsMdxValues = Object.freeze({
   h3: 'h3',
   h4: 'h4',
   h5: 'h5',
-  h6: 'h6',
+  h6: 'h6'
 });
 
-declare type TGatsbyTypes_HeadingsMdx = $Values<
-  typeof TGatsbyTypes_HeadingsMdxValues
->;
+
+declare type TGatsbyTypes_HeadingsMdx = $Values<typeof TGatsbyTypes_HeadingsMdxValues>;
 
 export const TGatsbyTypes_ImageCropFocusValues = Object.freeze({
   CENTER: 'CENTER',
@@ -1746,56 +1589,51 @@ export const TGatsbyTypes_ImageCropFocusValues = Object.freeze({
   WEST: 4,
   NORTHWEST: 8,
   ENTROPY: 16,
-  ATTENTION: 17,
+  ATTENTION: 17
 });
 
-declare type TGatsbyTypes_ImageCropFocus = $Values<
-  typeof TGatsbyTypes_ImageCropFocusValues
->;
+
+declare type TGatsbyTypes_ImageCropFocus = $Values<typeof TGatsbyTypes_ImageCropFocusValues>;
 
 export const TGatsbyTypes_ImageFitValues = Object.freeze({
   COVER: 'cover',
   CONTAIN: 'contain',
   FILL: 'fill',
   INSIDE: 'inside',
-  OUTSIDE: 'outside',
+  OUTSIDE: 'outside'
 });
 
-declare type TGatsbyTypes_ImageFit = $Values<
-  typeof TGatsbyTypes_ImageFitValues
->;
+
+declare type TGatsbyTypes_ImageFit = $Values<typeof TGatsbyTypes_ImageFitValues>;
 
 export const TGatsbyTypes_ImageFormatValues = Object.freeze({
   NO_CHANGE: 'NO_CHANGE',
   JPG: 'jpg',
   PNG: 'png',
-  WEBP: 'webp',
+  WEBP: 'webp'
 });
 
-declare type TGatsbyTypes_ImageFormat = $Values<
-  typeof TGatsbyTypes_ImageFormatValues
->;
+
+declare type TGatsbyTypes_ImageFormat = $Values<typeof TGatsbyTypes_ImageFormatValues>;
 
 export const TGatsbyTypes_ImageLayoutValues = Object.freeze({
   FIXED: 'fixed',
   FLUID: 'fluid',
-  CONSTRAINED: 'constrained',
+  CONSTRAINED: 'constrained'
 });
 
-declare type TGatsbyTypes_ImageLayout = $Values<
-  typeof TGatsbyTypes_ImageLayoutValues
->;
+
+declare type TGatsbyTypes_ImageLayout = $Values<typeof TGatsbyTypes_ImageLayoutValues>;
 
 export const TGatsbyTypes_ImagePlaceholderValues = Object.freeze({
   DOMINANT_COLOR: 'dominantColor',
   TRACED_SVG: 'tracedSVG',
   BASE64: 'base64',
-  NONE: 'none',
+  NONE: 'none'
 });
 
-declare type TGatsbyTypes_ImagePlaceholder = $Values<
-  typeof TGatsbyTypes_ImagePlaceholderValues
->;
+
+declare type TGatsbyTypes_ImagePlaceholder = $Values<typeof TGatsbyTypes_ImagePlaceholderValues>;
 
 declare type TGatsbyTypes_ImageSharp = {|
   ...TGatsbyTypes_Node,
@@ -1811,8 +1649,9 @@ declare type TGatsbyTypes_ImageSharp = {|
     +parent?: ?TGatsbyTypes_Node,
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
-  |},
+  |}
 |};
+
 
 declare type TGatsbyTypes_ImageSharp_fixedArgs = {|
   width?: ?$ElementType<Scalars, 'Int'>,
@@ -1836,6 +1675,7 @@ declare type TGatsbyTypes_ImageSharp_fixedArgs = {|
   trim: $ElementType<Scalars, 'Float'>,
 |};
 
+
 declare type TGatsbyTypes_ImageSharp_resolutionsArgs = {|
   width?: ?$ElementType<Scalars, 'Int'>,
   height?: ?$ElementType<Scalars, 'Int'>,
@@ -1857,6 +1697,7 @@ declare type TGatsbyTypes_ImageSharp_resolutionsArgs = {|
   rotate: $ElementType<Scalars, 'Int'>,
   trim: $ElementType<Scalars, 'Float'>,
 |};
+
 
 declare type TGatsbyTypes_ImageSharp_fluidArgs = {|
   maxWidth?: ?$ElementType<Scalars, 'Int'>,
@@ -1882,6 +1723,7 @@ declare type TGatsbyTypes_ImageSharp_fluidArgs = {|
   srcSetBreakpoints: Array<?$ElementType<Scalars, 'Int'>>,
 |};
 
+
 declare type TGatsbyTypes_ImageSharp_sizesArgs = {|
   maxWidth?: ?$ElementType<Scalars, 'Int'>,
   maxHeight?: ?$ElementType<Scalars, 'Int'>,
@@ -1905,6 +1747,7 @@ declare type TGatsbyTypes_ImageSharp_sizesArgs = {|
   sizes: $ElementType<Scalars, 'String'>,
   srcSetBreakpoints: Array<?$ElementType<Scalars, 'Int'>>,
 |};
+
 
 declare type TGatsbyTypes_ImageSharp_gatsbyImageArgs = {|
   layout: TGatsbyTypes_ImageLayout,
@@ -1935,6 +1778,7 @@ declare type TGatsbyTypes_ImageSharp_gatsbyImageArgs = {|
   trim: $ElementType<Scalars, 'Float'>,
   srcSetBreakpoints: Array<?$ElementType<Scalars, 'Int'>>,
 |};
+
 
 declare type TGatsbyTypes_ImageSharp_resizeArgs = {|
   width?: ?$ElementType<Scalars, 'Int'>,
@@ -1967,9 +1811,11 @@ declare type TGatsbyTypes_ImageSharpConnection = {|
   +group: Array<TGatsbyTypes_ImageSharpGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_ImageSharpConnection_distinctArgs = {|
   field: TGatsbyTypes_ImageSharpFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_ImageSharpConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -2047,12 +1893,9 @@ export const TGatsbyTypes_ImageSharpFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -2065,16 +1908,11 @@ export const TGatsbyTypes_ImageSharpFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -2094,16 +1932,11 @@ export const TGatsbyTypes_ImageSharpFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -2112,20 +1945,13 @@ export const TGatsbyTypes_ImageSharpFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -2143,12 +1969,11 @@ export const TGatsbyTypes_ImageSharpFieldsEnumValues = Object.freeze({
   internal___ignoreType: 'internal.ignoreType',
   internal___mediaType: 'internal.mediaType',
   internal___owner: 'internal.owner',
-  internal___type: 'internal.type',
+  internal___type: 'internal.type'
 });
 
-declare type TGatsbyTypes_ImageSharpFieldsEnum = $Values<
-  typeof TGatsbyTypes_ImageSharpFieldsEnumValues
->;
+
+declare type TGatsbyTypes_ImageSharpFieldsEnum = $Values<typeof TGatsbyTypes_ImageSharpFieldsEnumValues>;
 
 declare type TGatsbyTypes_ImageSharpFilterInput = {|
   fixed?: ?TGatsbyTypes_ImageSharpFixedFilterInput,
@@ -2361,6 +2186,7 @@ declare type TGatsbyTypes_IntQueryOperatorInput = {|
   nin?: ?Array<?$ElementType<Scalars, 'Int'>>,
 |};
 
+
 declare type TGatsbyTypes_JSONQueryOperatorInput = {|
   eq?: ?$ElementType<Scalars, 'JSON'>,
   ne?: ?$ElementType<Scalars, 'JSON'>,
@@ -2389,17 +2215,20 @@ declare type TGatsbyTypes_Mdx = {|
     +parent?: ?TGatsbyTypes_Node,
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
-  |},
+  |}
 |};
+
 
 declare type TGatsbyTypes_Mdx_excerptArgs = {|
   pruneLength: $ElementType<Scalars, 'Int'>,
   truncate: $ElementType<Scalars, 'Boolean'>,
 |};
 
+
 declare type TGatsbyTypes_Mdx_headingsArgs = {|
   depth?: ?TGatsbyTypes_HeadingsMdx,
 |};
+
 
 declare type TGatsbyTypes_Mdx_tableOfContentsArgs = {|
   maxDepth?: ?$ElementType<Scalars, 'Int'>,
@@ -2414,9 +2243,11 @@ declare type TGatsbyTypes_MdxConnection = {|
   +group: Array<TGatsbyTypes_MdxGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_MdxConnection_distinctArgs = {|
   field: TGatsbyTypes_MdxFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_MdxConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -2441,9 +2272,9 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   frontmatter___hideScrollCTA: 'frontmatter.hideScrollCTA',
   frontmatter___order: 'frontmatter.order',
   frontmatter___hideLanguageSelector: 'frontmatter.hideLanguageSelector',
+  frontmatter___redirect_from: 'frontmatter.redirect_from',
   frontmatter___header: 'frontmatter.header',
   frontmatter___headerOrder: 'frontmatter.headerOrder',
-  frontmatter___redirect_from: 'frontmatter.redirect_from',
   frontmatter___authors: 'frontmatter.authors',
   frontmatter___date: 'frontmatter.date',
   frontmatter___image: 'frontmatter.image',
@@ -2469,12 +2300,9 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -2487,16 +2315,11 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -2516,16 +2339,11 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -2534,20 +2352,13 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -2565,12 +2376,11 @@ export const TGatsbyTypes_MdxFieldsEnumValues = Object.freeze({
   internal___ignoreType: 'internal.ignoreType',
   internal___mediaType: 'internal.mediaType',
   internal___owner: 'internal.owner',
-  internal___type: 'internal.type',
+  internal___type: 'internal.type'
 });
 
-declare type TGatsbyTypes_MdxFieldsEnum = $Values<
-  typeof TGatsbyTypes_MdxFieldsEnumValues
->;
+
+declare type TGatsbyTypes_MdxFieldsEnum = $Values<typeof TGatsbyTypes_MdxFieldsEnumValues>;
 
 declare type TGatsbyTypes_MdxFilterInput = {|
   rawBody?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2600,13 +2410,14 @@ declare type TGatsbyTypes_MdxFrontmatter = {|
   +hideScrollCTA?: ?$ElementType<Scalars, 'Boolean'>,
   +order?: ?$ElementType<Scalars, 'Int'>,
   +hideLanguageSelector?: ?$ElementType<Scalars, 'Boolean'>,
+  +redirect_from?: ?Array<?$ElementType<Scalars, 'String'>>,
   +header?: ?$ElementType<Scalars, 'Boolean'>,
   +headerOrder?: ?$ElementType<Scalars, 'Int'>,
-  +redirect_from?: ?Array<?$ElementType<Scalars, 'String'>>,
   +authors?: ?Array<?$ElementType<Scalars, 'String'>>,
   +date?: ?$ElementType<Scalars, 'Date'>,
   +image?: ?$ElementType<Scalars, 'String'>,
 |};
+
 
 declare type TGatsbyTypes_MdxFrontmatter_dateArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -2624,9 +2435,9 @@ declare type TGatsbyTypes_MdxFrontmatterFilterInput = {|
   hideScrollCTA?: ?TGatsbyTypes_BooleanQueryOperatorInput,
   order?: ?TGatsbyTypes_IntQueryOperatorInput,
   hideLanguageSelector?: ?TGatsbyTypes_BooleanQueryOperatorInput,
+  redirect_from?: ?TGatsbyTypes_StringQueryOperatorInput,
   header?: ?TGatsbyTypes_BooleanQueryOperatorInput,
   headerOrder?: ?TGatsbyTypes_IntQueryOperatorInput,
-  redirect_from?: ?TGatsbyTypes_StringQueryOperatorInput,
   authors?: ?TGatsbyTypes_StringQueryOperatorInput,
   date?: ?TGatsbyTypes_DateQueryOperatorInput,
   image?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2719,12 +2530,11 @@ export const TGatsbyTypes_PotraceTurnPolicyValues = Object.freeze({
   TURNPOLICY_LEFT: 'left',
   TURNPOLICY_RIGHT: 'right',
   TURNPOLICY_MINORITY: 'minority',
-  TURNPOLICY_MAJORITY: 'majority',
+  TURNPOLICY_MAJORITY: 'majority'
 });
 
-declare type TGatsbyTypes_PotraceTurnPolicy = $Values<
-  typeof TGatsbyTypes_PotraceTurnPolicyValues
->;
+
+declare type TGatsbyTypes_PotraceTurnPolicy = $Values<typeof TGatsbyTypes_PotraceTurnPolicyValues>;
 
 declare type TGatsbyTypes_Query = {|
   +file?: ?TGatsbyTypes_File,
@@ -2739,15 +2549,16 @@ declare type TGatsbyTypes_Query = {|
   +allImageSharp: TGatsbyTypes_ImageSharpConnection,
   +mdx?: ?TGatsbyTypes_Mdx,
   +allMdx: TGatsbyTypes_MdxConnection,
-  +enJson?: ?TGatsbyTypes_EnJson,
-  +allEnJson: TGatsbyTypes_EnJsonConnection,
   +contentJson?: ?TGatsbyTypes_ContentJson,
   +allContentJson: TGatsbyTypes_ContentJsonConnection,
+  +enJson?: ?TGatsbyTypes_EnJson,
+  +allEnJson: TGatsbyTypes_EnJsonConnection,
   +siteBuildMetadata?: ?TGatsbyTypes_SiteBuildMetadata,
   +allSiteBuildMetadata: TGatsbyTypes_SiteBuildMetadataConnection,
   +sitePlugin?: ?TGatsbyTypes_SitePlugin,
   +allSitePlugin: TGatsbyTypes_SitePluginConnection,
 |};
+
 
 declare type TGatsbyTypes_Query_fileArgs = {|
   sourceInstanceName?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2790,9 +2601,10 @@ declare type TGatsbyTypes_Query_fileArgs = {|
   children?: ?TGatsbyTypes_NodeFilterListInput,
   internal?: ?TGatsbyTypes_InternalFilterInput,
   childContentJson?: ?TGatsbyTypes_ContentJsonFilterInput,
-  childEnJson?: ?TGatsbyTypes_EnJsonFilterInput,
   childMdx?: ?TGatsbyTypes_MdxFilterInput,
+  childEnJson?: ?TGatsbyTypes_EnJsonFilterInput,
 |};
+
 
 declare type TGatsbyTypes_Query_allFileArgs = {|
   filter?: ?TGatsbyTypes_FileFilterInput,
@@ -2800,6 +2612,7 @@ declare type TGatsbyTypes_Query_allFileArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_directoryArgs = {|
   sourceInstanceName?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2841,12 +2654,14 @@ declare type TGatsbyTypes_Query_directoryArgs = {|
   internal?: ?TGatsbyTypes_InternalFilterInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allDirectoryArgs = {|
   filter?: ?TGatsbyTypes_DirectoryFilterInput,
   sort?: ?TGatsbyTypes_DirectorySortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_siteArgs = {|
   buildTime?: ?TGatsbyTypes_DateQueryOperatorInput,
@@ -2861,12 +2676,14 @@ declare type TGatsbyTypes_Query_siteArgs = {|
   internal?: ?TGatsbyTypes_InternalFilterInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allSiteArgs = {|
   filter?: ?TGatsbyTypes_SiteFilterInput,
   sort?: ?TGatsbyTypes_SiteSortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_sitePageArgs = {|
   path?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2885,12 +2702,14 @@ declare type TGatsbyTypes_Query_sitePageArgs = {|
   componentPath?: ?TGatsbyTypes_StringQueryOperatorInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allSitePageArgs = {|
   filter?: ?TGatsbyTypes_SitePageFilterInput,
   sort?: ?TGatsbyTypes_SitePageSortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_imageSharpArgs = {|
   fixed?: ?TGatsbyTypes_ImageSharpFixedFilterInput,
@@ -2906,12 +2725,14 @@ declare type TGatsbyTypes_Query_imageSharpArgs = {|
   internal?: ?TGatsbyTypes_InternalFilterInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allImageSharpArgs = {|
   filter?: ?TGatsbyTypes_ImageSharpFilterInput,
   sort?: ?TGatsbyTypes_ImageSharpSortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_mdxArgs = {|
   rawBody?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2932,12 +2753,40 @@ declare type TGatsbyTypes_Query_mdxArgs = {|
   internal?: ?TGatsbyTypes_InternalFilterInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allMdxArgs = {|
   filter?: ?TGatsbyTypes_MdxFilterInput,
   sort?: ?TGatsbyTypes_MdxSortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
+
+declare type TGatsbyTypes_Query_contentJsonArgs = {|
+  id?: ?TGatsbyTypes_StringQueryOperatorInput,
+  parent?: ?TGatsbyTypes_NodeFilterInput,
+  children?: ?TGatsbyTypes_NodeFilterListInput,
+  internal?: ?TGatsbyTypes_InternalFilterInput,
+  files?: ?TGatsbyTypes_StringQueryOperatorInput,
+  imageSize?: ?TGatsbyTypes_IntQueryOperatorInput,
+  commit?: ?TGatsbyTypes_BooleanQueryOperatorInput,
+  contributors?: ?TGatsbyTypes_ContentJsonContributorsFilterListInput,
+  contributorsPerLine?: ?TGatsbyTypes_IntQueryOperatorInput,
+  projectName?: ?TGatsbyTypes_StringQueryOperatorInput,
+  projectOwner?: ?TGatsbyTypes_StringQueryOperatorInput,
+  repoType?: ?TGatsbyTypes_StringQueryOperatorInput,
+  repoHost?: ?TGatsbyTypes_StringQueryOperatorInput,
+  skipCi?: ?TGatsbyTypes_BooleanQueryOperatorInput,
+|};
+
+
+declare type TGatsbyTypes_Query_allContentJsonArgs = {|
+  filter?: ?TGatsbyTypes_ContentJsonFilterInput,
+  sort?: ?TGatsbyTypes_ContentJsonSortInput,
+  skip?: ?$ElementType<Scalars, 'Int'>,
+  limit?: ?$ElementType<Scalars, 'Int'>,
+|};
+
 
 declare type TGatsbyTypes_Query_enJsonArgs = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -2986,6 +2835,7 @@ declare type TGatsbyTypes_Query_enJsonArgs = {|
   See_More_Posts?: ?TGatsbyTypes_StringQueryOperatorInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allEnJsonArgs = {|
   filter?: ?TGatsbyTypes_EnJsonFilterInput,
   sort?: ?TGatsbyTypes_EnJsonSortInput,
@@ -2993,29 +2843,6 @@ declare type TGatsbyTypes_Query_allEnJsonArgs = {|
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
 
-declare type TGatsbyTypes_Query_contentJsonArgs = {|
-  id?: ?TGatsbyTypes_StringQueryOperatorInput,
-  parent?: ?TGatsbyTypes_NodeFilterInput,
-  children?: ?TGatsbyTypes_NodeFilterListInput,
-  internal?: ?TGatsbyTypes_InternalFilterInput,
-  files?: ?TGatsbyTypes_StringQueryOperatorInput,
-  imageSize?: ?TGatsbyTypes_IntQueryOperatorInput,
-  commit?: ?TGatsbyTypes_BooleanQueryOperatorInput,
-  contributors?: ?TGatsbyTypes_ContentJsonContributorsFilterListInput,
-  contributorsPerLine?: ?TGatsbyTypes_IntQueryOperatorInput,
-  projectName?: ?TGatsbyTypes_StringQueryOperatorInput,
-  projectOwner?: ?TGatsbyTypes_StringQueryOperatorInput,
-  repoType?: ?TGatsbyTypes_StringQueryOperatorInput,
-  repoHost?: ?TGatsbyTypes_StringQueryOperatorInput,
-  skipCi?: ?TGatsbyTypes_BooleanQueryOperatorInput,
-|};
-
-declare type TGatsbyTypes_Query_allContentJsonArgs = {|
-  filter?: ?TGatsbyTypes_ContentJsonFilterInput,
-  sort?: ?TGatsbyTypes_ContentJsonSortInput,
-  skip?: ?$ElementType<Scalars, 'Int'>,
-  limit?: ?$ElementType<Scalars, 'Int'>,
-|};
 
 declare type TGatsbyTypes_Query_siteBuildMetadataArgs = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -3025,12 +2852,14 @@ declare type TGatsbyTypes_Query_siteBuildMetadataArgs = {|
   buildTime?: ?TGatsbyTypes_DateQueryOperatorInput,
 |};
 
+
 declare type TGatsbyTypes_Query_allSiteBuildMetadataArgs = {|
   filter?: ?TGatsbyTypes_SiteBuildMetadataFilterInput,
   sort?: ?TGatsbyTypes_SiteBuildMetadataSortInput,
   skip?: ?$ElementType<Scalars, 'Int'>,
   limit?: ?$ElementType<Scalars, 'Int'>,
 |};
+
 
 declare type TGatsbyTypes_Query_sitePluginArgs = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -3047,6 +2876,7 @@ declare type TGatsbyTypes_Query_sitePluginArgs = {|
   pluginFilepath?: ?TGatsbyTypes_StringQueryOperatorInput,
   packageJson?: ?TGatsbyTypes_SitePluginPackageJsonFilterInput,
 |};
+
 
 declare type TGatsbyTypes_Query_allSitePluginArgs = {|
   filter?: ?TGatsbyTypes_SitePluginFilterInput,
@@ -3068,8 +2898,9 @@ declare type TGatsbyTypes_Site = {|
     +parent?: ?TGatsbyTypes_Node,
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
-  |},
+  |}
 |};
+
 
 declare type TGatsbyTypes_Site_buildTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -3086,8 +2917,9 @@ declare type TGatsbyTypes_SiteBuildMetadata = {|
     +children: Array<TGatsbyTypes_Node>,
     +internal: TGatsbyTypes_Internal,
     +buildTime?: ?$ElementType<Scalars, 'Date'>,
-  |},
+  |}
 |};
+
 
 declare type TGatsbyTypes_SiteBuildMetadata_buildTimeArgs = {|
   formatString?: ?$ElementType<Scalars, 'String'>,
@@ -3105,9 +2937,11 @@ declare type TGatsbyTypes_SiteBuildMetadataConnection = {|
   +group: Array<TGatsbyTypes_SiteBuildMetadataGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_SiteBuildMetadataConnection_distinctArgs = {|
   field: TGatsbyTypes_SiteBuildMetadataFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_SiteBuildMetadataConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -3131,12 +2965,9 @@ export const TGatsbyTypes_SiteBuildMetadataFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -3149,16 +2980,11 @@ export const TGatsbyTypes_SiteBuildMetadataFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -3178,16 +3004,11 @@ export const TGatsbyTypes_SiteBuildMetadataFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -3196,20 +3017,13 @@ export const TGatsbyTypes_SiteBuildMetadataFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -3228,12 +3042,11 @@ export const TGatsbyTypes_SiteBuildMetadataFieldsEnumValues = Object.freeze({
   internal___mediaType: 'internal.mediaType',
   internal___owner: 'internal.owner',
   internal___type: 'internal.type',
-  buildTime: 'buildTime',
+  buildTime: 'buildTime'
 });
 
-declare type TGatsbyTypes_SiteBuildMetadataFieldsEnum = $Values<
-  typeof TGatsbyTypes_SiteBuildMetadataFieldsEnumValues
->;
+
+declare type TGatsbyTypes_SiteBuildMetadataFieldsEnum = $Values<typeof TGatsbyTypes_SiteBuildMetadataFieldsEnumValues>;
 
 declare type TGatsbyTypes_SiteBuildMetadataFilterInput = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -3266,9 +3079,11 @@ declare type TGatsbyTypes_SiteConnection = {|
   +group: Array<TGatsbyTypes_SiteGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_SiteConnection_distinctArgs = {|
   field: TGatsbyTypes_SiteFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_SiteConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -3302,12 +3117,9 @@ export const TGatsbyTypes_SiteFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -3320,16 +3132,11 @@ export const TGatsbyTypes_SiteFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -3349,16 +3156,11 @@ export const TGatsbyTypes_SiteFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -3367,20 +3169,13 @@ export const TGatsbyTypes_SiteFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -3398,12 +3193,11 @@ export const TGatsbyTypes_SiteFieldsEnumValues = Object.freeze({
   internal___ignoreType: 'internal.ignoreType',
   internal___mediaType: 'internal.mediaType',
   internal___owner: 'internal.owner',
-  internal___type: 'internal.type',
+  internal___type: 'internal.type'
 });
 
-declare type TGatsbyTypes_SiteFieldsEnum = $Values<
-  typeof TGatsbyTypes_SiteFieldsEnumValues
->;
+
+declare type TGatsbyTypes_SiteFieldsEnum = $Values<typeof TGatsbyTypes_SiteFieldsEnumValues>;
 
 declare type TGatsbyTypes_SiteFilterInput = {|
   buildTime?: ?TGatsbyTypes_DateQueryOperatorInput,
@@ -3444,7 +3238,7 @@ declare type TGatsbyTypes_SitePage = {|
     +pluginCreator?: ?TGatsbyTypes_SitePlugin,
     +pluginCreatorId?: ?$ElementType<Scalars, 'String'>,
     +componentPath?: ?$ElementType<Scalars, 'String'>,
-  |},
+  |}
 |};
 
 declare type TGatsbyTypes_SitePageConnection = {|
@@ -3456,9 +3250,11 @@ declare type TGatsbyTypes_SitePageConnection = {|
   +group: Array<TGatsbyTypes_SitePageGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_SitePageConnection_distinctArgs = {|
   field: TGatsbyTypes_SitePageFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_SitePageConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -3490,8 +3286,8 @@ declare type TGatsbyTypes_SitePageContextFrontmatter = {|
   +header?: ?$ElementType<Scalars, 'Boolean'>,
   +headerOrder?: ?$ElementType<Scalars, 'Int'>,
   +hideLanguageSelector?: ?$ElementType<Scalars, 'Boolean'>,
-  +redirect_from?: ?Array<?$ElementType<Scalars, 'String'>>,
   +order?: ?$ElementType<Scalars, 'Int'>,
+  +redirect_from?: ?Array<?$ElementType<Scalars, 'String'>>,
   +authors?: ?Array<?$ElementType<Scalars, 'String'>>,
   +date?: ?$ElementType<Scalars, 'Date'>,
   +image?: ?$ElementType<Scalars, 'String'>,
@@ -3507,8 +3303,8 @@ declare type TGatsbyTypes_SitePageContextFrontmatterFilterInput = {|
   header?: ?TGatsbyTypes_BooleanQueryOperatorInput,
   headerOrder?: ?TGatsbyTypes_IntQueryOperatorInput,
   hideLanguageSelector?: ?TGatsbyTypes_BooleanQueryOperatorInput,
-  redirect_from?: ?TGatsbyTypes_StringQueryOperatorInput,
   order?: ?TGatsbyTypes_IntQueryOperatorInput,
+  redirect_from?: ?TGatsbyTypes_StringQueryOperatorInput,
   authors?: ?TGatsbyTypes_StringQueryOperatorInput,
   date?: ?TGatsbyTypes_DateQueryOperatorInput,
   image?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -3535,12 +3331,9 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -3553,16 +3346,11 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -3582,16 +3370,11 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -3600,20 +3383,13 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -3639,15 +3415,13 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   context___frontmatter___description: 'context.frontmatter.description',
   context___frontmatter___keywords: 'context.frontmatter.keywords',
   context___frontmatter___featuredImage: 'context.frontmatter.featuredImage',
-  context___frontmatter___hideBreadcrumbs:
-    'context.frontmatter.hideBreadcrumbs',
+  context___frontmatter___hideBreadcrumbs: 'context.frontmatter.hideBreadcrumbs',
   context___frontmatter___hideScrollCTA: 'context.frontmatter.hideScrollCTA',
   context___frontmatter___header: 'context.frontmatter.header',
   context___frontmatter___headerOrder: 'context.frontmatter.headerOrder',
-  context___frontmatter___hideLanguageSelector:
-    'context.frontmatter.hideLanguageSelector',
-  context___frontmatter___redirect_from: 'context.frontmatter.redirect_from',
+  context___frontmatter___hideLanguageSelector: 'context.frontmatter.hideLanguageSelector',
   context___frontmatter___order: 'context.frontmatter.order',
+  context___frontmatter___redirect_from: 'context.frontmatter.redirect_from',
   context___frontmatter___authors: 'context.frontmatter.authors',
   context___frontmatter___date: 'context.frontmatter.date',
   context___frontmatter___image: 'context.frontmatter.image',
@@ -3655,57 +3429,35 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   pluginCreator___id: 'pluginCreator.id',
   pluginCreator___parent___id: 'pluginCreator.parent.id',
   pluginCreator___parent___parent___id: 'pluginCreator.parent.parent.id',
-  pluginCreator___parent___parent___children:
-    'pluginCreator.parent.parent.children',
+  pluginCreator___parent___parent___children: 'pluginCreator.parent.parent.children',
   pluginCreator___parent___children: 'pluginCreator.parent.children',
   pluginCreator___parent___children___id: 'pluginCreator.parent.children.id',
-  pluginCreator___parent___children___children:
-    'pluginCreator.parent.children.children',
-  pluginCreator___parent___internal___content:
-    'pluginCreator.parent.internal.content',
-  pluginCreator___parent___internal___contentDigest:
-    'pluginCreator.parent.internal.contentDigest',
-  pluginCreator___parent___internal___description:
-    'pluginCreator.parent.internal.description',
-  pluginCreator___parent___internal___fieldOwners:
-    'pluginCreator.parent.internal.fieldOwners',
-  pluginCreator___parent___internal___ignoreType:
-    'pluginCreator.parent.internal.ignoreType',
-  pluginCreator___parent___internal___mediaType:
-    'pluginCreator.parent.internal.mediaType',
-  pluginCreator___parent___internal___owner:
-    'pluginCreator.parent.internal.owner',
-  pluginCreator___parent___internal___type:
-    'pluginCreator.parent.internal.type',
+  pluginCreator___parent___children___children: 'pluginCreator.parent.children.children',
+  pluginCreator___parent___internal___content: 'pluginCreator.parent.internal.content',
+  pluginCreator___parent___internal___contentDigest: 'pluginCreator.parent.internal.contentDigest',
+  pluginCreator___parent___internal___description: 'pluginCreator.parent.internal.description',
+  pluginCreator___parent___internal___fieldOwners: 'pluginCreator.parent.internal.fieldOwners',
+  pluginCreator___parent___internal___ignoreType: 'pluginCreator.parent.internal.ignoreType',
+  pluginCreator___parent___internal___mediaType: 'pluginCreator.parent.internal.mediaType',
+  pluginCreator___parent___internal___owner: 'pluginCreator.parent.internal.owner',
+  pluginCreator___parent___internal___type: 'pluginCreator.parent.internal.type',
   pluginCreator___children: 'pluginCreator.children',
   pluginCreator___children___id: 'pluginCreator.children.id',
   pluginCreator___children___parent___id: 'pluginCreator.children.parent.id',
-  pluginCreator___children___parent___children:
-    'pluginCreator.children.parent.children',
+  pluginCreator___children___parent___children: 'pluginCreator.children.parent.children',
   pluginCreator___children___children: 'pluginCreator.children.children',
-  pluginCreator___children___children___id:
-    'pluginCreator.children.children.id',
-  pluginCreator___children___children___children:
-    'pluginCreator.children.children.children',
-  pluginCreator___children___internal___content:
-    'pluginCreator.children.internal.content',
-  pluginCreator___children___internal___contentDigest:
-    'pluginCreator.children.internal.contentDigest',
-  pluginCreator___children___internal___description:
-    'pluginCreator.children.internal.description',
-  pluginCreator___children___internal___fieldOwners:
-    'pluginCreator.children.internal.fieldOwners',
-  pluginCreator___children___internal___ignoreType:
-    'pluginCreator.children.internal.ignoreType',
-  pluginCreator___children___internal___mediaType:
-    'pluginCreator.children.internal.mediaType',
-  pluginCreator___children___internal___owner:
-    'pluginCreator.children.internal.owner',
-  pluginCreator___children___internal___type:
-    'pluginCreator.children.internal.type',
+  pluginCreator___children___children___id: 'pluginCreator.children.children.id',
+  pluginCreator___children___children___children: 'pluginCreator.children.children.children',
+  pluginCreator___children___internal___content: 'pluginCreator.children.internal.content',
+  pluginCreator___children___internal___contentDigest: 'pluginCreator.children.internal.contentDigest',
+  pluginCreator___children___internal___description: 'pluginCreator.children.internal.description',
+  pluginCreator___children___internal___fieldOwners: 'pluginCreator.children.internal.fieldOwners',
+  pluginCreator___children___internal___ignoreType: 'pluginCreator.children.internal.ignoreType',
+  pluginCreator___children___internal___mediaType: 'pluginCreator.children.internal.mediaType',
+  pluginCreator___children___internal___owner: 'pluginCreator.children.internal.owner',
+  pluginCreator___children___internal___type: 'pluginCreator.children.internal.type',
   pluginCreator___internal___content: 'pluginCreator.internal.content',
-  pluginCreator___internal___contentDigest:
-    'pluginCreator.internal.contentDigest',
+  pluginCreator___internal___contentDigest: 'pluginCreator.internal.contentDigest',
   pluginCreator___internal___description: 'pluginCreator.internal.description',
   pluginCreator___internal___fieldOwners: 'pluginCreator.internal.fieldOwners',
   pluginCreator___internal___ignoreType: 'pluginCreator.internal.ignoreType',
@@ -3715,170 +3467,100 @@ export const TGatsbyTypes_SitePageFieldsEnumValues = Object.freeze({
   pluginCreator___resolve: 'pluginCreator.resolve',
   pluginCreator___name: 'pluginCreator.name',
   pluginCreator___version: 'pluginCreator.version',
-  pluginCreator___pluginOptions___language:
-    'pluginCreator.pluginOptions.language',
-  pluginCreator___pluginOptions___outputPath:
-    'pluginCreator.pluginOptions.outputPath',
-  pluginCreator___pluginOptions___namespace:
-    'pluginCreator.pluginOptions.namespace',
-  pluginCreator___pluginOptions___alias____atoms:
-    'pluginCreator.pluginOptions.alias._atoms',
-  pluginCreator___pluginOptions___alias____molecules:
-    'pluginCreator.pluginOptions.alias._molecules',
-  pluginCreator___pluginOptions___alias____templates:
-    'pluginCreator.pluginOptions.alias._templates',
-  pluginCreator___pluginOptions___alias____layouts:
-    'pluginCreator.pluginOptions.alias._layouts',
-  pluginCreator___pluginOptions___alias____styles:
-    'pluginCreator.pluginOptions.alias._styles',
-  pluginCreator___pluginOptions___alias____modules:
-    'pluginCreator.pluginOptions.alias._modules',
-  pluginCreator___pluginOptions___alias____data:
-    'pluginCreator.pluginOptions.alias._data',
-  pluginCreator___pluginOptions___alias____src:
-    'pluginCreator.pluginOptions.alias._src',
-  pluginCreator___pluginOptions___alias____utils:
-    'pluginCreator.pluginOptions.alias._utils',
-  pluginCreator___pluginOptions___alias____pages:
-    'pluginCreator.pluginOptions.alias._pages',
-  pluginCreator___pluginOptions___alias____images:
-    'pluginCreator.pluginOptions.alias._images',
-  pluginCreator___pluginOptions___alias____content:
-    'pluginCreator.pluginOptions.alias._content',
-  pluginCreator___pluginOptions___extensions:
-    'pluginCreator.pluginOptions.extensions',
+  pluginCreator___pluginOptions___language: 'pluginCreator.pluginOptions.language',
+  pluginCreator___pluginOptions___outputPath: 'pluginCreator.pluginOptions.outputPath',
+  pluginCreator___pluginOptions___namespace: 'pluginCreator.pluginOptions.namespace',
+  pluginCreator___pluginOptions___alias____atoms: 'pluginCreator.pluginOptions.alias._atoms',
+  pluginCreator___pluginOptions___alias____molecules: 'pluginCreator.pluginOptions.alias._molecules',
+  pluginCreator___pluginOptions___alias____templates: 'pluginCreator.pluginOptions.alias._templates',
+  pluginCreator___pluginOptions___alias____layouts: 'pluginCreator.pluginOptions.alias._layouts',
+  pluginCreator___pluginOptions___alias____styles: 'pluginCreator.pluginOptions.alias._styles',
+  pluginCreator___pluginOptions___alias____modules: 'pluginCreator.pluginOptions.alias._modules',
+  pluginCreator___pluginOptions___alias____data: 'pluginCreator.pluginOptions.alias._data',
+  pluginCreator___pluginOptions___alias____src: 'pluginCreator.pluginOptions.alias._src',
+  pluginCreator___pluginOptions___alias____utils: 'pluginCreator.pluginOptions.alias._utils',
+  pluginCreator___pluginOptions___alias____pages: 'pluginCreator.pluginOptions.alias._pages',
+  pluginCreator___pluginOptions___alias____images: 'pluginCreator.pluginOptions.alias._images',
+  pluginCreator___pluginOptions___alias____content: 'pluginCreator.pluginOptions.alias._content',
+  pluginCreator___pluginOptions___extensions: 'pluginCreator.pluginOptions.extensions',
   pluginCreator___pluginOptions___name: 'pluginCreator.pluginOptions.name',
   pluginCreator___pluginOptions___path: 'pluginCreator.pluginOptions.path',
-  pluginCreator___pluginOptions___ignore___patterns:
-    'pluginCreator.pluginOptions.ignore.patterns',
+  pluginCreator___pluginOptions___ignore___patterns: 'pluginCreator.pluginOptions.ignore.patterns',
   pluginCreator___pluginOptions___query: 'pluginCreator.pluginOptions.query',
   pluginCreator___pluginOptions___output: 'pluginCreator.pluginOptions.output',
-  pluginCreator___pluginOptions___createLinkInHead:
-    'pluginCreator.pluginOptions.createLinkInHead',
-  pluginCreator___pluginOptions___base64Width:
-    'pluginCreator.pluginOptions.base64Width',
-  pluginCreator___pluginOptions___stripMetadata:
-    'pluginCreator.pluginOptions.stripMetadata',
-  pluginCreator___pluginOptions___defaultQuality:
-    'pluginCreator.pluginOptions.defaultQuality',
-  pluginCreator___pluginOptions___failOnError:
-    'pluginCreator.pluginOptions.failOnError',
-  pluginCreator___pluginOptions___maxWidth:
-    'pluginCreator.pluginOptions.maxWidth',
-  pluginCreator___pluginOptions___linkImagesToOriginal:
-    'pluginCreator.pluginOptions.linkImagesToOriginal',
-  pluginCreator___pluginOptions___showCaptions:
-    'pluginCreator.pluginOptions.showCaptions',
-  pluginCreator___pluginOptions___markdownCaptions:
-    'pluginCreator.pluginOptions.markdownCaptions',
-  pluginCreator___pluginOptions___sizeByPixelDensity:
-    'pluginCreator.pluginOptions.sizeByPixelDensity',
-  pluginCreator___pluginOptions___backgroundColor:
-    'pluginCreator.pluginOptions.backgroundColor',
-  pluginCreator___pluginOptions___quality:
-    'pluginCreator.pluginOptions.quality',
-  pluginCreator___pluginOptions___withWebp:
-    'pluginCreator.pluginOptions.withWebp',
-  pluginCreator___pluginOptions___tracedSVG:
-    'pluginCreator.pluginOptions.tracedSVG',
-  pluginCreator___pluginOptions___loading:
-    'pluginCreator.pluginOptions.loading',
-  pluginCreator___pluginOptions___disableBgImageOnAlpha:
-    'pluginCreator.pluginOptions.disableBgImageOnAlpha',
-  pluginCreator___pluginOptions___disableBgImage:
-    'pluginCreator.pluginOptions.disableBgImage',
-  pluginCreator___pluginOptions___defaultLayouts___default:
-    'pluginCreator.pluginOptions.defaultLayouts.default',
-  pluginCreator___pluginOptions___defaultLayouts___blogPosts:
-    'pluginCreator.pluginOptions.defaultLayouts.blogPosts',
-  pluginCreator___pluginOptions___mediaTypes:
-    'pluginCreator.pluginOptions.mediaTypes',
-  pluginCreator___pluginOptions___languages:
-    'pluginCreator.pluginOptions.languages',
-  pluginCreator___pluginOptions___languages___name:
-    'pluginCreator.pluginOptions.languages.name',
+  pluginCreator___pluginOptions___createLinkInHead: 'pluginCreator.pluginOptions.createLinkInHead',
+  pluginCreator___pluginOptions___base64Width: 'pluginCreator.pluginOptions.base64Width',
+  pluginCreator___pluginOptions___stripMetadata: 'pluginCreator.pluginOptions.stripMetadata',
+  pluginCreator___pluginOptions___defaultQuality: 'pluginCreator.pluginOptions.defaultQuality',
+  pluginCreator___pluginOptions___failOnError: 'pluginCreator.pluginOptions.failOnError',
+  pluginCreator___pluginOptions___maxWidth: 'pluginCreator.pluginOptions.maxWidth',
+  pluginCreator___pluginOptions___linkImagesToOriginal: 'pluginCreator.pluginOptions.linkImagesToOriginal',
+  pluginCreator___pluginOptions___showCaptions: 'pluginCreator.pluginOptions.showCaptions',
+  pluginCreator___pluginOptions___markdownCaptions: 'pluginCreator.pluginOptions.markdownCaptions',
+  pluginCreator___pluginOptions___sizeByPixelDensity: 'pluginCreator.pluginOptions.sizeByPixelDensity',
+  pluginCreator___pluginOptions___backgroundColor: 'pluginCreator.pluginOptions.backgroundColor',
+  pluginCreator___pluginOptions___quality: 'pluginCreator.pluginOptions.quality',
+  pluginCreator___pluginOptions___withWebp: 'pluginCreator.pluginOptions.withWebp',
+  pluginCreator___pluginOptions___tracedSVG: 'pluginCreator.pluginOptions.tracedSVG',
+  pluginCreator___pluginOptions___loading: 'pluginCreator.pluginOptions.loading',
+  pluginCreator___pluginOptions___disableBgImageOnAlpha: 'pluginCreator.pluginOptions.disableBgImageOnAlpha',
+  pluginCreator___pluginOptions___disableBgImage: 'pluginCreator.pluginOptions.disableBgImage',
+  pluginCreator___pluginOptions___defaultLayouts___default: 'pluginCreator.pluginOptions.defaultLayouts.default',
+  pluginCreator___pluginOptions___defaultLayouts___blogPosts: 'pluginCreator.pluginOptions.defaultLayouts.blogPosts',
+  pluginCreator___pluginOptions___mediaTypes: 'pluginCreator.pluginOptions.mediaTypes',
+  pluginCreator___pluginOptions___languages: 'pluginCreator.pluginOptions.languages',
+  pluginCreator___pluginOptions___languages___name: 'pluginCreator.pluginOptions.languages.name',
   pluginCreator___pluginOptions___fields: 'pluginCreator.pluginOptions.fields',
-  pluginCreator___pluginOptions___fields___name:
-    'pluginCreator.pluginOptions.fields.name',
-  pluginCreator___pluginOptions___fields___store:
-    'pluginCreator.pluginOptions.fields.store',
-  pluginCreator___pluginOptions___filename:
-    'pluginCreator.pluginOptions.filename',
-  pluginCreator___pluginOptions___fetchOptions___credentials:
-    'pluginCreator.pluginOptions.fetchOptions.credentials',
+  pluginCreator___pluginOptions___fields___name: 'pluginCreator.pluginOptions.fields.name',
+  pluginCreator___pluginOptions___fields___store: 'pluginCreator.pluginOptions.fields.store',
+  pluginCreator___pluginOptions___filename: 'pluginCreator.pluginOptions.filename',
+  pluginCreator___pluginOptions___fetchOptions___credentials: 'pluginCreator.pluginOptions.fetchOptions.credentials',
   pluginCreator___pluginOptions___head: 'pluginCreator.pluginOptions.head',
-  pluginCreator___pluginOptions___anonymize:
-    'pluginCreator.pluginOptions.anonymize',
-  pluginCreator___pluginOptions___respectDNT:
-    'pluginCreator.pluginOptions.respectDNT',
-  pluginCreator___pluginOptions___exclude:
-    'pluginCreator.pluginOptions.exclude',
-  pluginCreator___pluginOptions___pageTransitionDelay:
-    'pluginCreator.pluginOptions.pageTransitionDelay',
+  pluginCreator___pluginOptions___anonymize: 'pluginCreator.pluginOptions.anonymize',
+  pluginCreator___pluginOptions___respectDNT: 'pluginCreator.pluginOptions.respectDNT',
+  pluginCreator___pluginOptions___exclude: 'pluginCreator.pluginOptions.exclude',
+  pluginCreator___pluginOptions___pageTransitionDelay: 'pluginCreator.pluginOptions.pageTransitionDelay',
   pluginCreator___pluginOptions___defer: 'pluginCreator.pluginOptions.defer',
-  pluginCreator___pluginOptions___short_name:
-    'pluginCreator.pluginOptions.short_name',
-  pluginCreator___pluginOptions___start_url:
-    'pluginCreator.pluginOptions.start_url',
-  pluginCreator___pluginOptions___background_color:
-    'pluginCreator.pluginOptions.background_color',
-  pluginCreator___pluginOptions___theme_color:
-    'pluginCreator.pluginOptions.theme_color',
-  pluginCreator___pluginOptions___display:
-    'pluginCreator.pluginOptions.display',
-  pluginCreator___pluginOptions___include_favicon:
-    'pluginCreator.pluginOptions.include_favicon',
+  pluginCreator___pluginOptions___short_name: 'pluginCreator.pluginOptions.short_name',
+  pluginCreator___pluginOptions___start_url: 'pluginCreator.pluginOptions.start_url',
+  pluginCreator___pluginOptions___background_color: 'pluginCreator.pluginOptions.background_color',
+  pluginCreator___pluginOptions___theme_color: 'pluginCreator.pluginOptions.theme_color',
+  pluginCreator___pluginOptions___display: 'pluginCreator.pluginOptions.display',
+  pluginCreator___pluginOptions___include_favicon: 'pluginCreator.pluginOptions.include_favicon',
   pluginCreator___pluginOptions___icon: 'pluginCreator.pluginOptions.icon',
-  pluginCreator___pluginOptions___cache_busting_mode:
-    'pluginCreator.pluginOptions.cache_busting_mode',
-  pluginCreator___pluginOptions___theme_color_in_head:
-    'pluginCreator.pluginOptions.theme_color_in_head',
+  pluginCreator___pluginOptions___cache_busting_mode: 'pluginCreator.pluginOptions.cache_busting_mode',
+  pluginCreator___pluginOptions___theme_color_in_head: 'pluginCreator.pluginOptions.theme_color_in_head',
   pluginCreator___pluginOptions___legacy: 'pluginCreator.pluginOptions.legacy',
-  pluginCreator___pluginOptions___workboxConfig___globPatterns:
-    'pluginCreator.pluginOptions.workboxConfig.globPatterns',
-  pluginCreator___pluginOptions___pathCheck:
-    'pluginCreator.pluginOptions.pathCheck',
-  pluginCreator___pluginOptions___allExtensions:
-    'pluginCreator.pluginOptions.allExtensions',
+  pluginCreator___pluginOptions___workboxConfig___globPatterns: 'pluginCreator.pluginOptions.workboxConfig.globPatterns',
+  pluginCreator___pluginOptions___pathCheck: 'pluginCreator.pluginOptions.pathCheck',
+  pluginCreator___pluginOptions___allExtensions: 'pluginCreator.pluginOptions.allExtensions',
   pluginCreator___pluginOptions___isTSX: 'pluginCreator.pluginOptions.isTSX',
-  pluginCreator___pluginOptions___jsxPragma:
-    'pluginCreator.pluginOptions.jsxPragma',
+  pluginCreator___pluginOptions___jsxPragma: 'pluginCreator.pluginOptions.jsxPragma',
   pluginCreator___nodeAPIs: 'pluginCreator.nodeAPIs',
   pluginCreator___browserAPIs: 'pluginCreator.browserAPIs',
   pluginCreator___ssrAPIs: 'pluginCreator.ssrAPIs',
   pluginCreator___pluginFilepath: 'pluginCreator.pluginFilepath',
   pluginCreator___packageJson___name: 'pluginCreator.packageJson.name',
-  pluginCreator___packageJson___description:
-    'pluginCreator.packageJson.description',
+  pluginCreator___packageJson___description: 'pluginCreator.packageJson.description',
   pluginCreator___packageJson___version: 'pluginCreator.packageJson.version',
   pluginCreator___packageJson___main: 'pluginCreator.packageJson.main',
   pluginCreator___packageJson___license: 'pluginCreator.packageJson.license',
-  pluginCreator___packageJson___dependencies:
-    'pluginCreator.packageJson.dependencies',
-  pluginCreator___packageJson___dependencies___name:
-    'pluginCreator.packageJson.dependencies.name',
-  pluginCreator___packageJson___dependencies___version:
-    'pluginCreator.packageJson.dependencies.version',
-  pluginCreator___packageJson___devDependencies:
-    'pluginCreator.packageJson.devDependencies',
-  pluginCreator___packageJson___devDependencies___name:
-    'pluginCreator.packageJson.devDependencies.name',
-  pluginCreator___packageJson___devDependencies___version:
-    'pluginCreator.packageJson.devDependencies.version',
-  pluginCreator___packageJson___peerDependencies:
-    'pluginCreator.packageJson.peerDependencies',
-  pluginCreator___packageJson___peerDependencies___name:
-    'pluginCreator.packageJson.peerDependencies.name',
-  pluginCreator___packageJson___peerDependencies___version:
-    'pluginCreator.packageJson.peerDependencies.version',
+  pluginCreator___packageJson___dependencies: 'pluginCreator.packageJson.dependencies',
+  pluginCreator___packageJson___dependencies___name: 'pluginCreator.packageJson.dependencies.name',
+  pluginCreator___packageJson___dependencies___version: 'pluginCreator.packageJson.dependencies.version',
+  pluginCreator___packageJson___devDependencies: 'pluginCreator.packageJson.devDependencies',
+  pluginCreator___packageJson___devDependencies___name: 'pluginCreator.packageJson.devDependencies.name',
+  pluginCreator___packageJson___devDependencies___version: 'pluginCreator.packageJson.devDependencies.version',
+  pluginCreator___packageJson___peerDependencies: 'pluginCreator.packageJson.peerDependencies',
+  pluginCreator___packageJson___peerDependencies___name: 'pluginCreator.packageJson.peerDependencies.name',
+  pluginCreator___packageJson___peerDependencies___version: 'pluginCreator.packageJson.peerDependencies.version',
   pluginCreator___packageJson___keywords: 'pluginCreator.packageJson.keywords',
   pluginCreatorId: 'pluginCreatorId',
-  componentPath: 'componentPath',
+  componentPath: 'componentPath'
 });
 
-declare type TGatsbyTypes_SitePageFieldsEnum = $Values<
-  typeof TGatsbyTypes_SitePageFieldsEnumValues
->;
+
+declare type TGatsbyTypes_SitePageFieldsEnum = $Values<typeof TGatsbyTypes_SitePageFieldsEnumValues>;
 
 declare type TGatsbyTypes_SitePageFilterInput = {|
   path?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -3927,7 +3609,7 @@ declare type TGatsbyTypes_SitePlugin = {|
     +ssrAPIs?: ?Array<?$ElementType<Scalars, 'String'>>,
     +pluginFilepath?: ?$ElementType<Scalars, 'String'>,
     +packageJson?: ?TGatsbyTypes_SitePluginPackageJson,
-  |},
+  |}
 |};
 
 declare type TGatsbyTypes_SitePluginConnection = {|
@@ -3939,9 +3621,11 @@ declare type TGatsbyTypes_SitePluginConnection = {|
   +group: Array<TGatsbyTypes_SitePluginGroupConnection>,
 |};
 
+
 declare type TGatsbyTypes_SitePluginConnection_distinctArgs = {|
   field: TGatsbyTypes_SitePluginFieldsEnum,
 |};
+
 
 declare type TGatsbyTypes_SitePluginConnection_groupArgs = {|
   skip?: ?$ElementType<Scalars, 'Int'>,
@@ -3965,12 +3649,9 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   parent___parent___children___id: 'parent.parent.children.id',
   parent___parent___children___children: 'parent.parent.children.children',
   parent___parent___internal___content: 'parent.parent.internal.content',
-  parent___parent___internal___contentDigest:
-    'parent.parent.internal.contentDigest',
-  parent___parent___internal___description:
-    'parent.parent.internal.description',
-  parent___parent___internal___fieldOwners:
-    'parent.parent.internal.fieldOwners',
+  parent___parent___internal___contentDigest: 'parent.parent.internal.contentDigest',
+  parent___parent___internal___description: 'parent.parent.internal.description',
+  parent___parent___internal___fieldOwners: 'parent.parent.internal.fieldOwners',
   parent___parent___internal___ignoreType: 'parent.parent.internal.ignoreType',
   parent___parent___internal___mediaType: 'parent.parent.internal.mediaType',
   parent___parent___internal___owner: 'parent.parent.internal.owner',
@@ -3983,16 +3664,11 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   parent___children___children___id: 'parent.children.children.id',
   parent___children___children___children: 'parent.children.children.children',
   parent___children___internal___content: 'parent.children.internal.content',
-  parent___children___internal___contentDigest:
-    'parent.children.internal.contentDigest',
-  parent___children___internal___description:
-    'parent.children.internal.description',
-  parent___children___internal___fieldOwners:
-    'parent.children.internal.fieldOwners',
-  parent___children___internal___ignoreType:
-    'parent.children.internal.ignoreType',
-  parent___children___internal___mediaType:
-    'parent.children.internal.mediaType',
+  parent___children___internal___contentDigest: 'parent.children.internal.contentDigest',
+  parent___children___internal___description: 'parent.children.internal.description',
+  parent___children___internal___fieldOwners: 'parent.children.internal.fieldOwners',
+  parent___children___internal___ignoreType: 'parent.children.internal.ignoreType',
+  parent___children___internal___mediaType: 'parent.children.internal.mediaType',
   parent___children___internal___owner: 'parent.children.internal.owner',
   parent___children___internal___type: 'parent.children.internal.type',
   parent___internal___content: 'parent.internal.content',
@@ -4012,16 +3688,11 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   children___parent___children___id: 'children.parent.children.id',
   children___parent___children___children: 'children.parent.children.children',
   children___parent___internal___content: 'children.parent.internal.content',
-  children___parent___internal___contentDigest:
-    'children.parent.internal.contentDigest',
-  children___parent___internal___description:
-    'children.parent.internal.description',
-  children___parent___internal___fieldOwners:
-    'children.parent.internal.fieldOwners',
-  children___parent___internal___ignoreType:
-    'children.parent.internal.ignoreType',
-  children___parent___internal___mediaType:
-    'children.parent.internal.mediaType',
+  children___parent___internal___contentDigest: 'children.parent.internal.contentDigest',
+  children___parent___internal___description: 'children.parent.internal.description',
+  children___parent___internal___fieldOwners: 'children.parent.internal.fieldOwners',
+  children___parent___internal___ignoreType: 'children.parent.internal.ignoreType',
+  children___parent___internal___mediaType: 'children.parent.internal.mediaType',
   children___parent___internal___owner: 'children.parent.internal.owner',
   children___parent___internal___type: 'children.parent.internal.type',
   children___children: 'children.children',
@@ -4030,20 +3701,13 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   children___children___parent___children: 'children.children.parent.children',
   children___children___children: 'children.children.children',
   children___children___children___id: 'children.children.children.id',
-  children___children___children___children:
-    'children.children.children.children',
-  children___children___internal___content:
-    'children.children.internal.content',
-  children___children___internal___contentDigest:
-    'children.children.internal.contentDigest',
-  children___children___internal___description:
-    'children.children.internal.description',
-  children___children___internal___fieldOwners:
-    'children.children.internal.fieldOwners',
-  children___children___internal___ignoreType:
-    'children.children.internal.ignoreType',
-  children___children___internal___mediaType:
-    'children.children.internal.mediaType',
+  children___children___children___children: 'children.children.children.children',
+  children___children___internal___content: 'children.children.internal.content',
+  children___children___internal___contentDigest: 'children.children.internal.contentDigest',
+  children___children___internal___description: 'children.children.internal.description',
+  children___children___internal___fieldOwners: 'children.children.internal.fieldOwners',
+  children___children___internal___ignoreType: 'children.children.internal.ignoreType',
+  children___children___internal___mediaType: 'children.children.internal.mediaType',
   children___children___internal___owner: 'children.children.internal.owner',
   children___children___internal___type: 'children.children.internal.type',
   children___internal___content: 'children.internal.content',
@@ -4084,8 +3748,7 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   pluginOptions___name: 'pluginOptions.name',
   pluginOptions___path: 'pluginOptions.path',
   pluginOptions___ignore___patterns: 'pluginOptions.ignore.patterns',
-  pluginOptions___ignore___options___nocase:
-    'pluginOptions.ignore.options.nocase',
+  pluginOptions___ignore___options___nocase: 'pluginOptions.ignore.options.nocase',
   pluginOptions___query: 'pluginOptions.query',
   pluginOptions___output: 'pluginOptions.output',
   pluginOptions___createLinkInHead: 'pluginOptions.createLinkInHead',
@@ -4105,21 +3768,17 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   pluginOptions___loading: 'pluginOptions.loading',
   pluginOptions___disableBgImageOnAlpha: 'pluginOptions.disableBgImageOnAlpha',
   pluginOptions___disableBgImage: 'pluginOptions.disableBgImage',
-  pluginOptions___defaultLayouts___default:
-    'pluginOptions.defaultLayouts.default',
-  pluginOptions___defaultLayouts___blogPosts:
-    'pluginOptions.defaultLayouts.blogPosts',
+  pluginOptions___defaultLayouts___default: 'pluginOptions.defaultLayouts.default',
+  pluginOptions___defaultLayouts___blogPosts: 'pluginOptions.defaultLayouts.blogPosts',
   pluginOptions___mediaTypes: 'pluginOptions.mediaTypes',
   pluginOptions___languages: 'pluginOptions.languages',
   pluginOptions___languages___name: 'pluginOptions.languages.name',
   pluginOptions___fields: 'pluginOptions.fields',
   pluginOptions___fields___name: 'pluginOptions.fields.name',
   pluginOptions___fields___store: 'pluginOptions.fields.store',
-  pluginOptions___fields___attributes___boost:
-    'pluginOptions.fields.attributes.boost',
+  pluginOptions___fields___attributes___boost: 'pluginOptions.fields.attributes.boost',
   pluginOptions___filename: 'pluginOptions.filename',
-  pluginOptions___fetchOptions___credentials:
-    'pluginOptions.fetchOptions.credentials',
+  pluginOptions___fetchOptions___credentials: 'pluginOptions.fetchOptions.credentials',
   pluginOptions___head: 'pluginOptions.head',
   pluginOptions___anonymize: 'pluginOptions.anonymize',
   pluginOptions___respectDNT: 'pluginOptions.respectDNT',
@@ -4136,8 +3795,7 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   pluginOptions___cache_busting_mode: 'pluginOptions.cache_busting_mode',
   pluginOptions___theme_color_in_head: 'pluginOptions.theme_color_in_head',
   pluginOptions___legacy: 'pluginOptions.legacy',
-  pluginOptions___workboxConfig___globPatterns:
-    'pluginOptions.workboxConfig.globPatterns',
+  pluginOptions___workboxConfig___globPatterns: 'pluginOptions.workboxConfig.globPatterns',
   pluginOptions___pathCheck: 'pluginOptions.pathCheck',
   pluginOptions___allExtensions: 'pluginOptions.allExtensions',
   pluginOptions___isTSX: 'pluginOptions.isTSX',
@@ -4156,18 +3814,15 @@ export const TGatsbyTypes_SitePluginFieldsEnumValues = Object.freeze({
   packageJson___dependencies___version: 'packageJson.dependencies.version',
   packageJson___devDependencies: 'packageJson.devDependencies',
   packageJson___devDependencies___name: 'packageJson.devDependencies.name',
-  packageJson___devDependencies___version:
-    'packageJson.devDependencies.version',
+  packageJson___devDependencies___version: 'packageJson.devDependencies.version',
   packageJson___peerDependencies: 'packageJson.peerDependencies',
   packageJson___peerDependencies___name: 'packageJson.peerDependencies.name',
-  packageJson___peerDependencies___version:
-    'packageJson.peerDependencies.version',
-  packageJson___keywords: 'packageJson.keywords',
+  packageJson___peerDependencies___version: 'packageJson.peerDependencies.version',
+  packageJson___keywords: 'packageJson.keywords'
 });
 
-declare type TGatsbyTypes_SitePluginFieldsEnum = $Values<
-  typeof TGatsbyTypes_SitePluginFieldsEnumValues
->;
+
+declare type TGatsbyTypes_SitePluginFieldsEnum = $Values<typeof TGatsbyTypes_SitePluginFieldsEnumValues>;
 
 declare type TGatsbyTypes_SitePluginFilterInput = {|
   id?: ?TGatsbyTypes_StringQueryOperatorInput,
@@ -4512,12 +4167,11 @@ declare type TGatsbyTypes_SiteSortInput = {|
 
 export const TGatsbyTypes_SortOrderEnumValues = Object.freeze({
   ASC: 'ASC',
-  DESC: 'DESC',
+  DESC: 'DESC'
 });
 
-declare type TGatsbyTypes_SortOrderEnum = $Values<
-  typeof TGatsbyTypes_SortOrderEnumValues
->;
+
+declare type TGatsbyTypes_SortOrderEnum = $Values<typeof TGatsbyTypes_SortOrderEnumValues>;
 
 declare type TGatsbyTypes_StringQueryOperatorInput = {|
   eq?: ?$ElementType<Scalars, 'String'>,
@@ -4528,402 +4182,118 @@ declare type TGatsbyTypes_StringQueryOperatorInput = {|
   glob?: ?$ElementType<Scalars, 'String'>,
 |};
 
-type $Pick<Origin: Object, Keys: Object> = $ObjMapi<
-  Keys,
-  <Key>(k: Key) => $ElementType<Origin, Key>
->;
+type $Pick<Origin: Object, Keys: Object> = $ObjMapi<Keys, <Key>(k: Key) => $ElementType<Origin, Key>>;
 
 declare type TGatsbyTypes_PagesQueryQueryVariables = {};
 
-declare type TGatsbyTypes_PagesQueryQuery = {|
-  +allSitePage: {|
-    +nodes: $ReadOnlyArray<$Pick<TGatsbyTypes_SitePage, {| +path: * |}>>,
-  |},
-|};
+
+declare type TGatsbyTypes_PagesQueryQuery = {| +allSitePage: {| +nodes: $ReadOnlyArray<$Pick<TGatsbyTypes_SitePage, {| +path: * |}>> |} |};
 
 declare type TGatsbyTypes_BlogHomeQueryENQueryVariables = {
   regex?: ?$ElementType<Scalars, 'String'>,
   locale?: ?$ElementType<Scalars, 'String'>,
 };
 
-declare type TGatsbyTypes_BlogHomeQueryENQuery = {|
-  +allMdx: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
-        ...$Pick<
-          TGatsbyTypes_Mdx,
-          {| +fileAbsolutePath: *, +excerpt: *, +mdxAST?: *, +id: * |}
-        >,
-        ...{|
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {|
-              +title: *,
-              +image?: *,
-              +date?: *,
-              +description?: *,
-              +authors?: *,
-            |}
-          >,
-        |},
-      },
-    |}>,
-  |},
-  +allSitePage: {|
-    +nodes: $ReadOnlyArray<$Pick<TGatsbyTypes_SitePage, {| +path: * |}>>,
-  |},
-|};
+
+declare type TGatsbyTypes_BlogHomeQueryENQuery = {| +allMdx: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: *, +excerpt: *, +mdxAST?: *, +id: * |}>,
+        ...{| +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +image?: *, +date?: *, +description?: *, +authors?: * |}> |}
+      }) |}> |}, +allSitePage: {| +nodes: $ReadOnlyArray<$Pick<TGatsbyTypes_SitePage, {| +path: * |}>> |} |};
 
 declare type TGatsbyTypes_getMobileNavDataQueryVariables = {};
 
-declare type TGatsbyTypes_getMobileNavDataQuery = {|
-  +allMdx: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
-        ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
-        ...{|
-          +headings?: ?$ReadOnlyArray<?$Pick<
-            TGatsbyTypes_MdxHeadingMdx,
-            {| +value?: * |}
-          >>,
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {| +title: *, +order?: * |}
-          >,
-        |},
-      },
-    |}>,
-  |},
-|};
+
+declare type TGatsbyTypes_getMobileNavDataQuery = {| +allMdx: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
+        ...{| +headings?: ?$ReadOnlyArray<?$Pick<TGatsbyTypes_MdxHeadingMdx, {| +value?: * |}>>, +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +order?: * |}> |}
+      }) |}> |} |};
 
 declare type TGatsbyTypes_blogPostRecommendationsQueryVariables = {};
 
-declare type TGatsbyTypes_blogPostRecommendationsQuery = {|
-  +blogPosts: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
-        ...$Pick<
-          TGatsbyTypes_Mdx,
-          {| +fileAbsolutePath: *, +excerpt: *, +id: * |}
-        >,
-        ...{|
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {|
-              +title: *,
-              +date?: *,
-              +description?: *,
-              +authors?: *,
-              +image?: *,
-            |}
-          >,
-        |},
-      },
-    |}>,
-  |},
-  +siteContent: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
-        ...$Pick<TGatsbyTypes_Mdx, {| +excerpt: *, +fileAbsolutePath: * |}>,
-        ...{|
-          +headings?: ?$ReadOnlyArray<?$Pick<
-            TGatsbyTypes_MdxHeadingMdx,
-            {| +value?: * |}
-          >>,
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {| +title: *, +description?: *, +order?: * |}
-          >,
-        |},
-      },
-    |}>,
-  |},
-|};
+
+declare type TGatsbyTypes_blogPostRecommendationsQuery = {| +blogPosts: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: *, +excerpt: *, +id: * |}>,
+        ...{| +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +date?: *, +description?: *, +authors?: *, +image?: * |}> |}
+      }) |}> |}, +siteContent: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +excerpt: *, +fileAbsolutePath: * |}>,
+        ...{| +headings?: ?$ReadOnlyArray<?$Pick<TGatsbyTypes_MdxHeadingMdx, {| +value?: * |}>>, +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +description?: *, +order?: * |}> |}
+      }) |}> |} |};
 
 declare type TGatsbyTypes_getMDXDataQueryVariables = {};
 
-declare type TGatsbyTypes_getMDXDataQuery = {|
-  +allMdx: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
-        ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
-        ...{|
-          +headings?: ?$ReadOnlyArray<?$Pick<
-            TGatsbyTypes_MdxHeadingMdx,
-            {| +value?: * |}
-          >>,
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {| +title: *, +order?: * |}
-          >,
-        |},
-      },
-    |}>,
-  |},
-|};
+
+declare type TGatsbyTypes_getMDXDataQuery = {| +allMdx: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
+        ...{| +headings?: ?$ReadOnlyArray<?$Pick<TGatsbyTypes_MdxHeadingMdx, {| +value?: * |}>>, +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +order?: * |}> |}
+      }) |}> |} |};
 
 declare type TGatsbyTypes_getDefaultLocaleQueryVariables = {};
 
-declare type TGatsbyTypes_getDefaultLocaleQuery = {|
-  +allDirectory: {|
-    +nodes: $ReadOnlyArray<
-      $Pick<TGatsbyTypes_Directory, {| +absolutePath: * |}>
-    >,
-  |},
-|};
+
+declare type TGatsbyTypes_getDefaultLocaleQuery = {| +allDirectory: {| +nodes: $ReadOnlyArray<$Pick<TGatsbyTypes_Directory, {| +absolutePath: * |}>> |} |};
 
 declare type TGatsbyTypes_getNavigationDataQueryVariables = {};
 
-declare type TGatsbyTypes_getNavigationDataQuery = {|
-  +headerFiles: {|
-    +edges: $ReadOnlyArray<{|
-      +node: {
+
+declare type TGatsbyTypes_getNavigationDataQuery = {| +headerFiles: {| +edges: $ReadOnlyArray<{| +node: ({
+          ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
+        ...{| +frontmatter?: ?$Pick<TGatsbyTypes_MdxFrontmatter, {| +title: *, +header?: *, +headerOrder?: * |}>, +headings?: ?$ReadOnlyArray<?$Pick<TGatsbyTypes_MdxHeadingMdx, {| +value?: * |}>> |}
+      }) |}> |}, +socialLinks: {| +nodes: $ReadOnlyArray<({
         ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
-        ...{|
-          +frontmatter?: ?$Pick<
-            TGatsbyTypes_MdxFrontmatter,
-            {| +title: *, +header?: *, +headerOrder?: * |}
-          >,
-          +headings?: ?$ReadOnlyArray<?$Pick<
-            TGatsbyTypes_MdxHeadingMdx,
-            {| +value?: * |}
-          >>,
-        |},
-      },
-    |}>,
-  |},
-  +socialLinks: {|
-    +nodes: $ReadOnlyArray<{
-      ...$Pick<TGatsbyTypes_Mdx, {| +fileAbsolutePath: * |}>,
-      ...{| +internal: $Pick<TGatsbyTypes_Internal, {| +content?: * |}> |},
-    }>,
-  |},
-|};
+      ...{| +internal: $Pick<TGatsbyTypes_Internal, {| +content?: * |}> |}
+    })> |} |};
 
 declare type TGatsbyTypes_Unnamed_1_QueryVariables = {};
 
-declare type TGatsbyTypes_Unnamed_1_Query = {|
-  +site?: ?{|
-    +siteMetadata?: ?$Pick<
-      TGatsbyTypes_SiteSiteMetadata,
-      {| +title?: *, +description?: *, +author?: * |}
-    >,
-  |},
-|};
 
-declare type TGatsbyTypes_GatsbyImageSharpFixedFragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_Unnamed_1_Query = {| +site?: ?{| +siteMetadata?: ?$Pick<TGatsbyTypes_SiteSiteMetadata, {| +title?: *, +description?: *, +author?: * |}> |} |};
 
-declare type TGatsbyTypes_GatsbyImageSharpFixed_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixedFragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebpFragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {|
-    +base64?: *,
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixed_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebp_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {|
-    +tracedSVG?: *,
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebpFragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFixed_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {| +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebp_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebp_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpFixed,
-  {|
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixed_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluidFragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFixed_withWebp_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpFixed, {| +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluidLimitPresentationSizeFragment = {|
-  +maxHeight: $ElementType<TGatsbyTypes_ImageSharpFluid, 'presentationHeight'>,
-  +maxWidth: $ElementType<TGatsbyTypes_ImageSharpFluid, 'presentationWidth'>,
-|};
+declare type TGatsbyTypes_GatsbyImageSharpFluidFragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluid_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluidLimitPresentationSizeFragment = {| +maxHeight: $ElementType<TGatsbyTypes_ImageSharpFluid, 'presentationHeight'>, +maxWidth: $ElementType<TGatsbyTypes_ImageSharpFluid, 'presentationWidth'> |};
 
-declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebpFragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {|
-    +base64?: *,
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluid_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebp_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {|
-    +tracedSVG?: *,
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebpFragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluid_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {| +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebp_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebp_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpFluid,
-  {|
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluid_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutionsFragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpFluid_withWebp_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpFluid, {| +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutions_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutionsFragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebpFragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {|
-    +base64?: *,
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutions_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebp_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {|
-    +tracedSVG?: *,
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebpFragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +base64?: *, +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutions_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {| +width: *, +height: *, +src: *, +srcSet: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebp_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +tracedSVG?: *, +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebp_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpResolutions,
-  {|
-    +width: *,
-    +height: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutions_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +width: *, +height: *, +src: *, +srcSet: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizesFragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpResolutions_withWebp_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpResolutions, {| +width: *, +height: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizes_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpSizesFragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebpFragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {|
-    +base64?: *,
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpSizes_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebp_tracedSVGFragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {|
-    +tracedSVG?: *,
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebpFragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +base64?: *, +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizes_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {| +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebp_tracedSVGFragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +tracedSVG?: *, +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
 
-declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebp_noBase64Fragment = $Pick<
-  TGatsbyTypes_ImageSharpSizes,
-  {|
-    +aspectRatio: *,
-    +src: *,
-    +srcSet: *,
-    +srcWebp?: *,
-    +srcSetWebp?: *,
-    +sizes: *,
-  |}
->;
+declare type TGatsbyTypes_GatsbyImageSharpSizes_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +aspectRatio: *, +src: *, +srcSet: *, +sizes: * |}>;
+
+declare type TGatsbyTypes_GatsbyImageSharpSizes_withWebp_noBase64Fragment = $Pick<TGatsbyTypes_ImageSharpSizes, {| +aspectRatio: *, +src: *, +srcSet: *, +srcWebp?: *, +srcSetWebp?: *, +sizes: * |}>;
