@@ -114,7 +114,7 @@ Running this method will effectively modify the Debt Ceiling for the given vault
 
 ## Appendix
 
-- A one-method contract for executing DC-IAM for all vault types at the same time: <https://etherscan.io/address/0xd5a63a56c790c67e3f92bce5076dc464f98c6df1#writeContract>
+- A one-method contract for executing DC-IAM for all vault types at the same time: <https://etherscan.io/address/0x315BA6Fbd305fcc41D0FebE6698c4144c903C24a#writeContract>
 - A list of the hexadecimal codes for all vault types that can be fed into DC-IAM:
   - **AAVE-A**
     - 0x414156452d410000000000000000000000000000000000000000000000000000
