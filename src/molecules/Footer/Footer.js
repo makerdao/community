@@ -232,7 +232,7 @@ export default function Footer(): Node {
               <li>
                 <span>{t('Foundation', 'Footer')}</span>
                 <ul>
-                  <li>
+                  {/* <li>
                     <Link hideExternalIcon to={'https://makerdao.com/team/'}>
                       {t('Team', 'Footer')}
                     </Link>
@@ -241,7 +241,7 @@ export default function Footer(): Node {
                     <Link hideExternalIcon to={'https://makerdao.com/careers'}>
                       {t('Careers', 'Footer')}
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link
                       hideExternalIcon
