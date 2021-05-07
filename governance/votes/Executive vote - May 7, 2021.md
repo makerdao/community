@@ -15,16 +15,16 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
 **Liquidations 2.0**
-- The **UNI-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **ZRX-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **AAVE-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **BAT-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **RENBTC-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **LRC-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **MANA-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **COMP-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **KNC-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
-- The **BAL-A** vault type will be added to the liquidations 2.0 framework with the parameters listed below.
+- The **UNI-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **ZRX-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **AAVE-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **BAT-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **RENBTC-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **LRC-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **MANA-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **COMP-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **KNC-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
+- The **BAL-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
 
 **Core Unit Budget Distributions - May**
 - **40,000 DAI** will be distributed to **Real World Finance (RWA-001)**.
@@ -34,7 +34,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - **44,375 DAI** will be distributed to **Content Production (MKT-001)**.
 
 **Other**
-- The **UNIV2DAIUSDC-A** Liquidation Ratio will decrease from 110% to 105%.
+- The **UNIV2DAIUSDC-A** Liquidation Ratio will be decreased from 110% to 105%.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -50,7 +50,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Liquidations 2.0
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmPaumGS?network=mainnet#poll-detail), the following vault types will be added to the liquidations 2.0 framework with the following parameters if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmPaumGS?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 
 **Included Vault Types**
 - **UNI-A**
@@ -83,7 +83,7 @@ These parameters will be identical for each of the vault types listed above.
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
 
 **[Local Liquidation Limits (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit)**  
-This parameter is different for each vault type listed above.
+This parameter is different for each vault type.
 * UNI-A Local Liquidation Limit (`ilk.hole`): 5 million DAI
 * ZRX-A Local Liquidation Limit (`ilk.hole`): 1 million DAI
 * AAVE-A Local Liquidation Limit (`ilk.hole`): 5 million DAI
