@@ -95,7 +95,7 @@ This parameter is different for each vault type listed above.
 * KNC-A Local Liquidation Limit (`ilk.hole`): 0.5 million DAI
 * BAL-A Local Liquidation Limit (`ilk.hole`): 3 million DAI
 
-Further details and rationale can be found in the following [proposal]](https://forum.makerdao.com/t/remaining-vaults-liquidations-2-0-parameters/7753) from the Risk Team.
+Further details and rationale can be found in the following [proposal](https://forum.makerdao.com/t/remaining-vaults-liquidations-2-0-parameters/7753) from the Risk Team.
 
 ### May Core Unit Distributions
 
@@ -110,7 +110,7 @@ Due to the positive outcomes of the [March](https://vote.makerdao.com/executive/
 
 Due to the positive outcome of this [poll](https://vote.makerdao.com/polling/QmUH4LT7?network=mainnet#poll-detail), the UNIV2DAIUSDC-A [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio/) will be decreased from 110% to 105% if this executive proposal passes.
 
-Please review this [signal thread](https://forum.makerdao.com/t/signal-request-adjust-liquidation-ratio-for-uni-v2-dai-usdc-a-vault-type/7444) to see the rationale and discussion assocatied with this proposed change.
+Please review this [signal thread](https://forum.makerdao.com/t/signal-request-adjust-liquidation-ratio-for-uni-v2-dai-usdc-a-vault-type/7444) to see the rationale and discussion associated with this proposed change.
 
 ## Review
 
