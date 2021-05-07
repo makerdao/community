@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ec
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 ---
 # Inclusion Poll for Sustainable Ecosystem Scaling Core Unit MIP Set - May 10, 2021
 
-The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10 at 16:00 UTC.
+The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/MIP3). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -25,9 +26,9 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
-* [MIP39c2-SP10: Adding Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368/11)
-* [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369/23)
-* [MIP41c4-SP10: Facilitator Onboarding, Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370/3)
+* [MIP39c2-SP10: Adding Sustainable Ecosystem Scaling Core Unit, SES-001](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368)
+* [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
+* [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
 
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
@@ -37,7 +38,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
 * The Governance Facilitators will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on May 13, 2021. 
-* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e#week-by-week-breakdown-of-the-monthly-governance-cycle).
+* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://mips.makerdao.com/mips/details/MIP3#week-by-week-breakdown-of-the-monthly-governance-cycle).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 
@@ -45,7 +46,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 
 ## Resources
 
-[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e#week-by-week-breakdown-of-the-monthly-governance-cycle) describes this type of poll and its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/MIP3) describes this type of poll and its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
