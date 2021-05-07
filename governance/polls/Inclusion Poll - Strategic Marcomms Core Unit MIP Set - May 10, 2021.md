@@ -30,6 +30,17 @@ This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP40c3-SP9: Modify Core Unit Budget, CPM-001](https://forum.makerdao.com/t/mip40c3-sp9-modify-core-unit-budget-cpm-001/7190)
 * [MIP41c4-SP9: Facilitator Onboarding, CPM-001](https://forum.makerdao.com/t/mip41c4-sp9-facilitator-onboarding-cpm-001/7191)
 
+A summary has been provided by the MIP author:
+
+> The Strategic Marcomms unit aims to take MakerDAO to the next level of growth through outreach, branding, marketing, and ads campaigns. It will focus on MakerDAO's target audience groups and markets. Our objectives are:
+> 
+> * Increasing the awareness of Dai and the Maker Protocol
+> * Boosting Dai adoption through promotions and partnerships
+> * Addressing marketing and PR-related needs from other core units such as priming potential partners for business development and RWA adoption-related discussions
+> * Evolving and collaborating with other units and the community
+> 
+> The unit, formed by experienced professionals and passionate community members, will oversee the marketing and communications for MakerDAO.
+
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
 ## Outcomes
