@@ -5,28 +5,17 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react";
-import PropTypes from "prop-types";
-import { Helmet } from "react-helmet";
-import { useStaticQuery, graphql } from "gatsby";
-import { useThemeUI } from "theme-ui";
+import { graphql, useStaticQuery } from 'gatsby';
+
+import { Helmet } from 'react-helmet';
+import PropTypes from 'prop-types';
+import React from 'react';
+import { useThemeUI } from 'theme-ui';
 
 function SEO({ description, lang, meta, title, keywords, url }) {
   const { theme } = useThemeUI();
 
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-          }
-        }
-      }
-    `
-  );
+  const { site } = useStaticQuery(Query);
 
   const metaDescription = description || site.siteMetadata.description;
 
@@ -64,7 +53,7 @@ function SEO({ description, lang, meta, title, keywords, url }) {
           content: `summary_large_image`,
         },
         {
-          property: "og:url",
+          property: 'og:url',
           content: url || site.siteMetadata.websiteURL,
         },
         {
@@ -84,12 +73,12 @@ function SEO({ description, lang, meta, title, keywords, url }) {
           content: metaDescription,
         },
         {
-          name: "theme-color",
+          name: 'theme-color',
           content: theme.colors.primary,
         },
       ].concat(meta)}
     >
-      <link rel="icon" href={"/images/icons/favicon.ico"} />
+      <link rel="icon" href={'/images/icons/favicon.ico'} />
     </Helmet>
   );
 }
@@ -108,3 +97,15 @@ SEO.propTypes = {
 };
 
 export default SEO;
+
+const Query = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+        description
+        author
+      }
+    }
+  }
+`;

@@ -1,30 +1,47 @@
 module.exports = {
   env: {
     browser: true,
-    es2021: true,
+    es6: true,
   },
-  extends: ["eslint:recommended", "plugin:react/recommended"],
+  extends: [
+    'eslint:recommended',
+    'plugin:react/recommended',
+    'plugin:flowtype/recommended',
+  ],
+  parser: '@babel/eslint-parser',
   parserOptions: {
+    requireConfigFile: false,
     ecmaFeatures: {
       jsx: true,
     },
     ecmaVersion: 12,
-    sourceType: "module",
+    sourceType: 'module',
   },
-  plugins: ["react"],
+  plugins: ['react', 'flowtype'],
   rules: {
-    "react/prop-types": "off",
-    "react/display-name": "off",
-    "no-unused-vars": "warn",
+    'react/prop-types': 'off',
+    'react/display-name': 'off',
+    'no-unused-vars': 'warn',
+    'flowtype/no-types-missing-file-annotation': 'off',
+    'no-console': 'off',
+  },
+  settings: {
+    react: {
+      version: 'detect',
+      flowVersion: '0.142.0', // Flow version
+    },
+    flowtype: {
+      onlyFilesWithFlowAnnotation: true,
+    },
   },
   overrides: [
     {
       files: [
-        ".eslintrc.js",
-        "gatsby-config.js",
-        "gatsby-node.js",
-        "scripts/*.js",
-        "src/build-utils.js",
+        '.eslintrc.js',
+        'gatsby-config.js',
+        'gatsby-node.js',
+        'scripts/*.js',
+        'src/build-utils.js',
       ],
       env: {
         node: true,

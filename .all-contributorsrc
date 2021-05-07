@@ -5,7 +5,7 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-    {
+{
       "login": "MaximumCrash",
       "name": "Réjon Taylor-Foster",
       "avatar_url": "https://avatars1.githubusercontent.com/u/9157341?v=4",
@@ -17,48 +17,20 @@
       ]
     },
     {
-      "login": "isaacpearl",
-      "name": "isaacpearl",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/21342523?v=4",
-      "profile": "https://www.isaacpearl.com",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "befitsandpiper",
-      "name": "Be Fit Sandpiper",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/7257527?v=4",
-      "profile": "https://github.com/befitsandpiper",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "twblack88",
-      "name": "Tim Black",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/8991325?v=4",
-      "profile": "https://github.com/twblack88",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "amy-jung",
       "name": "Amy Jung",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26228406?v=4",
       "profile": "https://github.com/amy-jung",
       "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "shea-fitz",
-      "name": "shea-fitz",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/59940380?v=4",
-      "profile": "https://github.com/shea-fitz",
-      "contributions": [
-        "design"
+        "design",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "review",
+        "financial",
+        "projectManagement",
+        "mentoring",
+        "video"
       ]
     },
     {
@@ -78,6 +50,70 @@
       ]
     },
     {
+      "login": "annaalexakr",
+      "name": "Anna Alexa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/68355495?v=4",
+      "profile": "https://github.com/annaalexakr",
+      "contributions": [
+        "blog",
+        "content",
+        "doc",
+        "ideas",
+        "mentoring",
+        "projectManagement",
+        "question"
+      ]
+    },
+    {
+      "login": "twblack88",
+      "name": "Tim Black",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8991325?v=4",
+      "profile": "https://github.com/twblack88",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "mentoring",
+        "review",
+        "bug",
+        "code",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "shea-fitz",
+      "name": "shea-fitz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59940380?v=4",
+      "profile": "https://github.com/shea-fitz",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "LongForWisdom",
+      "name": "LongForWisdom",
+      "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/longforwisdom/120/62_2.png",
+      "profile": "https://forum.makerdao.com/u/longforwisdom/summary",
+      "contributions": [
+        "business",
+        "projectManagement",
+        "question",
+        "ideas",
+        "talk",
+        "doc"
+      ]
+    },
+    {
+      "login": "prose11",
+      "name": "prose11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75535017?v=4",
+      "profile": "https://github.com/prose11",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
       "login": "Artem Isios",
       "name": "Artem Isios Gordon",
       "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/artem_gordon/120/3254_2.png",
@@ -86,6 +122,78 @@
         "content",
         "ideas",
         "review"
+      ]
+    },
+    {
+      "login": "goldfarbas",
+      "name": "Seth Goldfarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41171114?v=4",
+      "profile": "https://www.sethgoldfarbthewriter.com/",
+      "contributions": [
+        "blog",
+        "content",
+        "bug",
+        "ideas",
+        "review",
+        "doc"
+      ]
+    },
+    {
+      "login": "ghettodev",
+      "name": "Richard Brown",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1900655?v=4",
+      "profile": "https://github.com/ghettodev",
+      "contributions": [
+        "bug",
+        "content",
+        "doc",
+        "financial",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "video",
+        "review"
+      ]
+    },
+    {
+      "login": "andersonmmi",
+      "name": "Aaron Anderson",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16314437?v=4",
+      "profile": "https://github.com/andersonmmi",
+      "contributions": [
+        "doc",
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "TomDeMichele",
+      "name": "TomDeMichele",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54551507?v=4",
+      "profile": "https://github.com/TomDeMichele",
+      "contributions": [
+        "blog",
+        "content",
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "isaacpearl",
+      "name": "isaacpearl",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21342523?v=4",
+      "profile": "https://www.isaacpearl.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "befitsandpiper",
+      "name": "Be Fit Sandpiper",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7257527?v=4",
+      "profile": "https://github.com/befitsandpiper",
+      "contributions": [
+        "code"
       ]
     },
     {
@@ -124,24 +232,9 @@
       ]
     },
     {
-      "login": "annaalexakr",
-      "name": "Anna Alexa",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/68355495?v=4",
-      "profile": "https://github.com/annaalexakr",
-      "contributions": [
-        "blog",
-        "content",
-        "doc",
-        "ideas",
-        "mentoring",
-        "projectManagement",
-        "question"
-      ]
-    },
-    {
       "login": "Dennis Mitchell",
       "name": "Dennis Mitchell",
-      "avatar_url": "https://lh3.googleusercontent.com/PIfW7LQp5sGDRCu7YqsPC9oeiAA7nVFnlujt-P7yqKUFuKZjnJaB2YRgaxdWpMtUeEwdUg=s85",
+      "avatar_url": "https://pngimg.com/uploads/letter_d/letter_d_PNG13.png",
       "profile": "https://chat.makerdao.com/direct/6GJ5ToSuXpsXFmbcqd3avFPcEiYbDNpAmW",
       "contributions": [
         "content"
@@ -160,8 +253,8 @@
     {
       "login": "Hadassah Damien",
       "name": "Hadassah Damien",
-      "avatar_url": "https://lh3.googleusercontent.com/cYhe8hDzqT5QAPwuel5qIo8Mtl37t2mlQhZNfLgoZSh9GbVb2Tfwi2AA0m8WoATwrrbW=s85",
-      "profile": "https://chat.makerdao.com/direct/d3avFPcEiYbDNpAmWwZ2YG8iQfTshmoZfH",
+      "avatar_url": "https://i.imgur.com/UdHE77a.png",
+      "profile": "http://hadassahdamien.com/",
       "contributions": [
         "example",
         "eventOrganizing",
@@ -192,15 +285,15 @@
       ]
     },
     {
-      "login": "JerryAG",
+      "login": "jerrygoldfarb",
       "name": "Jerry Goldfarb",
       "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/jerryag/120/3245_2.png",
-      "profile": "https://forum.makerdao.com/u/jerryag/summary",
+      "profile": "https://github.com/jerrygoldfarb",
       "contributions": [
         "audio",
         "blog",
         "content",
-        "documentation",
+        "doc",
         "ideas",
         "maintenance",
         "projectManagement",
@@ -210,7 +303,7 @@
     {
       "login": "Jose Ferrari",
       "name": "Jose Ferrari",
-      "avatar_url": "https://lh3.googleusercontent.com/f7W1rk2AkA_iJy98GlcWZ-bFbI7pOHlPH5JtQTIy1rSJfNSIdkMZ7cfcuBtr-i8kel5wPA=s85",
+      "avatar_url": "https://forum.makerdao.com/letter_avatar_proxy/v4/letter/j/df788c/120.png",
       "profile": "https://forum.makerdao.com/u/joseferrari/summary",
       "contributions": [
         "content"
@@ -219,8 +312,8 @@
     {
       "login": "J0zi",
       "name": "Josiah",
-      "avatar_url": "https://lh3.googleusercontent.com/aT3eAQVGbc4Wmp4TXzYtr8cpj-M-oTx7XUlpwWtbmFr0X6loO_tRI0IElEN4hd0uXiewEw=s85",
-      "profile": "https://chat.makerdao.com/direct/josi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/757859?v=4",
+      "profile": "https://github.com/creativeKoder/",
       "contributions": [
         "bug",
         "code",
@@ -246,8 +339,8 @@
     {
       "login": "k415w",
       "name": "Kevin Wildenradt",
-      "avatar_url": "https://lh3.googleusercontent.com/D8ba7u2z2_F3UA82XZrjCstr7SnTvnsN8SavAbGFN3FY-hH9E8etuEqbeorQQ1TeMOUnfA=s85",
-      "profile": "https://chat.makerdao.com/direct/HeY2dquNLPxJggaSwd3avFPcEiYbDNpAmW",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5771451?v=4",
+      "profile": "https://github.com/kevinwildenradt",
       "contributions": [
         "ideas",
         "projectManagement",
@@ -276,24 +369,10 @@
       ]
     },
     {
-      "login": "LongForWisdom",
-      "name": "LongForWisdom",
-      "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/longforwisdom/120/62_2.png",
-      "profile": "https://forum.makerdao.com/u/longforwisdom/summary",
-      "contributions": [
-        "business",
-        "projectManagement",
-        "question",
-        "ideas",
-        "talk",
-        "doc"
-      ]
-    },
-    {
       "login": "naszam",
       "name": "Nazzareno Massari",
       "avatar_url": "https://avatars1.githubusercontent.com/u/23325228?v=4",
-      "profile": "https://github.com/reuptaken",
+      "profile": "https://github.com/naszam",
       "contributions": [
         "code",
         "infra",
@@ -303,7 +382,7 @@
     {
       "login": "Pavel Korecky",
       "name": "Pavel Korecky",
-      "avatar_url": "https://lh3.googleusercontent.com/-I_AuBLbtaDrIwEbbzyXrcYGpuwK2I6eBxZ_l2cdG5trq-C9JA7CTpXXB-QlqGkG82bx=s85",
+      "avatar_url": "https://i.imgur.com/uIdwBJb.png",
       "profile": "https://chat.makerdao.com/direct/XewvirwT5TmdDQ6q2d3avFPcEiYbDNpAmW",
       "contributions": [
         "content"
@@ -312,7 +391,7 @@
     {
       "login": "Richard Rosa",
       "name": "Richard Rosa",
-      "avatar_url": "https://lh3.googleusercontent.com/AwfDtcv6nzvYf9D0yBSOrjjsbbMgfdy8-NdHJVdHSwfHvWrvdrM0XW3mNxYOHtKIuHDQ=s85",
+      "avatar_url": "https://i.imgur.com/mpZjvEI.jpg",
       "profile": "https://twitter.com/Pencil_Punisher",
       "contributions": [
         "design"
@@ -322,20 +401,45 @@
       "login": "scottrepreneur",
       "name": "Scott Herren",
       "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/scottrepreneur/120/23_2.png",
-      "profile": "https://forum.makerdao.com/u/scottrepreneur/summary",
+      "profile": "https://github.com/scottrepreneur",
       "contributions": [
         "code",
         "bug"
       ]
     },
     {
-      "login": "reuptaken",
-      "name": "Marcin Jagodzinski",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/26765602?s=460&v=4",
-      "profile": "https://github.com/reuptaken",
+      "login": "blimpa",
+      "name": "blimpa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72349134?v=4",
+      "profile": "https://github.com/blimpa",
       "contributions": [
-        "translation",
-        "question"
+        "content",
+        "doc",
+        "maintenance",
+        "video",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "0xElihu",
+      "name": "Elihu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78811955?v=4",
+      "profile": "https://github.com/0xElihu",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance",
+        "projectManagement",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Sai Teja",
+      "name": "Sai Teja",
+      "avatar_url": "https://forum.makerdao.com/letter_avatar_proxy/v4/letter/s/e9c0ed/240.png",
+      "profile": "https://forum.makerdao.com/u/saiteja/summary",
+      "contributions": [
+        "content"
       ]
     }
   ],
