@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp9-strategic-marcomms-cor
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 ---
 # Inclusion Poll for Strategic Marcomms MIP Set - May 10, 2021
 
-The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10 at 16:00 UTC.
+The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP3](https://mips.makerdao.com/mips/details/MIP3). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -25,7 +26,7 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
-* [MIP39c2-SP9: Strategic Marcomms Core Unit](https://forum.makerdao.com/t/mip39c2-sp9-strategic-marcomms-core-unit/7189)
+* [MIP39c2-SP9: Strategic Marcomms Core Unit, CPM-001](https://forum.makerdao.com/t/mip39c2-sp9-strategic-marcomms-core-unit/7189)
 * [MIP40c3-SP9: Modify Core Unit Budget, CPM-001](https://forum.makerdao.com/t/mip40c3-sp9-modify-core-unit-budget-cpm-001/7190)
 * [MIP41c4-SP9: Facilitator Onboarding, CPM-001](https://forum.makerdao.com/t/mip41c4-sp9-facilitator-onboarding-cpm-001/7191)
 
@@ -37,7 +38,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option by at least 3,000 MKR then the following actions will be taken:**
 * The Governance Facilitators will confirm the inclusion of these proposals within the next Monthly Governance Poll on the Governance and Risk call on May 13, 2021. 
-* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e#week-by-week-breakdown-of-the-monthly-governance-cycle).
+* The Monthly Governance Poll occurs in week 3 of the [Governance Cycle](https://mips.makerdao.com/mips/details/MIP3#week-by-week-breakdown-of-the-monthly-governance-cycle).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option by at least 3,000 MKR then this proposal will not be included in this month's governance cycle.**
 
@@ -45,7 +46,7 @@ This poll implements an **Inclusion Threshold.** The Inclusion Threshold is curr
 
 ## Resources
 
-[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e#week-by-week-breakdown-of-the-monthly-governance-cycle) describes this type of poll and its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/MIP3) describes this type of poll and its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
