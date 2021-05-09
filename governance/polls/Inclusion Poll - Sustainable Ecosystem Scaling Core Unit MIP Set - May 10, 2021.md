@@ -30,6 +30,8 @@ This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
 * [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
 
+This MIP Set proposes the onboarding of Core Unit SES-001: Sustainable Ecosystem Scaling.
+
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
 ## Outcomes
