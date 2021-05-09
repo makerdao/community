@@ -1,7 +1,7 @@
 ---
 title: Inclusion Poll for Sustainable Ecosystem Scaling Core Unit MIP Set - May 10, 2021
 summary: Signal your support or opposition for these proposals being included in this month's governance cycle. 
-discussion_link: https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368/11
+discussion_link: https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368
 vote_type: Plurality Voting
 categories:
    - MIPs
