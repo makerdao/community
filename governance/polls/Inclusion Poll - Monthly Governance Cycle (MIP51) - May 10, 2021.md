@@ -28,6 +28,8 @@ A summary has been provided by the MIP author:
 
 *MIP51 defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions. It replaces the existing [Monthly Governance Cycle (MIP3)](https://github.com/makerdao/mips/tree/master/MIP3). This new Governance Cycle aims to provide a more efficient and accessible framework for Maker Governance decisions.*
 
+The full text of MIP51 can be read [here](https://mips.makerdao.com/mips/details/MIP51).
+
 Please review the discussion [thread](https://forum.makerdao.com/t/mip51-monthly-governance-cycle/7366) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
 ## Outcomes

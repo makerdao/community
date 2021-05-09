@@ -26,11 +26,11 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
-* [MIP39c2-SP9: Strategic Marcomms Core Unit, CPM-001](https://forum.makerdao.com/t/mip39c2-sp9-strategic-marcomms-core-unit/7189)
-* [MIP40c3-SP9: Modify Core Unit Budget, CPM-001](https://forum.makerdao.com/t/mip40c3-sp9-modify-core-unit-budget-cpm-001/7190)
-* [MIP41c4-SP9: Facilitator Onboarding, CPM-001](https://forum.makerdao.com/t/mip41c4-sp9-facilitator-onboarding-cpm-001/7191)
+* [MIP39c2-SP9: Strategic Marcomms Core Unit, CPM-001](https://mips.makerdao.com/mips/details/MIP39c2SP9) - [Discussion](https://forum.makerdao.com/t/mip39c2-sp9-strategic-marcomms-core-unit/7189)
+* [MIP40c3-SP9: Modify Core Unit Budget, CPM-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP9.md) - [Discussion](https://forum.makerdao.com/t/mip40c3-sp9-modify-core-unit-budget-cpm-001/7190)
+* [MIP41c4-SP9: Facilitator Onboarding, CPM-001](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP9.md) - [Discussion](https://forum.makerdao.com/t/mip41c4-sp9-facilitator-onboarding-cpm-001/7191)
 
-A summary has been provided by the author of the MIPs:
+A summary has been provided by the author of the proposals:
 
 *The Strategic Marcomms unit aims to take MakerDAO to the next level of growth through outreach, branding, marketing, and ads campaigns. It will focus on MakerDAO's target audience groups and markets. Our objectives are:*
  

@@ -26,11 +26,11 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
-* [MIP39c2-SP10: Adding Sustainable Ecosystem Scaling Core Unit, SES-001](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368)
-* [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
-* [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
+* [MIP39c2-SP10: Adding Sustainable Ecosystem Scaling Core Unit, SES-001](https://mips.makerdao.com/mips/details/MIP39c2SP10) - [Discussion](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368)
+* [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://mips.makerdao.com/mips/details/MIP40c2SP10) - [Discussion](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
+* [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://mips.makerdao.com/mips/details/MIP41c4SP10) - [Discussion](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
 
-A summary has been provided by the author of the MIPs:
+A summary has been provided by the author of the proposals:
 
 *The Sustainable Ecosystem Scaling Core Unit aims to sustainably grow the Maker Protocol’s moats by removing barriers between decentralized workforce, capital, and work.*
 

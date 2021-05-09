@@ -24,9 +24,12 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-A summary has been provided by the MIP Author:
+A summary has been provided by the author of the subproposal:
 
 *This MIP Amendment trims down, reformats and partly rewords MIP0 with the intent of making it easier to read and navigate. This MIP Amendment does not change MIP0's logic and processes.*
+
+The full text of MIP4c2-SP14 can be read [here](
+https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP14.md).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mip4c2-sp14-mip0-amendments/7260) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
