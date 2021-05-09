@@ -24,8 +24,11 @@ The Governance Facilitators have placed the monthly MIPs Governance Poll into th
 This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on $executive_date. The bundled contents of this poll consist of:
 
 - [$proposal_name1]($proposal_link1)
+   - ($sentence_description)
 - [$proposal_name2]($proposal_link2)
+   - ($sentence_description)
 - [$proposal_name...]($proposal_link...)
+   - ($sentence_description) 
 
 The proposals can be reviewed in this week's MIPs update [here]($discussion_link). It was also discussed on the latest [Governance and Risk call]($last_governance_call) on $last_governance_call_date_MONTH_DD,_YYYY.
 
