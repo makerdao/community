@@ -14,7 +14,7 @@ options:
 
 # Poll: Parameter Changes Proposal - MakerDAO Open Market Committee - May 10, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10n at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 10 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
