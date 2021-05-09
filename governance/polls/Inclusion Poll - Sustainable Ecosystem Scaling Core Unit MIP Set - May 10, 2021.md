@@ -30,7 +30,16 @@ This Inclusion Poll MIP Set contains the following MIPs:
 * [MIP40c3-SP10: Modify Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
 * [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
 
-This MIP Set proposes the onboarding of Core Unit SES-001: Sustainable Ecosystem Scaling.
+A summary has been provided by the author of the MIPs:
+
+*The Sustainable Ecosystem Scaling Core Unit aims to sustainably grow the Maker Protocol’s moats by removing barriers between decentralized workforce, capital, and work.*
+
+*This decentralized, effective, and scalable economy:*
+* *Has the best and most successful onboarding experience for new participants, with the highest retention rate in the industry.*
+* *Allows everyone to find the capital they need to work on the best projects which (1) optimally drive protocol growth and (2) are most fulfilling for its participants.*
+* *Has resilient safety mechanisms in place that prevent protocol failure while leaving ample space for rapid innovation and experimentation.*
+
+*Through Opportunity and Risk Assessment, Research, and Incubation Programs, SES aims to provide Sponsorship and Advisory services to grow MakerDAO.*
 
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
