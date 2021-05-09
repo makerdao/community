@@ -24,7 +24,7 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
-A summary has been provided by the subproposal author:
+A summary has been provided by the author of the subproposal:
 
 *This MIP Amendment trims down, reformats and partly rewords MIP0 with the intent of making it easier to read and navigate. This MIP Amendment does not change MIP0's logic and processes.*
 
