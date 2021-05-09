@@ -29,6 +29,10 @@ This Inclusion Poll MIP Set contains the following MIPs:
 * [mip_number: mip_title]($second_mip_discussion_link)
 * [mip_number: mip_title]($third_mip_discussion_link)
 
+A summary has been provided by the author of the MIPs:
+
+*($paragraph_summary)* 
+
 Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
 
 ## Outcomes
