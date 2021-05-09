@@ -27,6 +27,8 @@ A summary has been provided by the MIP author:
 
 *This MIP covers the creation of a Staking Rewards process for MKR token holders, designed to distribute DAI as a percentage of protocol profits. MIP49 would entitle MKR holders to a share of this percentage based on the weight of their MKR staked in the Governance Contract. The implementation method is intentionally left open so that the protocol can adopt a more efficient method of distributing rewards, should one be developed.*
 
+The full text of MIP49 can be read [here](https://mips.makerdao.com/mips/details/MIP49).
+
 Please review the discussion [thread](https://forum.makerdao.com/t/mip49-staking-rewards/6331) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
 ## Outcomes
