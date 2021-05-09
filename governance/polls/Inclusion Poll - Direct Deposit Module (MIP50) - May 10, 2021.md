@@ -24,6 +24,10 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 The community can vote in this poll to express support or opposition to this proposal being included in this month's governance cycle.
 
+A summary has been provided by the MIP author:
+
+*The Direct Deposit Module interfaces with third party lending protocols to enforce a maximum variable borrow rate for selected assets. Maker Governance is able to pick a target variable borrow rate, and the module will automatically deposit/remove liquidity to ensure that target rate is hit.*
+
 Please review the discussion [thread](https://forum.makerdao.com/t/mip50-direct-deposit-module/7356) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-140-thursday-may-6-17-00-utc/7792) on May 6, 2021.
 
 ## Outcomes
