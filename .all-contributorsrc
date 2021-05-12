@@ -441,7 +441,16 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "Sonya K",
+      "name": "Sonya K",
+      "avatar_url": "https://forum.makerdao.com/user_avatar/forum.makerdao.com/sonya/240/5320_2.png",
+      "profile": "https://forum.makerdao.com/u/sonya/summary",
+      "contributions": [
+        "content"
+      ]
+    },
   ],
   "contributorsPerLine": 6,
   "projectName": "community-portal",
