@@ -23,7 +23,7 @@ Based on the recommendations of the [Open Market Committee](https://forum.makerd
 
 ### Oracle Updates
 
-Based on the recommendations of the Oracle Domain Team, the Uniswap LP Token Oracle will be upgraded with this spell. This upgrade addresses concerns from the UNI-LP Oracle Audit and includes gas optimization. 
+Based on the recommendations of the Oracle Domain Team, the Uniswap LP Token Oracle will be upgraded with this spell. 
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
@@ -65,7 +65,7 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 
 ### Oracle Updates
 
-Given the recommendations of the Oracle Domain Team, an upgrade to the Uniswap LP Token Oracle will be submitted if this executive proposal passes. The revised Uniswap LP Token Oracle uses significantly less gas on price updates and can handle a wider numerical range of token prices. It also now has better test coverage.
+Given the recommendations of the Oracle Domain Team, an upgrade to the Uniswap LP Token Oracle will be submitted if this executive proposal passes. The revised Uniswap LP Token Oracle follows audit recommendations and can handle a wider numerical range of token prices. The upgraded contract uses significantly less gas on price updates and has better test coverage.
 
 ## Review
 
