@@ -14,16 +14,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-### Parameter Changes
-
-Based on the recommendations of the [Open Market Committee](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-4-may-2021/7835) the [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) and [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/) parameters will be updated for the vault types below.
-- The Stability Fee for KNC-A will be increased to 5.0%, TUSD-A and PAXUSD-A will be increased to 1.0%.
-- The Stability Fee for ETH-C will be decreased to 3.0%.
-- The Debt Ceiling for KNC-A, PAXUSD-A, and USDC-B will be set to 0.
-
-### Oracle Updates
-
-The Uniswap LP Token Oracle will be replaced with an upgraded version based on recent audit results.
+- The Stability Fee for KNC-A will be **increased** to from 2.0% to 5.0% 
+- The Stability Fee for TUSD-A and PAXUSD-A will be **increased** from 0.0% to 1.0%.
+- The Stability Fee for ETH-C will be **decreased** from 3.5% to 3.0%.
+- The Debt Ceiling for KNC-A, PAXUSD-A, and USDC-B will be **set to 0**.
+- The Uniswap LP Token Oracle **will be replaced** with an upgraded version based on recent audit results.
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
