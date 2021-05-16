@@ -40,6 +40,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $proportional_kick_incentive
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $flat_kick_incentive
 
+---
+
 Please review the following [Risk Evaluation]($risk_link) containing information about $ilk to inform your position before voting.
 
 ## Outcomes
