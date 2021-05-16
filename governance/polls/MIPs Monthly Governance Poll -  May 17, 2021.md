@@ -24,16 +24,16 @@ The Governance Facilitators have placed the monthly MIPs Governance Poll into th
 This poll asks whether the bundled contents of this month's Governance Cycle should proceed to an Executive Vote to be held on May 24, 2021. The bundled contents of this poll consist of:
 
 **MIPs**
-- [MIP50: Direct Deposit Module](https://forum.makerdao.com/t/mip50-direct-deposit-module/7356/10)
-- [MIP51: Monthly Governance Cycle](https://forum.makerdao.com/t/mip51-monthly-governance-cycle/7366/7)
+- [MIP50: Direct Deposit Module](https://forum.makerdao.com/t/mip50-direct-deposit-module/7356)
+- [MIP51: Monthly Governance Cycle](https://forum.makerdao.com/t/mip51-monthly-governance-cycle/7366)
 
 **Amendments**
-- [MIP4c2-SP14: MIP0 Amendments](https://forum.makerdao.com/t/mip4c2-sp14-mip0-amendments/7260/5)
+- [MIP4c2-SP14: MIP0 Amendments](https://forum.makerdao.com/t/mip4c2-sp14-mip0-amendments/7260)
 
 **Sustainable Ecosystem Scaling Core Unit Onboarding Set**
-- [MIP39c2-SP10: Sustainable Ecosystem Scaling Core Unit Mandate, SES-001](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368/4)
-- [MIP40c3-SP10: Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369/25)
-- [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370/2)
+- [MIP39c2-SP10: Sustainable Ecosystem Scaling Core Unit Mandate, SES-001](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368)
+- [MIP40c3-SP10: Core Unit Budget, SES-001](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
+- [MIP41c4-SP10: Facilitator Onboarding, SES-001](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
 
 The proposals can be reviewed in this week's MIPs update [here](https://forum.makerdao.com/t/weekly-mips-update-35/7962). It was also discussed on the latest [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-141-thursday-may-13-17-00-utc/7930) on May 13, 2021.
 

@@ -31,7 +31,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 ---
 
-**Common Parameters**
+**Common Parameters**  
 These parameters will be identical for each of the vault types listed above.
 
 **Auction Price**
@@ -42,7 +42,7 @@ These parameters will be identical for each of the vault types listed above.
 
 **Limits**
 * [Maximum Auction Drawdown (`cusp`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.4
-* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 12,000 seconds
+* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 200 minutes
 * [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.5
 
 **Incentives**

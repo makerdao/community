@@ -27,9 +27,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 * UNIV2DAIETH-A
 * UNIV2USDCETH-A
 * UNIV2ETHUSDT-A
-* NIV2WBTCDAI-A
+* UNIV2WBTCDAI-A
 
-The auction parameters for the above-mentioned vaults are:
+The proposed auction parameters for the above-mentioned vaults are:
 
 **Auction Price**
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
@@ -40,7 +40,7 @@ The auction parameters for the above-mentioned vaults are:
 **Limits**
 * [Local Liquidation Limit (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 5 million DAI
 * [Maximum Auction Drawdown (`cusp`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): 0.6
-* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 12,900 seconds
+* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): 215 minutes
 * [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): 0.7
 
 **Incentives**
