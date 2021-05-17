@@ -17,7 +17,8 @@ The Maker Foundation Community Development team began with a mandate to directly
 
 One of the Community Development projects is [the community portal](https://community-development.makerdao.com/), a community developed resource, built and maintained by MakerDAO community members. Below are instructions on getting started with the portal, which is built with [Gatsby](https://github.com/gatsbyjs/gatsby-starter-default) and [DAI UI](https://github.com/makerdao/dai-ui/).
 
-## 🚀 Setting Up Local Environments
+## Portal
+### 🚀 Setting Up Local Environments
 
 We've built this as a Theme-UI Gatsby starter for projects that will use Dai-UI theme kits.
 
@@ -55,7 +56,7 @@ _See the official [Dai-UI](https://github.com/makerdao/dai-ui) repo for more in-
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-## 🧐 What's inside?
+### 🧐 What's inside?
 
 A quick look at some important files and directories you'll see in this project.
 
@@ -78,14 +79,13 @@ A quick look at some important files and directories you'll see in this project.
     └── README.md
 
 
-
-### Important Directories
+#### Important Directories
 
 1. **`src/gatsby-plugin-theme-ui`**: This directory contains all files that will be consumed by the gatsby-plugin-theme-ui on build and provided to components through context. For more info see their [docs](https://theme-ui.com/packages/gatsby-plugin#customizing-the-theme).
 
 2. **`src/modules`**: This directory is the mirror image of a components folder. Except it's organized by contextual focused. You can find all your ui related components in the ui folder.
 
-### Gatsby Usual Suspects
+#### Gatsby Usual Suspects
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
@@ -111,7 +111,7 @@ A quick look at some important files and directories you'll see in this project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-## ❤️ Made with Love
+#### ❤️ Made with Love
 
 Dai-UI - MakerDAO's Dai-UI Team
 
@@ -119,7 +119,7 @@ This Starter - <a href="https://github.com/MaximumCrash" target="_blank">@Maximu
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-## Contributors ✨
+#### Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
