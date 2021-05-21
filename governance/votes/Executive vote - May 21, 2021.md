@@ -36,9 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Liquidations 2.0
-
-**Adding Stablecoin-Volatile Uniswap LPs**
+### Adding Stablecoin-Volatile Uniswap LPs to Liquidations 2.0
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmQ3tMWq?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 * UNIV2DAIETH-A
@@ -65,15 +63,13 @@ The above vault types will be added with the following parameters:
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 0 DAI
 
 
-**Adding Volatile-Volatile Uniswap LPs**
+### Adding Volatile-Volatile Uniswap LPs to Liquidations 2.0
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmTkWrzY?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 * UNIV2WBTCETH-A
 * UNIV2LINKETH-A
 * UNIV2UNIETH-A
 * UNIV2AAVEETH-A
-
-The above vault types will be added with the following parameters:
 
 **Common Parameters** 
 
@@ -97,6 +93,7 @@ These parameters will be identical for each of the vault types listed above.
 ---
 
 **[Local Liquidation Limits (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit)**  
+
 This parameter is different for each vault type listed above.
 
 * UNIV2WBTCETH-A Local Liquidation Limit (`ilk.hole`): 5 million DAI
@@ -104,7 +101,7 @@ This parameter is different for each vault type listed above.
 * UNIV2UNIETH-A Local Liquidation Limit (`ilk.hole`): 3 million DAI
 * UNIV2AAVEETH-A Local Liquidation Limit (`ilk.hole`): 3 million DAI
 
-**Adding UNIV2DAIUSDT-A**
+### Adding UNIV2DAIUSDT-A to Liquidations 2.0
 
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), UNIV2DAIUSDT-A will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 
