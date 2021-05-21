@@ -38,7 +38,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Adding Stablecoin-Volatile Uniswap LPs to Liquidations 2.0
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmQ3tMWq?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmQ3tMWq?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes. Further details and rationale may be found in the proposal posted [here](https://forum.makerdao.com/t/uni-lps-liquidations-2-0-parameters/8073).
 * UNIV2DAIETH-A
 * UNIV2USDCETH-A
 * UNIV2ETHUSDT-A
@@ -66,7 +66,7 @@ The above vault types will be added with the following parameters:
 
 ### Adding Volatile-Volatile Uniswap LPs to Liquidations 2.0
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmTkWrzY?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmTkWrzY?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes. Further details and rationale may be found in the proposal posted [here](https://forum.makerdao.com/t/uni-lps-liquidations-2-0-parameters/8073).
 * UNIV2WBTCETH-A
 * UNIV2LINKETH-A
 * UNIV2UNIETH-A
@@ -104,7 +104,7 @@ This parameter is different for each vault type listed above.
 
 ### Adding UNIV2DAIUSDT-A to Liquidations 2.0
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), UNIV2DAIUSDT-A vault type will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), the UNIV2DAIUSDT-A vault type will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes. Further details and rationale may be found in the proposal posted [here](https://forum.makerdao.com/t/uni-lps-liquidations-2-0-parameters/8073).
 
 **Auction Price**
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
