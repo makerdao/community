@@ -39,6 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Liquidations 2.0
 
 **Adding Stablecoin-Volatile Uniswap LPs**
+
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmQ3tMWq?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 * UNIV2DAIETH-A
 * UNIV2USDCETH-A
@@ -65,6 +66,7 @@ The above vault types will be added with the following parameters:
 
 
 **Adding Volatile-Volatile Uniswap LPs**
+
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmTkWrzY?network=mainnet#poll-detail), the following vault types will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 * UNIV2WBTCETH-A
 * UNIV2LINKETH-A
@@ -73,7 +75,8 @@ Given the successful outcome of this [poll](https://vote.makerdao.com/polling/Qm
 
 The above vault types will be added with the following parameters:
 
-**Common Parameters**  
+**Common Parameters** 
+
 These parameters will be identical for each of the vault types listed above.
 
 **Auction Price**
@@ -102,6 +105,7 @@ This parameter is different for each vault type listed above.
 * UNIV2AAVEETH-A Local Liquidation Limit (`ilk.hole`): 3 million DAI
 
 **Adding UNIV2DAIUSDT-A**
+
 Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), UNIV2DAIUSDT-A will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 
 **Auction Price**
