@@ -104,7 +104,7 @@ This parameter is different for each vault type listed above.
 
 ### Adding UNIV2DAIUSDT-A to Liquidations 2.0
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), UNIV2DAIUSDT-A will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmUqRPjD?network=mainnet#poll-detail), UNIV2DAIUSDT-A vault type will be added to the Liquidations 2.0 framework with the following parameters if this executive proposal passes.
 
 **Auction Price**
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
