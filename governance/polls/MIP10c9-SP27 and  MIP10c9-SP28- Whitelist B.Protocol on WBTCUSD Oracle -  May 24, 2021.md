@@ -1,7 +1,7 @@
 ---
-title: Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for appointing $appointed_entity as Oracle Light Feed
-discussion_link: $discussion_link
+title: Whitelist B.Protocol on WBTCUSD Oracle (MIP10c9-SP27 and MIP10c9-SP28) - May 24, 2021
+summary: Signal your support or opposition for whitelisting B.Protocol on the WBTCUSD Oracle.
+discussion_link: https://forum.makerdao.com/tag/bprotocol-wbtcusd
 vote_type: Plurality Voting
 categories:
    - Oracles
@@ -10,34 +10,36 @@ options:
    1: Yes
    2: No
 ---
-# Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Whitelist B.Protocol on WBTCUSD Oracle (MIP10c9-SP27 and MIP10c9-SP28) - May 24, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 24 at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appointing $appointed_entity as an [Oracle Light Feed](https://mips.makerdao.com/mips/details/MIP10#feeds-).
+The community can vote in this poll to express support or opposition to appending B.Protocol to the WBTCUSD Oracle Security Module and Median whitelists to read current and queued price data.
 
-Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the application [threads](https://forum.makerdao.com/tag/bprotocol-wbtcusd) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This change will be included in a Friday Executive Vote within the next 30 days, absent external factors.
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This change will be included in an upcoming Executive Vote. It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
 
 ---
 
 ## Resources
+
+Additional information about the MIPs process can be found in the [Maker Improvement Proposals (MIPs)](https://github.com/makerdao/mips) repository.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
