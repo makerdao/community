@@ -12,7 +12,7 @@ options:
 ---
 # Poll: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Risk Domain Team. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 

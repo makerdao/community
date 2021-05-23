@@ -44,7 +44,7 @@ The proposals can be reviewed in this week's MIPs update [here]($discussion_link
 
 ## Resources
 
-[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/60626de7e65b747f996b3d4e) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
+[MIP3: Governance Cycle](https://mips.makerdao.com/mips/details/MIP3) describes this type of poll and goes into more detail about its position and significance within the rest of the governance cycle.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
