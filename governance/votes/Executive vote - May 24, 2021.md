@@ -24,10 +24,9 @@ If this executive proposal passes, the following **MIP status changes** will occ
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
-Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+This [Executive Vote](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be valid for 4 days then it will expire and have no effect on the Maker Protocol, even if it should later pass.
 
-If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
-
+As a [continuous approval vote](https://community-development.makerdao.com/en/learn/governance/how-voting-works), the proposal will pass when the number of votes in favor surpasses the votes in favor of the previously leading proposal.
 ---
 
 ## Proposal Details
