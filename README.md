@@ -10,49 +10,15 @@
   </a>
 </p>
 <h1 align="center">
-  Community Development at Maker 
+  Community at Maker 
 </h1>
 
-The Community Development group's mandate was to directly foster the growth of the MakerDAO ecosystem by incentivizing our most motivated members. We accomplished this through a series of initiatives that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform. Welcome to our portal and living archive, built with [Gatsby](https://github.com/gatsbyjs/gatsby-starter-default) and [DAI UI](https://github.com/makerdao/dai-ui/).
+The Maker Foundation Community Development team began with a mandate to directly foster the growth of the MakerDAO ecosystem by focusing on our community’s most motivated members. We launched a series of initiatives that encouraged people to participate in, and contribute to, the success of the Dai Stablecoin. With the dissolution of the Maker Foundation, these programs are now sunset and archived. Anyone interested in learning more about the programs can visit [Archives tag in the Community repo](https://github.com/makerdao/community/projects/2?card_filter_query=label%3Aarchive).
 
-## 🏗 Our Initiatives
+One of the Community Development projects is [the community portal](https://community-development.makerdao.com/), a community developed resource, built and maintained by MakerDAO community members. Below are instructions on getting started with the portal, which is built with [Gatsby](https://github.com/gatsbyjs/gatsby-starter-default) and [DAI UI](https://github.com/makerdao/dai-ui/).
 
-### [Development Grants Program](https://funding.makerdao.com/)
-
-The MakerDAO Community grants program provides funding for projects that increase Dai adoption, support emerging economies, open new markets, provide novel uses for the stablecoin, or otherwise further the principles of the MakerDAO Foundation.
-### [Community Meetup Grants](https://community-development.makerdao.com/en/programs/meetups)
-
-Community members play an invaluable role in building a stronger MakerDAO ecosystem. The Community Development Group provides the resources needed to increase Dai adoption and help MakerDAO bring stability and financial inclusion to the world. To accomplish these goals, we created a 'Do It Yourself' Meetup guide and microgranting program dedicated to helping anyone create and organize a local community meetup.
-
-### [Community Translations](https://community-development.makerdao.com/en/programs/translations)
-
-We bring MakerDAO educational content to people around the world in their native languages by incentivizing our community translators with Dai bounties.
-
-### [Hackathons](https://community-development.makerdao.com/en/programs/hackathons)
-
-MakerDAO participates in a number of Hackathons every year. This section contains some information about how to request our participation in an upcoming event.
-
-### [Contributing](https://community-development.makerdao.com/en/programs/)
-
-If you have any suggestions about how you think these initiatives should transform, could be improved, or if you are interested in helping out, please join our [#community-development](https://chat.makerdao.com/channel/community-development) channel and introduce yourself.
-
-## 📚 Our Resources
-
-### [Awesome-MakerDAO](https://github.com/makerdao/awesome-makerdao/)
-
-Awesome-MakerDAO is a community-curated list of MakerDAO-related resources and content to which anyone can contribute. It contains official documentation, beginner guides, in-depth analysis, links to 3rd party tools, partnership announcements, AMAs, podcasts, and much more.
-
-### [MakerDAO MCD FAQs](https://community-development.makerdao.com/en/faqs/)
-
-This section provides answers to commonly asked questions about everything MakerDAO.
-
-We welcome you to help improve the MakerDAO FAQs by submitting Pull Requests or reaching out to us with feedback.
-
-### [Governance](https://community-development.makerdao.com/en/learn/governance)
-
-To ensure good governance and accountability, we've set up this section to contain helpful resources such as transcripts of the meetings, historical summaries, and more.
-
-## 🚀 Setting Up Local Environments
+## Portal
+### 🚀 Setting Up Local Environments
 
 We've built this as a Theme-UI Gatsby starter for projects that will use Dai-UI theme kits.
 
@@ -90,7 +56,7 @@ _See the official [Dai-UI](https://github.com/makerdao/dai-ui) repo for more in-
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-## 🧐 What's inside?
+### 🧐 What's inside?
 
 A quick look at some important files and directories you'll see in this project.
 
@@ -113,14 +79,13 @@ A quick look at some important files and directories you'll see in this project.
     └── README.md
 
 
-
-### Important Directories
+#### Important Directories
 
 1. **`src/gatsby-plugin-theme-ui`**: This directory contains all files that will be consumed by the gatsby-plugin-theme-ui on build and provided to components through context. For more info see their [docs](https://theme-ui.com/packages/gatsby-plugin#customizing-the-theme).
 
 2. **`src/modules`**: This directory is the mirror image of a components folder. Except it's organized by contextual focused. You can find all your ui related components in the ui folder.
 
-### Gatsby Usual Suspects
+#### Gatsby Usual Suspects
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
@@ -146,7 +111,7 @@ A quick look at some important files and directories you'll see in this project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-## ❤️ Made with Love
+#### ❤️ Made with Love
 
 Dai-UI - MakerDAO's Dai-UI Team
 
@@ -154,7 +119,7 @@ This Starter - <a href="https://github.com/MaximumCrash" target="_blank">@Maximu
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-## Contributors ✨
+#### Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
