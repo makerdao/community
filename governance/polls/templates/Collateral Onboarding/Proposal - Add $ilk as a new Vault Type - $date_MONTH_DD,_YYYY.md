@@ -37,14 +37,14 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 Please review the following forum threads containing information about $ilk and the underlying collateral $collateral_asset to inform your position before voting.
 * [Proposal Thread]($proposal_thread)
-* [Risk Evaluation]($risk_link)
-* [Smart Contracts Evaluation]($sc_link)
-* [Oracles Evaluation]($oracles_link)
+* [Risk Core Unit Evaluation]($risk_link)
+* [Protocol Engineering Core Unit Evaluation]($pe_link)
+* [Oracles Team Evaluation]($oracles_link)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $ilk ($asset_name) will be onboarded in a future executive vote as the Smart Contracts domain team's schedule allows. 
+* $ilk ($asset_name) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
