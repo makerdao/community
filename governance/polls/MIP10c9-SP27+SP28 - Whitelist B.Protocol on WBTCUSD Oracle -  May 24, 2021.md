@@ -23,9 +23,9 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending B.Protocol to the WBTCUSD Oracle Security Module and Median whitelists to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending B.Protocol to the WBTCUSD Oracle Security Module and Medianizer whitelists to read current and queued price data.
 
-Please review the application [threads](https://forum.makerdao.com/tag/bprotocol-wbtcusd) to inform your position on this issue before voting.
+Please review the application threads for the [OSM](https://forum.makerdao.com/t/mip10c9-sp28-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle-access-osm/7876) and [Medianizer](https://forum.makerdao.com/t/mip10c9-sp27-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle/7875) whitelist proposals to inform your position on this issue before voting.
 
 ## Outcomes
 
