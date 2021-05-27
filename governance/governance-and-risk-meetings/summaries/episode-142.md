@@ -103,7 +103,7 @@
 - [Last week's executives](https://vote.makerdao.com/executive/parameter-changes-and-oracle-updates?network=mainnet#proposal-detail) are still out there and need more votes. This is a critical prerequisite for continuing the LP tokens to Liq 2.0, which everyone highly agrees is quite desirable. Liq 2.0 requires that it checks the OSM.
 - We'll do the LP tokens this week and then finish up with stable coins next week. There is not much to do with stable coins besides cleaning up the technical debt and getting rid of Liq 1.2. Later in the call, we can discuss stable coins and the PSM, based on what Governance wants to do with the PSM for the rest of the stable coins. Finally, we can discuss how we would liquidate those stable coins into respective PSMs. If we're not going to move something to a PSM, how do we deal with liquidating it?
 - Liquidations 2.0 was a huge success. Everyone who was involved did a great job of helping us accomplish this.
-- We're also working on converting the clipper (calle?? 14:00) for Liq 2.0 over to the LP tokens and the auction demo keeper. It will be capable of liquidating LP tokens when it's ready. Some MegaPoker or OmegaPoker work, but I am not sure what the exact details are.
+- We're also working on converting the clipper calls for Liq 2.0 over to the LP tokens and the auction demo keeper. It will be capable of liquidating LP tokens when it's ready. Some MegaPoker or OmegaPoker work, but I am not sure what the exact details are.
     - Steven: Can you elaborate more on the thinking and timeframe behind the delegation.
     - Chris: We're beelining it to the lightest touch or simplest implementation that we can. The irony is that most of the code was written back during Osaka; it's been sitting around since Devcon. Sam updated it for modern times. We have one general concern with that implementation which is that it doesn't expire delegate. There is concern that if you delegate MKR to somebody. That delegate passes away or something, then that person will have control of MKR up to infinity. We're going to introduce expirations of 12 to 18 months because we do expect to have DssVest replacing the DssChief at some point. We have stuff for early-mid June, but I would bet that delegation could be ready by mid-late June.
     - Derek: The other dependency is the front-end work. Yesterday, we discussed with the JS team a bit of work involving dependency on completing the Liq 2.0. Mid-end June is a safe assumption, but their team has to size it. The code is mostly done, and we would like to perform an internal audit and some testing.
@@ -249,43 +249,43 @@ https://blog.mercadobitcoin.com.br/defis-mercado-bitcoin
 
 - Yesterday, we had the biggest liquidation event at Maker, like many other places in DeFi. For Ether, it was the second-biggest drop. The largest drawdown today was 46%, and Black Thursday last year was 48%. So it was a good stress test for Liq 2.0.
 
-- ![Debt](https://i.imgur.com/jF3SQeh.png)
+![Debt](https://i.imgur.com/jF3SQeh.png)
 
 - This is the cumulative debt being liquidated, including penalty fees, on one day, May 19th. It misses two other heat liquidations we had overnight. Roughly 50 million of debt was liquidated in one day if you include those. WBTC was liquidated initially, then ETH-A, and then some other Vaults like ZRX and ETH-B. Altogether, 50 million in one day.
 
-- ![General Stats](https://i.imgur.com/QHAkHNd.png)
+![General Stats](https://i.imgur.com/QHAkHNd.png)
 
 - Here are some performance stats more or less focused on penalty fees. I forgot to mention there were 177 auctions and that a 5,109,538 penalty fee was collected. Almost all penalty fee was collected successfully, apart from a few Vaults were it wasn't. Three Vaults on ETH-A were unluckily liquidated at the worst point of time, considering the price curve. ETH-B has a lower collateralization ratio, so any discounts from auctions, from keepers' profits, or just slippage related leads to penalty fees not being fully collected. And ZRX-A was a special case because it was liquidated in few batches. After all, we limited auction throughput because the launching liquidity is not that good. But all in all, 12,44% is the full number, so nothing to complain about.
 
-- ![Same Chart](https://i.imgur.com/Zg3Yr6a.png)
+![Same Chart](https://i.imgur.com/Zg3Yr6a.png)
 
-- ![Loss Events](https://i.imgur.com/YpXYWoq.png)
+![Loss Events](https://i.imgur.com/YpXYWoq.png)
 
 - I wanted to include the Loss Events to be fully transparent. This is a really small number of Vaults that got liquidated. When keepers liquidate a small Vault, it costs a lot in gas fees related to the debt being bought, so they bid lower prices. On ETH-A, you can see that the slippage towards OSM was 28%, but the loss was 81DAI. For ETH-B, it is not as small. Again, because of ETH-B, any slippage related to keepers' profits and bad price trajectory versus the price curve leads to a loss. We had a 12 thousand DAI loss. The total loss for Maker was 12 thousand versus 5,1 million of revenues.
 
-- ![Returned Collateral to Vaults](https://i.imgur.com/IXwlDOt.png)
+![Returned Collateral to Vaults](https://i.imgur.com/IXwlDOt.png)
 
 - This is another metric that is also relevant. There are three parts to the whole thing. How much penalty fees Maker collects, the profits of keepers, and how much Vault gets back. This is especially important, and this metric might be confusing. It checks how much collateral a Vault owner got back versus his total deposited collateral. If the liquidation ratio is high, you normally get more back. For something like 175 liquidation ratio Vault, they should get back on some normal prices by about 30% to 35% for the remaining collateral. This is what we are mostly seeing. Whereas at some lower collateralized Vaults such as ETH-A or even ETH-B, those shares are smaller because the liquidation ratio is smaller and the penalty fee is higher related to the whole collateral. For ETH-B, the normal number is about 15%; it should be closer to 20% for ETH-A. This could be better, but it wasn't mostly because of those two Vaults unluckily liquidated at the worst possible time.
 
-- ![Auction Efficiency](https://i.imgur.com/b0t66j0.png)
+![Auction Efficiency](https://i.imgur.com/b0t66j0.png)
 
 - This chart shows how you measure Auction Efficiency. Normally, it is related to the OSM price. We know OSM price is left by one hour. If keepers are a bit late, if they want more profit, you have these delays in bids if the price trajectory is worse than the auction price curve. The expected bid is about 40 minutes, but if the price keeps tanking faster than the auction price or if keepers want to make more profit, we have delays in bids. When this happens, the price is lower than the OSM. For instance, the average discount on all the ETH-A auctions was about 6% to 7%. If we wanted to have 100% efficient auctions, it would be somewhere around the 0,00% line or slightly higher depending on how the price trajectory goes. Normally, you want to have 100% efficiency, zero slippage in OSM, but why does this happen? One reason is just the auction price curve versus the market price trajectory. It is not perfect, and you cannot just determine it because you do not know how the prices will move. The other reason is related to keepers. Here, efficiency looks at settlement prices at auction versus the market prices. We wanted to check the market price at the time of the settlement, whereas we looked at the off-chain real-time prices. This is not necessarily 100% correct because many keepers just `flip` collateral on on-chain venues. It is not necessarily one-to-one synced with the auction prices. This is just an estimate, but it is about there. It shows that keepers who were bidding, for instance, on ETH-A, were actually bidding on average 6% or 7% below market prices. This was an estimated profit that is not 100% correct, but they need to take something for themselves. What does this basically tell us? This slippage that you see versus OSM is not necessarily related, just too bad pricing or bad price trajectory versus auction curve. Still, keepers are not 100% competitive. They are not working with zero profits, so we see part of the Vault performance because of this. Still, good numbers in general. What may be worth adding here is that some smaller Vaults have higher slippage because gas costs are high. After all, keepers will bid lower because the liquidity tokens of other Vaults are not as good. When keepers offload, they need to assign the slippage, which they can already see on Uniswap, for instance, so they bid lower. That is why we have throughput limitations, as we did yesterday for ZRX.
 
-- ![Auction Efficiency](https://i.imgur.com/HGGyzmG.png)
+![Auction Efficiency](https://i.imgur.com/HGGyzmG.png)
 
 - Same thing but focused on ETH Vaults. Here you see the two Vaults that were liquidated at the worst possible time.
 - Yesterday we had luck, and suddenly we had not. The price was updated right before the drop, which means that the auction price started at a higher price, which is around 2440. Then, the price kept tanking, about 20% in 20 or 30 minutes. The auction price curve could not catch the market price, which was dropping, and that is why these two Vaults were liquidated at much lower prices, about a 25% discount to OSM. These are the Vaults that did not carry the penalty fee, and this is why we had a bit worse performance on ETH-A.
 - Otherwise, all the other Vaults were healthy. Everything up to 10% discount is good. Again, it is a random process.
 
-- ![Settlement Time Distribution](https://i.imgur.com/1LnuIIn.png)
+![Settlement Time Distribution](https://i.imgur.com/1LnuIIn.png)
 
 - This is the distribution of settlement times. The expected auction duration is about 40 minutes if keepers do take nothing for themselves, if prices are stable, and so on. On average, in all the Vaults types, we were between 30 and 50, so it worked as it should. But because of this random volatility, some Vaults got liquidated later. Here, you can see these two ETH Vaults again with 80 to 200 minutes. As soon as it goes above 100 minutes, it becomes for ETH-A. It's important to mention that they would already carry a loss if those two Vaults were ETH-B.
 
-- ![Keeper Participation - KICKS](https://i.imgur.com/NJhPxZj.png)
+![Keeper Participation - KICKS](https://i.imgur.com/NJhPxZj.png)
 
 - This is Keeper Participation for KICKS events when they trigger an auction. Surprisingly 18 keepers were kicking auctions, especially knowing that retail did not kick any auctions. It is also good to notice that these are not necessarily 18 different entities because they may have many wallets. However, 18 different entities while it is kicking is always good. There is also the amount that they received as an incentive. The variable incentive is a very cheap parameter, and it was set at 0.1% of Vault. They get the incentive parameter back when they kick a Vault. This is the part that we need to re-evaluate because some smaller Vaults were not necessarily kicked immediately. This is why we need to introduce this flat fee that I was talking about earlier. There are mostly three keepers that kicked most of the auctions.
 
-- ![Keeper Participation - TAKES](https://i.imgur.com/wsob5uR.png)
+![Keeper Participation - TAKES](https://i.imgur.com/wsob5uR.png)
 
 - These are the entities that purchased collateral. There are 21 of them, and retail is included here as well. The amounts are great. Compared to Liq 1.2, where we had one to three people bidding, this is 10 or 20 times better. It looks good. There are again three performing entities, but that is probably Vaults' related, so we want to see that as well.
 
