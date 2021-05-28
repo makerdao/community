@@ -1,6 +1,6 @@
 ---
 title: Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY
-summary: This poll proposes system parameters which could be used to initialize $ilk as a new vault type.
+summary: This poll proposes system parameters which could be used to initialize $ilk as a new RWA vault type.
 discussion_link: $proposal_thread
 vote_type: Plurality Voting
 categories:
@@ -24,32 +24,14 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk as a new vault type in the Maker Protocol with the parameters below:
 
-### Initial Collateral Parameters
+### Collateral Parameters
 
-* Underlying Collateral: $collateral_asset
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
-* [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
-
-### Liquidation 2.0 Parameters
-
-* [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $calc_parameter
-* [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $cut_parameter
-* [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $step_parameter
-* [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): $buf_parameter
-* [Liquidation Penalty (`chop`)](https://github.com/makerdao/community/blob/master/governance/parameter-docs/param-liquidation-penalty.md): $chop_parameter
-
-**Limits**
-
-* [Local Liquidation Limit (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): $ilk-hole-parameter
-* [Maximum Auction Drawdown (`cusp`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-drawdown): $cusp-parameter
-* [Maximum Auction Duration (`tail`)](https://community-development.makerdao.com/en/learn/governance/param-max-auction-duration): $tail-parameter
-* [Breaker Price Tolerance (`tolerance`)](https://community-development.makerdao.com/en/learn/governance/param-breaker-price-tolerance): $tolerance-parameter
-
-**Incentives**
-
-* [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $chip-parameter
-* [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $tip-parameter
+* Min Vault CR: $min_vault_cr
+* Min SPV CR: $min_spv_cr
+* Min Vault Underlying CR: $min_vault-underlying_cr
+* Liquidation Process: $liquidation_process 
 
 Please review the following forum threads containing information about $ilk and the underlying collateral $collateral_asset to inform your position before voting.
 * [Proposal Thread]($proposal_thread)
