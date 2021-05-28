@@ -3,8 +3,8 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
-const { UrlConverter } = require("./src/build-utils");
-const FALLBACK_LOCALE = "en";
+const { UrlConverter } = require('./src/build-utils');
+const FALLBACK_LOCALE = 'en';
 //TODO(Rejon): Add in support for the case similar pages exist outside of the locale folders.
 //			   We don't want to override pages at the top level if they exist.
 
@@ -32,8 +32,8 @@ exports.createPages = async ({ graphql, actions }) => {
 
   pages.pages.edges.map(({ node }) => {
     const noLocalePath = UrlConverter(node)
-      .replace(/^\/([\w]{2})\//, "/")
-      .replace("index", "");
+      .replace(/^\/([\w]{2})\//, '/')
+      .replace('index', '');
 
     createRedirect({
       fromPath: noLocalePath,
@@ -44,148 +44,158 @@ exports.createPages = async ({ graphql, actions }) => {
 
   //Legacy Redirect Fix
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs",
+    fromPath: '/makerdao-mcd-faqs/faqs',
     toPath: `/${FALLBACK_LOCALE}/faqs/`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/",
+    fromPath: '/makerdao-mcd-faqs/',
     toPath: `/${FALLBACK_LOCALE}/faqs/`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/dsr",
+    fromPath: '/makerdao-mcd-faqs/faqs/dsr',
     toPath: `/${FALLBACK_LOCALE}/learn/Dai/dsr`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/vault",
+    fromPath: '/makerdao-mcd-faqs/faqs/vault',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-scd-faqs/scd-faqs/stability-fee",
+    fromPath: '/makerdao-scd-faqs/scd-faqs/stability-fee',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/liquidation",
+    fromPath: '/makerdao-mcd-faqs/faqs/liquidation',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/stability-fee",
+    fromPath: '/makerdao-mcd-faqs/faqs/stability-fee',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/stability-fees`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/dai",
+    fromPath: '/makerdao-mcd-faqs/faqs/dai',
     toPath: `/${FALLBACK_LOCALE}/learn/Dai`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/mkr-token",
+    fromPath: '/makerdao-mcd-faqs/faqs/mkr-token',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/mkr-token`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-scd-faqs/scd-faqs/liquidation",
+    fromPath: '/makerdao-scd-faqs/scd-faqs/liquidation',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/liquidation`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/oracles",
+    fromPath: '/makerdao-mcd-faqs/faqs/oracles',
     toPath: `/${FALLBACK_LOCALE}/learn/Oracles`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/emergency-shutdown",
+    fromPath: '/makerdao-mcd-faqs/faqs/emergency-shutdown',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/emergency-shutdown`,
   });
 
   createRedirect({
-    fromPath: "/makerdao-mcd-faqs/faqs/glossary",
+    fromPath: '/makerdao-mcd-faqs/faqs/glossary',
     toPath: `/${FALLBACK_LOCALE}/learn/faqs/glossary`,
   });
 
   createRedirect({
-    fromPath: "/governance",
+    fromPath: '/governance',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/`,
   });
 
   createRedirect({
-    fromPath: "/governance/governance-risk-framework",
+    fromPath: '/governance/governance-risk-framework',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework/`,
   });
 
   createRedirect({
-    fromPath: "/contributing",
+    fromPath: '/contributing',
     toPath: `/${FALLBACK_LOCALE}/contribute/`,
   });
 
   createRedirect({
-    fromPath: "/grants",
+    fromPath: '/grants',
     toPath: `/${FALLBACK_LOCALE}/funding/development-grants`,
   });
 
   createRedirect({
-    fromPath: "/meetups",
+    fromPath: '/meetups',
     toPath: `/${FALLBACK_LOCALE}/funding/meetup-funding`,
   });
 
   createRedirect({
-    fromPath: "/meetups/requesting-funds",
+    fromPath: '/meetups/requesting-funds',
     toPath: `/${FALLBACK_LOCALE}/funding/meetup-funding`,
   });
 
   createRedirect({
-    fromPath: "/hackathons",
+    fromPath: '/hackathons',
     toPath: `/${FALLBACK_LOCALE}/funding/hackathon-funding`,
   });
 
   createRedirect({
-    fromPath: "/risk",
+    fromPath: '/risk',
     toPath: `/${FALLBACK_LOCALE}/learn/collateral-and-risk/`,
   });
 
   createRedirect({
-    fromPath: "/translations",
+    fromPath: '/translations',
     toPath: `/${FALLBACK_LOCALE}/contribute/translations`,
   });
 
   createRedirect({
-    fromPath: "/onboarding",
+    fromPath: '/onboarding',
     toPath: `/${FALLBACK_LOCALE}/learn`,
   });
 
   createRedirect({
-    fromPath: "/onboarding/vault-onboarding",
+    fromPath: '/onboarding/vault-onboarding',
     toPath: `/${FALLBACK_LOCALE}/learn/vaults/vaults-tutorial`,
   });
 
   createRedirect({
-    fromPath: "/onboarding/voter-onboarding",
+    fromPath: '/onboarding/voter-onboarding',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/how-voting-works`,
   });
 
   createRedirect({
-    fromPath: "/governance/governance",
+    fromPath: '/governance/governance',
     toPath: `/${FALLBACK_LOCALE}/learn/governance`,
   });
 
   createRedirect({
-    fromPath: "/governance/governance-risk-framework/part-one",
+    fromPath: '/governance/governance-risk-framework/part-one',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/gov-risk-framework/`,
   });
 
   createRedirect({
-    fromPath: "/governance/common-topics",
+    fromPath: '/governance/common-topics',
     toPath: `/${FALLBACK_LOCALE}/learn/governance/common-topics`,
   });
 
   createRedirect({
-    fromPath: "/governance/core-principles",
+    fromPath: '/governance/core-principles',
     toPath: `/${FALLBACK_LOCALE}/learn/MakerDAO/core-principles`,
+  });
+
+  createRedirect({
+    fromPath: '/contribute/contest',
+    toPath: `/${FALLBACK_LOCALE}/programs/contest`,
+  });
+
+  createRedirect({
+    fromPath: '/governance/governance-tools',
+    toPath: `/${FALLBACK_LOCALE}/learn/governance/participate`,
   });
 };
 
@@ -194,11 +204,21 @@ exports.onCreatePage = async ({ page, actions }) => {
 
   // inject breadcrumbs into page context
   const { context: oldPageContext } = page;
+
+  //NOTE(Rejon): Pass a regex string variable for blog home pages so we can make sure we're getting the correct locale.
+  if (
+    page.path.includes('/blog/') &&
+    !page.componentPath.includes('/blogPosts/')
+  ) {
+    oldPageContext.regex = `//blogPosts/${page.path.split('/')[1]}/`; //ie. /blogPosts/en
+  }
+
   deletePage(page);
   createPage({
     ...page,
     context: {
       ...oldPageContext,
+      locale: page.path.split('/')[1],
       pagePath: page.path, //NOTE(Rejon): I provide this so we can have a navigational anchor during static builds for pathDirs and sidenav/breadcrumb data.
     },
   });
