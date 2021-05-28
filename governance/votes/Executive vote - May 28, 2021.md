@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The **PSM-USDC-A** Debt Ceiling will increase from 2 billion DAI to 3 billion DAI.
 - The Flat Kick Incentive (`tip`) will increase from 0 DAI to 300 DAI for all vault types with active liquidations.
-- [BProtocol](https://www.bprotocol.org/) will be whitelisted on the **WBTC** OSM and Medianizer Oracles.
+- [B.Protocol](https://www.bprotocol.org/) will be whitelisted on the **WBTC** OSM and Medianizer Oracles.
 - The **UNIV2DAIETH-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
 - The **UNIV2USDCETH-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
 - The **UNIV2ETHUSDT-A** vault type will be added to the Liquidations 2.0 framework with the parameters listed below.
@@ -41,19 +41,19 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Increase PSM-USDC-A Debt Ceiling
 
-As per this urgent [signal thread](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274), the mandated actors have decided to propose increases to the PSM-USDC-A Debt Ceiling to help mitigate the possibility of DAI deviating from the dollar peg in the event of further volatility in the market. The PSM-USDC-A Debt Ceiling will increase from 2 billion DAI to 2 billion DAI if this executive proposal passes.
+As per this urgent [signal thread](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274), the mandated actors have decided to propose an increase to the PSM-USDC-A Debt Ceiling to help mitigate the possibility of DAI deviating from the dollar peg in the event of further volatility in the market. The PSM-USDC-A Debt Ceiling will increase from 2 billion DAI to 3 billion DAI if this executive proposal passes.
 
 The reasoning for this urgent inclusion can be found [here](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274/11).
 
 ### Increase Flat Kick Incentive (`tip`) for All Vault Types
 
-As per this urgent [signal thread](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274), the mandated actors have decided to propose setting the [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive) for all vaults to 300 DAI to ensure liquidations run smoothly for smaller vaults in the event of further volatility in the market. The [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive) will increase from 0 DAI to 300 DAI on all vault types with liquidations enabled if this executive proposal passes.
+As per this urgent [signal thread](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274), the mandated actors have decided to propose an increase to the [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive) to ensure liquidations run smoothly for smaller vaults in the event of further volatility in the market. The [Flat Kick Incentive](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive) will increase from 0 DAI to 300 DAI on all vault types with liquidations enabled if this executive proposal passes.
 
 The reasoning for this urgent inclusion can be found [here](https://forum.makerdao.com/t/urgent-adjustments-to-tip-psm-usdc-a-dc/8274/11).
 
-### Whitelist BProtocol on WBTC Oracles
+### Whitelist B.Protocol on WBTC Oracles
 
-As per the outcome of this [poll](https://vote.makerdao.com/polling/QmSUny5o?network=mainnet#poll-detail), [BProtocol](https://www.bprotocol.org/) will be whitelisted on the WBTC OSM and Medianizer oracles if this executive proposal passes. See the [OSM](https://forum.makerdao.com/t/mip10c9-sp28-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle-access-osm/7876) and [Medianizer](https://forum.makerdao.com/t/mip10c9-sp27-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle/7875) whitelisting applications for further details.
+As per the outcome of this [poll](https://vote.makerdao.com/polling/QmSUny5o?network=mainnet#poll-detail), [B.Protocol](https://www.bprotocol.org/) will be whitelisted on the WBTC OSM and Medianizer oracles if this executive proposal passes. See the [OSM](https://forum.makerdao.com/t/mip10c9-sp28-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle-access-osm/7876) and [Medianizer](https://forum.makerdao.com/t/mip10c9-sp27-subproposal-to-whitelist-b-protocol-contract-for-wbtc-usd-oracle/7875) whitelisting applications for further details.
 
 ### Adding Stablecoin-Volatile Uniswap LPs to Liquidations 2.0
 
