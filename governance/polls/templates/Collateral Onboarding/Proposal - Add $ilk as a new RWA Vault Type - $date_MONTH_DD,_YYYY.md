@@ -22,20 +22,20 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk ($asset_name) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Collateral Parameters
 
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
-* Min Vault CR: $min_vault_cr
-* Min SPV CR: $min_spv_cr
-* Min Vault Underlying CR: $min_vault-underlying_cr
+* Minimum Vault Collateralization Ratio: $min_vault_cr
+* Minimum SPV Collateralization Ratio: $min_spv_cr
+* Minimum Underlying Collateralization Ratio: $min_underlying_cr
 * Liquidation Process: $liquidation_process 
 
-Please review the following forum threads containing information about $ilk and the underlying collateral $collateral_asset to inform your position before voting.
-* [Proposal Thread]($proposal_thread)
-* [Risk Core Unit Evaluation]($risk_link)
+Please review the following forum threads containing information about $ilk ($asset_name) to inform your position before voting.
+* [Initial Collateral Application]($proposal_thread)
+* [Real-World Finance Core Unit Risk Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
 * [Oracles Team Evaluation]($oracles_link)
 
