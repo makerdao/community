@@ -22,14 +22,14 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk ($asset_name) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Initial Collateral Parameters
 
 * Underlying Collateral: $collateral_asset
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
+* [Debt Ceiling (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
 
 ### Liquidation 2.0 Parameters
 
@@ -37,7 +37,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $cut_parameter
 * [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $step_parameter
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): $buf_parameter
-* [Liquidation Penalty (`chop`)](https://github.com/makerdao/community/blob/master/governance/parameter-docs/param-liquidation-penalty.md): $chop_parameter
+* [Liquidation Penalty (`chop`)](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): $chop_parameter
 
 **Limits**
 
@@ -51,7 +51,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): $chip-parameter
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): $tip-parameter
 
-Please review the following forum threads containing information about $ilk and the underlying collateral $collateral_asset to inform your position before voting.
+Please review the following forum threads containing information about $ilk ($asset_name) to inform your position before voting.
 * [Proposal Thread]($proposal_thread)
 * [Risk Core Unit Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
