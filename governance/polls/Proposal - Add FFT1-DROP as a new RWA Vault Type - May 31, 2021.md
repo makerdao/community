@@ -28,9 +28,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4.5%
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 15 million DAI
-* Min Vault CR: 105%
-* Min SPV CR: 111%
-* Min Vault Underlying CR: 116.6%
+* Minimum Vault Collateralization Ratio: 105%
+* Minimum SPV Collateralization Ratio: 111%
+* Minimum Underlying Collateralization Ratio: 116.6%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
 Please review the following forum threads containing information about FFT1-DROP and the underlying Fortunafi DROP Token to inform your position before voting.
