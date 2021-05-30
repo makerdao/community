@@ -22,8 +22,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-petition-letter-to-a16z/7181) to help inform your position before voting.
 
-The community can vote in this poll to express support or opposition to the signing this petition:
+The community can vote in this poll to express support or opposition to the signing the following petition letter. The canonical version of this letter is on IPFS [here](https://ipfsgate.com/ipfs/QmYDpsrhpnBNp4N8ASGCprw8iVEN8tLMGxzkzDNkgaNNWH). The contents have been pasted below for convenience.
 
+---
 **Petition Letter**
 
 to the attention of the Andreessen Horowitz [A16z Crypto team](https://a16z.com/crypto/#vertical-landing-staff).
@@ -55,9 +56,11 @@ With best regards,
 
 MakerDAO community
 
+---
+
 ## Outcomes
 
-**Regardless of the outcome of this poll, no action will be taken at this time.**
+**Regardless of the outcome of this poll, no actions will be taken at this time.**
 
 ---
 
