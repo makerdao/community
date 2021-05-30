@@ -22,7 +22,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding CF-DROP as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding CF-DROP (ConsolFreight DROP Token) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Collateral Parameters
 
@@ -33,9 +33,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Minimum Underlying Collateralization Ratio: 114%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
-Please review the following forum threads containing information about CF-DROP and the underlying collateral ConsolFreight DROP Token to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/cf-drop-mip6-application-consolfreight-drop-tokenized-freight-shipping-invoices/2214)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/cf-drop-collateral-onboarding-risk-evaluation/5597)
+Please review the following forum threads containing information about CF-DROP (ConsolFreight DROP Token) to inform your position before voting.
+* [Initial Collateral Application](https://forum.makerdao.com/t/cf-drop-mip6-application-consolfreight-drop-tokenized-freight-shipping-invoices/2214)
+* [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/cf-drop-collateral-onboarding-risk-evaluation/5597)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa003-cf4drp-cf-drop-mip22-token-protocol-engineering-domain-team-assessment/8382)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-003-cf-drop-collateral-onboarding-oracle-assessment-mip10c3-sp29/8399)
 
