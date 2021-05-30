@@ -22,11 +22,11 @@ We also explore a range of themes:
 
 In these weekly calls, we will be learning together from some of the smartest people in the space.
 
-If you have an interest in helping Maker evolve over the next few years, please sit in and take part in shaping the future of our DAO.
+If you have an interest in helping Maker evolve, please sit in and take part in shaping the future of our DAO.
 
 ## When
 
-- [Thursdays 10AM PST (5PM UTC)](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
+- [Thursdays 17:00 UTC (10am PST)](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk@group.calendar.google.com&ctz=America/Los_Angeles)
 
 ## Connection Info
 
@@ -36,7 +36,6 @@ If you have an interest in helping Maker evolve over the next few years, please 
 
 ## Meeting Archives
 
-- [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk)
 - [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan)
 - [Summaries](summaries/)
-- [Transcripts](transcripts/)
+- [Legacy Transcripts](transcripts/)

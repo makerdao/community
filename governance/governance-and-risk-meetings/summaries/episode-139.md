@@ -1,11 +1,3 @@
----
-title: "Governance & Risk Episode 139"
-authors: ["Davidutro", "Artem Isios", "Gala Guillén", "Sai Teja"]
-date: 2021-04-29
-description: "Semi-transcribed meeting notes equip with video links, crosslinks, and more. Welcome to MakeDAO scientific Governance and Risk meeting #139 taking place on Thursday, April 29th at 17:00 UTC."
-image: "/images/blog_headers/general_2.png"
----
-
 # Episode 139: April 29, 2021
 
 ## Agenda
