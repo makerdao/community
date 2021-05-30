@@ -34,7 +34,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
 Please review the following forum threads containing information about P1-DROP (Peoples Company Series 1 DROP Token) to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518)
+* [Initial Collateral Application](https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518)
 * [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/p1-drop-mip6-risk-assessment-alternative-equity-advisors-drop-us-agricultural-real-estate/8232)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa006-pp1drp-p1-drop-mip22-token-protocol-engineering-domain-team-assessment/8418)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-006-p1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp32/8402)
