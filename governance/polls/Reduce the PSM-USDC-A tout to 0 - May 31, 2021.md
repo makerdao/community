@@ -1,6 +1,6 @@
 ---
-title: Reduce the USDC PSM `tout` to 0 - May 31, 2021
-summary: Signal your support or opposition for reducing the USDC PSM `tout` to 0
+title: Lower the PSM-USDC-A `tout` - May 31, 2021
+summary: Signal your support or opposition for reducing the PSM-USDC-A `tout` from 0.04% to 0%.
 discussion_link: https://forum.makerdao.com/t/signal-request-reduce-the-usdc-psm-tout-to-0/8128
 vote_type: Plurality Voting
 categories:
@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Reduce the USDC PSM `tout` to 0 - May 31, 2021
+# Poll: Lower the PSM-USDC-A `tout` - May 31, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 31 at 16:00 UTC.
 
@@ -23,7 +23,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Reducing the USDC PSM `tout` to 0
+* Reduce the PSM-USDC-A Fee Out (`tout`) from 0.04% to 0%. 
+
+For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-reduce-the-usdc-psm-tout-to-0/8128) to help inform your position before voting.
 
