@@ -22,7 +22,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding FFT1-DROP as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding FFT1-DROP (Fortunafi DROP Token) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Collateral Parameters
 
@@ -33,9 +33,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Minimum Underlying Collateralization Ratio: 116.6%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
-Please review the following forum threads containing information about FFT1-DROP and the underlying Fortunafi DROP Token to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/fft1-drop-mip6-application-fortunafi-drop-revenue-based-financing-assets/6015)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/fft1-drop-collateral-onboarding-risk-evaluation/8036)
+Please review the following forum threads containing information about FFT1-DROP (Fortunafi DROP Token) to inform your position before voting.
+* [Initial Collateral Application](https://forum.makerdao.com/t/fft1-drop-mip6-application-fortunafi-drop-revenue-based-financing-assets/6015)
+* [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/fft1-drop-collateral-onboarding-risk-evaluation/8036)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa005-ff1drp-fft1-drop-mip22-token-protocol-engineering-domain-team-assessment/8417)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-005-fft1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp31/8401)
 
