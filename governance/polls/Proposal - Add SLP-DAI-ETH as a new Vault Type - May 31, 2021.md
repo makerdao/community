@@ -22,15 +22,15 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding SLP-USDC-ETH as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding SLP-DAI-ETH as a new vault type in the Maker Protocol with the parameters below:
 
 ### Initial Collateral Parameters
 
-* Underlying Collateral: Sushiswap DAI<>ETH LP Token
+* Underlying Collateral: Sushiswap DAI-ETH LP Token
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4.5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 125%
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 million DAI
-* [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 5000 DAI
+* [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 5000 DAI
 
 ### Liquidation 2.0 Parameters
 
@@ -38,7 +38,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.995
 * [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 125 seconds
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.15
-* [Liquidation Penalty (`chop`)](https://github.com/makerdao/community/blob/master/governance/parameter-docs/param-liquidation-penalty.md): 13%
+* [Liquidation Penalty (`chop`)](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
 
 **Limits**
 * [Local Liquidation Limit (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit): 1 million DAI
@@ -50,7 +50,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300
 
-Please review the following forum threads containing information about SLP-USDC-ETH and the underlying collateral Sushiswap DAI<>ETH LP Token to inform your position before voting.
+Please review the following forum threads containing information about SLP-DAI-ETH and the underlying collateral Sushiswap DAI-ETH LP Token to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/slp-dai-eth-mip6-collateral-onboarding-application/7957)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/slp-dai-eth-collateral-onboarding-risk-evaluation/8237)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/slp-dai-eth-erc20-token-smart-contract-technical-assessment/7954)
@@ -59,7 +59,7 @@ Please review the following forum threads containing information about SLP-USDC-
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* SLP-USDC-ETH (Sushiswap DAI<>ETH LP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* SLP-DAI-ETH (Sushiswap DAI-ETH LP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
