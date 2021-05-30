@@ -22,7 +22,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding SLP-DAI-ETH as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding SLP-DAI-ETH as a new vault type in the Maker Protocol with the parameters below.
 
 ### Initial Collateral Parameters
 
@@ -32,7 +32,15 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 million DAI
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 5000 DAI
 
-### Liquidation 2.0 Parameters
+### SushiJoin Adapter
+
+This vault type will use the SushiJoin Adapter which will allow users to receive any Sushiswap farming rewards that are available for their SLP-DAI-ETH tokens through the `MasterChefV2` contract.
+
+Please review the following links containing information about CropJoin to inform your position before voting.
+* [SushiJoin Technical Assessment](https://forum.makerdao.com/t/technical-overview-of-the-sushiswap-variant-of-the-cropjoin-adapter-sushijoin/8122)
+* [MIP30: Farmable Adapter (`CropJoin`)](https://mips.makerdao.com/mips/details/MIP30)
+
+### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.995
