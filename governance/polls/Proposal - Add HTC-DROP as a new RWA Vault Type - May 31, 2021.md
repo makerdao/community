@@ -22,7 +22,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding HTC-DROP as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding HTC-DROP (Harbor Trade Credit DROP Token) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Collateral Parameters
 
@@ -33,16 +33,16 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Minimum Underlying Collateralization Ratio: 114%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
-Please review the following forum threads containing information about HTC-DROP and the underlying collateral Harbor Trade Credit DROP to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/htc-drop-mip6-application-harbor-trade-credit-drop-short-term-trade-receivables/3502)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/htc-drop-collateral-onboarding-risk-evaluation/8001)
+Please review the following forum threads containing information about HTC-DROP (Harbor Trade Credit DROP Token) to inform your position before voting.
+* [Initial Collateral Application](https://forum.makerdao.com/t/htc-drop-mip6-application-harbor-trade-credit-drop-short-term-trade-receivables/3502)
+* [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/htc-drop-collateral-onboarding-risk-evaluation/8001)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa004-ht2drp-htc-drop-mip22-token-protocol-engineering-domain-team-assessment/8416)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-004-htc-drop-collateral-onboarding-oracle-assessment-mip10c3-sp30/8400)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* HTC-DROP (Harbor Trade Credit DROP) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* HTC-DROP (Harbor Trade Credit DROP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
