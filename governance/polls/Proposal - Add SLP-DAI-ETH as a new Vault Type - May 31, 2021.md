@@ -50,7 +50,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300
 
-Please review the following forum threads containing information about SLP-DAI-ETH and the underlying collateral Sushiswap DAI-ETH LP Token to inform your position before voting.
+Please review the following forum threads containing information about SLP-DAI-ETH (Sushiswap DAI-ETH LP Token) to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/slp-dai-eth-mip6-collateral-onboarding-application/7957)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/slp-dai-eth-collateral-onboarding-risk-evaluation/8237)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/slp-dai-eth-erc20-token-smart-contract-technical-assessment/7954)
