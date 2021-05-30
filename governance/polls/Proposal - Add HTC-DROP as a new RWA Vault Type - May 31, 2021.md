@@ -28,9 +28,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 7%
 * [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 7 million DAI
-* Min Vault CR: 110%
-* Min SPV CR: 104%
-* Min Vault Underlying CR: 114%
+* Minimum Vault Collateralization Ratio: 110%
+* Minimum SPV Collateralization Ratio: 104%
+* Minimum Underlying Collateralization Ratio: 114%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
 Please review the following forum threads containing information about HTC-DROP and the underlying collateral Harbor Trade Credit DROP to inform your position before voting.
