@@ -1,7 +1,8 @@
 ---
 title: Add P1-DROP as a new RWA Vault Type - May 31, 2021
-summary: This poll proposes system parameters which could be used to initialize FFT1-DROP as a new RWA vault type.
-discussion_link: https://forum.makerdao.com/t/fft1-drop-mip6-application-fortunafi-drop-revenue-based-financing-assets/6015vote_type: Plurality Voting
+summary: This poll proposes system parameters which could be used to initialize P1-DROP as a new RWA vault type.
+discussion_link: https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518
+vote_type: Plurality Voting
 categories:
    - Collateral
    - Risk Variable
@@ -10,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Add FFT1-DROP as a new RWA Vault Type - May 31, 2021
+# Poll: Add P1-DROP as a new RWA Vault Type - May 31, 2021
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 31 at 16:00 UTC.
 
@@ -21,27 +22,27 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding FFT1-DROP as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding P1-DROP (Peoples Company Series 1 DROP Token) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Collateral Parameters
 
-* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4.5%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 15 million DAI
-* Min Vault CR: 105%
-* Min SPV CR: 111%
-* Min Vault Underlying CR: 116.6%
+* [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 2%
+* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 20 million DAI
+* Minimum Vault Collateralization Ratio: 100%
+* Minimum SPV Collateralization Ratio: 142%
+* Minimum Underlying Collateralization Ratio: 142%
 * Liquidation Process: [MIP22](https://mips.makerdao.com/mips/details/MIP22)
 
-Please review the following forum threads containing information about FFT1-DROP and the underlying Fortunafi DROP Token to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/fft1-drop-mip6-application-fortunafi-drop-revenue-based-financing-assets/6015)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/fft1-drop-collateral-onboarding-risk-evaluation/8036)
-* [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa005-ff1drp-fft1-drop-mip22-token-protocol-engineering-domain-team-assessment/8417)
-* [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-005-fft1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp31/8401)
+Please review the following forum threads containing information about P1-DROP (Peoples Company Series 1 DROP Token) to inform your position before voting.
+* [Proposal Thread](https://forum.makerdao.com/t/p1-drop-mip6-application-peoples-company-drop-us-agricultural-real-estate/5518)
+* [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/p1-drop-mip6-risk-assessment-alternative-equity-advisors-drop-us-agricultural-real-estate/8232)
+* [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa006-pp1drp-p1-drop-mip22-token-protocol-engineering-domain-team-assessment/8418)
+* [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-006-p1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp32/8402)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* FFT1-DROP (Fortunafi DROP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* P1-DROP (Peoples Company Series 1 DROP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
