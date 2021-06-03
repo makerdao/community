@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] Core Unit June Budget Distributions, Other Changes - June 4, 2021
+title: Template - [Executive Vote] June Core Unit Budget Distributions, Other Changes - June 4, 2021
 
 ---
-# [Executive Proposal] Core Unit June Budget Distributions, Other Changes - June 4, 2021
+# [Executive Proposal] June Core Unit Budget Distributions, Other Changes - June 4, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -47,17 +47,17 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### June Core Unit Distributions
+### June Core Unit Budget Distributions
 
 Due to the positive outcomes of multiple [Core Unit Budget Proposals](https://mips.makerdao.com/mips/list?&search=$AND(%23core-unit,%20%23budget,%20%23active)&subproposalsMode=true), the following budget allocations will be made to fund operations in the month of June if this executive proposal passes.
 
-- **40,000 DAI** will be distributed to **[Real World Finance (RWA-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1)**  core unit at **0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP1).
+- **40,000 DAI** will be distributed to the **[Real World Finance (RWA-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1)**  core unit at **0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c2SP1).
 - **100,500 DAI** will be distributed to the **[Risk (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2)**  core unit at **0xd98ef20520048a35EdA9A202137847A62120d2d9**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP2).
 - **80,000 DAI** will be distributed to the **[GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3)** core unit at **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP3) and modified within this forum [post](https://forum.makerdao.com/t/govalpha-administered-multi-sig/8304/3).
-- **510,000 DAI** will be distributed to **[Protocol Engineering (PE-001)]()** core unit at **0xe2c16c308b843eD02B09156388Cb240cEd58C01c** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7)
+- **510,000 DAI** will be distributed to the **[Protocol Engineering (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7)** core unit at **0xe2c16c308b843eD02B09156388Cb240cEd58C01c** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7)
 - **126,117 DAI** will be distributed to the **[Growth (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4)**  core unit at **0x7800C137A645c07132886539217ce192b9F0528e**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP4).
 - **44,375 DAI** will be distributed to the **[Content Production (MKT-001)](https://mips.makerdao.com/mips/details/MIP39c2SP5)**  core unit at **0x6A0Ce7dBb43Fe537E3Fd0Be12dc1882393895237** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP41c4SP5) and modified within this forum [post](https://forum.makerdao.com/t/adding-content-production-multisig/8428/5).
-- **642,135 DAI** will be distributed to **Sustainable Ecosystem Scaling (SES-001)** core unit auditors wallet at **0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP10).
+- **642,135 DAI** will be distributed to the **[Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10)** core unit auditors wallet at **0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP10).
 
 ### Reduce the PSM-USDC-A Fee Out (`tout`)
 
@@ -69,15 +69,19 @@ To resolve technical debt and ensure that the Maker Protocol remains as maintain
 - USDC-A
 - USDC-B
 - TUSD-A
-- USDT-A
 - PAXUSD-A
 - GUSD-A
 - PSM-USDC-A
 - UNIV2DAIUSDC-A
+- USDT-A
 
 ### Increase Global Debt Ceiling
 
-Due to the recent issue in which the Global Debt Ceiling limited usage of the Maker Protocol for a number of days, the Protocol Engineering Core Unit has proposed increasing the Global Debt Ceiling in this forum [post](https://forum.makerdao.com/t/propose-to-raise-the-global-debt-ceiling/8516). The Global Debt Ceiling will be increased by 500 million DAI if this executive proposal passes.
+Due to the recent issue in which the Global Debt Ceiling limited usage of the Maker Protocol for a number of days, the Protocol Engineering Core Unit has proposed increasing the Global Debt Ceiling in this forum [post](https://forum.makerdao.com/t/propose-to-raise-the-global-debt-ceiling/8516). 
+
+Typically, the Global Debt Ceiling is the sum of all available Debt Ceilings. To alleviate the recent issue, this measure proposes adding a fixed amount of 500 million DAI to the sum of the debt ceilings.
+
+The Global Debt Ceiling will be increased by 500 million DAI if this executive proposal passes.
 
 ## Review
 
