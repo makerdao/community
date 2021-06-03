@@ -13,7 +13,7 @@
   Community at Maker 
 </h1>
 
-The Maker Foundation Community Development team began with a mandate to directly foster the growth of the MakerDAO ecosystem by focusing on our community’s most motivated members. We launched a series of initiatives that encouraged people to participate in, and contribute to, the success of the Dai Stablecoin. With the dissolution of the Maker Foundation, these programs are now sunset and archived. Anyone interested in learning more about the programs can visit [Archives tag in the Community repo](https://github.com/makerdao/community/projects/2?card_filter_query=label%3Aarchive).
+The Maker Foundation Community Development team began with a mandate to directly foster the growth of the MakerDAO ecosystem by focusing on our community’s most motivated members. We launched a series of initiatives that encouraged people to participate in, and contribute to, the success of the Dai Stablecoin. With the dissolution of the Maker Foundation and [Community Development](https://blog.makerdao.com/the-maker-communitys-next-call-to-adventure/), these programs are now sunset and archived. Anyone interested in learning more about the programs can visit [Archives tag in the Community repo](https://github.com/makerdao/community/projects/2?card_filter_query=label%3Aarchive).
 
 One of the Community Development projects is [the community portal](https://community-development.makerdao.com/), a community developed resource, built and maintained by MakerDAO community members. Below are instructions on getting started with the portal, which is built with [Gatsby](https://github.com/gatsbyjs/gatsby-starter-default) and [DAI UI](https://github.com/makerdao/dai-ui/).
 

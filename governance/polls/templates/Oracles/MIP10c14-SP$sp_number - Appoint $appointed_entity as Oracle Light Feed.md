@@ -23,7 +23,7 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appointing $appointed_entity as an [Oracle Light Feed](https://github.com/makerdao/mips/blob/master/MIP10/mip10.md#feeds).
+The community can vote in this poll to express support or opposition to appointing $appointed_entity as an [Oracle Light Feed](https://mips.makerdao.com/mips/details/MIP10#feeds-).
 
 Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
 

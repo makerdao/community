@@ -1,20 +1,19 @@
 ---
-title: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
-discussion_link: $discussion_link
+title: Reduce the PSM-USDC-A Fee Out (tout) - May 31, 2021
+summary: Signal your support or opposition for reducing the PSM-USDC-A Fee Out (tout) from 0.04% to 0%.
+discussion_link: https://forum.makerdao.com/t/signal-request-reduce-the-usdc-psm-tout-to-0/8128
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - Rates
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
+# Poll: Reduce the PSM-USDC-A Fee Out (tout) - May 31, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
-
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 31 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,15 +22,12 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-The proposed parameters for the $ilk Debt Ceiling Instant Access Module are:
-* Collateral Type (`ilk`): $ilk
-* Maximum Debt Ceiling (`line`): $line
-* Target Available Debt (`gap`): $gap
-* Ceiling Increase Cooldown (`ttl`): $ttl
+The community can vote in this poll to express support or opposition to the following change: 
+* Reduce the PSM-USDC-A Fee Out (`tout`) from 0.04% to 0%. 
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+For more information on the `tout` parameter review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm).
 
-For more information regarding the Debt Ceiling Instant Access Module and how these parameters interact, check out the module documentation [here](https://community-development.makerdao.com/en/learn/governance/module-dciam).
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-reduce-the-usdc-psm-tout-to-0/8128) to help inform your position before voting.
 
 ## Outcomes
 
