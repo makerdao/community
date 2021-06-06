@@ -1,38 +1,40 @@
 ---
-title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio - June 7, 2021
-summary: Signal your support or opposition for decreasing the UNIV2DAIUSDC Liquidation Ratio from 105% to 101%.
+title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio and Stability Fee - June 7, 2021
+summary: Signal your preferred option for decreasing the UNIV2DAIUSDC Liquidation Ratio and Stability Fee.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-the-univ2daiusdc-a-liquidation-ratio/8487
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - Rates
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: Decrease LR to 101%, SF to 0.5%
+   2: Decrease LR to 102%, SF to 0.5%
+   3: No change (105% LR, 1.0% SF)
 ---
-# Poll: Decrease the UNIV2DAIUSDC-A Liquidation Ratio - June 7, 2021
+# Poll: Decrease the UNIV2DAIUSDC-A Liquidation Ratio and Stability Fee - June 7, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 7 at 16:00 UTC.
 
-**This is a binary vote.**
+**This is a plurality vote.** 
 - **You may vote for a single option.**
-- **You should vote for the option which you prefer.**
-- **If you would accept either option, you should vote 'Abstain'.**
+- **You should vote for the option that you prefer.** 
+- **If you would accept any of the options you should vote 'Abstain'.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change:
-* Decrease the UNIV2DAIUSDC-A Liquidation Ratio from 105% to 101%.
+The community can vote in this poll to express support for one of the following options to change the [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) and [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee for the UNIV2DAIUSDC-A vault type:
+* Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
+* Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
+* No change (105% Liquidation Ratio, 1.0% Stability Fee)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-the-univ2daiusdc-a-liquidation-ratio/8487) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
-
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
+**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
+* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 ---
 
