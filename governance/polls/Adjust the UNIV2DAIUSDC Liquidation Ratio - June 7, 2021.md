@@ -2,7 +2,7 @@
 title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio and Stability Fee - June 7, 2021
 summary: Signal your preferred option for decreasing the UNIV2DAIUSDC Liquidation Ratio and Stability Fee.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-the-univ2daiusdc-a-liquidation-ratio/8487
-vote_type: Plurality Voting
+vote_type: Ranked Choice IRV
 categories:
    - Risk Variable
    - Rates
@@ -16,10 +16,10 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 7 at 16:00 UTC.
 
-**This is a plurality vote.** 
-- **You may vote for a single option.**
-- **You should vote for the option that you prefer.** 
-- **If you would accept any of the options you should vote 'Abstain'.**
+**This is an instant-runoff vote.** 
+- **You may rank any number of options that you would support in an executive vote.** 
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
@@ -32,7 +32,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 ## Outcomes
 
-**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
+**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
 * If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 

@@ -7,8 +7,8 @@ categories:
    - Collateral
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: Yes (Greenlight)
+   2: No (Defer)
 ---
 # Poll: Investigate Implementation of a YFI-C Vault Type with a Higher Liquidation Ratio - June 7, 2021
 

@@ -21,7 +21,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending Yearn Finance to the UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles Security Module whitelist to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending Yearn Finance to the UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracle Security Module whitelists to read current and queued price data.
 
 Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp29-subproposal-to-whitelist-yearn-finance-on-uniusd-linkusd-aaveusd-compusd-oracles/8448) to inform your position on this issue before voting.
 

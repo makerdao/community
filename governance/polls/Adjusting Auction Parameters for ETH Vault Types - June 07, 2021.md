@@ -13,7 +13,7 @@ options:
 ---
 # Poll: Adjusting Auction Parameters for ETH Vault Types - June 7, 2021
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 7 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Risk Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 7 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -30,10 +30,10 @@ This poll allows the MakerDAO governance community to signal their support or op
 * **ETH-B** Local Liquidation Limit from 8M to **15 million DAI**
 * **ETH-C** Local Liquidation Limit from 5M to **20 million DAI**
 
-### Further Adjustements Restricted to ETH-B
+### ETH-B Adjustments
 
-* Decrease [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): from 90s to **60 seconds**
-* Decrease [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): from 1.3 to **1.2**
+* Decrease [Price Change Interval (`step`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function) from 90 seconds to **60 seconds**
+* Decrease [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier) from 1.3 to **1.2**
 
 ---
 

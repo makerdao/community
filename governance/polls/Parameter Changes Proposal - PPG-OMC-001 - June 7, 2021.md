@@ -23,19 +23,19 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Target Available Debt (`gap`)](https://community-development.makerdao.com/en/learn/governance/module-dciam), and [Ceiling Increase Cooldown (`ttl`)](https://community-development.makerdao.com/en/learn/governance/module-dciam):
+MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes.
 
 ### Parameter Changes by Type
 
-**Stability Fee Decreases**
+**[Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) Decreases**
 
 | Vault Type     |   Old |   New | Change |
 |----------------|-------|-------|--------|
 | ETH-A          | 5.50% | **3.50%** | -2.00% |
+| ETH-B          | 10.00% | **9.00%** | -1.00% |
+| ETH-C          | 3.00% | **1.00%** | -2.00% |
 | WBTC-A         | 4.50% | **3.50%** | -1.00% |
 | LINK-A         | 5.00% | **4.00%** | -1.00% |
-| ETH-C          | 3.00% | **1.00%** | -2.00% |
-| ETH-B          | 10.00% | **9.00%** | -1.00% |
 | YFI-A          | 5.50% | **4.00%** | -1.50% |
 | UNI-A          | 3.00% | **2.00%** | -1.00% |
 | AAVE-A         | 3.00% | **2.00%** | -1.00% |
@@ -50,14 +50,14 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 | UNIV2AAVEETH-A | 4.00% | **3.00%** | -1.00% |
 | UNIV2DAIUSDT-A | 3.00% | **2.00%** | -1.00% |
 
-**Debt Ceiling Increases**
+**[Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) Increases**
 
 | Vault Type |         Old |       New |       Change |
 |------------|-------------|-----------|--------------|
 | ETH-B      |  50,000,000 |**300,000,000**|  250,000,000 |
 | YFI-A      |  90,000,000 |**130,000,000**|   40,000,000 |
 
-**Debt Ceiling Decreases**
+**[Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) Decreases**
 
 | Vault Type |         Old |       New |       Change |
 |------------|-------------|-----------|--------------|
@@ -65,7 +65,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 | LRC-A      |   5,000,000 | **3,000,000** |   -2,000,000 |
 | COMP-A     |  30,000,000 | **20,000,000**|  -10,000,000 |
 
-**Target Available Debt (`gap`) Increases**
+**[Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) Increases**
 
 | Vault Type | Old        | New             | Change     |
 |------------|------------|-----------------|------------|
@@ -75,14 +75,14 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 | YFI-A      | 5,000,000  | **7,000,000**   | 2,000,000  |
 | UNI-A      | 3,000,000  | **5,000,000**   | 2,000,000  |
 
-**Target Available Debt (`gap`) Decreases**
+**[Target Available Debt](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`gap`) Decreases**
 
 | Vault Type | Old       | New         | Change   |
 |------------|-----------|-------------|----------|
 | ZRX-A      | 1,000,000 | **500,000** | -500,000 |
 | LRC-A      | 1,000,000 | **500,000** | -500,000 |
 
-**Ceiling Increase Cooldown (`ttl`) Decreases**
+**[Ceiling Increase Cooldown](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`ttl`) Decreases**
 
 All vault types with DC-IAM enabled have their proposed Ceiling Increase Cooldown (`ttl`) decreased from 12 hours to **8 hours**. 
 
