@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Target Available Debt (`gap`)](https://community-development.makerdao.com/en/learn/governance/module-dciam), and [Ceiling Increase Cooldown (`ttl`)](https://community-development.makerdao.com/en/learn/governance/module-dciam:
+MKR Token Holders may vote in this poll to express support or opposition to the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Target Available Debt (`gap`)](https://community-development.makerdao.com/en/learn/governance/module-dciam), and [Ceiling Increase Cooldown (`ttl`)](https://community-development.makerdao.com/en/learn/governance/module-dciam):
 
 ### Parameter Changes by Type
 
