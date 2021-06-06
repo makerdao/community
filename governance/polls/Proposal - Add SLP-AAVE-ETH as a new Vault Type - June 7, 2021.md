@@ -29,7 +29,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Underlying Collateral: SLP-AAVE-ETH
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 165%
-* [Debt Ceiling (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 million DAI
+* [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 million DAI
+* [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 5,000 DAI
 
 ### SushiJoin Adapter
 
