@@ -1,6 +1,6 @@
 ---
 title: Whitelist Yearn Finance on UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles (MIP10c9-SP29) - June 7, 2021
-summary: Signal your support or opposition for whitelisting $whitelisted_entity on the UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles.
+summary: Signal your support or opposition for whitelisting Yearn Finance on the UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp29-subproposal-to-whitelist-yearn-finance-on-uniusd-linkusd-aaveusd-compusd-oracles/8448
 vote_type: Plurality Voting
 categories:
