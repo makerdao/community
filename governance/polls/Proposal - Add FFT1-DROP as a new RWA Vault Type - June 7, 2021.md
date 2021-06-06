@@ -27,7 +27,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 ### Collateral Parameters
 
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4.5%
-* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 15 million DAI
+* [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 15 million DAI*
 * Minimum Vault Collateralization Ratio: 105%
 * Minimum SPV Collateralization Ratio: 111%
 * Minimum Underlying Collateralization Ratio: 116.6%
@@ -39,7 +39,7 @@ Please review the following forum threads containing information about FFT1-DROP
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa005-ff1drp-fft1-drop-mip22-token-protocol-engineering-domain-team-assessment/8417)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-005-fft1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp31/8401)
 
-**Note: If this poll passes, the following executive vote will use a [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) of 5 million DAI. A future executive will be submitted to raise the Debt Ceiling to 15 million DAI after the addition of an Independent Director (if necessary).**
+**Initial debt ceiling will be 5 million DAI. A future executive will be submitted to raise the debt ceiling to **15 million DAI** after the addition of an independent director to the SPV or at the determination of the RWF Core Unit Facilitator.*
 
 ## Outcomes
 
@@ -47,7 +47,7 @@ Please review the following forum threads containing information about FFT1-DROP
 * FFT1-DROP (Fortunafi DROP Token) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows, **with a Debt Ceiling of 5 million DAI**. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
-* If the executive vote passes, a future executive vote is expected, asking to raise the Debt Ceiling to 15 million DAI following the addition of an Independent Director (if necessary).
+* A second future executive vote will increase the Debt Ceiling to 15 million DAI.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
