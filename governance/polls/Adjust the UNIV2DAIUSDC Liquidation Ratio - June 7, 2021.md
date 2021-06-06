@@ -22,7 +22,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) change:
-* Decrease the UNIV2DAIUSDC Liquidation Ratio from 105% to 101%.
+* Decrease the UNIV2DAIUSDC-A Liquidation Ratio from 105% to 101%.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-the-univ2daiusdc-a-liquidation-ratio/8487) to inform your position on this issue before voting.
 
