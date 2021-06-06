@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) and [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/):
+MKR Token Holders may vote in this poll to express support or opposition to the following changes on [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee), [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling/), [Target Available Debt (`gap`)](https://community-development.makerdao.com/en/learn/governance/module-dciam), and [Ceiling Increase Cooldown (`ttl`)](https://community-development.makerdao.com/en/learn/governance/module-dciam:
 
 ### Parameter Changes by Type
 
@@ -54,16 +54,37 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 | Vault Type |         Old |       New |       Change |
 |------------|-------------|-----------|--------------|
-| ETH-B      |  50,000,000 |300,000,000|  250,000,000 |
-| YFI-A      |  90,000,000 |130,000,000|   40,000,000 |
+| ETH-B      |  50,000,000 |**300,000,000**|  250,000,000 |
+| YFI-A      |  90,000,000 |**130,000,000**|   40,000,000 |
 
 **Debt Ceiling Decreases**
 
 | Vault Type |         Old |       New |       Change |
 |------------|-------------|-----------|--------------|
-| ZRX-A      |  10,000,000 | 3,000,000 |   -7,000,000 |
-| LRC-A      |   5,000,000 | 3,000,000 |   -2,000,000 |
-| COMP-A     |  30,000,000 | 20,000,000|  -10,000,000 |
+| ZRX-A      |  10,000,000 | **3,000,000** |   -7,000,000 |
+| LRC-A      |   5,000,000 | **3,000,000** |   -2,000,000 |
+| COMP-A     |  30,000,000 | **20,000,000**|  -10,000,000 |
+
+**Target Available Debt (`gap`) Increases**
+
+| Vault Type | Old        | New             | Change     |
+|------------|------------|-----------------|------------|
+| ETH-A      | 80,000,000 | **100,000,000** | 20,000,000 |
+| ETH-B      | 5,000,000  | **10,000,000**  | 5,000,000  |
+| WBTC-A     | 15,000,000 | **30,000,000**  | 15,000,000 |
+| YFI-A      | 5,000,000  | **7,000,000**   | 2,000,000  |
+| UNI-A      | 3,000,000  | **5,000,000**   | 2,000,000  |
+
+**Target Available Debt (`gap`) Decreases**
+
+| Vault Type | Old       | New         | Change   |
+|------------|-----------|-------------|----------|
+| ZRX-A      | 1,000,000 | **500,000** | -500,000 |
+| LRC-A      | 1,000,000 | **500,000** | -500,000 |
+
+**Ceiling Increase Cooldown (`ttl`) Decreases**
+
+All vault types with DC-IAM enabled have their proposed Ceiling Increase Cooldown (`ttl`) decreased from 12 hours to **8 hours**. 
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-1-june-2021/8476) to help inform your position before voting.
 
