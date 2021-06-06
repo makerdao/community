@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support for one of the following options to change the [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) and [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee for the UNIV2DAIUSDC-A vault type:
+The community can vote in this poll to express support for one of the following options to change the [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) and [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) for the UNIV2DAIUSDC-A vault type:
 * Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
 * Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
 * No change (105% Liquidation Ratio, 1.0% Stability Fee)
