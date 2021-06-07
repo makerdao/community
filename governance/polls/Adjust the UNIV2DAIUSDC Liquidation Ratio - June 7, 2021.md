@@ -1,6 +1,6 @@
 ---
 title: Decrease the UNIV2DAIUSDC-A Liquidation Ratio and Stability Fee - June 7, 2021
-summary: Signal your preferred option for decreasing the UNIV2DAIUSDC Liquidation Ratio and Stability Fee.
+summary: Rank your preferred options for decreasing the UNIV2DAIUSDC Liquidation Ratio and Stability Fee.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-the-univ2daiusdc-a-liquidation-ratio/8487
 vote_type: Ranked Choice IRV
 categories:
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support for one of the following options to change the [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) and [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) for the UNIV2DAIUSDC-A vault type:
+The community can vote in this poll to rank their support of the following options to change the [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) and [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) for the UNIV2DAIUSDC-A vault type:
 * Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
 * Decrease Liquidation Ratio from 105% to **101%**, decrease the Stability Fee from 1.0% to **0.5%**.
 * No change (105% Liquidation Ratio, 1.0% Stability Fee)
