@@ -25,9 +25,9 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll MIP Set contains the following MIPs:
 
-* [$first_mip_number: $mip_title]($link_to_github_commit_version) | [Discussion Link]($first_mip_discussion_link)
-* [$second_mip_number: $mip_title]($link_to_github_commit_version) | [Discussion Link]($second_mip_discussion_link)
-* [$third_mip_number: $mip_title]($link_to_github_commit_version) | [Discussion Link]($third_mip_discussion_link)
+* [$first_mip_number: $first_mip_title]($link_to_github_commit_version) | [Discussion Link]($first_mip_discussion_link)
+* [$second_mip_number: $second_mip_title]($link_to_github_commit_version) | [Discussion Link]($second_mip_discussion_link)
+* [$third_mip_number: $third_mip_title]($link_to_github_commit_version) | [Discussion Link]($third_mip_discussion_link)
 
 The sentence summary and paragraph summary have been provided by the MIP author:
 
