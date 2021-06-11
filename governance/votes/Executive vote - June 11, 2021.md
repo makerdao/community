@@ -126,7 +126,7 @@ Given the successful outcome of this [Signal Request](https://forum.makerdao.com
 
 **Note: The Oracle Domain Team has decided a 102% Liquidation Ratio will be used instead of the 101% that was favored for this Vault Type, due to the oracle risk of estimating the size of the Uniswap Pool as fees accumulate. 
 The Risk Core Unit has additionally decided that liquidations should remain off for the vault type, at this time. 
-You may view a discussion of these discissions on the [Governance and Risk Call for June 10, 2021](https://youtu.be/6PwakraoHAk).** 
+You may view a discussion of these decisions on the [Governance and Risk Call for June 10, 2021](https://youtu.be/6PwakraoHAk).** 
 
 ### Whitelist Yearn Finance on UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles
 
