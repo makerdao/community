@@ -13,6 +13,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+- The PSM-USDC-A Debt Ceiling will be increased from 3 billion DAI to 4 billion DAI.
 - Multiple changes to Stability Fees, Debt Ceilings, Target Available Debt, and Ceiling Increase Cooldowns will be made to various vault types as described in the Proposal Details section.
 - Auction Parameters for ETH Vault Types will be updated as listed below in the Proposal Details section.
 - The UNIV2DAIUSDC-A Vault Type will have its Liquidation Ratio lowered from 105% to 102% and Stability Fee lowered from 1.0% to 0.5% **with liquidations remaining off**.
@@ -31,6 +32,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+### Urgent PSM-USDC-A Dect Ceiling Adjustment
+
+Following the recommendation of the Risk Core Unit in this [thread](https://forum.makerdao.com/t/adding-psm-usdc-a-dc-increase-into-executive-today/8706), the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will be increased from 3 billion DAI to 4 billion DAI if this executive proposal passes.
 
 ### Various Parameter Changes
 
@@ -105,9 +110,9 @@ For further information, you may view this [thread](https://forum.makerdao.com/t
 
 **Increasing [Local Liquidation Limits (`ilk.hole`)](https://community-development.makerdao.com/en/learn/governance/param-local-liquidation-limit)**
 
-* **ETH-A** Local Liquidation Limit from 22M to **30 million DAI**
-* **ETH-B** Local Liquidation Limit from 8M to **15 million DAI**
-* **ETH-C** Local Liquidation Limit from 5M to **20 million DAI**
+* **ETH-A** Local Liquidation Limit from 22 million DAI to **30 million DAI**
+* **ETH-B** Local Liquidation Limit from 8 million DAI to **15 million DAI**
+* **ETH-C** Local Liquidation Limit from 5 million DAI to **20 million DAI**
 
 **ETH-B Adjustments**
 
@@ -126,7 +131,7 @@ Given the successful outcome of this [Signal Request](https://forum.makerdao.com
 
 **Note: The Oracle Domain Team has decided a 102% Liquidation Ratio will be used instead of the 101% that was favored for this Vault Type, due to the oracle risk of estimating the size of the Uniswap Pool as fees accumulate. 
 The Risk Core Unit has additionally decided that liquidations should remain off for the vault type, at this time. 
-You may view a discussion of these decisions on the [Governance and Risk Call for June 10, 2021](https://youtu.be/6PwakraoHAk).** 
+You may view a discussion of these decisions on the [Governance and Risk Call for June 10, 2021](https://youtu.be/6PwakraoHAk).**  
 
 ### Whitelist Yearn Finance on UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles
 
