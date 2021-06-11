@@ -33,7 +33,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Urgent PSM-USDC-A Dect Ceiling Adjustment
+### Urgent PSM-USDC-A Debt Ceiling Adjustment
 
 Following the recommendation of the Risk Core Unit in this [thread](https://forum.makerdao.com/t/adding-psm-usdc-a-dc-increase-into-executive-today/8706), the PSM-USDC-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling) will be increased from 3 billion DAI to 4 billion DAI if this executive proposal passes.
 
