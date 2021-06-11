@@ -95,7 +95,7 @@ For further information, you may view this [thread](https://forum.makerdao.com/t
 
 **[Ceiling Increase Cooldown](https://community-development.makerdao.com/en/learn/governance/module-dciam) (`ttl`) Decreases**
 
-All vault types with DC-IAM enabled have their proposed Ceiling Increase Cooldown (`ttl`) decreased from 12 hours to **8 hours**.
+All vault types with DC-IAM enabled will have their Ceiling Increase Cooldown (`ttl`) parameter decreased from 12 hours to **8 hours**.
 
 ### Adjusting Auction Parameters for ETH Vault Types
 
