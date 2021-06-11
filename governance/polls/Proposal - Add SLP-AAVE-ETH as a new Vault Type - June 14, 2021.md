@@ -1,5 +1,5 @@
 ---
-title: Add SLP-AAVE-ETH as a new Vault Type - June 7, 2021
+title: Add SLP-AAVE-ETH as a new Vault Type - June 14, 2021
 summary: This poll proposes system parameters which could be used to initialize SLP-AAVE-ETH as a new vault type.
 discussion_link: https://forum.makerdao.com/t/SLP-AAVE-ETH-mip6-collateral-onboarding-application/7688
 vote_type: Plurality Voting
@@ -11,9 +11,9 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Add SLP-AAVE-ETH as a new Vault Type - June 7, 2021
+# Poll: Add SLP-AAVE-ETH as a new Vault Type - June 14, 2021
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 7 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 14 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -65,7 +65,7 @@ Please review the following forum threads containing information about SLP-AAVE-
 * [Proposal Thread](https://forum.makerdao.com/t/SLP-AAVE-ETH-mip6-collateral-onboarding-application/7688)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/slp-aave-eth-collateral-onboarding-risk-evaluation/8468)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/slp-aave-eth-erc20-token-smart-contract-technical-assessment/8519)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Team Evaluation](https://forum.makerdao.com/t/slp-v2-aave-eth-collateral-onboarding-oracle-assessment-mip10c3-sp37/8580)
 
 ## Outcomes
 
