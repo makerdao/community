@@ -124,13 +124,13 @@ Given the successful outcome of this [Signal Request](https://forum.makerdao.com
 * The [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio) for UNIV2DAIUSDC-A will be decreased from 105% to 102%.
 * The [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) for UNIV2DAIUSDC-A will be decreased from 1.0% to 0.5%.
 
-**Note: The Oracle Domain Team has decided a 102% Liquidation Ratio will be used instead of the 101% that was favored for this Vault Type, due to the oracle risk of estimating the size of the Uniswap pool as fees accumulate. 
+**Note: The Oracle Domain Team has decided a 102% Liquidation Ratio will be used instead of the 101% that was favored for this Vault Type, due to the oracle risk of estimating the size of the Uniswap Pool as fees accumulate. 
 The Risk Core Unit has additionally decided that liquidations should remain off for the vault type, at this time. 
 You may view a discussion of these discissions on the [Governance and Risk Call for June 10, 2021](https://youtu.be/6PwakraoHAk).** 
 
 ### Whitelist Yearn Finance on UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracles
 
-Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmarCh1g?network=mainnet#poll-detail), Yearn Finance will be added to the UNIUSD, LINKUSD, AAVEUSD, COMPUSD Oracle Security Module whitelists to read current and queued price data if this executive proposal passes.
+Given the successful outcome of this [poll](https://vote.makerdao.com/polling/QmarCh1g?network=mainnet#poll-detail), Yearn Finance will be added to the UNIUSD, LINKUSD, AAVEUSD, and COMPUSD Oracle Security Module whitelists to read current and queued price data if this executive proposal passes.
 
 For more information, you may view the [application thread](https://forum.makerdao.com/t/mip10c9-sp29-subproposal-to-whitelist-yearn-finance-on-uniusd-linkusd-aaveusd-compusd-oracles/8448) to further inform your vote. 
 
