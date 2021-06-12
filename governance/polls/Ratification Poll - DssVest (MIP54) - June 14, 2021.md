@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community can vote in this poll to express support or opposition to this proposal being accepted and implemented in the Maker Protocol.
 
-The proposal in its entirety [can be found here](https://github.com/makerdao/mips/blob/1a462c77d30bc603131b4f3c54a7486801395a7e/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md). The sentence summary and paragraph summary have been provided by the MIP author:
+The proposal in its entirety [can be found here](https://github.com/makerdao/mips/blob/531a5dc77edc27eac7d4587795f142f6c90422e3/MIP54/MIP54.md). The sentence summary and paragraph summary have been provided by the MIP author:
 
 **Sentence Summary**
 

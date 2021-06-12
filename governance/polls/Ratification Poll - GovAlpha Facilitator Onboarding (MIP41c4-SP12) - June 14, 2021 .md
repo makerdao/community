@@ -40,7 +40,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/mip41c4-sp12-
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND at least 10,000 MKR have voted in favor of this poll, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Monday, July 1. 
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 1. 
 * The proposal will be added to the Maker Protocol, with implementation tasked to the relevant [Core Unit](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
 **If the votes for the Yes' option DO NOT exceed the votes for the 'No' option, OR less than 10,000 MKR vote in favor of this proposal, then this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

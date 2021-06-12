@@ -27,11 +27,11 @@ The proposal in its entirety [can be found here](https://github.com/makerdao/mip
 
 **Sentence Summary**
 
-*MIP40c3-SP12 supersedes the budget for the Real-World Finance Core Unit defined in (MIP40c3-SP1)[https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225].*
+*MIP40c3-SP12 supersedes the budget for the Real-World Finance Core Unit defined in [MIP40c3-SP1](https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225).*
 
 **Paragraph Summary**
 
-*With (MIP40c3-SP1)[https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225] the Real-World Finance team was able to onboard the first Real-World Asset and provide some financials for MakerDAO. Nevertheless, as no Legal Core Unit is expected in the short term, we need to increase the budget for legal expenses. We also need to solidify the data analytics part, which is currently limited, to integrate MakerDAO and RWA data to provide transparency and insights to stakeholders.*
+*With [MIP40c3-SP1](https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225) the Real-World Finance team was able to onboard the first Real-World Asset and provide some financials for MakerDAO. Nevertheless, as no Legal Core Unit is expected in the short term, we need to increase the budget for legal expenses. We also need to solidify the data analytics part, which is currently limited, to integrate MakerDAO and RWA data to provide transparency and insights to stakeholders.*
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mip40c3-sp12-modify-core-unit-budget-rwf-001/7985) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
 

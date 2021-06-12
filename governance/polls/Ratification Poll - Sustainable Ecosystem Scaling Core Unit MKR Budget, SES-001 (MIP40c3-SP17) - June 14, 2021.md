@@ -27,7 +27,7 @@ The proposal in its entirety [can be found here](https://github.com/makerdao/mip
 
 **Sentence Summary**
 
-*MIP40c3-SP13 adds the budget for Core Unit RISK-001: Risk.*
+*MIP40c3-SP17 adds the MKR Incentive Plan budget for Core Unit SES-001: Sustainable Ecosystem Scaling.*
 
 **Paragraph Summary**
 
@@ -39,7 +39,7 @@ _MIP40c3-SP17 adds the MKR Incentive Plan budget for Core Unit SES-001: Sustaina
 
 _MKR incentives have been determined based on the [Program discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest._
 
-Please review the discussion [thread](https://forum.makerdao.com/t/mip40c3-sp13-modify-core-unit-budget-risk-001/8034) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
+Please review the discussion [thread](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
 
 ## Outcomes
 

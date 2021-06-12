@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for Oracles Core Unit (ORA-001) Subproposal Set - June 14, 2021
 summary: Signal your support or opposition for these proposals being accepted and implemented in the Maker Protocol. 
-discussion_link: https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-onboarding-core-unit/8037
+discussion_link: https://forum.makerdao.com/t/mip39c2-sp13-adding-oracles-core-unit/8048
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -23,11 +23,11 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community can vote in this poll to express support or opposition to these proposals being accepted and implemented in the Maker Protocol.
 
-This Inclusion Poll MIP Set contains the following MIPs:
+This Inclusion Poll Subproposal Set contains the following MIPs:
 
-* [MIP39c2-SP13: Adding Oracles Core Unit](https://github.com/makerdao/mips/blob/1a462c77d30bc603131b4f3c54a7486801395a7e/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md) | [Discussion Link](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-onboarding-core-unit/8037)
-* [MIP40c3-SP15: Modify Oracles Core Unit Budget](https://github.com/makerdao/mips/blob/1a462c77d30bc603131b4f3c54a7486801395a7e/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md) | [Discussion Link](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
-* [MIP41c4-SP13: Facilitator Onboarding, Oracles Core Unit](https://github.com/makerdao/mips/blob/1a462c77d30bc603131b4f3c54a7486801395a7e/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md) | [Discussion Link](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-oracles-core-unit/8046)
+* [MIP39c2-SP13: Adding Oracles Core Unit](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP39/MIP39c2-Subproposals/MIP39c2-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip39c2-sp13-adding-oracles-core-unit/8048)
+* [MIP40c3-SP15: Modify Oracles Core Unit Budget](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md) | [Discussion Link](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
+* [MIP41c4-SP13: Facilitator Onboarding, Oracles Core Unit](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-oracles-core-unit/8046)
 
 The sentence summary and paragraph summary have been provided by the MIP author:
 
@@ -35,11 +35,11 @@ The sentence summary and paragraph summary have been provided by the MIP author:
 
 *MIP39c2-SP13 adds the Oracles Core Unit.*
 
-**Paragraph Summary**
+*MIP40c3-SP15 adds the budget for the Oracles Core Unit.*
 
-*($paragraph_summary)*
+*MIP41c4-SP13 onboards Niklas Kunkel as Facilitator for the Oracle Core Unit.*
 
-Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
+Please review the linked discussion threads to inform your position on these proposals before voting. They were also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
 
 ## Outcomes
 
