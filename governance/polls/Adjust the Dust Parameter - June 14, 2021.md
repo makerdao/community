@@ -1,6 +1,6 @@
 ---
 title: Increase the Dust Parameter - June 14, 2021
-summary: Signal your support or opposition to increase the Dust Parameter from 5,000 DAI to 10,000 DAI for most vault types.
+summary: Signal your support or opposition to increase the Debt Floor (dust) parameter from 5,000 DAI to 10,000 DAI for most vault types.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-3/8315
 vote_type: Plurality Voting
 categories:
