@@ -1,6 +1,6 @@
 ---
 title: Increase the Dust Parameter for ETH-B Vault Type - June 14, 2021
-summary: Signal your support or opposition to increase the dust parameter from 15,000 to 30,000 for the ETH-B vault type.
+summary: Signal your support or opposition to increase the Debt Floor (dust) parameter from 15,000 to 30,000 DAI for the ETH-B vault type.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-3/8315
 vote_type: Plurality Voting
 categories:
