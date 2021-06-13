@@ -29,7 +29,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Underlying Collateral: $collateral_asset
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
-* [Debt Ceiling (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
+* [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
+* [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $debt_floor
 
 ### Liquidation 2.0 Parameters
 
