@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-para
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Technical
 options:
    0: Abstain
    1: Yes
@@ -16,7 +15,10 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 14 at 16:00 UTC.
 
-**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
@@ -27,11 +29,11 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 ## Outcomes
 
-**If a non-'Abstain' option recieves more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast, then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
