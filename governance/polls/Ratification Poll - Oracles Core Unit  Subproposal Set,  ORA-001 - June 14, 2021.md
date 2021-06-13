@@ -25,7 +25,7 @@ The community can vote in this poll to express support or opposition to these pr
 
 This Inclusion Poll Subproposal Set contains the following MIPs:
 
-* [MIP39c2-SP13: Adding Oracles Core Unit](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP39/MIP39c2-Subproposals/MIP39c2-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip39c2-sp13-adding-oracles-core-unit/8048)
+* [MIP39c2-SP13: Adding Oracles Core Unit](https://github.com/makerdao/mips/blob/7c1493df76ddb29fa2c11091bf97b17441efe059/MIP39/MIP39c2-Subproposals/MIP39c2-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip39c2-sp13-adding-oracles-core-unit/8048)
 * [MIP40c3-SP15: Modify Oracles Core Unit Budget](https://github.com/makerdao/mips/blob/2686114c2299bd556bd57d6ab5efa2abb4d6079e/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md) | [Discussion Link](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
 * [MIP41c4-SP13: Facilitator Onboarding, Oracles Core Unit](https://github.com/makerdao/mips/blob/e88565f9654eab3764d01855bb1290847fda4931/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-oracles-core-unit/8046)
 
