@@ -29,7 +29,7 @@ This Inclusion Poll Subproposal Set contains the following MIPs:
 * [MIP40c3-SP15: Modify Oracles Core Unit Budget](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md) | [Discussion Link](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
 * [MIP41c4-SP13: Facilitator Onboarding, Oracles Core Unit](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-oracles-core-unit/8046)
 
-The sentence summary and paragraph summary have been provided by the MIP author:
+The sentence summaries have been provided by the MIP author:
 
 **Sentence Summary**
 
