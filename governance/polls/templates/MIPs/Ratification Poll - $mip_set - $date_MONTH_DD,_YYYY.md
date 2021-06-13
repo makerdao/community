@@ -45,11 +45,11 @@ Please review the linked discussion threads to inform your position on these pro
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option **and** at least 10,000 MKR have voted in favor of this poll, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND at least 10,000 MKR have voted in favor of this poll, then the following actions will be taken:**
 * The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date. 
 * These proposals will be added to the Maker Protocol, with implementation tasked to the relevant [Core Unit](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
-**If the votes for the Yes' option DO NOT exceed the votes for the 'No' option, **or** less than 10,000 MKR vote in favor of these proposals, then these proposals will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).
+**If the votes for the Yes' option DO NOT exceed the votes for the 'No' option, OR less than 10,000 MKR vote in favor of these proposals, then these proposals will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
 ---
 
