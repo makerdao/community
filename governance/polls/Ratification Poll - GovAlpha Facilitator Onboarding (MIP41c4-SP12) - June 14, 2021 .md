@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community can vote in this poll to express support or opposition to this proposal being accepted and implemented in the Maker Protocol.
 
-The proposal in its entirety [can be found here](https://github.com/makerdao/mips/blob/0fc9ed1f18d5a2e59e772c73221dbd9821c18c13/MIP41/MIP41c4-Subproposals/MIP41c4-SP12.md). The sentence summary and paragraph summary have been provided by the MIP author:
+The proposal in its entirety [can be found here](https://github.com/makerdao/mips/blob/16d5b722147b955f2cb87a2ef0ecaa5f6df952ba/MIP41/MIP41c4-Subproposals/MIP41c4-SP12.md). The sentence summary and paragraph summary have been provided by the MIP author:
 
 **Sentence Summary**
 
@@ -31,7 +31,7 @@ The proposal in its entirety [can be found here](https://github.com/makerdao/mip
 
 **Paragraph Summary**
 
-*Payton Rose (@prose11) submits his application for Governance Facilitator of the GovAlpha (Gov-001) Core Unit. @prose11 commits to uploading the mandate of GovAlpha through the application of three key governing principles: accessibility, neutrality, and transparency.*
+*Payton Rose (@prose11) submits his application for Governance Facilitator of the GovAlpha (Gov-001) Core Unit. @prose11 commits to upholding the mandate of GovAlpha through the application of three key governing principles: accessibility, neutrality, and transparency.*
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mip41c4-sp12-govalpha-facilitator-onboarding/7994) to inform your position on this proposal before voting. It was also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590/2) on Thursday, June 10.
 
