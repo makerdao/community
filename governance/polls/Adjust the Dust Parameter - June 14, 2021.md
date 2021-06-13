@@ -21,8 +21,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to modifying the [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (also known as Dust) parameter for most vault types: 
-* Increase the Dust Parameter from 5,000 DAI to 10,000 DAI for most vault types.
+The community can vote in this poll to express support or opposition to modifying the [Debt Floor](https://community-development.makerdao.com/en/learn/governance/param-debt-floor) (`dust`) parameter for most vault types: 
+* Increase the Debt Floor from 5,000 DAI to 10,000 DAI for most vault types.
 * PSM-USDC-A, ETH-B, and ETH-C vault-types will be excluded from this change.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-3/8315) to help inform your position before voting.
