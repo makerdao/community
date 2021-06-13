@@ -29,15 +29,15 @@ This Inclusion Poll Subproposal Set contains the following MIPs:
 * [MIP40c3-SP15: Modify Oracles Core Unit Budget](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md) | [Discussion Link](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
 * [MIP41c4-SP13: Facilitator Onboarding, Oracles Core Unit](https://github.com/makerdao/mips/blob/1e6c129af517ea51c4e36d027f8afadf084a2b82/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md) | [Discussion Link](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-oracles-core-unit/8046)
 
-The sentence summaries have been provided by the MIP author:
+The sentence summary and paragraph summary have been provided by the MIP author:
 
 **Sentence Summary**
 
-*MIP39c2-SP13 adds the Oracles Core Unit.*
+*Add an Oracles Core Unit to handle all of the Oracle needs of the Maker Protocol and build out an Oracle business.*
 
-*MIP40c3-SP15 adds the budget for the Oracles Core Unit.*
+**Paragraph Summary**
 
-*MIP41c4-SP13 onboards Niklas Kunkel as Facilitator for the Oracle Core Unit.*
+*The Oracle Core Unit (OCU) is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. The OCU is essential to ensure the Oracles can adapt rapidly to scale the Maker Protocol in a responsible manner. A key focus of the OCU is to monetize the Oracle Protocol and build out a business around it. This enables the DAO to subsidize its own Oracle expenditures, and ultimately turn Oracles from a cost-center into a profit-generating arm of MakerDAO. Real World Assets (RWA) in particular, are a highly promising vertical the business side of the Oracle is targeting.*
 
 Please review the linked discussion threads to inform your position on these proposals before voting. They were also mentioned and possibly discussed on the [Governance and Risk call](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-145-thursday-june-10-17-00-utc/8590) on Thursday, June 10.
 
