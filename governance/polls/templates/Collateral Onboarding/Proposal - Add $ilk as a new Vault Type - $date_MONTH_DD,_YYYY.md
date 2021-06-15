@@ -32,7 +32,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $debt_floor
 
-### Liquidation 2.0 Parameters
+### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $calc_parameter
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $cut_parameter
