@@ -1,6 +1,6 @@
 ---
-title: Investigate Offboarding of multiple collateral types - June 21, 2021
-summary: Signal your support or opposition to investigate on Offboarding multiple unprofitable collateral types
+title: Investigate Offboarding of Multiple Vault Types - June 21, 2021
+summary: Signal your support or opposition to investigate offboarding of multiple vault types.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-unprofitable-collateral-types/8628
 vote_type: Plurality Voting
 categories:
@@ -14,11 +14,14 @@ options:
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 21 at 16:00 UTC.
 
-**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should abstain.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-This poll asks whether the Mandated Actors should investigate on a plan to offboard the following `ilk`s:
+This poll asks whether the Mandated Actors should investigate a plan to offboard the following vault types:
 
 * USDT-A
 * UNIV2-AAVEETH-A
@@ -34,7 +37,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
-* The Mandated Actors are asked to investigate and proposing a plan how to offboard the above `ilk`s from the Maker
+* The Mandated Actors will investigate a plan to offboard the above vault types from the Maker Protocol. 
+* A future executive will ask the community to implement a proposal from the Mandated Actors.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
