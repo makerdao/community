@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - GNO (GnosisDAO Governance Token) - June 21, 2021
-summary: Signal your support or opposition to prioritising onboarding GNO (GnosisDAO Governance Token). 
+title: Community Greenlight Poll - GNO (Gnosis) - June 21, 2021
+summary: Signal your support or opposition to prioritising onboarding GNO (Gnosis). 
 discussion_link: https://forum.makerdao.com/t/gno-collateral-onboarding-application/8484
 vote_type: Plurality Voting
 categories:
@@ -11,7 +11,7 @@ options:
    1: Yes (Greenlight)
    2: No (Defer)
 ---
-# Poll: Community Greenlight Poll - GNO (GnosisDAO Governance Token) - June 21, 2021
+# Poll: Community Greenlight Poll - GNO (Gnosis) - June 21, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, June 21 at 16:00 UTC.
 
@@ -22,15 +22,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset GNO (GnosisDAO Governance Token) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset GNO (Gnosis) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/gno-collateral-onboarding-application/8484) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for GNO (GnosisDAO Governance Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for GNO (GnosisDAO Governance Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for GNO (Gnosis) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for GNO (Gnosis) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
