@@ -24,9 +24,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 This poll asks whether the Mandated Actors should investigate a plan to offboard the following vault types:
 
 * USDT-A
-* UNIV2-AAVEETH-A
+* UNIV2AAVEETH-A
 * KNC-A
-* UNIV2-LINKETH-A
+* UNIV2LINKETH-A
 * LRC-A
 * ZRX-A
 * BAT-A
@@ -38,7 +38,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
 * The Mandated Actors will investigate a plan to offboard the above vault types from the Maker Protocol. 
-* A future executive will ask the community to implement a proposal from the Mandated Actors.
+* A future on-chain poll will ask the community to implement a specific proposal from the Mandated Actors.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
