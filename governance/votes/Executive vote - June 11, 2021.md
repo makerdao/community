@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Parameter Changes, Oracle Whitelisting, Other Changes - June 11, 2021
+summary: Vote for Parameter Changes, Oracle Whitelisting, Other Changes
+date: 2021-06-11T00:00:00.000Z
+address: "0x1dB8b702416D3174dC2F5b12287383AB693f894f"
 
 ---
 # [Executive Proposal] Parameter Changes, Oracle Whitelisting, Other Changes - June 11, 2021

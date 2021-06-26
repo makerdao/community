@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Parameter Changes and Oracle Updates - May 14, 2021
+summary: Vote for Parameter Changes and Oracle Updates
+date: 2021-05-14T00:00:00.000Z
+address: "0x8EFE2c82bD31B67fa262c0D364773629f6EA828A"
 
 ---
 # [Executive Proposal] Parameter Changes and Oracle Updates - May 14, 2021

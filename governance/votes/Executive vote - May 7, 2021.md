@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Liquidations 2.0 Activations, Transfer May Core Unit Budgets - May 7, 2021
+summary: Vote for Liquidations 2.0 Activations, Transfer May Core Unit Budgets
+date: 2021-05-07T00:00:00.000Z
+address: "0xc5Ed356eadd9863eF78F74155fa4bEE1fc4ad879"
 
 ---
 # [Executive Proposal] Liquidations 2.0 Activations, Transfer May Core Unit Budgets - May 7, 2021
