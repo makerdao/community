@@ -1,5 +1,5 @@
 ---
-title: Parameter Changes Proposal - MakerDAO Open Market Committee - 28 June, 2021
+title: Parameter Changes Proposal - MakerDAO Open Market Committee - June 28, 2021
 summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-june-2021/8991
 vote_type: Plurality Voting
@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 ---
-# Poll: Parameter Changes Proposal - MakerDAO Open Market Committee - 28 June, 2021
+# Poll: Parameter Changes Proposal - MakerDAO Open Market Committee - June 28, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, June 28 at 16:00 UTC.
 
