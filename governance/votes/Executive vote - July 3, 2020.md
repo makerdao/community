@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
-
+summary: Vote for this Proposal to Add Oracles, Lower the Base Rate, Raise the WBTC and USDC Debt Ceiling and Risk Premiums
+date: 2020-07-03T00:00:00.000Z
+address: "0x057d35a858D6350D10F714785bAf5C07703DbD4C"
 ---
 ## [Executive Vote] Add Oracles, Lower the Base Rate, raise the WBTC and USDC Debt Ceiling and Risk Premiums
 

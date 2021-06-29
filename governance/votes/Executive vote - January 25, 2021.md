@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
-
+summary: Vote for this proposal to approve the January 2021 Governance Cycle Bundle
+date: 2021-01-25T00:00:00.000Z
+address: "0x047178B77A3996f9688BcE68A53009d2576c8F19"
 ---
 ## [Executive Vote] Approve January 2021 Governance Cycle Bundle - January 25, 2021
 

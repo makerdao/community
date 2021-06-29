@@ -1,6 +1,8 @@
 ---
 title: Executive vote - July 12, 2019
 summary: Raise the Stability fee by 2% to a total of 20.5% per year
+date: 2019-07-12T00:00:00.000Z
+address: "0x2a8e8588ae9d420656c49c910c2c820450a01f95"
 ---
 The Maker Foundation Interim Risk Team has placed an Executive Vote into the [voting system](https://vote.makerdao.com/), which will enable the community to enact a new Dai Stability Fee of **20.5%**.
 

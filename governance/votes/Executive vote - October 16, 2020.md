@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Add ETH-B Vault Type - October 16, 2020
-
+summary: Vote for this proposal to add ETH-B Vault Type - October 16, 2020
+date: 2020-10-16T00:00:00.000Z
+address: "0x96F6CD23fd450D30A12eA0D14FCECc8aE8b4Bc25"
 ---
 ## [Executive Vote] Add ETH-B Vault Type - October 16, 2020
 

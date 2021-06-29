@@ -1,6 +1,8 @@
 ---
 title: Executive vote - Multi-Collateral Dai Launch November 15, 2019
 summary: Ratify the collection of system parameters needed to activate Multi-Collateral Dai
+date: 2019-11-15T00:00:00.000Z
+address: "0xF44113760c4f70aFeEb412C63bC713B13E6e202E"
 ---
 ## [Executive Vote] Executive vote - Multi-Collateral Dai Launch
 

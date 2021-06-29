@@ -1,6 +1,8 @@
 ---
 title: Monthly MIPs Official Ratification
-
+summary: Vote for this proposal to officially ratify the June Governance Cycle's Maker Improvement Proposals
+date: 2020-06-22T00:00:00.000Z
+address: "0x1D51ca29E35b6Ce30167F634Dd21376Da1341D9b"
 ---
 ## [Executive Vote] Monthly MIPs Official Ratification
 

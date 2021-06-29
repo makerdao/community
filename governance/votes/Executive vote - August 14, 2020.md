@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Modify Multiple System Parameters
-
+summary: Vote for this Proposal to Modify Multiple System Parameters including; Base Rate, Dust Parameter, BAT-A Risk Premium, and the Surplus Auction Buffer
+date: 2020-08-14T00:00:00.000Z
+address: "0x9e361d75bDBccD061ce01ACC5265646C19778140"
 ---
 ## [Executive Vote] Modify Multiple System Parameters
 

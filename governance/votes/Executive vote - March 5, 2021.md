@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Parameter Updates and Onboarding RWA-001  - March 5, 2021
-
+summary: Vote for this proposal to make Parameter Updates and Onboarding RWA-001
+date: 2021-03-05T00:00:00.000Z
+address: "0x8332fBf5494aAC0F1dE51f4f16110f6A82719330"
 ---
 # [Executive Proposal] Parameter Updates and Onboarding RWA-001 - March 5, 2021
 

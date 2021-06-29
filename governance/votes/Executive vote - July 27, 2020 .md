@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Approve Monthly Governance Cycle Bundle, Increase the ETH-A debt ceiling
-
+summary: Vote for this proposal to Approve the Monthly Governance Cycle Bundle and Increase the ETH-A Debt Ceiling to 260 million.
+date: 2020-07-27T00:00:00.000Z
+address: "0xf67dE12CAB72a3F3a2EcE4cAA99c53eb0DDff75D"
 ---
 ## [Executive Vote] Approve Monthly Governance Cycle Bundle, Increase the ETH-A debt ceiling
 

@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs - February 5, 2021
-
+summary: Vote for this proposal to onboard UNI-V2-DAI-USDC and UNI-V2-ETH-USDT Uniswap V2 LPs.
+date: 2021-02-05T00:00:00.000Z
+address: "0x296E9C87967427c2539838535175e616eCe761d4"
 ---
 ## [Executive Vote] Onboarding Uniswap V2 LPTs - February 5, 2021
 

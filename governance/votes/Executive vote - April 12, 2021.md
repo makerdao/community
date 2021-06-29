@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboard New Silver Series 2 DROP - April 12, 2021
+summary: Vote for this proposal to onboard New Silver Series 2 DROP
+date: 2021-04-12T00:00:00.000Z
+address: "0x637f98654cc147c263ae740455d350d0339b19f5"
 
 ---
 # [Executive Proposal] Onboard New Silver Series 2 DROP - April 12, 2021

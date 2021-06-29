@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase Debt Ceilings, Provide April Core Unit Budgets - April 2, 2021
+summary: Vote for this proposal to Increase Debt Ceilings, Provide April Core Unit Budgets
+date: 2021-04-02T00:00:00.000Z
+address: "0xeb44d1Fa2DE0d6E4CcEA80dA982804ca3197005b"
 
 ---
 # [Executive Proposal] Increase Debt Ceilings, Provide April Core Unit Budgets - April 2, 2021

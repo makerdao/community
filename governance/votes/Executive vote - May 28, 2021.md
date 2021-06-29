@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Urgent Changes, Oracle Whitelisting, Liquidations 2.0 Activations - May 28, 2021
+summary: Vote for Urgent Changes, Oracle Whitelisting, Liquidations 2.0 Activations
+date: 2021-05-28T00:00:00.000Z
+address: "0x671eA626229F829Eb711FFa141734d211bEb66A7"
 
 ---
 # [Executive Proposal] Urgent Changes, Oracle Whitelisting, Liquidations 2.0 Activations - May 28, 2021

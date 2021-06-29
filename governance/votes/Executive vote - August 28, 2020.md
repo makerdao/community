@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Activate Liquidations 1.2, Multiple Other Changes
-
+summary: Vote for this proposal to activate Liquidations 1.2, WBTC-A Risk Premium, USDC-A Debt Ceiling, and Whitelist yEarn on ETH/USD Oracle.
+date: 2020-08-28T00:00:00.000Z
+address: "0xF8085d74Ad616D48c225f3812a610f5Cd5F676dA"
 ---
 ## [Executive Vote] Activate Liquidations 1.2, Multiple Other Changes
 

@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Flash Mint Implementation, Debt Floor Changes - June 18, 2021
+summary: Vote for Flash Mint Implementation, Debt Floor Changes
+date: 2021-06-18T00:00:00.000Z
+address: "0xd498E7DEE467d1eb6Ed3933e579c427E168b6E6c"
 
 ---
 # [Executive Proposal] Flash Mint Implementation, Debt Floor Changes - June 18, 2021

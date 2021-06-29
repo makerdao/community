@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
-
+summary: Vote for this proposal to increase YFI-A Debt Ceiling, increase Dust Parameter for all Vault-Types
+date: 2020-11-20T00:00:00.000Z
+address: "0x8D602692eE4b5f0ec33A22fe6547822377FDCc4c"
 ---
 ## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
 

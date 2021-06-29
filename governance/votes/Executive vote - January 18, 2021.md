@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A and WBTC-A Debt Ceilings - January 18, 2021
-
+summary: Vote for this proposal to increase ETH-A and WBTC-A Debt Ceilings
+date: 2021-01-18T00:00:00.000Z
+address: "0xc1d8187CEb7C0ec33a99c928FebB4384BbcAEC50"
 ---
 ## [Executive Vote] Increase ETH-A and WBTC-A Debt Ceilings - January 18, 2021
 

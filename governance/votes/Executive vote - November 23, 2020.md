@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Approve November 2020 Governance Cycle Bundle - November 23, 2020
-
+summary: Vote for this proposal to approve the November 2020 Governance Cycle Bundle
+date: 2020-11-23T00:00:00.000Z
+address: "0xA2652eb43674bc9cfC517a6FA4CEcE391e29c2d3"
 ---
 ## [Executive Vote] Approve November 2020 Governance Cycle Bundle - November 23, 2020
 

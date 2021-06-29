@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
-
+summary: Vote for this proposal to increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
+date: 2020-10-23T00:00:00.000Z
+address: "0xb04A29de213411DDb7196eD1327b3B6144893E59"
 ---
 ## [Executive Vote] Increase the Surplus Buffer, Oracle Whitelisting - October 23, 2020
 

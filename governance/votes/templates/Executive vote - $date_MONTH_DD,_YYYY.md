@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+summary: $summary
+date: $YYYY-MM-DDT00:00:00.000Z
+address: "$spell_address"
 
 ---
 # [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY

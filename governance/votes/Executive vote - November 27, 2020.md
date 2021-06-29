@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
-
+summary: Vote for this proposal to increase ETH-A Debt Ceiling
+date: 2020-11-27T00:00:00.000Z
+address: "0x823Ac093BC6C5D1cC48739d574aC0a8D09ffC565"
 ---
 ## [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
 
