@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Liquidations 2.0 Activations, Oracle Feed Changes - April 30, 2021
+summary: Vote for this proposal for Liquidations 2.0 Activations and Oracle Feed Changes
+date: 2021-04-30T00:00:00.000Z
+address: "0x3Baab03C225eB9033FC6B73C16D310D56Afa922F"
 
 ---
 # [Executive Proposal] Liquidations 2.0 Activations, Oracle Feed Changes - April 30, 2021

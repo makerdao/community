@@ -63,6 +63,12 @@ The percentage fee applied when trading DAI into the PSM in exchange for the col
 
 Users can directly call the swap functions on a PSM contract, but it is hoped that PSM's will be integrated into DEX aggregators such that trades will take place when a PSM can offer the best market price.
 
+## Contract Addresses
+
+The contract address for the USDC-backed PSM (currently the only PSM in existence) is the following: 
+
+- [0x89B78CfA322F6C5dE0aBcEecab66Aee45393cC5A](https://etherscan.io/address/0x89b78cfa322f6c5de0abceecab66aee45393cc5a).
+
 ## Considerations
 
 It's important to note that the amount of trades a PSM can offer is limited by its debt ceiling and the currently deposited amount of collateral tokens. A PSM cannot offer DAI in trade if its debt ceiling has been reached. Likewise, a PSM cannot offer the collateral asset in trade if no collateral tokens exist inside the PSM.

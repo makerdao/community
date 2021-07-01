@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] Approve May 2021 Governance Cycle - May 24, 2021
+summary: Vote for Approve May 2021 Governance Cycle
+date: 2021-05-24T00:00:00.000Z
+address: "0xf406AD6ea8E05Cd41e2010FBF415E95EdA8a6238"
 ---
 # [Executive Proposal] Approve May 2021 Governance Cycle - May 24, 2021
 

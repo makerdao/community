@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings - January 4, 2021
-
+summary: Vote for this proposal to increase ETH-A, USDC-A, PSM-USDC-A Debt Ceilings
+date: 2021-01-04T00:00:00.000Z
+address: "0x3ee0C26aE7aa8cCc759e4Ee4f1E6F2C16220e5f6"
 ---
 ## [Executive Vote] Increase ETH-A, USDC-A, and PSM-USDC-A Debt Ceilings - January 4, 2021
 

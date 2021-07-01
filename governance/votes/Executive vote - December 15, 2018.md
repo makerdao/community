@@ -1,6 +1,8 @@
 ---
 title: Executive vote - December 15, 2018
 summary: Lower the Stability Fee by 2% to a total of 0.5% per year
+date: 2019-08-30T00:00:00.000Z
+address: "0x9d67476ac572570d81027ea8b6efbe8f6fd25a42"
 ---
 With Multi-Collateral Dai, the Dai price balancing mechanism will utilize oracles and algorithms chosen by Maker governance to adjust the Stability Fee and Dai Savings Rate for balancing supply and demand around the $1 USD Target Price on a semi-automatic basis.
 

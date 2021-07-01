@@ -1,6 +1,8 @@
 ---
 title: Executive vote - February 22, 2019
 summary: Raise the Stability Fee by 0.5% to a total of 1.5% per year
+date: 2019-02-22T00:00:00.000Z
+address: "0xacF5097301eFdEc6aBe48515b63c89f6d9c9D558"
 ---
 # Increasing the Stability Fee
 

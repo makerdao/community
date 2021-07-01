@@ -1,6 +1,7 @@
 ---
 title: Executive vote - July 27, 2018
 summary: Raise the Stability Fee by 2% to a total of 2.5% per year
+date: 2018-07-27T00:00:00.000Z
 ---
 A month from now, the Maker Foundation will start the process of stabilizing the Dai target price using adjustments of the stability fee.
 

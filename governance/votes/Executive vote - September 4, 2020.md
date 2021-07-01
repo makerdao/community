@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
-
+summary: Vote for this proposal to onboard USDT and PAX, multiple other changes - September 4, 2020
+date: 2020-09-04T00:00:00.000Z
+address: "0x2D72e95685c39A7f85327d7A7F8D752AA82B62E9"
 ---
 ## [Executive Vote] Onboard USDT and PAX, Multiple other changes - September 4, 2020
 

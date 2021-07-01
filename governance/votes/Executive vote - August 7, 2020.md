@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
-
+summary: Vote for this proposal to make an urgent configuration change to the ETH-A lump size, and Increase the WBTC-A debt ceiling
+date: 2020-08-07T00:00:00.000Z
+address: "0xD17abF984740145DB4b3D61559EeBe2170A3D6Da"
 ---
 ## [Executive Vote] Urgent Configuration change to the ETH-A lump size, Increase the WBTC-A debt ceiling
 

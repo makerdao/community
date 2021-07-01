@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs, Parameter Updates - February 19, 2021
-
+summary: Vote for this proposal to onboard Uniswap V2 LPTs, and make Parameter Updates
+date: 2021-02-19T00:00:00.000Z
+address: "0x389a34ff795Fa0b63F325486560FC6666A0d81A7"
 ---
 ## [Executive Vote] Onboarding Uniswap V2 LPTs, Parameter Updates - February 19, 2021
 

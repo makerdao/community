@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Changes to USDC-A and PAX-A Parameters, Reduce Box Parameter - September 14, 2020
-
+summary: Vote for this proposal to make changes to USDC-A and PAX-A Parameters, Reduce Box Parameter
+date: 2020-09-14T00:00:00.000Z
+address: "0xd155716c72eDCd14FFB60131f83B3eF4d34Aa201"
 ---
 ## [Executive Vote] Changes to USDC-A and PAX-A Parameters, Reduce Box Parameter - September 14, 2020
 

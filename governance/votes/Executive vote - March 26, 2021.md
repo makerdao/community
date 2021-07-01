@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase Debt Ceilings, Modify Risk Parameters - March 26, 2021
-
+summary: Vote for this proposal to Increase Debt Ceilings and Modify Risk Parameters
+date: 2021-03-26T00:00:00.000Z
+address: "0x0CF9B10FE87dC44B0307b954074faAC7e756d6Fa"
 ---
 # [Executive Proposal] Increase Debt Ceilings, Modify Risk Parameters - March 26, 2021
 

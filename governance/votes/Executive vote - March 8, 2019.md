@@ -1,6 +1,8 @@
 ---
 title: Executive vote - March 8, 2019
 summary: Raise the Stability Fee by 2% to a total of 3.5% per year
+date: 2019-03-08T00:00:00.000Z
+address: "0x8FAF308C8056e4ab92b67419aAB547264818d17B"
 ---
 The Maker Foundation Interim Risk Team will place an Executive Vote proposal into the [voting system](https://vote.makerdao.com/) to enact a new Dai Stability Fee of 3.5%.
 
@@ -46,4 +48,4 @@ Demos, help and instructional material for the Governance Dashboard can be found
 
 To participate in future Governance calls, please [join us](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/) every Thursday at 17:00 UTC.
 
-To add current and upcoming votes to your calendar please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).  
+To add current and upcoming votes to your calendar please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles).

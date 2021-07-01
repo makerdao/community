@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboard GUSD - November 13, 2020
-
+summary: Vote for this proposal to onboard GUSD
+date: 2020-11-13T00:00:00.000Z
+address: "0xa24311446583f22432b335B53282CF8ecbfBC7A9"
 ---
 ## [Executive Vote] Onboard GUSD - November 13, 2020
 

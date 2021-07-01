@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Raise the Base Rate, the DSR, add KNC and ZRX as collateral types
-
+summary: Vote for this proposal to raise the Base Rate and the DSR, add KNC and ZRX as collateral types
+date: 2020-06-26T00:00:00.000Z
+address: "0x9ef95251233e0586bf3b17f14d31e2a756454a0d"
 ---
 ## [Executive Vote] Raise the Base Rate and the DSR, add KNC and ZRX as collateral types
 

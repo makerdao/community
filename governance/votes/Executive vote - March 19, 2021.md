@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase Debt Floor, Increase Debt Ceilings - March 19, 2021
-
+summary: Vote for this proposal to Increase Debt Floor and Increase Debt Ceilings
+date: 2021-03-19T00:00:00.000Z
+address: "0xe6Da9d1dd7576bBdA67820B521733fd1Bd55d71C"
 ---
 # [Executive Proposal] Increase Debt Floor, Increase Debt Ceilings - March 19, 2021
 
