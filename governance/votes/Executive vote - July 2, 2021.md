@@ -32,7 +32,7 @@ DAI will be distributed to the Core Units as specified within their ratified bud
 | Oracles (ORA-001) - Continuity Reserve | 800,000 DAI|
 | **Total** | **2,510,503 DAI** |
 
-**Stability Fee Decreases**
+**[Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) Decreases**
 
 | Vault Type | Current Rate | Proposed Rate | Change |
 |-|-|-|-|
@@ -56,7 +56,7 @@ DAI will be distributed to the Core Units as specified within their ratified bud
 
 **Other Changes**
 
-Activate the Debt Ceiling Instant Access Module for the PSM-USDC-A vault type with the following parameters:
+Activate the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) for the PSM-USDC-A vault type with the following parameters:
 - Maximum Debt Ceiling (`line`) = 10 billion DAI.
 - Target Available Debt (`gap`) = 1 billion DAI.
 - Ceiling Increase Cooldown (`ttl`) = 24 hours.
@@ -98,7 +98,7 @@ July's Core Unit budget distributions come total **2,510,503 DAI.**
 
 ### Stability Fee Decreases
 
-As per the successful outcome to [this](https://vote.makerdao.com/polling/QmfZWY87?network=mainnet#poll-detail) governance poll, stability Fees will be decreased on multiple vault types if this executive proposal passes. These changes are listed below. Further details and discussion related to this proposal can be found [here](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-june-2021/8991).
+As per the successful outcome to [this](https://vote.makerdao.com/polling/QmfZWY87?network=mainnet#poll-detail) governance poll, [stability fees](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) will be decreased on multiple vault types if this executive proposal passes. These changes are listed below. Further details and discussion related to this proposal can be found [here](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-june-2021/8991).
 
 | Vault Type | Current Rate | Proposed Rate | Change |
 |-|-|-|-|
@@ -122,7 +122,7 @@ As per the successful outcome to [this](https://vote.makerdao.com/polling/QmfZWY
 
 ### Activate Debt Ceiling Instant Access Module for PSM-USDC-A
 
-As per the successful outcome to [this](https://vote.makerdao.com/polling/QmZz4ssm?network=mainnet#poll-detail) governance poll, PSM-USDC-A will be enabled on the DC-IAM if this executive proposal passes. Further details and discussion of this proposal can be found [here](https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-a-for-whatever-it-takes-to-keep-the-peg/8601).
+As per the successful outcome to [this](https://vote.makerdao.com/polling/QmZz4ssm?network=mainnet#poll-detail) governance poll, PSM-USDC-A will be enabled on the [Debt Ceiling Instant Access Module](https://community-development.makerdao.com/en/learn/governance/module-dciam) if this executive proposal passes. Further details and discussion of this proposal can be found [here](https://forum.makerdao.com/t/signal-request-adjust-psm-usdc-a-for-whatever-it-takes-to-keep-the-peg/8601).
 - Maximum Debt Ceiling (`line`): 10 billion DAI
 - Target Available Debt (`gap`): 1 billion DAI
 - Ceiling Increase Cooldown (`ttl`): 24 hours
