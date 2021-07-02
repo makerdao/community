@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
+start_date: 2021-07-05T16:00:00
+end_date: 2021-07-08T16:00:00
 ---
 # Poll: Community Greenlight Poll - 0xBTC (0xBitcoin Neutral Mineable Token) - July 5, 2021
 
