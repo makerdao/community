@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Rates Changes, July Core Unit Budgets, and PSM DC-IAM - July 2, 2021
 summary: Vote for Rates Changes, July Core Unit Budgets, and PSM DC-IAM
 date: 2021-07-02T00:00:00.000Z
-address: "$spell_address"
+address: "0xEC782b5aC1f0Fc096Ad30950f3348670980f7FD3"
 
 ---
 # [Executive Proposal] Rates Changes, July Core Unit Budgets, and PSM DC-IAM - July 2, 2021
