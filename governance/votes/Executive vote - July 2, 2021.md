@@ -75,13 +75,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### July Core Unit Budget Distributions
 
-Due to the positive outcomes of multiple [Core Unit Budget Proposals](https://mips.makerdao.com/mips/list?&search=$AND(%23core-unit,%20%23budget,%20%23active)&subproposalsMode=true), the following budget allocations will be made to fund operations in the month of July if this executive proposal passes.
+Due to the positive outcomes of multiple Core Unit Budget Proposals, the following budget allocations will be made to fund operations in the month of July if this executive proposal passes.
 
 **155,000 DAI** will be distributed to the **[Real World Finance (RWA-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1)**  core unit at **0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP12).
 
 **182,000 DAI** will be distributed to the **[Risk (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2)**  core unit at **0xd98ef20520048a35EdA9A202137847A62120d2d9**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP13).
 
-**273,334 DAI** will be distributed to the **[GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP40c3SP11)** core unit at **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP3). Note that this includes the GovAlpha continuity budget.
+**273,334 DAI** will be distributed to the **[GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3)** core unit at **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**  as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP11). Note that this includes the GovAlpha continuity budget.
 
 **510,000 DAI** will be distributed to the **[Protocol Engineering (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7)** core unit at **0xe2c16c308b843eD02B09156388Cb240cEd58C01c** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
 
