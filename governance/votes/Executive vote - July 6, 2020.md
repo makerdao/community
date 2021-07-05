@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Raise the ETH-A Debt Ceiling
-
+summary: Vote for this proposal to raise the ETH-A Debt Ceiling 20M to a new limit of 160M
+date: 2020-07-06T00:00:00.000Z
+address: "0x658eC6A5D4d1Cfd72D2Baad14F8Ad96FC2fCDd51"
 ---
 ## [Executive Vote] Raise the ETH-A Debt Ceiling
 

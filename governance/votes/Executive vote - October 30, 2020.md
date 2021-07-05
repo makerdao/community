@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
-
+summary: Vote for this proposal to mitigate flash loan risk
+date: 2020-10-30T00:00:00.000Z
+address: "0xF1079CA834758b1082FB94412BbB0C9f024EA7d6"
 ---
 ## [Executive Vote] Mitigating Flash Loan Risk - October 30, 2020
 

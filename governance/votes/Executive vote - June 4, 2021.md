@@ -1,5 +1,8 @@
 ---
 title: Template - [Executive Vote] June Core Unit Budget Distributions, Other Changes - June 4, 2021
+summary: Vote for June Core Unit Budget Distributions, Other Changes
+date: 2021-06-04T00:00:00.000Z
+address: "0x379746b2bd85Bb837D44F5f9299C308F33Ed214A"
 
 ---
 # [Executive Proposal] June Core Unit Budget Distributions, Other Changes - June 4, 2021

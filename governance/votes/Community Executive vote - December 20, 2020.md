@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
-
+summary: Vote for this proposal to activate the USDC PSM
+date: 2020-12-20T00:00:00.000Z
+address: "0x437F5aAF195C97a01f85e672bb8e371484D96C57"
 ---
 ## [Executive Vote] Activate the USDC PSM, Reduce Stablecoin Debt Ceilings - December 20, 2020
 

@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Approve September 2020 Governance Cycle Bundle - September 28, 2020
-
+summary: Vote for this proposal to approve the September 2020 Governance Cycle Bundle - September 28, 2020
+date: 2020-09-28T00:00:00.000Z
+address: "0x85652B397a5E7B5D92e7c0F4158D2b1c6761F280"
 ---
 ## [Executive Vote] Approve September 2020 Governance Cycle Bundle - September 28, 2020
 

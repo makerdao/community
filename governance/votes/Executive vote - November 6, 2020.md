@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboard YFI and BAL, Debt Ceiling and Stability Fee Adjustments - November 6, 2020
-
+summary: Vote for this proposal to onboard YFI and BAL, make debt ceiling and stability fee adjustments
+date: 2020-11-06T00:00:00.000Z
+address: "0x268C4bb57f18b04a7380e3EeEEcAeC377C31c850"
 ---
 ## [Executive Vote] Onboard YFI and BAL, Debt Ceiling and Stability Fee Adjustments - November 6, 2020
 

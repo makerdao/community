@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
-
+summary: Vote for this proposal to onboard Aave and UNI-V2-DAI-ETH as new collateral types, stability fee changes, and whitelisting Gnosis on the ETHUSD OSM Oracle
+date: 2020-12-18T00:00:00.000Z
+address: "0x6b8b3993cFB253968894C8EcB430CaF2455b51Aa"
 ---
 ## [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
 

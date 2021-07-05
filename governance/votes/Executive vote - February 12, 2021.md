@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs, Rates Updates, Other Changes - February 12, 2021
-
+summary: Vote for this proposal to onboard Uniswap V2 LPTs, make rate updates, and other changes
+date: 2021-02-12T00:00:00.000Z
+address: "0x0825152884FBe61B0FeB458Af29Cc4aB49972369"
 ---
 ## [Executive Vote] Onboarding Uniswap V2 LPTs, Rates Updates, Other Changes - February 12, 2021
 

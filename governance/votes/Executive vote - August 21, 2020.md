@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Increase the Base Rate
-
+summary: Vote for this proposal to increase the Base Rate from -6% to -4%
+date: 2020-08-21T00:00:00.000Z
+address: "0x4b46e37f032d0802291dd890acd941ac167ed61d"
 ---
 ## [Executive Vote] Increase the Base Rate
 

@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Stability Fee Changes, Onboarding ETH-C - March 12, 2021
-
+summary: Vote for this to make Stability Fee Changes and Onboarding ETH-C
+date: 2021-03-12T00:00:00.000Z
+address: "0x4145774D007C88392118f32E2c31686faCc9486E"
 ---
 # [Executive Proposal] Stability Fee Changes, Onboarding ETH-C - March 12, 2021
 

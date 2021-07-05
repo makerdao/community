@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Collateral Onboarding, Debt Ceiling Adjustments, Other Changes - January 22, 2021
-
+summary: Vote for this proposal to add new collateral, make debt ceiling adjustments, and make other changes
+date: 2021-01-22T00:00:00.000Z
+address: "0x02b288B361539462c0Ab80FdC7eAE53E120268C7"
 ---
 ## [Executive Vote] Collateral Onboarding, Debt Ceiling Adjustments, Other Changes - January 22, 2021
 

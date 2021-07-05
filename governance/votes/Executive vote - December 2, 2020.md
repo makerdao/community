@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
-
+summary: Vote for this proposal to migrate to DsChief v1.2
+date: 2020-12-02T00:00:00.000Z
+address: "0xB70fB4eE900650DCaE5dD63Fd06E07F0b3a45d13"
 ---
 ## [Executive Vote] Migrate to DsChief v1.2 - December 2, 2020
 

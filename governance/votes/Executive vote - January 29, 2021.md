@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 29, 2021
-
+summary: Vote for this proposal to add ETH-A to the Debt Ceiling Instant Access Module
+date: 2021-01-29T00:00:00.000Z
+address: "0xec0e742322f942a61fcd203334a33760a2d3a2e1"
 ---
 ## [Executive Vote] Add ETH-A to the Debt Ceiling Instant Access Module - January 29, 2021
 

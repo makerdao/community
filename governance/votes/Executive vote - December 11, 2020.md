@@ -1,6 +1,8 @@
 ---
 title: Template - [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
-
+summary: Vote for this proposal to onboard renBTC and UNI, Enable DC-IAM for ETH-B, Reduce Stablecoin SFs to 0%, Modify YFI-A parameters, and whitelist Yearn.finance...
+date: 2020-12-11T00:00:00.000Z
+address: "0x58401b64CA6b91E346c87B057254F040990c4F98"
 ---
 ## [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
 
