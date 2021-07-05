@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for these proposals being accepted and implemented in the Maker Protocol. 
-discussion_link: $discussion_link
+discussion_link: $sentence_summary_mip_set
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -49,7 +49,7 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*($paragraph_summary)*
+*$paragraph_summary*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version]($link_to_github_commit_version)
@@ -65,6 +65,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 * Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
+
 ---
 
 ## Resources

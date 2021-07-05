@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for this proposal being accepted and implemented in the Maker Protocol. 
+summary: $sentence_summary
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
@@ -25,7 +25,7 @@ The community may vote in this poll to express support or opposition to $mip_cod
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*($paragraph_summary)*
+*$paragraph_summary*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version]($link_to_github_commit_version)
