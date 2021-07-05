@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 
