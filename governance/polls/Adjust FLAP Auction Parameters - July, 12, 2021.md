@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-16T16:00:00
 ---
 # Poll: Adjust FLAP Auction Parameters - July 12, 2021
 
