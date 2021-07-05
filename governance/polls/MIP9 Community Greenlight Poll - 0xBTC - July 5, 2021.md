@@ -1,7 +1,7 @@
 ---
-title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
-discussion_link: $discussion_link
+title: Community Greenlight Poll - 0xBTC (0xBitcoin Neutral Mineable Token) - July 5, 2021
+summary: Signal your support or opposition to prioritising onboarding 0xBTC (0xBitcoin Neutral Mineable Token). 
+discussion_link: https://forum.makerdao.com/t/0xbtc-0xbitcoin-neutral-mineable-token-collateral-onboarding-application/8761
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -10,12 +10,12 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-07-05T16:00:00
+end_date: 2021-07-19T16:00:00
 ---
-# Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
+# Poll: Community Greenlight Poll - 0xBTC (0xBitcoin Neutral Mineable Token) - July 5, 2021
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 5 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,15 +24,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset 0xBTC (0xBitcoin Neutral Mineable Token) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
-Please review the collateral onboarding application [thread]($discussion_link) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/0xbtc-0xbitcoin-neutral-mineable-token-collateral-onboarding-application/8761) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for $asset_code ($asset_name) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for $asset_code ($asset_name) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for 0xBTC (0xBitcoin Neutral Mineable Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for 0xBTC (0xBitcoin Neutral Mineable Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
