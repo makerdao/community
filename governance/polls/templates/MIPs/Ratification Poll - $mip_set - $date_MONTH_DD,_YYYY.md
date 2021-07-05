@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for these proposals being accepted and implemented in the Maker Protocol. 
-discussion_link: $discussion_link
+discussion_link: $sentence_summary_mip_set
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -21,35 +21,50 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community can vote in this poll to express support or opposition to these proposals being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
 
-This Inclusion Poll MIP Set contains the following MIPs:
+### $mip_code_1
 
-* [$first_mip_number: $first_mip_title]($first_link_to_github_commit_version) | [Discussion Link]($first_mip_discussion_link)
-* [$second_mip_number: $second_mip_title]($second_link_to_github_commit_version) | [Discussion Link]($second_mip_discussion_link)
-* [$third_mip_number: $third_mip_title]($third_link_to_github_commit_version) | [Discussion Link]($third_mip_discussion_link)
-
-The sentence summary and paragraph summary have been provided by the MIP author:
-
-**Sentence Summary**
-
-*($sentence_summary)*
-
-**Paragraph Summary**
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
 *($paragraph_summary)*
 
-Please review the linked discussion threads to inform your position on these proposals before voting. It was also mentioned and possibly discussed on the [Governance and Risk call]($governance_call_link) on $prev_governance_call_date.
+Please review the links below to inform your position on this proposal before voting.
+* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Latest Proposal Version]($link_to_portal_version)
+* [Proposal Discussion Thread]($discussion_link)
+
+### $mip_code_2
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*($paragraph_summary)*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Latest Proposal Version]($link_to_portal_version)
+* [Proposal Discussion Thread]($discussion_link)
+
+### $mip_code_3
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*$paragraph_summary*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Latest Proposal Version]($link_to_portal_version)
+* [Proposal Discussion Thread]($discussion_link)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option AND at least 10,000 MKR have voted in favor of this poll, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date. 
-* These proposals will be added to the Maker Protocol, with implementation tasked to the relevant [Core Unit](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
+* Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
-**If the votes for the Yes' option DO NOT exceed the votes for the 'No' option, OR less than 10,000 MKR vote in favor of these proposals, then these proposals will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
+**Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
 ---
 
