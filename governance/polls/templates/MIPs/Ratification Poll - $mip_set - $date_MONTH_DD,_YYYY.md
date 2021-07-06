@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for these proposals being accepted and implemented in the Maker Protocol. 
-discussion_link: $sentence_summary_mip_set
+summary: $sentence_summary_mip_set
+discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
    - MIPs
