@@ -47,6 +47,6 @@ keepers are participating in auctions, as this may result in less efficient auct
  
  ## Considerations
  
- The Surplus Lot Size cannot be less than 0 DAI.
+ The Surplus Lot Size cannot be less than or equal to 0 DAI.
  
  
