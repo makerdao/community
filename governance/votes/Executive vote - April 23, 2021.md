@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] System Surplus Buffer Increase and Burn, Parameter Changes, YFI-A Addition to Liquidations 2.0 - April 23, 2021
 summary: Vote for System Surplus Buffer Increase and Burn, Parameter Changes, YFI-A Addition to Liquidations 2.0
-date: 2021-04-23-T00:00:00.000Z
+date: 2021-04-23T00:00:00.000Z
 address: "0x961eEE551d0Fe5FF8B88db5441875564ac967f09"
 
 ---
