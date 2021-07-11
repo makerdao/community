@@ -24,7 +24,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Add Strategic Marcomms Core Unit being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Strategic Marcomms Core Unit being accepted and implemented in the Maker Protocol.
 
 ### Add Strategic Marcomms Core Unit
 
