@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Special Purpose Fund (MIP55) being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Special Purpose Fund (MIP55) being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
