@@ -1,13 +1,11 @@
 ---
-tags: GovAlpha - Ratification Polls
----
----
-title: Ratification Poll for Modify Core Unit Budget, MKT-001 - July 12, 2021
+title: Ratification Poll for Modifying the Content Production Core Unit Budget, MKT-001 - July 12, 2021
 summary: This proposal extends the budget for the Content Production Core Unit for three months.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp21-modify-core-unit-budget-mkt-001/8427
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Budget
 options:
    0: Abstain
    1: Yes
@@ -15,7 +13,7 @@ options:
 start_date: 2021-07-12T16:00:00
 end_date: 2021-07-26T16:00:00
 ---
-# Ratification Poll for Modify Core Unit Budget, MKT-001 - July 12, 2021
+# Ratification Poll for Modifying the Content Production Core Unit Budget, MKT-001 - July 12, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
@@ -26,15 +24,15 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to modify Core Unit Budget being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP40c3-SP21: Modify Core Unit Budget, MKT-001 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The Content Production Core Unit’s initial budget provides three months of runway (May, June, July) to establish operations in accordance with our mandate 3.
+*The Content Production Core Unit’s initial budget provides three months of runway (May, June, July) to establish operations in accordance with our mandate.*
 
-This proposal is for a total of 201,200 Dai to fund the team for August, September, and October.
+*This proposal is for a total of 201,200 Dai to fund the team for August, September, and October.*
 
-Unless the team significantly expands the scope of its activities, this quarter’s budget should be ~50,000 DAI higher than a typical quarter due to the inclusion of a Continuity Fund to pay contributors in the event a budget is delayed or some other emergency occurs.*
+*Unless the team significantly expands the scope of its activities, this quarter’s budget should be ~50,000 DAI higher than a typical quarter due to the inclusion of a Continuity Fund to pay contributors in the event a budget is delayed or some other emergency occurs.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1d575719a133f5b4eb09647195ac18885bb02de9/MIP40/MIP40c3-Subproposals/MIP40c3-SP21.md)
@@ -46,7 +44,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on on Thursday, July 29.  
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 29.  
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
