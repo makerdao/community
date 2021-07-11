@@ -10,8 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $2021-07-12T16:00:00
-end_date: $2021-07-15T16:00:00
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-15T16:00:00
 ---
 # Poll: Add MATIC as a new Vault Type - July 12, 2021
 
