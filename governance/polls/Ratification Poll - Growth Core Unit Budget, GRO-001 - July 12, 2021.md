@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip40c3-sp19-growth-core-unit-budg
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Budget
 options:
    0: Abstain
    1: Yes
@@ -12,6 +13,7 @@ options:
 start_date: 2021-07-12T16:00:00
 end_date: 2021-07-26T16:00:00
 ---
+
 # Ratification Poll for Growth Core Unit Budget, GRO-001 - July 12, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
@@ -27,12 +29,13 @@ The community may vote in this poll to express support or opposition to Growth C
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-This budget proposal covers a total of 3 months (August, September, and October of 2021). During these three months, our focus will be on:
+*This budget proposal covers a total of 3 months (August, September, and October of 2021). During these three months, our focus will be on:*
 
-We have 93 opportunities at the last stages of the Growth Process cycle. We will drive these opportunities to the next step by launching adoption campaigns with our partners.
-Institutional vaults: we will find the proper implementation with the Maker community and larger vault users.
-Dai in other Networks: Increase Dai usage in other networks like Polygon and Solana.
-Growth CU is asking for a total of 937,950 DAI over three months. 437,950 DAI will cover operations, and 500,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.).
+* *We have 93 opportunities at the last stages of the Growth Process cycle. We will drive these opportunities to the next step by launching adoption campaigns with our partners.*
+* *Institutional vaults: we will find the proper implementation with the Maker community and larger vault users.*
+* *Dai in other Networks: Increase Dai usage in other networks like Polygon and Solana.*
+
+*Growth CU is asking for a total of 937,950 DAI over three months. 437,950 DAI will cover operations, and 500,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.).*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/170b1bd6289d008cf7b1bd1ab0ddffb6c13edc6f/MIP40/MIP40c3-Subproposals/MIP40c3-SP19.md)
