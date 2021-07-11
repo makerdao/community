@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Special Purpose Fund, SPF - July 12, 2021
-summary: A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.
+summary: A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow.
 discussion_link: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
 vote_type: Plurality Voting
 categories:
@@ -27,15 +27,15 @@ The community may vote in this poll to express support or opposition to Special 
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.
+*A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.*
 
-Funding is only available in Dai.
-A SPF must contain one Point of Contact (from the SPF receiver) and a minimum of two Comptrollers. Comptrollers execute payouts to final recipients based on the completion of milestones stated in the SPF Scope.
-Any SPF requests less than 50,000 Dai can go into a weekly or signal request process, but anything greater than 50,000 Dai must go through the monthly governance cycle.*
+* *Funding is only available in Dai.*
+* *A SPF must contain one Point of Contact (from the SPF receiver) and a minimum of two Comptrollers. Comptrollers execute payouts to final recipients based on the completion of milestones stated in the SPF Scope.*
+* *Any SPF requests less than 50,000 Dai can go into a weekly or signal request process, but anything greater than 50,000 Dai must go through the monthly governance cycle.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/170b1bd6289d008cf7b1bd1ab0ddffb6c13edc6f/MIP55/MIP55.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55#mip55c1-special-purpose-fund-requirements)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624)
 
 ## Outcomes
