@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-eng
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
@@ -23,7 +24,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to the Governance Communications Core Unit initial proposal set being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Collateral Engineering Services Core Unit being accepted and implemented in the Maker Protocol.
 
 ### MIP39c2-SP12: Adding Collateral Engineering Services Core Unit
 
