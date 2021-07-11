@@ -58,7 +58,7 @@ Please review the following forum threads containing information about MATIC (Po
 * [Proposal Thread](https://forum.makerdao.com/t/matic-mip6-collateral-onboarding-updated/8318)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/matic-collateral-onboarding-risk-evaluation/9069)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/matic-erc20-token-smart-contract-technical-assessment/9140)
-* [Oracles Team Evaluation](https://forum.makerdao.com/t/matic-collateral-onboarding-oracle-assessment-mip10c3-sp39/9287)
+* [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/matic-collateral-onboarding-oracle-assessment-mip10c3-sp39/9287)
 
 ## Outcomes
 
