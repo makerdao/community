@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp8-governance-communicati
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
@@ -23,13 +24,13 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to the Governance Communications Core Unit initial proposal set being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Governance Communications Core Unit being accepted and implemented in the Maker Protocol.
 
 ### MIP39c2-SP8: Governance Communications Core Unit, COM-001
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP39c2-SP8 adds Core Unit COM-001: Governance Communications.*
+*The Governance Communications Core Unit performs a complementary set of resources and services that focus on MakerDAO’s informational accessibility and communication practices as a public organization.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/28fc911e12d2ca0681aada2fbb0b9d5bf46e1af8/MIP39/MIP39c2-Subproposals/MIP39c2-SP8.md)
@@ -40,10 +41,17 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP8 adds the budget for Core Unit COM-001: Governance Communications.*
+*This initial budget, for 163,200 Dai, provides five months of runway, August 2021 - Dec 2021. In the next year, we intend to submit bi-annual budgets, covering 6 months at a time unless otherwise prefered by MakerDAO. The annual budget figure is $486,000.*
+
+*A vote to ratify this MIP means MKR holders make a commitment to:*
+
+- *An initial five month (Q3-Q4) budget.*
+- *A continuous monthly funding model.*
+- *A 3-month runway reserve, held in a protocol-owned multi-sig.*
+- *An MKR vesting package for COM-001, with details being determined in the near future.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/tree/1a462c77d30bc603131b4f3c54a7486801395a7e)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/83f3b4a3c513f931414953c3003be508a409ab9a/MIP40/MIP40c3-Subproposals/MIP40c3-SP8.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP8)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp8-modify-core-unit-budget-com-001-updated-06-29-21/7010)
 
