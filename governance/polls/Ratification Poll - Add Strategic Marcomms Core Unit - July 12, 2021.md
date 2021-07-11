@@ -1,10 +1,11 @@
 ---
-title: Ratification Poll for Add Strategic Marcomms Core Unit - July 12, 2021
+title: Ratification Poll for Strategic Marcomms Core Unit - July 12, 2021
 summary: MIP39c2-SP14 adds Core Unit CPM-001
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp14-add-strategic-marcomms-core-unit/8617
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Core Unit
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 start_date: 2021-07-12T16:00:00
 end_date: 2021-07-26T16:00:00
 ---
-# Ratification Poll for Add Strategic Marcomms Core Unit - July 12, 2021
+# Ratification Poll for Strategic Marcomms Core Unit - July 12, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
@@ -29,9 +30,9 @@ The community may vote in this poll to express support or opposition to Add Stra
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-MakerDAO has entered its next stage of growth. In six months, DAI circulation has more than quadrupled to 4.7 billion from 1 billion in November 2020. The surge takes place as the stablecoin market expanded exponentially in the past year.
+*MakerDAO has entered its next stage of growth. In six months, DAI circulation has more than quadrupled to 4.7 billion from 1 billion in November 2020. The surge takes place as the stablecoin market expanded exponentially in the past year.*
 
-Given the pace of growth in the current market environment, the unit believes it is a crucial time for MakerDAO to increase marketing initiatives to drive growth, maintain thought leadership, and gain market share.
+*Given the pace of growth in the current market environment, the unit believes it is a crucial time for MakerDAO to increase marketing initiatives to drive growth, maintain thought leadership, and gain market share.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1d575719a133f5b4eb09647195ac18885bb02de9/MIP39/MIP39c2-Subproposals/MIP39c2-SP14.md)
@@ -42,23 +43,22 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-The unit seeks to accelerate the growth of MakerDAO by providing a cohesive global branding with a strong focus on collaboration and coordination.
+*The unit seeks to accelerate the growth of MakerDAO by providing a cohesive global branding with a strong focus on collaboration and coordination.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1d575719a133f5b4eb09647195ac18885bb02de9/MIP40/MIP40c3-Subproposals/MIP40c3-SP18.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c3SP18)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP18)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c2-sp18-add-core-unit-budget-cpm-001/8618)
 
 ### Facilitator Onboarding, CPM-001
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-Individuals’ lives can be improved immensely when they have access to open finance and an unbiased, stable currency. That is what MakerDAO and Dai offer, which is also why I am applying to become a Facilitator.
-As someone passionate about equality, I want to utilize my expertise in marketing & PR and decades of experience as a former Bloomberg journalist to promote and share MakerDAO and Dai’s benefits.
+*Individuals’ lives can be improved immensely when they have access to open finance and an unbiased, stable currency. That is what MakerDAO and Dai offer, which is also why I am applying to become a Facilitator. As someone passionate about equality, I want to utilize my expertise in marketing & PR and decades of experience as a former Bloomberg journalist to promote and share MakerDAO and Dai’s benefits.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1d575719a133f5b4eb09647195ac18885bb02de9/MIP41/MIP41c4-Subproposals/MIP41c4-SP15.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41)
+* [Latest Proposal Version](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP15.md)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp15-facilitator-onboarding-cpm-001/8619)
 
 ## Outcomes
@@ -66,7 +66,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on Thursday, July 29.. 
+* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on Thursday, July 29. 
 * Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
