@@ -39,7 +39,7 @@ Please review the following forum threads containing information about $ilk ($as
 * [Initial Collateral Application]($proposal_thread)
 * [Real-World Finance Core Unit Risk Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Core Unit Evaluation]($oracles_link)
 
 ## Outcomes
 
