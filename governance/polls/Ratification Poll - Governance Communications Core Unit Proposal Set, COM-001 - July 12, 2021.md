@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/mip39c2-sp8-governance-communicati
 vote_type: Plurality Voting
 categories:
    - MIPs
-   - Core Unit
 options:
    0: Abstain
    1: Yes
