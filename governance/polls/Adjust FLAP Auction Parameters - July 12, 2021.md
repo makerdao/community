@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-FLAP auctions refer to the Maker Protocol's System Surplus auctions. These auctions sell off DAI revenue from Stability Fees and Liquidation Fees in exchange for MKR which is then burned.
+FLAP auctions refer to the Maker Protocol's System Surplus Auctions. These auctions sell off DAI revenue from Stability Fees and Liquidation Fees in exchange for MKR which is then burned.
 
 The community can vote in this poll to express support or opposition to the following change: 
 * Decrease the Bid Duration (`ttl`) for FLAP auctions from 60 minutes to 30 minutes.
