@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Growth Core Unit Budget, GRO-001 - July 12, 2021
-summary: MIP40c3-SP19 adds the budget for Growth Core Unit, GRO-001.
+summary: This MIP modifies the budget for the Growth Core Unit, GRO-001.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp19-growth-core-unit-budget-gro-001/8643
 vote_type: Plurality Voting
 categories:
