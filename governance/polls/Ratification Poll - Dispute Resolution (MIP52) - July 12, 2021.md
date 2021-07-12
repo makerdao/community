@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Dispute Resolution (MIP52) - July 12, 2021
-summary: MIP52 outlines a process by which any community member or stakeholder can elevate the resolution of a dispute directly to MKR holders.
+summary: This MIP outlines a process by which any community member or stakeholder can elevate the resolution of a dispute directly to MKR holders.
 discussion_link: https://forum.makerdao.com/t/mip52-dispute-resolution/7845
 vote_type: Plurality Voting
 categories:
