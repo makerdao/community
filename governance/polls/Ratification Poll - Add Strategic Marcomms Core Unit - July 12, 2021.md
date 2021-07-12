@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Strategic Marcomms Core Unit - July 12, 2021
-summary: MIP39c2-SP14 adds Core Unit CPM-001
+summary: This MIP set adds the Strategic Marcomms Core Unit, CPM-001.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp14-add-strategic-marcomms-core-unit/8617
 vote_type: Plurality Voting
 categories:
