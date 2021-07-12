@@ -58,7 +58,7 @@ Please review the following forum threads containing information about $ilk ($as
 * [Proposal Thread]($proposal_thread)
 * [Risk Core Unit Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Core Unit Evaluation]($oracles_link)
 
 ## Outcomes
 

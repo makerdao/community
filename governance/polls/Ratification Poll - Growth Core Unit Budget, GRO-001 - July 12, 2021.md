@@ -1,20 +1,22 @@
 ---
-title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
-summary: $sentence_summary
-discussion_link: $discussion_link
+title: Ratification Poll for Growth Core Unit Budget, GRO-001 - July 12, 2021
+summary: This MIP modifies the budget for the Growth Core Unit, GRO-001.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp19-growth-core-unit-budget-gro-001/8643
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Budget
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-26T16:00:00
 ---
-# Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+# Ratification Poll for Growth Core Unit Budget, GRO-001 - July 12, 2021
+
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,23 +25,29 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Growth Core Unit Budget being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*$paragraph_summary*
+*This budget proposal covers a total of 3 months (August, September, and October of 2021). During these three months, our focus will be on:*
+
+* *We have 93 opportunities at the last stages of the Growth Process cycle. We will drive these opportunities to the next step by launching adoption campaigns with our partners.*
+* *Institutional vaults: we will find the proper implementation with the Maker community and larger vault users.*
+* *Dai in other Networks: Increase Dai usage in other networks like Polygon and Solana.*
+
+*Growth CU is asking for a total of 937,950 DAI over three months. 437,950 DAI will cover operations, and 500,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/170b1bd6289d008cf7b1bd1ab0ddffb6c13edc6f/MIP40/MIP40c3-Subproposals/MIP40c3-SP19.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP19)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp19-growth-core-unit-budget-gro-001/8643)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on $week_four_governance_call_date. 
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 29. 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
