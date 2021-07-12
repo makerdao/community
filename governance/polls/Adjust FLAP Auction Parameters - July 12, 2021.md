@@ -1,6 +1,6 @@
 ---
 title: Adjust FLAP Auction Parameters - July 12, 2021
-summary: Signal your support or opposition to adjusting the FLAP Auction Parameters
+summary: Signal your support or opposition to adjusting the FLAP Auction Parameters.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-ttl-bid-duration-on-flap-auctions/8673
 vote_type: Plurality Voting
 categories:
