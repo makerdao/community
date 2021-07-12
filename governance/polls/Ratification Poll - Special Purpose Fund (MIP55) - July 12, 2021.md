@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Special Purpose Fund, SPF - July 12, 2021
-summary: A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow.
+title: Ratification Poll for Special Purpose Fund (MIP55) - July 12, 2021
+summary: This MIP proposes Special Purpose Funds (SPFs) which are used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow.
 discussion_link: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2021-07-12T16:00:00
 end_date: 2021-07-26T16:00:00
 ---
-# Ratification Poll for Special Purpose Fund, SPF - July 12, 2021
+# Ratification Poll for Special Purpose Fund (MIP55) - July 12, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
