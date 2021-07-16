@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Bid Duration (ttl) for FLAP auctions will decrease from 60 minutes to 30 minutes.
 - The Debt Ceiling for RWA-02 (NS-DROP) will increase from 5 million DAI to 20 million DAI.
-- Provided the [previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-rates-changes-july-core-unit-budgets-and-psm-dc-iam-july-2-2021?network=mainnet#proposal-detail) does not pass, the following budget distributions will be made. If the previous executive passes before this executive proposal does, no additional distribution will occur.
+- Provided the [previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-rates-changes-july-core-unit-budgets-and-psm-dc-iam-july-2-2021?network=mainnet#proposal-detail) has not already passed, the following budget distributions will be made. If the previous executive passes before this executive proposal does, no additional distribution will occur.
 
 **Core Unit Budget Distributions - July**  
 DAI will be distributed to the Core Units as specified within their ratified budget proposals.
@@ -61,7 +61,7 @@ Please see this [signal request](https://forum.makerdao.com/t/signal-request-inc
 
 Provided the [previous executive vote](https://vote.makerdao.com/executive/template-executive-vote-rates-changes-july-core-unit-budgets-and-psm-dc-iam-july-2-2021?network=mainnet#proposal-detail) does not pass before this executive does, the following Core Unit budget distributions will occur. In the event the previous executive proposal does pass before this executive, these distributions will not occur.
 
-**Note:** In the event that **both** executive proposals pass **and** this executive passes before the previous one, the Core Units will either return the excess funds or have the excess amount subtracted from future distributions.
+**Note:** In the event that the 2021-07-02 executive passes **after** this one, the July budget distributions will be duplicated and Core Units will either return the excess funds or have the excess amount subtracted from future distributions.
 
 The following budget allocations will be made to fund operations in the month of July if this executive proposal passes:
 
