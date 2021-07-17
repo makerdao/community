@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] FLAP Auction Adjustment and RWA-02 (NS-DROP) Debt Ceiling Increase - July 17, 2021
 summary: Vote for FLAP Auction Adjustment and NS-DROP Debt Ceiling Increase
 date: 2021-07-17T00:00:00.000Z
-address: "$spell_address"
+address: "0x9e32B8317733AF825e25a235C99623B4103eb0b7"
 
 ---
 # [Executive Proposal] FLAP Auction Adjustment and RWA-02 (NS-DROP) Debt Ceiling Increase - July 17, 2021
