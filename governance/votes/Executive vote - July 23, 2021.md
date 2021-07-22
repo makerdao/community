@@ -69,7 +69,7 @@ Please review the following forum threads containing information about HTC-DROP 
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa004-ht2drp-htc-drop-mip22-token-protocol-engineering-domain-team-assessment/8416)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-004-htc-drop-collateral-onboarding-oracle-assessment-mip10c3-sp30/8400)
 
-Note that HTC-DROP has met the requirement for a debt ceiling requirement of 7 million DAI, as detailed [here](https://forum.makerdao.com/t/htc-drop-collateral-onboarding-risk-evaluation/8001/5). 
+Note that HTC-DROP has met the requirement for a debt ceiling of 7 million DAI, as detailed [here](https://forum.makerdao.com/t/htc-drop-collateral-onboarding-risk-evaluation/8001/5). 
 
 ### Add FFT1-DROP (Fortunafi DROP Token) as a new RWA Vault Type
 
@@ -89,7 +89,7 @@ Please review the following forum threads containing information about FFT1-DROP
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa005-ff1drp-fft1-drop-mip22-token-protocol-engineering-domain-team-assessment/8417)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-005-fft1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp31/8401)
 
-Note that FFT1-DROP has met the requirement for a debt ceiling requirement of 15 million DAI, as detailed [here](https://forum.makerdao.com/t/fft1-drop-collateral-onboarding-risk-evaluation/8036/14). 
+Note that FFT1-DROP has met the requirement for a debt ceiling of 15 million DAI, as detailed [here](https://forum.makerdao.com/t/fft1-drop-collateral-onboarding-risk-evaluation/8036/14). 
 
 ### Add P1-DROP (Peoples Company Series 1 DROP Token) as a new RWA Vault Type
 
