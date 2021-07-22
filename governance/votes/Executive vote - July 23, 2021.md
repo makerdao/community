@@ -21,7 +21,7 @@ If this executive proposal passes, the following **additions** will be made to t
 - **FFT1-DROP (Fortunafi DROP Token)** will be added to the Maker Protocol as a new RWA vault type (**RWA005-A**) with the parameters listed below.
 - **P1-DROP (Peoples Company Series 1 DROP Token)** will be added to the Maker Protocol as a new RWA vault type (**RWA006-A**) with the parameters listed below.
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+**Voting for this executive proposal will place your MKR in support of the additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
@@ -108,7 +108,7 @@ Please review the following forum threads containing information about P1-DROP (
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa006-pp1drp-p1-drop-mip22-token-protocol-engineering-domain-team-assessment/8418)
 * [Oracles Team Evaluation](https://forum.makerdao.com/t/rwa-006-p1-drop-collateral-onboarding-oracle-assessment-mip10c3-sp32/8402)
 
-Note that P1-DROP has not yet been fully setup, and will remain at a zero debt ceiling until it is finalized.
+Note that P1-DROP has not yet been fully set up, and will remain at a zero debt ceiling until it has been finalized.
 
 ## Review
 
