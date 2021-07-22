@@ -1,33 +1,32 @@
 ---
-title: $IncreaseDecrease the $ilk_name Stability Fee - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Stability Fee to from $current_fee to $new_fee.
-discussion_link: $discussion_link
+title: Increase the RWA-02 (NS-DROP) Debt Ceiling - July 12, 2021
+summary: Signal your support or opposition for adjusting the RWA-02 (NS-DROP) Debt Ceiling from 5 million DAI to 20 million DAI.
+discussion_link: https://forum.makerdao.com/t/signal-request-increase-debt-ceiling-of-rwa-02-ns-drop-from-5m-to-20m/9077
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Rates
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-15T16:00:00
 ---
-# Poll: $IncreaseDecrease the $ilk_name Stability Fee - $date_MONTH_DD,_YYYY
+# Poll: Increase the RWA-02 (NS-DROP) Debt Ceiling - July 12, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, July 12 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
-## Review
+## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) change: 
-* $IncreaseDecrease the $ilk_name Stability Fee from $current_fee to $new_fee.
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the RWA-02 (NS-DROP) [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+* Increase from 5 million DAI to 20 million DAI.
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-increase-debt-ceiling-of-rwa-02-ns-drop-from-5m-to-20m/9077) to inform your position on this issue before voting.
 
 ## Outcomes
 
@@ -41,7 +40,7 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 
 ## Resources
 
-Unsure about the Stability Fee parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-stability-fee).
+Unsure about the Debt Ceiling parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 

@@ -9,6 +9,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
 # Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
 

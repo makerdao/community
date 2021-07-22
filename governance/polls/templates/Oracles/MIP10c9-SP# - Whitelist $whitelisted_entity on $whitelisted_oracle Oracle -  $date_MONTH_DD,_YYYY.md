@@ -9,6 +9,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
 # Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$sp_number) - $date_MONTH_DD,_YYYY
 

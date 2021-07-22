@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY
 
@@ -37,7 +39,7 @@ Please review the following forum threads containing information about $ilk ($as
 * [Initial Collateral Application]($proposal_thread)
 * [Real-World Finance Core Unit Risk Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Core Unit Evaluation]($oracles_link)
 
 ## Outcomes
 

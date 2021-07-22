@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY
 
@@ -32,7 +34,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $debt_floor
 
-### Liquidation 2.0 Parameters
+### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $calc_parameter
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): $cut_parameter
@@ -56,7 +58,7 @@ Please review the following forum threads containing information about $ilk ($as
 * [Proposal Thread]($proposal_thread)
 * [Risk Core Unit Evaluation]($risk_link)
 * [Protocol Engineering Core Unit Evaluation]($pe_link)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Core Unit Evaluation]($oracles_link)
 
 ## Outcomes
 

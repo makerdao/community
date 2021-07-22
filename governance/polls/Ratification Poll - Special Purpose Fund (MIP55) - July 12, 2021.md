@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
-summary: $sentence_summary
-discussion_link: $discussion_link
+title: Ratification Poll for Special Purpose Fund (MIP55) - July 12, 2021
+summary: This MIP proposes Special Purpose Funds (SPFs) which are used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow.
+discussion_link: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -9,12 +9,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-26T16:00:00
 ---
-# Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
+# Ratification Poll for Special Purpose Fund (MIP55) - July 12, 2021
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,23 +23,27 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Special Purpose Fund (MIP55) being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*$paragraph_summary*
+*A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.*
+
+* *Funding is only available in Dai.*
+* *A SPF must contain one Point of Contact (from the SPF receiver) and a minimum of two Comptrollers. Comptrollers execute payouts to final recipients based on the completion of milestones stated in the SPF Scope.*
+* *Any SPF requests less than 50,000 Dai can go into a weekly or signal request process, but anything greater than 50,000 Dai must go through the monthly governance cycle.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/170b1bd6289d008cf7b1bd1ab0ddffb6c13edc6f/MIP55/MIP55.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on $week_four_governance_call_date. 
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 29. 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

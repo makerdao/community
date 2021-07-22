@@ -1,20 +1,21 @@
 ---
-title: Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
-summary: $sentence_summary_mip_set
-discussion_link: $discussion_link
+title: Ratification Poll for Dispute Resolution (MIP52) - July 12, 2021
+summary: This MIP outlines a process by which any community member or stakeholder can elevate the resolution of a dispute directly to MKR holders.
+discussion_link: https://forum.makerdao.com/t/mip52-dispute-resolution/7845
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Governance
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-07-12T16:00:00
+end_date: 2021-07-26T16:00:00
 ---
-# Inclusion Poll for $mip_set - $date_MONTH_DD,_YYYY
+# Ratification Poll for Dispute Resolution (MIP52) - July 12, 2021
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 12 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,48 +24,24 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
-
-### $mip_code_1
+The community may vote in this poll to express support or opposition to MIP52 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*($paragraph_summary)*
+*This MIP outlines a process by which any community member or stakeholder can elevate the resolution of a dispute directly to MKR holders. There will be two primary components to this MIP, one which allows for the dispute to be settled in the normal governance cycle and another that permits for an immediate resolution, and a third component which sets a parameter for the immediate resolution component.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
-
-### $mip_code_2
-
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
-
-*($paragraph_summary)*
-
-Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
-
-### $mip_code_3
-
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
-
-*$paragraph_summary*
-
-Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1d575719a133f5b4eb09647195ac18885bb02de9/MIP52/mip52.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP52)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip52-dispute-resolution/7845)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date. 
-* Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 29. 
+* Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
