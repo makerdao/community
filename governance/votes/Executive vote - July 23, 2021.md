@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Centrifuge Asset Onboarding - July 23, 2021
 summary: Onboarding CF-DROP, FFT1-DROP, HTC-DROP, and P1-DROP
 date: 2021-07-23T00:00:00.000Z
-address: "$spell_address"
+address: "0xD97677Cdc4e5797fE68cf5B935C156399c2370e0"
 
 ---
 # [Executive Proposal] Centrifuge Asset Onboarding - July 23, 2021
