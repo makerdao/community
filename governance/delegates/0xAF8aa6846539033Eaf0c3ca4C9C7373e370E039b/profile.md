@@ -1,5 +1,5 @@
 ---
-name: Lee Robinson
+name: Template Delegate
 url: https://forum.makerdao.com/u/example
 profile_picture_url: https://images.com/image.jpeg
 ---
@@ -8,17 +8,12 @@ profile_picture_url: https://images.com/image.jpeg
 
 ### Key Info
 
-Delegate Address: 0xEtcetera
-
-Forum: @LongForWisdom
-
-Rocketchat: @LongForWisdom
-
-Email (optional): longforwisdomandstuff@gmail.com
-
-External Website (optional): www.longforwisdom.com
-
-Meet Your Delegate Video (optional): youtube or something
+Delegate Address: 0xEtcetera  
+Forum: @LongForWisdom  
+Rocketchat: @LongForWisdom  
+Email (optional): longforwisdomandstuff@gmail.com  
+External Website (optional): www.longforwisdom.com  
+Meet Your Delegate Video (optional): youtube or something  
 
 ### Core Values (Optional)
 
