@@ -1,7 +1,6 @@
 ---
 name: Field Technologies, Inc.
-url: 
-profile_picture_url: 
+external_profile_url:
 ---
 
 # Growth, Strength, and Profits
