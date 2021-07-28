@@ -1,7 +1,6 @@
 ---
 name: Template Delegate
-url: https://forum.makerdao.com/u/example
-profile_picture_url: https://images.com/image.jpeg
+external_profile_url:
 ---
 
 # Delegate Name
