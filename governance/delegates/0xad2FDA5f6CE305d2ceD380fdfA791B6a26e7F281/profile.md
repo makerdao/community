@@ -7,7 +7,7 @@ external_profile_url:
 
 ### Key Info
 
-Delegate Address: 0x0988E41C02915Fe1beFA78c556f946E5F20ffBD3  
+Delegate Address: 0xad2FDA5f6CE305d2ceD380fdfA791B6a26e7F281  
 Name: Field Technologies, Inc. (Headed by Chris Cameron)  
 Forum: @PaperImperium  
 Rocketchat: @PaperImperium  
