@@ -1,3 +1,8 @@
+---
+name: Template Delegate
+external_profile_url:
+---
+
 # Values
 
 - Cautious optimism
