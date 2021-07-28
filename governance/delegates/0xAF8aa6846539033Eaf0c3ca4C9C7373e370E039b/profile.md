@@ -1,52 +1,45 @@
 ---
-name: Template Delegate
-url: https://forum.makerdao.com/u/example
-profile_picture_url: https://images.com/image.jpeg
+name: Flip Flop Flap Delegate LLC 
+url: https://forum.makerdao.com/u/elprogreso/
+profile_picture_url: https://imgur.com/a/l9dkYAN
 ---
 
 # Delegate Name
 
 ### Key Info
 
-Delegate Address: 0xEtcetera  
-Forum: @LongForWisdom  
-Rocketchat: @LongForWisdom  
-Email (optional): longforwisdomandstuff@gmail.com  
-External Website (optional): www.longforwisdom.com  
-Meet Your Delegate Video (optional): youtube or something  
+Delegate Address: flapper.eth  
+Forum: @ElProgreso
+Rocketchat: @ElPro 
+Email (optional): ElProDAI@protonmail.com
+External Website (optional):   
+Meet Your Delegate Video (optional): https://www.youtube.com/watch?v=22ut8FuGu_Q 
 
 ### Core Values (Optional)
 
-- Value1
-- Value2
-- Value3
+- Prioritize the achievements and future success of MakerDAO.
+- Help the Maker Community to expand its network effects.
+- As a Delegate I will be the Voice and Vision of the Maker Community and its Core Units.
 
 ### Delegate Statement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
+For the last 30+ months I have been one of the top 10 MakerDAO Voters. I have probably voted over 150+ times with my MKR tokens. And this passion and focus for Maker Governance has been inspired by All of you, and I mean every single one of you. Yes, you have inspired me and help me follow this passion and mission to make DAI the ultimate decentralized stablecoin. It’s a passion that we share–the passion of Maker+DAI changing the world. The dream of making DAI the standard of Decentralized Finance.
 
-- Pellentesque gravida tincidunt egestas.
-- Pellentesque laoreet luctus neque, pharetra sodales risus varius ac.
-- Vivamus eleifend ante vitae sapien porttitor aliquam. Integer eu nisl diam. Maecenas euismod mauris sapien, ut lacinia quam interdum vel.
-- Donec nulla ligula, scelerisque eget sem sit amet, elementum aliquam arcu.
-- Praesent non neque in enim lacinia lacinia.
+My Ethereum Address with its small portion of MKR might have never carried every Poll and Executive Vote, but thru it all I have always help protect the Hat and I have never let high ETH Gas Prices deter me from voicing my opinion and protecting this protocol. My love for the community and passion for
+MakerDAO is more important than any ETH gas I have spent. And that commitment and love my Maker Fam, it will never diminish.
 
-Vivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla tincidunt ante non tristique. Maecenas interdum vitae leo non ultricies. Integer cursus mi ac enim bibendum interdum sed sit amet dolor. Morbi sapien tortor, tempor sit amet est id, imperdiet tristique lorem. Sed eget augue in dui interdum malesuada. Cras id elit nec nulla ultrices tincidunt ac ac enim. Vestibulum tristique enim id purus dignissim maximus. Cras nec neque ipsum. Nullam tincidunt mauris malesuada dictum congue. Cras convallis dolor lectus, in gravida orci congue id.
+I want to be your MKR Delegate because I believe in you. I believe in your passion. I believe and share your dreams. I believe in a fully decentralized DAO composed of community members that are loyal, responsible, and innovative. Community members who want the same success that Maker has achieved today and the greatness that it will achieve tomorrow.
 
-Sed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.
+This is why—when I was asked to join a Working Group to help compose MIP38 DAO Primitives State, MIP39 Core Unit Framework, MIP40 Budget Framework, and MIP41 Facilitator Framework, I did not hesitate. I did not have any Fear. Because this is my passion. This is our home. And protect and build our home is what we do as MKR token holders.
 
-Vestibulum interdum, nisi ac euismod vehicula, ex velit sagittis velit, sed suscipit orci velit quis nunc. Curabitur scelerisque ipsum ac nibh molestie, ut auctor tellus pellentesque. Vestibulum in molestie leo. Phasellus eget velit ante. Suspendisse porttitor bibendum magna ut volutpat. Vivamus euismod sem libero, non sodales tortor porta sed. Vestibulum fermentum dui nec tortor ornare gravida. Cras porttitor volutpat dignissim. Cras vestibulum pulvinar semper. Mauris lacinia venenatis bibendum. Morbi nulla sapien, facilisis at ultrices id, pulvinar ac lorem.
+Maker Community, I want to represent your Voice. I want to represent your Vision. Yes, I promise to protect MakerDAO from the Fear of innovating, the Fear of pivoting if needed, the Fear of never reaching decentralization, and the fear of governance attacks. I will do this by listening to your believes, your scientific governance theories, and following the path and vision of the Maker Community and its original vision. That same vision that was put together years ago by a community of Finance Nerds who had the hunger and the passion for changing the status quo. I will protect our Maker ways by inspiring my Delegate colleagues to unite and protect the protocol from any outside attackers, and/or attack vectors. We will work together, follow common grounds and stay diligent.
 
-Proin faucibus lacus sem, at feugiat ipsum eleifend at. Donec porta neque id urna scelerisque rutrum. Suspendisse elementum justo quis nibh dignissim scelerisque. Pellentesque faucibus odio quis scelerisque dictum. Nulla venenatis orci eu fringilla tincidunt. Mauris mollis nisi neque, ut convallis turpis sollicitudin et. Sed quis gravida magna. Praesent sit amet diam metus.
+At times, you and I might have had different opinions. Some opinions were probably similar, others were misconstrued because communication in writing can be misinterpreted. Other times, some of you were too busy to participate and voice your opinion. And then there were some of you who wanted to participate but felt your MKR holdings were not going to make a difference.
 
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+Well, I am here to tell you that you will no longer be unnoticed. You will no longer be unheard. You will no longer need to attend every meeting, read every Forum Post, review every MIP application–I will represent you. I will be your voice; I will be your eyes and ears–and you will be the heartbeat of Maker Governance. The pulse of the community will not go unnoticed.
+
+It is because we share this common passion that I ask that you delegate your MKR to Flip Flop Flap Delegate. I promised to respect your views and listen to your concerns. I promised to explain why I voted for Polls and Executives and if you disagree with such vote, I will make time to listen to you and hold your hand as we both shape and build this DAO, together as one.
 
 ### Conflicts of Interest
 
-- Conflict1
-- Conflict2
-- Conflict3
+- At times I might buy, sell, or hold other Crypto Tokens for short & long-term trading purposes.
