@@ -1,8 +1,12 @@
 **Key Info**
 Name: Planet_X
+
 Forum: @Planet_X
+
 Rocketchat: @planet_x
+
 Email: botbaby72@gmail.com
+
 Delegate Address: 0x00dAeC2C2A6a3FCc66b02E38B7e56dCDFa9347a1
 
 **Core Values**
@@ -18,21 +22,30 @@ With regards to scaling, I am an out-of-the-closet shameless enthusiast. When I 
 
 **Examples of articles by me involving scaling:**
 [Staking 1](https://forum.makerdao.com/t/mkr-from-voting-to-staking-part-1/1052)
+
 [Staking 2](https://forum.makerdao.com/t/mkr-from-voting-to-staking-part-2/1057)
+
 [Staking 3](https://forum.makerdao.com/t/mkr-from-voting-to-staking-part-3/1072)
+
 [Staking 4](https://forum.makerdao.com/t/mkr-from-voting-to-staking-part-4/1075)
+
 [Vault topography](https://forum.makerdao.com/t/the-menu-method-a-brainsnack/5935)
+
 [Avoiding Ren Protocol's mistakes](https://forum.makerdao.com/t/maker-and-l2-avoiding-rens-mistake/8537)
 
 **Examples of articles involving functionality:**
  [Governance overhead](https://forum.makerdao.com/t/maker-governance-overhead/1129)
+ 
 [Dependence on major token holders](https://forum.makerdao.com/t/governance-forget-about-whales/4995)
+
 [Shareholder vs Tokenholder](https://forum.makerdao.com/t/governance-the-mkr-lifestyle/5165)
 
 
 **Other work:**
 [Not afraid to sometimes do a hard but necessary job](https://forum.makerdao.com/t/campaigning-vote-no-on-inclusion-poll-for-strategic-marcomms-core-unit-mip-set-may-10-2021/7951/5)
+
 [Telling it like it is](https://forum.makerdao.com/t/core-unit-mandate-overlap/7210)
+
 [Trying to be constructive](https://forum.makerdao.com/t/informal-poll-marketing-maker/8700)
 
 **What you get when you delegate to me:**
