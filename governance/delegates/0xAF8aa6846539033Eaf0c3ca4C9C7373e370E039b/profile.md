@@ -3,7 +3,7 @@ name: Flip Flop Flap Delegate LLC
 external_profile_url: https://forum.makerdao.com/u/elprogreso/
 ---
 
-# Delegate Name
+# Flip Flop Flap Delegate LLC 
 
 ### Key Info
 
