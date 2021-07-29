@@ -7,21 +7,16 @@ external_profile_url: [twitter](https://twitter.com/iamTWB_)
 
 ### Key Info
 
-Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)
-Forum: **@twblack88**
-Rocketchat: @tim.black
-Email (optional): [timothy.william.black@gmail.com](mailto:timothy.william.black@gmail.com)
+Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)  
+Forum: **@twblack88**  
+Rocketchat: @tim.black  
+Email (optional): [timothy.william.black@gmail.com](mailto:timothy.william.black@gmail.com)  
 
 ## Values
 
 - Cautious optimism
 - Long term scalability
 - Adaptability
-
-Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)
-Forum: **@twblack88**
-Rocketchat: @tim.black
-Email (optional): [timothy.william.black@gmail.com](mailto:timothy.william.black@gmail.com)
 
 ### Why delegate to me?
 

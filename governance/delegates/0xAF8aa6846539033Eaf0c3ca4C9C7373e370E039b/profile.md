@@ -1,7 +1,6 @@
 ---
 name: Flip Flop Flap Delegate LLC 
-url: https://forum.makerdao.com/u/elprogreso/
-profile_picture_url: https://imgur.com/a/l9dkYAN
+external_profile_url: https://forum.makerdao.com/u/elprogreso/
 ---
 
 # Delegate Name
@@ -9,11 +8,10 @@ profile_picture_url: https://imgur.com/a/l9dkYAN
 ### Key Info
 
 Delegate Address: flapper.eth  
-Forum: @ElProgreso
-Rocketchat: @ElPro 
-Email (optional): ElProDAI@protonmail.com
-External Website (optional):   
-Meet Your Delegate Video (optional): https://www.youtube.com/watch?v=22ut8FuGu_Q 
+Forum: @ElProgreso  
+Rocketchat: @ElPro  
+Email (optional): ElProDAI@protonmail.com  
+Meet Your Delegate Video (optional): https://www.youtube.com/watch?v=22ut8FuGu_Q  
 
 ### Core Values (Optional)
 
