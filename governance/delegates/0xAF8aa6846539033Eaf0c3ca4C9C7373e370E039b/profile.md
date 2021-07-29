@@ -41,3 +41,9 @@ It is because we share this common passion that I ask that you delegate your MKR
 ### Conflicts of Interest
 
 - At times I might buy, sell, or hold other Crypto Tokens for short & long-term trading purposes.
+
+I have read and agree to abide by the [Delegate Code of Conduct. ](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
+
+**Waiver of liability**
+
+By delegating to Flip Flop Flap Delegate LLC, you acknowledge and agree that Flip Flop Flap Delegate LLC, will participate on a best efforts basis and will not be liable for any form of damages related to participation in the Maker Protocol, or MakerDAO.
