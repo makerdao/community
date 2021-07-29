@@ -1,7 +1,7 @@
 ---
 title: Parameter Changes Proposal - MakerDAO Open Market Committee - August 2, 2021
 summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
-discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-june-2021/8991
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-july-2021/9584
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -38,7 +38,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 | UNIV2ETHUSDT-A      |   10,000,000 | **0** |   -10,000,000 |
 | UNIV2DAIUSDT-A     |  10,000,000 | **0**|  -10,000,000 |
 
-Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-june-2021/8991) to help inform your position before voting.
+Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-july-2021/9584) to help inform your position before voting.
 
 ## Outcomes
 
