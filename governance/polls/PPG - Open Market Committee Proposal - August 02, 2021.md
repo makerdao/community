@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: 2021-08-02T16:00:00
+end_date: 2021-08-05T16:00:00
 ---
 # Poll: Parameter Changes Proposal - MakerDAO Open Market Committee - August 2, 2021
 
