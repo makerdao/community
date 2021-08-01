@@ -1,6 +1,6 @@
 ---
 title: Increase the UNIV2DAIUSDC-A Maximum Debt Ceiling - August 2, 2021
-summary:Rank your preferred options for adjusting the UNIV2DAIUSDC-A Maximum Debt Ceiling.
+summary: Rank your preferred options for adjusting the UNIV2DAIUSDC-A Maximum Debt Ceiling.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-univ2daiusdc-a-dc-iam-line/9481/
 vote_type: Ranked Choice IRV
 categories:
