@@ -15,7 +15,7 @@ end_date: 2021-08-16T16:00:00
 ---
 # Poll: Community Greenlight Poll - RWA-120dB (120dB Films) - August 02, 2021
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 02 at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 2 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
