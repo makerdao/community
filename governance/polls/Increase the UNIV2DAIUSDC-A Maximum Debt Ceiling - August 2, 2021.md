@@ -17,7 +17,7 @@ end_date: 2021-08-05T16:00:00
 
 # Poll: Increase the UNIV2DAIUSDC-A Maximum Debt Ceiling - August 2, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 2 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://makerdao.world/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 2 at 16:00 UTC.
 
 **This is an instant-runoff vote.** 
 - **You may rank any number of options that you would support in an executive vote.** 
