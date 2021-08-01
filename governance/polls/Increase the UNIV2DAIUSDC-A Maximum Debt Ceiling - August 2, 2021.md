@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to rank their support of the following [Maximum Debt Ceiling (line)](https://community-development.makerdao.com/en/learn/governance/module-dciam/) options for UNIV2DAIUSDC-A:
+The community can vote in this poll to rank their support of the following [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam/) options for UNIV2DAIUSDC-A:
 * Increase Maximum Debt Ceiling (line) to 250 million DAI (+200M)
 * Increase Maximum Debt Ceiling (line) to 150 million DAI (+100M)
 * Increase Maximum Debt Ceiling (line) to 100 million DAI (+50M)
