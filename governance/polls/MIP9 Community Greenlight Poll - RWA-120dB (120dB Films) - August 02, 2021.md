@@ -15,7 +15,7 @@ end_date: 2021-08-16T16:00:00
 ---
 # Poll: Community Greenlight Poll - RWA-120dB (120dB Films) - August 02, 2021
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 2 at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://makerdao.world/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 2 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -41,9 +41,9 @@ Please review the collateral onboarding application [thread](https://forum.maker
 
 [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9) describes this type of poll and goes into more detail about how it interacts with the rest of the collateral onboarding process.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://makerdao.world/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://makerdao.world/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
-Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
+Additional information about the Governance process can be found in the [Governance](https://makerdao.world/en/learn/governance) section of the MakerDAO community portal.
 
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
