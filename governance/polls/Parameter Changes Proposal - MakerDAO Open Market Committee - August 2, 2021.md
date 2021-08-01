@@ -30,7 +30,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 | Vault Type | Current Rate | Proposed Rate | Change |
 |-|-|-|-|
-| ETH-B | 6.00% | 5.00% | -1.00% |
+| ETH-B | 6.00% | **5.00%** | -1.00% |
 
 **[Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) Decreases**
 
