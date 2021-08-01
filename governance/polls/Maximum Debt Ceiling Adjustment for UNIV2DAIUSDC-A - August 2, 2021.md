@@ -1,14 +1,16 @@
 ---
 title: Increase the UNIV2DAIUSDC-A Maximum Debt Ceiling - August 2, 2021
-summary: Signal your support or opposition for adjusting the UNIV2DAIUSDC-A Maximum Debt Ceiling from 50 million DAI to 250 million DAI.
+summary:Rank your preferred options for adjusting the UNIV2DAIUSDC-A Maximum Debt Ceiling.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-univ2daiusdc-a-dc-iam-line/9481/
-vote_type: Plurality Voting
+vote_type: Ranked Choice IRV
 categories:
   - Risk Variable
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: Increase Maximum Debt Ceiling to 250 million DAI (+200M)
+   2: Increase Maximum Debt Ceiling to 150 million DAI (+100M)
+   3: Increase Maximum Debt Ceiling to 100 million DAI (+50M)
+   4: Keep Maximum Debt Ceiling set to 50 million DAI (+0)
 start_date: 2021-08-02T16:00:00
 end_date: 2021-08-05T16:00:00
 ---
@@ -17,26 +19,28 @@ end_date: 2021-08-05T16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 2 at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
-- **You should vote for the option which you prefer.**
-- **If you would accept either option, you should vote 'Abstain'.**
+**This is an instant-runoff vote.** 
+- **You may rank any number of options that you would support in an executive vote.** 
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the UNIV2DAIUSDC-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
-* Increase from 50 million DAI to 250 million DAI.
-
+The community can vote in this poll to rank their support of the following [Maximum Debt Ceiling (line)](https://community-development.makerdao.com/en/learn/governance/module-dciam/) options for UNIV2DAIUSDC-A:
+* Increase Maximum Debt Ceiling (line) to 250 million DAI (+200M)
+* Increase Maximum Debt Ceiling (line) to 150 million DAI (+100M)
+* Increase Maximum Debt Ceiling (line) to 100 million DAI (+50M)
+* Keep Maximum Debt Ceiling (line) set to 50 million DAI (+0)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-univ2daiusdc-a-dc-iam-line/9481) to inform your position on this issue before voting.
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+**If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
+* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
 
 ---
 
