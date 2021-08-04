@@ -11,7 +11,8 @@ Delegate Address: flapper.eth
 Forum: @ElProgreso  
 Rocketchat: @ElPro  
 Email (optional): ElProDAI@protonmail.com  
-Meet Your Delegate Video (optional): https://www.youtube.com/watch?v=22ut8FuGu_Q  
+Introduction Video: https://www.youtube.com/watch?v=22ut8FuGu_Q  
+Meet Your Delegate Video: https://www.youtube.com/watch?v=SVUm1Bz0U9A&t=1577s
 
 ### Core Values (Optional)
 

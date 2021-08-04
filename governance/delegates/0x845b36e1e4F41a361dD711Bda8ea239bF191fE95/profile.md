@@ -1,6 +1,6 @@
 ---
 name: Tim Black
-external_profile_url: [twitter](https://twitter.com/iamTWB_)
+external_profile_url: https://twitter.com/iamTWB_
 ---
 
 # Tim Black
