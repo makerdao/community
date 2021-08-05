@@ -90,11 +90,11 @@ As per the outcome of this [governance poll](https://vote.makerdao.com/polling/Q
 
 ### Increase the UNIV2DAIUSDC-A [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam)
 
-As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmRAuMND?network=mainnet#poll-detail), the UNIV2DAIUSDC-A [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 250 million DAI if this executive proposal passes. For more details and dicussion, please see the prior [signal request](https://forum.makerdao.com/t/signal-request-adjust-univ2daiusdc-a-dc-iam-line/9481). 
+As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmRAuMND?network=mainnet#poll-detail), the UNIV2DAIUSDC-A [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 250 million DAI if this executive proposal passes. For more details and discussion, please see the prior [signal request](https://forum.makerdao.com/t/signal-request-adjust-univ2daiusdc-a-dc-iam-line/9481). 
 
 ### Protocol Engineering Housekeeping
 
-As part of their on-going efforts to ensure that the Maker Protocol is kept as organized and bug-free as possible, the Protocol Engineering Core Unit are proposing a couple of minor housekeeping changes that will ocurr if this executive proposal passes. This includes:
+As part of their ongoing efforts to ensure that the Maker Protocol is kept as organized and bug-free as possible, the Protocol Engineering Core Unit is proposing a couple of minor housekeeping changes that will occur if this executive proposal passes. This includes:
 * Adding the VoteDelegateFactory contract to the Maker Protocol changelog.
 * Fixing the Ilk Registry for RWA vault types.
 
