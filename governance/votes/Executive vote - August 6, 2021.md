@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] MOMC Proposal, August Core Unit Budgets, Housekeeping - August 6, 2021
-summary: Distributing August budgets, 
+summary: Distributing August budgets, a few parameter changes and some technical housekeeping.
 date: 2021-08-06T00:00:00.000Z
 address: "$spell_address"
 
