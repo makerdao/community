@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for Declaration of Intent - Onboarding a new collateral type backed by B.Protocol v2 (MIP13c3-SP11) - August 09, 2021
-summary: Declaration of Intent about the onboarding of a new collateral type backed by B.Protocol v2
-discussion_link: https://forum.makerdao.com/t/mip13c3-sp11-onboarding-a-new-collateral-type-backed-by-b-protocol-v2-declaration-of-intent/8802
+title: Ratification Poll for Growth Core Unit MKR Budget, GRO-001 (MIP40c3-SP23) - August 9, 2021
+summary: MIP40c3-SP23 adds the MKR Incentive Plan budget for Core Unit GRO-001: GROWTH.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp23-growth-core-unit-mkr-budget-gro-001/9245
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -12,9 +12,9 @@ options:
 start_date: 2021-08-09T16:00:00
 end_date: 2021-08-23T16:00:00
 ---
-# Ratification Poll for Declaration of Intent - Onboarding a new collateral type backed by B.Protocol v2 (MIP13c3-SP11) - August 09, 2021
+# Ratification Poll for Growth Core Unit MKR Budget, GRO-001 (MIP40c3-SP23) - August 9, 2021
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 09 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 9 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,23 +23,30 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP13c3-SP11 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP40c3-SP23 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP13c3-SP11 is the Declaration of Intent to experiment a native integration with B.Protocol's V2. Namely, to on-board a new collateral that gives a priority in liquidations to B.Protocol.*
+This proposal contains:
+
+* Total MKR Expenditure Cap
+* The evaluation process to define the total team MKR per year.
+* Estimated MKR Expenditure
+* Payment Implementation
+
+Our proposal took elements from the others presented before, and we added an achievement metric that modifies the total team MKR per year. This is a 3-year vesting plan with a 1-year cliff vest.
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP11.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP13c3SP11)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip13c3-sp11-onboarding-a-new-collateral-type-backed-by-b-protocol-v2-declaration-of-intent/8802)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP40/MIP40c3-Subproposals/MIP40c3-SP23.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP23)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp23-growth-core-unit-mkr-budget-gro-001/9245)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, August 26. 
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, August 26.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

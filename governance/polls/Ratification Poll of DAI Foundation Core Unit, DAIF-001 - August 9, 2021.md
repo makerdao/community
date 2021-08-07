@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Core Unit DAIF-001 - August 9, 2021
-summary: MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation.
+title: Ratification Poll of DAI Foundation Core Unit, DAIF-001 - August 9, 2021
+summary: DAI Foundation Core Unit MIP Set
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239
 vote_type: Plurality Voting
 categories:
@@ -12,9 +12,9 @@ options:
 start_date: 2021-08-09T16:00:00
 end_date: 2021-08-23T16:00:00
 ---
-# Inclusion Poll for Core Unit DAIF-001 - August 09, 2021
+# Inclusion Poll for Core Unit DAIF-001 - August 9, 2021
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 09 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 9 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP17.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP39/MIP39c2-Subproposals/MIP39c2-SP17.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP17)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239)
 
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP24 adds the budget for Core Unit DAIF-001: Dai Foundation Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP24.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP40/MIP40c3-Subproposals/MIP40c3-SP24.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp24-modify-dai-foundation-core-unit-budget/9238)
 
@@ -54,7 +54,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP41c4-SP18 onboards Søren Peter Nielsen as Facilitator for the Dai Foundation Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP18.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP41/MIP41c4-Subproposals/MIP41c4-SP18.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP18)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp18-facilitator-onboarding-for-the-dai-foundation-core-unit/9236)
 
