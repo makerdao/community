@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Declaration of Intent - Onboarding a new collateral type backed by B.Protocol v2 (MIP13c3-SP11) - August 9, 2021
-summary: Declaration of Intent about the onboarding of a new collateral type backed by B.Protocol v2
+summary: Declaration of Intent about the onboarding of a new collateral type backed by B.Protocol.
 discussion_link: https://forum.makerdao.com/t/mip13c3-sp11-onboarding-a-new-collateral-type-backed-by-b-protocol-v2-declaration-of-intent/8802
 vote_type: Plurality Voting
 categories:
