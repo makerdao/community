@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/mip40c3-sp23-growth-core-unit-mkr-
 vote_type: Plurality Voting
 categories:
    - MIPs
-   - Budget
 options:
    0: Abstain
    1: Yes
