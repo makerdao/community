@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for DAI Foundation Core Unit, DAIF-001 - August 9, 2021
-summary: DAI Foundation Core Unit MIP Set
+summary: This MIP Set adds the DAI Foundation Core Unit, DAIF-001.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239
 vote_type: Plurality Voting
 categories:
