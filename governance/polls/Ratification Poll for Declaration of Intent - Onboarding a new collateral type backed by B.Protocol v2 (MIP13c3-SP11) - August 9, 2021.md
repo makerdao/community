@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP13c3-SP11 is the Declaration of Intent to experiment a native integration with B.Protocol's V2. Namely, to on-board a new collateral that gives a priority in liquidations to B.Protocol.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/tree/af132fb025a0be5c8e6e2cbc1b0fde6ae6266097/MIP13/MIP13c3-Subproposals)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/af132fb025a0be5c8e6e2cbc1b0fde6ae6266097/MIP13/MIP13c3-Subproposals/MIP13c3-SP11.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP13c3SP11)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip13c3-sp11-onboarding-a-new-collateral-type-backed-by-b-protocol-v2-declaration-of-intent/8802)
 
