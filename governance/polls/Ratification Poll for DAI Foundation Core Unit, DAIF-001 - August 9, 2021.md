@@ -25,7 +25,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community may vote in this poll to express support or opposition to Core Unit DAIF-001 being accepted and implemented in the Maker Protocol.
 
-### MIP39c2-SP17
+### Core Unit DAIF-001: Dai Foundation (MIP39c2-SP17)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -36,7 +36,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP17)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239)
 
-### MIP40c3-SP24
+### Modify Dai Foundation Core Unit Budget (MIP40c3-SP24)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -50,7 +50,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp24-modify-dai-foundation-core-unit-budget/9238)
 
-### MIP41c4-SP18
+### Facilitator Onboarding for the Dai Foundation (MIP41c4-SP18)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
