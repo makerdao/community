@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll of DAI Foundation Core Unit, DAIF-001 - August 9, 2021
+title: Ratification Poll for DAI Foundation Core Unit, DAIF-001 - August 9, 2021
 summary: DAI Foundation Core Unit MIP Set
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239
 vote_type: Plurality Voting
@@ -40,10 +40,10 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This proposal contains a three year budget for the DAIF CU with requested funding and payment implementation.
-* The first year the requested funding is 1,554,358 DAI which includes 1 Million DAI for reserves buildup
-* The second year it is 2,463,186 DAI including 2 Million DAI for reserves buildup meaning the operational expenses are reduced by 16% compared to year 1.
-* The third year the requested funding is 463,186 DAI solely for operational expenses and that is a reduction of 20% compared to the budgeted operational expenses in year 1.*
+*This proposal contains a three year budget for the DAIF CU with requested funding and payment implementation.*
+* *The first year the requested funding is 1,554,358 DAI which includes 1 Million DAI for reserves buildup*
+* *The second year it is 2,463,186 DAI including 2 Million DAI for reserves buildup meaning the operational expenses are reduced by 16% compared to year 1.*
+* *The third year the requested funding is 463,186 DAI solely for operational expenses and that is a reduction of 20% compared to the budgeted operational expenses in year 1.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP40/MIP40c3-Subproposals/MIP40c3-SP24.md)
