@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Core Unit DAIF-001 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to DAI Foundation Core Unit (DAIF-001) being accepted and implemented in the Maker Protocol.
 
 ### Core Unit DAIF-001: Dai Foundation (MIP39c2-SP17)
 
