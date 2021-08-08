@@ -12,7 +12,7 @@ options:
 start_date: 2021-08-09T16:00:00
 end_date: 2021-08-23T16:00:00
 ---
-# Inclusion Poll for Core Unit DAIF-001 - August 9, 2021
+# Ratification Poll for DAI Foundation Core Unit, DAIF-001 - August 9, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 9 at 16:00 UTC.
 
