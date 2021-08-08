@@ -27,14 +27,14 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-This proposal contains:
+*This proposal contains:*
 
-* Total MKR Expenditure Cap
-* The evaluation process to define the total team MKR per year.
-* Estimated MKR Expenditure
-* Payment Implementation
+* *Total MKR Expenditure Cap*
+* *The evaluation process to define the total team MKR per year.*
+* *Estimated MKR Expenditure*
+* *Payment Implementation*
 
-Our proposal took elements from the others presented before, and we added an achievement metric that modifies the total team MKR per year. This is a 3-year vesting plan with a 1-year cliff vest.
+*Our proposal took elements from the others presented before, and we added an achievement metric that modifies the total team MKR per year. This is a 3-year vesting plan with a 1-year cliff vest.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP40/MIP40c3-Subproposals/MIP40c3-SP23.md)
