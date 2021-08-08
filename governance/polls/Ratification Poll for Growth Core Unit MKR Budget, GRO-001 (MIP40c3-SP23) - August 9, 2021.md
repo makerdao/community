@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Growth Core Unit MKR Budget, GRO-001 (MIP40c3-SP23) - August 9, 2021
-summary: MIP40c3-SP23 adds the MKR Incentive Plan budget for Core Unit GRO-001: GROWTH.
+summary: MIP40c3-SP23 adds the MKR Incentive Plan budget for Growth Core Unit (GRO-001).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp23-growth-core-unit-mkr-budget-gro-001/9245
 vote_type: Plurality Voting
 categories:
