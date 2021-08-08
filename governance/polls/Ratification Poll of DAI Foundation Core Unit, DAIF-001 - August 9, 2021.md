@@ -29,7 +29,7 @@ The community may vote in this poll to express support or opposition to Core Uni
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation.*
+*This proposal is for the DAIF Core Unit to be the vehicle that enables the practical implementation of the critical services that Dai Foundation provides to MakerDAO. The Core unit will request the necessary budget from MakerDAO Governance to sustain its operations and adequately mitigate the related legal risks to its essential role. The services of Dai Foundation are to provide safe haven and protect Maker IP including the DAI and MAKER trademarks (for example, what if somebody launches a DAI token on another chain?), set terms for use of Maker Assets that enables Maker Governance to appoint managers of those assets and to react to edge cases like for example a malicious fork according to principles that will be developed in close collaboration with the Maker community.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP39/MIP39c2-Subproposals/MIP39c2-SP17.md)
@@ -40,7 +40,10 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP24 adds the budget for Core Unit DAIF-001: Dai Foundation Core Unit.*
+*This proposal contains a three year budget for the DAIF CU with requested funding and payment implementation.
+* The first year the requested funding is 1,554,358 DAI which includes 1 Million DAI for reserves buildup
+* The second year it is 2,463,186 DAI including 2 Million DAI for reserves buildup meaning the operational expenses are reduced by 16% compared to year 1.
+* The third year the requested funding is 463,186 DAI solely for operational expenses and that is a reduction of 20% compared to the budgeted operational expenses in year 1.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06d8190480cfe45f57f44312c9193960bd1a4d69/MIP40/MIP40c3-Subproposals/MIP40c3-SP24.md)
