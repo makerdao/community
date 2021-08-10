@@ -1,19 +1,18 @@
 ---
 name: Flip Flop Flap Delegate LLC 
-url: https://forum.makerdao.com/u/elprogreso/
-profile_picture_url: https://imgur.com/a/l9dkYAN
+external_profile_url: https://forum.makerdao.com/u/elprogreso/
 ---
 
-# Delegate Name
+# Flip Flop Flap Delegate LLC 
 
 ### Key Info
 
 Delegate Address: flapper.eth  
-Forum: @ElProgreso
-Rocketchat: @ElPro 
-Email (optional): ElProDAI@protonmail.com
-External Website (optional):   
-Meet Your Delegate Video (optional): https://www.youtube.com/watch?v=22ut8FuGu_Q 
+Forum: @ElProgreso  
+Rocketchat: @ElPro  
+Email (optional): ElProDAI@protonmail.com  
+Introduction Video: https://www.youtube.com/watch?v=22ut8FuGu_Q  
+Meet Your Delegate Video: https://www.youtube.com/watch?v=SVUm1Bz0U9A&t=1577s
 
 ### Core Values (Optional)
 
@@ -43,3 +42,9 @@ It is because we share this common passion that I ask that you delegate your MKR
 ### Conflicts of Interest
 
 - At times I might buy, sell, or hold other Crypto Tokens for short & long-term trading purposes.
+
+I have read and agree to abide by the [Delegate Code of Conduct. ](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
+
+**Waiver of liability**
+
+By delegating to Flip Flop Flap Delegate LLC, you acknowledge and agree that Flip Flop Flap Delegate LLC, will participate on a best efforts basis and will not be liable for any form of damages related to participation in the Maker Protocol, or MakerDAO.
