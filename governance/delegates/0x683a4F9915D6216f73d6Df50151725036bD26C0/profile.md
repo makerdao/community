@@ -1,8 +1,8 @@
-Name: Gauntlet 
-Delegate Address: `0x683a4F9915D6216f73d6Df50151725036bD26C02`
-Forum: @inkymaze
-Rocketchat: @inkymaze
-Website: https://gauntlet.network/
+Name: Gauntlet  
+Delegate Address: `0x683a4F9915D6216f73d6Df50151725036bD26C02`  
+Forum: @inkymaze  
+Rocketchat: @inkymaze  
+Website: https://gauntlet.network/  
 
 
 **Core Values**
