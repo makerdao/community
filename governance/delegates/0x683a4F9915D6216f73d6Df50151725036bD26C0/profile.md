@@ -1,3 +1,12 @@
+---
+name: gauntlet
+external_profile_url: https://gauntlet.network/
+---
+
+# Gauntlet
+
+### Key Info
+
 Name: Gauntlet  
 Delegate Address: `0x683a4F9915D6216f73d6Df50151725036bD26C02`  
 Forum: @inkymaze  
@@ -5,13 +14,13 @@ Rocketchat: @inkymaze
 Website: https://gauntlet.network/  
 
 
-**Core Values**
+### Core Values
 
 - Quantitative risk management
 - Maximizing risk adjusted protocol income 
 - Minimizing insolvent debt to some tolerance
 
-**Delegate Statement**
+### Delegate Statement
 
 Gauntlet's delegate guidelines are informed by our core values and prior experience analyzing the protocol. For example, our [Auction Assessment](https://maker-report.gauntlet.network/) report.
 
@@ -25,7 +34,7 @@ Gauntlet generally support proposals for protocol development which further ecos
 
 We (Gauntlet) have read and agree to the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
 
-**Conflicts of Interest**
+### Conflicts of Interest
 
 
 - Gauntlet has and will continue to deploy our [platform](https://gauntlet.network/platform/) on other protocols and DAOs.
