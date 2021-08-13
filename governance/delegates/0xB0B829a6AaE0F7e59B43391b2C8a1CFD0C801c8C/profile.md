@@ -8,7 +8,7 @@ external_profile_url: https://gauntlet.network/
 ### Key Info
 
 Name: Gauntlet  
-Delegate Address: `0x683a4F9915D6216f73d6Df50151725036bD26C02`  
+Delegate Address: `0xB0B829a6AaE0F7e59B43391b2C8a1CFD0C801c8C`  
 Forum: @inkymaze  
 Rocketchat: @inkymaze  
 Website: https://gauntlet.network/  
