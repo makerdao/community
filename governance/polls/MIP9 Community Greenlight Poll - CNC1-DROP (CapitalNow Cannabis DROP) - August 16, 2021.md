@@ -10,6 +10,8 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
+start_date: 2021-08-16T16:00:00
+end_date: 2021-08-30T16:00:00
 ---
 # Poll: Community Greenlight Poll - CNC1-DROP (CapitalNow Cannabis DROP) - August 16, 2021
 

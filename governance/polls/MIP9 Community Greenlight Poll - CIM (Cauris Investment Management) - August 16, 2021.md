@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - CIM (Cauris Investment Management) - August 16, 2021
-summary: Signal your support or opposition to prioritising onboarding CIM (Cauris Investment Management). 
+title: Community Greenlight Poll - CGFF-DROP (Cauris Global Fintech Fund DROP) - August 16, 2021
+summary: Signal your support or opposition to prioritising onboarding CGFF-DROP (Cauris Global Fintech Fund DROP). 
 discussion_link: https://forum.makerdao.com/t/mip6-application-cauris-global-fintech-fund/9610
 vote_type: Plurality Voting
 categories:
@@ -10,8 +10,10 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
+start_date: 2021-08-16T16:00:00
+end_date: 2021-08-30T16:00:00
 ---
-# Poll: Community Greenlight Poll - CIM (Cauris Investment Management) - August 16, 2021
+# Poll: Community Greenlight Poll - CGFF-DROP (Cauris Global Fintech Fund DROP) - August 16, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 16 at 16:00 UTC.
 
@@ -22,15 +24,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset CIM (Cauris Investment Management) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset CGFF-DROP (Cauris Global Fintech Fund DROP) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip6-application-cauris-global-fintech-fund/9610) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for CIM (Cauris Investment Management) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for CIM (Cauris Investment Management) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for CGFF-DROP (Cauris Global Fintech Fund DROP) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for CGFF-DROP (Cauris Global Fintech Fund DROP) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
