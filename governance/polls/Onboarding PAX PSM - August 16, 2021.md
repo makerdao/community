@@ -4,7 +4,6 @@ summary: Onboarding PSM-PAX-A and increasing PSM-USDC-A fee in parameter.
 discussion_link: https://forum.makerdao.com/t/create-a-pax-psm/9683
 vote_type: Plurality Voting
 categories:
-   - PSM
    - Risk Variable
 options:
    0: Abstain
