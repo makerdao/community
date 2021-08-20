@@ -107,12 +107,12 @@ Please review the following forum threads containing information about MATIC (Po
 
 ### PAX Peg Stability Module Collateral Onboarding and Increase to USDC Peg Stability Module Fee-in (tin)
 
-As per the outcome of [this poll](https://vote.makerdao.com/polling/QmdBrVKD?network=mainnet#poll-detail), the PAX Peg Stability Module will be onboarded as the vault type PSM-PAX-A with the following parameters if this executive proposal passes. To read more about this proposal, visit this [forum post](https://forum.makerdao.com/t/create-a-pax-psm/9683).
+As per the outcome of [this poll](https://vote.makerdao.com/polling/QmdBrVKD?network=mainnet#poll-detail), the PAX Peg Stability Module will be onboarded as the vault type PSM-PAX-A with the following parameters if this executive proposal passes. Due to the new contracts deployed for this PSM, the initial [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling) will be set lower than the approved amount, as [detailed in this post](https://forum.makerdao.com/t/2021-august-20-exec-update-pax-psm-at-50m-this-week/9958). To read more about this proposal, visit this [forum post](https://forum.makerdao.com/t/create-a-pax-psm/9683).
 
 **Proposed PAX PSM Parameters**
 * Fee In (`tin`): 0.1%
 * Fee Out (`tout`): 0%
-* [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling): 500 million DAI.
+* [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling): 50 million DAI.
 
 _To read more about these parameters, visit [the PSM page](https://makerdao.world/en/learn/governance/module-psm/) on the MakerDAO Community Portal._
 
