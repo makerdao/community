@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### 6s Capital Updates
 
-As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSqXVUQ?network=mainnet#poll-detail) and subsequent [public request](https://forum.makerdao.com/t/executive-vote-request-raising-6s-rwa001-a-debt-ceiling/9893), the [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) for 6s Capital (RWA-001) will be **increased** from 1,000 DAI to 15 million DAI and the Broker-Dealer address updated to **0xE5C35757c296FD19faA2bFF85e66C6B25AC8b978** if this exececutive proposal passes. For more information on 6s' structure and agrrements review [this post](https://forum.makerdao.com/t/introduction-and-6s-on-the-permaweb/9925).
+As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSqXVUQ?network=mainnet#poll-detail) and subsequent [public request](https://forum.makerdao.com/t/executive-vote-request-raising-6s-rwa001-a-debt-ceiling/9893), the [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) for 6s Capital (RWA-001) will be **increased** from 1,000 DAI to 15 million DAI and the Broker-Dealer address updated to **0xE5C35757c296FD19faA2bFF85e66C6B25AC8b978** if this executive proposal passes. For more information on 6s' structure and agreements review [this post](https://forum.makerdao.com/t/introduction-and-6s-on-the-permaweb/9925).
 
 ### Reducing Vault Liquidation Ratios
 
