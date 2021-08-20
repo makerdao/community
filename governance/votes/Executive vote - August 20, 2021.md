@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] MATIC and PAX PSM Onboarding, 6s Updates, and Reducing Vault Liquidation Ratios - August 20, 2021
-summary: Onboarding new vaults, updating 6s Broker-Dealer address and debt ceiling, and reducing ilk liquidation ratios.
+summary: Onboarding new vault types, updating 6s Broker-Dealer address and debt ceiling, and reducing select liquidation ratios.
 date: 2021-08-20T00:00:00.000Z
 address: "$spell_address"
 
