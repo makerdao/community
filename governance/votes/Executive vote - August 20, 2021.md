@@ -16,13 +16,15 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- 6s Capital Debt Ceiling will be **increased** from 1,000 DAI to 15 million DAI and have its Broker-Dealer address updated.
-- Select Vaults will have their Liquidation Ratios **decreased** to the amounts displayed in the Proposal Details section.
+- 6s Capital [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) will be **increased** from 1,000 DAI to 15 million DAI and have its Broker-Dealer address updated.
+- Select Vaults will have their [Liquidation Ratios](https://makerdao.world/en/learn/governance/param-liquidation-ratio) **decreased** to the amounts displayed in the Proposal Details section.
 - PSM-USDC-A Fee-In (tin) will be **increased** from 0.1% to 0.2%
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - MATIC-A will be onboarded with the parameters displayed in the Proposal Details section.
 - PSM-PAX-A will be onboarded with the parameters displayed in the Proposal Details section.
+
+_To find out more about the Peg Stability Module and its parameters, visit [the PSM page](https://makerdao.world/en/learn/governance/module-psm/) on the MakerDAO Community Portal._
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
