@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- 6s Capital Debt Ceiling will be **increased** from 1,000 DAI to 1 million DAI and have its Broker-Dealer address updated.
+- 6s Capital Debt Ceiling will be **increased** from 1,000 DAI to 15 million DAI and have its Broker-Dealer address updated.
 - Select Vaults will have their Liquidation Ratios **decreased** to the amounts displayed in the Proposal Details section.
 - PSM-USDC-A Fee-In (tin) will be **increased** from 0.1% to 0.2%
 
@@ -38,7 +38,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### 6s Capital Updates
 
-As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSqXVUQ?network=mainnet#poll-detail) and subsequent [public request](https://forum.makerdao.com/t/executive-vote-request-raising-6s-rwa001-a-debt-ceiling/9893), the [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) for 6s Capital (RWA-001) will be **increased** from 1,000 DAI to 1 million DAI and the Broker-Dealer address updated to **0xE5C35757c296FD19faA2bFF85e66C6B25AC8b978** if this exececutive proposal passes. For more information on 6s' structure and agrrements review [this post](https://forum.makerdao.com/t/introduction-and-6s-on-the-permaweb/9925).
+As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSqXVUQ?network=mainnet#poll-detail) and subsequent [public request](https://forum.makerdao.com/t/executive-vote-request-raising-6s-rwa001-a-debt-ceiling/9893), the [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) for 6s Capital (RWA-001) will be **increased** from 1,000 DAI to 15 million DAI and the Broker-Dealer address updated to **0xE5C35757c296FD19faA2bFF85e66C6B25AC8b978** if this exececutive proposal passes. For more information on 6s' structure and agrrements review [this post](https://forum.makerdao.com/t/introduction-and-6s-on-the-permaweb/9925).
 
 ### Reducing Vault Liquidation Ratios
 
