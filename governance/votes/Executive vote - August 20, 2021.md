@@ -107,7 +107,7 @@ Please review the following forum threads containing information about MATIC (Po
 
 ### PAX Peg Stability Module Collateral Onboarding and Increase to USDC Peg Stability Module Fee-in (tin)
 
-As per the outcome of [this poll](https://vote.makerdao.com/polling/QmdBrVKD?network=mainnet#poll-detail), the PAX Peg Stability Module will be onboarded as the vault type PSM-PAX-A with the following parameters if this executive proposal passes.
+As per the outcome of [this poll](https://vote.makerdao.com/polling/QmdBrVKD?network=mainnet#poll-detail), the PAX Peg Stability Module will be onboarded as the vault type PSM-PAX-A with the following parameters if this executive proposal passes. To read more about this proposal, visit this [forum post](https://forum.makerdao.com/t/create-a-pax-psm/9683).
 
 **Proposed PAX PSM Parameters**
 * Fee In (`tin`): 0.1%
