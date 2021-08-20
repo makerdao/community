@@ -21,8 +21,8 @@ If this executive proposal passes, the following **changes** will occur within t
 - PSM-USDC-A Fee-In (tin) will be **increased** from 0.1% to 0.2%
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- MATIC-A will be onboarded with the parameters displayed in the Proposal Details Section.
-- PSM-PAX-A will be onboarded with the parameters displayed in the Proposal Details Section.
+- MATIC-A will be onboarded with the parameters displayed in the Proposal Details section.
+- PSM-PAX-A will be onboarded with the parameters displayed in the Proposal Details section.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -42,7 +42,7 @@ As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSqXVUQ?net
 
 ### Reducing Vault Liquidation Ratios
 
-As per the outcome of [this poll](https://vote.makerdao.com/polling/QmZQdJpG?network=mainnet#poll-detail) the following [Liquidation Ratios](https://makerdao.world/en/learn/governance/param-liquidation-ratio) will be **decreased** if this executive proposal passes. For more information on these changes, please review [this proposal](https://forum.makerdao.com/t/decreasing-liquidation-ratios-proposal/9819) and [this analysis](https://forum.makerdao.com/t/decreasing-liquidation-ratios-analysis/9702).
+As per the outcome of [this poll](https://vote.makerdao.com/polling/QmZQdJpG?network=mainnet#poll-detail), the following [Liquidation Ratios](https://makerdao.world/en/learn/governance/param-liquidation-ratio) will be **decreased** if this executive proposal passes. For more information on these changes, please review [this proposal](https://forum.makerdao.com/t/decreasing-liquidation-ratios-proposal/9819) and [this analysis](https://forum.makerdao.com/t/decreasing-liquidation-ratios-analysis/9702).
 
 |VAULT TYPE|CURRENT LR|PROPOSED LR|LR DIFFERENCE|
 | --- | --- | --- | --- |
