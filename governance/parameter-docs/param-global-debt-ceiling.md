@@ -44,4 +44,6 @@ If the amount of DAI outstanding increases to a point where keepers cannot safeg
 
 In an Emergency Shutdown, DAI cannot be minted regardless of the Global Debt Ceiling.
 
+The Global Debt Ceiling will not prevent DAI accruing in the system surplus buffer from stability fees. Therefore, overall DAI supply can still increase despite the Global Debt Ceiling being reached.
+
 Maker Governance should exercise caution when reducing the debt ceiling of collateral types; this may lead to an unintended situation where the Global Debt Ceiling is below the amount of DAI outstanding, thus preventing further DAI from being minted.
