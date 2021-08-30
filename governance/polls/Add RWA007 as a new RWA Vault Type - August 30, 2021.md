@@ -1,6 +1,6 @@
 ---
-title: Add RWA007 as a new RWA Vault Type - August 30, 2021
-summary: This poll proposes system parameters which could be used to initialize RWA007 as a new RWA vault type.
+title: Add RWA007 (SolarX) as a new RWA Vault Type - August 30, 2021
+summary: This poll proposes system parameters which could be used to initialize RWA007 (SolarX) as a new RWA vault type.
 discussion_link: https://forum.makerdao.com/t/solarx-mip6-application-uprets-solarx-industrial-real-estate-backed-loans/6718
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2021-08-30T16:00:00
 end_date: 2021-09-02T16:00:00
 ---
-# Poll: Add RWA007 as a new RWA Vault Type - August 30, 2021
+# Poll: Add RWA007 (SolarX) as a new RWA Vault Type - August 30, 2021
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 30 at 16:00 UTC.
 
