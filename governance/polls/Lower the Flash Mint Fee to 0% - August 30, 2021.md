@@ -1,5 +1,5 @@
 ---
-title: Lower the Flash Mint Fee to 0% - August 30, 2021
+title: Lower the Flash Mint Fee (toll) to 0% - August 30, 2021
 summary: Signal your support or opposition to lowering the Flash Mint Fee to 0%.
 discussion_link: https://forum.makerdao.com/t/signal-request-lower-the-flash-mint-fee-to-0/9847
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2021-08-30T16:00:00
 end_date: 2021-09-02T16:00:00
 ---
-# Poll: Lower the Flash Mint Fee to 0% - August 30, 2021
+# Poll: Lower the Flash Mint Fee (toll) to 0% - August 30, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 30 at 16:00 UTC.
 
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Lowering the Flash Mint Fee from 0.05% to 0% 
+* Lowering the Flash Mint Fee (toll) from 0.05% to 0% 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-lower-the-flash-mint-fee-to-0/9847) to help inform your position before voting.
 
