@@ -39,7 +39,7 @@ Please review the following forum threads containing information about RWA007 (S
 * [Initial Collateral Application](https://forum.makerdao.com/t/solarx-mip6-application-uprets-solarx-industrial-real-estate-backed-loans/6718)
 * [Real-World Finance Core Unit Risk Evaluation](https://forum.makerdao.com/t/solar-x-collateral-onboarding-risk-assessment/9977)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/rwa007-solarx-mip21-token-protocol-engineering-domain-team-assessment/10016)
-* [Oracles Core Unit Evaluation]($oracles_link)
+* [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/rwa-007-solarx-collateral-onboarding-oracle-assessment-mip10c3-sp40/10070)
 
 ## Outcomes
 
