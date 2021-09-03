@@ -81,7 +81,7 @@ As per this [ratification poll](https://vote.makerdao.com/polling/QmPfjETk?netwo
 
 803.1833 MKR will be streamed to the **[Growth (GRO-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4)** through July 1, 2022 at **0x7800C137A645c07132886539217ce192b9F0528e** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP19).
 
-**No more than** 15422.5 MKR will be streamed to team members of the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2025, at individual addresses maintained by the [Core Unit Facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP7) according to the active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
+**No more than** 15,422.5 MKR will be streamed to team members of the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2025, at individual addresses maintained by the [Core Unit Facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP7) according to the active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
 
 
 ## Review
