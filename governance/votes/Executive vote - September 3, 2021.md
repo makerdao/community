@@ -20,10 +20,10 @@ If this executive proposal passes, the following **changes** will occur within t
 - The PSM-PAX-A [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) will be **increased** from 50 million DAI to 500 million DAI.
 - 2 million DAI will be distributed to the DAI Foundation Reserves Backup Wallet.
 - 138,591 DAI will be distributed to the DAI Foundation Operational Wallet.
-- 155,237 DAI will be distributed to the Sustainable Ecosystem Scalling Auditors' Wallet.
+- 155,237 DAI will be distributed to the Sustainable Ecosystem Scaling Auditors' Wallet.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- [DssVest](https://mips.makerdao.com/mips/details/MIP54) will be implemented, establishing both buget and MKR vesting agreement streams listed in the Proposal Details section.
+- [DssVest](https://mips.makerdao.com/mips/details/MIP54) will be implemented, establishing both budget and MKR vesting agreement streams listed in the Proposal Details section.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -45,11 +45,11 @@ As per the result of this [poll](https://vote.makerdao.com/polling/QmdBrVKD?netw
 
 ### One-time Budget Distributions
 
-The following budget distribuitons will be made if this executive proposal passes:
+The following budget distributions will be made if this executive proposal passes:
 
 - 155,237 DAI will be distributed to the **[Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10)** Core Unit at **0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP10).
-- 2 million DAI will be distributied to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Reserves Backup Wallet** at **0x5F5c328732c9E52DfCb81067b8bA56459b33921f** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
-- 138,591 DAI will be distributied to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Operational Wallet** at **0x34D8d61050Ef9D2B48Ab00e6dc8A8CA6581c5d63** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
+- 2 million DAI will be distributed to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Reserves Backup Wallet** at **0x5F5c328732c9E52DfCb81067b8bA56459b33921f** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
+- 138,591 DAI will be distributed to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Operational Wallet** at **0x34D8d61050Ef9D2B48Ab00e6dc8A8CA6581c5d63** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
 
 ### DssVest Implementation and Initial Streams
 
@@ -81,7 +81,7 @@ As per this [ratification poll](https://vote.makerdao.com/polling/QmPfjETk?netwo
 
 803.1833 MKR will be streamed to the **[Growth (GRO-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4)** through July 1, 2022 at **0x7800C137A645c07132886539217ce192b9F0528e** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP19).
 
-**No more than** 3855.625 MKR will be streamed to team members of the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2022 at individual addresses maintained by the [Core Unit Facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP7) according to the active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
+**No more than** 3855.625 MKR will be streamed to team members of the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2022, at individual addresses maintained by the [Core Unit Facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP7) according to the active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
 
 
 ## Review
