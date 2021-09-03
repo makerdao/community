@@ -37,18 +37,52 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Decreasing the Flash Mint Fee (toll) 
 
-$executive_entry_description_1
+As per the result of this [poll](https://vote.makerdao.com/polling/QmPvcF8K?network=mainnet#poll-detail) and original [signal request](https://forum.makerdao.com/t/signal-request-lower-the-flash-mint-fee-to-0/9847), the Flash Mint Fee (toll) will be decreased from 0.05% to 0% if this executive proposal passes. For more information on the Flash Mint Module, please review the [MIP25 Discussion](https://forum.makerdao.com/t/mip25-flash-mint-module/4400) and [public repository](https://github.com/makerdao/dss-flash). 
 
 ### Increasing the PSM-PAX-A Debt Ceiling
-
-$executive_entry_description_3
+**
+As per the result of this [poll](https://vote.makerdao.com/polling/QmdBrVKD?network=mainnet#poll-detail) and following the plan detailed in this [thread](https://forum.makerdao.com/t/2021-august-20-exec-update-pax-psm-at-50m-this-week/9958), the [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) for PSM-PAX-A will be **increased** from 50 million DAI to 500 million DAI if this executive proposal passes.
 
 ### One-time Budget Distributions
 
-$executive_entry_description_3
+The following budget distribuitons will be made if this executive proposal passes:
 
+- 155,237 DAI will be distributed to the **[Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10)** Core Unit at **0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP10).
+- 2 million DAI will be distributied to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Reserves Backup Wallet** at **0x5F5c328732c9E52DfCb81067b8bA56459b33921f** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
+- 138,591 DAI will be distributied to the **[DAI Foundation (DAIF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP17) Operational Wallet** at **0x34D8d61050Ef9D2B48Ab00e6dc8A8CA6581c5d63** as specified in their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
 
 ### DssVest Implementation and Initial Streams
+
+As per this [ratification poll](https://vote.makerdao.com/polling/QmPfjETk?network=mainnet#poll-detail), DssVest will be implemented and the following token streams established if this executive proposal passed. For more information on DssVest, please review [MIP54](https://mips.makerdao.com/mips/details/MIP54) and its [forum thread](https://forum.makerdao.com/t/mip-54-dssvest/8025).
+
+**DAI Streams**
+
+492,971 DAI will be streamed to the **[DAI Foundation (DAIF-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP17)** through August 31, 2022 at **0x34D8d61050Ef9D2B48Ab00e6dc8A8CA6581c5d63** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP24).
+
+620,000 DAI will be streamed to the **[Real-World Finance (RWF-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP1)** through December 31, 2021 at **0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP12).
+
+2,184,000 DAI will be streamed to the **[Risk (RISK-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2)** through August 31, 2022 at **0xd98ef20520048a35EdA9A202137847A62120d2d9** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP13).
+
+123,333 DAI will be streamed to the **[GovAlpha (GOV-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3)** through September 30, 2021 at **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP11).
+
+103,134 DAI will be streamed to the **[Content Production (MKT-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP5)** through October 31, 2021 at **0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP21).
+
+4,196,771 DAI will be streamed to the **[Oracles (ORA-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13)** through June 30, 2022 at **0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP15).
+
+122,700 DAI will be streamed to the **[Governance Communications (COM-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP8)** through December 31, 2021 at **0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP8).
+
+300,050 DAI will be streamed to the **[Growth (GRO-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4)** through October 31, 2021 at **0x7800C137A645c07132886539217ce192b9F0528e** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP19).
+
+4,080,000 DAI will be streamed to the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2022 at **0xe2c16c308b843eD02B09156388Cb240cEd58C01c** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
+
+**MKR Streams**
+
+1,051.25 MKR will be streamed to the **[Oracles (ORA-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13)** through June 30, 2022 at **0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP15).
+
+803.1833 MKR will be streamed to the **[Growth (GRO-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4)** through July 1, 2022 at **0x7800C137A645c07132886539217ce192b9F0528e** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP19).
+
+**No more than** 3855.625 MKR will be streamed to team members of the **[Protocol Engineering (PE-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7)** through April 30, 2022 at individual addresses maintained by the [Core Unit Facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP7) according to the active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7).
+
 
 ## Review
 
