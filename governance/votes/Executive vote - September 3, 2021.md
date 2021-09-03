@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, September Core Unit Budgets, DssVest Streams - September 3, 2021
 summary: Decreasing Flash Mint Fee (toll), increasing PSM-PAX-A Debt Ceiling, distributing Core Unit Budgets, and establishing DssVest streams for budgets and MKR vesting.
 date: 2021-09-03T00:00:00.000Z
-address: "$spell_address"
+address: "0x838777A418ffbB9a0399FA1E5e7a3618933F54c6"
 
 ---
 # [Executive Proposal] Parameter Changes, September Core Unit Budgets, DssVest Streams - September 3, 2021
