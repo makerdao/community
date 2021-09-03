@@ -45,7 +45,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.05
 * [Liquidation Penalty (`chop`)](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
 
-*Liquidations are disables for this poll*
+*Liquidations are disabled for this poll*
 
 **Limits**
 
