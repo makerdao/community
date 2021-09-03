@@ -53,7 +53,7 @@ The following budget distributions will be made if this executive proposal passe
 
 ### DssVest Implementation and Initial Streams
 
-As per this [ratification poll](https://vote.makerdao.com/polling/QmPfjETk?network=mainnet#poll-detail), DssVest will be implemented and the following token streams established if this executive proposal passed. For more information on DssVest, please review [MIP54](https://mips.makerdao.com/mips/details/MIP54) and its [forum thread](https://forum.makerdao.com/t/mip-54-dssvest/8025).
+As per this [ratification poll](https://vote.makerdao.com/polling/QmPfjETk?network=mainnet#poll-detail), DssVest will be implemented and the following token streams established if this executive proposal passes. For more information on DssVest, please review [MIP54](https://mips.makerdao.com/mips/details/MIP54) and its [forum thread](https://forum.makerdao.com/t/mip-54-dssvest/8025).
 
 **DAI Streams**
 
