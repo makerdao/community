@@ -20,22 +20,31 @@ MKR received through this process is subsequently burned.
 Changing the `beg` parameter allows Maker Governance to strike a reasonable tradeoff between having worthwhile auctions for keepers, thereby ensuring sufficient keeper participation and efficiency for MakerDAO to maximize the amount of MKR burned.
 
 
+
 ## Trade-offs
 The `beg` represents the slippage MakerDAO is willing to accept during auctions to ensure sufficient keeper participation. 
 
-A `beg` that is too low can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the next bid, while higher, is still more profitable than the current bid. Even though this would result in more MKR burned for a specific auction, it makes the auction process inaccessible to all but the most efficient bots. Insufficient keeper participation could lead to long-term losses such as possible zero MKR bids if only one keeper is participating in a specific auction.
+The `beg` parameter allows Governance to maximize the amount of MKR burned by ensuring sufficiently high keeper participation and hence competitive auctions. It also allows Governance to ensure that auctions are efficient i.e. the winning auction bid is close to the market value of MKR. 
+
+A `beg` that is too low can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the next bid, despite being a larger MKR amount, is still more profitable than the current bid. Even though this would result in more MKR burned for a specific auction, it makes the auction process inaccessible to all but the most efficient bots. Insufficient keeper participation could lead to long-term losses such as zero MKR bids if only one keeper is participating in a specific auction. On the other hand, if the `beg` is too large, it would result in less MKR being burned as a profitable but slightly higher MKR bid than the current bid is not allowed.
 
 
-On the other hand, if the `beg` is too large, it would result in less MKR being burned. The winning bid could be up to `beg` percentage lower than the market price of MKR, and it would not be profitable for anyone else to outbid it. 
+
 
 
 ## Changes
 Adjusting the `beg` parameter is a manual process that requires an executive vote. Changes to the `beg` are subject to the GSM Pause Delay.
 
-The efficiency of the auction process is a key indicator used by Governance to determine whether to lower or raise the `beg`. If keeper participation is high and profitability margins are high for keepers, the `beg` can be decreased and vice versa.
+**Why increase this parameter?**
+This parameter should be increased to increase keeper participation in the auctions.
+
+
+**Why decrease this parameter?**
+This parameter should be decreased to increase auction efficiency i.e. winning bid price vs. market price of MKR.
+
 
 
 ## Considerations
-One risk is "front-running" or malicious miners. They may replace an honest keeper's bid with an equivalent bid of their own, forcing honest keepers to increase their bid by two `beg` increments instead of just one. This could become especially important as the bid reaches the current market rate for MKR<->DAI.
+One risk is "front-running" or malicious miners. They may replace an honest keeper's bid with an equivalent bid of their own, forcing honest keepers to increase their MKR bid amount by two `beg` increments instead of just one. This could become especially important as the bid reaches the current market rate for MKR<->DAI.
 
 A second consideration is that the gas cost to `kick` an auction is higher than the cost to bid. If the `beg` is too low, auctions may not get kicked by anyone since there will be bots that bid only on kicked auctions.

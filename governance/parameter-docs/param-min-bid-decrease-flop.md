@@ -21,16 +21,24 @@ Changing the `beg` parameter allows Maker Governance to strike a reasonable trad
 ## Trade-offs
 The `beg` represents the slippage MakerDAO is willing to accept during auctions to ensure sufficient keeper participation. 
 
-A `beg` that is too low can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the next bid, despite being a smaller MKR amount, is still more profitable than the current bid. Even though this would result in less MKR minted for a specific auction, it makes the auction process inaccessible to all but the most efficient bots. Insufficient keeper participation could lead to long-term losses such as arbitrarily high MKR bids if only one keeper is participating in a specific auction.
+The `beg` parameter allows Governance to minimize the amount of MKR minted by ensuring sufficiently high keeper participation and hence competitive auctions. It also allows Governance to ensure that auctions are efficient i.e. the winning auction bid is close to the market value of MKR. 
+
+A `beg` that is too low can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the next bid, despite being a smaller MKR amount, is still more profitable than the current bid. Even though this would result in less MKR minted for a specific auction, it makes the auction process inaccessible to all but the most efficient bots. Insufficient keeper participation could lead to long-term losses such as arbitrarily high MKR bids if only one keeper is participating in a specific auction. On the other hand, if the `beg` is too large, it would result in more MKR being minted as a profitable but slightly lower MKR bid than the current bid is not allowed.
 
 
-On the other hand, if the `beg` is too large, it would result in more MKR being minted as a profitable but slightly lower amount MKR bid than the current bid is not allowed.
+
 
 
 ## Changes
 Adjusting the `beg` parameter is a manual process that requires an executive vote. Changes to the `beg` are subject to the GSM Pause Delay.
 
-The efficiency of the auction process is a key indicator used by Governance to determine whether to lower or raise the `beg`. If keeper participation is high and profitability margins are high for keepers, the `beg` can be decreased and vice versa.
+**Why increase this parameter?**
+This parameter should be increased to increase keeper participation in the auctions.
+
+
+**Why decrease this parameter?**
+This parameter should be decreased to increase auction efficiency i.e. winning bid price vs. market price of MKR.
+
 
 
 ## Considerations

@@ -20,20 +20,22 @@ Changing the `ttl` parameter allows Maker Governance to minimize total MKR minte
 ## Trade-offs
 Keepers have to effectively make a prediction on what the MKR-DAI price will be after a period of `ttl`. 
 
-A `ttl` that is small means that keepers can make more accurate predictions resulting in lower amounts of MKR being minted since the volatility in the price of MKR has a smaller effect thereby allowing keepers to submit lower bids. 
+The `ttl` allows Governance to minimize the amount of MKR minted in two ways. The first is that a small `ttl` means that keepers must account for less volatility and can hence submit lower MKR bids. The other is that a large `ttl` ensures more participation in the auctions, thereby resulting in more competitive bids.
 
-However, if the `ttl` is too small, then there may not be enough time for other keepers to organize funds and participate in such auctions. This could result in uncompetitive auctions with extreme cases where there is only one participant resulting in arbitrarily high amounts of MKR minted.
-
-
-If the `ttl` is too large, then there may be bids for very large amounts of MKR to safeguard against price volatility during the `ttl` period. Realistically priced bids would only appear when the auction end (determined by `tau`) is closer than the `ttl` end. In situations where the price of MKR is dropping, this would lead to more MKR being minted than with a smaller `ttl`.
+There is a danger that if the `ttl` is too small, then there may not be enough time for other keepers to organize funds and participate in such auctions. This could result in uncompetitive auctions with extreme cases where there is only one participant resulting in arbitrarily high amounts of MKR minted. There is also a danger that if the `ttl` is too large, then realistically priced bids would only appear when the auction end (determined by `tau`) is closer than the `ttl` end. In situations where the price of MKR is dropping, this would lead to more MKR being minted than with a smaller `ttl`.
 
 
 ## Changes
 Adjusting the `ttl` parameter is a manual process that requires an executive vote. Changes to the `beg` are subject to the GSM Pause Delay.
 
-The efficiency of the auction process is a key indicator used by Governance to determine whether to lower or raise the `ttl`. If keeper participation is high, then the `ttl` can be decreased and vice versa. 
+**Why increase this parameter?**
+A `ttl` that is larger gives more time for other keepers to organize funds and participate in such auctions making the auctions more competitive by virtue of a larger number of participants.
 
-Another more subtle indicator is to see if realistic bids only appear towards the end of the auction (determined by `tau`) during periods of volatility. This indicates that the `ttl` is too long.
+
+**Why decrease this parameter?**
+A `ttl` that is smaller means that keepers can make more accurate predictions resulting in lower amounts of MKR being minted since the volatility in the price of MKR has a smaller effect thereby allowing keepers to submit lower bids. 
+
+
 
 ## Considerations
 `ttl` is always upper bounded by `tau` the total auction duration. 
