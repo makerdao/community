@@ -10,27 +10,27 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/system-stabiliz
 ```
 
 ## Description
-Debt Auctions are used to recapitalize the system by minting and auctioning off MKR for a fixed amount of DAI. In this process, keepers bid on how little MKR they are willing to accept for the fixed Dai amount they have to pay at auction settlement. During debt auctions, new MKR bids must be lower than the current MKR bid by at least an amount determined by the Min Bid Decrease (Flop) or `beg`.  The `beg` is given in terms of a minimum percentage decrease on the current bid.
+Debt Auctions are used to recapitalize the system by minting and auctioning off MKR for a fixed amount of DAI. In this process, keepers bid on how little MKR they are willing to accept for the fixed Dai amount they have to pay at auction settlement. During debt auctions, new MKR bids must be lower than the current MKR bid by at least an amount determined by the `Min Bid Decrease (Flop)` or `beg`.  The `Min Bid Decrease (Flop)`  is given in terms of a minimum percentage decrease on the current bid.
 
-For example, if the `beg` is set to 5% and the current bid is 10 MKR for 1000 DAI, the next bid must be at most 9.5 MKR for 1000 DAI.
+For example, if the `Min Bid Decrease (Flop)` is set to 5% and the current bid is 10 MKR for 1000 DAI, the next bid must be at most 9.5 MKR for 1000 DAI.
 
 ## Purpose
-Changing the `beg` parameter allows Maker Governance to strike a reasonable tradeoff between having worthwhile auctions for keepers, thereby ensuring sufficient keeper participation and efficiency for MakerDAO to minimize the amount of MKR minted.
+Changing the `Min Bid Decrease (Flop)` parameter allows Maker Governance to strike a reasonable tradeoff between having worthwhile auctions for keepers, thereby ensuring sufficient keeper participation and efficiency for MakerDAO to minimze the amount of MKR minted.
+
 
 
 ## Trade-offs
-The `beg` represents the slippage MakerDAO is willing to accept during auctions to ensure sufficient keeper participation. 
+The `Min Bid Decrease (Flop)` represents the slippage MakerDAO is willing to accept during auctions to ensure sufficient keeper participation. 
 
-The `beg` parameter allows Governance to minimize the amount of MKR minted by ensuring sufficiently high keeper participation and hence competitive auctions. It also allows Governance to ensure that auctions are efficient i.e. the winning auction bid is close to the market value of MKR. 
+A small `Min Bid Decrease (Flop)` helps in optimizing the MKR minted as bids will be closer to the market value of MKR. However, if it is too low, it can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the only the most efficient bots win the auction. Insufficient keeper participation could lead to long-term losses such as arbitrarily high MKR bids if only one keeper is participating in a specific auction. 
 
-A `beg` that is too low can result in low keeper participation. This is because the volatility in the price of MKR as and gas prices can be high enough that the next bid, despite being a smaller MKR amount, is still more profitable than the current bid. Even though this would result in less MKR minted for a specific auction, it makes the auction process inaccessible to all but the most efficient bots. Insufficient keeper participation could lead to long-term losses such as arbitrarily high MKR bids if only one keeper is participating in a specific auction. On the other hand, if the `beg` is too large, it would result in more MKR being minted as a profitable but slightly lower MKR bid than the current bid is not allowed.
-
+A large `Min Bid Decrease (Flop)` ensures high keeper participation as there are more opportunities to profit from the slippage accepted by MakerDAO. It also limits the effects of price volatility of MKR or changes in gas prices on the winning bid. However, if the `Min Bid Decrease (Flop)` is too large, it would result in more MKR being minted as a profitable but slightly lower MKR bid than the current bid is prevented.
 
 
 
 
 ## Changes
-Adjusting the `beg` parameter is a manual process that requires an executive vote. Changes to the `beg` are subject to the GSM Pause Delay.
+Adjusting the `Min Bid Decrease (Flop)` parameter is a manual process that requires an executive vote. Changes to the `Min Bid Decrease (Flop)` are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
 This parameter should be increased to increase keeper participation in the auctions.
@@ -42,7 +42,7 @@ This parameter should be decreased to increase auction efficiency i.e. winning b
 
 
 ## Considerations
-One risk is "front-running" or malicious miners. They may replace an honest keeper's bid with an equivalent bid of their own, forcing honest keepers to decrease their MKR bid amount by two `beg` decrements instead of just one. This could become especially important as the bid reaches the current market rate for MKR<->DAI.
+One risk is "front-running" or malicious miners. They may replace an honest keeper's bid with an equivalent bid of their own, forcing honest keepers to decrease their MKR bid amount by two `Min Bid Decrease (Flop)` decrements instead of just one. This could become especially important as the bid reaches the current market rate for MKR<->DAI.
 
-A second consideration is that the gas cost to `kick` an auction is higher than the cost to bid. If the `beg` is too low, auctions may not get kicked by anyone since there will be bots that bid only on kicked auctions.
+A second consideration is that the gas cost to `kick` an auction is higher than the cost to bid. If the `Min Bid Decrease (Flop)` is too low, auctions may not get kicked by anyone since there will be bots that bid only on kicked auctions.
 
