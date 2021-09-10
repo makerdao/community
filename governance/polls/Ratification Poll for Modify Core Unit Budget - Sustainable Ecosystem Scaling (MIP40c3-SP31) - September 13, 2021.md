@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget - Sustainable Ecosystem Scaling (MIP40c3-SP31) - September 13, 2021
-summary: MIP40c3-SPXX modifies the Dai budget for Core Unit SES-001: Sustainable Ecosystem Scaling, replacing MIP40c3-SP10.
+summary: MIP40c3-SP31 modifies the Dai budget for Core Unit SES-001: Sustainable Ecosystem Scaling, replacing MIP40c3-SP10.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp31-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/9805
 vote_type: Plurality Voting
 categories:
@@ -27,9 +27,9 @@ The community may vote in this poll to express support or opposition toModify Co
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SPXX modifies the Dai budget for Core Unit SES-001: Sustainable Ecosystem Scaling. It contains:
+*MIP40c3-SP31 modifies the Dai budget for Core Unit SES-001: Sustainable Ecosystem Scaling. It contains:*
 
-Changes against the previous version
+*Changes against the previous version
 Increase in the Total Budget Cap: the hard limit voted by Governance
 Breakdown of budget increase
 Permanent Team

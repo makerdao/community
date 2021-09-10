@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Add Development & UX Core Unit, DUX-001 - September 13, 2021
+title: Ratification Poll for Development & UX Core Unit, DUX-001 - September 13, 2021
 summary: This MIP set adds the Development & UX Core Unit, DUX-001
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp18-adding-development-ux-core-unit-dux-001/9770
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2021-09-13T16:00:00
 end_date: 2021-09-27T16:00:00
 ---
-# Inclusion Poll for Add Development & UX Core Unit, DUX-001 - September 13, 2021
+# Inclusion Poll for Development & UX Core Unit, DUX-001 - September 13, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, September 13 at 16:00 UTC.
 
@@ -23,9 +23,9 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Add Development & UX Core Unit, DUX-001 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to Development & UX Core Unit, DUX-001 being accepted and implemented in the Maker Protocol.
 
-### Add Development & UX Core Unit
+### Development & UX Core Unit - Mandate
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 

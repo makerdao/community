@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Add Collateral Engineering Services Core Unit, CES-001 - September 13, 2021
+title: Ratification Poll for Collateral Engineering Services Core Unit, CES-001 - September 13, 2021
 summary: This MIP set adds the Collateral Engineering Services Core Unit, CES-001
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp20-adding-collateral-engineering-services-core-unit-ces-001/9809
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2021-09-13T16:00:00
 end_date: 2021-09-27T16:00:00
 ---
-# Inclusion Poll for Ratification Poll for Add Collateral Engineering Services Core Unit, CES-001 - September 13, 2021
+# Inclusion Poll for Ratification Poll for Collateral Engineering Services Core Unit, CES-001 - September 13, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, September 13 at 16:00 UTC.
 
@@ -23,9 +23,9 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Add Collateral Engineering Services Core Unit, CES-001 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to Collateral Engineering Services Core Unit, CES-001 being accepted and implemented in the Maker Protocol.
 
-### Add Collateral Engineering Services Core Unit
+### Collateral Engineering Services Core Unit - Mandate
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
