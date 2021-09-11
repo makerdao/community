@@ -63,7 +63,7 @@ Please review the following forum threads containing information about GUNIV3DAI
 * [Proposal Thread](https://forum.makerdao.com/t/g-uni-dai-usdc-uniswap-v3-lp-erc20-collateral-onboarding-application/9026)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/g-uni-dai-usdc-collateral-onboarding-risk-evaluation/9719)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/guni-dai-usdc-erc20-token-smart-contract-technical-assessment/9139)
-* [Oracles Team Evaluation]($oracles_link)
+* [Oracles Team Evaluation](https://forum.makerdao.com/t/guni-dai-usdc-collateral-onboarding-oracle-assessment-mip10c3-sp41/10268)
 
 ## Outcomes
 
