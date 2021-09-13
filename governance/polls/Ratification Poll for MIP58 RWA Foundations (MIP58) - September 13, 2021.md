@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP58: RWA Foundations (MIP58) - September 13, 2021
-summary: MIP58: RWA Foundations MIP defines the RWA Foundation concept, its scope and formalizes how MakerDAO can guide a RWA Foundation.
+summary: RWA Foundations (MIP58) defines the RWA Foundation concept, its scope and formalizes how MakerDAO can guide a RWA Foundation.
 discussion_link: https://forum.makerdao.com/t/mip58-rwa-foundations/9680
 vote_type: Plurality Voting
 categories:
