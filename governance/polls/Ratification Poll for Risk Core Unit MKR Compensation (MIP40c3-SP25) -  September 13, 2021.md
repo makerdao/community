@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Risk Core Unit MKR Compensation (MIP40C3-SP25) -  September 13, 2021
+title: Ratification Poll for Risk Core Unit MKR Compensation (MIP40c3-SP25) -  September 13, 2021
 summary: MIP40c3-SP25 adds the MKR Incentive Plan budget for Risk Core Unit (RISK-001).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp25-risk-core-unit-mkr-compensation-risk-001/9788
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2021-09-13T16:00:00
 end_date: 2021-09-27T16:00:00
 ---
-# Ratification Poll for Risk Core Unit MKR Compensation (MIP40C3-SP25) -  September 13, 2021
+# Ratification Poll for Risk Core Unit MKR Compensation (MIP40c3-SP25) -  September 13, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, September 13 at 16:00 UTC.
 
