@@ -15,7 +15,7 @@ end_date: 2021-09-16T16:00:00
 ---
 # Poll: Add GUNIV3DAIUSDC1-A as a new Vault Type - September 13, 2021
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 6 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 13 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
