@@ -12,6 +12,8 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/vat
 
 The `Global Debt Ceiling`, or `line`, parameter allows Maker Governance to set a maximum amount of DAI that can be minted by users of the Maker Protocol, regardless of individual collateral debt ceilings. If the total DAI outstanding exceeds the `Global Debt Ceiling`, users will be unable to mint DAI.
 
+Currently, the `Global Debt Ceiling` updates automatically when changes are made to the debt ceilings of individual collateral types. However, it is possible for Maker Governance to alter the `Global Debt Ceiling` independently.
+
 ## Purpose
 
 The main purpose of the `Global Debt Ceiling` is to act as an upper bound on the amount of DAI in circulation. By doing this, the risk level of the system can be controlled by Maker Governance.
