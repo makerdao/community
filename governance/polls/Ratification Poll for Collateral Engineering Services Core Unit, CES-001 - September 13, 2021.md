@@ -40,11 +40,11 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Building upon the theme of sustainability of the Collateral Engineering Services Core Unit (CES), the budget reflects support of the Mandates and business continuity in MIP39. Any elements of this budget reflecting a likeness to other Core Units is a principle of building on the shoulders of giants. Much appreciation is given to all the trailblazers.
-The CES budget is designed with the following in mind:
+*Building upon the theme of sustainability of the Collateral Engineering Services Core Unit (CES), the budget reflects support of the Mandates and business continuity in MIP39. Any elements of this budget reflecting a likeness to other Core Units is a principle of building on the shoulders of giants. Much appreciation is given to all the trailblazers.*
+*The CES budget is designed with the following in mind:*
 
-Paying for the operational costs to run the Core Unit
-Building a reserve for sustainability*
+* *Paying for the operational costs to run the Core Unit*
+* *Building a reserve for sustainability*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
@@ -55,9 +55,9 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*My role is to support the Mandates and business continuity for the Collateral Engineering Services Core Unit (CES).
+*My role is to support the Mandates and business continuity for the Collateral Engineering Services Core Unit (CES).*
 
-Today, this is best accomplished by taking the role of Facilitator, Team Lead, and Business Leader. My background and experience with the Maker Foundation makes me uniquely qualified to assume these roles. As the Core Unit establishes itself, I will look to transition the Facilitator role, or a portion of that responsibility, to a bonafide member of the MakerDAO community.*
+*Today, this is best accomplished by taking the role of Facilitator, Team Lead, and Business Leader. My background and experience with the Maker Foundation makes me uniquely qualified to assume these roles. As the Core Unit establishes itself, I will look to transition the Facilitator role, or a portion of that responsibility, to a bonafide member of the MakerDAO community.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
