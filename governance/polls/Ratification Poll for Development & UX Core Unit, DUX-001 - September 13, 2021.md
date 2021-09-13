@@ -51,7 +51,7 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP#1 adds the budget for Core Unit DUX-001: Development and UX. It contains:*
+*MIP40c3-SP26 adds the budget for Core Unit DUX-001: Development and UX. It contains:*
 
 * *Total Budget Cap: The hard limit voted on by Governance*
 * *First-month forecast: The actual first month estimated expenses*
