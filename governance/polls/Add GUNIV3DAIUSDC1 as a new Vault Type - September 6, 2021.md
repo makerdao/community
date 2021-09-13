@@ -1,5 +1,5 @@
 ---
-title: Add GUNIV3DAIUSDC1-A as a new Vault Type - September 6, 2021
+title: Add GUNIV3DAIUSDC1-A as a new Vault Type - September 13, 2021
 summary: This poll proposes system parameters which could be used to initialize GUNI-DAI-USDC as a new vault type.
 discussion_link: https://forum.makerdao.com/t/g-uni-dai-usdc-uniswap-v3-lp-erc20-collateral-onboarding-application/9026
 vote_type: Plurality Voting
@@ -10,10 +10,10 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2021-09-03T16:00:00
-end_date: 2021-09-06T16:00:00
+start_date: 2021-09-13T16:00:00
+end_date: 2021-09-16T16:00:00
 ---
-# Poll: Add GUNIV3DAIUSDC1-A as a new Vault Type - September 6, 2021
+# Poll: Add GUNIV3DAIUSDC1-A as a new Vault Type - September 13, 2021
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 6 at 16:00 UTC.
 
@@ -45,7 +45,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.05
 * [Liquidation Penalty (`chop`)](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
 
-*Liquidations are disabled for this collateral type. The risk for GUNIV3DAIUSDC1-A is primarly from USDC tail risks, and so it's impossible to generate appropiate risk parameters from previous data.*
+*Liquidations are disabled for this collateral type. The risk for GUNIV3DAIUSDC1-A is primarily from USDC tail risks, and so it's impossible to generate appropriate risk parameters from previous data.*
 
 **Limits**
 
