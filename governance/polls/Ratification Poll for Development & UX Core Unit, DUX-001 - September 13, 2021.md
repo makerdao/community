@@ -71,7 +71,8 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 * *Total MKR Expenditure Cap*
 * *Estimated MKR Expenditure (based on the current team)*
 * *Escrow Wallet mechanism*
-* *The DUX Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) and Oracles Oracles Core Unit (ORA-001) proposal for MKR Vesting.*
+
+*The DUX Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) and Oracles Oracles Core Unit (ORA-001) proposal for MKR Vesting.*
 
 *MKR incentives have been determined based on the Program discussed here. This is a 3-year vesting plan with 1-year cliff vest.*
 
