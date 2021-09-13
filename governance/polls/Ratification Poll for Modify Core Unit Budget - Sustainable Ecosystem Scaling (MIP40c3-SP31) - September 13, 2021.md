@@ -29,13 +29,13 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *MIP40c3-SP31 modifies the Dai budget for Core Unit SES-001: Sustainable Ecosystem Scaling. It contains:*
 
-*Changes against the previous version
-Increase in the Total Budget Cap: the hard limit voted by Governance
-Breakdown of budget increase
-Permanent Team
-Incubation Program
-Grants Program
-The MKR Compensation Expectation*
+*Changes against the previous version:*
+* *Increase in the Total Budget Cap: the hard limit voted by Governance*
+* *Breakdown of budget increase*
+* *Permanent Team*
+* *Incubation Program*
+* *Grants Program*
+* *The MKR Compensation Expectation*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP40/MIP40c3-Subproposals/MIP40c3-SP31.md)
