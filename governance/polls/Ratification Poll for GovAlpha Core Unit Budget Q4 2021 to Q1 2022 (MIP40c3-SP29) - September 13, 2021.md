@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for GovAlpha Core Unit Budget Q4 2021 to Q1 2022 (MIP40c3-SP29) - September 13, 2021
-summary: MIP40c3-SP29 adds the budget for Core Unit GOV-001: GovAlpha for October 2021 through March 2022.
+summary: MIP40c3-SP29 adds the budget for GovAlpha Core Unit (GOV-001) for October 2021 through March 2022.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp29-govalpha-core-unit-budget-q4-2021-to-q1-2022-gov-001/9799
 vote_type: Plurality Voting
 categories:
