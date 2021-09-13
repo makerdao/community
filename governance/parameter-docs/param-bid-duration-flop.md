@@ -10,30 +10,29 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/system-stabiliz
 ```
 
 ## Description
-Debt Auctions are used to recapitalize the system by minting and auctioning off MKR for a fixed amount of DAI. In this process, keepers bid on how little MKR they are willing to accept for the fixed Dai amount they have to pay at auction settlement. During debt auctions, each bid has a lifetime determined by the `Bid Duration (Flop)` parameter or `ttl`. The auction will end `ttl` after the latest bid OR when the auction duration (`tau`) has been reached. 
+Debt Auctions are used to recapitalize the system by minting and auctioning off MKR for a fixed amount of DAI. In this process, keepers bid on how little MKR they are willing to accept for the fixed Dai amount they have to pay at auction settlement. During debt auctions, each bid has a lifetime determined by the `Bid Duration (Flop)` parameter or `ttl`. The auction will end `Bid Duration (Flop)` after the latest bid OR when the Auction Duration (`tau`) has been reached. 
 
 
 ## Purpose
-Changing the `Bid Duration (Flop)` parameter allows Maker Governance to minimze total MKR minted by ensuring that there is sufficient competition among the keepers as well as minimizing the effects of MKR price volatility during auctions. 
+Changing the `Bid Duration (Flop)` parameter allows Maker Governance to minimize the total MKR minted by ensuring sufficient competition among the keepers as well as minimizing the effects of MKR price volatility during auctions. 
 
 
 ## Trade-offs
-Keepers have to effectively make a prediction on what the MKR-DAI price will be after a period of `Bid Duration (Flop)`. 
+Keepers have to effectively predict what the MKR-DAI price will be after a period of `Bid Duration (Flop)`.
 
-A small `Bid Duration (Flop)` can reduce the risk of MKR-DAI price volatility for keepers. Reduced volatility should encourage keepers to submit lower MKR bids. However, if it is set too low, keepers may not have time to participate in these auctions. In an extreme case, a single participant could theoretically bid arbitrarily high amounts of MKR and still win the auction.
-
-A larger `Bid Duration (Flop)` gives keepers more time to participate in auctions, hopefully encouraging a higher number of bidders. However, there is also a danger that if the `Bid Duration (Flop)` is too large, then realistically priced bids would only appear when the auction end (determined by the auction duration parameter) is closer than the `Bid Duration (Flop)`. In situations where the price of MKR is dropping, this would lead to the Maker Protocol minting more MKR than when a smaller `Bid Duration (Flop)` is utilized.
-
+A `Bid Duration (Flop)` that is small means that keepers can make more accurate predictions. Since the volatility in the price of MKR has a smaller effect, it encourages keepers to submit lower bids and this results in less MKR being minted. However, if the `Bid Duration (Flop)` is too small, there may not be enough time for keepers to organize funds and participate in such auctions. This could result in uncompetitive auctions with extreme cases where only one participant results in arbitrarily high MKR bids.
+	
+A larger `Bid Duration (Flop)` gives keepers more time to participate in auctions, hopefully encouraging a higher number of bidders. If the `Bid Duration (Flop)` is too large, there may be bids for very high amounts of MKR to safeguard against price volatility during the `Bid Duration (Flop)` period. Realistically priced bids would only appear when the auction end (determined by Auction Duration) is closer than the `Bid Duration (Flop)` period. In situations where the price of MKR is dropping, this would lead to more MKR being minted than with a smaller `Bid Duration (Flop)`.
 
 
 ## Changes
 Adjusting the `Bid Duration (Flop)` parameter is a manual process that requires an executive vote. Changes to the `Bid Duration (Flop)` are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
-Maker Governance may wish to increase the `Bid Duration (Flop)` if too few keepers are participating in Flop auctions to encourage greater participation.
+Maker Governance may wish to increase the `Bid Duration (Flop)` if too few keepers are participating in `flop` auctions to encourage greater participation.
 
 **Why decrease this parameter?**
-Maker Governance may wish to increase the `Bid Duration (Flop)` if keepers are submitting low bids due to volatility in the price of MKR during the `Bid Duration (Flop)` period.
+Maker Governance may wish to decrease the `Bid Duration (Flop)` if keepers are submitting high bids due to volatility in the price of MKR during the `Bid Duration (Flop)` period.
 
 
 
