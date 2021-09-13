@@ -27,12 +27,13 @@ The community may vote in this poll to express support or opposition to Risk Cor
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This proposal contains:
+*This proposal contains:*
 
-Retroactive MKR Compensation
-Team MKR Compensation Plan
-Payment Implementation
-Our proposal is based on "Alternative MKR Compensation Guidelines" by @Aes but it also uses elements from “An (Alternative) MKR Compensation Plan” made by SES Core Unit. This proposal differs from other proposals, since it assumes one time retroactive MKR compensation payment for 2 Core Unit members, explained further.*
+* *Retroactive MKR Compensation*
+* *Team MKR Compensation Plan*
+* *Payment Implementation*
+
+*Our proposal is based on "Alternative MKR Compensation Guidelines" by @Aes but it also uses elements from “An (Alternative) MKR Compensation Plan” made by SES Core Unit. This proposal differs from other proposals, since it assumes one time retroactive MKR compensation payment for 2 Core Unit members, explained further.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP40/MIP40c3-Subproposals/MIP40c3-SP25.md)
