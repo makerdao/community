@@ -29,18 +29,18 @@ The community may vote in this poll to express support or opposition to Developm
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Our vision is to provide the best governance user experience following key governing principles such as accessibility, neutrality, and transparency. We want to do so by:
+*Our vision is to provide the best governance user experience following key governing principles such as accessibility, neutrality, and transparency. We want to do so by:*
 
-Facilitating an optimal decision-making process, allowing routine decisions to be executed in a fast and frictionless manner, while complex or controversial decisions are thoughtfully deliberated.
-Providing easy access to information for governance users by helping them find what they need, when they need it by creating informative data analytics, uncovering insights, and highlighting the impact of voter’s decisions.
-Surfacing the available options by facilitating discussion and collaboration.
-Creating a frictionless user experience with simple, fast, available, and intuitive user interfaces.
-Ensuring security not just for the user and their assets, but most importantly, security for the protocol, avoiding governance manipulation and attacks.
-Ensuring availability of the governance UIs and the required blockchain data.
-Real-time monitoring of the health and safety of the system.
-Encouraging safe behavior through the user experience.
-Encouraging participation to secure the majority of MKR tokens.
-Bringing governance within the industry forward by nurturing a community of Maker enthusiasts and inspiring the broader DeFi space.*
+*Facilitating an optimal decision-making process, allowing routine decisions to be executed in a fast and frictionless manner, while complex or controversial decisions are thoughtfully deliberated.*
+*Providing easy access to information for governance users by helping them find what they need, when they need it by creating informative data analytics, uncovering insights, and highlighting the impact of voter’s decisions.*
+*Surfacing the available options by facilitating discussion and collaboration.*
+*Creating a frictionless user experience with simple, fast, available, and intuitive user interfaces.*
+*Ensuring security not just for the user and their assets, but most importantly, security for the protocol, avoiding governance manipulation and attacks.*
+*Ensuring availability of the governance UIs and the required blockchain data.*
+*Real-time monitoring of the health and safety of the system.*
+*Encouraging safe behavior through the user experience.*
+*Encouraging participation to secure the majority of MKR tokens.*
+*Bringing governance within the industry forward by nurturing a community of Maker enthusiasts and inspiring the broader DeFi space.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP39/MIP39c2-Subproposals/MIP39c2-SP18.md)
@@ -51,11 +51,11 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP#1 adds the budget for Core Unit DUX-001: Development and UX. It contains:
+*MIP40c3-SP#1 adds the budget for Core Unit DUX-001: Development and UX. It contains:*
 
-Total Budget Cap: The hard limit voted on by Governance
-First-month forecast: The actual first month estimated expenses
-Breakdown of Permanent Team for the expected first payment (October)*
+*Total Budget Cap: The hard limit voted on by Governance*
+*First-month forecast: The actual first month estimated expenses*
+*Breakdown of Permanent Team for the expected first payment (October)*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md)
@@ -66,16 +66,16 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP27 adds the MKR Incentive Plan budget for Core Unit DUX-001: Development and UX. It contains:
+*MIP40c3-SP27 adds the MKR Incentive Plan budget for Core Unit DUX-001: Development and UX. It contains:*
 
-Total MKR Expenditure Cap
-Estimated MKR Expenditure (based on the current team)
-Escrow Wallet mechanism
-The DUX Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) and Oracles Oracles Core Unit (ORA-001) proposal for MKR Vesting.
+*Total MKR Expenditure Cap*
+*Estimated MKR Expenditure (based on the current team)*
+*Escrow Wallet mechanism*
+*The DUX Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) and Oracles Oracles Core Unit (ORA-001) proposal for MKR Vesting.*
 
-MKR incentives have been determined based on the Program discussed here. This is a 3-year vesting plan with 1-year cliff vest.
+*MKR incentives have been determined based on the Program discussed here. This is a 3-year vesting plan with 1-year cliff vest.*
 
-The DUX core unit has been working under the incubation program of the SES since June of 2021. The members of this core unit will take that as the start date for the vesting schedule.*
+*The DUX core unit has been working under the incubation program of the SES since June of 2021. The members of this core unit will take that as the start date for the vesting schedule.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/597512747641658bc38c72bc17d1c84e43153c2b/MIP40/MIP40c3-Subproposals/MIP40c3-SP27.md)
