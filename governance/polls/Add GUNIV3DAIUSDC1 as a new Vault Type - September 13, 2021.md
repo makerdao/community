@@ -33,8 +33,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 105%
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 10 million DAI
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 10,000 DAI
-* [DC-IAM (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
-* [DC-IAM (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
+* [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
+* [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 
 
 ### Liquidation 2.0 Parameters
