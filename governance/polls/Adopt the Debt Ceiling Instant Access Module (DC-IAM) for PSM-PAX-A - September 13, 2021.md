@@ -24,11 +24,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Activate the [Debt Ceiling Instant Access Module (DC-IAM)](https://makerdao.world/en/learn/governance/module-dciam) for PSM-PAX-A with following parameters:
+* Activate the [Debt Ceiling Instant Access Module (DC-IAM)](https://makerdao.world/en/learn/governance/module-dciam) for PSM-PAX-A with the following parameters:
   * Set Maximum Debt Ceiling (`line`) to 500 million DAI
-  * Set Target Availible Debt (`gap`) to 50 million DAI
+  * Set Target Available Debt (`gap`) to 50 million DAI
   * Set Ceiling Increase Cooldown (`ttl`) to 24 hours
-* Reduce the PSM-USDC-A Target Availible Debt (`gap`) from 1 billion DAI to 950 million DAI
+* Reduce the PSM-USDC-A Target Available Debt (`gap`) from 1 billion DAI to 950 million DAI
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-activate-dc-iam-for-psm-pax-a-and-adjust-dc-iam-gap-parameter-for-psm-usdc-a/10199) to help inform your position before voting.
 
