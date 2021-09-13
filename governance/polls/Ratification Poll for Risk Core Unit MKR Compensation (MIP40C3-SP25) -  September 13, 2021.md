@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Risk Core Unit MKR Compensation (MIP40C3-SP25) -  September 13, 2021
-summary: MIP40c3-SP25 adds the MKR Incentive Plan budget for Core Unit RISK-001: RISK.
+summary: MIP40c3-SP25 adds the MKR Incentive Plan budget for Risk Core Unit (RISK-001).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp25-risk-core-unit-mkr-compensation-risk-001/9788
 vote_type: Plurality Voting
 categories:
