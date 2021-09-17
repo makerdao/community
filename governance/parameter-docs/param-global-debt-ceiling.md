@@ -10,37 +10,27 @@ Technical Docs: https://docs.makerdao.com/smart-contract-modules/core-module/vat
 
 ## Description
 
-The `Global Debt Ceiling`, or `line`, parameter allows Maker Governance to set a maximum amount of DAI that can be minted by users of the Maker Protocol, regardless of individual collateral debt ceilings. If the total DAI outstanding exceeds the `Global Debt Ceiling`, users will be unable to mint DAI.
+The `Global Debt Ceiling`, or `line`, parameter allows Maker Governance to set a maximum amount of DAI that can be minted by users of the Maker Protocol. If a user tries to mint DAI and the amount of new DAI minted would put the total amount of DAI minted above the `Global Debt Ceiling`, the transaction will fail and no DAI will be minted.
 
-Currently, the `Global Debt Ceiling` updates automatically when changes are made to the debt ceilings of individual collateral types. However, it is possible for Maker Governance to alter the `Global Debt Ceiling` independently.
+Additionally, vaults types have a Debt Ceiling parameter that is not covered in this entry. For a user to mint DAI from their vault, there must be space available in both the vault type's Debt Ceiling and the `Global Debt Ceiling`.
 
 ## Purpose
 
-The main purpose of the `Global Debt Ceiling` is to act as an upper bound on the amount of DAI in circulation. By doing this, the risk level of the system can be controlled by Maker Governance.
+The purpose of the `Global Debt Ceiling` is to act as an upper bound on the amount of DAI in circulation. In the event that a failure elsewhere in the Maker Protocol results in unbacked DAI being minted, the `Global Debt Ceiling` will cap the total loss. 
 
 ## Trade-offs
 
-If the `Global Debt Ceiling` is set too low, it will prevent DAI from being minted to meet market demand and may cause upwards pressure on the Peg.
+If the `Global Debt Ceiling` is set too low, it will prevent DAI from being minted. This is both a bad experience for vault users, and may also cause the DAI peg to break upward if DAI demand increases, but DAI supply cannot increase.
 
-If the `Global Debt Ceiling` is set too high and the amount of DAI in circulation is allowed to grow unchecked, then the ability of keepers to safeguard the system may be impaired, placing the system at risk.
-
-Other documents cover the rationale for individual collateral types having individual debt ceilings.
+If the `Global Debt Ceiling` is set too high then the Maker Protocol will have increased losses in the event of a bug or exploit that mints unbacked DAI.
 
 ## Changes
 
 Adjusting the `Global Debt Ceiling` parameter can be done through a manual process that requires an executive vote. Changes to the `Global Debt Ceiling` are subject to the GSM Pause Delay.
 
-The Debt Ceiling Instant Access Module allows the Debt Ceiling of a given Vault type to be adjusted instantly according to certain hard-coded rules and parameters. When this occurs, the `Global Debt Ceiling` will change by the same amount. For details, see the appropriate documentation.
+Generally speaking, the `Global Debt Ceiling` does not need to be manually managed by Maker Governance. The Protocol Engineering Core Unit includes changes to the parameter in executive proposals such that it equals the approximate sum of the debt ceilings of the individual vaults.
 
-**Why increase the Global Debt Ceiling?**
-
-The primary reason for increasing the `Global Debt Ceiling` is to allow Vault owners or PSM users to mint more DAI.
-
-Maker Governance should consider increasing the `Global Debt Ceiling` whenever Governance increases the debt ceiling of a collateral type. If the `Global Debt Ceiling` is not raised, Vault owners will not utilise the newly increased debt ceilings. This process should occur automatically.
-
-**Why decrease the Global Debt Ceiling?**
-
-If the amount of overall DAI supply increases to a point where keepers cannot safeguard the Maker Protocol, then it may be necessary to decrease the `Global Debt Ceiling` to reduce the system's risk profile.
+The `Global Debt Ceiling` is also automatically adjusted to account for debt ceiling changes that occur via the Debt Ceiling Instant Access Module. The Debt Ceiling Instant Access Module allows the Debt Ceiling of a given Vault type to be adjusted instantly according to certain hard-coded rules and parameters. When this occurs, the `Global Debt Ceiling` will change by the same amount.
 
 ## Considerations
 

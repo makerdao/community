@@ -31,9 +31,11 @@ A larger `Bid Duration (Flap)` gives keepers more time to participate in auction
 Adjusting the `Bid Duration (Flap)` parameter is a manual process that requires an executive vote. Changes to the `Bid Duration (Flap)` are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
+
 Maker Governance may wish to increase the `Bid Duration (Flap)` if too few keepers are participating in `flap` auctions to encourage greater participation.
 
 **Why decrease this parameter?**
+
 Maker Governance may wish to decrease the `Bid Duration (Flap)` if keepers are submitting low bids due to volatility in the price of MKR during the `Bid Duration (Flap)` period.
 
 

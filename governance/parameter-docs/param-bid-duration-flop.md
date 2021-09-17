@@ -29,9 +29,11 @@ A larger `Bid Duration (Flop)` gives keepers more time to participate in auction
 Adjusting the `Bid Duration (Flop)` parameter is a manual process that requires an executive vote. Changes to the `Bid Duration (Flop)` are subject to the GSM Pause Delay.
 
 **Why increase this parameter?**
+
 Maker Governance may wish to increase the `Bid Duration (Flop)` if too few keepers are participating in `flop` auctions to encourage greater participation.
 
 **Why decrease this parameter?**
+
 Maker Governance may wish to decrease the `Bid Duration (Flop)` if keepers are submitting high bids due to volatility in the price of MKR during the `Bid Duration (Flop)` period.
 
 
