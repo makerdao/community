@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Collateral Onboarding and Offboarding, PSM DC-IAM changes - September 17, 2021
 summary: Onboarding Gelato UniswapV3 DAI/USDC Pool, Offboarding legacy KNC token, and making Debt Ceiling Instant-access Module parameter changes for Peg Stability Modules.
 date: 2021-09-17T00:00:00.000Z
-address: "$spell_address"
+address: "0x958ddD605BE8d0955F6AEec8569ad623e1130F02"
 
 ---
 # [Executive Proposal] Collateral Onboarding and Offboarding, PSM DC-IAM changes - September 17, 2021
