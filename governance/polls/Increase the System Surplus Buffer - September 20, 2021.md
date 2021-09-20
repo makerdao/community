@@ -1,6 +1,6 @@
 ---
 title: Increase the System Surplus Buffer - September 20, 2021
-summary: Signal your support or opposition for adjusting the Surplus Buffer from 60 Million DAI to 100 Million DAI
+summary: Signal your support or opposition for adjusting the Surplus Buffer from 60 million DAI to 100 million DAI.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-september-2021/10120
 vote_type: Plurality Voting
 categories:
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 # Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following change to the [System Surplus Buffer](https://community-development.makerdao.com/en/learn/governance/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
-* Increase the System Surplus Buffer from 60 Million DAI to 100 Million DAI. 
+* Increase the System Surplus Buffer from 60 million DAI to 100 million DAI. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-the-surplus-buffer-september-2021/10120) to inform your position on this issue before voting.
 
