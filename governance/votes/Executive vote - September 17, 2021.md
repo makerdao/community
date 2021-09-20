@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The GUNIV2DAIUSDC1-A vault type will be onboarded to the Maker Protocol with the parameters detailed below.
+- The GUNIV3DAIUSDC1-A vault type will be onboarded to the Maker Protocol with the parameters detailed below.
 - The process for offboarding the KNC-A vault type will begin as detailed below.
 - Debt Ceiling Instant Access Module parameter changes will be made for PSM-PAX-A and PSM-USDC-A as detailed below.
 
@@ -32,9 +32,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### GUNIV2DAIUSDC1-A Onboarding
+### GUNIV3DAIUSDC1-A Onboarding
 
-Due to the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZ5TESw?network=mainnet#poll-detail) the GUNIV2DAIUSDC1-A vault will be created with the parameters below if this executive proposal passes.
+Due to the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZ5TESw?network=mainnet#poll-detail) the GUNIV3DAIUSDC1-A vault will be created with the parameters below if this executive proposal passes.
 
 **Collateral Parameters**
 
