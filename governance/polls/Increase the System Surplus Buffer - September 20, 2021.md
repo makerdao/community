@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2021-09-20T16:00:00
-end_date: 2021-09-20T16:00:00
+end_date: 2021-09-23T16:00:00
 ---
 # Poll: Increase the System Surplus Buffer - September 20, 2021
 
