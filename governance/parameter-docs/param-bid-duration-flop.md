@@ -50,3 +50,7 @@ Maker Governance may wish to decrease the `Bid Duration (Flop)` if keepers are s
 ## Considerations
 `Bid Duration (Flop)` is always upper bounded by the total auction duration. If it is set higher than the total auction duration then it will have no effect. 
 
+The `Bid Duration (Flap)` parameter fulfills  the same role as this parameter in Surplus Auctions.
+
+A similar auction system was initially used for collateral auctions as well, it was replaced by a dutch auction system. 
+
