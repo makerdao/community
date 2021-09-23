@@ -9,6 +9,8 @@ options:
    0: Abstain
    1: Yes
    2: No
+start_date: 2021-09-27T16:00:00
+end_date: 2021-09-30T16:00:00
 ---
 
 # Poll: Offboard USDT Collateral Types - September 27, 2021
