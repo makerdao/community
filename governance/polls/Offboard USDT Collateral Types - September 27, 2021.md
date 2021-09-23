@@ -4,8 +4,7 @@ summary: Signal your support or opposition to Offboard USDT Collateral Types.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-usdt-collateral-types/10223
 vote_type: Plurality Voting
 categories:
-   - Lower USDT-A Liquidation Penalty to 0%.
-   - Increase USDT-A Liquidation Ratio to 300%.
+   - Collateral
 options:
    0: Abstain
    1: Yes
