@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Adjusting Auction Parameters and Testing Layer 2 Componets - September 24, 2021
+title: Template - [Executive Vote] Adjusting Auction Parameters and Testing Layer 2 Components - September 24, 2021
 summary: Adjusting Auction Parameters for ETH-A, ETH-B, ETH-C, WBTC-A and testing configuration of L2 components, including the governance relay and L2 DAI.
 date: 2021-09-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Adjusting Auction Parameters and Testing Layer 2 Componets - September 24, 2021
+# [Executive Proposal] Adjusting Auction Parameters and Testing Layer 2 Components - September 24, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -22,7 +22,7 @@ If this executive proposal passes, the following **changes** will occur within t
   - **Increase** the ETH-B [Local Liquidation Limit (ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) from 15 million DAI to **25 million DAI**
   - **Increase** the ETH-C [Local Liquidation Limit (ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) from 20 million DAI to **30 million DAI**
   - **Increase** the WBTC-A [Local Liquidation Limit (ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) from 15 million DAI to **25 million DAI**
-- Multiple **test actions** will take place for Layer 2 DAI solutions on Optism and Arbitrum, with the intention of denying the Protocol Engineering Core Unit's Deployer Keys if successful. 
+- Multiple **test actions** will take place for Layer 2 DAI solutions on Optimism and Arbitrum, with the intention of denying the Protocol Engineering Core Unit's Deployer Keys if successful. 
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Adjusting Auction Parameters for ETH-A, ETH-B, ETH-C, and WBTC-A
 
-As per the result of [this poll](https://vote.makerdao.com/polling/QmfGk3Dm?network=mainnet#poll-detail), the following changes to Auction Parameters for ETH-A, ETH-B, ETH-C and WBTC-A will occur if this executive proposal passes.
+As per the result of [this poll](https://vote.makerdao.com/polling/QmfGk3Dm?network=mainnet#poll-detail), the following changes to Auction Parameters for ETH-A, ETH-B, ETH-C, and WBTC-A will occur if this executive proposal passes.
 
 - **Decrease** the [Auction Price Multiplier (buf)](https://makerdao.world/en/learn/governance/param-auction-price-multiplier) for ETH-A, ETH-C, and WBTC-A vaults from 1.3 to **1.2**
 - **Increase** the [Local Liquidation Limit (ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) as detailed below:
@@ -52,9 +52,9 @@ For more information on the rationale behind these proposed changes, please view
 
 ### Layer 2 Test Actions
 
-If this executive proposal passes, it will test configuration of L2 components, including the governance relay and L2 DAI. Once it is confirmed that Governance has control over all L2 systems, the Protocol Engineering Core Unit will **manually** `deny` its deployer addresses, meaning Governance will be the only authority retaining full control of the token bridges.
+If this executive proposal passes, it will test the configuration of L2 components, including the governance relay and L2 DAI. Once it is confirmed that Governance has control over all L2 systems, the Protocol Engineering Core Unit will **manually** `deny` its deployer addresses, meaning Governance will be the only authority retaining full control of the token bridges.
 
-For more information, please see this post on [A Proposed L2 Risk Framework](https://forum.makerdao.com/t/a-proposed-l2-risk-framework/9518), or these posts on the [Arbitrum Bridge](https://forum.makerdao.com/t/official-dai-token-bridge-now-live-on-arbitrum-one/10438) and [Optimism Bridge](https://forum.makerdao.com/t/official-dai-bridge-on-optimism/9329).
+For more information, please see this post on [A Proposed L2 Risk Framework](https://forum.makerdao.com/t/a-proposed-l2-risk-framework/9518) or these posts on the [Arbitrum Bridge](https://forum.makerdao.com/t/official-dai-token-bridge-now-live-on-arbitrum-one/10438) and [Optimism Bridge](https://forum.makerdao.com/t/official-dai-bridge-on-optimism/9329).
 
 ## Review
 
