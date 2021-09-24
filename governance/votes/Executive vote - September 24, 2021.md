@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Adjusting Auction Parameters and Testing Layer 2 Components - September 24, 2021
 summary: Adjusting Auction Parameters for ETH-A, ETH-B, ETH-C, WBTC-A and testing configuration of L2 components, including the governance relay and L2 DAI.
 date: 2021-09-24T00:00:00.000Z
-address: "$spell_address"
+address: "0x0ed5a04DdE29f90bB00529608D3f17C1ffF778A0"
 
 ---
 # [Executive Proposal] Adjusting Auction Parameters and Testing Layer 2 Components - September 24, 2021
