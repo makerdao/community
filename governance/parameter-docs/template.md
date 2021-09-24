@@ -11,7 +11,7 @@ Technical Docs:
 ## Description
 * What is this parameter?
 * How does it fit in with the protocol and surrounding contracts?
-* Is there a simple example that could demonstrate how the parameter works?
+* Is there a simple example that demonstrates how the parameter works?
 
 ## Purpose
 * Why does this parameter exist?
