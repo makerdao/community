@@ -52,7 +52,9 @@ For more information on the rationale behind these proposed changes, please view
 
 ### Layer 2 Test Actions
 
-If this executive proposal passes, it will test the configuration of L2 components, including the governance relay and L2 DAI. Once it is confirmed that Governance has control over all L2 systems, the Protocol Engineering Core Unit will **manually** `deny` its deployer addresses, meaning Governance will be the only authority retaining full control of the token bridges.
+As per [this post](https://forum.makerdao.com/t/friday-24th-september-2021-executive-spell-l2-technical-detail/10500) multiple Layer 2 test actions will take place if this executive proposal passes. 
+
+This element will test the configuration of L2 components, including the governance relay and L2 DAI. Once it is confirmed that Governance has control over all L2 systems, the Protocol Engineering Core Unit will **manually** `deny` its deployer addresses, meaning Governance will be the only authority retaining full control of the token bridges.
 
 For more information, please see this post on [A Proposed L2 Risk Framework](https://forum.makerdao.com/t/a-proposed-l2-risk-framework/9518) or these posts on the [Arbitrum Bridge](https://forum.makerdao.com/t/official-dai-token-bridge-now-live-on-arbitrum-one/10438) and [Optimism Bridge](https://forum.makerdao.com/t/official-dai-bridge-on-optimism/9329).
 
