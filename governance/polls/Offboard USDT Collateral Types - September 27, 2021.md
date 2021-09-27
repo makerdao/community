@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes: 
 * Lower the USDT-A [Liquidation Penalty (`chop`)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
-* Increase the USDT-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 300% to trigger liquidation of all remaining vaults.
+* Increase the USDT-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 150% to 300% to trigger liquidation of all remaining vaults.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboard-usdt-collateral-types/10223) to help inform your position before voting.
 
