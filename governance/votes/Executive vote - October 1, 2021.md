@@ -58,7 +58,7 @@ Given the ratified budget subproposals linked below, DAI streams will be set up 
 * The [Starknet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Unit will receive 135,375 DAI streamed over 3 months starting 2021-10-01 as per their latest [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP28).
 * The [Strategic Happiness (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) Core Unit will receive 58,000 DAI streamed over 3 months starting 2021-10-01 as per their latest [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP16).
 
-### RISK-001 MKR Budget
+### RISK-001 Retroactive MKR Distribution
 
 As per the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2)'s ratified [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP25), 300 MKR will be transferred to RISK-001 if this executive proposal passes. This MKR will be sourced from the MakerDAO treasury.
 
