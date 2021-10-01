@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Offboarding Collateral, Core Unit Budget Distributions - October 1, 2021 
-summary: Offboards USDT collateral types and distributes core unit DAI budgets to GOV-001, SNE-001, SH-001, SES-001 and DUX-001. Distributes retroactive MKR for RISK-001 and sets up future MKR vesting for RISK-001.
+title: Template - [Executive Vote] Offboarding USDT Collateral, Core Unit Budget Distributions - October 1, 2021 
+summary: Offboards USDT collateral types and distributes core unit DAI budgets to GOV-001, SNE-001, SH-001, SES-001 and DUX-001. Distributes retroactive MKR for RISK-001.
 date: 2021-10-01T00:00:00.000Z
 address: "$spell_address"
 
@@ -20,8 +20,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - A total of 972,706 DAI will be transfered upon proposal execution to the [SES-001](https://mips.makerdao.com/mips/details/MIP39c2SP10), [DUX-001](https://mips.makerdao.com/mips/details/MIP39c2SP18), [SNE-001](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [SH-001](https://mips.makerdao.com/mips/details/MIP39c2SP11) core units as part of their initial DAI budgets.
 - A total of 193,375 DAI will be streamed to [SNE-001](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [SH-001](https://mips.makerdao.com/mips/details/MIP39c2SP11) over the next 3 months as part of their ongoing budget.
 - 538,400 DAI will be streamed to [GOV-001](https://mips.makerdao.com/mips/details/MIP39c2SP3) over the next 6 months as part of their ongoing budget.
-- 300 MKR will be transfered upon proposal execution to [RISK-001](https://mips.makerdao.com/mips/details/MIP39c2SP2) as part of their retroactive MKR budget subproposal. This MKR will be sourced from the MakerDAO treasury.
-- 700 MKR will be vested to [RISK-001](https://mips.makerdao.com/mips/details/MIP39c2SP2) and will unlock in 6 months as part of their ongoing MKR budget subproposal. This MKR will be sourced from the MakerDAO treasury.
+- 300 MKR will be transferred upon proposal execution to [RISK-001](https://mips.makerdao.com/mips/details/MIP39c2SP2) as the retroactive part of their MKR budget subproposal. This MKR will be sourced from the MakerDAO treasury.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -54,16 +53,14 @@ Given the ratified budget subproposals linked below, immediate DAI distributions
 
 ### Core Unit Budget DAI Streaming
 
-Given the ratified budget subproposals linked below, DAI streams will be setup for the following core units if this executive proposal passes.
+Given the ratified budget subproposals linked below, DAI streams will be set up for the following core units if this executive proposal passes.
 * The [GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) Core Unit will receive 538,400 DAI streamed over 6 months starting 2021-10-01 as per their latest [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP29).
 * The [Starknet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Unit will receive 135,375 DAI streamed over 3 months starting 2021-10-01 as per their latest [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP28).
 * The [Strategic Happiness (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) Core Unit will receive 58,000 DAI streamed over 3 months starting 2021-10-01 as per their latest [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP16).
 
 ### RISK-001 MKR Budget
 
-As per the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2)'s ratified [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP25), the following MKR transfers will take place if this executive proposal passes. All MKR will be sourced from the MakerDAO treasury.
-- 300 MKR will be transfered upon proposal execution to RISK-001 as part of their retroactive MKR budget subproposal.
-- 700 MKR will be vested to RISK-001 and will unlock in 6 months as part of their ongoing MKR budget subproposal.
+As per the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2)'s ratified [budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP25), 300 MKR will be transferred to RISK-001 if this executive proposal passes. This MKR will be sourced from the MakerDAO treasury.
 
 ## Review
 
