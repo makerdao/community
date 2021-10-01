@@ -66,7 +66,7 @@ Dust: 10,000 DAI
 ### Operating Conditions
 
 #### Migration
-* MakerDAO will facilitate Nexo in migrating their existing MakerDAO vaults to these two new vault types.
+* MakerDAO will facilitate Nexo in migrating their existing positions in the ETH-A and WBTC-A vault types to these two new vault types.
 * Nexo will be unable to utilize either of these vault types until they have migrated a total of 400M DAI worth of debt across both vaults.
 * A 1% origination fee will be charged on the migrated amount above 400M DAI.
 * Once migration has been completed, the following parameters will be set for each vault. These parameters may be freely changed in the future by MakerDAO.
@@ -86,8 +86,6 @@ Dust: 10,000 DAI
 * The Stability Fee will only increase by a maximum of 1% for months 7-12 from migration so long as none of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
-* The difference in Stability Fee between INST-ETH-NEXO and ETH-A is more than X.
-* The difference in Stability Fee between INST-WBTC-NEXO and WBTC-A is more than X.
 * The total debt from PSM vault types is less than half of the combined debt of INST-ETH-NEXO and INST-WBTC-NEXO.
 
 #### Links and Comments
