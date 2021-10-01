@@ -1,6 +1,6 @@
 ---
-title: Offboard LRC-A - September 04, 2021
-summary: Signal your support or opposition to Offboard LRC-A.
+title: Offboard ZRX-A - October 4, 2021
+summary: Signal your support or opposition to Offboard ZRX-A.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-mana-bat-zrx-lrc-univ2-linketh-and-univ2-aaveeth/10467
 vote_type: Plurality Voting
 categories:
@@ -12,9 +12,9 @@ options:
 start_date: 2021-10-04T16:00:00
 end_date: 2021-10-07T16:00:00
 ---
-# Poll: Offboard LRC-A - September 04, 2021
+# Poll: Offboard ZRX-A - October 4, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 04 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 4 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,8 +24,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Lower the LRC-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
-* Set [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) for LRC-A to 0.
+* Lower the ZRX-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
+* Set [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) for ZRX-A to 0.
 * Set duration of dss-lerp for liquidation ratio to 60 days
 * Set end parameter of dss-lerp for liquidation ratio for each vault type as the following; highest collateral ratio vault within each vault type which has a higher debt than 15,000 dai multiplied with 1.5, rounded on hundred.
 

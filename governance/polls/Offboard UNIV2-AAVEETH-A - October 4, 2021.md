@@ -1,5 +1,5 @@
 ---
-title: Offboard UNIV2-AAVEETH-A - September 04, 2021
+title: Offboard UNIV2-AAVEETH-A - October 4, 2021
 summary: Signal your support or opposition to Offboard UNIV2-AAVEETH-A.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-mana-bat-zrx-lrc-univ2-linketh-and-univ2-aaveeth/10467
 vote_type: Plurality Voting
@@ -12,9 +12,9 @@ options:
 start_date: 2021-10-04T16:00:00
 end_date: 2021-10-07T16:00:00
 ---
-# Poll: Offboard UNIV2-AAVEETH-A - September 04, 2021
+# Poll: Offboard UNIV2-AAVEETH-A - October 4, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 04 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 4 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
