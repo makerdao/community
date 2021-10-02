@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Offboarding USDT Collateral, Core Unit Budget Distributions - October 1, 2021 
 summary: Offboards USDT collateral types and distributes core unit DAI budgets to GOV-001, SNE-001, SH-001, SES-001 and DUX-001. Distributes retroactive MKR for RISK-001.
 date: 2021-10-01T00:00:00.000Z
-address: "$spell_address"
+address: "0xc300083F97dD978596085B7EaBd58099186623B8"
 
 ---
 # [Executive Proposal] Offboarding Collateral, Core Unit Budget Distributions - October 1, 2021 
