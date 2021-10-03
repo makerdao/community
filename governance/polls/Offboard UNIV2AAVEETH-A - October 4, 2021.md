@@ -1,10 +1,11 @@
 ---
-title: Offboard UNIV2-LINKETH-A - October 4, 2021
-summary: Signal your support or opposition to Offboard UNIV2-LINKETH-A.
+title: Offboard the UNIV2AAVEETH-A Vault Type - October 4, 2021
+summary: Signal your support or opposition to offboard the UNIV2AAVEETH-A vault type.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-mana-bat-zrx-lrc-univ2-linketh-and-univ2-aaveeth/10467
 vote_type: Plurality Voting
 categories:
    - Collateral
+   - Offboard
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 start_date: 2021-10-04T16:00:00
 end_date: 2021-10-07T16:00:00
 ---
-# Poll: Offboard UNIV2-LINKETH-A - October 4, 2021
+# Poll: Offboard the UNIV2AAVEETH-A Vault Type - October 4, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 4 at 16:00 UTC.
 
@@ -24,18 +25,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Lower the UNIV2-LINKETH-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
-* Set [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) for UNIV2-LINKETH-A to 0.
-* Set duration of dss-lerp for liquidation ratio to 60 days
-* Set end parameter of dss-lerp for liquidation ratio for each vault type as the following; highest collateral ratio vault within each vault type which has a higher debt than 15,000 dai multiplied with 1.5, rounded on hundred.
+* Lower the UNIV2AAVEETH-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
+* Lower the UNIV2AAVEETH-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
+* Increase the UNIV2AAVEETH-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) over 60 days using dss-lerp such that all vaults are liquidated by the end of that period.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboard-mana-bat-zrx-lrc-univ2-linketh-and-univ2-aaveeth/10467) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

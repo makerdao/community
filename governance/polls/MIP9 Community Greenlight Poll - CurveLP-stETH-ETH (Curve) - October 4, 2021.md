@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - CurveLP-stETH-ETH (Curve) - October 4, 2021
-summary: Signal your support or opposition to prioritising onboarding CurveLP-stETH-ETH (Curve). 
+title: Community Greenlight Poll - CurveLP-stETH-ETH (Curve stETH-ETH LP Token) - October 4, 2021
+summary: Signal your support or opposition to prioritising onboarding CurveLP-stETH-ETH (Curve stETH-ETH LP Token). 
 discussion_link: https://forum.makerdao.com/t/curvelp-steth-eth-mip6-collateral-onboarding-application/10229
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2021-10-04T16:00:00
 end_date: 2021-10-18T16:00:00
 ---
-# Poll: Community Greenlight Poll - CurveLP-stETH-ETH (Curve) - October 4, 2021
+# Poll: Community Greenlight Poll - CurveLP-stETH-ETH (Curve stETH-ETH LP Token) - October 4, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, October 4 at 16:00 UTC.
 
@@ -24,16 +24,16 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset CurveLP-stETH-ETH (Curve) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset CurveLP-stETH-ETH (Curve stETH-ETH LP Token) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#MIP38c2). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/curvelp-steth-eth-mip6-collateral-onboarding-application/10229) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for CurveLP-stETH-ETH (Curve) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for CurveLP-stETH-ETH (Curve) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
-* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+* The 'greenlight score' will be calculated for CurveLP-stETH-ETH (Curve stETH-ETH LP Token) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for CurveLP-stETH-ETH (Curve stETH-ETH LP Token) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#MIP38c2) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
 
