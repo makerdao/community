@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/signal-request-offboard-mana-bat-z
 vote_type: Plurality Voting
 categories:
    - Collateral
-   - Offboard
 options:
    0: Abstain
    1: Yes
