@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 This proposal covers onboarding two new vault types. For each vault type there is a set of initial parameters. Additionally, there are a set of conditions which both Nexo and MakerDAO agree to operate in relation to these vaults if this vote passes successfully. 
 
-### INST-ETH-NEX - Starting Parameters
+### INST-ETH-A - Starting Parameters
 Starting Stability Fee: 1.5%
 Origination Fee: 0%
 Liquidation Ratio: 120%
@@ -45,7 +45,7 @@ Tolerance: 0.5
 Ilk.hole: 50m DAI
 Dust: 10,000 DAI
 
-### INST-WBTC-NEX - Starting Parameters
+### INST-WBTC-A - Starting Parameters
 Starting Stability Fee: 1.5%
 Origination Fee: 0%
 Liquidation Ratio: 120%
@@ -86,7 +86,7 @@ Dust: 10,000 DAI
 * The Stability Fee will only increase by a maximum of 1% for months 7-12 from migration so long as none of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
-* The total debt from PSM vault types is less than half of the combined debt of INST-ETH-NEXO and INST-WBTC-NEXO.
+* The total debt from PSM vault types is less than half of the combined debt of INST-ETH-A and INST-WBTC-A.
 
 #### Links and Comments
 This poll text has been reviewed by... (wanting GovAlpha, Growth, Nexo and PE.)
