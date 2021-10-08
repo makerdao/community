@@ -81,8 +81,8 @@ Dust: 10,000 DAI
 * Reductions in Stability Fee are not automatic, and must be voted through by Maker Governance. The Growth Core Unit is responsible for initiating reduction proposals on behalf of Nexo.
 
 #### Subsequent Six Months
-* The Growth Core Unit will facilitate discussions to determine parameters for the subsequent six months prior to the expiry date.
-* If the expiry date passes, the previous risk parameters and operating conditions will persist until changed by MakerDAO.
+* The Growth Core Unit will facilitate discussions to determine parameters for the subsequent six months prior to the end of the first six months.
+* If the first six month ends without a decision, the previous risk parameters and operating conditions will persist until a decision is made.
 * The Stability Fee will only increase by a maximum of 1% for months 7-12 from migration so long as none of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
