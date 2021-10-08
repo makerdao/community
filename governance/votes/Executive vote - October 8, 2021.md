@@ -76,7 +76,7 @@ As per [this poll](https://vote.makerdao.com/polling/Qmd7DPye?network=mainnet#po
 * Lower the UNIV2LINKETH-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
 * Increase the UNIV2LINKETH-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 300% over 60 days using dss-lerp.
 
-### RISK-001 MRK Vesting Stream
+### RISK-001 MKR Vesting Stream
 
 Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmUAXKm4?network=mainnet#poll-detail), a MKR Vesting stream with the following details will be established for the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2) if this executive proposal passes.
 
