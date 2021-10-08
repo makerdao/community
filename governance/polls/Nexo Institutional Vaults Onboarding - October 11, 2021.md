@@ -83,10 +83,10 @@ Dust: 10,000 DAI
 #### Subsequent Six Months
 * The Growth Core Unit will facilitate discussions to determine parameters for the subsequent six months prior to the end of the first six months.
 * If the first six month ends without a decision, the previous risk parameters and operating conditions will persist until a decision is made.
-* The Stability Fee will only increase by a maximum of 1% for months 7-12 from migration so long as none of the 'Exceptional Conditions' listed below are met.
+* The Stability Fee will only increase by a maximum of 1% over each six months period so long as none of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
-* The total debt from PSM vault types is less than half of the combined debt of INST-ETH-A and INST-WBTC-A.
+* The total amount of fixed rate debt is less than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
 
 #### Links and Comments
 This poll text has been reviewed by... (wanting GovAlpha, Growth, Nexo and PE.)
