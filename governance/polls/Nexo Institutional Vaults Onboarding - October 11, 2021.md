@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This proposal covers onboarding two new vault types. For each vault type there is a set of initial parameters. Additionally, there are a set of conditions which both Nexo and MakerDAO agree to operate in relation to these vaults if this vote passes successfully. 
+This proposal covers onboarding two new vault types. For each vault type there is a set of initial parameters. Additionally, there are a set of conditions under which both Nexo and MakerDAO agree to operate in relation to these vaults if this vote passes successfully. 
 
 ### INST-ETH-A - Starting Parameters
 Starting [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee): 1.5%  
@@ -88,9 +88,9 @@ Minimum Active CR (peace): 150%
 #### Exceptional Conditions
 * The total amount of fixed rate debt is more than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
 
-#### Links and Comments
-This poll text has been reviewed by GovAlpha, Growth, Risk, and Nexo.
-
+### Links and Comments
+* This poll text has been reviewed and agreed on by the GovAlpha Core Unit, the Growth Core Unit, the Risk Core Unit, the Protocol Engineering Core Unit, and Nexo.
+* This agreement represents our best attempt at setting mutually agreeable conditions for both parties. However, changes may be proposed if both Nexo and the involved Core Units agree that these conditions are in some way unsuitable.
 * Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-nexo-institutional-vault/10046) to help inform your position before voting. 
 * For further details on the contract mechanisms used to implement this vault type, check [MIP59](https://mips.makerdao.com/mips/details/MIP59).
 * A Risk evaluation is available [here](https://forum.makerdao.com/t/nexo-institutional-vault-collateral-onboarding-risk-evaluation/10524).
