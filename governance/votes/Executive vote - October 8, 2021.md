@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Offbaording Vaults, MKR Vesting, and Core Unit Budget Distribution - October 8, 2021
+title: Template - [Executive Vote] Offboarding Vaults, MKR Vesting, and Core Unit Budget Distribution - October 8, 2021
 summary: Offboards BAT-A, LRC-A, ZRX-A, UNIV2AAVEETH-A, and UNIV2LINKETH-A Vaults, establishes MKR vesting stream for RISK-001, and distributes the Core Unit Budget for CES-001.
 date: 2021-10-08T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Offbaording Vaults, MKR Vesting, and Core Unit Budget Distribution - October 8, 2021
+# [Executive Proposal] Offboarding Vaults, MKR Vesting, and Core Unit Budget Distribution - October 8, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -38,7 +38,7 @@ Given the successful Signal Request Process from [this thread](https://forum.mak
 
 #### BAT-A
 
-As per [this poll](https://vote.makerdao.com/polling/QmWJfX8U?network=mainnet#poll-detail) the following parameter changes will occur to offboard BAT-A if this executive proposal passes:
+As per [this poll](https://vote.makerdao.com/polling/QmWJfX8U?network=mainnet#poll-detail), the following parameter changes will occur to offboard BAT-A if this executive proposal passes:
 
 * Lower the BAT-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 * Lower the BAT-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
@@ -46,7 +46,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmWJfX8U?network=mainnet#po
 
 #### LRC-A
 
-As per [this poll](https://vote.makerdao.com/polling/QmUx9LVs?network=mainnet#poll-detail) the following parameter changes will occur to offboard LRC-A if this executive proposal passes:
+As per [this poll](https://vote.makerdao.com/polling/QmUx9LVs?network=mainnet#poll-detail), the following parameter changes will occur to offboard LRC-A if this executive proposal passes:
 
 * Lower the LRC-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 * Lower the LRC-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
@@ -54,7 +54,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmUx9LVs?network=mainnet#po
 
 #### ZRX-A
 
-As per [this poll](https://vote.makerdao.com/polling/QmPfuF2W?network=mainnet#poll-detail) the following parameter changes will occur to offboard ZRX-A if this executive proposal passes:
+As per [this poll](https://vote.makerdao.com/polling/QmPfuF2W?network=mainnet#poll-detail), the following parameter changes will occur to offboard ZRX-A if this executive proposal passes:
 
 * Lower the ZRX-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 * Lower the ZRX-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
@@ -70,7 +70,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmcuJHkq?network=mainnet#po
 
 #### UNIV2LINKETH-A
 
-As per [this poll](https://vote.makerdao.com/polling/Qmd7DPye?network=mainnet#poll-detail) the following parameter changes will occur to offboard UNIV2LINKETH-A if this executive proposal passes:
+As per [this poll](https://vote.makerdao.com/polling/Qmd7DPye?network=mainnet#poll-detail), the following parameter changes will occur to offboard UNIV2LINKETH-A if this executive proposal passes:
 
 * Lower the UNIV2LINKETH-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 * Lower the UNIV2LINKETH-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
@@ -78,7 +78,7 @@ As per [this poll](https://vote.makerdao.com/polling/Qmd7DPye?network=mainnet#po
 
 ### RISK-001 MRK Vesting Stream
 
-Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmUAXKm4?network=mainnet#poll-detail), an MKR Vesting stream  with the following details will be established for the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2) if this executive proposal passes.
+Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmUAXKm4?network=mainnet#poll-detail), a MKR Vesting stream with the following details will be established for the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2) if this executive proposal passes.
 
 700 MKR will be streamed from the Protocol Treasury to **0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c** with a start date of 2021-04-01 and an end date of 2022-04-01. MKR will not be claimable until 2022-04-01.
 
