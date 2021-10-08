@@ -86,7 +86,7 @@ Dust: 10,000 DAI
 * The Stability Fee will only increase by a maximum of 1% over each six months period so long as none of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
-* The total amount of fixed rate debt is less than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
+* The total amount of fixed rate debt is more than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
 
 #### Links and Comments
 This poll text has been reviewed by... (wanting GovAlpha, Growth, Nexo and PE.)
