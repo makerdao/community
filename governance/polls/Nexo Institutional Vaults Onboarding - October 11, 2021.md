@@ -1,7 +1,7 @@
 ---
 title: Nexo Institutional Vault Onboarding - October 11, 2021
 summary: Signal your support or opposition to Nexo Institutional Vault Onboarding.
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/signal-request-nexo-institutional-vault/10046
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -11,8 +11,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-10-11T16:00:00
+end_date: 2021-10-11T16:00:00
 ---
 # Poll: Nexo Institutional Vault Onboarding - October 11, 2021
 
@@ -28,40 +28,40 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 This proposal covers onboarding two new vault types. For each vault type there is a set of initial parameters. Additionally, there are a set of conditions which both Nexo and MakerDAO agree to operate in relation to these vaults if this vote passes successfully. 
 
 ### INST-ETH-A - Starting Parameters
-Starting Stability Fee: 1.5%
-Origination Fee: 0%
-Liquidation Ratio: 120%
-Minimum Active CR: 150%
-Debt Ceiling: 900m
-Cut: 0.99
-Step: 90 seconds
-Buf: 1.20
-Cusp: 0.4
-Tail: 140 minutes
-Chip: 0.1%
-Tip: 300 DAI
-lk.chop: 20%
-Tolerance: 0.5
-Ilk.hole: 50m DAI
-Dust: 10,000 DAI
+Starting Stability Fee: 1.5%  
+Origination Fee: 0%  
+Liquidation Ratio: 120%  
+Minimum Active CR: 150%  
+Debt Ceiling: 900m  
+Cut: 0.99  
+Step: 90 seconds  
+Buf: 1.20  
+Cusp: 0.4  
+Tail: 140 minutes  
+Chip: 0.1%  
+Tip: 300 DAI  
+lk.chop: 20%  
+Tolerance: 0.5  
+Ilk.hole: 50m DAI  
+Dust: 10,000 DAI  
 
 ### INST-WBTC-A - Starting Parameters
-Starting Stability Fee: 1.5%
-Origination Fee: 0%
-Liquidation Ratio: 120%
-Minimum Active CR: 150%
-Debt Ceiling: 600m
-Cut: 0.99
-Step: 90 seconds
-Buf: 1.20
-Cusp: 0.4
-Tail: 140 minutes
-Chip: 0.1%
-Tip: 300 DAI
-Ilk.chop: 20%
-Tolerance: 0.5
-Ilk.hole: 30m DAI
-Dust: 10,000 DAI
+Starting Stability Fee: 1.5%  
+Origination Fee: 0%  
+Liquidation Ratio: 120%  
+Minimum Active CR: 150%  
+Debt Ceiling: 600m  
+Cut: 0.99  
+Step: 90 seconds  
+Buf: 1.20  
+Cusp: 0.4  
+Tail: 140 minutes  
+Chip: 0.1%  
+Tip: 300 DAI  
+Ilk.chop: 20%  
+Tolerance: 0.5  
+Ilk.hole: 30m DAI  
+Dust: 10,000 DAI  
 
 ### Operating Conditions
 
@@ -83,17 +83,18 @@ Dust: 10,000 DAI
 #### Subsequent Six Months
 * The Growth Core Unit will facilitate discussions to determine parameters for the subsequent six months prior to the end of the first six months.
 * If the first six month ends without a decision, the previous risk parameters and operating conditions will persist until a decision is made.
-* The Stability Fee will only increase by a maximum of 1% over each six months period so long as none of the 'Exceptional Conditions' listed below are met.
+* The Stability Fee will only increase by a maximum of 1% over each six months period so long as **none** of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
 * The total amount of fixed rate debt is more than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
 
 #### Links and Comments
-This poll text has been reviewed by... (wanting GovAlpha, Growth, Nexo and PE.)
+This poll text has been reviewed by GovAlpha, Growth, Risk, and Nexo.
 
-* Please review the discussion [thread]($discussion_link) to help inform your position before voting. 
-* For further details on the contract mechanisms used to implement this vault type, check MIP55.
-* A Risk evaluation is available here.
+* Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-nexo-institutional-vault/10046) to help inform your position before voting. 
+* For further details on the contract mechanisms used to implement this vault type, check [MIP59](https://mips.makerdao.com/mips/details/MIP59).
+* A Risk evaluation is available [here](https://forum.makerdao.com/t/nexo-institutional-vault-collateral-onboarding-risk-evaluation/10524).
+* A revenue impact assessment is available [here](https://forum.makerdao.com/t/institutional-vaults-economics-terms/9989).
 
 ## Outcomes
 
