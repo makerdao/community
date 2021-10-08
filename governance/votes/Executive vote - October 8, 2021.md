@@ -80,11 +80,11 @@ As per [this poll](https://vote.makerdao.com/polling/Qmd7DPye?network=mainnet#po
 
 Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmUAXKm4?network=mainnet#poll-detail), a MKR Vesting stream with the following details will be established for the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2) if this executive proposal passes.
 
-700 MKR will be streamed from the Protocol Treasury to **0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c** with a start date of 2021-04-01 and an end date of 2022-04-01. MKR will not be claimable until 2022-04-01.
+700 MKR will be streamed from the Protocol Treasury to **0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c** as detailed in the [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP25), with a start date of 2021-04-01 and an end date of 2022-04-01. MKR will not be claimable until 2022-04-01.
 
 For more information, please visit the [proposal thread](https://forum.makerdao.com/t/mip40c3-sp25-risk-core-unit-mkr-compensation-risk-001/9788). 
 
-### Distribute CES-001 Core Unit Budget
+### Distribute initial CES-001 Core Unit Budget
 
 Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet#poll-detail), the budget for the [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) will be distributed as described below if this executive proposal passes.
 
