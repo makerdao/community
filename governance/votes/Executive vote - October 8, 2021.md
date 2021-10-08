@@ -84,7 +84,7 @@ Given the successful outcome of [this poll](https://vote.makerdao.com/polling/Qm
 
 For more information, please visit the [proposal thread](https://forum.makerdao.com/t/mip40c3-sp25-risk-core-unit-mkr-compensation-risk-001/9788). 
 
-### Distribute initial CES-001 Core Unit Budget
+### Distribute Initial CES-001 Core Unit Budget
 
 Given the successful outcome of [this poll](https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet#poll-detail), the budget for the [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) will be distributed as described below if this executive proposal passes.
 
