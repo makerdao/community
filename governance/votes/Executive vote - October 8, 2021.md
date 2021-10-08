@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Offboarding Vaults, MKR Vesting, and Core Unit Budget Distribution - October 8, 2021
-summary: Offboards BAT-A, LRC-A, ZRX-A, UNIV2AAVEETH-A, and UNIV2LINKETH-A Vaults, establishes MKR vesting stream for RISK-001, and distributes the Core Unit Budget for CES-001.
+summary: Offboards BAT-A, LRC-A, ZRX-A, UNIV2AAVEETH-A, and UNIV2LINKETH-A Vaults, establishes MKR vesting stream for RISK-001, and distributes the initial Core Unit Budget for CES-001.
 date: 2021-10-08T00:00:00.000Z
 address: "$spell_address"
 
