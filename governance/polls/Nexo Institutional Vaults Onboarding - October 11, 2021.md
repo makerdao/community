@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 start_date: 2021-10-11T16:00:00
-end_date: 2021-10-11T16:00:00
+end_date: 2021-10-14T16:00:00
 ---
 # Poll: Nexo Institutional Vault Onboarding - October 11, 2021
 
@@ -27,40 +27,40 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 This proposal covers onboarding two new vault types. For each vault type there is a set of initial parameters. Additionally, there are a set of conditions which both Nexo and MakerDAO agree to operate in relation to these vaults if this vote passes successfully. 
 
 ### INST-ETH-A - Starting Parameters
-Starting Stability Fee: 1.5%  
-Origination Fee: 0%  
-Liquidation Ratio: 120%  
-Minimum Active CR: 150%  
-Debt Ceiling: 900m  
-Cut: 0.99  
-Step: 90 seconds  
-Buf: 1.20  
-Cusp: 0.4  
-Tail: 140 minutes  
-Chip: 0.1%  
-Tip: 300 DAI  
-lk.chop: 20%  
-Tolerance: 0.5  
-Ilk.hole: 50m DAI  
-Dust: 10,000 DAI  
+Starting [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee): 1.5%  
+Origination Fee (nib): 0%  
+[Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio): 120%  
+Minimum Active CR (peace): 150%  
+[Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling): 900m  
+[cut](https://makerdao.world/en/learn/governance/param-auction-price-function): 0.99  
+[step](https://makerdao.world/en/learn/governance/param-auction-price-function): 90 seconds  
+[Auction Price Multiplier (buf)](https://makerdao.world/en/learn/governance/param-auction-price-multiplier): 1.20  
+[Maximum Auction Drawdown (cusp)](https://makerdao.world/en/learn/governance/param-max-auction-drawdown): 0.4  
+[Maximum Auction Duration (tail)](https://makerdao.world/en/learn/governance/param-max-auction-duration): 140 minutes  
+[Proportional Kick Incentive (chip)](https://makerdao.world/en/learn/governance/param-proportional-kick-incentive): 0.1%  
+[Flat Kick Incentive (tip)](https://makerdao.world/en/learn/governance/param-flat-kick-incentive): 300 DAI  
+[Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty): 20%  
+[Breaker Price Tolerance](https://makerdao.world/en/learn/governance/param-breaker-price-tolerance): 0.5  
+[Local Liquidation Limit (Ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit): 50m DAI  
+[Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor): 10,000 DAI  
 
 ### INST-WBTC-A - Starting Parameters
-Starting Stability Fee: 1.5%  
-Origination Fee: 0%  
-Liquidation Ratio: 120%  
-Minimum Active CR: 150%  
-Debt Ceiling: 600m  
-Cut: 0.99  
-Step: 90 seconds  
-Buf: 1.20  
-Cusp: 0.4  
-Tail: 140 minutes  
-Chip: 0.1%  
-Tip: 300 DAI  
-Ilk.chop: 20%  
-Tolerance: 0.5  
-Ilk.hole: 30m DAI  
-Dust: 10,000 DAI  
+Starting [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee): 1.5%  
+Origination Fee (nib): 0%  
+[Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio): 120%  
+Minimum Active CR (peace): 150%  
+[Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling): 600m  
+[cut](https://makerdao.world/en/learn/governance/param-auction-price-function): 0.99  
+[step](https://makerdao.world/en/learn/governance/param-auction-price-function): 90 seconds  
+[Auction Price Multiplier (buf)](https://makerdao.world/en/learn/governance/param-auction-price-multiplier): 1.20  
+[Maximum Auction Drawdown (cusp)](https://makerdao.world/en/learn/governance/param-max-auction-drawdown): 0.4  
+[Maximum Auction Duration (tail)](https://makerdao.world/en/learn/governance/param-max-auction-duration): 140 minutes  
+[Proportional Kick Incentive (chip)](https://makerdao.world/en/learn/governance/param-proportional-kick-incentive): 0.1%  
+[Flat Kick Incentive (tip)](https://makerdao.world/en/learn/governance/param-flat-kick-incentive): 300 DAI  
+[Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty): 20%  
+[Breaker Price Tolerance](https://makerdao.world/en/learn/governance/param-breaker-price-tolerance): 0.5  
+[Local Liquidation Limit (Ilk.hole)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit): 30m DAI  
+[Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor): 10,000 DAI  
 
 ### Operating Conditions
 
@@ -70,19 +70,20 @@ Dust: 10,000 DAI
 * A 1% origination fee will be charged on the migrated amount above 400M DAI.
 * Once migration has been completed, the following parameters will be set for each vault. These parameters may be freely changed in the future by MakerDAO.
 	* Origination Fee: 1%
-	* DC-IAM gap: 50m
-	* DC-IAM ttl: 8h
-	* DC-IAM line: Equal to initial Debt Ceiling
+	* [DC-IAM](https://makerdao.world/en/learn/governance/module-dciam) gap: 50m
+	* [DC-IAM](https://makerdao.world/en/learn/governance/module-dciam) ttl: 8h
+	* [DC-IAM](https://makerdao.world/en/learn/governance/module-dciam) line: Equal to initial [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling)
 
 #### First Six Months
-* Every additional 100m DAI minted in each vault will reduce the stability fee by 10 basis points for that vault down to a minimum of 0.5%. The starting point for this calculation is the amount of DAI initially migrated by MakerDAO on behalf of Nexo.
-* The Stability Fee will not change in the initial six months with the exception of reductions under the previous point.
-* Reductions in Stability Fee are not automatic, and must be voted through by Maker Governance. The Growth Core Unit is responsible for initiating reduction proposals on behalf of Nexo.
+* Every additional 100m DAI minted in each vault will reduce the [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) by 10 basis points for that vault down to a minimum of 0.5%. The starting point for this calculation is the amount of DAI initially migrated by MakerDAO on behalf of Nexo.
+* Failure to maintain 200% CR over the majority of any 7 day period will result in increasing the SF to 5% and increasing the LR to 150%. The 7 day period would be calculated by ensuring that 95% of the OSM updates show that the CR is equal to or greater than 200%.
+* The [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) will not change in the initial six months with the exception of changes under the previous two points.
+* Reductions in [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) are not automatic, and must be voted through by Maker Governance. The Growth Core Unit is responsible for initiating reduction proposals on behalf of Nexo.
 
 #### Subsequent Six Months
-* The Growth Core Unit will facilitate discussions to determine parameters for the subsequent six months prior to the end of the first six months.
+* The Growth Core Unit will facilitate discussions to determine parameters and terms for the subsequent six months prior to the end of the first six months.
 * If the first six month ends without a decision, the previous risk parameters and operating conditions will persist until a decision is made.
-* The Stability Fee will only increase by a maximum of 1% over each six months period so long as **none** of the 'Exceptional Conditions' listed below are met.
+* The [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) will only increase by a maximum of 1% over each six months period so long as **none** of the 'Exceptional Conditions' listed below are met.
 
 #### Exceptional Conditions
 * The total amount of fixed rate debt is more than 50% of MakerDAO's debt backed by stablecoin collateral (including stablecoin LP positions.)
