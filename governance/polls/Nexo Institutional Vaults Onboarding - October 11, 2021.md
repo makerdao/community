@@ -6,7 +6,6 @@ vote_type: Plurality Voting
 categories:
    - Collateral
    - Risk Variable
-   - Institutional
 options:
    0: Abstain
    1: Yes
