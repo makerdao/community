@@ -11,7 +11,7 @@ options:
    1: Yes
    2: No
 start_date: 2021-10-11T16:00:00
-end_date: 2021-10-11T16:00:00
+end_date: 2021-10-14T16:00:00
 ---
 # Poll: Add stETH (Lido Staked ETH) as a new Vault Type - October 11, 2021
 
