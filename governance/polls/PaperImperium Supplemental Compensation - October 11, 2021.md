@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Transfering 50,000 DAI to recognized delegate PaperImperium as Supplemental Compensation. 
+* **Transfering 50,000 DAI** to recognized delegate PaperImperium as Supplemental Compensation. 
 
 PaperImperium has provided the following breakdown for how he intends to use the funds:
 
