@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *Growth CU is requesting an eight months budget allocation of 2,208,484 DAI. 1,117,663 DAI will cover operations, and 1,100,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.). The remaining budget from the previous months (posted in our weekly updates at the beginning of each month) is deducted from the total of the current budget.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/ebebe52e0acdea10c0bf2bf2b2c5333abc145ae5/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP37)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp37-growth-core-unit-budget-gro-001/10228)
 
