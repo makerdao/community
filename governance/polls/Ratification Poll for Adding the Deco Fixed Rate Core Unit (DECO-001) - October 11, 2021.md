@@ -54,7 +54,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core Unit on a fixed MKR budget of 500 MKR annually, utilizing a 12-month cliff and vesting quarterly, for the fixed period of November 1, 2021, through November 1, 2024, (36 Months).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP36)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226)
 
