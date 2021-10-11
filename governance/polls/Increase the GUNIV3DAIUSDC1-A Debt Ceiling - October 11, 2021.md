@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 MKR Token Holders may vote in this poll to express support or opposition to adjusting the GUNIV3DAIUSDC1-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
 * Increase from 10 million DAI to 50 million DAI.
 
-Please review the discussion [thread]($https://forum.makerdao.com/t/request-to-raise-the-g-uni-dc-to-50m/10838) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/request-to-raise-the-g-uni-dc-to-50m/10838) to inform your position on this issue before voting.
 
 ## Outcomes
 
