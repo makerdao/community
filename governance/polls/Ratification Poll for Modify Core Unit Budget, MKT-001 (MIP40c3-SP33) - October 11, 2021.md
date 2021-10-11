@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget, MKT-001 (MIP40c3-SP33) - October 11, 2021
-summary: MIP40c3-SP33 adds the budget for Core Unit MKT-001: Content Production for November 2021 through April 2022.
+summary: MIP40c3-SP33 adds the budget for Content Production Core Unit (MKT-001) for November 2021 through April 2022.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp33-modify-core-unit-budget-mkt-001/10150
 vote_type: Plurality Voting
 categories:
