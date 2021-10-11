@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/request-to-raise-the-g-uni-dc-to-5
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - Collateral
 options:
    0: Abstain
    1: Yes
