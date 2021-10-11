@@ -1,6 +1,6 @@
 ---
-title: Add the Aave Direct Deposit DAI Module - October 11, 2021
-summary: This poll proposes system parameters which could be used to initialize the Aave Direct Deposit DAI Module.
+title: Add the Aave Direct Deposit DAI Module (D3M) - October 11, 2021
+summary: This poll proposes system parameters which could be used to initialize the Aave Direct Deposit DAI Module (D3M).
 discussion_link: https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357
 vote_type: Plurality Voting
 categories:
@@ -35,9 +35,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 
 Please review the following forum threads containing information about the Aave Direct Deposit DAI Module to inform your position before voting.
-* [Discussion Thread](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357/31)
-* [MIP Thread](https://forum.makerdao.com/t/mip50-direct-deposit-module/7356/8)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357/31)
+* [Discussion Thread](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357)
+* [MIP Thread](https://forum.makerdao.com/t/mip50-direct-deposit-module/7356)
+* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/d3m-risk-assessment/9353)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/direct-aavev2-dai-direct-deposit-module-technical-assessment/10751)
 
 ## Outcomes
