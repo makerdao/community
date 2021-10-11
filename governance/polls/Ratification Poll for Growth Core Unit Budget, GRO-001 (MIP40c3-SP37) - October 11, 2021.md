@@ -27,9 +27,9 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This budget proposal covers a total of 8 months (November and December 2021 and H1 2022) to cover the remaining months until the end of the year and the first six months of 2022.
+*This budget proposal covers a total of 8 months (November and December 2021 and H1 2022) to cover the remaining months until the end of the year and the first six months of 2022.*
 
-Growth CU is requesting an eight months budget allocation of 2,208,484 DAI. 1,117,663 DAI will cover operations, and 1,100,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.). The remaining budget from the previous months (posted in our weekly updates at the beginning of each month) is deducted from the total of the current budget.*
+*Growth CU is requesting an eight months budget allocation of 2,208,484 DAI. 1,117,663 DAI will cover operations, and 1,100,000 DAI will cover the work we’ll do with our partners in the latest stages of the Growth Cycle (adoption campaigns, educational content, etc.). The remaining budget from the previous months (posted in our weekly updates at the beginning of each month) is deducted from the total of the current budget.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md)
