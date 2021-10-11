@@ -29,7 +29,7 @@ The community may vote in this poll to express support or opposition to Adding t
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP39c2-SP23 establishes a Deco Fixed Rate Core Unit for the integration and maintenance of the Deco protocol facilitating Fixed Rate Vaults. For more information about the history of this MIP, which was originally posted on 5 August 2021.*
+*MIP39c2-SP23 establishes a Deco Fixed Rate Core Unit for the integration and maintenance of the Deco protocol facilitating Fixed Rate Vaults. For more information about the history of this MIP, which was originally posted on 5 August 2021, please see [here](https://forum.makerdao.com/t/fixed-rate-vaults-proposal-with-deco-protocol/9707).*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
