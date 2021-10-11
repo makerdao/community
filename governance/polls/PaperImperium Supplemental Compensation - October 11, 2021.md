@@ -4,7 +4,7 @@ summary: Signal your support or opposition to providing compensation in the amou
 discussion_link: https://forum.makerdao.com/t/signal-request-paperimperium-supplemental-compensation/10454
 vote_type: Plurality Voting
 categories:
-   - Transfer
+   - Budget
 options:
    0: Abstain
    1: Yes
