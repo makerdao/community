@@ -1,6 +1,6 @@
 ---
 title: PaperImperium Supplemental Compensation - October 11, 2021
-summary: Signal your support or opposition to providing comensation in the amount of 50,000 DAI to recognized delegate PaperImperium.
+summary: Signal your support or opposition to providing compensation in the amount of 50,000 DAI to recognized delegate PaperImperium.
 discussion_link: https://forum.makerdao.com/t/signal-request-paperimperium-supplemental-compensation/10454
 vote_type: Plurality Voting
 categories:
