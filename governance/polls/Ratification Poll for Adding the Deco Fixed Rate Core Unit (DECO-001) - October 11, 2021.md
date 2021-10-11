@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Deco Fixed Rate Core Unit is requesting a Budget for the fixed period of November 1, 2021, through November 1, 2024, (36 Months), with a fixed budget floor of 1,712,500 Dai annually, paid monthly, secured in advance quarterly.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/6bdce46663ef9b2706465b7fad798398788f6109/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP35)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp35-deco-fixed-rate-core-unit-budget/10225)
 
