@@ -45,7 +45,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
  This subproposal has been updated from the original version following feedback in the Forum and directly from Core Units and Delegates. The main changes are to reduce the scope (and therefore team and budget requirements) to “core” activities only, and with a focus on Core Units as the main consumer, rather than the wider community.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/160e5b32564bbe0a50dfc2ff1c6dc5078dce2742/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP34)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp34-add-data-insights-core-unit-budget-din-001/10210)
 
