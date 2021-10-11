@@ -58,7 +58,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *I joined the crypto ecosystem pretty late (winter 2017) but learned about Maker quite early as there were very few projects around. The idea of taking a loan on a collateral in a permissionless way, without a man in the middle and by that providing a pegged asset into the volatile crypto market was very appealing to me so I started following and using the product. I believe we did a great job so far on focusing on the core without getting distracted too much. However, I think we should start running more experiments - something MakerLabs can support.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/2cf92ba215147968223ab2c729ee00da3e712dbc/MIP41/MIP41c4-Subproposals/MIP41c4-SP22.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP22)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp22-facilitator-onboarding-makerlabs/10109)
 
