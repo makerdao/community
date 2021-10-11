@@ -47,7 +47,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
  We’re proposing the following budget to deliver on our mandate. This includes, but is not limited to: Implement, Deploy, and Validate MVPs in the Maker ecosystem.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP32.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/5334d4cc29cf9f0dfd1e8bbf326668696e709420/MIP40/MIP40c3-Subproposals/MIP40c3-SP32.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP32)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp32-adding-makerlabs-core-unit-budget/10108)
 
