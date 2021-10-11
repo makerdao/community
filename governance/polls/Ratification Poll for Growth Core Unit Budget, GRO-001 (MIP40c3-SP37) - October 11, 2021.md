@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Growth Core Unit Budget, GRO-001 (MIP40c3-SP37) - October 11, 2021
-summary: MIP40c3-SP37 adds the budget for Core Unit GRO-001: Growth for November 2021 through June 2022.
+summary: MIP40c3-SP37 adds the budget for Growth Core Unit (GRO-001) for November 2021 through June 2022.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp37-growth-core-unit-budget-gro-001/10228
 vote_type: Plurality Voting
 categories:
