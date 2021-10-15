@@ -13,7 +13,6 @@ options:
 start_date: 2021-10-18T16:00:00
 end_date: 2021-11-01T16:00:00
 ---
-
 # Poll: Community Greenlight Poll - OFH (Security Tokens Refinancing) - October 18, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, October 18 at 16:00 UTC.
