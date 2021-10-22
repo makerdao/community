@@ -32,13 +32,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### G-UNI Debt Ceiling
+### GUNIV3DAIUSDC1-A  Debt Ceiling
 
 As per [this poll](https://vote.makerdao.com/polling/QmU6fTQx?network=mainnet#poll-detail), the GUNIV3DAIUSDC1-A [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) will be **increased** from 10 million DAI to 50 million DAI if this executive proposal passes.
 
 For more information, please see [this thread](https://forum.makerdao.com/t/request-to-raise-the-g-uni-dc-to-50m/10838) recommending this adjustment. 
 
-### DC-IAM Parameter Updates 
+### Debt Ceiling - Instant Access Module Parameter Updates 
 
 As per [this poll](https://vote.makerdao.com/polling/QmP6GPeK?network=mainnet#poll-detail), several changes to the Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) Parameters of ETH-A, ETH-B, and WBTC-A will be made as detailed below if this executive proposal passes.
 
@@ -56,11 +56,11 @@ As per [this poll](https://vote.makerdao.com/polling/QmP6GPeK?network=mainnet#po
 * Increase [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`) from 30 million DAI to 60 million DAI.
 * Decrease [Ceiling Increase Cooldown](https://makerdao.world/en/learn/governance/module-dciam) (`ttl`) from 8 hours to 6 hours.
 
-### Wrapped Staked ETH Onboarding
+### WSTETH-A Onboarding
 
 As per [this poll](https://vote.makerdao.com/polling/QmXXHpYi?network=mainnet#poll-detail) WSTETH-A will be onboarded with the following parameters if this executive proposal passes.
 
-### Initial Collateral Parameters
+#### Initial Collateral Parameters
 
 * Underlying Collateral: stETH (Lido Staked ETH)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4%
@@ -70,7 +70,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXXHpYi?network=mainnet#po
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 3 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 
-### Liquidation Parameters
+#### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): Stairstep Exponential
 * [Price Change Multiplier (`cut`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-function): 0.99
