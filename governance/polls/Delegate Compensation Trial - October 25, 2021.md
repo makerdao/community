@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to trialing recognized delegate compensation from November to February. The compensation method for this trial can be found in [MIP61](https://forum.makerdao.com/t/mip61-delegate-compensation/10640), and will initially begin with the following parameters:
+The community can vote in this poll to express support or opposition to trialing recognized delegate compensation for 3 months, starting in November. The compensation method for this trial can be found in [MIP61](https://forum.makerdao.com/t/mip61-delegate-compensation/10640), and will initially begin with the following parameters:
 * Maximum Compensation Threshold: 10,000 MKR
 * Maximum Annual Compensation: 48,000 DAI
 * Exponential Factor: 0.5
