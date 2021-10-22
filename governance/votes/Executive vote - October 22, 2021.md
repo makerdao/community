@@ -5,7 +5,7 @@ date: 2021-10-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Parameter Changes, wstETH Onboarding - October 22, 2021
+# [Executive Proposal] Parameter Changes, WSTETH-A Onboarding - October 22, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
