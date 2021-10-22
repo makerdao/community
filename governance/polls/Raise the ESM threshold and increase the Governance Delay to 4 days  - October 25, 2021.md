@@ -1,6 +1,6 @@
 ---
-title: Raise the ESM thereshold and increase the Governance Delay to 4 days - October 25, 2021
-summary: Signal your support or opposition for raising the ESM thereshold to 15% and increase the Governance Delay to 4 days.
+title: Raise the ESM threshold and Increase the Governance Delay - October 25, 2021
+summary: Signal your support or opposition for raising the ESM threshold to 150,000 MKR and increasing the Governance Delay to 96 hours.
 discussion_link: https://forum.makerdao.com/t/restarted-poll-signal-request-raise-the-esm-threshold-to-15-and-increase-the-governance-delay-to-4-days/10896
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2021-10-25T16:00:00
 end_date: 2021-10-28T16:00:00
 ---
-# Poll: Raise the ESM thereshold and increase the Governance Delay to 4 days - October 25, 2021
+# Poll: Raise the ESM threshold and increase the Governance Delay - October 25, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 25 at 16:00 UTC.
 
@@ -23,25 +23,24 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 # Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following change to raising the [Emergency Shutdown Module](https://docs.makerdao.com/clis/emergency-shutdown-es-cli#:~:text=The%20Emergency%20Shutdown%20Module%20(ESM,with%20and%20trigger%20the%20ESM.) (also referred to as the 'ESM') thereshold:
-* Raise ESM thereshold to 15%.
-* Increase the Governance Delay to 4 days.
+MKR Token Holders may vote in this poll to express support or opposition to the following change to raising the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) (also referred to as the 'ESM') threshold:
+* Raise [ESM threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) from 75,000 MKR to 150,000 MKR.
+* Increase the [Governance Delay](https://makerdao.world/en/learn/governance/param-gsm-pause-delay) from 48 hours to 96 hours.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/restarted-poll-signal-request-raise-the-esm-threshold-to-15-and-increase-the-governance-delay-to-4-days/10896) to inform your position on this issue before voting.
-
-More information on the ESM can be found [here](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd#auction-settlement-during-emergency-shutdown).
 
 # Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These parameter changes will take place in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
 
 # Resources
 
-Unsure about the Emergency Shutdown Module (ESM) and what you should take into account when voting? Check out the documentation [here](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd#auction-settlement-during-emergency-shutdown).
+Unsure about the Emergency Shutdown Module (ESM) and what you should take into account when voting? Check out the documentation [here](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
