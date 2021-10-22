@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, WSTETH-A Onboarding - October 22, 2021
 summary: Raises GUNIV3DAIUSDC1-A Debt Ceiling, adjusts DC-IAM Parameters for ETH-A, ETH-B, and WBTC-A, and onboards WSTETH-A (Wrapped Staked ETH).
 date: 2021-10-22T00:00:00.000Z
-address: "$spell_address"
+address: "0xc0Dc70048F678e0c9DA82aD11CdC063aA081d950"
 
 ---
 # [Executive Proposal] Parameter Changes, WSTETH-A Onboarding - October 22, 2021
