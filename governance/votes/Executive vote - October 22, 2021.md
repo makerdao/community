@@ -62,7 +62,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXXHpYi?network=mainnet#po
 
 #### Initial Collateral Parameters
 
-* Underlying Collateral: stETH (Lido Staked ETH)
+* Underlying Collateral: wstETH (Wrapped Staked ETH)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 4%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 160%
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 5 million DAI
@@ -90,7 +90,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXXHpYi?network=mainnet#po
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300 DAI
 
-For more information, please review the following forum threads containing information about stETH (Lido Staked ETH) to inform your position before voting.
+For more information, please review the following forum threads containing information about wstETH (Wrapped Staked ETH) to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/steth-mip6-collateral-onboarding/5762)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/steth-collateral-onboarding-risk-evaluation/9061)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/steth-erc20-token-smart-contract-technical-assessment/9284)
