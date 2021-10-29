@@ -57,7 +57,7 @@ As per multiple successful budget subproposals, DAI will be distributed to the [
 
 ### Technical Tasks
 
-This executive proposal also contains two technical smart contract enchancements; LERP_FAB and JOIN_FAB. More information can be found on the forum post [here](https://forum.makerdao.com/t/technical-tasks-included-in-the-october-29th-executive/11284).
+This executive proposal also adds two smart contracts to DssChainLog; LERP_FAB and JOIN_FAB. More information can be found on the forum post [here](https://forum.makerdao.com/t/technical-tasks-included-in-the-october-29th-executive/11284). These smart contracts represent efficiency improvements to the executive spell workflow, and have no direct effect on the Maker Protocol.
 
 ## Review
 
