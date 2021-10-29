@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Aave D3M Onboarding and Core Unit Budget Transfers - October 29, 2021
 summary: Onboarding the Aave DAI Direct Deposit (D3M) module and transferring and streaming DAI to GRO-001 and DIN-001.
 date: 2021-10-29T00:00:00.000Z
-address: "$spell_address"
+address: "0xf86D621f42ec36B6fd4e5dc660A47Ad98D50CfC0"
 
 ---
 # [Executive Proposal] Aave D3M Onboarding and Core Unit Budget Transfers - October 29, 2021
