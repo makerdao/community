@@ -50,10 +50,10 @@ Please review the following forum threads containing information about the Aave 
 ### Core Unit Budget Distribution
 
 As per multiple successful budget subproposals, DAI will be distributed to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) and the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) as detailed below if this executive proposal passes.
-* 107,500 DAI will be transferred to the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) upon execution as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP34).
-* 791,138 DAI will be transferred to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) upon execution as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP37).
-* 357,000 DAI will be streamed to the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) over a six month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP34). 
-* 942,663 DAI will be streamed to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) over an eight month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP37).
+* 107,500 DAI will be transferred to the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) at 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F upon execution as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP34).
+* 791,138 DAI will be transferred to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) at 0x7800C137A645c07132886539217ce192b9F0528e upon execution as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP37).
+* 357,000 DAI will be streamed to the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) at 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F over a six month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP34). 
+* 942,663 DAI will be streamed to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) at 0x7800C137A645c07132886539217ce192b9F0528e over an eight month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP37).
 
 
 ## Review
