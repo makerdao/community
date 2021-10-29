@@ -55,6 +55,9 @@ As per multiple successful budget subproposals, DAI will be distributed to the [
 * 357,000 DAI will be streamed to the [Data Insights Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP22) at 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F over a six month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP34). 
 * 942,663 DAI will be streamed to the [Growth Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP4) at 0x7800C137A645c07132886539217ce192b9F0528e over an eight month period starting 2021-11-01 as per their [recent budget subproposal](https://mips.makerdao.com/mips/details/MIP40c3SP37).
 
+### Technical Tasks
+
+This executive proposal also adds two smart contracts to DssChainLog; LERP_FAB and JOIN_FAB. More information can be found on the forum post [here](https://forum.makerdao.com/t/technical-tasks-included-in-the-october-29th-executive/11284). These smart contracts represent efficiency improvements to the executive spell workflow, and have no direct effect on the Maker Protocol.
 
 ## Review
 
