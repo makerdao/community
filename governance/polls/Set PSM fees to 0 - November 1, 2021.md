@@ -1,6 +1,6 @@
 ---
 title: Set PSM fees to 0% - November 1, 2021
-summary: Signal your support or opposition for lowering the PSM-USDC-A and PSM-USDP-A tout parameter to 0.00%.
+summary: Signal your support or opposition for setting PSM fees to 0%.
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
 vote_type: Plurality Voting
 categories:
