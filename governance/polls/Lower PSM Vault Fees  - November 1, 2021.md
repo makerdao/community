@@ -1,6 +1,6 @@
 ---
-title: Lower PSM `tin/tout` parameters - November 1, 2021
-summary: Signal your support or opposition for lowering the PSM fees from to 0.0%.
+title: Lower PSM Vault Fees - November 1, 2021
+summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults. 
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
 vote_type: Plurality Voting
 categories:
@@ -10,28 +10,32 @@ options:
   0: Abstain
   1: Yes
   2: No
+start_date: 2021-11-01T16:00:00
+end_date: 2021-11-15T16:00:00
 ---
-# Poll: Lower PSM `tin/tout` parameters - November 1, 2021
+# Poll: Lower PSM Vault Fees - November 1, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 1 at 16:00 UTC.
 
-**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review 
 
-MKR holders can signal if they want to lower `tin` parameters for USDC PSM and USDP PSM as described next:
-  * Lower `tin` for USDC PSM from 0.10% to 0.0%.
-  * Lower `tin` for USDP PSM from 0.20% to 0.0%.
-The `tout` parameter will remain at 0%.
+The community can vote in this poll to express support or opposition to the following changes: 
+* Lower the [Fee In (`tin`)](https://community-development.makerdao.com/en/learn/governance/module-psm) for PSM-USDP-A from 0.10% to 0.0%.
+* Lower the [Fee In (`tin`)](https://community-development.makerdao.com/en/learn/governance/module-psm) for PSM-USDC-A from 0.20% to 0.0%.
 
-    For more information on the `tin/tout` parameters review the [Peg Stability Module documentation](https://community-development.makerdao.com/en/learn/governance/module-psm). 
+Note: The [Fee Out (`tout`)](https://community-development.makerdao.com/en/learn/governance/module-psm) is already set to 0%.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* Lowering the PSM `tin/tout` parameters to 0.0 % will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
+* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.  
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
