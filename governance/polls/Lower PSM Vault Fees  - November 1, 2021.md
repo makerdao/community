@@ -28,7 +28,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Lower the [Fee In (`tin`)](https://community-development.makerdao.com/en/learn/governance/module-psm) for PSM-USDP-A from 0.10% to 0.0%.
 * Lower the [Fee In (`tin`)](https://community-development.makerdao.com/en/learn/governance/module-psm) for PSM-USDC-A from 0.20% to 0.0%.
 
-Note: The [Fee Out (`tout`)](https://community-development.makerdao.com/en/learn/governance/module-psm) is already set to 0%.
+Note: The [Fee Out (`tout`)](https://community-development.makerdao.com/en/learn/governance/module-psm) is already set to 0% for both PSM Vautls.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894) to inform your position on this issue before voting.
 
