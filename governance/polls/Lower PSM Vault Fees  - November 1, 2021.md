@@ -11,7 +11,7 @@ options:
   1: Yes
   2: No
 start_date: 2021-11-01T16:00:00
-end_date: 2021-11-15T16:00:00
+end_date: 2021-11-04T16:00:00
 ---
 # Poll: Lower PSM Vault Fees - November 1, 2021
 
