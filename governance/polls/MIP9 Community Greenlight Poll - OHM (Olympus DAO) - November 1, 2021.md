@@ -1,6 +1,6 @@
 ---
 title: Community Greenlight Poll - OHM (Olympus DAO) - November 1, 2021
-summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
+summary: Signal your support or opposition to prioritising onboarding OHM (Olympus DAO). 
 discussion_link: https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709
 vote_type: Plurality Voting
 categories:
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset OHM (Olympus DAO) - November 1, 2021 should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset OHM (Olympus DAO) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/ohm-olympus-dao-collateral-onboarding-application-mip6/10709) to inform your position before voting.
 
