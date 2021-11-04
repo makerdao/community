@@ -77,7 +77,7 @@ For more information on this proposal, please see [this thread](https://forum.ma
 
 ### DUX-001 Core Unit Budget
 
-As per this [ratification poll](https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail) 359,120.80 DAI will be distributed to the Development and UX (DUX-001) Core Unit Auditors Wallet at **0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad** if this executive proposal passes.
+As per this [ratification poll](https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail), **359,120.80 DAI** will be distributed to the Development and UX (DUX-001) Core Unit Auditors Wallet at **0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad** if this executive proposal passes.
 
 This distribution will give the DUX-001 Auditors Wallet a total of 483,575 DAI as requested in [MIP40c3-SP26](https://mips.makerdao.com/mips/details/MIP40c3SP26).
 
