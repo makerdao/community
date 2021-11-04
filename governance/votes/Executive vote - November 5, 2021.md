@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - [Fee In (tin)](https://makerdao.world/en/learn/governance/module-psm) and [Fee Out (tout)](https://makerdao.world/en/learn/governance/module-psm) parameters for PSM-USDC-A and PSM-USDP-A will be lowered to 0%.
-- Multiple changes to [Stability Fees](https://makerdao.world/en/learn/governance/param-stability-fee), [Maximum Debt Ceilings (line)](https://makerdao.world/en/learn/governance/module-dciam), and [Target Available Debt (gap)]((https://makerdao.world/en/learn/governance/module-dciam)) as proposed by the [MakerDAO Open Market Committee](MakerDAO Open Market Committee).
+- Multiple changes to [Stability Fees](https://makerdao.world/en/learn/governance/param-stability-fee), [Maximum Debt Ceilings (line)](https://makerdao.world/en/learn/governance/module-dciam), and [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam) as proposed by the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355).
 - 359,120.80 DAI will be distributed to the Development and UX (DUX-001) Core Unit Auditors Wallet.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
