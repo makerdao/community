@@ -37,6 +37,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmSkYED5?network=mainnet#po
 - Lower the PSM-USDP-A [Fee In (tin)](https://makerdao.world/en/learn/governance/module-psm) parameter from 0.10% to 0.0%.
 - Lower the PSM-USDC-A [Fee In (tin)](https://makerdao.world/en/learn/governance/module-psm) parameter from 0.20% to 0.0%.
 
+For more information on this proposal, please see [this signal request](https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894).
+
 ### MOMC Parameter Changes
 
 As per [this poll](https://vote.makerdao.com/polling/QmXDCCPH?network=mainnet#poll-detail), the following parameter changes will be made if this executive proposal passes.
@@ -70,6 +72,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmXDCCPH?network=mainnet#po
 * Increase [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) (`line`) from 20 million DAI to 50 million DAI.
 * Increase [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`) from 3 million DAI to 5 million DAI.
 * Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 2.0% to 2.5%
+
+For more information on this proposal, please see [this thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-10-28/11256) proposing the changes. 
 
 ### DUX-001 Core Unit Budget
 
