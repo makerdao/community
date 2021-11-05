@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, Core Unit Budget Distribution - November 5, 2021
 summary: MakerDAO Open Market Committee changes, lower PSM fees, and distribute Development and UX (DUX-001) Core Unit Budget.
 date: 2021-11-05T00:00:00.000Z
-address: "$spell_address"
+address: "0x3381CaEaA980f78Aa1895f98E645e35cBDD4C593"
 
 ---
 # [Executive Proposal] Parameter Changes, Core Unit Budget Distribution - November 5, 2021
