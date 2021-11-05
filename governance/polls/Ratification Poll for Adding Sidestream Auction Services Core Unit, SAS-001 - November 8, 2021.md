@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Adding Sidestream Auction Services Core Unit, SAS-001 - November 8, 2021
-summary: MIP39c2-SP25 adds SAS-001: Sidestream Auction Services Core Unit.
+summary: This MIP Set adds the Sidestream Auction Services Core Unit (SAS-001), MIP39c2-SP25.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2021-11-08T16:00:00
 end_date: 2021-11-22T16:00:00
 ---
-# Inclusion Poll for Adding Sidestream Auction Services Core Unit, SAS-001 - November 8, 2021
+# Ratification Poll for Adding Sidestream Auction Services Core Unit, SAS-001 - November 8, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 8 at 16:00 UTC.
 
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to Adding Sidestream Auction Services Core Unit, SAS-001 being accepted and implemented in the Maker Protocol.
 
 ### MIP39c2-SP25
 
@@ -32,18 +32,27 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The SAS-001 Core Unit aims to improve security, transparency and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP39/MIP39c2-Subproposals/MIP39c2-SP25.md)
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1bde6b8c017ff216805f8a6aa542161d08259207/MIP39/MIP39c2-Subproposals/MIP39c2-SP25.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP25)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796)
+
+### MIP40c3-SP43
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*MIP40c3-SP43 adds the DAI budget for Core Unit SAS-001: Sidestream Auction Services.*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP43)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799)
+
 
 ### MIP40c3-SP44
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP44 adds the MKR Incentive Plan budget for SAS-001: Sidestream Auction Services Core Unit. It contains:*
-*- Total MKR Expenditure Cap*
-*- Estimated MKR Expenditure (based on the current team)*
-*- Escrow Wallet mechanism*
+*MIP40c3-SP44 adds the MKR Incentive Plan budget for SAS-001: Sidestream Auction Services Core Unit. It contains: - Total MKR Expenditure Cap - Estimated MKR Expenditure (based on the current team)- Escrow Wallet mechanism.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP44.md)
