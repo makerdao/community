@@ -12,7 +12,7 @@ Forum: @ultraschuppi
 Rocketchat: @schuppi  
 Discord: schuppi#6905  
 Email: fffwgsp8cpq43dtn@protonmail.com  
-Meet Your Delegate Video (optional): `TBD`  
+Meet Your Delegate Video: https://www.youtube.com/watch?v=3483QFS4_qQ 
 
 
 ### Delegate Statement
