@@ -40,7 +40,9 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP43 adds the DAI budget for Core Unit SAS-001: Sidestream Auction Services.*
+*The SAS CU budget is designed with the following in mind:*
+ - *Paying for the operational costs to run the core unit*
+ - *Having a buffer for unexpected legal, technical, or financial expenses*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md)
@@ -52,7 +54,10 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP44 adds the MKR Incentive Plan budget for SAS-001: Sidestream Auction Services Core Unit. It contains: - Total MKR Expenditure Cap - Estimated MKR Expenditure (based on the current team)- Escrow Wallet mechanism.*
+*MIP40c3-SP44 adds the MKR Incentive Plan budget for SAS-001: Sidestream Auction Services Core Unit. It contains:*
+ - *Total MKR Expenditure Cap*
+ - *Estimated MKR Expenditure (based on the current team)*
+ - *Escrow Wallet mechanism*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP44.md)
