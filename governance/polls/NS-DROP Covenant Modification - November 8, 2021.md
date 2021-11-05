@@ -12,7 +12,7 @@ options:
 start_date: 2021-11-08T16:00:00
 end_date: 2021-11-11T16:00:00
 ---
-# Poll:NS-DROP Covenant Modification - November 8, 2021
+# Poll: NS-DROP Covenant Modification - November 8, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO governance community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 8 at 16:00 UTC.
 
@@ -33,7 +33,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The NS-DROP covenants will be modified according to the the outcome of this poll.
+* The NS-DROP covenants will be modified according to the outcome of this poll.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no change will be made to the NS-DROP covenants at this time.**
 
