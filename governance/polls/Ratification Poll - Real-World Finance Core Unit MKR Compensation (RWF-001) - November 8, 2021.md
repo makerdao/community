@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Real-World Finance Core Unit MKR Compensation (RWF-001) (MIP40c3-SP38) - November 8, 2021
-summary: MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001:Real World Finance.
+title: Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
+summary: MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001: Real World Finance.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 vote_type: Plurality Voting
 categories:
@@ -9,10 +9,10 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $2021-11-08T16:00:00
-end_date: $2021-11-25T16:00:00
+start_date: 2021-11-08T16:00:00
+end_date: 2021-11-25T16:00:00
 ---
-# Ratification Poll for Real-World Finance Core Unit MKR Compensation (RWF-001) (MIP40c3-SP38) - November 8, 2021
+# Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 8 at 16:00 UTC.
 
@@ -39,7 +39,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on $week_four_governance_call_date. 
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, November 25. 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
