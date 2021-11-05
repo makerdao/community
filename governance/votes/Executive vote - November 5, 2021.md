@@ -41,7 +41,7 @@ For more information on this proposal, please see [this signal request](https://
 
 ### MOMC Parameter Changes
 
-As per [this poll](https://vote.makerdao.com/polling/QmXDCCPH?network=mainnet#poll-detail) resulting from the [October recommendations]((https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-10-28/11256)) of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), the following parameter changes will be made if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmXDCCPH?network=mainnet#poll-detail) resulting from the [October recommendations](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-10-28/11256) of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), the following parameter changes will be made if this executive proposal passes.
 
 **ETH-A**
 * Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 2.0% to 2.5%
