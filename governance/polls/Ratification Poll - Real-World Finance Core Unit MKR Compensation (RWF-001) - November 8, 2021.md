@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2021-11-08T16:00:00
-end_date: 2021-11-25T16:00:00
+end_date: 2021-11-22T16:00:00
 ---
 # Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
 
