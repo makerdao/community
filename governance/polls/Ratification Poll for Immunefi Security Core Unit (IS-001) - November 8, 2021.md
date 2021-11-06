@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Immunefi Security Core Unit (IS-001) - November 8, 2021
-summary: MIP39c2-SP24 onboards Core Unit IS-001 - Immunefi Security
+title: Ratification Poll for the Immunefi Security Core Unit (IS-001) - November 8, 2021
+summary: This MIP Set onboards the Immunefi Security Core Unit (IS-001)
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp24-adding-immunefi-security-core-unit-is-001/10810
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2021-11-08T16:00:00
 end_date: 2021-11-22T16:00:00
 ---
-# Ratification Poll for Adding the Immunefi Security Core Unit (IS-001) - November 8, 2021
+# Ratification Poll for the Immunefi Security Core Unit (IS-001) - November 8, 2021
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 8 at 16:00 UTC.
 
