@@ -26,12 +26,14 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding WBTC-B as a new vault type in the Maker Protocol with the parameters below:
 
-### Initial Collateral Parameters
+### Collateral Parameters
 
 * Underlying Collateral: Wrapped Bitcoin (WBTC)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 130%
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 500 million DAI
+* [Target Available Debt(`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 30 million
+* [Ceiling Increase Cooldown(`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 million
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 30,000 DAI
 
 ### Liquidation Parameters

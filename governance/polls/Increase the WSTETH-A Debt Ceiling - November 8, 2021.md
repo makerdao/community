@@ -14,7 +14,7 @@ end_date: 2021-11-11T16:00:00
 ---
 # Poll: Increase the WSTETH-A Debt Ceiling - November 8, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Protocol Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk and Protocol Engineering Core Units. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 8 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
