@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The SAS-001 Core Unit aims to improve security, transparency and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1bde6b8c017ff216805f8a6aa542161d08259207/MIP39/MIP39c2-Subproposals/MIP39c2-SP25.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1bde6b8c017ff216805f8a6aa542161d08259207/MIP39/MIP39c2-Subproposals/MIP39c2-SP25.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP25)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796)
 
@@ -45,7 +45,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
  - *Having a buffer for unexpected legal, technical, or financial expenses*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP43)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799)
 
@@ -60,7 +60,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
  - *Escrow Wallet mechanism*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP44.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP44.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP44)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp44-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802)
 
@@ -71,7 +71,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP41c4-SP26 onboards Daniel Kremerov(@danik) as Facilitator for the Sidestream Auction Services Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP26.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP26.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP26)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp26-sidestream-auction-services-facilitator-onboarding-sas-001/10797)
 

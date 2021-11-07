@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This proposal to supplement the MIP6 application for RWA only is intended to enhance the onboarding applications and facilitate the onboarding process. A MIP6 application supplement for RWA will facilitate the process as applicants will be required to provide RWA specific information at a higher level of detail than at present.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP6/MIP6c3-Subproposals/MIP6c3-SP1.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP6/MIP6c3-Subproposals/MIP6c3-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP6c3SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip6c3-sp1-rwa-only-supplement-to-collateral-onboarding-application/10433)
 

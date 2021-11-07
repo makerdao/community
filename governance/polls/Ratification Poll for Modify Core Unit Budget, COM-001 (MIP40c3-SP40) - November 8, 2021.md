@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This budget modification adjusts the team’s budget figures, extends our funding through to the end of 06/22, and updates the budget implementation to accurately reflect the current setup. The annual budget figure has changed from $486,000 to $515,000.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP40.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP40.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP40)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp40-modify-core-unit-budget-com-001/10756)
 

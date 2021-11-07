@@ -34,7 +34,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *As a pioneer in the DeFi space with billions in funds in the protocol, the Maker ecosystem is an attractive target for blackhat hackers who look to steal funds or disrupt the protocol. With millions lost regularly in the cryptocurrency space, it is likely that the Maker protocol, its key people, and its key infrastructure, are targeted on a regular basis.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP39/MIP39c2-Subproposals/MIP39c2-SP24.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP39/MIP39c2-Subproposals/MIP39c2-SP24.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp24-adding-immunefi-security-core-unit-is-001/10810)
 
@@ -49,7 +49,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 * *Regular monthly forecast*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/9fd627c3fdfe4f2b8276a2efaefab59bb25239b5/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/9fd627c3fdfe4f2b8276a2efaefab59bb25239b5/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP42)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813)
 
@@ -70,7 +70,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The IS core unit has been working under the incubation program of the SES since October 2021. The members of this core unit will take that as the start date for the vesting schedule.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP41.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP41.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP41)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814)
 
@@ -81,7 +81,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP41c4-SP25 adds @travinimmunefi as the Facilitator for Core Unit IS-001: Immunefi Security.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP25.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP25.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP25)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp25-immunefi-security-core-unit-facilitator-onboarding-is-001/10812)
 

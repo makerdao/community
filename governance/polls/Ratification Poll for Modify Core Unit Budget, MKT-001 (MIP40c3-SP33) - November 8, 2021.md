@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP33 adds the budget for Core Unit MKT-001: Content Production for December 2021 through May 2022. We are requesting a 6-month budget allocation of 424,944 DAI.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version](https://github.com/makerdao/mips/blob/06a913382e723d202afb586be6fb09f3a9915085/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/06a913382e723d202afb586be6fb09f3a9915085/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP33)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp33-modify-core-unit-budget-mkt-001/10150)
 
