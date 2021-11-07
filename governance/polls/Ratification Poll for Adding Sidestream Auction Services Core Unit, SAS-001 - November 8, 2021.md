@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Adding Sidestream Auction Services Core Unit, SAS-001 - November 8, 2021
-summary: This MIP Set adds the Sidestream Auction Services Core Unit (SAS-001), MIP39c2-SP25.
+summary: This MIP Set adds the Sidestream Auction Services Core Unit (SAS-001).
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796
 vote_type: Plurality Voting
 categories:
