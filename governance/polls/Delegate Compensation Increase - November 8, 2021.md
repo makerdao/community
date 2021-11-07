@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-should-we-increase-
 vote_type: Plurality Voting
 categories:
    - Governance
+   - Budget
 options:
    0: Abstain
    1: Yes
