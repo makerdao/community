@@ -1,11 +1,10 @@
 ---
-title: Increase the GUNIV3DAIUSDC1-A Debt Ceiling - November 8, 2021
-summary: Signal your support or opposition for adjusting the GUNIV3DAIUSDC1-A Debt Ceiling from 50 million DAI to 500 million DAI.
+title: GUNIV3DAIUSDC-A Parameter Adjustments - November 8, 2021
+summary: Signal your support or opposition for adjusting the parameters for the GUNIV3DAIUSDC1-A vault type.
 discussion_link: https://forum.makerdao.com/t/request-to-raise-the-guniv3daiusdc1-a-dc-to-500m/11394
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Collateral
 options:
    0: Abstain
    1: Yes
@@ -13,9 +12,9 @@ options:
 start_date: 2021-11-08T16:00:00
 end_date: 2021-11-11T16:00:00
 ---
-# Poll: Increase the GUNIV3DAIUSDC1-A Debt Ceiling - November 8, 2021
+# Poll: GUNIV3DAIUSDC-A Parameter Adjustments - November 8, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Protocol Engineering Core unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk and Protocol Engineering Core units. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 8 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,16 +23,18 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the GUNIV3DAIUSDC1-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
-* Increase from 50 million DAI to 500 million DAI.
+MKR Token Holders may vote in this poll to express support or opposition to making the following parameter changes to the GUNIV3DAIUSDC1-A vault type:
+* Increase GUNIV3DAIUSDC-A [Debt Ceiling](https://makerdao.world/en/learn/governance/param-debt-ceiling) from 50 million DAI to 500 million DAI.
+* Decrease GUNIV3DAIUSDC-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio) from 105% to 102%.
+* Decrease GUNIV3DAIUSDC-A [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) from 1% to 0.5%.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-raise-the-guniv3daiusdc1-a-dc-to-500m/11394) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These parameter changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the Friday executive passes, then these parameter changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
