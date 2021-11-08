@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
-summary: MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001: Real World Finance.
+summary: MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001, Real World Finance.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 vote_type: Plurality Voting
 categories:
