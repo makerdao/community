@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *$paragraph_summary*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Canonical Proposal Version]($link_to_github_commit_version)
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
 
