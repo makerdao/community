@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP39c2-SP23 establishes a Deco Fixed Rate Core Unit for the integration and maintenance of the Deco protocol facilitating Fixed Rate Vaults. The Deco Protocol operates to decouple Yield-Bearing Assets into Fixed Rate and Pure Yield instruments thus providing a hedge against rate volatility for all yield bearing assets.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP23)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp23-adding-the-deco-fixed-rate-core-unit/10224)
 
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Deco Fixed Rate Core Unit is requesting a Budget for the fixed period of December 1, 2021, through December 1, 2024, (36 Months), with a fixed budget floor of 1,862,500 Dai annually, paid monthly secured in advance quarterly. Deco is not requesting, nor has it included any upfront reimbursement of costs for past work. Instead, Deco has proposed a revenue share model: Maker will pay to Deco 15% of the revenue from the Fixed-Rate CLAIM_FEE token sales only AFTER it has reimbursed the Deco Core Unit and DecoM operating expenses, advanced by Maker, and any MKR distributions which are to be valued in Dai as of the date of acceptance and and approval by Executive Vote Pass and to be utilized through December 1, 2024.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/6bdce46663ef9b2706465b7fad798398788f6109/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a51a3528805d3644bbe32be4838008d40ac54524/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP35)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp35-deco-fixed-rate-core-unit-budget/10225)
 
@@ -54,7 +54,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core Unit on a fixed MKR budget of 500 MKR annually, utilizing a 12-month cliff and vesting quarterly, for the fixed period of December 1, 2021, through December 1, 2024, (36 Months).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/86374640fba68cc742e70bf40fd2fc90e8365267/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP36)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226)
 
@@ -65,7 +65,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP41c4-SP24 onboards Vamsi Alluri as Facilitator for the Deco Fixed Rate Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP41/MIP41c4-Subproposals/MIP41c4-SP24.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP24.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp24-facilitator-onboarding-deco-fixed-rate-core-unit/10227)
 
