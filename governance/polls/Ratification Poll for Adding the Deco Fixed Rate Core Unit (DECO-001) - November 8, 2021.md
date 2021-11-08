@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Deco Fixed Rate Core Unit is requesting a Budget for the fixed period of December 1, 2021, through December 1, 2024, (36 Months), with a fixed budget floor of 1,862,500 Dai annually, paid monthly secured in advance quarterly. Deco is not requesting, nor has it included any upfront reimbursement of costs for past work. Instead, Deco has proposed a revenue share model: Maker will pay to Deco 15% of the revenue from the Fixed-Rate CLAIM_FEE token sales only AFTER it has reimbursed the Deco Core Unit and DecoM operating expenses, advanced by Maker, and any MKR distributions which are to be valued in Dai as of the date of acceptance and and approval by Executive Vote Pass and to be utilized through December 1, 2024.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/6bdce46663ef9b2706465b7fad798398788f6109/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a51a3528805d3644bbe32be4838008d40ac54524/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP35)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp35-deco-fixed-rate-core-unit-budget/10225)
 
