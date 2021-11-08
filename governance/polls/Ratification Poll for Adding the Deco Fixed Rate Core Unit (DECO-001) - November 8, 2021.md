@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP39c2-SP23 establishes a Deco Fixed Rate Core Unit for the integration and maintenance of the Deco protocol facilitating Fixed Rate Vaults. The Deco Protocol operates to decouple Yield-Bearing Assets into Fixed Rate and Pure Yield instruments thus providing a hedge against rate volatility for all yield bearing assets.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP23)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp23-adding-the-deco-fixed-rate-core-unit/10224)
 
