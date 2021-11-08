@@ -54,7 +54,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core Unit on a fixed MKR budget of 500 MKR annually, utilizing a 12-month cliff and vesting quarterly, for the fixed period of December 1, 2021, through December 1, 2024, (36 Months).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/86374640fba68cc742e70bf40fd2fc90e8365267/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP36)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226)
 
@@ -65,7 +65,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP41c4-SP24 onboards Vamsi Alluri as Facilitator for the Deco Fixed Rate Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3fbfda3cf6326fd0f77cf670f7c0b0cd2dc522b2/MIP41/MIP41c4-Subproposals/MIP41c4-SP24.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP41/MIP41c4-Subproposals/MIP41c4-SP24.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp24-facilitator-onboarding-deco-fixed-rate-core-unit/10227)
 
