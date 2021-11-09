@@ -8,6 +8,7 @@ external_profile_url:
 ### Key Info
 
 Delegate Address: `0xb21e535Fb349E4eF0520318aCFe589E174B0126b`  
+ENS Name: `mkrdelegate.schuppi.eth`  
 Forum: @ultraschuppi  
 Rocketchat: @schuppi  
 Discord: schuppi#6905  
@@ -45,7 +46,7 @@ As a rule of thumb: I will vote in favor for every exec that gets promoted on ch
 
 ### Conflicts of Interest
 
-I hold a bit of YFI, AAVE, COMP but not to the same degree I hold MKR. I am currently not participating in any other DAO and do not plan to do that.
+I hold a bit of YFI, AAVE, COMP but not to the same degree I hold MKR. Aside from being a [ENS-Delegate](https://discuss.ens.domains/t/ens-dao-delegate-applications/815/881), I am currently not participating in any other DAO and do not plan to do that.
 
 I have read and agree to the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
 
