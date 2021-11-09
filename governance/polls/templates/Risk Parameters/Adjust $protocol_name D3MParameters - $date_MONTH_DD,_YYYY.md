@@ -1,6 +1,6 @@
 ---
-title: Set $ilk Direct Deposit Dai Module (D3M) Parameters - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to using the Direct Deposit Dai Module (D3M) for $ilk with the listed parameters.
+title: Set DIRECT-$protocol_name-DAI Parameter Adjustments - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition to adjusting the $protocol_name DAI Direct Deposit Module (D3M) parameters..
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
@@ -12,9 +12,9 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# Poll: Set $ilk Direct Deposit Dai Module (D3M) Parameters - $date_MONTH_DD,_YYYY
+# Poll: Adjust $protocol_name Direct Deposit Dai Module (D3M) Parameters - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the $ilk Direct Deposit Dai Module (D3M) with the listed parameters.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the $protocol_name Direct Deposit Dai Module (D3M) with the listed parameters.
 
 This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -25,14 +25,15 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-The proposed parameters for the $ilk Direct Deposit Dai Module (D3M) are:
-* Maximum Debt Ceiling (`line`): $line
-* Target Available Debt (`gap`): $gap
-* Target Borrow Rate (`bar`): $bar
+MKR Token Holders may vote in this poll to express support or opposition to making the following parameter changes to the $protocol_name DAI Direct Deposit Module (D3M):
+
+* $IncreaseDecrease the DIRECT-$protocol_name-DAI [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) from $current_line to $new_line.
+* $IncreaseDecrease the DIRECT-$protocol_name-DAI [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) from $current_gap to $new_gap.
+* $IncreaseDecrease the DIRECT-$protocol_name-DAI Target Borrow Rate (`bar`) from 4% to 3.9%.
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
-For more information regarding the Direct Deposit Dai Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
+For more information regarding the Dai Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ## Outcomes
 
