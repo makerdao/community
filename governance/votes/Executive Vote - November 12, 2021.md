@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Parameter Changes, Return Unused Budget to the Surplus Buffer - November 12, 2021
-summary: GUNIV3DAIUSDC-A, WSTETH-A, and DIRECT-AAVEV2-DAI parameter changes and return unused funds from GovAlpha to the Surplus Buffer
+summary: GUNIV3DAIUSDC-A, WSTETH-A, and DIRECT-AAVEV2-DAI parameter changes and return unused funds from GovAlpha to the Surplus Buffer.
 date: 2021-11-12T00:00:00.000Z
 address: "$spell_address"
 
@@ -59,13 +59,13 @@ As per [this poll](https://vote.makerdao.com/polling/QmNbTzG1?network=mainnet#po
 * The [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 10 million DAI to 25 million DAI.
 * The Target Borrow Rate will be decreased from 4% to 3.9%.
 
-For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/d3m-dc-increase-target-borrow-rate-decrease-proposal/11421). Further information regarding these parameters can also be found in this [discussion thread](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
+For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/d3m-dc-increase-target-borrow-rate-decrease-proposal/11421). Further information on DIRECT-AAVEV2-DAI (Aave D3M) can also be found in this [discussion thread](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ### Return Unused DAI to the Surplus Buffer
 
 As per this [forum thread](https://forum.makerdao.com/t/govalpha-budget-return/11341), 218,059.81 unused DAI from the GovAlpha Core Unit budget will be returned to the Surplus Buffer from the PauseProxy contract, if this executive proposal passes. 
 
-This amount comprises budgeted funds that were unused by the GovAlpha Core Unit.
+This amount comprises budgeted funds that were unused by the [GovAlpha Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3).
 
 ## Review
 
