@@ -5,7 +5,7 @@ date: 2021-11-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Parameter Changes, Return Unused Budget Funds to the Surplus Buffer  - November 12, 2021
+# [Executive Proposal] Parameter Changes, Return Unused Budget Funds to the Surplus Buffer - November 12, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,10 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Changes to the GUNIV3DAIUSDC-A [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam), [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio), and [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee), as detailed below
-- [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) parameter for WSTETH-A will be increased to 50 million DAI
-- Changes to the DIRECT-AAVEV2-DAI [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam), [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam), and Target Borrow Rate, as detailed below
-- 218,059.10 DAI will be returned to the Surplus Buffer from PauseProxy
+- Changes to the GUNIV3DAIUSDC-A [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam), [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio), and [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee), as detailed below.
+- [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) parameter for WSTETH-A will be increased to 50 million DAI.
+- Changes to the DIRECT-AAVEV2-DAI [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam), [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam), and Target Borrow Rate, as detailed below.
+- 218,059.10 DAI will be returned to the Surplus Buffer from the PauseProxy contract.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -35,35 +35,35 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### GUNIV3DAIUSDC-A Parameter Adjustments
 
-As per [this poll](https://vote.makerdao.com/polling/QmemHGSM?network=mainnet), the following GUNIV3DAIUSDC-A parameter adjustments will occur, if this executive passes:
+As per [this poll](https://vote.makerdao.com/polling/QmemHGSM?network=mainnet), the following GUNIV3DAIUSDC-A parameter adjustments will occur, if this executive proposal passes:
 
-* Increase the [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) from 50 million DAI to 500 million DAI
-* Decrease the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio) from 105% to 102%
-* Decrease the [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) from 1% to 0.5%
+* The [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 500 million DAI.
+* The [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio) will be decreased from 105% to 102%.
+* The [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) will be decreased from 1% to 0.5%.
 
 For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/request-to-raise-the-guniv3daiusdc1-a-dc-to-500m/11394).
 
 ### WSTETH-A Debt Ceiling Increase
 
-As per [this poll](https://vote.makerdao.com/polling/QmeQUKFm?network=mainnet), the following change will occur, if this executive passes:
+As per [this poll](https://vote.makerdao.com/polling/QmeQUKFm?network=mainnet), the following change will occur, if this executive proposal passes:
 
-* Increase the [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) from 5 million DAI to 50 million DAI
+* The [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 5 million DAI to 50 million DAI.
 
 For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/request-to-raise-staked-eth-dc-to-50m/11402).
 
-### DIRECT-AAVEV2-DAI Parameter Adjustments
+### DIRECT-AAVEV2-DAI (Aave D3M) Parameter Adjustments
 
-As per [this poll](https://vote.makerdao.com/polling/QmNbTzG1?network=mainnet#poll-detail), the following DIRECT-AAVEV2-DAI parameter adjustments will occur, if this executive passes:
+As per [this poll](https://vote.makerdao.com/polling/QmNbTzG1?network=mainnet#poll-detail), the following DIRECT-AAVEV2-DAI parameter adjustments will occur, if this executive proposal passes:
 
-* Increase the [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) from 10 million DAI to 50 million DAI
-* Increase the [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam) from 10 million DAI to 25 million DAI
-* Decrease the Target Borrow Rate from 4% to 3.9%
+* The [Maximum Debt Ceiling (line)](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 10 million DAI to 50 million DAI.
+* The [Target Available Debt (gap)](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 10 million DAI to 25 million DAI.
+* The Target Borrow Rate will be decreased from 4% to 3.9%.
 
-For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/d3m-dc-increase-target-borrow-rate-decrease-proposal/11421).
+For more information on this proposal, please see this [discussion thread](https://forum.makerdao.com/t/d3m-dc-increase-target-borrow-rate-decrease-proposal/11421). Further information regarding these parameters can also be found in this [discussion thread](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ### Return Unused DAI to the Surplus Buffer
 
-As per this [forum thread](https://forum.makerdao.com/t/govalpha-budget-return/11341), 218,059.81 DAI will be returned to the Surplus Buffer from PauseProxy, if this executive passes. 
+As per this [forum thread](https://forum.makerdao.com/t/govalpha-budget-return/11341), 218,059.81 unused DAI from the GovAlpha Core Unit budget will be returned to the Surplus Buffer from the PauseProxy contract, if this executive proposal passes. 
 
 This amount comprises budgeted funds that were unused by the GovAlpha Core Unit.
 
