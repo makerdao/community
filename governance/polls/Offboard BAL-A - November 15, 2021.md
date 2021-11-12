@@ -1,6 +1,6 @@
 ---
 title: Offboard the BAL-A Vault Type - November 15, 2021
-summary: Signal your support or opposition to offboard the BAT-A vault type.
+summary: Signal your support or opposition to offboard the BAL-A vault type.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboarding-matic-comp-aave-and-bal/11184
 vote_type: Plurality Voting
 categories:
