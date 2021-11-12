@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, Return Unused Budget to the Surplus Buffer - November 12, 2021
 summary: GUNIV3DAIUSDC-A, WSTETH-A, and DIRECT-AAVEV2-DAI parameter changes and return unused funds from GovAlpha to the Surplus Buffer.
 date: 2021-11-12T00:00:00.000Z
-address: "$spell_address"
+address: "0x82b24156f0223879aaaC2DD0996a25Fe1FF74e1a"
 
 ---
 # [Executive Proposal] Parameter Changes, Return Unused Budget Funds to the Surplus Buffer - November 12, 2021
