@@ -10,8 +10,8 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-11-15T16:00:00
+end_date: 2021-11-29T16:00:00
 ---
 # Poll: Community Greenlight Poll - SB-frOGI (SolidBlock Red Frog Digital Coin) - November 15, 2021
 
