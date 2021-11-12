@@ -14,7 +14,7 @@ end_date: 2021-11-18T16:00:00
 ---
 # Poll: Offboard the BAL-A Vault Type - November 15, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 4 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
