@@ -1,6 +1,6 @@
 ---
 title: Change of Covenants for P1-DROP (farmlands) - November 15, 2021
-summary: Signal your support or opposition for increasing the acquisition price up to 2.85M for P1-DROP
+summary: Signal your support or opposition for adjusting the P1-DROP (farmlands) covenants
 discussion_link: https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236
 vote_type: Plurality Voting
 categories:
@@ -24,8 +24,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review 
 
 MKR Token Holders may vote in this poll to express support or opposition to the following covenant changes to P1-DROP (farmlands):
-   * Increase acquisition price from 1.5M to 2.85M.
-   * Include Arkansas as possible state.
+   * Increase maximum acquisition price from $1.5 million to $2.85 million.
+   * Include Arkansas as a possible state.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236) to inform your position on this issue before voting.
 
