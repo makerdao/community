@@ -1,5 +1,5 @@
 ---
-title: Increase the ilk.hole Parameter for Several Collaterals - November 15, 2021
+title: Local Liquidation Limit Adjustments for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A - November 15, 2021
 summary: Signal your support or opposition for increasing the Local Liquidation Limit (ilk.hole) for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A as detailed. 
 discussion_link: https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531
 vote_type: Plurality Voting
@@ -13,7 +13,7 @@ options:
 start_date: 2021-11-15T16:00:00
 end_date: 2021-11-18T16:00:00
 ---
-# Poll: Increase the ilk.hole Parameter for Several Collaterals - November 15, 2021
+# Poll: Local Liquidation Limit Adjustments for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A - November 15, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
 
