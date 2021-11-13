@@ -4,7 +4,7 @@ summary: Signal your support or opposition for increasing the Local Liquidation 
 discussion_link: https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531
 vote_type: Plurality Voting
 categories:
-   - Risk Variable (Rates?*)
+   - Risk Variable
    - Auctions
 options:
    0: Abstain
