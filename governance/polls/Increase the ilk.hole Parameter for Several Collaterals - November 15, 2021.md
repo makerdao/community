@@ -1,6 +1,6 @@
 ---
 title: Increase the ilk.hole Parameter for Several Collaterals - November 15, 2021
-summary: Signal your support or opposition for increasing ilk.hole Parameter for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A.
+summary: Signal your support or opposition for increasing the Local Liquidation Limit (ilk.hole) for ETH-A, ETH-B, ETH-C, WBTC-A and WSTETH-A as detailed. 
 discussion_link: https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531
 vote_type: Plurality Voting
 categories:
@@ -15,7 +15,7 @@ end_date: 2021-11-18T16:00:00
 ---
 # Poll: Increase the ilk.hole Parameter for Several Collaterals - November 15, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,12 +24,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to increasing [ilk.hole](https://makerdao.world/en/learn/governance/param-local-liquidation-limit/) for the following vaults as follows:
-   * ETH-A: from current 40M to 65M.
-   * ETH-B: from current 25M to 30M.
-   * ETH-C: from current 30M to 35M.
-   * WBTC-A: from current 25M to 40M
-   * WSTETH-A: from current 3M to 7M
+MKR Token Holders may vote in this poll to express support or opposition to the following changes.
+
+Increase the [Local Liquidation Limit (`ilk.hole`)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) as follows:
+   * ETH-A Local Liquidation Limit (`ilk.hole`) from 40 million DAI to 65 million DAI.
+   * ETH-B Local Liquidation Limit (`ilk.hole`) from 25 million DAI to 30 million DAI.
+   * ETH-C Local Liquidation Limit (`ilk.hole`) from 30 million DAI to 35 million DAI.
+   * WBTC-A Local Liquidation Limit (`ilk.hole`) from 25 million DAI to 40 million DAI.
+   * WSTETH-A Local Liquidation Limit (`ilk.hole`) from 3 million DAI to 7 million DAI
 
 Please review the discussion [thread](https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531) to inform your position on this issue before voting.
 
@@ -45,7 +47,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/auction-throu
 
 ## Resources
 
-Unsure about the ilk.hole parameter and what you should take into account when voting? Check out the parameter documentation [here](https://makerdao.world/en/learn/governance/param-local-liquidation-limit/).
+Unsure about the Local Liquidation Limit (`ilk.hole`) parameter and what you should take into account when voting? Check out the parameter documentation [here](https://makerdao.world/en/learn/governance/param-local-liquidation-limit/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
