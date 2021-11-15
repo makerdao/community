@@ -1,6 +1,6 @@
 ---
-title: Change of Covenants for P1-DROP (farmlands) - November 15, 2021
-summary: Signal your support or opposition for adjusting the P1-DROP (farmlands) covenants
+title: Change of Covenants for P1-DROP (Peoples Company Series 1) - November 15, 2021
+summary: Signal your support or opposition for adjusting the P1-DROP (Peoples Company Series 1) covenants
 discussion_link: https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2021-11-15T16:00:00
 end_date: 2021-11-18T16:00:00
 ---
-# Poll: Change of Covenants for P1-DROP (farmlands) - November 15, 2021
+# Poll: Change of Covenants for P1-DROP (Peoples Company Series 1) - November 15, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
 
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to the following covenant changes to P1-DROP (farmlands):
+MKR Token Holders may vote in this poll to express support or opposition to the following covenant changes to P1-DROP (Peoples Company Series 1):
    * Increase maximum acquisition price from $1.5 million to $2.85 million.
    * Include Arkansas as a possible state.
 
