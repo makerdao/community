@@ -30,6 +30,8 @@ The community can vote in this poll to express support or opposition to the foll
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboarding-matic-comp-aave-and-bal/11184) to help inform your position before voting.
 
+For additional information on the parameters that would be used to offboard this collateral, please see [this post](https://forum.makerdao.com/t/proposed-offboarding-collateral-parameters-2/11548) from the Risk Core Unit.
+
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
