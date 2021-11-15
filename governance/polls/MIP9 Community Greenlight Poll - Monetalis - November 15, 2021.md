@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - MONETALIS (Montalis Wholesale SME Green Growth Lending) - November 15, 2021
-summary: Signal your support or opposition to prioritising onboarding MONETALIS (Montalis Wholesale SME Green Growth Lending). 
+title: Community Greenlight Poll - MONETALIS (Monetalis Wholesale SME Green Growth Lending) - November 15, 2021
+summary: Signal your support or opposition to prioritising onboarding MONETALIS (Monetalis Wholesale SME Green Growth Lending). 
 discussion_link: https://forum.makerdao.com/t/mip6-collateral-onboarding-application-monetalis-wholesale-green-economy-senior-secure-sme-funding/11223
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2021-11-15T16:00:00
 end_date: 2021-11-29T16:00:00
 ---
-# Poll: Community Greenlight Poll - MONETALIS (Montalis Wholesale SME Green Growth Lending) - November 15, 2021
+# Poll: Community Greenlight Poll - MONETALIS (Monetalis Wholesale SME Green Growth Lending) - November 15, 2021
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 15 at 16:00 UTC.
 
@@ -24,15 +24,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset MONETALIS (Montalis Wholesale SME Green Growth Lending) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset MONETALIS (Monetalis Wholesale SME Green Growth Lending) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-monetalis-wholesale-green-economy-senior-secure-sme-funding/11223) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for MONETALIS (Montalis Wholesale SME Green Growth Lending) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for MONETALIS (Montalis Wholesale SME Green Growth Lending) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for MONETALIS (Monetalis Wholesale SME Green Growth Lending) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for MONETALIS (Monetalis Wholesale SME Green Growth Lending) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
