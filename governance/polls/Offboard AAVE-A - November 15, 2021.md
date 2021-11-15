@@ -1,7 +1,7 @@
 ---
-title: Change of Covenants for P1-DROP (farmlands) - November 15, 2021
-summary: Signal your support or opposition for adjusting the P1-DROP (farmlands) covenants
-discussion_link: https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236
+title: Offboard the AAVE-A Vault Type - November 15, 2021
+summary: Signal your support or opposition to offboard the AAVE-A vault type.
+discussion_link: https://forum.makerdao.com/t/signal-request-offboarding-matic-comp-aave-and-bal/11184
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -12,7 +12,7 @@ options:
 start_date: 2021-11-15T16:00:00
 end_date: 2021-11-18T16:00:00
 ---
-# Poll: Change of Covenants for P1-DROP (farmlands) - November 15, 2021
+# Poll: Offboard the AAVE-A Vault Type - November 15, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 15 at 16:00 UTC.
 
@@ -21,27 +21,28 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
-## Review 
+## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following covenant changes to P1-DROP (farmlands):
-   * Increase maximum acquisition price from $1.5 million to $2.85 million.
-   * Include Arkansas as a possible state.
+The community can vote in this poll to express support or opposition to the following changes: 
+* Lower the AAVE-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
+* Lower the AAVE-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
+* Increase the AAVE-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) over 30 days using dss-lerp such that all vaults are liquidated by the end of that period.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboarding-matic-comp-aave-and-bal/11184) to help inform your position before voting.
+
+For additional information on the parameters that would be used to offboard this collateral, please see [this post](https://forum.makerdao.com/t/proposed-offboarding-collateral-parameters-2/11548) from the Risk Core Unit.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameters changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
 ## Resources
-
-Unsure about collaterals and what you should take into account when voting? Check out the parameter documentation [here](https://collateral.makerdao.com/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
