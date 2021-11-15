@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to the following changes: 
 * Lower the AAVE-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 * Lower the AAVE-A [Debt Ceiling (line)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
-* Increase the AAVE-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) over 60 days using dss-lerp such that all vaults are liquidated by the end of that period.
+* Increase the AAVE-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) over 30 days using dss-lerp such that all vaults are liquidated by the end of that period.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboarding-matic-comp-aave-and-bal/11184) to help inform your position before voting.
 
