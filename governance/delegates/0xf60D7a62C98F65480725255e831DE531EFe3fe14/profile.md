@@ -7,11 +7,11 @@ external_profile_url:
 
 ### Key Info
 
-Name: GFX Labs
-Delegate Address: 0xf60D7a62C98F65480725255e831DE531EFe3fe14
-Forum: @GFXlabs
-Email: governance@gfxlabs.io
-Meet Your Delegate Video: Expected Nov 17
+Name: GFX Labs  
+Delegate Address: 0xf60D7a62C98F65480725255e831DE531EFe3fe14  
+Forum: @GFXlabs  
+Email: governance@gfxlabs.io  
+Meet Your Delegate Video: Expected Nov 17  
 
 ### Delegate Statement
 
