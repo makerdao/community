@@ -2,7 +2,7 @@
 title: Template - [Executive Proposal] Onboarding WBTC-B, Increasing WBTC-A Stability Fee, Change of Covenants for P1-DROP, Offboarding Collaterals - November 19, 2021.
 summary: Onboarding WBTC-B; increasing WBTC-A Stability Fees; change of covenants for P1-DROP; offboarding BAL-A, COMP-A, AAVE-A, LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A.
 date: 2021-11-19T00:00:00.000Z
-address: "$spell_address"
+address: "0xcdC89bF6EfB7EEd5Ba0Ded0fC9f134b939faFBB0"
 
 ---
 # [Executive Proposal] Onboarding WBTC-B, Parameter Changes, Change of Covenants for P1-DROP, Offboarding Collaterals - November 19, 2021
