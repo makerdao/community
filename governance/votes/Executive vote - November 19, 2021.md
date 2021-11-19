@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Proposal] Onboarding WBTC-B, Increasing WBTC-A Stability Fee, Change of Covenants for P1-DROP, Offboarding Collaterals - November 19, 2021.
-summary: Onboarding WBTC-B; parameter changes; change of covenants for P1-DROP; offboarding BAL-A, COMP-A, AAVE-A, LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A
+summary: Onboarding WBTC-B; increasing WBTC-A Stability Fees; change of covenants for P1-DROP; offboarding BAL-A, COMP-A, AAVE-A, LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A.
 date: 2021-11-19T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-- The WBTC-A Stability Fee will be increased from 2.5% to 4.0%.
+- The WBTC-A [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) will be increased from 2.5% to 4.0%.
 - [Local Liquidation Limits (`ilk.hole`)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) for ETH-A, ETH-B, ETH-C, WBTC-A, WSTETH-A will be increased.
 - P1-DROP (Peoples Company Series 1) covenant will be changed.
 - BAL-A, COMP-A, AAVE-A, LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A will be offboarded
@@ -47,6 +47,8 @@ As per the outcome of [this poll](https://vote.makerdao.com/polling/QmRUgsvi), t
 |--|--|--|--|
 | WBTC-A | 2.5% | 4% | +1.5% |
 
+For more information, please see [this thread](https://forum.makerdao.com/t/mid-month-parameter-changes-proposal-ppg-omc-001-2021-11-10/11562).
+
 ### Increases to Local Liquidation Limits (`ilk.hole`) for ETH-A, ETH-B, ETH-C, WBTC-A, WSTETH-A
 
 As per the outcome of [this poll](https://vote.makerdao.com/polling/QmQN6FX8), the following [Local Liquidation Limits](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) will be **increased** if this executive proposal passes:
@@ -57,16 +59,20 @@ As per the outcome of [this poll](https://vote.makerdao.com/polling/QmQN6FX8), t
 | ETH-B | 25 million DAI | 30 million DAI | +5 million DAI |
 | ETH-C | 30 million DAI | 35 million DAI | +5 million DAI |
 
+For more information, please see [this post](https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531).
+
 ### A change of Covenants for P1-DROP (Peoples Company Series 1)
 
-As per [this poll], the following covenant changes to P1-DROP (Peoples Company Series 1) will occur if this executive proposal passes:
+As per [this poll](https://vote.makerdao.com/polling/Qma62bse), the following covenant changes to P1-DROP (Peoples Company Series 1) will occur if this executive proposal passes:
 
 - Increase maximum acquisition price from $1.5 million to $2.85 million.
 - Include Arkansas as a possible state.
 
+For more information, please see this [signal request thread].
+
 ### Offboarding Vaults
 
-The following vaults will be offboarded by implementing the following changes if this executive proposal passes:
+The following vaults will be offboarded by implementing the following changes if this executive proposal passes. Further context can be found [here](https://forum.makerdao.com/t/proposed-offboarding-collateral-parameters-2/11548).
 
 #### BAL-A
 
@@ -154,6 +160,8 @@ As per the outcome of [this poll](https://vote.makerdao.com/polling/QmSL1kDq), W
 
 - [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.1%
 - [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300 DAI
+
+For more information, please see the [Risk Core Unit evaluation](https://forum.makerdao.com/t/wbtc-b-collateral-onboarding-risk-assessment/11397) and [this signal request](https://forum.makerdao.com/t/signal-request-new-iam-vault-type-for-wbtc-with-lower-lr/5736).
 
 ## Review
 
