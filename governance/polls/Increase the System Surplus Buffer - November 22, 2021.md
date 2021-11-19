@@ -7,10 +7,10 @@ categories:
    - Risk Variable
 options:
    0: Abstain
-   1: Increase to 90 million by 0.67 million/week
-   2: Increase to 130 million by 0.67 million/week
-   3: Increase to 90 million by 1 million/week
-   4: Increase to 130 million by 1 million/week
+   1: Increase to 90 million by 0.67 million per week
+   2: Increase to 130 million by 0.67 million per week
+   3: Increase to 90 million by 1 million per week
+   4: Increase to 130 million by 1 million per week
    5: No change
 start_date: 2021-11-22T16:00:00
 end_date: 2021-11-25T16:00:00
