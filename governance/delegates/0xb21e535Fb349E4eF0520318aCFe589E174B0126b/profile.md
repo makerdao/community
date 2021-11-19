@@ -8,6 +8,7 @@ external_profile_url:
 ### Key Info
 
 Delegate Address: `0xb21e535Fb349E4eF0520318aCFe589E174B0126b`  
+ENS Name: `mkrdelegate.schuppi.eth`  
 Forum: @ultraschuppi  
 Rocketchat: @schuppi  
 Discord: schuppi#6905  
@@ -36,7 +37,7 @@ I am usually trusting in people, and not caring a lot about KPIs. I know that th
 ### About myself
 I already gave some background about myself in the [Facilitator Onboarding post](https://forum.makerdao.com/t/mip41c4-sp22-facilitator-onboarding-makerlabs/10109) for the failed MakerLabs Core Unit. Some additional points relevant here
 
-* I am not a professional delegate, I am just someone who has been voted for >2 years in every single poll and exec and will continue doing that. I am not doing this here for the money, I do it because I believe in this project and think that participating in governance with your MKR is not optional. I am voting anyway and the additional effort of explaining my reasons is not that much.
+* I am not a professional delegate, I am just someone who has been voting for >2 years in every single poll and exec and will continue doing that. I am not doing this here for the money, I do it because I believe in this project and think that participating in governance with your MKR is not optional. I am voting anyway and the additional effort of explaining my reasons is not that much.
 * I hope we are going to see a lot more professional delegates mid-term (and for that a competitive compensation is most probably needed), but in the current situation I want to encourage amateurs like me to step up and offer their service.
 * It is not only Defi and Maker being early, it is also delegation. I am a bit surprised and disappointed that we ran into the topic of “how much do we need to pay our delegates” just weeks after delegation has started. I put a big NO on the currently running [SR for increasing the max Delegate Compensation](https://forum.makerdao.com/t/signal-request-should-we-increase-maximum-delegate-compensation-as-described-in-mip61-to-144k-dai-for-the-initial-3-month-delegate-compensation-trial/11093).
 * While the drunk whale was still around, I was already poking him every week giving him an update on the current polls, helping on his decision making and luring him into helping to pass the exec. By that time he was already asking for being able to just delegate his voting power. At this time the idea was born to do that myself. I ditched it in favor of trying the MakerLabs path - so this is totally not an idea that came up recently.
@@ -45,7 +46,7 @@ As a rule of thumb: I will vote in favor for every exec that gets promoted on ch
 
 ### Conflicts of Interest
 
-I hold a bit of YFI, AAVE, COMP but not to the same degree I hold MKR. I am currently not participating in any other DAO and do not plan to do that.
+I hold a bit of YFI, AAVE, COMP but not to the same degree I hold MKR. Aside from being a [ENS-Delegate](https://discuss.ens.domains/t/ens-dao-delegate-applications/815/881), I am currently not participating in any other DAO and do not plan to do that.
 
 I have read and agree to the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
 

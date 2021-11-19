@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
-summary: $sentence_summary_mip_set
-discussion_link: $discussion_link
+title: Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
+summary: MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001, Real World Finance.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -9,12 +9,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2021-11-08T16:00:00
+end_date: 2021-11-22T16:00:00
 ---
-# Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
+# Ratification Poll for Real-World Finance Core Unit MKR Compensation, RWF-001 (MIP40c3-SP38) - November 8, 2021
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 8 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,48 +23,24 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
-
-### $mip_code_1
+The community may vote in this poll to express support or opposition to MIP40c3-SP38 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*($paragraph_summary)*
+*This proposal contains the MKR Compensation budget for the Core Unit RWF-001: Real-World Finance. This proposal is based on [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) by @Aes. It provides an average of 80 MKR per FTE per year over 3 years with a 1 year cliff.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
-
-### $mip_code_2
-
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
-
-*($paragraph_summary)*
-
-Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
-
-### $mip_code_3
-
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
-
-*$paragraph_summary*
-
-Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e68595057de5e9d2154a3320ff121ea7ad1f94a/MIP40/MIP40c3-Subproposals/MIP40c3-SP38.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP38)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date. 
-* Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, November 25. 
+* Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
