@@ -11,7 +11,7 @@ Name: GFX Labs
 Delegate Address: 0xf60D7a62C98F65480725255e831DE531EFe3fe14  
 Forum: @GFXlabs  
 Email: governance@gfxlabs.io  
-Meet Your Delegate Video: Expected Nov 17  
+Meet Your Delegate Video: https://www.youtube.com/watch?v=SoiTAghnWFE
 
 ### Delegate Statement
 
