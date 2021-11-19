@@ -20,7 +20,8 @@ If this executive proposal passes, the following **changes** will occur within t
 - The WBTC-A [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) will be increased from 2.5% to 4.0%.
 - [Local Liquidation Limits (`ilk.hole`)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) for ETH-A, ETH-B, ETH-C, WBTC-A, WSTETH-A will be increased.
 - P1-DROP (Peoples Company Series 1) covenant will be changed.
-- BAL-A, COMP-A, AAVE-A, LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A will be offboarded
+- BAL-A, COMP-A, AAVE-A will be offboarded.
+- Changes to LRC-A, BAT-A, ZRX-A, UNIV2LINKETH-A for collateral offboarding.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - WBTC-B will be onboarded as a new vault type.
@@ -68,7 +69,7 @@ As per [this poll](https://vote.makerdao.com/polling/Qma62bse), the following co
 - Increase maximum acquisition price from $1.5 million to $2.85 million.
 - Include Arkansas as a possible state.
 
-For more information, please see this [signal request thread].
+For more information, please see this [signal request thread](https://forum.makerdao.com/t/signal-request-p1-drop-change-of-covenants-for-p1-drop-farmlands/11236).
 
 ### Offboarding Vaults
 
@@ -98,30 +99,32 @@ As per [this poll](https://vote.makerdao.com/polling/QmPdvqZg), the following pa
 - Lower the [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
 - Increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 2100% over 30 days using dss-lerp.
 
-#### LRC-A
+#### Updating dss-lerp Liquidation Ratios
 
-As per [this signal poll](https://forum.makerdao.com/t/signal-request-offboard-unprofitable-collateral-types/8628), the following parameters changes will occur to offboard LRC-A if this executive proposal passes:
+##### LRC-A
+
+LRC-A has been offboarded via [a previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-offboarding-vaults-mkr-vesting-and-core-unit-budget-distribution-october-8-2021). The following parameter changes will increase the Liquidation Ratio for LRC-A if this executive proposal passes. For more information, see [this](https://docs.google.com/spreadsheets/d/1pG0HtlQlpfx4CWhDo1jftZID22GsRLPzBBib7N2hpwc/edit#gid=0).
 
 - The previous dss-lerp for increasing the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) of this collateral will be canceled.
 - A new dss-lerp contract will be deployed to increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 24300% over 30 days.
 
-#### BAT-A
+##### BAT-A
 
-As per [this signal poll](https://forum.makerdao.com/t/signal-request-offboard-unprofitable-collateral-types/8628), the following parameters changes will occur to offboard BAT-A if this executive proposal passes:
+BAT-A has been offboarded via [a previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-offboarding-vaults-mkr-vesting-and-core-unit-budget-distribution-october-8-2021). The following parameter changes will increase the Liquidation Ratio for BAT-A if this executive proposal passes. For more information, see [this](https://docs.google.com/spreadsheets/d/1pG0HtlQlpfx4CWhDo1jftZID22GsRLPzBBib7N2hpwc/edit#gid=0).
 
 - The previous dss-lerp for increasing the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) of this collateral will be canceled.
 - A new dss-lerp contract will be deployed to increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 11200% over 30 days.
 
-#### ZRX-A
+##### ZRX-A
 
-As per [this signal poll](https://forum.makerdao.com/t/signal-request-offboard-unprofitable-collateral-types/8628), the following parameters changes will occur to offboard ZRX-A if this executive proposal passes:
+ZRX-A has been offboarded via [a previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-offboarding-vaults-mkr-vesting-and-core-unit-budget-distribution-october-8-2021). The following parameter changes will increase the Liquidation Ratio for ZRX-A if this executive proposal passes. For more information, see [this](https://docs.google.com/spreadsheets/d/1pG0HtlQlpfx4CWhDo1jftZID22GsRLPzBBib7N2hpwc/edit#gid=0).
 
 - The previous dss-lerp for increasing the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) of this collateral will be canceled.
 - A new dss-lerp contract will be deployed to increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 5500% over 30 days.
 
-#### UNIV2LINKETH-A
+##### UNIV2LINKETH-A
 
-As per [this signal poll](https://forum.makerdao.com/t/signal-request-offboard-unprofitable-collateral-types/8628), the following parameters changes will occur to offboard UNIV2LINKETH-A if this executive proposal passes:
+UNIV2LINKETH-A has been offboarded via [a previous executive proposal](https://vote.makerdao.com/executive/template-executive-vote-offboarding-vaults-mkr-vesting-and-core-unit-budget-distribution-october-8-2021). The following parameter changes will increase the Liquidation Ratio for UNIV2LINKETH-A if this executive proposal passes. For more information, see [this](https://docs.google.com/spreadsheets/d/1pG0HtlQlpfx4CWhDo1jftZID22GsRLPzBBib7N2hpwc/edit#gid=0).
 
 - The previous dss-lerp for increasing the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) of this collateral will be canceled.
 - A new dss-lerp contract will be deployed to increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 1600% over 30 days.
