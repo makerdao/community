@@ -1,5 +1,5 @@
 ---
-title: Adjust Aave Direct Deposit Dai Module (D3M) Maximum Debt Ceiling - November 22, 2021
+title: Increase the Aave D3M Maximum Debt Ceiling - November 22, 2021
 summary: Signal your support or opposition to adjusting the Aave DAI Direct Deposit Module (D3M) Maximum Debt Ceiling.
 discussion_link: https://forum.makerdao.com/t/proposal-to-increase-the-d3m-dc-from-50m-to-100m/11737
 vote_type: Plurality Voting
@@ -12,11 +12,9 @@ options:
 start_date: 2021-11-22T16:00:00
 end_date: 2021-11-25T16:00:00
 ---
-# Poll: Adjust Aave Direct Deposit Dai Module (D3M) Maximum Debt Ceiling - November 22, 2021
+# Poll: Increase the Aave D3M Maximum Debt Ceiling - November 22, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the Aave Direct Deposit Dai Module (D3M) with the listed parameter change.
-
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Risk Core Unit and the Protocol Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 22 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -25,13 +23,12 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to making the following parameter change to the Aave DAI Direct Deposit Module (D3M):
-
-* Increase the DIRECT-Aave-DAI [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) from 50 million DAI to 100 million DAI.
+The community can vote in this poll to express support or opposition to making the following parameter change to the Aave DAI Direct Deposit Module (D3M):
+* Increase the DIRECT-AAVEV2-DAI [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) from 50 million DAI to 100 million DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/proposal-to-increase-the-d3m-dc-from-50m-to-100m/11737) to help inform your position before voting.
 
-For more information regarding the Dai Direct Deposit Module (D3M) and how this parameter works, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
+For more information regarding the DAI Direct Deposit Module (D3M), check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ## Outcomes
 

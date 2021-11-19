@@ -1,7 +1,7 @@
 ---
-title: Add a GUSD Peg Stability Module - November 22, 2021
-summary: Signal your support or opposition to onboarding a GUSD Peg Stability Module.
-discussion_link: https://forum.makerdao.com/t/proposal-gusd-psm/11148
+title: Add $collateral Peg Stability Module - $date_MONTH_DD,_YYYY
+summary: Signal your support or opposition to onboarding a $collateral Peg Stability Module.
+discussion_link: $proposal_thread
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -10,12 +10,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2021-11-22T16:00:00
-end_date: 2021-11-25T16:00:00
+start_date: $YYYY-MM-DDT16:00:00
+end_date: $YYYY-MM-DDT16:00:00
 ---
-# Poll: Add a GUSD Peg Stability Module - November 22, 2021
+# Poll: Add a $collateral Peg Stability Module - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,26 +24,25 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the onboarding and deployment of a new GUSD Peg Stability Module with the parameters given below.
+The community can vote in this poll to express support or opposition to the onboarding and deployment of a new $collateral Peg Stability Module with the parameters given below.
 
-**Proposed GUSD PSM Parameters**
+**Proposed $collateral PSM Parameters**
 
-* [Fee In](https://makerdao.world/en/learn/governance/module-psm) (`tin`): 0%
-* [Fee Out](https://makerdao.world/en/learn/governance/module-psm) (`tout`): 0%
-* [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) (`line`): 100 million DAI
-* [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`): 10 million DAI
-* [Ceiling Increase Cooldown](https://makerdao.world/en/learn/governance/module-dciam) (`ttl`): 24 hours
+* [Fee In](https://makerdao.world/en/learn/governance/module-psm) (`tin`): $tin
+* [Fee Out](https://makerdao.world/en/learn/governance/module-psm) (`tout`): $tout
+* [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) (`line`): $line
+* [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`): $gap
+* [Ceiling Increase Cooldown](https://makerdao.world/en/learn/governance/module-dciam) (`ttl`): $ttl
 
 Please review the following threads to help inform your position before voting:
-- [Proposal](https://forum.makerdao.com/t/proposal-gusd-psm/11148)
-- [Risk Evaluation](https://forum.makerdao.com/t/psm-gusd-a-collateral-onboarding-risk-evaluation/11559)
-- [Technical Evaluation](https://forum.makerdao.com/t/gusd-erc20-token-smart-contract-technical-assessment/4603)
-- [Oracle Evaluation](https://forum.makerdao.com/t/mip10c3-sp13-proposal-gusd-oracle-collateral-onboarding-oracle-assessment/4777)
+- [$first_thread]($first_thread_url)
+- [$second_thread]($second_thread_url)
+- [$third_thread]($third_thread_url)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The GUSD PSM will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* The $collateral PSM will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 

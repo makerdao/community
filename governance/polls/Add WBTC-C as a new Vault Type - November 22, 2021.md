@@ -32,8 +32,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1.5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 175%
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 billion DAI
-* [Target Available Debt(`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 100 million
-* [Ceiling Increase Cooldown(`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
+* [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 100 million
+* [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 7,500 DAI
 
 ### Liquidation Parameters
@@ -57,8 +57,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300 DAI
 
 Please review the following forum threads containing information about WBTC-C to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/re-proposed-risk-parameters-for-wbtc-c-vault-type/11739)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/proposed-risk-parameters-for-wbtc-c-vault-type/11707/5)
+* [Proposal Thread](https://forum.makerdao.com/t/signal-request-new-vault-type-for-wbtc-with-a-higher-lr/11579)
+* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/proposed-risk-parameters-for-wbtc-c-vault-type/11707)
 
 
 ## Outcomes
