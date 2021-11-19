@@ -83,7 +83,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmcwtUau), the following pa
 
 - Lower the [Liquidation Penalty (`chop`)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 - Lower the [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
-- Increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 2000% over 30 days using dss-lerp.
+- Increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 2300% over 30 days using dss-lerp.
 
 #### COMP-A
 
@@ -91,7 +91,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmRDeGCn), the following pa
 
 - Lower the [Liquidation Penalty (`chop`)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
 - Lower the [Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/param-debt-ceiling) to 0 DAI.
-- Increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 2300% over 30 days using dss-lerp.
+- Increase the [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 165% to 2000% over 30 days using dss-lerp.
 
 #### AAVE-A
 
