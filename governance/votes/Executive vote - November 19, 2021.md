@@ -59,6 +59,8 @@ As per the outcome of [this poll](https://vote.makerdao.com/polling/QmQN6FX8), t
 | ETH-A | 40 million DAI | 65 million DAI | +25 million DAI |
 | ETH-B | 25 million DAI | 30 million DAI | +5 million DAI |
 | ETH-C | 30 million DAI | 35 million DAI | +5 million DAI |
+| WBTC-A | 25 million DAI | 40 million DAI | +15 million DAI |
+| WSTETH-A | 3 million DAI | 7 million DAI | +4 million DAI |
 
 For more information, please see [this post](https://forum.makerdao.com/t/auction-throughput-parameters-adjustments-nov-9-2021/11531).
 
