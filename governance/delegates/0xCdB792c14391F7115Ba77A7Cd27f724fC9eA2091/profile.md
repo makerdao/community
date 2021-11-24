@@ -1,18 +1,22 @@
+---
+name: JustinCase
+external_profile_url:
+---
 
-**JustinCase**
+# JustinCase
 
-**Key Info**
+## Key Info
 
-Delegate Address: 0xCdB792c14391F7115Ba77A7Cd27f724fC9eA2091
-Forum: **@JustinCase**
-Discord: @JustinCase#2274
-Email: [DAIJustinCase@gmail.com](mailto:DAIJustinCase@gmail.com)
-Reddit: DAIJustinCase
-Your Delegate Video: Will be added as soon as it’s ready.
+Delegate Address: 0xCdB792c14391F7115Ba77A7Cd27f724fC9eA2091  
+Forum: **@JustinCase**  
+Discord: @JustinCase#2274  
+Email: [DAIJustinCase@gmail.com](mailto:DAIJustinCase@gmail.com)  
+Reddit: DAIJustinCase  
+Delegate Video: Will be added as soon as it’s ready.  
 
 Resides in the UTC+1 time zone.
 
-**Core Values**
+## Core Values
 
 **Maintaining obligations** – Trust comes from honouring commitments; trust is essential for adoption and use of the protocol.
 
@@ -20,7 +24,7 @@ Resides in the UTC+1 time zone.
 
 **Simplicity** – given a choice between a complex and a less complex solution I will favour the less complex one.
 
-**Delegate Statement**
+## Delegate Statement
 
 Summary: I will work towards:
 
@@ -53,7 +57,7 @@ Lastly, I’d like to share a little of my background. I’m currently working i
 
 I have also had some experience from politics. The key takeaway for me was to more carefully consider the needs of different parties and come up with a workable solution that leaves stakeholders satisfied.
 
-**Potential conflicts of interest**
+## Potential conflicts of interest 
 
 I am a holder of MKR and currently it is about half my crypto portfolio. The maker portion is about two years salary. The other half is in ETH.
 
@@ -61,7 +65,7 @@ I hold a diversified portfolio of stocks and funds.
 
 My primary income is not from Maker, nor do I receive any form of compensation outside of MakerDAO for my participation within.
 
-**Waiver of liability**
+## Waiver of liability 
 
 I have read and pledge to follow the [Recognized Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384). As such I will to the best of my ability act in good faith to the best interests of the Maker Protocol. I will maintain communication regarding my stance on the various issues that is voted on.
 
