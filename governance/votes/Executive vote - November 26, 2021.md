@@ -17,9 +17,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** and **additions** will occur within the Maker Protocol:
 - The **wBTC-C** vault type will be onboarded to the Maker Protocol with the parameters below.
-- The **GUSD [peg stability module](https://makerdao.world/en/learn/governance/module-psm)** will be onboarded to the Maker Protocol with the parameters below.
+- The **GUSD [Peg Stability Module](https://makerdao.world/en/learn/governance/module-psm)** will be onboarded to the Maker Protocol with the parameters below.
 - The **[System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer)** will be increased to 90 million DAI over a period of 30 weeks.
-- The **Aave DAI direct deposit module** [Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 100 million DAI.
+- The **Aave DAI Direct Deposit Module** [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 100 million DAI.
 - **906,805 DAI** total will be transferred to [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
 - **9,173,516 DAI** total will be streamed to [RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1), [COM-001](https://mips.makerdao.com/mips/details/MIP39c2SP8) [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24), [MKT-001](https://mips.makerdao.com/mips/details/MIP39c2SP5) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
 
@@ -42,10 +42,10 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 
 **Collateral Parameters**
 
-* Underlying Collateral: Wrapped Bitcoin (WBTC)
+* Underlying Collateral: Wrapped Bitcoin (wBTC)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1.5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 175%
-* [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 1 billion DAI
+* [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 1 billion DAI
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 100 million
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 7,500 DAI
