@@ -17,11 +17,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** and **additions** will occur within the Maker Protocol:
 - The **wBTC-C** vault type will be onboarded to the Maker Protocol with the parameters below.
-- The **GUSD peg stability module** will be onboarded to the Maker Protocol with the parameters below.
-- The **Surplus Buffer** will be increased $fill_in
-- The **Aave DAI direct deposit module** Debt Ceiling will be increased from 50 million DAI to 100 million DAI.
-- **906,805 DAI** will be transferred to [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
-- **9,173,516 DAI** will be streamed to [RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1), [COM-001](https://mips.makerdao.com/mips/details/MIP39c2SP8) [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24), [MKT-001](https://mips.makerdao.com/mips/details/MIP39c2SP5) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
+- The **GUSD [peg stability module](https://makerdao.world/en/learn/governance/module-psm)** will be onboarded to the Maker Protocol with the parameters below.
+- The **[System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer)** will be increased to 90 million DAI over a period of 30 weeks.
+- The **Aave DAI direct deposit module** [Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 100 million DAI.
+- **906,805 DAI** total will be transferred to [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
+- **9,173,516 DAI** total will be streamed to [RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1), [COM-001](https://mips.makerdao.com/mips/details/MIP39c2SP8) [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24), [MKT-001](https://mips.makerdao.com/mips/details/MIP39c2SP5) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -75,7 +75,7 @@ Please review the following forum threads containing information about WBTC-C to
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/proposed-risk-parameters-for-wbtc-c-vault-type/11707)
 
 
-### GUSD Peg Stability Module (PSM) Onboarding
+### GUSD [Peg Stability Module](https://makerdao.world/en/learn/governance/module-psm) (PSM) Onboarding
 
 As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmayeEjz?network=mainnet), PSM-GUSD-A will be onboarded with the parameters listed below if this executive proposal passes.
 
@@ -97,15 +97,17 @@ Please review the following threads to help inform your position before voting:
 
 ### Surplus Buffer Linear Increase
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail), the Surplus Buffer will be increased $fill_in
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail), the [System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) will be increased from 60 million DAI to 90 million DAI over a period of 30 weeks if this executive proposal passes.
 
 ### Increase Aave D3M (DAI Direct Deposit Module) Debt Ceiling 
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmZhvNu5?network=mainnet), the Aave D3M Debt Ceiling will be increased from 50 million DAI to 100 million DAI if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmZhvNu5?network=mainnet), the Aave D3M [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 100 million DAI if this executive proposal passes.
+
+For more information regarding the DAI Direct Deposit Module (D3M), check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ### Core Unit Budget Distributions
 
-As per multiple successful budget proposals (linked below), DAI will be transferred and streamed to a number of Core Units if this executive proposal passes, as detailed below:
+As per multiple successful budget proposals (linked below), DAI will be transferred and streamed to multiple Core Units if this executive proposal passes, as detailed below:
 
 **Direct DAI Transfers**
 
