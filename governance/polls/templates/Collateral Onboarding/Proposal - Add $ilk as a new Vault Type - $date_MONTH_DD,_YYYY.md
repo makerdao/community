@@ -32,6 +32,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): $stability_fee
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): $liquidation_ratio
 * [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): $debt_ceiling
+* [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): $target_available_debt
+* [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): $ceiling_increase_cooldown
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): $debt_floor
 
 ### Liquidation Parameters
