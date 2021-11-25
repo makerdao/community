@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Onboarding New Vault Types, Parameter Changes, and Core Unit Budget Distributions - November 26, 2021
-summary: Onboarding wBTC-C and PSM-GUSD-A, linearly increasing the surplus buffer, increasing D3M Debt Ceiling, and distributing Core Unit Budgets.
+summary: Onboarding WBTC-C and PSM-GUSD-A, linearly increasing the surplus buffer, increasing D3M Debt Ceiling, and distributing Core Unit Budgets.
 date: 2021-11-26T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,12 +16,12 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** and **additions** will occur within the Maker Protocol:
-- The **wBTC-C** vault type will be onboarded to the Maker Protocol with the parameters below.
+- The **WBTC-C** vault type will be onboarded to the Maker Protocol with the parameters below.
 - The **GUSD [Peg Stability Module](https://makerdao.world/en/learn/governance/module-psm)** will be onboarded to the Maker Protocol with the parameters below.
 - The **[System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer)** will be increased to 90 million DAI over a period of 30 weeks.
 - The **Aave DAI Direct Deposit Module** [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) will be increased from 50 million DAI to 100 million DAI.
-- **906,805 DAI** total will be transferred to [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
-- **9,173,516 DAI** total will be streamed to [RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1), [COM-001](https://mips.makerdao.com/mips/details/MIP39c2SP8) [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24), [MKT-001](https://mips.makerdao.com/mips/details/MIP39c2SP5) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
+- A total of **906,805 DAI** will be transferred to [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
+- A total of **9,173,516 DAI** will be streamed to [RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1), [COM-001](https://mips.makerdao.com/mips/details/MIP39c2SP8) [SAS-001](https://mips.makerdao.com/mips/details/MIP39c2SP25), [IS-001](https://mips.makerdao.com/mips/details/MIP39c2SP24), [MKT-001](https://mips.makerdao.com/mips/details/MIP39c2SP5) and [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23) as per their budget proposals.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -36,9 +36,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### wBTC-C Vault Type Onboarding
+### WBTC-C Vault Type Onboarding
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmdVYMRo?network=mainnet#poll-detail), wBTC-C will be onboarded with the parameters listed below if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmdVYMRo?network=mainnet#poll-detail), WBTC-C will be onboarded with the parameters listed below if this executive proposal passes.
 
 **Collateral Parameters**
 
@@ -46,7 +46,7 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1.5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 175%
 * [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 1 billion DAI
-* [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 100 million
+* [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 100 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 7,500 DAI
 
@@ -72,7 +72,7 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 
 Please review the following forum threads containing information about WBTC-C to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/signal-request-new-vault-type-for-wbtc-with-a-higher-lr/11579)
-* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/proposed-risk-parameters-for-wbtc-c-vault-type/11707)
+* [Risk Core Unit Evaluation](https://forum.makerdao.com/t/proposed-risk-parameters-for-WBTC-C-vault-type/11707)
 
 
 ### GUSD [Peg Stability Module](https://makerdao.world/en/learn/governance/module-psm) (PSM) Onboarding
@@ -97,7 +97,7 @@ Please review the following threads to help inform your position before voting:
 
 ### Surplus Buffer Linear Increase
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail), the [System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) will be increased from 60 million DAI to 90 million DAI over a period of 30 weeks if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail), the [System Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) will be increased from 60 million DAI to 90 million DAI over a period of 30 weeks (1 million DAI per week) if this executive proposal passes.
 
 ### Increase Aave D3M (DAI Direct Deposit Module) Debt Ceiling 
 
