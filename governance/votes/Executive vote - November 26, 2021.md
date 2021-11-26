@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Onboarding New Vault Types, Parameter Changes, and Core Unit Budget Distributions - November 26, 2021
 summary: Onboarding WBTC-C and PSM-GUSD-A, linearly increasing the surplus buffer, increasing D3M Debt Ceiling, and distributing Core Unit Budgets.
 date: 2021-11-26T00:00:00.000Z
-address: "$spell_address"
+address: "0xeff6840401d2F1104b70953aDC300c4F39C7Eb40"
 
 ---
 # [Executive Proposal] Onboarding New Vault Types, Parameter Changes, and Core Unit Budget Distributions - November 26, 2021
