@@ -28,7 +28,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 ### Initial Collateral Parameters
 
-* Underlying Collateral: GUNI-DAI/USDC (with 0.01% tier)
+* Underlying Collateral: GUNI-DAI/USDC (0.01% Fee)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 105%
 * [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
