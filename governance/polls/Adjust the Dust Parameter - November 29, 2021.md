@@ -1,11 +1,10 @@
 ---
-title: Increase the Dust Parameter - November 29, 2021
+title: Increase the Dust Parameter for Most Vault Types - November 29, 2021
 summary: Signal your support or opposition to Increase the Dust Parameter from 10,000 DAI to 15,000 DAI for all vault-types excluding ETH-B and ETH-C.
 discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-4/11598
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Technical
 options:
    0: Abstain
    1: Yes
@@ -13,11 +12,15 @@ options:
 start_date: 2021-11-29T16:00:00
 end_date: 2021-12-02T16:00:00
 ---
-# Poll: Increase the Dust Parameter - November 29, 2021
+# Poll: Increase the Dust Parameter for Most Vault Types - November 29, 2021
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
 
-**This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
+
 
 ## Review
 

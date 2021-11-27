@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/signal-request-adjusting-dust-para
 vote_type: Plurality Voting
 categories:
    - Risk Variable
-   - Technical
 options:
    0: Abstain
    1: Yes
