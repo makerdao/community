@@ -1,6 +1,6 @@
 ---
-title: Add GUNIV3DAIUSDC2-A with 0.01% Fee Tier as a new Vault Type - November 29, 2021
-summary: This poll proposes system parameters which could be used to initialize GUNI-DAI-USDC-2-A as a new vault type.
+title: Add GUNIV3DAIUSDC2-A as a new Vault Type - November 29, 2021
+summary: This poll proposes system parameters which could be used to initialize GUNIV3DAIUSDC2-A as a new vault type.
 discussion_link: https://forum.makerdao.com/t/g-uni-dai-usdc-0-01-tier-onboard-g-uni-for-univ3s-new-0-01-fee-tier/11738
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2021-11-29T16:00:00
 end_date: 2021-12-02T16:00:00
 ---
-# Poll: Add GUNIV3DAIUSDC2-A with 0.01% Fee Tier as a new Vault Type - November 29, 2021
+# Poll: Add GUNIV3DAIUSDC2-A Tier as a new Vault Type - November 29, 2021
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
 
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding GUNIV3DAIUSDC2-A (Gelato DAI-USDC) with 0.01% Fee Tier as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding GUNIV3DAIUSDC2-A (Gelato DAI-USDC) as a new vault type in the Maker Protocol with the parameters below:
 
 ### Initial Collateral Parameters
 
