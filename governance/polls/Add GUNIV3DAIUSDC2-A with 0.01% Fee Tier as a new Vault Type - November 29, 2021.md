@@ -1,6 +1,6 @@
 ---
-title: Add GUNIV3DAIUSDCFT with 0.01% Fee Tier as a new Vault Type - November 29, 2021
-summary: This poll proposes system parameters which could be used to initialize GUNI-DAI-USDC-FT as a new vault type.
+title: Add GUNIV3DAIUSDC2-A with 0.01% Fee Tier as a new Vault Type - November 29, 2021
+summary: This poll proposes system parameters which could be used to initialize GUNI-DAI-USDC-2-A as a new vault type.
 discussion_link: https://forum.makerdao.com/t/g-uni-dai-usdc-0-01-tier-onboard-g-uni-for-univ3s-new-0-01-fee-tier/11738
 vote_type: Plurality Voting
 categories:
@@ -13,9 +13,9 @@ options:
 start_date: 2021-11-29T16:00:00
 end_date: 2021-12-02T16:00:00
 ---
-# Poll: Add GUNIV3DAIUSDCFT with 0.01% Fee Tier as a new Vault Type - November 29, 2021
+# Poll: Add GUNIV3DAIUSDC2-A with 0.01% Fee Tier as a new Vault Type - November 29, 2021
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,14 +24,14 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding GUNIV3DAIUSDCFT (Gelato DAI-USDC) with 0.01% Fee Tier as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding GUNIV3DAIUSDC2-A (Gelato DAI-USDC) with 0.01% Fee Tier as a new vault type in the Maker Protocol with the parameters below:
 
 ### Initial Collateral Parameters
 
-* Underlying Collateral: GUNI-DAI/USDC
+* Underlying Collateral: GUNI-DAI/USDC (with 0.01% tier)
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 105%
-* [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 10 million DAI
+* [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 10,000 DAI
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
@@ -45,7 +45,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Auction Price Multiplier (`buf`)](https://community-development.makerdao.com/en/learn/governance/param-auction-price-multiplier): 1.05
 * [Liquidation Penalty (`chop`)](https://community-development.makerdao.com/en/learn/governance/param-liquidation-penalty): 13%
 
-*Liquidations are disabled for this collateral type. The risk for GUNIV3DAIUSDCFT is primarily from USDC tail risks, and so it's impossible to generate appropriate risk parameters from previous data.*
+*Liquidations are disabled for this collateral type. The risk for GUNIV3DAIUSDC2-A is primarily from USDC tail risks, and so it's impossible to generate appropriate risk parameters from previous data.*
 
 **Limits**
 
@@ -59,7 +59,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://community-development.makerdao.com/en/learn/governance/param-proportional-kick-incentive): 0.10%
 * [Flat Kick Incentive (`tip`)](https://community-development.makerdao.com/en/learn/governance/param-flat-kick-incentive): 300 DAI
 
-Please review the following forum threads containing information about GUNIV3DAIUSDCFT (Gelato) to inform your position before voting.
+Please review the following forum threads containing information about GUNIV3DAIUSDC2-A (Gelato) to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/g-uni-dai-usdc-0-01-tier-onboard-g-uni-for-univ3s-new-0-01-fee-tier/11738)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/g-uni-dai-usdc-collateral-onboarding-risk-evaluation/9719)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/guni-dai-usdc-erc20-token-smart-contract-technical-assessment/9139)
@@ -68,7 +68,7 @@ Please review the following forum threads containing information about GUNIV3DAI
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* GUNIV3DAIUSDCFT (Gelato DAI-USDC) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* GUNIV3DAIUSDC2-A (Gelato DAI-USDC) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
