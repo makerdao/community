@@ -41,6 +41,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 ## Resources
 
+Unsure about the Debt Floor (dust) parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-debt-floor).
+
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
 Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.

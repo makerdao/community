@@ -1,6 +1,6 @@
 ---
 title: One Time Payment to the GovComms CU to Deal with Budget Issues - November 29, 2021
-summary: Signal your support or opposition for a one time payment payment of 27058.33 DAI to the GovComms CU.
+summary: Signal your support or opposition for a one time payment payment of 27,058.33 DAI to the GovComms CU.
 discussion_link: https://forum.makerdao.com/t/signal-request-one-time-payment-to-com-001-to-cover-missing-dssvest-funds/11685
 vote_type: Plurality Voting
 categories:
@@ -15,7 +15,7 @@ end_date: 2021-12-02T16:00:00
 ---
 # Poll: One Time Payment to the GovComms CU to Deal with Budget Issues - November 29, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on November 29, 2021 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Governance Communications Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 

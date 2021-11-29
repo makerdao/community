@@ -26,43 +26,23 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes:
 
-**ETH-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.25% from 2.5% to 2.75%
+**Stability Fee Increases**
 
-**ETH-B**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 6.0% to 6.5%
+* Increase the **ETH-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 2.5% to 2.75%.
+* Increase the **ETH-B** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 6.0% to 6.5%.
+* Increase the **LINK-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 1.5% to 2.5%.
+* Increase the **MANA-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 3.0% to 6.0%.
+* Increase the **UNI-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 1.0% to 3.0%.
+* Increase the **GUSD-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 0.0% to 1.0%.
+* Increase the **UNIV2DAIETH-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 1.5% to 2.0%.
+* Increase the **UNIV2WBTCETH-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 2.5% to 3.0%.
+* Increase the **UNIV2USDCETH-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 2.0% to 2.5%.
+* Increase the **UNIV2UNIETH-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 2.0% to 4.0%.
 
-**WBTC-A**
-
-* Increase [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) (`line`) from 1500 million DAI to 2000 million DAI.
-* Increase [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`) from 60 million DAI to 80 million DAI.
-
-**LINK-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 1.0% from 1.5% to 2.5%
-
-**MANA-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 3.0% from 3.0% to 6.0%
-
-**UNI-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 2.0% from 1.0% to 3.0%
-
-**GUSD-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 1.0% from 0.0% to 1.0%
-
-**GUNIV3DAIUSDC1-A**
-* Decrease [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.4% from 0.5% to 0.1%
-
-**UNIV2DAIETH-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 1.5% to 2.0%
-
-**UNIV2WBTCETH-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 2.5% to 3.0%
-
-**UNIV2USDCETH-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 0.5% from 2.0% to 2.5%
-
-**UNIV2UNIETH-A**
-* Increase [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) by 2.0% from 2.0% to 4.0%
+**Other Changes**
+* Decrease the **GUNIV3DAIUSDC1-A** [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) from 0.5% to 0.1%.
+* Increase the **WBTC-A** [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) (`line`) from 1.5 billion DAI to 2 billion DAI.
+* Increase the **WBTC-A** [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) (`gap`) from 60 million DAI to 80 million DAI.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-11-25/11825) to help inform your position before voting.
 

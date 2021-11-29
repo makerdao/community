@@ -14,7 +14,7 @@ end_date: 2021-12-02T16:00:00
 ---
 # Poll: Use the MakerDAO Treasury to Fund MKR Expenses - November 29, 2021
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on November 29, 2021 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 29 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -31,8 +31,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* Future MKR expenses will be paid from the MakerDAO treasury rather than using minted MKR unless governance explicitly votes otherwise.
+* Existing MKR expenses that have been set up to be paid using minted MKR will be changed to use MKR from the MakerDAO treasury.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
