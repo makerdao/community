@@ -19,7 +19,7 @@ If this executive proposal passes, the following **changes** and **additions** w
 - Parameter Changes from the latest [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) [proposal](https://vote.makerdao.com/polling/QmNqCZGa?network=mainnet). These are primarily small-to-moderate stability fee increases across a number of collateral types, listed in detail below.
 - [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) increases across multiple vault types, listed in detail below.
 - Onboarding the Gelato UniswapV3 DAI/USDC (0.01%) fee liquidity pool to the Maker Protocol as the GUNIV3DAIUSDC2-A vault type, parameters listed below.
-- Transferring a total of 35,783 DAI to four recognized delegates as part of the [delegate compensation](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail) trial.
+- Transferring a total of 35,834 DAI to four recognized delegates as part of the [delegate compensation](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail) trial.
 - Transferring 27,058 DAI to the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP8) to make up for a budget shortfall.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -106,11 +106,11 @@ Please review the following forum threads containing information about GUNIV3DAI
 
 ### Delegate Compensation Payments - November
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail), and the ongoing trial of delegate compensation, a total of 35,783 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail), and the ongoing trial of delegate compensation, a total of 35,834 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
 
 - **12,000 DAI** transferred to [FlipFlopFlap Delegate LLC](https://vote.makerdao.com/address/0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b?network=mainnet) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
 - **12,000 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95?network=mainnet) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
-- **8,093 DAI** transferred to [ultraschuppi](https://vote.makerdao.com/address/0xb21e535fb349e4ef0520318acfe589e174b0126b?network=mainnet) at [0x89C5d54C979f682F40b73a9FC39F338C88B434c6](https://etherscan.io/address/0x89C5d54C979f682F40b73a9FC39F338C88B434c6).
+- **8,144 DAI** transferred to [ultraschuppi](https://vote.makerdao.com/address/0xb21e535fb349e4ef0520318acfe589e174b0126b?network=mainnet) at [0x89C5d54C979f682F40b73a9FC39F338C88B434c6](https://etherscan.io/address/0x89C5d54C979f682F40b73a9FC39F338C88B434c6).
 - **3,690 DAI** transferred to [Field Technologies Inc.](https://vote.makerdao.com/address/0xad2fda5f6ce305d2ced380fdfa791b6a26e7f281?network=mainnet) at [0x0988E41C02915Fe1beFA78c556f946E5F20ffBD3](https://etherscan.io/address/0x0988E41C02915Fe1beFA78c556f946E5F20ffBD3).
 
 Details on the breakdown of delegate compensation for the month of November can be found on the MakerDAO forum [here](https://forum.makerdao.com/t/delegate-compensation-breakdown-november-2021/11979).
