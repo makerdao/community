@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] Parameter Changes, Delegate Compensation, Vault Onboarding - December 3, 2021
-summary: Stability fee changes from latest MOMC proposal - [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) increases - Onboarding UniswapV3 DAI-USDC 0.01% fee pool - Delegate compensation payments - Minor core unit budget transfer - Minor DC-IAM Changes to WBTC-A
+summary: Stability fee changes from latest MOMC proposal - Debt Floor (dust) increases - Onboarding UniswapV3 DAI-USDC 0.01% fee pool - Delegate compensation payments - Minor core unit budget transfer - Minor DC-IAM Changes to WBTC-A
 date: 2021-12-03T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] [Executive Vote] Parameter Changes, Delegate Compensation, Vault Onboarding - December 3, 2021
+# [Executive Proposal] Parameter Changes, Delegate Compensation, Vault Onboarding - December 3, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** and **additions** will occur within the Maker Protocol:
-- Parameter Changes from the latest [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) [proposal](https://vote.makerdao.com/polling/QmNqCZGa?network=mainnet). These are primarily small-to-moderate stability fee increases across a number of collateral types, listed in detail below.
+- Parameter Changes from the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-11-25/11825/1) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). These are primarily small-to-moderate stability fee increases across a number of collateral types, listed in detail below.
 - [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) increases across multiple vault types, listed in detail below.
 - Onboarding the Gelato UniswapV3 DAI/USDC (0.01%) fee liquidity pool to the Maker Protocol as the GUNIV3DAIUSDC2-A vault type, parameters listed below.
 - Transferring a total of 35,834 DAI to four recognized delegates as part of the [delegate compensation](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail) trial.
@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### MOMC Parameter Changes
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmNqCZGa?network=mainnet#poll-detail), the following parameter changes will be made in the Maker Protocol if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmNqCZGa?network=mainnet#poll-detail) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2021-11-25/11825), the following parameter changes will be made in the Maker Protocol if this executive proposal passes.
 - Increase the ETH-A [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) from 2.5% to 2.75%.
 - Increase the ETH-B [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) from 6.0% to 6.5%.
 - Increase the LINK-A [Stability Fee](https://makerdao.world/en/learn/governance/param-stability-fee) from 1.5% to 2.5%.
@@ -53,7 +53,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmNqC
 
 ### [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) Increases
 
-As per these successful governance polls, relating to [ETH-B](https://vote.makerdao.com/polling/QmZXnn16?network=mainnet) and other [vaults (excluding ETH-B and ETH-C)](https://vote.makerdao.com/polling/QmUYLPcr?network=mainnet), the following [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) changes will be made to the Maker Protocol if this executive proposal passes.
+As per these successful governance polls, relating to [ETH-B](https://vote.makerdao.com/polling/QmZXnn16?network=mainnet) and other [vaults (excluding ETH-C)](https://vote.makerdao.com/polling/QmUYLPcr?network=mainnet), the following [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) changes will be made to the Maker Protocol if this executive proposal passes.
 - Increase the ETH-B [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) from 30,000 DAI to 40,000 DAI.
 - Increase the [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) from 10,000 DAI to 15,000 DAI on all eligible vaults, **excluding**:
 	- ETH-B
@@ -61,6 +61,8 @@ As per these successful governance polls, relating to [ETH-B](https://vote.maker
 	- Direct Deposit Module Vaults
 	- Peg Stability Module Vaults
 	- Real World Asset Vaults
+
+For further details on these changes, please check the relevant signal thread [here](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-4/11598).
 
 ### Onboarding the GUNIV3DAIUSDC2-A Vault Type
 
@@ -72,9 +74,11 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmSkH
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 105%
 * [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
-* [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 10,000 DAI
+* [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 15,000 DAI*
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 10 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
+
+*\* Note that the Debt Floor (dust) value here has been modified to match the outcome of the recent Debt Floor poll.*
 
 -- Liquidation Parameters --
 
@@ -106,7 +110,7 @@ Please review the following forum threads containing information about GUNIV3DAI
 
 ### Delegate Compensation Payments - November
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail), and the ongoing trial of delegate compensation, a total of 35,834 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
+As per these successful governance polls ([1](https://vote.makerdao.com/polling/QmPCbBu3?network=mainnet), [2](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail)) and the ongoing trial of delegate compensation, a total of 35,834 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
 
 - **12,000 DAI** transferred to [FlipFlopFlap Delegate LLC](https://vote.makerdao.com/address/0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b?network=mainnet) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
 - **12,000 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95?network=mainnet) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
@@ -115,9 +119,11 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/Qmbvu
 
 Details on the breakdown of delegate compensation for the month of November can be found on the MakerDAO forum [here](https://forum.makerdao.com/t/delegate-compensation-breakdown-november-2021/11979).
 
-### GovComms Core Unit One Time Payment
+### Governance Communications (GOV-001) Core Unit One Time Payment
 
 As per this successful [governance poll](https://vote.makerdao.com/polling/Qmc7Necw?network=mainnet#poll-detail), a total of 27,058 DAI will be transferred to the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP8) at [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9) if this executive proposal passes.
+
+For further details on this distribution, please check the relevant signal thread [here](https://forum.makerdao.com/t/signal-request-one-time-payment-to-com-001-to-cover-missing-dssvest-funds/11685).
 
 ## Review
 
