@@ -1,5 +1,5 @@
 ---
-title: Community Greenlight Poll - aUST (aUST) - December 06, 2021
+title: MIP9 Community Greenlight Poll - aUST (aUST) - December 06, 2021
 summary: Signal your support or opposition to prioritising onboarding aUST (aUST). 
 discussion_link: https://forum.makerdao.com/t/aust-mip6-aust-collateral-onboarding-application/11494
 vote_type: Plurality Voting
@@ -37,6 +37,16 @@ Please review the collateral onboarding application [thread](https://forum.maker
 
 ---
 
+
 ## Resources
 
 [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9) describes this type of poll and goes into more detail about how it interacts with the rest of the collateral onboarding process.
+
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
+
+Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
+
+To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
+
+To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+
