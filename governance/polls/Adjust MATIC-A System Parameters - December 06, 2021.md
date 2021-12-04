@@ -25,7 +25,7 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 
 ## Review
 
-The two proposed adjustments to the YFI-A vault type are as follows:
+The two proposed adjustments to the MATIC-A vault type are as follows:
 * Increase the MATIC-A Maximum Debt Ceiling (`line`) from 20 million DAI to 35 million DAI. 
 * Decrease the MATIC-A Target Available Debt (`gap`) from 20 million DAI to 10 million DAI.
 
