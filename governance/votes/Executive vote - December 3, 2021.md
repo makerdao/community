@@ -55,12 +55,8 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmNqC
 
 As per these successful governance polls, relating to [ETH-B](https://vote.makerdao.com/polling/QmZXnn16?network=mainnet) and other [vaults (excluding ETH-C)](https://vote.makerdao.com/polling/QmUYLPcr?network=mainnet), the following [Debt Floor (dust)](https://makerdao.world/en/learn/governance/param-debt-floor) changes will be made to the Maker Protocol if this executive proposal passes.
 - Increase the ETH-B [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) from 30,000 DAI to 40,000 DAI.
-- Increase the [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) from 10,000 DAI to 15,000 DAI on all eligible vaults, **excluding**:
-	- ETH-B
-	- ETH-C
-	- Direct Deposit Module Vaults
-	- Peg Stability Module Vaults
-	- Real World Asset Vaults
+- Increase the [Debt Floor (`dust`)](https://makerdao.world/en/learn/governance/param-debt-floor) from 10,000 DAI to 15,000 DAI on all eligible vaults. 
+- The full list of which vaults will have their Debt Floor's changed can be found [here](https://docs.google.com/spreadsheets/d/1kpXE7_wNJBljLnRbdxLPTrx2xF86W83xvYX4LYnar0c/edit#gid=0).
 
 For further details on these changes, please check the relevant signal thread [here](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-2021-4/11598).
 
@@ -110,7 +106,7 @@ Please review the following forum threads containing information about GUNIV3DAI
 
 ### Delegate Compensation Payments - November
 
-As per these successful governance polls ([1](https://vote.makerdao.com/polling/QmPCbBu3?network=mainnet), [2](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail)) and the ongoing trial of delegate compensation, a total of 35,834 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
+As per these successful governance polls ([1](https://vote.makerdao.com/polling/QmPCbBu3?network=mainnet), [2](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail)) and the ongoing trial of delegate compensation, a total of 35,834 DAI will be distributed to four recognized delegates as detailed below if this executive proposal passes.
 
 - **12,000 DAI** transferred to [FlipFlopFlap Delegate LLC](https://vote.makerdao.com/address/0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b?network=mainnet) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
 - **12,000 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95?network=mainnet) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
