@@ -27,11 +27,11 @@ This Governance [Poll](https://community-development.makerdao.com/en/learn/gover
 ## Review
 
 The five proposed adjustments to the wstETH-A vault type are as follows:
-* Increase the wstETH-A Maximum Debt Ceiling (`line`) from 50 million DAI to 200 million DAI. 
-* Increase the wstETH-A Target Available Debt (`gap`) from 3 million DAI to 20 million DAI.
-* Decrease the wstETH-A Debt Ceiling Increase Cooldown (`ttl`) from 8 hours to 6 hours.
-* Decrease the wstETH-A Auction Price Multiplier (`buf`) from 1.3 to 1.2.
-* Increase the wstETH-A Local Liquidation Limit (`ilk.hole`) from 3 million DAI to 15 million DAI.
+* Increase the wstETH-A [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam) from 50 million DAI to 200 million DAI. 
+* Increase the wstETH-A [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam) from 3 million DAI to 20 million DAI.
+* Decrease the wstETH-A [Debt Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam) from 8 hours to 6 hours.
+* Decrease the wstETH-A [Auction Price Multiplier (`buf`)](https://makerdao.world/en/learn/governance/param-auction-price-multiplier) from 1.3 to 1.2.
+* Increase the wstETH-A [Local Liquidation Limit (`ilk.hole`)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) from 3 million DAI to 15 million DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/wsteth-a-parameters-adjustment-dec-1st-2021/11934) to help inform your position before voting.
 
