@@ -35,6 +35,8 @@ Please review the collateral onboarding application [thread](https://forum.maker
 * The 'greenlight score' for aUST (Anchor TerraUSD) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
+---
+
 ## Resources
 
 [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9) describes this type of poll and goes into more detail about how it interacts with the rest of the collateral onboarding process.
