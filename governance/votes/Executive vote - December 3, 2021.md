@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, Delegate Compensation, Vault Onboarding - December 3, 2021
 summary: Stability fee changes from latest MOMC proposal - Debt Floor (dust) increases - Onboarding UniswapV3 DAI-USDC 0.01% fee pool - Delegate compensation payments - Minor core unit budget transfer - Minor DC-IAM Changes to WBTC-A
 date: 2021-12-03T00:00:00.000Z
-address: "$spell_address"
+address: "0x3a686Cd0c748E95524ed6532A64CE5Fe4A301CA7"
 
 ---
 # [Executive Proposal] Parameter Changes, Delegate Compensation, Vault Onboarding - December 3, 2021
