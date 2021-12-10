@@ -16,8 +16,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- wstETH-A changes to [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) and Liquidation Parameters, as detailed below. 
-- MATIC-A [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) changes, as detailed below.
+- Changes to wstETH-A [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) and Liquidation Parameters, as detailed below. 
+- Changes to MATIC-A [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam), as detailed below.
 - Previously approved MKR Vesting Streams will be replaced with MKR sourced from the Protocol Treasury (Pause Proxy) instead of minting new MKR.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
