@@ -1,6 +1,6 @@
 ---
-combined_participation: 0.00%
-poll_participation: 0.00%
+combined_participation: 25.00%
+poll_participation: 26.67%
 exec_participation: 0.00%
 communication: No Data
 start_date: 2021-11-22T00:00:00.000Z
