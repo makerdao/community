@@ -49,7 +49,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/Qmdzw
 * Increase the MATIC-A [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam) from 20 million DAI to 35 million DAI. 
 * Decrease the MATIC-A [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam) from 20 million DAI to 10 million DAI.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/matic-debt-increase-proposal-for-last-executive-of-2021/11989) to help inform your position before voting.
+Please review the [discussion thread](https://forum.makerdao.com/t/matic-debt-increase-proposal-for-last-executive-of-2021/11989) to help inform your position before voting.
 
 ### Replacing MKR Vesting Streams
 
