@@ -78,7 +78,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmYdD
 | 0x3189cfe40CF011AAb13aDD8aE7284deD4CD30602 | 2021-06-21            |
 | 0x29b37159C09a65af6a7CFb062998B169879442B6 | 2021-09-20            |
 
-For more information on the rationale for this streaming change, please see this [thread](https://forum.makerdao.com/t/signal-request-should-we-mint-new-mkr-for-protocol-expenses-or-fund-them-with-mkr-from-the-makerdao-treasury/11629) to inform your position before voting.
+For more information on the rationale for this streaming change, please see [this thread](https://forum.makerdao.com/t/signal-request-should-we-mint-new-mkr-for-protocol-expenses-or-fund-them-with-mkr-from-the-makerdao-treasury/11629) to inform your position before voting.
 
 ## Review
 
