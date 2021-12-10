@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, Switching MKR Vesting Source - December 10, 2021
 summary: Changes to wstETH-A and MATIC-A Parameters, replacing current MKR vesting streams with streams funded by the Protocol Treasury MKR.
 date: 2021-12-10T00:00:00.000Z
-address: "$spell_address"
+address: "0xA867399B43aF7790aC800f2fF3Fa7387dc52Ec5E"
 
 ---
 # [Executive Proposal] Parameter Changes, Switching MKR Vesting Source - December 10, 2021
