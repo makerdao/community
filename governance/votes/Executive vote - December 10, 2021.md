@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - wstETH-A changes to [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) and Liquidation Parameters, as detailed below. 
 - MATIC-A [Debt Ceiling Instant Access Module](https://makerdao.world/en/learn/governance/module-dciam) changes, as detailed below.
-- Previously apprived MKR Vesting Streams will be replaced with MKR sourced from the Protocol Treasury (Pause Proxy) instead of minting new MKR.
+- Previously approved MKR Vesting Streams will be replaced with MKR sourced from the Protocol Treasury (Pause Proxy) instead of minting new MKR.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -53,7 +53,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/matic-debt-in
 
 ### Replacing MKR Vesting Streams
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmYdDTsn?network=mainnet#poll-detail), the folllowing MKR Vesting Streams will be canceled and replaced by streams funded by the Protocol Treasury (Pause Proxy) if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmYdDTsn?network=mainnet#poll-detail), the following MKR Vesting Streams will be canceled and replaced by streams funded by the Protocol Treasury (Pause Proxy) if this executive proposal passes.
 
 1,051.25 MKR will be streamed to the **[Oracles (ORA-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13)** starting July 1, 2021 through July 1, 2022 at **0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf** in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP15). A 1-year cliff is in place, making MKR claimable on July 1, 2022.
 
