@@ -40,7 +40,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmYuK
 * Decrease the wstETH-A [Auction Price Multiplier (`buf`)](https://makerdao.world/en/learn/governance/param-auction-price-multiplier) from 1.3 to 1.2.
 * Increase the wstETH-A [Local Liquidation Limit (`ilk.hole`)](https://makerdao.world/en/learn/governance/param-local-liquidation-limit) from 7 million DAI to 15 million DAI.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/wsteth-a-parameters-adjustment-dec-1st-2021/11934) to help inform your position before voting.
+Please review the [discussion thread](https://forum.makerdao.com/t/wsteth-a-parameters-adjustment-dec-1st-2021/11934) to help inform your position before voting.
 
 ### MATIC-A Parameter Changes
 
