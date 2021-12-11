@@ -8,7 +8,7 @@ external_profile_url:
 ### Key Info
 
 Delegate Address: `0xb21e535Fb349E4eF0520318aCFe589E174B0126b`  
-ENS Name: `mkrdelegate.schuppi.eth`  
+ENS Name: `delegatecontract.mkr.schuppi.eth`  
 Forum: @ultraschuppi  
 Rocketchat: @schuppi  
 Discord: schuppi#6905  
