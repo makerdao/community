@@ -1,5 +1,5 @@
 ---
-name: ultraschuppi
+name: schuppi
 external_profile_url:
 ---
 
@@ -8,9 +8,11 @@ external_profile_url:
 ### Key Info
 
 Delegate Address: `0xb21e535Fb349E4eF0520318aCFe589E174B0126b`  
-ENS Name: `mkrdelegate.schuppi.eth`  
+ENS Name: `delegatecontract.mkr.schuppi.eth`  
+Delegate Platform: https://forum.makerdao.com/t/schuppi-delegate-platform/11193
 Forum: @ultraschuppi  
 Rocketchat: @schuppi  
+Twitter: @schuppi
 Discord: schuppi#6905  
 Email: fffwgsp8cpq43dtn@protonmail.com  
 Meet Your Delegate Video: https://www.youtube.com/watch?v=3483QFS4_qQ 
