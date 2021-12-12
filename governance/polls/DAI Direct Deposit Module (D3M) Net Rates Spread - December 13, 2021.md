@@ -37,7 +37,7 @@ For additional information, please consider [this thread](https://forum.makerdao
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The [Maker Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) will take the results into consideration when reccommending changes to [DAI Direct Module (D3M)](https://mips.makerdao.com/mips/details/MIP50) parameters.
+* The [Maker Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) will consider the results when recommending changes to [DAI Direct Module (D3M)](https://mips.makerdao.com/mips/details/MIP50) parameters.
 
 ---
 
