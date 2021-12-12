@@ -3,7 +3,7 @@ name: schuppi
 external_profile_url:
 ---
 
-# ultraschuppi
+# schuppi
 
 ### Key Info
 
