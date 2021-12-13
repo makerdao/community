@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to recommending the following rates spread between AAVEv2 borrow markets and Maker ETH-A [stability fee](https://makerdao.world/en/learn/governance/param-stability-fee) for the [DAI Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50): 
+MKR holders can vote in this poll to express support or opposition to recommending the following rates spread between AAVEv2 borrow markets and Maker ETH-A [stability fee](https://makerdao.world/en/learn/governance/param-stability-fee) for the [DAI Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50): 
 * -0.5% spread (implied `bar` at 3.75%). 
 
 **Note: AAVEv2 Rates include AAVE rewards.**
