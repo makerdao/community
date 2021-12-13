@@ -25,7 +25,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to rank their support to recommend the following target [Debt Ceilings](https://makerdao.world/en/learn/governance/param-debt-ceiling) for the [DAI Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50):
+MKR holders can vote in this poll to rank their support to recommend the following target [Debt Ceilings](https://makerdao.world/en/learn/governance/param-debt-ceiling) for the [DAI Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50):
 * 25% of Real DAI Supply (DAI on AAVEv2 excluding DAI supplied with recursive leverage) 
 * 30% of Real DAI Supply (DAI on AAVEv2 excluding DAI supplied with recursive leverage) 
 * Neither Indicated Percentage of Real DAI Supply. 
