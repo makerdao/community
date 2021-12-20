@@ -9,7 +9,7 @@ external_profile_url: https://twitter.com/MonetSupply
 
 Delegate Address: [0x45127ec92b58c3a89e89f63553073adcaf2f1f5f](https://etherscan.io/address/0x45127ec92b58c3a89e89f63553073adcaf2f1f5f)  
 Forum: @monet-supply  
-Rocketchat: @monetsupply    
+Discord: monet_supply#4662   
 External Website: https://twitter.com/MonetSupply  
 
 ### Core Values (Optional)
