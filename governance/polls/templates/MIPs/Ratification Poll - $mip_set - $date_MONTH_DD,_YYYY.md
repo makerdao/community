@@ -69,7 +69,6 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
 
-
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
