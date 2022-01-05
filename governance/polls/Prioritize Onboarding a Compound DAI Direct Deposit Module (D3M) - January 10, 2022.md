@@ -1,5 +1,5 @@
 ---
-title: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2021
+title: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2022
 summary: Signal your support or opposition for domain teams prioritizing the onboarding of a Compound D3M.
 discussion_link: https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997
 vote_type: Plurality Voting
@@ -9,10 +9,10 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2021-01-10T16:00:00
-end_date: 2021-01-13T16:00:00
+start_date: 2022-01-10T16:00:00
+end_date: 2022-01-13T16:00:00
 ---
-# Poll: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2021
+# Poll: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 10 at 16:00 UTC.
 
