@@ -29,8 +29,6 @@ The community can vote in this poll to express support or opposition for the fol
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208) to help inform your position before voting.
 
-
-
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
