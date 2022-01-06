@@ -24,7 +24,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether applying a PSM using TUSD as collateral should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether adding a PSM using TUSD as collateral should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/tusd-mip6-collateral-onboarding-application/12192) to inform your position before voting.
 
