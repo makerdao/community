@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - [OGN] - January 10, 2022
-summary: Signal your support or opposition to prioritising onboarding [OGN].
+title: Community Greenlight Poll - OGN (Original Protocol) - January 10, 2022
+summary: Signal your support or opposition to prioritising onboarding OGN (Original Protocol).
 discussion_link: https://forum.makerdao.com/t/12205
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2022-01-10T16:00:00
 end_date: 2022-01-24T16:00:00
 ---
-# Poll: Community Greenlight Poll - [OGN] - January 10, 2022
+# Poll: Community Greenlight Poll - OGN (Original Protocol) - January 10, 2022
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on January 10, 2022 at 16:00 UTC.
 
@@ -24,15 +24,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset [OGN] should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+This poll asks whether the asset OGN (Original Protocol) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
-Please review the collateral onboarding application [[OGN] MIP6 Collateral Onboarding Application - Origin Protocol & Origin Dollar](https://forum.makerdao.com/t/12205) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/12205) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for [OGN] using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for [OGN] will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' will be calculated for OGN (Original Protocol) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for OGN (Original Protocol) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
