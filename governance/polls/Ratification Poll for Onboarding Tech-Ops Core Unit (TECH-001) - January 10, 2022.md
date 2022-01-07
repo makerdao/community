@@ -53,7 +53,7 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The TechOps Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure discussed here. This is a 3-year vesting plan with 1-year cliff vest.*
+*The TechOps Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure [discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest.*
 
 *The members of this Core Unit will take the start of the Feedback Period of this MIP (December 8, 2021) as the start date for the vesting schedule.*
 
