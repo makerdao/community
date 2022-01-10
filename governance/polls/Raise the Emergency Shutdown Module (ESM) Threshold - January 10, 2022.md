@@ -16,7 +16,7 @@ end_date: 2022-01-13T16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 10 at 16:00 UTC.
 
-**This is a plurality vote.** 
+**This is a binary vote.** 
 - **You may vote for a single option.**
 - **You should vote for the option that you prefer.** 
 - **If you would accept any of the options you should vote 'Abstain'.**
