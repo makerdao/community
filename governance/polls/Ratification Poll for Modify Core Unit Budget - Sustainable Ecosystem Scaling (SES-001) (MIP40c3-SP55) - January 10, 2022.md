@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget - Sustainable Ecosystem Scaling (SES-001) (MIP40c3-SP55) - January 10, 2022
-summary: $sentence_summary
+summary: MIP40c3-SP55 modifies the Dai budget implementation for Core Unit SES-001 (Sustainable Ecosystem Scaling), replacing [MIP40c3-SP31](https://mips.makerdao.com/mips/details/MIP40c3SP55).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp55-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/12097
 vote_type: Plurality Voting
 categories:
@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-01-10T16:00:00
-end_date: 2022-01-10T16:00:00
+end_date: 2022-01-24T16:00:00
 ---
 # Ratification Poll for Modify Core Unit Budget - Sustainable Ecosystem Scaling (SES-001) (MIP40c3-SP55) - January 10, 2022
 
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP40c3-SP55 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
