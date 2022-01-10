@@ -1,6 +1,6 @@
 ---
-title: Raise the ESM Threshold - January 10, 2022
-summary: Signal you support or opposition for raising the Emergency Shutdown Module (ESM) threshold to 100,000 MKR.
+title: Raise the Emergency Shutdown Module (ESM) Threshold - January 10, 2022
+summary: Signal your support or opposition for raising the Emergency Shutdown Module (ESM) threshold from 75,000 MKR to 100,000 MKR.
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208
 vote_type: Plurality Voting
 categories:
@@ -26,6 +26,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition for the following change to the Emergency Shutdown Module (ESM):
 
 * Raise the [ESM threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) from 75,000 MKR to 100,000 MKR.
+
+Additional documentation on the ESM Threshold and Governance considerations for the parameter can be [found here](https://makerdao.world/en/learn/governance/emergency-shutdown).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208) to help inform your position before voting.
 
