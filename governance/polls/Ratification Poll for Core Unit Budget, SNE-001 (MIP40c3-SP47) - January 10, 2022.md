@@ -35,7 +35,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/76cd2acaa9c9fa5d55ce4a82eff54e6cb4bd9d7c/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md)
-* [Latest Proposal Version]($link_to_portal_version)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP47)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp47-core-unit-budget-sne-001-phase-ii-starknet-fast-withdrawal-and-wormhole/12041)
 
 ## Outcomes
