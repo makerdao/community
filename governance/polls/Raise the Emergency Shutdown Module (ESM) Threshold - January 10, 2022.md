@@ -1,6 +1,6 @@
 ---
-title: Raise the ESM Threshold - January 10, 2022
-summary: Signal you support or opposition for raising the Emergency Shutdown Module (ESM) threshold to 100,000 MKR.
+title: Raise the Emergency Shutdown Module (ESM) Threshold - January 10, 2022
+summary: Signal you support or opposition for raising the Emergency Shutdown Module (ESM) threshold from 75,000 MKR to 100,000 MKR.
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2022-01-10T16:00:00
 end_date: 2022-01-13T16:00:00
 ---
-# Poll: Raise the ESM Threshold - January 10, 2022
+# Poll: Raise the Emergency Shutdown Module (ESM) Threshold - January 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 10 at 16:00 UTC.
 
@@ -29,6 +29,8 @@ The community can vote in this poll to express support or opposition for the fol
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208) to help inform your position before voting.
 
+Further information about the ESM is available [here](https://makerdao.world/en/learn/governance/emergency-shutdown).
+
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
@@ -42,7 +44,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 ## Resources
 
-Unsure about the Emergency Shutdown Module (ESM) and what you should take into account when voting? Check out the documentation [here](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module).
+Unsure about the Emergency Shutdown Module (ESM) and what you should take into account when voting? Check out the documentation [here](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) and [here](https://makerdao.world/en/learn/governance/emergency-shutdown).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
