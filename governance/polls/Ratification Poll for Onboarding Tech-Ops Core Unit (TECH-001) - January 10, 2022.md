@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Onboarding Tech-Ops Core Unit (TECH-001) - January 10, 2022
-summary: This MIP Set onboards the Tech-Ops Core Unit (TECH-001)
+summary: This MIP Set onboards the Tech-Ops Core Unit (TECH-001).
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tech-001/12070
 vote_type: Plurality Voting
 categories:
