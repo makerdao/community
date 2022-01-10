@@ -29,7 +29,7 @@ The community may vote in this poll to express support or opposition to Offboard
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*(After over a year of what many consider a lukewarm attempt, we need to remove this team to allow for space so that other teams can grow into it. This team representing Maker is enough to discourage new talent from joining the DAO. The quality bar needs to be several feet higher.)*
+*After over a year of what many consider a lukewarm attempt, we need to remove this team to allow for space so that other teams can grow into it. This team representing Maker is enough to discourage new talent from joining the DAO. The quality bar needs to be several feet higher.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/76cd2acaa9c9fa5d55ce4a82eff54e6cb4bd9d7c/MIP41/MIP41c5-Subproposals/MIP41c5-SP3.md)
@@ -40,7 +40,7 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*(MIP40c3-SP49 removes all and any active budgets for the Content Production Core Unit—Dai or MKR.)*
+*MIP40c3-SP49 removes all and any active budgets for the Content Production Core Unit — Dai or MKR.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/76cd2acaa9c9fa5d55ce4a82eff54e6cb4bd9d7c/MIP40/MIP40c3-Subproposals/MIP40c3-SP49.md)
