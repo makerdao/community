@@ -23,15 +23,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support for prioritizing the onboarding of a Compound DAI Direct Deposit Module (D3M).
+The community can vote in this poll to express support for prioritizing the onboarding of a Compound DAI [Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997) to help inform your position before voting.
 
 ## Outcomes
 
-If this poll ends with a 'Yes' majority, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI D3M in the short term.
+If this poll ends with **more 'Yes' votes** than 'No' votes, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI Direct Deposit Module (D3M) in the short term.
 
-If this poll ends with a 'No' majority, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI D3M in the short term.
+**Otherwise**, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI Direct Deposit Module (D3M) in the short term.
 
 ---
 
