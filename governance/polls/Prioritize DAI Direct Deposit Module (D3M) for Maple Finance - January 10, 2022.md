@@ -4,7 +4,6 @@ summary: Signal your support or opposition to adding a D3M Implementation for Ma
 discussion_link: https://forum.makerdao.com/t/signal-request-maker-accessing-pools-of-institutional-loans-through-maple-finance/12349
 vote_type: Plurality Voting
 categories:
-   - Risk Variable
    - Collateral
 options:
    0: Abstain
@@ -24,15 +23,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to prioritizing the onboarding of a Maple Finance DAI Direct Deposit Module (D3M).
+The community can vote in this poll to express support or opposition to prioritizing the onboarding of a Maple Finance DAI [Direct Deposit Module (D3M)](https://mips.makerdao.com/mips/details/MIP50).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-maker-accessing-pools-of-institutional-loans-through-maple-finance/12349) to help inform your position before voting.
 
 ## Outcomes
 
-If this poll ends with a 'Yes' majority, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Maple Finance DAI Direct Deposit Module (D3M) in the short term.
+If this poll ends with **more 'Yes' votes** than 'No' votes, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Maple Finance DAI Direct Deposit Module (D3M) in the short term.
 
-If this poll ends with a 'No' majority, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Maple Finance DAI Direct Deposit Module (D3M) in the short term.
+**Otherwise**, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Maple Finance DAI Direct Deposit Module (D3M) in the short term.
 
 ---
 
