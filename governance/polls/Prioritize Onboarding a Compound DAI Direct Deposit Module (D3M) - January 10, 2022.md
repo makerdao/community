@@ -1,10 +1,10 @@
 ---
-title: Proposal - Recover DAI Locked in Optimism Escrow - January 10, 2022
-summary: Signal your support or opposition for MakerDAO recovering DAI locked in Optimism Escrow.
-discussion_link: https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307
+title: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2022
+summary: Signal your support or opposition for domain teams prioritizing the onboarding of a Compound D3M.
+discussion_link: https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997
 vote_type: Plurality Voting
 categories:
-   - Other
+   - Collateral
 options:
    0: Abstain
    1: Yes
@@ -12,7 +12,7 @@ options:
 start_date: 2022-01-10T16:00:00
 end_date: 2022-01-13T16:00:00
 ---
-# Poll: Recover DAI Locked in Optimism Escrow - January 10, 2022
+# Poll: Prioritize Onboarding a Compound DAI Direct Deposit Module (D3M) - January 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 10 at 16:00 UTC.
 
@@ -23,17 +23,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition for the following action:
-* Assist a user by recovering 10 million DAI from Optimism Escrow.
+The community can vote in this poll to express support for prioritizing the onboarding of a Compound DAI Direct Deposit Module (D3M).
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997) to help inform your position before voting.
 
 ## Outcomes
 
-**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
-* If the poll results in a "Yes" outcome, then this action will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the poll results in a "No" outcome, no further action will be taken at this time.
-* If the Friday executive passes, then this action will be taken after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+If this poll ends with a 'Yes' majority, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Compound D3M in the short term.
+
+If this poll ends with a 'No' majority, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Compound D3M in the short term.
+
+For more information regarding the DAI Direct Deposit Module, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ---
 
