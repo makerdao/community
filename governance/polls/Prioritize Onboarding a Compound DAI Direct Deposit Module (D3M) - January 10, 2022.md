@@ -29,9 +29,11 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 ## Outcomes
 
-If this poll ends with a 'Yes' majority, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI D3M in the short term.
+If this poll ends with a 'Yes' majority, the domain teams and community will have the support of MKR Token Holders for prioritizing the onboarding of a Compound D3M in the short term.
 
-If this poll ends with a 'No' majority, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Compound DAI D3M in the short term.
+If this poll ends with a 'No' majority, the domain teams and community will not have the support of MKR Token Holders for prioritizing the onboarding of a Compound D3M in the short term.
+
+For more information regarding the DAI Direct Deposit Module, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
 
 ---
 
