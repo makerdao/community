@@ -12,7 +12,7 @@ options:
 start_date: 2022-01-10T16:00:00
 end_date: 2022-01-24T16:00:00
 ---
-# Ratification Poll for Maker Keeper Network (MIP64) - January 10, 2022
+# Ratification Poll for Maker Keeper Network (MIP63) - January 10, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 10 at 16:00 UTC.
 
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP64 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP63 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
