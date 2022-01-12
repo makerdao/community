@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to making the following parameter change to the $protocol_name DAI Direct Deposit Module (D3M):
+The community can vote in this poll to express support or opposition to making the following parameter changes to the $protocol_name DAI Direct Deposit Module (D3M):
 * $IncreaseDecrease the DIRECT-$protocol_name-DAI [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) from $current_line to $new_line.
 * $IncreaseDecrease the DIRECT-$protocol_name-DAI [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) from $current_gap to $new_gap.
 * $IncreaseDecrease the DIRECT-$protocol_name-DAI Target Borrow Rate (`bar`) from 4% to 3.9%.
@@ -35,8 +35,8 @@ For more information regarding the DAI Direct Deposit Module (D3M) and how these
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
