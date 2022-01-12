@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 The community can vote in this poll to express support or opposition to making the following parameter changes to the $protocol_name DAI Direct Deposit Module (D3M):
 * $IncreaseDecrease the DIRECT-$protocol_name-DAI [Maximum Debt Ceiling](https://makerdao.world/en/learn/governance/module-dciam) from $current_line to $new_line.
 * $IncreaseDecrease the DIRECT-$protocol_name-DAI [Target Available Debt](https://makerdao.world/en/learn/governance/module-dciam) from $current_gap to $new_gap.
-* $IncreaseDecrease the DIRECT-$protocol_name-DAI Target Borrow Rate (`bar`) from 4% to 3.9%.
+* $IncreaseDecrease the DIRECT-$protocol_name-DAI Target Borrow Rate (`bar`) from %current_bar to $new_bar.
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
