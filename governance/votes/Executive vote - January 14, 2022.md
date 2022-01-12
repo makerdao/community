@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Recover DAI from Optimism Escrow, Changes to Uniswap LP Vault Debt Floor Parameters, Delegate Compensation - January 14, 2022
-summary: $summary
+summary: Recover DAI from Optimism escrow, Uniswap LP Vault Debt Floor parameter changes, Recognized Delegate compensation distribution for December.
 date: 2022-01-14T00:00:00.000Z
 address: "$spell_address"
 
@@ -40,8 +40,20 @@ For further information, please see the initial Signal Request on the MakerDAO f
 
 As per this successful [governance poll](https://vote.makerdao.com/polling/QmUSfhmF), the following Uniswap LP Vault [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) changes will be made to the Maker Protocol if this executive proposal passes.
 
-* Increase the Debt Floor (`dust`) Parameter from **15,000 DAI** to **60,000 DAI** for UNIV2DAIETH-A, UNIV2USDCETH-A, and UNIV2WBTCDAI-A.
-* Increase the Debt Floor (`dust`) Parameter from **15,000 DAI** to **25,000 DAI** for for UNIV2WBTCETH-A and UNIV2UNIETH-A.
+**UNIV2DAIETH-A**
+* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+
+**UNIV2USDCETH-A**
+* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+
+**UNIV2WBTCDAI-A**
+* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+
+**UNIV2WBTCETH-A**
+* Increase Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
+
+**UNIV2UNIETH-A**
+* Increase Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
 
 For further information, please see the initial Signal Request on the MakerDAO forum [here](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-lp-token-vaults-2021-5/12313).
 
