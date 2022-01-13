@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Recover DAI from Optimism Escrow, Changes to Uniswap LP Vault Debt Floor Parameters, Delegate Compensation - January 14, 2022
-summary: Recover DAI from Optimism escrow, Uniswap LP Vault Debt Floor parameter changes, Recognized Delegate compensation distribution for December.
+summary: Recover DAI from Optimism escrow, Uniswap LP Vault Debt Floor (dust) parameter changes, Recognized Delegate compensation distribution for December.
 date: 2022-01-14T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,13 +16,15 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- 10,000,000 DAI will be transferred from the Optimisim Escrow to a user who accidentally burned DAI on the Optimism chain.
-- [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) increases across multiple Uniswap LP Vault types, listed in detail below.
+- 10 million DAI will be transferred from the Optimism Escrow to a user who accidentally burned DAI on the Optimism chain as a result of [this signal request](https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307).
+- [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) increases across multiple Uniswap LP Vault types, listed in detail below, as a result of [this signal request](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-lp-token-vaults-2021-5/12313).
 - A total of 48,290 DAI will be transferred to seven Recognized Delegates as part of the [Delegate Compensation Trial](https://vote.makerdao.com/polling/QmbvuhYH?network=mainnet#poll-detail).
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
@@ -32,28 +34,19 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Recover DAI from Optimism Escrow
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/Qmcfb72e), **10,000,000 DAI** will be transferred to forum user lost_some_dai at the address [0xc9b48B787141595156d9a7aca4BC7De1Ca7b5eF6](https://etherscan.io/address/0xc9b48B787141595156d9a7aca4BC7De1Ca7b5eF6) if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/Qmcfb72e), **10 million DAI** will be transferred to forum user @[lost_some_dai](https://forum.makerdao.com/u/lost_some_dai/summary) at the address [0xc9b48B787141595156d9a7aca4BC7De1Ca7b5eF6](https://etherscan.io/address/0xc9b48B787141595156d9a7aca4BC7De1Ca7b5eF6) if this executive proposal passes.
 
-For further information, please see the initial Signal Request on the MakerDAO forum [here](https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307).
+For further information, please see the initial Signal Request on the MakerDAO forum [here](https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307). A description by the Protocol Engineering team of how this transfer will be performed can be found in this [comment](https://forum.makerdao.com/t/signal-request-should-makerdao-assist-in-recovering-dai-locked-on-optimism-escrow/12307/22) on the MakerDAO forum.
 
 ### Uniswap LP Vault [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) Increases
 
 As per this successful [governance poll](https://vote.makerdao.com/polling/QmUSfhmF), the following Uniswap LP Vault [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) changes will be made to the Maker Protocol if this executive proposal passes.
 
-**UNIV2DAIETH-A**
-* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
-
-**UNIV2USDCETH-A**
-* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
-
-**UNIV2WBTCDAI-A**
-* Increase Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
-
-**UNIV2WBTCETH-A**
-* Increase Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
-
-**UNIV2UNIETH-A**
-* Increase Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
+* Increase **UNIV2DAIETH-A** Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+* Increase **UNIV2USDCETH-A** Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+* Increase **UNIV2WBTCDAI-A** Debt Floor (`dust`) by 45,000 DAI from **15,000 DAI** to **60,000 DAI**.
+* Increase **UNIV2WBTCETH-A** Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
+* Increase **UNIV2UNIETH-A** Debt Floor (`dust`) by 10,000 DAI from **15,000 DAI** to **25,000 DAI**.
 
 For further information, please see the initial Signal Request on the MakerDAO forum [here](https://forum.makerdao.com/t/signal-request-adjusting-dust-parameter-lp-token-vaults-2021-5/12313).
 
