@@ -35,10 +35,10 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 * Decrease the YFI-A [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 130 million DAI to 50 million DAI.
 * Decrease the UNI-A [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 50 million DAI to 25 million DAI.
 * Decrease the UNIV2UNIETH-A [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 20 million DAI to 5 million DAI.
-* Decrease the GUSD-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) from 5 million DAI to zero.
+* Decrease the GUSD-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) from 5 million DAI to zero DAI.
 
 **DIRECT-AAVEV2-DAI (Aave D3M) Changes**
-* Decrease the DIRECT-AAVEV2-DAI Target Borrow Rate from 3.9% to 3.75%.
+* Decrease the DIRECT-AAVEV2-DAI [Target Borrow Rate](https://github.com/makerdao/dss-direct-deposit#configuration) from 3.9% to 3.75%.
 * Increase the DIRECT-AAVEV2-DAI [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 15 million DAI to 50 million DAI.
 * Increase the DIRECT-AAVEV2-DAI [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 100 million DAI to 220 million DAI.
 
