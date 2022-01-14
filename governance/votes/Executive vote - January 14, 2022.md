@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Recover DAI from Optimism Escrow, Changes to Uniswap LP Vault Debt Floor Parameters, Delegate Compensation - January 14, 2022
 summary: Recover DAI from Optimism escrow, Uniswap LP Vault Debt Floor (dust) parameter changes, Recognized Delegate compensation distribution for December.
 date: 2022-01-14T00:00:00.000Z
-address: "$spell_address"
+address: "0xDD5052bfC4D281793653B0037d46Cc2d8d1FD1b5"
 
 ---
 # [Executive Proposal] Recover DAI from Optimism Escrow, Changes to Uniswap LP Vault Debt Floor Parameters, Delegate Compensation - January 14, 2022
