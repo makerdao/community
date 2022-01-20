@@ -57,6 +57,8 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmVyyjPF) on the
 
 As per this [governance poll](https://vote.makerdao.com/polling/QmbFqWGK) the GUNIV3DAIUSDC2-A [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) will be decreased by 3% from **105%** to **102%** if this executive proposal passes.
 
+For more information on this proposal please see this [thread](https://forum.makerdao.com/t/request-to-lower-the-collateralization-ratio-for-guniv3daiusdc2-a/12615) on the MakerDAO forum.
+
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
