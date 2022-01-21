@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] MOMC Parameter Changes, Decrease the GUNIV3DAIUSDC2-A Liquidation Ratio - January 21, 2022
 summary: Parameter changes from the latest MOMC proposal, decrease the GUNIV3DAIUSDC2-A liquidation ratio.
 date: 2022-01-21T00:00:00.000Z
-address: "$spell_address"
+address: "0xE246C4ba65d95C2F902E39FBeb0047a67aB4F25a"
 
 ---
 # [Executive Proposal] MOMC Parameter Changes, Decrease the GUNIV3DAIUSDC2-A Liquidation Ratio - January 21, 2022
