@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Temporarily Prevent Surplus (flap) Auctions and MKR Burn - January 24, 2022
 summary: Increase the System Surplus Buffer to 250 million DAI to prevent surplus (flap) auctions until the auction/burn mechanism can be improved.
 date: 2022-01-24T00:00:00.000Z
-address: "$spell_address"
+address: "0x0f5D4cF379902655F2f4Cd1B594cd61818892cc1"
 
 ---
 # [Executive Proposal] Temporarily Prevent Surplus (flap) Auctions and MKR Burn - January 24, 2022
