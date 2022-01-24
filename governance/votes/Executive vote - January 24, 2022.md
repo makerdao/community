@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Temporarily prevent FLAP auctions and MKR Burn - January 24, 2022
-summary: Increase the System Surplus Buffer to 250 million DAI to prevent FLAP auctions until the auction/burn mechanism can be improved.
+title: Template - [Executive Vote] Temporarily Prevent Surplus (flap) Auctions and MKR Burn - January 24, 2022
+summary: Increase the System Surplus Buffer to 250 million DAI to prevent surplus (flap) auctions until the auction/burn mechanism can be improved.
 date: 2022-01-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Temporarily prevent FLAP auctions and MKR Burn - January 24, 2022
+# [Executive Proposal] Temporarily {revent Surplus (flap) Auctions and MKR Burn - January 24, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an out-of-schedule executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -15,15 +15,13 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-This is an out-of-schedule executive proposal. It has been deployed and added to the voting portal in response to the large wave of FLAP auctions triggered by liquidations at the end of last week and the following [urgent signal request](https://forum.makerdao.com/t/urgent-signal-request-stop-mkr-burning/12806). 
+This is an [out-of-schedule](https://mips.makerdao.com/mips/details/MIP41#MIP41c2) executive proposal. It has been deployed and added to the voting portal in response to the large wave of surplus (flap) auctions triggered by liquidations at the end of last week and the following [urgent](https://mips.makerdao.com/mips/details/MIP24#MIP24c4) [signal request](https://forum.makerdao.com/t/urgent-signal-request-stop-mkr-burning/12806). 
 
-The express purpose of this proposal is to prevent FLAP auctions temporarily until the auction/burn mechanism can be improved.
-
+The express purpose of this proposal is to prevent surplus (flap) auctions temporarily until the auction/burn mechanism can be improved.
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 * The existing [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) lerp function will be disabled.
 * The [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) parameter will be set to 250 million DAI.
-
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -35,13 +33,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Temporarily prevent FLAP auctions and MKR Burn
+### Temporarily Prevent Surplus (flap) Auctions and MKR Burn
 
 As per this [urgent signal request](https://forum.makerdao.com/t/urgent-signal-request-stop-mkr-burning/12806), the following changes will be made if this executive proposal passes.
 * The existing [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) lerp function will be disabled.
 * The [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) parameter will be set to 250 million DAI.
 
-This change is being proposed to prevent FLAP auctions temporarily until the auction/burn mechanism can be improved. Further details on this issue and the origin of this proposal can be found in the links below:
+This change is being proposed to prevent surplus (flap) auctions temporarily until the auction/burn mechanism can be improved. Further details on this issue and the origin of this proposal can be found in the links below:
 * [Flappy Friday - CLIP and FLAP Analysis](https://forum.makerdao.com/t/flappy-friday-clip-and-flap-analysis/12790)
 * [So is someone going to say anything about yesterday’s FLAP auctions?](https://forum.makerdao.com/t/so-is-someone-going-to-say-anything-about-yesterdays-flap-auctions/12781)
 * [Stop MKR Burning](https://forum.makerdao.com/t/urgent-signal-request-stop-mkr-burning/12806)
@@ -49,8 +47,6 @@ This change is being proposed to prevent FLAP auctions temporarily until the auc
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
-
-Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) for these calls is available to review.
 
 ---
 
