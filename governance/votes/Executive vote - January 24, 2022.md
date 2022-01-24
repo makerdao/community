@@ -5,7 +5,7 @@ date: 2022-01-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Temporarily {revent Surplus (flap) Auctions and MKR Burn - January 24, 2022
+# [Executive Proposal] Temporarily Prevent Surplus (flap) Auctions and MKR Burn - January 24, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an out-of-schedule executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
