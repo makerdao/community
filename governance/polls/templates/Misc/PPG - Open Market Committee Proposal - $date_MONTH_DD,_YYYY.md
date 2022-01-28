@@ -1,6 +1,6 @@
 ---
-title: Rates Proposal - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to the Stability Fee changes listed in this poll.
+title: PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
+summary: $summary
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
@@ -24,25 +24,23 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) changes: 
-* $IncreaseDecrease the $ilkA Stability Fee from $before% to $after%.
-* $IncreaseDecrease the $ilkB Stability Fee from $before% to $after%.
+MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes: 
+
+$Changes
 
 Please review the proposal [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These Stability Fee changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* These parameter changes will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* If the Friday executive passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
 ## Resources
-
-Unsure about the Stability Fee parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-stability-fee).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
