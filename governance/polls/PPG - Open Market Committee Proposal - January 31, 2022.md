@@ -28,16 +28,16 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 **[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Reductions**
 * Decrease the ETH-A Stability Fee from 2.5% to 2.25%.
-* Decrease the WBTC-A Stability Fee from 4% to 3.75%.
-* Decrease the ETH-B Stability Fee from 2.5% to 2.25%.
-* Decrease the UNIV2DAIETH-A Stability Fee from 2% to 1%.
-* Decrease the TUSD-A Stability Fee from 1% to 0%.
+* Decrease the ETH-B Stability Fee from 6.5% to 4%.
 * Decrease the WSTETH-A Stability Fee from 3% to 2.5%.
-* Decrease the UNIV2WBTCETH-A Stability Fee from 3% to 2%.
-* Decrease the UNIV2USDCETH-A Stability Fee from 2.5% to 1.5%.
+* Decrease the WBTC-A Stability Fee from 4% to 3.75%.
 * Decrease the WBTC-B Stability Fee from 7% to 5%.
 * Decrease the WBTC-C Stability Fee from 1.5% to 0.75%.
+* Decrease the UNIV2DAIETH-A Stability Fee from 2% to 1%.
+* Decrease the UNIV2WBTCETH-A Stability Fee from 3% to 2%.
+* Decrease the UNIV2USDCETH-A Stability Fee from 2.5% to 1.5%.
 * Decrease the GUNIV3DAIUSDC2-A Stability Fee from 0.5% to 0.25%.
+* Decrease the TUSD-A Stability Fee from 1% to 0%.
 
 **Aave D3M (DAI Direct Deposit Module) Target Rate Change**
 * Decrease the Aave D3M Target Rate (`bar`) from 3.75% to 3.5%.
