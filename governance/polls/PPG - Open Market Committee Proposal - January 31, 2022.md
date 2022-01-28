@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes: 
 
-**[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Reductions**
+**[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Decreases**
 * Decrease the ETH-A Stability Fee from 2.5% to 2.25%.
 * Decrease the ETH-B Stability Fee from 6.5% to 4%.
 * Decrease the WSTETH-A Stability Fee from 3% to 2.5%.
@@ -39,14 +39,14 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 * Decrease the GUNIV3DAIUSDC2-A Stability Fee from 0.5% to 0.25%.
 * Decrease the TUSD-A Stability Fee from 1% to 0%.
 
-**DIRECT-AAVEV2-DAI (Aave D3M) [Target Borrow Rate](https://github.com/makerdao/dss-direct-deposit#configuration) Change**
+**DIRECT-AAVEV2-DAI (Aave D3M) [Target Borrow Rate](https://github.com/makerdao/dss-direct-deposit#configuration) Decrease**
 * Decrease the DIRECT-AAVEV2-DAI Target Borrow Rate from 3.75% to 3.5%.
 
 **[Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Changes**
 * Decrease the GUNIV3DAIUSDC1-A Maximum Debt Ceiling from 500 million DAI to 100 million DAI.
 * Increase the GUNIV3DAIUSDC2-A Maximum Debt Ceiling from 500 million DAI to 750 million DAI.
 
-**[Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Change**
+**GUNIV3DAIUSDC2-A [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Increase**
 * Increase the GUNIV3DAIUSDC2-A Target Available Debt (`gap`) from 10 million DAI to 50 million DAI.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2022-01-27/12883) to help inform your position before voting.
