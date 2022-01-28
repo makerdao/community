@@ -21,6 +21,7 @@ If this executive proposal passes, the following outcomes will be executed:
 - A total of **480 MKR** will be vested to members of the [Strategic Finance Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP27) over three years.
 - The DAI stream for the now offboarded [Content Production Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP5) will be revoked.
 - The DAI budget stream for Real World Finance will be replaced. The new stream will target a new multi-sig wallet. The budget amount remains unchanged.
+- `CLIP_FAB` will be added to the on-chain changelog (Protocol Engineering housekeeping inclusion).
 
 **Voting for this executive proposal will place your MKR in support of the outcomes outlined above.**
 
@@ -60,6 +61,9 @@ As a result of this successful [budget proposal](https://mips.makerdao.com/mips/
 Given that the facilitator for the [Real World Finance Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP1) has changed, we received a request from the [new facilitator](https://mips.makerdao.com/mips/details/MIP41c4SP27) to adjust the implementation of the existing Real World Finance DAI budget stream. This request is detailed here. Given that this is an administrative change and budget amounts remain the same, we elected to include it in this executive proposal. If this executive proposal passes the following will occur.
 * The existing Real World Finance DAI budget stream will be revoked.
 * A replacement stream will be setup, streaming **1,705,000 DAI** to 0x96d7b01Cc25B141520C717fa369844d34FF116ec starting at 2022-02-01 and ending at 2022-12-31.
+
+### Protocol Engineering Housekeeping
+The on-chain changelog, also known as the [chainlog](https://chainlog.makerdao.com/) will be updated to include the `CLIP_FAB` contract if this executive proposal passes. This proposed change is part of ongoing Protocol Engineering housekeeping efforts and will not have any direct effect on the Maker Protocol. 
 
 ## Review
 
