@@ -11,7 +11,7 @@ Name: MakerMan
 
 Forum: @MakerMan
 
-Rocketchat: @Maker_Man
+Discord: @MakerMan#6155
 
 Email: DaiMakerMan@gmail.com
 
