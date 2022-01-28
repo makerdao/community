@@ -39,8 +39,8 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 * Decrease the GUNIV3DAIUSDC2-A Stability Fee from 0.5% to 0.25%.
 * Decrease the TUSD-A Stability Fee from 1% to 0%.
 
-**Aave D3M (DAI Direct Deposit Module) Target Rate Change**
-* Decrease the Aave D3M Target Rate (`bar`) from 3.75% to 3.5%.
+**DIRECT-AAVEV2-DAI (Aave D3M) [Target Borrow Rate](https://github.com/makerdao/dss-direct-deposit#configuration) Change**
+* Decrease the DIRECT-AAVEV2-DAI Target Borrow Rate from 3.75% to 3.5%.
 
 **[Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Changes**
 * Decrease the GUNIV3DAIUSDC1-A Maximum Debt Ceiling from 500 million DAI to 100 million DAI.
