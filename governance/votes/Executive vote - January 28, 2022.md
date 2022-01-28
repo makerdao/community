@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following outcomes will be executed:
 - A total of **10,070,519 DAI** will be transferred to multiple core units.
-- A total of **11,096,946 DAI** will be streamed to multiple core units over the **next 6 to 12 months**.
+- A total of **11,017,146 DAI** will be streamed to multiple core units over the **next 6 to 12 months**.
 - A total of **480 MKR** will be vested to members of the [Strategic Finance Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP27) over three years.
 - The DAI stream for the now offboarded [Content Production Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP5) will be revoked.
 - The DAI budget stream for Real World Finance will be replaced. The new stream will target a new multi-sig wallet. The budget amount remains unchanged.
@@ -42,10 +42,10 @@ As per multiple successful budget proposals (linked below), a total of **10,070,
 * **1,805,407 DAI** will be transferred to the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) at 0x1A5B692029b157df517b7d21a32c8490b8692b0f as a result of their [oracle gas budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP45). This is intended to be used as emergency funding for MakerDAO's oracles.
 
 ### Core Unit DAI Budget Streams
-As per multiple successful budget proposals (linked below), a total of **11,096,946 DAI** will be streamed to several Core Units over the next 6-12 months if this executive proposal passes.
+As per multiple successful budget proposals (linked below), a total of **11,017,146 DAI** will be streamed to several Core Units over the next 6-12 months if this executive proposal passes.
 * **1,934,300 DAI** will be streamed to the [Development and UX Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP18) at 0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad starting at 2022-02-01 and ending at 2023-01-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP52).
 * **5,844,444 DAI** will be streamed to the [Sustainable Ecosystem Scaling Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP10) at 0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6 starting at 2022-02-01 and ending at 2023-01-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP55).
-* **2,566,200 DAI** will be streamed to the [TechOps Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP29) at 0x2dC0420A736D1F40893B9481D8968E4D7424bC0B starting at 2022-02-01 and ending at 2023-01-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP53).
+* **2,486,400 DAI** will be streamed to the [TechOps Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP29) at 0x2dC0420A736D1F40893B9481D8968E4D7424bC0B starting at 2022-02-01 and ending at 2023-01-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP53).
 * **257,500 DAI** will be streamed to the[StarkNet Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP19) at 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting at 2022-02-01 and ending at 2022-07-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP47).
 * **494,502 DAI** will be streamed to the [Strategic Finance Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP27) at 0xf737C76D2B358619f7ef696cf3F94548fEcec379 starting at 2022-02-01 and ending at 2022-07-31 as a result of their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP46).
 
