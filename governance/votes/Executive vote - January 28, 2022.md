@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit Budget Transfers and Streams - January 28, 2022
 summary: Budget transfers for StarkNet Engineering, TechOps, and Oracles. Budget streams for Sustainable Ecosystem Scaling, StarkNet Engineering, TechOps, Strategic Finance, Development, and UX. Revoking Content Production budget, changing Real World Finance Multisig and streams. MKR vesting streams for Strategic Finance.
 date: 2022-01-28T00:00:00.000Z
-address: "$spell_address"
+address: "0x3142dafd5aD998E35EB8E4Bc8E7D01545E02281A"
 
 ---
 # [Executive Proposal] Core Unit Budget Transfers and Streams - January 28, 2022
