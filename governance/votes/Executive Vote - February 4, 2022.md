@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 02, 2022
-summary: Recognized Delegate Compensation for January 2022, increase the threshold to trigger the Emergency Shutdown Module, Parameter changes from the latest MOMC proposal, correction of StarkNet Engineering and Strategic Finance DAI budget streams.
+title: Template - [Executive Vote] Recognized Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 04, 2022
+summary: Recognized Delegate Compensation for January 2022, increase the threshold to trigger the Emergency Shutdown Module, parameter changes from the latest MOMC proposal, correction of StarkNet Engineering and Strategic Finance DAI budget streams.
 date: 2022-02-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 02, 2022
+# [Executive Proposal] Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 04, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -60,9 +60,10 @@ Further details about the changes being made to the Emergency Shutdown Module ha
 
 ### MOMC Parameter Changes
 
-As per this [governance poll](https://vote.makerdao.com/polling/QmWReBMh) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2022-01-27/12883), the following parameter changes will be made in the Maker Protocol if this executive proposal passes:
+As per this [governance poll](https://vote.makerdao.com/polling/QmWReBMh) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2022-01-27/12883), the following parameter changes will be made in the Maker Protocol if this executive proposal passes.
 
 **Stability Fee Decreases**
+
 * **ETH-A** [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.25% from **2.5%** to **2.25%**.
 * **ETH-B** [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 2.5% from **6.5%** to **4%**.
 * **WSTETH-A** [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.5% from **3%** to **2.5%**.
@@ -90,7 +91,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmWReBMh) on the
 
 ### Correction of Core Unit Budget Streams
 
-The previous Executive Vote contained errors relating to the DAI budget Streams for the StarkNet Engineering and Strategic Finance Core Units. The error has been detailed by the Protocol Engineering team on the MakerDAO forum [here](https://forum.makerdao.com/t/correction-to-last-weeks-executive/13022). In order to correct this error, the following changes will occur if this executive proposal passes:
+The previous Executive Vote contained errors relating to the DAI budget Streams for the StarkNet Engineering and Strategic Finance Core Units. The error has been detailed by the Protocol Engineering team on the MakerDAO forum [here](https://forum.makerdao.com/t/correction-to-last-weeks-executive/13022). In order to correct this error, the following changes will occur if this executive proposal passes.
 
 * The currently configured DAI budget streams for the StarkNet Engineering and Strategic Finance Core Units will be cancelled.
 * In order to retain access to the first month’s funds during the stream update, **we are transferring 42,917 DAI minus the amount claimable from the old contract**, at the time that this Executive Vote is executed to the [StarkNet Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP19) at 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1. The maximum transfer amount of 42,917 DAI is equivalent to one month of funding under their most recent [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP47).
