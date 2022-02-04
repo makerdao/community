@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Recognized Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 04, 2022
 summary: Recognized Delegate Compensation for January 2022, increase the threshold to trigger the Emergency Shutdown Module, parameter changes from the latest MOMC proposal, correction of StarkNet Engineering and Strategic Finance DAI budget streams.
 date: 2022-02-04T00:00:00.000Z
-address: "$spell_address"
+address: "0xC45c1419DA490880b4cf4e840e14D62827969B3f"
 
 ---
 # [Executive Proposal] Delegate Compensation, Raise the Emergency Shutdown Threshold, MOMC Parameter Changes, Core Unit DAI Budget Stream Corrections - February 04, 2022
