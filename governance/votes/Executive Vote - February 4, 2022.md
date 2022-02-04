@@ -16,16 +16,16 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- A total of 54,752 DAI will be paid to eight Recognized Delegates as part of the Delegate Compensation Trial, listed in detail below.
-- An increase in the threshold required to trigger the Emergency Shutdown Module, detailed below.
-- Parameter changes from the latest proposal from the MakerDAO Open Market Committee including Stability Fee decreases, Aave D3M Target Borrow Rate reduction, Debt Ceiling changes, and GUNIV3DAIUSDC2-A Target Available Debt increase, listed in detail below.
-- The DAI budget streams for StarkNet Engineering and Strategic Finance will be replaced. To ensure continuity of funding, a DAI transfer constituting one month of funding will be made to each Core Unit.
+- A total of 54,752 DAI will be paid to eight Recognized Delegates as part of the [Delegate Compensation Trial](https://forum.makerdao.com/t/signal-request-extend-the-delegate-compensation-trial/12686), listed in detail below.
+- An increase in the threshold required to trigger the [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown), from 75,000 MKR to 100,000 MKR, as detailed below.
+- Parameter changes from the latest proposal from the MakerDAO Open Market Committee including [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) decreases, Aave D3M Target Borrow Rate reduction, [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) changes, and GUNIV3DAIUSDC2-A [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) increase, listed in detail below.
+- The DAI budget streams for [StarkNet Engineering](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [Strategic Finance](https://mips.makerdao.com/mips/details/MIP39c2SP27) will be replaced. To ensure continuity of funding, a DAI transfer constituting one month of funding will be made to each Core Unit.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
-This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some keepers are available to react to unforeseen issues with these changes.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
