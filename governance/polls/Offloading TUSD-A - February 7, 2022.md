@@ -30,7 +30,7 @@ The community can vote in this poll to rank their support of the following optio
 * Take no action at this time.
 * Abstain.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offloading-tusd-a/12814 to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offloading-tusd-a/12814) to help inform your position before voting.
 
 For more information on TUSD, consider reviewing forum posts with the [TUSD tag](https://forum.makerdao.com/tag/tusd).
 
