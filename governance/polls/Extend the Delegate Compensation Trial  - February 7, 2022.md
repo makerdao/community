@@ -12,9 +12,9 @@ options:
 start_date: 2022-02-07T16:00:00
 end_date: 2022-02-10T16:00:00
 ---
-# Poll:Extend the Delegate Compensation Trial  - February 7, 2022
+# Poll: Extend the Delegate Compensation Trial  - February 7, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, Feburary 7 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 7 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,8 +24,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Extend the [Delegate Compensation Trial](https://forum.makerdao.com/t/signal-request-should-we-trial-delegate-compensation-as-described-in-mip61-over-3-months/10978) by a maximum 6 months, until the end of July 2022.
-* Allow the Delegate Compensation Trial to conclude before July 2022 in the event that [MIP61 - Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61) is approved.
+* Extend the [Delegate Compensation Trial](https://forum.makerdao.com/t/signal-request-should-we-trial-delegate-compensation-as-described-in-mip61-over-3-months/10978) by a maximum of 6 months, until the end of July 2022.
+* Allow the Delegate Compensation Trial to conclude before July 2022 if [MIP61 - Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61) is approved.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-extend-the-delegate-compensation-trial/12686) to help inform your position before voting.
 
