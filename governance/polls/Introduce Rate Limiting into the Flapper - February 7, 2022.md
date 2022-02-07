@@ -28,7 +28,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn/12837) to help inform your position before voting.
 
-If you wish to view the current state of this proposed modificaiton, please see this [pull request](https://github.com/makerdao/dss/pull/244).
+If you wish to view the current state of this proposed modification, please see this [pull request](https://github.com/makerdao/dss/pull/244).
 
 To learn more about the Flapper-Contract, please see this [technical documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation).
 
