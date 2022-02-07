@@ -24,9 +24,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* [Modify the Flapper-Contract](https://github.com/makerdao/dss/pull/244) by introducing a rate limit so the protocol can control the amount of parallel running flap-auctions.
+* [Modify the Flapper-Contract](https://forum.makerdao.com/t/rate-limited-flapper/13056) by introducing a rate limit so the protocol can control the amount of parallel running flap-auctions.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn/12837) to help inform your position before voting.
+
+If you wish to view the current state of this proposed modificaiton, please see this [pull request](https://github.com/makerdao/dss/pull/244).
 
 To learn more about the Flapper-Contract, please see this [technical documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation).
 
