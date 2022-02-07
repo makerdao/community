@@ -32,7 +32,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The Delegate Compensation Trial will be extended until either the end of July 2022 or until the approval of [MIP61 - Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61).
+* The Delegate Compensation Trial will be extended until either the end of July 2022 or until the approval of [MIP61 - Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), whichever comes first.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
