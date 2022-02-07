@@ -14,7 +14,7 @@ end_date: 2022-02-10T16:00:00
 ---
 # Poll: Introduce Rate Limiting into the Flapper - February 7, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 7 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
