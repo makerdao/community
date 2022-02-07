@@ -34,7 +34,7 @@ To learn more about the Flapper-Contract, please see this [technical documentati
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This modification to the Flapper will take place in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
-* Parameter recomendations for the Rate Limiter will be proposed by the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state?), requiring a further successful on-chain poll before advancing to an executive vote. 
+* Parameter recommendations for the Rate Limiter will be proposed by the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state?), requiring a further successful on-chain poll before advancing to an executive vote. 
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
