@@ -14,7 +14,7 @@ end_date: 2022-02-28T16:00:00
 ---
 # Poll: Increase the PSM-GUSD Debt Ceiling - February 14, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Recognized Delegate GFX Labs. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on February 14, 2022 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on February 14, 2022 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
