@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e1e6659da4b33a4dadcf24ed762151e52b14b08d/MIP4/MIP4c2-Subproposals/MIP4c2-SP16.md)
-* [Latest Proposal Version]($link_to_portal_version)
+* [Latest Proposal Version](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP16.md)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp16-mip55-amendments/12606)
 
 ## Outcomes
