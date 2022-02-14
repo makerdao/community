@@ -27,10 +27,13 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The MIP40c3-SP57 Dai budget implementation for Core Unit CES-001: Collateral Engineering Services contains:
- The CES-001 budget for Q2 2022 through Q1 2023. This is a continuation of the Q4 2021 through Q1 2022 budget in MIP40c3-SP30 1.
- Automates Dai payments from the Maker Protocol surplus buffer to the Auditor Wallet by establishing a DssVest stream for funding.
- Unless specified in MIP40c3-SP57, all prior terms and conditions ratified in the prior Dai budget implementation, MIP40c3-SP30 1, are considered active and are not modified or revoked by this proposal.*
+*The MIP40c3-SP57 Dai budget implementation for Core Unit CES-001: Collateral Engineering Services contains:*
+
+*1. The CES-001 budget for Q2 2022 through Q1 2023. This is a continuation of the Q4 2021 through Q1 2022 budget in [MIP40c3-SP30](https://mips.makerdao.com/mips/details/MIP40c3SP30).*
+
+*2. Automates Dai payments from the Maker Protocol surplus buffer to the Auditor Wallet by establishing a DssVest stream for funding.*
+
+*3. Unless specified in MIP40c3-SP57, all prior terms and conditions ratified in the prior Dai budget implementation, [MIP40c3-SP30](https://mips.makerdao.com/mips/details/MIP40c3SP30), are considered active and are not modified or revoked by this proposal.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/02fa322deac6cd38a48336f54ac475c2ef37b4b0/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md)
