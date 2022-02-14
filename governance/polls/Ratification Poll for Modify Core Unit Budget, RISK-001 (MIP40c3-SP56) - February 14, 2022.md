@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget, RISK-001 (MIP40c3-SP56) - February 14, 2022
-summary: MIP40c3-SP56 modifies the DAI budget for Core Unit RISK-001: Risk, replacing MIP40c3-SP13 
+summary: MIP40c3-SP56 modifies the DAI budget for Core Unit RISK-001 - Risk, replacing MIP40c3-SP13. 
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp56-modify-core-unit-budget-risk-001/12587
 vote_type: Plurality Voting
 categories:
