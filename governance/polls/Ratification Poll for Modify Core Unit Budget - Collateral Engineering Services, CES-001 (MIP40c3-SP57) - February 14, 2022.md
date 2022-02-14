@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget - Collateral Engineering Services, CES-001 (MIP40c3-SP57) - February 14, 2022
-summary: MIP40c3-SP57 is a new MIP providing for the continuation of the Dai budget implementation for Core Unit CES-001: Collateral Engineering Services.
+summary: MIP40c3-SP57 is a new MIP providing for the continuation of the Dai budget implementation for Core Unit CES-001 - Collateral Engineering Services.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp57-modify-core-unit-budget-collateral-engineering-services-ces-001/12578
 vote_type: Plurality Voting
 categories:
