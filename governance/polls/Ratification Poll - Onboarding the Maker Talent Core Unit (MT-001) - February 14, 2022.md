@@ -33,7 +33,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/6c8f70b6aef50eeb1bebacf1e478002a9e692a63/MIP39/MIP39c2-Subproposals/MIP39c2-SP28.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP28)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001/12075/5)
 
 ### MIP40c3-SP50: Modify Core Unit Budget - Maker Talent (MT-001)
@@ -81,7 +81,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d3694a2c58e79bde42461f2bef0fa22295f9df87/MIP41/MIP41c4-Subproposals/MIP41c4-SP29.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP29)
+* [Latest Proposal Version](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP29.md)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-maker-talent-core-unit-mt-001/12078)
 
 ## Outcomes
