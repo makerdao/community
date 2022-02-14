@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Onboarding the Maker Talent Core Unit (MT-001) - February 14, 2022
-summary: This MIP set adds the Maker Talent Core Unit, MTE-001.
+summary: This MIP set adds the Maker Talent Core Unit, MT-001.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp50-modify-core-unit-budget-maker-talent-mt-001/12077
 vote_type: Plurality Voting
 categories:
