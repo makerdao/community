@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Onboard/Amend Keeper Network - Tech-Ops (MIP63c4-SP1) - February 14, 2022
-summary: This is an onboarding application for the Tech-Ops Core Unit to be added to the Maker Keeper Network (per MIP63).
+summary: This MIP onboards the Tech-Ops Core Unit (TECH-001) as part of the Maker Keeper Network.
 discussion_link: https://forum.makerdao.com/t/mip63c4-sp1-onboard-amend-keeper-network-tech-ops/12739
 vote_type: Plurality Voting
 categories:
