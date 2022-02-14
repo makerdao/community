@@ -77,7 +77,7 @@ Please review the links below to inform your position on this proposal before vo
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP41-SP29: Add Core Unit Facilitator for Maker Talent MT-001.*
+*MIP41-SP29: Adds @manomad as Core Unit Facilitator for Maker Talent MT-001.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d3694a2c58e79bde42461f2bef0fa22295f9df87/MIP41/MIP41c4-Subproposals/MIP41c4-SP29.md)
