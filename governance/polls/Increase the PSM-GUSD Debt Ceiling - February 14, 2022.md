@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-02-14T16:00:00
-end_date: 2022-02-28T16:00:00
+end_date: 2022-02-17T16:00:00
 ---
 # Poll: Increase the PSM-GUSD Debt Ceiling - February 14, 2022
 
