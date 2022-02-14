@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Core Unit Budget, Immunefi Security (IS-001) (MIP40c3-SP58) - February 14, 2022
-summary: MIP40c3-SP58 modifies the DAI budget for Core Unit IS-001: Immunefi Security, replacing MIP40c3-SP42
+summary: MIP40c3-SP58 modifies the DAI budget for Core Unit IS-001 - Immunefi Security, replacing MIP40c3-SP42.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp58-modify-core-unit-budget-immunefi-security-core-unit-budget-is-001/12598
 vote_type: Plurality Voting
 categories:
