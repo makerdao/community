@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f746194995010122b41feebe6e5912885d6583c7/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
-* [Latest Proposal Version]($link_to_portal_version)
+* [Latest Proposal Version](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4%20Subproposals/MIP63c4-SP1.md)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip63c4-sp1-onboard-amend-keeper-network-tech-ops/12739)
 
 ## Outcomes
