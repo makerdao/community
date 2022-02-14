@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP55 Amendments (MIP4c2-SP16) - February 14, 2022
-summary: This amendment for MIP55: Special Purpose Fund aims to improve the clarity of the original MIP text
+summary: This amendment for MIP55 - Special Purpose Fund - aims to improve the clarity of the original MIP text.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp16-mip55-amendments/12606
 vote_type: Plurality Voting
 categories:
