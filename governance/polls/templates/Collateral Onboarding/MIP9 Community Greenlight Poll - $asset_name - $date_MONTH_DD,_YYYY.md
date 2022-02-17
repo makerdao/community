@@ -1,6 +1,6 @@
 ---
 title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name). 
+summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name).
 discussion_link: $discussion_link
 vote_type: Plurality Voting
 categories:
@@ -15,16 +15,16 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 Please review the collateral onboarding application [thread]($discussion_link) to inform your position before voting.
 
