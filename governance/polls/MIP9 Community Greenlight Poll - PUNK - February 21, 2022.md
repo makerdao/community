@@ -15,7 +15,7 @@ end_date: 2022-03-07T16:00:00
 ---
 # Poll: Community Greenlight Poll - PUNK (CryptoPunk) - February 21, 2022
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on February 21, 2022 at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, February 21, 2022 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -24,9 +24,9 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+This poll asks whether the asset PUNK (CryptoPunk) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
-Please review the collateral onboarding application [thread]($discus) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/punk-collateral-onboarding-application/12992) to inform your position before voting.
 
 ## Outcomes
 
