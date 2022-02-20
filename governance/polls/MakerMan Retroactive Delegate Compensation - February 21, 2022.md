@@ -1,10 +1,10 @@
 ---
 title: MakerMan Retroactive Delegate Compensation - February 21, 2022
-summary: Signal your support or opposition to MakerMan Retroactive Delegate Compensation
+summary: Signal your support or opposition to compensating MakerMan for Recognized Delegate activities in the month of November.
 discussion_link: https://forum.makerdao.com/t/signal-request-makerman-retroactive-delegate-comp/13051
 vote_type: Plurality Voting
 categories:
-   - Compensation
+   - Other
 options:
    0: Abstain
    1: Yes
