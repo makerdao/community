@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- [The Maximum Debt Ceiling (`line`)](ttps://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) of the GUSD PSM will be increased to 60 million DAI.
+- [The Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) of the GUSD PSM will be increased to 60 million DAI.
 - 8,245 DAI will be transferred to MakerMan as retroactive compensation for Recognized Delegate work in November 2021.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
