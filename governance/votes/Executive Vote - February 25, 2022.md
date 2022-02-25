@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] GUSD PSM Maximum Debt Ceiling Increase, MakerMan Retroactive Delegate Compensation - February 25, 2022
 summary: Increase the GUSD PSM Maximum Debt Ceiling to 60 million DAI, Retroactive compensation for MakerMan for Recognized Delegate work in November 2021.
 date: 2022-02-25T00:00:00.000Z
-address: "$spell_address"
+address: "0x50968E9d628FdD0Eb29C7742dC84233babaD534e"
 
 ---
 # [Executive Proposal] GUSD PSM Increase, MakerMan Retroactive Delegate Compensation - February 25, 2022
