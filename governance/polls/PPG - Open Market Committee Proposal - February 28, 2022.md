@@ -1,6 +1,6 @@
 ---
 title: PPG - Open Market Committee Proposal - February 28, 2022
-summary: Changes to the WSTETH-A and DIRECT-AAVEV2-DAI Maximum Debt Ceiling and Target Available Debt, DIRECT-AAVEV2-DAI bar rate.  
+summary: Changes to the WSTETH-A and DIRECT-AAVEV2-DAI Maximum Debt Ceiling and Target Available Debt, DIRECT-AAVEV2-DAI Target Borrow Rate.  
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2022-02-24/13434
 vote_type: Plurality Voting
 categories:
