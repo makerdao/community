@@ -1,6 +1,6 @@
 ---
 title: Adding Rate Limiter to Flap Auctions - February 28, 2022
-summary: Signal your support or opposition to adding a parameter - lid - that limits the DAI allowed to be sent out to surplus auction at once.
+summary: Signal your support or opposition to adding a parameter - lid - that limits the amount of DAI that can be sent out to surplus auctions at one time.
 discussion_link: https://forum.makerdao.com/t/rate-limiter-parameter-proposal/13193
 vote_type: Plurality Voting
 categories:
