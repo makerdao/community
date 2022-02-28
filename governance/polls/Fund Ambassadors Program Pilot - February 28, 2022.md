@@ -30,7 +30,7 @@ A brief description of the Ambassadors Program has been provided by the proposal
 
 *The MakerDAO Ambassador program provides non-english speaking communities with resources and educational materials to expand the MakerDAO community. Ambassadors provide two-way translation services, engage their communities with local events, and share content produced in their own language with the MakerDAO community. During the pilot, the ambassador program is focusing on Latin America with Ambassadors in Argentina and Venezuela.*
 
-**Note:** The execution of this program funding is dependent on a multi-signature wallet being set up. An executive vote will not take place following the passage of this poll until the community has been provided with the full implementation details of this pilot.
+**Note: The execution of this program funding is dependent on a multi-signature wallet being set up. An executive vote will not take place following the passage of this poll until the community has been provided with the full implementation details of this pilot.**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-fund-ambassadors-program-pilot/13199) to help inform your position before voting.
 
