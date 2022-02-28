@@ -14,7 +14,7 @@ end_date: 2022-03-03T16:00:00
 ---
 # Poll:$GenericChange - Fund Ambassadors Program Pilot - February 28, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, Feburary 28 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, February 28 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,20 +24,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Funding an Ambassadors Program Pilot proposed by @kat. 25,000 DAI will be allocated for this Pilot if this poll and subsequent executive proposal passes.
+* Funding an Ambassadors Program Pilot proposed by @kat. 25,000 DAI will be allocated for this Pilot if this poll and subsequent executive proposal pass.
 
-A breif description of the Ambassadors Program has been provided by the proposal author:
+A brief description of the Ambassadors Program has been provided by the proposal author:
 
 *The MakerDAO Ambassador program provides non-english speaking communities with resources and educational materials to expand the MakerDAO community. Ambassadors provide two-way translation services, engage their communities with local events, and share content produced in their own language with the MakerDAO community. During the pilot, the ambassador program is focusing on Latin America with Ambassadors in Argentina and Venezuela.*
 
-**Note:** The execution of this program funding is dependent on a multisignature wallet being set up. An executive vote will not take place following the passage of this poll until the community has been provided the full implementation details of this pilot.
+**Note:** The execution of this program funding is dependent on a multi-signature wallet being set up. An executive vote will not take place following the passage of this poll until the community has been provided with the full implementation details of this pilot.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-fund-ambassadors-program-pilot/13199) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the next availible Executive Vote, following the pilot program implementation details being provided.
+* This change will be included in the next available Executive Vote, following the pilot program implementation details being provided.
 * If the executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
