@@ -1,3 +1,8 @@
+---
+name: Flipside Crypto
+external_profile_url:
+---
+
 # Flipside Crypto
 
 ### Key Info
