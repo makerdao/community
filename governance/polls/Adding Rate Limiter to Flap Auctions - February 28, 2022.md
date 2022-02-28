@@ -13,7 +13,7 @@ options:
 start_date: 2022-02-28T16:00:00
 end_date: 2022-03-03T16:00:00
 ---
-# Poll:$GenericChange - Adding Rate Limiter to Flap Auctions - February 28, 2022
+# Poll: Adding Rate Limiter to Flap Auctions - February 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP38#risk-risk-001-). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, Feburary 28 at 16:00 UTC.
 
