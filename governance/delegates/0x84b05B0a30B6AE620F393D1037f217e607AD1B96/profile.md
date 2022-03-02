@@ -8,10 +8,11 @@ external_profile_url:
 ### Key Info
 
 
-Delegate Address: 0x84b05B0a30B6AE620F393D1037f217e607AD1B96
-Forum: @fig @dav @avi @dobby 
-Email: [governance@flipsidecrypto.com](mailto:governance@flipsidecrypto.com)
-External Website: [https://flipsidecrypto.xyz/](https://flipsidecrypto.xyz/)
+Delegate Address: 0x84b05B0a30B6AE620F393D1037f217e607AD1B96  
+Forum: @fig @avi @dav @dobby  
+Discord: @fig#6582 @avi#1773  
+Email: [governance@flipsidecrypto.com](mailto:governance@flipsidecrypto.com)  
+External Website: [https://flipsidecrypto.xyz/](https://flipsidecrypto.xyz/)  
 
 #### *Delegates Code of Conduct:* 
  *We as Flipside Crypto Governance have read, acknowledge, and adhere to Maker's Delegates Code of Contact.* (Agreed 02/25/22) 
@@ -79,7 +80,13 @@ As delegates, we promise:
 * Transparency about when we vote and how we vote
 * A shared commitment to the future success of Maker
 
+Here are a few of our coolest things we've done in Crypto:
 
+* [$1,000,000 SushiSwap Grant](https://forum.sushi.com/t/updated-proposal-community-enabled-analytics-for-sushi/6127)
+* [OlympusDAO: A Sub-DAO for Treasury Asset Governance](https://forum.olympusdao.finance/d/791-a-sub-dao-for-olympusdao-treasury-asset-governance)
+* [ENS Governance Enhancement](https://discuss.ens.domains/t/rfc-ens-governance-enhancements-flipside-crypto/11100)
+* [Aave CEA Summary](https://governance.aave.com/t/flipside-crypto-cea-grant-overview/7073?u=fig)
+* [Flipside Community Console for Mirror Protocol](https://forum.mirror.finance/t/proposal-flipside-community-console-for-mirror-protocol/354)
 
 
 ### Conflicts of Interest
