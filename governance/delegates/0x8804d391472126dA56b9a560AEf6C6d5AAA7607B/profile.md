@@ -54,7 +54,7 @@ In terms of personal holdings above $1K, beside ETH,MKR,DAI,USDC, I invested and
 
 I will disclose in case the voting might create conflicts of interest.
 
-I have read and agree to follow the [Delegate Code of Conduct 3.](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
+I have read and agree to follow the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
 
 **Waiver of Liability**
 
