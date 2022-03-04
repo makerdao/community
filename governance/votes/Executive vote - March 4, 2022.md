@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Core Unit Budget Distributions, Recognized Delegate Compensation, MOMC Parameter Changes - March 4, 2022
-summary: Core Unit Budget Distributions, Recognized Delegate Compensation Distribution for February, MOMC Parameter Changes for WSTETH-A and DIRECT-AAVEV2-DAI
-date: $2022-03-04T00:00:00.000Z
+summary: Core Unit Budget Distributions, Recognized Delegate Compensation Distribution for February, MOMC Parameter Changes for WSTETH-A and DIRECT-AAVEV2-DAI.
+date: 2022-03-04T00:00:00.000Z
 address: "$spell_address"
 ---
 
