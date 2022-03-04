@@ -17,7 +17,7 @@ If this executive proposal passes, the following **outcomes** will be executed:
 
 - A total of 397,184 Dai (itemized below) will be transferred to multiple Core Units.
 - A total of 5,747,562 Dai (itemized below) will be streamed to multiple Core Units.
-- The existing DAI stream for the Risk Core Unit will be revoked.
+- The existing DAI budget stream for the Risk Core Unit will be revoked.
 - A total of 57,665 DAI (itemized below) will be transferred to eight Recognized Delegates as part of the [Delegate Compensation Trial](https://forum.makerdao.com/t/signal-request-extend-the-delegate-compensation-trial/12686).
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
@@ -44,7 +44,7 @@ As per multiple successful budget proposals (linked below), a total of **397,184
 As per multiple successful budget proposals (linked below), a total of **397,184 Dai** will be streamed to multiple Core Units if this executive proposal passes:
 
 - 2,760,000 DAI will be streamed to the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2) at 0xb386Bc4e8bAE87c3F67ae94Da36F385C100a370a starting on 2022-03-01 and ending on 2023-02-28 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP56).
-    - The existing DAI stream for this Core Unit will be revoked.
+    - The existing DAI budget stream for this Core Unit will be revoked.
 - 2,780,562 DAI will be streamed to the [Collateral Engineering Services Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP20) at 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da starting on 2022-04-01 and ending on 2023-03-31 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP57).
 - 207,000 DAI will be streamed to the [Immunefi Security Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP24) at 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting on 2022-03-01 and ending on 2022-12-01 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP58).
 
