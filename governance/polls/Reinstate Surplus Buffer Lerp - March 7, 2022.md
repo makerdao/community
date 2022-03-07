@@ -28,12 +28,14 @@ The community can vote in this poll to express support or opposition to the foll
 * Reinstating the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) `lerp` increase from 60 million DAI to 90 million DAI as defined in [this poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail) and subsequent [executive proposal](https://vote.makerdao.com/executive/template-executive-vote-onboarding-new-vault-types-parameter-changes-and-core-unit-budget-distributions-november-26-2021?network=mainnet#proposal-detail).
 * The initial value of the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) will be based on the 30-week linear extrapolation passed on November 26th and executed on November 29th, 2021. 
 
+**Note: A prerequisite to this action being taken is the installation of a Rate Limiter (approved in this [Governance Poll](https://vote.makerdao.com/polling/Qmdd4Pg7?network=mainnet#poll-detail)).** 
+
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn-part-ii/13146) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
+* This change will be included in the next available Executive Vote, once the prerequisite conditions have been satisfied.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
