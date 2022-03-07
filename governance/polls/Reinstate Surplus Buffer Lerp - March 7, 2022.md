@@ -24,9 +24,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Lowering the [Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) from its current value of 250 million DAI.
-* Reinstating the [Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) `lerp` increase from 60 million DAI to 90 million DAI as defined in [this poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail) and subsequent [executive proposal](https://vote.makerdao.com/executive/template-executive-vote-onboarding-new-vault-types-parameter-changes-and-core-unit-budget-distributions-november-26-2021?network=mainnet#proposal-detail).
-* The initial value of the [Surplus Buffer](https://makerdao.world/en/learn/governance/param-system-surplus-buffer) will be based on the 30-week linear extrapolation passed on November 26th and executed on November 29th, 2021. 
+* Lowering the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) from its current value of 250 million DAI.
+* Reinstating the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) `lerp` increase from 60 million DAI to 90 million DAI as defined in [this poll](https://vote.makerdao.com/polling/QmUqfZRv?network=mainnet#poll-detail) and subsequent [executive proposal](https://vote.makerdao.com/executive/template-executive-vote-onboarding-new-vault-types-parameter-changes-and-core-unit-budget-distributions-november-26-2021?network=mainnet#proposal-detail).
+* The initial value of the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) will be based on the 30-week linear extrapolation passed on November 26th and executed on November 29th, 2021. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn-part-ii/13146) to help inform your position before voting.
 
