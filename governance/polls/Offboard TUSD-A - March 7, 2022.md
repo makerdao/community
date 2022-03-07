@@ -1,6 +1,6 @@
 ---
-title: Offboard TUSD-A - March 7, 2022
-summary: Signal your support or opposition to offboard TUSD-A.
+title: Offboarding Parameters for TUSD-A - March 7, 2022
+summary: Signal your support or opposition to the following liquidation prameters, designed to offboard TUSD-A.
 discussion_link: https://forum.makerdao.com/t/proposed-parameters-for-offboarding-tusd-a/13506
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2022-03-07T16:00:00
 end_date: 2022-03-10T16:00:00
 ---
-# Poll:Offboard TUSD-A - March 7, 2022
+# Poll: Offboarding Parameters for TUSD-A - March 7, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 7 at 16:00 UTC.
 
