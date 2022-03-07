@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Set [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 150%
 * Set [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) to 1
 * Set [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) to 5 million DAI
-* Set tau to 21,600,000 second (est. 10bps drop per 6 hours = 250 days till 0)
+* Set tau for Abacus/LinearDecrease to 21,600,000 second (estimated 10bps drop per 6 hours = 250 days till 0)
 * Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 432,000 seconds (5 days, implies minimum price of 0.98)
 * Set [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) to 0
 * Set [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 500 
