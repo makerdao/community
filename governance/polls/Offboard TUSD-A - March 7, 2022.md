@@ -4,8 +4,7 @@ summary: Signal your support or opposition to offboard TUSD-A.
 discussion_link: https://forum.makerdao.com/t/proposed-parameters-for-offboarding-tusd-a/13506
 vote_type: Plurality Voting
 categories:
-   - Implement risk parameters for offboarding TUSD-A
-   - Do not implement them
+   - Risk Variable
 options:
    0: Abstain
    1: Yes
