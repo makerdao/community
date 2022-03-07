@@ -24,24 +24,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Implement risk parameters for offboarding TUSD-A
-* Do not implement them
+* Implementing the following risk parameters for offboarding TUSD-A:
 
-The Risk Core Unit Team is proposing the following parameter changes to TUSD-A which will liquidate current open positions.
+**Proposed Offboarding Parameters**
 
-* Proposed Offboarding Parameters
-
-* Enable liquidations
-* Use Abacus/LinearDecrease – tau [seconds]
+* Enable liquidations for TUSD-A
+* Use Abacus/LinearDecrease 
 * Set [Liquidation Penalty](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0
 * Set [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 150%
-* Set buf to 1
-* Set ilk.hole to 5m
+* Set [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) to 1
+* Set [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) to 5 million DAI
 * Set tau to 21,600,000 second (est. 10bps drop per 6 hours = 250 days till 0)
-* Set tail to 432,000 second (5 days, implies minimum price of 0.98)
-* cusp not relevant, stays the same (tail will stop the auction)
-* Set chip to 0 (no need to be fast)
-* Set tip to 500 (bit higher value so that we guarantee kicking all vaults)
+* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 432,000 seconds (5 days, implies minimum price of 0.98)
+* Set [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) to 0
+* Set [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 500 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/proposed-parameters-for-offboarding-tusd-a/13506) to help inform your position before voting.
 
