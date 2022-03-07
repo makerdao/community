@@ -1,6 +1,6 @@
 ---
 title: Offboarding Parameters for TUSD-A - March 7, 2022
-summary: Signal your support or opposition to the following liquidation prameters, designed to offboard TUSD-A.
+summary: Signal your support or opposition to the following liquidation parameters, designed to offboard TUSD-A.
 discussion_link: https://forum.makerdao.com/t/proposed-parameters-for-offboarding-tusd-a/13506
 vote_type: Plurality Voting
 categories:
