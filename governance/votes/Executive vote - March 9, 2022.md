@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-This out-of-schedule executive proposal mitigates the post-shutdown flash loan vulnerability in the Maker Protocol as described by the Protocol Engineering Core Unit [here](https://forum.makerdao.com/t/post-shutdown-flash-loan-vulnerability-announcement-and-remediation-plan/13746). Note that there is no risk to Maker Protocol or any of its stakeholders so long as Emergency Shutdown has not been triggered. 
+This out-of-schedule executive proposal mitigates the post-shutdown flash loan vulnerability in the Maker Protocol as described by the Protocol Engineering Core Unit [here](https://forum.makerdao.com/t/post-shutdown-flash-loan-vulnerability-announcement-and-remediation-plan/13746). Note that there is no risk to Maker Protocol or any of its stakeholders so long as [Emergency Shutdown](https://makerdao.world/en/learn/governance/emergency-shutdown) has not been triggered. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -30,10 +30,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Mitigate Post-Shutdown Flash Loan Vulnerability
 
 If this executive proposal passes, it will mitigate the post-shutdown flash loan vulnerability in the Maker Protocol as described by the Protocol Engineering Core Unit [here](https://forum.makerdao.com/t/post-shutdown-flash-loan-vulnerability-announcement-and-remediation-plan/13746). It does this by:
-* Giving a new module `flash-killer` authorization over the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module), such that anyone can permissionlessly use `flash-killer` to disable the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) in the event of Emergency Shutdown being triggered.
-* The vulnerability is not exploitable until 3 days (currently) after Emergency Shutdown is triggered, meaning there is a 3-day window where any user can disable the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) using `flash-killer` before an exploit can take place.
+* Giving a new module `flash-killer` authorization over the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module), such that anyone can permissionlessly use `flash-killer` to disable the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) in the event of [Emergency Shutdown](https://makerdao.world/en/learn/governance/emergency-shutdown) being triggered.
+* The vulnerability is not exploitable until 3 days (currently) after [Emergency Shutdown](https://makerdao.world/en/learn/governance/emergency-shutdown) is triggered, meaning there is a 3-day window where any user can disable the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) using `flash-killer` before an exploit can take place.
 
-This is considered a temporary mitigation, and it is recommended that the issue be solved more permanently in the future via the replacement of the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module).
+The Protocol Engineering Core Unit considers this a temporary mitigation, and recommends that the issue be solved more permanently in the future via the replacement of the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module). The source for the `flash-killer` module can be found [here](https://github.com/makerdao/flash-killer).
 
 ## Review
 
