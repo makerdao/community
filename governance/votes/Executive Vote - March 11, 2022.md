@@ -83,9 +83,9 @@ As per these successful governance polls [1](https://vote.makerdao.com/polling/Q
 * Add a parameter, `lid`, which sets the total value of DAI allowed to be sent out to [surplus (flap) auctions](https://auctions.makerdao.com/flap) at once.
 * Set the `lid` parameter to **150,000 DAI**.
 
-Please note that at this time there will be no changes to the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) as as result of this executive proposal.
+Please note this executive proposal will have no direct effect on the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer), any changes to the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) will need to be included in a future executive proposal.
 
-Please review the discussion threads to help inform your position before voting.
+Please review the following discussion threads to help inform your position before voting.
 
 * [Rate Limited Flapper Outline](https://forum.makerdao.com/t/rate-limited-flapper/13056)
 * [Proposal to Introduce the Rate Limited Flapper](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn/12837)
