@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Mitigate Post-Shutdown Flash Loan Vulnerability - March 9, 2022
 summary: Out-of-schedule executive proposal to mitigate the recently discovered post-shutdown flash loan vulnerability.
 date: 2022-03-09T00:00:00.000Z
-address: "$spell_address"
+address: "0x068F8fb8318506bFbaD57B494A0c7b31399f4Ed6"
 
 ---
 # [Executive Proposal] Mitigate Post-Shutdown Flash Loan Vulnerability - March 9, 2022
