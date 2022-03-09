@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Immunefi Bug Bounty Payouts, Curve stETH-ETH Onboarding, Rate Limited Flapper - March 11, 2022
-summary: Immunefi Bug Bounty payouts, onboard Curve stETH-ETH LP tokens as the CRVV1ETHSTETH-A vault type, add rate limiter to the flapper contract and reactive flap auctions.
+title: Template - [Executive Vote] Curve stETH-ETH Onboarding, Rate Limited Flapper, Immunefi Bug Bounty Payouts - March 11, 2022
+summary: Onboard Curve stETH-ETH LP tokens as the CRVV1ETHSTETH-A vault type, add rate limiter to the flapper contract, Immunefi Bug Bounty payouts.
 date: 2022-03-11T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Immunefi Bug Bounty Payouts, Curve stETH-ETH Onboarding, Rate Limited Flapper - March 11, 2022
+# [Executive Proposal] Curve stETH-ETH Onboarding, Rate Limited Flapper, Immunefi Bug Bounty Payouts - March 11, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,9 +16,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
-- A total of 2,750 DAI will be transferred to two addresses, detailed below, as part of the [Immunefi Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64).
 - Curve stETH-ETH LP tokens will be onboarded as a new collateral to the Maker Protocol as the CRVV1ETHSTETH-A vault type, parameters listed below.
-- A new rate limiter, detailed below, will be added to the flapper contract, and flap (surplus) auctions will be re-activated.
+- A new rate limiter, detailed below, will be added to the flapper contract.
+- A total of 2,750 DAI will be transferred to two addresses, detailed below, as part of the [Immunefi Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64).
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -32,28 +32,19 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Immunefi Bug Bounty Payouts
-
-As part of the [Immunefi Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64), a total of 2,750 will be transferred as follows if this executive proposal passes:
-
-* **2,500 DAI** will be transferred to [0x3C32F2ca11D92a7093d1F237161C1fB692F6a8eA](https://etherscan.io/address/0x3C32F2ca11D92a7093d1F237161C1fB692F6a8eA).
-* **250 DAI** will be transferred to [0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b](https://etherscan.io/address/0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b).
-
-For further details, please see the relevant forum thread [here](https://forum.makerdao.com/t/bounty-payout-request-for-immunefi-bug-5565/13545).
-
 ### Onboarding CRVV1ETHSTETH-A
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/Qmek9vzo), the CRVV1ETHSTETH-A vault type will be onboarded with the following parameters if this executive proposal passes. Please note the updated parameters proposed by the Risk Core Unit (RISK-001) in this forum [post](https://forum.makerdao.com/t/curvelp-steth-eth-parameters-adjustment/13767).
+As per this successful [governance poll](https://vote.makerdao.com/polling/Qmek9vzo), the CRVV1ETHSTETH-A vault type will be onboarded with the following parameters if this executive proposal passes.
 
 -- Initial Collateral Parameters --
 
 * Underlying Collateral: Curve stETH-ETH LP tokens.
-* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 3.5%
+* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 3.5%*
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 155%
-* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 3 million DAI
+* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 3 million DAI*
 * [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): 3 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): 8 hours
-* [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): 25,000 DAI
+* [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): 25,000 DAI*
 
 -- Liquidation Parameters --
 
@@ -75,6 +66,8 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/Qmek9
 * [Proportional Kick Incentive (`kick`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incenctive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 300 DAI
 
+**\*  Please note the updated parameters proposed by the Risk Core Unit (RISK-001) in this forum [post](https://forum.makerdao.com/t/curvelp-steth-eth-parameters-adjustment/13767).**
+
 Please review the following forum threads containing information about CRVV1ETHSTETH-A to inform your position before voting.
 
 * [Proposal Thread](https://forum.makerdao.com/t/curvelp-steth-eth-mip6-collateral-onboarding-application/10229)
@@ -82,22 +75,30 @@ Please review the following forum threads containing information about CRVV1ETHS
 * [Protocol Engineering Coure Unit Evaluation](https://forum.makerdao.com/t/curve-fi-eth-steth-erc20-token-smart-contract-technical-assessment/11855)
 * [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/curvelp-steth-eth-collateral-onboarding-oracle-assessment-mip10c3-sp43/11854)
 
-### Rate 
+### Add Rate Limiter to Flap Auctions
 
 As per these successful governance polls [1](https://vote.makerdao.com/polling/QmagLVA2), [2](https://vote.makerdao.com/polling/Qmdd4Pg7) a new rate limiter, detailed below, will be added to the flapper contract if this executive proposal passes.
 
-* [Modify the Flapper-Contract](https://forum.makerdao.com/t/rate-limited-flapper/13056) by introducing a rate limit so the protocol can control the amount of parallel running flap-auctions.
+* [Modify the Flapper-Contract](https://forum.makerdao.com/t/rate-limited-flapper/13056) by introducing a rate limit so the protocol can control the amount of simultaneously running flap-auctions. This is achieved by limiting the amount of DAI that can be simultaneously auctioned for MKR.
 * Add a parameter, `lid`, which sets the total value of DAI allowed to be sent out to [surplus (flap) auctions](https://auctions.makerdao.com/flap) at once.
 * Set the `lid` parameter to **150,000 DAI**.
-* Re-activate [surplus (flap) auctions](https://auctions.makerdao.com/flap).
 
-Please note that there will be no changes to the [Surplus Auction Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) as as result of this executive proposal.
+Please note that at this time there will be no changes to the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) as as result of this executive proposal.
 
 Please review the discussion threads to help inform your position before voting.
 
 * [Rate Limited Flapper Outline](https://forum.makerdao.com/t/rate-limited-flapper/13056)
 * [Proposal to Introduce the Rate Limited Flapper](https://forum.makerdao.com/t/signal-request-bring-back-the-mkr-burn/12837)
 * [Rate Limiter Parameter Proposal](https://forum.makerdao.com/t/rate-limiter-parameter-proposal/13193)
+
+### Immunefi Bug Bounty Payouts
+
+As part of the [Immunefi Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64), a total of 2,750 will be transferred as follows if this executive proposal passes:
+
+* **2,500 DAI** will be transferred to [0x3C32F2ca11D92a7093d1F237161C1fB692F6a8eA](https://etherscan.io/address/0x3C32F2ca11D92a7093d1F237161C1fB692F6a8eA).
+* **250 DAI** will be transferred to [0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b](https://etherscan.io/address/0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b).
+
+For further details, please see the relevant forum thread [here](https://forum.makerdao.com/t/bounty-payout-request-for-immunefi-bug-5565/13545).
 
 ## Review
 
