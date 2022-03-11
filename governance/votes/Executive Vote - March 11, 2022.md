@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Curve stETH-ETH Onboarding, Rate Limited Flapper, Immunefi Bug Bounty Payouts - March 11, 2022
 summary: Onboard Curve stETH-ETH LP tokens as the CRVV1ETHSTETH-A vault type, add rate limiter to the flapper contract, Immunefi Bug Bounty payouts.
 date: 2022-03-11T00:00:00.000Z
-address: "$spell_address"
+address: "0xEEC1e1aef39309998d14615a177d989F37342cf1"
 
 ---
 # [Executive Proposal] Curve stETH-ETH Onboarding, Rate Limited Flapper, Immunefi Bug Bounty Payouts - March 11, 2022
