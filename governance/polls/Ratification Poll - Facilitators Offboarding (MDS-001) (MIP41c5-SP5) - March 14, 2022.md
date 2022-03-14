@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/036c6b09ad0075bb7ed8c12ebab7e5a5c5cc3567/MIP41/MIP41c5-Subproposals/MIP41c5-SP5.md)
-* [Latest Proposal Version]($link_to_portal_version)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c5SP5)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c5-sp5-facilitator-offboarding/13005)
 
 Please note that the passing of this proposal entails the **full offboarding of the MakerDAO Shop Core Unit (MDS-001)**, as was [communicated on the Governance & Risk Call on Thursday, March 10](https://youtu.be/GIa-7PnBfeA?t=346), and discussed on the [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c5-sp5-facilitator-offboarding/13005).
