@@ -29,7 +29,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *MIP40c3-SP61 modifies the Dai budget for the Real-World Finance Core Unit. Based on the new vision for [structured finance applications](https://forum.makerdao.com/t/methodology-for-review-of-mip6-structured-finance-transactions/12697), which includes a more thorough legal review process, and the currently available funds, a higher budget cap is proposed to ensure the proper operations of the Core Unit.*
 
-This proposal carries an annual budget cap of 8,220,000 DAI, with 2,055,000 DAI to be transferred on 2022-04-01 if this proposal passes.
+This proposal carries an annual budget of 8,220,000 DAI, the first 2,055,000 of which will be transferred on 2022-04-01 if this proposal passes.
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/24047bccc8350ad6c05c5c469339b38df4858c92/MIP40/MIP40c3-Subproposals/MIP40c3-SP61.md)
