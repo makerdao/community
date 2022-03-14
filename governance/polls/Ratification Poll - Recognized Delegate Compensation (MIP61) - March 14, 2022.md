@@ -29,6 +29,8 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *This proposal describes how Recognized Delegates will be compensated. Governance Facilitators will compute and send the compensation to Recognized Delegates starting from the MIP adoption date with payments sent monthly.*
 
+This proposal carries a maximum budget allocation of 144,000 DAI per recognized delegate, per year, to be administered in monthly payments if this proposal passes.
+
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ee8db55d2fab1bbc68121572cc19b860a1a58f11/MIP61/MIP61.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP61)
