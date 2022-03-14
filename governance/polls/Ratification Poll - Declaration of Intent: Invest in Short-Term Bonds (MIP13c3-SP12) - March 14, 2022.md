@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Declaration of Intent: Invest in Short-Term Bonds (MIP13c3-SP12) - March 14, 2022
-summary: Invest in Short-Term Bonds.
+title: Ratification Poll for Declaration of Intent - Invest in Short-Term Bonds (MIP13c3-SP12) - March 14, 2022
+summary: Declaration statment for this proposal - Invest in Short-Term Bonds.
 discussion_link: https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent-invest-in-short-term-bonds/13084/1
 vote_type: Plurality Voting
 categories:
