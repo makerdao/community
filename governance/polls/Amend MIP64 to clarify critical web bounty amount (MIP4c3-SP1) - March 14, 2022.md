@@ -31,6 +31,8 @@ The proposal author offered the following motivation for this amendment to [MIP6
 
 *We omit the words “no more than” to obtain the intended reward mechanics.*
 
+[Canonical Proposal Version](https://github.com/makerdao-is/mips/blob/2bb48df38e26195a15be4bf89c0ea43daeedc727/MIP64/MIP64.md) of this PR.
+
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-promote-mip4c3-sp1-amend-mip64-to-clarify-critical-web-bounty-amount-to-on-chain-poll/13649) to help inform your position before voting.
 
 ## Outcomes
