@@ -12,7 +12,7 @@ Delegate Address: mkr.hasufl.eth - 0xafaff1a605c373b43727136c995d21a7fcd08989
 Delegate Page: [Here](https://vote.makerdao.com/address/0xafaff1a605c373b43727136c995d21a7fcd08989?network=mainnet#metrics)  
 Forum: @Hasu  
 Discord: Hasu#0730  
-Meet Your Delegate Video: https://youtu.be/u7tT3HgAXqo
+Meet Your Delegate Video: [Here](https://youtu.be/u7tT3HgAXqo)
 
 ## Delegate Statement 
 
