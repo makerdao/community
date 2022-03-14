@@ -29,6 +29,11 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *Gelato Network is Web3’s automation network, enabling developers to automate a wide variety of arbitrary smart contract executions on and across all EVM-based compatible blockchains such as Ethereum. Examples of use cases developers have built on top of Gelato include Limit Orders on AMMs like Uniswap, automatic compounding of yield farming vaults, Aave liquidation protection, automated liquidity management, and even the petting of Aavegotchis.*
 
+This proposal carries the following budget details, to be implemented if this poll passes:
+- Requested Budget: 1,000 DAI / day
+- Requested Buffer Minimum: 4,000 DAI
+- Requested Buffer Maximum: 20,000 DAI
+
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d3373e53cbf080c5439863d8459f0f0b7a68e84a/MIP63/MIP63c4-Subproposals/MIP63c4-SP3.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP63c4SP3)
