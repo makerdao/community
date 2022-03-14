@@ -41,7 +41,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c0a51ec779097f86163fbe8b9eeb2f8bc4320e1b/MIP4/MIP4c2-Subproposals/MIP4c2-SP17.md)
-* [Latest Proposal Version](MIPS PORTAL NOT PICKING IT UP. PINGED ADRIÁN. WAITING FOR REPLY)
+* [Latest Proposal Version](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c3-Subproposals/MIP4c3-SP1.md)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c3-sp1-rapid-payment-for-small-bug-bounties-mip64-mip40c3-sp42-amendment/12869)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/463)
 
