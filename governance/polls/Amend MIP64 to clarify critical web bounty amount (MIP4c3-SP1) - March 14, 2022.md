@@ -12,7 +12,7 @@ options:
 start_date: 2022-03-14T16:00:00
 end_date: 2022-03-17T16:00:00
 ---
-# Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022
+# Poll: Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022
 
 The Governance Facilitators have placed this poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP4](https://mips.makerdao.com/mips/details/MIP4). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March, 14 at 16:00 UTC.
 
