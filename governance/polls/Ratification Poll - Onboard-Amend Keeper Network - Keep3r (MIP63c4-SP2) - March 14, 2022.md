@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Onboard/Amend Keeper Network - Keep3r Network (MIP63c4-SP2) - March 14, 2022
+title: Ratification Poll for Onboard-Amend Keeper Network - Keep3r Network (MIP63c4-SP2) - March 14, 2022
 summary: This is an onboarding application for Keep3r Network. A decentralized, permissionless keeper network. They are currently maintaining operations pro-bono during this initial testing phase, but will need a budget eventually.
 discussion_link: https://forum.makerdao.com/t/mip63c4-sp2-onboard-amend-keeper-network-keep3r-network/12748/1
 vote_type: Plurality Voting
