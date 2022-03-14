@@ -14,7 +14,7 @@ end_date: 2022-03-17T16:00:00
 ---
 # Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022
 
-The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP16](https://mips.makerdao.com/mips/details/MIP16). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March, 14 at 16:00 UTC.
+The Governance Facilitators have placed this poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP4](https://mips.makerdao.com/mips/details/MIP4). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March, 14 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
