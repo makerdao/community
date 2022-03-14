@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll for MIP64 Amendments (MIP4c3-SP1) - March 14, 2022
+title: Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022
 summary: Signal your support or opposition to amending MIP64 to clarify critical web bounty amount.
 discussion_link: https://forum.makerdao.com/t/signal-request-promote-mip4c3-sp1-amend-mip64-to-clarify-critical-web-bounty-amount-to-on-chain-poll/13649
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2022-03-14T16:00:00
 end_date: 2022-03-17T16:00:00
 ---
-# Inclusion Poll for MIP64 Amendments (MIP4c3-SP1) - March 14, 2022
+# Amend MIP64 to clarify critical web bounty amount (MIP4c3-SP1) - March 14, 2022
 
 The Governance Facilitators have placed an inclusion poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP16](https://mips.makerdao.com/mips/details/MIP16). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March, 14 at 16:00 UTC.
 
@@ -23,15 +23,22 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to amending MIP64 to clarify critical web bounty amount. 
+The community can vote in this poll to express support or opposition to amending MIP64 to clarify critical web bounty amount.
+
+The proposal author offered the following motivation for this amendment:
+
+*The reward for Critical website and application bug reports was not specified as intended. The reward was specified at 100,000 DAI “if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote.” This part is clear. “All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.” The words no more than suggest that an inequality is intended. That is, bounty <= $50k instead of bounty = $50k.
+
+*We omit the words “no more than” to obtain the intended reward mechanics.*
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-promote-mip4c3-sp1-amend-mip64-to-clarify-critical-web-bounty-amount-to-on-chain-poll/13649) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* The MIP Editors will update MIP64 to reflect the listed changes in this [pull request](https://github.com/makerdao/mips/pull/478).
+
+**If the votes for the 'Yes' option do not exceed the 'No' option then no further action will be taken at this time.**
 
 ## Resources
 
