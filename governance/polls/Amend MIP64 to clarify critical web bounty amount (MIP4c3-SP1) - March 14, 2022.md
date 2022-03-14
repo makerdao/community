@@ -23,7 +23,7 @@ The Governance Facilitators have placed an inclusion poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to amending MIP64 to clarify critical web bounty amount.
+The community can vote in this poll to express support or opposition to amending MIP64 with [MIP4c3-SP1](https://github.com/makerdao/mips/pull/478) to clarify critical web bounty amount.
 
 The proposal author offered the following motivation for this amendment:
 
