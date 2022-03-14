@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Funding an Ambassadors Program Pilot proposed by @kat. 25,000 DAI will be allocated for this Pilot if this poll and subsequent executive proposal pass.
+* Funding an Ambassadors Program Pilot proposed by @kat. 25,000 DAI will be allocated for this pilot program if this poll and subsequent executive proposal pass.
 
 A brief description of the Ambassadors Program has been provided by the proposal author:
 
@@ -37,7 +37,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the next available Executive Vote, following the pilot program implementation details being provided.
+* This change will be included in the next available Executive Vote, following the conclusion of this poll.
 * If the executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
