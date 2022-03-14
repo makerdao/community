@@ -1,6 +1,6 @@
 ---
 title: Fund Ambassadors Program Pilot - March 14, 2022
-summary: Signal your support or opposition to funding an Ambassadors Program Piolet for 25,000 DAI.
+summary: Signal your support or opposition to funding an Ambassadors Program Pilot for 25,000 DAI.
 discussion_link: https://forum.makerdao.com/t/signal-request-fund-ambassadors-program-pilot/13199
 vote_type: Plurality Voting
 categories:
