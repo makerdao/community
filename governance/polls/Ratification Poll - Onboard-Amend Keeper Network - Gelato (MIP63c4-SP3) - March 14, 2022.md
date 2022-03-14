@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Onboard/Amend Keeper Network - Gelato Network (MIP63c4-SP3) - March 14, 2022
+title: Ratification Poll for Onboard-Amend Keeper Network - Gelato Network (MIP63c4-SP3) - March 14, 2022
 summary: Gelato Network is Web3’s automation network, enabling developers to automate a wide variety of arbitrary smart contract executions on and across all EVM-based compatible blockchains such as Ethereum.
 discussion_link: https://forum.makerdao.com/t/mip63c4-sp3-onboard-amend-keeper-network-gelato-network/12749/2
 vote_type: Plurality Voting
