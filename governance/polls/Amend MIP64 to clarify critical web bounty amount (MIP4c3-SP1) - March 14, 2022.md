@@ -27,7 +27,7 @@ The community can vote in this poll to express support or opposition to amending
 
 The proposal author offered the following motivation for this amendment:
 
-*The reward for Critical website and application bug reports was not specified as intended. The reward was specified at 100,000 DAI “if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote.” This part is clear. “All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.” The words no more than suggest that an inequality is intended. That is, bounty <= $50k instead of bounty = $50k.
+*The reward for Critical website and application bug reports was not specified as intended. The reward was specified at 100,000 DAI “if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote.” This part is clear. “All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.” The words no more than suggest that an inequality is intended. That is, bounty <= $50k instead of bounty = $50k.*
 
 *We omit the words “no more than” to obtain the intended reward mechanics.*
 
