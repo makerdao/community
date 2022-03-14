@@ -16,7 +16,7 @@ Meet Your Delegate Video: https://youtu.be/u7tT3HgAXqo
 
 ## Delegate Statement 
 
-### About me - Hasu
+### About me
 
 * Many of you might know me from [Twitter](https://twitter.com/hasufl). I would describe myself as a first-principles thinker and investor with a decade+ time horizon on the Defi and crypto space.
 * I currently lead Strategy at [Flashbots](https://github.com/flashbots/pm) and collaborate on research with [Paradigm](https://www.paradigm.xyz/).
