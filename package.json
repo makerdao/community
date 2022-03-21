@@ -58,7 +58,7 @@
     "react-sticky-el": "^2.0.5",
     "remark-frontmatter": "^2.0.0",
     "remark-slug": "^6.0.0",
-    "theme-ui": "^0.3.1",
+    "theme-ui": "^0.14.0",
     "window-or-global": "^1.0.1"
   },
   "devDependencies": {
