@@ -12,7 +12,7 @@ options:
 start_date: 2022-03-14T16:00:00
 end_date: 2022-03-28T16:00:00
 ---
-# Ratification Poll for Declaration of Intent: Invest in Short-Term Bonds (MIP13c3-SP12) - March 14, 2022
+# Ratification Poll for Declaration of Intent - Invest in Short-Term Bonds (MIP13c3-SP12) - March 14, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, March 14 at 16:00 UTC.
 
