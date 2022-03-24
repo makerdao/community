@@ -14,7 +14,7 @@ end_date: 2022-03-31T16:00:00
 ---
 # Poll:Initial Parameters for StarkNet Simple Bridge - March 28, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 28 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Starknet Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 28 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -22,31 +22,25 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
+The community can vote in this poll to express support or opposition to implementing a simple bridge limit of 5 million DAI. The bridge limit is the maximum amount of DAI that can be in the L1 bridge contract. Hence it is the maximum amount that can be lost by users. This will not include the Fast Withdrawals component which is planned for release later this year and will be put through a separate governance process.
 
-The community can vote in this poll to express support or opposition to the following changes: 
-* Implementing the following parameters for the deployment of StarkNet Simple Bridge:
+The bridge launch will require the completion of all the mandatory items on the [checklist](https://docs.google.com/spreadsheets/d/1lg4LFQCW7x4bcR8gEgHoE7DB2rqa4GA4DPSUdMOgBsI/edit#gid=718243816).
+Users will use the simple bridge at their own risk. It will be mentioned on the bridge interface.
 
-**Proposed Initial Parameters**
-
-* Establish a simple bridge limit of 5MM DAI. 
-* The scope of the simple bridge is slow withdrawal, fast withdrawals are out of scope for this release. 
-* The bridge limit is the maximum amount of DAI that can be in the L1 bridge contract. Hence it is the maximum amount that can be lost by users.
-* The bridge launch will require the completion of all the mandatory items on the [checklist](https://docs.google.com/spreadsheets/d/1lg4LFQCW7x4bcR8gEgHoE7DB2rqa4GA4DPSUdMOgBsI/edit#gid=718243816).
-* Users will use the simple bridge at their own risk. It will be mentioned on the bridge interface
-
-Please review the discussion [thread](https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158) to help inform your position before voting. For further information on the discussion please visit the previous [thread](https://forum.makerdao.com/t/starknet-dai-bridge-and-starknet-platform-technical-risk-assessment/13950) and [Risk Mitigation Plan](https://docs.google.com/spreadsheets/d/1aByYNfjz1m7o9jyiIhHq-G6OEKq--wu0eoQXzVgc4XE/edit#gid=0). 
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* Starknet Engineering Core Unit will proceed with the deployment of the StarkNet simple bridge once the listed requirements are met.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
 ## Resources
+
+StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security. For more information you can click [here](https://starknet.io/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
