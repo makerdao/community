@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized to revoke Governance control over the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) after an Emergency Shutdown.
+- The [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized to revoke Governance control over the [Flash Mint Module (DssFlash)](https://manual.makerdao.com/module-index/module-flash-mint-module) after an Emergency Shutdown.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - Support for the new TUSD implementation contract ([0xd8D59c59Ab40B880b54C969920E8d9172182Ad7b](https://etherscan.io/address/0xd8d59c59ab40b880b54c969920e8d9172182ad7b)), which will allow collateral operations of TUSD-A to resume.
