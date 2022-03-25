@@ -31,7 +31,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Emergency Shutdown Authorization
+### Authorizing ESM on DssFlash to Remove Governance Permissions
 
 Based on [this post](https://forum.makerdao.com/t/proposed-security-fix-to-be-added-in-the-march-25th-2022-executive-spell/14197) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP38#protocol-engineering-pe-001-), the [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized on the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) if this executive proposal passes.
 
