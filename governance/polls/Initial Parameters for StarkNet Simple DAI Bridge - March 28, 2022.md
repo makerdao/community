@@ -1,6 +1,6 @@
 ---
-title: Initial Parameters for StarkNet Simple Bridge - March 28, 2022
-summary: Signal your support or opposition to the following initial parameters, designed for the deployment of StarkNet Simple Bridge.
+title: Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022
+summary: Signal your support or opposition to the following initial parameters that will be used in the deployment of StarkNet Simple Bridge.
 discussion_link: https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2022-03-28T16:00:00
 end_date: 2022-03-31T16:00:00
 ---
-# Poll:Initial Parameters for StarkNet Simple Bridge - March 28, 2022
+# Poll:Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Starknet Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 28 at 16:00 UTC.
 
@@ -27,7 +27,11 @@ The community can vote in this poll to express support or opposition to implemen
 The bridge launch will require the completion of all the mandatory items on the [checklist](https://docs.google.com/spreadsheets/d/1lg4LFQCW7x4bcR8gEgHoE7DB2rqa4GA4DPSUdMOgBsI/edit#gid=718243816).
 Users will use the simple bridge at their own risk. It will be mentioned on the bridge interface.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158) to help inform your position before voting. For further information on the discussion please visit the previous [thread](https://forum.makerdao.com/t/starknet-dai-bridge-and-starknet-platform-technical-risk-assessment/13950) and [Risk Mitigation Plan](https://docs.google.com/spreadsheets/d/1aByYNfjz1m7o9jyiIhHq-G6OEKq--wu0eoQXzVgc4XE/edit#gid=0). 
+Please review the links below to inform your position on this proposal before voting.
+
+* [Discussion Thread](https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158). 
+* [Technical Assessment](https://forum.makerdao.com/t/starknet-dai-bridge-and-starknet-platform-technical-risk-assessment/13950).
+* [Risk Mitigation Plan](https://docs.google.com/spreadsheets/d/1aByYNfjz1m7o9jyiIhHq-G6OEKq--wu0eoQXzVgc4XE/edit#gid=0). 
 
 ## Outcomes
 
@@ -40,7 +44,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/starknet-simp
 
 ## Resources
 
-StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security. For more information you can click [here](https://starknet.io/).
+StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network thats supports general-computation over Ethereum.. For more information you can click [here](https://starknet.io/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
