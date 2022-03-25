@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - Bridge
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 start_date: 2022-03-28T16:00:00
 end_date: 2022-03-31T16:00:00
 ---
-# Poll:Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022
+# Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Starknet Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 28 at 16:00 UTC.
 
@@ -44,7 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 
 ## Resources
 
-StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network thats supports general-computation over Ethereum.. For more information you can click [here](https://starknet.io/).
+StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network thats supports general-computation over Ethereum.. More information available [here](https://starknet.io/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
