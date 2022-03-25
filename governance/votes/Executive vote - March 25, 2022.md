@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized to revoke Governance control over the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) after emergency shutdown.
+- The [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized to revoke Governance control over the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) after an emergency shutdown.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - Support for the new TUSD implementation contract ([0xd8D59c59Ab40B880b54C969920E8d9172182Ad7b](https://etherscan.io/address/0xd8d59c59ab40b880b54c969920e8d9172182ad7b)), which will allow collateral operation of TUSD-A to resume.
@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 Based on [this post](https://forum.makerdao.com/t/proposed-security-fix-to-be-added-in-the-march-25th-2022-executive-spell/14197) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP38#protocol-engineering-pe-001-), the [Emergency Shutdown Module](https://makerdao.world/en/learn/governance/emergency-shutdown) will be authorized on the [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module) if this executive proposal passes.
 
-This change is intended to patch a final vulnerability discovered in the interaction [between the Emergency Shutdown Module and the Flash Mint Module](https://forum.makerdao.com/t/flash-loan-debt-manipulation-during-emergency-shutdown-vulnerability-postmortem/14036). Specificly, this change prevents malicious governance from re-activating the DssFlash module after the [FlashKiller contract](https://github.com/makerdao/flash-killer) disables it.
+This change is intended to patch a final vulnerability discovered in the interaction [between the Emergency Shutdown Module and the Flash Mint Module](https://forum.makerdao.com/t/flash-loan-debt-manipulation-during-emergency-shutdown-vulnerability-postmortem/14036). Specifically, this change prevents malicious governance from re-activating the DssFlash module after the [FlashKiller contract](https://github.com/makerdao/flash-killer) disables it.
 
 ### Adding Support for New TUSD Implementation 
 
