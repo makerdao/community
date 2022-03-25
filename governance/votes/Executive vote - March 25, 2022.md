@@ -41,7 +41,7 @@ This change is intended to patch a vulnerability discovered in the interaction [
 
 Based on [this post](https://forum.makerdao.com/t/2022-03-25-adding-support-for-the-new-tusd-implementation-address/14189) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP38#protocol-engineering-pe-001-), support for the new TUSD implementation address will be added if this executive proposal passes.
 
-This addition is intended to resume the collateral operations for TUSD-A, which automatically halted after the [February 24th change](https://etherscan.io/tx/0x125823f2914e4f14e06b9b1b30fe9dd9512b36354cc1f6c063118c4fe03d8287) from the TUSD team, pointing to a new implementation address.
+This addition is intended to resume the collateral operations for TUSD-A, which automatically halted after the [February 24th change](https://etherscan.io/tx/0x125823f2914e4f14e06b9b1b30fe9dd9512b36354cc1f6c063118c4fe03d8287) from the TUSD team pointed to a new implementation address.
 
 For more information, please consider reading [this thread](https://forum.makerdao.com/t/tusd-disabled-due-to-unannounced-token-upgrade/2747) on the last time the TUSD contracts were changed.
 
