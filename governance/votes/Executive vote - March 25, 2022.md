@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Authorizing the ESM on DssFlash and Adding Support for TUSD Implementation - March 25, 2022
 summary: Authorizing the Emergency Security Module on DssFlash to revoke governance control after Emergency Shutdown and adding support for the new TUSD implementation.
 date: 2022-03-25T00:00:00.000Z
-address: "$spell_address"
+address: "0x63b730eF5364DF9f006E86B156AC97CDEf044780"
 
 ---
 # [Executive Proposal] Support for TUSD Implementation and Authorizing the ESM on DssFlash - March 25, 2022
