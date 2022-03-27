@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether a Notional Finance D3M should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list). 
+This poll asks whether a Notional Finance [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list). 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-onboard-d3m-for-notional-finance/13782) to help inform your position before voting.
 
