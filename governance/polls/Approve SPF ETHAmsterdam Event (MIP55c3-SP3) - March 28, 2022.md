@@ -37,7 +37,7 @@ The proposal author offered the following [motivation for this SPF request](http
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/174b897e45e3855a5406fcb81e09724297e75e87/MIP55/MIP55c3-Subproposals/MIP55c3-SP3.md)
-* [Latest Proposal Version]($link_to_portal_version)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP3)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp3-ethamsterdam-event-spf/13781)
 
 ## Outcomes
