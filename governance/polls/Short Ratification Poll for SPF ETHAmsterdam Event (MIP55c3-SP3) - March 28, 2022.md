@@ -42,7 +42,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 31. 
-* A one-time transfer of 50,000 DAI from the Maker Protocol to a TBD multi-sig address whose comptrollers are @juan, @hexonaut, and @nadia in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
+* A one-time transfer of 50,000 DAI from the Maker Protocol to a TBD multi-sig address whose comptrollers are @juan, @hexonaut, and @nadia will be included in a future executive vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

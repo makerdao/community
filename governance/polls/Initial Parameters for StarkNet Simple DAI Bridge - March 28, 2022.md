@@ -1,6 +1,6 @@
 ---
 title: Initial Parameters for StarkNet Simple DAI Bridge - March 28, 2022
-summary: Signal your support or opposition to the following initial parameters that will be used in the deployment of StarkNet Simple Bridge.
+summary: Signal your support or opposition to the following initial parameters that will be used in the deployment of StarkNet Simple DAI Bridge.
 discussion_link: https://forum.makerdao.com/t/starknet-simple-bridge-limit-poll-risk-assessment-mitigation/14158
 vote_type: Plurality Voting
 categories:
@@ -45,7 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 
 ## Resources
 
-StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network thats supports general-computation over Ethereum.. More information available [here](https://starknet.io/).
+StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network thats supports general-computation over Ethereum. More information available [here](https://starknet.io/).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
