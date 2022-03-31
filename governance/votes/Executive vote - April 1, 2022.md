@@ -56,9 +56,9 @@ As per multiple successful budget proposals (linked below), a total of **7,945,1
 
 As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP60), a total of **167.64 MKR** will be vested to members of the [GovAlpha Core Unit (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) if this executive proposal passes, as itemized below:
 
-- **73.70 MKR** will be streamed to Facilitator LongForWisdom at [0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b](https://etherscan.io/address/0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b) starting on 2022-02-08 and ending on 2023/02/08 with a cliff date of 2023-02-08.
-- **52.74 MKR** will be streamed to Facilitator prose11 at [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-02-08 and ending on 2023/02/08 with a cliff date of 2023-02-08.
-- **41.20 MKR** will be streamed to the GovAlpha multisig at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-02-08 and ending on 2023/02/08 with a cliff date of 2023-02-08.
+- **73.70 MKR** will be streamed to Facilitator LongForWisdom at [0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b](https://etherscan.io/address/0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b) starting on 2022-02-08 and ending on 2023-02-08 with a cliff date of 2023-02-08.
+- **52.74 MKR** will be streamed to Facilitator prose11 at [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-02-08 and ending on 2023-02-08 with a cliff date of 2023-02-08.
+- **41.20 MKR** will be streamed to the GovAlpha multisig at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-02-08 and ending on 2023-02-08 with a cliff date of 2023-02-08.
 
 ### Retroactive MKR Compensation for LongForWisdom
 
@@ -66,9 +66,9 @@ As per [GovAlpha Core Unit's (GOV-001)](https://mips.makerdao.com/mips/details/M
 
 ### Gelato Keeper Network DAI Budget Stream
 
-As per the ratified [MIP63c4-SP3: Onboard Keeper Network - Gelato Network](https://mips.makerdao.com/mips/details/MIP63c4SP3), a total of **731,000 DAI** will be streamed to Gelato Keeper Network if this executive proposal passes:
+As per the ratified [MIP63c4-SP3: Onboard Keeper Network - Gelato Network](https://mips.makerdao.com/mips/details/MIP63c4SP3), further clarified on [this forum post](https://forum.makerdao.com/t/mip63c4-sp3-gelato-network-clarification/14340), a total of **183,000 DAI** will be streamed to Gelato Keeper Network if this executive proposal passes:
 
-- **731,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2024-03-31 with these further parameters.
+- **183,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2022-09-30 with these further parameters.
 	- Maximum Outlay: 1000 DAI/day
 	- Minimum Buffer: 4,000 DAI
 	- Maximum Buffer: 20,000 DAI
