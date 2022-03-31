@@ -17,12 +17,12 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-- A total of 2,433,452.30 DAI (itemized further down) will be transferred to multiple Core Units.
-- A total of 6,866,436.69 DAI (itemized further down) will be streamed to multiple Core Units.
+- A total of **2,433,452.30 DAI** (itemized further down) will be transferred to multiple Core Units.
+- A total of **6,866,436.69 DAI** (itemized further down) will be streamed to multiple Core Units.
 - The existing DAI budget stream for the Real-World Finance Core Unit (RWF-001) will be revoked.
-- Three Core Unit vesting streams for a total of 167.64 MKR (itemized further down) will be set up.
-- A total of 60 MKR will be transferred to LongForWisdom as retroactive compensation.
-- A total of 731,000 DAI will be streamed to the Gelato Keeper Network.
+- Three Core Unit vesting streams for a total of **167.64 MKR** (itemized further down) will be set up.
+- A total of **60 MKR** will be transferred to LongForWisdom as retroactive compensation.
+- A total of **183,000** DAI will be streamed to the Gelato Keeper Network.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -38,18 +38,18 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per multiple successful budget proposals (linked below), a total of **2,433,452.30 DAI** will be transferred to multiple Core Units if this executive proposal passes:
 
-- 30,000 DAI will be transferred to the [GovAlpha Core Unit (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP59).
-- 348,452.30 DAI will be transferred to the [Immunefi Security Core Unit (IS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP24) at [0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4) as a result of [an amendment to their MIP40c3-SP42 budget](https://mips.makerdao.com/mips/details/MIP4c2SP17).
-- 2,055,000 DAI will be transferred to the [Real-World Finance Core Unit (RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP61).
+- **30,000 DAI** will be transferred to the [GovAlpha Core Unit (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP59).
+- **348,452.30 DAI** will be transferred to the [Immunefi Security Core Unit (IS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP24) at [0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4) as a result of [an amendment to their MIP40c3-SP42 budget](https://mips.makerdao.com/mips/details/MIP4c2SP17).
+- **2,055,000 DAI** will be transferred to the [Real-World Finance Core Unit (RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP61).
 
 
 ### Core Unit Budget Streams
 
 As per multiple successful budget proposals (linked below), a total of **7,945,149.90 DAI** will be streamed to multiple Core Units if this executive proposal passes:
 
-- 1,079,793 DAI will be streamed to the [GovAlpha Core Unit (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-04-01 and ending on 2023-04-01 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP59).
-- 700,356.90 DAI will be streamed to the [Immunefi Security Core Unit (IS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP24) at [0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4) starting on 2022-03-01 and ending on 2022-08-01 as a result of [an amendment to their MIP40c3-SP42 budget proposal](https://mips.makerdao.com/mips/details/MIP4c2SP17).
-- 6,165,000 DAI will be streamed to the [Real-World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) starting on 2022-04-01 and ending on 2022-12-31 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP61).
+- **1,079,793 DAI** will be streamed to the [GovAlpha Core Unit (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-04-01 and ending on 2023-04-01 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP59).
+- **700,356.90 DAI** will be streamed to the [Immunefi Security Core Unit (IS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP24) at [0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4) starting on 2022-03-01 and ending on 2022-08-01 as a result of [an amendment to their MIP40c3-SP42 budget proposal](https://mips.makerdao.com/mips/details/MIP4c2SP17).
+- **6,165,000 DAI** will be streamed to the [Real-World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) starting on 2022-04-01 and ending on 2022-12-31 as a result of [their most recent budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP61).
 	- The existing DAI budget stream for this Core Unit will be revoked.
 
 ### Core Unit MKR Vesting Streams
@@ -66,9 +66,9 @@ As per [GovAlpha Core Unit's (GOV-001)](https://mips.makerdao.com/mips/details/M
 
 ### Gelato Keeper Network DAI Budget Stream
 
-As per the ratified [MIP63c4-SP3: Onboard Keeper Network - Gelato Network](https://mips.makerdao.com/mips/details/MIP63c4SP3), further clarified on [this forum post](https://forum.makerdao.com/t/mip63c4-sp3-gelato-network-clarification/14340), a total of **183,000 DAI** will be streamed to Gelato Keeper Network if this executive proposal passes:
+As per the ratified [MIP63c4-SP3: Onboard Keeper Network - Gelato Network](https://mips.makerdao.com/mips/details/MIP63c4SP3), further clarified in [this forum post](https://forum.makerdao.com/t/mip63c4-sp3-gelato-network-clarification/14340), a total of **183,000 DAI** will be streamed to Gelato Keeper Network if this executive proposal passes:
 
-- **183,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2022-09-30 with these further parameters.
+- **183,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2022-09-30 with these further parameters:
 	- Maximum Outlay: 1000 DAI/day
 	- Minimum Buffer: 4,000 DAI
 	- Maximum Buffer: 20,000 DAI
