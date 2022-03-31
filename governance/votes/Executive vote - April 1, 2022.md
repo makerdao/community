@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Core Unit Budget Distributions and Vesting Streams Setup, Retroactive MKR Compensation for LongForWisdom, Gelato Keeper Network DAI Budget Stream Setup - April 1, 2022
+title: Template - [Executive Vote] Core Unit Budget Distributions and Vesting Streams Setup, Gelato Keeper Network Budget Stream Setup - April 1, 2022
 summary: Core Unit Budget Distributions for GOV-001, IS-001, RWF-001; MKR Vesting Streams Setup for GOV-001; Retroactive MKR Compensation Transfer for LongForWisdom; Gelato Keeper Network DAI Budget Stream Setup
 date: 2022-04-01T00:00:00.000Z
 address: "$spell_address"
 ---
 
-# [Executive Proposal] Core Unit Budget Distributions and MKR Vesting Streams Setup, Retroactive MKR Compensation for LongForWisdom, Gelato Keeper Network DAI Budget Stream Setup - April 1, 2022
+# [Executive Proposal] Core Unit Budget Distributions and Vesting Streams Setup, Gelato Keeper Network Budget Stream Setup - April 1, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -22,7 +22,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The existing DAI budget stream for the Real-World Finance Core Unit (RWF-001) will be revoked.
 - Three Core Unit vesting streams for a total of **167.64 MKR** (itemized further down) will be set up.
 - A total of **60 MKR** will be transferred to LongForWisdom as retroactive compensation.
-- A total of **183,000** DAI will be streamed to the Gelato Keeper Network.
+- A total of **183,000 DAI** will be streamed to the Gelato Keeper Network.
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
@@ -62,16 +62,13 @@ As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/det
 
 ### Retroactive MKR Compensation for LongForWisdom
 
-As per [GovAlpha Core Unit's (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP60), a total of **60 MKR** will be transferred to Facilitator LongForWisdom at  [0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b](https://etherscan.io/address/0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b) if this executive proposal passes.
+As per [GovAlpha Core Unit's (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP60), a total of **60 MKR** will be transferred to Facilitator LongForWisdom at [0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b](https://etherscan.io/address/0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b) if this executive proposal passes.
 
 ### Gelato Keeper Network DAI Budget Stream
 
 As per the ratified [MIP63c4-SP3: Onboard Keeper Network - Gelato Network](https://mips.makerdao.com/mips/details/MIP63c4SP3), further clarified in [this forum post](https://forum.makerdao.com/t/mip63c4-sp3-gelato-network-clarification/14340), a total of **183,000 DAI** will be streamed to Gelato Keeper Network if this executive proposal passes:
 
-- **183,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2022-09-30 with these further parameters:
-	- Maximum Outlay: 1000 DAI/day
-	- Minimum Buffer: 4,000 DAI
-	- Maximum Buffer: 20,000 DAI
+- **183,000 DAI** will be streamed to Gelato Keeper Network at [0x926c21602fec84d6d0fa6450b40edba595b5c6e4](https://etherscan.io/address/0x926c21602fec84d6d0fa6450b40edba595b5c6e4) starting on 2022-04-01 and ending on 2022-09-30 at a rate of 1,000 DAI/day.
 
 ## Review
 
