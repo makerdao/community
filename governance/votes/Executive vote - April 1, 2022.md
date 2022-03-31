@@ -24,7 +24,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - A total of **60 MKR** will be transferred to LongForWisdom as retroactive compensation.
 - A total of **183,000** DAI will be streamed to the Gelato Keeper Network.
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+**Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
