@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit Budget Distributions and Vesting Streams Setup, Gelato Keeper Network Budget Stream Setup - April 1, 2022
 summary: Core Unit Budget Distributions for GOV-001, IS-001, RWF-001; MKR Vesting Streams Setup for GOV-001; Retroactive MKR Compensation Transfer for LongForWisdom; Gelato Keeper Network DAI Budget Stream Setup
 date: 2022-04-01T00:00:00.000Z
-address: "$spell_address"
+address: "0x02A89B6A46e03432F4F1f98bFEEa41299f6E57eb"
 ---
 
 # [Executive Proposal] Core Unit Budget Distributions and Vesting Streams Setup, Gelato Keeper Network Budget Stream Setup - April 1, 2022
