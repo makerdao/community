@@ -11,8 +11,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-03-28T16:00:00
-end_date: 2022-03-31T16:00:00
+start_date: 2022-04-04T16:00:00
+end_date: 2022-04-07T16:00:00
 ---
 # Maker Wormhole Deployment - April 4, 2022
 
@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to:
 * Approving the 25 existing MakerDAO oracle feeds as signers for Wormhole.
 * Approving a quorum requirement of 13 oracle feeds to complete a fast withdrawal.
 
-**Common Wormhole Parameters**
+**Global Wormhole Parameters**
 * Wormhole Debt Ceiling: 2 million DAI
 
 **Arbitrum Domain Parameters**
@@ -50,7 +50,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/request-to-po
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The deployment of Maker Wormhole will be included in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then Wormhole will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* If the Executive Vote passes, then Wormhole will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

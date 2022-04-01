@@ -1,6 +1,6 @@
 ---
 title: PPG - Open Market Committee Proposal - April 4, 2022
-summary: Small Stability Fee decreases on multiple vault types, Aave D3M Target Borrow Rate increase, debt ceiling increases on GUNIV3DAIUSDC vaults types, and other minor changes.
+summary: Small Stability Fee decreases on multiple vault types, Aave D3M Target Borrow Rate increase, Debt Ceiling increases on GUNIV3DAIUSDC vaults types, and other minor changes.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-31-march-2022/14347
 vote_type: Plurality Voting
 categories:
@@ -34,7 +34,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 - Decrease the **GUNIV3DAIUSDC1-A** Stability Fee from 0.1% to 0%.
 - Decrease the **GUNIV3DAIUSDC2-A** Stability Fee from 0.25% to 0.05%.
 
-**[Maxmimum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases**
+**[Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases**
 - Increase the **GUNIV3DAIUSDC1-A** Maximum Debt Ceiling from 100 million DAI to 750 million DAI.
 - Increase the **GUNIV3DAIUSDC2-A** Maximum Debt Ceiling from 750 million DAI to 1 billion DAI.
 
