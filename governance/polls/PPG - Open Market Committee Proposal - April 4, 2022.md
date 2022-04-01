@@ -1,6 +1,6 @@
 ---
 title: PPG - Open Market Committee Proposal - April 4, 2022
-summary: Small Stability Fee decreases on multiple vault types, Aave D3M Target Borrow Rate increase, Debt Ceiling increases on GUNIV3DAIUSDC vaults types, and other minor changes.
+summary: Small Stability Fee decreases on multiple vault types, Aave D3M Target Borrow Rate increase, Debt Ceiling increases on GUNIV3DAIUSDC vault types, and other minor changes.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-31-march-2022/14347
 vote_type: Plurality Voting
 categories:
