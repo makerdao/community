@@ -6,7 +6,7 @@ vote_type: Plurality Voting
 categories:
    - Bridge
    - Technical
-   - Risk Parameters
+   - Risk Variable
 options:
    0: Abstain
    1: Yes
