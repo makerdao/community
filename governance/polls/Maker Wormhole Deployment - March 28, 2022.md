@@ -29,18 +29,19 @@ The community can vote in this poll to express support or opposition to:
 * Launching Maker Wormhole
 * Approving the Gateway contract for the Arbitrum Domain
 * Approving the Gateway contract for the Optimism Domain
-* Approving between 3-5 oracle feeds provided by the Oracles Core Unit
+* Approving the 25 existing MakerDAO oracle feeds as signers for Wormhole.
+* Approving a quorum requirement of 13 oracle feeds to complete a fast withdrawal.
 
 **Common Wormhole Parameters**
-* Global Debt Ceiling: 2 million DAI
+* Wormhole Debt Ceiling: 2 million DAI
 
 **Arbitrum Domain Parameters**
 * Debt Ceiling: 1 million DAI
-* Fast Withdrawal Fee: 0%
+* Fast Withdrawal Fee: Zero DAI
 
 **Optimism Domain Parameters**
 * Debt Ceiling: 1 million DAI
-* Fast Withdrawal Fee: 0%
+* Fast Withdrawal Fee: Zero DAI
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-for-maker-wormhole-deployment-and-associated-risk-parameters/14209) to help inform your position before voting.
 
