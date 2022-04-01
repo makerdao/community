@@ -1,7 +1,7 @@
 ---
-combined_participation: No Data
-poll_participation: No Data
-exec_participation: No Data
+combined_participation: 6.25%
+poll_participation: 0.00%
+exec_participation: 100%
 communication: No Data
 start_date: 2022-03-14T00:00:00.000Z
 ---
