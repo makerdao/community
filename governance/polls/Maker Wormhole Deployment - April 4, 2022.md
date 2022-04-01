@@ -1,5 +1,5 @@
 ---
-title: Launch Maker Wormhole With Optimism and Arbitrum Domains - March 28, 2022
+title: Launch Maker Wormhole With Optimism and Arbitrum Domains - April 4, 2022
 summary: Signal your support or opposition to launching Maker Wormhole and approving Gateways for the Optimism and Arbitrum Domains, allowing Fast DAI Withdrawals.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-for-maker-wormhole-deployment-and-associated-risk-parameters/14209
 vote_type: Plurality Voting
@@ -14,9 +14,9 @@ options:
 start_date: 2022-03-28T16:00:00
 end_date: 2022-03-31T16:00:00
 ---
-# Poll:Maker Wormhole Deployment - March 28, 2022
+# Maker Wormhole Deployment - April 4, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Protocol Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 28 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Protocol Engineering Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 4 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -48,6 +48,9 @@ Please review the discussion [thread](https://forum.makerdao.com/t/request-to-po
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+* The deployment of Maker Wormhole will be included in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
+* It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
+* If the Executive Vote passes, then Wormhole will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
