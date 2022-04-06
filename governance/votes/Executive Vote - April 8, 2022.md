@@ -17,11 +17,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Parameter Changes from the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-31-march-2022/14347) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) including [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) and Aave D3M [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar), listed in detail below.
-- An increase in the CRVV1ETHSTETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), detailed below.
-- A total of 77,183 DAI will be paid to nine Recognized Delegates as per [MIP61 Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), detailed below.
-- 50,000 DAI will be transferred to the ETHAmsterdam Event SPF multi-sig as a result of their successful [Special Purpose Fund (SPF) application](https://mips.makerdao.com/mips/details/MIP55c3SP3), detailed below.
+- An increase in the CRVV1ETHSTETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), as [recommended](https://forum.makerdao.com/t/immediate-short-term-parameter-changes-proposal-for-crvv1ethsteth-a-dc-and-gap-increase/14476) by the Risk Core Unit, detailed below.
+- A total of **77,183 DAI** will be paid to nine Recognized Delegates as per [MIP61 Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), detailed below.
+- **50,000 DAI** will be transferred to the ETHAmsterdam Event SPF multi-sig as a result of this successful [Special Purpose Fund (SPF) application](https://mips.makerdao.com/mips/details/MIP55c3SP3), detailed below.
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+**Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
@@ -55,7 +55,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmdS8mCx) on the
 
 ### CRVV1ETHSTETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increase
 
-As a result of this [post](https://forum.makerdao.com/t/immediate-short-term-parameter-changes-proposal-for-crvv1ethsteth-a-dc-and-gap-increase/14476) from the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2) the CRVV1ETHSTETH-A Maximum Debt Ceiling will be increased by 2 million DAI from **3 million DAI** to **5 million DAI** if this executive proposal passes.
+As a result of this [post](https://forum.makerdao.com/t/immediate-short-term-parameter-changes-proposal-for-crvv1ethsteth-a-dc-and-gap-increase/14476) from the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2), the CRVV1ETHSTETH-A Maximum Debt Ceiling will be increased by 2 million DAI from **3 million DAI** to **5 million DAI** if this executive proposal passes.
 
 Please note that a Maximum Debt Ceiling of 5 million DAI for this vault type was already approved by an on-chain [poll](https://vote.makerdao.com/polling/Qmek9vzo).
 
@@ -75,7 +75,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 
 ### ETHAmsterdam Event Special Purpose Fund DAI Distribution
 
-As per their successful [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) (SPF) [application](https://mips.makerdao.com/mips/details/MIP55c3SP3), 50,000 DAI will be transferred to the ETHAmsterdam SPF Event multi-sig wallet at the address [0xF34ac684BA2734039772f0C0d77bc2545e819212](https://etherscan.io/address/0xF34ac684BA2734039772f0C0d77bc2545e819212) if this executive proposal passes.
+As per this successful [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) (SPF) [application](https://mips.makerdao.com/mips/details/MIP55c3SP3), 50,000 DAI will be transferred to the ETHAmsterdam SPF Event multi-sig wallet at the address [0xF34ac684BA2734039772f0C0d77bc2545e819212](https://etherscan.io/address/0xF34ac684BA2734039772f0C0d77bc2545e819212) if this executive proposal passes.
 
 Further information about this wallet set-up can be found in this forum [post](https://forum.makerdao.com/t/mip55c3-sp3-ethamsterdam-event-spf/13781/74).
 
