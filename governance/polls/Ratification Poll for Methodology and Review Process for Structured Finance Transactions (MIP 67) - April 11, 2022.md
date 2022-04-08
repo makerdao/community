@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for Pairwyse Licensure (MIP66) - April 11, 2022.
-summary: The Pairwyse Foundation has implemented an out-of-box smart contract solution and deployed software products for provisioning fixed-rate DAI loans of arbitrary term-length via the Pairwyse protocol built atop Maker’s credit and deposit facilities.
-discussion_link: https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554
+title: Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP 67) - April 11, 2022
+summary: MIP67 intends to formalise the methodology and high-level process to evaluate structured finance transactions made under the MIP6 application process.
+discussion_link: https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -12,7 +12,7 @@ options:
 start_date: 2022-04-11T16:00:00
 end_date: 2022-04-11T16:00:00
 ---
-# Ratification Poll for Pairwyse Licensure (MIP66) - April 11, 2022.
+# Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP 67) - April 11, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, April 11 at 16:00 UTC.
 
@@ -23,16 +23,16 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP66 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP67 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Pairwyse is an active protocol and blueprint for creating bespoke fixed-rate DAI lending and investment Agreements on MakerDAO between borrowers and lenders. We wish to thank the Maker Community for its previous feedback concerning the negative impact of patents on open source projects and potential concentration risks posed by fixed-rate innovations currently incubating in the Maker ecosystem. In posting this MIP, we wish to directly address these shared concerns with a fresh proposal we feel is favorable for MakerDAO, its contributors, its users and all current and future DeFi innovators throughout the collective ecosystem.*
+*MIP67 intends to (1) formally approve the Methodology for Review of MIP6 Structured Finance Transactions 17 published by the Real-World Finance Core Unit, and (2) introduce a high-level process that each MIP6-compliant application should undergo in order to receive, eventually, a positive endorsement from the relevant real-world CU stakeholder groups. E.g. RWF-001, SES-incubated Lending Oversight team, future CUs.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP66/MIP66.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP66)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP67/MIP67.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP67)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737)
 
 ## Outcomes
 
