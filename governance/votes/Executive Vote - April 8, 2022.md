@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] MOMC Parameter Changes, CRVV1ETHSTETH-A Debt Ceiling Increase, Recognized Delegate Compensation, ETHAmsterdam Event SPF Funding - April 08, 2022
 summary: Parameter changes from the latest MOMC proposal, increase the CRVV1ETHSTETH-A Maximum Debt Ceiling, Recognized Delegate Compensation for March, fund the multi-sig for the ETHAmsterdam Event SPF.
 date: 2022-04-08T00:00:00.000Z
-address: "$spell_address"
+address: "0x23Ed2d46c47c5f99684346374F3Ed5AC29561737"
 
 ---
 # [Executive Proposal] MOMC Parameter Changes, CRVV1ETHSTETH-A Debt Ceiling Increase, Recognized Delegate Compensation, ETHAmsterdam Event SPF Funding - April 08, 2022
