@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify the Collateral Application Form (MIP6c3-SP2) - April 11, 2022
-summary: MIP6c3-SP2 modifies the MIP6 collateral application form
+summary: MIP6c3-SP2 modifies the MIP6 collateral application form.
 discussion_link: https://forum.makerdao.com/t/mip6c3-sp2-subproposal-for-changing-the-collateral-application-form/13787
 vote_type: Plurality Voting
 categories:
