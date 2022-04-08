@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-04-11T16:00:00
-end_date: 2022-04-11T16:00:00
+end_date: 2022-04-25T16:00:00
 ---
 # Ratification Poll for Adding CES-001 as a Collateral Onboarding Domain Team - April 11, 2022
 
