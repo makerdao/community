@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The goal is to amend the collateral application template to contain relevant questions that allow Core Units and the MakerDAO community to more easily make an informed opinion on whether or not a collateral type is fit to be greenlit to be onboarded into the Maker Protocol.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP6/MIP6c3-Subproposals/MIP6c3-SP2.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4fcf5780881801a805d62ced908f8f3cd96f3974/MIP6/MIP6c3-Subproposals/MIP6c3-SP2.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP6c3SP2)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip6c3-sp2-modify-the-collateral-application-form/13787)
 
