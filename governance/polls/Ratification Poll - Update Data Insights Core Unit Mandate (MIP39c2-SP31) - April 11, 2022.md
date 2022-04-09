@@ -10,11 +10,11 @@ options:
    1: Yes
    2: No
 start_date: 2022-04-11T16:00:00
-end_date: 2022-04-14T16:00:00
+end_date: 2022-04-25T16:00:00
 ---
 # Ratification Poll for Update Data Insights Core Unit Mandate (MIP39c2-SP31) - April 11, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 11 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, April 11 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 

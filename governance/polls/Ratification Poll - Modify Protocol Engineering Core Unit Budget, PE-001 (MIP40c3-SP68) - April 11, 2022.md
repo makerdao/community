@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for Dissolution of Content Production, MKT-001, Multi-Sig Request (MIP47c3-SP1) - April 11, 2022
-summary: Regarding the offboard of the Content Production CU, this poll is for removing their wallet from the recognized multi-sig list.
-discussion_link: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991
+title: Ratification Poll for Modify Protocol Engineering Core Unit Budget, PE-001 (MIP40c3-SP68) - April 11, 2022
+summary: This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protocol Engineering Core Unit starting from May 2022.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
 vote_type: Plurality Voting
 categories:
    - MIPs
@@ -10,11 +10,11 @@ options:
    1: Yes
    2: No
 start_date: 2022-04-11T16:00:00
-end_date: 2022-04-14T16:00:00
+end_date: 2022-04-25T16:00:00
 ---
-# Ratification Poll for Dissolution of Content Production, MKT-001, Multi-Sig Request (MIP47c3-SP1) - April 11, 2022
+# Ratification Poll for Modify Protocol Engineering Core Unit Budget, PE-001 (MIP40c3-SP68) - April 11, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 11 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, April 11 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,20 +23,20 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP47c3-SP1 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP40c3-SP68 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Now that the Content Production Core Unit has been offboarded, their wallet should be removed from the recognized multi-sig list. Currently, no funds are available in the multi-sig, but it can still claim ~3.8k DAI from their canceled budget stream.
+*Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 months.
 
-Seeing as the Content Production Core Unit is no longer an active Core Unit for the DAO, there is only downside to leaving their multi-sig Governance recognized. Given the small amount of funds that can still be claimed, there is little danger to publicly announce our intentions to close the loop with the DssVest stream. However, this process is clearly vulnerable to front running until the procedure for reclaiming funds and permissions is improved.
+The [prior year’s budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over- budgeted for the work we sought to accomplish, which has subsequently helped inform this document.
 
-If this subproposal is accepted, there will be the technical work of claiming the budget funds and returning them to the surplus buffer, to be completed in a future executive proposal.*
+The following proposal is also in support of the forum post: [Protocol Engineering Core Unit Workstreams](https://forum.makerdao.com/t/protocol-engineering-core-unit-workstreams/13795). Our team stands behind this proposal as an optimal solution for scaling the Core Unit in a dynamic environment. We encourage readers to review that post in conjunction with the below budget request.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP47/MIP47c3-Subproposals/MIP47c3-SP1.md)
-* [Latest Proposal Version](Can't Find One)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP40/MIP40c3-Subproposals/MIP40c3-SP68.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP68)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797)
 
 ## Outcomes
 
