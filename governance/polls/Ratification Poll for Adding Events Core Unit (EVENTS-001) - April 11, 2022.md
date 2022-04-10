@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-04-11T16:00:00
-end_date: 2022-04-11T16:00:00
+end_date: 2022-04-25T16:00:00
 ---
 # Ratification Poll for Adding Events Core Unit (EVENTS-001) - April 11, 2022
 
@@ -23,9 +23,9 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Adding Adding Events Core Unit (EVENTS-001) being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to Adding Events Core Unit (EVENTS-001) being accepted and implemented in the Maker Protocol.
 
-### MIP39c2-SP32
+### MIP39c2-SP32: Adding events Core Unit (EVENTS-001)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -36,7 +36,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP32)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780)
 
-### MIP40c3-SP66
+### MIP40c3-SP66: Events Core Unit DAI Budget (EVENTS-001)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -47,14 +47,14 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP66)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777)
 
-### MIP41c4-SP33
+### MIP41c4-SP33: Events Core Unit Facilitator - Jon Perry (EVENTS-001)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
 *This sub proposal onboards Jon Perry as the Facilitator for EVENTS-001. As the facilitator, he will be responsible for ensuring the Events CU achieves its mandate of producing branded events for MakerDAO to the highest level of quality, transparency and professionalism.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP33.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/bf522ee865929361524eddee332ef3a54d84bcb0)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP33)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp33-events-core-unit-facilitator-onboarding-jon-perry-events-001/13775)
 
