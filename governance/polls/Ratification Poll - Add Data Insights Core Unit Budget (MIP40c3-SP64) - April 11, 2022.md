@@ -27,11 +27,11 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP40c3-SP64 adds the budget for Data Insights Core Unit (DIN-001) to account for the new mandate 2 that expands on the initial mission to maintain the existing data assets and build new datasets to cover L2s, RWAs, and puts a special focus on the community.
+*MIP40c3-SP64 adds the budget for Data Insights Core Unit (DIN-001) to account for the new mandate 2 that expands on the initial mission to maintain the existing data assets and build new datasets to cover L2s, RWAs, and puts a special focus on the community.*
 
-The main changes are the following:
+*The main changes are the following:*
 
-59,500 DAI → 90,250.00 DAI per month (+52%)
+*59,500 DAI → 90,250.00 DAI per month (+52%)
 6 month budget → 12 month budget
 Team headcount increase
 Expansion Pool

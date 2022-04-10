@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Dissolution of Content Production, MKT-001, Multi-Sig Request (MIP47c3-SP1) - April 11, 2022
-summary: Regarding the offboard of the Content Production CU, this poll is for removing their wallet from the recognized multi-sig list.
+summary: This subproposals removes Content Production's (MKT-001) multi-sig from the MIP47 list of recognized MakerDAO multi-sigs
 discussion_link: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991
 vote_type: Plurality Voting
 categories:
@@ -27,15 +27,15 @@ The community may vote in this poll to express support or opposition to MIP47c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Now that the Content Production Core Unit has been offboarded, their wallet should be removed from the recognized multi-sig list. Currently, no funds are available in the multi-sig, but it can still claim ~3.8k DAI from their canceled budget stream.
+*Now that the Content Production Core Unit has been offboarded, their wallet should be removed from the recognized multi-sig list. Currently, no funds are available in the multi-sig, but it can still claim ~3.8k DAI from their canceled budget stream.*
 
-Seeing as the Content Production Core Unit is no longer an active Core Unit for the DAO, there is only downside to leaving their multi-sig Governance recognized. Given the small amount of funds that can still be claimed, there is little danger to publicly announce our intentions to close the loop with the DssVest stream. However, this process is clearly vulnerable to front running until the procedure for reclaiming funds and permissions is improved.
+*Seeing as the Content Production Core Unit is no longer an active Core Unit for the DAO, there is only downside to leaving their multi-sig Governance recognized. Given the small amount of funds that can still be claimed, there is little danger to publicly announce our intentions to close the loop with the DssVest stream. However, this process is clearly vulnerable to front running until the procedure for reclaiming funds and permissions is improved.*
 
-If this subproposal is accepted, there will be the technical work of claiming the budget funds and returning them to the surplus buffer, to be completed in a future executive proposal.*
+*If this subproposal is accepted, there will be the technical work of claiming the budget funds and returning them to the surplus buffer, to be completed in a future executive proposal.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP47/MIP47c3-Subproposals/MIP47c3-SP1.md)
-* [Latest Proposal Version](Can't Find One)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP47c3SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991)
 
 ## Outcomes

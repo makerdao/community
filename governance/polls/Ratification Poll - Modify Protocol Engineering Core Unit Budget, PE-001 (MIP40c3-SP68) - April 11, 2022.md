@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Protocol Engineering Core Unit Budget, PE-001 (MIP40c3-SP68) - April 11, 2022
-summary: This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protocol Engineering Core Unit starting from May 2022.
+summary: This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protocol Engineering Core Unit.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
 vote_type: Plurality Voting
 categories:
@@ -27,11 +27,11 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 months.
+*Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 month*s.*
 
-The [prior year’s budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over- budgeted for the work we sought to accomplish, which has subsequently helped inform this document.
+*The [prior year’s budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over- budgeted for the work we sought to accomplish, which has subsequently helped inform this document.*
 
-The following proposal is also in support of the forum post: [Protocol Engineering Core Unit Workstreams](https://forum.makerdao.com/t/protocol-engineering-core-unit-workstreams/13795). Our team stands behind this proposal as an optimal solution for scaling the Core Unit in a dynamic environment. We encourage readers to review that post in conjunction with the below budget request.*
+*The following proposal is also in support of the forum post: [Protocol Engineering Core Unit Workstreams](https://forum.makerdao.com/t/protocol-engineering-core-unit-workstreams/13795). Our team stands behind this proposal as an optimal solution for scaling the Core Unit in a dynamic environment. We encourage readers to review that post in conjunction with the below budget request.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP40/MIP40c3-Subproposals/MIP40c3-SP68.md)

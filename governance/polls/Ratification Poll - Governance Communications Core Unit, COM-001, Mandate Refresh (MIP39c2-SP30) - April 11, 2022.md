@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Governance Communications Core Unit, COM-001, Mandate Refresh (MIP39c2-SP30) - April 11, 2022
-summary: This poll is for accepting the updates to the mandate for Core Unit COM-001.
+summary: This subproposal refreshes the mandate for the Governance Communications Core Unit (COM-001).
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197
 vote_type: Plurality Voting
 categories:
@@ -27,13 +27,13 @@ The community may vote in this poll to express support or opposition to MIP39c2-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The Governance Communications Core Unit performs a set of programs that focus on MakerDAO’s informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.
+*MIP39c2-SP30 updates the mandate for Core Unit COM-001. The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.*
 
-Vision
+*Vision*
 
-A healthy communication and information infrastructure:
+*A healthy communication and information infrastructure:*
 
-Makes consistent, comprehensive, and accurate information accessible.
+*Makes consistent, comprehensive, and accurate information accessible.
 Has well-managed public communication venues.
 Engages with stakeholders to improve its coordination & output.
 Advocates for, facilitates, and promotes beneficial organizational communication practices.
@@ -43,7 +43,7 @@ Provides dedicated support and multiple points of access to members of the media
 Results in a more effective and less opaque organization that attracts more stakeholders.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP39/MIP39c2-Subproposals/MIP39c2-SP30.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/0fa58d68159bb06950d15154682a73d2b6c46fe6/MIP39/MIP39c2-Subproposals/MIP39c2-SP30.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP30)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197)
 
