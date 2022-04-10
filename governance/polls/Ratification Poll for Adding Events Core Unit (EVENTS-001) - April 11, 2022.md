@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Events Core Unit will handle planning, organization, and execution of MakerDAO branded events. Our vision is to use an exhaustive list of themes, visuals, set dressing, technology and branding to carry out events to the highest standards for the MakerDAO community.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP32.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/1a75df31c022c3049a2f623ed3178a10457ff5fb)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP32)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780)
 
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP66 adds the DAI budget for the Core Unit EVENTS-001: Events. This budget will allocate DAI to the CU. The one-off seed transfer will be 149,692 DAI with the monthly transfers being 62,371.50 (12 transfers total). The total CU budget amounts to 898,150 DAI annually.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP66.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/f7588070945cab9ae27ead086e1126a4d343171a)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP66)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777)
 
