@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Adding Events Core Unit (EVENTS-001) - April 11, 2022
-summary: Coordinate and execute MakerDAO branded events at Crypto/DEV Conference locations.
+summary: These subproposals onboard Events Core Unit (EVENTS-001) whose mandate is to coordinate and execute MakerDAO branded events at Crypto/DEV Conference locations.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 vote_type: Plurality Voting
 categories:
