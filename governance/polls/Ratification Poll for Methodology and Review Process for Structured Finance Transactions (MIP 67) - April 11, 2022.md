@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP 67) - April 11, 2022
+title: Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP67) - April 11, 2022
 summary: MIP67 intends to formalise the methodology and high-level process to evaluate structured finance transactions made under the MIP6 application process.
 discussion_link: https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737
 vote_type: Plurality Voting
@@ -10,9 +10,9 @@ options:
    1: Yes
    2: No
 start_date: 2022-04-11T16:00:00
-end_date: 2022-04-11T16:00:00
+end_date: 2022-04-25T16:00:00
 ---
-# Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP 67) - April 11, 2022
+# Ratification Poll for Methodology and Review Process for Structured Finance Transactions (MIP67) - April 11, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, April 11 at 16:00 UTC.
 
