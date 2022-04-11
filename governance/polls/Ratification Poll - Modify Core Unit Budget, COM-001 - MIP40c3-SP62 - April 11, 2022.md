@@ -52,6 +52,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
+
 ---
 ## Resources
 
