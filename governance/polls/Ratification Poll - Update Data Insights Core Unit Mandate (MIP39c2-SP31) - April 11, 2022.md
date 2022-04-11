@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Update Data Insights Core Unit Mandate (MIP39c2-SP31) - April 11, 2022
-summary: This subproposal modifies the Data Insights Core Unit (“DIN”) mandate 
+summary: This subproposal modifies the Data Insights Core Unit (“DIN”) mandate.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp31-update-data-insights-core-unit-mandate/13790
 vote_type: Plurality Voting
 categories:
