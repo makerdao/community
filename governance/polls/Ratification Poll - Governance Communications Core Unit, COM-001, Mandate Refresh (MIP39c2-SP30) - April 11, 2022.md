@@ -29,19 +29,6 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *MIP39c2-SP30 updates the mandate for Core Unit COM-001. The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.*
 
-*Vision*
-
-*A healthy communication and information infrastructure:*
-
-*Makes consistent, comprehensive, and accurate information accessible.
-Has well-managed public communication venues.
-Engages with stakeholders to improve its coordination & output.
-Advocates for, facilitates, and promotes beneficial organizational communication practices.
-Maps the organization, its initiatives, and the surrounding stakeholder ecosystem.
-Maintains resources and processes for crisis situations.
-Provides dedicated support and multiple points of access to members of the media.
-Results in a more effective and less opaque organization that attracts more stakeholders.*
-
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/0fa58d68159bb06950d15154682a73d2b6c46fe6/MIP39/MIP39c2-Subproposals/MIP39c2-SP30.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP30)
