@@ -53,7 +53,6 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 ---
-
 ## Resources
 
 [MIP51: Monthly Governance Cycle](https://mips.makerdao.com/mips/details/MIP51) describes this type of poll and its position and significance within the rest of the governance cycle.
