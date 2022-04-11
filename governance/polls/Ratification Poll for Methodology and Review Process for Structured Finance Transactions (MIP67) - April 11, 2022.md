@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP67 intends to (1) formally approve the Methodology for Review of MIP6 Structured Finance Transactions 17 published by the Real-World Finance Core Unit, and (2) introduce a high-level process that each MIP6-compliant application should undergo in order to receive, eventually, a positive endorsement from the relevant real-world CU stakeholder groups. E.g. RWF-001, SES-incubated Lending Oversight team, future CUs.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/7ea0b7ab8198bb5ff018a15f57e9766427ace6ca)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/7ea0b7ab8198bb5ff018a15f57e9766427ace6ca/MIP67/MIP67.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP67)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737)
 
