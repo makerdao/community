@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Dissolution of Content Production, MKT-001, Multi-Sig Request (MIP47c3-SP1) - April 11, 2022
-summary: This subproposals removes Content Production's (MKT-001) multi-sig from the MIP47 list of recognized MakerDAO multi-sigs
+summary: This subproposals removes Content Production's (MKT-001) multi-sig from the MIP47 list of recognized MakerDAO multi-sigs.
 discussion_link: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991
 vote_type: Plurality Voting
 categories:
