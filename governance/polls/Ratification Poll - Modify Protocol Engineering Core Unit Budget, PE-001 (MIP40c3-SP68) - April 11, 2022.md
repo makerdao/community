@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Protocol Engineering Core Unit Budget, PE-001 (MIP40c3-SP68) - April 11, 2022
-summary: This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protocol Engineering Core Unit.
+summary: This subproposal is requesting a 12-month Budget of 7,590,000 DAI and 800,000 DAI to extend the Emergency Multi-sig funding for the Protocol Engineering Core Unit.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
 vote_type: Plurality Voting
 categories:
