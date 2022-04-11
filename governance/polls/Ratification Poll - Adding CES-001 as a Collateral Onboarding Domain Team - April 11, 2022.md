@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Adding CES-001 as a Collateral Onboarding Domain Team - April 11, 2022
-summary: MIP7c3-SP7 and MIP7 amendment MIP4c2-SP1 add CES-001 as a Collateral Onboarding Domain Team.
+summary: MIP7c3-SP7 and MIP4c2-SP1 (a MIP7 amendment) add CES-001 as a Collateral Onboarding Domain Team.
 discussion_link: https://forum.makerdao.com/t/mip7c3-sp7-ces-domain-team-onboarding-ces-001/13794
 vote_type: Plurality Voting
 categories:
