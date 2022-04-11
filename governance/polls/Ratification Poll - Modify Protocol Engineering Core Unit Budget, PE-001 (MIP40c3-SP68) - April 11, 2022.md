@@ -27,7 +27,7 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 month*s.*
+*Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 months.*
 
 *The [prior year’s budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over- budgeted for the work we sought to accomplish, which has subsequently helped inform this document.*
 
