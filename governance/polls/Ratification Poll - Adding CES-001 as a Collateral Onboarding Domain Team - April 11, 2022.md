@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP7c3-SP7 and MIP4c2-SP1 being accepted and implemented in the Maker Protocol.
 
 ### MIP4c2-SP18: MIP7 Amendments
 
