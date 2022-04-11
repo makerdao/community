@@ -31,15 +31,15 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *The main changes are the following:*
 
-*59,500 DAI → 90,250.00 DAI per month (+52%)
-6 month budget → 12 month budget
-Team headcount increase
-Expansion Pool
-MKR vesting program
-Travel budget*
+- *59,500 DAI → 90,250.00 DAI per month (+52%)*
+- *6 month budget → 12 month budget*
+- *Team headcount increase*
+- *Expansion Pool*
+- *MKR vesting program*
+- *Travel budget*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP40/MIP40c3-Subproposals/MIP40c3-SP64.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/eb32509a9aa5eb6549065d9ead21c43d6ca3b6cb/MIP40/MIP40c3-Subproposals/MIP40c3-SP64.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP64)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791)
 

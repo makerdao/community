@@ -34,7 +34,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *If this subproposal is accepted, there will be the technical work of claiming the budget funds and returning them to the surplus buffer, to be completed in a future executive proposal.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/25c4b48d8e0f6d2ccee517df0555f0766feff8a5/MIP47/MIP47c3-Subproposals/MIP47c3-SP1.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/5c9f74ab48176eaadcc68363e2b2108d78127a76/MIP47/MIP47c3-Subproposals/MIP47c3-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP47c3SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991)
 
