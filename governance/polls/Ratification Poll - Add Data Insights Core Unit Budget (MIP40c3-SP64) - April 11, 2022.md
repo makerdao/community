@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Add Data Insights Core Unit Budget (MIP40c3-SP64) - April 11, 2022
-summary: This subproposal adds the budget for Data Insights Core Unit. It’s a regular monthly budget of 90,250.00 DAI from May 2022 until April 2023, included.
+summary: This subproposal adds the budget for Data Insights Core Unit. It’s a regular monthly budget of 90,250 DAI from May 2022 until April 2023, included.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791
 vote_type: Plurality Voting
 categories:
