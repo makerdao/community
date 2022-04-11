@@ -27,7 +27,7 @@ The community may vote in this poll to express support or opposition to MIP39c2-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This subproposal modifies the Data Insights Core Unit (“DIN”) mandate previously ratified with MIP39c2-SP22. It’s mostly about simplification of the previous document and stressing of our focus on L2 and cross-chain data as well as RWA datasets*
+*This subproposal modifies the Data Insights Core Unit (“DIN”) mandate previously ratified with MIP39c2-SP22. It’s mostly about simplification of the previous document and stressing of our focus on L2 and cross-chain data as well as RWA datasets.*
 
 *Also, due to the ever-changing nature of the DeFi ecosystem, it is nearly impossible to perfect how the DAO is run. That being said, access to good data will ensure that we’re able to identify significant problems early on and take action to solve them. Related to the way data helps to identify short term problems, it also provides the tools necessary to develop more accurate long-term theories and make our approach more strategic.*
 
