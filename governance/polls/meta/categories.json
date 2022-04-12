@@ -14,5 +14,8 @@
   "Core Unit",
   "Test",
   "Offboard",
-  "Bridge"
+  "Bridge",
+  "High Impact",
+  "Medium Impact",
+  "Low Impact"
 ]
