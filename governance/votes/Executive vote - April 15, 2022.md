@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Offload TUSD and DAI Transfers - April 15, 2022
 summary: Offload TUSD collateral via liquidation, DAI Transfers to GRO-001, Ambassadors Program, Gelato Keepers.
 date: 2022-04-15T00:00:00.000Z
-address: "$spell_address"
+address: "0xe0Ae8927548FaBa8b8B48926AfD01d1a951F0bAA"
 
 ---
 # [Executive Proposal] Offload TUSD and DAI Transfers - April 15, 2022
