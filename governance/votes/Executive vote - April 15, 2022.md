@@ -46,7 +46,9 @@ As per [this](https://vote.makerdao.com/polling/QmVkRdjg#poll-detail) successful
 * [Local Liquidation Limit (ilk.hole)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit): 5 million DAI
 * [Max Auction Duration (tail)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration): 5 days (implies minimum price of 0.98)
 * [Proportional Kick Incentive (chip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): Zero DAI
-* [Flat Kick Incentive (tip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 500 DAI
+* [Flat Kick Incentive (tip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): Zero DAI*
+
+\* Note that the Protocol Engineering Core Unit have reduced the Flat Kick Incentive to zero as detailed [here](https://forum.makerdao.com/t/tusd-offloading-flat-kick-incentive-change/14645).
 
 For further information, please see the proposal forum thread [here](https://forum.makerdao.com/t/proposed-parameters-for-offboarding-tusd-a/13506).
 
