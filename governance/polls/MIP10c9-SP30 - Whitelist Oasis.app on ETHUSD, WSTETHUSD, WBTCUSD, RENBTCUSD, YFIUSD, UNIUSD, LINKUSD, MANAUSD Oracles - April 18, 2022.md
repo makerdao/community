@@ -1,6 +1,6 @@
 ---
-title: Whitelist Oracle Access to Oasis.app on ETHUSD, WSTETHUSD, WBTCUSD, RENBTCUSD, YFIUSD, UNIUSD, LINKUSD, MANAUSD (MIP10c9-SP30) - April 18, 2022
-summary: Signal your support or opposition for whitelisting Oasis.app on the ETHUSD, WSTETHUSD, WBTCUSD, RENBTCUSD, YFIUSD, UNIUSD, LINKUSD, & MANAUSD Oracles.
+title: Whitelist Oasis.app on Multiple Oracles (MIP10c9-SP30) - April 18, 2022
+summary: Signal your support or opposition for whitelisting Oasis.app on multiple oracles.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp30-proposal-to-whitelist-oasis-app-on-ethusd-wstethusd-wbtcusd-renbtcusd-yfiusd-uniusd-linkusd-manausd/14379
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2022-04-18T16:00:00
 end_date: 2022-04-21T16:00:00
 ---
-# Whitelist Oracle Access to Oasis.app on ETHUSD, WSTETHUSD, WBTCUSD, RENBTCUSD, YFIUSD, UNIUSD, LINKUSD, MANAUSD (MIP10c9-SP30) - April 18, 2022
+# Whitelist Oasis.app on Multiple Oracles (MIP10c9-SP30) - April 18, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracles Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 18 at 16:00 UTC.
 
@@ -24,7 +24,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appending Oasis.app to the ETHUSD, WSTETHUSD, WBTCUSD, RENBTCUSD, YFIUSD, UNIUSD, LINKUSD, & MANAUSD Oracle Security Module whitelists to read current and queued price data.
+The community can vote in this poll to express support or opposition to appending Oasis.app to the following Oracle Security Module whitelists to read current and queued price data:
+* ETHUSD
+* WSTETHUSD
+* WBTCUSD
+* RENBTCUSD
+* YFIUSD
+* UNIUSD
+* LINKUSD
+* MANAUSD
 
 Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp30-proposal-to-whitelist-oasis-app-on-ethusd-wstethusd-wbtcusd-renbtcusd-yfiusd-uniusd-linkusd-manausd/14379) to inform your position on this issue before voting.
 

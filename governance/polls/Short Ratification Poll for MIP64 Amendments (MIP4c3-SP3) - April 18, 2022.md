@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll to Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3) - April 18, 2022
+title: Short Ratification Poll to Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3) - April 18, 2022
 summary: Signal your support or opposition for Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3)
 discussion_link: https://forum.makerdao.com/t/mip4c3sp3-amend-mip64-to-allow-more-flexibility-in-scope/14200
 vote_type: Plurality Voting
@@ -13,7 +13,7 @@ options:
 start_date: 2022-04-18T16:00:00
 end_date: 2022-04-21T16:00:00
 ---
-# Ratification Poll to Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3) - April 18, 2022
+# Short Ratification Poll to Amend MIP64 to allow more flexibility in scope (MIP4c3-SP3) - April 18, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP16](https://mips.makerdao.com/mips/details/MIP16). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 18 at 16:00 UTC.
 

@@ -33,7 +33,7 @@ Please review the collateral onboarding application [thread]( https://forum.make
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
 * The 'greenlight score' will be calculated for sETH2 (Stakewise Staked ETH) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for sETH2 (Stakewise Staked ETH) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
+* The 'greenlight score' for sETH2 (Stakewise Staked ETH) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
