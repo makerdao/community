@@ -11,10 +11,10 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
-start_date: 2022-04-18 16:00:00
-end_date: 2022-05-02 16:00:00
+start_date: 2022-04-18T16:00:00
+end_date: 2022-05-02T16:00:00
 ---
-# Poll: Community Greenlight Poll - Investigate Implementation of HVBANK (Huntingdon Valley Bank Loan Syndication Collateral) - Monday, April 18 at 16:00 UTC
+# Poll: Community Greenlight Poll - HVBANK (Huntingdon Valley Bank Loan Syndication Collateral) - April 18, 2022
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday April 18, 2022 at 16:00 UTC.
 
