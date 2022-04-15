@@ -33,7 +33,7 @@ Please review the application [thread]($discussion_link) to inform your position
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 * This change will be included in a Friday Executive Vote within the next 30 days, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 
