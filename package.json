@@ -27,7 +27,7 @@
     "gatsby-plugin-lunr": "^1.5.2",
     "gatsby-plugin-manifest": "^2.4.32",
     "gatsby-plugin-mdx": "^1.2.43",
-    "gatsby-plugin-offline": "^3.2.31",
+    "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-page-creator": "^2.3.32",
     "gatsby-plugin-preload-link-crossorigin": "^1.0.2",
     "gatsby-plugin-react-helmet": "^3.3.14",
