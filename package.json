@@ -44,7 +44,7 @@
     "gatsby-transformer-remark": "^2.8.38",
     "gatsby-transformer-sharp": "^2.5.18",
     "html-react-parser": "^0.14.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "lunr": "^2.3.9",
