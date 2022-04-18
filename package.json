@@ -64,7 +64,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@babel/preset-flow": "^7.13.13",
-    "babel-preset-gatsby": "^1.2.0",
+    "babel-preset-gatsby": "^2.12.1",
     "eslint": "^7.23.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-flowtype": "^5.2.0",
