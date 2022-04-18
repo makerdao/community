@@ -8224,12 +8224,12 @@ gatsby-plugin-flow@^1.8.0:
     "@babel/preset-flow" "^7.12.1"
     "@babel/runtime" "^7.12.5"
 
-gatsby-plugin-google-analytics@^2.3.15:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.4.0.tgz#7c2d0dbb93910129518d325083ac740b756e2819"
-  integrity sha512-NKgYyICCo94OZ8SxoBEMxfRiJTRLBTYDIGkzhS+Dlzqt46T5UZARNcaPFqARw9/OdMf7FDUJ+6FSUqJoLKLNbg==
+gatsby-plugin-google-analytics@^2.11.0:
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.11.0.tgz#8d74bd3c100706f03bbccf7b130a758fce9994ad"
+  integrity sha512-aVFmzoozd0ifn5HJJY0W8R7DHkyTEvj/ueRyJJNlQMadQagIAYq+7efKon4gJzd4NZkLcoDb6moiAR066FwIIg==
   dependencies:
-    "@babel/runtime" "^7.11.2"
+    "@babel/runtime" "^7.12.5"
     minimatch "3.0.4"
 
 gatsby-plugin-lunr@^1.5.2:
