@@ -31,7 +31,7 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's time allows. 
+* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 

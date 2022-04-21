@@ -38,7 +38,7 @@ For more information regarding the Debt Ceiling Instant Access Module and how th
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These parameter changes will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's time allows. 
+* These parameter changes will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
