@@ -6,6 +6,7 @@ vote_type: Plurality Voting
 categories:
    - Collateral
    - Risk Variable
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -31,9 +32,9 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Underlying Collateral: wstETH
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 0.75%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 185%
-* [Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 150 million DAI
+* [Maximum Debt Ceiling (`line`)](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling): 150 million DAI
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 15 million DAI
-* [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8h
+* [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 5,000 DAI
 
 ### Liquidation Parameters
