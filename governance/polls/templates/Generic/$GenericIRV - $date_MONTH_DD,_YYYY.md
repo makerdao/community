@@ -37,7 +37,8 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, then change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
+* If the winner represents a change from the status quo, this change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's time allows. 
+* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors. 
 * If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
