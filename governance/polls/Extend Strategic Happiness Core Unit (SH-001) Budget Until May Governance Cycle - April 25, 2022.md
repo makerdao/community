@@ -1,6 +1,6 @@
 ---
 title: Extend Strategic Happiness Core Unit (SH-001) Budget Until May Governance Cycle - April 25, 2022
-summary: Signal your support or opposition to sending a one-time transfer of 35,000 DAI to the Strategic Happiness Core Unit
+summary: Signal your support or opposition to sending a one-time transfer of 35,000 DAI to the Strategic Happiness Core Unit (SH-001).
 discussion_link: https://forum.makerdao.com/t/signal-request-extend-shcu-sh-001-budget-until-may-governance-cycle/14511
 vote_type: Plurality Voting
 categories:
@@ -26,15 +26,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following: 
-* Sending a one-time transfer of 35,000 DAI will be done to the Strategic Happiness Core Unit to cover the gap between budget cycles.
+* Send a one-time transfer of 35,000 DAI to the Strategic Happiness Core Unit (SH-001) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) to cover the gap between budget cycles.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-extend-shcu-sh-001-budget-until-may-governance-cycle/14511) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* This change will be included in an upcoming Executive Vote, as the Protocol Engineering Core Unit's schedule allows.
+* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
