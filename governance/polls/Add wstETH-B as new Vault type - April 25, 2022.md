@@ -1,7 +1,7 @@
 ---
-title: Add wstETH-C as a new Vault Type - April 25, 2022
-summary: This poll proposes system parameters which could be used to initialize wstETH-C as a new vault type.
-discussion_link: https://forum.makerdao.com/t/introduction-risk-parameters-for-wsteth-c-vault/14669
+title: Add wstETH-B as a new Vault Type - April 25, 2022
+summary: This poll proposes system parameters which could be used to initialize a low-fee, low-leverage vault type with wstETH as collateral.
+discussion_link: https://forum.makerdao.com/t/introduction-risk-parameters-for-wstETH-C-vault/14669
 vote_type: Plurality Voting
 categories:
    - Collateral
@@ -14,7 +14,7 @@ options:
 start_date: 2022-04-25T16:00:00
 end_date: 2022-04-28T16:00:00
 ---
-# Poll: Add wstETH-C as a new Vault Type - April 25, 2022
+# Poll: Add wstETH-B as a new Vault Type - April 25, 2022
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, April 25 at 16:00 UTC.
 
@@ -25,7 +25,9 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding wstETH-C (Lido Staked ETH) as a new vault type in the Maker Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding wstETH-B as a new vault type in the Maker Protocol with the parameters below.
+
+Note that this proposed vault type was previously discussed as wstETH-C, however if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequencial naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).
 
 ### Initial Vault Parameters
 
@@ -57,16 +59,16 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 300 DAI
 
-Please review the following forum threads containing information about wstETH-C to inform your position before voting.
-* [Proposal Thread](https://forum.makerdao.com/t/introduction-risk-parameters-for-wsteth-c-vault/14669)
+Please review the following forum threads containing information about wstETH-B to inform your position before voting.
+* [Proposal Thread](https://forum.makerdao.com/t/introduction-risk-parameters-for-wstETH-C-vault/14669)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/steth-collateral-onboarding-risk-evaluation/9061)
 * [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/steth-erc20-token-smart-contract-technical-assessment/9284)
-* [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/wsteth-collateral-onboarding-oracle-assessment-mip10c3-sp42/10881)
+* [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/wstETH-Bollateral-onboarding-oracle-assessment-mip10c3-sp42/10881)
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* wstETH-C will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
+* wstETH-B will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
