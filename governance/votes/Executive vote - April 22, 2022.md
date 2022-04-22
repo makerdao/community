@@ -34,14 +34,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Oasis.app Whitelists
 
 As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZykRSM#poll-detail), [Oasis.app](https://oasis.app/) will be whitelisted on the following OSM Oracles if this executive proposal passes. This will include the following oracles:
-* ETHUSD
-* WSTETHUSD
-* WBTCUSD
-* RENBTCUSD
-* YFIUSD
-* UNIUSD
-* LINKUSD
-* MANAUSD
+* ETH/USD
+* WSTETH/USD
+* WBTC/USD
+* RENBTC/USD
+* YFI/USD
+* UNI/USD
+* LINK/USD
+* MANA/USD
 
 ### Replacing the Curve stETH/ETH Oracle
 
