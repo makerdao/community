@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding wstETH-B as a new vault type in the Maker Protocol with the parameters below.
 
-Note that this proposed vault type was previously discussed as wstETH-C, however if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequencial naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).
+Note that this proposed vault type was previously discussed as wstETH-C, however, if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequential naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).
 
 ### Initial Vault Parameters
 
