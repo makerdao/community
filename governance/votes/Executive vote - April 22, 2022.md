@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Oracle Whitelist Additions, Replacing the Curve stETH/ETH Oracle - April 22, 2022
 summary: Whitelist Oasis.app on multiple oracles and replacing and reactiviating the Curve stETH/ETH Oracle.
 date: 2022-04-22T00:00:00.000Z
-address: "$spell_address"
+address: "0x530708D653D540B3FcE6dF02da95588834aD39f2"
 
 ---
 # [Executive Proposal] Oracle Whitelist Additions, Replacing the Curve stETH/ETH Oracle - April 22, 2022
