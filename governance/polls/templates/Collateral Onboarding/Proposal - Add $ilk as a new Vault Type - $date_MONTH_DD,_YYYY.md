@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 This poll allows the MakerDAO governance community to signal their support or opposition to adding $ilk ($asset_name) as a new vault type in the Maker Protocol with the parameters below:
 
-### Initial Collateral Parameters
+### Initial Vault Parameters
 
 * Underlying Collateral: $collateral_asset
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): $stability_fee
