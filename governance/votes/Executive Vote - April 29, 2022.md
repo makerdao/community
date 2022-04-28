@@ -40,7 +40,7 @@ As per multiple successful budget proposals (linked below), a total of **1,057,9
 - **73,226 DAI** (itemized below) will be transferred to the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP30) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmWQBUi6#poll-detail).
 	- **46,836 DAI** at [0x99E1696A680c0D9f426Be20400E468089E7FDB0f](https://etherscan.io/address/0x99E1696A680c0D9f426Be20400E468089E7FDB0f).
 	- **26,390 DAI** at [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9).
-- **149,672 DAI** will be transferred to the [Events Core Unit (EVENTS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP32) at [0x3D274fbAc29C92D2F624483495C0113B44dBE7d2](https://etherscan.io/address/0x3D274fbAc29C92D2F624483495C0113B44dBE7d2) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmSVzGcm#poll-detail).
+- **149,692 DAI** will be transferred to the [Events Core Unit (EVENTS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP32) at [0x3D274fbAc29C92D2F624483495C0113B44dBE7d2](https://etherscan.io/address/0x3D274fbAc29C92D2F624483495C0113B44dBE7d2) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmSVzGcm#poll-detail).
 - **35,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmVdxBE5#poll-detail).
 
 ### Core Unit Budget Streams
