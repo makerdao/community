@@ -38,17 +38,10 @@ As per multiple successful budget proposals (linked below), a total of **1,057,9
 
 - **800,000 DAI** will be transferred to the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7) at [0xe2c16c308b843eD02B09156388Cb240cEd58C01c](https://etherscan.io/address/0xe2c16c308b843eD02B09156388Cb240cEd58C01c) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmWphKJY#poll-detail).
 - **73,226 DAI** (itemized below) will be transferred to the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP30) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmWQBUi6#poll-detail).
-<<<<<<< Updated upstream
-	- **46,836 DAI** at [0x99E1696A680c0D9f426Be20400E468089E7FDB0f](https://etherscan.io/address/0x99E1696A680c0D9f426Be20400E468089E7FDB0f).
-	- **26,390 DAI** at [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9).
+	- **46,836 DAI** to the Continuous Operation Multisig: [0x99E1696A680c0D9f426Be20400E468089E7FDB0f](https://etherscan.io/address/0x99E1696A680c0D9f426Be20400E468089E7FDB0f).
+	- **26,390 DAI** to the Operational Multisig: [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9).
 - **149,692 DAI** will be transferred to the [Events Core Unit (EVENTS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP32) at [0x3D274fbAc29C92D2F624483495C0113B44dBE7d2](https://etherscan.io/address/0x3D274fbAc29C92D2F624483495C0113B44dBE7d2) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmSVzGcm#poll-detail).
-- **35,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmVdxBE5#poll-detail).
-=======
-	- **46,836 DAI** at the Continuous Operation Multisig: [0x99E1696A680c0D9f426Be20400E468089E7FDB0f](https://etherscan.io/address/0x99E1696A680c0D9f426Be20400E468089E7FDB0f).
-	- **26,390 DAI** at the Operational Multisig: [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9).
-- **149,692	 DAI** will be transferred to the [Events Core Unit (EVENTS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP32) at [0x3D274fbAc29C92D2F624483495C0113B44dBE7d2](https://etherscan.io/address/0x3D274fbAc29C92D2F624483495C0113B44dBE7d2) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmSVzGcm#poll-detail).
-- **35,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) as a result of [this Governance Poll](https://vote.makerdao.com/polling/QmVdxBE5#poll-detail) originated from this [Signal Request](https://forum.makerdao.com/t/signal-request-extend-shcu-sh-001-budget-until-may-governance-cycle/14511).
->>>>>>> Stashed changes
+- **35,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) as a result of [this Governance Poll](https://vote.makerdao.com/polling/QmVdxBE5#poll-detail) originating from this [Signal Request](https://forum.makerdao.com/t/signal-request-extend-shcu-sh-001-budget-until-may-governance-cycle/14511).
 
 ### Core Unit Budget Streams
 
@@ -59,7 +52,7 @@ As per multiple successful budget proposals (linked below), a total of **1,057,9
 
 ### DssVest and ESM Interaction
 
-_This section clarifies the need for the previous vesting streams to take place on a new DssVest contract_.
+_This section clarifies the need for the above vesting streams to take place on a new DssVest contract_.
 
 The DssVest DAI contract is being updated to prevent `vat.suck` calls being possible in the event of emergency shutdown. This involves including a check to ensure that `vat.suck` only works when the system is live for all new vest contracts. For existing contracts, the ESM will be relied to allow keepers to remove pause proxy permissions if governance becomes malicious after shutdown. Note that this is relevant only after shutdown occurs. All vest functionality remains the same as per the original contract. All existing streams are remaining the same, but the new streams are from a new contract.
 
