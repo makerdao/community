@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit Budget Distributions - April 29, 2022
 summary: Core Unit Budget Distributions for PE-001, COM-001, DIN-001, EVENTS-001, and SH-001.
 date: 2022-04-29T00:00:00.000Z
-address: "$spell_address"
+address: "0xD8E6fBb43354dd6637561208eF5Db1a62e6408DC"
 
 ---
 # [Executive Proposal] Core Unit Budget Distributions - April 29, 2022
