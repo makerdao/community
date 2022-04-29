@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- A total of 1,057,908 DAI (itemized further down) will be transferred to multiple Core Units.
+- A total of 1,057,918 DAI (itemized further down) will be transferred to multiple Core Units.
 - A total of 9,758,130 DAI (itemized further down) will be streamed to multiple Core Units.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
