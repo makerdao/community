@@ -34,7 +34,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Core Unit Budget Transfers
 
-As per multiple successful budget proposals (linked below), a total of **1,057,908 DAI** will be transferred to multiple Core Units if this executive proposal passes:
+As per multiple successful budget proposals (linked below), a total of **1,057,918 DAI** will be transferred to multiple Core Units if this executive proposal passes:
 
 - **800,000 DAI** will be transferred to the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7) at [0xe2c16c308b843eD02B09156388Cb240cEd58C01c](https://etherscan.io/address/0xe2c16c308b843eD02B09156388Cb240cEd58C01c) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmWphKJY#poll-detail).
 - **73,226 DAI** (itemized below) will be transferred to the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP30) as a result of [their most recent budget approval](https://vote.makerdao.com/polling/QmWQBUi6#poll-detail).
