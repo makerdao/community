@@ -6,6 +6,7 @@ vote_type: Plurality Voting
 categories:
    - Collateral
    - Greenlight
+   - Medium Impact
 options:
    0: Abstain
    1: Yes (Greenlight)
