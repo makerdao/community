@@ -27,7 +27,7 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 This poll asks whether the asset ATDC (ATD Combustors) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
-Please review the collateral onboarding application [thread](May 2, 2022) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-emerging-markets-green-opportunity-financing-for-atd-combustors-egyptian-power-plant-efficiency-projects/14489) to inform your position before voting.
 
 ## Outcomes
 
