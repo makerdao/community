@@ -33,7 +33,7 @@ Please review the collateral onboarding application [thread](https://forum.maker
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
 * The 'greenlight score' will be calculated for ATDC (ATD Combustors) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for ATDC (ATD Combustors) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit.
+* The 'greenlight score' for ATDC (ATD Combustors) will be added to the [Collateral Status Index (CSI)](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
 
 ---
