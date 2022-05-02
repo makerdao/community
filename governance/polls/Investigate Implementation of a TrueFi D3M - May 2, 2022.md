@@ -31,7 +31,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* A TrueFi D3M will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit.
+* A TrueFi D3M will be added to the [Collateral Status Index (CSI)](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
 * This TrueFi D3M will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
 * The Core Units and Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new vault-types.
 
