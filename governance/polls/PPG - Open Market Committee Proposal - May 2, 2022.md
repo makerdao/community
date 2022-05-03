@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes: 
 
-- Lower the WBTC-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 3.5% to **2.25%**.
+- Lower the WBTC-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 3.25% to **2.25%**.
 - Lower the WBTC-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 4.5% to **4.0%**.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863) to help inform your position before voting.
