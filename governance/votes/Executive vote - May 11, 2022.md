@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - A total of **79,647 DAI** will be distributed to ten Recognized Delegates, as detailed below.
-- The [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be lowered on WBTC-A and WBTC-B Vault Types based on the recomendation of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), as detailed below.
+- The [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be lowered on WBTC-A and WBTC-B Vault Types based on the recommendation of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - wstETH-B (Wrapped Lido Staked ETH) will be onboarded to the protocol with the initial parameters detailed below.
