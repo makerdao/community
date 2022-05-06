@@ -49,7 +49,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 * 351 DAI transferred to [Doo](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 * 265 DAI transfered to [Flipside Crypto](https://vote.makerdao.com/address/0x84b05b0a30b6ae620f393d1037f217e607ad1b96) at [0x62a43123FE71f9764f26554b3F5017627996816a](https://etherscan.io/address/0x62a43123FE71f9764f26554b3F5017627996816a).
 
-### Lower WBTC-A and WBTC-B Stability Fee
+### Lower WBTC-A and WBTC-B Stability Fees
 
 As per this [governance poll](https://vote.makerdao.com/polling/QmTmehbz#poll-detail) on the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), the following [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes will be made in the Maker Protocol if this executive proposal passes:
 
