@@ -62,7 +62,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmaE5doB#poll-de
 
 *Note that this proposed Vault Type was previously discussed as wstETH-C, however, if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequential naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).*
 
-### Initial Vault Parameters
+#### Initial Vault Parameters
 
 * Underlying Collateral: wstETH (Wrapped Lido Staked ETH)
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0.75%
@@ -72,7 +72,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmaE5doB#poll-de
 * [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): 15 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): 8 hours
 
-### Liquidation Parameters
+#### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function): Exponential Stair Step
 * [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 0.99
@@ -80,14 +80,14 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmaE5doB#poll-de
 * [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier): 1.2
 * [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): 13%
 
-**Limits**
+#### Limits
 
 * [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit): 10 million DAI
 * [Maximum Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown): 0.4
 * [Maximum Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration): 140 minutes
 * [Breaker Price Tolerance (`tolerance`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-breaker-price-tolerance): 0.5
 
-**Incentives**
+#### Incentives
 
 * [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%
 * [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 300 DAI
