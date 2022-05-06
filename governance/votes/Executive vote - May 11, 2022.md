@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] $executive_title - May 11, 2022
-summary: $summary
+title: Template - [Executive Vote] Recognized Delegate Payments, Lowering WBTC Stability Fees, and Onboarding wstETH-B - May 11, 2022
+summary: Distributing 79,647 DAI to Recognized Delegates, Lowering WBTC-A and WBTC-B Stability Fees, and onboarding wstETH-B (Wrapped Lido Staked ETH).
 date: 2022-05-11T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] $executive_title - May 11, 2022
+# [Executive Proposal] Recognized Delegate Payments, Lowering WBTC Stability Fees, and Onboarding wstETH-B - May 11, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -20,7 +20,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be lowered on WBTC-A and WBTC-B Vault Types based on the recomendation of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- wstETH-B will be onboarded to the protocol with the initial parameters detailed below.
+- wstETH-B (Wrapped Lido Staked ETH) will be onboarded to the protocol with the initial parameters detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
