@@ -46,7 +46,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 * 8,626 DAI transferred to [monetsupply](https://vote.makerdao.com/address/0x45127ec92b58c3a89e89f63553073adcaf2f1f5f) at [0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF](https://etherscan.io/address/0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF).
 * 7,522 DAI transferred to [JustinCase](https://vote.makerdao.com/address/0xcdb792c14391f7115ba77a7cd27f724fc9ea2091) at [0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473](https://etherscan.io/address/0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473).
 * 6,607 DAI transferred to [GFX Labs](https://vote.makerdao.com/address/0xf60d7a62c98f65480725255e831de531efe3fe14) at [0xa6e8772af29b29B9202a073f8E36f447689BEef6](https://etherscan.io/address/0xa6e8772af29b29B9202a073f8E36f447689BEef6).
-* 351 DAI transferred to [Doo](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b#delegate-credentials) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
+* 351 DAI transferred to [Doo](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 * 265 DAI transfered to [Flipside Crypto](https://vote.makerdao.com/address/0x84b05b0a30b6ae620f393d1037f217e607ad1b96) at [0x62a43123FE71f9764f26554b3F5017627996816a](https://etherscan.io/address/0x62a43123FE71f9764f26554b3F5017627996816a).
 
 ### Lower WBTC-A and WBTC-B Stability Fee
