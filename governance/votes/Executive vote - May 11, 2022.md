@@ -60,7 +60,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmTmehbz#poll-de
 
 As per this [governance poll](https://vote.makerdao.com/polling/QmaE5doB#poll-detail), following this [recomendation](https://forum.makerdao.com/t/introduction-risk-parameters-for-wsteth-c-vault/14669) from the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2), wstETH-B will be onboarded to the Maker Protocol with the following parameters, if this executive proposal passes: 
 
-*Note that this proposed vault type was previously discussed as wstETH-C, however, if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequential naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).*
+*Note that this proposed Vault Type was previously discussed as wstETH-C, however, if it is voted to be added to the Maker Protocol it will be added under the wstETH-B ilk name to maintain sequential naming conventions as discussed [here](https://forum.makerdao.com/t/ilk-names-versus-display-names-for-vault-types/14759).*
 
 ### Initial Vault Parameters
 
