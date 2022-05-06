@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Monetalis Lusitano: UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022
-summary:MIP68 is a self-contained collateral onboarding MIP that will onboard and activate a RWA vault backed by the assets of a trust arranged by Monetalis.
+summary: MIP68 is a self-contained collateral onboarding MIP that will onboard and activate a RWA vault backed by the assets of a trust arranged by Monetalis.
 discussion_link: https://forum.makerdao.com/t/mip68-monetalis-lusitano-uk-green-economy-sme-wholesale-lending/13789
 vote_type: Plurality Voting
 categories:
