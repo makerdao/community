@@ -51,7 +51,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 
 ### Lower WBTC-A and WBTC-B Stability Fee
 
-As per this [governance poll](https://vote.makerdao.com/polling/QmTmehbz#poll-detail) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863), the following [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes will be made in the Maker Protocol if this executive proposal passes:
+As per this [governance poll](https://vote.makerdao.com/polling/QmTmehbz#poll-detail) on the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), the following [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes will be made in the Maker Protocol if this executive proposal passes:
 
 * Lower the WBTC-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 3.25% to **2.25%**.
 * Lower the WBTC-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 4.5% to **4.0%**.
