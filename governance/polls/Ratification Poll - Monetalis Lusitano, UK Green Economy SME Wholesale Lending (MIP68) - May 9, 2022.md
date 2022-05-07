@@ -1,10 +1,11 @@
 ---
-title: Ratification Poll for Monetalis Lusitano: UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022
+title: Ratification Poll for Monetalis Lusitano, UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022
 summary: MIP68 is a self-contained collateral onboarding MIP that will onboard and activate a RWA vault backed by the assets of a trust arranged by Monetalis.
 discussion_link: https://forum.makerdao.com/t/mip68-monetalis-lusitano-uk-green-economy-sme-wholesale-lending/13789
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 start_date: 2022-05-09T16:00:00
 end_date: 2022-05-23T16:00:00
 ---
-# Ratification Poll for Monetalis Lusitano: UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022
+# Ratification Poll for Monetalis Lusitano, UK Green Economy SME Wholesale Lending (MIP68) - May 9, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9 at 16:00 UTC.
 

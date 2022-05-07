@@ -1,10 +1,12 @@
 ---
-title: Ratification Poll for MIP69: L2-to-L1 Fast Withdrawals - May 9, 2022.
+title: Ratification Poll for L2-to-L1 Fast Withdrawals (MIP69) - May 9, 2022
 summary: This MIP formalises technical work completed to deliver Fast Withdrawals on Layer2.
-discussion_link: https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041
+discussion_link: https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041 
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - High Impact
+   - Technical
 options:
    0: Abstain
    1: Yes
@@ -12,7 +14,7 @@ options:
 start_date: 2022-05-09T16:00:00
 end_date: 2022-05-23T16:00:00
 ---
-# Ratification Poll for MIP69: L2-to-L1 Fast Withdrawals - May 9, 2022.
+# Ratification Poll for L2-to-L1 Fast Withdrawals (MIP69) - May 9, 2022.
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9 at 16:00 UTC.
 

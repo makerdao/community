@@ -1,10 +1,11 @@
 ---
-title: Ratification Poll for MIP4c2-SP-19: MIP40 Budget Process Amendment - May 9, 2022.
-summary: This MIP4 revises MIP40 as well as related subcomponents MIP40c1, MIP40c2, MIP40c3 and MIP40c4
-discussion_link: https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250
+title: Ratification Poll for Monetalis Clydesdale, Liquid Bond Strategy & Execution (MIP65) - May 9, 2022
+summary: MIP65 will onboard and activate a RWA vault for the purpose of acquiring USDC via PSM and investing them in high quality liquid bond strategies held by a trust arranged and maintained by Monetalis.
+discussion_link: https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -12,34 +13,34 @@ options:
 start_date: 2022-05-09T16:00:00
 end_date: 2022-05-23T16:00:00
 ---
-# Ratification Poll for MIP4c2-SP-19: MIP40 Budget Process Amendment - May 9, 2022.
+# Ratification Poll for Monetalis Clydesdale, Liquid Bond Strategy & Execution (MIP65) - May 9, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9, 2022 at 16:00 UTC.
 
-**This is a binary vote.**
-- **You may vote for a single option.**
+**This is a binary vote.** 
+- **You may vote for a single option.** 
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP4c2-SP19 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP65 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*For the DAO to grow long-term, it is critical that MKR holders be able to evaluate and compare Budget Proposals with minimum cognitive overhead. Within this revised MIP, Core Units and proposed Core Units are required to submit standardized, transparent, and clear financial information. Budget Proposals must clearly serve a revenue-driving or supporting business purpose in line with the Objectives of the DAO.*
+*MIP65 onboards a RWA vault that will acquire USDC via the PSM and invest them in approved bond strategies. This MIP, importantly, also set out strict conditions for the setup of the underlying legal and governance structure and verification requirements.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/10107dc57c8a4af2137679ef03343736aea5fb69)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP19)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1283453e921eb70443e02d2e5a528a661730b4c2/MIP65/mip65.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP65)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, May 26.
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, May 26. 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

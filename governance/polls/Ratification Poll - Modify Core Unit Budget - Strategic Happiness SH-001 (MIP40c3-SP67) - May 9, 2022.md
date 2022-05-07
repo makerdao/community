@@ -1,10 +1,11 @@
 ---
-title: Ratification Poll for MIP40c3-SP67: Modify Core Unit Budget - Strategic Happiness (SH-001) - May 9, 2022
+title: Ratification Poll for Strategic Happiness (SH-001) Core Unit Budget Modification (MIP40c3-SP67) - May 9, 2022
 summary: MIP40c3-SP67 updates the budget to expand the Strategic Happiness Core Unit, SH-001.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -12,7 +13,7 @@ options:
 start_date: 2022-05-09T16:00:00
 end_date: 2022-05-23T16:00:00
 ---
-# Ratification Poll for MIP40c3-SP67: Modify Core Unit Budget - Strategic Happiness (SH-001) - May 9, 2022
+# Ratification Poll for Strategic Happiness (SH-001) Core Unit Budget Modification (MIP40c3-SP67) - May 9, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9 at 16:00 UTC.
 
