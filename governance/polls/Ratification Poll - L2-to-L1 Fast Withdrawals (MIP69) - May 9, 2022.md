@@ -34,7 +34,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 This MIP focuses on the above L2-to-L1 transaction. L2-to-L2 transactions will be defined in a future MIP when the full Wormhole functionality is ready to be launched.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/c31ce43bc588915c2b5495ffd3a12140e9ab047c)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c31ce43bc588915c2b5495ffd3a12140e9ab047c/MIP69/MIP69.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP69)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041)
 

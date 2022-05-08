@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP40c3-SP67 updates the budget to expand the Strategic Happiness Core Unit, SH-001. It proposes an updated budget breakdown for DAI and MKR. In total, 770,000 DAI is requested (230,000 DAI up-front). Additionally, a 250 MKR vest is requested, streamed over 4 years with an 18-month cliff. A pro-rated offboarding term is also proposed for 2 months of funding if, after funding this Core Unit until March 15, 2023, the community decides not to renew a further budget.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/fa112c44593834f2193ba7f192fc49297735e97e)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fa112c44593834f2193ba7f192fc49297735e97e/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP67)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805)
 

@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for MIP40 Budget Process Amendment (MIP4c2-SP-19) - May 9, 2022
+title: Ratification Poll for MIP40 Budget Process Amendment (MIP4c2-SP19) - May 9, 2022
 summary: This MIP4 revises MIP40 as well as related subcomponents MIP40c1, MIP40c2, MIP40c3 and MIP40c4
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250
 vote_type: Plurality Voting
@@ -13,7 +13,7 @@ options:
 start_date: 2022-05-09T16:00:00
 end_date: 2022-05-23T16:00:00
 ---
-# Ratification Poll for MIP40 Budget Process Amendment (MIP4c2-SP-19) - May 9, 2022.
+# Ratification Poll for MIP40 Budget Process Amendment (MIP4c2-SP19) - May 9, 2022.
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 9 at 16:00 UTC.
 
@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *For the DAO to grow long-term, it is critical that MKR holders be able to evaluate and compare Budget Proposals with minimum cognitive overhead. Within this revised MIP, Core Units and proposed Core Units are required to submit standardized, transparent, and clear financial information. Budget Proposals must clearly serve a revenue-driving or supporting business purpose in line with the Objectives of the DAO.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/10107dc57c8a4af2137679ef03343736aea5fb69)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/10107dc57c8a4af2137679ef03343736aea5fb69/MIP4/MIP4c2-Subproposals/MIP4c2-SP19.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP19)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250)
 
