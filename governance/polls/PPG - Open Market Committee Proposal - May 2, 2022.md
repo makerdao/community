@@ -1,20 +1,22 @@
 ---
-title: Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to adjusting the $protocol_name DAI Direct Deposit Module (D3M) parameters.
-discussion_link: $discussion_link
+title: PPG - Open Market Committee Proposal - May 2, 2022
+summary: Signal your support or opposition to lowering stability fees on WBTC-A and WBTC-B based on the recommendation of the Maker Open Market Committee.
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - Rates
+   - Medium Impact
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-05-02T16:00:00
+end_date: 2022-05-05T16:00:00
 ---
-# Poll: Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY
+# Poll: Rates Proposal - May 2, 2022
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the $protocol_name Direct Deposit DAI Module (D3M) with the listed parameters. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 2 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -23,14 +25,12 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to making the following parameter changes to the $protocol_name DAI Direct Deposit Module (D3M):
-* $IncreaseDecrease the DIRECT-$protocol_name-DAI [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from $current_line to $new_line.
-* $IncreaseDecrease the DIRECT-$protocol_name-DAI [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from $current_gap to $new_gap.
-* $IncreaseDecrease the DIRECT-$protocol_name-DAI Target Borrow Rate (`bar`) from %current_bar to $new_bar.
+MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes: 
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+- Lower the WBTC-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 3.25% to **2.25%**.
+- Lower the WBTC-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 4.5% to **4.0%**.
 
-For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
+Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-april-2022/14863) to help inform your position before voting.
 
 ## Outcomes
 

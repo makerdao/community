@@ -23,7 +23,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the $ilk_name [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the $ilk_name [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling):
 * $IncreaseDecrease from $current_ceiling million DAI to $new_ceiling million DAI.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
@@ -31,8 +31,9 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
+* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
@@ -40,7 +41,7 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 
 ## Resources
 
-Unsure about the Debt Ceiling parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling).
+Unsure about the Debt Ceiling parameter and what you should take into account when voting? Check out the parameter documentation [here](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
