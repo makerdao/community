@@ -6,6 +6,7 @@ vote_type: Plurality Voting
 categories:
    - Collateral
    - Greenlight
+   - Medium Impact
 options:
    0: Abstain
    1: Yes (Greenlight)
@@ -15,7 +16,7 @@ end_date: 2002-05-30T16:00:00
 ---
 # Poll: Community Greenlight Poll - FEI (Fei USD) - May 16, 2022
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, May 16, at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday May 16, at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -32,8 +33,8 @@ Please review the collateral onboarding application [thread](https://forum.maker
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
 * The 'greenlight score' will be calculated for FEI (Fei USD) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for FEI (Fei USD) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit.
-* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+* The 'greenlight score' for FEI (Fei USD) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
+* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Status Index to direct their work on onboarding new collateral types.
 
 ---
 
