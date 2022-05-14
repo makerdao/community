@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Adding and Authorizing DssCure and Related Modifications, MKR Vesting - May 13, 2022
-summary: Adding and Authorizing DssCure and related modifications; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
-date: 2022-05-13T00:00:00.000Z
+title: Template - [Executive Vote] Foundational L2 Work, MKR Vesting - May 13, 2022
+summary: Foundational L2 Work; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
+date: 2022-05-18T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] Adding and Authorizing DssCure and Related Modifications, MKR Vesting - May 13, 2022
+# [Executive Vote] Foundational L2 Work, MKR Vesting - May 13, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,9 +18,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - 541.47 MKR will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below.
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
+If this executive proposal passes, the following **additions** will be made to the Maker Protocol as part of the ongoing Foundational L2 Work:
 - A new `DssCure` module will be added and authorized.
-- `MCD_END` will be replaced.
+- `MCD_END` (responsible for Emergency Shutdown logic) will be replaced.
 - The existing ESM contract will point to the new `END`.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -35,28 +35,26 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Core Unit MKR Vesting Streams
 
-As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP17), a total of **541.47 MKR** will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) at [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](http://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) (SES-001's Auditor Wallet).
+As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP17), a total of **541.47 MKR** will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) at [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](http://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) (SES-001's Auditor Wallet) if this executive proposal passes.
 
-### Addition of the `DssCure` Module and Related Modifications
+### Foundational L2 Work
 
 #### Context
 
 The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) initiative, [previously known as Maker Wormhole](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115), will be bringing canonical DAI capability onto L2 domains. As part of this development it is necessary to introduce a new module called `DssCure` and update the existing `End` module to interact with it.
 
-#### What It Is
+#### The ´DssCure´ Module
 
 In the event of an [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown), the `DssCure` module ensures a fair distribution to DAI holders by calculating how much debt needs to be reduced where there is pre-minted, unused DAI sitting in the `Vat`. Discounting these pre-minted, out-of-circulation DAI is is necessary for the correct calculation of the outstanding DAI---otherwise, the artificial, increased debt resulting from factoring in the pre-minted DAI will result in DAI holders receiving less collateral than they are entitled to.
 
 `DssCure` sits between the `Vat` and `End` so that `End` receives the correct amount of debt.
 
-More generally, `DssCure` has the capability to add or remove sources from circulation.
-
-For more details, please read [this forum post by the Protocol Engineering Core Unit (PE-001)]().
-
-#### Additions and Modifications
-
-A new `DssCure` module will be added to the Maker Protocol. The `MCD_END` module will be replaced by a new version that interacts with `DssCure`.
+The following additions and changes will take place if this executive proposal passes:
+- A new `DssCure` module will be added to the Maker Protocol.
+- The `MCD_END` module will be replaced by a new version that interacts with `DssCure`.
 - The existing ESM contract will be made to point to the new `MCD_END`.
+
+For more details, please read [this forum post by the Protocol Engineering Core Unit (PE-001)](https://forum.makerdao.com/t/wednesday-18th-may-executive-dsscure-technical-enhancement/15175).
 
 ## Review
 
