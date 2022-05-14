@@ -1,6 +1,6 @@
 ---
-title: Adjust the Lid Parameter on the Rate Limited Flapper, May 16, 2022
-summary: Signal your support or opposition to Adjust the Lid Parameter on the Rate Limited Flapper
+title: Adjust the lid Parameter on the Rate Limited Flapper - May 16, 2022
+summary: Signal your support or opposition to Adjust the lid Parameter on the Rate Limited Flapper
 discussion_link: https://forum.makerdao.com/t/signal-request-change-lid-parameter-on-the-rate-limiter/14688
 vote_type: Plurality Voting
 categories:
@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-05-16T:00:00
-end_date: 2022-05-19T:00:00
+start_date: 2022-05-16T16:00:00
+end_date: 2022-05-19T16:00:00
 ---
 # Poll:Adjust the lid Parameter on the Rate Limited Flapper - May 16, 2022
 
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes: 
+The community can vote in this poll to express support or opposition to the following change: 
 
 * Adjust the lid parameter from 150,000 DAI to 30,000 DAI limiting the amount of parallel flap auctions to one.
 
@@ -39,7 +39,7 @@ For additional information on the parameters please click [here](https://forum.m
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows. 
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
