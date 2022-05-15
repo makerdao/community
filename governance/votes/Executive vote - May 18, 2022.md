@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Foundational L2 Work, MKR Vesting - May 13, 2022
+title: Template - [Executive Vote] Foundational L2 Work, MKR Vesting - May 18, 2022
 summary: Foundational L2 Work; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
 date: 2022-05-18T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] Foundational L2 Work, MKR Vesting - May 13, 2022
+# [Executive Vote] Foundational L2 Work, MKR Vesting - May 18, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -45,7 +45,7 @@ The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/115
 
 #### The ´DssCure´ Module
 
-In the event of an [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown), the `DssCure` module ensures a fair distribution to DAI holders by calculating how much debt needs to be reduced where there is pre-minted, unused DAI sitting in the `Vat`. Discounting these pre-minted, out-of-circulation DAI is is necessary for the correct calculation of the outstanding DAI---otherwise, the artificial, increased debt resulting from factoring in the pre-minted DAI will result in DAI holders receiving less collateral than they are entitled to.
+In the event of an [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown), the `DssCure` module ensures a fair distribution to DAI holders by calculating how much debt needs to be reduced where there is pre-minted, unused DAI sitting in the `Vat`. Discounting these pre-minted, out-of-circulation DAI is necessary for the correct calculation of the outstanding DAI---otherwise, the artificial, increased debt resulting from factoring in the pre-minted DAI will result in DAI holders receiving less collateral than they are entitled to.
 
 `DssCure` sits between the `Vat` and `End` so that `End` receives the correct amount of debt.
 
