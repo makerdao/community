@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Foundational L2 Work, MKR Vesting - May 18, 2022
-summary: Foundational L2 Work; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
+title: Template - [Executive Vote] Foundational L2 Work, Authorize New Flash Mint Module, MKR Vesting - May 18, 2022
+summary: Foundational L2 Work; Authorize New Flash Mint Module; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
 date: 2022-05-18T00:00:00.000Z
 address: "$spell_address"
 
@@ -18,10 +18,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - 541.47 MKR will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below.
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol as part of the ongoing Foundational L2 Work:
-- A new `DssCure` module will be added and authorized.
-- `MCD_END` (responsible for Emergency Shutdown logic) will be replaced.
-- The existing ESM contract will point to the new `END`.
+If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
+- (Foundational L2) A new `DssCure` module will be added and authorized.
+- (Foundational L2) `MCD_END` (responsible for Emergency Shutdown logic) will be replaced.
+- (Foundational L2) The existing ESM contract will point to the new `END`.
+- A new Flash Mint Module will be added and authorized.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -39,11 +40,7 @@ As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/det
 
 ### Foundational L2 Work
 
-#### Context
-
-The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) initiative, [previously known as Maker Wormhole](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115), will be bringing canonical DAI capability onto L2 domains. As part of this development it is necessary to introduce a new module called `DssCure` and update the existing `End` module to interact with it.
-
-#### The ´DssCure´ Module
+The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) initiative, [previously known as Maker Wormhole](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115), will be bringing canonical DAI capability onto L2 domains. As part of this development, it is necessary to introduce a new module called `DssCure` and update the existing `End` module to interact with it.
 
 In the event of an [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown), the `DssCure` module ensures a fair distribution to DAI holders by calculating how much debt needs to be reduced where there is pre-minted, unused DAI sitting in the `Vat`. Discounting these pre-minted, out-of-circulation DAI is necessary for the correct calculation of the outstanding DAI---otherwise, the artificial, increased debt resulting from factoring in the pre-minted DAI will result in DAI holders receiving less collateral than they are entitled to.
 
@@ -55,6 +52,14 @@ The following additions and changes will take place if this executive proposal p
 - The existing ESM contract will be made to point to the new `MCD_END`.
 
 For more details, please read [this forum post by the Protocol Engineering Core Unit (PE-001)](https://forum.makerdao.com/t/wednesday-18th-may-executive-dsscure-technical-enhancement/15175).
+
+### New [Flash Mint Module](https://manual.makerdao.com/module-index/module-flash-mint-module)
+
+As described in this [forum post](https://forum.makerdao.com/t/wednesday-18th-may-executive-flash-mint-module-technical-enhancement/15176) if this executive proposal passes the following changes will occur:
+* A new Flash Mint Module will be deployed and authorized.
+* The new module will have no fee parameter and charge no fee in order to save on gas.
+* The Debt Ceiling will be set to 250M on the new module and reduced to 250M on the existing module to maintain 500M total.
+* Both modules will be available in the chainlog as MCD_FLASH_LEGACY and MCD_FLASH.
 
 ## Review
 
