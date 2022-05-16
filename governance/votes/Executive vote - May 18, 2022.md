@@ -19,7 +19,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - 541.47 MKR will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- (Foundational L2) A new `DssCure` module will be added and authorized.
+- (Foundational L2) A new `DssCure` module will be added and authorized as `MCD_CURE`.
 - (Foundational L2) `MCD_END` (responsible for Emergency Shutdown logic) will be replaced.
 - (Foundational L2) The existing ESM contract will point to the new `END`.
 - A new Flash Mint Module will be added and authorized.
@@ -34,22 +34,18 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Core Unit MKR Vesting Streams
+### Core Unit MKR Vesting Transfer
 
-As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP17), a total of **541.47 MKR** will be distributed to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) at [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](http://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) (SES-001's Auditor Wallet) if this executive proposal passes.
+As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP17), a total of **541.47 MKR** will be transferred to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) at [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](http://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) (SES-001's Auditor Wallet) if this executive proposal passes.
 
 ### Foundational L2 Work
 
-The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) initiative, [previously known as Maker Wormhole](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115), will be bringing canonical DAI capability onto L2 domains. As part of this development, it is necessary to introduce a new module called `DssCure` and update the existing `End` module to interact with it.
-
-In the event of an [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown), the `DssCure` module ensures a fair distribution to DAI holders by calculating how much debt needs to be reduced where there is pre-minted, unused DAI sitting in the `Vat`. Discounting these pre-minted, out-of-circulation DAI is necessary for the correct calculation of the outstanding DAI---otherwise, the artificial, increased debt resulting from factoring in the pre-minted DAI will result in DAI holders receiving less collateral than they are entitled to.
-
-`DssCure` sits between the `Vat` and `End` so that `End` receives the correct amount of debt.
+The [Maker Teleport](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) initiative, [previously known as Maker Wormhole](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115), will be bringing canonical DAI capability onto L2 domains. As part of this development and to support L2->L1 fast-withdrawal functionality, it is necessary to introduce a new module called `DssCure` and update the existing `MCD_END` module to interact with it.
 
 The following additions and changes will take place if this executive proposal passes:
-- A new `DssCure` module will be added to the Maker Protocol.
-- The `MCD_END` module will be replaced by a new version that interacts with `DssCure`.
-- The existing ESM contract will be made to point to the new `MCD_END`.
+- A new `DssCure` module will be added to the Maker Protocol as `MCD_CURE` in the chainlog.
+- The `MCD_END` module will be replaced by a new version that interacts with `MCD_CURE`.
+- The existing ESM contract `MCD_ESM` will be made to point to the new `MCD_END`.
 
 For more details, please read [this forum post by the Protocol Engineering Core Unit (PE-001)](https://forum.makerdao.com/t/wednesday-18th-may-executive-dsscure-technical-enhancement/15175).
 
@@ -60,6 +56,7 @@ As described in this [forum post](https://forum.makerdao.com/t/wednesday-18th-ma
 * The new module will have no fee parameter and charge no fee in order to save on gas.
 * The Debt Ceiling will be set to 250M on the new module and reduced to 250M on the existing module to maintain 500M total.
 * Both modules will be available in the chainlog as MCD_FLASH_LEGACY and MCD_FLASH.
+* The intention is to remove the MCD_FLASH_LEGACY contract in a future executive proposal once usage has shifted to the new version.
 
 ## Review
 
