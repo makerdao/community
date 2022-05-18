@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Foundational L2 Work, Authorize New Flash Mint Module, MKR Vesting - May 18, 2022
 summary: Foundational L2 Work; Authorize New Flash Mint Module; MKR Vesting for the Sustainable Ecosystem Scaling Core Unit (SES-001).
 date: 2022-05-18T00:00:00.000Z
-address: "$spell_address"
+address: "0x6febea3673AdF3925A01a61E46924B5b67A69Ec3"
 
 ---
 # [Executive Vote] Foundational L2 Work, MKR Vesting - May 18, 2022
