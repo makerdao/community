@@ -32,8 +32,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
-* The Mandated Actors will investigate a plan to offboard the above vault types from the Maker Protocol. 
-* A future on-chain poll will ask the community to implement a specific proposal from the Mandated Actors.
+* The relevant Core Units will investigate options for deploying a portion of the MakerDAO balance sheet in ETH.
+* Future on-chain polls will ask the community to support specific proposals.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
