@@ -25,7 +25,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to the following change:
 * Launch Maker Teleport with 1 basis point fee (0,01%)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) to help inform your position before voting.
@@ -35,7 +35,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Friday executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* If the executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
