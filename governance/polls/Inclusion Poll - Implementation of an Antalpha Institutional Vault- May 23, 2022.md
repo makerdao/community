@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-antalpha-institutio
 vote_type: Plurality Voting
 categories:
    - Collateral
-   - Medium-Impact
+   - Medium Impact
 options:
    0: Abstain
    1: Yes (Greenlight)
