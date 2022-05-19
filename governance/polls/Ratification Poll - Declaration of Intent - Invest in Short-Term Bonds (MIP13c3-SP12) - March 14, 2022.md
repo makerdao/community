@@ -5,7 +5,6 @@ discussion_link: https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent
 vote_type: Plurality Voting
 categories:
    - MIPs
-   - Impact-Medium
 options:
    0: Abstain
    1: Yes

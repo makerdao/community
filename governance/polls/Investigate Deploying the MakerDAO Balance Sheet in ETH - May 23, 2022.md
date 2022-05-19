@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-deploy-the-balance-
 vote_type: Plurality Voting
 categories:
    - Collateral
-   - Impact-Medium
+   - Medium-Impact
 options:
    0: Abstain
    1: Yes (Greenlight)

@@ -1,10 +1,11 @@
 ---
-title: Investigate Implementation of an Antalpha Institutional Vault - May 23, 2022
+title: Inclusion Poll - Implementation of an Antalpha Institutional Vault - May 23, 2022
 summary: Signal your support or opposition to prioritizing the onboarding of an Antalpha Institutional Vault
 discussion_link: https://forum.makerdao.com/t/signal-request-antalpha-institutional-vault/15030
 vote_type: Plurality Voting
 categories:
    - Collateral
+   - Medium-Impact
 options:
    0: Abstain
    1: Yes (Greenlight)
@@ -12,7 +13,7 @@ options:
 start_date: 2022-05-23T16:00:00
 end_date: 2022-05-26T16:00:00
 ---
-# Poll: Investigate Implementation of an Antalpha Institutional Vault - May 23, 2022
+# Poll: Inclusion Poll - Implementation of an Antalpha Institutional Vault - May 23, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning Monday, May 23 at 16:00 UTC.
 
