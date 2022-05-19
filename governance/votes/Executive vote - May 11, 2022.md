@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Recognized Delegate Payments, Lowering WBTC Stability Fees, and Onboarding wstETH-B - May 11, 2022
 summary: Distributing 79,647 DAI to Recognized Delegates, Lowering WBTC-A and WBTC-B Stability Fees, and Onboarding wstETH-B (Wrapped Lido Staked ETH).
 date: 2022-05-11T00:00:00.000Z
-address: "$spell_address"
+address: "0xfDb8135Dd29785dA7486a96974D3b6a687430821"
 
 ---
 # [Executive Proposal] Recognized Delegate Payments, Lowering WBTC Stability Fees, and Onboarding wstETH-B - May 11, 2022
