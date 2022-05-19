@@ -5,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-deploy-the-balance-
 vote_type: Plurality Voting
 categories:
    - Collateral
+   - Impact-Medium
 options:
    0: Abstain
    1: Yes (Greenlight)
@@ -25,11 +26,16 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 This poll asks whether deploying the MakerDAO Balance Sheet in ETH should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list). 
 
-Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-deploy-the-balance-sheet-in-eth/14834) to help inform your position before voting.
+
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-deploy-the-balance-sheet-in-eth/14834), including the [Towards taking asset risk](https://forum.makerdao.com/t/towards-taking-asset-risks-a-primer/14265) and [A balance sheet approach to an Aggressive Growth Strategy](https://forum.makerdao.com/t/a-balance-sheet-approach-to-executing-an-aggressive-growth-strategy-the-road-to-300m-revenues/14818) posts, to help inform your position before voting.
 
 ## Outcomes
 
- $TBD
+**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following action will be taken:**
+* The Mandated Actors will investigate a plan to offboard the above vault types from the Maker Protocol. 
+* A future on-chain poll will ask the community to implement a specific proposal from the Mandated Actors.
+
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
