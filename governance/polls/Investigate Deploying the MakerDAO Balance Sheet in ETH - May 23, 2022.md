@@ -8,8 +8,8 @@ categories:
    - Medium Impact
 options:
    0: Abstain
-   1: Yes (Greenlight)
-   2: No (Defer)
+   1: Yes
+   2: No
 start_date: 2022-05-23T16:00:00
 end_date: 2022-05-26T16:00:00
 ---
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether deploying the MakerDAO Balance Sheet in ETH should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list). 
+This poll asks whether deploying the MakerDAO Balance Sheet in ETH should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-deploy-the-balance-sheet-in-eth/14834), including the [Towards taking asset risk](https://forum.makerdao.com/t/towards-taking-asset-risks-a-primer/14265) and [A balance sheet approach to an Aggressive Growth Strategy](https://forum.makerdao.com/t/a-balance-sheet-approach-to-executing-an-aggressive-growth-strategy-the-road-to-300m-revenues/14818) posts, to help inform your position before voting.
