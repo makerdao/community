@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *Pairwyse is an active protocol and blueprint for creating bespoke fixed-rate DAI lending and investment Agreements on MakerDAO between borrowers and lenders. We wish to thank the Maker Community for its previous feedback concerning the negative impact of patents on open source projects and potential concentration risks posed by fixed-rate innovations currently incubating in the Maker ecosystem. In posting this MIP, we wish to directly address these shared concerns with a fresh proposal we feel is favorable for MakerDAO, its contributors, its users and all current and future DeFi innovators throughout the collective ecosystem.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/2e55a730e76594880d6f4b69104b0816e7b5720b)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/2e55a730e76594880d6f4b69104b0816e7b5720b/MIP66/MIP66.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP66)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554)
 
