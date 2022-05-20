@@ -33,13 +33,14 @@ The proposed parameters for the $ilk Debt Ceiling Instant Access Module are:
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
-For more information regarding the Debt Ceiling Instant Access Module and how these parameters interact, check out the module documentation [here](https://community-development.makerdao.com/en/learn/governance/module-dciam).
+For more information regarding the Debt Ceiling Instant Access Module and how these parameters interact, check out the module documentation [here](https://manual.makerdao.com/module-index/module-dciam).
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in the weekly Executive Vote following the conclusion of this poll.
-* If the executive passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay?q=gsm) has expired.
+* These parameter changes will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
+* If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

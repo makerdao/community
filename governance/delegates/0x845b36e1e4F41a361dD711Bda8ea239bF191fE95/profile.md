@@ -9,7 +9,7 @@ external_profile_url: https://twitter.com/iamTWB_
 
 Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)  
 Forum: **@twblack88**  
-Email (optional): [timothy.william.black@gmail.com](mailto:timothy.william.black+delegate@gmail.com)
+Email (optional): [governance@feedblackloops.com](mailto:governance@feedblackloops.com)
 
 ## Values
 
@@ -47,8 +47,6 @@ Conversely, if you blend my optimism and startup experience into a bit of a para
 
 #### Aligned incentives > conflict of interest
 
-Interestingly, I don’t have any conflicts of interest; I actually have aligned incentives instead. :smile:
+Interestingly, I don’t have any conflicts of interest; I  align incentives instead. :smile:. I always try to keep any full time employment focused, relevant, and adjacent to Maker. This focuses my full attention on participating here while leveraging collaborative opportunities.
 
-At my [day job at Rabbit hole](https://twitter.com/iamTWB_/status/1404576140585361413?s=20) we're building an on-chain resume, and part of that is learning and trying to scale the delegates' experience on-chain. Dogfooding this opportunity and attempting templatization for the rest of the DeFi community is quite literally part of my role. This tends to be how it goes anyways; MakerDAO does a thing in an extremely robust way, the rest of DeFi borrows heavily. Let's go! :rocket:
-
-I read and agree to follow the [Delegate Code of Conduct. ](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
+I read and agree to follow the [Delegate Code of Conduct.](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)

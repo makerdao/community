@@ -28,11 +28,11 @@ The community can vote in this poll to express support or opposition to the onbo
 
 **Proposed $collateral PSM Parameters**
 
-* [Fee In](https://manual.makerdao.com/module-index/module-psm?q=gsm (`tin`): $tin
-* [Fee Out](https://manual.makerdao.com/module-index/module-psm?q=gsm (`tout`): $tout
-* [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam?q=gsm) (`line`): $line
-* [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam?q=gsm) (`gap`): $gap
-* [Ceiling Increase Cooldown](https://manual.makerdao.com/module-index/module-dciam?q=gsm) (`ttl`): $ttl
+* [Fee In](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) (`tin`): $tin
+* [Fee Out](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) (`tout`): $tout
+* [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) (`line`): $line
+* [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) (`gap`): $gap
+* [Ceiling Increase Cooldown](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) (`ttl`): $ttl
 
 Please review the following threads to help inform your position before voting:
 - [$first_thread]($first_thread_url)
@@ -44,7 +44,7 @@ Please review the following threads to help inform your position before voting:
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The $collateral PSM will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

@@ -13,5 +13,9 @@
   "Budget",
   "Core Unit",
   "Test",
-  "Offboard"
+  "Offboard",
+  "Bridge",
+  "High Impact",
+  "Medium Impact",
+  "Low Impact"
 ]
