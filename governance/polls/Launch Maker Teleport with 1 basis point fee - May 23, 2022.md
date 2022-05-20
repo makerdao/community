@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following change:
-* Launch Maker Teleport with 1 basis point fee (0,01%)
+* Launch Maker Teleport with a fee of 1 basis point (0.01%)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) to help inform your position before voting.
 
