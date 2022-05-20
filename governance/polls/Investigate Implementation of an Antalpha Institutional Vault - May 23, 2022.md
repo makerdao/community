@@ -1,5 +1,5 @@
 ---
-title: Inclusion Poll - Implementation of an Antalpha Institutional Vault - May 23, 2022
+title: Investigate Implementation of an Antalpha Institutional Vault - May 23, 2022
 summary: Signal your support or opposition to prioritizing the onboarding of an Antalpha Institutional Vault
 discussion_link: https://forum.makerdao.com/t/signal-request-antalpha-institutional-vault/15030
 vote_type: Plurality Voting
@@ -13,7 +13,7 @@ options:
 start_date: 2022-05-23T16:00:00
 end_date: 2022-05-26T16:00:00
 ---
-# Poll: Inclusion Poll - Implementation of an Antalpha Institutional Vault - May 23, 2022
+# Poll: Investigate Implementation of an Antalpha Institutional Vault - May 23, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning Monday, May 23 at 16:00 UTC.
 
@@ -31,7 +31,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* An Antalpha Institutional Vault vault-type will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit. 
+* An Antalpha Institutional Vault will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit. 
 * This Antalpha Institutional Vault will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
 * The Core Units and Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new vault-types.
 
