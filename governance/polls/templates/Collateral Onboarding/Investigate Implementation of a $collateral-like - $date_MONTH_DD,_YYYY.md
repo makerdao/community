@@ -30,9 +30,9 @@ Please review the discussion [thread]($proposal_thread) to help inform your posi
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* A $collateral-like vault-type will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Collateral Engineering Services Core Unit. 
+* A $collateral-like vault-type will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit. 
 * This $collateral-like will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The Core Units and Domain Teams will use the Collateral Prioritisation Sheet to direct their work on onboarding new vault-types.
+* The Core Units and Domain Teams will use the Collateral Status Index to direct their work on onboarding new vault-types.
 
 ---
 
