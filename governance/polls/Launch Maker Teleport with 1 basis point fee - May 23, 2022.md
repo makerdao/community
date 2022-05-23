@@ -30,6 +30,8 @@ The community can vote in this poll to express support or opposition to the foll
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) to help inform your position before voting.
 
+*Note that the "Maker Teleport" name is a rebranding from the Maker Wormhole, details on that name change can be found [here](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115).*
+
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
