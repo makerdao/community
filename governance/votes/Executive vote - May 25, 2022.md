@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The [Emergency Shutdown Module (ESM)](https://makerdao.world/en/learn/governance/emergency-shutdown) Minimum Threshold (`min`) will be increased from 100,000 MKR to **150,000 MKR**.
-- **599,6553 MKR** will be distributed to multiple Core Units, as detailed further down.
+- **599.6553 MKR** will be distributed to multiple Core Units, as detailed further down.
 - The `lid` parameter will be adjusted on the [Rate-limited Flapper](https://forum.makerdao.com/t/rate-limited-flapper/13056), as detailed further down.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -32,25 +32,29 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### ESM Minimum Threshold Increase
 
-As per [this Governance Poll](https://vote.makerdao.com/polling/QmQgab4a), the ESM Minimum Threshold (`min`) ---i.e., the minimum MKR amount required for triggering an [Emergency Shutdown](https://makerdao.world/en/learn/governance/emergency-shutdown)--- will be increased as follows if this executive proposal passes:
+As per [this Governance Poll](https://vote.makerdao.com/polling/QmQgab4a), the ESM Minimum Threshold (`min`) -i.e., the minimum MKR amount required for triggering an [Emergency Shutdown](https://makerdao.world/en/learn/governance/emergency-shutdown)- will be increased as follows if this executive proposal passes:
 
 - From 100,000 MKR to **150,000 MKR**.
+
+For further information, please read [the originating Signal Request](https://forum.makerdao.com/t/signal-request-increase-the-esm-minimum-threshold/15006).
 
 ### Core Unit MKR Vesting Transfers
 
 #### Development and UX Core Unit (DUX-001)
 
-As per their successful [MKR budget proposal](https://vote.makerdao.com/polling/QmSYLL9K), a total of 355.86 MKR will be transferred to the [Development and UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18) at [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad) if this executive proposal passes.
+As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP27), a total of 355.86 MKR will be transferred to the [Development and UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18) at [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad) if this executive proposal passes.
 
 #### Sidestream Auction Services Core Unit (SAS-001)
 
-As per their successful [MKR budget proposal](https://vote.makerdao.com/polling/QmPnAkS4), a total of 243.7953 MKR will be transferred to the [Sidestream Auction Services Core Unit (SAS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP25) at [0xb1f950a51516a697E103aaa69E152d839182f6Fe](https://etherscan.io/address/0xb1f950a51516a697E103aaa69E152d839182f6Fe) if this executive proposal passes.
+As per their successful [MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP44), a total of 243.7953 MKR will be transferred to the [Sidestream Auction Services Core Unit (SAS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP25) at [0xb1f950a51516a697E103aaa69E152d839182f6Fe](https://etherscan.io/address/0xb1f950a51516a697E103aaa69E152d839182f6Fe) if this executive proposal passes.
 
 ### `lid` Parameter Adjustment of the Rate-limited Flapper
 
 As per [this Governance Poll](https://vote.makerdao.com/polling/QmREdTJK), the `lid` parameter (which sets the total value of DAI allowed to be sent out to [surplus (flap) auctions](https://auctions.makerdao.com/flap) at once) will be adjusted as follows if this executive proposal passes:
 
-- From 150,000 MKR to **30,000 DAI**, effectively reducing the amount of parallel flap auctions from five to one.
+- From 150,000 DAI to **30,000 DAI**, effectively reducing the amount of parallel flap auctions from five to one.
+
+For further information please read [the originating Signal Request](https://forum.makerdao.com/t/signal-request-change-lid-parameter-on-the-rate-limiter/14688).
 
 ## Review
 
