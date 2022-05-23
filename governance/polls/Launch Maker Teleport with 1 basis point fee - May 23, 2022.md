@@ -1,5 +1,5 @@
 ---
-title: Launch Maker Teleport with 1 basis point fee - May 23, 2022
+title: Launch Maker Teleport with 1 Basis Point Fee - May 23, 2022
 summary: Signal your support or opposition to Launch Maker Teleport with 1 basis point fee.
 discussion_link: https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109
 vote_type: Plurality Voting
@@ -14,7 +14,7 @@ options:
 start_date: 2022-05-23T16:00:00
 end_date: 2022-05-26T16:00:00
 ---
-# Poll: Launch Maker Teleport with 1 basis point fee - May 23, 2022
+# Poll: Launch Maker Teleport with 1 Basis Point Fee - May 23, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 23 at 16:00 UTC.
 
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following change:
-* Launch Maker Teleport with a fee of 1 basis point (0.01%)
+* Launch Maker Teleport with a fee of 1 basis point (0.01%).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) to help inform your position before voting.
 
