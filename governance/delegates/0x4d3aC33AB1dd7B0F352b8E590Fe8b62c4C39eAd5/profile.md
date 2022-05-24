@@ -1,9 +1,6 @@
 ---
 name: ACREinvest
 external_profile_url:
-tags:
-   - academia
-   - community
 ---
 
 # ACREinvest
