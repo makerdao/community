@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Raise the ESM Minimum Threshold, MKR Vesting, Adjust the lid Parameter on the Rate-limited Flapper - May 25, 2022
 summary: Raising the Emergency Shutdown Module Minimum Threshold. MKR Vesting Distribution to DUX-001 and SAS-001. Adjusting the `lid` parameter from 150,000 MKR to 30,000 MKR.
 date: 2022-05-25T00:00:00.000Z
-address: "$spell_address"
+address: "0x6f076E9eB81828fa83d9c3E0aa3E088AD24Ee20B"
 
 ---
 # [Executive Proposal] Raise the ESM Minimum Threshold, MKR Vesting, Adjust the lid Parameter on the Rate-limited Flapper - May 25, 2022
