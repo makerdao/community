@@ -107,7 +107,7 @@
         "shortname": "Delegates",
         "longname": "Delegates",
         "recommend_ui": true,
-        "description": "Proposals made by the MakerDAO Open Market Committee",
+        "description": "Polls relating to MakerDAO's Recognized Delegates",
         "related_link": "https://manual.makerdao.com/governance/what-is-delegation",
         "precedence": 13
     },
@@ -116,6 +116,7 @@
         "shortname": "MOMC",
         "longname": "MakerDAO Open Market Committee",
         "recommend_ui": true,
+        "description": "Proposals made by the MakerDAO Open Market Committee",
         "related_link": "https://forum.makerdao.com/tag/ppg-omc-001",
         "precedence": 14
     },
