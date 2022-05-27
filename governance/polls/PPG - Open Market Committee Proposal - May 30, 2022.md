@@ -1,7 +1,7 @@
 ---
 title: PPG - Open Market Committee Proposal - May 30, 2022
 summary: Signal your support or opposition to included changes based on the recommendation of the Maker Open Market Committee.
-discussion_link: $discussion_link
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -37,7 +37,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 - Reduce DIRECT-AAVEV2-DAI [Target Borrow Rate](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) from 3.5% to 2.75%.
 - Increase WSTETH-B [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 15 million DAI to 30 million DAI.
 
-Please review the proposal [thread]($discussion_link) to help inform your position before voting.
+Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410) to help inform your position before voting.
 
 ## Outcomes
 
