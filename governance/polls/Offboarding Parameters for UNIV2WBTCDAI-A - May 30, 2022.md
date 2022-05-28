@@ -1,4 +1,3 @@
-
 ---
 title: Offboarding Parameters for UNIV2WBTCDAI-A - May 30, 2022
 summary: Signal your support or opposition to the following liquidation parameters, designed to offboard UNIV2WBTCDAI-A
@@ -6,6 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-offboard-uni-univ2d
 vote_type: Plurality Voting
 categories:
    - Risk Variable
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -24,16 +24,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes: 
-* Implementing the following risk parameters for offboarding UNIV2WBTCDAI-A:
+The community can vote in this poll to express support or opposition to the implementation of the following risk parameters for offboarding UNI-A.
 
 **Proposed Offboarding Parameters**
 
 * Enable liquidations for UNIV2WBTCDAI-A
-* Set [Liquidation Penalty](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%
+* Set [Liquidation Penalty](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%
 * Set [Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam) to 0
 * Set [tip](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0
-* Set duration of [dss-lerp](https://manual.makerdao.com/module-index/module-lerp) for liquidation ratio to 30 days
+* Set duration of [Linear Interpolation Module (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp) for liquidation ratio to 30 days
 * Set [end](https://manual.makerdao.com/module-index/module-lerp#end) parameter of dss-lerp for liquidation ratio for each vault type as the following; highest collateral ratio vault within each vault type multiplied with 3, rounded on hundred.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboard-uni-univ2daieth-univ2wbtceth-univ2unieth-and-univ2wbtcdai/15160) to help inform your position before voting.
