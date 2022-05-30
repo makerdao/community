@@ -7,13 +7,13 @@ external_profile_url:
 
 ### Key Info
 
-Delegate Address: lbsblockchain.eth
+Delegate Address: lbsblockchain.eth  
 Delegate Contract Address: 0xF1792852BF860b4ef84a2869DF1550BC80eC0aB7  
-Forum: @clmns, @alex_kearney, @cryptonativephd
-LBS Telegram: https://t.me/+_qF1NKs_wy9jYTMy
-LBS Discord Server: https://discord.com/channels/930001982188576819/930001982188576823
-Twitter: @lbsblockchain
-External Website: https://lbs-blockchain.com/
+Forum: @clmns, @alex_kearney, @cryptonativephd  
+LBS Telegram: https://t.me/+_qF1NKs_wy9jYTMy  
+LBS Discord Server: https://discord.com/channels/930001982188576819/930001982188576823  
+Twitter: @lbsblockchain  
+External Website: https://lbs-blockchain.com/  
 
 ### Core Values
 
