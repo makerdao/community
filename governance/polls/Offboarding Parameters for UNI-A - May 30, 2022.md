@@ -28,7 +28,6 @@ The community can vote in this poll to express support or opposition to the impl
 
 **Proposed Offboarding Parameters**
 
-* Enable liquidations for UNI-A
 * Set [Liquidation Penalty](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
 * Set [Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam) to 0.
 * Set [Flat Kick Incentive (tip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0.
