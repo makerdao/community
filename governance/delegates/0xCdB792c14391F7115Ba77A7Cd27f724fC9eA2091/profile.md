@@ -1,6 +1,12 @@
 ---
 name: JustinCase
 external_profile_url:
+tags:
+  - responsibility
+  - revenue
+  - simplicity
+  - risk
+  - scalability
 ---
 
 # JustinCase
