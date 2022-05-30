@@ -1,6 +1,6 @@
 ---
 title: Offboarding Parameters for UNI-A - May 30, 2022
-summary: Signal your support or opposition to the following liquidation parameters, designed to offboard UNI
+summary: Signal your support or opposition to the following liquidation parameters, designed to offboard UNI-A.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-uni-univ2daieth-univ2wbtceth-univ2unieth-and-univ2wbtcdai/15160
 vote_type: Plurality Voting
 categories:
@@ -29,10 +29,10 @@ The community can vote in this poll to express support or opposition to the impl
 **Proposed Offboarding Parameters**
 
 * Enable liquidations for UNI-A
-* Set [Liquidation Penalty](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%
-* Set [Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam) to 0
-* Set [Flat Kick Incentive (tip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0
-* Set duration of [Linear Interpolation Module (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp) for liquidation ratio to 30 days
+* Set [Liquidation Penalty](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
+* Set [Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam) to 0.
+* Set [Flat Kick Incentive (tip)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0.
+* Set duration of [Linear Interpolation Module (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp) for liquidation ratio to 30 days.
 * Set [end](https://manual.makerdao.com/module-index/module-lerp#end) parameter of dss-lerp for liquidation ratio for each vault type as the following; highest collateral ratio vault within each vault type multiplied with 3, rounded on hundred.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboard-uni-univ2daieth-univ2wbtceth-univ2unieth-and-univ2wbtcdai/15160) to help inform your position before voting.
