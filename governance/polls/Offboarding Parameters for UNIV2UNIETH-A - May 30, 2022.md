@@ -24,7 +24,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the implementation of the following risk parameters for offboarding UNI-A.
+The community can vote in this poll to express support or opposition to the implementation of the following risk parameters for offboarding UNIV2UNIETH-A.
 
 **Proposed Offboarding Parameters**
 
