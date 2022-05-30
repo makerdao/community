@@ -2,9 +2,9 @@
 name: Flip Flop Flap Delegate LLC 
 external_profile_url: https://forum.makerdao.com/u/elprogreso/
 tags:
-	- decentralization
-	- scalability
-	- growth
+  - decentralization
+  - scalability
+  - growth
 ---
 
 # Flip Flop Flap Delegate LLC 
