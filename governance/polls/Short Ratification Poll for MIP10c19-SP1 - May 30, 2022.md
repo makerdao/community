@@ -1,10 +1,11 @@
 ---
-title: Short Ratification Poll for MIP10c19-SP1: Update Oracle Expiration Time for All Oracles - May 30, 2022
-summary: Signal your support or opposition for MIP10c19-SP1: Update Oracle Expiration Time for All Oracles
+title: Short Ratification Poll for MIP10c19-SP1 - Update Oracle Expiration Time for All Oracles - May 30, 2022
+summary: Signal your support or opposition for MIP10c19-SP1 - Update Oracle Expiration Time for All Oracles.
 discussion_link: https://forum.makerdao.com/t/mip10c19-sp1-update-oracle-expiration-time-for-all-oracles/15236
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Medium Impact
 options:
    0: Abstain
    1: Yes
