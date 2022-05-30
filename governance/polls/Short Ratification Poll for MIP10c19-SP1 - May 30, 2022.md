@@ -30,7 +30,7 @@ The community may vote in this poll to express support or opposition to MIP10c19
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The frequency of Oracle Medianizer updates is a function of the spread and expiration parameters. The Oracle Core Unit’s analysis of Oracle costs found that the expiration timer accounted for a significant proportion of Medianizer updates relative to spread. A generous reduction of Oracle costs can be achieved by extending the expiration time from 15,500 seconds to 24 hours. If passed this proposal will set the default Oracle expiration time in the Relayer configuration to 24 hours (86,400 seconds)*
+*The frequency of Oracle Medianizer updates is a function of the spread and expiration parameters. The Oracle Core Unit’s analysis of Oracle costs found that the expiration timer accounted for a significant proportion of Medianizer updates relative to spread. A generous reduction of Oracle costs can be achieved by extending the expiration time from 15,500 seconds to 24 hours. If passed this proposal will set the default Oracle expiration time in the Relayer configuration to 24 hours (86,400 seconds).*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/commit/44aa2c43b753ebc588dc46f3e68617d7b7c7ddb2)
