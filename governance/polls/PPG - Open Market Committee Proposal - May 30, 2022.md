@@ -1,21 +1,22 @@
 ---
-title: PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
-summary: $summary
-discussion_link: $discussion_link
+title: PPG - Open Market Committee Proposal - May 30, 2022
+summary: Signal your support or opposition to included changes based on the recommendation of the Maker Open Market Committee.
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410
 vote_type: Plurality Voting
 categories:
    - Risk Variable
    - Rates
+   - Medium Impact
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-05-30T16:00:00
+end_date: 2022-06-02T16:00:00
 ---
-# PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
+# PPG - Open Market Committee Proposal - May 30, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 30 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -26,9 +27,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes: 
 
-$Changes
+**[Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Changes**
+- Reduce WSTETH-A Maximum Debt Ceiling from 300 million DAI to 200 million DAI.
+- Reduce DIRECT-AAVEV2-DAI Maximum Debt Ceiling from 300 million DAI to 100 million DAI.
+- Reduce LINK-A Maximum Debt Ceiling from 100 million DAI to 50 million DAI.
+- Increase MANA-A Maximum Debt Ceiling from 10 million DAI to  15 million DAI.
 
-Please review the proposal [thread]($discussion_link) to help inform your position before voting.
+**Other Changes**
+- Reduce DIRECT-AAVEV2-DAI [Target Borrow Rate](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) from 3.5% to 2.75%.
+- Increase WSTETH-B [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 15 million DAI to 30 million DAI.
+
+Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410) to help inform your position before voting.
 
 ## Outcomes
 
