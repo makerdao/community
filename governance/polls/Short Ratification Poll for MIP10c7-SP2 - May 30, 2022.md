@@ -17,7 +17,7 @@ end_date: 2022-06-02T16:00:00
 
 On behalf of the Oracles Core Unit, the Governance Facilitators have placed this poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP16](https://mips.makerdao.com/mips/details/MIP16). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 30 at 16:00 UTC.
 
-Due to ambiguity in [MIP10](https://mips.makerdao.com/mips/details/MIP10) Subproposals and 0 day RFC and Frozen requirements, this proposal has been permitted to enter the weekly cycle with the addition of the [Positive Participation Threshold](https://mips.makerdao.com/mips/details/MIP51#MIP51c2) requirement.
+Due to ambiguity in [MIP10](https://mips.makerdao.com/mips/details/MIP10) Subproposals and 0 day RFC and Frozen requirements, this proposal has been permitted to enter the weekly cycle with the addition of the [Minimum Positive Participation](https://mips.makerdao.com/mips/details/MIP51#MIP51c2) requirement.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
