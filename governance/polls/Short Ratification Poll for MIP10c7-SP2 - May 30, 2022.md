@@ -17,7 +17,7 @@ end_date: 2022-06-02T16:00:00
 
 On behalf of the Oracles Core Unit, the Governance Facilitators have placed this poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP16](https://mips.makerdao.com/mips/details/MIP16). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, May 30 at 16:00 UTC.
 
-Due to ambiguity in [MIP10](https://mips.makerdao.com/mips/details/MIP10) Subproposals and 0 day RFC and Frozen requirements, this proposal has been permitted to enter the weekly cycle with the addition of the [Minimum Positive Participation](https://mips.makerdao.com/mips/details/MIP51#MIP51c2) requirement.
+Due to ambiguity in [MIP10](https://mips.makerdao.com/mips/details/MIP10) Subproposals and 0-day RFC and Frozen requirements, this proposal has been permitted to enter the weekly cycle with the addition of the [Minimum Positive Participation](https://mips.makerdao.com/mips/details/MIP51#MIP51c2) requirement.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -43,7 +43,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, June 2.
-* The [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP38#oracles-ora-001-) will implement changes, as defined in [MIP10 -Oracle Management](https://mips.makerdao.com/mips/details/MIP10).
+* The [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP38#oracles-ora-001-) will implement changes, as outlined in [MIP10 -Oracle Management](https://mips.makerdao.com/mips/details/MIP10).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
@@ -51,7 +51,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 ## Resources
 
-[MIP10](https://mips.makerdao.com/mips/details/MIP10) defines how oracles are onboarded, offboarded and managed in order to support the Maker Protocol.
+[MIP10](https://mips.makerdao.com/mips/details/MIP10) defines how oracles are onboarded, offboarded, and managed in order to support the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
