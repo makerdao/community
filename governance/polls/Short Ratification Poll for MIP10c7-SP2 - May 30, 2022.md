@@ -1,10 +1,11 @@
 ---
-title: Short Ratification Poll for MIP10c7-SP2: Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model - May 30, 2022
-summary: Signal your support or opposition for MIP10c7-SP2: Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model
+title: Short Ratification Poll for MIP10c7-SP2 - Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model - May 30, 2022
+summary: Signal your support or opposition for MIP10c7-SP2 - Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model.
 discussion_link: https://forum.makerdao.com/t/mip10c7-sp2-modify-data-models-for-btc-usd-link-usd-mana-usd-usdt-usd-yfi-usd-data-model/15235
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - Medium Impact
 options:
    0: Abstain
    1: Yes
