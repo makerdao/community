@@ -2707,72 +2707,140 @@
         "mips"
     ],
     "783": [
+        "medium-impact",
         "greenlight"
     ],
     "784": [
+        "medium-impact",
         "greenlight"
     ],
     "785": [
+        "low-impact",
         "ratification",
         "mips"
     ],
     "786": [
+        "low-impact",
         "oracle",
         "oracle-whitelist"
     ],
     "787": [
+        "high-impact",
         "collateral-onboard",
         "risk-parameter"
     ],
     "788": [
+        "medium-impact",
         "misc-funding",
         "budget"
     ],
     "789": [
+        "medium-impact",
         "greenlight"
     ],
     "790": [
+        "medium-impact",
         "greenlight"
     ],
     "791": [
+        "medium-impact",
+        "greenlight",
         "d3m"
     ],
     "792": [
+        "medium-impact",
         "risk-parameter",
         "momc"
     ],
     "793": [
+        "high-impact",
         "real-world-assets",
         "ratification",
         "mips"
     ],
     "794": [
+        "high-impact",
         "real-world-assets",
         "ratification",
         "mips"
     ],
     "795": [
+        "high-impact",
         "ratification",
         "mips",
         "bridge"
     ],
     "796": [
+        "medium-impact",
         "ratification",
         "mips"
     ],
     "797": [
+        "high-impact",
         "ratification",
         "mips",
         "budget"
     ],
     "798": [
+        "high-impact",
         "risk-parameter"
     ],
     "799": [
-        "risk-parameter"
+        "medium-impact",
+        "risk-parameter",
+        "auctions"
     ],
     "800": [
+        "medium-impact",
         "greenlight"
     ],
-    "#N/A": []
+    "801": [
+        "medium-impact",
+        "greenlight"
+    ],
+    "802": [
+        "medium-impact",
+        "misc-governance"
+    ],
+    "803": [
+        "medium-impact",
+        "bridge"
+    ],
+    "804": [
+        "high-impact",
+        "collateral-offboard"
+    ],
+    "805": [
+        "high-impact",
+        "collateral-offboard"
+    ],
+    "806": [
+        "high-impact",
+        "collateral-offboard"
+    ],
+    "807": [
+        "high-impact",
+        "collateral-offboard"
+    ],
+    "808": [
+        "high-impact",
+        "collateral-offboard"
+    ],
+    "809": [
+        "medium-impact",
+        "momc"
+    ],
+    "810": [
+        "medium-impact",
+        "oracle",
+        "ratification",
+        "mips"
+    ],
+    "811": [
+        "medium-impact",
+        "oracle",
+        "oracle-feed",
+        "ratification",
+        "mips"
+    ]
 }
