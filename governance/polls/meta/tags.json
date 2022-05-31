@@ -135,7 +135,7 @@
         "longname": "Delegates",
         "recommend_ui": true,
         "description": "Polls relating to MakerDAO's Recognized Delegates",
-        "related_link": "https:
+        "related_link": "https://manual.makerdao.com/governance/what-is-delegation",
         "precedence": 16
     },
     {
