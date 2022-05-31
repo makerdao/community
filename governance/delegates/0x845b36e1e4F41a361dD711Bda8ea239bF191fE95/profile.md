@@ -1,6 +1,10 @@
 ---
 name: Feedblack Loops LLC
 external_profile_url: https://twitter.com/iamTWB_
+tags:
+  - scalability
+  - community
+  - guidance
 ---
 
 # Feedblack Loops LLC

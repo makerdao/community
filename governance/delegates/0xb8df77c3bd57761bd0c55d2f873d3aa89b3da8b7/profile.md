@@ -1,6 +1,10 @@
 ---
 name: Blockchain@Columbia
 external_profile_url:
+tags:
+  - academia
+  - community
+  - risk
 ---
 
 # Blockchain@Columbia
