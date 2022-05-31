@@ -1,6 +1,11 @@
 ---
 name: schuppi
 external_profile_url:
+tags:
+  - growth
+  - risk
+  - security
+  - decentralization
 ---
 
 # schuppi
