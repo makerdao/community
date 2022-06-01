@@ -1,6 +1,12 @@
 ---
 name: Flipside Crypto
 external_profile_url:
+tags:
+  - data-driven
+  - growth
+  - vision
+  - simplicity
+  - sustainability
 ---
 
 # Flipside Crypto
