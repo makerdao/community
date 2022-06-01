@@ -1,6 +1,10 @@
 ---
 name: Penn Blockchain
 external_profile_url:
+tags:
+  - growth
+  - scalability
+  - academia
 ---
 
 # Penn Blockchain
