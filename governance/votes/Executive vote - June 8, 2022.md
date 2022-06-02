@@ -18,8 +18,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
 - Parameter changes from the latest proposal from the MakerDAO Open Market Committee proposal including [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes, Aave D3M [Target Borrow Rate](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) decrease, WSTETH-B [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) increase, listed in detail below.
 - Multiple vault types will have their [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) set to 0 as the first stage of the [collateral off-boarding process](https://mips.makerdao.com/mips/details/MIP62), detailed below.
-- Technical changes to the Starknet DAI Bridge, detailed below.
-- A total of **78,062 DAI** will be paid to nine Recognized Delegates as per [MIP61 Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), detailed below.
+- DAI bridge limit and authority changes to the Starknet DAI Bridge, detailed below.
+- A total of **78,062 DAI** will be paid to eleven Recognized Delegates as per [MIP61 Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), detailed below.
 - A total of **230,000 DAI** will be transferred to the Strategic Happiness Core Unit (SH-001), detailed below.
 - A total of **540,000 DAI** will be streamed to the Strategic Happiness Core Unit (SH-001), detailed below.
 - A total of **250 MKR** will be streamed to the Strategic Happiness Core Unit (SH-001), detailed below.
@@ -91,9 +91,9 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 * 12,000 DAI transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
 * 11,025 DAI transferred to [MakerMan](https://vote.makerdao.com/address/0x22d5294a23d49294bf11d9db8beda36e104ad9b3) at [0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0](https://etherscan.io/address/0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0).
 * 9,372 DAI transferred to [ACREInvest](https://vote.makerdao.com/address/0x4d3ac33ab1dd7b0f352b8e590fe8b62c4c39ead5) at [0x5b9C98e8A3D9Db6cd4B4B4C1F92D0A551D06F00D](https://etherscan.io/address/0x5b9C98e8A3D9Db6cd4B4B4C1F92D0A551D06F00D).
-* 6,275 DAI transferred to [monetsupply](https://vote.makerdao.com/address/0x45127ec92b58c3a89e89f63553073adcaf2f1f5f) at [0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF](https://etherscan.io/address/0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF).
 * 7,626 DAI transferred to [JustinCase](https://vote.makerdao.com/address/0xcdb792c14391f7115ba77a7cd27f724fc9ea2091) at [0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473](https://etherscan.io/address/0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473).
 * 6,607 DAI transferred to [GFX Labs](https://vote.makerdao.com/address/0xf60d7a62c98f65480725255e831de531efe3fe14) at [0xa6e8772af29b29B9202a073f8E36f447689BEef6](https://etherscan.io/address/0xa6e8772af29b29B9202a073f8E36f447689BEef6).
+* 6,275 DAI transferred to [monetsupply](https://vote.makerdao.com/address/0x45127ec92b58c3a89e89f63553073adcaf2f1f5f) at [0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF](https://etherscan.io/address/0x4Bd73eeE3d0568Bb7C52DFCad7AD5d47Fff5E2CF).
 * 622 DAI transferred to [Doo](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 * 270 DAI transfered to [Flipside Crypto](https://vote.makerdao.com/address/0x84b05b0a30b6ae620f393d1037f217e607ad1b96) at [0x62a43123FE71f9764f26554b3F5017627996816a](https://etherscan.io/address/0x62a43123FE71f9764f26554b3F5017627996816a).
 * 265 DAI transferred to [Penn Blockchain](https://vote.makerdao.com/address/0x7ddb50a5b15aea7e7cf9ac8e55a7f9fd9d05ecc6) at [0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b](https://etherscan.io/address/0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b).
