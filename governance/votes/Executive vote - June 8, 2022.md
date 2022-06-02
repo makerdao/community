@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### MOMC Parameter Changes
 
-As per this [governance poll](https://vote.makerdao.com/polling/QmYx9e3k#vote-breakdown) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410), the following parameter changes will be made if this executive proposal passes:
+As per this [governance poll](https://vote.makerdao.com/polling/QmYx9e3k) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-27-may-2022/15410), the following parameter changes will be made if this executive proposal passes:
 
 **[Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Decreases**
 - Decrease the **WSTETH-A** Maximum Debt Ceiling by 100 million DAI from **300 million DAI** to **200 million DAI**.
@@ -68,24 +68,19 @@ For more information, please see the original Signal Request on the forum [here]
 
 As a result of this [post](https://forum.makerdao.com/t/details-about-spells-to-be-included-in-june-8th-2022-executive-vote/15532) from the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19), the following changes will be made, if this executive proposal passes:
 
-- The DAI Bridge Limit will be increased by 100,000 DAI from **100,000 DAI** to **200,000 DAI**. Please note Maker Governance has already approved a DAI Bridge Limit of up to 5 million DAI in this governance [poll](https://vote.makerdao.com/polling/QmUnhQZy#poll-detail).
-- [DSChief](0x0a3f6849f78076aefaDf113F5BED87720274dDC0) will be given control over [L1EscrowMom](https://etherscan.io/address/0xc238E3D63DfD677Fa0FA9985576f0945C581A266). This change will allow Maker Governance to shut down the Starknet Bridge via an Executive Vote without needing to wait for the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) for the shutdown to take effect. 
+- The DAI Bridge Limit will be increased by 100,000 DAI from **100,000 DAI** to **200,000 DAI**. Please note Maker Governance has already approved a DAI Bridge Limit of up to 5 million DAI in this governance [poll](https://vote.makerdao.com/polling/QmUnhQZy).
+- [DSChief](https://etherscan.io/address/0x0a3f6849f78076aefaDf113F5BED87720274dDC0) will be given control over [L1EscrowMom](https://etherscan.io/address/0xc238E3D63DfD677Fa0FA9985576f0945C581A266). This change will allow Maker Governance to shut down the Starknet Bridge via an Executive Vote without needing to wait for the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) for the shutdown to take effect.
+	- This will be achieved by calling `setAuthority(0x0a3f6849f78076aefaDf113F5BED87720274dDC0)` on the L1EscrowMom contract.
 
-### Core Unit Budget Transfer
+### Strategic Happiness Core Unit (SH-001) Budget Distribution
 
-As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67), **230,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0xc657aC882Fb2D6CcF521801da39e910F8519508d](https://etherscan.io/address/0xc657aC882Fb2D6CcF521801da39e910F8519508d), if this executive proposal passes.
+As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67), the following budget distributions will take place for the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11), if this executive proposal passes:
 
-Please note this address is different to the address listed in the [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67) after the Core Unit Facilitator set up a multi-sig wallet for the Core Unit. Please see this forum [post](https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805/93) for more details.
+* **230,000 DAI** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0xc657aC882Fb2D6CcF521801da39e910F8519508d](https://etherscan.io/address/0xc657aC882Fb2D6CcF521801da39e910F8519508d).
+* **540,000 DAI** will be streamed to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0xc657aC882Fb2D6CcF521801da39e910F8519508d](https://etherscan.io/address/0xc657aC882Fb2D6CcF521801da39e910F8519508d) starting on 2022-06-01 and ending on 2023-03-15.
+* **250 MKR** will be streamed to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) starting on 2022-06-01 and ending on 2026-06-01 with a cliff date of 2023-11-23.
 
-### Core Unit Budget Stream
-
-As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67), **540,000 DAI** will be streamed to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0xc657aC882Fb2D6CcF521801da39e910F8519508d](https://etherscan.io/address/0xc657aC882Fb2D6CcF521801da39e910F8519508d) starting on 2022-06-01 and ending on 2023-03-15, if this executive proposal passes.
-
-Please note this address is different to the address listed in the [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67) after the Core Unit Facilitator set up a multi-sig wallet for the Core Unit. Please see this forum [post](https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805/93) for more details.
-
-### Core Unit MKR Vesting Stream
-
-As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67), **250 MKR** will be streamed to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at [0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550](https://etherscan.io/address/0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550) starting on 2022-06-01 and ending on 2026-06-01 with a cliff date of 2023-11-23, if this executive proposal passes.
+Please note the address for the DAI budget distributions is different to the address listed in the [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP67) after the Core Unit Facilitator set up a multi-sig wallet for the Core Unit. Please see this forum [post](https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805/93) for more details.
 
 ### Recognized Delegate Compensation
 
