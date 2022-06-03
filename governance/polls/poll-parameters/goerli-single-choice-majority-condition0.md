@@ -5,11 +5,9 @@ discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/1
 parameters:
   input_format: single-choice
   victory_conditions:
-      - majority
-      - condition: 
-          - 1>=5000
-          - 0>=1000
-          - 3<=500
+    - { type : majority: options: [1,2,3,4] }
+    - { type : comparison, options: [0, 1, 4], comparator : '>=10000' }
+    - { type : default, value : 2 }
   result_display: single-vote-breakdown
 version: v0.0.1    
 options:

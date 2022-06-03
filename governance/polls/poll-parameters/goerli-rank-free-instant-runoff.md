@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/1
 parameters:
   input_format: rank-free
   victory_conditions:
-      - instant-runoff
+      - { type : instant-runoff }
   result_display: instant-runoff-breakdown
 version: v0.0.1    
 options:

@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/1
 parameters:
     input_format: single-choice
     victory_conditions:
-        - plurality
+        - { type : plurality }
     result_display: single-vote-breakdown
 version: v0.0.1    
 options:
@@ -17,6 +17,7 @@ options:
 start_date: 2022-03-06T16:00:00
 end_date: 2025-11-05T16:00:00
 ---
+
 
 # Poll: Lower PSM Vault Fees - March 7, 2022
 
