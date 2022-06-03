@@ -2,10 +2,11 @@
 title: POLL PARAMETERS Rank Free Instant Runoff
 summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults.
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
-input_format: rank-free
-victory_conditions:
-    - instant-runoff
-result_display: instant-runoff-breakdown
+parameters:
+  input_format: rank-free
+  victory_conditions:
+      - instant-runoff
+  result_display: instant-runoff-breakdown
 version: v0.0.1    
 options:
   0: Abstain
