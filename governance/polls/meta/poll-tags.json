@@ -2842,5 +2842,13 @@
         "oracle-feed",
         "ratification",
         "mips"
+    ],
+    "812": [
+        "medium-impact",
+        "greenlight"
+    ],
+    "813": [
+        "medium-impact",
+        "greenlight"
     ]
 }
