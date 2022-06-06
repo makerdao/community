@@ -16,7 +16,8 @@ options:
    6: Crypto Collateral from Other Chains
    7: Traditional Financial Instruments 
    8: Peg Stability Solutions 
-end_date: 2022-07-04T16:00:00
+start_date: 2022-06-06T20:00:00
+end_date: 2022-07-04T20:00:00
 ---
 # Poll: Prioritization Sentiment - Collateral Class - June 6, 2022
 
