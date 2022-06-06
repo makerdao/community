@@ -1,6 +1,6 @@
 ---
 title: Prioritization Sentiment - Technical Resource Deployment - June 6, 2022
-summary: Rank your Techical Resourse Priority Sentiment to indiate where you believe MakerDAO should be focusing resources. 
+summary: Rank your Techical Resourse Priority Sentiment to indicate where you believe MakerDAO should be focusing resources. 
 discussion_link: https://forum.makerdao.com/t/prioritization-framework-sentiment-polling/15554
 vote_type: Ranked Choice IRV
 categories:
