@@ -1,6 +1,6 @@
 ---
 title: Prioritization Sentiment - Collateral Class - June 6, 2022
-summary: Rank your Collateral Class Sentiment to indiate where you believe MakerDAO should be focusing resources. 
+summary: Rank your Collateral Class Sentiment to indicate where you believe MakerDAO should be focusing resources. 
 discussion_link: https://forum.makerdao.com/t/prioritization-framework-sentiment-polling/15554
 vote_type: Ranked Choice IRV
 categories:
@@ -32,10 +32,10 @@ The Governance Facilitators have placed a Priority Sentiment Poll into the votin
 
 The community can vote in this poll to rank their support of the following options:
 - Broader Market Demand-Based Solutions - Solutions based on market demand sentiment for DAI outside of Maker. Example: Aave D3M.
-- Real-World Assets Vaults - Vaults lending againt Real-World Assests (as opposed to crypto assests). Example: New Silver.
+- Real-World Assets Vaults - Vaults lending against Real-World Assets (as opposed to crypto assets). Example: New Silver.
 - Real-World Asset Arrangers - Lending through arrangers that set up their own real-world loans based on criteria approved by Maker Governance. Example: 6s.
-- Core Crypto Collateral - ETH and BTC implementions (including their derivities). Example: Wrapped Staked ETH.
-- Alternative Ethereum-based Crypto Collateral - Other ERC-20 crypto assest tokens. Example: LINK.
+- Core Crypto Collateral - ETH and BTC implementations (including their derivatives). Example: Wrapped Staked ETH.
+- Alternative Ethereum-based Crypto Collateral - Other ERC-20 crypto asset tokens. Example: LINK.
 - Crypto Collateral from Other Chains - Lending against crypto assets on other chains/L2s. Example: OP (Optimism, not currently supported).
 - Traditional Financial Instruments - Using Real-World Financial Instruments for backing DAI. Example: US Treasuries (Government debt, not currently supported).
 - Peg Stability Solutions - Solutions designed to strengthen the DAI peg to the US Dollar. Example: USDC PSM.
