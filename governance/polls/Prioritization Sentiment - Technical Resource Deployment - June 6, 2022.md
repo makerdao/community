@@ -20,8 +20,8 @@ options:
    10: Target Price Adjustment Module (Vox)
    11: ESM Simulations
    12: Returning "Lost" DAI
-start_date: 2022-06-06T16:00:00
-end_date: 2022-07-04T16:00:00
+start_date: 2022-06-06T20:00:00
+end_date: 2022-07-04T20:00:00
 ---
 # Poll: Prioritization Sentiment - Technical Resource Deployment - June 6, 2022
 
