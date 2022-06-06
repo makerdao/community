@@ -8,18 +8,18 @@ categories:
    - Priority Sentiment
 options:
    0: Abstain
-   1: $A
-   2: $B
-   3: $C
-   4: $D
-   5: 
-   6:
-   7:
-   8:
-   9:
-   10:
-   11:
-   12:
+   1: Flapper Distributor
+   2: Sagittarius Engine
+   3: Collateral Onboarding
+   4: Compound D3M
+   5: Term Lending Module (TLM)
+   6: Maker Teleport
+   7: DssKiln
+   8: DssSnog
+   9: DssGate
+   10: Target Price Adjustment Module (Vox)
+   11: ESM Simulations
+   12: Returning "Lost" DAI
 start_date: 2022-06-06T16:00:00
 end_date: 2022-07-04T16:00:00
 ---
@@ -36,18 +36,18 @@ The Governance Facilitators have placed a Priority Sentiment Poll into the votin
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-* $A_Detailed
-* $B_Detailed
-* $C_Detailed
-* $D_Detailed
-* $E
-* $F
-* $G
-* $H
-* $I
-* $J
-* $K
-* $L
+- [Flapper Distributor](https://forum.makerdao.com/t/flapperdistributor-a-way-to-distribute-system-surplus-while-minimizing-governance/4591) - A way to split revenue and direct it toward different causes, like buyback/burn and filling the surplus buffer simultaneously. 
+- [Sagittarius Engine](https://forum.makerdao.com/t/sagittarius-engine/10852) - Tokenomics design from Rune, including staking MKR and the ability for those with MKR staked to borrow against it.
+- Collateral Onboarding - Focusing on technical work for onboarding more collateral types into the protocol.
+- [Compound D3M](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997) - D3M implementation similar to the Aave D3M that would target a DAI borrowing rate at Compound. 
+- [MIP43: Term Lending Module (TLM)](https://forum.makerdao.com/t/mip43-term-lending-module-tlm/6153) - Fixed-rate solution for Maker vaults, requiring code review and implementation of a previously passed technical MIP.
+- [Maker Teleport](https://forum.makerdao.com/t/maker-wormhole-new-name-maker-teleport/15115) - Enabling "Fast Withdrawals" between L2s and L1, and eventually between L2s. This is a prerequisite for Multi-collateral DAI deployment on L2s. Read the original scoping [here](https://forum.makerdao.com/t/introducing-maker-wormhole/11550).
+- [DssKiln](https://forum.makerdao.com/t/dsskiln-a-permissionless-token-purchasing-tool/14943) - Tool for permissionless token purchasing over time. Could be used for targeted MKR buybacks or acquiring treasury assets. 
+- [DssSnog](https://github.com/brianmcmichael/dss-snog/blob/master/src/DssSnog.sol) - Authorizes the Oracle Core Unit to give readers access to oracle prices without having to give authorization via a governance executive, mentioned [here](https://forum.makerdao.com/t/pecu-month-in-review-april-2022/14942#prototyping-5).
+- [DssGate](https://forum.makerdao.com/t/governance-and-risk-173-thursday-january-06-17-00-utc/12480/2#updates-dssgate-and-future-parameter-management-9) - "Sandbox" tool that allows for a limited amount of DAI to be at risk when implementing new technical solutions. The current use-case is for Deco Core Unit to develop fixed-rate lending vaults without changing the core smart contracts of the protocol.
+- [MIP20: Target Price Adjustment Module (`Vox`)](https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196) - Module that would enable negative DAI rates, requiring code review and implementation of a previously passed technical MIP.
+- [ESM Simulations](https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-163-thursday-october-14-17-00-utc/10972/2#governance-security-and-flexibility-esm-delay-parameters-9) - Devoting technical resources to simulating the Emergency Shutdown Module, where DAI would be redeemable for the collateral backing it.
+- [Returning "Lost" DAI](https://forum.makerdao.com/t/minting-new-dai-to-offset-lost-dai/6396) - Technical solution to returning/reissuing DAI verifiably lost, like in cases of transfer to the DAI contract address.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/prioritization-framework-sentiment-polling/15554) to help inform your position before voting.
 
@@ -55,8 +55,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/prioritizatio
 
 ## Outcomes
 
-**Weekly updates will be shared with the Maker Community to detail the feedback from Priority Sentiment Polls. No Governance action will be mandated upon their conclusion. It is GovAlpha's hope that these polls will:**
-- Encourage more dialoge between MKR holders and Core Units about prioritization.
+**Weekly updates will be shared with the Maker Community to detail the feedback from Priority Sentiment Polls. No Governance action will be mandated upon their conclusion. GovAlpha hopes that these polls will:**
+- Encourage more dialogue between MKR holders and Core Units about prioritization.
 - Convey valuable MKR sentiment to those contributing to the DAO.
 
 Suggestions for items to be included on future Priority Sentiment Polls may be submitted [here](https://docs.google.com/forms/d/e/1FAIpQLScGMqLqzV-ySAiU_AhqeVuwGwgYFGpTYpEDvdNSzXo9Wi4U-w/viewform?usp=sf_link) along with additional feedback for the process as a whole.
