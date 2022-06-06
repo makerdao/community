@@ -135,7 +135,6 @@
     "longname": "Delegates",
     "recommend_ui": true,
     "description": "Polls relating to MakerDAO's Recognized Delegates",
-    "related_link": "https:
     "precedence": 16
   },
   {
