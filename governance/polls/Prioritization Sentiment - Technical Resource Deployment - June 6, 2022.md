@@ -36,8 +36,8 @@ The Governance Facilitators have placed a Priority Sentiment Poll into the votin
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-- [Flapper Distributor](https://forum.makerdao.com/t/flapperdistributor-a-way-to-distribute-system-surplus-while-minimizing-governance/4591) - A way to split revenue and direct it toward different causes, like buyback/burn and filling the surplus buffer simultaneously. 
-- [Sagittarius Engine](https://forum.makerdao.com/t/sagittarius-engine/10852) - Tokenomics design from Rune, including staking MKR and the ability for those with MKR staked to borrow against it.
+- [Flapper Distributor](https://forum.makerdao.com/t/flapperdistributor-a-way-to-distribute-system-surplus-while-minimizing-governance/4591) - A way to split revenue and direct it toward different causes, like buyback/burn and filling the surplus buffer simultaneously. This item has not been formally voted on or developed, meaning that a proposal would likely need to be submitted for technical work to take place beyond initial scoping.
+- [Sagittarius Engine](https://forum.makerdao.com/t/sagittarius-engine/10852) - Tokenomics design from Rune, including staking MKR and the ability for those with MKR staked to borrow against it. This item has not been formally voted on or developed, meaning that a proposal would likely need to be submitted for technical work to take place beyond initial scoping.
 - Collateral Onboarding - Focusing on technical work for onboarding more collateral types into the protocol.
 - [Compound D3M](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997) - D3M implementation similar to the Aave D3M that would target a DAI borrowing rate at Compound. 
 - [MIP43: Term Lending Module (TLM)](https://forum.makerdao.com/t/mip43-term-lending-module-tlm/6153) - Fixed-rate solution for Maker vaults, requiring code review and implementation of a previously passed technical MIP.
