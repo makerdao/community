@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes, Starknet Bridge Limit and Authority Changes, Recognized Delegate Compensation, SH-001 Budget Distribution - June 08, 2022
 summary: Parameter changes from the latest MOMC proposal, Maximum Debt Ceiling changes as the first step of the collateral off-boarding process, increase the Starknet DAI bridge limit and give DSChief control over the L1EscrowMom contract, Recognized Delegate Compensation for May 2022, DAI transfer and set-up of DAI and MKR streams for the Strategic Happiness Core Unit.
 date: 2022-06-08T00:00:00.000Z
-address: "$spell_address"
+address: "0x7d5f7f781Fb8A256006026255dEaa0BCe1bBfEd2"
 
 ---
 # [Executive Proposal] Parameter Changes, Starknet Bridge Limit and Authority Changes, Recognized Delegate Compensation, SH-001 Budget Distribution - June 08, 2022
