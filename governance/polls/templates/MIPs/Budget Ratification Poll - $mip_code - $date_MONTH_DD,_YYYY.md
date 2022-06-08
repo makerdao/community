@@ -12,7 +12,7 @@ options:
    1: Approve existing budget only (business as usual)
    2: Approve increased budget
    3: Reject budget
-   start_date: $YYYY-MM-DDT16:00:00
+start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
 # Budget Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
