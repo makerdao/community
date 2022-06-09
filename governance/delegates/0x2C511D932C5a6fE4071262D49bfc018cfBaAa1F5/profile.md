@@ -20,7 +20,7 @@ Discord: ChrisBlec#6028
 Email: go@chrisblec.com  
 Twitter: https://twitter.com/ChrisBlec  
 
-[**:film_projector: Why is Chris Blec becoming a MKR delegate?**](https://vimeo.com/716051719/3c7aa24f14)﻿
+[**VIDEO: Why is Chris Blec becoming a MKR delegate?**](https://vimeo.com/716051719/3c7aa24f14)﻿
 
 ### Core Values
 
@@ -37,7 +37,7 @@ My votes will favor proposals for economic & technical solutions that are immune
 
 I was first introduced to MakerDAO in early 2019 when I discovered the burgeoning world of DeFi. I was thrilled to learn about the innovation of a decentralized stablecoin managed by a DAO. I worked with the Community team to develop explainer video content and participated in MKR governance throughout that year. I introduced many new DeFi users to the idea of a decentralized stablecoin through my video explainers.
 
-[ :film_projector: ***Here's a video on DAI governance that I created 3 years ago that some of you may find entertaining!***](https://vimeo.com/716043636/8bb139f044)
+[ ***VIDEO: Here's a video on DAI governance that I created 3 years ago that some of you may find entertaining!***](https://vimeo.com/716043636/8bb139f044)
 
 In 2020, I came to the realization that much of DeFi wasn't nearly as decentralized as it was advertising itself. At that point, I began to focus more on educating DeFi users about the importance of decentralization & trustlessness to our future economic freedom.
 
