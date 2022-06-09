@@ -1,6 +1,10 @@
 ---
 name: GFX Labs
 external_profile_url:
+tags:
+  - revenue
+  - growth
+  - decentralization
 ---
 
 # GFX Labs

@@ -1,7 +1,7 @@
 ---
-combined_participation: 26.09%
-poll_participation: 29.27%
-exec_participation: 0.00%
-communication: 100%
+combined_participation: 64.18%
+poll_participation: 68.14%
+exec_participation: 42.86%
+communication: 93.98%
 start_date: 2021-11-22T00:00:00.000Z
 ---

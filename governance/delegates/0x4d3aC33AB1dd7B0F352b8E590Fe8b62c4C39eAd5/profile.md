@@ -1,6 +1,12 @@
 ---
 name: ACREinvest
 external_profile_url:
+tags:
+  - decentralization
+  - trust
+  - vision
+  - risk
+  - growth
 ---
 
 # ACREinvest

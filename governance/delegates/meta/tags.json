@@ -1,0 +1,116 @@
+[
+    {
+      "id": "academia",
+      "shortname": "Academia",
+      "longname": "",
+      "description": "Delegate values engaging with academic institutions at the student or research level."
+    },
+    {
+      "id": "community",
+      "shortname": "Community",
+      "longname": "",
+      "description": "Delegate values spreading, growing or diversifying the Maker community."
+    },
+    {
+      "id": "compliance",
+      "shortname": "Compliance",
+      "longname": "",
+      "description": "Delegate values compliance and regulation where appropriate for MakerDAO."
+    },
+    {
+      "id": "data-driven",
+      "shortname": "Data-Driven",
+      "longname": "",
+      "description": "Delegate values data availability and data-driven decision-making."
+    },
+    {
+      "id": "decentralization",
+      "shortname": "Decentralization",
+      "longname": "",
+      "description": "Delegate values decentralization of MakerDAO and the Maker Protocol."
+    },
+    {
+      "id": "growth",
+      "shortname": "Growth",
+      "longname": "",
+      "description": "Delegate values growth of MakerDAO and adoption of the Maker Protocol."
+    },
+    {
+      "id": "ideation",
+      "shortname": "Ideation",
+      "longname": "",
+      "description": "Delegate values innovation and creativity in problem-solving and direction."
+    },
+    {
+      "id": "multi-chain",
+      "shortname": "Multi-chain",
+      "longname": "",
+      "description": "Delegate values the expansion of the Maker Protocol onto other blockchains."
+    },
+    {
+      "id": "pragmatism",
+      "shortname": "Pragmatism",
+      "longname": "",
+      "description": "Delegate values pragmatic responses to problems facing MakerDAO."
+    },
+    {
+      "id": "responsibility",
+      "shortname": "Responsibility",
+      "longname": "",
+      "description": "Delegate values responsibility to all stakeholders that interact with MakerDAO and the Maker Protocol."
+    },
+    {
+      "id": "revenue",
+      "shortname": "Revenue",
+      "longname": "",
+      "description": "Delegate values increasing the revenue of the Maker Protocol and expanding to new revenue streams."
+    },
+    {
+      "id": "risk",
+      "shortname": "Risk",
+      "longname": "",
+      "description": "Delegate values appropriate management of risks for the Maker Protocol and MakerDAO."
+    },
+    {
+      "id": "scalability",
+      "shortname": "Scalability",
+      "longname": "",
+      "description": "Delegate values scalability of the Maker Protocol and MakerDAO."
+    },
+    {
+      "id": "security",
+      "shortname": "Security",
+      "longname": "",
+      "description": "Delegate values the security of the Maker Protocol when expanding and changing functionality."
+    },
+    {
+      "id": "simplicity",
+      "shortname": "Simplicity",
+      "longname": "",
+      "description": "Delegate values simplicity and comprehensibility when determining courses of action."
+    },
+    {
+      "id": "sustainability",
+      "shortname": "Sustainability",
+      "longname": "",
+      "description": "Delegate values social and environmental sustainability as a direction for MakerDAO."
+    },
+    {
+      "id": "trust",
+      "shortname": "Trust",
+      "longname": "",
+      "description": "Delegate values extending trust and confidence to individuals working for MakerDAO."
+    },
+    {
+      "id": "vision",
+      "shortname": "Vision",
+      "longname": "",
+      "description": "Delegate values providing leadership, direction and vision for MakerDAO."
+    },
+    {
+      "id": "guidance",
+      "shortname": "Guidance",
+      "longname": "",
+      "description": "Delegate values focus on long-term goals and helps align MakerDAO actors."
+    }
+   ]
