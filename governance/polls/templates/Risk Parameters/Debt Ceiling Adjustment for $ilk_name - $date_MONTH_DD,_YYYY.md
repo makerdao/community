@@ -16,12 +16,12 @@ end_date: $YYYY-MM-DDT16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
-## Review 
+## Review
 
 MKR Token Holders may vote in this poll to express support or opposition to adjusting the $ilk_name [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling):
 * $IncreaseDecrease from $current_ceiling million DAI to $new_ceiling million DAI.
