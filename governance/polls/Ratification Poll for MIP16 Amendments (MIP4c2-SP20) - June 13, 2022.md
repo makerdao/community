@@ -39,6 +39,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4f5daf35b4d8f3b44fe49f8c3e4e1b5628f49fff/MIP4/MIP4c2-Subproposals/MIP4c2-SP20.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP20)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp20-mip16-amendments/14980)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/542)
 
 ## Outcomes
 
