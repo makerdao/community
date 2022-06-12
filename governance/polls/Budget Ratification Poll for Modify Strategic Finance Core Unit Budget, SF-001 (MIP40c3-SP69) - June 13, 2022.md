@@ -8,10 +8,10 @@ categories:
    - Budget
    - High Impact
 options:
-   0: Abstain
-   1: Approve increased budget
-   2: Approve existing budget only (business as usual)
-   3: Reject budget
+   0: Approve increased budget
+   1: Approve existing budget only (business as usual)
+   2: Reject budget
+   3: Abstain
    start_date: 2022-06-13T16:00:00
    end_date: 2022-06-27T16:00:00
 ---
