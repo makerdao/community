@@ -8,13 +8,13 @@ categories:
    - Budget
    - High Impact
 options:
-   0: Abstain
-   1: Approve increased budget (BaseGrowth)
-   2: Approve increased budget (BearMarket)
-   3: Approve existing budget only (BrandlessGrowth)
-   4: Reject budget
-   start_date: 2022-06-13T16:00:00
-   end_date: 2022-06-27T16:00:00
+   0: Approve increased budget (BaseGrowth)
+   1: Approve increased budget (BearMarket)
+   2: Approve existing budget only (BrandlessGrowth)
+   3: Reject budget
+   4: Abstain
+start_date: 2022-06-13T16:00:00
+end_date: 2022-06-27T16:00:00
 ---
 # Budget Ratification Poll for Modify Growth Core Unit Budget, GRO-001 (MIP40c3-SP70) - June 13, 2022
 
