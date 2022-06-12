@@ -9,9 +9,10 @@ categories:
    - High Impact
 options:
    0: Abstain
-   1: Approve existing budget only (business as usual)
-   2: Approve increased budget
-   3: Reject budget
+   1: Approve increased budget (BaseGrowth)
+   2: Approve increased budget (BearMarket)
+   3: Approve existing budget only (BrandlessGrowth)
+   4: Reject budget
    start_date: 2022-06-13T16:00:00
    end_date: 2022-06-27T16:00:00
 ---
@@ -27,9 +28,10 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 ## Review
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP70 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
-* **Option 1:** Approve existing budget only (business as usual): 4,210,261.40.
-* **Option 2:** Approve increased budget: 5,085,157.11.
-* **Option 3:** Reject budget.
+* **Option 1:** Approve increased budget (BaseGrowth): 5,085,157.11.
+* **Option 2:** Approve increased budget (BearMarket): 4,210,261.40.
+* **Option 3:** Approve existing budget only (BrandlessGrowth): 3,272,550.00 DAI
+* **Option 4:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
