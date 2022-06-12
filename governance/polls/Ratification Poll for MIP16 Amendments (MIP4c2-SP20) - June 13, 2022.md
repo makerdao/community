@@ -10,8 +10,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-   start_date: 2022-06-13T16:00:00
-   end_date: 2022-06-27T16:00:00
+start_date: 2022-06-13T16:00:00
+end_date: 2022-06-27T16:00:00
 ---
 
 # Ratification Poll for MIP16 Amendments (MIP4c2-SP20) - June 13, 2022

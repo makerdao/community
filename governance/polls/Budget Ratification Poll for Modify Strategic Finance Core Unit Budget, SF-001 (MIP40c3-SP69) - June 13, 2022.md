@@ -12,8 +12,8 @@ options:
    1: Approve existing budget only (business as usual)
    2: Reject budget
    3: Abstain
-   start_date: 2022-06-13T16:00:00
-   end_date: 2022-06-27T16:00:00
+start_date: 2022-06-13T16:00:00
+end_date: 2022-06-27T16:00:00
 ---
 
 # Budget Ratification Poll for Modify Strategic Finance Core Unit Budget, SF-001 (MIP40c3-SP69) - June 13, 2022
