@@ -8,9 +8,9 @@ categories:
    - Budget
    - High Impact
 options:
-   0: Approve increased budget (BaseGrowth)
-   1: Approve increased budget (BearMarket)
-   2: Approve existing budget only (BrandlessGrowth)
+   0: Approve existing budget only (BrandlessGrowth)
+   1: Approve increased budget (BaseGrowth)
+   2: Approve increased budget (BearMarket)
    3: Reject budget
    4: Abstain
 start_date: 2022-06-13T16:00:00

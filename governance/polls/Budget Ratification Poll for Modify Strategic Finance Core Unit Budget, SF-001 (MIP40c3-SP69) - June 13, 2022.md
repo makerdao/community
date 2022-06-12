@@ -28,8 +28,8 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 ## Review
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP69 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
-* **Option 1:** Approve increased budget: 1,302,185.
-* **Option 2:** Approve existing budget only (business as usual): 989,004.
+* **Option 1:** Approve increased budget: 1,302,185 DAI.
+* **Option 2:** Approve existing budget only (business as usual): 989,004 DAI.
 * **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
