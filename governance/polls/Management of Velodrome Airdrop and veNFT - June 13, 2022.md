@@ -36,7 +36,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The Velodrome team will be directed to this vote and manage the initial Maker voting weight accordingly.
-* The management of voting and fees will be turned over to the Pause Proxy at a future date, requiring further changes and fees collecting to be administered by an Executive Vote. 
+* The management of voting and fees will be turned over to the Pause Proxy at a future date, requiring further changes and fee collecting to be administered by an Executive Vote. 
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
