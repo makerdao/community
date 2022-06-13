@@ -26,7 +26,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community may vote in this poll to express support or opposition to Adding Lending Oversight Core Unit (LOVE-011) being accepted and implemented in the Maker Protocol.
 
-### MIP39c2-SP33
+### MIP39c2-SP33: Adding Lending Oversight Core Unit (LOVE-001)
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -37,7 +37,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP33)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098)
 
-### MIP40c3-SP71
+### MIP40c3-SP71:Lending Oversight Core Unit DAI Budget 
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -48,7 +48,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP71)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget-love-001/15103)
 
-### MIP40c3-SP72
+### MIP40c3-SP72: Lending Oversight Core Unit MKR Budget
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -59,7 +59,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP72)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget-love-001/15104)
 
-### MIP41c4-SP36
+### MIP41c4-SP36: Facilitator Onboarding Lending Oversight Core Unit
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
