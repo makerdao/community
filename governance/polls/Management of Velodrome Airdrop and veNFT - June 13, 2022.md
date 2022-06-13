@@ -28,7 +28,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Incentivize the DAI<>USDC and DAI<>OP pairs on Velodrome.
 * Send the resulting trading fees to the MakerDAO Optimism Governance Address.
 
-[For context](https://twitter.com/VelodromeFi/status/1529549901239050240), MakerDAO will be recieving an airdrop totaling ~1% of voting power to direct emissions on Velodrome.
+[For context](https://twitter.com/VelodromeFi/status/1529549901239050240), MakerDAO will be receiving an airdrop totaling ~1% of voting power to direct emissions on Velodrome.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-incoming-velodrome-airdrop-on-optimism-velo-venft/15371) to help inform your position before voting.
 
