@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes: 
 * Deploying a trial of permissionless open market operations on MKR, as detailed in the proposed [MIP74](https://mips.makerdao.com/mips/details/MIP74).
-* Implementing the methodology and parameters detailed below, notably resulting in a transfer of 3 Million DAI for funding the purchase of MKR:
+* Implementing the methodology and parameters detailed below, notably resulting in a vesting stream of 3 Million DAI for funding the purchase of MKR:
 
 ***Proposed operation parameters and methodology***
 
