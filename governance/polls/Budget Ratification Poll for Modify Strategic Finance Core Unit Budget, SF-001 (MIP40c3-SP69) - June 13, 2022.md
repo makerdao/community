@@ -8,10 +8,10 @@ categories:
    - Budget
    - High Impact
 options:
-   0: Approve increased budget
-   1: Approve existing budget only (business as usual)
-   2: Reject budget
-   3: Abstain
+   0: Abstain
+   1: Approve increased budget
+   2: Approve existing budget only (business as usual)
+   3: Reject budget
 start_date: 2022-06-13T16:00:00
 end_date: 2022-06-27T16:00:00
 ---
@@ -28,6 +28,7 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 ## Review
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP69 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
+* **Option 0:** Abstain.
 * **Option 1:** Approve increased budget: 1,302,185 DAI.
 * **Option 2:** Approve existing budget only (business as usual): 989,004 DAI.
 * **Option 3:** Reject budget.
