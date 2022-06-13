@@ -53,7 +53,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 **Option BrandlessGrowth** *(3,272,550.00 DAI) represents a 0% increase compared to last year's approved budget. If MKR holders select his option, we won't be able to continue with the Brand team plan.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/8f65911bd013055b7914ac141a7d4ee9ba9e61da/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/34cce188049e6d6d1adcfcaf0c4fde1c6e4f7085/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP70)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp70-modify-growth-core-unit-budget-gro-001/15102)
 
