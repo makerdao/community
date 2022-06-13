@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *During the 1 month period our network was active on Maker’s Keeper Network, we had an expenditure of 1.48 ETH (4800 USD at the time of writing), we expect this cost to be within that range (4,000 - 5,000 USD per month) and thus why we’ve decided to suggest a 4,000 Min Buffer limit. The suggested 20,000 Max Buffer limit is taken into account due to potential gas spikes and the likelihood of more jobs coming to the network within the next few months.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/24779f52630df945595594759e4cb4b757f4c177)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP63/MIP63c4-Subproposals/MIP63c4-SP4.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP63c4SP4)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network-keep3r-network/14321)
 
