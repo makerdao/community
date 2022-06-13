@@ -2,10 +2,12 @@
 title: PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY
 summary: $summary
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
-   - Rates
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

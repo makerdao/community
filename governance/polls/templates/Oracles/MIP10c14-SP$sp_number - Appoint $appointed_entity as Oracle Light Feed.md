@@ -2,9 +2,12 @@
 title: Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for appointing $appointed_entity as Oracle Light Feed
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Oracles
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

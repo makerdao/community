@@ -2,10 +2,12 @@
 title: $GenericChange - $date_MONTH_DD,_YYYY
 summary: Rank your preferred options to resolve $GenericChange.
 discussion_link: $discussion_link
-vote_type: Ranked Choice IRV
-categories:
-   - $CategoryA
-   - $CategoryB
+parameters:
+    input_format: rank-free
+    victory_conditions:
+        - { type : instant-runoff }
+    result_display: instant-runoff-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: $A

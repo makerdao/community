@@ -2,9 +2,12 @@
 title: Whitelist $whitelisted_entity on Multiple Oracles - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for whitelisting $whitelisted_entity on multiple oracles.
 discussion_link: $forum_application_A
-vote_type: Plurality Voting
-categories:
-   - Oracles
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

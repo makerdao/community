@@ -2,9 +2,12 @@
 title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
 summary: $sentence_summary
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

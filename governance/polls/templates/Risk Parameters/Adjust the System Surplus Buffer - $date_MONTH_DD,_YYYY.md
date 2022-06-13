@@ -2,9 +2,12 @@
 title: $IncreaseDecrease the System Surplus Buffer - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for adjusting the Surplus Buffer from $currentBuffer to $newBuffer.
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

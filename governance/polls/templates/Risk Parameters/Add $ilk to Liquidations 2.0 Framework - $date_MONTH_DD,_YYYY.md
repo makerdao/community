@@ -2,10 +2,12 @@
 title: Add $ilk to Liquidations 2.0 Framework - $date_MONTH_DD,_YYYY
 summary: This poll proposes system parameters which could be used to initialize $ilk with the Liquidations 2.0 Framework.
 discussion_link: $risk_link
-vote_type: Plurality Voting
-categories:
-   - Auctions
-   - Risk Variable
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

@@ -2,10 +2,12 @@
 title: $GenericChange - $date_MONTH_DD,_YYYY
 summary: Signal your preferred option to resolve $GenericChange.
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - $CategoryA
-   - $CategoryB
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [$optionIndexes] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: $A

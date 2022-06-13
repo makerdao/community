@@ -2,10 +2,12 @@
 title: $IncreaseDecrease the Dust Parameter - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to $IncreaseDecrease the Dust Parameter from $currentvalue DAI to $newvalue DAI for most vault-types.
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
-   - Technical
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

@@ -2,10 +2,12 @@
 title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name).
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Collateral
-   - Greenlight
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality, options : [1,2] }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes (Greenlight)
