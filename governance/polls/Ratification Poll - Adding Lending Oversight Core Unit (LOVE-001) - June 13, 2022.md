@@ -1,11 +1,11 @@
 ---
 title: Ratification Poll for Adding Lending Oversight Core Unit (LOVE-001) - June 13, 2022
-summary: This MIP set adds the Lending Oversight (LOVE-001) Core Unit.
+summary: This MIP set adds the Lending Oversight Core Unit (LOVE-001) to the Maker Protocol. LOVE-001 proposes to support MakerDAO by facilitating the sustainable onboarding of tens (or hunreds) of billions of more complex use cases.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098
 vote_type: Plurality Voting
 categories:
    - MIPs
-   - High Priority
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -24,7 +24,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to Adding Lending Oversight Core Unit (LOVE-011) being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Lending Oversight Core Unit (LOVE-001) being accepted and implemented in the Maker Protocol.
 
 ### MIP39c2-SP33: Adding Lending Oversight Core Unit (LOVE-001)
 

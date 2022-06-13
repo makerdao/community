@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Adding a SPF - Makershire Hathaway (MIP55c3-SP4) - June 13, 2022
-summary: The Makershire Hathaway SPF will be a 10M pool managed by the Strategic Finance CU (SF-001) under the supervision of the Risk CU (RISK-001) and the prospective Lending Oversight CU (LOVE-001) to experiment with various yield generation strategies and support DAI liquidity/utility.
+title: Ratification Poll for Adding a Special Purpose Fund - Makershire Hathaway (MIP55c3-SP4) - June 13, 2022
+summary: The Makershire Hathaway SPF will be a 10M pool managed by the Strategic Finance Core Unit (SF-001) under the supervision of the Risk Core Unit (RISK-001) and the prospective Lending Oversight Core Unit (LOVE-001) to experiment with various yield generation strategies and support DAI liquidity and utility.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643
 vote_type: Plurality Voting
 categories:
@@ -13,7 +13,7 @@ options:
 start_date: 2022-06-13T16:00:00
 end_date: 2022-06-27T16:00:00
 ---
-# Ratification Poll for Adding a SPF - Makershire Hathaway (MIP55c3-SP4)
+# Ratification Poll for Adding a Special Purpose Fund - Makershire Hathaway (MIP55c3-SP4)
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, June 13 at 16:00 UTC.
 
@@ -28,7 +28,7 @@ The community may vote in this poll to express support or opposition to MIP55c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The Maker Protocol holds over $5.4B in stablecoins earning zero yield. There are multiple efforts underway (short-term bonds 1, IVs, RWA, Multi-chain) to invest the majority of stablecoin exposure into growth opportunities. Our aim is to begin experimenting with generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol. As DeFi is evolving quickly, we should continue researching, investigating, and experimenting with DeFi-native yield-generation strategies.*
+*The Maker Protocol holds over $5.4B in stablecoins earning zero yield. There are multiple efforts underway ([short-term bonds](https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent-invest-in-short-term-bonds/13084), [IVs](https://forum.makerdao.com/t/maker-growth-strategy-we-must-act-now/14501), [RWA](https://forum.makerdao.com/t/maker-growth-strategy-we-must-act-now/14501), [Multi-chain](https://forum.makerdao.com/t/maker-growth-strategy-we-must-act-now/14501)) to invest the majority of stablecoin exposure into growth opportunities. Our aim is to begin experimenting with generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol. As DeFi is evolving quickly, we should continue researching, investigating, and experimenting with DeFi-native yield-generation strategies.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP55/MIP55c3-Subproposals/MIP55c3-SP4.md)

@@ -1,11 +1,11 @@
 ---
 title: Ratification Poll for Onboard Growth Task Force (MIP75c3-SP1) - June 13, 2022
-summary:  The Growth Task Force aims to grow the Maker ecosystem as fast as possible.
+summary:  MIP75c3-SP1 proposes the creation of the Growth Task Force. The Growth Task Force aims to grow the Maker ecosystem as fast as possible.
 discussion_link: https://forum.makerdao.com/t/mip75c3-sp1-onboard-task-force-growth-task-force/15094
 vote_type: Plurality Voting
 categories:
    - MIPs
-   - High Impact  
+   - High Impact
 options:
    0: Abstain
    1: Yes
@@ -39,7 +39,7 @@ Please review the links below to inform your position on this proposal before vo
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken, provided the parallel ratification poll for [MIP75](https://mips.makerdao.com/mips/details/MIP75) (Task Forces) passes:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, June 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 

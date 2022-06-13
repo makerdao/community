@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Onboard/Amend Keep3r Network (MIP63c4-SP4) - June 13, 2022
-summary: This is a budget amendment application for Keep3r Network: a decentralized and permissionless keeper network.
+summary: This is a budget amendment application for Keep3r Network - a decentralized and permissionless keeper network.
 discussion_link: https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network-keep3r-network/14321
 vote_type: Plurality Voting
 categories:
