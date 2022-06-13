@@ -1,6 +1,6 @@
 ---
 title: Deploy a Trial Permissionless Open Market Operation - June 13, 2022
-summary: Signal your support or opposition to deploying an open market opperaion for MKR through DssKiln.
+summary: Signal your support or opposition to deploying an open market operation for MKR through DssKiln.
 discussion_link: https://forum.makerdao.com/t/signal-request-deploy-a-trial-permissionless-open-market-operation-resurrect-the-burn/15381
 vote_type: Plurality Voting
 categories:
@@ -26,20 +26,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes: 
 * Deploying a trial of permissionless open market operations on MKR, as detailed in the proposed [MIP74](https://mips.makerdao.com/mips/details/MIP74).
-* Implementing the methodology and parameters detailed below, noteably resulting in a transfer of 3 Million DAI for funding the purchase of MKR:
+* Implementing the methodology and parameters detailed below, notably resulting in a transfer of 3 Million DAI for funding the purchase of MKR:
 
 ***Proposed operation parameters and methodology***
 
 * Methodology
-  * 3M DAI will be vested from the Surplus Buffer to the deployed contract for the duration of 3 months.
-  * The Oversight group will consist of Risk CU and Protocol Engineering CU, performance reporting will be conducted in no less than on a monthly basis.
+  * 3M DAI will be vested from the Surplus Buffer to the deployed contract for 3 months.
+  * The Oversight group will consist of Risk CU and Protocol Engineering CU, performance reporting will be conducted no less than on a monthly basis.
 * General operation parameters
   * `sell` the token to be deposited into DssKiln and sold - [[DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)]
   * `buy` the token to be bought in exchange for the sold token - [[MKR](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)]
   * `hop` duration specified in seconds. It represents a minimum number of seconds that must pass before the `lot` can be sold - [38880 seconds or 10.8 hours]
   * `lot` the maximum quantity of tokens to be sold per `hop` - [30k DAI]
 * Specific operation parameters
-  * To be published by Risk CU and Protocol Engineering CU once the code required is fully developed and all operation specific parameters are defined.
+  * To be published by Risk CU and Protocol Engineering CU once the code required is fully developed and all operation-specific parameters are defined.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-deploy-a-trial-permissionless-open-market-operation-resurrect-the-burn/15381) to help inform your position before voting.
 
