@@ -33,7 +33,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *LOVE-001 intends to support the DAO in its evolution towards becoming the central pillar of DeFi by facilitating the sustainable onboarding of tens (or hundreds) of billions of more complex use cases. LOVE-001 will do this by developing state-of-the-art frameworks for internal checks and balances, acting as an additional line of defense within the DAO, and helping to educate the community.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/7b9969b1f37fe8544872804d0276d25dedeeb8f2)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/7b9969b1f37fe8544872804d0276d25dedeeb8f2/MIP39/MIP39c2-Subproposals/MIP39c2-SP33.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP33)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098)
 
@@ -44,7 +44,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *LOVE-001 intends to support the DAO in its evolution, by facilitating the sustainable onboarding of tens (or hundreds) of billions of more complex use cases. LOVE-001 will do this by developing state-of-the-art frameworks for internal checks and balances, acting as an additional line of defense within the DAO, and helping to educate the community.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/cb788a1a5ba3d59202425918a8c98d904f4bce23)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/cb788a1a5ba3d59202425918a8c98d904f4bce23/MIP40/MIP40c3-Subproposals/MIP40c3-SP71.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP71)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget-love-001/15103)
 
@@ -55,7 +55,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Lending Oversight Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure [discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest. Overall, this proposal would commit a maximum of 1,292.28 MKR to LOVE-001 contributors, covering MKR compensation for the Core Unit from its inception. This is approximately 63.47 MKR/ FTE/ year.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/626570f9e3e20708f6223a463b6e839259e91c76)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/626570f9e3e20708f6223a463b6e839259e91c76/MIP40/MIP40c3-Subproposals/MIP40c3-SP72.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP72)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget-love-001/15104)
 
@@ -66,7 +66,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *I, @luca_pro, have been an active member of MakerDAO's community for a while, helping defining Maker's role along the crypto lending stack (also through the publication of the [Real-World Sandbox Report](https://forum.makerdao.com/t/real-world-sandbox-final-deliverable-for-consultation-round/11915?u=luca_pro)) as well as collaborating with several Core Units. I have an extensive 15+ years experience at the highest level of banking and fintech, and am a DeFi researcher through my Substack publication [Dirt Roads](https://dirtroads.substack.com/). I am a firm believer of MakerDAO's centrality within the DeFi ecosystem and intend to do everything I can to support this vision and the evolution of the DAO as Facilitator of LOVE-001.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/626570f9e3e20708f6223a463b6e839259e91c76)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/626570f9e3e20708f6223a463b6e839259e91c76/MIP41/MIP41c4-Subproposals/MIP41c4-SP36.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP36)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit-love-001/15105)
 
