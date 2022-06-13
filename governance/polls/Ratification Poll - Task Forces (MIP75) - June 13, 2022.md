@@ -1,20 +1,21 @@
 ---
-title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
-summary: $sentence_summary
-discussion_link: $discussion_link
+title: Ratification Poll for Task Forces (MIP75) - June 13, 2022.
+summary: MIP75 proposes the formalization of Task Forces. These groups will be responsible for coordinating high-level business decisions on behalf of the DAO. They may also work with an associated discretionary fund to realize business objectives.
+discussion_link: https://forum.makerdao.com/t/mip75-task-forces/15093
 vote_type: Plurality Voting
 categories:
    - MIPs
+   - High Impact
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-06-13T16:00:00
+end_date: 2022-06-27T16:00:00
 ---
-# Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
+# Ratification Poll for Task Forces (MIP75) - June 13, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, June 13 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -23,23 +24,23 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP75 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*$paragraph_summary*
+*MIP75 proposes the formalization of Task Forces. These groups are designed to directly interface with the delegates to coordinate and agree upon terms in advance to provide more autonomy within the Core Units. Task Forces can be formed by anyone, but the ratification process needs to be put to a vote due to discretionary fund requests being attached. Task Forces are free to add or remove members by their own consensus rules.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/626570f9e3e20708f6223a463b6e839259e91c76/MIP75/MIP75.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP75)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip75-task-forces/15093)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on $week_four_governance_call_date.
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, June 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

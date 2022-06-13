@@ -16,15 +16,15 @@ end_date: $YYYY-MM-DDT16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 # Review
 
 MKR Token Holders may vote in this poll to express support or opposition to the following change to the [System Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) (also referred to as the 'System Surplus'):
-* $IncreaseDecrease the System Surplus Buffer from $currentBuffer to $newBuffer. 
+* $IncreaseDecrease the System Surplus Buffer from $currentBuffer to $newBuffer.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
 
@@ -50,4 +50,3 @@ Additional information about the Governance process can be found in the [Governa
 To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
-
