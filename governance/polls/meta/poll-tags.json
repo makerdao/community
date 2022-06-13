@@ -2858,5 +2858,85 @@
   "815": [
     "misc-governance",
     "prioritization-sentiment"
+  ],
+  "816": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "817": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "819": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget",
+    "core-unit-onboard"
+  ],
+  "820": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "821": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "822": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "823": [
+    "low-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "824": [
+    "high-impact",
+    "surplus",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "825": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "826": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "827": [
+    "high-impact",
+    "surplus",
+    "misc-funding"
+  ],
+  "828": [
+    "medium-impact",
+    "misc-governance"
+  ],
+  "829": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter"
+  ],
+  "830": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
   ]
 }
