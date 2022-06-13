@@ -17,14 +17,14 @@ end_date: $YYYY-MM-DDT16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-The community can vote in this poll to express support or opposition to modifying the [Debt Floor](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) (also known as Dust) parameter for most vault-types: 
+The community can vote in this poll to express support or opposition to modifying the [Debt Floor](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) (also known as Dust) parameter for most vault-types:
 * $IncreaseDecrease the Dust Parameter from $currentvalue DAI to $newvalue DAI for most vault-types.
 * PSM vault-types will be excluded from this change.
 
@@ -33,7 +33,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows. 
+* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
