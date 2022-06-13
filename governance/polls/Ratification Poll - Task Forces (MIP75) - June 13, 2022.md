@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP75 proposes the formalization of Task Forces. These groups are designed to directly interface with the delegates to coordinate and agree upon terms in advance to provide more autonomy within the Core Units. Task Forces can be formed by anyone, but the ratification process needs to be put to a vote due to discretionary fund requests being attached. Task Forces are free to add or remove members by their own consensus rules.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/626570f9e3e20708f6223a463b6e839259e91c76)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/626570f9e3e20708f6223a463b6e839259e91c76/MIP75/MIP75.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP75)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip75-task-forces/15093)
 
