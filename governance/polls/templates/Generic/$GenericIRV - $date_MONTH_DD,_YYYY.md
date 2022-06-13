@@ -5,7 +5,7 @@ discussion_link: $discussion_link
 parameters:
     input_format: rank-free
     victory_conditions:
-        - { type : instant-runoff }
+        - { type : instant-runoff , options : [$optionIndexes] }
     result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
