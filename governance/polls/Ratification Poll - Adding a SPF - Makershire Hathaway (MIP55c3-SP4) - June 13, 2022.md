@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Adding a SPF - Makershire Hathaway (MIP55c3-SP4) - June 13, 2022
-summary: The Makershire Hathaway SPF will be a 10M pool managed by the SF CU under the supervision of Risk CU and prospective LOVE CU to experiment with various yield generation strategies and support DAI liquidity/utility.
+summary: The Makershire Hathaway SPF will be a 10M pool managed by the Strategic Finance CU (SF-001) under the supervision of the Risk CU (RISK-001) and the prospective Lending Oversight CU (LOVE-001) to experiment with various yield generation strategies and support DAI liquidity/utility.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643
 vote_type: Plurality Voting
 categories:
@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Maker Protocol holds over $5.4B in stablecoins earning zero yield. There are multiple efforts underway (short-term bonds 1, IVs, RWA, Multi-chain) to invest the majority of stablecoin exposure into growth opportunities. Our aim is to begin experimenting with generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol. As DeFi is evolving quickly, we should continue researching, investigating, and experimenting with DeFi-native yield-generation strategies.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/24779f52630df945595594759e4cb4b757f4c177)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP55/MIP55c3-Subproposals/MIP55c3-SP4.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP4)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643)
 
