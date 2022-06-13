@@ -30,7 +30,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal adds @tadeo as the Facilitator for the Data Insights Core Unit (DICU).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/38b7071c8668f2eb20dc35978c59183c924827ac/MIP41/MIP41c4-Subproposals/MIP41c4-SP35.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/938fcf82d93b708efe850d4e3fa942e3b8440fbc/MIP41/MIP41c4-Subproposals/MIP41c4-SP35.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP35)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp35-facilitator-onboarding-din-001/14948)
 
