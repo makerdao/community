@@ -31,7 +31,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *It is our view that we are in a nascent stage of crypto, and controlling as much future market share as possible is critical for the survival of this project. Our focus is on practical solutions to achieve the objectives listed below as quickly as possible. Perfection is the enemy of progress. We aim to find solutions that work first and backfill decentralization / resilience later.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/24779f52630df945595594759e4cb4b757f4c177)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP75/MIP75c3-Subproposals/MIP75c3-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP75c3SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip75c3-sp1-onboard-task-force-growth-task-force/15094)
 
