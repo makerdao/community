@@ -9,7 +9,7 @@ external_profile_url:
 
 Delegate Address: 0xEtcetera  
 Forum: @LongForWisdom  
-Rocketchat: @LongForWisdom  
+Discord: @LongForWisdom  
 Email (optional): longforwisdomandstuff@gmail.com  
 External Website (optional): www.longforwisdom.com  
 Meet Your Delegate Video (optional): youtube or something  
