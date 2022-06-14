@@ -12,7 +12,7 @@ tags:
 ### Key Info
 
 Delegate Name: mhonkasalo & teemulau  
-Delegate Address: [0xaa19f47e6aCb02dF88efA9f023F2A38412069902](https://etherscan.io/address/0xaa19f47e6acb02df88efa9f023f2a38412069902)
+Delegate Address: [0xaa19f47e6aCb02dF88efA9f023F2A38412069902](https://etherscan.io/address/0xaa19f47e6acb02df88efa9f023f2a38412069902)  
 Forum: @mhonkasalo and @teemulau  
 Discord: mhonkasalo#3692 & teemulau#7395  
   
