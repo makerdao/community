@@ -2882,12 +2882,6 @@
     "ratification",
     "mips"
   ],
-  "821": [
-    "high-impact",
-    "misc-funding",
-    "ratification",
-    "mips"
-  ],
   "822": [
     "high-impact",
     "misc-funding",
@@ -2938,5 +2932,11 @@
     "ratification",
     "mips",
     "budget"
+  ],
+  "831": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
   ]
 }
