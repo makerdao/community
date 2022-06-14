@@ -28,7 +28,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 The community can vote in this poll to rank their support of the following options:
 * Abstain - should be the only option ranked if you have no preference on the outcome of this poll.
 * Approve Task Force and associated delegated authority to spend funds - ranking this option supports the approval of the Growth Task Force and initial funding of 1 million DAI.
-* Approve Task Force without associated delegated authority to spend funds - ranking this option supports the approval of the Growth Task Force with no initial funding.
+* Approve Task Force without associated delegated authority to spend funds - ranking this option supports the approval of the Growth Task Force with no initial funding. This would allow the task force access to the expedited governance process described in [MIP75](https://mips.makerdao.com/mips/details/MIP75).
 * Reject Task Force - ranking this option supports the rejection of the Growth Task Force, granting no special privileges or funding. 
 
 
