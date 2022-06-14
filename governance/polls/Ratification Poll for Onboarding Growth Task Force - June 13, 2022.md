@@ -29,7 +29,7 @@ The community can vote in this poll to rank their support of the following optio
 * Abstain - should be the only option ranked if you have no preference on the outcome of this poll.
 * Approve Task Force and associated delegated authority to spend funds - ranking this option supports the approval of the Growth Task Force and initial funding of 1 million DAI.
 * Approve Task Force without associated delegated authority to spend funds - ranking this option supports the approval of the Growth Task Force with no initial funding.
-* Reject Task Force - ranking this option supports the rejection of the Growth Task Force, granting no special privelleges or funding. 
+* Reject Task Force - ranking this option supports the rejection of the Growth Task Force, granting no special privileges or funding. 
 
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
