@@ -37,7 +37,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 As per this [urgent signal request](https://forum.makerdao.com/t/urgent-signal-request-set-aave-d3m-bar-to-0/15800), the following change will be made if this executive proposal passes.
 * The Aave DAI Direct Deposit Module (D3M) [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) will be set to **0**.
 
-This change is being proposed to temporarily disable the Aave D3M. Note that while setting the `bar` to 0 might intuitively suggest that the Aave D3M will utilize its full debt ceiling, it is a pre-programmed state in the D3M code that will de-activate the D3M entirely. 
+This change is being proposed to temporarily disable the Aave D3M. Note that while setting the `bar` to 0 might intuitively suggest that the Aave D3M will utilize its full debt ceiling, it is a pre-programmed state in the D3M code that will set the vault to unwind only. 
 
 Further details on this issue and the origin of this proposal can be found in the link below:
 * [Risk Core Unit Analysis and Recommendation](https://forum.makerdao.com/t/signal-request-set-the-aave-d3m-dc-to-0-zero/15775/15)
