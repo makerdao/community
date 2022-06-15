@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-This is an [out-of-schedule](https://mips.makerdao.com/mips/details/MIP41#MIP41c2) executive proposal. It has been deployed and added to the voting portal in response to an [urgent signal request](https://mips.makerdao.com/mips/details/MIP24#MIP24c4) that was posted on the recommendation of the Risk Core Unit ([RISK-001](https://mips.makerdao.com/mips/details/MIP39c2SP2)) facilitator. The Signal Request can be seen [here](https://forum.makerdao.com/t/urgent-signal-request-set-aave-d3m-bar-to-0/15800). In summary, the Risk Core Unit believes a proposal currently being voted on by Aave Governance presents unacceptable risk to the Maker Protocol, if approved. 
+This is an [out-of-schedule](https://mips.makerdao.com/mips/details/MIP41#MIP41c2) executive proposal. It has been deployed and added to the voting portal in response to an [urgent signal request](https://mips.makerdao.com/mips/details/MIP24#MIP24c4) that was posted on the recommendation of the Risk Core Unit ([RISK-001](https://mips.makerdao.com/mips/details/MIP39c2SP2)) facilitator. The Signal Request can be seen [here](https://forum.makerdao.com/t/urgent-signal-request-set-aave-d3m-bar-to-0/15800). In summary, the Risk Core Unit believes a proposal currently being voted on by Aave Governance presents an unacceptable risk to the Maker Protocol, if approved. 
 
 The express purpose of this executive proposal is to disable the Aave D3M until the Risk Core Unit and/or the Maker Community are satisfied that this risk is no longer present.
 
@@ -37,7 +37,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 As per this [urgent signal request](https://forum.makerdao.com/t/urgent-signal-request-set-aave-d3m-bar-to-0/15800), the following change will be made if this executive proposal passes.
 * The Aave DAI Direct Deposit Module (D3M) [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) will be set to **0**.
 
-This change is being proposed to temporarily disable the Aave D3M. Note that while setting the `bar` to 0 might intuitively suggest that the Aave D3M will utilize it's full debt ceiling, it is a pre-programmed state in the D3M code that will de-activate the D3M entirely. 
+This change is being proposed to temporarily disable the Aave D3M. Note that while setting the `bar` to 0 might intuitively suggest that the Aave D3M will utilize its full debt ceiling, it is a pre-programmed state in the D3M code that will de-activate the D3M entirely. 
 
 Further details on this issue and the origin of this proposal can be found in the link below:
 * [Risk Core Unit Analysis and Recommendation](https://forum.makerdao.com/t/signal-request-set-the-aave-d3m-dc-to-0-zero/15775/15)
