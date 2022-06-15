@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Temporarily Disable the Aave DAI Direct Deposit Module (D3M) - June 15, 2022
 summary: Decrease the Target Borrow Rate (`bar`) of the Aave D3M to 0, this will unwind the Aave D3M vault.
 date: 2022-06-15T00:00:00.000Z
-address: "$spell_address"
+address: "0x76b686379234C90b2d9d4A9412A359783273f6b2"
 
 ---
 # [Executive Proposal] Temporarily Disable the Aave DAI Direct Deposit Module (D3M) - June 15, 2022
