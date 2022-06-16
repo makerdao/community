@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] MKR Vesting Transfers - June 22, 2022
-summary: MKR vesting distributions to the Deco Fixed Rate and Real World Finance Core Units
+summary: MKR vesting distributions to the Deco Fixed Rate and Real-World Finance Core Units.
 date: 2022-06-22T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - **500 MKR** will be transferred to the Deco Fixed Rate Core Unit at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7).
-- **80 MKR** will be transferred to the Real World Finance Core Unit at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
+- **80 MKR** will be transferred to the Real-World Finance Core Unit at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
