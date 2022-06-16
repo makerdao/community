@@ -31,7 +31,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### DECO-001 MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36) **500 MKR** will be transferred to the [Deco Fixed Rate Core Unit's ([DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23)) auditor wallet at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7), if this executive proposal passes.
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36) **500 MKR** will be transferred to the Deco Fixed Rate Core Unit's ([DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23)) auditor wallet at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7), if this executive proposal passes.
 
 ### RWF-001 MKR Transfer
 
