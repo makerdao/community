@@ -1,6 +1,10 @@
 ---
 name: Hasu
 external_profile_url:
+tags:
+  - vision
+  - revenue
+  - risk
 ---
 
 # Hasu
