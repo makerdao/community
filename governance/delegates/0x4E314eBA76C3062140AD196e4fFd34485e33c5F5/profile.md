@@ -1,6 +1,10 @@
 ---
 name: Governance House
 external_profile_url: https://forum.makerdao.com/t/governance-house-delegate-platform/15191
+tags:
+  - growth
+  - pragmatism
+  - risk
 ---
 
 # Governance House
