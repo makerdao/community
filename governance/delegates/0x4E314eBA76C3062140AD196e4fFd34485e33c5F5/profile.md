@@ -14,7 +14,7 @@ Delegate Address: 0xd2362DbB5Aa708Bc454Ce5C3F11050C016764fA6
 Forum: @GovernanceHouse
 Discord: puncar#6764
 Email: 0x.puncar@gmail.com  
-Meet Your Delegate Video :https://youtu.be/67PFalZks5I
+Meet Your Delegate Video: https://youtu.be/67PFalZks5I
 
 ### Core Values (Optional)
 
