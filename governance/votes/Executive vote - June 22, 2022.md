@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - **500 MKR** will be transferred to the Deco Fixed Rate Core Unit at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7).
-- **80 MKR** will be transferred to the Real-World Finance Core Unit at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
+- **152 MKR** will be transferred to the Real-World Finance Core Unit at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
@@ -35,7 +35,7 @@ As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/de
 
 ### RWF-001 MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38) **80 MKR** will be transferred to the Real-World Finance Core Unit's ([RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1)) auditor wallet at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38) **152 MKR** will be transferred to the Real-World Finance Core Unit's ([RWF-001](https://mips.makerdao.com/mips/details/MIP39c2SP1)) auditor wallet at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec).
 
 Note that the amount differs from the amount in the original proposal due to personnel changes within the Real-World Finance Core Unit. Also note that the distribution address has been amended to remain consistent with the budget implementation described in the most recent Real-World Finance Core Unit DAI budget [proposal](https://mips.makerdao.com/mips/details/MIP40c3SP61).
 
