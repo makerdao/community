@@ -1,6 +1,13 @@
 ---
 name: MakerMan
 external_profile_url:
+tags:
+  - data-driven
+  - security
+  - sustainability
+  - scalability
+  - pragmatism
+  - decentralization
 ---
 
 # MakerMan
