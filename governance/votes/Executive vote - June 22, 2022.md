@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] MKR Vesting Transfers - June 22, 2022
 summary: MKR vesting distributions to the Deco Fixed Rate and Real-World Finance Core Units.
 date: 2022-06-22T00:00:00.000Z
-address: "$spell_address"
+address: "0xa963cc9e4F1Dc187d561830ee299040C582e2BfC"
 
 ---
 # [Executive Proposal] MKR Vesting Transfers - June 22, 2022
