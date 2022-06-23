@@ -16,8 +16,8 @@ tags:
 
 Name: Gauntlet  
 Delegate Address: `0xB0B829a6AaE0F7e59B43391b2C8a1CFD0C801c8C`  
-Forum: @inkymaze  
-Rocketchat: @inkymaze  
+Forum: @Matt, @inkymaze  
+Discord: Matt Dobel (Gauntlet)#5611  
 Website: https://gauntlet.network/  
 
 
