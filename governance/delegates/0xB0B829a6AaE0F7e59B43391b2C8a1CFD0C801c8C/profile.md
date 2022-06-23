@@ -1,6 +1,13 @@
 ---
 name: gauntlet
 external_profile_url: https://gauntlet.network/
+tags:
+  - risk
+  - data-driven
+  - security
+  - trust
+  - scalability
+  - compliance
 ---
 
 # Gauntlet
