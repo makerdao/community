@@ -43,7 +43,7 @@ As per these successful polls for offboarding [UNI-A](https://vote.makerdao.com/
 
 #### UNI-A
 
-Increase the [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio?q=debt+ceiling) from 165% to 1300% over 30 days using [linear extrapolation (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp#considerations).
+Increase the [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) from 165% to 1300% over 30 days using [linear extrapolation (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp#considerations).
 
 #### UNIV2DAIETH-A
 
