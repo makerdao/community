@@ -16,10 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- 175 MKR will be transfered to the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2), as detailed below. 
+- 175 MKR will be transferred to the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP2), as detailed below. 
 - Liquidations will be activated for UNI-A, UNIV2DAIETH-A, UNIV2WBTCETH-A, and UNIV2WBTCDAI-A, gradually increasing the liquidation ratio for these vaults over 30 days through [linear extrapolation (dss-lerp)](https://manual.makerdao.com/module-index/module-lerp#considerations), as detailed below.
 
-Note that UNIV2UNIETH-A is also in the process of being offboarded, but due to no active DAI positions on the vault-type no action is required at this stage.
+Note that UNIV2UNIETH-A is also in the process of being offboarded, but due to no active DAI positions on the vault-type, no action is required at this stage.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -39,7 +39,7 @@ As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/de
 
 ### Collateral Offboarding
 
-As per these successful polls for offboarding [UNI-A](https://vote.makerdao.com/polling/QmSfLS6V#poll-detail), [UNIV2DAIETH-A](https://vote.makerdao.com/polling/QmQUozNn#poll-detail), [UNIV2WBTCETH-A](https://vote.makerdao.com/polling/QmY3YsDB#poll-detail), [UNIV2UNIETH-A](https://vote.makerdao.com/polling/QmUeYVa2#poll-detail), and [UNIV2WBTCDAI-A](https://vote.makerdao.com/polling/QmZHNkip#poll-detail), the following changes to [liquidation ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio?q=debt+ceiling) will take place if this executive proposal passes. This is the next step of preforming collateral offboardings, as defined by [MIP62](https://mips.makerdao.com/mips/details/MIP62). This executive vote follows a [previously successful executive proposal](https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-starknet-bridge-limit-and-authority-changes-recognized-delegate-compensation-sh-001-budget-distribution-june-08-2022#proposal-detail) that set the mentioned collaterals [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling?q=debt+ceiling) to 0.
+As per these successful polls for offboarding [UNI-A](https://vote.makerdao.com/polling/QmSfLS6V#poll-detail), [UNIV2DAIETH-A](https://vote.makerdao.com/polling/QmQUozNn#poll-detail), [UNIV2WBTCETH-A](https://vote.makerdao.com/polling/QmY3YsDB#poll-detail), [UNIV2UNIETH-A](https://vote.makerdao.com/polling/QmUeYVa2#poll-detail), and [UNIV2WBTCDAI-A](https://vote.makerdao.com/polling/QmZHNkip#poll-detail), the following changes to [liquidation ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio?q=debt+ceiling) will take place if this executive proposal passes. This is the next step of performing collateral offboardings, as defined by [MIP62](https://mips.makerdao.com/mips/details/MIP62). This executive vote follows a [previously successful executive proposal](https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-starknet-bridge-limit-and-authority-changes-recognized-delegate-compensation-sh-001-budget-distribution-june-08-2022#proposal-detail) that set the mentioned collaterals [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling?q=debt+ceiling) to 0.
 
 #### UNI-A
 
@@ -55,7 +55,7 @@ Increase the [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vau
 
 #### UNIV2UNIETH-A
 
-No changes to UNIV2UNIETH-A will take place in this executive, as the vault type already has 0 outstanding DAI. However, it will continue to be offboarded if this proposal passes.
+No changes to UNIV2UNIETH-A will take place in this executive, as the vault-type already has 0 outstanding DAI. However, it will continue to be offboarded if this proposal passes.
 
 #### UNIV2WBTCDAI-A
 
