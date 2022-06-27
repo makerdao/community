@@ -1,6 +1,13 @@
 ---
 name: MakerMan
 external_profile_url:
+tags:
+  - data-driven
+  - security
+  - sustainability
+  - scalability
+  - pragmatism
+  - decentralization
 ---
 
 # MakerMan
@@ -11,7 +18,7 @@ Name: MakerMan
 
 Forum: @MakerMan
 
-Rocketchat: @Maker_Man
+Discord: @MakerMan#6155
 
 Email: DaiMakerMan@gmail.com
 

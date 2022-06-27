@@ -1,6 +1,10 @@
 ---
 name: Flip Flop Flap Delegate LLC 
 external_profile_url: https://forum.makerdao.com/u/elprogreso/
+tags:
+  - decentralization
+  - scalability
+  - growth
 ---
 
 # Flip Flop Flap Delegate LLC 
@@ -9,7 +13,7 @@ external_profile_url: https://forum.makerdao.com/u/elprogreso/
 
 Delegate Address: flapper.eth  
 Forum: @ElProgreso  
-Rocketchat: @ElPro  
+Discord: @ElPro#2818  
 Email (optional): ElProDAI@protonmail.com  
 Introduction Video: https://www.youtube.com/watch?v=22ut8FuGu_Q  
 Meet Your Delegate Video: https://www.youtube.com/watch?v=SVUm1Bz0U9A&t=1577s

@@ -12,12 +12,12 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# Inclusion Poll for $mip_set - $date_MONTH_DD,_YYYY
+# Ratification Poll for $mip_set - $date_MONTH_DD,_YYYY
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *($paragraph_summary)*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Canonical Proposal Version]($link_to_github_commit_version)
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
 
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *($paragraph_summary)*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Canonical Proposal Version]($link_to_github_commit_version)
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
 
@@ -54,7 +54,18 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *$paragraph_summary*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Cannonical Proposal Version]($link_to_github_commit_version)
+* [Canonical Proposal Version]($link_to_github_commit_version)
+* [Latest Proposal Version]($link_to_portal_version)
+* [Proposal Discussion Thread]($discussion_link)
+
+### $mip_code_4
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*$paragraph_summary*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version]($link_to_github_commit_version)
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
 
@@ -63,7 +74,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date. 
+* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date.
 * Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

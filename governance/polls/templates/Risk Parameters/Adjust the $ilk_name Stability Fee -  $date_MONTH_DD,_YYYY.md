@@ -17,14 +17,14 @@ end_date: $YYYY-MM-DDT16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is a binary vote.** 
-- **You may vote for a single option.** 
+**This is a binary vote.**
+- **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
 
 ## Review
 
-MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee) change: 
+MKR Token Holders may vote in this poll to express support or opposition to the following [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) change:
 * $IncreaseDecrease the $ilk_name Stability Fee from $current_fee to $new_fee.
 
 Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
@@ -32,8 +32,9 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This parameter change will be included in the weekly Executive Vote on the Friday following the conclusion of this poll. 
-* If the Friday executive passes, then this parameter change will become active in the Maker Protocol after the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay) has expired.
+* This parameter change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
+* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
@@ -41,7 +42,7 @@ Please review the discussion [thread]($discussion_link) to inform your position 
 
 ## Resources
 
-Unsure about the Stability Fee parameter and what you should take into account when voting? Check out the parameter documentation [here](https://community-development.makerdao.com/en/learn/governance/param-stability-fee).
+Unsure about the Stability Fee parameter and what you should take into account when voting? Check out the parameter documentation [here](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee).
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 

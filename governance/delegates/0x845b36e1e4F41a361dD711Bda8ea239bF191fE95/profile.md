@@ -1,16 +1,19 @@
 ---
-name: Tim Black
+name: Feedblack Loops LLC
 external_profile_url: https://twitter.com/iamTWB_
+tags:
+  - scalability
+  - community
+  - guidance
 ---
 
-# Tim Black
+# Feedblack Loops LLC
 
 ### Key Info
 
 Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)  
 Forum: **@twblack88**  
-Rocketchat: @tim.black  
-Email (optional): [timothy.william.black@gmail.com](mailto:timothy.william.black@gmail.com)  
+Email (optional): [governance@feedblackloops.com](mailto:governance@feedblackloops.com)
 
 ## Values
 
@@ -24,7 +27,7 @@ In my humble opinion, being a delegate is simply about responsibility and levera
 
 ### Who am I?
 
-I’ve [been around the block in crypto](https://www.linkedin.com/in/timwblack/) at both centralized and decentralized companies/communities. Currently, I work at [Rabbithole](http://rabbithole.gg/) as my day job.
+I’ve [been around the block in crypto](https://www.linkedin.com/in/timwblack/) at both centralized and decentralized companies/communities.
 
 I [did some stuff](https://github.com/makerdao/community/issues?q=is%3Aissue+is%3Aopen+is%3Aclosed+author%3Atwblack88) and [such](https://github.com/twblack88) for community development at the Foundation.
 
@@ -48,17 +51,6 @@ Conversely, if you blend my optimism and startup experience into a bit of a para
 
 #### Aligned incentives > conflict of interest
 
-Interestingly, I don’t have any conflicts of interest; I actually have aligned incentives instead. :smile: The most actionable benefit I can see at the moment is sharing delegate views (whether agreeing or not) via Maker Relay every month on the MIPs cycle or whenever there are contentious votes. Trying to stay impartial (e.g., my opinion would go last).
+Interestingly, I don’t have any conflicts of interest; I  align incentives instead. :smile:. I always try to keep any full time employment focused, relevant, and adjacent to Maker. This focuses my full attention on participating here while leveraging collaborative opportunities.
 
-But **_also_**, there is my [day job at Rabbit hole](https://twitter.com/iamTWB_/status/1404576140585361413?s=20). We're building an on-chain resume, and part of that is learning and trying to scale the delegates' experience on-chain. Dogfooding this opportunity and attempting templatization for the rest of the DeFi community is quite literally part of my role. This tends to be how it goes anyways; MakerDAO does a thing in an extremely robust way, the rest of DeFi borrows heavily.
-
-#### Possible conflict of interest?
-
-**Payment**
-
-It’s worth stating that as a delegate I won’t be doing this all for free. I don’t think it’s fair to expect a 10 hour minimum of weekly work to be an informed voter on behalf of others without _some_ level of compensation. We haven’t figured out the model for this quite yet, once we have the rough edges I will communicate what I think is the best approach.
-
-_Keeper?_
-Not sure if operating a keeper is a conflict of interest, but I do have some hope in getting the backstop keeper running on a computer at home. I will probably get sandwiched, but hey, one for the cause, am I right?
-
-I read and agree to follow the [Delegate Code of Conduct. ](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
+I read and agree to follow the [Delegate Code of Conduct.](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)

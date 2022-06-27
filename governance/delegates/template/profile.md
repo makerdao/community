@@ -1,6 +1,10 @@
 ---
 name: Template Delegate
 external_profile_url:
+tags:
+  - tag_A
+  - tag_B
+  - tag_C
 ---
 
 # Delegate Name
@@ -9,7 +13,7 @@ external_profile_url:
 
 Delegate Address: 0xEtcetera  
 Forum: @LongForWisdom  
-Rocketchat: @LongForWisdom  
+Discord: @LongForWisdom  
 Email (optional): longforwisdomandstuff@gmail.com  
 External Website (optional): www.longforwisdom.com  
 Meet Your Delegate Video (optional): youtube or something  
