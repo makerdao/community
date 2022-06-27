@@ -2938,5 +2938,9 @@
     "misc-funding",
     "ratification",
     "mips"
+  ],
+  "832": [
+    "medium-impact",
+    "real-world-assets"
   ]
 }
