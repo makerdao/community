@@ -26,9 +26,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-* US Short Treasuries (100%) - 100% composition of US Short-Term Treasuries, 40% 0-1 year US Treasury ishares ETF & 60% 1-3 year US Treasury ishares ETF [from BlackRock](https://hackmd.io/@allangiraf/Clydesdale-BRproposal).
-* US Short Treasuries (80%) + IG Corp Bond(20%) - 80% composition of US Short-Term Treasuries (40% 0-1 year US Treasury ishares ETF & 60% 1-3 year US Treasury ishares ETF [from BlackRock](https://hackmd.io/@allangiraf/Clydesdale-BRproposal)) and 20% IG Corporate Bond (split of US Treasury Index and Active global mandate for 0-5y investment grade, clean money aligned, corporate bonds from [Baillie Gifford](https://hackmd.io/@allangiraf/Clydesdale-BG-proposal)).
-* Reject Options - Rank this option to indicate you would not support allocation in any of the above-listed options.
+* **US Short Treasuries (100%)** - 100% composition of US Short-Term Treasuries, 40% 0-1 year US Treasury ishares ETF & 60% 1-3 year US Treasury ishares ETF [from BlackRock](https://hackmd.io/@allangiraf/Clydesdale-BRproposal).
+* **US Short Treasuries (80%) + IG Corp Bond(20%)** - 80% composition of US Short-Term Treasuries (40% 0-1 year US Treasury ishares ETF & 60% 1-3 year US Treasury ishares ETF [from BlackRock](https://hackmd.io/@allangiraf/Clydesdale-BRproposal)) and 20% IG Corporate Bond (split of US Treasury Index and Active global mandate for 0-5y investment grade, clean money aligned, corporate bonds [from Baillie Gifford](https://hackmd.io/@allangiraf/Clydesdale-BG-proposal)).
+* **Reject Options** - Rank this option to indicate you would not support allocation in any of the above-listed options.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-asset-allocation-of-mip65-clydesdale/15922) to help inform your position before voting.
 
