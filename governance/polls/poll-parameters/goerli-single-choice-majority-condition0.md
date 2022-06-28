@@ -9,7 +9,7 @@ parameters:
     - { type : comparison, options: [0, 1, 4], comparator : '>=10000' }
     - { type : default, value : 2 }
   result_display: single-vote-breakdown
-version: v0.0.1    
+version: v2.0.0  
 options:
   0: Option 1
   1: Option 2
