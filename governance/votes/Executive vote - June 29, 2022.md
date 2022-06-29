@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit MKR Transfer and Advancing Collateral Offboardings - June 29, 2022
 summary: Rick Core Unit MKR Vesting Transfer and activating liquidations lerp on selected Uniswap V2 vaults and UNI-A.
 date: 2022-06-29T00:00:00.000Z
-address: "$spell_address"
+address: "0xD67A415a55A11C128a04fEd4B9C94cF61A633e7f"
 
 ---
 # [Executive Proposal] Core Unit MKR Transfer, Advancing Collateral Offboardings, and Chainlog Housekeeping - June 29, 2022
