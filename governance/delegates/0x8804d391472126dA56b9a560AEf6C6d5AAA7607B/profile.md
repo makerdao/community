@@ -55,8 +55,6 @@ A large number of users in Asia focus on convenience and accessibility. As a res
 
 **Conflicts of Interest**
 
-Contributor to the Growth Core Unit. I help with the team’s growth in Asia.
-
 Co-founder at Stable Node, which invested and/or work with various entities such as Instadapp, Superfluid, Monetalis, Klaytn, and Polygon.
 
 In terms of personal holdings above $1K, beside ETH,MKR,DAI,USDC, I invested and hold APWine Finance (APW), BlackPool Token (BPT), and SOLACE. And indirectly holds Dunamu (Upbit Exchange) equity via a fund.
