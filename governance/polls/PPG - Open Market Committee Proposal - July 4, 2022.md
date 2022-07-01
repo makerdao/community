@@ -1,7 +1,7 @@
 ---
-title: PPG - Open Market Committee Proposal - July 2, 2022
+title: PPG - Open Market Committee Proposal - July 4, 2022
 summary: Signal your support or opposition to included parameter changes based on the recommendation of the Maker Open Market Committee.
-discussion_link: [$discussion_link](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-30-june-2022/16248)
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-30-june-2022/16248
 vote_type: Plurality Voting
 categories:
    - Risk Variable
@@ -14,9 +14,9 @@ options:
 start_date: 2022-07-04T16:00:00
 end_date: 2022-07-07T16:00:00
 ---
-# PPG - Open Market Committee Proposal - July 2, 2022
+# PPG - Open Market Committee Proposal - July 4, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, July 2 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, July 4 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes:
 
-**[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes**
+### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes
 
 - Increase the **GUNIV3DAIUSDC1-A** Stability Fee to 0.01%.
 - Increase the **UNIV2DAIUSDC-A** Stability Fee to 0.01%.
@@ -35,20 +35,22 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 - Reduce the **USDC-A** Stability Fee to 0%.
 - Reduce the **UUSDP-A** Stability Fee to 0%.
 
-**[Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes**
+### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes
 
-- Increase the **UNIV2DAIUSDC-A** Maximum Debt Ceiling to 300 million.
-- Reduce the **LINK-A** Maximum Debt Ceiling to 25 million.
-- Reduce the **WSTETH-A** Maximum Debt Ceiling to 150 million.
-- Reduce the **WSTETH-B** Maximum Debt Ceiling to 100 million.
-- Reduce the **YFI-A** Maximum Debt Ceiling to 25 million.
-- Reduce the **MATIC-A** Maximum Debt Ceiling to 20 million.
+- Increase the **UNIV2DAIUSDC-A** Maximum Debt Ceiling to 300 million DAI.
+- Reduce the **LINK-A** Maximum Debt Ceiling to 25 million DAI.
+- Reduce the **WSTETH-A** Maximum Debt Ceiling to 150 million DAI.
+- Reduce the **WSTETH-B** Maximum Debt Ceiling to 100 million DAI.
+- Reduce the **YFI-A** Maximum Debt Ceiling to 25 million DAI.
+- Reduce the **MATIC-A** Maximum Debt Ceiling to 20 million DAI.
 
-**[Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) changes**
+### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) changes
 
-- Increase the **UNIV2DAIUSDC-A** Target Available Debt (`gap`) to 20 million. 
-- Reduce the **MATIC-A** Target Available Debt (`gap`) to 5 million DAI.
+- Increase the **UNIV2DAIUSDC-A** Target Available Debt to 20 million DAI.  
+- Reduce the **MATIC-A** Target Available Debt to 5 million DAI.
 
+### Aave [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit)
+ 
  **DIRECT-AAVEV2-DAI**: Leave exposure at 0 DAI for the time being.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-30-june-2022/16248) to help inform your position before voting.
