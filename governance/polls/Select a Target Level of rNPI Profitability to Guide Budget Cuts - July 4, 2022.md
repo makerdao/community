@@ -39,7 +39,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
 * If the winner represents a change from the status quo, the relevant Core Units will be tasked with implementing the outcome of this Governance Poll.
-* Once an implementation plan has been decided - further Governance Polls may be required, depending on the nature of the proposal.
+* Once an implementation plan has been decided further Governance Polls may be required, depending on the nature of the proposal.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
 
