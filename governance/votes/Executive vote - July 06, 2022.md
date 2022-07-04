@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Core Unit Compensation, Recognized Delegate Compensation, Keeper Network Stream Setup - July 06, 2022
+title: Template - [Executive Vote] Core Unit Distributions, Recognized Delegate Compensation, Keeper Network Stream Setup - July 06, 2022
 summary: Core Unit budget distributions for GRO-001 and SF-001; Recognized Delegate compensation for June 2022; Keep3r Keeper Network stream setup.
 date: 2022-07-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal]  Core Unit Compensation, Recognized Delegate Compensation, Keeper Network Stream Setup- July 06, 2022
+# [Executive Proposal]  Core Unit Distributions, Recognized Delegate Compensation, Keeper Network Stream Setup- July 06, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -31,7 +31,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Core Unit Compensation
+### Core Unit Distributions
 
 #### Core Unit Budget  Streams
 
