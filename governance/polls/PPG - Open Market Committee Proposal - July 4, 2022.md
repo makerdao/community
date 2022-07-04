@@ -47,7 +47,7 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 ### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) changes
 
 - Increase the **UNIV2DAIUSDC-A** Target Available Debt from 10 million DAI to **20 million DAI**.  
-- Reduce the **MATIC-A** Target Available Debt 10 million DAI to **5 million DAI**.
+- Reduce the **MATIC-A** Target Available Debt from 10 million DAI to **5 million DAI**.
 
 ### Aave [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit)
  
