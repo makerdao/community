@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Core Unit Compensation, Recognized Delegate Compensation, Keeper Network Stream Setup - July 06, 2022
 summary: Core Unit budget distributions for GRO-001 and SF-001; Recognized Delegate compensation for June 2022; Keep3r Keeper Network stream setup.
-date: 2022-06-07T00:00:00.000Z
+date: 2022-07-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
