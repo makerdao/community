@@ -49,7 +49,7 @@ As per multiple successful budget proposals (linked below), a total of **3,902,9
 
 As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **85,185 DAI** will be distributed to 14 Recognized Delegates as itemized below if this executive proposal passes:
 
-- **11573 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
+- **11,573 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
 - **11,528 DAI** transferred to [Flip Flop Flap Delegate LLC](https://vote.makerdao.com/address/0xaf8aa6846539033eaf0c3ca4c9c7373e370e039b) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
 - **11,292 DAI** transferred to [schuppi](https://vote.makerdao.com/address/0xb21e535fb349e4ef0520318acfe589e174b0126b) at [0x89C5d54C979f682F40b73a9FC39F338C88B434c6](https://etherscan.io/address/0x89C5d54C979f682F40b73a9FC39F338C88B434c6).
 - **9,366 DAI** transferred to [MakerMan](https://vote.makerdao.com/address/0x22d5294a23d49294bf11d9db8beda36e104ad9b3) at [0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0](https://etherscan.io/address/0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0).
