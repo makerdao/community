@@ -2942,5 +2942,20 @@
   "832": [
     "medium-impact",
     "real-world-assets"
+  ],
+  "833": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard"
+  ],
+  "834": [
+    "high-impact",
+    "risk-parameter",
+    "momc"
+  ],
+  "835": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding"
   ]
 }
