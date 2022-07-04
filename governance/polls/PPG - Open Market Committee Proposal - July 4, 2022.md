@@ -29,25 +29,25 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 ### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes
 
-- Increase the **GUNIV3DAIUSDC1-A** Stability Fee to 0.01%.
-- Increase the **UNIV2DAIUSDC-A** Stability Fee to 0.01%.
-- Increase the **WSTETH-A** Stability fee to 2.5%.
-- Reduce the **USDC-A** Stability Fee to 0%.
-- Reduce the **UUSDP-A** Stability Fee to 0%.
+- Increase the **GUNIV3DAIUSDC1-A** Stability Fee from 0% to **0.01%**.
+- Increase the **UNIV2DAIUSDC-A** Stability Fee from 0% to **0.01%**.
+- Increase the **WSTETH-A** Stability fee from 2.25% to **2.5%**.
+- Reduce the **USDC-A** Stability Fee from 1% to **0%**.
+- Reduce the **USDP-A** Stability Fee from 1% to **0%**.
 
 ### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes
 
-- Increase the **UNIV2DAIUSDC-A** Maximum Debt Ceiling to 300 million DAI.
-- Reduce the **LINK-A** Maximum Debt Ceiling to 25 million DAI.
-- Reduce the **WSTETH-A** Maximum Debt Ceiling to 150 million DAI.
-- Reduce the **WSTETH-B** Maximum Debt Ceiling to 100 million DAI.
-- Reduce the **YFI-A** Maximum Debt Ceiling to 25 million DAI.
-- Reduce the **MATIC-A** Maximum Debt Ceiling to 20 million DAI.
+- Increase the **UNIV2DAIUSDC-A** Maximum Debt Ceiling from 250 million DAI to **300 million DAI**.
+- Reduce the **LINK-A** Maximum Debt Ceiling from 50 million DAI to **25 million DAI**.
+- Reduce the **WSTETH-A** Maximum Debt Ceiling from 200 million DAI to **150 million DAI**.
+- Reduce the **WSTETH-B** Maximum Debt Ceiling from 150 million DAI to **100 million DAI**.
+- Reduce the **YFI-A** Maximum Debt Ceiling from 50 million DAI to **25 million DAI**.
+- Reduce the **MATIC-A** Maximum Debt Ceiling from 35 million DAI to **20 million DAI**.
 
 ### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) changes
 
-- Increase the **UNIV2DAIUSDC-A** Target Available Debt to 20 million DAI.  
-- Reduce the **MATIC-A** Target Available Debt to 5 million DAI.
+- Increase the **UNIV2DAIUSDC-A** Target Available Debt from 10 million DAI to **20 million DAI**.  
+- Reduce the **MATIC-A** Target Available Debt 10 million DAI to **5 million DAI**.
 
 ### Aave [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit)
  
