@@ -62,7 +62,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **2,739 DAI** transferred to [Chris Blec](https://vote.makerdao.com/address/0x2c511d932c5a6fe4071262d49bfc018cfbaaa1f5) at [0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170](https://etherscan.io/address/0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170).
 - **2,150 DAI** transferred to [Blockchain@Columbia](https://vote.makerdao.com/address/0xb8df77c3bd57761bd0c55d2f873d3aa89b3da8b7) at [0xdC1F98682F4F8a5c6d54F345F448437b83f5E432](https://etherscan.io/address/0xdC1F98682F4F8a5c6d54F345F448437b83f5E432).
 - **704 DAI** transferred to [mhonkasalo & teemulau](https://vote.makerdao.com/address/0xaa19f47e6acb02df88efa9f023f2a38412069902) at [0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d](https://etherscan.io/address/0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d).
-- **127 DAI** transferred to [Governance House](https://vote.makerdao.com/address/0x4e314eba76c3062140ad196e4ffd34485e33c5f5) at [0xd2362DbB5Aa708Bc454Ce5C3F11050C016764fA6](https://etherscan.io/address/0xd2362DbB5Aa708Bc454Ce5C3F11050C016764fA6).
+- **127 DAI** transferred to [Governance House](https://vote.makerdao.com/address/0x4e314eba76c3062140ad196e4ffd34485e33c5f5) at [0x82cD339Fa7d6f22242B31d5f7ea37c1B721dB9C3](https://etherscan.io/address/0x82cD339Fa7d6f22242B31d5f7ea37c1B721dB9C3).
 
 
 ### Keep3r Keeper Network Stream Setup
