@@ -14,9 +14,9 @@ end_date: 2022-07-10T20:00:00
 ---
 # Poll: Fire Drill - July 8, 2022
 
-Something's not right! There's not supposed to be a poll here... Check out the MakerDAO Discord and Forum to make sure someone has been notified about this irregularity. In a real emergency, the protocol's success could be dependent on how quickly we are able to mobilize. Make sure you are clear this is a drill, but go make sure others are responding to this evolving situation!
+Something's not right! There's not supposed to be a poll here... Check out the MakerDAO Discord and Forum to make sure someone has been notified about this irregularity. In a real emergency, the protocol's success could be dependent on how quickly we can mobilize. Make sure you are clear this is a drill, but go make sure others are responding to this evolving situation!
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the the Secruity Stakeholder Alignment Initiative. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for two days beginning on Friday, July 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Security Stakeholder Alignment Initiative. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for two days beginning on Friday, July 8 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -29,17 +29,17 @@ This is a drill to test MKR Voter response time. Please vote in this poll to ind
 
 Since you're already submitting a vote why not give us a little info. Please submit your vote for yes, no, or abstain to participate in this drill.
 
-* Vote `Yes` if you believe these "fire drills" are valuable use of resources.
+* Vote `Yes` if you believe these "fire drills" are a valuable use of resources.
 * Vote `No` if you do not think these "fire drills" are not a valuable use of resources.
-* Vote `Abstain` if you are not sure or do not wish to give an opion on the value of these drills.
+* Vote `Abstain` if you are not sure or do not wish to give an opinion on the value of these drills.
 
-This discussion [thread](https://forum.makerdao.com/t/fire-drill-request-for-discussion-informal-polls/13799) will give you more information on the motivation behind this drill. A thread will be posted in respose to this fire drill once this exercise has been noticed by the community.
+This discussion [thread](https://forum.makerdao.com/t/fire-drill-request-for-discussion-informal-polls/13799) will give you more information on the motivation behind this drill. A thread will be posted in response to this fire drill once this exercise has been noticed by the community.
 
 ## Outcomes
 
-**Regaurdless of the vote break down, the following will take place at the conclusion of this poll:**
-* Members of the Secruity Stakeholder Alignment Initiative will break down the results of this fire drill.
-* Responce times and effectiveness of the test will be catelogged. 
+**Regardless of the vote breakdown, the following will take place after this poll:**
+* Members of the Security Stakeholder Alignment Initiative will break down the results of this fire drill.
+* Response times and effectiveness of the test will be cataloged. 
 * Any feedback provided in Discord or the Forum will be considered if/when the next drill occurs. 
 
 ---
