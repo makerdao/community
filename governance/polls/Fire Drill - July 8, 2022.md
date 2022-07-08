@@ -14,7 +14,9 @@ end_date: 2022-07-10T20:00:00
 ---
 # Poll: Fire Drill - July 8, 2022
 
-Something's not right! There's not supposed to be a poll here... Check out the MakerDAO Discord and Forum to make sure someone has been notified about this irregularity. In a real emergency, the protocol's success could be dependent on how quickly we can mobilize. Make sure you are clear this is a drill, but go make sure others are responding to this evolving situation!
+Something's not right! There's not supposed to be a poll here... Check out the MakerDAO Discord and Forum to make sure someone has been notified about this irregularity. 
+
+In a real emergency, the protocol's success could be dependent on how quickly we can mobilize. Make sure you are clear this is a drill, but go make sure others are responding to this evolving situation!
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Security Stakeholder Alignment Initiative. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for two days beginning on Friday, July 8 at 16:00 UTC.
 
