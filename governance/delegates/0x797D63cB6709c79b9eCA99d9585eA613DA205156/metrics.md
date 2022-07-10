@@ -1,7 +1,7 @@
 ---
-combined_participation: No Data
-poll_participation: No Data
+combined_participation: 100%
+poll_participation: 100%
 exec_participation: No Data
-communication: No Data
+communication: 100%
 start_date: 2030-01-01T00:00:00.000Z
 ---
