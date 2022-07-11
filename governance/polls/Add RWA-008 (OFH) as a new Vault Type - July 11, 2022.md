@@ -32,7 +32,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0.05%
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 100%
-* Liquidation Process: See [MIP21](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) for details.
+* Liquidation Process: See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
 
 Please review the following forum threads containing information about RWA-008 (OFH) to inform your position before voting.
 * [Initial Collateral Application](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605)
