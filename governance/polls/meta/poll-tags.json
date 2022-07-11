@@ -2960,5 +2960,17 @@
   ],
   "836": [
     "misc-governance"
+  ],
+  "837": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter"
+  ],
+  "838": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-onboard"
   ]
 }
