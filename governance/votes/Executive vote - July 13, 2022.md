@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] MOMC Parameter Changes - July 13, 2022
-summary: Includes parameter changes reommended by the Maker Open Markets Committee.
+summary: Includes parameter changes recommended by the Maker Open Market Committee.
 date: 2022-07-13T00:00:00.000Z
 address: "$spell_address"
 
