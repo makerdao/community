@@ -55,8 +55,6 @@ As per [this poll](https://vote.makerdao.com/polling/QmefrhsE#vote-breakdown), t
 - Increase the **UNIV2DAIUSDC-A** Target Available Debt from 10 million DAI to **20 million DAI**.  
 - Reduce the **MATIC-A** Target Available Debt from 10 million DAI to **5 million DAI**.
 
-
-
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
