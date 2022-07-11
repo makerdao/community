@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Parameter changes from the [latest proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-30-june-2022/16248) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) proposal, including changes to [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceilings](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), and [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) listed in detail below.
+- Parameter changes from the [latest proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-30-june-2022/16248) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) proposal, including changes to [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceilings (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), and [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) listed in detail below.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
