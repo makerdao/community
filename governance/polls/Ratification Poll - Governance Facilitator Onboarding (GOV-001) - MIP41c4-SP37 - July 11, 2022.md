@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Governance Facilitator Onboarding GOV-001 (MIP41c4-SP37) - July 11, 2022
-summary: Facilitor onboarding proposal for Patrick_J to become a Governance Facilitator for GovAlpha. 
+summary: Facilitator onboarding proposal for Patrick_J to become a Governance Facilitator for GovAlpha. 
 discussion_link: https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding-gov-001/15284
 vote_type: Plurality Voting
 categories:
