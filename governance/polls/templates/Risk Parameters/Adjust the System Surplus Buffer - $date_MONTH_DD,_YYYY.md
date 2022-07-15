@@ -5,7 +5,7 @@ discussion_link: $discussion_link
 parameters:
     input_format: single-choice
     victory_conditions:
-        - { type : plurality, options : [1,2] }
+        - { type : plurality }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
