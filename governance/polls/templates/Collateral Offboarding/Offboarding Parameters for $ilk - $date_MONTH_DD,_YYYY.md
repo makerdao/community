@@ -2,10 +2,12 @@
 title: Offboarding Parameters for $ilk - $date_MONTH_DD,_YYYY
 summary: $summary
 discussion_link: $proposal_thread
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
-   - High Impact
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

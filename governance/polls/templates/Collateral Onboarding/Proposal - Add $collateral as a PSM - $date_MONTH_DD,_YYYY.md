@@ -2,10 +2,12 @@
 title: Add $collateral Peg Stability Module - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to onboarding a $collateral Peg Stability Module.
 discussion_link: $proposal_thread
-vote_type: Plurality Voting
-categories:
-   - Collateral
-   - Risk Variable
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

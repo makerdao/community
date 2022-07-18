@@ -2,9 +2,12 @@
 title: Adjust the $ilk_name Liquidation Ratio - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for $IncreasingDecreasing the $ilk_name Liquidation Ratio from $current_ratio to $new_ratio.
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes
