@@ -2,11 +2,12 @@
 title: Community Greenlight Poll - bIBTA (Backed Finance Short-Term Bond ETF) - July 18, 2022
 summary: Signal your support or opposition to prioritising onboarding bIBTA (Backed Finance Short-Term Bond ETF).
 discussion_link: https://forum.makerdao.com/t/mip-6-declaration-of-intent-invest-in-short-term-bonds-proposal-for-implementation/16185
-vote_type: Plurality Voting
-categories:
-   - Collateral
-   - Greenlight
-   - Medium Impact
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes (Greenlight)
