@@ -1,7 +1,7 @@
-**CodeKnight
-**
-**Key Info
-**
+CodeKnight
+
+Key Info
+
 
 Delegate Address: 0x261CEF226034AD63A58fDD9524f4F2D9EAB1d566
 Forum: @Codeknight
@@ -9,14 +9,14 @@ Discord: @CodeKnight#2566
 Email: codeknight.maker@gmail.com
 Meet Your Delegate Video: TBA
 
-**Core Values
-**
+Core Values
+
 - Simplify the core protocol, eliminate or externalize as much complexity as possible
 - Developing sustainable, decentralized systems
 - Ensure the interest Maker holders are represented
 
-**Delegate Statement
-**
+Delegate Statement
+
 
 My goal is to turn Maker into a trillion-dollar entity that is easy to understand and decentralized. I am committed to helping grow Maker into a sustainable, profitable system.
 
@@ -26,7 +26,7 @@ I will support proposals that provide strong risk-adjusted returns, with clear m
 
 As a delegate, I commit to providing honesty, transparency and openness to both Maker holders and the community.
  
-**Conflicts of Interest
-**
+Conflicts of Interest
+
 
 I have positions in Eth and Truefi’s tokens. I will abstain from any votes related to Truefi. Otherwise, I do not derive income from any potential partner or competitor of Maker.
