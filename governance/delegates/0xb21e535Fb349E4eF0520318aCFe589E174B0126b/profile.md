@@ -12,7 +12,7 @@ tags:
 
 ### Key Info
 
-Delegate Address: `0xB4b82978FCe6d26A22deA7E653Bb9ce8e14f8056`
+Delegate Address: `0xB4b82978FCe6d26A22deA7E653Bb9ce8e14f8056`  
 Delegate Platform: https://forum.makerdao.com/t/schuppi-delegate-platform/11193  
 Forum: @ultraschuppi  
 Twitter: @schuppi  
