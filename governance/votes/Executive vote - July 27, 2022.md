@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per [this poll](https://vote.makerdao.com/polling/QmajCtnG#vote-breakdown), RWA-008 Societe Generale – Forge (OFH) will be onboarded with the following parameters, if this executive proposal passes.
 
-### Collateral Parameters
+#### Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0.05%
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI
