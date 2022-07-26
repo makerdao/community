@@ -59,7 +59,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmajCtnG#vote-breakdown), R
 "RWA008_A_OPERATOR": "0x03f1A14A5b31e2f1751b6db368451dFCEA5A0439"  
 "RWA008_A_MATE": "0xb9444802F0831A3EB9f90E24EFe5FfA20138d684"  
 
-*Please note that **RWA008_A_OPERATOR** represents Societe Generale – Forge and **RWA008_A_MATE** represents DISS group.
+*Please note that **RWA008_A_OPERATOR** represents Societe Generale – Forge and **RWA008_A_MATE** represents DISS group.*
 
 #### Additional Information
 
@@ -97,7 +97,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), R
 "RWA009_A_JAR": "0xB67c844C8b2B78125978dEcf33A48d0175486322"  
 "RWA009_A_OUTPUT_CONDUIT": "0x508D982e13263Fc8e1b5A4E6bf59b335202e36b4"  
 
-*Please note that:
+*Please note that:*
 - **RWA009_A_OUTPUT_CONDUIT** represents Genesis trading address.( Receivers of DAI who will swap to fiat).
 - **RWA009_A_JAR** represents the address where Genesis trading will send DAI for monthly fee repayments as instructed by RWA Foundation (pursuant to the agreement with Genesis).
 - **RWA009_A_URN** represents the vault where DAI is drawndown during Spells and where principal is repaid at the end of this deal.
