@@ -98,9 +98,9 @@ As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), R
 "RWA009_A_OUTPUT_CONDUIT": "0x508D982e13263Fc8e1b5A4E6bf59b335202e36b4"  
 
 *Please note that:*
-- **RWA009_A_OUTPUT_CONDUIT** represents Genesis trading address.( Receivers of DAI who will swap to fiat).
+- **RWA009_A_OUTPUT_CONDUIT** represents Genesis trading address (receivers of DAI who will swap to fiat).
 - **RWA009_A_JAR** represents the address where Genesis trading will send DAI for monthly fee repayments as instructed by RWA Foundation (pursuant to the agreement with Genesis).
-- **RWA009_A_URN** represents the vault where DAI is drawndown during Spells and where principal is repaid at the end of this deal.
+- **RWA009_A_URN** represents the vault where DAI is drawn-down during Spells and where principal is repaid at the end of this deal.
 
 #### Additional Information
 
