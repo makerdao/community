@@ -83,7 +83,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), R
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 100%
 * Liquidation Process: See [MIP21](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) for details.
 
-#### Relevant Smart-Contract Information
+#### Relevant Smart Contract Information
 
 * **MIP21_LIQUIDATION_ORACLE:** `0x88f88Bb9E66241B73B84f3A6E197FbBa487b1E30`.
 * **RWA_TOKEN_FAB:** `0x16c299c3fB950Cdea730cA6C456aDcE44CbeD350`.
