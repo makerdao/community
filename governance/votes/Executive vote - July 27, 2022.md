@@ -19,7 +19,6 @@ If this executive proposal passes, the following **additions** will be made to t
 - Societe Generale – Forge (OFH) will be onboarded as a new vault type, RWA-008, as detailed below. 
 - Huntingdon Valley Bank (HVBank) will be onboarded as a new vault type, RWA-009, as detailed below. 
 
-
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
