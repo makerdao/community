@@ -81,7 +81,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), R
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0.0%
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 100 million DAI
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 100%
-* Liquidation Process: See [MIP21](https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917) for details.
+* Liquidation Process: See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
 
 #### Relevant Smart Contract Information
 
