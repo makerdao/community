@@ -61,7 +61,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmajCtnG#vote-breakdown), R
 * **RWA008_A_OPERATOR:** `0x03f1A14A5b31e2f1751b6db368451dFCEA5A0439`.
 * **RWA008_A_MATE:** `0xb9444802F0831A3EB9f90E24EFe5FfA20138d684`.
 
-*Please note that **RWA008_A_OPERATOR** represents Societe Generale – Forge and **RWA008_A_MATE** represents DISS group.*
+*Please note that **RWA008_A_OPERATOR** represents Societe Generale – Forge and **RWA008_A_MATE** represents DIIS group.*
 
 #### Additional Information
 
