@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Onboarding Real World Asset Vaults - July 27, 2022
+title: Template - [Executive Vote] Onboarding Real World Asset Vaults - July 29, 2022
 summary: Onboards Real World Asset Vaults for Huntingdon Valley Bank (HVBank) and Societe Generale – Forge (OFH).
-date: 2022-07-27T00:00:00.000Z
+date: 2022-07-29T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Onboarding Real World Asset Vaults - July 27, 2022
+# [Executive Proposal] Onboarding Real World Asset Vaults - July 29, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
