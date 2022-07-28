@@ -8,7 +8,7 @@ parameters:
     options: [1,2]
     abstain: [0]
   victory_conditions:
-    { type : approval, options: [1,2,3,4] }
+    - { type : approval, options: [1,2,3,4] }
   result_display: approval-breakdown
 options:
   0: Abstain
