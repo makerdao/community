@@ -65,6 +65,10 @@ As per [this poll](https://vote.makerdao.com/polling/QmajCtnG#vote-breakdown), R
 
 *Please note that **RWA008_A_OPERATOR** represents Societe Generale – Forge and **RWA008_A_MATE** represents DIIS group.*
 
+#### Authorizations 
+
+RWA008_A_Operator will not be authorized in the vault if this spell is passed. A future executive vote will authorize the address once it is confirmed by the operators.
+
 #### Additional Information
 
 Please review the following forum threads containing information about RWA-008 (OFH) to inform your position before voting.
