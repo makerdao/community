@@ -124,63 +124,61 @@ The MKR token holders
 
 Approve an amendment of the letter agreement between RWA Foundation and Genesis Global Trading, Inc. to:
 
-(1) Change the wallet address in paragraph 1a
+     (1) Change the wallet address in paragraph 1a
 
-From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
-(2) Change the wallet address in paragraph 1b 
+     (2) Change the wallet address in paragraph 1b 
 
-From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From	0xb67c844c8b2b78125978decf33a48d0175486322
 
-To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
-(3) Change the wallet address in paragraph 2 
+     (3) Change the wallet address in paragraph 2 
 
-From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79`
+     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79`
 
 Approve an amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC to:
 
-(1) Change the wallet address in the 7th bullet point 
+     (1) Change the wallet address in the 7th bullet point 
 
-From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
-(2) Update the screen shot of the RWA Foundation portal at Genesis Global Trading Inc. in the 3rd bullet point by changing the address
+     (2) Update the screen shot of the RWA Foundation portal at Genesis Global Trading Inc. in the 3rd bullet point by changing the address
 
-From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From	0xb67c844c8b2b78125978decf33a48d0175486322
 
-To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
 Approve an amendment to the Deed Poll of RWA Foundation to
 
-(1) Change the wallet address in clause 5.2
+     (1) Change the wallet address in clause 5.2
 
-From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From	0xb67c844c8b2b78125978decf33a48d0175486322
 
-To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
-(2) Change the wallet address in clause 5.3
+     (2) Change the wallet address in clause 5.3
 
-From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
 And authorize:
 
-(1) The Director of RWA Foundation to take such steps as are necessary to give effect to the amendments above, including (a) notifying Wilmington Savings Fund Society, FSB (as verification agent and trustee) of the amendments, (b) for and on behalf of RWA Foundation, executing any amendments and issuing any instructions to Genesis Global Trading Inc. or Ankura Trust Company LLC and (c) as trust sponsor, for and on behalf of RWA Master Participation Trust, executing an amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC.
+     (1) The Director of RWA Foundation to take such steps as are necessary to give effect to the amendments above, including (a) notifying Wilmington Savings Fund Society, FSB (as verification agent and trustee) of the amendments, (b) for and on behalf of RWA Foundation, executing any amendments and issuing any instructions to Genesis Global Trading Inc. or Ankura Trust Company LLC and (c) as trust sponsor, for and on behalf of RWA Master Participation Trust, executing an amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC.
 
-(2) Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. to reflect the above amendments and to accept the amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC.
+     (2) Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. to reflect the above amendments and to accept the amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC.
 
-(3) Genesis Global Trading Inc. to accept the amendments to the letter agreement between RWA Foundation and Genesis Global Trading, Inc.
+     (3) Genesis Global Trading Inc. to accept the amendments to the letter agreement between RWA Foundation and Genesis Global Trading, Inc.
 
-(4) Wilmington Savings Fund Society, FSB to accept the amendments described above as applicable to RWA Master Participation Trust.
-
-
+     (4) Wilmington Savings Fund Society, FSB to accept the amendments described above as applicable to RWA Master Participation Trust.
 
 ## Review
 
