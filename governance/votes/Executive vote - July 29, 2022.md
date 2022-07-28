@@ -17,6 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Amendments to the letter agreements between RWA Foundation and various parties for the RWA-009 (HVBank) legal construction. 
+- 25 million DAI will be drawn down in the RWA-009 (HVBank) vault.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - Societe Generale – Forge (OFH) will be onboarded as a new vault type, RWA-008, as detailed below. 
@@ -77,7 +78,7 @@ Please review the following forum threads containing information about RWA-008 (
 
 ### RWA-009 Huntingdon Valley Bank (HVBank) Onboarding
 
-As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), RWA-009 Huntingdon Valley Bank (HVBank) will be onboarded with the following parameters, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), RWA-009 Huntingdon Valley Bank (HVBank) will be onboarded with the following parameters, if this executive proposal passes. Note that the approval of this executive will result in an immediate **25 million DAI** draw down.
  
 #### Collateral Parameters
 
@@ -102,7 +103,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), R
 *Please note that:*
 - **RWA009_A_OUTPUT_CONDUIT** represents Genesis trading address (receivers of DAI who will swap to fiat).
 - **RWA009_A_JAR** represents the address where Genesis trading will send DAI for monthly fee repayments as instructed by RWA Foundation (pursuant to the agreement with Genesis).
-- **RWA009_A_URN** represents the vault where DAI is drawn-down during Spells and where principal is repaid at the end of this deal.
+- **RWA009_A_URN** represents the vault where DAI is drawn down during Spells and where principal is repaid at the end of this deal.
 
 #### Additional Information
 
