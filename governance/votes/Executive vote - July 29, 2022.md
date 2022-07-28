@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Amendments to the letter agreements between RWA Foundation and various parties for the RWA-009 (HVBank) legal construction. 
+- [Amendments to the letter agreements](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/8) between RWA Foundation and various parties for the RWA-009 (HVBank) legal construction. 
 - 25 million DAI will be drawn down in the RWA-009 (HVBank) vault.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
