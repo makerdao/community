@@ -134,49 +134,49 @@ Approve an amendment of the letter agreement between RWA Foundation and Genesis 
 
      (1) Change the wallet address in paragraph 1a
 
-     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From 0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To 0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
      (2) Change the wallet address in paragraph 1b 
 
-     From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From 0xb67c844c8b2b78125978decf33a48d0175486322
 
-     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
      (3) Change the wallet address in paragraph 2 
 
-     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From 0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79`
+     To 0x1818EE501cd28e01E058E7C283E178E9e04a1e79`
 
 Approve an amendment to Exhibit C of the letter agreement between RWA Foundation, RWA Master Participation Trust and Ankura Trust Company, LLC to:
 
      (1) Change the wallet address in the 7th bullet point 
 
-     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From 0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To 0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
      (2) Update the screen shot of the RWA Foundation portal at Genesis Global Trading Inc. in the 3rd bullet point by changing the address
 
-     From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From 0xb67c844c8b2b78125978decf33a48d0175486322
 
-     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
 Approve an amendment to the Deed Poll of RWA Foundation to
 
      (1) Change the wallet address in clause 5.2
 
-     From	0xb67c844c8b2b78125978decf33a48d0175486322
+     From 0xb67c844c8b2b78125978decf33a48d0175486322
 
-     To 	0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+     To 0x6C6d4Be2223B5d202263515351034861dD9aFdb6
 
      (2) Change the wallet address in clause 5.3
 
-     From	0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
+     From 0xde70058b9c22012e7e4c53ac3f117864ce8c59ca
 
-     To	0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+     To 0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
 And authorize:
 
