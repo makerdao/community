@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Onboarding Real World Asset Vaults - July 29, 2022
 summary: Onboards Real World Asset Vaults for Huntingdon Valley Bank (HVBank) and Societe Generale – Forge (OFH).
 date: 2022-07-29T00:00:00.000Z
-address: "$spell_address"
+address: "0x67A45c2163798d47c32Fc2bcD5Dc0ABc6dCDFe78"
 
 ---
 # [Executive Proposal] Onboarding Real World Asset Vaults - July 29, 2022
