@@ -2938,5 +2938,43 @@
     "misc-funding",
     "ratification",
     "mips"
+  ],
+  "832": [
+    "medium-impact",
+    "real-world-assets"
+  ],
+  "833": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard"
+  ],
+  "834": [
+    "high-impact",
+    "risk-parameter",
+    "momc"
+  ],
+  "835": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding"
+  ],
+  "836": [
+    "misc-governance"
+  ],
+  "837": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter"
+  ],
+  "838": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-onboard"
+  ],
+  "839": [
+    "medium-impact",
+    "greenlight"
   ]
 }

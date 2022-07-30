@@ -1,6 +1,10 @@
 ---
 name: Template Delegate
 external_profile_url:
+tags:
+  - tag_A
+  - tag_B
+  - tag_C
 ---
 
 # Delegate Name

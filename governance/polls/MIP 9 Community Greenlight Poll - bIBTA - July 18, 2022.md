@@ -1,7 +1,7 @@
 ---
-title: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to prioritising onboarding $asset_code ($asset_name).
-discussion_link: $discussion_link
+title: Community Greenlight Poll - bIBTA (Backed Finance Short-Term Bond ETF) - July 18, 2022
+summary: Signal your support or opposition to prioritising onboarding bIBTA (Backed Finance Short-Term Bond ETF).
+discussion_link: https://forum.makerdao.com/t/mip-6-declaration-of-intent-invest-in-short-term-bonds-proposal-for-implementation/16185
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes (Greenlight)
    2: No (Defer)
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-07-18T16:00:00
+end_date: 2022-08-01T16:00:00
 ---
-# Poll: Community Greenlight Poll - $asset_code ($asset_name) - $date_MONTH_DD,_YYYY
+# Poll: Community Greenlight Poll - bIBTA (Backed Finance Short-Term Bond ETF) - July 18, 2022
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 18 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,15 +26,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset $asset_code ($asset_name) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+This poll asks whether the asset bIBTA (Backed Finance Short-Term Bond ETF) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
-Please review the collateral onboarding application [thread]($discussion_link) to inform your position before voting.
+Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip-6-declaration-of-intent-invest-in-short-term-bonds-proposal-for-implementation/16185) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for $asset_code ($asset_name) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for $asset_code ($asset_name) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
+* The 'greenlight score' will be calculated for bIBTA (Backed Finance Short-Term Bond ETF) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for bIBTA (Backed Finance Short-Term Bond ETF) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Status Index to direct their work on onboarding new collateral types.
 
 ---

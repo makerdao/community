@@ -12,8 +12,7 @@ tags:
 
 ### Key Info
 
-Delegate Address: `0xb21e535Fb349E4eF0520318aCFe589E174B0126b`  
-ENS Name: `delegatecontract.mkr.schuppi.eth`  
+Delegate Address: `0xB4b82978FCe6d26A22deA7E653Bb9ce8e14f8056`  
 Delegate Platform: https://forum.makerdao.com/t/schuppi-delegate-platform/11193  
 Forum: @ultraschuppi  
 Twitter: @schuppi  
@@ -48,7 +47,7 @@ I already gave some background about myself in the [Facilitator Onboarding post]
 * It is not only Defi and Maker being early, it is also delegation. I am a bit surprised and disappointed that we ran into the topic of “how much do we need to pay our delegates” just weeks after delegation has started. I put a big NO on the currently running [SR for increasing the max Delegate Compensation](https://forum.makerdao.com/t/signal-request-should-we-increase-maximum-delegate-compensation-as-described-in-mip61-to-144k-dai-for-the-initial-3-month-delegate-compensation-trial/11093).
 * While the drunk whale was still around, I was already poking him every week giving him an update on the current polls, helping on his decision making and luring him into helping to pass the exec. By that time he was already asking for being able to just delegate his voting power. At this time the idea was born to do that myself. I ditched it in favor of trying the MakerLabs path - so this is totally not an idea that came up recently.
 
-As a rule of thumb: I will vote in favor for every exec that gets promoted on chain by the Governance Facilitators that does not feel dangerous to the protocol even if that exec contains changes that I voted against in the previous onchain poll. If you don’t want your MKR to be used for polls but want to help getting execs done asap, you can delegate to my [2nd delegate contract](https://etherscan.io/address/0x8b258B16969b27141A6274935184C2B940F93443) which I will use only for supporting execs and not for voting on polls.
+As a rule of thumb: I will vote in favor for every exec that gets promoted on chain by the Governance Facilitators that does not feel dangerous to the protocol even if that exec contains changes that I voted against in the previous onchain poll. 
 
 ### Conflicts of Interest
 

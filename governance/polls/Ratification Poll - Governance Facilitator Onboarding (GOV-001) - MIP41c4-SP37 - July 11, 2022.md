@@ -1,23 +1,21 @@
 ---
-title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
-summary: $sentence_summary
-discussion_link: $discussion_link
-parameters:
-    input_format: single-choice
-    victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
-version: v2.0.0
+title: Ratification Poll for Governance Facilitator Onboarding GOV-001 (MIP41c4-SP37) - July 11, 2022
+summary: Facilitator onboarding proposal for Patrick_J to become a Governance Facilitator for GovAlpha. 
+discussion_link: https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding-gov-001/15284
+vote_type: Plurality Voting
+categories:
+   - MIPs
+   - High Impact
 options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-07-11T16:00:00
+end_date: 2022-07-25T16:00:00
 ---
-# Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
+# Ratification Poll for Governance Facilitator Onboarding GOV-001 (MIP41c4-SP37) - July 11, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, July 11 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,23 +24,23 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP41c4-SP37 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*$paragraph_summary*
+*This subproposal onboards @Patrick_J as a Facilitator for the GovAlpha (GOV-001) Core Unit.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fd3cffb2c1a00bfeb78f1ad13014c48e0410fb12/MIP41/MIP41c4-Subproposals/MIP41c4-SP37.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP37)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding-gov-001/15284)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on $week_four_governance_call_date.
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, July 28, 2022.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

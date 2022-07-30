@@ -2,9 +2,12 @@
 title: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
 discussion_link: $discussion_link
-vote_type: Plurality Voting
-categories:
-   - Risk Variable
+parameters:
+    input_format: single-choice
+    victory_conditions:
+        - { type : plurality }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes
