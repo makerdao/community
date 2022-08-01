@@ -28,11 +28,21 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following competitive rate calculations changes:
 
-- Cefi lenders (Nexo, BlockFi, and Celsius) have been removed from average rates and will no longer be included in data tables
-- Aave AMM market has been removed from rates and data tables due to low borrow volume and stablecoin liquidity
-- Euler Finance has been added to rates data beginning this month
-- Protocols with over 3 months of operation on a relevant chain or L2, 50 million in stablecoins borrowed, and no significant insolvencies will be considered for addition to competitive rates data
-- Average competitive rates are calculated using debt weighted average among defi protocols
+### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) changes
+
+- Reduce the **ETH-B** Stability Fee from 4% to **3.75%**.
+- Reduce the **WSTETH-A** Stability Fee from 2.50% to **2.25%**.
+- Reduce the **WSTETH-B** Stability Fee from 0.75% to **0%**.
+- Reduce the **WBTC-B** Stability Fee from 4.00% to **3.75%**.
+- Increase the **GUNIV3DAIUSDC1-A** Stability Fee from 0.01% to **0.02%**.
+- Increase the **GUNIV3DAIUSDC2-A** Stability Fee from 0.05% to **0.06%**.
+- Increase the **UNIV2DAIUSDC-A** Stability Fee from 0.01% to **0.02%**.
+
+### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes
+
+- Increase the **GUNIV3DAIUSDC2-A** Maximum Debt Ceiling (`line`) from 1 billion DAI to **1.25 billion DAI**.
+- Increase the **GUNIV3DAIUSDC1-A** Maximum Debt Ceiling (`line`) from 750 million DAI to **1 billion DAI**.
+- Increase the **MANA-A** Maximum Debt Ceiling (`line`) from 15 million DAI to **17 million DAI**.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-july-2022/16895) to help inform your position before voting.
 
