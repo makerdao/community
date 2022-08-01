@@ -16,7 +16,8 @@ start_date: 2022-08-01T16:00:00
 end_date: 2022-08-04T16:00:00
 ---
 # Poll: Maker Teleport Deployment on Starknet and Associated Risk Parameters - August 1, 2022
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 1 at 16:00 UTC.
+
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Starknet Engineering Core Unit (SNE-001). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 1 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,18 +28,20 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following parameter changes for [L2 to L1 Fast Withdrawals](https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041):
 
-* Debt Ceiling Parameters:
+### Debt Ceiling Parameters:
 
- - Set the Starknet Debt Ceiling parameter to 1M Dai
- - Set the Global Debt Ceiling to 3M Dai - as a sum of all debt ceilings for each domain. The current Global Debt Ceiling is set to 2Mn (1Mn for Optimism, and 1Mn for Arbitrum)
+ - Set the Starknet Debt Ceiling parameter to **1 million DAI**.
+ - Increase the Global Debt Ceiling from 2 million DAI (1 million DAI for Optimism and 1 million DAI for Arbitrum) to **3 million Dai** - as a sum of all debt ceilings for each domain.
 
-* Wormhole Fee Parameters per Domain:
+### Maker Teleport Fee Parameters:
 
- - Set the Starknet teleport Fee parameter to 0
+ - Set the Starknet Teleport Fee parameter to **0**.
 
-* Approve Oracle Quorum of (13) feeds (see details from the Oracle CU [here](https://forum.makerdao.com/t/teleport-oracle-overview/15077))
+### Set Oracle Quorum:
 
- - This is the minimum number of feed attestations required to complete a Fast Withdrawal transaction and will be comprised of any of the 25 oracle feeds provided by the Oracles team.
+ -  Set the Oracle Quorum for Starknet Teleport to **13**.
+ 
+This is the minimum number of feed attestations required to complete a Fast Withdrawal transaction and will be comprised of any of the 25 oracle feeds provided by the Oracles team (see details from the Oracle CU [here](https://forum.makerdao.com/t/teleport-oracle-overview/15077)).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-for-maker-teleport-deployment-on-starknet-and-associated-risk-parameters/16844) to help inform your position before voting.
 
