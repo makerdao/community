@@ -11,7 +11,7 @@ tags:
 
 ### Key Info
 
-Delegate Address: [0x845b36e1e4f41a361dd711bda8ea239bf191fe95](https://etherscan.io/address/0x845b36e1e4f41a361dd711bda8ea239bf191fe95)  
+Delegate Address: [0x92e1ca8b69a44bb17afa92838da68fc41f12250a](https://etherscan.io/address/0x92e1ca8b69a44bb17afa92838da68fc41f12250a)  
 Forum: **@twblack88**  
 Email (optional): [governance@feedblackloops.com](mailto:governance@feedblackloops.com)
 
