@@ -17,7 +17,7 @@ end_date: 2022-08-04T16:00:00
 ---
 # Poll: Tactical Re-allocation Process for Budget Adjustments - August 1, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 01 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 1 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
