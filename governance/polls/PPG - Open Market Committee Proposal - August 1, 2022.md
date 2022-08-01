@@ -1,6 +1,6 @@
 ---
 title: PPG - Open Market Committee Proposal - August 1, 2022
-summary: $summary
+summary: Signal your support or opposition to included parameter changes based on the recommendation of the Maker Open Market Committee.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-july-2022/16895
 parameters:
     input_format: single-choice
