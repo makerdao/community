@@ -2976,5 +2976,25 @@
   "839": [
     "medium-impact",
     "greenlight"
+  ],
+  "840": [
+    "high-impact",
+    "risk-parameter",
+    "momc"
+  ],
+  "841": [
+    "high-impact",
+    "risk-parameter",
+    "bridge"
+  ],
+  "842": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "843": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding",
+    "budget"
   ]
 }
