@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - $asset_code (Pando) - August 1, 2022
-summary: Signal your support or opposition to prioritising onboarding $asset_code (Pando).
+title: MIP9 Community Greenlight Poll - Pando (Pando Investment Grade Climate Assets) - August 1, 2022
+summary: Signal your support or opposition to prioritising onboarding Pando (Pando Investment Grade Climate Assets).
 discussion_link: https://forum.makerdao.com/t/mip6-pando-investment-grade-climate-assets-collateral-onboarding/16394
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2022-08-01T16:00:00
 end_date: 2022-08-15T16:00:00
 ---
-# Poll: Community Greenlight Poll - $asset_code (Pando) - August 1, 2022
+# Poll: MIP9 Community Greenlight Poll - Pando (Pando Investment Grade Climate Assets) - August 1, 2022
 
 The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 1 at 16:00 UTC.
 
@@ -26,15 +26,15 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset $asset_code (Pando) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+This poll asks whether the asset Pando (Pando Investment Grade Climate Assets) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip6-pando-investment-grade-climate-assets-collateral-onboarding/16394) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for $asset_code (Pando) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for $asset_code (Pando) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
+* The 'greenlight score' will be calculated for Pando (Pando Investment Grade Climate Assets) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for Pando (Pando Investment Grade Climate Assets) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
 * The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Status Index to direct their work on onboarding new collateral types.
 
 ---
