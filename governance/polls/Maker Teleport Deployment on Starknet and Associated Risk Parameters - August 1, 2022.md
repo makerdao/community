@@ -1,6 +1,6 @@
 ---
 title: Maker Teleport Deployment on Starknet and Associated Risk Parameters - August 1, 2022
-summary: Signal your support or opposition to changing parameters for L2 to L1 Fast Withdrawals
+summary: Signal your support or opposition to the following parameters for Maker Teleport deployment on Starknet.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-for-maker-teleport-deployment-on-starknet-and-associated-risk-parameters/16844
 parameters:
     input_format: single-choice
