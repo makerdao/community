@@ -45,6 +45,8 @@ This is the minimum number of feed attestations required to complete a Fast With
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-for-maker-teleport-deployment-on-starknet-and-associated-risk-parameters/16844) to help inform your position before voting.
 
+For further information on Maker Teleport please review MIP69: L2-to-L1 Fast Withdrawals [here](https://mips.makerdao.com/mips/details/MIP69). 
+
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
