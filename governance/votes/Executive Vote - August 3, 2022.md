@@ -36,10 +36,6 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmQMD
 
 Further description of the schedule and mechanism being used for drawdown from this vault can be seen in this [post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/8) from the Collateral Engineering Services Core Unit (CES-001).
 
-#### Order of Operations Issue
-
-If the [previous](https://vote.makerdao.com/executive/template-executive-vote-onboarding-real-world-asset-vaults-july-29-2022#proposal-detail) executive proposal has not executed before this proposal executes, the RWA-009 vault will not exist within the Maker Protocol. In that circumstance, the drawdown for HVBank will be skipped and will instead be included in a future executive proposal.
-
 ### Keep3r Network Stream Re-deployment
 
 As per this forum [post](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network-keep3r-network/14321/8) the previously established stream to Keep3r Network will be cancelled and a new stream deployed.
