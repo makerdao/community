@@ -37,7 +37,7 @@ Further description of the schedule and mechanism being used for drawdown from t
 
 ### Keep3r Network Stream Re-deployment
 
-As per this forum [post](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network-keep3r-network/14321/8) the previously established stream to Keep3r Network will be cancelled and a new stream deployed.
+As per this forum [post](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network-keep3r-network/14321/8) the previously established stream to Keep3r Network will be cancelled and a new stream deployed, if this executive proposal passes.
 
 As per the ratified [MIP63c4-SP4: Onboard/Amend Keeper Network - Keep3r Network](https://mips.makerdao.com/mips/details/MIP63c4SP4), a total of 215,000 DAI will be streamed to Keep3r Keeper Network if this executive proposal passes:
 
