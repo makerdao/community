@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] HVBank Drawdown, Keeper Network Stream Re-Deployment, Oracles CU MKR Vesting Stream Housekeeping - August 03, 2022
-summary: Includes drawdown of 25 million DAI for HVBank, re-deploys the DAI stream for the Keep3r Network, and housekeeping changes for the Oracles CU MKR vesting stream.
+title: Template - [Executive Vote] HVBank Drawdown, Keeper Network Stream Re-Deployment - August 03, 2022
+summary: Includes drawdown of 25 million DAI for HVBank, re-deploys the DAI stream for the Keep3r Network.
 date: 2022-08-03T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] HVBank Drawdown, Keeper Network Stream Re-Deployment, Oracles CU MKR Vesting Stream Housekeeping - August 03, 2022
+# [Executive Proposal] HVBank Drawdown, Keeper Network Stream Re-Deployment - August 03, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,7 +18,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, as detailed below.
 - The previous DAI stream to Keep3r Keeper Network will be cancelled and a new stream deployed, as detailed below.
-- The MKR vesting stream to the Oracles CU will be cancelled and any remaining MKR in the stream reclaimed by the Maker Protocol, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -43,12 +42,6 @@ As per this forum [post](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-
 As per the ratified [MIP63c4-SP4: Onboard/Amend Keeper Network - Keep3r Network](https://mips.makerdao.com/mips/details/MIP63c4SP4), a total of 215,000 DAI will be streamed to Keep3r Keeper Network if this executive proposal passes:
 
 - **215,000 DAI** will be streamed to the Keep3r Keeper Network at [0x37b375e3D418fbECba6b283e704F840AB32f3b3C](https://etherscan.io/address/0x37b375e3D418fbECba6b283e704F840AB32f3b3C) starting on 2022-07-01 and ending on 2023-01-31 at a rate of 1,000 DAI/day.
-
-### Oracles CU MKR Vesting Stream Housekeeping
-
-As per this forum [post]() **Remember to add in link to forum post once posted**, the Oracles CU (ORA-001) have claimed all the MKR they require from their current MKR vesting stream.
-
-Consequently, this Executive Vote will `vest` and return this MKR to the Pause Proxy, meaning that the Oracles CU are no longer able to claim this MKR from their expired stream.
 
 ## Review
 
