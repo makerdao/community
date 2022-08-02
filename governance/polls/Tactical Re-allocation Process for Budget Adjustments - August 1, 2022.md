@@ -36,7 +36,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The Strategic Finance Core Unit will co-ordinate the budget re-allocation process with Core Unit, MKR holders and Recognized Delegates.
-* Any changes to current Core Unit Budgets will be implemented via an Executive Vote, as the Protocol Engineering Core Unit's schedule allows.
+* Any proposed changes to current Core Unit Budgets will be required to go through the approved governance processes.
+* Any changes that are approved by MKR holders will be implemented via an Executive Vote, as the Protocol Engineering Core Unit's schedule allows.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
