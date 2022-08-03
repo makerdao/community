@@ -42,6 +42,7 @@ As per this forum [post](https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-
 As per the ratified [MIP63c4-SP4: Onboard/Amend Keeper Network - Keep3r Network](https://mips.makerdao.com/mips/details/MIP63c4SP4), a total of 215,000 DAI will be streamed to Keep3r Keeper Network if this executive proposal passes:
 
 - **215,000 DAI** will be streamed to the Keep3r Keeper Network at [0x37b375e3D418fbECba6b283e704F840AB32f3b3C](https://etherscan.io/address/0x37b375e3D418fbECba6b283e704F840AB32f3b3C) starting on 2022-07-01 and ending on 2023-01-31 at a rate of 1,000 DAI/day.
+- [0x45fEEBbd5Cf86dF61be8F81025E22Ae07a07cB23](https://etherscan.io/address/0x45fEEBbd5Cf86dF61be8F81025E22Ae07a07cB23) will be added as a manager for this stream. In the event of issues with the stream, this manager address will be able to cancel this stream without a further executive proposal being required.
 
 ## Review
 
