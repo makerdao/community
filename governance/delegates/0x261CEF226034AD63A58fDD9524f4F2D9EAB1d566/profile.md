@@ -9,9 +9,9 @@ tags:
   - simplicity
 ---
 
-**CodeKnight**
+# CodeKnight
 
-**Key Info**
+### Key Info
 
 Delegate Contract Address: 0x261CEF226034AD63A58fDD9524f4F2D9EAB1d566
 
@@ -23,7 +23,7 @@ Email: codeknight.maker@gmail.com
 
 Meet Your Delegate Video: TBA
 
-**Core Values**
+### Core Values
 
 Simplify the core protocol, eliminate or externalize low-value complexity. This is essential for a DAO and also creates more space in our “complexity budget” to onboard high value features.
 
@@ -31,7 +31,7 @@ Developing sustainable, decentralized systems. I fully support reaching an end g
 
 Ensure the interest Maker holders are represented. I welcome communication with all holders.
 
-**Delegate Statement**
+### Delegate Statement
 
 My goal is to turn Maker into a trillion-dollar entity that is easy to understand and decentralized. I am committed to helping grow Maker into a sustainable, profitable system.
 
@@ -41,10 +41,10 @@ I will support proposals that provide strong risk-adjusted returns, with clear m
 
 As a delegate, I commit to providing honesty, transparency and openness to both Maker holders and the community.
 
-**Conflicts of Interest**
+### Conflicts of Interest
 
 I have 5 figure positions in Eth and Truefi’s tokens. I will abstain from any votes related to Truefi. I do not derive significant income from any potential partner or competitor of Maker.
 
-**Waiver of Liability**
+### Waiver of Liability
 
 By delegating to me, you acknowledge and agree that I participate on a best efforts basis and will not be liable for any form of damages related to my participation in the Maker Protocol or MakerDAO.
