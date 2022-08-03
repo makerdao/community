@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] HVBank Drawdown, Keeper Network Stream Re-Deployment - August 03, 2022
 summary: Includes drawdown of 25 million DAI for HVBank, re-deploys the DAI stream for the Keep3r Network.
 date: 2022-08-03T00:00:00.000Z
-address: "$spell_address"
+address: "0x6682133cCFbc8f87da51904d95241d243f7260Bf"
 
 ---
 # [Executive Proposal] HVBank Drawdown, Keeper Network Stream Re-Deployment - August 03, 2022
