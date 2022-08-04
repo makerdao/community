@@ -21,7 +21,7 @@ Discord: @CodeKnight#2566
 
 Email: codeknight.maker@gmail.com
 
-Meet Your Delegate Video: TBA
+Meet Your Delegate Video: https://www.youtube.com/watch?v=KZFZ1xQ6ZzU
 
 ### Core Values
 
