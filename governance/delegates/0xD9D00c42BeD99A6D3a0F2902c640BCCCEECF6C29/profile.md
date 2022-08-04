@@ -14,10 +14,7 @@ tags:
 
 ### Key Info
 
-Delegate Address: 0xD9D00c42BeD99A6D3a0F2902c640BCCCEECF6C29  
-Discourse: **@pvl**  
-Discord: @pvl#3939 (for now mainly active in [the Endgame Discord](https://discord.gg/sYnXP2r5))  
-Name: pvl  
+Name: pvl
 Delegate Address: 0xD9D00c42BeD99A6D3a0F2902c640BCCCEECF6C29  
 Discourse: **@pvl**  
 Discord: @pvl#3939 (for now mainly active in [the Endgame Discord](https://discord.gg/sYnXP2r5))  
