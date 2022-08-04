@@ -2,9 +2,12 @@
 name: pvl
 external_profile_url:
 tags:
-  - tag_A
-  - tag_B
-  - tag_C
+  - ideation
+  - vision
+  - data-driven
+  - academia
+  - guidance
+  - growth
 ---
 
 # pvl
