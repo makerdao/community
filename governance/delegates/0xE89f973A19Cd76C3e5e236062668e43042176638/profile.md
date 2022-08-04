@@ -13,7 +13,7 @@ tags:
 
 ### Key Info
 
-Delegate Contract Address: 0x261CEF226034AD63A58fDD9524f4F2D9EAB1d566
+Delegate Contract Address: 0xE89f973A19Cd76C3e5e236062668e43042176638
 
 Forum: @Codeknight
 
