@@ -13,7 +13,7 @@ parameters:
         conditions: [
           { type : approval },
           { type: majority, percent: 50 },
-          { type : comparison, comparator : '>=10000' }
+          { type : comparison, comparator : '>=', value: 10000 }
         ]
       }
     - { type : default, value : 2 }
