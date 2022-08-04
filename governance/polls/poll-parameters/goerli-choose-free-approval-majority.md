@@ -3,16 +3,20 @@ title: POLL PARAMETERS Approval voting + majority of 50%  with default to 3
 summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults.
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
 parameters:
-  input_format:
+  input_format: 
     type: choose-free
     options: [1,2]
     abstain: [0]
   victory_conditions:
-    - [
-        { type : approval, options: [1,2,3,4] },
-        { type : majority, options: [1,2,3,4], percent : 50 }
-      ]
-    - { type : default, value : 3 }
+    - { 
+        type: 'and', 
+        conditions: [
+          { type : approval },
+          { type: majority, percent: 50 },
+          { type : comparison, comparator : '>=10000' }
+        ]
+      }
+    - { type : default, value : 2 }
   result_display: approval-breakdown
 options:
   0: Abstain
