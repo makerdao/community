@@ -1,7 +1,6 @@
 ---
 title: Ratification Poll for Core Unit Offboarding Process Amendments (MIP4c2-SP15) - August 8, 2022
-summary: The original motivation for this amendment was to simplify and to clarify the Core Unit offboarding process. Ratifying simple changes started small and, along the way, the ambitions grew into revisions for much of the Core Unit MIP Set.
-These changes are an attempt to make processes more transparent and orderly. In addition,they fill in process gaps, or streamline them.
+summary: The original motivation for this amendment was to simplify and to clarify the Core Unit offboarding process. Ratifying simple changes started small and, along the way, the ambitions grew into revisions for much of the Core Unit MIP Set. These changes are an attempt to make processes more transparent and orderly. In addition,they fill in process gaps, or streamline them.
 discussion_link: https://forum.makerdao.com/t/new-mip4c2-sp15-core-unit-offboarding-process-amendments/15291
 parameters:
     input_format: single-choice
