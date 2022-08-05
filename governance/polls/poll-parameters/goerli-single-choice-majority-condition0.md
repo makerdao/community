@@ -3,7 +3,9 @@ title: POLL PARAMETERS Single choice majority with conditions
 summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults.
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
 parameters:
-  input_format: single-choice
+  input_format: 
+    type: single-choice
+    abstain: [0]
   victory_conditions:
     - { 
         type: 'and', 
@@ -16,11 +18,11 @@ parameters:
   result_display: single-vote-breakdown
 version: v2.0.0  
 options:
-  0: Option 1
-  1: Option 2
-  2: Option 3
-  3: Option 4
-  4: Option 5
+  0: Abstain
+  1: Option 1
+  2: Option 2
+  3: Option 3
+  4: Option 4
 start_date: 2022-03-06T16:00:00
 end_date: 2025-11-05T16:00:00
 ---
