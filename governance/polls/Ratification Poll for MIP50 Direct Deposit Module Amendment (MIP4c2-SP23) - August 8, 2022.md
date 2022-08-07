@@ -30,12 +30,13 @@ The community may vote in this poll to express support or opposition to MIP4c2-S
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP50 was too specific to lending protocols. I’ve updated it for the V2 rewrite which covers all external protocols that allow users to deposit / withdraw DAI. I’ve updated the MIP to remove details of the targeting mechanism as that is no longer important.*
+*"MIP50 was too specific to lending protocols. I’ve updated it for the V2 rewrite which covers all external protocols that allow users to deposit / withdraw DAI. I’ve updated the MIP to remove details of the targeting mechanism as that is no longer important."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/4fc05f8a5056615397765d1daef2ed47e750c085)
-* [Latest Proposal Version](https://forum.makerdao.com/t/mip4c2-sp23-mip50-direct-deposit-module-amendment/16387)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4fc05f8a5056615397765d1daef2ed47e750c085/MIP4/MIP4c2-Subproposals/MIP4c2-SP23.md))
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP23)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp23-mip50-direct-deposit-module-amendment/16387)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/606)
 
 ## Outcomes
 
@@ -43,6 +44,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, August 25.
+* The Pull Request will be merged into the GitHub MIP repository.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

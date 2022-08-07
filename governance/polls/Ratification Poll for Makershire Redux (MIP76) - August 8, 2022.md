@@ -30,10 +30,10 @@ The community may vote in this poll to express support or opposition to MIP76 be
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The Maker Protocol holds approximately $5.2B in stablecoins effectively earning zero yield. There are multiple efforts underway (off-chain and on-chain short-term bonds) to invest the majority of stablecoin exposure. Our aim is to begin generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol.*
+*"The Maker Protocol holds approximately $5.2B in stablecoins effectively earning zero yield. There are multiple efforts underway (off-chain and on-chain short-term bonds) to invest the majority of stablecoin exposure. Our aim is to begin generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/commit/e07030723333c8ce6259dfac63f0a47988cf17fb)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e07030723333c8ce6259dfac63f0a47988cf17fb/MIP76/MIP76.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP76)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip76-makershire-redux/16400)
 
