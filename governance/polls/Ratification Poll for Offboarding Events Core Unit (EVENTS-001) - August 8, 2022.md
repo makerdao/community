@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Offboarding Events Core Unit (EVENTS-001) - August 8, 2022
-summary: This proposal is to offboard the Events Core Unit (EVENTS-001)
+summary: This proposal is to offboard the Events Core Unit (EVENTS-001).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp73-modify-core-unit-budget-events-001/15991
 parameters:
     input_format: single-choice
@@ -32,11 +32,7 @@ The community may vote in this poll to express support or opposition to Offboard
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This Core Unit is authorized to spend $898,150 annually. Events are a “nice to have” and not required for this bear market, particularly considering how Daivinity was executed. Mkr token holders’ money was spent on unknown attendees and no business deals or new hires have been credited to that event.*
-
-*Given current budget constraints, the protocol simply does not accrue value from a core unit whose mission statement is: “To provide the best MakerDAO branded event experience to the crypto & Maker community including industry professionals, influencers, and enthusiasts.”*
-
-*And so this core unit should be granted severance and offboarded.*
+*"This Core Unit is authorized to spend $898,150 annually. Events are a 'nice to have' and not required for this bear market, particularly considering how Daivinity was executed. Mkr token holders’ money was spent on unknown attendees and no business deals or new hires have been credited to that event. Given current budget constraints, the protocol simply does not accrue value from a core unit whose mission statement is: 'To provide the best MakerDAO branded event experience to the crypto & Maker community including industry professionals, influencers, and enthusiasts'. And so this core unit should be granted severance and offboarded."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e07030723333c8ce6259dfac63f0a47988cf17fb/MIP40/MIP40c3-Subproposals/MIP40c3-SP73.md)
