@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for Modify Dai Foundation Core Unit Budget (MIP40c3-SP74) - August 8, 2022 
-summary: This Budget Proposal for DAI expenses aims to fund the activities of the DAI Foundation Core Unit (DAIF-001) as described in MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation.
-discussion_link: https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379/5
+title: Ratification Poll for Modify Oracle Core Unit Budget (MIP40c3-SP75) - August 8, 2022 
+summary: MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1, 2022 through June 30, 2023.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp75-modify-oracles-core-unit-budget-ora-001/16397
 parameters:
     input_format: rank-free
     victory_conditions:
@@ -10,14 +10,13 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: Base
-   2: Bear Scenario
-   3: Super Bear Scenario
-   4: Reject Budget
-start_date: 2022-08-08T16:00:00
+   1: Approve existing budget (2021-2022) (Business as usual)
+   2: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
+   3: Reject Budget
+start_date:$2022-08-08T16:00:00
 end_date: 2022-08-22T16:00:00
 ---
-# Ratification Poll  for Modify Dai Foundation Core Unit Budget (MIP40c3-SP74) - August 8, 2022 
+# Ratification Poll for Modify Oracle Core Unit Budget (MIP40c3-SP75) - August 8, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, August 8 at 16:00 UTC.
 
@@ -28,23 +27,22 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP40c3-SP74 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
+The community may vote in this poll to express support or opposition to MIP40c3-SP75 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
 
-* **Option 1:** Base: **723,357 DAI**.
-* **Option 2:** Bear Scenario: **667,055 DAI**.
-* **Option 3:** Super Bear Scenario: **325,688 DAI**.
-* **Option 4:** Reject budget.
+* **Option 1:** Approve existing budget (2021-2022): **5,061,125 DAI** (Business as usual).
+* **Option 2:** Approve proposed budget (2022-2023): **4,554,575 DAI** (Reduced budget exempt from further cuts for 12 months).
+* **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"This Budget Proposal for DAI expenses aims to fund the activities of the DAI Foundation Core Unit (DAIF-001) as described in [MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation](https://mips.makerdao.com/mips/details/MIP39c2SP17). This budget is necessary to fund DAIF-001 activities in its second budget year."*
+*"MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1, 2022 through June 30, 2023."*
 
-Note that, given that the previously ratified budget spans three years, rejecting this present budget will not invalidate said budget. Approving this present budget, however, will replace it.
+This budget also includes an [MKR compensation schedule](https://github.com/makerdao/mips/blob/317edeae2da5667876f21bdf4d23c04222754819/MIP40/MIP40c3-Subproposals/MIP40c3-SP75.md#mkr-vesting).
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/52baf509ba16db9a3c20b89aa4652b0745fd26d6/MIP40/MIP40c3-Subproposals/MIP40c3-SP74.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP74)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379/5)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/317edeae2da5667876f21bdf4d23c04222754819/MIP40/MIP40c3-Subproposals/MIP40c3-SP75.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP75)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp75-modify-oracles-core-unit-budget-ora-001/16397)
 
 ## Outcomes
 
