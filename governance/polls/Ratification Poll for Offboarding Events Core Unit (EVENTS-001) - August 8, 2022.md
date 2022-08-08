@@ -34,6 +34,8 @@ A brief summary of this proposal has been provided by the Author and is shown be
 
 *"This Core Unit is authorized to spend $898,150 annually. Events are a 'nice to have' and not required for this bear market, particularly considering how Daivinity was executed. Mkr token holders’ money was spent on unknown attendees and no business deals or new hires have been credited to that event. Given current budget constraints, the protocol simply does not accrue value from a core unit whose mission statement is: 'To provide the best MakerDAO branded event experience to the crypto & Maker community including industry professionals, influencers, and enthusiasts'. And so this core unit should be granted severance and offboarded."*
 
+The proposal author has proposed a one-off payment to the Core Unit of 103,336 DAI as a golden parachute in the event that the off-boarding is approved by MKR holders.
+
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e07030723333c8ce6259dfac63f0a47988cf17fb/MIP40/MIP40c3-Subproposals/MIP40c3-SP73.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP73)
