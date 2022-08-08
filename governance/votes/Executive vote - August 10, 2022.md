@@ -47,7 +47,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmfMRfE4) on the
 
 **[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Reductions**
 
-- Reduce **ETH-B** Stability Fee from 4% **to 3.75%**.
+- Reduce the **ETH-B** Stability Fee from 4% **to 3.75%**.
 - Reduce the **WSTETH-A** Stability Fee from 2.50% to **2.25%**.
 - Reduce the **WSTETH-B** Stability Fee from 0.75% to **0%**.
 - Reduce the **WBTC-B** Stability Fee from 4.00% to **3.75%**.
