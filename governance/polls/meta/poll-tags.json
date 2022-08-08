@@ -2996,5 +2996,40 @@
     "misc-governance",
     "misc-funding",
     "budget"
+  ],
+  "844": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "845": [
+    "medium-impact",
+    "ratification",
+    "mips"
+  ],
+  "846": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "847": [
+    "medium-impact",
+    "ratification",
+    "mips",
+    "d3m"
+  ],
+  "848": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "849": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
   ]
 }
