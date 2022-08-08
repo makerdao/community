@@ -59,8 +59,8 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmfMRfE4) on the
 - Increase the **UNIV2DAIUSDC-A** Stability Fee from 0.01% to **0.02%**.
 
 **[Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases**
-- Increase the **GUNIV3DAIUSDC2-A** Maximum Debt Ceiling from 1 billion DAI to **1.25 billion DAI**.
 - Increase the **GUNIV3DAIUSDC1-A** Maximum Debt Ceiling from 750 million DAI to **1 billion DAI**.
+- Increase the **GUNIV3DAIUSDC2-A** Maximum Debt Ceiling from 1 billion DAI to **1.25 billion DAI**.
 - Increase the **MANA-A** Maximum Debt Ceiling from 15 million DAI to **17 million DAI**.
 
 ### Activate SocGen Vault
