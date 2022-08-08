@@ -35,7 +35,11 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Huntingdon Valley (HVBank) Vault Drawdown
 
-Following the [addendum to the initial risk assessment](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/8) after the [addition of RWA-009 (HVBank) as a new Vault Type](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), **25,000,000 DAI** will be drawn down from the urn to the CryptoBroker by calling `drawFromRWA009Urn()` if this executive proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, if this executive proposal passes.
+
+Further description of the schedule and mechanism being used for drawdown from this vault can be seen in this [post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/8) from the Collateral Engineering Services Core Unit (CES-001).
+
+This will be the third of the four planned drawdowns of 25 million DAI each.
 
 ### MOMC Parameter Changes
 
