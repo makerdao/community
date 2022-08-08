@@ -13,7 +13,7 @@ options:
    1: Approve existing budget (2021-2022) (Business as usual)
    2: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
    3: Reject Budget
-start_date:2022-08-08T16:00:00
+start_date: 2022-08-08T16:00:00
 end_date: 2022-08-22T16:00:00
 ---
 # Ratification Poll for Modify Oracle Core Unit Budget (MIP40c3-SP75) - August 8, 2022
