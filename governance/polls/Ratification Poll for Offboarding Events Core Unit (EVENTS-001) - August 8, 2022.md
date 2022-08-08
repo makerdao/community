@@ -30,7 +30,7 @@ The community may vote in this poll to express support or opposition to Offboard
 
 ### MIP40c3-SP73
 
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
+A brief summary of this proposal has been provided by the Author and is shown below:
 
 *"This Core Unit is authorized to spend $898,150 annually. Events are a 'nice to have' and not required for this bear market, particularly considering how Daivinity was executed. Mkr token holders’ money was spent on unknown attendees and no business deals or new hires have been credited to that event. Given current budget constraints, the protocol simply does not accrue value from a core unit whose mission statement is: 'To provide the best MakerDAO branded event experience to the crypto & Maker community including industry professionals, influencers, and enthusiasts'. And so this core unit should be granted severance and offboarded."*
 
@@ -41,7 +41,7 @@ Please review the links below to inform your position on this proposal before vo
 
 ### MIP41c5-SP8
 
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
+A brief summary of this proposal has been provided by the Author and is shown below:
 
 *See the [sister sub proposal](https://forum.makerdao.com/t/mip40c3-sp73-modify-core-unit-budget-events-001/15991) to remove the budget from this core unit. This core unit is simply not needed anymore. Severance is included in the budget offboarding sub proposal for both facilitators.*
 
