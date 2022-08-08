@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - **25,000,000 DAI** will be drawn down for HVBank, detailed below.
 - Parameter changes from the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-july-2022/16895) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), including [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceilings (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), listed in detail below, will be applied.
-- The SocGen Vault will be activated.
+- SocGen Forge will be authorized to drawdown DAI from the previously activated SocGen Vault (RWA-008).
 - A total of **121,808 DAI**, detailed below, will be transferred to multiple Recognized Delegates.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
