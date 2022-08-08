@@ -65,9 +65,11 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmfMRfE4) on the
 
 ### Activate SocGen Vault
 
-The SocGenForge OFH token was [onboarded on August 2, 2022](https://vote.makerdao.com/executive/template-executive-vote-onboarding-real-world-asset-vaults-july-29-2022). However, due to the key holders being unavailable during the spell creation and validation, [the ownership of the `operator` wallet could not be verified](https://forum.makerdao.com/t/socgen-forge-ofh-granting-final-permission-after-the-onboarding/17033). 
+The SocGenForge OFH token was [onboarded on August 2, 2022](https://vote.makerdao.com/executive/template-executive-vote-onboarding-real-world-asset-vaults-july-29-2022). However, due to the key holders being unavailable during the spell creation and validation, the ownership of the `operator` wallet could not be verified. 
 
-[The ownership has now been verified](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605/42). The final permission to the SocGen's wallet will be granted if this executive proposal passes.
+[The ownership has now been verified](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605/42). The final permission to SocGen's wallet which will allow them to drawdown DAI will be granted, if this executive proposal passes.
+
+Please see [this post](https://forum.makerdao.com/t/socgen-forge-ofh-granting-final-permission-after-the-onboarding/17033) from the Collateral Engineering Services Core Unit (CES-001) that explains this in more detail.
 
 ### Recognized Delegate Compensation
 
