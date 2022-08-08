@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for Modify Dai Foundation Core Unit Budget (MIP40c3-SP74) - August 8, 2022 
-summary: This Budget Proposal for DAI expenses aims to fund the activities of the DAI Foundation Core Unit (DAIF-001) as described in MIP39c2-SP17 adds Core Unit DAIF-001: Dai Foundation.
-discussion_link: https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379/5
+summary: This budget proposal for DAI expenses aims to fund the activities of the DAI Foundation Core Unit (DAIF-001) as described in MIP39c2-SP17.
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379/
 parameters:
     input_format: rank-free
     victory_conditions:
