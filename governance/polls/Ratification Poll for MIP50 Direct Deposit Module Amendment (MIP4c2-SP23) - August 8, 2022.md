@@ -33,7 +33,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MIP50 was too specific to lending protocols. I’ve updated it for the V2 rewrite which covers all external protocols that allow users to deposit / withdraw DAI. I’ve updated the MIP to remove details of the targeting mechanism as that is no longer important."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4fc05f8a5056615397765d1daef2ed47e750c085/MIP4/MIP4c2-Subproposals/MIP4c2-SP23.md))
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4fc05f8a5056615397765d1daef2ed47e750c085/MIP4/MIP4c2-Subproposals/MIP4c2-SP23.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP23)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp23-mip50-direct-deposit-module-amendment/16387)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/606)
