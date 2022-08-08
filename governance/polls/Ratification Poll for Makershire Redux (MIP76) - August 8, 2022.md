@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Makershire Redux (MIP76) - August 8, 2022
-summary: Makershire Redux is a 10M pool allocated across Liquidity Pools to support DAI liquidity/utility and earn yield.
+summary: Makershire Redux is a 10M pool allocated across Liquidity Pools to support DAI liquidity and utility and earn yield.
 discussion_link: https://forum.makerdao.com/t/mip76-makershire-redux/16400
 parameters:
     input_format: single-choice
