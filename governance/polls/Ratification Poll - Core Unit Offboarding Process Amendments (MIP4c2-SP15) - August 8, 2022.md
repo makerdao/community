@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $2022-08-08T16:00:00
-end_date: $2022-08-22T16:00:00
+start_date: 2022-08-08T16:00:00
+end_date: 2022-08-22T16:00:00
 ---
 # Ratification Poll for Core Unit Offboarding Process Amendments (MIP4c2-SP15) - August 8, 2022
 
