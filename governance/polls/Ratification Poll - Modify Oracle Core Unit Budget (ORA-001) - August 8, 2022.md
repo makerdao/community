@@ -10,8 +10,8 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: Approve existing budget (2021-2022) (Business as usual)
-   2: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
+   1: Approve existing budget (Business as usual)
+   2: Approve proposed budget (Reduced budget exempt from further cuts for 12 months)
    3: Reject Budget
 start_date: 2022-08-08T16:00:00
 end_date: 2022-08-22T16:00:00
@@ -29,11 +29,11 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP75 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
 
-* **Option 1:** Approve existing budget (2021-2022): **5,061,125 DAI** (Business as usual).
-* **Option 2:** Approve proposed budget (2022-2023): **4,554,575 DAI** (Reduced budget exempt from further cuts for 12 months).
+* **Option 1:** Approve existing budget: **5,061,125 DAI** (Business as usual).
+* **Option 2:** Approve proposed budget: **4,554,575 DAI** (Reduced budget exempt from further cuts for 12 months).
 * **Option 3:** Reject budget.
 
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
+A brief summary of this proposal has been provided by the proposal Author and is shown below:
 
 *"MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1, 2022 through June 30, 2023."*
 
