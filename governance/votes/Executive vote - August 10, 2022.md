@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] HVBank Vault Drawdown, MOMC Parameter Changes, SocGen Vault Activation, Recognized Delegate Compensation - August 10, 2022
-summary: Huntingdon Valley (HVBank) Vault Drawdown; MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings; SocGen Vault activation (OFH token, onboarded as RWA008-A); Recognized Delegates compensation (121,808 DAI).
+title: Template - [Executive Vote] HVBank Vault Drawdown, MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 10, 2022
+summary: Huntingdon Valley (HVBank) Vault Drawdown; MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings; SocGen Vault Drawdown Authorization (OFH token, onboarded as RWA008-A); Recognized Delegates compensation (121,808 DAI).
 date: 2022-08-10T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- **25,000,000 DAI** will be drawndown for HVBank, as detailed below.
+- **25,000,000 DAI** will be drawn down for HVBank, as detailed below.
 - Parameter changes from the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-july-2022/16895) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), including [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceilings (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), listed in detail below, will be applied.
 - SocGen Forge will be authorized to drawdown DAI from the previously activated SocGen Vault (RWA-008).
 - A total of **121,808 DAI**, detailed below, will be transferred to multiple Recognized Delegates.
