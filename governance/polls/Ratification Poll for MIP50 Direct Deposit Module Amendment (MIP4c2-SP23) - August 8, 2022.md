@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP50 Direct Deposit Module Amendment (MIP4c2-SP23) - August 8, 2022
-summary: MIP50 was too specific to lending protocols. I’ve updated it for the V2 rewrite which covers all external protocols that allow users to deposit / withdraw DAI.
+summary: MIP50 was too specific to lending protocols. I’ve updated it for the V2 rewrite which covers all external protocols that allow users to deposit and withdraw DAI.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp23-mip50-direct-deposit-module-amendment/16387
 parameters:
     input_format: single-choice
