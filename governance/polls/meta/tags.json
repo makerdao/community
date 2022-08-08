@@ -43,13 +43,21 @@
     "precedence": 5
   },
   {
+    "id": "core-unit-offboard",
+    "shortname": "CU Off",
+    "longname": "Core Unit Offboarding",
+    "recommend_ui": true,
+    "description": "Proposals to offboard Core Units from MakerDAO",
+    "precedence": 6
+  },
+  {
     "id": "collateral-onboard",
     "shortname": "Collateral On",
     "longname": "Collateral Onboarding",
     "recommend_ui": true,
     "description": "Polls relating to the onboarding of collateral into the Maker Protocol",
     "related_link": "https://collateral.makerdao.com/",
-    "precedence": 6
+    "precedence": 7
   },
   {
     "id": "oracle",
@@ -57,7 +65,7 @@
     "longname": "Oracle",
     "recommend_ui": true,
     "description": "Polls concerning MakerDAO's Oracles",
-    "precedence": 7
+    "precedence": 8
   },
   {
     "id": "budget",
@@ -66,7 +74,7 @@
     "recommend_ui": true,
     "description": "Budget proposals made by MakerDAO's Core Units",
     "related_link": "https://mips.makerdao.com/mips/details/MIP40",
-    "precedence": 8
+    "precedence": 9
   },
   {
     "id": "medium-impact",
@@ -75,7 +83,7 @@
     "recommend_ui": true,
     "description": "Polls that GovAlpha has judged medium-impact",
     "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
-    "precedence": 9
+    "precedence": 10
   },
   {
     "id": "real-world-assets",
@@ -83,7 +91,7 @@
     "longname": "Real World Asset",
     "recommend_ui": true,
     "description": "Polls relating to Real World Assets in the Maker Protocol",
-    "precedence": 10
+    "precedence": 11
   },
   {
     "id": "surplus",
@@ -92,7 +100,7 @@
     "recommend_ui": true,
     "description": "Changes to the System Surplus Buffer",
     "related_link": "https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer",
-    "precedence": 11
+    "precedence": 12
   },
   {
     "id": "greenlight",
@@ -101,7 +109,7 @@
     "recommend_ui": true,
     "description": "Polls relating to the collateral application greenlight process",
     "related_link": "https://mips.makerdao.com/mips/details/MIP9",
-    "precedence": 12
+    "precedence": 13
   },
   {
     "id": "bridge",
@@ -109,7 +117,7 @@
     "longname": "Multi-Chain Bridge",
     "recommend_ui": true,
     "description": "Polls relating to the bridging of DAI and the Maker Protocol to other chains",
-    "precedence": 13
+    "precedence": 14
   },
   {
     "id": "low-impact",
@@ -118,7 +126,7 @@
     "recommend_ui": true,
     "description": "Polls that GovAlpha has judged low-impact",
     "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
-    "precedence": 14
+    "precedence": 15
   },
   {
     "id": "collateral-offboard",
@@ -127,7 +135,7 @@
     "recommend_ui": true,
     "description": "Polls relating to the offboarding of collateral into the Maker Protocol",
     "related_link": "https://mips.makerdao.com/mips/details/MIP62",
-    "precedence": 15
+    "precedence": 16
   },
   {
     "id": "delegates",
@@ -135,7 +143,8 @@
     "longname": "Delegates",
     "recommend_ui": true,
     "description": "Polls relating to MakerDAO's Recognized Delegates",
-    "precedence": 16
+    "related_link": "https://manual.makerdao.com/governance/what-is-delegation",
+    "precedence": 17
   },
   {
     "id": "momc",
@@ -144,7 +153,7 @@
     "recommend_ui": true,
     "description": "Proposals made by the MakerDAO Open Market Committee",
     "related_link": "https://forum.makerdao.com/tag/ppg-omc-001",
-    "precedence": 17
+    "precedence": 18
   },
   {
     "id": "auctions",
@@ -152,7 +161,7 @@
     "longname": "Auction",
     "recommend_ui": true,
     "description": "Polls related to auctions and auction parameters in the Maker Protocol",
-    "precedence": 18
+    "precedence": 19
   },
   {
     "id": "dsr",
@@ -161,7 +170,7 @@
     "recommend_ui": true,
     "description": "Polls affecting the Dai Savings Rate",
     "related_link": "https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate",
-    "precedence": 19
+    "precedence": 20
   },
   {
     "id": "d3m",
@@ -170,7 +179,7 @@
     "recommend_ui": true,
     "description": "Polls relating to changes or onboarding of DAI Direct Deposit Modules",
     "related_link": "https://manual.makerdao.com/module-index/module-dai-direct-deposit",
-    "precedence": 20
+    "precedence": 21
   },
   {
     "id": "psm",
@@ -179,7 +188,7 @@
     "recommend_ui": true,
     "description": "Polls relating to changes or onboarding of Peg Stability Modules",
     "related_link": "https://manual.makerdao.com/module-index/module-psm",
-    "precedence": 21
+    "precedence": 22
   },
   {
     "id": "misc-funding",
@@ -187,7 +196,7 @@
     "longname": "Misc Funding",
     "recommend_ui": true,
     "description": "Polls related to miscellaneous funding proposals",
-    "precedence": 22
+    "precedence": 23
   },
   {
     "id": "misc-governance",
@@ -195,7 +204,7 @@
     "longname": "Misc Governance",
     "recommend_ui": true,
     "description": "Miscellaneous Polls related to Governance",
-    "precedence": 23
+    "precedence": 24
   },
   {
     "id": "oracle-whitelist",
@@ -203,7 +212,7 @@
     "longname": "Oracle Whitelist",
     "recommend_ui": true,
     "description": "Oracle Whitelist proposals",
-    "precedence": 24
+    "precedence": 25
   },
   {
     "id": "oracle-feed",
@@ -211,7 +220,7 @@
     "longname": "Oracle Feed",
     "recommend_ui": true,
     "description": "Oracle Feed Onboarding and Offboarding",
-    "precedence": 25
+    "precedence": 26
   },
   {
     "id": "ratification",
@@ -220,7 +229,7 @@
     "recommend_ui": true,
     "description": "Ratification Polls as defined in MIP51",
     "related_link": "https://mips.makerdao.com/mips/details/MIP51#MIP51c2",
-    "precedence": 26
+    "precedence": 27
   },
   {
     "id": "black-thursday",
@@ -228,7 +237,7 @@
     "longname": "Black Thursday",
     "recommend_ui": true,
     "description": "Polls relating to Black Thursday",
-    "precedence": 27
+    "precedence": 28
   },
   {
     "id": "inclusion",
@@ -237,7 +246,7 @@
     "recommend_ui": false,
     "description": "Inclusion Polls as defined in MIP3 (obsolete)",
     "related_link": "https://mips.makerdao.com/mips/details/MIP3",
-    "precedence": 28
+    "precedence": 29
   },
   {
     "id": "mcd-launch",
@@ -245,7 +254,7 @@
     "longname": "Multi-Collateral DAI Launch",
     "recommend_ui": false,
     "description": "Polls relating to the launch of Multi-Collateral DAI",
-    "precedence": 29
+    "precedence": 30
   },
   {
     "id": "prioritization-sentiment",
@@ -253,6 +262,6 @@
     "longname": "Prioritization Sentiment",
     "recommend_ui": true,
     "description": "Polls that seek input on prioritization sentiment from MKR holders",
-    "precedence": 30
+    "precedence": 31
   }
 ]
