@@ -5,7 +5,7 @@ date: 2022-08-10T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] HVBank Vault Drawdown, MOMC Parameter Changes, SocGen Vault Activation, Recognized Delegate Compensation - August 10, 2022
+# [Executive Proposal] HVBank Vault Drawdown, MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 10, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
