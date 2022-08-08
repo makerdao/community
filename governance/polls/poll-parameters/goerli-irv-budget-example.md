@@ -11,7 +11,6 @@ parameters:
         type: 'and', 
         conditions: [
           { type : instant-runoff },
-          { type: majority, percent: 50 },
           { type : comparison, comparator : '>=', value: 10000 }
         ]
       }
