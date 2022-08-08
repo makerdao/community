@@ -37,7 +37,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *"MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1, 2022 through June 30, 2023."*
 
-This budget also includes an [MKR compensation schedule](https://github.com/makerdao/mips/blob/317edeae2da5667876f21bdf4d23c04222754819/MIP40/MIP40c3-Subproposals/MIP40c3-SP75.md#mkr-vesting).
+This budget also includes an updated [MKR compensation schedule](https://github.com/makerdao/mips/blob/317edeae2da5667876f21bdf4d23c04222754819/MIP40/MIP40c3-Subproposals/MIP40c3-SP75.md#mkr-vesting) based on the previously approved MKR budget proposal for this Core Unit.
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/317edeae2da5667876f21bdf4d23c04222754819/MIP40/MIP40c3-Subproposals/MIP40c3-SP75.md)
