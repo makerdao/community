@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] HVBank Vault Drawdown, MOMC Parameter Changes, SocGen Vault Activation, Recognized Delegate Compensation - August 10, 2022
 summary: Huntingdon Valley (HVBank) Vault Drawdown; MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings; SocGen Vault activation (OFH token, onboarded as RWA008-A); Recognized Delegates compensation (121,808 DAI).
-date: $2022-08-10T00:00:00.000Z
+date: 2022-08-10T00:00:00.000Z
 address: "$spell_address"
 
 ---
