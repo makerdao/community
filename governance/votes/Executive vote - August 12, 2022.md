@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 10, 2022
+title: Template - [Executive Vote] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 12, 2022
 summary: MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings, SocGen Vault Drawdown Authorization (OFH token, onboarded as RWA008-A), Recognized Delegates compensation (121,808 DAI).
-date: 2022-08-10T00:00:00.000Z
+date: 2022-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 10, 2022
+# [Executive Proposal] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 12, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
