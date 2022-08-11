@@ -82,7 +82,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 
 ### HVBank (RWA-009) Legal Agreement Update
 
-As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179), the legal agreements for the HVBank deal will be amended in the manner described below, if this executive proposal passes. Note this item has been inserted in the place of the next 25M DAI Drawdown for HVBank. Future drawdowns will be postponed until a new trading partner steps in. 
+As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179), the legal agreements for the HVBank deal will be amended in the manner described below, if this executive proposal passes. Note this item has been inserted in the place of the next 25 million DAI Drawdown for HVBank. Future drawdowns will be postponed until a new trading partner steps in. 
 
 **If this Executive Proposal passes:**
 
