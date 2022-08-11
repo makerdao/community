@@ -86,7 +86,7 @@ As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusi
 
 **If this Executive Proposal passes:**
 
-The MKR token holders authorize
+`The MKR token holders authorize`
 
 `The Director of RWA Foundation to instruct Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. by replacing`
 
