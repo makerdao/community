@@ -94,7 +94,7 @@ As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusi
 
 `with`
 
-0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+`0x1818EE501cd28e01E058E7C283E178E9e04a1e79`
 
 The Director of RWA Foundation to instruct Genesis Global Trading Inc. to return 25 million DAI to
 
