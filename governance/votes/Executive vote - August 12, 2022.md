@@ -92,7 +92,7 @@ As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusi
 
 `0x6C6d4Be2223B5d202263515351034861dD9aFdb6`
 
-with
+`with`
 
 0x1818EE501cd28e01E058E7C283E178E9e04a1e79
 
