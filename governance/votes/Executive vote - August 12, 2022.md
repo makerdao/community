@@ -90,7 +90,7 @@ As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusi
 
 `The Director of RWA Foundation to instruct Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. by replacing`
 
-0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+`0x6C6d4Be2223B5d202263515351034861dD9aFdb6`
 
 with
 
