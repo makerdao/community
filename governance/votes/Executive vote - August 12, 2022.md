@@ -102,7 +102,7 @@ As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusi
 
 `The Director of RWA Foundation to take such steps as are necessary to give effect to the above`
 
-Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. to reflect the above changes to the RWA Foundation portal with Genesis Global Trading Inc.
+`Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. to reflect the above changes to the RWA Foundation portal with Genesis Global Trading Inc.`
 
 ## Review
 
