@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 12, 2022
-summary: MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings, SocGen Vault Drawdown Authorization (OFH token, onboarded as RWA008-A), Recognized Delegates compensation (121,808 DAI).
+title: Template - [Executive Vote] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation, HVBank Legal Agreement Amendment - August 12, 2022
+summary: MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings, SocGen Vault Drawdown Authorization (OFH token, onboarded as RWA008-A), Recognized Delegates compensation (121,808 DAI), and updating HVBank legal agreement to facilitate the return of funds.
 date: 2022-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation - August 12, 2022
+# [Executive Proposal] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation, HVBank Legal Agreement Amendment - August 12, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -19,6 +19,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - Parameter changes from the latest [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-july-2022/16895) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), including [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), [Maximum Debt Ceilings (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), listed in detail below, will be applied.
 - SocGen Forge will be authorized to drawdown DAI from the previously activated SocGen Vault (RWA-008).
 - A total of **121,808 DAI**, detailed below, will be transferred to multiple Recognized Delegates.
+- The legal agreements for HVBank (RWA-009) will be updated to facilitate the return of funds, as detailed below. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -78,6 +79,30 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **4,029 DAI** will be transferred to [mhonkasalo & teemulau](https://vote.makerdao.com/address/0xaa19f47e6acb02df88efa9f023f2a38412069902) at [0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d](https://etherscan.io/address/0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d).
 - **3,797 DAI** will be transferred to [Llama](https://vote.makerdao.com/address/0x4e314eba76c3062140ad196e4ffd34485e33c5f5) at [0x82cD339Fa7d6f22242B31d5f7ea37c1B721dB9C3](https://etherscan.io/address/0x82cD339Fa7d6f22242B31d5f7ea37c1B721dB9C3).
 - **2,013 DAI** will be transferred to [Blockchain@Columbia](https://vote.makerdao.com/address/0xb8df77c3bd57761bd0c55d2f873d3aa89b3da8b7) at [0xdC1F98682F4F8a5c6d54F345F448437b83f5E432](https://etherscan.io/address/0xdC1F98682F4F8a5c6d54F345F448437b83f5E432).
+
+### HVBank (RWA-009) Legal Agreement Update
+
+As detailed in this [post](https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179), the legal agreements for the HVBank deal will be amended in the manner described below, if this executive proposal passes. Note this item has been inserted in-place of the next 25M DAI Drawdown for HVBank, future drawdowns will be postponed until a new tranding partner can step in. 
+
+**If this Executive Proposal is passed:**
+
+The MKR token holders authorize
+
+The Director of RWA Foundation to instruct Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. by replacing
+
+0x6C6d4Be2223B5d202263515351034861dD9aFdb6
+
+with
+
+0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+
+The Director of RWA Foundation to instruct Genesis Global Trading Inc. to return 25 million DAI to
+
+0x1818EE501cd28e01E058E7C283E178E9e04a1e79
+
+The Director of RWA Foundation to take such steps as are necessary to give effect to the above
+
+Ankura Trust Company, LLC to update the RWA Foundation portal with Genesis Global Trading Inc. to reflect the above changes to the RWA Foundation portal with Genesis Global Trading Inc.
 
 ## Review
 
