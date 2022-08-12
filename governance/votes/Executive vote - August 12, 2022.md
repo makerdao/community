@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation, HVBank Legal Agreement Amendment - August 12, 2022
 summary: MOMC parameter changes, including Stability Fees and Maximum Debt Ceilings, SocGen Vault Drawdown Authorization (OFH token, onboarded as RWA008-A), Recognized Delegates compensation (121,808 DAI), and updating HVBank legal agreement to facilitate the return of funds.
 date: 2022-08-12T00:00:00.000Z
-address: "$spell_address"
+address: "0xC5d1e69709dF34915395Ff3d6a6C6F1aE571BaeA"
 
 ---
 # [Executive Proposal] MOMC Parameter Changes, SocGen Vault Drawdown Authorization, Recognized Delegate Compensation, HVBank Legal Agreement Amendment - August 12, 2022
