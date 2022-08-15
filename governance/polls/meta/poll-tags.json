@@ -3031,5 +3031,17 @@
     "ratification",
     "mips",
     "core-unit-offboard"
+  ],
+  "850": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "851": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "852": [
+    "medium-impact",
+    "greenlight"
   ]
 }
