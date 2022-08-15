@@ -1,6 +1,6 @@
 ---
 title: Community Greenlight Poll - Cabot (Cabot Renewable Energy Crypto Mining LLC) - August 15, 2022
-summary: Signal your support or opposition to prioritising onboarding Cabot  (Cabot Renewable Energy Crypto Mining LLC).
+summary: Signal your support or opposition to prioritising onboarding Cabot (Cabot Renewable Energy Crypto Mining LLC).
 discussion_link: https://forum.makerdao.com/t/mip6-cabot-renewable-energy-crypto-mining/15565/1
 parameters:
     input_format: single-choice
