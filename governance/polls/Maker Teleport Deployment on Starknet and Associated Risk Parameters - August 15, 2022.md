@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### Deposit Limit
 
-Set the deposit limit to **1000 DAI**.
+- Set the deposit limit to **1000 DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187)
 
