@@ -1,7 +1,7 @@
 ---
 title: Community Greenlight Poll - DDC (Detox Digital Coin) - August 15, 2022
 summary: Signal your support or opposition to prioritising onboarding DDCs (Detox Digital Coin).
-discussion_link: (https://forum.makerdao.com/t/sb-ddc-mip6-application-interests-in-detox-medical-facilities-digital-offering-of-solidblock-holdings-llc-in-the-form-of-cryptographic-digital-tokens-ddcs-a-solidblock-offering/16177)
+discussion_link: https://forum.makerdao.com/t/sb-ddc-mip6-application-interests-in-detox-medical-facilities-digital-offering-of-solidblock-holdings-llc-in-the-form-of-cryptographic-digital-tokens-ddcs-a-solidblock-offering/16177
 parameters:
     input_format: single-choice
     victory_conditions:
