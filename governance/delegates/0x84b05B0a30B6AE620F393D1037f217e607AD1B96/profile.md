@@ -1,7 +1,6 @@
-
 ---
 name: Flipside Governance
-external_profile_url: https://medium.com/flipside-governance
+external_profile_url: https://medium.com/flipside-governance. 
 tags:
   - data-driven
   - growth
