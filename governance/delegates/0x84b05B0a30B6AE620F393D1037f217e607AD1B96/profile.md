@@ -8,7 +8,7 @@ tags:
   - sustainability
 
 
-# Flipside Crypto
+# Flipside Governance
 
 ### Key Info
 
