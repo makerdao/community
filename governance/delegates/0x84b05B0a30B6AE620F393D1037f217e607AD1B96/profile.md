@@ -1,4 +1,6 @@
-name: Flipside Crypto
+
+---
+name: Flipside Governance
 external_profile_url: https://medium.com/flipside-governance
 tags:
   - data-driven
@@ -6,18 +8,17 @@ tags:
   - vision
   - simplicity
   - sustainability
-
+---
 
 # Flipside Governance
 
 ### Key Info
 
-
-Delegate Address: 0x84b05B0a30B6AE620F393D1037f217e607AD1B96  
-Forum: @rspa @fig @avi @dobby
-Discord: @raphbaph#5749 @fig#6582 @avi#1773
-Email: [governance@flipsidecrypto.com](mailto:governance@flipsidecrypto.com)
-External Website: [https://flipsidecrypto.xyz/](https://flipsidecrypto.xyz/)
+Delegate Address: 0x84b05B0a30B6AE620F393D1037f217e607AD1B96       
+Forum: @rspa @fig @avi @dobby   
+Discord: @raphbaph#5749 @fig#6582 @avi#1773   
+Email: [governance@flipsidecrypto.com](mailto:governance@flipsidecrypto.com)   
+External Website: [Medium | Flipside Governance](https://medium.com/flipside-governance)   
 
 #### *Delegates Code of Conduct:* 
  *We as Flipside Crypto Governance have read, acknowledge, and adhere to Maker's Delegates Code of Contact.* (Agreed 02/25/22) 
