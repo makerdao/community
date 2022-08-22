@@ -32,14 +32,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to rank their support of the following target spending amounts for the next 6 months, as dictated in the [Signal Request](https://forum.makerdao.com/t/signal-request-n6m-target-spend-level/17122#signal-request-poll-8):
-* Abstain - Voters should rank Abstain as their one and only option if they support any outcome determined by other MKR voters.
-* No change - Voters should rank this option in order of preference if they support offering no additional guidence to the DAO on spending targets.
-* 15 million DAI - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 15M DAI over the next 6 months.
-* 15.5 million DAI  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 15.5M DAI over the next 6 months.
-* 16 million DAI  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 16M DAI over the next 6 months.
-* 16.5 million DAI  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 16.5M DAI over the next 6 months.
-* 17 million DAI  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 17M DAI over the next 6 months.
-* 17.5 million DAI  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 17.5M DAI over the next 6 months.
+* **Abstain** - Voters should rank Abstain as their one and only option if they support any outcome determined by other MKR voters.
+* **No change** - Voters should rank this option in order of preference if they support offering no additional guidence to the DAO on spending targets.
+* **15 million DAI** - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 15M DAI over the next 6 months.
+* **15.5 million DAI**  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 15.5M DAI over the next 6 months.
+* **16 million DAI**  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 16M DAI over the next 6 months.
+* **16.5 million DAI**  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 16.5M DAI over the next 6 months.
+* **17 million DAI**  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 17M DAI over the next 6 months.
+* **17.5 million DAI**  - Voters should rank this option in order of preference if they would like to see the DAO target a spending level of 17.5M DAI over the next 6 months.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-n6m-target-spend-level/17122) to help inform your position before voting.
 
