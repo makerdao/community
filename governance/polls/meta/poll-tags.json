@@ -3048,5 +3048,17 @@
     "medium-impact",
     "risk-parameter",
     "bridge"
+  ],
+  "854": [
+    "medium-impact",
+    "surplus",
+    "misc-funding",
+    "budget"
+  ],
+  "855": [
+    "medium-impact",
+    "real-world-assets",
+    "misc-governance",
+    "misc-funding"
   ]
 }
