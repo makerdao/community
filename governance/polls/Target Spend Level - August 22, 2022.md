@@ -1,6 +1,6 @@
 ---
 title: Target Spend Level - August 22, 2022
-summary: Rank your preferred options to resolve $GenericChange.
+summary: Rank your preferred options to resolve a Target Spending Level for MakerDAO over the next 6 months.
 discussion_link: https://forum.makerdao.com/t/signal-request-n6m-target-spend-level/17122
 parameters:
     input_format: rank-free
