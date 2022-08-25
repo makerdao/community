@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] HVBank (RWA-009) Drawdown - August 24, 2022
 summary: 25 million DAI drawdown on the HVBank (RWA-009) vault.
 date: 2022-08-24T00:00:00.000Z
-address: "$spell_address"
+address: "0xB18a078AAFD872fe06A2BA8c5A7CC068D6bD79a9"
 
 ---
 # [Executive Proposal] HVBank (RWA-009) Drawdown - August 24, 2022
