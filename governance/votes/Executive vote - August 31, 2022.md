@@ -45,7 +45,7 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/Qmahj
 
 The Maker Teleport initiative will be bringing canonical DAI capability onto L2 domains
 
-For more details, please read the [Signal Request from which the passed governance poll spawned off](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109). Forum threads related to the Teleport initiative can be found [here](https://forum.makerdao.com/tag/wormhole).
+For more details, please read the [Signal Request from which the passed governance poll spawned off](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109). Forum threads related to the Teleport initiative can be found [here](https://forum.makerdao.com/tag/teleport).
 
 ## Review
 
