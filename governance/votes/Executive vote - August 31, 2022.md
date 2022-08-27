@@ -15,10 +15,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **change** will occur within the Maker Protocol:
 - 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, as detailed below.
 
-If this executive proposal passes, the following **additions** will occur within the Maker Protocol:
+If this executive proposal passes, the following **addition** will occur within the Maker Protocol:
 - Maker Teleport will be launched on Optimism and Arbitrum with a 1 basis point fee.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
