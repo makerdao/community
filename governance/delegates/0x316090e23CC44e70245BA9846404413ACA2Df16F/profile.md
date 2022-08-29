@@ -2,9 +2,9 @@
 name: Frontier Research LLC
 external_profile_url:
 tags:
-  - tag_A
-  - tag_B
-  - tag_C
+  - growth
+  - vision
+  - pragmatism
 ---
 
 # Frontier Research LLC Delegate Platform
