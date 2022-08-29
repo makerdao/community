@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] HVBank Drawdown, Maker Teleport Launch on Optimism and Arbitrum - August 31, 2022
-summary: Includes drawdown of 25 million DAI for HVBank and Teleport launch on Optimism and Arbitrum
-date: 2022-09-31T00:00:00.000Z
+summary: Includes drawdown of 25 million DAI for HVBank and Teleport launch on Optimism and Arbitrum.
+date: 2022-08-31T00:00:00.000Z
 address: "$spell_address"
 
 ---
