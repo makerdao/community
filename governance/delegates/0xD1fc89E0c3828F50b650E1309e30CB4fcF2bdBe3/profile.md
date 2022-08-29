@@ -2,9 +2,6 @@
 name: Jason Yanowitz
 external_profile_url:
 tags:
-  - tag_A
-  - tag_B
-  - tag_C
 ---
 
 ### Key Info
