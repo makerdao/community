@@ -17,7 +17,7 @@ end_date: 2022-09-01T00:00:00
 ---
 # Ratification Poll for Legal Domain Work on Greenlit Collateral (bIBTA) Special Purpose Fund (MIP55c3-SP6) - August 29, 2022
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 1 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, August 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
