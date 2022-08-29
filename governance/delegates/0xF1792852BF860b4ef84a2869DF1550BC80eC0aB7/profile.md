@@ -1,9 +1,9 @@
 ---
-name: London Business School
+name: London Business School Blockchain
 external_profile_url:
 ---
 
-# London Business School (LBS)
+# LBS Blockchain Society (LBS)
 
 ### Key Info
 
