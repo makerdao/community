@@ -13,7 +13,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-08-29T16:00:00
-end_date: 2022-09-01T00:00:00
+end_date: 2022-09-01T16:00:00
 ---
 # Ratification Poll for Legal Domain Work on Greenlit Collateral (bIBTA) Special Purpose Fund (MIP55c3-SP6) - August 29, 2022
 
