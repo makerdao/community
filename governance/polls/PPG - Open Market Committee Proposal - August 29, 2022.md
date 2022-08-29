@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-* Abstain - Voters should rank this as their first and only option if they do not wish to indicate preferene over the outcome of this vote.
+* Abstain - Voters should rank this as their first and only option if they do not wish to indicate preference over the outcome of this vote.
 * Option 1 - Voters should rank this option in their order of preference if they support the indicated changes, detailed below. 
 * Option 2 - Voters should rank this option in their order of preference if they support the indicated changes, detailed below.
 * No changes - Voters should rank this option in their order of preference if they support no parameter changes being applied as a result of this poll. 
