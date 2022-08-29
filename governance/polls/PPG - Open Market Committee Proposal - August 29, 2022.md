@@ -37,7 +37,7 @@ The community can vote in this poll to rank their support of the following optio
 
 - Increase the WSTETH-B [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 100 million DAI to **200 million DAI**.
 - Increase the CRVV1ETHSTETH-A [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 5 million DAI to **50 million DAI**.
-- Increase the CRVV1ETHSTETH-A [Target Availible Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 3 million DAI to **10 million DAI**.
+- Increase the CRVV1ETHSTETH-A [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 3 million DAI to **10 million DAI**.
 - Decrease the CRVV1ETHSTETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 2.25% to **2.0%**.
 - Decrease the MANA-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 6% to **4.5%**.
 
