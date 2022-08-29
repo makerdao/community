@@ -3060,5 +3060,16 @@
     "real-world-assets",
     "misc-governance",
     "misc-funding"
+  ],
+  "856": [
+    "medium-impact",
+    "risk-parameter",
+    "momc"
+  ],
+  "857": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
   ]
 }
