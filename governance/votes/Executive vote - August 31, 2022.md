@@ -45,7 +45,7 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/Qmahj
 
 The Maker Teleport initiative will bring canonical DAI capability onto L2 domains.
 
-For more details, please read the [Signal Request from which the passed governance poll spawned off](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) and the [Maker Teleport: Oracle Launch Configuration post](https://forum.makerdao.com/t/maker-teleport-oracle-launch-configuration/17471). Forum threads related to the Teleport initiative can be found [here](https://forum.makerdao.com/tag/teleport).
+For more details, please review the original [Signal Request](https://forum.makerdao.com/t/signal-request-launch-maker-teleport-with-1-basis-point-fee/15109) that led to the governance poll, and the [Maker Teleport: Oracle Launch Configuration post](https://forum.makerdao.com/t/maker-teleport-oracle-launch-configuration/17471). Forum threads related to the Teleport initiative can be found [here](https://forum.makerdao.com/tag/teleport).
 
 ## Review
 
