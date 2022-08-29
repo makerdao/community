@@ -1,7 +1,12 @@
 ---
 name: Jason Yanowitz
 external_profile_url:
-tags:
+tags: 
+- community
+- growth
+- revenue
+- scalability
+- guidance
 ---
 
 ### Key Info
