@@ -19,7 +19,7 @@ If this executive proposal passes, the following **change** will occur within th
 - 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, as detailed below.
 
 If this executive proposal passes, the following **addition** will occur within the Maker Protocol:
-- Maker Teleport will be launched on Optimism and Arbitrum with a 1 basis point fee.
+- Maker Teleport will be launched on Optimism and Arbitrum with a 1 basis point fee and 1 million DAI [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for each chain. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
