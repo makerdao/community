@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### HVBank (RWA-009) Drawdown
 
-As per this successful governance [poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, if this executive proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmQMDasC#vote-breakdown), 25 million DAI will be drawn down in the RWA-009 (HVBank) vault, if this executive proposal passes. This is the fourth and final planned drawdown for this vault, at this time. 
 
 Further description of the schedule and mechanism being used for drawdowns from this vault can be seen in this [post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/8) from the Collateral Engineering Services Core Unit (CES-001).
 
