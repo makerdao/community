@@ -43,7 +43,7 @@ Further description of the schedule and mechanism being used for drawdowns from 
 
 As per this successful governance [poll](https://vote.makerdao.com/polling/QmahjYA2#poll-detail), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be launched on Optimism and Arbitrum with a 1 basis point fee.
 
-Telport for Optimism and Arbitrum will be deployed with a 1 million DAI [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for each chain, as per [MIP69:L2-to-L1 Fast Withdrawals](https://mips.makerdao.com/mips/details/MIP69#sentence-summary).
+Teleport for Optimism and Arbitrum will be deployed with a 1 million DAI [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for each chain, as per [MIP69:L2-to-L1 Fast Withdrawals](https://mips.makerdao.com/mips/details/MIP69#sentence-summary).
 
 The Maker Teleport initiative will bring canonical DAI capability onto L2 domains.
 
