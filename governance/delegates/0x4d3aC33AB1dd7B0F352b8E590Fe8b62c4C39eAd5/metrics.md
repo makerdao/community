@@ -1,5 +1,5 @@
 ---
-combined_participation: 98.281%
+combined_participation: 98.28%
 poll_participation: 97.95%
 exec_participation: 100%
 communication: 91.04%
