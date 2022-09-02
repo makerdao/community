@@ -88,7 +88,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXHnn2u), the following ch
 
 - Increase the CRVV1ETHSTETH-A [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 3 million DAI to **10 million DAI**.
 
-**Note:** the poll initially proposed a new Maximum Debt Ceiling for CRVV1ETHSTETH-A of 50 million DAI. The Protocol Engineering Core Unit has advised limiting this to 20 million DAI due to technical concerns.
+**Note:** the poll initially proposed a new Maximum Debt Ceiling for CRVV1ETHSTETH-A of 50 million DAI. The [Protocol Engineering Core Unit has advised](https://forum.makerdao.com/t/2022-09-07-executive-inclusion-update-crvv1ethsteth-a-maximum-debt-ceiling/17628) limiting this to 20 million DAI due to technical concerns.
 
 ## Review
 
