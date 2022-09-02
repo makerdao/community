@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Core Unit MKR Vesting, Recognized Delegate Compensation, MOMC Parameter Changes - September 07, 2022
-summary: Includes MKR Vesting for Real World Finance, Deco, and Growth Core Units, Recognized Delegate compensation for August, parameter changes from the most recent MOMC proposal.
+summary: Includes MKR Vesting for Real World Finance, Deco, and Growth Core Units, Recognized Delegate compensation for August, and parameter changes from the most recent MOMC proposal.
 date: 2022-09-07T00:00:00.000Z
 address: "$spell_address"
 
@@ -34,14 +34,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Core Unit MKR Transfers
 
 As per their successful budget proposals (linked below), a total of 163 MKR will be streamed to multiple Core Units if this executive proposal passes:
-* 38 MKR will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38). Note that due to a reduction in the number of FTEs working for RWF-001, the amount being transferred is lower than that requested in the initial proposal.
+* 38 MKR will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38). Note that the amount being transferred is lower than the initially requested amount due to a reduction in the number of FTEs working for RWF-001.
 * 125 MKR will be transferred to the [Deco Fixed Rate Core Unit (DECO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP23) at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36).
 
 ### Core Unit MKR Stream
 
-As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23) 803 MKR will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01 if this executive proposal passes. Please the cliff date for this stream will be set as the start date for the stream, to enable the Core Unit to vest tokens for contributors that have already reached their 12-month cliff prior to this stream being established.
+As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23) 803 MKR will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01 if this executive proposal passes. Please note that the cliff date for this stream will be set to the start date to enable the Core Unit to vest tokens for contributors that had already reached their 12-month cliff before this stream was established.
 
-**Note:** the previous stream for the Growth Core Unit for 803 MKR was established in the [2021-12-10 executive vote](https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-switching-mkr-vesting-source-december-10-2021#proposal-detail). When this stream ended, 63.18 MKR remained unclaimed. This [transaction](https://etherscan.io/tx/0x2755d689a8939e0d95c15bef1cfa14d048b79bb218362338fc9173657643c382) from the GRO-001 multi-sig has redirected this stream to the Maker [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb). This means the leftover MKR can no longer be claimed by the Growth Core Unit.
+**Note:** the previous stream for the Growth Core Unit for 803 MKR was established in the [2021-12-10 executive vote](https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-switching-mkr-vesting-source-december-10-2021#proposal-detail). When this stream ended, 63.18 MKR remained unclaimed. This [transaction](https://etherscan.io/tx/0x2755d689a8939e0d95c15bef1cfa14d048b79bb218362338fc9173657643c382) from the GRO-001 multi-sig has redirected this stream to the Maker [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb). As a result, the leftover MKR can no longer be claimed by the Growth Core Unit.
 
 ### Recognized Delegate Compensation
 
@@ -88,7 +88,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXHnn2u), the following ch
 
 - Increase the CRVV1ETHSTETH-A [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 3 million DAI to **10 million DAI**.
 
-**Note:** the poll initially proposed a new Maximum Debt Ceiling for CRVV1ETHSTETH-A of 50 million DAI. The Protocol Engineering Core Unit have advised limiting this to 20 million DAI due to technical concerns.
+**Note:** the poll initially proposed a new Maximum Debt Ceiling for CRVV1ETHSTETH-A of 50 million DAI. The Protocol Engineering Core Unit has advised limiting this to 20 million DAI due to technical concerns.
 
 ## Review
 
