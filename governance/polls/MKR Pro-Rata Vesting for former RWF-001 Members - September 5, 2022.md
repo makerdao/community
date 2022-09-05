@@ -17,7 +17,7 @@ end_date: 2022-09-08T16:00:00
 ---
 # Poll: MKR Pro-Rata Vesting for former RWF-001 Members - September 5, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday September 5 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 5 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Distributing a total of 121.42 MKR to two former memebers of the [Real-World Finance Core Unit](https://mips.makerdao.com/mips/details/MIP38#real-world-finance-rwf-001-).
+* Distributing a total of 121.42 MKR to two former members of the [Real-World Finance Core Unit](https://mips.makerdao.com/mips/details/MIP38#real-world-finance-rwf-001-).
 * Funds would be split the distribution, with 73.32 MKR to @teej’s wallet and 48.1 MKR to @eumenes wallet.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-mkr-pro-rata-vesting-community-sentiment-poll/17350) to help inform your position before voting.
