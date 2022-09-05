@@ -36,6 +36,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/9a7f9d6dc234f01be338fecb950ce4eae8aa458d/MIP4/MIP4c3-Subproposals/MIP4c3-SP4.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c3SP4)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c3-sp4-mip65-amendments/17326)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/641)
 
 ## Outcomes
 
