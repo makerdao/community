@@ -34,7 +34,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/bed6b966e29447c171006fc2bf42efc4200331b6/MIP55/MIP55c3-Subproposals/MIP55c3-SP8.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP8)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP8LegalWorkonMIP65)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280)
 
 ## Outcomes
