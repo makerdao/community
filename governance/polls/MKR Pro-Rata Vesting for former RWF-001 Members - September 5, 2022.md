@@ -1,7 +1,7 @@
 ---
 title: MKR Pro-Rata Vesting for former RWF-001 Members - September 5, 2022
-summary: Signal your support or opposition to approving pro-rata MKR compensation for @Eumenes and @teej.
-discussion_link: [$discussion_link](https://forum.makerdao.com/t/signal-request-mkr-pro-rata-vesting-community-sentiment-poll/17350)
+summary: Signal your support or opposition to approving pro-rata MKR compensation for Eumenes and Teej.
+discussion_link: https://forum.makerdao.com/t/signal-request-mkr-pro-rata-vesting-community-sentiment-poll/17350
 parameters:
     input_format: single-choice
     victory_conditions:
