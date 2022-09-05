@@ -15,7 +15,7 @@ options:
 start_date: 2022-09-05T16:00:00
 end_date: 2022-09-08T16:00:00
 ---
-# Poll:$GenericChange - Updating Legal Agreements HVBank (RWA-009) - September 5, 2022
+# Poll: Updating HVBank (RWA-009) Legal Agreements - September 5, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Collateral Engineering Services Core Unit](https://mips.makerdao.com/mips/details/MIP38#collateral-engineering-services-ces-001-). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 5 at 16:00 UTC.
 
