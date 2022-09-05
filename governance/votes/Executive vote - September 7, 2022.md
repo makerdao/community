@@ -39,7 +39,7 @@ As per their successful budget proposals (linked below), a total of 163 MKR will
 
 ### Core Unit MKR Stream
 
-As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23) **803 MKR** will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01, if this executive proposal passes. 
+As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23), **803 MKR** will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01, if this executive proposal passes. 
 
 Please note, as this is the second MKR vesting stream for this Core Unit, the cliff date for this stream will be set to the start date to enable the Core Unit to vest tokens for contributors that had already reached their 12-month cliff before this stream was established.
 
