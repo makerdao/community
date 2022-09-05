@@ -34,12 +34,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Core Unit MKR Transfers
 
 As per their successful budget proposals (linked below), a total of 163 MKR will be streamed to multiple Core Units if this executive proposal passes:
-* 38 MKR will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38). Note that the amount being transferred is lower than the initially requested amount due to a reduction in the number of FTEs working for RWF-001.
-* 125 MKR will be transferred to the [Deco Fixed Rate Core Unit (DECO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP23) at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36).
+* **38 MKR** will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38). Note that the amount being transferred is lower than the initially requested amount due to a reduction in the number of FTEs working for RWF-001.
+* **125 MKR** will be transferred to the [Deco Fixed Rate Core Unit (DECO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP23) at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36).
 
 ### Core Unit MKR Stream
 
-As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23) 803 MKR will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01, if this executive proposal passes. 
+As per their successful [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP23) **803 MKR** will be streamed to the [Growth Core Unit (GRO-001)](https://mips.makerdao.com/mips/details/MIP39c2SP4) at [0x7800C137A645c07132886539217ce192b9F0528e](https://etherscan.io/address/0x7800C137A645c07132886539217ce192b9F0528e) starting on 2022-07-01 and ending on 2023-07-01, if this executive proposal passes. 
 
 Please note, as this is the second MKR vesting stream for this Core Unit, the cliff date for this stream will be set to the start date to enable the Core Unit to vest tokens for contributors that had already reached their 12-month cliff before this stream was established.
 
