@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes:
 * Updating the HVB Master Participation Agreement (MPA) as shown with indicated edits in red [here](https://gateway.pinata.cloud/ipfs/QmcavA3PueCFXXs32zAMjU4KhdzzJa2Bioo3hAJGztESCk).
-* Codyifying this change through an executive vote with [this text](https://gateway.pinata.cloud/ipfs/QmPH6gMsoqrGFN8ECGGbuaaR5KSD4mtnuiuNkHzHgryp48).
+* Codifying this change through an executive vote with [this text](https://gateway.pinata.cloud/ipfs/QmPH6gMsoqrGFN8ECGGbuaaR5KSD4mtnuiuNkHzHgryp48).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/poll-inclusion-request-hvbank-legal-update/17547) to help inform your position before voting.
 
