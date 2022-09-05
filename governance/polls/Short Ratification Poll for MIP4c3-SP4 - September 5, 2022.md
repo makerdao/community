@@ -1,6 +1,6 @@
 ---
 title: Short Ratification Poll for MIP65 Amendments (MIP4c3-SP4) - September 5, 2022
-summary: MIP65 requires a certification from the RWF-001 Facilitator and the “in SES-incubation” Facilitator of the prospective Legal and Transactional Services Core Unit (LTS). As the circumstances regarding RWF-001/LTS have changed, this subproposal amends MIP65 accordingly.
+summary: MIP65 requires a certification from the RWF-001 Facilitator and the in SES-incubation Facilitator of the prospective Legal and Transactional Services Core Unit (LTS). As the circumstances regarding RWF-001/LTS have changed, this subproposal amends MIP65 accordingly.
 discussion_link: https://forum.makerdao.com/t/mip4c3-sp4-mip65-amendments/17326
 parameters:
     input_format: single-choice
