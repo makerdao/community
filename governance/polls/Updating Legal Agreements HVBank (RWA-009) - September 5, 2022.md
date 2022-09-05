@@ -1,5 +1,5 @@
 ---
-title: Updating Legal Agreements HVBank (RWA-009) - September 5, 2022
+title: Updating HVBank (RWA-009) Legal Agreements - September 5, 2022
 summary: Signal your support or opposition to updating the HVB Master Participation Agreement (MPA).
 discussion_link: https://forum.makerdao.com/t/poll-inclusion-request-hvbank-legal-update/17547
 parameters:
