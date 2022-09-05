@@ -3071,5 +3071,40 @@
     "misc-funding",
     "ratification",
     "mips"
+  ],
+  "858": [
+    "medium-impact",
+    "real-world-assets"
+  ],
+  "859": [
+    "high-impact",
+    "misc-funding",
+    "budget"
+  ],
+  "860": [
+    "high-impact",
+    "real-world-assets",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "861": [
+    "high-impact",
+    "real-world-assets",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "862": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "863": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "864": [
+    "medium-impact",
+    "greenlight"  
   ]
 }
