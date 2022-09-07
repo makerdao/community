@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit MKR Vesting, Recognized Delegate Compensation, MOMC Parameter Changes - September 07, 2022
 summary: Includes MKR Vesting for Real World Finance, Deco, and Growth Core Units, Recognized Delegate compensation for August, and parameter changes from the most recent MOMC proposal.
 date: 2022-09-07T00:00:00.000Z
-address: "$spell_address"
+address: "0x07bFA4db5587A75617aFA9E43624b8C2609497b5"
 
 ---
 # [Executive Proposal] Core Unit MKR Vesting, Recognized Delegate Compensation, MOMC Parameter Changes - September 07, 2022
