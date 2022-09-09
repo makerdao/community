@@ -60,7 +60,9 @@ As per this [forum post](https://forum.makerdao.com/t/executive-inclusion-gro-00
 
 ### HVBank Legal Agreement Update
 
-As per this [governance poll](https://vote.makerdao.com/polling/QmX81EhP), the IPFS hash for the HVBank legal agreement will be amended as follows, if this executive proposal passes.
+As per this [governance poll](https://vote.makerdao.com/polling/QmX81EhP), the IPFS hash for the HVBank legal agreement stored as the `RWA009_doc` variable will be amended to `QmQx3bMtjncka2jUsGwKu7ButuPJFn9yDEEvpg9xZ71ECh`, if this executive proposal passes.
+
+Further information can be seen in this [comment](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/11) on the Maker Forum.
 
 ## Review
 
