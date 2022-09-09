@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Core Unit Budget Streams, SPF Funding, HVBank Legal Update, MKR Stream Accounting Cleanup - September 14, 2022
-summary: New DAI budget streams for the Oracles and DAI Foundation Core Units, funding for two special purpose funds, updating the IPFS hash of the HVBank legal agreement, cleanup of the former Growth Core Unit MKR vesting stream.
+summary: New DAI budget streams for the Oracles and DAI Foundation Core Units, funding for two Special Purpose Funds, updating the IPFS hash of the HVBank legal agreement, cleanup of the former Growth Core Unit MKR vesting stream.
 date: 2022-09-14T00:00:00.000Z
 address: "$spell_address"
 
