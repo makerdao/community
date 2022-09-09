@@ -45,7 +45,7 @@ As per this [governance poll](https://vote.makerdao.com/polling/Qma3P8v9) ratify
 
 - **2,337,804 DAI** will be streamed to [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://etherscan.io/address/0x2d09b7b95f3f312ba6ddfb77ba6971786c5b50cf), starting on 2022-07-01 and ending on 2023-06-30.
 
-**Note:** the approved budget was for 4,554,575 DAI, but the previous year's budget stream still contains an unclaimed amount of 2,216,771 DAI. Following discussion with the ORA-001 facilitator @Nik, it was agreed that the new stream would be set up containing the difference between the approved budget, and the DAI remaining in the previous DAI budget stream. The Oracles Core Unit will therefore still have access to the full DAI amount approved by Maker Governance.
+**Note:** the approved budget was for 4,554,575 DAI, but the previous year's budget stream still contains an unclaimed amount of 2,216,771 DAI. Following discussion with the ORA-001 facilitator @Nik, it was agreed that the new stream would be set up containing the difference between the approved budget, and the DAI remaining in the previous DAI budget stream. The Oracles Core Unit will therefore still have access to the full DAI amount approved by Maker Governance. A further 733,547.93 DAI was [returned](https://etherscan.io/tx/0x379fa62decb0b6fb503c75d0dde96c2088956b2a71bd8a2e0652e28af8007431) to the Surplus Buffer.
 
 ### SPF Funding Transfers
 
