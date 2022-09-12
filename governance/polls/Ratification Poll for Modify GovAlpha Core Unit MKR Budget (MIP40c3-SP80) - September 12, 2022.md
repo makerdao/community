@@ -3,11 +3,20 @@ title: Ratification Poll for Modify GovAlpha Core Unit MKR Budget (MIP40c3-SP80)
 summary: This budget proposes a MKR compensation for GovAlpha (GOV-001) with a vesting component (Q3 2022).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp80-modify-govalpha-core-unit-mkr-budget-q3-2022/17164
 parameters:
-    input_format: rank-free
-    victory_conditions:
-        - { type : instant-runoff }
-    result_display: instant-runoff-breakdown
-version: v2.0.0
+  input_format:
+    type: rank-free
+    abstain: [0]
+  victory_conditions:
+    - { 
+        type: 'and', 
+        conditions: [
+          { type : instant-runoff },
+          { type : comparison, comparator : '>=', value: 10000 }
+        ]
+      }
+    - { type : default, value : 4 }
+  result_display: instant-runoff-breakdown
+version: v2.0.0  
 options:
    0: Abstain
    1: 200% multiplier applied (330.27 total MKR)
