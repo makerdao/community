@@ -46,7 +46,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The SECU is financed 50/50 by Maker and Starknet. The other half of the value of the incentive will be provided by Starknet with a mix of USD and Starknet tokens. The total value of the USD and Starknet token provided by Starknet CANNOT exceed the value of the MKR allocation in USD.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/115e97a7abd977b192ff67c2a7b1da9663e88c77/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e5489b072ba07875289a1ff36e5daf76d513ca05/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP79)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp79-mkr-compensation-for-starkenet-engineering-core-unit-sne-001/17042)
 
