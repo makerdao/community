@@ -46,6 +46,8 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP24)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp24-amend-measurement-period-for-delegate-participation-metrics/16904)
 
+Please note that if the parallel vote for the Delegate MIP Set (MIP77-79) is successful, MIP61 will be made obsolete and this amendment will have no appreciable effect on the Maker Protocol.
+
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
