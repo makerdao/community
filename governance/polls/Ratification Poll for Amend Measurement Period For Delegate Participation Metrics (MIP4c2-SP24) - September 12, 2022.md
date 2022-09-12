@@ -3,10 +3,19 @@ title: Ratification Poll for Amend Measurement Period For Delegate Participation
 summary: This proposed amendment is to shorten the feedback loop for delegate participation, which is a key variable of their compensation calculation.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp24-amend-measurement-period-for-delegate-participation-metrics/16904
 parameters:
-    input_format: single-choice
+    input_format:
+		type: single-choice
+		abstain: [0]
     victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
+		- {
+			type: 'and',
+			conditions: [
+				{ type : plurality },
+				{ type : comparison, comparator : '>=', value: 10000 }
+			]
+		}
+		- {type : default, value : 2 }
+	result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
