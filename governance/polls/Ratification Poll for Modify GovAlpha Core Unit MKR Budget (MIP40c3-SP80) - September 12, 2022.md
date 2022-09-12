@@ -46,13 +46,13 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the proposal Author and is shown below:
 
-*"This proposal seeks the ranked choice vote on the following vesting allocations to GovAlpha contributors, covering MKR compensation for the Core Unit for the past 6 months. Subsequent requests will take place every 6 months, featuring the same 12-month cliff. Contributors **do not** forfeit their vesting upon leaving GovAlpha, provided that their departure is a smooth transition and there have been no serious ethical breaches. The table below represents the MKR amounts expressed in a lump sum and per Full-Time Equivalent worker per year:* 
+*"This proposal seeks the ranked choice vote on the following vesting allocations to GovAlpha contributors, covering MKR compensation for the Core Unit for the past 6 months. Subsequent requests will take place every 6 months, featuring the same 12-month cliff. Contributors **do not** forfeit their vesting upon leaving GovAlpha, provided that their departure is a smooth transition and there have been no serious ethical breaches. The table below represents the MKR amounts expressed in a lump sum and per Full-Time Equivalent worker per year:"* 
 
 | *Option*        | *MKR Total* | *MKR/FTE/YEAR* |
 | --------------- | ----------- |---------------|
 | *200% Multiplier* | *330.27*      | *153.61*        |
 | *150% Multiplier* | *247.70*      | *115.21*        |
-| *100% Multiplier* | *165.14*      | *76.81*         |".
+| *100% Multiplier* | *165.14*      | *76.81*         |
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/115e97a7abd977b192ff67c2a7b1da9663e88c77/MIP40/MIP40c3-Subproposals/MIP40c3-SP80.md)
