@@ -10,7 +10,7 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: 220% multiplier applied (330.27 total MKR)
+   1: 200% multiplier applied (330.27 total MKR)
    2: 150% multiplier applied (115.21 total MKR)
    3: 100% multiplier applied (76.81 total MKR)
    4: Reject Budget
