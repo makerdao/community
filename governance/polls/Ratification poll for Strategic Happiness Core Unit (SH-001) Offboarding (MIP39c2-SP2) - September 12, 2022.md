@@ -3,10 +3,19 @@ title: Ratification Poll for Strategic Happiness Core Unit (SH-001) Offboarding 
 summary: MIP39c3-SP2 offboards the Strategic Happiness Core Unit (SH-001).
 discussion_link: https://forum.makerdao.com/t/mip39c3-sp2-strategic-happiness-core-unit-sh-001-offboarding/16438
 parameters:
-    input_format: single-choice
+    input_format:
+		type: single-choice
+		abstain: [0]
     victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
+		- {
+			type: 'and',
+			conditions: [
+				{ type : plurality },
+				{ type : comparison, comparator : '>=', value: 10000 }
+			]
+		}
+		- {type : default, value : 2 }
+	result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
