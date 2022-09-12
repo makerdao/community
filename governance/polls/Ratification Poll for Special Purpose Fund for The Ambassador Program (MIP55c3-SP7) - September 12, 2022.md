@@ -14,7 +14,7 @@ parameters:
                 { type : comparison, comparator : '>=', value: 10000 }
             ]
         }
-    	- {type : default, value : 2 }
+        - {type : default, value : 2 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
