@@ -24,7 +24,7 @@ options:
 start_date: 2022-09-12T16:00:00
 end_date: 2022-09-26T16:00:00
 ---
-# Ratification Poll for MKR Compensation for StarkeNet Engineering Core Unit, SNE-001 (MIP40c3-SP79) - September 12, 2022
+# Ratification Poll for MKR Compensation for StarkNet Engineering Core Unit, SNE-001 (MIP40c3-SP79) - September 12, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, September 12 at 16:00 UTC.
 
