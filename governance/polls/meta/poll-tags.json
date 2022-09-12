@@ -3105,6 +3105,42 @@
   ],
   "864": [
     "medium-impact",
-    "greenlight"  
+    "greenlight"
+  ],
+  "865": [
+    "high-impact",
+    "delegates",
+    "ratification",
+    "mips"
+  ],
+  "866": [
+    "high-impact",
+    "delegates",
+    "ratification",
+    "mips"
+  ],
+  "867": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "868": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "869": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "870": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
   ]
 }
