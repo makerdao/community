@@ -3,10 +3,19 @@ title: Ratification Poll for MKR Compensation for StarkeNet Engineering Core Uni
 summary: MIP40c3-SP79 adds the MKR Compensation budget for Core Unit SNE-001: Starknet Engineering Core Unit.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp79-mkr-compensation-for-starkenet-engineering-core-unit-sne-001/17042
 parameters:
-    input_format: single-choice
+    input_format:
+		type: single-choice
+		abstain: [0]
     victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
+		- {
+			type: 'and',
+			conditions: [
+				{ type : plurality },
+				{ type : comparison, comparator : '>=', value: 10000 }
+			]
+		}
+		- {type : default, value : 2 }
+	result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
