@@ -19,9 +19,9 @@ parameters:
 version: v2.0.0  
 options:
    0: Abstain
-   1: 200% multiplier applied (330.27 total MKR)
-   2: 150% multiplier applied (247.70 total MKR)
-   3: 100% multiplier applied (165.14 total MKR)
+   1: 200% multiplier (330.27 total MKR)
+   2: 150% multiplier (247.70 total MKR)
+   3: 100% multiplier (165.14 total MKR)
    4: Reject Budget
 start_date: 2022-09-12T16:00:00
 end_date: 2022-09-26T16:00:00
