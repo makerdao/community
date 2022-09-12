@@ -11,8 +11,8 @@ version: v2.0.0
 options:
    0: Abstain
    1: 200% multiplier applied (330.27 total MKR)
-   2: 150% multiplier applied (115.21 total MKR)
-   3: 100% multiplier applied (76.81 total MKR)
+   2: 150% multiplier applied (247.70 total MKR)
+   3: 100% multiplier applied (165.14 total MKR)
    4: Reject Budget
 start_date: 2022-09-12T16:00:00
 end_date: 2022-09-26T16:00:00
@@ -30,9 +30,9 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP80 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
 
-* **Option 1 (CU preferred):** 220% multiplier applied: **330.27 total MKR**.
-* **Option 2:** 150% multiplier applied: **115.21 total MKR**.
-* **Option 3:** 100% multiplier applied: **76.81 total MKR**
+* **Option 1 (CU preferred):** 200% multiplier applied: **330.27 total MKR**.
+* **Option 2:** 150% multiplier applied: **247.70 total MKR**.
+* **Option 3:** 100% multiplier applied: **165.14 total MKR**
 * **Option 4:** Reject MKR vesting.
 
 A brief summary of this proposal has been provided by the proposal Author and is shown below:
