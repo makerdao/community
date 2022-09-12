@@ -3,10 +3,19 @@ title: Ratification Poll for the MakerDAO Delegates MIP Set - September 12, 2022
 summary: The MakerDAO Delegates MIP Set formalizes delegates within the MIP Framework and establishes how they are to be compensated.
 discussion_link: https://forum.makerdao.com/t/mip77-delegates-in-the-maker-protocol/16905
 parameters:
-    input_format: single-choice
+    input_format:
+		type: single-choice
+		abstain: [0]
     victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
+		- {
+			type: 'and',
+			conditions: [
+				{ type : plurality },
+				{ type : comparison, comparator : '>=', value: 10000 }
+			]
+		}
+		- {type : default, value : 2 }
+	result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
