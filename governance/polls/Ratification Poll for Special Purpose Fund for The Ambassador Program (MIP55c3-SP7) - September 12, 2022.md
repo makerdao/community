@@ -3,10 +3,19 @@ title: Ratification Poll for Special Purpose Fund for The Ambassador Program (MI
 summary: This subproposal aims to allocate 81,000 DAI to the Ambassador Program.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169
 parameters:
-    input_format: single-choice
+    input_format:
+		type: single-choice
+		abstain: [0]
     victory_conditions:
-        - { type : plurality }
-    result_display: single-vote-breakdown
+		- {
+			type: 'and',
+			conditions: [
+				{ type : plurality },
+				{ type : comparison, comparator : '>=', value: 10000 }
+			]
+		}
+		- {type : default, value : 2 }
+	result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
