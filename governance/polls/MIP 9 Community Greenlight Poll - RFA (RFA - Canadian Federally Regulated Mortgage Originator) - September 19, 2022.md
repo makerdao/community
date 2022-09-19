@@ -1,6 +1,6 @@
 ---
-title: Community Greenlight Poll - RFA (Canadian Federally Regulated Mortgage Originator) - September 19, 2022
-summary: Signal your support or opposition to prioritising onboarding RFA (Canadian Federally Regulated Mortgage Originator). 
+title: Community Greenlight Poll - RFA (RFA - Canadian Federally Regulated Mortgage Originator) - September 19, 2022
+summary: Signal your support or opposition to prioritising onboarding RFA (RFA - Canadian Federally Regulated Mortgage Originator). 
 discussion_link: https://forum.makerdao.com/t/mip6-application-rfa-canadian-federally-regulated-mortgage-originator/17303
 vote_type: Plurality Voting
 categories:
@@ -13,9 +13,9 @@ options:
 start_date: 2022-09-19T16:00:00
 end_date: 2022-10-03T16:00:00
 ---
-# Poll: Community Greenlight Poll - RFA (Canadian Federally Regulated Mortgage Originator) - September 19, 2022
+# Poll: Community Greenlight Poll - RFA (RFA - Canadian Federally Regulated Mortgage Originator) - September 19, 2022
 
-The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on September 19, 2022 at 16:00 UTC.
+The Governance Facilitators have placed a governance poll into the [voting system](https://vote.makerdao.com/polling) as part of their responsibilities as defined in [MIP9: Community Greenlight](https://mips.makerdao.com/mips/details/MIP9). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, September 19 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
@@ -24,16 +24,16 @@ The Governance Facilitators have placed a governance poll into the [voting syste
 
 ## Review
 
-This poll asks whether the asset RFA (Canadian Federally Regulated Mortgage Originator) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
+This poll asks whether the asset RFA (RFA - Canadian Federally Regulated Mortgage Originator) should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state). 
 
 Please review the collateral onboarding application [thread](https://forum.makerdao.com/t/mip6-application-rfa-canadian-federally-regulated-mortgage-originator/17303) to inform your position before voting.
 
 ## Outcomes
 
 **Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* The 'greenlight score' will be calculated for RFA (Canadian Federally Regulated Mortgage Originator) using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The 'greenlight score' for RFA (Canadian Federally Regulated Mortgage Originator) will be added to the [Collateral Prioritisation Sheet](https://docs.google.com/spreadsheets/d/1IX9e2fyfz7djtDMKn5gMyGsyFxHoY75GncMbAjnSXrM/edit#gid=0) by the Governance Facilitators.
-* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Prioritisation Sheet to direct their work on onboarding new collateral types.
+* The 'greenlight score' will be calculated for RFA (RFA - Canadian Federally Regulated Mortgage Originator) using the formula `Score = 'Yes' Votes - 'No' Votes`
+* The 'greenlight score' for RFA (RFA - Canadian Federally Regulated Mortgage Originator) will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
+* The [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) will use the Collateral Status Index to direct their work on onboarding new collateral types.
 
 ---
 
