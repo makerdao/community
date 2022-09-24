@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Updating the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+title: Template - [Executive Vote] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
 summary: Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
 date: 2022-09-28T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+# [Executive Proposal] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
