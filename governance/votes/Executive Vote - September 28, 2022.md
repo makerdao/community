@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Starknet bridge deposit limit will be increased from 50 DAI to **1,000 DAI**.
-- A total of 986.49 MKR will be transferred to two Core Units, as detailed below.
+- A total of **986.49** MKR will be transferred to two Core Units, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -37,11 +37,11 @@ Please see the forum [thread](https://forum.makerdao.com/t/request-for-poll-star
 
 ### RWF-001 MKR Transfer
 
-20 MKR will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38) if this executive proposal passes. Note that the amount being transferred is lower than the initially requested amount due to a reduction in the number of FTEs working for RWF-001.
+**20 MKR** will be transferred to the [Real World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at [0x96d7b01Cc25B141520C717fa369844d34FF116ec](https://etherscan.io/address/0x96d7b01Cc25B141520C717fa369844d34FF116ec) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP38) if this executive proposal passes. Note that the amount being transferred is lower than the initially requested amount due to a reduction in the number of FTEs working for RWF-001.
 
 ### CES-001 MKR Transfer
 
-966.49 MKR will be transferred to the [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) at [0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f](https://etherscan.io/address/0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP30) if this executive proposal passes.
+**966.49 MKR** will be transferred to the [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) at [0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f](https://etherscan.io/address/0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f) as per their approved [MKR compensation proposal](https://mips.makerdao.com/mips/details/MIP40c3SP30) if this executive proposal passes.
 
 ## Review
 
