@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
-summary: Increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
+title: Template - [Executive Vote] Updating the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
+summary: Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001 and RWF-001.
 date: 2022-09-28T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,6 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+- The address for PROXY_ACTIONS_END_CROPPER will be updated to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af).
 - The Starknet bridge deposit limit will be increased from 50 DAI to **1,000 DAI**.
 - A total of **986.49** MKR will be transferred to two Core Units, as detailed below.
 
@@ -28,6 +29,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+### PROXY_ACTIONS_END_CROPPER Address Update
+
+As per this [post](https://forum.makerdao.com/t/28th-september-executive-updating-the-proxy-actions-end-cropper-address/18057) from the Protocol Engineering Core Unit Facilitator @Derek, the address for PROXY_ACTIONS_END_CROPPER will be updated to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af) if this executive proposal passes.
+
+This is an essential upgrade to ensure that DAI holders are able to redeem their DAI for underlying collateral in the event of Emergency Shutdown. Further information can be seen in the forum post [here](https://forum.makerdao.com/t/28th-september-executive-updating-the-proxy-actions-end-cropper-address/18057).
 
 ### Starknet Bridge Deposit Limit Increase
 
