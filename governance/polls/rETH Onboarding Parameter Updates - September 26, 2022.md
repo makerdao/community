@@ -37,7 +37,7 @@ All other parameters will remain as proposed in the original [onboarding vote](h
 
 Please review the discussion [thread](https://forum.makerdao.com/t/reth-collateral-onboarding-risk-evaluation-update/18071) to help inform your position before voting.
 
-**Note:** this is not a "re-run" of the rETH onboarding vote, but a poll to approve the new parameters proposed by the Risk Core Unit. If the new parameters are rejected, onboarding will continue with the [originally approved parameters](https://vote.makerdao.com/polling/QmfMswF2#poll-detail).  This does not change the projected date for Executive Vote inclusion of mid-October - as per the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672).
+**Governance Facilitator's Note:** this is not a "re-run" of the rETH onboarding vote, but a poll to approve the new parameters proposed by the Risk Core Unit. If the new parameters are rejected, onboarding will continue with the [originally approved parameters](https://vote.makerdao.com/polling/QmfMswF2#poll-detail).  This does not change the projected date for Executive Vote inclusion of mid-October - as per the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672).
 
 ## Outcomes
 
