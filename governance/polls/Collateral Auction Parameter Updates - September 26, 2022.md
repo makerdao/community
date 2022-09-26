@@ -81,7 +81,6 @@ The following collateral types will have their `tail` decreased by 1,200 seconds
 * ETH-A
 * ETH-C
 * WBTC-A
-* WBTC-C
 * WSTETH-A
 * WSTETH-B
 
@@ -89,6 +88,10 @@ The following collateral types will have their `tail` decreased by 600 seconds, 
 
 * ETH-B
 * WBTC-B
+
+The following collateral type will have it's `tail` increased by 1,800 seconds, from 5,400 seconds to **7,200 seconds**:
+
+* WBTC-C
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
