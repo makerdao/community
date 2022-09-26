@@ -3145,6 +3145,17 @@
   ],
   "871": [
     "medium-impact",
-	"greenlight"
+    "greenlight"
+  ],
+  "872": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "auctions"
+  ],
+  "873": [
+    "high-impact",
+    "risk-parameter",
+    "auctions"
   ]
 }
