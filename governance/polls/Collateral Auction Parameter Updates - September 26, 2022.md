@@ -122,6 +122,25 @@ The `Hole` will be reduced by 30,000,000 DAI from 100,000,000 DAI to **70,000,00
 
 *This corresponds to a general increase in auction throughput due to shorter auction cycles.*
 
+### [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) Changes
+
+The following collateral types will have their `tip` decreased by 50 DAI from 300 DAI to **250 DAI**:
+
+* ETH-A
+* ETH-B
+* ETH-C
+* WBTC-A
+* WBTC-B
+* WBTC-C
+* WSTETH-A
+* WSTETH-B
+* CRVV1ETHSTETH-A
+* LINK-A
+* MANA-A
+* MATIC-A
+* RENBTC-A
+* YFI-A
+
 Please review the discussion [thread](https://forum.makerdao.com/t/collateral-auctions-analysis-parameter-updates-september-2022/18063/1) to help inform your position before voting.
 
 ## Outcomes
