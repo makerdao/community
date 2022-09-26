@@ -1,6 +1,6 @@
 ---
 title: Collateral Auction Parameter Updates - September 26, 2022
-summary: Signal your support or opposition to the Collateral Auction parameter changes from the Risk Core Unit.
+summary: Signal your support or opposition to the proposed Collateral Auction parameter changes from the Risk Core Unit.
 discussion_link: https://forum.makerdao.com/t/collateral-auctions-analysis-parameter-updates-september-2022/18063/1
 parameters:
     input_format: single-choice
@@ -70,7 +70,9 @@ The following collateral types will have their `cusp` increased by 0.05, from 0.
 * WSTETH-A
 * WSTETH-B
 
-**Note:** the intention of these changes is to keep a similar price drawdown reset threshold as it is now: at about 0.5 of OSM price.
+**Note:** The Risk Core Unit summarizes these changes as follows:
+
+*The intention of these changes is to keep a similar price drawdown reset threshold as it is now: at about 0.5 of OSM price.*
 
 ### [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) Changes
 
@@ -113,7 +115,7 @@ The following `ilk.hole` changes will be made:
 
 The `Hole` will be reduced by 30,000,000 DAI from 100,000,000 DAI to **70,000,000 DAI**.
 
-**Note:** The Risk Core Unit summarizes these changes as follows:
+**Note:** The Risk Core Unit summarizes this change as follows:
 
 *This corresponds to a general increase in auction throughput due to shorter auction cycles.*
 
