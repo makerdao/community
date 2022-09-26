@@ -3,9 +3,18 @@ title: Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,_YYYY
 summary: $sentence_summary
 discussion_link: $discussion_link
 parameters:
-    input_format: single-choice
+    input_format:
+        type: single-choice
+        abstain: [0]
     victory_conditions:
-        - { type : plurality }
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:

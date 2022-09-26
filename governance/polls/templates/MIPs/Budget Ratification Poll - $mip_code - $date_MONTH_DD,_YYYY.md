@@ -3,10 +3,19 @@ title: Budget Ratification Poll for $proposal_name ($mip_code) - $date_MONTH_DD,
 summary: $sentence_summary
 discussion_link: $discussion_link
 parameters:
-    input_format: rank-free
-    victory_conditions:
-        - { type : instant-runoff }
-    result_display: instant-runoff-breakdown
+  input_format:
+    type: rank-free
+    abstain: [0]
+  victory_conditions:
+    - { 
+        type: 'and', 
+        conditions: [
+          { type : instant-runoff },
+          { type : comparison, comparator : '>=', value: 10000 }
+        ]
+      }
+    - { type : default, value : 3 }
+  result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
    0: Abstain
