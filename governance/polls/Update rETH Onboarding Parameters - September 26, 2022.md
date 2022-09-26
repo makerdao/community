@@ -1,5 +1,5 @@
 ---
-title: rETH Onboarding Parameter Updates - September 26, 2022
+title: Update rETH Onboarding Parameters - September 26, 2022
 summary: Signal your support or opposition to the proposed changes to the rETH onboarding parameters.
 discussion_link: https://forum.makerdao.com/t/reth-collateral-onboarding-risk-evaluation-update/18071
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-09-26T16:00:00
 end_date: 2022-09-29T16:00:00
 ---
-# Poll:rETH Onboarding Parameter Updates - September 26, 2022
+# Poll: Update rETH Onboarding Parameters - September 26, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, September 26 at 16:00 UTC.
 
