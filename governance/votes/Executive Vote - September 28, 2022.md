@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The address for PROXY_ACTIONS_END_CROPPER will be updated to [0x38f7C166B5B22906f04D8471E241151BA45d97Af](https://etherscan.io/address/0x38f7C166B5B22906f04D8471E241151BA45d97Af).
 - The Starknet bridge deposit limit will be increased from 50 DAI to **1,000 DAI**.
-- A total of **1161.49** MKR will be transferred to two Core Units, as detailed below.
+- A total of **1161.49** MKR will be transferred to three Core Units, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
