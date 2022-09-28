@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
 summary: Update the PROXY_ACTIONS_END_CROPPER contract address, increase the Starknet Bridge deposit limit, MKR vesting transfers for CES-001, RWF-001, and RISK-001.
 date: 2022-09-28T00:00:00.000Z
-address: "$spell_address"
+address: "0x3ea2748a32D53449bee93e2AE101E6d7179d7865"
 
 ---
 # [Executive Proposal] Update the PROXY_ACTIONS_END_CROPPER Address, Starknet Bridge Deposit Limit Increase, Core Unit MKR Vesting - September 28, 2022
