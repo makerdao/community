@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Monetalis Clydesdale (RWA007-A) Onboarding, Funding Ambassador Program SPF, Core Unit MKR Streams and Transfers - October 5, 2022
-summary: Onboarding Monetalis Clydesdale (MIP65) as RWA007-A with a 1M DAI initial Debt Ceiling, funding transfer for the Ambassador Program Special Purpose Fund, MKR streams for GovAlpha (GOV-001) and StarkNet Engineering (SNE-001) Core Units and MKR and transfers for StarkNet Engineering (SNE-001) and Sustainable Ecosystem Scaling (SES-001) Core Units. 
+summary: Onboarding Monetalis Clydesdale (MIP65) as RWA007-A with a 1M DAI initial Debt Ceiling, DAI transfer for the Ambassador Program Special Purpose Fund, MKR streams for GovAlpha (GOV-001) and StarkNet Engineering (SNE-001) Core Units and MKR transfers for StarkNet Engineering (SNE-001) and Sustainable Ecosystem Scaling (SES-001) Core Units. 
 date: 2022-10-05T00:00:00.000Z
 address: "$spell_address"
 
