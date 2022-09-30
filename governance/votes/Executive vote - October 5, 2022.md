@@ -86,7 +86,7 @@ Based on the accepted [Ambassador Program's Special Purpose Fund Request](https:
 
 As per [this poll](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown), a total of **247.70 MKR** will be streamed to the [GovALpha (GOV-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3) as detailed below, if this executive proposal passes.
 
-Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created from this executive proposal:
+Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created, if this executive proposal passes:
 
 **@prose11's Facilitator Stream**   
 **62.50 MKR** streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
