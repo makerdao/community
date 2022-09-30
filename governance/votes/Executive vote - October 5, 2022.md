@@ -64,7 +64,7 @@ As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65
 * **RWA007_A_INPUT_CONDUIT_URN:** `0x58f5e979eF74b60a9e5F955553ab8e0e65ba89c9`.
 * **RWA007_A_INPUT_CONDUIT_JAR:** `0xc8bb4e2B249703640e89265e2Ae7c9D5eA2aF742`.
 * **RWA_007_A_OPERATOR (Monetalis):** `0x94cfBF071f8be325A5821bFeAe00eEbE9CE7c279`.
-* **Eth Address A ( USDC Wallet In ):** `0xc3acf3b96e46aa35dbd2aa3bd12d23c11295e774`.
+* **ETH Address A ( USDC Wallet In ):** `0xc3acf3b96e46aa35dbd2aa3bd12d23c11295e774`.
 
 #### Additional Information
 
