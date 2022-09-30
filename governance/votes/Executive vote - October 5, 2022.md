@@ -104,7 +104,7 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 
 As per [this poll](https://vote.makerdao.com/polling/QmWX6BSA#vote-breakdown), a total of 810 MKR will be transferred and streamed to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) as detailed below, if this executive proposal passes.
 
-Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP79#sentence-summary), a one-time transfer and two-year stream will be established by this executive proposal:
+Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP79#sentence-summary), a one-time transfer and two-year stream will be established, if this executive proposal passes:
 
 **MKR Transfer**  
 **270 MKR** will be transferred to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
