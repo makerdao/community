@@ -19,10 +19,9 @@ If this executive proposal passes, the following **additions** will be made to t
 - Monetalis Clydesdale (MIP65) will be onboarded as a new vault type, RWA-007, as detailed below. 
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- **1 million DAI** will be drawndown for the pilot transactions of Monetalis Clydesdale (RWA-007-A), as detailed below. 
 - **81,000 DAI** will be distributed to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55), as detailed below.
 - Streams totaling **787.70 MKR** will be set up for the [GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) and [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Units, as detailed below.
-- **270 MKR** will be tasfered to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19), as detailed below.
+- A total of **497.64 MKR** will be tasfered to the [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) Core Units, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -72,6 +71,12 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 
 **MKR Stream**  
 **540 MKR** streamed to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) starting on 2022-09-28 and ending on 2024-09-28 with a cliff date of 2022-09-28 (same as the starting date for the stream), as compensation for the next two years of work as a Core Unit.
+
+### Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Transfer
+
+As per [this poll](https://vote.makerdao.com/polling/QmSmhV7z#vote-breakdown), **227.64 MKR** will be transfered to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below, if this executive proposal passes.
+
+Based on the provided [budget transparency report](https://github.com/makerdao-ses/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md), **227.64 MKR** will be transfered to the [SES-001 Auditor's Wallet](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) as a result of this executive proposal. 
 
 ## Review
 
