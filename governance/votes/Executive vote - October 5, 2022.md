@@ -106,7 +106,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmWX6BSA#vote-breakdown), a
 
 Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP79#sentence-summary), a one-time transfer and two-year stream will be established, if this executive proposal passes:
 
-**MKR Transfer**  
+#### MKR Transfer
+
 **270 MKR** will be transferred to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
 
 #### MKR Stream
