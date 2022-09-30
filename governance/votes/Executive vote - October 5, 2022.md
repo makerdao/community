@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
+If this executive proposal passes, the following **addition** will be made to the Maker Protocol:
 - Monetalis Clydesdale (MIP65) will be onboarded as a new vault type, RWA-007, as detailed below. 
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
