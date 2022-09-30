@@ -45,7 +45,7 @@ As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 1 million DAI.
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 100%.
-* Oracle Price: 250 million DAI *(this manual setting for RWA vaults will allow the debt ceiling to be progressively raised by a future spell, without the need for recalibrating the system oracle price for RWA-007-A)*.
+* Oracle Price: 250 million DAI *(this manual setting for RWA vaults will allow the debt ceiling to be progressively raised by a future spell, without the need for recalibrating the system oracle price for RWA007-A)*.
 * Debt write-off timelock (tau): 0.
 * Liquidation Process: See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
 
