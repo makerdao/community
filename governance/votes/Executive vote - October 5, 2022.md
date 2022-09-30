@@ -21,7 +21,7 @@ If this executive proposal passes, the following **additions** will be made to t
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - **81,000 DAI** will be distributed to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55), as detailed below.
 - Streams totaling **787.70 MKR** will be set up for the [GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) and [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Units, as detailed below.
-- A total of **497.64 MKR** will be tasfered to the [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) Core Units, as detailed below.
+- A total of **497.64 MKR** will be transferred to the [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) and [Sustainable Ecosystem Scaling (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) Core Units, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -35,11 +35,11 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Monetalis Clydesdale Onboarding and Inital Drawdown
+### Monetalis Clydesdale Onboarding and Initial Drawdown
 
-As per [this poll](https://vote.makerdao.com/polling/QmXHM6us#vote-breakdown) Monetalis Clydedale will be onboarded as RWA-007 as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmXHM6us#vote-breakdown) Monetalis Clydesdale will be onboarded as RWA-007 as detailed below, if this executive proposal passes.
 
-As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787), this inital onboarding will set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **1 million DAI**. If the set up for the pilot transation (done in this spell) is successful and Monetalis is able to draw 1 million DAI from the facilitity (utilizing the USDC PSM), a subsequent spell will increase the Debt Celing to 250 million DAI. Please note that the Monetalis Clydesdale allocation of 500 million DAI is being **split equally between RWA-007-A for Bank Sygnum (onboarding in this spell) and RWA-007-B for Baile Gifford (to be onboarded at a later date).**
+As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787), this initial onboarding will set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **1 million DAI**. If the setup for the pilot transaction (done in this spell) is successful and Monetalis can draw 1 million DAI from the facility (utilizing the USDC PSM), a subsequent spell will increase the Debt Ceiling to 250 million DAI. Please note that the Monetalis Clydesdale allocation of 500 million DAI is being **split equally between RWA-007-A for Bank Sygnum (onboarding in this spell) and RWA-007-B for Baile Gifford (to be onboarded at a later date).**
 
 #### Collateral Parameters
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0%.
@@ -78,9 +78,9 @@ Please review the following forum threads containing information about RWA-008 (
 
 ### Ambassador Program Special Purpose Fund Transfer
 
-As per [this poll](https://vote.makerdao.com/polling/QmcJQCyW#vote-breakdown), **81,000 DAI** will be transfered to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmcJQCyW#vote-breakdown), **81,000 DAI** will be transferred to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) as detailed below, if this executive proposal passes.
 
-Based on the accepted [Ambassador Program's Special Purpose Fund Request](https://mips.makerdao.com/mips/details/MIP55c3SP7), **81,000 DAI** will be transfered to the program's multisig at [0xF411d823a48D18B32e608274Df16a9957fE33E45](https://etherscan.io/address/0xF411d823a48D18B32e608274Df16a9957fE33E45). The signers of this 2/3 multisig include the proposal author and two comptrollers, @tadeo and @Davidutro, who confirmed their commitment in the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169).
+Based on the accepted [Ambassador Program's Special Purpose Fund Request](https://mips.makerdao.com/mips/details/MIP55c3SP7), **81,000 DAI** will be transferred to the program's multisig at [0xF411d823a48D18B32e608274Df16a9957fE33E45](https://etherscan.io/address/0xF411d823a48D18B32e608274Df16a9957fE33E45). The signers of this 2/3 multisig include the proposal author and two comptrollers, @tadeo and @Davidutro, who confirmed their commitment in the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169).
 
 ### GovAlpha (GOV-001) MKR Streams
 
@@ -99,21 +99,21 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 
 ### StarkNet Engineering Core Unit (SNE-001) MKR Stream and Transfer
 
-As per [this poll](https://vote.makerdao.com/polling/QmWX6BSA#vote-breakdown), a total of 810 MKR will be transfered and streamed to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmWX6BSA#vote-breakdown), a total of 810 MKR will be transferred and streamed to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) as detailed below, if this executive proposal passes.
 
 Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP79#sentence-summary), a one-time transfer and two-year stream will be established by this executive proposal:
 
 **MKR Transfer**  
-**270 MKR** will be transfered to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
+**270 MKR** will be transferred to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
 
 **MKR Stream**  
 **540 MKR** streamed to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) starting on 2022-09-28 and ending on 2024-09-28 with a cliff date of 2022-09-28 (same as the starting date for the stream), as compensation for the next two years of work as a Core Unit.
 
 ### Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Transfer
 
-As per [this poll](https://vote.makerdao.com/polling/QmSmhV7z#vote-breakdown), **227.64 MKR** will be transfered to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmSmhV7z#vote-breakdown), **227.64 MKR** will be transferred to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below, if this executive proposal passes.
 
-Based on the provided [budget transparency report](https://github.com/makerdao-ses/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md), **227.64 MKR** will be transfered to the [SES-001 Auditor's Wallet](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) as a result of this executive proposal. 
+Based on the provided [budget transparency report](https://github.com/makerdao-ses/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md), **227.64 MKR** will be transferred to the [SES-001 Auditor's Wallet](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) as a result of this executive proposal. 
 
 ## Review
 
