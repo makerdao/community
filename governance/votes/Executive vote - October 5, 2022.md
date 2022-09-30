@@ -21,7 +21,7 @@ If this executive proposal passes, the following **additions** will be made to t
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - **1 million DAI** will be drawndown for the pilot transactions of Monetalis Clydesdale (RWA-007-A), as detailed below. 
 - **81,000 DAI** will be distributed to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55), as detailed below.
-- Streams totaling **787.71 MKR** will be set up for the [GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) and [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Units, as detailed below.
+- Streams totaling **787.70 MKR** will be set up for the [GovAlpha (GOV-001)](https://mips.makerdao.com/mips/details/MIP39c2SP3) and [StarkNet Engineering (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) Core Units, as detailed below.
 - **270 MKR** will be tasfered to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19), as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -48,7 +48,18 @@ Based on the [Ambassador Program's Special Purpose Fund Request](https://mips.ma
 
 ### GovAlpha (GOV-001) MKR Streams
 
-$executive_entry_description_3
+As per [this poll](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown), a total of 247.70 MKR will be streamed to the [GovALpha (GOV-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3) as detailed below, if this executive proposal passes.
+
+Based on the proposed [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created from this executive proposal:
+
+**@prose11's Facilitator Stream** 
+ 62.50 MKR streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
+ 
+ **@Patrick_J's Facilitator Stream**
+32.69 MKR streamed to [0xbb147E995c9f159b93Da683dCa7893d6157199B9](https://etherscan.io/address/0xbb147E995c9f159b93Da683dCa7893d6157199B9) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01.
+
+**GovAlpha Contributiors' Stream**
+152.51 MKR streamed to the [GovAlpha multisig](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
 
 ### StarkNet Engineering Core Unit (SNE-001) MKR Stream and Transfer
 
