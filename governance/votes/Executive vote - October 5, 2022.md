@@ -37,7 +37,44 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Monetalis Clydesdale Onboarding and Inital Drawdown
 
-$executive_entry_description_1
+As per [this poll](https://vote.makerdao.com/polling/QmXHM6us#vote-breakdown) Monetalis Clydedale will be onboarded as RWA-007 as detailed below, if this executive proposal passes.
+
+As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787), this inital onboarding will set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **1 million DAI**. If the set up for the pilot transation (done in this spell) is successful and Monetalis is able to draw 1 million DAI from the facilitity (utilizing the USDC PSM), a subsequent spell will increast the debt celing to 250 million DAI. Please note that the Monetalis Clydesdale allocation of 500 million DAI is being **split equally between RWA-007-A for Bank Sygnum (onboarding in this spell) and RWA-007-B for Baile Gifford (to be onboarded at a later date).**
+
+#### Collateral Parameters
+* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 0%.
+* [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 1 million DAI.
+* [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 100%.
+* Oracle Price: 250 million DAI (this manual setting for RWA vaults will allow the debt ceiling to be progressively raised by a future spell, without the need for recalibrating the system oracle price for RWA-007-A).
+* Debt write-off timelock (tau): 0.
+* Liquidation Process: See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
+
+#### Relevant Smart Contract Information
+
+* **MIP21_LIQUIDATION_ORACLE:** `0x88f88Bb9E66241B73B84f3A6E197FbBa487b1E30`. 
+* **RWA_TOKEN_FAB**: `0x2B3a4c18705e99bC29b22222dA7E10b643658552`.
+* **SYMBOL:** `RWA007`.
+* **NAME:** `RWA-007`.
+* **ILK:** `RWA007-A`.
+* **RWA007:** `0x078fb926b041a816FaccEd3614Cf1E4bc3C723bD`.
+* **MCD_JOIN_RWA007_A**: `0x476aaD14F42469989EFad0b7A31f07b795FF0621`.
+* **RWA007_A_URN:** `0x481bA2d2e86a1c41427893899B5B0cEae41c6726`.
+* **RWA007_A_JAR:** `0xef1B095F700BE471981aae025f92B03091c3AD47`.
+* **RWA007_A_OUTPUT_CONDUIT:** `0x701C3a384c613157bf473152844f368F2d6EF191`.
+* **RWA007_A_INPUT_CONDUIT_URN:** `0x58f5e979eF74b60a9e5F955553ab8e0e65ba89c9`.
+* **RWA007_A_INPUT_CONDUIT_JAR:** `0xc8bb4e2B249703640e89265e2Ae7c9D5eA2aF742`.
+* **RWA_007_A_OPERATOR (Monetalis):** `0x94cfBF071f8be325A5821bFeAe00eEbE9CE7c279`.
+* **Eth Address A ( USDC Wallet In ):** `0xc3acf3b96e46aa35dbd2aa3bd12d23c11295e774`.
+
+#### Additional Information
+
+Please review the following forum threads containing information about RWA-008 (OFH) to inform your position before voting.
+* [Initial MIP Forum Thread](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148)
+* [CES Domain Team Assessment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787)
+* [MIP65 Counterparties Community Assessment](https://forum.makerdao.com/t/mip65-counterparties-community-assessment/17786)
+* [(RWA 007) MIP65 Monetalis/Clydesdale Legal Assessment ](https://forum.makerdao.com/t/rwa-007-mip65-monetalis-clydesdale-legal-assessment/17834)
+* [Initial MIP65 Documentation](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-documentation-hq/17923)
+* [Monetalis Clydesdale Legal Agreements](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-documentation-hq/17923/7)
 
 ### Ambassador Program Special Purpose Fund Transfer
 
