@@ -44,26 +44,34 @@ $executive_entry_description_1
 
 As per [this poll](https://vote.makerdao.com/polling/QmcJQCyW#vote-breakdown), **81,000 DAI** will be transfered to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) as detailed below, if this executive proposal passes.
 
-Based on the [Ambassador Program's Special Purpose Fund Request](https://mips.makerdao.com/mips/details/MIP55c3SP7), **81,000 DAI** will be transfered to the program's multisig at [0xF411d823a48D18B32e608274Df16a9957fE33E45](https://etherscan.io/address/0xF411d823a48D18B32e608274Df16a9957fE33E45). The signers of this 2/3 multisig include the proposal author and two comptrollers, @tadeo and @Davidutro, who confirmed their commitment in the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169).
+Based on the accepted [Ambassador Program's Special Purpose Fund Request](https://mips.makerdao.com/mips/details/MIP55c3SP7), **81,000 DAI** will be transfered to the program's multisig at [0xF411d823a48D18B32e608274Df16a9957fE33E45](https://etherscan.io/address/0xF411d823a48D18B32e608274Df16a9957fE33E45). The signers of this 2/3 multisig include the proposal author and two comptrollers, @tadeo and @Davidutro, who confirmed their commitment in the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169).
 
 ### GovAlpha (GOV-001) MKR Streams
 
-As per [this poll](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown), a total of 247.70 MKR will be streamed to the [GovALpha (GOV-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3) as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown), a total of **247.70 MKR** will be streamed to the [GovALpha (GOV-001) Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3) as detailed below, if this executive proposal passes.
 
-Based on the proposed [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created from this executive proposal:
+Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created from this executive proposal:
 
 **@prose11's Facilitator Stream**   
- 62.50 MKR streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
+**62.50 MKR** streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
  
  **@Patrick_J's Facilitator Stream**  
-32.69 MKR streamed to [0xbb147E995c9f159b93Da683dCa7893d6157199B9](https://etherscan.io/address/0xbb147E995c9f159b93Da683dCa7893d6157199B9) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01.
+**32.69 MKR** streamed to [0xbb147E995c9f159b93Da683dCa7893d6157199B9](https://etherscan.io/address/0xbb147E995c9f159b93Da683dCa7893d6157199B9) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01.
 
 **GovAlpha Contributiors' Stream**  
-152.51 MKR streamed to the [GovAlpha multisig](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
+**152.51 MKR** streamed to the [GovAlpha multisig](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
 
 ### StarkNet Engineering Core Unit (SNE-001) MKR Stream and Transfer
 
+As per [this poll](https://vote.makerdao.com/polling/QmWX6BSA#vote-breakdown), a total of 810 MKR will be transfered and streamed to the [StarkNet Engineering Core Unit (SNE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP19) as detailed below, if this executive proposal passes.
 
+Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP79#sentence-summary), a one-time transfer and two-year stream will be established by this executive proposal:
+
+**MKR Transfer**  
+**270 MKR** will be transfered to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
+
+**MKR Stream**
+**540 MKR** streamed to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) starting on 2022-09-28 and ending on 2024-09-28 with a cliff date of 2022-09-28 (same as the starting date for the stream), as compensation for the next two years of work as a Core Unit.
 
 ## Review
 
