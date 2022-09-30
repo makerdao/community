@@ -5,7 +5,7 @@ date: 2022-10-05T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Monetalis Clydesdale (RWA-007) Onboarding and initial drawdown, Funding Ambassador Program SPF, Core Unit MKR Streams and Transfer - October 5, 2022
+# [Executive Proposal] Monetalis Clydesdale (RWA-007) Onboarding, Funding Ambassador Program SPF, Core Unit MKR Streams and Transfer - October 5, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
