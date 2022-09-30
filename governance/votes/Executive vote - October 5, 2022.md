@@ -118,7 +118,7 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 
 As per [this poll](https://vote.makerdao.com/polling/QmSmhV7z#vote-breakdown), **227.64 MKR** will be transferred to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) as detailed below, if this executive proposal passes.
 
-Based on the provided [budget transparency report](https://github.com/makerdao-ses/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md), **227.64 MKR** will be transferred to the [SES-001 Auditor's Wallet](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) as a result of this executive proposal. 
+Based on the provided [budget transparency report](https://github.com/makerdao-ses/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md), **227.64 MKR** will be transferred to the SES-001 Auditor's Wallet at [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6) as a result of this executive proposal. 
 
 ## Review
 
