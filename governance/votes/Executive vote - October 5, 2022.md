@@ -91,7 +91,8 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 **@prose11's Facilitator Stream**   
 **62.50 MKR** streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
  
- **@Patrick_J's Facilitator Stream**  
+#### @Patrick_J's Facilitator Stream
+
 **32.69 MKR** streamed to [0xbb147E995c9f159b93Da683dCa7893d6157199B9](https://etherscan.io/address/0xbb147E995c9f159b93Da683dCa7893d6157199B9) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01.
 
 **GovAlpha Contributiors' Stream**  
