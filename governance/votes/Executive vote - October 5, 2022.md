@@ -88,7 +88,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown), a
 
 Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/MIP40c3SP80) the following three streams will be created, if this executive proposal passes:
 
-**@prose11's Facilitator Stream**   
+#### @prose11's Facilitator Stream
+
 **62.50 MKR** streamed to [0xbfDD0E744723192f7880493b66501253C34e1241](https://etherscan.io/address/0xbfDD0E744723192f7880493b66501253C34e1241) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
  
 #### @Patrick_J's Facilitator Stream
