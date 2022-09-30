@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Monetalis Clydesdale Onboarding and Initial Drawdown
+### Monetalis Clydesdale Onboarding
 
 As per [this poll](https://vote.makerdao.com/polling/QmXHM6us#vote-breakdown) Monetalis Clydesdale will be onboarded as RWA007-A as detailed below, if this executive proposal passes.
 
