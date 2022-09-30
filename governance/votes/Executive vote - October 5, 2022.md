@@ -109,7 +109,8 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 **MKR Transfer**  
 **270 MKR** will be transferred to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) as compensation for their first year of work as a Core Unit.
 
-**MKR Stream**  
+#### MKR Stream
+
 **540 MKR** streamed to [0x6D348f18c88D45243705D4fdEeB6538c6a9191F1](https://etherscan.io/address/0x6D348f18c88D45243705D4fdEeB6538c6a9191F1) starting on 2022-09-28 and ending on 2024-09-28 with a cliff date of 2022-09-28 (same as the starting date for the stream), as compensation for the next two years of work as a Core Unit.
 
 ### Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Transfer
