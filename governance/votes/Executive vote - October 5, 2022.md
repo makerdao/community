@@ -42,7 +42,9 @@ $executive_entry_description_1
 
 ### Ambassador Program Special Purpose Fund Transfer
 
-$executive_entry_description_3
+As per [this poll](https://vote.makerdao.com/polling/QmcJQCyW#vote-breakdown), **81,000 DAI** will be transfered to the Ambassador Program [Special Purpose Fund](https://mips.makerdao.com/mips/details/MIP55) as detailed below, if this executive proposal passes.
+
+Based on the [Ambassador Program's Special Purpose Fund Request](https://mips.makerdao.com/mips/details/MIP55c3SP7), **81,000 DAI** will be transfered to the program's multisig at [0xF411d823a48D18B32e608274Df16a9957fE33E45](https://etherscan.io/address/0xF411d823a48D18B32e608274Df16a9957fE33E45). The signers of this 2/3 multisig include the proposal author and two comptrollers, @tadeo and @Davidutro, who confirmed their commitment in the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169).
 
 ### GovAlpha (GOV-001) MKR Streams
 
