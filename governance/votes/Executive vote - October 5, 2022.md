@@ -95,7 +95,8 @@ Based on the accepted [MKR Vesting MIP](https://mips.makerdao.com/mips/details/M
 
 **32.69 MKR** streamed to [0xbb147E995c9f159b93Da683dCa7893d6157199B9](https://etherscan.io/address/0xbb147E995c9f159b93Da683dCa7893d6157199B9) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01.
 
-**GovAlpha Contributiors' Stream**  
+#### GovAlpha Contributiors' Stream
+
 **152.51 MKR** streamed to the [GovAlpha multisig](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2022-08-01 and ending on 2023-08-01 with a cliff date of 2023-08-01. 
 
 ### StarkNet Engineering Core Unit (SNE-001) MKR Stream and Transfer
