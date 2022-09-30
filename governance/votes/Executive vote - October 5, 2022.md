@@ -68,7 +68,7 @@ As outlined in this [Domain Assesment](https://forum.makerdao.com/t/rwa007-mip65
 
 #### Additional Information
 
-Please review the following forum threads containing information about RWA-008 (OFH) to inform your position before voting.
+Please review the following forum threads containing information about RWA-007 (Monetalis Clydesdale) to inform your position before voting.
 * [Initial MIP Forum Thread](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148)
 * [CES Domain Team Assessment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787)
 * [MIP65 Counterparties Community Assessment](https://forum.makerdao.com/t/mip65-counterparties-community-assessment/17786)
