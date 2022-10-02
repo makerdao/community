@@ -1,3 +1,14 @@
+---
+name: RiskDAO
+external_profile_url: https://riskdao.org
+tags:
+  - data-driven
+  - decentralisation
+  - risk
+  - growth
+  - sustainability
+---
+
 ## RiskDAO
 
 ### Key Info
