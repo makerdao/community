@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### Multisig Details
 
-This 3/4 multisig on the Optimism network can be found at address [0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f](https://gnosis-safe.io/app/oeth:0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f/home) with the following forum account signers:
+This 3/4 multisig on the Optimism network can be found at address [0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f](https://gnosis-safe.io/app/oeth:0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f/home) with the following forum account holders acting as signers:
 - @Juanbug - [0x2165D41aF0d8d5034b9c266597c1A415FA0253bd](https://optimistic.etherscan.io/address/0x2165D41aF0d8d5034b9c266597c1A415FA0253bd)
 - @rspa - [0x62a43123FE71f9764f26554b3F5017627996816a](https://optimistic.etherscan.io/address/0x62a43123FE71f9764f26554b3F5017627996816a)
 - @MakerMan - [0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0](https://optimistic.etherscan.io/address/0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0)
