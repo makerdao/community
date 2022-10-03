@@ -1,8 +1,8 @@
 ---
-combined_participation: 0.0%
-poll_participation: 0.0%
-exec_participation: 0.0%
-communication: 0.0%
-start_date: 2022-09-28T00:00:00.000Z
+combined_participation: N/A
+poll_participation: N/A
+exec_participation: N/A
+communication: N/A
+start_date: 2022-10-10T00:00:00.000Z
 ---
 
