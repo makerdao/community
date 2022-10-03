@@ -42,8 +42,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/signal-reques
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* Velodrome will be intructed to send the NFT for voting to [0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f](https://gnosis-safe.io/app/oeth:0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f/home).
-* The above listed signers will be responsible for voting on Velodrome incentives on behalf of MakerDAO. 
+* Velodrome will be instructed to send the NFT for voting to [0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f](https://gnosis-safe.io/app/oeth:0x3C39024B9D430e6D6DaED9b0C8EB5747214bD49f/home).
+* The above-listed signers will be responsible for voting on Velodrome incentives on behalf of MakerDAO. 
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
