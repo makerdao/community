@@ -28,8 +28,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes:
 
-Decrease the CRVV1ETHSTETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 2% to **1.5%**.
-Decrease the YFI-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 25 million DAI to **10 million DAI**.
+- Decrease the CRVV1ETHSTETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 2% to **1.5%**.
+- Decrease the YFI-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 25 million DAI to **10 million DAI**.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-september-2022/18143) to help inform your position before voting.
 
