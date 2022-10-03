@@ -1,6 +1,6 @@
 ---
 title: Approve Multisig for Velodrome NFT - October 3, 2022
-summary: Signal your support or opposition to approving a 3 of 4 multisig to manage the NFT Velodrome Airdrop. 
+summary: Signal your support or opposition to approving a 3 of 4 multisig to manage the Velodrome NFT Airdrop. 
 discussion_link: https://forum.makerdao.com/t/signal-request-create-a-multisig-to-manage-the-velo-venft/17777
 parameters:
     input_format: single-choice
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Approve the following 3/4 Multisig for managing the airdropped Velodrome NFT. Management of this NFT involves voting on what Velodrome token pairs to incentivize liquidity providers.
+- Approve the following 3/4 Multisig for managing the airdropped Velodrome NFT. Management of this NFT involves voting on what Velodrome token pairs to incentivize for liquidity providers.
 
 ### Multisig Details
 
