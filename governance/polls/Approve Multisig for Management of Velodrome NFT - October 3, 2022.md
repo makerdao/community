@@ -1,5 +1,5 @@
 ---
-title: Approve Multisig for Velodrome NFT - October 3, 2022
+title: Approve Multisig for Management of Velodrome NFT - October 3, 2022
 summary: Signal your support or opposition to approving a 3 of 4 multisig to manage the Velodrome NFT Airdrop. 
 discussion_link: https://forum.makerdao.com/t/signal-request-create-a-multisig-to-manage-the-velo-venft/17777
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-10-03T16:00:00
 end_date: 2022-10-06T16:00:00
 ---
-# Poll: Approve Multisig for Velodrome NFT - October 3, 2022
+# Poll: Approve Multisig for Management of Velodrome NFT - October 3, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 3 at 16:00 UTC.
 
