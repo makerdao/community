@@ -5,7 +5,7 @@ discussion_link: $discussion_link
 parameters:
   input_format:
     type: choose-free
-    options: [1,2]
+    options: [1,2,3]
     abstain: [0]
   victory_conditions:
     - { type : approval }
@@ -14,6 +14,7 @@ options:
    0: Abstain
    1: $Option1
    2: $Option2
+   3: $Option3
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
@@ -37,12 +38,10 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 
 ## Outcomes
 
-**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
+**The non-'Abstain' option with the most votes is deemed the winner, if it represents a change from the status quo the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
-
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
 ---
 
