@@ -77,7 +77,7 @@
 
 ### $SingleWinnerWithMajorityRequirement
 
-**The non-`Abstain` option with the most votes AND the support of a majority of votes is deemed the winner and the following actions will be taken:**
+**The winner of this vote requires an overall majority of votes to support it. The non-`Abstain` option with the most votes AND the support of a majority of votes is deemed the winner and the following actions will be taken:**
 * outcome1
 * outcome2
 
