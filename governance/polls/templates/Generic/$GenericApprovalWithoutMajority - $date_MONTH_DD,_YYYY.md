@@ -33,6 +33,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to the following changes:
 * $GenericChangeA
 * $GenericChangeB
+* $GenericChangeC
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
