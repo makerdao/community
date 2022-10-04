@@ -22,7 +22,7 @@ end_date: $YYYY-MM-DDT16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
-**This is an approval vote.**
+**This is an approval vote to select a single winning outcome.**
 - **You may vote for multiple options.**
 - **You should select all the options that you would support in an executive vote.**
 - **Unselected options signal that you do not approve of those options and would not support the option(s) in an executive vote.**
