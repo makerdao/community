@@ -70,23 +70,91 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP1c4SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip1c4-sp1-subproposal-for-changing-the-problem-space/17710)
 
-### $mip_code_4
+### MIP4c4-SP1:	MIP Removal Subproposals
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*$paragraph_summary*
+*"MIP6 and its related MIPs [MIP7, MIP8, MIP9, MIP11, MIP12] are being removed as a part of the Endgame Plan Approval MIP as these outdated processes have reached the point of causing far more harm than help. The original collateral onboarding process was not designed to accommodate the level of activity that is now occurring in Maker Governance, nor does it properly manage the risk of being overwhelmed with low-quality collateral onboarding proposals, which dominates and clogs up the current process."*
+
+*"Continuation of the actual useful forms of collateral onboarding is already enabled entirely through the existing governance mandates and their ability to trigger relevant Executive Votes, as specified in MIP16, MIP39 and MIP41, but the Endgame Plan MIP Set also proposes additional amendments to further emphasize this existing capability and ensure that collateral onboarding can continue happening smoothly with no risk of unexpected blockers."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
-* [Latest Proposal Version]($link_to_portal_version)
-* [Proposal Discussion Thread]($discussion_link)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
+
+### MIP4c2-SP27: MIP16 Amendment Subproposal
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*"This MIP is being amended to become compatible with the Endgame Plan and prevent Signal Requests (non-standard weekly polls) from dominating the governance dynamic and acting as a vector for unpredictable complexity growth and governance overhead."*
+
+*"This MIP Amendment only affects Signal Requests leading to non-standard weekly polls and doesn’t change the standard and primary focus of MIP16."*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/663)
+
+### MIP4c4-SP1:	MIP Removal Subproposals
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*"MIP6 and its related MIPs [MIP7, MIP8, MIP9, MIP11, MIP12] are being removed as a part of the Endgame Plan Approval MIP as these outdated processes have reached the point of causing far more harm than help. The original collateral onboarding process was not designed to accommodate the level of activity that is now occurring in Maker Governance, nor does it properly manage the risk of being overwhelmed with low-quality collateral onboarding proposals, which dominates and clogs up the current process."*
+
+*"Continuation of the actual useful forms of collateral onboarding is already enabled entirely through the existing governance mandates and their ability to trigger relevant Executive Votes, as specified in MIP16, MIP39 and MIP41, but the Endgame Plan MIP Set also proposes additional amendments to further emphasize this existing capability and ensure that collateral onboarding can continue happening smoothly with no risk of unexpected blockers."*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
+
+### MIP39c2-SP35: Modifying Risk Core Unit Mandate - RISK-001
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*"The Risk Core Unit Mandate is modified as a part of the Endgame Plan Approval MIP Set in order to eliminate any possible risk of the collateral onboarding process becoming disrupted or blocked by the removal of the old MIP6 process."*
+
+*"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a63e6eb930b07ee52b3c57c00d33d5925dd3bc41/MIP39/MIP39c2-Subproposals/MIP39c2-SP35.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP35)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-spxx-modifying-risk-core-unit-mandate-risk-001/17749)
+
+### MIP39c2-SP36: Modifying Strategic Finance Core Unit Mandate (SF-001)
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*"The Strategic Finance Core Unit Mandate is modified as a part of the Endgame Plan Approval MIP Set in order to eliminate any possible risk of the collateral onboarding process becoming disrupted or blocked by the removal of the old MIP6 process."*
+
+*"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/2e40ead0b26cda49c6a44a7983bf54cfdf36f25f/MIP39/MIP39c2-Subproposals/MIP39c2-SP36.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP36)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-spxx-modifying-risk-core-unit-mandate-risk-001/17749)
+
+### MIP39c2-SP37: Modifying Collateral Engineering Services Core Unit Mandate (CES-001)
+
+A brief summary of this proposal has been provided by the MIP Author and is shown below:
+
+*"The Collateral Engineering Services Core Unit Mandate is modified as a part of the Endgame Plan Approval MIP Set in order to eliminate any possible risk of the collateral onboarding process becoming disrupted or blocked by the removal of the old MIP6 process."*
+
+*"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
+
+Please review the links below to inform your position on this proposal before voting.
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/06a3c38f593c710680dfafb4d25e29c794924fb3/MIP39/MIP39c2-Subproposals/MIP39c2-SP37.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP37)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp37-modifying-collateral-engineering-services-core-unit-mandate-ces-001/17751)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on $week_four_governance_call_date.
+* The MIP Editors will mark these proposals **Accepted** and the Governance Facilitators will confirm their passage on the Governance and Risk call on Thursday, October 27.
 * Any further work required to implement these proposals will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
