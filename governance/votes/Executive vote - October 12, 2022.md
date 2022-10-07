@@ -90,14 +90,19 @@ The following collateral types will have their `tail` decreased by 1,200 seconds
 * WSTETH-A
 * WSTETH-B
 
-The following collateral types will have their `tail` decreased by 600 seconds, from 5,400 seconds to **4,800 seconds**:
+The following collateral type will have it's `tail` decreased by 600 seconds, from 5,400 seconds to **4,800 seconds**:
 
-* ETH-B
 * WBTC-B
 
 The following collateral type will have it's `tail` increased by 1,800 seconds, from 5,400 seconds to **7,200 seconds**:
 
 * WBTC-C
+
+The following collateral type will have it's `tail` decreased by 3,600 seconds, from 8,400 seconds to **4,800 seconds**:
+
+* ETH-B
+
+**Note:** there is a discrepancy between the current value in the [poll](https://vote.makerdao.com/polling/QmREbu1j#poll-detail) and the current value listed here for ETH-B. Please see this [forum post](https://forum.makerdao.com/t/notice-2022-10-12-executive-vote-inclusion-update/18281).
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
