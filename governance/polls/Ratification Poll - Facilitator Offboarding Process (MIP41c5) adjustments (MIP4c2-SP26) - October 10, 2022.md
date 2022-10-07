@@ -36,6 +36,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/675e7bd3215f19b5e57ad7a80abd48b396b25331/MIP4/MIP4c2-Subproposals/MIP4c2-SP26.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP26)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp26-facilitator-offboarding-process-mip41c5-adjustments/17592)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/647)
 
 ## Outcomes
 
