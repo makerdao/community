@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Multiple Collateral Auction risk parameters will be changed, as detailed below.
+- Multiple Collateral Auction Risk Parameters will be changed, as detailed below.
 - Parameter adjustments from the [latest proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-september-2022/18143) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) proposal, as detailed below.
 - A total of **120,490 DAI** will be paid to eighteen Recognized Delegates, itemized below.
 
