@@ -90,15 +90,15 @@ The following collateral types will have their `tail` decreased by 1,200 seconds
 * WSTETH-A
 * WSTETH-B
 
-The following collateral type will have it's `tail` decreased by 600 seconds, from 5,400 seconds to **4,800 seconds**:
+The following collateral type will have its `tail` decreased by 600 seconds, from 5,400 seconds to **4,800 seconds**:
 
 * WBTC-B
 
-The following collateral type will have it's `tail` increased by 1,800 seconds, from 5,400 seconds to **7,200 seconds**:
+The following collateral type will have its `tail` increased by 1,800 seconds, from 5,400 seconds to **7,200 seconds**:
 
 * WBTC-C
 
-The following collateral type will have it's `tail` decreased by 3,600 seconds, from 8,400 seconds to **4,800 seconds**:
+The following collateral type will have its `tail` decreased by 3,600 seconds, from 8,400 seconds to **4,800 seconds**:
 
 * ETH-B
 
