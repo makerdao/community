@@ -30,7 +30,7 @@ The community may vote in this poll to express support or opposition to MIP82 be
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP82 onboards a DAI 500M RWA vault that will acquire USDC via the PSM and provide a USDC Loan backed by Eth/Btc to Coinbase. The loan is expected to be split in three terms: 6, 9 and 12. The legal, structural, and technical set-up will be “close cousins” of the structure and technical implementation under MIP65 and will be executed under a strict verification program.*
+*"MIP82 onboards a DAI 500M RWA vault that will acquire USDC via the PSM and provide a USDC Loan backed by Eth/Btc to Coinbase. The loan is expected to be split in three terms: 6, 9 and 12. The legal, structural, and technical set-up will be “close cousins” of the structure and technical implementation under MIP65 and will be executed under a strict verification program."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/0a6575da0a9e3c58de5691630d4ad9bdcee27a9a/MIP82/MIP82.md)
