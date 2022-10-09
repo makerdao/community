@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Monetalis/Coinbase Appaloosa (MIP82) - October 10, 2022
-summary: MIP82 will onboard and activate a DAI 500M RWA vault for the purpose of acquiring USDC via the PSM and provide a loan of USDC to Coinbase, expected to be split in thirds on respectively 6, 9 and 12 months terms with ETH or BTC provided as collateral.
+summary: MIP82 will onboard and activate a DAI 500M RWA vault for the purpose of acquiring USDC via the PSM and provide a loan of USDC to Coinbase, expected to be split in thirds on respectively 6, 9, and 12 months terms with ETH or BTC provided as collateral.
 discussion_link: https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768
 parameters:
     input_format: single-choice
