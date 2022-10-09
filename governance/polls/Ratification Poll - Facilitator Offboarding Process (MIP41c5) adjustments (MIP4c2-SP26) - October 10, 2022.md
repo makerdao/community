@@ -33,7 +33,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *A Facilitator who should be offboarded should be offboarded quickly. A Facilitator who should not be offboarded benefits from having the proposal resolved quickly. If there is uncertainty, proposers always have the option of using more than the minimum time period. In addition, the wording on facilitator offboarding could use improvement. Govalpha suggested some improvements that I have integrated into this amendment.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/675e7bd3215f19b5e57ad7a80abd48b396b25331/MIP4/MIP4c2-Subproposals/MIP4c2-SP26.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/9317127fbd7fe9c0b45cd265129a5c2f5426ec42/MIP4/MIP4c2-Subproposals/MIP4c2-SP26.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP26)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp26-facilitator-offboarding-process-mip41c5-adjustments/17592)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/647)
