@@ -30,7 +30,7 @@ The community may vote in this poll to express support or opposition to MIP55c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This SPF provides funding for underwriting and performing the legal work necessary to onboard BlockTower Credit, to be completed by @christiancdpetersen and @teej.*
+*"This SPF provides funding for underwriting and performing the legal work necessary to onboard BlockTower Credit, to be completed by @christiancdpetersen and @teej."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/5830ade420b18ea926b00526464a248a922b3e9b/MIP55/MIP55c3-Subproposals/MIP55c3-SP9.md)
