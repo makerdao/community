@@ -30,7 +30,7 @@ The community may vote in this poll to express support or opposition to MIP81 be
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MIP81 onboards a portion of the PSM’s USDC to Coinbase Prime in order to participate in Coinbase’s USDC Institutional Rewards program. This MIP outlines the terms for reward calculation and the process for payment to MakerDAO through 2022.*
+*"MIP81 onboards a portion of the PSM’s USDC to Coinbase Prime in order to participate in Coinbase’s USDC Institutional Rewards program. This MIP outlines the terms for reward calculation and the process for payment to MakerDAO through 2022."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/8c25cab7cba9e9410b51d7bfbacd83bb1d18db3e/MIP81/MIP81.md)
