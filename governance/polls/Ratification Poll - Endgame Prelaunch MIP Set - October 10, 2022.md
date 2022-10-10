@@ -69,6 +69,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/7507563632b8985e604ccb7a68a57b7cecd9a411/MIP1/MIP1c4-Subproposals/MIP1c4-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP1c4SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip1c4-sp1-subproposal-for-changing-the-problem-space/17710)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/678)
 
 ### MIP4c4-SP1:	MIP Removal Subproposals
 
