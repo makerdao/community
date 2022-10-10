@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for Endgame Prelaunch MIP Set - October 10, 2022
-summary: $sentence_summary_mip_set
-discussion_link: $discussion_link
+summary: The Endgame Prelaunch MIP Set combines 2 MIPs and 6 Subproposals to lay the groundword for the Endgame Plan. These include Recognized Launch MIP Clusters, Activating the Protocol-Owned Vault Emulation (POVE), Core Unit mandate amendments, changing the Problem Space, removing Signal Requests, and removing the collateral-onboarding process.
+discussion_link: https://forum.makerdao.com/tag/endgame-prelaunch-mip-set
 parameters:
     input_format:
         type: single-choice
@@ -96,19 +96,6 @@ Please review the links below to inform your position on this proposal before vo
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/663)
-
-### MIP4c4-SP1:	MIP Removal Subproposals
-
-A brief summary of this proposal has been provided by the MIP Author and is shown below:
-
-*"MIP6 and its related MIPs [MIP7, MIP8, MIP9, MIP11, MIP12] are being removed as a part of the Endgame Plan Approval MIP as these outdated processes have reached the point of causing far more harm than help. The original collateral onboarding process was not designed to accommodate the level of activity that is now occurring in Maker Governance, nor does it properly manage the risk of being overwhelmed with low-quality collateral onboarding proposals, which dominates and clogs up the current process."*
-
-*"Continuation of the actual useful forms of collateral onboarding is already enabled entirely through the existing governance mandates and their ability to trigger relevant Executive Votes, as specified in MIP16, MIP39 and MIP41, but the Endgame Plan MIP Set also proposes additional amendments to further emphasize this existing capability and ensure that collateral onboarding can continue happening smoothly with no risk of unexpected blockers."*
-
-Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
 
 ### MIP39c2-SP35: Modifying Risk Core Unit Mandate - RISK-001
 
