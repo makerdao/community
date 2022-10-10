@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Endgame Prelaunch MIP Set - October 10, 2022
-summary: The Endgame Prelaunch MIP Set combines 2 MIPs and 6 Subproposals to lay the groundword for the Endgame Plan. These include Recognized Launch MIP Clusters, Activating the Protocol-Owned Vault Emulation (POVE), Core Unit mandate amendments, changing the Problem Space, removing Signal Requests, and removing the collateral-onboarding process.
+summary: The Endgame Prelaunch MIP Set combines 2 MIPs and 6 Subproposals to lay the groundwork for the Endgame Plan. These include Recognized Launch MIP Clusters, Activating the Protocol-Owned Vault Emulation (POVE), Core Unit mandate amendments, changing the Problem Space, removing Signal Requests, and removing the collateral-onboarding process.
 discussion_link: https://forum.makerdao.com/tag/endgame-prelaunch-mip-set
 parameters:
     input_format:
