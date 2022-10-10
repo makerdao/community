@@ -29,6 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 - **You should select all the options that you support.**
 - **Unselected options signal that you do not approve of those options and would not support the option(s) in an executive vote.**
 - **If you wish to abstain, that should be your one and only choice.**
+- **There is no requirement for the winner to obtain the support of a majority of voters.**
 
 ## Review
 
