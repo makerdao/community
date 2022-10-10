@@ -44,7 +44,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MIP83 is a part of the Endgame Plan Approval MIP Set that configures the Clusters of the Launch MetaDAOs. This enables groups within the Core Units to begin preparations to restructure as MetaDAOs which is a de-risked form of scaling the Decentralized Workforce available in the Endgame."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/5008f747e47047f977279ba216fc10dd450985d0/MIP83/MIP83.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ccb9c72f6a68d70441cb9a626e5e7efa20c4d503/MIP83/MIP83.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP83)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip83-recognized-launch-metadao-clusters/17709)
 
@@ -55,7 +55,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"This MIP activates the preliminary implementation of the Protocol-Owned Vault, using the Protocol-Owned Vault Emulation (POVE) approach which uses a non-standard configuration of the existing Maker Protocol to achieve the effects of a Protocol-Owned Vault."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c08c49aa14dfd2c626fb9348d039a3e3ee7e91bc/MIP84/MIP84.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f822df38e08525c59b9df365a789390fdadf7b0c/MIP84/MIP84.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP84)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713)
 
@@ -66,7 +66,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MIP1 was largely forgotten and never managed to serve its purpose, but with the Endgame Plan, the same core concept is revived as there needs to be clarity around precisely when Maker Governance starts to slow down and not invite so many proposals."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a8e1cdb5ee512d196b4432715646d9a2d8b24d36/MIP1/MIP1c4-Subproposals/MIP1c4-SP1.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/7507563632b8985e604ccb7a68a57b7cecd9a411/MIP1/MIP1c4-Subproposals/MIP1c4-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP1c4SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip1c4-sp1-subproposal-for-changing-the-problem-space/17710)
 
@@ -79,7 +79,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"Continuation of the actual useful forms of collateral onboarding is already enabled entirely through the existing governance mandates and their ability to trigger relevant Executive Votes, as specified in MIP16, MIP39 and MIP41, but the Endgame Plan MIP Set also proposes additional amendments to further emphasize this existing capability and ensure that collateral onboarding can continue happening smoothly with no risk of unexpected blockers."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/df356718ea6cac28b8ec50326591e2c0c158aa0b/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
 
@@ -92,10 +92,10 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"This MIP Amendment only affects Signal Requests leading to non-standard weekly polls and doesn’t change the standard and primary focus of MIP16."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1e4fdef1d2fd21ad641dc2b83ae3406fa3a94178/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP1)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712)
-* [Amendment Pull Request](https://github.com/makerdao/mips/pull/663)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/41f8cb6123c77eb5263caed56688d236156ef867/MIP4/MIP4c2-Subproposals/MIP4c2-SP27.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP27)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp27-mip16-amendment-subproposal/17711)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/664)
 
 ### MIP39c2-SP35: Modifying Risk Core Unit Mandate - RISK-001
 
@@ -106,9 +106,9 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a63e6eb930b07ee52b3c57c00d33d5925dd3bc41/MIP39/MIP39c2-Subproposals/MIP39c2-SP35.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/da40b1dfe62c30b0266729ef7f1383fa38aa87c1/MIP39/MIP39c2-Subproposals/MIP39c2-SP35.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP35)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-spxx-modifying-risk-core-unit-mandate-risk-001/17749)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp35-modifying-risk-core-unit-mandate-risk-001/17749)
 
 ### MIP39c2-SP36: Modifying Strategic Finance Core Unit Mandate (SF-001)
 
@@ -119,9 +119,9 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/2e40ead0b26cda49c6a44a7983bf54cfdf36f25f/MIP39/MIP39c2-Subproposals/MIP39c2-SP36.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/8f2a48d0aa5e34551185bd3fc95c399daec70d51/MIP39/MIP39c2-Subproposals/MIP39c2-SP36.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP36)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-spxx-modifying-risk-core-unit-mandate-risk-001/17749)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp36-modifying-strategic-finance-core-unit-mandate-sf-001/17750)
 
 ### MIP39c2-SP37: Modifying Collateral Engineering Services Core Unit Mandate (CES-001)
 
@@ -132,7 +132,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"The updated mandate is written with a new approach where the critical element of the mandate that explicitly and directly impacts Facilitator Governance Powers are provided up front. This information is also described as short and succinct as possible in order to make it completely clear what Governance Privileges the Core Unit Facilitator will have with regards to proposing non-standard weekly polls as defined in MIP16."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/06a3c38f593c710680dfafb4d25e29c794924fb3/MIP39/MIP39c2-Subproposals/MIP39c2-SP37.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/072f440b10613910b09673168b710bed102281ab/MIP39/MIP39c2-Subproposals/MIP39c2-SP37.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c2SP37)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c2-sp37-modifying-collateral-engineering-services-core-unit-mandate-ces-001/17751)
 
