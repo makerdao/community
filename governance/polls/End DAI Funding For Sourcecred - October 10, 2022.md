@@ -1,5 +1,5 @@
 ---
-title: End DAI Funding for Sourcecred - October 10, 2022
+title: End DAI Funding For Sourcecred - October 10, 2022
 summary: Signal your support or opposition for GovAlpha ending DAI funding for Sourcecred.
 discussion_link: https://forum.makerdao.com/t/poll-notice-signal-support-for-ending-dai-funding-for-sourcecred/18204
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-10-10T16:00:00
 end_date: 2022-10-13T16:00:00
 ---
-# Poll: End DAI Funding for Sourcecred - October 10, 2022
+# Poll: End DAI Funding For Sourcecred - October 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 10 at 16:00 UTC.
 
