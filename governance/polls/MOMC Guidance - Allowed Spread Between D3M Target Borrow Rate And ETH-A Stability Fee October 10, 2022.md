@@ -22,7 +22,7 @@ end_date: 2022-10-13T16:00:00
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 10 at 16:00 UTC.
 
-**The outcome of this poll will only be utilized by the MOMC if the concurrent Poll ID $ results in a "Yes" vote.**
+**The outcome of this poll will only be utilized by the MOMC if the concurrent Poll ID 880 results in a "Yes" vote.**
 
 **This is an approval vote to select a single winning outcome.**
 - **You may vote for multiple options.**
