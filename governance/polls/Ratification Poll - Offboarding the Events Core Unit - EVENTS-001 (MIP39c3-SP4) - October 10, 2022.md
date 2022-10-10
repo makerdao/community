@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for this Core Unit does not support a standalone core unit and will be better aligned within a cluster of a MetaDAO. As a result, this core unit must be offboarded to support the transition."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/0e92ffa48c584e67cdd2d31166f7d0625855203a/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fce867d72281ea970afac1854df7eee92e8c27a2/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c3SP4)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755)
 

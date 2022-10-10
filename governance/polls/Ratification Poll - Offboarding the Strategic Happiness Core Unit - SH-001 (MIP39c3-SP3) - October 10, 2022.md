@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for this Core Unit does not support a standalone Core Unit and will be better aligned within a cluster of a MetaDAO. As a result, this Core Unit will be offboarded to support the transition."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d098ea16627c32ae28de97738b32c1cdf960fcea/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/040e11928546a12de9958e54af9ee4001df2e8f4/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c3SP3)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754)
 
