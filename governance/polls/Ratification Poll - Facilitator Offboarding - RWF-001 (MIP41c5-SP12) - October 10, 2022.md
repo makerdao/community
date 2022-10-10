@@ -43,14 +43,14 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 *"All unspent funds and assets should immediately be handed over to an appointed Interim Facilitator."*
 
-*"If this proposal passes and [MIP39c3-SP5](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) passes at the same time, the other one should take precedence over and supersede this one."*
+*"If this proposal passes and [MIP39c3-SP5](https://mips.makerdao.com/mips/details/MIP39c3SP5) passes at the same time, the other one should take precedence over and supersede this one."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/dbc71ae46d7e1e2248984d1461f6d826acd719f9/MIP41/MIP41c5-Subproposals/MIP41c5-SP12.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c5SP12)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c5-sp12-facilitator-offboarding-rwf-001/17332)
 
-Please note that, if both this subproposal and [MIP39c3-SP5](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) pass, the latter will have precedence, as specified in this subproposal.
+Please note that, if both this subproposal and [MIP39c3-SP5](https://mips.makerdao.com/mips/details/MIP39c3SP5) pass, the latter will have precedence, as specified in this subproposal.
 
 ## Outcomes
 
@@ -62,7 +62,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
-**If the concurrent poll for [MIP39c3-SP5](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) this proposal will be obsolete as the RWF-001 Core Unit will be offboarded.**
+**If the concurrent poll for [MIP39c3-SP5](https://mips.makerdao.com/mips/details/MIP39c3SP5) this proposal will be obsolete as the RWF-001 Core Unit will be offboarded.**
 
 ---
 
