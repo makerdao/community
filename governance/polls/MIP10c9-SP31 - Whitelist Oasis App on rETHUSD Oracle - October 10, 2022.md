@@ -1,6 +1,6 @@
 ---
-title: Whitelist Oasis App on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
-summary: Signal your support or opposition for whitelisting Oasis App on the rETHUSD Oracle.
+title: Whitelist Oasis.app on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
+summary: Signal your support or opposition for whitelisting Oasis.app on the rETHUSD Oracle.
 discussion_link: https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195
 parameters:
     input_format: single-choice
