@@ -40,6 +40,8 @@ The community can vote in this poll to express support or opposition to the foll
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-modify-d3m-guidance-for-momc/18069) to help inform your position before voting.
 
+For more information on how the spread is used to calculate the Target Borrow Rate (`bar`), please see the Maker Operational Manual entry [here](https://manual.makerdao.com/module-index/module-dai-direct-deposit#spread).
+
 ## Outcomes
 
 **The non-'Abstain' option with the most votes is deemed the winner, if it represents a change from the status quo the following actions will be taken:**
