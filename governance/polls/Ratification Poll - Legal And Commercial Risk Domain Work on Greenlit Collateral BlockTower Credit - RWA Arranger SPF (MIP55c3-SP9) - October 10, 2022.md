@@ -3,9 +3,18 @@ title: Ratification Poll for Legal And Commercial Risk Domain Work on Greenlit C
 summary: This SPF requests 258K DAI to support onboarding BlockTower Credit as a RWA Arranger pursuant to the greenlight passing.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776
 parameters:
-    input_format: single-choice
+    input_format:
+        type: single-choice
+        abstain: [0]
     victory_conditions:
-        - { type : plurality }
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
