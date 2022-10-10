@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Monetalis/Coinbase Appaloosa (MIP82) - October 10, 2022
+title: Ratification Poll for Monetalis-Coinbase Appaloosa (MIP82) - October 10, 2022
 summary: MIP82 will onboard and activate a DAI 500M RWA vault for the purpose of acquiring USDC via the PSM and provide a loan of USDC to Coinbase, expected to be split in thirds on respectively 6, 9, and 12 months terms with ETH or BTC provided as collateral.
 discussion_link: https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2022-10-10T16:00:00
 end_date: 2022-10-24T16:00:00
 ---
-# Ratification Poll for Monetalis/Coinbase Appaloosa - October 10, 2022
+# Ratification Poll for Monetalis-Coinbase Appaloosa - October 10, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, October 10 at 16:00 UTC.
 
