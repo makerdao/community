@@ -3170,5 +3170,87 @@
   "876": [
     "medium-impact",
     "greenlight"
+  ],
+  "877": [
+    "low-impact",
+    "oracle",
+    "oracle-whitelist",
+    "ratification",
+    "mips"
+  ],
+  "878": [
+    "high-impact",
+    "risk-parameter",
+    "psm"
+  ],
+  "879": [
+    "medium-impact",
+    "misc-governance"
+  ],
+  "880": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m"
+  ],
+  "881": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m"
+  ],
+  "882": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "883": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
+  ],
+  "884": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
+  ],
+  "885": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
+  ],
+  "886": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "psm"
+  ],
+  "887": [
+    "high-impact",
+    "collateral-onboard",
+    "ratification",
+    "mips",
+    "psm"
+  ],
+  "888": [
+    "medium-impact",
+    "real-world-assets",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "889": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "890": [
+    "high-impact",
+    "ratification",
+    "mips"
   ]
 }
+
