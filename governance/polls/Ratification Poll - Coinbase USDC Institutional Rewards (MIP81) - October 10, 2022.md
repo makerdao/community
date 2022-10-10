@@ -3,9 +3,18 @@ title: Ratification Poll for Coinbase USDC Institutional Rewards (MIP81) - Octob
 summary: MIP81 will onboard an account representing MakerDAO to Coinbase Prime and transfer 33% / ~1.6B of the PSM’s USDC into custody to earn USDC rewards with Coinbase.
 discussion_link: https://forum.makerdao.com/t/mip81-coinbase-usdc-institutional-rewards/17703
 parameters:
-    input_format: single-choice
+    input_format:
+        type: single-choice
+        abstain: [0]
     victory_conditions:
-        - { type : plurality }
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
