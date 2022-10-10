@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"This SPF provides funding for underwriting and performing the legal work necessary to onboard BlockTower Credit, to be completed by @christiancdpetersen and @teej."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/07673fb999b524cef95d5b06e38e276872faa306/MIP55/MIP55c3-Subproposals/MIP55c3-SP9.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/8c529962ce8ec47c98e30678c390b942b773c529/MIP55/MIP55c3-Subproposals/MIP55c3-SP9.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP9)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776)
 
