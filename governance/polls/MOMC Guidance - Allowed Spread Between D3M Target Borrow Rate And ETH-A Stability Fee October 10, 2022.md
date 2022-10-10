@@ -33,7 +33,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to the following options for the target spread for the D3M [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar):
 * Option 1 - 0.5% - implies `bar` of 2%, 90 million DAI exposure at 30% real supply cap, 680,000 DAI annual revenue.
 * Option 2 - 0% - implies `bar` of 1.5%, 105 million DAI exposure at 30% real supply cap, 730,000 DAI annual revenue.
 * Option 3 - Reject Options.
