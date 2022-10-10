@@ -1,6 +1,6 @@
 ---
 title: End DAI Funding for Sourcecred - October 10, 2022
-summary: Signal your support or opposition to GovAlpha ending DAI funding for Sourcecred.
+summary: Signal your support or opposition for GovAlpha ending DAI funding for Sourcecred.
 discussion_link: https://forum.makerdao.com/t/poll-notice-signal-support-for-ending-dai-funding-for-sourcecred/18204
 parameters:
     input_format: single-choice
