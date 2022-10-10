@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Offboarding the Real-world Finance Core Unit - RWF-001 (MIP39c3-SP5) - October 10, 2022
-summary: This subproposal offboards the Real-world Finance Core Unit (RWF-001).
+title: Ratification Poll for Offboarding the Real-World Finance Core Unit - RWF-001 (MIP39c3-SP5) - October 10, 2022
+summary: This subproposal offboards the Real-World Finance Core Unit (RWF-001).
 discussion_link: https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753
 parameters:
     input_format:
@@ -24,7 +24,7 @@ options:
 start_date: 2022-10-10T16:00:00
 end_date: 2022-10-24T16:00:00
 ---
-# Ratification Poll for Offboarding the Real-world Finance Core Unit - RWF-001 (MIP39c3-SP5) - October 10, 2022
+# Ratification Poll for Offboarding the Real-World Finance Core Unit - RWF-001 (MIP39c3-SP5) - October 10, 2022
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, October 10 at 16:00 UTC.
 
@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP39c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for the Real-world Finance Core Unit will be better aligned within a cluster of a MetaDAO. As a result, this Core Unit must be offboarded to support the transition."*
+*"MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for the Real-World Finance Core Unit will be better aligned within a cluster of a MetaDAO. As a result, this Core Unit must be offboarded to support the transition."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/55e70dc7ef318498574737faa4370a14471e267d/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md)
