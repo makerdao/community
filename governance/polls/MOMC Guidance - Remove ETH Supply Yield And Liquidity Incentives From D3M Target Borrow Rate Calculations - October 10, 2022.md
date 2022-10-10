@@ -1,6 +1,6 @@
 ---
 title: MOMC Guidance - Remove ETH Supply Yield And Liquidity Incentives From D3M Target Borrow Rate Calculations - October 10, 2022
-summary: Signal your support or opposition to $GenericChange.
+summary: Signal your support or opposition to removing ETH supply yield and liquidity incentives from D3M Target Borrow Rate calculations.
 discussion_link: https://forum.makerdao.com/t/signal-request-modify-d3m-guidance-for-momc/18069
 parameters:
     input_format: single-choice
