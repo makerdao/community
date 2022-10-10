@@ -15,7 +15,7 @@ options:
 start_date: 2022-10-10T16:00:00
 end_date: 2022-10-13T16:00:00
 ---
-# Whitelist Whitelist Oasis.app on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
+# Whitelist Oasis.app on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 10 at 16:00 UTC.
 
