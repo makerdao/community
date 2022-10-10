@@ -39,10 +39,10 @@ The community may vote in this poll to express support or opposition to MIP39c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for the Real-world Finance Core Unit will be better aligned within a cluster of a MetaDAO. As a result, this Core Unit must be offboarded to support the transition.*
+*"MakerDAO is restructuring the work and the workforce across the DAO according to the Endgame Plan. The mandate for the Real-world Finance Core Unit will be better aligned within a cluster of a MetaDAO. As a result, this Core Unit must be offboarded to support the transition."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/506b5e49bc94a228624f6c4a8e83b7004d38e12d/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/55e70dc7ef318498574737faa4370a14471e267d/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c3SP5)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753)
 
