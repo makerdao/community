@@ -51,6 +51,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c5-sp12-facilitator-offboarding-rwf-001/17332)
 
 Please note that, if both this subproposal and [MIP39c3-SP5](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) pass, the latter will have precedence, as specified in this subproposal.
+
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
@@ -60,6 +61,8 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
+
+**If the concurrent poll for [MIP39c3-SP5](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) this proposal will be obsolete as the RWF-001 Core Unit will be offboarded.**
 
 ---
 
