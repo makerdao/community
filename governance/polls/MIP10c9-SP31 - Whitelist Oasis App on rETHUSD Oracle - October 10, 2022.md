@@ -15,7 +15,7 @@ options:
 start_date: 2022-10-10T16:00:00
 end_date: 2022-10-13T16:00:00
 ---
-# Whitelist Whitelist Oasis App on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
+# Whitelist Whitelist Oasis.app on rETHUSD Oracle (MIP10c9-SP31) - October 10, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, October 10 at 16:00 UTC.
 
@@ -34,7 +34,7 @@ Please review the application [thread](https://forum.makerdao.com/t/mip10c9-sp31
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
-* This change will be included with the upcoming rETH onboarding vote, in absense of external factors.
+* This change will be included in the upcoming rETH onboarding vote, in the absence of external factors.
 * If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**  
