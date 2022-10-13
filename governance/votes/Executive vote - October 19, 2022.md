@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Enable DC-IAM for RWA-007-A (Monetalis Clydesdale), GUSD PSM Parameter Changes - October 13 , 2022
 summary: Enables the Debt Ceiling Instant Access Module for RWA-007-A, parameter changes for the GUSD PSM.
-date: 2022-10-19T00:00:00.000
+date: 2022-10-19T00:00:00.000Z
 address: "$spell_address"
 
 ---
