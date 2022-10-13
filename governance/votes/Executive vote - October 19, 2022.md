@@ -44,7 +44,7 @@ For more information on the DC-IAM, please see the documentation [here](https://
 
 ### GUSD PSM Parameter Changes
 
-As per this successful governance [poll](https://vote.makerdao.com/polling/QmYffkvR#vote-breakdown) the following parameter changes will be made to the GUSD PSM (PSM-GUSD-A) if this executive proposal passes:
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmYffkvR#vote-breakdown), the following parameter changes will be made to the GUSD PSM (PSM-GUSD-A) if this executive proposal passes:
 * Increase the [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 440 million DAI from 60 million DAI to **500 million DAI**.
 * Increase the [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 40 million DAI from 10 million DAI to **50 million DAI**.
 * Increase the [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) by 20 bps from 0 to **20 bps**.
