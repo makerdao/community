@@ -19,7 +19,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - Parameter changes for the GUSD PSM including raising the Maximum Debt Ceiling, raising the Target Available Debt, and raising the Fee Out, detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- A Debt Ceiling Instant Access Module with the parameters listed below will be added to the RWA-007-A Vault.
+- A Debt Ceiling Instant Access Module (DC-IAM) with the parameters listed below will be added to the RWA-007-A Vault.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
