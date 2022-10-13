@@ -33,7 +33,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Enable DC-IAM for RWA-007-A
 
-As per the [technical assessment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787) by the Collateral Engineering Services Core Unit (CES-001) for the approved [MIP65: Monetalis Clydesdale](https://mips.makerdao.com/mips/details/MIP65), a Debt Ceiling Instant Access Module (DC-IAM) will be added to RWA-007-A if this executive proposal passes.
+As per the [technical assessment](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787) by the Collateral Engineering Services Core Unit ([CES-001](https://mips.makerdao.com/mips/details/MIP39c2SP20)) for the approved [MIP65: Monetalis Clydesdale](https://mips.makerdao.com/mips/details/MIP65), a Debt Ceiling Instant Access Module (DC-IAM) will be added to RWA-007-A if this executive proposal passes.
 
 The DC-IAM parameters will be set as follows:
 * [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): **250 million DAI**.
