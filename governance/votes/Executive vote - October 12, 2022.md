@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Collateral Auction Parameter Changes, MOMC Parameter Adjustments, Recognized Delegate Compensation for September - October 12, 2022
+title: Template - [Executive Vote] Collateral Auction Parameter Changes, MOMC Parameter Adjustments, Recognized Delegate Compensation for September - October 14, 2022
 summary: Collateral Auction parameter changes as per the Risk Core Unit, parameter adjustments from the latest MOMC proposal, Recognized Delegate compensation for September.
-date: 2022-10-12T00:00:00.000Z
-address: "$spell_address"
+date: 2022-10-14T00:00:00.000Z
+address: "0xdfFa28aAABF9E6a07e19FDf3a9B94fDC93A039f1"
 
 ---
-# [Executive Proposal] Collateral Auction Parameter Changes, MOMC Parameter Adjustments, Recognized Delegate Compensation for September - October 12, 2022
+# [Executive Proposal] Collateral Auction Parameter Changes, MOMC Parameter Adjustments, Recognized Delegate Compensation for September - October 14, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
