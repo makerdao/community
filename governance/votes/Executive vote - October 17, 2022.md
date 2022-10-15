@@ -2,9 +2,9 @@
 title: Template - [Executive Vote] Collateral Auction Parameter Changes, MOMC Parameter Adjustments - October 17, 2022
 summary: Collateral Auction parameter changes as per the Risk Core Unit, parameter adjustments from the latest MOMC proposal.
 date: 2022-10-17T00:00:00.000Z
-address: "$spell_address"
-
+address: "0xEC8Ce9e03C9E9fdf5Ea051c9c98880b6699e24cc"
 ---
+
 # [Executive Proposal] Collateral Auction Parameter Changes, MOMC Parameter Adjustments - October 17, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. GSUp Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
@@ -16,6 +16,7 @@ If you are new to voting in the GSU Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+
 - Multiple Collateral Auction Risk Parameters will be changed, as detailed below.
 - Parameter adjustments from the [latest proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-september-2022/18143) from the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) proposal, as detailed below.
 
@@ -37,75 +38,75 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmREb
 
 The following collateral types will have their `buf` reduced by 0.1 from 1.2 to **1.1**:
 
-* ETH-A
-* ETH-B
-* ETH-C
-* WBTC-A
-* WBTC-B
-* WBTC-C
+- ETH-A
+- ETH-B
+- ETH-C
+- WBTC-A
+- WBTC-B
+- WBTC-C
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
-*The effect of these changes is a shorter average settlement duration:*
+_The effect of these changes is a shorter average settlement duration:_
 
-* *From about 28 minutes to 15 minutes for (st)ETH and WBTC high-to-mid liquidation ratio vault types*.
-* *From about 19 minutes to 10 minutes for ETH and WBTC low liquidation ratio vault types*.
-* *From about 40 minutes to 27 minutes for "tier two" vaults (higher volatility and lower liquidity collateral)*.
+- _From about 28 minutes to 15 minutes for (st)ETH and WBTC high-to-mid liquidation ratio vault types_.
+- _From about 19 minutes to 10 minutes for ETH and WBTC low liquidation ratio vault types_.
+- _From about 40 minutes to 27 minutes for "tier two" vaults (higher volatility and lower liquidity collateral)_.
 
 #### [Max Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown) Changes
 
 The following collateral types will have their `cusp` increased by 0.05, from 0.4 to **0.45**:
 
-* ETH-A
-* ETH-B
-* ETH-C
-* WBTC-A
-* WBTC-B
-* WBTC-C
+- ETH-A
+- ETH-B
+- ETH-C
+- WBTC-A
+- WBTC-B
+- WBTC-C
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
-*The intention of these changes is to keep a similar price drawdown reset threshold as it is now: at about 0.5 of OSM price.*
+_The intention of these changes is to keep a similar price drawdown reset threshold as it is now: at about 0.5 of OSM price._
 
 #### [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) Changes
 
 The following collateral types will have their `tail` decreased by 1,200 seconds, from 8,400 seconds to **7,200 seconds**:
 
-* ETH-A
-* ETH-C
-* WBTC-A
+- ETH-A
+- ETH-C
+- WBTC-A
 
 The following collateral type will have its `tail` decreased by 600 seconds, from 5,400 seconds to **4,800 seconds**:
 
-* WBTC-B
+- WBTC-B
 
 The following collateral type will have its `tail` increased by 1,800 seconds, from 5,400 seconds to **7,200 seconds**:
 
-* WBTC-C
+- WBTC-C
 
 The following collateral type will have its `tail` decreased by 3,600 seconds, from 8,400 seconds to **4,800 seconds**:
 
-* ETH-B
+- ETH-B
 
 **Note:** there is a discrepancy between the current value in the [poll](https://vote.makerdao.com/polling/QmREbu1j#poll-detail) and the current value listed here for ETH-B. Please see this [forum post](https://forum.makerdao.com/t/notice-2022-10-12-executive-vote-inclusion-update/18281).
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
-*The intention of these changes is to satisfy the condition of keeping maximum duration until the auction price reaches about 50% of OSM.*
+_The intention of these changes is to satisfy the condition of keeping maximum duration until the auction price reaches about 50% of OSM._
 
 #### [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) Changes
 
 The following `ilk.hole` changes will be made:
 
-* Decrease the ETH-A `ilk.hole` from 65,000,000 DAI to **40,000,000 DAI**.
-* Decrease the ETH-B `ilk.hole` from 30,000,000 DAI to **15,000,000 DAI**.
-* Decrease the WBTC-A `ilk.hole` from 40,000,000 DAI to **30,000,000 DAI**.
-* Decrease the WBTC-B `ilk.hole` from 25,000,000 DAI to **10,000,000 DAI**.
-* Decrease the WBTC-C `ilk.hole` from 25,000,000 DAI to **20,000,000 DAI**.
+- Decrease the ETH-A `ilk.hole` from 65,000,000 DAI to **40,000,000 DAI**.
+- Decrease the ETH-B `ilk.hole` from 30,000,000 DAI to **15,000,000 DAI**.
+- Decrease the WBTC-A `ilk.hole` from 40,000,000 DAI to **30,000,000 DAI**.
+- Decrease the WBTC-B `ilk.hole` from 25,000,000 DAI to **10,000,000 DAI**.
+- Decrease the WBTC-C `ilk.hole` from 25,000,000 DAI to **20,000,000 DAI**.
 
 **Note:** The Risk Core Unit summarizes these changes as follows:
 
-*Because faster auction cycles are being proposed, about 50% more collateral should get settled per unit of time.*
+_Because faster auction cycles are being proposed, about 50% more collateral should get settled per unit of time._
 
 #### [Global Liquidation Limit (`Hole`)](https://manual.makerdao.com/parameter-index/core/param-global-liquidation-limit) Change
 
@@ -113,18 +114,18 @@ The `Hole` will be reduced by 30,000,000 DAI from 100,000,000 DAI to **70,000,00
 
 **Note:** The Risk Core Unit summarizes this change as follows:
 
-*This corresponds to a general increase in auction throughput due to shorter auction cycles.*
+_This corresponds to a general increase in auction throughput due to shorter auction cycles._
 
 #### [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) Changes
 
 The following collateral types will have their `tip` decreased by 50 DAI from 300 DAI to **250 DAI**:
 
-* ETH-A
-* ETH-B
-* ETH-C
-* WBTC-A
-* WBTC-B
-* WBTC-C
+- ETH-A
+- ETH-B
+- ETH-C
+- WBTC-A
+- WBTC-B
+- WBTC-C
 
 ## Review
 

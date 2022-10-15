@@ -1,8 +1,8 @@
 {
   "mainnet": [
-    "https://raw.githubusercontent.com/block360/community/mueed/governance/votes/Executive%20vote%20-%20June%2018%2C%202021.md"
+    "https://raw.githubusercontent.com/block360/community/master/governance/votes/Executive%20vote%20-%20October%2017%2C%202022.md"
   ],
   "goerli": [
-    "https://raw.githubusercontent.com/block360/community/mueed/governance/votes/Executive%20vote%20-%20June%2018%2C%202021.md"
+    "https://raw.githubusercontent.com/block360/community/master/governance/votes/Executive%20vote%20-%20October%2017%2C%202022.md"
   ]
 }
