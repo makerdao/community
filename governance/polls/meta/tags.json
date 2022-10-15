@@ -232,12 +232,20 @@
     "precedence": 27
   },
   {
+    "id": "endgame",
+    "shortname": "Endgame",
+    "longname": "Endgame",
+    "recommend_ui": true,
+    "description": "Polls related to the Endgame Plan",
+    "precedence": 28
+  },
+  {
     "id": "black-thursday",
     "shortname": "Black Thu",
     "longname": "Black Thursday",
     "recommend_ui": true,
     "description": "Polls relating to Black Thursday",
-    "precedence": 28
+    "precedence": 29
   },
   {
     "id": "inclusion",
@@ -246,7 +254,7 @@
     "recommend_ui": false,
     "description": "Inclusion Polls as defined in MIP3 (obsolete)",
     "related_link": "https://mips.makerdao.com/mips/details/MIP3",
-    "precedence": 29
+    "precedence": 30
   },
   {
     "id": "mcd-launch",
@@ -254,7 +262,7 @@
     "longname": "Multi-Collateral DAI Launch",
     "recommend_ui": false,
     "description": "Polls relating to the launch of Multi-Collateral DAI",
-    "precedence": 30
+    "precedence": 31
   },
   {
     "id": "prioritization-sentiment",
@@ -262,6 +270,6 @@
     "longname": "Prioritization Sentiment",
     "recommend_ui": true,
     "description": "Polls that seek input on prioritization sentiment from MKR holders",
-    "precedence": 31
+    "precedence": 32
   }
 ]

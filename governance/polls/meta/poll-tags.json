@@ -1,14 +1,6 @@
 {
-  "4": [
-    "greenlight"
-  ],
-  "5": [
-    "Governance"
-  ],
-  "6": [
-    "risk-parameter"
-  ],
-  "7": [
-    "greenlight"
-  ]
+  "4": ["greenlight"],
+  "5": ["Governance"],
+  "6": ["risk-parameter"],
+  "7": ["greenlight"]
 }
