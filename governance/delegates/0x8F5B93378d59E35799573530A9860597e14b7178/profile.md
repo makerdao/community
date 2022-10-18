@@ -1,6 +1,6 @@
 ---
 name: CalBlockchain
-external_profile_url: TBD
+external_profile_url: 
 tags:
   - academia
   - decentralization
@@ -35,7 +35,7 @@ We believe that a fast-growing protocol needs a diverse team of delegates and co
 
 We have a track record of creating quality proposals and actively voting on Uniswap, Aave, etc. We created proposal about lowering the minimum proposing threshold on Compound to increase equity and inclusivity for proposal creation (https://compound.finance/governance/proposals/89). For more about our justifications for our governance votes, we can check our Twitter @CalBlockchain. 
 
-Blockchain at Berkeley has departments including consulting for leading web3 projects, blockchain education on edX, blockchain accelerator program, and research. Our governance department is in charge of protocol research and voting and. We dedicate at least one lead to each protocol and include all governance member to make decisions on all proposals. The governance department meets weekly to discuss the latest updates and presents analysis on proposals and we ensure voices of all members are considered before making a decision. The voting process within the department is democratic to balance knowledge from seasoned members and thoughts from younger members. Our governance initiatives include: 
+Blockchain at Berkeley has departments including consulting for leading web3 projects, blockchain education on edX, blockchain accelerator program, and research. We dedicate at least one lead to each protocol and include all governance member to make decisions on all proposals. The governance department meets weekly to discuss the latest updates and presents analysis on proposals and we ensure voices of all members are considered before making a decision. The voting process within the department is democratic to balance knowledge from seasoned members and thoughts from younger members. Our governance initiatives include: 
 
 - actively engaging in the governance forum to monitor latest protocol changes and risk management
 - creating proposals when we believe an update in the protocol mechanism is needed to better serve Maker
