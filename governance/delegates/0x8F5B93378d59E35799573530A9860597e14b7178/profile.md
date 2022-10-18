@@ -1,6 +1,6 @@
 ---
 name: CalBlockchain
-external_profile_url: 
+external_profile_url: https://forum.makerdao.com/t/calblockchain-delegate-platform/18407
 tags:
   - academia
   - decentralization
@@ -33,7 +33,7 @@ Blockchain at Berkeley is a student organization at UC Berkeley that has been fo
 
 We believe that a fast-growing protocol needs a diverse team of delegates and continuous nourishment of the next generation of designers and developers. Blockchain at Berkeley is in a perfect position to supply talents from the student community to study the latest updates on Maker, and foster engagement to introduce learners to Maker. We want to provide student perspectives to analyze the Maker protocol in a non-partisan and forward-thinking manner, and we aim to make arguments with quantitative justifications on treasury, user experience, risk, etc. 
 
-We have a track record of creating quality proposals and actively voting on Uniswap, Aave, etc. We created proposal about lowering the minimum proposing threshold on Compound to increase equity and inclusivity for proposal creation (https://compound.finance/governance/proposals/89). For more about our justifications for our governance votes, please check our Twitter @CalBlockchain. 
+We have a track record of creating quality proposals and actively voting on Uniswap, Aave, etc. We created proposal about lowering the minimum proposing threshold on Compound to increase equity and inclusivity for proposal creation (https://compound.finance/governance/proposals/89). For more about our justifications for past governance votes, please check our Twitter @CalBlockchain. 
 
 Blockchain at Berkeley has departments including consulting for leading web3 projects, blockchain education on edX, blockchain accelerator program, and research. We dedicate at least one lead to each protocol and include all governance member to make decisions on all proposals. The governance department meets weekly to discuss the latest updates and presents analysis on proposals. We ensure voices of all members are considered before making a decision. The voting process within the department is democratic to balance knowledge from seasoned members and thoughts from younger members. Our governance initiatives include: 
 
