@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
-summary: Onboarding rETH with 0 Debt Ceiling, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet Teleport.
+summary: Onboarding rETH with 0 Debt Ceiling, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet DAI Bridge.
 date: 2022-10-26T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
+# [Executive Proposal] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Bridge Fees - October 26, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -42,9 +42,9 @@ As per the outcome of this [governance poll](https://vote.makerdao.com/polling/Q
 
 Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread]([://](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195)) to inform your position on this issue before voting.
 
-### Enable Starknet Fees
+### Enable Starknet DAI Bridge Fees
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmbWkTvW#vote-breakdown), the ability to charge fees will be enabled on Starknet Teleport if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmbWkTvW#vote-breakdown), the ability to charge fees will be enabled on Starknet DAI Bridge if this executive proposal passes.
 
 The technical changes to enable this fee have been explained in [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468), for more information on the fee mechanism, please see this [documentation](https://docs.starknet.io/documentation/develop/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
@@ -61,7 +61,6 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 * [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 0 million DAI
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 3 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
-
 
 **Liquidation Parameters**
 
