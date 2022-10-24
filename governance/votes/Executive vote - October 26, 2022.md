@@ -44,7 +44,7 @@ Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [for
 
 ### Enable Starknet Fees
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmbWkTvW#vote-breakdown), the ability to charge fees will enabled on Starknet Teleport if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmbWkTvW#vote-breakdown), the ability to charge fees will be enabled on Starknet Teleport if this executive proposal passes.
 
 The technical changes to enable this fee have been explained in [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468), for more information on the fee mechanism, please see this [documentation](https://docs.starknet.io/documentation/develop/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
