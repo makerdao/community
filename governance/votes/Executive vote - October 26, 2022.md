@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
-summary: Onboarding rETH with 0 Debt Ceiling, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet DAI Bridge.
+summary: Onboarding rETH with 0 Debt Ceiling, whitelist Oasis.app on rETH/USD oracle, and add a fee structure to the Starknet DAI Bridge.
 date: 2022-10-26T00:00:00.000Z
 address: "$spell_address"
 
