@@ -20,7 +20,8 @@ If this executive proposal passes, the following **changes** will occur within t
 - The fee mechanism on the Starknet DAI bridge will be enabled, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- The rETH-A vault type will be onboarded to the Maker Protocol with the parameters below.
+- The rETH-A vault type will be onboarded to the Maker Protocol with the parameters below. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
+
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
@@ -57,7 +58,7 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 * [Stability Fee](https://community-development.makerdao.com/en/learn/governance/param-stability-fee): 1.5%
 * [Liquidation Ratio](https://community-development.makerdao.com/en/learn/governance/param-liquidation-ratio): 170%
 * [Debt Floor (`dust`)](https://community-development.makerdao.com/en/learn/governance/param-debt-floor): 15000 DAI
-* [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 5 million DAI
+* [Maximum Debt Ceiling (`line`)](https://makerdao.world/en/learn/governance/module-dciam): 0 million DAI
 * [Target Available Debt (`gap`)](https://makerdao.world/en/learn/governance/module-dciam): 3 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://makerdao.world/en/learn/governance/module-dciam): 8 hours
 
