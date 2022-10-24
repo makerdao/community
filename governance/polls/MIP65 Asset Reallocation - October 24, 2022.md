@@ -1,6 +1,6 @@
 ---
 title: MIP65 Asset Reallocation - October 24, 2022 
-summary: Signal your support or opposition to reallocating 250M DAI in Monetalis Clydesdale (MIP65) to ISIN IE00BGSF1X88 - 0-1y US Treasury ishares/Blackrock ETF.
+summary: Signal your support or opposition to reallocating 250M DAI in Monetalis Clydesdale (MIP65) to ISIN IE00BGSF1X88 - 0-1y US Treasury ishares-Blackrock ETF.
 discussion_link: https://forum.makerdao.com/t/signal-request-mip65-asset-reallocation/18295
 parameters:
     input_format: single-choice
