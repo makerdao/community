@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Oasis.app will be whitelisted on the rETH/USD oracle as detailed below.
-- Enable the fee mechanism on the Starknet DAI bridge, as detailed below.
+- The fee mechanism on the Starknet DAI bridge will be enabled, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - The rETH-A vault type will be onboarded to the Maker Protocol with the parameters below.
