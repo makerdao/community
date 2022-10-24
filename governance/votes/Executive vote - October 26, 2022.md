@@ -52,7 +52,7 @@ The technical changes to enable this fee have been explained in [this post](http
 
 As per the successful outcome of these governance polls [1](https://vote.makerdao.com/polling/QmfMswF2#poll-detail), [2](https://vote.makerdao.com/polling/QmS7dBuQ#poll-detail), rETH will be onboarded with the parameters listed below if this executive proposal passes. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
 
-**Collateral Parameters**
+#### Collateral Parameters
 
 * Underlying Collateral: **Rocket Pool ETH (rETH)**
 * Ilk Name: **rETH-A**
@@ -63,7 +63,7 @@ As per the successful outcome of these governance polls [1](https://vote.makerda
 * [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): **3 million DAI**
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **8 hours**
 
-**Liquidation Parameters**
+#### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function): **Stairstep Exponential**
 * [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#cut): **0.99**
@@ -71,14 +71,14 @@ As per the successful outcome of these governance polls [1](https://vote.makerda
 * [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier): **1.1**
 * [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): **13%**
 
-**Liquidation Limits**
+#### Liquidation Limits
 
 * [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit): **2 million DAI**
 * [Maximum Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown): **0.45**
 * [Maximum Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration): **120 minutes**
 * [Breaker Price Tolerance (`tolerance`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-breaker-price-tolerance): **0.5**
 
-**Liquidation Incentives**
+#### Liquidation Incentives
 
 * [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): **0.1%**
 * [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): **250 DAI**
