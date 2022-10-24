@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] rETH Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
 summary: Onboarding rETH, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet Teleport.
 date: 2022-10-26T00:00:00.000Z
-address: 
+address: "$spell_address"
 
 ---
 # [Executive Proposal] rETH Onboarding, Oracle Whitelist Additions, Starknet Housekeeping - October 26, 2022
