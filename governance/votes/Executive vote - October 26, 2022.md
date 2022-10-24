@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Bridge Fees - October 26, 2022
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s), Protocol Engineering Core Unit, Collateral Engineering Services Core Unit, and the Starknet Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
