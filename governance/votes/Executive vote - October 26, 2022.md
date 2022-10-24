@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] rETH Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
+title: Template - [Executive Vote] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
 summary: Onboarding rETH, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet Teleport.
 date: 2022-10-26T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] rETH Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
+# [Executive Proposal] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -48,9 +48,9 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 
 The technical changes to enable this fee have been explained in [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468), for more information on the fee mechanism, please see this [documentation](https://docs.starknet.io/documentation/develop/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
-### rETH-A Vault Type Onboarding
+### rETH-A Technical Vault Type Onboarding
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmS7dBuQ#poll-detail), rETH will be onboarded with the parameters listed below if this executive proposal passes.
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmS7dBuQ#poll-detail), rETH will be onboarded with the parameters listed below if this executive proposal passes. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
 
 **Collateral Parameters**
 
