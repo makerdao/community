@@ -54,7 +54,8 @@ As per the successful outcome of these governance polls [1](https://vote.makerda
 
 **Collateral Parameters**
 
-* Underlying Collateral: Rocket Pool ETH (rETH)
+* Underlying Collateral: **Rocket Pool ETH (rETH)**
+* Ilk Name: **rETH-A**
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): **1.5%**
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): **170%**
 * [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): **15000 DAI**
