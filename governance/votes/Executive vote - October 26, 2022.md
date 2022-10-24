@@ -85,6 +85,7 @@ As per the successful outcome of this [governance poll](https://vote.makerdao.co
 Please review the following forum threads containing information about rETH to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/reth-mip6-collateral-application/6881)
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/reth-collateral-onboarding-risk-evaluation/15286)
+* [Updated Risk Core Unit Evaluation](https://forum.makerdao.com/t/reth-collateral-onboarding-risk-evaluation-update/18071)
 * [Smart Contract Technical Assessment](https://forum.makerdao.com/t/reth-erc20-token-smart-contract-technical-assessment/12885)
 * [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/mip10c3-sp22-proposal-reth-oracle-collateral-onboarding-oracle-assessment/15564)
 
