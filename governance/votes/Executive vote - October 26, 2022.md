@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] rETH Onboarding, Oracle Whitelist Additions - October 26, 2022
-summary: Onboarding rETH, and whitelist Oasis.app on rETH/USD oracle.
+title: Template - [Executive Vote] rETH Onboarding, Oracle Whitelist Additions, Enable Starknet Fees - October 26, 2022
+summary: Onboarding rETH, whitelist Oasis.app on rETH/USD oracle, ad add fee structure to Starknet Teleport.
 date: 2022-10-26T00:00:00.000Z
 address: 
 
 ---
-# [Executive Proposal] rETH Onboarding, Oracle Whitelist Addition - October 26, 2022
+# [Executive Proposal] rETH Onboarding, Oracle Whitelist Additions, Starknet Housekeeping - October 26, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -17,6 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Oasis.app will be whitelisted on the rETH/USD oracle as detailed below.
+- Enable the fee mechanism on the Starknet DAI bridge, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - The rETH-A vault type will be onboarded to the Maker Protocol with the parameters below.
@@ -39,6 +40,12 @@ As per the outcome of this [governance poll](https://vote.makerdao.com/polling/Q
 * rETH/USD
 
 Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread]([://](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195)) to inform your position on this issue before voting.
+
+### Enable Starknet Fees
+
+As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmbWkTvW#vote-breakdown), the 1 basis point fee will be enabled on Starknet Teleport if this executive proposal passes.
+
+The technical changes to enable this fee have been explained in [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468), for more information on the fee mechanism, please see this [documentation](https://docs.starknet.io/documentation/develop/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
 ### rETH-A Vault Type Onboarding
 
