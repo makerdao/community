@@ -20,7 +20,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The fee mechanism on the Starknet DAI bridge will be enabled, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- The rETH-A vault type will be onboarded to the Maker Protocol with the parameters below. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
+- The technical work for onboarding the rETH-A vault type will be completed with the parameters below. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
