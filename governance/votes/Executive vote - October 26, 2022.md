@@ -50,7 +50,7 @@ The technical changes to enable this fee have been explained in [this post](http
 
 ### rETH-A Technical Vault Type Onboarding
 
-As per the successful outcome of this [governance poll](https://vote.makerdao.com/polling/QmS7dBuQ#poll-detail), rETH will be onboarded with the parameters listed below if this executive proposal passes. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
+As per the successful outcome of these governance polls [1](https://vote.makerdao.com/polling/QmfMswF2#poll-detail), [2](https://vote.makerdao.com/polling/QmS7dBuQ#poll-detail), rETH will be onboarded with the parameters listed below if this executive proposal passes. Please note the [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to 0 until the [Oracles Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP13) is ready to support the asset.
 
 **Collateral Parameters**
 
