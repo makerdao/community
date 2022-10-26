@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] rETH Technical Onboarding, Enable Starknet DAI Bridge Fees - October 26, 2022
 summary: Onboarding rETH with 0 Debt Ceiling and add a fee structure to the Starknet DAI Bridge.
 date: 2022-10-26T00:00:00.000Z
-address: "$spell_address"
+address: "0x4124b7a881DBBF98D72474D1A882d3afE3758526"
 
 ---
 # [Executive Proposal] rETH Technical Onboarding, Enable Starknet Bridge Fees - October 26, 2022
