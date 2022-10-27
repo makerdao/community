@@ -13,11 +13,11 @@ tags:
 ### Key Info
 
 **Delegate Address:** ConsenSysGovernance.eth (0xE78658A8acfE982Fde841abb008e57e6545e38b3)  
-**Delegate Contract:** 0x40f784B16b2D405eFD4E9eB7d0663398D7d886FB
+**Delegate Contract:** 0x40f784B16b2D405eFD4E9eB7d0663398D7d886FB  
 **Forum:** @DAOstrat.C  
 **Discord:** @DAOstrat.C#6952  
-**Telegram:** @DAOstrat
-**Email:** Cameron.ODonnell@consensys.net 
+**Telegram:** @DAOstrat  
+**Email:** Cameron.ODonnell@consensys.net  
 **External Website:** https://consensys.net/solutions/daos-and-web3-governance/  
 **Meet Your Delegate Video:** https://www.youtube.com/watch?v=axEO50fMujs  
 
