@@ -1,5 +1,5 @@
 ---
-name: Doo
+name: StableNode
 external_profile_url:
 tags:
   - pragmatism
@@ -9,11 +9,11 @@ tags:
 
 **Key Info**
 
-Name: Doo
+Name: StableNode
 
 Delegate Address: 0x8804d391472126dA56b9a560AEf6C6d5AAA7607B
 
-Forum: [@Doo_Nam](https://forum.makerdao.com/u/doo_nam)
+Forum: [@Doo_StableNode](https://forum.makerdao.com/u/doo_nam)
 
 Discord: Doo#3219
 
