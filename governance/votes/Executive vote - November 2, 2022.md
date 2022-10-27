@@ -72,10 +72,10 @@ Please review [MIP39](https://mips.makerdao.com/mips/details/MIP39) for details 
 As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZzFPFs#vote-breakdown), [Oasis.app](https://oasis.app/) will be whitelisted on the following OSM Oracle if this executive proposal passes:
 * rETH/USD
 
-Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread]([://](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195)) to inform your position on this issue before voting.
+Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195) to inform your position on this issue before voting.
 
 ### BlockTower Legal and Risk Work SPF
-As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to **insert address of multisig** to support onboarding BlockTower Credit as a RWA Arranger, if this executive proposal passes.
+As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to $multi-sig_address to support onboarding BlockTower Credit as a RWA Arranger, if this executive proposal passes.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776) to inform your position on this issue before voting.
 
