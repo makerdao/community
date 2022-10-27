@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Maker Teleport Deployment on Starknet, Offboarded Core Units Golden Parachute Budgets and Yanking Streams, and BlockTower SPF Funding - November 02, 2022
-summary: Maker Teleport Technical Deployment on Starknet, Golden Parachute MKR and DAI budget transfers for EVENTS-001, SH-001, and RWF-001, yank MKR and Dai budget streams for EVENTS-001, SH-001, and RWF-001, and BlockTower Legal Work and Risk Work SPF Funding. 
+title: Template - [Executive Vote] Maker Teleport Deployment on Starknet, Offboarded Core Units Budgets and Streams, Oracle Whitelist Additions, and BlockTower SPF Funding - November 02, 2022
+summary: Maker Teleport Technical Deployment on Starknet, Golden Parachute MKR and DAI budget transfers for EVENTS-001, SH-001, and RWF-001, yank MKR and DAI budget streams for EVENTS-001, SH-001, and RWF-001, whitelist Oasis.app on rETH/USD oracle, and BlockTower Legal Work and Risk Work SPF Funding. 
 date: 2022-11-02T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Maker Teleport Deployment on Starknet, Offboarded Core Units Golden Parachute Budgets and Yanking Streams, and BlockTower SPF Funding - November 02, 2022
+# [Executive Proposal] Maker Teleport Deployment on Starknet, Offboarded Core Units Budgets and Streams, Oracle Whitelist Additions, and BlockTower SPF Funding - November 02, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,15 +16,16 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The Teleport-FWA Debt Ceiling will be increased by **1 million DAI** to **3 million DAI**.
+- The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by **1 million DAI** to **3 million DAI**.
 - A total of **210,998 DAI** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes.
 - A total of **169.5 MKR** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes.
-- DAI streams for various now offboarded will be yanked, as detailed below.
+- DAI streams for various now offboarded will be yanked.
 - The MKR stream for the now offboarded [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) will be yanked.
-- **258,000 DAI** will be transferred to the BlockTower Legal and Risk Work SPF multisig as a result of the successful [Special Purpose Fund (SPF) application](https://vote.makerdao.com/polling/QmcV2pMZ#vote-breakdown).
+- [Oasis.app](https://oasis.app) will be whitelisted on the rETH/USD oracle.
+- **258,000 DAI** will be transferred to the BlockTower Legal and Risk Work SPF multi-sig as a result of the successful [Special Purpose Fund (SPF) application](https://vote.makerdao.com/polling/QmcV2pMZ#vote-breakdown).
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Maker Teleport will be deployed with **1 Basis Point** fee, a **1000 DAI** Deposit Limit, and **1M DAI** Debt Ceiling on Starknet
+- Maker Teleport will be deployed with **1 Basis Point** fee, a **1000 DAI** Deposit Limit, and **1 million DAI** Debt Ceiling on [Starknet](https://starkware.co/starknet/).
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -37,10 +38,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ## Proposal Details
 
 ### Maker Teleport Technical Deployment on Starknet
-As per the outcome of this [Governance Poll](https://vote.makerdao.com/polling/QmbWkTvW), the technical deployment of Maker Teleport on Starknet will proceed if this executive passes. The Maker Teleport parameters will be changed or set as follows:
-* The Starknet Teleport Fee parameter will be raised from 0 to **1 Basis Point**.
+As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes. The Maker Teleport parameters will be set as follows:
+* The Starknet Teleport Fee parameter will be set to **1 Basis Point**.
 * The Deposit Limit will be set to **1000 DAI**.
-* The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **1M DAI**.
+* The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **1 million DAI**.
 
 Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on  Starknet parameters to inform your position on this issue before voting.
 
@@ -64,10 +65,17 @@ As per multiple successful offboarding proposals (linked below), a total of **21
 * **26.04 MKR** will be transferred to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) at 0xc657aC882Fb2D6CcF521801da39e910F8519508d as a result of a successful [offboarding proposal](https://mips.makerdao.com/mips/details/MIP39c3SP3).
 * **143.46 MKR** will be transferred to the [Real-World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) at 0xD1505ee500791490DE8642353BA6A5b92e3550F7 as a result of a successful [offboarding proposal](https://mips.makerdao.com/mips/details/MIP39c3SP5).
 
-Please review [MIP39](https://mips.makerdao.com/mips/details/MIP39) for details on offboarding Core Units and the forum threads discussing the [offboarding of the Events Core Unit](https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755), the [offboarding of the Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754), and the [offboarding of the Real-World Finance Core Unit](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) to inform your position on this issue before voting. 
+Please review [MIP39](https://mips.makerdao.com/mips/details/MIP39) for details on offboarding Core Units and the forum threads discussing the [offboarding of the Events Core Unit](https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755), the [offboarding of the Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754), and the [offboarding of the Real-World Finance Core Unit](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) to inform your position on this issue before voting.
+
+### Oasis.app Whitelist
+
+As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZzFPFs#vote-breakdown), [Oasis.app](https://oasis.app/) will be whitelisted on the following OSM Oracle if this executive proposal passes:
+* rETH/USD
+
+Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread]([://](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195)) to inform your position on this issue before voting.
 
 ### BlockTower Legal and Risk Work SPF
-As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to 0x... to support onboarding BlockTower Credit as a RWA Arranger, if this executive proposal passes.
+As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to **insert address of multisig** to support onboarding BlockTower Credit as a RWA Arranger, if this executive proposal passes.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776) to inform your position on this issue before voting.
 
