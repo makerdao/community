@@ -9,17 +9,15 @@ tags:
   - community
 ---
 
-### Blockchain at Berkeley Delegate Profile
+# CalBlockchain 
 
-Delegate Address: 0x7ae109a63ff4dc852e063a673b40bed85d22e585
+## Blockchain at Berkeley Delegate Profile
 
-ENS: calblockchain.eth
-
-Email: governance@blockchain.berkeley.edu
-
-External Website (optional): [https://blockchain.berkeley.edu/](https://blockchain.berkeley.edu/)
-
-Delegation Contract: 0x8F5B93378d59E35799573530A9860597e14b7178
+Delegate Address: 0x7ae109a63ff4dc852e063a673b40bed85d22e585  
+ENS: calblockchain.eth  
+Email: governance@blockchain.berkeley.edu  
+External Website (optional): [https://blockchain.berkeley.edu/](https://blockchain.berkeley.edu/)  
+Delegation Contract: 0x8F5B93378d59E35799573530A9860597e14b7178  
 
 ### Core Values
 
