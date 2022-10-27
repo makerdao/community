@@ -1,7 +1,7 @@
 ---
-combined_participation: 94.44%
-poll_participation: 93.02%
-exec_participation: 100%
-communication: 96.00%
+combined_participation: 95.77%
+poll_participation: 94.83%
+exec_participation: 92.86%
+communication: 96.92%
 start_date: 2022-06-30T00:00:00.000Z
 ---
