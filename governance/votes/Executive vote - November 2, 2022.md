@@ -58,7 +58,6 @@ When a token stream is `yank`ed, it will prevent new tokens from accruing to the
 
 Please review [MIP39](https://mips.makerdao.com/mips/details/MIP39) for details on offboarding Core Units, the forum thread discussing the [next steps](https://forum.makerdao.com/t/executive-vote-cu-offboarding-next-steps/18522), and the forum threads discussing the [offboarding of the Events Core Unit](https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755), the [offboarding of the Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754), and the [offboarding of the Real-World Finance Core Unit](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) to inform your position on this issue before voting.
 
-
 ### Offboarded Core Units - DAI Golden Parachute Budget Transfers
 
 As per multiple successful offboarding proposals (linked below), a total of **210,998 DAI** and **169.5 MKR** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes if this executive proposal passes.
@@ -82,6 +81,7 @@ As per the outcome of this [governance poll](https://vote.makerdao.com/polling/Q
 Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195) to inform your position on this issue before voting.
 
 ### BlockTower Legal and Risk Work SPF
+
 As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to [0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9](https://etherscan.io/address/0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9) to support legal and risk work related to the onboarding of BlockTower Credit as a RWA Arranger, if this executive proposal passes.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776) to inform your position on this issue before voting.
