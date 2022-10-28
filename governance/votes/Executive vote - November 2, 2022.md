@@ -42,7 +42,6 @@ As per the outcome of successful Governance Polls [here](https://vote.makerdao.c
 
 The Maker Teleport parameters will be set as follows:
 * The Starknet Teleport Fee parameter will be set to **1 Basis Point**.
-* The Deposit Limit will be set to **1000 DAI**.
 * The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **1 million DAI**.
 
 Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on  Starknet parameters to inform your position on this issue before voting.
