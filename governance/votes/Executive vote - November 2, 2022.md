@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by **1 million DAI** to **3 million DAI**.
+- The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased, as detailed below.
 - A total of **210,998 DAI** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes.
 - A total of **169.5 MKR** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes.
 - DAI streams for various now offboarded will be yanked.
