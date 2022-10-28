@@ -5,7 +5,7 @@ date: 2022-11-02T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Maker Teleport Deployment on Starknet, Offboarded Core Units Budgets and Streams, Oracle Whitelist Additions, and BlockTower SPF Funding - November 02, 2022
+# [Executive Proposal] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, and SPF Funding - November 02, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
