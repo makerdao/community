@@ -86,7 +86,7 @@ Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [for
 
 ### BlockTower Legal and Risk Work SPF
 
-As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to [0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9](https://etherscan.io/address/0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9) to support legal and risk work related to the onboarding of BlockTower Credit as a RWA Arranger, if this executive proposal passes.
+As per this [Governance Poll](https://vote.makerdao.com/polling/QmcV2pMZ), **258,000 DAI** will be transferred to [0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9](https://etherscan.io/address/0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9) to support legal and risk work related to the onboarding of BlockTower Credit as a Real World Asset Arranger, if this executive proposal passes.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776) to inform your position on this issue before voting.
 
