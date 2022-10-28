@@ -15,7 +15,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
+- The technical deployment of Maker Teleport on [Starknet](https://starkware.co/starknet/) will take place, as detailed below.
 - The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased, as detailed below.
 - A total of **210,998 DAI**, itemized below, will be transferred to two offboarded Core Units as part of their respective Golden Parachutes.
 - A total of **169.5 MKR**, itemized below, will be transferred to two offboarded Core Units as part of their respective Golden Parachutes.
@@ -23,9 +24,6 @@ If this executive proposal passes, the following **changes** will occur within t
 - The MKR stream to the now offboarded [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) will be cancelled, as detailed below.
 - [Oasis.app](https://oasis.app) will be whitelisted on the rETH/USD oracle, as detailed below.
 - **258,000 DAI** will be transferred to the BlockTower Legal and Risk Work SPF multi-sig as a result of the successful [Special Purpose Fund (SPF) application](https://vote.makerdao.com/polling/QmcV2pMZ#vote-breakdown), as detailed below.
-
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- The technical deployment of Maker Teleport on [Starknet](https://starkware.co/starknet/) will take place, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
