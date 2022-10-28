@@ -38,7 +38,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ## Proposal Details
 
 ### Maker Teleport Technical Deployment on Starknet
-As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes. The Maker Teleport parameters will be set as follows:
+As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes.
+
+The Maker Teleport parameters will be set as follows:
 * The Starknet Teleport Fee parameter will be set to **1 Basis Point**.
 * The Deposit Limit will be set to **1000 DAI**.
 * The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **1 million DAI**.
