@@ -53,7 +53,8 @@ Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details 
 
 As per multiple successful offboarding proposals (linked below), three DAI and one MKR streams will be cancelled (`yank`ed) if this executive proposal passes. 
 
-When a token stream is `yank`ed, it will prevent new tokens from accruing to the recipient, but will still allow the recipient access to tokens that have already accrued.
+When a token stream is cancelled, it will prevent new tokens from accruing to the recipient, but will still allow the recipient access to tokens that have already accrued. An exception to this is when a stream has a cliff date, if the cliff date has not been reached, the recipient will not be able to access the tokens that have accrued.
+
 * **DAI Stream #4** going to the [Events Core Unit (EVENTS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP32) will be cancelled as a result of a successful [offboarding proposal](https://mips.makerdao.com/mips/details/MIP39c3SP4).
 * **DAI Stream #5** going to the [Strategic Happiness Core Unit (SH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP11) will be cancelled as a result of a successful [offboarding proposal](https://mips.makerdao.com/mips/details/MIP39c3SP3).
 * **DAI Stream #35** going to the [Real-World Finance Core Unit (RWF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP1) will be cancelled as a result of a successful [offboarding proposal](https://mips.makerdao.com/mips/details/MIP39c3SP5).
