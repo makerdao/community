@@ -46,7 +46,7 @@ The Maker Teleport parameters will be set as follows:
 
 **Note:** to ensure security of the deployment this is below the 1 million DAI limit approved by Maker Governance, this limit can be raised later, if required.
 
-Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on  Starknet parameters to inform your position on this issue before voting.
+Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on Starknet parameters to inform your position on this issue before voting.
 
 ### Offboarded Core Units - Yanking DAI and MKR Streams
 As per multiple successful offboarding proposals (linked below), several DAI and MKR streams will be yanked if this executive proposal passes. Note that when a token stream is yanked, it will prevent new tokens from accruing to the recipient, but will still allow the recipient access to tokens that have already accrued.
