@@ -60,9 +60,6 @@ When a token stream is `yank`ed, it will prevent new tokens from accruing to the
 
 Please review [MIP39](https://mips.makerdao.com/mips/details/MIP39) for details on offboarding Core Units and the forum threads discussing the [offboarding of the Events Core Unit (EVENTS-001)](https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755), the [offboarding of the Strategic Happiness Core Unit (SH-001)](https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754), and the [offboarding of the Real-World Finance Core Unit (RWF-001)](https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753) to inform your position on this issue before voting.
 
-
-
-
 ### Offboarded Core Units - DAI and MKR Golden Parachute Budget Transfers
 
 As per multiple successful offboarding proposals (linked below), a total of **210,998 DAI** and **169.5 MKR** will be transferred to multiple offboarded Core Units as part of their respective Golden Parachutes if this executive proposal passes.
