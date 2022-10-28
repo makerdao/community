@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, and SPF Funding - November 02, 2022
 summary: Maker Teleport Technical Deployment on Starknet, Golden Parachute MKR and DAI budget transfers for EVENTS-001, SH-001, and RWF-001, cancel existing MKR and DAI budget streams for EVENTS-001, SH-001, and RWF-001, whitelist Oasis.app on rETH/USD oracle, and BlockTower Legal and Risk Work SPF Funding. 
+title: Template - [Executive Vote] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, SPF Funding - November 02, 2022
 date: 2022-11-02T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, and SPF Funding - November 02, 2022
+# [Executive Proposal] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, SPF Funding - November 02, 2022
 
 The Governance Facilitator(s), the Starknet Engineering Core Unit, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
