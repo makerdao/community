@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Maker Teleport Deployment on Starknet, Offboarded Core Units Budgets and Streams, Oracle Whitelist Additions, and BlockTower SPF Funding - November 02, 2022
+title: Template - [Executive Vote] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, and SPF Funding - November 02, 2022
 summary: Maker Teleport Technical Deployment on Starknet, Golden Parachute MKR and DAI budget transfers for EVENTS-001, SH-001, and RWF-001, yank MKR and DAI budget streams for EVENTS-001, SH-001, and RWF-001, whitelist Oasis.app on rETH/USD oracle, and BlockTower Legal Work and Risk Work SPF Funding. 
 date: 2022-11-02T00:00:00.000Z
 address: "$spell_address"
