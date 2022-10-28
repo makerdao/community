@@ -25,7 +25,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - **258,000 DAI** will be transferred to the BlockTower Legal and Risk Work SPF multi-sig as a result of the successful [Special Purpose Fund (SPF) application](https://vote.makerdao.com/polling/QmcV2pMZ#vote-breakdown), as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Maker Teleport will be deployed with **1 Basis Point** fee, a **1000 DAI** Deposit Limit, and **1 million DAI** Debt Ceiling on [Starknet](https://starkware.co/starknet/).
+- The technical deployment of Maker Teleport on [Starknet](https://starkware.co/starknet/) will take place, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
