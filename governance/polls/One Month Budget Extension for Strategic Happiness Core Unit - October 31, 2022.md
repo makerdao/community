@@ -27,8 +27,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Transfer **49,999.99 DAI** to strategichappiness.eth.
-* Transfer **5.21 MKR** to strategichappiness.eth.
+* Transfer **49,999.99 DAI** to [strategichappiness.eth](https://etherscan.io/address/0x955993df48b0458a01cfb5fd7df5f5dca6443550).
+* Transfer **5.21 MKR** to [strategichappiness.eth](https://etherscan.io/address/0x955993df48b0458a01cfb5fd7df5f5dca6443550).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-the-shcu-requests-a-moment-of-your-time/18466) to help inform your position before voting.
 
