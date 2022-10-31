@@ -1,6 +1,6 @@
 ---
 title: One Month Budget Extension for Strategic Happiness Core Unit - October 31, 2022
-summary: Signal your support or opposition to $GenericChange.
+summary: Signal your support or opposition to a one month extension to the budget for the Strategic Happiness Core Unit.
 discussion_link: https://forum.makerdao.com/t/signal-request-the-shcu-requests-a-moment-of-your-time/18466
 parameters:
     input_format: single-choice
