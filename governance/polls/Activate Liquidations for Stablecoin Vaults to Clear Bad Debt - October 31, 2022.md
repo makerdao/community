@@ -29,19 +29,19 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to the following changes:
 * Activate liquidations on stablecoin Vault Types.
 
-Currently active stablecoin Vault Types in the Maker Protocol are:
+The currently active stablecoin Vault Types in the Maker Protocol are:
 * USDC-A (USDC)
 * PAXUSD-A (USDP)
 * GUSD-A (GUSD)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-clear-vaults-bad-debt-in-the-makerdao-protocol/18376) to help inform your position before voting.
 
-**Note:** This is not an offboarding proposal, but asks whether or not these Vault Types should have liquidations activated or not. Only Vaults that are below the [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) will be affected.
+**Note:** This is not an offboarding proposal but asks whether or not these Vault Types should have liquidations activated or not. Only Vaults below the [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) will be affected.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The Risk Core Unit will be asked to confirm liquidation parameters for stablecoin Vaults.
+* GovAlpha will ask the Risk Core Unit to confirm liquidation parameters for stablecoin Vaults.
 * This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
