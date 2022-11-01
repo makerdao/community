@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, SPF Funding - November 02, 2022
-summary: Maker Teleport Technical Deployment on Starknet, Golden Parachute MKR and DAI transfers for offboarded Core Units, cancel existing MKR and DAI budget streams for offboarded Core Units, whitelist Oasis.app on rETH-USD oracle, and BlockTower Legal and Risk Work SPF Funding. 
+title: Template - [Executive Vote] Budget Stream Housekeeping For Offboarded Core Units, Oracle Whitelist Addition, SPF Funding - November 02, 2022
+summary: Golden Parachute MKR and DAI transfers for offboarded Core Units, cancel existing MKR and DAI budget streams for offboarded Core Units, whitelist Oasis.app on rETH-USD oracle, and BlockTower Legal and Risk Work SPF Funding. 
 date: 2022-11-02T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Maker Teleport Technical Deployment on Starknet, Offboarded Core Units Budget Stream Housekeeping, Oracle Whitelist Addition, SPF Funding - November 02, 2022
+# [Executive Proposal] Budget Stream Housekeeping For Offboarded Core Units, Oracle Whitelist Addition, SPF Funding - November 02, 2022
 
-The Governance Facilitator(s), the Starknet Engineering Core Unit, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
@@ -16,8 +16,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
-- The technical deployment of Maker Teleport on [Starknet](https://starkware.co/starknet/) will take place, as detailed below.
-- The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased, as detailed below.
 - A total of **210,998 DAI**, itemized below, will be transferred to two offboarded Core Units as part of their respective Golden Parachutes.
 - A total of **169.5 MKR**, itemized below, will be transferred to two offboarded Core Units as part of their respective Golden Parachutes.
 - DAI streams to three offboarded Core Units, itemized below, will be cancelled.
@@ -34,20 +32,6 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
-
-### Maker Teleport Technical Deployment on Starknet
-As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes.
-
-The Starknet Maker Teleport parameters will be set as follows:
-* The Starknet Teleport Fee parameter will be set to **1 Basis Point**.
-* The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **100,000 DAI**.
-
-To facilitate this, the following change will also take place:
-* The Maker Teleport Global Debt Ceiling will be increased by 100,000 DAI from 2 million DAI to **2,100,000 DAI**.
-
-**Note:** to ensure security of the deployment this is below the 1 million DAI limit approved by Maker Governance, this limit can be raised later, if required.
-
-Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on Starknet parameters to inform your position on this issue before voting.
 
 ### Offboarded Core Units - Cancelling DAI and MKR Streams
 
