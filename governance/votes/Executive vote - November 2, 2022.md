@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Budget Stream Housekeeping For Offboarded Core Units, Oracle Whitelist Addition, SPF Funding - November 02, 2022
 summary: Golden Parachute MKR and DAI transfers for offboarded Core Units, cancel existing MKR and DAI budget streams for offboarded Core Units, whitelist Oasis.app on rETH-USD oracle, and BlockTower Legal and Risk Work SPF Funding. 
 date: 2022-11-02T00:00:00.000Z
-address: "$spell_address"
+address: "0x04D0E226675cfC2450D523C961c1F1875f20bf47"
 
 ---
 # [Executive Proposal] Budget Stream Housekeeping For Offboarded Core Units, Oracle Whitelist Addition, SPF Funding - November 02, 2022
