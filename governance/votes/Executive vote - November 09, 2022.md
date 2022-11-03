@@ -62,27 +62,18 @@ As per this [governance poll](https://vote.makerdao.com/polling/QmahDuNx) on the
 - **Decrease** the MANA-A [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) from 17 million DAI to **10 million DAI**.
 
 ### Maker Teleport Technical Deployment on StarkNet
+As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes.
 
-As per these governance polls ([1](https://vote.makerdao.com/polling/QmZxRgvG), [2](https://vote.makerdao.com/polling/QmbWkTvW#poll-detail)), the following risk parameters will be set/adjusted thusly in the context of the tecnical deployment of Maker Teleport on StarkNet:
+The StarkNet Maker Teleport parameters will be set as follows:
+* The StarkNet Teleport Fee parameter will be set to **1 Basis Point**.
+* The [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **100,000 DAI**.
 
-#### Debt Ceiling Parameters
+To facilitate this, the following change will also take place:
+* The Maker Teleport Global Debt Ceiling will be increased by 100,000 DAI from 2 million DAI to **2,100,000 DAI**.
 
-- **Set** the [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) **to 1 million DAI**.
-- **Increase** the [Global Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) from 2 million DAI to **3 million DAI**.
+**Note:** to ensure security of the deployment this is below the 1 million DAI limit approved by Maker Governance, this limit can be raised later, if required.
 
-#### Maker Teleport Fee Parameters
-
-- **Set** the Starknet Teleport Fee parameter **to 1**.
-
-#### Deposit Limit
-
-- **Set** the deposit limit **to 1000 DAI**.
-
-#### Oracle Quorum
-
-- **Set** the Oracle Quorum for Starknet Teleport **to 13**.
-
-You can further inform your position by reading this [forum thread](https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041) and [MIP69: L2-to-L1 Fast Withdrawals](https://mips.makerdao.com/mips/details/MIP69).
+Please review [MIP69](https://mips.makerdao.com/mips/details/MIP69) for details on Layer-2-to-Layer-1 Fast Withdrawals and the [discussion thread](https://forum.makerdao.com/t/request-for-poll-starknet-bridge-deposit-limit-and-starknet-teleport-fees/17187) on StarkNet parameters to inform your position on this issue before voting.
 
 ## Review
 
