@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- A total of **111,712 DAI** will be distributed to 18 Recognized Delegates as itemized further down.
+- A total of **111,712 DAI** will be distributed to 18 Recognized Delegates as itemized below.
 - Parameter changes from the latest proposal from the MakerDAO Open Market Committee: a [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) increase and a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) decrease, detailed below.
 - The technical deployment of Maker Teleport on [Starknet](https://starkware.co/starknet/) will take place, as detailed below.
 - The Maker Teleport Global [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased, as detailed below.
