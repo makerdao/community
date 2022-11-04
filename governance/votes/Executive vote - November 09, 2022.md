@@ -59,7 +59,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 As per this [governance poll](https://vote.makerdao.com/polling/QmahDuNx) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-october-2022/18564), the following parameter changes will be made in the Maker Protocol if this executive proposal passes:
 
 - **Increase** the MANA-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) from 4.5% to **7.5%**.
-- **Decrease** the MANA-A [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) from 17 million DAI to **10 million DAI**.
+- **Decrease** the MANA-A [Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 17 million DAI to **10 million DAI**.
 
 ### Maker Teleport Technical Deployment on StarkNet
 As per the outcome of successful Governance Polls [here](https://vote.makerdao.com/polling/QmbWkTvW) and [here](https://vote.makerdao.com/polling/QmZxRgvG), [Maker Teleport (formerly known as Maker Wormhole)](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) will be deployed on [Starknet](https://starkware.co/starknet/), if this executive passes.
