@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Maker Teleport Technical Deployment on StarkNet, Recognized Delegate Compensation Distribution for October, MOMC Parameter Changes - November 9, 2022
-summary: Risk parameter adjustments for the Maker Teleport technical deployment on StarkNet, compensation distribution totalling 111,712 DAI for 18 Recognized Delegates for October, and MOMC parameter changes.
+summary: Maker Teleport technical deployment on StarkNet, compensation distribution for 18 Recognized Delegates for October, and MOMC parameter changes.
 date: 2022-11-09T00:00:00.000Z
 address: "$spell_address"
 
