@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Maker Teleport Technical Deployment on StarkNet, Recognized Delegate Compensation Distribution for October, MOMC Parameter Changes - November 9, 2022
 summary: Maker Teleport technical deployment on StarkNet, compensation distribution for 18 Recognized Delegates for October, and MOMC parameter changes.
 date: 2022-11-09T00:00:00.000Z
-address: "$spell_address"
+address: "0xf2BF5b5DFcaf8f22306D786F6b18ffc9d91C7641"
 
 ---
 # [Executive Proposal] Maker Teleport Technical Deployment on StarkNet, Recognized Delegate Compensation Distribution for October, MOMC Parameter Changes - November 9, 2022
