@@ -57,7 +57,7 @@ Now that Maker's rETH oracles have reached quorum, the following parameter chang
 As per this [forum post](https://forum.makerdao.com/t/mana-a-intermediate-parameter-change-proposal/18727) from the Risk Core Unit (RISK-001), the following urgent changes will be made to the MANA-A vault type, if this proposal passes:
 
 * The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be reduced by 7 million DAI from 10 million DAI to **3 million DAI**.
-* The Stability Fee will be increased by 42.5% from 7.5% to **50%**.
+* The [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 42.5% from 7.5% to **50%**.
 * The [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) will be increased by 17% from 13% to **30%**.
 
 ### `doc` Variable Housekeeping Updates for RWA Vaults
