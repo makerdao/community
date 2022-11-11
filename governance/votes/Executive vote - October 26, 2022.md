@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet DAI Bridge Fees - October 26, 2022
-summary: Onboarding rETH with 0 Debt Ceiling, whitelist Oasis.app on rETH/USD oracle, and add a fee structure to the Starknet DAI Bridge.
+title: Template - [Executive Vote] rETH Technical Onboarding, Enable Starknet DAI Bridge Fees - October 26, 2022
+summary: Onboarding rETH with 0 Debt Ceiling and add a fee structure to the Starknet DAI Bridge.
 date: 2022-10-26T00:00:00.000Z
-address: "$spell_address"
+address: "0x4124b7a881DBBF98D72474D1A882d3afE3758526"
 
 ---
-# [Executive Proposal] rETH Technical Onboarding, Oracle Whitelist Additions, Enable Starknet Bridge Fees - October 26, 2022
+# [Executive Proposal] rETH Technical Onboarding, Enable Starknet Bridge Fees - October 26, 2022
 
 The Governance Facilitator(s), Protocol Engineering Core Unit, Collateral Engineering Services Core Unit, and the Starknet Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,7 +16,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Oasis.app will be whitelisted on the rETH/USD oracle as detailed below.
 - The fee mechanism on the Starknet DAI bridge will be enabled, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
@@ -34,13 +33,6 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
-
-### Oasis.app Whitelist
-
-As per the outcome of this [governance poll](https://vote.makerdao.com/polling/QmZzFPFs#vote-breakdown), [Oasis.app](https://oasis.app/) will be whitelisted on the following OSM Oracle if this executive proposal passes:
-* rETH/USD
-
-Please review [MIP10](https://mips.makerdao.com/mips/details/MIP10) and the [forum thread]([://](https://forum.makerdao.com/t/mip10c9-sp31-proposal-to-whitelist-oasis-app-on-rethusd-oracle/18195)) to inform your position on this issue before voting.
 
 ### Enable Starknet DAI Bridge Fees
 
