@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable RETH-A DC-IAM, Urgent MANA-A Parameter Changes - November 16, 2022
-summary: Parameter changes for Monetalis Clydesdale, activate the DC-IAM on rETH-A allowing DAI generation, urgent MANA-A parameter changes, housekeeping changes for RWA vaults and the chainlog.
+title: Template - [Executive Vote] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable RETH-A DC-IAM, Housekeeping Changes - November 16, 2022
+summary: Parameter changes for Monetalis Clydesdale, activate the DC-IAM on rETH-A allowing DAI generation, housekeeping changes for RWA vaults and the chainlog.
 date: 2022-11-16T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable RETH-A DC-IAM, Urgent MANA-A Parameter Changes - November 16, 2022
+# [Executive Proposal] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable RETH-A DC-IAM, Housekeeping Changes - November 16, 2022
 
 The Governance Facilitator(s), the Collateral Engineering Services Core Unit, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,7 +18,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Maximum Debt Ceiling (`line`), Target Available Debt (`gap`), and `doc` parameters for RWA-007-A (Monetalis Clydesdale) will be updated, as detailed below.
 - The Maximum Debt Ceiling (`line`), Target Available Debt (`gap`), and Ceiling Increase Cooldown (`ttl`) for rETH-A will be updated, as detailed below.
-- The Maximum Debt Ceiling (`line`), Target Available Debt (`gap`), and Stability Fee for MANA-A will be updated, as detailed below.
 - Housekeeping updates to the `doc` parameters for RWA-008-A and RWA-009-A.
 - Housekeeping updates to the chainlog.
 
@@ -51,14 +50,6 @@ Now that Maker's rETH oracles have reached quorum, the following parameter chang
 * The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be set to **5 million DAI**.
 * The [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) will be set to **3 million DAI**.
 * The [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) will be set to **8 hours**.
-
-### MANA-A Urgent Parameter Changes
-
-As per this [forum post](https://forum.makerdao.com/t/mana-a-intermediate-parameter-change-proposal/18727) from the Risk Core Unit (RISK-001), the following urgent changes will be made to the MANA-A vault type, if this proposal passes:
-
-* The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be reduced by 7 million DAI from 10 million DAI to **3 million DAI**.
-* The [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 42.5% from 7.5% to **50%**.
-* The [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) will be increased by 17% from 13% to **30%**.
 
 ### `doc` Variable Housekeeping Updates for RWA Vaults
 
