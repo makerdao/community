@@ -48,8 +48,8 @@ Reduce the renBTC-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/
 
 ### MANA-A Changes
 
-Reduce the MANA-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 7 million DAI from 10 million DAI to **3 million DAI**.
-Increase the MANA-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 42.5% from 7.5% to **50%**.
+Reduce the MANA-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 7 million DAI from 10 million DAI to **3 million DAI**.  
+Increase the MANA-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 42.5% from 7.5% to **50%**.  
 Increase the MANA-A [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 17% from 13% to **30%**.
 
 ## Review
