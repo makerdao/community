@@ -39,7 +39,7 @@ As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-cont
 
 * The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 250 million DAI from 250 million DAI to **500 million DAI**.
 * The [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
-* The [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter for RWA-007-A will be updated to **QmejL1CKKN5vCwp9QD1gebnnAM2MJSt9XbF64uy4ptkJtR** to reflect the most recent instuctions that can be found [here](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-documentation-hq/17923#mip65-establishment-and-deployment-instructions-4).
+* The [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter for RWA-007-A will be updated to **QmejL1CKKN5vCwp9QD1gebnnAM2MJSt9XbF64uy4ptkJtR** - [IPFS Link](https://gateway.pinata.cloud/ipfs/QmejL1CKKN5vCwp9QD1gebnnAM2MJSt9XbF64uy4ptkJtR) - to reflect the most recent instuctions that can be found [here](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-documentation-hq/17923#mip65-establishment-and-deployment-instructions-4).
 
 The forum post outlines the rationale for using this approach rather than the initially planned two-vault structure for the [MIP65](https://mips.makerdao.com/mips/details/MIP65) implementation.
 
@@ -55,8 +55,8 @@ Now that Maker's rETH oracles have reached quorum, the following parameter chang
 
 As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) Facilitator @monkey.irish, the following changes will be made to the RWA-008-A (SocGen) and RWA-009-A (HVBank) vault types, if this proposal passes:
 
-* Update the RWA-008-A `doc` from QmdfzY6p5EpkYMN8wcomF2a1GsJbhkPiRQVRYSPfS4NZtB to **QmZ4heYjptvj3ovafADJpXYMFXMyY3yQjkTXpvjFPnAKcy**.
-* Update the RWA-009-A `doc` from QmQx3bMtjncka2jUsGwKu7ButuPJFn9yDEEvpg9xZ71ECh to **QmeRrbDF8MVPQfNe83gWf2qV48jApVigm1WyjEtDXCZ5rT**.
+* Update the RWA-008-A `doc` from QmdfzY6p5EpkYMN8wcomF2a1GsJbhkPiRQVRYSPfS4NZtB to **QmZ4heYjptvj3ovafADJpXYMFXMyY3yQjkTXpvjFPnAKcy** - [IPFS Link](https://gateway.pinata.cloud/ipfs/QmZ4heYjptvj3ovafADJpXYMFXMyY3yQjkTXpvjFPnAKcy).
+* Update the RWA-009-A `doc` from QmQx3bMtjncka2jUsGwKu7ButuPJFn9yDEEvpg9xZ71ECh to **QmeRrbDF8MVPQfNe83gWf2qV48jApVigm1WyjEtDXCZ5rT** - [IPFS Link](https://gateway.pinata.cloud/ipfs/QmeRrbDF8MVPQfNe83gWf2qV48jApVigm1WyjEtDXCZ5rT).
 
 ### Chainlog Housekeeping Changes
 
