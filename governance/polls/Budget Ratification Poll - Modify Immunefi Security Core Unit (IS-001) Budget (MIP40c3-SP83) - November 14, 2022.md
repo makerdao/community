@@ -39,7 +39,7 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP83 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
 * **Option 0:** Abstain.
-* **Option 1:** Approve existing budget (Business as usual): 786 830 DAI
+* **Option 1:** Approve existing budget (Business as usual): 786,830 DAI
 * **Option 2:** Approve reduced budget (BearMarket): 427,790 DAI
 * **Option 3:** Reject budget.
 
