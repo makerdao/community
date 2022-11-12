@@ -34,33 +34,23 @@ As per this [successful urgent signal request](https://forum.makerdao.com/t/urge
 
 Reduce the MATIC-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 10 million DAI from 20 million DAI to **10 million DAI**.
 
-Please review the [forum post](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764) from the RISK Core Unit to inform your position.
-
 ### LINK-A Changes
 
 Reduce the LINK-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 20 million DAI from 25 million DAI to **5 million DAI**.
-
-Please review the [forum post](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764) from the RISK Core Unit to inform your position.
 
 ### YFI-A Changes
 
 Reduce the YFI-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 7 million DAI from 10 million DAI to **3 million DAI**.
 
-Please review the [forum post](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764) from the RISK Core Unit to inform your position.
-
 ### renBTC-A Changes
 
 Reduce the renBTC-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 10 million DAI from 10 million DAI to **0**.
-
-Please review the [forum post](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764) from the RISK Core Unit to inform your position.
 
 ### MANA-A Changes
 
 Reduce the MANA-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 7 million DAI from 10 million DAI to **3 million DAI**.
 Increase the MANA-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 42.5% from 7.5% to **50%**.
 Increase the MANA-A [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 17% from 13% to **30%**.
-
-Please review the forum posts ([1](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764), [2](https://forum.makerdao.com/t/mana-a-intermediate-parameter-change-proposal/18727)) from the RISK Core Unit to inform your position.
 
 ## Review
 
