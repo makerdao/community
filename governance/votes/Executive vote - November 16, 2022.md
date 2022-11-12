@@ -51,16 +51,16 @@ Now that Maker's rETH oracles have reached quorum, the following parameter chang
 * The [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) will be set to **3 million DAI**.
 * The [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) will be set to **8 hours**.
 
-### `doc` Variable Housekeeping Updates for RWA Vaults
+### [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) Variable Housekeeping Updates for RWA Vaults
 
-As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from Collateral Engineering Services Core Unit (CES-001) Facilitator @monkey.irish, the following changes will be made to the RWA-008-A (SocGen) and RWA-009-A (HVBank) vault types, if this proposal passes:
+As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) Facilitator @monkey.irish, the following changes will be made to the RWA-008-A (SocGen) and RWA-009-A (HVBank) vault types, if this proposal passes:
 
 * Update the RWA-008-A `doc` from QmdfzY6p5EpkYMN8wcomF2a1GsJbhkPiRQVRYSPfS4NZtB to **QmZ4heYjptvj3ovafADJpXYMFXMyY3yQjkTXpvjFPnAKcy**.
 * Update the RWA-009-A `doc` from QmQx3bMtjncka2jUsGwKu7ButuPJFn9yDEEvpg9xZ71ECh to **QmeRrbDF8MVPQfNe83gWf2qV48jApVigm1WyjEtDXCZ5rT**.
 
 ### Chainlog Housekeeping Changes
 
-As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from Collateral Engineering Services Core Unit (CES-001) Facilitator @monkey.irish, the following changes will be made to the chainlog, if this proposal passes:
+As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) Facilitator @monkey.irish, the following changes will be made to the chainlog, if this proposal passes:
 
 * Change `RWA007_A_INPUT_CONDUIT_URN` to `RWA007_A_INPUT_CONDUIT`.
 * Change `RWAXXX_A_INPUT_CONDUIT_JAR` to `RWAXXX_A_JAR_INPUT_CONDUIT`.
