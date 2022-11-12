@@ -45,7 +45,7 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"The Immunefi Security Core Unit (ISCU) requests a 786,830 DAI budget to sustain minimal operations for another year starting 01 Dec 2022 (option Status Quo). Due to market conditions, we propose an alternative (option Bear Market) with a reduction of 0.2 FTEs, which will slow response time and increase the likelihood of using the MIP64c5 process. Option Bear Market requests a 12-month budget of 427,790 DAI (approx 359k DAI less)."*
+*"The Immunefi Security Core Unit (ISCU) requests a 786,830 DAI budget to sustain minimal operations for another year starting 01 Dec 2022 (option Status Quo). Due to market conditions, we propose an alternative (option Bear Market) with a reduction of 0.2 FTEs, which will slow response time and increase the likelihood of using the [MIP64c5](https://mips.makerdao.com/mips/details/MIP64#mip64c5-payment-process-and-budget-request) process. Option Bear Market requests a 12-month budget of 427,790 DAI (approx 359k DAI less)."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP40/MIP40c3-Subproposals/MIP40c3-SP83.md)
