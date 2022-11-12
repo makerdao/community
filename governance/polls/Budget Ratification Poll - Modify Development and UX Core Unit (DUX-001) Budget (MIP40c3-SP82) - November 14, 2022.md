@@ -1,7 +1,7 @@
 ---
 title: Budget Ratification Poll for Modify Development and UX Core Unit (DUX-001) Budget (MIP40c3-SP82) - November 14, 2022
 summary: MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024.
-discussion_link: https://mips.makerdao.com/mips/details/MIP40c3SP82
+discussion_link: https://forum.makerdao.com/t/mip40c3-sp82-development-ux-core-unit-budget-dux-001/17611
 parameters:
   input_format:
     type: rank-free
