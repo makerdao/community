@@ -26,7 +26,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ---
 
-## Proposal Details
+## Urgent Collateral Parameter Proposal Details
+
+As per this [successful urgent signal request](https://forum.makerdao.com/t/urgent-signal-request-urgent-recommended-collateral-parameter-changes/18764), the following parameter changes will take place if this out-of-schedule executive proposal passes. To read more on the process for urgent responses, please see [MIP24: Emergency Response](https://mips.makerdao.com/mips/details/MIP24). 
 
 ### MATIC-A Changes
 
