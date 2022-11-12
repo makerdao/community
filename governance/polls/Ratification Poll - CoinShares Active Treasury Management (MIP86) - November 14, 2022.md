@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP86 be
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"Under MIP86, a portion (from $100M to $500M) of the PSM’s USDCs will be managed by CoinShares, which will invest on behalf of MakerDAO the funds in various traditional financial assets according to MIP13c3-SP12"*
+*"Under MIP86, a portion (from $100M to $500M) of the PSM’s USDCs will be managed by CoinShares, which will invest on behalf of MakerDAO the funds in various traditional financial assets according to [MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12). CoinShares aims to provide a variable APY above the SOFR interest rate (3.01% as of October 26, 2022) in the community’s preferred currency (DAI, USDC, USD…) to MakerDAO and that can be withdrawn on-chain. This MIP describes the architecture of the project."*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/tree/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP86)
