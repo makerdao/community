@@ -16,9 +16,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The Maximum Debt Ceiling (`line`), Target Available Debt (`gap`), and `doc` parameters for RWA-007-A (Monetalis Clydesdale) will be updated, as detailed below.
-- The Maximum Debt Ceiling (`line`), Target Available Debt (`gap`), and Ceiling Increase Cooldown (`ttl`) for rETH-A will be updated, as detailed below.
-- Housekeeping updates to the `doc` parameters for RWA-008-A and RWA-009-A.
+- The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap), and [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameters for RWA-007-A (Monetalis Clydesdale) will be updated, as detailed below.
+- The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line), [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap), and [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) for rETH-A will be updated, as detailed below.
+- Housekeeping updates to the [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameters for RWA-008-A and RWA-009-A.
 - Housekeeping updates to the chainlog.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
