@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Urgent Collateral Parameter Changes - November 12, 2022
 summary: Urgent Parameter Changes to MATIC-A, LINK-A, YFI-A, renBTC-A, and MANA-A Vaults.
 date: 2022-11-12T00:00:00.000Z
-address: "$spell_address"
+address: "0x16787F838D6562D7A0337ff65130b6a9a1255C77"
 
 ---
 # [Executive Proposal] Urgent Collateral Parameter Changes - November 12, 2022
