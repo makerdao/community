@@ -35,11 +35,11 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### RWA-007-A Parameter Changes
 
-As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from Collateral Engineering Services Core Unit (CES-001) Facilitator @monkey.irish, the following changes will be made to the RWA-007-A (Monetalis Clydesdale) vault type, if this proposal passes:
+As per this [forum post](https://forum.makerdao.com/t/nov-16-2020-executive-contents/18747) from [Collateral Engineering Services Core Unit (CES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP20) Facilitator @monkey.irish, the following changes will be made to the RWA-007-A (Monetalis Clydesdale) vault type, if this proposal passes:
 
 * The [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 250 million DAI from 250 million DAI to **500 million DAI**.
 * The [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
-* The `doc` parameter for RWA-007-A will be updated to **QmejL1CKKN5vCwp9QD1gebnnAM2MJSt9XbF64uy4ptkJtR**.
+* The [`doc`](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter for RWA-007-A will be updated to **QmejL1CKKN5vCwp9QD1gebnnAM2MJSt9XbF64uy4ptkJtR** to reflect the most recent instuctions that can be found [here](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-documentation-hq/17923#mip65-establishment-and-deployment-instructions-4).
 
 The forum post outlines the rationale for using this approach rather than the initially planned two-vault structure for the [MIP65](https://mips.makerdao.com/mips/details/MIP65) implementation.
 
