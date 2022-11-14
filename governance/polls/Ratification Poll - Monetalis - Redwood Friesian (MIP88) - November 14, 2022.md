@@ -46,7 +46,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"The legal, structural, and technical setup will be executed under a strict verification program."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/MIP88.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4ddddd5b8a8f8a653cab95075f870cc5b1d24a53/MIP88/MIP88.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP88)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336)
 
