@@ -1,5 +1,5 @@
 ---
-title: Budget Ratification Poll for Modify TechOps Core Unit DAI Budget (MIP40c3-SP86) - November 14, 2022
+title: Budget Ratification Poll for Modify TechOps Core Unit DAI Budget, TECH-001 (MIP40c3-SP86) - November 14, 2022
 summary: MIP40c3-SP86 renews the TechOps Core Unit (TECH-001) annual budget from February 1st 2023 through to January 31st 2024.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp86-modify-techops-core-unit-dai-budget/18290
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2022-11-14T16:00:00
 end_date: 2022-11-28T16:00:00
 ---
-# Budget Ratification Poll for Modify TechOps Core Unit DAI Budget (MIP40c3-SP86) - November 14, 2022
+# Budget Ratification Poll for Modify TechOps Core Unit DAI Budget, TECH-001 (MIP40c3-SP86) - November 14, 2022
 
 The Governance Facilitators have placed a budget ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 14 at 16:00 UTC.
 

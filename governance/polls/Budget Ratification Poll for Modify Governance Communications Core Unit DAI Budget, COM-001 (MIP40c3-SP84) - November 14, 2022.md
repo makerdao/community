@@ -1,5 +1,5 @@
 ---
-title: Budget Ratification Poll for Modify Governance Communications Core Unit Budget, COM-001 (MIP40c3-SP84) - November 14, 2022
+title: Budget Ratification Poll for Modify Governance Communications Core Unit DAI Budget, COM-001 (MIP40c3-SP84) - November 14, 2022
 summary: This proposal renews the Governance Communications Core Unit budget details and extends funding for six months from January 1st, 2023, through June 30th, 2023.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp84-modify-core-unit-budget-com-001/18250
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2022-11-14T16:00:00
 end_date: 2022-11-28T16:00:00
 ---
-# Budget Ratification Poll for Modify Governance Communications Core Unit Budget, COM-001 (MIP40c3-SP84) - November 14, 2022
+# Budget Ratification Poll for Modify Governance Communications Core Unit DAI Budget, COM-001 (MIP40c3-SP84) - November 14, 2022
 
 The Governance Facilitators have placed a budget ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 14 at 16:00 UTC.
 
