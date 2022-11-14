@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for CoinShares Active Treasury Management (MIP86) - November 14, 2022
-summary: Under MIP86, a portion (from 100M to 500M) of the USDC in the PSM will be managed by CoinShares, which will invest the funds in various traditional financial assets according to MIP13c3-SP12 on behalf of MakerDAO
+summary: Under MIP86, a portion (from 100M to 500M) of the USDC in the PSM will be managed by CoinShares, which will invest the funds in various traditional financial assets according to MIP13c3-SP12 on behalf of MakerDAO.
 discussion_link: https://forum.makerdao.com/t/mip86-coinshares-active-treasury-management/17900
 parameters:
     input_format:
