@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Modify Immunefi Security Core Unit (IS-001) Mandate (MIP39c2-SP38) - November 14, 2022
-summary: Updates the mandate of the Immunefi Security Core Unit - IS-001.
+summary: Updates the mandate of the Immunefi Security Core Unit (IS-001).
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp38-modify-immunefi-security-core-unit-mandate-is-001/18208
 parameters:
     input_format:
