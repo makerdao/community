@@ -19,8 +19,8 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: Approve existing budget only (Business as usual)
-   2: Approve reduced budget (BearMarket)
+   1: Approve existing budget only (Business as usual) - 786,830 DAI annually
+   2: Approve reduced budget (BearMarket) - 427,790 DAI annually
    3: Reject budget
 
 start_date: 2022-11-14T16:00:00
