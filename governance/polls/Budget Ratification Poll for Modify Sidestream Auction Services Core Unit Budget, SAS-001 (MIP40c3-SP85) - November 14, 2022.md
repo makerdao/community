@@ -37,8 +37,8 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 ## Review
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP85 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
-* **Option 1:** Approve new base budget: 1,040,100 DAI.
-* **Option 2:** Approve new bear budget: 946,950 DAI.
+* **Option 1:** Approve new base budget: 433,375 DAI seed transfer and 1,040,100 DAI stream.
+* **Option 2:** Approve new bear budget: 394,562.50 DAI seed transfer and 946,950 DAI stream.
 * **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
