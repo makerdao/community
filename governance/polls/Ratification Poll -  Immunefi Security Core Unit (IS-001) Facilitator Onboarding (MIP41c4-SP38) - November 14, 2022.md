@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP41/MIP41c4-Subproposals/MIP41c4-SP38.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP38#sentence-summary)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP38)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp38-immunefi-security-core-unit-facilitator-onboarding-is-001/16348)
 
 ## Outcomes
