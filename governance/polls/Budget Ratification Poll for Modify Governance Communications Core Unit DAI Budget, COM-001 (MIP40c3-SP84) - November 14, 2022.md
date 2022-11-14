@@ -45,7 +45,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MIP40c3-SP84 renews the Governance Communications Core Unit (COM-001) budget from January 1st, 2023, through June 30th, 2023, and follows the latest MIP40 amendment. This budget proposal recognizes the DAO’s intent to cut costs with a significant bottom-line budget reduction of approximately -23%. We reduced the number of full-time salaried employees to two while expanding the part-time contributor budget from 70k to 120k. These changes ensure we can still execute the active pieces of our mandate while growing in our most impactful activities."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP40/MIP40c3-Subproposals/MIP40c3-SP84.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/bfb6376901d08a9f83e98cc8af71f5211dc4682c/MIP40/MIP40c3-Subproposals/MIP40c3-SP84.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP84)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp84-modify-core-unit-budget-com-001/18250)
 
