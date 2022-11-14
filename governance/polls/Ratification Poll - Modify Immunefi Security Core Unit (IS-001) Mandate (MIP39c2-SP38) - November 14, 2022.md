@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP39c2-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"Refresh the mandate of Core Unit IS-001: Immunefi Security."*
+*Refresh the mandate of Core Unit IS-001: Immunefi Security.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/5a5743d74ccf1fcabb1ef52357b601d860d95e1d/MIP39/MIP39c2-Subproposals/MIP39c2-SP38.md)
