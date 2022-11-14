@@ -3,24 +3,24 @@ title: Budget Ratification Poll for Modify TechOps Core Unit DAI Budget, TECH-00
 summary: MIP40c3-SP86 renews the TechOps Core Unit (TECH-001) annual budget from February 1st 2023 through to January 31st 2024.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp86-modify-techops-core-unit-dai-budget/18290
 parameters:
-  input_format:
-    type: single-choice
-    abstain: [0]
-  victory_conditions:
-    - { 
-        type: 'and', 
-        conditions: [
-          { type : plurality },
-          { type : comparison, comparator : '>=', value: 10000 }
-        ]
-      }
-    - { type : default, value : 2 }
-  result_display: single-vote-breakdown
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
 version: v2.0.0
 options:
    0: Abstain
-   1: Approve budget
-   2: Reject budget
+   1: Approve Budget
+   2: Reject Budget
 start_date: 2022-11-14T16:00:00
 end_date: 2022-11-28T16:00:00
 ---
