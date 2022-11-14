@@ -3280,5 +3280,84 @@
     "collateral-onboard",
     "risk-parameter",
     "d3m"
+  ],
+  "896": [
+    "high-impact",
+    "risk-parameter",
+    "auctions"
+  ],
+  "897": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "898": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "899": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "900": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "901": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "902": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "903": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "904": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "905": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "906": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "907": [
+    "high-impact",
+    "real-world-assets",
+    "ratification",
+    "mips"
+  ],
+  "908": [
+    "high-impact",
+    "real-world-assets",
+    "ratification",
+    "mips"
+  ],
+  "909": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
   ]
 }
