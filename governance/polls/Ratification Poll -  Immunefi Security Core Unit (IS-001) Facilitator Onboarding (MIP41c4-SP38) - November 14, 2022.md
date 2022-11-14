@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Immunefi Security Core Unit (IS-001) Facilitator Onboarding (MIP41c4-SP38) - November 14, 2022
-summary: Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.
+summary: Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001 - Immunefi Security.
 discussion_link: https://forum.makerdao.com/t/mip41c4-sp38-immunefi-security-core-unit-facilitator-onboarding-is-001/16348
 parameters:
     input_format:
