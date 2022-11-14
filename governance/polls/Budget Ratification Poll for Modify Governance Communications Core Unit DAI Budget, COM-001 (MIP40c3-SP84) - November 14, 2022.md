@@ -37,7 +37,7 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP84 being accepted and implemented in the Maker Protocol.
 
-* **Option 1:** Approve 517,613 DAI budget.
+* **Option 1:** Approve 258,807 DAI budget streamed over six months.
 * **Option 2:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:

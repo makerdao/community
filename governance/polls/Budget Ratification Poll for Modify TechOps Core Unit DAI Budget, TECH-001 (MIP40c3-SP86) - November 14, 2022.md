@@ -37,7 +37,7 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP84 being accepted and implemented in the Maker Protocol.
 
-* **Option 1:** Approve 749,685 DAI seed transfer and 2,398,988 DAI stream.
+* **Option 1:** Approve 749,685 DAI seed transfer and 2,398,988 DAI streamed over twelve months.
 * **Option 2:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
