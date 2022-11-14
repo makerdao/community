@@ -1,6 +1,6 @@
 ---
 title: Budget Ratification Poll for Modify Sidestream Auction Services Core Unit Budget, SAS-001 (MIP40c3-SP85) - November 14, 2022
-summary: MIP40c3-SP85 modifies the DAI budget for the SAS-001 Core Unit, continuing and extending operations through 1-Dec-2023.
+summary: MIP40c3-SP85 modifies the DAI budget for the SAS-001 Core Unit, continuing and extending operations through December 1, 2023.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp85-modify-sidestream-auction-services-core-unit-budget-sas-001/18253
 parameters:
   input_format:
