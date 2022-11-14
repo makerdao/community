@@ -43,21 +43,21 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The original budget for SAS-001 is expiring 30-Nov-2022. This subproposal creates a new budget stream for the Core Unit to continue operations through 30-Nov-2023.*
+*"The original budget for SAS-001 is expiring 30-Nov-2022. This subproposal creates a new budget stream for the Core Unit to continue operations through 30-Nov-2023".*
 
-*Changes & modifications from the original MIP40c3-SP43 budget subproposal:*
+*"Changes & modifications from the original MIP40c3-SP43 budget subproposal:"*
 
-- *SAS-001 Annual Budget Cap reduced from 1,130,392.56 DAI to 1,040,100.00 DAI (New Base) or 946,950.00 DAI (New Bear). 2023 Budget Breakdown.*
-    - *Updated Transaction.*
-    - *Updated Smart Contract Implementation.*
-- *Addition of new sections to meet the MIP4c2-SP19 amendment:*
-    - *Roadmap and Objective.*
-    - *Summarising Value to MKR Holders.*
-    - *Contingency Planning - Scenarios.*
-    - *Return Excess Funds.*
-    - *Unwinding and Defunding.*
-    - *Proposal Parameters.*
-    - *Minor grammatical and formatting updates to the Budget Implementation.*
+- *"SAS-001 Annual Budget Cap reduced from 1,130,392.56 DAI to 1,040,100.00 DAI (New Base) or 946,950.00 DAI (New Bear). 2023 Budget Breakdown".*
+    - *"Updated Transaction".*
+    - *"Updated Smart Contract Implementation".*
+- *"Addition of new sections to meet the MIP4c2-SP19 amendment:"*
+    - *"Roadmap and Objective".*
+    - *"Summarising Value to MKR Holders".*
+    - *"Contingency Planning - Scenarios".*
+    - *"Return Excess Funds".*
+    - *"Unwinding and Defunding".*
+    - *"Proposal Parameters".*
+    - *"Minor grammatical and formatting updates to the Budget Implementation".*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP40/MIP40c3-Subproposals/MIP40c3-SP85.md)
@@ -69,7 +69,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for Option 1 or Option 2 achieve a majority AND the votes for the winning option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Wednesday, November 24.
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, December 1.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**

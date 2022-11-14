@@ -43,26 +43,26 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The current budget for SES-001 is expiring 31-Jan-2023. This MIP creates a new budget stream for the Core Unit to continue operations through 31-Jan-2024.*
+*"The current budget for SES-001 is expiring 31-Jan-2023. This MIP creates a new budget stream for the Core Unit to continue operations through 31-Jan-2024".*
 
-*Changes & modifications from the current MIP40c3-SP55 3 budget MIP:*
-*1/ SES-001 budget stream reduced by 45.26% (Speedy Operations Platform) or 53.47% (Standard Operations).*
+*"Changes & modifications from the current MIP40c3-SP55 3 budget MIP:"*
+*"1/ SES-001 budget stream reduced by 45.26% (Speedy Operations Platform) or 53.47% (Standard Operations)".*
 
-- *2024 Budget Breakdown.*
-- *Removed Budget for the Grants Program.*
-- *Transition Budget for the Incubation Program.*
-- *Updated Transaction.*
-- *Updated Smart Contract Implementation.*
+- *"2024 Budget Breakdown".*
+- *"Removed Budget for the Grants Program".*
+- *"Transition Budget for the Incubation Program".*
+- *"Updated Transaction".*
+- *"Updated Smart Contract Implementation".*
 
-*2/ Addition of new sections to meet MIP4c2-SP19 1 amendment:*
+*"2/ Addition of new sections to meet MIP4c2-SP19 1 amendment:"*
 
-- *Budget Category Breakdown.*
-- *Roadmap and Objective.*
-- *Summarising Value to MKR Holders.*
-- *Contingency Planning - Scenarios.*
-- *Return Excess Funds.*
-- *Unwinding and Defunding.*
-- *Proposal Parameters.*
+- *"Budget Category Breakdown".*
+- *"Roadmap and Objective".*
+- *"Summarising Value to MKR Holders".*
+- *"Contingency Planning - Scenarios".*
+- *"Return Excess Funds".*
+- *"Unwinding and Defunding".*
+- *"Proposal Parameters".*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP40/MIP40c3-Subproposals/MIP40c3-SP87.md)
