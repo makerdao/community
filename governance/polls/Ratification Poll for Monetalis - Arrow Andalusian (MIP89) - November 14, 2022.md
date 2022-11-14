@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Monetalis - Arrow Andalusian (MIP89) - November 14, 2022
-summary: MIP89 will onboard and activate a DAI 300M RWA vault and acquire BlackRock/ishares ETF products allocated in the same manner as MIP65, and, from this asset pool, finance and deploy over 12 months a set of wholesale, senior, secure, staged, Green Economy, Lending facility focused on the UK and the EU together with Arrow Global.
+summary: MIP89 will onboard and activate a DAI 300M RWA vault and acquire BlackRock-ishares ETF products allocated in the same manner as MIP65, and, from this asset pool, finance and deploy over 12 months a set of wholesale, senior, secure, staged, Green Economy, Lending facility focused on the UK and the EU together with Arrow Global.
 discussion_link: https://forum.makerdao.com/t/mip89-monetalis-arrow-andalusian/18338
 parameters:
     input_format:
