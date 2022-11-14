@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Monetalis - Redwood Friesian (MIP88) - November 14, 2022
-summary: MIP88 will (i) onboard and activate a DAI 225M RWA vault for the purpose of acquiring USDC via the PSM, and (ii) approve the future purchase of USD 225M of investment-grade residential mortgage-backed securities (“RMBS”) in a bespoke issuance through Redwood’s Sequoia securitization platform (c4.1), and (iii) initiate a cashflow reinvestment program.
+summary: MIP88 will (i) onboard and activate a DAI 225M RWA vault for the purpose of acquiring USDC via the PSM, and (ii) approve the future purchase of USD 225M of investment-grade residential mortgage-backed securities (RMBS) in a bespoke issuance through Redwood’s Sequoia securitization platform (c4.1), and (iii) initiate a cashflow reinvestment program.
 discussion_link: https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336
 parameters:
     input_format:
