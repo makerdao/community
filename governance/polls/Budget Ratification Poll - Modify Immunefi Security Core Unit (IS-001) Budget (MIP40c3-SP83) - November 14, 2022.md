@@ -1,6 +1,6 @@
 ---
 title: Budget Ratification Poll for Modify Immunefi Security (IS-001) Budget (MIP40c3-SP83) - November 14, 2022
-summary: Renew the DAI budget for Core Unit IS-001: Immunefi Security.
+summary: Renew the DAI budget for Core Unit Immunefi Security (IS-001).
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp83-modify-immunefi-security-core-unit-budget-is-001/18209
 parameters:
   input_format:
