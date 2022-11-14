@@ -37,8 +37,8 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 ## Review
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP87 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
-* **Option 1:** Approve standard option budget: 679,800.
-* **Option 2:** Approve speedy operations platform option budget: 799,800.
+* **Option 1:** Approve standard option budget: 2,719,200 DAI streamed over twelve months.
+* **Option 2:** Approve speedy operations platform option budget: 3,199,200 DAI streamed over twelve months.
 * **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
