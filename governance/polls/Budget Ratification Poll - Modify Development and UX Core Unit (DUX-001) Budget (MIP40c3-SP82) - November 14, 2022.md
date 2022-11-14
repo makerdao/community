@@ -19,9 +19,9 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: Approve existing budget only (Business as usual)
-   2: Approve reduced budget (NewBase - ~86% of existing budget)
-   3: Approve reduced budget (NewBear - ~76% of existing budget)
+   1: Approve existing budget only - 1,871,300 DAI annually
+   2: Approve reduced budget - NewBase 1,611,420 DAI annually
+   3: Approve reduced budget - NewBear 1,426,416 DAI annually 
    4: Reject budget
 start_date: 2022-11-14T16:00:00
 end_date: 2022-11-28T16:00:00
