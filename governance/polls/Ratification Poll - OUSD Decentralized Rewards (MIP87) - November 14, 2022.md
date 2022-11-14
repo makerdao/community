@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"MIP87 was written in response to Maker's request for proposals on how to earn revenue on idle capital. In its current form, Maker holds USDC and earns nothing; its purchasing power will decrease over time due to inflation now running over 8%. OUSD is the first stablecoin that grows directly in your wallet using yield that is generated from battle-tested DeFi protocols. It will assist Maker in reaching its investment goals through 2022 and beyond, while maintaining the highest level of decentralization possible."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP87/MIP87.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d844b1152573d9cf285c0cf72eff73e7992a3ef0/MIP87/MIP87.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP87)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip87-ousd-decentralized-rewards/18216)
 
