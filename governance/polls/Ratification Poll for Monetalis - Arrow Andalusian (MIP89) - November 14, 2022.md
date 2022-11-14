@@ -44,7 +44,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *"The legal, structural, and technical setup will be “close cousins” of the structure and technical implementation under [MIP65](https://mips.makerdao.com/mips/details/MIP65) and proposed under [MIP82](https://mips.makerdao.com/mips/details/MIP82) and will be executed under a strict verification program."*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP89/MIP89.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a34ee9c8fb6c042825f2d1e17fe390be6ee2ce7b/MIP89/MIP89.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP89)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip89-monetalis-arrow-andalusian/18338)
 
