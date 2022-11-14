@@ -1,5 +1,5 @@
 ---
-title: Budget Ratification Poll for Modify the Sustainable Ecosystem Scaling Core Unit Budget, SES-001 (MIP40c3-SP87) - November 14, 2022
+title: Budget Ratification Poll for Modify the Sustainable Ecosystem Scaling Core Unit DAI Budget, SES-001 (MIP40c3-SP87) - November 14, 2022
 summary: MIP40c3-SP87 modifies the DAI budget for the SES-001 Core Unit, continuing and extending operations through 31-Jan-2024.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp87-modify-the-sustainable-ecosystem-scaling-core-unit-budget-ses-001/18339
 parameters:
@@ -25,7 +25,7 @@ options:
 start_date: 2022-11-14T16:00:00
 end_date: 2022-11-28T16:00:00
 ---
-# Budget Ratification Poll for Modify the Sustainable Ecosystem Scaling Core Unit Budget, SES-001 (MIP40c3-SP87) - November 14, 2022
+# Budget Ratification Poll for Modify the Sustainable Ecosystem Scaling Core Unit DAI Budget, SES-001 (MIP40c3-SP87) - November 14, 2022
 
 The Governance Facilitators have placed a budget ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, November 14 at 16:00 UTC.
 
