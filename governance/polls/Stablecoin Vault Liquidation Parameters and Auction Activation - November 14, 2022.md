@@ -33,8 +33,8 @@ The community can vote in this poll to express support or opposition to the foll
 * Set [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) to 0.
 * Set [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0.
 * Set [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) to 1.
-* Set [`tau`](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#tau) to 72,000 minutes.
-* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 720 minutes.
+* Set [`tau`](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#tau) to 4,320,000 seconds (72,000 minutes, or 1,200 hours). This results in an estimated 10bps drop in price every 72 minutes, or 50 days until the price reaches 0.
+* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 43,200 secpnds (720 minutes, or 12 hours). This implies a minimum price of 0.99.
 * Set [Max Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown) to 0.99. 
 * Individually set the [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) for the vault types as follows:
   *  USDC-A - 20 million DAI
