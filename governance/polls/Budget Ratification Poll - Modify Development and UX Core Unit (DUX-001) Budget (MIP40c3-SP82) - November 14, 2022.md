@@ -46,7 +46,7 @@ The community may vote in this poll to express support or opposition to MIP40c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024, and is written in accordance with the latest MIP40 amendment. This budget proposal is written in recognition of today’s bearish market context and the DAO’s intent to cut costs. In this proposal we provide two distinct budget options that both represent a significant (>10%) bottom-line budget reduction for our Core Unit without impairing execution of our mandate. We collectively decided to not include any raises or bonuses in this budget proposal."*
+*MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024, and is written in accordance with the latest MIP40 amendment. This budget proposal is written in recognition of today’s bearish market context and the DAO’s intent to cut costs. In this proposal we provide two distinct budget options that both represent a significant (>10%) bottom-line budget reduction for our Core Unit without impairing execution of our mandate. We collectively decided to not include any raises or bonuses in this budget proposal.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP40/MIP40c3-Subproposals/MIP40c3-SP82.md)
