@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP41c4-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*"Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security."*
+*Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP41/MIP41c4-Subproposals/MIP41c4-SP38.md)
