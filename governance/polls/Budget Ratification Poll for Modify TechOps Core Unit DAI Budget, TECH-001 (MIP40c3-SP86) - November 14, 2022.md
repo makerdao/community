@@ -37,6 +37,9 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 
 The community may vote in this poll to express support or opposition to MIP40c3-SP84 being accepted and implemented in the Maker Protocol.
 
+* **Option 1:** Approve 749,685 DAI seed transfer and 2,398,988 DAI stream.
+* **Option 2:** Reject budget.
+
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
 *"The TechOps Core Unit handles system administration and technical support needs of Maker Protocol and its Core Units. TECH-001 strives to improve communication and collaboration between the developers, end users, and other MakerDAO stakeholders by applying DevOps principles to software delivery and first-class technical support. For the past year TECH-001 has been delivering infrastructure and support in an automated, safe, fast and repeatable way with the help from some of the modern Infrastructure Administration tools, while continuously monitoring and improving our process throughout".*
