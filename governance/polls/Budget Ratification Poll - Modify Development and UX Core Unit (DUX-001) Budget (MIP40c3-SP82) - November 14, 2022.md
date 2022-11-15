@@ -7,8 +7,8 @@ parameters:
     type: rank-free
     abstain: [0]
   victory_conditions:
-    - {
-        type: 'and',
+    - { 
+        type: 'and', 
         conditions: [
           { type : instant-runoff },
           { type : comparison, comparator : '>=', value: 10000 }
