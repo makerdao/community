@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable rETH-A DC-IAM, Housekeeping Changes - November 16, 2022
 summary: Parameter changes for Monetalis Clydesdale, activate the DC-IAM on rETH-A allowing DAI generation, housekeeping changes for RWA vaults and the chainlog.
 date: 2022-11-16T00:00:00.000Z
-address: "$spell_address"
+address: "0xDe7FC6DD8F96c02E823278ff58Fa3624ff1A97A9"
 
 ---
 # [Executive Proposal] Parameter Changes for RWA-007-A (Monetalis Clydesdale), Enable RETH-A DC-IAM, Housekeeping Changes - November 16, 2022
