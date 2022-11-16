@@ -14,7 +14,7 @@ parameters:
           { type : comparison, comparator : '>=', value: 10000 }
         ]
       }
-    - { type : default, value : 3 }
+    - { type : default, value : 4 }
   result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
