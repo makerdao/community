@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2022-11-21T16:00:00
+end_date: 2022-11-24T16:00:00
 ---
 # Poll: Add Multiple BlockTower Credit Vault Types (RWA010, RWA011, RWA012, RWA013) - November 21, 2022
 
@@ -32,52 +32,44 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 20 million DAI.
-* Minimum Vault Collateralization Ratio: $min_vault_cr
-* Minimum SPV Collateralization Ratio: $min_spv_cr
-* Minimum Underlying Collateralization Ratio: $min_underlying_cr
+* Minimum Vault Collateralization Ratio: 100%.
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 24,333,058 DAI.
 * Debt Write-Off Timelock: 0.
-* Liquidation Process: MIP21c3 and MIP22c2.
+* Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 ### RWA011 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI.
-* Minimum Vault Collateralization Ratio: $min_vault_cr
-* Minimum SPV Collateralization Ratio: $min_spv_cr
-* Minimum Underlying Collateralization Ratio: $min_underlying_cr
+* Minimum Vault Collateralization Ratio: 100%.
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 36,499,587 DAI.
 * Debt Write-Off Timelock: 0.
-* Liquidation Process: MIP21c3 and MIP22c2.
+* Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 ### RWA012 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI.
-* Minimum Vault Collateralization Ratio: $min_vault_cr
-* Minimum SPV Collateralization Ratio: $min_spv_cr
-* Minimum Underlying Collateralization Ratio: $min_underlying_cr
+* Minimum Vault Collateralization Ratio: 100%.
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 36,499,587 DAI.
 * Debt Write-Off Timelock: 0.
-* Liquidation Process: MIP21c3 and MIP22c2.
+* Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 ### RWA013 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 70 million DAI.
-* Minimum Vault Collateralization Ratio: $min_vault_cr
-* Minimum SPV Collateralization Ratio: $min_spv_cr
-* Minimum Underlying Collateralization Ratio: $min_underlying_cr
+* Minimum Vault Collateralization Ratio: 100%.
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 85,165,703 DAI.
 * Debt Write-Off Timelock: 0.
-* Liquidation Process: MIP21c3 and MIP22c2.
+* Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
-Please review the following forum threads containing information about $ilk ($asset_name) to inform your position before voting.
-* [Initial Collateral Application]($https://forum.makerdao.com/t/mip6-collateral-onboarding-application-blocktower-credit-arranger/16900)
+Please review the following forum threads containing information about BlockTower Credit to inform your position before voting.
+* [Initial Collateral Application](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-blocktower-credit-arranger/16900)
 * [Commercial and Legal Risk Evaluation Part 1](https://forum.makerdao.com/t/blocktower-credit-commercial-and-legal-risk-assessment-part-i/18790)
 * [Commercial and legal Risk Evaluation Part 2](https://forum.makerdao.com/t/blocktower-credit-commercial-and-legal-risk-assessment-part-ii/18791)
 * [Collateral Engineering Services Core Unit Evaluation](https://forum.makerdao.com/t/blocktower-credit-ces-domain-team-assessment/18817)
@@ -86,7 +78,7 @@ Please review the following forum threads containing information about $ilk ($as
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $ilk ($asset_name) will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
+* The BlockTower Credit vaults will be onboarded in a future executive vote as the Protocol Engineering Core Unit's schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
