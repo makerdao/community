@@ -33,7 +33,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/request-to-po
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#MIP38c2) will proceed with work necessary to onboard the arrarngement outlined in [MIP90](https://mips.makerdao.com/mips/details/MIP90).
+* The relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#MIP38c2) will proceed with work necessary to onboard the arrangement outlined in [MIP90](https://mips.makerdao.com/mips/details/MIP90).
 * This work will be utilized **only if** a later ratification poll (or other recognized governance poll) is approved by the MKR Voters.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
