@@ -3359,5 +3359,28 @@
     "ratification",
     "mips",
     "budget"
+  ],
+  "910": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter"
+  ],
+  "911": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter"
+  ],
+  "912": [
+    "high-impact",
+    "collateral-offboard",
+    "risk-parameter",
+    "auctions"
+  ],
+  "913": [
+    "medium-impact",
+    "real-world-assets",
+    "collateral-onboard"
   ]
 }
+
