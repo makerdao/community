@@ -1,6 +1,6 @@
 ---
-title: Add GNO as a new Vault Type - November 21, 2022
-summary: This poll proposes system parameters which could be used to initialize GNO as a new vault type.
+title: Add GNO (GnosisDAO) as a new Vault Type - November 21, 2022
+summary: This poll proposes system parameters which could be used to initialize GNO (GnosisDAO) as a new vault type.
 discussion_link: https://forum.makerdao.com/t/gno-mip6-collateral-onboarding-application-gnosisdao/17321
 parameters:
     input_format: single-choice
