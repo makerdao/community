@@ -15,7 +15,7 @@ options:
 start_date: 2022-11-21T16:00:00
 end_date: 2022-11-24T16:00:00
 ---
-# Poll: Offboarding Parameters for renBTC - November 21, 2022
+# Poll: Offboarding Parameters for renBTC-A - November 21, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit (RISK-001). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 21 at 16:00 UTC.
 
