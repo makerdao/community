@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether the Pre-Implementation Work for MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) should be proceed by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) in advance of the ratification poll for [MIP90](https://mips.makerdao.com/mips/details/MIP90).
+This poll asks whether the Pre-Implementation Work for MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) should proceed through the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state), in advance of the ratification poll for [MIP90](https://mips.makerdao.com/mips/details/MIP90).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-technical-and-other-work-necessary-to-onboard-the-deal-outlined-in-mip90/18845) to help inform your position before voting.
 
