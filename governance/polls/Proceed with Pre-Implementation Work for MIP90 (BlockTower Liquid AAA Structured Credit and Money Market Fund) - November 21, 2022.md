@@ -1,5 +1,5 @@
 ---
-title: Proceed with Pre-Implementation Work for MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) - November 21, 2022
+title: Proceed with Pre-Implementation Work for the Deal Outlined in MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) - November 21, 2022
 summary: Signal your support or opposition to moving forward with the commercial risk, legal, technical, and other work necessary to onboard the deal outlined in MIP90.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-technical-and-other-work-necessary-to-onboard-the-deal-outlined-in-mip90/18845
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-11-21T16:00:00
 end_date: 2022-11-24T16:00:00
 ---
-# Poll: Proceed with Pre-Implementation Work for MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) - November 21, 2022
+# Poll: Proceed with Pre-Implementation Work for the Deal Outlined in MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) - November 21, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Strategic Finance Core Unit (SF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP36). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning Monday, November 21 at 16:00 UTC.
 
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll asks whether the Pre-Implementation Work for MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) should proceed through the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state), in advance of the ratification poll for [MIP90](https://mips.makerdao.com/mips/details/MIP90).
+This poll asks whether the Pre-Implementation Work for the deal outlined in MIP90 (BlockTower Liquid AAA Structured Credit and Money Market Fund) should proceed through the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-technical-and-other-work-necessary-to-onboard-the-deal-outlined-in-mip90/18845) to help inform your position before voting.
 
