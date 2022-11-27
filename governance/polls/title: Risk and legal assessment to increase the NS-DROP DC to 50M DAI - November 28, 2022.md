@@ -15,7 +15,7 @@ options:
 start_date: 2022-11-28T16:00:00
 end_date: 2022-12-01T16:00:00
 ---
-# Poll: Risk and legal assessment to increase the NS-DROP DC to 50M DAI - November 28, 2022
+# Poll: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Strategic Finance Core Unit ([SF-001](https://mips.makerdao.com/mips/details/MIP39c2SP36)). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 28 at 16:00 UTC.
 
