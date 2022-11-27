@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 This poll allows Maker Governance to signal their support or opposition to the Strategic Finance Core Unit moving forwards with the risk and legal assessments on increasing the Debt Ceiling of the NS-DROP vault with the below parameters.
 
 * Adding in WSFS as the trustee, based on the [Trust Indenture](https://forum.makerdao.com/t/centrifuge-update-cornerstone-agreement-complete-to-onboard-rwas-to-maker-with-centrifuge-successful-collaboration-with-incubating-lts/15005) put together earlier this year by Christian Petersen and Eli Cohen.
-* Increase vault [debt ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 50mm DAITrust Indenture
+* Increase vault [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 50mm DAITrust Indenture
 * Remove senior co-investor requirement and over collateralization requirement
 * Increase Junior minimum to 20% from 15%
 * Increase [stability fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) to 4.5% from 3.5%
