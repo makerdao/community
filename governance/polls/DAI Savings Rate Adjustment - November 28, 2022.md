@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to rank their support of the following options:
+The community can vote in this poll to rank their support of the following options for the DAI Savings Rate (DSR):
 * Leave the DAI Savings Rate unchanged at 0.01%
 * Increase the DAI Savings Rate to 0.25%
 * Increase the DAI Savings Rate to 0.5%
