@@ -1,5 +1,5 @@
 ---
-title: Risk and legal assessment to increase the NS-DROP DC to 50M DAI - November 28, 2022
+title: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
 summary: Signal your support or opposition to move forward with the commercial risk, legal, and other work necessary to increase the NS-DROP DC to 50M DAI.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-and-other-work-necessary-to-increase-the-ns-drop-dc-to-50m-dai/18915
 parameters:
