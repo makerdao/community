@@ -32,7 +32,7 @@ This poll allows Maker Governance to signal their support or opposition to the S
 * Increase vault [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 50mm DAITrust Indenture
 * Remove senior co-investor requirement and over collateralization requirement
 * Increase Junior minimum to 20% from 15%
-* Increase [stability fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) to 4.5% from 3.5%
+* Increase [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) to 4.5% from 3.5%
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-and-other-work-necessary-to-increase-the-ns-drop-dc-to-50m-dai/18915) and New Silver [proposal](https://forum.makerdao.com/t/new-silver-requesting-debt-ceiling-increase/18752) to help inform your position before voting.
 
