@@ -38,6 +38,8 @@ The community can vote in this poll to rank their support of the following optio
 
 Please review the discussion [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925#dai-savings-rate-adjustment-3) to help inform your position before voting.
 
+For more information on the DAI Savings Rate please refer to the documentation [here](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate).
+
 ## Outcomes
 
 **If a non-'Abstain' option receives more votes than each other option (excluding 'Abstain') and the votes for that option exceed 50% of the total votes cast then that option is deemed the winner and the following actions will be taken:**
