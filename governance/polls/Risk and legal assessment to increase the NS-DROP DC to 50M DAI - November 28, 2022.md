@@ -1,5 +1,5 @@
 ---
-title: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
+title: Undertake Necessary Risk and Legal Assessments to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
 summary: Signal your support or opposition to move forward with the commercial risk, legal, and other work necessary to increase the NS-DROP Debt Ceiling to 50M DAI.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-and-other-work-necessary-to-increase-the-ns-drop-dc-to-50m-dai/18915
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-11-28T16:00:00
 end_date: 2022-12-01T16:00:00
 ---
-# Poll: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
+# Poll: Undertake Necessary Risk and Legal Assessments to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Strategic Finance Core Unit ([SF-001](https://mips.makerdao.com/mips/details/MIP39c2SP36)). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 28 at 16:00 UTC.
 
