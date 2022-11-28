@@ -28,38 +28,53 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 MKR Token Holders may vote in this poll to express support or opposition to the following parameter changes:
 
-### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) changes
-- Reduce the ETH-B Maximum Debt Ceiling (`line`) from 500 million DAI to **250 million DAI**.
-- Increase the WSTETH-A Maximum Debt Ceiling (`line`) from 150 million DAI to **500 million DAI**.
-- Increase the WSTETH-B Maximum Debt Ceiling (`line`) from 200 million DAI to **500 million DAI**.
-- Reduce the WBTC-A Maximum Debt Ceiling (`line`) from 2 billion DAI to **500 million DAI**.
-- Reduce the WBTC-B Maximum Debt Ceiling (`line`) from 500 million DAI to **250 million DAI**.
-- Reduce the WBTC-C Maximum Debt Ceiling (`line`) from 1 billion DAI to **500 million DAI**.
-- Reduce the MANA-A Maximum Debt Ceiling (`line`) from 1 million DAI to **0 DAI**.
-- Reduce the Compound V2 D3M Maximum Debt Ceiling (`line`) from 160 million DAI to **10 million DAI**.
-- Reduce the GUNIV3DAIUSDC1-A Maximum Debt Ceiling (`line`) from 1 billion DAI to **100 million DAI**.
-- Reduce the GUNIV3DAIUSDC2-A Maximum Debt Ceiling (`line`) from 1.25 billion DAI to **100 million DAI**.
-- Reduce the UNIV2DAIUSDC-A Maximum Debt Ceiling (`line`) from 300 million DAI to **100 million DAI**.
-- Reduce the PSM-USDP-A Maximum Debt Ceiling (`line`) from 500 million DAI to **450 million DAI**.
+### Vault Parameter Changes
 
-### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) changes
-- Reduce the WSTETH-A Target Available Debt (`gap`) from 30 million DAI to **15 million DAI**.
-- Reduce the WSTETH-B Target Available Debt (`gap`) from 30 million DAI to **15 million DAI**.
-- Reduce the WBTC-A Target Available Debt (`gap`) from 80 million DAI to **20 million DAI**.
-- Reduce the WBTC-B Target Available Debt (`gap`) from 30 million DAI to **10 million DAI**.
-- Reduce the WBTC-C Target Available Debt (`gap`) from 100 million DAI to **20 million DAI**.
-- Reduce the LINK-A Target Available Debt (`gap`) from 7 million DAI to **2.5 million DAI**.
-- Reduce the YFI-A Target Available Debt (`gap`) from 7 million DAI to **1.5 million DAI**.
+#### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases
 
-### [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) changes
-- Increase the WBTC-A Ceiling Increase Cooldown (`ttl`) from 6 hours to **24 hours**.
-- Increase the WBTC-B Ceiling Increase Cooldown (`ttl`) from 8 hours to **24 hours**.
-- Increase the WBTC-C Ceiling Increase Cooldown (`ttl`) from 8 hours to **24 hours**.
+- Increase the WSTETH-A Maximum Debt Ceiling (`line`) by 350 million DAI from 150 million DAI to **500 million DAI**.
+- Increase the WSTETH-B Maximum Debt Ceiling (`line`) by 300 million DAI from 200 million DAI to **500 million DAI**.
 
-### [Peg stability module](https://manual.makerdao.com/module-index/module-psm) fee changes
-- Increase the PSM-USDP-A [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) from 0% to **0.1%**.
-- Increase the PSM-GUSD-A [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) from 0% to **0.1%**.
-- Reduce the PSM-GUSD-A [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) from 0.2% to **0.1%**.
+#### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Reductions
+- Reduce the ETH-B Maximum Debt Ceiling (`line`) by 250 million DAI from 500 million DAI to **250 million DAI**.
+- Reduce the WBTC-A Maximum Debt Ceiling (`line`) by 1.5 billion DAI from 2 billion DAI to **500 million DAI**.
+- Reduce the WBTC-B Maximum Debt Ceiling (`line`) by 250 million DAI from 500 million DAI to **250 million DAI**.
+- Reduce the WBTC-C Maximum Debt Ceiling (`line`) by 500 million DAI from 1 billion DAI to **500 million DAI**.
+- Reduce the MANA-A Maximum Debt Ceiling (`line`) by 1 million DAI from 1 million DAI to **0 DAI**.
+- Reduce the GUNIV3DAIUSDC1-A Maximum Debt Ceiling (`line`) by 900 million DAI from 1 billion DAI to **100 million DAI**.
+- Reduce the GUNIV3DAIUSDC2-A Maximum Debt Ceiling (`line`) by 1.15 billion DAI from 1.25 billion DAI to **100 million DAI**.
+- Reduce the UNIV2DAIUSDC-A Maximum Debt Ceiling (`line`) by 200 million DAI from 300 million DAI to **100 million DAI**.
+- Reduce the PSM-USDP-A Maximum Debt Ceiling (`line`) by 50 million DAI from 500 million DAI to **450 million DAI**.
+
+#### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Reductions
+- Reduce the WSTETH-A Target Available Debt (`gap`) by 15 million DAI from 30 million DAI to **15 million DAI**.
+- Reduce the WSTETH-B Target Available Debt (`gap`) by 15 million DAI from 30 million DAI to **15 million DAI**.
+- Reduce the WBTC-A Target Available Debt (`gap`) by 60 million DAI from 80 million DAI to **20 million DAI**.
+- Reduce the WBTC-B Target Available Debt (`gap`) by 20 million DAI from 30 million DAI to **10 million DAI**.
+- Reduce the WBTC-C Target Available Debt (`gap`) by 80 million DAI from 100 million DAI to **20 million DAI**.
+- Reduce the LINK-A Target Available Debt (`gap`) by 4.5 million DAI from 7 million DAI to **2.5 million DAI**.
+- Reduce the YFI-A Target Available Debt (`gap`) by 5.5 million DAI from 7 million DAI to **1.5 million DAI**.
+
+#### [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) Increases
+- Increase the WBTC-A Ceiling Increase Cooldown (`ttl`) by 18 hours from 6 hours to **24 hours**.
+- Increase the WBTC-B Ceiling Increase Cooldown (`ttl`) by 16 hours from 8 hours to **24 hours**.
+- Increase the WBTC-C Ceiling Increase Cooldown (`ttl`) by 16 hours from 8 hours to **24 hours**.
+
+### [Peg Stability Module (PSM)](https://manual.makerdao.com/module-index/module-psm) Parameter Changes
+
+#### [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) Increases
+- Increase the PSM-USDP-A Fee In (`tin`) by 0.1% from 0% to **0.1%**.
+- Increase the PSM-GUSD-A Fee In (`tin`) by 0.1% from 0% to **0.1%**.
+
+#### [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) Reduction
+
+- Reduce the PSM-GUSD-A Fee Out (`tout`) by 0.1% from 0.2% to **0.1%**.
+
+### [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit) Parameter Change
+
+- Reduce the Compound V2 D3M [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 150 million DAI from 160 million DAI to **10 million DAI**.
+
+**Note:** the Compound V2 D3M is being onboarded with a Maximum Debt Ceiling (`line`) of 5 million DAI. It had previously been proposed to increase this to 160 million DAI once Protocol Engineering were happy, this proposal reduces that target value from 160 million DAI to 10 million DAI. It does not change the onboarding value of 5 million DAI.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925) to help inform your position before voting.
 
