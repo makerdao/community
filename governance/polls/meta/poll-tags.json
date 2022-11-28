@@ -3381,6 +3381,22 @@
     "medium-impact",
     "real-world-assets",
     "collateral-onboard"
+  ],
+  "914": [
+    "high-impact",
+    "dsr",
+    "momc"
+  ],
+  "915": [
+    "high-impact",
+    "risk-parameter",
+    "momc",
+    "d3m",
+    "psm"
+  ],
+  "916": [
+    "medium-impact",
+    "real-world-assets"
   ]
 }
 
