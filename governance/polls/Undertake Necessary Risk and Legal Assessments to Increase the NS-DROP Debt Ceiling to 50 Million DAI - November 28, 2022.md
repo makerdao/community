@@ -1,5 +1,5 @@
 ---
-title: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
+title: Undertake Necessary Risk and Legal Assessments to Increase the NS-DROP Debt Ceiling to 50 Million DAI - November 28, 2022
 summary: Signal your support or opposition to move forward with the commercial risk, legal, and other work necessary to increase the NS-DROP Debt Ceiling to 50M DAI.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-and-other-work-necessary-to-increase-the-ns-drop-dc-to-50m-dai/18915
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-11-28T16:00:00
 end_date: 2022-12-01T16:00:00
 ---
-# Poll: Undertake Risk and Legal Assessment to Increase the NS-DROP Debt Ceiling to 50M DAI - November 28, 2022
+# Poll: Undertake Necessary Risk and Legal Assessments to Increase the NS-DROP Debt Ceiling to 50 Million DAI - November 28, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Strategic Finance Core Unit ([SF-001](https://mips.makerdao.com/mips/details/MIP39c2SP36)). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 28 at 16:00 UTC.
 
@@ -29,10 +29,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 This poll allows Maker Governance to signal their support or opposition to the Strategic Finance Core Unit moving forwards with the risk and legal assessments on increasing the Debt Ceiling of the NS-DROP vault with the below parameters.
 
 * Adding in WSFS as the trustee, based on the [Trust Indenture](https://forum.makerdao.com/t/centrifuge-update-cornerstone-agreement-complete-to-onboard-rwas-to-maker-with-centrifuge-successful-collaboration-with-incubating-lts/15005) put together earlier this year by Christian Petersen and Eli Cohen.
-* Increase vault [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 50mm DAITrust Indenture
-* Remove senior co-investor requirement and over collateralization requirement
-* Increase Junior minimum to 20% from 15%
-* Increase [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) to 4.5% from 3.5%
+* Increase Vault [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **50 million DAI**.
+* Remove senior co-investor requirement and over-collateralization requirement
+* Increase Junior minimum to **20%** from 15%
+* Increase [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) to **4.5%** from 3.5%
 
 Please review the discussion [thread](https://forum.makerdao.com/t/request-to-poll-poll-to-move-forward-with-the-commercial-risk-legal-and-other-work-necessary-to-increase-the-ns-drop-dc-to-50m-dai/18915) and New Silver [proposal](https://forum.makerdao.com/t/new-silver-requesting-debt-ceiling-increase/18752) to help inform your position before voting.
 

@@ -1,6 +1,6 @@
 ---
 title:  DAI Savings Rate Adjustment - November 28, 2022
-summary: Rank your preferred options to adjust the DAI Savings Rate within a range of 0.01% to 1%.
+summary: Rank your preferred options for the DAI Savings Rate within a range of 0.01% to 1%.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925#dai-savings-rate-adjustment-3
 parameters:
     input_format: rank-free
@@ -10,11 +10,11 @@ parameters:
 version: v2.0.0
 options:
    0: Abstain
-   1: Leave the DAI Savings Rate unchanged at 0.01%
-   2: Increase the DAI Savings Rate to 0.25%
-   3: Increase the DAI Savings Rate to 0.5%
-   4: Increase the DAI Savings Rate to 0.75%
-   5: Increase the DAI Savings Rate to 1%
+   1: Leave the DSR unchanged at 0.01%
+   2: Increase the DSR to 0.25%
+   3: Increase the DSR to 0.5%
+   4: Increase the DSR to 0.75%
+   5: Increase the DSR to 1%
 start_date: 2022-11-28T16:00:00
 end_date: 2022-12-01T16:00:00
 ---
