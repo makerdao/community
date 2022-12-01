@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting and Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
+title: Template - [Executive Vote] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
 summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC and USDP vaults, whitelists rETH oracle, updates Starknet Governance Delay, and transfers MKR vesting for DUX-001.
 date: 2022-12-02T00:00:00.000Z, 
 address: "$spell_address"
@@ -16,14 +16,13 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- Liquidations 2.0 and corresponding parameters will be activated for GUSD-A, USDC-A, and USDP-A Vaults, as detailed below. 
+- Starknet Governance Relay will be updated, as detailed below.
+- 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18), as detailed below. 
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+- Compound v2 D3M will be onboarded and activated, as detailed below. 
+- A new rETH oracle address will be whitelisted, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
