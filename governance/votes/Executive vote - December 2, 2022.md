@@ -61,9 +61,30 @@ For more information on the rationale behind this change, please see the initial
 
 As per this [request for executive inclusion](https://forum.makerdao.com/t/starknet-changes-for-executive-spell-on-the-week-of-2022-11-29/18818), this executive proposal will update the Starknet Fees for the GovRelay if passed. For more information on the need for these fees, please see [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468) or this [documentation](https://docs.starknet.io/documentation/architecture_and_concepts/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
-### $executive_entry_3
+### DUX-001 MKR Vesting
 
-$executive_entry_description_3
+As per this [poll](https://vote.makerdao.com/polling/QmSYLL9K#vote-breakdown), 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18) Auditor's Wallet, [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5a994d8428ccebcc153863ccda9d2be6352f89ad), if this executive proposal passes. You can view the metholodology and original proposal for the team's vesting [here](https://mips.makerdao.com/mips/details/MIP40c3SP27).
+
+### Compound v2 DAI Direct Deposit Module (D3M) Onboarding
+
+As per this [poll](https://vote.makerdao.com/polling/QmWYfgY2#vote-breakdown), the Compound v2 D3M will be onboarded with the following parameters, if this executive proposal passes. 
+
+#### Vault Parameters
+
+* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): **5 million DAI**.
+* [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): **5 million DAI**.
+* [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **12 hours**.
+* [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar): **2%**.
+
+#### Threads and Assesments 
+
+Please review the following resources containing information about The Compound V2 D3M to inform your position before voting.
+* [Proposal Thread](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997)
+* [Initial Risk Core Unit Evaluation](https://forum.makerdao.com/t/compound-d3m-risk-assessment/12580)
+* [Maker Open Market Committee (MOMC) Evaluation With Updated Risk Parameters](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-28-october-2022/18564)
+* [Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/direct-compoundv2-dai-direct-deposit-module-technical-assessment/17307)
+* [Collateral Engineering Services Core Unit Compound and cDAI Evaluation](https://forum.makerdao.com/t/compound-d3m-compound-protocol-cdai-erc20-token-ces-domain-team-assessment/14993)
+* [MIP 50: DAI Direct Deposit Module](https://mips.makerdao.com/mips/details/MIP50)
 
 ## Review
 
