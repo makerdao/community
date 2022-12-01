@@ -104,9 +104,9 @@ Please review the following forum threads containing information about GNO (Gnos
 * [Oracles Core Unit Evaluation](https://forum.makerdao.com/t/gno-collateral-onboarding-oracle-assessment-mip10c3-sp23/18734).
 * [Growth Core Unit Evaluation](https://forum.makerdao.com/t/agreement-between-makergrowth-and-gnosisdao-proposal-for-gno-a-vault-in-mcd/18806).
 
-### Real World Asset Vaults Onboarding
+### BlockTower Credit Real World Asset Vaults Onboarding
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmNucsGt), multiple vault types with BlockTower Credit as the arranger with the parameters below, if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmNucsGt), multiple vault types with BlockTower Credit as the arranger will be onboarded with the parameters below, if this executive proposal passes.
 
 $_additional details here? 
 
