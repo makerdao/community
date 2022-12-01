@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Vesting Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
-summary: Recognized Delegate Compensation for November 2022, Onboarding GNO-A (GnosisDAO) Vault Type, Onboarding Multiple BlockTower Credit Real World Asset Vault Types (RWA010, RWA011, RWA012, RWA013), Offboarding renBTC-A (renBTC) Vault Type, Tech-Ops (TECH-001) MKR Vesting Transfer, MOMC parameter changes, and DAI Savings Rate (DSR) Adjustment.
+title: Template - [Executive Vote] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
+summary: Recognized Delegate Compensation for November 2022, Onboarding GNO-A (GnosisDAO) Vault Type, Onboarding Multiple BlockTower Credit Real World Asset Vault Types (RWA010, RWA011, RWA012, RWA013), Offboarding renBTC-A (renBTC) Vault Type, Tech-Ops Core Unit (TECH-001) MKR Vesting Transfer, MOMC parameter changes, and DAI Savings Rate (DSR) Adjustment.
 date: 2022-12-09T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Vesting Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
+# [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
