@@ -16,8 +16,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Liquidations 2.0 and corresponding parameters will be activated for GUSD-A, USDC-A, and USDP-A Vaults, as detailed below. 
-- Starknet Governance Relay will be updated, as detailed below.
+- [Liquidations 2.0](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation) and corresponding parameters will be activated for GUSD-A, USDC-A, and USDP-A Vaults, as detailed below. 
+- [Starknet Governance Relay](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468) will be updated, as detailed below.
 - 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18), as detailed below. 
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
