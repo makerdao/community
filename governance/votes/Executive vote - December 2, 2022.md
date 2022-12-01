@@ -21,14 +21,14 @@ If this executive proposal passes, the following **changes** will occur within t
 - 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18), as detailed below. 
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Compound v2 D3M will be onboarded and activated, as detailed below. 
-- A new rETH oracle address will be whitelisted, as detailed below.
+- Compound v2 [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit) will be onboarded and activated, as detailed below. 
+- A new [rETH oracle address will be whitelisted](https://forum.makerdao.com/t/whitelist-light-feed-for-reth-oracle/18908), as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues on new collateral types.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
