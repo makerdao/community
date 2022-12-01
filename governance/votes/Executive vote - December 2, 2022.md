@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
-summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC and USDP vaults, whitelists rETH oracle, updates Starknet Governance Delay, and transfers MKR vesting for DUX-001.
+summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC and USDP vaults, whitelists rETH oracle, updates Starknet Fee Relay, and transfers MKR vesting for DUX-001.
 date: 2022-12-02T00:00:00.000Z, 
 address: "$spell_address"
 
@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - [Liquidations 2.0](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation) and corresponding parameters will be activated for GUSD-A, USDC-A, and USDP-A Vaults, as detailed below. 
-- [Starknet Governance Relay](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468) will be updated, as detailed below.
+- [Starknet GovRelay Relay](https://forum.makerdao.com/t/starknet-changes-for-executive-spell-on-the-week-of-2022-11-29/18818) will be updated, as detailed below.
 - 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18), as detailed below. 
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
@@ -36,13 +36,30 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Activate Liquidations on Stablecoin Vaults
 
-$executive_entry_description_1
+As per [this poll](https://vote.makerdao.com/polling/QmZbsHqu), liquidations auctions will be turned on for GUSD-A, USDC-A, and USDP-A Vaults as detailed below, if this executive proposal passes.
 
-### $executive_entry_2
+For more information on the rationale behind this change, please see the initial [signal request](https://forum.makerdao.com/t/signal-request-clear-vaults-bad-debt-in-the-makerdao-protocol/18376) proposing this change.
 
-$executive_entry_description_3
+#### Vault Parameters
+
+* Use [Linear Decrease](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#linear-decrease) for [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function).
+* Set [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0.
+* Set [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) to 0.
+* Set [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0.
+* Set [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) to 1.
+* Set [`tau`](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#tau) to 4,320,000 seconds (72,000 minutes, or 1,200 hours). This results in an estimated 10bps drop in price every 72 minutes, or 50 days until the price reaches 0.
+* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 43,200 secpnds (720 minutes, or 12 hours). This implies a minimum price of 0.99.
+* Set [Max Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown) to 0.99. 
+* Individually set the [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) for the vault types as follows:
+  *  USDC-A - 20 million DAI
+  *  USDP-A - 3 million DAI 
+  *  GUSD-A - 300,000 DAI
+
+### Starknet GovRelay Upgrade 
+
+As per this [request for executive inclusion](https://forum.makerdao.com/t/starknet-changes-for-executive-spell-on-the-week-of-2022-11-29/18818), this executive proposal will update the Starknet Fees for the GovRelay if passed. For more information on the need for these fees, please see [this post](https://forum.makerdao.com/t/starknet-changes-for-2022-10-26-executive-spell/18468) or this [documentation](https://docs.starknet.io/documentation/architecture_and_concepts/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees).
 
 ### $executive_entry_3
 
