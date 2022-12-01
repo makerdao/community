@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Recognized Delegate Compensation Distribution for November 2022
 
-As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **103,230 DAI** will be distributed to 20 Recognized Delegates as itemized below if this executive proposal passes:
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **103,230 DAI** will be distributed to 20 Recognized Delegates as itemized below, if this executive proposal passes:
 
 - 12,000 DAI will be transferred to [StableNode](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b#delegate-credentials) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 - 12,000 DAI will be transferred to [schuppi](https://vote.makerdao.com/address/0xb4b82978fce6d26a22dea7e653bb9ce8e14f8056) at [0xCCffDBc38B1463847509dCD95e0D9AAf54D1c167](https://etherscan.io/address/0xCCffDBc38B1463847509dCD95e0D9AAf54D1c167).
@@ -248,7 +248,7 @@ As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/de
 
 ### MOMC Parameter Changes
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj9cW) on the latest MakerDAO Open Market Committee [proposal](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925), the following parameter changes will be made in the Maker Protocol, if this executive proposal passes:
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj9cW), the following changes recommended by the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) will be made, if this executive proposal passes:
 
 #### Vault Parameter Changes
 
