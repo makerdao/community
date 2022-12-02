@@ -70,32 +70,32 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBo
 #### Initial Vault Parameters
 
 * Underlying Collateral: GNO (GnosisDAO)
-* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 2.5%
-* [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 350%
-* [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): 100,000 DAI
-* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 5 million DAI
-* [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): 3 million DAI
-* [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): 8 hours
+* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 2.5%.
+* [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 350%.
+* [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): 100,000 DAI.
+* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 5 million DAI.
+* [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): 3 million DAI.
+* [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): 8 hours.
 
 #### Liquidation Parameters
 
-* [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function): Exponential Stair Step
-* [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 0.99
-* [Price Change Interval (`step`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 60 seconds
-* [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier): 1.2
-* [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): 13%
+* [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function): Exponential Stair Step.
+* [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 0.99.
+* [Price Change Interval (`step`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 60 seconds.
+* [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier): 1.2.
+* [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): 13%.
 
 #### Limits
 
-* [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit): 2 million DAI
-* [Maximum Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown): 0.25
-* [Maximum Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration): 8,400 seconds
-* [Breaker Price Tolerance (`tolerance`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-breaker-price-tolerance): 0.5
+* [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit): 2 million DAI.
+* [Maximum Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown): 0.25.
+* [Maximum Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration): 8,400 seconds.
+* [Breaker Price Tolerance (`tolerance`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-breaker-price-tolerance): 0.5.
 
 #### Incentives
 
-* [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%
-* [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 250 DAI
+* [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%.
+* [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 250 DAI.
 
 Please review the following forum threads containing information about GNO (GnosisDAO) to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/gno-mip6-collateral-onboarding-application-gnosisdao/17321).
@@ -233,7 +233,7 @@ Please review the following forum threads containing information about BlockTowe
 
 ### renBTC-A Offboarding
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNMDfb), the following parameters changes will occur to offboard renBTC-A, if this executive proposal passes:
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNMDfb), the following parameters changes will occur to offboard renBTC-A, if this executive proposal passes.
 
 - Reduce the [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
 - Reduce the [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0 DAI.
@@ -248,7 +248,7 @@ As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/de
 
 ### MOMC Parameter Changes
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj9cW), the following changes recommended by the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) will be made, if this executive proposal passes:
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj9cW), the following changes recommended by the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355) will be made, if this executive proposal passes.
 
 #### Vault Parameter Changes
 
