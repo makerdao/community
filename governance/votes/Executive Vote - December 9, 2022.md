@@ -235,9 +235,9 @@ Please review the following forum threads containing information about BlockTowe
 
 As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNMDfb), the following parameters changes will occur to offboard renBTC-A, if this executive proposal passes:
 
-- Lower the [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
-- Lower the [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0 DAI.
-- Lower the [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) to 350,000 DAI.
+- Reduce the [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
+- Reduce the [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0 DAI.
+- Reduce the [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) to 350,000 DAI.
 - Increase the [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) to 5000%.
 
 Please review the [offboarding discussion thread](https://forum.makerdao.com/t/renbtc-a-proposed-offboarding-parameters-context/18864) to inform your position before voting.
