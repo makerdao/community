@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
-summary: Recognized Delegate Compensation for November 2022, Onboarding GNO-A (GnosisDAO) Vault Type, Onboarding Multiple BlockTower Credit Real World Asset Vault Types (RWA010, RWA011, RWA012, RWA013), Offboarding renBTC-A (renBTC) Vault Type, Tech-Ops Core Unit (TECH-001) MKR Vesting Transfer, MOMC parameter changes, and DAI Savings Rate (DSR) Adjustment.
+summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding Multiple BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, Tech-Ops Core Unit MKR Vesting Transfer, MOMC parameter changes, and DAI Savings Rate Adjustment.
 date: 2022-12-09T00:00:00.000Z
 address: "$spell_address"
 
