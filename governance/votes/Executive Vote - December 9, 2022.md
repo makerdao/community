@@ -72,8 +72,8 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBo
 * Underlying Collateral: GNO (GnosisDAO)
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 2.5%
 * [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 350%
-* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 5 million DAI
 * [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor): 100,000 DAI
+* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): 5 million DAI
 * [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): 3 million DAI
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): 8 hours
 
