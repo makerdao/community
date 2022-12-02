@@ -244,7 +244,7 @@ Please review the [offboarding discussion thread](https://forum.makerdao.com/t/r
 
 ### Tech-Ops Core Unit (TECH-001) MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP54) **257.31 MKR** will be transfered to the [Tech-Ops Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29) administrative wallet [0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6](https://etherscan.io/address/0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6), if this executive proposal passes.
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP54) **257.31 MKR** will be transfered to the [Tech-Ops Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29) auditor wallet [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B), if this executive proposal passes.
 
 ### MOMC Parameter Changes
 
