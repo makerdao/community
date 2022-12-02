@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, and DAI Savings Rate Adjustment - December 09, 2022
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s), Collateral Engineering Services Core Unit, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
 
