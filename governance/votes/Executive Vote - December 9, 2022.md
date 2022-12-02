@@ -266,7 +266,6 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj
 - Reduce the GUNIV3DAIUSDC1-A Maximum Debt Ceiling (`line`) by 900 million DAI from 1 billion DAI to **100 million DAI**.
 - Reduce the GUNIV3DAIUSDC2-A Maximum Debt Ceiling (`line`) by 1.15 billion DAI from 1.25 billion DAI to **100 million DAI**.
 - Reduce the UNIV2DAIUSDC-A Maximum Debt Ceiling (`line`) by 200 million DAI from 300 million DAI to **100 million DAI**.
-- Reduce the PSM-USDP-A Maximum Debt Ceiling (`line`) by 50 million DAI from 500 million DAI to **450 million DAI**.
 
 ##### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Reductions
 - Reduce the WSTETH-A Target Available Debt (`gap`) by 15 million DAI from 30 million DAI to **15 million DAI**.
@@ -283,6 +282,9 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmVXj
 - Increase the WBTC-C Ceiling Increase Cooldown (`ttl`) by 16 hours from 8 hours to **24 hours**.
 
 #### [Peg Stability Module (PSM)](https://manual.makerdao.com/module-index/module-psm) Parameter Changes
+
+##### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Reduction
+- Reduce the PSM-USDP-A Maximum Debt Ceiling (`line`) by 50 million DAI from 500 million DAI to **450 million DAI**.
 
 ##### [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) Increases
 - Increase the PSM-USDP-A Fee In (`tin`) by 0.1% from 0% to **0.1%**.
