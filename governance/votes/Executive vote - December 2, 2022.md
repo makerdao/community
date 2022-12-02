@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
-summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC and USDP vaults, whitelists rETH oracle, updates Starknet Fee Relay, and transfers MKR vesting for DUX-001.
+summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC, and USDP vaults, whitelists rETH oracle, updates Starknet Fee Relay, and transfers MKR vesting for DUX-001.
 date: 2022-12-02T00:00:00.000Z, 
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting and Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
+# [Executive Proposal] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -50,7 +50,7 @@ For more information on the rationale behind this change, please see the initial
 * Set [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0.
 * Set [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) to 1.
 * Set [`tau`](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#tau) to 4,320,000 seconds (72,000 minutes, or 1,200 hours). This results in an estimated 10bps drop in price every 72 minutes, or 50 days until the price reaches 0.
-* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 43,200 secpnds (720 minutes, or 12 hours). This implies a minimum price of 0.99.
+* Set [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) to 43,200 seconds (720 minutes, or 12 hours). This implies a minimum price of 0.99.
 * Set [Max Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown) to 0.99. 
 * Individually set the [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) for the vault types as follows:
   *  USDC-A - 20 million DAI
@@ -63,7 +63,7 @@ As per this [request for executive inclusion](https://forum.makerdao.com/t/stark
 
 ### DUX-001 MKR Vesting
 
-As per this [poll](https://vote.makerdao.com/polling/QmSYLL9K#vote-breakdown), 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18) Auditor's Wallet, [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5a994d8428ccebcc153863ccda9d2be6352f89ad), if this executive proposal passes. You can view the metholodology and original proposal for the team's vesting [here](https://mips.makerdao.com/mips/details/MIP40c3SP27).
+As per this [poll](https://vote.makerdao.com/polling/QmSYLL9K#vote-breakdown), 180.6 MKR will be transfered to the [Development & UX Core Unit (DUX-001)](https://mips.makerdao.com/mips/details/MIP39c2SP18) Auditor's Wallet, [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5a994d8428ccebcc153863ccda9d2be6352f89ad), if this executive proposal passes. You can view the methodology and original proposal for the team's vesting [here](https://mips.makerdao.com/mips/details/MIP40c3SP27).
 
 ### Compound v2 DAI Direct Deposit Module (D3M) Onboarding
 
@@ -76,7 +76,7 @@ As per this [poll](https://vote.makerdao.com/polling/QmWYfgY2#vote-breakdown), t
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **12 hours**.
 * [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar): **2%**.
 
-#### Threads and Assesments 
+#### Threads and Assessments 
 
 Please review the following resources containing information about The Compound V2 D3M to inform your position before voting.
 * [Proposal Thread](https://forum.makerdao.com/t/signal-request-should-maker-prioritize-onboarding-a-compound-d3m/11997)
@@ -88,7 +88,7 @@ Please review the following resources containing information about The Compound 
 
 ### rETH Oracle Whitelisting
 
-As per this [request for inclusion](https://forum.makerdao.com/t/whitelist-light-feed-for-reth-oracle/18908), [0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e](https://etherscan.io/address/0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e) will be added to the rETH medianizer, if this executive proposal passes. This light feed was part of the [onboarding Oracle Assesment](https://forum.makerdao.com/t/mip10c3-sp22-proposal-reth-oracle-collateral-onboarding-oracle-assessment/15564) for rETH and was erroniosly missed when lifting feeds for the new collateral. 
+As per this [request for inclusion](https://forum.makerdao.com/t/whitelist-light-feed-for-reth-oracle/18908), [0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e](https://etherscan.io/address/0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e) will be added to the rETH medianizer if this executive proposal passes. This light feed was part of the [onboarding Oracle assessment](https://forum.makerdao.com/t/mip10c3-sp22-proposal-reth-oracle-collateral-onboarding-oracle-assessment/15564) for rETH and was erroneously missed when lifting feeds for the new collateral. 
 
 To see a complete list of Oracle feeds, please see the [MIP10c17 listing](https://mips.makerdao.com/mips/details/MIP10c17SP#specification).
  
