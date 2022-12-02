@@ -301,6 +301,8 @@ As per this [governance poll](https://vote.makerdao.com/polling/914), the follow
 
 Please review the [discussion thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925#dai-savings-rate-adjustment-3) containing information about the DAI Savings Rate Adjustment to inform your position before voting.
 
+For more information on the DAI Savings Rate please refer to the documentation [here](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate).
+
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
