@@ -1,8 +1,8 @@
 ---
 title: Template - [Executive Vote] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
 summary: Onboards the Compound Dai Direct Deposit Module, activates Liquidations 2.0 for GUSD, USDC, and USDP vaults, whitelists rETH oracle, updates Starknet Fee Relay, and transfers MKR vesting for DUX-001.
-date: 2022-12-02T00:00:00.000Z, 
-address: "$spell_address"
+date: 2022-12-02T00:00:00.000Z
+address: "0x08DbDBCF56aC587b4E6d6c6ecC5F242Ea569e5CB"
 
 ---
 # [Executive Proposal] Compound D3M Onboarding, Activating Stablecoin Liquidations, Oracle Feed Whitelisting, Starknet Relay Upgrade, and MKR Vesting - December 2, 2022
