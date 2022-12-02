@@ -86,6 +86,12 @@ Please review the following resources containing information about The Compound 
 * [Collateral Engineering Services Core Unit Compound and cDAI Evaluation](https://forum.makerdao.com/t/compound-d3m-compound-protocol-cdai-erc20-token-ces-domain-team-assessment/14993)
 * [MIP 50: DAI Direct Deposit Module](https://mips.makerdao.com/mips/details/MIP50)
 
+### rETH Oracle Whitelisting
+
+As per this [request for inclusion](https://forum.makerdao.com/t/whitelist-light-feed-for-reth-oracle/18908), [0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e](https://etherscan.io/address/0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e) will be added to the rETH medianizer, if this executive proposal passes. This light feed was part of the [onboarding Oracle Assesment](https://forum.makerdao.com/t/mip10c3-sp22-proposal-reth-oracle-collateral-onboarding-oracle-assessment/15564) for rETH and was erroniosly missed when lifting feeds for the new collateral. 
+
+To see a complete list of Oracle feeds, please see the [MIP10c17 listing](https://mips.makerdao.com/mips/details/MIP10c17SP#specification).
+ 
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
