@@ -65,7 +65,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 
 ### Onboard GNO-A as a New Vault Type
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBoGiu), following this [recomendation](https://forum.makerdao.com/t/gno-collateral-onboarding-risk-evaluation/18820) from the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2), GNO-A will be onboarded to the Maker Protocol with the following parameters, if this executive proposal passes: 
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBoGiu), following this [recomendation](https://forum.makerdao.com/t/gno-collateral-onboarding-risk-evaluation/18820) from the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP2), GNO-A will be onboarded to the Maker Protocol with the following parameters, if this executive proposal passes. 
 
 #### Initial Vault Parameters
 
