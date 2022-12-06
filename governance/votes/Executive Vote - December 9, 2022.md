@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Limit Increase - December 09, 2022
-summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding Multiple BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, Tech-Ops Core Unit MKR vesting transfer, MOMC parameter changes, adjusting the DAI Savings Rate, increasing the Starknet Bridge Limit.
+title: Template - [Executive Vote] Recognized Delegate Compensation, GNO Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC Offboarding, MKR Vesting, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Limit Increase - December 09, 2022
+summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding four BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, TechOps Core Unit (TECH-001) MKR vesting transfer, Maker Open Market Committee parameter changes, adjusting the DAI Savings Rate, increasing the Starknet Bridge Limit.
 date: 2022-12-09T00:00:00.000Z
 address: "$spell_address"
 
@@ -214,7 +214,7 @@ Please review the following forum threads containing information about BlockTowe
 
 ### renBTC-A Offboarding
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNMDfb), the following parameters changes will occur to offboard renBTC-A, if this executive proposal passes.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNMDfb), the following parameter changes will occur to offboard renBTC-A, if this executive proposal passes.
 
 - Reduce the [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) to 0%.
 - Reduce the [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) to 0 DAI.
@@ -223,9 +223,9 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmTNM
 
 Please review the [offboarding discussion thread](https://forum.makerdao.com/t/renbtc-a-proposed-offboarding-parameters-context/18864) to inform your position before voting.
 
-### Tech-Ops Core Unit (TECH-001) MKR Transfer
+### TechOps Core Unit (TECH-001) MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP54) **257.31 MKR** will be transfered to the [Tech-Ops Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29) auditor wallet [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B), if this executive proposal passes.
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP54) **257.31 MKR** will be transferred to the [TechOps Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29) auditor wallet [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B), if this executive proposal passes.
 
 ### MOMC Parameter Changes
 
