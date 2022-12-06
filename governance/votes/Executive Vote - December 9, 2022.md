@@ -118,7 +118,7 @@ $_additional details here?
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 24,333,058 DAI.
 * Debt Write-Off Timelock: 0.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): $_doc.
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 #### $_Relevant Smart Contract Information 
@@ -146,7 +146,7 @@ $_additional details here?
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 36,499,587 DAI.
 * Debt Write-Off Timelock: 0.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): $_doc.
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 #### $_Relevant Smart Contract Information 
@@ -174,7 +174,7 @@ $_additional details here?
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 36,499,587 DAI.
 * Debt Write-Off Timelock: 0.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): $_doc.
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 #### $_Relevant Smart Contract Information 
@@ -202,7 +202,7 @@ $_additional details here?
 * Term Length: 60 months.
 * Oracle Price (pip/ds-value): 85,165,703 DAI.
 * Debt Write-Off Timelock: 0.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): $_doc.
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
 #### $_Relevant Smart Contract Information 
