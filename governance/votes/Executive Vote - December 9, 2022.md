@@ -109,6 +109,8 @@ Please review the following forum threads containing information about GNO (Gnos
 
 As per this successful [governance poll](https://vote.makerdao.com/polling/QmNucsGt), multiple vault types with BlockTower Credit as the arranger will be onboarded with the parameters below, if this executive proposal passes.
 
+By supporting this executive proposal, MKR voters are approving the legal documents provided on behalf of the Strategic Finance Core Unit (SF-001) in this [forum post](https://forum.makerdao.com/t/mip6-blocktower-credit-transaction-documents/19019).
+
 #### RWA010 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
