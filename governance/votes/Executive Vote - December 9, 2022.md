@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - A total of **103,230 DAI** will be distributed to 20 Recognized Delegates, as itemized below.
 - renBTC-A will be offboarded, as detailed below.
-- A total of **257.31 MKR** will be transferred to the [Tech-Ops Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29), as detailed below.
+- A total of **257.31 MKR** will be transferred to the [TechOps Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29), as detailed below.
 - Parameter changes from the latest proposal of the MakerDAO Open Market Committee, as itemized below.
 - The DAI Savings Rate will be increased from 0.01% to **1%**, as detailed below.
 - The Starknet Bridge Limit will be increased to 1 million DAI, as detailed below.
