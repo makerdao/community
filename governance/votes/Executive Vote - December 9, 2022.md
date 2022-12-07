@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, GNO Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC Offboarding, MKR Vesting, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Limit Increase - December 09, 2022
-summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding four BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, TechOps Core Unit (TECH-001) MKR vesting transfer, Maker Open Market Committee parameter changes, adjusting the DAI Savings Rate, increasing the Starknet Bridge Limit.
+title: Template - [Executive Vote] Recognized Delegate Compensation, GNO Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC Offboarding, MKR Vesting, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Parameter Changes - December 09, 2022
+summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding four BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, TechOps Core Unit (TECH-001) MKR vesting transfer, Maker Open Market Committee parameter changes, adjusting the DAI Savings Rate, Starknet Bridge parameter changes.
 date: 2022-12-09T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Limit Increase - December 09, 2022
+# [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Parameter Changes - December 09, 2022
 
 The Governance Facilitator(s), Collateral Engineering Services Core Unit, Starknet Engineering Core Unit, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -21,7 +21,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - A total of **257.31 MKR** will be transferred to the [TechOps Core Unit (TECH-001)](https://mips.makerdao.com/mips/details/MIP39c2SP29), as detailed below.
 - Parameter changes from the latest proposal of the MakerDAO Open Market Committee, as itemized below.
 - The DAI Savings Rate will be increased from 0.01% to **1%**, as detailed below.
-- The Starknet Bridge Limit will be increased to 1 million DAI, as detailed below.
+- Parameter changes to the Starknet Bridge, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - GNO-A (GnosisDAO) will be onboarded to the protocol with the initial parameters detailed below.
@@ -286,13 +286,16 @@ Please review the [discussion thread](https://forum.makerdao.com/t/parameter-cha
 
 For more information on the DAI Savings Rate please refer to the documentation [here](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate).
 
-### Starknet Bridge Limit Increase
+### Starknet Bridge Parameter Changes
 
-As per this [request](https://forum.makerdao.com/t/executive-inclusion-starknet-bridge-limit/18905) from the Starknet Engineering Core Unit (SNE-001) Facilitator the following change will be made to the Starknet Bridge Limit if this proposal passes.
+As per this [request](https://forum.makerdao.com/t/executive-inclusion-starknet-bridge-limit/18905) from the Starknet Engineering Core Unit (SNE-001) Facilitator the following changes will be made to the Starknet Bridge if this proposal passes.
 
-* Increase the Starknet Bridge Limit by 800,000 DAI from 200,000 DAI to **1 million DAI**.
+* Increase the Starknet Bridge Ceiling by 800,000 DAI from 200,000 DAI to **1 million DAI**.
+* Remove the Starknet Bridge Deposit Limit.
 
-Governance has [pre-approved](https://vote.makerdao.com/polling/QmUnhQZy) a maximum limit for the Starknet Bridge of 5 million DAI.
+Governance has [pre-approved](https://vote.makerdao.com/polling/QmUnhQZy) a maximum limit for the Starknet Bridge of 5 million DAI. 
+
+An explanation for why the Deposit Limit is being removed has been provided on Github [here](https://github.com/makerdao/spells-goerli/pull/142#discussion_r1041450254).
 
 ## Review
 
