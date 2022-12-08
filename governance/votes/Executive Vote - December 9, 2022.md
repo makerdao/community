@@ -81,8 +81,8 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBo
 #### Liquidation Parameters
 
 * [Auction Price Function (`calc`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function): Exponential Stair Step.
-* [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 0.99.
-* [Price Change Interval (`step`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#exponential-stair-step): 60 seconds.
+* [Price Change Multiplier (`cut`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#cut): 0.99.
+* [Price Change Interval (`step`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-function#step): 60 seconds.
 * [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier): 1.2.
 * [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): 13%.
 
@@ -98,7 +98,9 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmUBo
 * [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive): 0.1%.
 * [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 250 DAI.
 
-Please review the following forum threads containing information about GNO (GnosisDAO) to inform your position before voting.
+#### Additional Information
+
+Please review the following forum threads containing information about GNO (GnosisDAO) to inform your position before voting:
 * [Proposal Thread](https://forum.makerdao.com/t/gno-mip6-collateral-onboarding-application-gnosisdao/17321).
 * [Risk Core Unit Evaluation](https://forum.makerdao.com/t/gno-collateral-onboarding-risk-evaluation/18820).
 * [Collateral Engineering Services Core Unit Evaluation](https://forum.makerdao.com/t/gno-erc20-token-smart-contract-technical-assessment/18162).
@@ -111,7 +113,9 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmNuc
 
 By supporting this executive proposal, MKR voters are approving the legal documents provided on behalf of the Strategic Finance Core Unit (SF-001) in this [forum post](https://forum.makerdao.com/t/mip6-blocktower-credit-transaction-documents/19019).
 
-#### RWA010 Collateral Parameters
+#### RWA010
+
+##### RWA010 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 20 million DAI.
@@ -122,7 +126,7 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
-#### Relevant Smart Contract Information 
+##### RWA010 Relevant Smart Contract Information 
 
 * **SYMBOL:** `RWA010`.
 * **NAME:** `RWA-010`.
@@ -134,7 +138,9 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * **RWA010_A_INPUT_CONDUIT:** `0x1F5C294EF3Ff2d2Da30ea9EDAd490C28096C91dF`.
 * **RWA_010_A_OPERATOR:** `0x1F5C294EF3Ff2d2Da30ea9EDAd490C28096C91dF`.
 
-#### RWA011 Collateral Parameters
+### RWA011
+
+##### RWA011 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI.
@@ -145,7 +151,7 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
-#### Relevant Smart Contract Information 
+##### RWA011 Relevant Smart Contract Information 
 
 * **SYMBOL:** `RWA011`.
 * **NAME:** `RWA-011`.
@@ -157,7 +163,9 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * **RWA011_A_INPUT_CONDUIT:** `0x8e74e529049bB135CF72276C1845f5bD779749b0`.
 * **RWA_011_A_OPERATOR:** `0x8e74e529049bB135CF72276C1845f5bD779749b0`.
 
-#### RWA012 Collateral Parameters
+#### RWA012
+
+##### RWA012 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 30 million DAI.
@@ -168,7 +176,7 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
-#### Relevant Smart Contract Information 
+##### RWA012 Relevant Smart Contract Information 
 
 * **SYMBOL:** `RWA012`.
 * **NAME:** `RWA-012`.
@@ -180,7 +188,9 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * **RWA012_A_INPUT_CONDUIT:** `0x795b917eBe0a812D406ae0f99D71caf36C307e21`.
 * **RWA_012_A_OPERATOR:** `0x795b917eBe0a812D406ae0f99D71caf36C307e21`.
 
-#### RWA013 Collateral Parameters
+#### RWA013
+
+##### RWA013 Collateral Parameters
 
 * [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): 4%.
 * [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): 70 million DAI.
@@ -191,7 +201,7 @@ By supporting this executive proposal, MKR voters are approving the legal docume
 * [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX - [view here](https://gateway.pinata.cloud/ipfs/QmRqsQRnLfaRuhFr5wCfDQZKzNo7FRVUyTJPhS76nfz6nX/).
 * Liquidation Process: [MIP21c3](https://mips.makerdao.com/mips/details/MIP21#MIP21c3) and [MIP22c2](https://mips.makerdao.com/mips/details/MIP22#MIP22c2).
 
-#### Relevant Smart Contract Information 
+##### RWA013 Relevant Smart Contract Information 
 
 * **SYMBOL:** `RWA013`.
 * **NAME:** `RWA-013`.
