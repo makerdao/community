@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Recognized Delegate Compensation, GNO Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC Offboarding, MKR Vesting, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Parameter Changes - December 09, 2022
 summary: Recognized Delegate Compensation for November 2022, onboarding GNO-A, onboarding four BlockTower Credit Real World Asset Vault Types, offboarding renBTC-A, TechOps Core Unit (TECH-001) MKR vesting transfer, Maker Open Market Committee parameter changes, adjusting the DAI Savings Rate, Starknet Bridge parameter changes.
 date: 2022-12-09T00:00:00.000Z
-address: "$spell_address"
+address: "0x8c762BA54cA0791b8251e604CB7e3434C9153d22"
 
 ---
 # [Executive Proposal] Recognized Delegate Compensation, GNO-A Onboarding, BlockTower Credit RWA Vaults Onboarding, renBTC-A Offboarding, Tech-Ops MKR Transfer, MOMC Parameter Changes, DAI Savings Rate Adjustment, Starknet Bridge Parameter Changes - December 09, 2022
