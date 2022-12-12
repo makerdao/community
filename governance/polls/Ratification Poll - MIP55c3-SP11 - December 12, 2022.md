@@ -2,9 +2,21 @@
 title: Ratification Poll for Pioneer DeFi-focused Language Dataset for the Benefit of Risk Modelling & Governance Communication (MIP55c3-SP11) - December 12, 2022
 summary: Develop a DeFi-focused dataset for the purpose of fine-tuning language models, which, if integrated, will result in millions of dollars of additional value from more accurate Risk estimates as well as improving governance communications.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp11-pioneer-defi-focused-language-dataset-for-the-benefit-of-risk-modelling-governance-communication/18802
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes
