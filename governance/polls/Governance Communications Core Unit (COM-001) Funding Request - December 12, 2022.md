@@ -17,7 +17,7 @@ end_date: 2022-12-15T16:00:00
 ---
 # Poll: Governance Communications Core Unit (COM-001) Funding Request - December 12, 2022
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP30). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP30). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, December 12 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
