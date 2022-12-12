@@ -1,6 +1,6 @@
 ---
 title: Change of Ownership of the Ambassador's Program Multi-Sig - December 12, 2022
-summary: Signal your support or opposition to replacting Kat with Sebix on teh Ambassador's Program Multi-Sig.
+summary: Signal your support or opposition to replacing Kat with Sebix on the Ambassador's Program Multi-Sig.
 discussion_link: https://forum.makerdao.com/t/change-of-ownership-of-the-ambassador-programs-multi-sig/19087
 parameters:
     input_format: single-choice
@@ -36,7 +36,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/change-of-own
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The Ambassador's program comptrollers will be instructed to replace @kat as a signer on the Multi-Sig with @Sebix.
-* Future program updates (inclusing expenditures) will be expected from @Sebix. 
+* Future program updates (including expenditures) will be expected from @Sebix. 
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
