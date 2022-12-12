@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Approving the winddown spending that includes compensation for the facilitator during the month of January in addition to a few one-time expenses detailed in the offboarding proposal, despite the budget expiring on 2022-12-31.
+* Approving the winddown spending that includes compensation for the facilitator during January in addition to a few one-time expenses detailed in the offboarding proposal, despite the budget expiring on 2022-12-31.
 * Note that no additional funds transfer would be needed, as this poll asks for permission to continue using the previous budget stream past 2022-12-31. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/govcomms-winddown-spending-permission/19067) to help inform your position before voting.
