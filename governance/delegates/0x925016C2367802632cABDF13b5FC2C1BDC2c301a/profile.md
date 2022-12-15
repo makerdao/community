@@ -9,7 +9,7 @@ tags:
   - trust
 ---
 
-# Delegate Name
+# HKUST EPI Blockchain
 
 ### Key Info
 
