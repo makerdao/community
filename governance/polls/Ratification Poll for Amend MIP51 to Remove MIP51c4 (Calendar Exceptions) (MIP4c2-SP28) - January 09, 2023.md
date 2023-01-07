@@ -24,7 +24,7 @@ options:
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
-# Ratification Poll for Amend MIP51 to Remove MIP51c4 (Calendar Exceptions) (MIP4c2-SP28) - January 09, 2023
+# Ratification Poll for Amend MIP51 to Remove MIP51c4 (Calendar Exceptions) (MIP4c2-SP28) - January 9, 2023
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 09 at 16:00 UTC.
 
