@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Amend MIP51 to Remove MIP51c4 (Calendar Exceptions) (MIP4c2-SP28) - January 09, 2023
+title: Ratification Poll for Amend MIP51 to Remove MIP51c4 (Calendar Exceptions) (MIP4c2-SP28) - January 9, 2023
 summary: The December exception in MIP51 has been made in a time with huge problems on getting anything done in the Maker on-chain governance. As we have a working delegate system now, this situation has improved a lot. This amendment removes the December exception so we can continue to govern the protocol without a break
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp28-amend-mip51-to-remove-mip51c4-calendar-exceptions/18675
 parameters:
