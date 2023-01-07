@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MakerDAO is restructuring in accordance with the Endgame Plan. With the rejection of our last budget proposal, we’ve been advised by the leading delegates that work related to our mandate would be better executed as an ecosystem actor or as an in-house function within other stakeholder groups. The rejection of our budget proposal did not come with a complementary offboarding proposal, so we are putting it up ourselves. This Core Unit should be formally offboarded to support the transition, formalize the status of the team, and provide any “golden parachute” compensation and retroactive benefits due to contributors.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4777ad03ca144d7fce8e10f0d739cc2936902727/MIP39/MIP39c3-Subproposals/MIP39c3-SP7.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ae0451f824bcb27572719af43a50d499b7ac1340/MIP39/MIP39c3-Subproposals/MIP39c3-SP7.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP39c3SP7)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip39c3-sp7-core-unit-offboarding-com-001/19068)
 
