@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Remove MIP14c4 (Protocol DAI Transfer Ceiling) (MIP4c2-SP32) - January 09, 2023
-summary: "With the coming transition to the Endgame state, GovAlpha is anticipating an increase in funding requests through MIP14: Protocol DAI Transfer and MIP55: Special Purpose Fund. MIP14c4 places a cap on the total amount of DAI that can be distributed through MIP14. Rather than dealing with sequential subproposals to raise the Protocol DAI Transfer Ceiling, or setting it to an arbitrarily high number that renders it useless, it makes more sense to simply remove this restriction.
+summary: "With the coming transition to the Endgame state, GovAlpha is anticipating an increase in funding requests through MIP14 (Protocol DAI Transfer) and MIP55 (Special Purpose Fund). MIP14c4 places a cap on the total amount of DAI that can be distributed through MIP14. Rather than dealing with sequential subproposals to raise the Protocol DAI Transfer Ceiling, or setting it to an arbitrarily high number that renders it useless, it makes more sense to simply remove this restriction.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp32-remove-mip14c4-protocol-dai-transfer-ceiling/19093
 parameters:
     input_format:
