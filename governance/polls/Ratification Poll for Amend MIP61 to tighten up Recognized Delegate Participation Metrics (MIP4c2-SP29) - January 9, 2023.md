@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 09, 2023
+title: Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 9, 2023
 summary: This amendment proposes two changes to the Recognized Delegate Compensation MIP. (i) Setting a minimum threshold of non-abstaining votes for compensation eligibility and (ii) increasing the participation requirements in the case of executive votes. This is a rank-choice type Ratification Poll.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp29-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696
 parameters:
@@ -25,9 +25,9 @@ options:
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
-# Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 09, 2023
+# Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 9, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 09 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
