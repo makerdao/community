@@ -1,7 +1,7 @@
 ---
 title: Confirm Trial Deployment of DssKiln - January 9, 2023
 summary: Rank your preferred options for a trial deployment of DssKiln.
-discussion_link: https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346/3
+discussion_link: https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346
 parameters:
     input_format: rank-free
     victory_conditions:
@@ -36,7 +36,7 @@ The community can vote in this poll to rank their support of the following optio
 * Proceed with the burn, but reduce it to 500,000 DAI worth of MKR.
 * Do not burn any MKR using DssKiln at this time.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346/3) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346) to help inform your position before voting.
 
 Other parameters for the burn using DssKiln will be as follows:
 
