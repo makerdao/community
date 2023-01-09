@@ -14,14 +14,15 @@ parameters:
                 { type : comparison, comparator : '>=', value: 10000 }
             ]
         }
-        - {type : default, value : 3 }
+        - {type : default, value : 4 }
     result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
    0: Abstain
-   1: 80% Multiplier - 156.098 Total MKR | 85,854 DAI Equivalent Value
-   2: 100% Multiplier - 195.122 Total MKR | 107,317.50 DAI Equivalent Value (CU-preferred)
-   3: 120% Multiplier - 234.147 Total MKR | 128,781 DAI Equivalent Value
+   1: Approve Offboarding, 60,700 DAI Golden Parachute and 80% Multiplier for retroactive MKR - additional 85,854 DAI
+   2: Approve Offboarding, 60,700 DAI Golden Parachute and 100% Multiplier for retroactive MKR - additional 107,317.50 DAI (CU-preferred)
+   3: Approve Offboarding, 60,700 DAI Golden Parachute and 120% Multiplier for retroactive MKR  - additional 128,781 DAI Equivalent Value
+   4: Reject Options
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
