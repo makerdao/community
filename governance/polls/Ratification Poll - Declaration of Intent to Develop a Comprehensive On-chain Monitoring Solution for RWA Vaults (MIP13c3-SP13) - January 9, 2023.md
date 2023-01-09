@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Declaration of Intent to Develop a Comprehensive On-chain Monitoring Solution for RWA Vaults (MIP13c3-SP13) - January 9, 2023
-summary: Current RWA monitoring is lagging behind as much as 13 months in the case of New Silver 9. MakerDAO is scaling up RWA vaults for yield and diversification. We need to develop maximum transparency around that.
+summary: Current RWA monitoring is lagging behind as much as 13 months in the case of New Silver. MakerDAO is scaling up RWA vaults for yield and diversification. We need to develop maximum transparency around that.
 discussion_link: https://forum.makerdao.com/t/mip13c3-sp13-declaration-of-intent-to-develop-a-comprehensive-on-chain-monitoring-solution-for-rwa-vaults/19095
 parameters:
     input_format:
