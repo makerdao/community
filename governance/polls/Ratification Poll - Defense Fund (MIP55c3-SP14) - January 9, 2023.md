@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Defense Fund will be used as a contingency budget to reimburse legal defense expenses in case of legal or regulatory action against specific participants of MakerDAO. Initially, coverage will be provided to the following group of persons, which will be the initial set of beneficiaries: Recognized Delegates, Core Unit Facilitators, Core Unit permanent contributors, Active MKR holders (i.e., MKR voting token holders that actively participate in governance). The legal action against the beneficiary must be directly related to its activities at MakerDAO.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3f9575de2967dad854004e681cf384f6ee42d80e/MIP55/MIP55c3-Subproposals/MIP55c3-SP14.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a4a25d68e0a72fd9006b5d1ab1fb5128f8717c29/MIP55/MIP55c3-Subproposals/MIP55c3-SP14.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP14)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp14-defense-fund/19076)
 
