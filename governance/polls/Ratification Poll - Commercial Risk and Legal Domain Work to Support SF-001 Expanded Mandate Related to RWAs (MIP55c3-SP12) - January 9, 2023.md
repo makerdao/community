@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Commercial Risk and Legal Domain Work to Support SF-001 Expanded Mandate Related to RWAs (MIP55c3-SP12) - January 9, 2023
-summary: This SPF requests a 209K DAI to support SF-001’s expanded mandate 11 regarding RWAs.
+summary: This SPF requests a 209K DAI transfer to support the expanded SF-001 mandate regarding RWAs.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp12-commercial-risk-and-legal-domain-work-to-support-sf-001-expanded-mandate-related-to-rwas/18943
 parameters:
     input_format:
