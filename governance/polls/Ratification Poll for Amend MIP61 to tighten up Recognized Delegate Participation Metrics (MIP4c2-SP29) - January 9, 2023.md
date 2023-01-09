@@ -14,7 +14,7 @@ parameters:
                 { type : comparison, comparator : '>=', value: 10000 }
             ]
         }
-        - {type : default, value : 3 }
+        - {type : default, value : 4 }
     result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
@@ -22,6 +22,7 @@ options:
    1: Approve only the Abstain Modifier
    2: Approve only the Higher Participation Requirements and Weighting for Executive Votes
    3: Approve both
+   4: Reject both changes
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
