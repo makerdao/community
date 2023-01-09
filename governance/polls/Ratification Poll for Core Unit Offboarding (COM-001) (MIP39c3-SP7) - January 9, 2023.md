@@ -52,7 +52,7 @@ Please review the links below to inform your position on this proposal before vo
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
+**If the votes for Option 1, Option 2, or Option 3 achieve a majority AND the votes for the winning option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, January 26.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
