@@ -1,5 +1,5 @@
 ---
-title: Confirm Trial Deployment of DssKiln - January 9, 2022
+title: Confirm Trial Deployment of DssKiln - January 9, 2023
 summary: Rank your preferred options for a trial deployment of DssKiln.
 discussion_link: https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346/3
 parameters:
@@ -15,10 +15,10 @@ options:
    3: Burn 1 million DAI worth of MKR
    4: Burn 0.5 million DAI worth of MKR
    5: Do not burn any MKR
-start_date: 2022-01-09T16:00:00
-end_date: 2022-01-12T16:00:00
+start_date: 2023-01-09T16:00:00
+end_date: 2023-01-12T16:00:00
 ---
-# Poll: Confirm Trial Deployment of DssKiln - January 9, 2022
+# Poll: Confirm Trial Deployment of DssKiln - January 9, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the GovAlpha, Protocol Engineering, and Risk Core Units. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 9 at 16:00 UTC.
 
