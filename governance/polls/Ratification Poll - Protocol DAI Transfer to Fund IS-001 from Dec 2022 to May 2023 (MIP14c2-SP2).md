@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Protocol DAI Transfer to Fund ISCU from Dec 2022 to May 2023 (MIP14c2-SP2) - January 9, 2023
+title: Ratification Poll for Protocol DAI Transfer to Fund IS-001 from Dec 2022 to May 2023 (MIP14c2-SP2) - January 9, 2023
 summary: This amount will sustain the team and services through May by which point we anticipate dissolving as a Core Unit and becoming an EndGame ecosystem actor.
 discussion_link: https://forum.makerdao.com/t/mip14c2-sp2-subproposal-for-protocol-dai-transfer-to-fund-iscu-from-dec-2022-to-may-2023/19025
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
-# Ratification Poll for Protocol DAI Transfer to Fund ISCU from Dec 2022 to May 2023 (MIP14c2-SP2) - January 9, 2023
+# Ratification Poll for Protocol DAI Transfer to Fund IS-001 from Dec 2022 to May 2023 (MIP14c2-SP2) - January 9, 2023
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 9 at 16:00 UTC.
 
