@@ -45,6 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ff67ca27765f3c4b14425b6cf3aba20888da2d19/MIP4/MIP4c2-Subproposals/MIP4c2-SP28.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP28)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp28-amend-mip51-to-remove-mip51c4-calendar-exceptions/18675)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/696)
 
 ## Outcomes
 
