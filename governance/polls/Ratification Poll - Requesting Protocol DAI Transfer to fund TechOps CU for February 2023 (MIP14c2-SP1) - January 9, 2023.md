@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP14c2-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This amount will sustain the team, critical infrastructure, tools and services through the month of February. A second MIP14 subproposal will be posted for the month of March. The new budget will be voted on in March and hopefully then take over the funding from April.*
+*This amount [138,894 DAI] will sustain the team, critical infrastructure, tools and services through the month of February. A second MIP14 subproposal will be posted for the month of March. The new budget will be voted on in March and hopefully then take over the funding from April.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4d989731ed7f8e733514344d128f32e7b27aa578/MIP14/MIP14c2-Subproposals/MIP14c2-SP1.md)
