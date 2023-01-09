@@ -46,8 +46,8 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *Additionally, any subproposal under MIP14 would require a 4-week feedback period for sums between 10,000 and 100,000 DAI, and a 12-week feedback period for sums above 100,000 DAI. These thresholds make MIP14 impractical to use, but with no clear need for this MIP, repeal is favored over amendment.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ef0eda445eaacdb4409cf258b381eb944ad71c9a/MIP4/MIP4c2-Subproposals/MIP4c2-SP32.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP32)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f58a8ac17a9d639cbc9c53e74ab04c6a27064f28/MIP4/MIP4c4-Subproposals/MIP4c4-SP2.md)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c4SP2)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c4-sp2-mip14-repeal/18533)
 * [Removal Pull Request](https://github.com/makerdao/mips/pull/734)
 
