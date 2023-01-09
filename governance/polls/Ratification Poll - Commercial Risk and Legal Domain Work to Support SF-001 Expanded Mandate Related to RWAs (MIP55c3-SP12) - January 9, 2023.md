@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP55c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This amount will sustain the team and services through May by which point we anticipate dissolving as a Core Unit and becoming an EndGame ecosystem actor. Since 24k MKR voted 1 for Approve reduced budget - BearMarket, we request 6,600(6 months)(1.1 contingency) = 43,560 DAI.*
+*This SPF provides funding for onboarding a structured finance consultant and legal counsel to perform commercial and legal risk analysis on RWAs greenlit by MKR holders and in consideration for onboarding. These contributors will also be responsible for monitoring RWA vaults and developing reporting to provide transparency of vault performance to the community. These individuals will also be helping structure the relationship between Maker Core, future ProtectorDAOs, and the Arrangers, focusing on defining key constraints with the help of the community to ensure Maker Core and DAI holders are protected as we all navigate implementation of the End Game Plan.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/37404e44710af28d79628cec9c088bf79804ad63/MIP55/MIP55c3-Subproposals/MIP55c3-SP12.md)
