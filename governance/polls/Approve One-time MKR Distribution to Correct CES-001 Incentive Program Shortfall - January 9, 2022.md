@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-01-09T16:00:00
-end_date: 2022-01-12T16:00:00
+start_date: 2023-01-09T16:00:00
+end_date: 2023-01-12T16:00:00
 ---
 # Poll: Approve One-time MKR Distribution to Correct CES-001 Incentive Program Shortfall - January 9, 2022
 
