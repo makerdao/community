@@ -30,10 +30,10 @@ end_date: 2023-01-23T16:00:00
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 9 at 16:00 UTC.
 
-**This is a binary vote.**
-- **You may vote for a single option.**
-- **You should vote for the option which you prefer.**
-- **If you would accept either option, you should vote 'Abstain'.**
+**This is an instant-runoff vote.** 
+- **You may rank any number of options that you support.** 
+- **Unranked options signal that you do not support those options.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
