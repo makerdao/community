@@ -38,13 +38,12 @@ The community can vote in this poll to rank their support of the following optio
 
 Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-confirmation-of-trial-dsskiln-deployment/19346) to help inform your position before voting.
 
-Other parameters for the burn using DssKiln will be as follows:
+Depending on the outcome of this poll, a follow-up poll may be required to settle on values for:
 
-* The sum of DAI to be exchanged for MKR to be burned will be transferred to DssKiln over 3 months using DssVest.
-* `lot` - the maximum quantity of tokens to be sold per `hop` - will be set to **30,000 DAI**.
-* `hop` - the minimum number of seconds that mus pass before the `lot` can be sold - will be set to **38,880 seconds** (10.8 hours).
-* `yen` - the ratio of spot price to the Uniswap TWAP price over the past `scope` - will be set to **100%**.
-* `scope` - the time period of price date from the Uniswap TWAP against which `yen` will be measured - will be set to **1 hour**.
+* The `lot` - the maximum quantity of tokens to be sold per `hop`.
+* The `hop` - the minimum number of seconds that must pass before the `lot` can be sold.
+* The `yen` - the ratio of spot price to the Uniswap TWAP price over the past `scope` - defaults to 100%.
+* The `scope` - the time period of price data from the Uniswap TWAP against which `yen` will be measured - defaults to **1 hour**.
 
 ## Outcomes
 
