@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Core Unit Offboarding (COM-001) (MIP39c3-SP7) - January 9, 2023
-summary: This is an offboarding proposal for the GovComms Core Unit that includes both a golden parachute and retroactive MKR compensation.
+summary: This is an offboarding proposal for the GovComms Core Unit that includes both a golden parachute based on salary for the two permanent Core Unit members and retroactive MKR compensation for all contributors. Retroactive MKR compensation is denominated in DAI.
 discussion_link: https://forum.makerdao.com/t/mip39c3-sp7-core-unit-offboarding-com-001/19068
 parameters:
     input_format:
