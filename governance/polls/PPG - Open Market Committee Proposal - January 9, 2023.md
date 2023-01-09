@@ -1,5 +1,5 @@
 ---
-title: PPG - Open Market Committee Proposal - January 9, 2022
+title: PPG - Open Market Committee Proposal - January 9, 2023
 summary: $summary
 discussion_link: $discussion_link
 parameters:
@@ -12,10 +12,10 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-01-09T16:00:00
-end_date: 2022-01-12T16:00:00
+start_date: 2023-01-09T16:00:00
+end_date: 2023-01-12T16:00:00
 ---
-# PPG - Open Market Committee Proposal - January 9, 2022
+# PPG - Open Market Committee Proposal - January 9, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 9 at 16:00 UTC.
 
