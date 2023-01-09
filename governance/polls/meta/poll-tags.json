@@ -3420,5 +3420,115 @@
   "921": [
     "medium-impact",
     "misc-governance"
+  ],
+  "922": [
+    "high-impact",
+    "momc",
+    "d3m",
+    "psm"
+  ],
+  "923": [
+    "high-impact",
+    "misc-governance",
+    "risk-parameter"
+  ],
+  "924": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding",
+    "budget"
+  ],
+  "925": [
+    "high-impact",
+    "misc-governance",
+    "delegates",
+    "ratification",
+    "mips"
+  ],
+  "926": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "928": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "929": [
+    "low-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "930": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "931": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips",
+    "core-unit-offboard"
+  ],
+  "932": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "933": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "934": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "935": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "936": [
+    "medium-impact",
+    "ratification",
+    "mips"
+  ],
+  "937": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "938": [
+    "high-impact",
+    "collateral-onboard",
+    "ratification",
+    "mips",
+    "psm"
+  ],
+  "939": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "940": [
+    "medium-impact",
+    "ratification",
+    "mips"
   ]
 }
