@@ -1,7 +1,7 @@
 ---
 title: PPG - Open Market Committee Proposal - January 9, 2023
-summary: $summary
-discussion_link: $discussion_link
+summary: Signal your support or opposition to the latest proposal from the Maker Open Market Committee.
+discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-5-january-2023/19327
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -52,7 +52,7 @@ MKR Voters may vote in this poll to express support or opposition to the followi
 
 * Increase the PSM-USDP-A [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) by 0.1% from 0.1% to **0.2%**.
 
-Please review the proposal [thread]($discussion_link) to help inform your position before voting.
+Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-5-january-2023/19327) to help inform your position before voting.
 
 ## Outcomes
 
