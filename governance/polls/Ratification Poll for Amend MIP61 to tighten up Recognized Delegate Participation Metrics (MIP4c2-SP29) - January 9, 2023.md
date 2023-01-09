@@ -53,6 +53,8 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/9f0e2c6af07583cd57a8d442e71b7ceba80c6185/MIP4/MIP4c2-Subproposals/MIP4c2-SP29.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP29)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp29-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
+* [Abstain Modifier Pull Request](https://github.com/makerdao/mips/pull/698)
+* [Executive Vote Changes Pull Request](https://github.com/makerdao/mips/pull/699)
 
 ## Outcomes
 
