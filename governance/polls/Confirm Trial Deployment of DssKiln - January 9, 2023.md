@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-* Burn 3 million DAI worth of MKR as previously approved by Governance in June 2022.
+* Burn 3 million DAI worth of MKR as [previously approved](https://vote.makerdao.com/polling/QmWCy8Bc#vote-breakdown) by Governance in June 2022.
 * Proceed with the burn, but reduce it to 2 million DAI worth of MKR.
 * Proceed with the burn, but reduce it to 1 million DAI worth of MKR.
 * Proceed with the burn, but reduce it to 500,000 DAI worth of MKR.
