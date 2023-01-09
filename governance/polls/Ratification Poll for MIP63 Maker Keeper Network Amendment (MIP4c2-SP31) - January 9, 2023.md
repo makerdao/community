@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for MIP63 Maker Keeper Network Amendment (MIP4c2-SP31) - January 09, 2023
+title: Ratification Poll for MIP63 Maker Keeper Network Amendment (MIP4c2-SP31) - January 9, 2023
 summary: This amendment to MIP63 defines more strictly how payments are sent and buffers reported. Furthermore, it makes stream durations explicit (versus the current implicit 6-month duration). Finally, the amendment makes it possible for the sequencer to set custom windows per network.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp31-mip63-maker-keeper-network-amendment/19024
 parameters:
@@ -24,9 +24,9 @@ options:
 start_date: 2023-01-09T16:00:00
 end_date: 2023-01-23T16:00:00
 ---
-# Ratification Poll for MIP63 Maker Keeper Network Amendment (MIP4c2-SP31) - January 09, 2023
+# Ratification Poll for MIP63 Maker Keeper Network Amendment (MIP4c2-SP31) - January 9, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 09 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, January 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
