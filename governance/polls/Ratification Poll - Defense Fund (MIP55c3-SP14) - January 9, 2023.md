@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Defense Fund (MIP55c3-SP14) - January 9, 2023
-summary: This SPF requests 5M DAI for establishing a Defense Fund which will have the purpose of reimbursing legal defense expenses incurred by active participants of MakerDAO in case they are the target of legal or regulatory action.
+summary: This SPF requests 5 million DAI for establishing a Defense Fund which will have the purpose of reimbursing legal defense expenses incurred by active participants of MakerDAO in case they are the target of legal or regulatory action.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp14-defense-fund/19076
 parameters:
     input_format:
