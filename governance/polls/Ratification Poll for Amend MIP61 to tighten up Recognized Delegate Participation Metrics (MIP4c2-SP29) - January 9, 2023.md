@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Amend MIP61 to tighten up Recognized Delegate Participation Metrics (MIP4c2-SP29) - January 9, 2023
-summary: This amendment proposes two changes to the Recognized Delegate Compensation MIP. (i) Setting a minimum threshold of non-abstaining votes for compensation eligibility and (ii) increasing the participation requirements in the case of executive votes. This is a rank-choice type Ratification Poll.
+summary: This amendment proposes two changes to the Recognized Delegate Compensation MIP. (i) Setting a minimum threshold of non-abstaining votes for compensation eligibility and (ii) increasing the participation requirements in the case of executive votes. This Ratifcation Poll uses Ranked Choice Voting.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp29-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696
 parameters:
     input_format:
