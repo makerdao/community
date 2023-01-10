@@ -46,7 +46,7 @@ As per their successful [budget proposal](https://mips.makerdao.com/mips/details
 
 #### SES-001 DAI Budget Stream
 
-As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP87), a DAI budget stream with the following parameters will be inititated for the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10), if this executive proposal passes:
+As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP87), a DAI budget stream with the following parameters will be initiated for the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10), if this executive proposal passes:
 
 * Amount to be streamed: **3,199,200 DAI**
 * Start Date: **2023-02-01**
@@ -69,7 +69,7 @@ As per their successful [budget proposal](https://mips.makerdao.com/mips/details
 
 ### MKR Vesting Stream
 
-As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7#mkr-vesting) a new stream with the following parameters will be initiated for the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7), if this  executive proposal passes:
+As per their successful [budget proposal], (https://mips.makerdao.com/mips/details/MIP40c3SP7#mkr-vesting) a new stream with the following parameters will be initiated for the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7), if this  executive proposal passes:
 
 * Amount to be streamed: **675 MKR**
 * Start Date: **2022-08-01**
@@ -81,7 +81,7 @@ As per their successful [budget proposal](https://mips.makerdao.com/mips/details
 
 ### Recognized Delegate Compensation for December
 
-As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), the following payments totalling 108,690 DAI will be made if this executive proposal passes:
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), the following payments totaling 108,690 DAI will be made if this executive proposal passes:
 
 * **12,000 DAI** will be transferred to [StableNode](https://vote.makerdao.com/address/0x8804d391472126da56b9a560aef6c6d5aaa7607b#delegate-credentials) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 * **12,000 DAI** will be transferred to [schuppi](https://vote.makerdao.com/address/0xb4b82978fce6d26a22dea7e653bb9ce8e14f8056) at [0xCCffDBc38B1463847509dCD95e0D9AAf54D1c167](https://etherscan.io/address/0xCCffDBc38B1463847509dCD95e0D9AAf54D1c167).
