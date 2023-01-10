@@ -100,6 +100,8 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 * **56 DAI** will be transferred to [pvl](https://vote.makerdao.com/address/0xd9d00c42bed99a6d3a0f2902c640bccceecf6c29) at [0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416](https://etherscan.io/address/0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416).
 * **33 DAI** will be transferred to [ConenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
 
+For more information on December's Recognized Delegate Compensation, please see this [thread](https://forum.makerdao.com/t/recognized-delegate-compensation-december-2022/19313).
+
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
