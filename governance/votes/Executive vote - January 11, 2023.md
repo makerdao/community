@@ -67,7 +67,7 @@ As per their successful [budget proposal](https://mips.makerdao.com/mips/details
 
 ### MKR Vesting Stream
 
-As per their successful [budget proposal], (https://mips.makerdao.com/mips/details/MIP40c3SP7#mkr-vesting) a new stream with the following parameters will be initiated for the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7), if this  executive proposal passes:
+As per their successful [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP7#mkr-vesting), a new stream with the following parameters will be initiated for the [Protocol Engineering Core Unit (PE-001)](https://mips.makerdao.com/mips/details/MIP39c2SP7), if this  executive proposal passes:
 
 * Amount to be streamed: **675 MKR**
 * Start Date: **2022-08-01**
