@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Core Unit Budget Streams, MKR Vesting, Recognized Delegate Compensation - January 11, 2023
 summary: Set up DAI budget streams for SES-001 and DUX-001, MKR vesting transfers for DECO-001, RISK-001, and ORA-001, MKR vesting stream for PE-001, Recognized Delegegate compensation for December.
 date: 2023-01-11T00:00:00.000Z
-address: "$spell_address"
+address: "0xB02FD2a51517C035D05b11272F769097dC2EaD87"
 
 ---
 # [Executive Proposal] Core Unit Budget Streams, MKR Vesting, Recognized Delegate Compensation - January 11, 2023
