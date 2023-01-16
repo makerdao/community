@@ -27,9 +27,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to rank their support of the following options for channging the PSM-GUSD-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling):
-* Abstain - Voters should vote this option (and this option only) if they have no preference to any listed options.
-* Decrease to 100 milllion DAI - Voters should rank this option based on their desire to change the GUSD PSM Debt Ceiling from 500 million DAI to 100 million DAI.
+The community can vote in this poll to rank their support of the following options for changing the PSM-GUSD-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling):
+* Abstain - Voters should vote for this option (and this option only) if they have no preference to any listed options.
+* Decrease to 100 million DAI - Voters should rank this option based on their desire to change the GUSD PSM Debt Ceiling from 500 million DAI to 100 million DAI.
 * Decrease to 0 DAI - Voters should rank this option based on their desire to change the GUSD PSM Debt Ceiling from 500 million DAI to 0 DAI.
 * No change (500 million DAI) - Voters Voters should rank this option based on their desire not to change the GUSD PSM from 500 million DAI.
 
