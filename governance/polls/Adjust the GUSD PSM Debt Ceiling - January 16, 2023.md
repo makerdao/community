@@ -1,5 +1,5 @@
 ---
-title: $GenericChange - Adjust the GUSD PSM Debt Ceiling - January 16, 2023
+title: Adjust the GUSD PSM Debt Ceiling - January 16, 2023
 summary: Rank your preferred options to resolve the Debt Ceiling change of PSM-GUSD-A.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-psm-gusd-a-parameters/19416
 parameters:
