@@ -15,7 +15,7 @@ options:
 start_date: 2023-01-16T16:00:00
 end_date: 2023-01-19T16:00:00
 ---
-# Poll: Decrease GUSD PSM Tout - January 16, 2023
+# Poll: Decrease GUSD PSM Fee Out (tout) - January 16, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Strategic Finance Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP36). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 16 at 16:00 UTC.
 
