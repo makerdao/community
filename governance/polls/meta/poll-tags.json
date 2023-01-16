@@ -3530,5 +3530,17 @@
     "medium-impact",
     "ratification",
     "mips"
+  ],
+  "941": [
+    "medium-impact",
+    "misc-governance",
+    "risk-parameter",
+    "psm"
+  ],
+  "942": [
+    "medium-impact",
+    "misc-governance",
+    "risk-parameter",
+    "psm"
   ]
 }
