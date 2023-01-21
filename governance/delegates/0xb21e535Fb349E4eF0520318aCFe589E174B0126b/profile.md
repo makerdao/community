@@ -13,7 +13,7 @@ tags:
 ### Key Info
 
 Delegate Address: `0xB4b82978FCe6d26A22deA7E653Bb9ce8e14f8056`  
-Delegate Platform: TODO UPATE https://forum.makerdao.com/t/schuppi-delegate-platform/11193  
+Delegate Platform: https://forum.makerdao.com/t/coldiron-eth-delegate-platform/11193
 Forum: @coldiron.eth   
 Twitter: -
 Discord: please contact our advisor schuppi#6905  
