@@ -38,7 +38,7 @@ The community can vote in this poll to rank their support of the following optio
   * Reduce dust for ETH-C, WBTC-C, and WSTETH-B to 3,500 DAI
   * Reduce dust for ETH-B and WBTC-B to 25,000 DAI
 * No Change
-  * Keep Dust unchanged accross all collateral types. 
+  * Keep Dust unchanged across all collateral types. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/discussion-adjusting-dust-parameter-november-2022/18767) to help inform your position before voting.
 
