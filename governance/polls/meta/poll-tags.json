@@ -3542,5 +3542,14 @@
     "misc-governance",
     "risk-parameter",
     "psm"
+  ],
+  "943": [
+    "high-impact",
+    "collateral-offboard",
+    "risk-parameter"
+  ],
+  "944": [
+    "medium-impact",
+    "risk-parameter"
   ]
 }
