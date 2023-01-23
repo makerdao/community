@@ -1,5 +1,5 @@
 ---
-title: Adjust the Debt Floor (Dust) - January 23, 2023
+title: Adjust the Debt Floor (dust) - January 23, 2023
 summary: Rank your preferred options to resolve adjusting the Debt Floor (Dust) for multiple collateral types.
 discussion_link: https://forum.makerdao.com/t/discussion-adjusting-dust-parameter-november-2022/18767
 parameters:
@@ -16,7 +16,7 @@ options:
 start_date: 2023-01-23T16:00:00
 end_date: 2023-01-26T16:00:00
 ---
-# Poll: Adjust the Debt Floor (Dust) - January 23, 2023
+# Poll: Adjust the Debt Floor (dust) - January 23, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP35). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 23 at 16:00 UTC.
 
@@ -27,18 +27,18 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to rank their support of the following options to changing the [Debt Floor (Dust)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor?q=dust):
+The community can vote in this poll to rank their support of the following options to changing the [Debt Floor (Dust)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor):
 * Option 1 - Broad Reduction
-  * Reduce dust for ETH-A, WBTC-A, and WSTETH-A to 5,000 DAI
-  * Reduce dust for ETH-C, WBTC-C, and WSTETH-B to 2,500 DAI
-  * Reduce dust for ETH-B and WBTC-B to 15,000 DAI
-  * Reduce dust for CRVV1ETHSTETH-A, LINK-A, YFI-A, and MATIC-A to 10,000 DAI
+  * Reduce `dust` for ETH-A, WBTC-A, and WSTETH-A to **5,000 DAI**
+  * Reduce `dust` for ETH-C, WBTC-C, and WSTETH-B to **2,500 DAI**
+  * Reduce `dust` for ETH-B and WBTC-B to **15,000 DAI**
+  * Reduce `dust` for CRVV1ETHSTETH-A, LINK-A, YFI-A, and MATIC-A to **10,000 DAI**
 * Option 2 - Limited Reduction
-  * Reduce dust for ETH-A, WBTC-A, and WSTETH-A to 7,500 DAI
-  * Reduce dust for ETH-C, WBTC-C, and WSTETH-B to 3,500 DAI
-  * Reduce dust for ETH-B and WBTC-B to 25,000 DAI
+  * Reduce `dust` for ETH-A, WBTC-A, and WSTETH-A to **7,500 DAI**
+  * Reduce `dust` for ETH-C, WBTC-C, and WSTETH-B to **3,500 DAI**
+  * Reduce `dust` for ETH-B and WBTC-B to **25,000 DAI**
 * No Change
-  * Keep Dust unchanged across all collateral types. 
+  * Keep `dust` unchanged across all collateral types. 
 
 Please review the discussion [thread](https://forum.makerdao.com/t/discussion-adjusting-dust-parameter-november-2022/18767) to help inform your position before voting.
 
