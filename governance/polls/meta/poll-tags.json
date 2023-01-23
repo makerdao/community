@@ -3544,12 +3544,12 @@
     "psm"
   ],
   "943": [
-    "high-impact",
-    "collateral-offboard",
+    "medium-impact",
     "risk-parameter"
   ],
   "944": [
-    "medium-impact",
+    "high-impact",
+    "collateral-offboard",
     "risk-parameter"
   ]
 }
