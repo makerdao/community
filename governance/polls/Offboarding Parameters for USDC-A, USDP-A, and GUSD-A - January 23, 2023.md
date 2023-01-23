@@ -17,7 +17,7 @@ end_date: 2023-01-26T16:00:00
 ---
 # Poll: Offboarding Parameters for USDC-A, USDP-A, and GUSD-A - January 23, 2023
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP35) and the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, Janurary 23 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the [Risk Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP35) and the MakerDAO Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 23 at 16:00 UTC.
 
 **This is a binary vote.** 
 - **You may vote for a single option.** 
