@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Parameter changes from the latest proposal of the MakerDAO Open Market Committee, as itemized below.
 - The GUSD PSM Fee Out (`tout`) will be reduced to 0, as detailed below.
-- **96.15 MKR** will be transfered to the Collateral Engineering Services Core Unit, detailed below.
+- **96.15 MKR** will be transferred to the Collateral Engineering Services Core Unit, detailed below.
 - The Aave D3M will be caged in preparation for a new deployment using the updated contracts, as detailed below.
 - Planned upgrades to the Flash Mint Module will be completed, as detailed below.
 
@@ -41,7 +41,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmYUi
 - The DIRECT-COMPV2-DAI (Compound V2 D3M) [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) will be set to **5 million DAI**.
 - The PSM-USDP [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) will be increased by 0.1% from 0.1% to **0.2%**.
 
-Note a new version of the Aave D3M utilizing the upgraded contracts is due to be deployed in an upcoming Executive Vote. The planned parameter changes to that deployment will therefore be included in a future Executive Vote once the Protocol Engineering Core Unit are ready.
+Note a new version of the Aave D3M utilizing the upgraded contracts is due to be deployed in an upcoming Executive Vote. The planned parameter changes to that deployment will therefore be included in a future Executive Vote once the Protocol Engineering Core Unit is ready.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-5-january-2023/19327) to inform your position prior to voting.
 
