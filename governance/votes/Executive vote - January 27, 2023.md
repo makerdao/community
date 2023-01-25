@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] MOMC Parameter Changes, GUSD PSM tout Decrease, CES MKR Transfer, Flash Mint Module Upgrade, Cage Aave D3M - January 27, 2023
 summary: Latest MOMC parameter changes, decrease the GUSD PSM Fee Out (tout), transfer MKR to CES, complete upgrades to the Flash Mint Module, cage the Aave D3M to prepare for a new deployment.
-date: 2022-01-27T00:00:00.000Z
+date: 2023-01-27T00:00:00.000Z
 address: "$spell_address"
 
 ---
