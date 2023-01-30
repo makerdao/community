@@ -1,7 +1,7 @@
 ---
 title: Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023
 summary: The proposed funding will finance development of an Endgame information portal with good search capabilities and, ideally, decentralized storage.
-discussion_link: https://forum.makerdao.com/t/mip14c2-spx-requesting-protocol-dai-transfer-to-fund-endgame-information-portal/19370
+discussion_link: https://forum.makerdao.com/t/mip14c2-sp3-requesting-protocol-dai-transfer-to-fund-endgame-information-portal/19370
 parameters:
     input_format:
         type: single-choice
