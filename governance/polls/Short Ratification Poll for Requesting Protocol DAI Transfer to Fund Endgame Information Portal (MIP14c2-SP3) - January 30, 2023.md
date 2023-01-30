@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023
+title: Short Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023
 summary: The proposed funding will finance development of an Endgame information portal with good search capabilities and, ideally, decentralized storage.
 discussion_link: https://forum.makerdao.com/t/mip14c2-sp3-requesting-protocol-dai-transfer-to-fund-endgame-information-portal/19370
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2023-01-30T16:00:00
 end_date: 2023-02-02T16:00:00
 ---
-# Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023
+# Short Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, January 30 at 16:00 UTC.
 
