@@ -1,0 +1,18 @@
+on: [pull_request, push]
+
+jobs:
+  upload_delegates:
+    runs-on: ubuntu-latest
+    name: Parses all the delegates and uploads all to IPFS
+    steps:
+      - name: 
+        id: upload
+        uses: makerdao-dux/action-deploy-delegates@v1.1
+        with:
+          delegates-folder: 'governance/delegates'
+          tags-file: 'governance/delegates/meta/tags.json'
+          infura-id: ${{ secrets.INFURA_ID }}
+          infura-secret: ${{ secrets.INFURA_KEY }}
+      # Use the output from the `upload` step
+      - name: Get the output hash
+        run: echo "The IPFS hash was ${{ steps.upload.outputs.hash }}"
