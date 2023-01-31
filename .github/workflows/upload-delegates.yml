@@ -5,7 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Parses all the delegates and uploads all to IPFS
     steps:
-      - name: 
+      - uses: actions/checkout@v3
+      - name: Upload
         id: upload
         uses: makerdao-dux/github-action-deploy-delegates@v1.1.10
         with:
