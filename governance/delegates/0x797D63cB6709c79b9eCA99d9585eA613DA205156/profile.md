@@ -11,8 +11,8 @@ tags:
 ### Key Info
 
 Delegate Address: [0x797D63cB6709c79b9eCA99d9585eA613DA205156](https://etherscan.io/address/0x797D63cB6709c79b9eCA99d9585eA613DA205156)  
-Forum: @sm_UC, @mv_UC, @_andy  
-Discord: naut#1973, madhav.vats#1407, and _andy#5931  
+Forum: @ap_uc  
+Discord: oddish#0408  
 Email: coreteam@chicagodao.io  
 External Website (optional): https://chicagodao.io/  
 Twitter: @chicagodao_io  
