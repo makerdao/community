@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The L2 side of the Teleport bridge on Optimism, Arbitrum, and Starknet, will be temporarily shut down, as detailed below.
+- The L2 side of the Teleport bridge on Optimism, Arbitrum, and Starknet will be temporarily shut down, as detailed below.
 - **138,894 DAI** will be transferred to the Tech-Ops Core Unit, as detailed below.
 - A total of **146,559 DAI** will be transferred to twelve recipients as part of the offboarding of the Governance Communications Core Unit, itemized below.
 - **209,000 DAI** will be transferred to fund a Special Purpose Fund posted by the Strategic Finance Core Unit, as detailed below.
@@ -34,9 +34,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Maker Teleport Temporary Shutdown
 
-As per this [forum post](https://forum.makerdao.com/t/community-notice-pecu-to-redeploy-teleport-l2-gateways/19550) from @Derek, Protocol Engineering are planning to redeploy the Teleport L2 Gateways due to the identification of a minor issue. To facilitate this, the L2 side of the Teleport bridges will be temporarily shutdown to protect users, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/community-notice-pecu-to-redeploy-teleport-l2-gateways/19550) from Facilitator @Derek, the Protocol Engineering Core Unit is planning to redeploy the Teleport L2 Gateways due to the identification of a minor issue. To facilitate this, the L2 side of the Teleport bridges will be temporarily shut down to protect users if this executive proposal passes.
 
-Specifically, `ETH-MAIN-A` will be removed from the `validDomains` mapping of authorised destination domains in the `L2DaiTeleportGateway` contract for each of the three supported L2 domains (Optimism, Arbitrum and Starknet). This action will be implemented by calling the `L1GovernanceRelay` contract of each domain in order to execute a special-purpose L2 spell (executed by the `L2GovernanceRelay` of the domain) that will take care of calling the file function of the corresponding `L2DaiTeleportGateway`.
+Specifically, `ETH-MAIN-A` will be removed from the `validDomains` mapping of authorized destination domains in the `L2DaiTeleportGateway` contract for each of the three supported L2 domains (Optimism, Arbitrum, and Starknet). This action will be implemented by calling the `L1GovernanceRelay` contract of each domain in order to execute a special-purpose L2 spell (executed by the `L2GovernanceRelay` of the domain) that will take care of calling the file function of the corresponding `L2DaiTeleportGateway`.
 
 Below are the relevant deployed contract addresses:
 
@@ -52,7 +52,7 @@ As per their recent successful [MIP14c2-SP1](https://mips.makerdao.com/mips/deta
 
 ### Governance Communications Core Unit Offboarding Payments
 
-As per the recent successgful [MIP39c3-SP7](https://mips.makerdao.com/mips/details/MIP39c3SP7) subproposal, a total of **146,559 DAI** will be distributed to the offboarding [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP8), as itemized below if this executive proposal passes.
+As per the recent successful [MIP39c3-SP7](https://mips.makerdao.com/mips/details/MIP39c3SP7) subproposal, a total of **146,559 DAI** will be distributed to the offboarding [Governance Communications Core Unit (COM-001)](https://mips.makerdao.com/mips/details/MIP39c2SP8), as itemized below, if this executive proposal passes.
 
 - **131,200 DAI** to the GovComms Multisig at [0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9](https://etherscan.io/address/0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9).
 - **1,336 DAI** to Alec Horner at [0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea](https://etherscan.io/address/0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea).
