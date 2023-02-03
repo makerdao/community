@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Maker Teleport Temporary Shutdown, DAI Transfers, Starknet Contract Deauthorizations - February 3, 2023
-summary: Temporarily shut down the L2 side of the teleport bridge on Optimism, Arbitrum, and Starknet, DAI transfers for SPF funding, Tech-Ops CU and GovComms offboarding, deauthorize old Starknet contracts.
+summary: Temporarily shut down the L2 side of the teleport bridge on Optimism, Arbitrum, and Starknet; DAI transfers for SPF funding, Tech-Ops Core Unit, and GovComms severence; deauthorize the old Starknet contracts.
 date: 2023-02-03T00:00:00.000Z
 address: "$spell_address"
 
