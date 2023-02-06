@@ -54,7 +54,7 @@ As per the ratified [MIP63c4-SP5: Onboard/Amend Keeper Network - Chainlink Autom
 
 ### Recognized Delegate Compensation
 
-As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of 109,048 DAI will be distributed to 17 Recognized Delegates as itemized below if this executive proposal passes:
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of 109,048 DAI will be distributed to seventeen Recognized Delegates as itemized below if this executive proposal passes:
 
 - **12,000 DAI** transferred to [coldiron.eth](https://vote.makerdao.com/address/0xb4b82978fce6d26a22dea7e653bb9ce8e14f8056) at [0x6634e3555DBF4B149c5AEC99D579A2469015AEca](https://etherscan.io/address/0x6634e3555DBF4B149c5AEC99D579A2469015AEca).
 - **12,000 DAI** transferred to [Flip Flop Flap Delegate LLC](https://vote.makerdao.com/address/0x0f4be9f208c552a6b04d9a1222f385785f95beaa) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
