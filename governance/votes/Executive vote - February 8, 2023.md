@@ -26,7 +26,7 @@ If this executive proposal passes, the following **changes** will occur within t
 	- ETH-B
 	- WBTC-B
 - A total of **181,000 DAI** will be streamed to the Chainlink Automation Keeper Network, as detailed below.
-- A total of **109,396 DAI** will be transfered to multiple Recognized Delegates, as detailed below.
+- A total of **109,048 DAI** will be transfered to multiple Recognized Delegates, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -54,7 +54,7 @@ As per the ratified [MIP63c4-SP5: Onboard/Amend Keeper Network - Chainlink Autom
 
 ### Recognized Delegate Compensation
 
-As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of 109,396 DAI will be distributed to 18 Recognized Delegates as itemized below if this executive proposal passes:
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of 109,048 DAI will be distributed to 17 Recognized Delegates as itemized below if this executive proposal passes:
 
 - **12,000 DAI** transferred to [coldiron.eth](https://vote.makerdao.com/address/0xb4b82978fce6d26a22dea7e653bb9ce8e14f8056) at [0x6634e3555DBF4B149c5AEC99D579A2469015AEca](https://etherscan.io/address/0x6634e3555DBF4B149c5AEC99D579A2469015AEca).
 - **12,000 DAI** transferred to [Flip Flop Flap Delegate LLC](https://vote.makerdao.com/address/0x0f4be9f208c552a6b04d9a1222f385785f95beaa) at [0x688d508f3a6B0a377e266405A1583B3316f9A2B3](https://etherscan.io/address/0x688d508f3a6B0a377e266405A1583B3316f9A2B3).
@@ -71,7 +71,6 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **1,001 DAI** transferred to [Chris Blec](https://vote.makerdao.com/address/0x2c511d932c5a6fe4071262d49bfc018cfbaaa1f5) at [0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170](https://etherscan.io/address/0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170).
 - **939 DAI** transferred to [CodeKnight](https://vote.makerdao.com/address/0xe89f973a19cd76c3e5e236062668e43042176638) at [0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428](https://etherscan.io/address/0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428).
 - **352 DAI** transferred to [ONESTONE](https://vote.makerdao.com/address/0x9301f3bb7a71ab4d46b17bd1f8254142fa8f26ad) at [0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a](https://etherscan.io/address/0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a).
-- **352 DAI** transferred to [HKUST EPI Blockchain](https://vote.makerdao.com/address/0x925016c2367802632cabdf13b5fc2c1bdc2c301a) at [TBD](https://etherscan.io/address/TBD).
 - **96 DAI** transferred to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
 - **35 DAI** transferred to [PVL](https://vote.makerdao.com/address/0xd9d00c42bed99a6d3a0f2902c640bccceecf6c29) at [0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416](https://etherscan.io/address/0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416).
 
