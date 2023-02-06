@@ -37,10 +37,10 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 
 ### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) increases
 
-* Increase the CRVV1ETHSTETH-A Maximum Debt Ceiling (`line`) from 20 million DAI to **100 million DAI**.
-* Increase the RETH-A Maximum Debt Ceiling (`line`) from 5 million DAI to **10 million DAI**.
-* Increase the MATIC-A Maximum Debt Ceiling (`line`) from 10 million DAI to **15 million DAI**.
-* Increase the Compound v2 D3M Maximum Debt Ceiling (`line`) from 20 million DAI to **30 million DAI**.
+* Increase the CRVV1ETHSTETH-A Maximum Debt Ceiling (`line`) by 80 million DAI from 20 million DAI to **100 million DAI**.
+* Increase the RETH-A Maximum Debt Ceiling (`line`) by 5 million DAI from 5 million DAI to **10 million DAI**.
+* Increase the MATIC-A Maximum Debt Ceiling (`line`) by 5 million DAI from 10 million DAI to **15 million DAI**.
+* Increase the Compound v2 D3M Maximum Debt Ceiling (`line`) by 10 million DAI from 20 million DAI to **30 million DAI**.
 
 ### AAVE v3 D3M
 
