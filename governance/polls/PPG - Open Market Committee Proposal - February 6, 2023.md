@@ -50,6 +50,8 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 * Set [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) to **5 million DAI**.
 * Set [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) to **12 hours**.
 
+**Governance Facilitators Note:** The Protocol Engineering Core Unit may recommend a lower Maximum Debt Ceiling for the Aave v2 D3M at their discretion since it is a new deployment.
+
 Please review the proposal [thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2-february-2023/19637) to help inform your position before voting.
 
 ## Outcomes
