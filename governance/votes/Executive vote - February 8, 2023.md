@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation - February 8, 2023
+title: Template - [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation for January - February 8, 2023
 summary: Dust parameter reductions for mutliple vault types, Chainlink Automation keeper network stream setup, Recognized Delegate compensation for January.
 date: 2023-02-08T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation - February 8, 2023
+# [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation for January - February 8, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
