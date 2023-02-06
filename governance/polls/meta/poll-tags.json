@@ -3558,5 +3558,15 @@
     "ratification",
     "mips",
     "endgame"
+  ],
+  "946": [
+    "low-impact",
+    "misc-governance"
+  ],
+  "947": [
+    "medium-impact",
+    "risk-parameter",
+    "momc",
+    "d3m"
   ]
 }
