@@ -42,9 +42,9 @@ MKR Token Holders may vote in this poll to express support or opposition to the 
 * Increase the MATIC-A Maximum Debt Ceiling (`line`) by 5 million DAI from 10 million DAI to **15 million DAI**.
 * Increase the Compound v2 D3M Maximum Debt Ceiling (`line`) by 10 million DAI from 20 million DAI to **30 million DAI**.
 
-### AAVE v3 D3M
+### AAVE v2 D3M
 
-* Activate the Aave v3 D3M.
+* Activate the Aave v2 D3M.
 * Set [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) to **2%**.
 * Set [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) to **20 million DAI**.
 * Set [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) to **5 million DAI**.
