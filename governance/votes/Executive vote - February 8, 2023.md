@@ -42,9 +42,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per [this poll](https://vote.makerdao.com/polling/QmRfegL4), the following [debt floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) reductions will take place if this executive proposal passes:
 
-- Reduce `dust` for ETH-A, WBTC-A, and WSTETH-A to 7,500 DAI.
-- Reduce `dust` for ETH-C, WBTC-C, and WSTETH-B to 3,500 DAI.
-- Reduce `dust` for ETH-B and WBTC-B to 25,000 DAI.
+- Reduce `dust` for ETH-A, WBTC-A, and WSTETH-A to **7,500 DAI**.
+- Reduce `dust` for ETH-C, WBTC-C, and WSTETH-B to **3,500 DAI**.
+- Reduce `dust` for ETH-B and WBTC-B to **25,000 DAI**.
 
 ### Chainlink Automation Keeper Network Stream Setup
 
