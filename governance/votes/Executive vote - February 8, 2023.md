@@ -72,7 +72,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **939 DAI** transferred to [CodeKnight](https://vote.makerdao.com/address/0xe89f973a19cd76c3e5e236062668e43042176638) at [0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428](https://etherscan.io/address/0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428).
 - **352 DAI** transferred to [ONESTONE](https://vote.makerdao.com/address/0x9301f3bb7a71ab4d46b17bd1f8254142fa8f26ad) at [0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a](https://etherscan.io/address/0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a).
 - **96 DAI** transferred to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
-- **35 DAI** transferred to [PVL](https://vote.makerdao.com/address/0xd9d00c42bed99a6d3a0f2902c640bccceecf6c29) at [0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416](https://etherscan.io/address/0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416).
+- **35 DAI** transferred to [pvl](https://vote.makerdao.com/address/0xd9d00c42bed99a6d3a0f2902c640bccceecf6c29) at [0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416](https://etherscan.io/address/0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416).
 
 
 ## Review
