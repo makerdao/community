@@ -1,4 +1,4 @@
-on: [pull_request, push]
+on: [pull_request]
 
 jobs:
   upload_delegates:
@@ -6,6 +6,8 @@ jobs:
     name: Parses all the delegates and uploads all to IPFS
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
         uses: makerdao-dux/github-action-deploy-delegates@v1.1.14
@@ -18,10 +20,11 @@ jobs:
       # Use the output from the `upload` step
       - name: Get the output hash
         run: echo "The IPFS hash was ${{ steps.upload.outputs.hash }}"
-      - name: Push delegates file to Github
+      - name: Update pull request with delegates changes. 
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           message: 'Added delegates aggregated file'
           add: 'delegates.json'
+          fetch: false
