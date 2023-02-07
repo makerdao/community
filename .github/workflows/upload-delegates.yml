@@ -16,7 +16,7 @@ jobs:
           tags-file: 'governance/delegates/meta/tags.json'
           infura-id: ${{ secrets.INFURA_ID }}
           infura-secret: ${{ secrets.INFURA_KEY }}
-          output-file: './delegates.json'
+          output-file: 'governance/delegates/meta/delegates.json'
       # Use the output from the `upload` step
       - name: Get the output hash
         run: echo "The IPFS hash was ${{ steps.upload.outputs.hash }}"
@@ -26,5 +26,5 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           message: 'Added delegates aggregated file'
-          add: 'delegates.json'
+          add: 'governance/delegates/meta/delegates.json'
           fetch: false
