@@ -2,7 +2,7 @@
 title: Template - [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation for January - February 8, 2023
 summary: Dust parameter reductions for multiple vault types, Chainlink Automation keeper network stream setup, Recognized Delegate compensation for January.
 date: 2023-02-08T00:00:00.000Z
-address: "$spell_address"
+address: "0x3c4c8DbA0569Ce1B0210aeC14F9604C63FF80383"
 
 ---
 # [Executive Proposal] Dust Parameter Changes, Chainlink Automation Keeper Network Stream Setup, Recognized Delegate Compensation for January - February 8, 2023
