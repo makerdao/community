@@ -43,7 +43,7 @@ $executive_entry_description_1
 
 ### $executive_entry_2
 
-$executive_entry_description_3
+$executive_entry_description_2
 
 ### $executive_entry_3
 
