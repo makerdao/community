@@ -13,7 +13,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: makerdao-dux/github-action-deploy-delegates@v1.1.15
+        uses: makerdao-dux/github-action-deploy-delegates@v1.1.16
         with:
           delegates-folder: 'governance/delegates'
           tags-file: 'governance/delegates/meta/tags.json'
