@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This amendment is intended to replace GovComms as the responsible party for communicating offboardings through MIP62 and to prevent the requirement for a token vote in the event we run into this same issue in the future*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d72523769e9eb8310d6f256c620aad61eea4e04f/MIP4/MIP4c2-Subproposals/MIP4c2-SP33.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e6502bfcaff834ac101734d55c3b8e0e74da5f4d/MIP4/MIP4c2-Subproposals/MIP4c2-SP33.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP33#motivation)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp33-amend-mip62-to-allow-for-changing-communication-responsibilities/19381)
 

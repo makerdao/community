@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The existing Interim Facilitator process has proved to be less than ideal when applied. Primarily the issues are: Lack of speedy resolution - If the initial process fails, the Fallback Process takes at least one week. While this doesn’t sound like a long time, it has the potential to cause major issues depending on the circumstances. Inflexibility - The existing process does not readily allow for modifications in processes by the Governance Facilitators in the event the circumstances are atypical.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ef7a71342fae6caf070735b6f05e3a82a5d4d781/MIP4/MIP4c2-Subproposals/MIP4c2-SP30.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/55862ddea6c9f8cfd88158ae34e12833fb825259/MIP4/MIP4c2-Subproposals/MIP4c2-SP30.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP30)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp30-amend-interim-facilitator-appointment-process/18951)
 
