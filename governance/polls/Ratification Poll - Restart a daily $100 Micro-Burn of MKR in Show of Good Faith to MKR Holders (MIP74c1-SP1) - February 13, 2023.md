@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e6502bfcaff834ac101734d55c3b8e0e74da5f4d/MIP74/MIP74c1-Subproposals/MIP74c1-SP1.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP74c1SP1#sentence-summary)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP74c1SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip74c1-sp1-restart-a-100-day-micro-burn-of-mkr-in-show-of-good-faith-to-mkr-holders/19027)
 
 ## Outcomes
