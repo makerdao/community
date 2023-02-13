@@ -3600,6 +3600,12 @@
     "collateral-onboard",
     "ratification",
     "mips"
+  ],
+  "953": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
   ]
 }
 
