@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP13c3-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This MIP proposes that people who passively and permanently lock Dai in the Dai contract have the ability to get their funds back. If people transfer their Dai to the contract address, and the contract address has the characteristic of being permanently non-transferable, then we regard it as permanently destroyed. When the Dai is regarded as permanently destroyed, it will be issued to the transferor through the mint function in the smart contract. Maker should offer some kind of support for Dai sent to the contract — maybe with a 10% penalty to discourage abuse.*
+*This MIP proposes that people who passively and permanently lock Dai in the Dai contract have the ability to get their funds back. If people transfer their Dai to the contract address, and the contract address has the characteristic of being permanently non-transferable, then we regard it as permanently destroyed. When the Dai is regarded as permanently destroyed, it will be issued to the transferrer through the mint function in the smart contract. Maker should offer some kind of support for Dai sent to the contract — maybe with a 10% penalty to discourage abuse.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/98f023555b291640d954967a5cb50bdd442c14fd/MIP13/MIP13c3-Subproposals/MIP13c3-SP14.md)
