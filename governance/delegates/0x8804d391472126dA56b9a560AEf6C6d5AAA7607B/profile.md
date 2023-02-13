@@ -1,5 +1,5 @@
 ---
-name: StableNode
+name: StableLab
 external_profile_url:
 tags:
   - pragmatism
@@ -9,60 +9,70 @@ tags:
 
 **Key Info**
 
-Name: StableNode
+**Name**: StableLab
 
-Delegate Address: 0x8804d391472126dA56b9a560AEf6C6d5AAA7607B
+**Delegate Address**: stablelab.eth
 
-Forum: [@Doo_StableNode](https://forum.makerdao.com/u/doo_nam)
+**Governance tracking**: [BroadRoom](https://boardroom.io/voter/0x1D1a13b16667c284b87de62CAEEfF0ce89E342B2), [Internal tracker](https://stablenode.notion.site/bfaaf09e108247a78dd7f1ab1244221c?v=3cbe615520a54d6aabed8b753a75c4e1)
 
-Discord: Doo#3219
+Forum: [@Doo_StableLab](https://forum.makerdao.com/u/doo_stablelab)
 
-Email: [doowannam2@gmail.com](mailto:doowannam2@gmail.com)
+Discord: Doo_StableLab#3219
 
-Twitter: https://twitter.com/DooWanNam
+Twitter: https://twitter.com/Stablelab
 
-**Core Value**
+Blog: https://www.stablelab.xyz/blog
 
-* Connecting the West and the East for the Maker Community
-* Diversity of Ideas and Communities
-* Pragmatic
+Languages: English, Spanish, German, Dutch, Romanian, Korean, Chinese
 
-**Delegate Statement**
+**ABOUT**
 
-Even before joining Maker in late 2018 to help the protocol’s expansion in Asia, especially China and Korea, I was fascinated by the Maker system and wrote guides in Korean as there was no available information in Korean.
+StableLab is a governance firm focused on professional delegation, DAO framework design and product development. We work with various projects, from the ones just starting their journey to decentralization to the most prominent DeFi protocols.
 
-Fast forward to 2022, as the DeFi industry and Dai usage grew rapidly, we saw the increase in interest from Asia as well. In fact, China itself accounts for the 2nd largest user base for the protocol.
+Our systematic framework for DAOs covers governance methodologies, decentralized workforce, implementation, documentation, communication and community engagement. There is no one-size-fits-all approach, but we provide a framework of principles and tools we have developed throughout our experience.
 
-However, in terms of governance and community, there is still a large disconnect between the West and the East. This is partly due to the language barrier as many use their own communication channels (Kakaotalk for Koreans for example), and most of the materials are only available in English. Moreover, many of the calls including Governance Meetings take place at 3 or 4am in Asia time. The disconnect grew larger as the Community Lead role doesn’t exist anymore after the Foundation dissolved.
+We scale DAOs sustainably.
 
-Although there’s no Korea Lead, I still operate the Korean community and connect with Maker holders and users for the same passion and reason I wrote guides in Korean before joining Maker in 2018. I want more people to be interested in the Maker protocol and hear and share their feedback with the greater Maker community. This is why after many thoughts, I decided to become a delegate.
+**EXPERIENCE**
 
-**Delegate Next Steps**
+We are the leading professional delegate team with a track record across major DeFi protocols, including MakerDAO, Optimism, Aave, 1inch, Balancer, Element, InstaDapp, Hop and more.
 
-As a delegate focusing on connecting the West and the East, I will continue to communicate with various communities in Asia and reflect them in the voting. The two most common points are:
+We pioneer delegation work through high governance standards, extensive research, hands-on expertise and the consistent use of a code of conduct. Pushing forward web3 and DeFi since 2018, StableLab’s co-founders previously spent 3.5 years at the Maker Foundation.
 
-**1. Larger Presence and Contents Across Different Countries**
+Governance delegates and roles currently (or previously held by StableLab).
 
-Currently, the Maker protocol is mainly in English and many non-English communities are declining as the strategy and management are lagging behind. They want to see more content in different languages and also more active communication.
+View all our proposals, votes and milestones at [stablelab.xyz /governance](http://www.stablelab.xyz/governance).
 
--In accordance, I will support sound proposals that can achieve such.
+**VALUES & CONDUCT**
 
-**2. Aggressively increase Dai Access**
+A. **VALUES - A.R.T.**
 
-A large number of users in Asia focus on convenience and accessibility. As a result, it’s a home to some of the largest cryptocards and crypto mobile wallets in the world. They are also quite sensitive to transaction fees, which allowed the strong growth of BSC, Polygon, Klaytn, etc in the region.
+1. **Active**: We participate in every aspect of the governance process, from creating and presenting proposals to providing feedback in the forums and actively voting.
+2. **Research**: Our decisions are backed by a team of experienced researchers and PhDs.
+3. **Trust**: We act unbiased and transparent, according to our [code of conduct](https://medium.com/stablenode-blog/what-to-expect-from-professional-delegates-27ee9b160254) - driven by a strong set of ethics and values.
 
--In accordance, I will support sound proposals that can achieve such. I would strongly vote against proposals that hinder the access (such as increasing minimum vault size)
+B. **DELEGATE CONDUCT**
 
-**Conflicts of Interest**
+* Use values to guide actions.
+* Maintain impartiality and transparency in participation.
+* Rely on data, research and prior expertise for proposals and votes.
+* Apply battle-tested internal policies for consistency.
+* Consult with the team for quality outcomes.
 
-Co-founder at Stable Node, which invested and/or work with various entities such as Instadapp, Superfluid, Monetalis, Klaytn, and Polygon.
+**Why MakerDAO**
 
-In terms of personal holdings above $1K, beside ETH,MKR,DAI,USDC, I invested and hold APWine Finance (APW), BlackPool Token (BPT), and SOLACE. And indirectly holds Dunamu (Upbit Exchange) equity via a fund.
+From DeFi to RWA to DAO Governance, MakerDAO has been a pioneer, and we will continue to contribute to MakerDAO in active and various ways.
 
-I will disclose in case the voting might create conflicts of interest.
+**DISCLOSURE**
 
-I have read and agree to follow the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
+Through our holding company, we have invested in multiple projects to advance growth and governance for them. See the full list [here](http://stablenode.xyz/).
 
-**Waiver of Liability**
+We contribute to various protocols’ governance, such as Optimism, Aave, 1inch, Balancer, and Element. See the full list [here](http://stablelab.xyz/).
 
-By delegating to me, you acknowledge and agree that I participate on a best efforts basis and will not be liable for any form of damages related to my participation in the Maker Protocol or MakerDAO.
+When applicable, we will disclose potential conflicts of interest in our rationale.
+
+**WAIVER OF LIABILITY**
+
+By delegating to StableLab, you acknowledge and agree that StableLab participates on a best efforts basis and StableLab will not be liable for any form of damages related to StableLab’s participation in governance.
+
+StableLab have read and agree to follow the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384).
