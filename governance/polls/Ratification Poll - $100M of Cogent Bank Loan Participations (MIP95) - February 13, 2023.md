@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP95 be
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Cogent Bank is an FDIC regulated Florida bank with $1.2B of assets and a $28M legal lending limit. Cogent proposes participating $100M of loans to MakerDAO’s existing RWA Master Participation Trust using the same Participation Agreement with the same exact terms as MakerDAO’s deal with Huntingdon Valley Bank 1. Cogent and MaxStability will pay MakerDAO’s legal fees. This transaction is an opportunity for MakerDAO to reinforce its strategic value for community banks by doubling Cogent’s capacity to originate loans to existing and new customers*
+*Cogent Bank is an FDIC regulated Florida bank with $1.2B of assets and a $28M legal lending limit. Cogent proposes participating $100M of loans to MakerDAO’s existing RWA Master Participation Trust using the same Participation Agreement with the same exact terms as MakerDAO’s deal with Huntingdon Valley Bank. Cogent and MaxStability will pay MakerDAO’s legal fees. This transaction is an opportunity for MakerDAO to reinforce its strategic value for community banks by doubling Cogent’s capacity to originate loans to existing and new customers*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f53042d01070a92211d1b459f95f99d25603a189/MIP95/MIP95.md)
