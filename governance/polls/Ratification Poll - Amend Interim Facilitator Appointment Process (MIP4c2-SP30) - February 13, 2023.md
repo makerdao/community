@@ -45,6 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/55862ddea6c9f8cfd88158ae34e12833fb825259/MIP4/MIP4c2-Subproposals/MIP4c2-SP30.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP30)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp30-amend-interim-facilitator-appointment-process/18951)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/711)
 
 ## Outcomes
 
