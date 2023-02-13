@@ -1,7 +1,6 @@
 ---
 title: Ratification Poll for Amend MIP62 to Allow for Changing Communication Responsibilities (MIP4c2-SP33) - February 13, 2023
-summary: This amendment is intended to replace GovComms as the responsible party for communicating offboardings through MIP62 and to
-prevent the requirement for a token vote in the event we run into this same issue in the future.
+summary: This amendment is intended to replace GovComms as the responsible party for communicating offboardings through MIP62 and to prevent the requirement for a token vote in the event we run into this same issue in the future.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp33-amend-mip62-to-allow-for-changing-communication-responsibilities/19381
 parameters:
     input_format:
