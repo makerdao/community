@@ -3558,5 +3558,53 @@
     "ratification",
     "mips",
     "endgame"
+  ],
+  "946": [
+    "low-impact",
+    "misc-governance"
+  ],
+  "947": [
+    "medium-impact",
+    "risk-parameter",
+    "momc",
+    "d3m"
+  ],
+  "948": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "949": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "950": [
+    "low-impact",
+    "misc-governance",
+    "collateral-offboard",
+    "ratification",
+    "mips"
+  ],
+  "951": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "952": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "ratification",
+    "mips"
+  ],
+  "953": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
   ]
 }
