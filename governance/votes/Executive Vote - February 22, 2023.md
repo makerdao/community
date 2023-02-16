@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Aave v2 D3M Deployment, Strategic Finance MKR Transfer, and MOMC Parameter Changes - February 22, 2023
-summary: Onboards the Aave v2 Dai Direct Deposit Module, Strategic Finance Core Unit (SF-001) MKR Vesting Transfer, and MOMC parameter changes.
+title: Template - [Executive Vote] Aave v2 D3M Deployment, Strategic Finance MKR Vesting Streams, and MOMC Parameter Changes - February 22, 2023
+summary: Onboards the new Aave v2 Dai Direct Deposit Module, Strategic Finance Core Unit (SF-001) MKR Vesting Stream setup, and MOMC parameter changes.
 date: 2023-02-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Aave v2 D3M Deployment, Strategic Finance MKR Transfer, and MOMC Parameter Changes - February 22, 2023
+# [Executive Proposal] Aave v2 D3M Deployment, Strategic Finance MKR Vesting Streams, and MOMC Parameter Changes - February 22, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- A total of **435 MKR** will be transferred to the [Strategic Finance Core Unit (SF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP36), as detailed below.
+- A total of **435 MKR** will be streamed to the [Strategic Finance Core Unit (SF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP36), as detailed below.
 - Parameter changes from the latest proposal of the [MakerDAO Open Market Committee](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355), as detailed below.
 
 If this executive proposal passes, the following **addition** will be made to the Maker Protocol:
@@ -45,7 +45,9 @@ As per this [poll](https://vote.makerdao.com/polling/QmUMyywc#poll-detail), the 
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **12 hours**.
 * [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar): **2%**.
 
-Note that Governance has approved a `line` of 20 million DAI but the intial deployment sets the `line` to 5 million DAI following the advice of the Protocol Engineering Core Unit. 
+**Note that Governance has approved a `line` of 20 million DAI but the intial deployment sets the `line` to 5 million DAI following the advice of the Protocol Engineering Core Unit**. 
+
+For more information on the DAI Direct Deposit Module, see the entry in the Maker Operational Manual [here](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
 
 #### Threads and Assessments 
 
@@ -55,14 +57,27 @@ Please review the following resources containing information about the Aave V2 D
 * [Initial Protocol Engineering Core Unit Evaluation](https://forum.makerdao.com/t/direct-aavev2-dai-direct-deposit-module-technical-assessment/10751)
 * [MIP 50: DAI Direct Deposit Module](https://mips.makerdao.com/mips/details/MIP50)
 
-
 ### Strategic Finance Core Unit (SF-001) MKR Transfer
 
-As per their successful [MKR vesting proposal](https://vote.makerdao.com/polling/QmZn66qt), the following MKR streams will be added to the [Strategic Finance Core Unit (SF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP36) starting March 1, 2022 through March 1, 2025 in accordance with their active [budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP48), if this executive passes. The MKR is claimable on March 1, 2023.
-- **240 MKR** will be streamed to [0x31C01e90Edcf8602C1A18B2aE4e5A72D8DCE76bD](https://etherscan.io/address/0x31C01e90Edcf8602C1A18B2aE4e5A72D8DCE76bD). 
-- **195 MKR** will be streamed to [0x12b19C5857CF92AaE5e5e5ADc6350e25e4C902e9](https://etherscan.io/address/0x12b19C5857CF92AaE5e5e5ADc6350e25e4C902e9)
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP48), the following MKR streams will be added for the [Strategic Finance Core Unit (SF-001)](https://mips.makerdao.com/mips/details/MIP39c2SP36), if this executive proposal passes. 
 
-$>>> Should there be a comment that this is legacy work since the stream start date is in the past? <<< $
+#### Contributor Stream 1
+
+- Amount to be Streamed: **240 MKR**
+- Start Date: **2022-03-01**
+- End Date: **2025-03-01**
+- Cliff Date: **2023-03-01**
+- Destination Address: [0x31C01e90Edcf8602C1A18B2aE4e5A72D8DCE76bD](https://etherscan.io/address/0x31C01e90Edcf8602C1A18B2aE4e5A72D8DCE76bD)
+
+#### Contributor Stream 2
+
+- Amount to be Streamed: **195 MKR**
+- Start Date: **2022-03-01**
+- End Date: **2025-03-01**
+- Cliff Date: **2023-03-01**
+- Destination Address: **[0x12b19C5857CF92AaE5e5e5ADc6350e25e4C902e9](https://etherscan.io/address/0x12b19C5857CF92AaE5e5e5ADc6350e25e4C902e9)**
+
+Note these stream and cliff dates have been backdated to the date that the contributors started work with the Strategic Finance Core Unit.
 
 ### MOMC Parameter Changes
 
@@ -79,11 +94,10 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmUMy
 
 ##### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) increases
 
-* Increase the CRVV1ETHSTETH-A Maximum Debt Ceiling (`line`) from 20 million DAI to **100 million DAI**.
-* Increase the RETH-A Maximum Debt Ceiling (`line`) from 5 million DAI to **10 million DAI**.
-* Increase the MATIC-A Maximum Debt Ceiling (`line`) from 10 million DAI to **15 million DAI**.
-* Increase the Compound v2 D3M Maximum Debt Ceiling (`line`) from 20 million DAI to **30 million DAI**.
-
+* Increase the CRVV1ETHSTETH-A Maximum Debt Ceiling (`line`) by 80 million DAI from 20 million DAI to **100 million DAI**.
+* Increase the RETH-A Maximum Debt Ceiling (`line`) by 5 million DAI from 5 million DAI to **10 million DAI**.
+* Increase the MATIC-A Maximum Debt Ceiling (`line`) by 5 million DAI from 10 million DAI to **15 million DAI**.
+* Increase the Compound v2 D3M Maximum Debt Ceiling (`line`) by 10 million DAI from 20 million DAI to **30 million DAI**.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-2-february-2023/19637) containing information about the MOMC Proposal to inform your position before voting.
 
@@ -97,8 +111,8 @@ Additionally, these changes may have been discussed further in recent Governance
 
 ## Resources
 
-Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
+Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
+To participate in future Governance calls, please [join us](https://forum.makerdao.com/tag/pubcall-:-governance-and-risk) every Thursday at 17:00 UTC.
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
