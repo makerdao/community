@@ -1,6 +1,6 @@
 ---
 title: Engineering Resource for Phoenix Labs - February 20, 2023
-summary: Signal your support or opposition to the Protocol Engineering Core Unit supporting the engineering devolopment needs of Phoenix Labs/Spark Protocol.
+summary: Signal your support or opposition to the Protocol Engineering Core Unit supporting the engineering development needs of Phoenix Labs/Spark Protocol.
 discussion_link: https://forum.makerdao.com/t/pecu-seeking-governance-clarification-of-intent-re-phoenix-labs/19840
 parameters:
     input_format: single-choice
