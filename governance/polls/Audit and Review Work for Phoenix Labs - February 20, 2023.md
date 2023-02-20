@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7) diverting resources from other tasks to accomplish review of Spark Protocol by Phoenix Labs. The following items would be in the immediate scope:
+The community can vote in this poll to express support or opposition to the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7) diverting resources from other tasks to accomplish the review of Spark Protocol (by Phoenix Labs). The following items would be in the immediate scope:
 
 - Review the Aave v3 fork and any differences (as part of a D3M integration)
 - Review the new interest rate mechanics as part of Spark Lend
