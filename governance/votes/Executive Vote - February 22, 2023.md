@@ -44,6 +44,8 @@ As per this [poll](https://vote.makerdao.com/polling/QmUMyywc#poll-detail), the 
 * [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line): **5 million DAI**.
 * [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): **5 million DAI**.
 * [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **12 hours**.
+* `tau`: **7 days**.
+	* The `tau` parameter defines the time period that must elapse before debt can be written off after a D3M has been caged.
 
 **Note that Governance has approved a `line` of 20 million DAI but the intial deployment sets the `line` to 5 million DAI following the advice of the Protocol Engineering Core Unit. The `line` will be increased to the approved value once the D3M is operational and deemed secure**. 
 
