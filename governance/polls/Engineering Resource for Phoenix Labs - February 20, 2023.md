@@ -44,7 +44,7 @@ Spark Protocol is the subject of several upcoming independent governance votes. 
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-* The [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7) will allocate 1 full-time engineer (@hexonaut) to Phoenix Labs in support of Spark Protocol Development
+* The [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7) will allocate 1 full-time engineer (@hexonaut) to Phoenix Labs in support of Spark Protocol Development.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
