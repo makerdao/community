@@ -1,7 +1,7 @@
 ---
 title: Engineering Resource for Phoenix Labs - February 20, 2023
 summary: Signal your support or opposition to the Protocol Engineering Core Unit supporting the engineering development needs of Phoenix Labs/Spark Protocol.
-discussion_link: https://forum.makerdao.com/t/pecu-seeking-governance-clarification-of-intent-re-phoenix-labs/19840
+discussion_link: https://forum.makerdao.com/t/pecu-seeking-approval-to-transfer-engineering-resource-to-phoenix-labs/19841
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -30,9 +30,9 @@ The community can vote in this poll to express support or opposition to the [Pro
 
 - Diverting 1 full-time engineer (@hexonaut) to Phoenix Labs in support of Spark Protocol Development.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/pecu-seeking-governance-clarification-of-intent-re-phoenix-labs/19840) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/pecu-seeking-approval-to-transfer-engineering-resource-to-phoenix-labs/19841) to help inform your position before voting.
 
-For more information on Phoenix Labs, consider reviewing this [announcement post](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/197310.
+For more information on Phoenix Labs, consider reviewing this [announcement post](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/197310).
 
 Spark Protocol is the subject of several upcoming independent governance votes. For discourse and review of those proposals please see:
 
