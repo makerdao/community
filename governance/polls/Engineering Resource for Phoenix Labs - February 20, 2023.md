@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the [Pro
 
 Please review the discussion [thread](https://forum.makerdao.com/t/pecu-seeking-approval-to-transfer-engineering-resource-to-phoenix-labs/19841) to help inform your position before voting.
 
-For more information on Phoenix Labs, consider reviewing this [announcement post](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/197310).
+For more information on Phoenix Labs, consider reviewing this [announcement post](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/19731).
 
 Spark Protocol is the subject of several upcoming independent governance votes. For discourse and review of those proposals please see:
 
