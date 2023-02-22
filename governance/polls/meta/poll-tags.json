@@ -3606,5 +3606,15 @@
     "misc-funding",
     "ratification",
     "mips"
+  ],
+  "954": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding"
+  ],
+  "955": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding"
   ]
 }
