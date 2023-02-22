@@ -2,7 +2,8 @@ on:
   push:
     branches:
       - master
-
+    paths:
+      - governance/delegates/**/*
 jobs:
   upload_delegates:
     runs-on: ubuntu-latest
@@ -13,7 +14,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: makerdao-dux/github-action-deploy-delegates@v1.1.16
+        uses: makerdao-dux/github-action-deploy-delegates@v1.1.17
         with:
           delegates-folder: 'governance/delegates'
           tags-file: 'governance/delegates/meta/tags.json'
