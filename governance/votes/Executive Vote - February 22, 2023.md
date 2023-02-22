@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Aave v2 D3M Deployment, Strategic Finance MKR Vesting Streams, and MOMC Parameter Changes - February 22, 2023
 summary: Onboards the new Aave v2 Dai Direct Deposit Module, sets up MKR vesting streams for Strategic Finance Core Unit (SF-001) contributors, and latest MOMC parameter changes.
 date: 2023-02-22T00:00:00.000Z
-address: "$spell_address"
+address: "0x44F703D198D8De5504075170BCeecd3FB4DD0F1B"
 
 ---
 # [Executive Proposal] Aave v2 D3M Deployment, Strategic Finance MKR Vesting Streams, and MOMC Parameter Changes - February 22, 2023
