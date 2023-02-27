@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This research will be available for any team approved by the Maker Governance that wants to build a decentralized product. With this, we will help future Ecosystem Actors join Maker in implementing the Endgame Plan.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version]($link_to_github_commit_version)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a0afd9cc462b5e4ca46952550c06beb33c31c9f2/MIP55/MIP55c3-Subproposals/MIP55c3-SP15.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP15)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733)
 
