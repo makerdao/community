@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] CRVV1ETHSTETH-A Liquidation Parameter Changes, Stablecoin Vault Offboarding, MOMC Parameter Changes, DAI Budget Transfer, MKR Vesting, Recognized Delegate Compensation for February - February 8, 2023
-summary: $summary
+summary: Liquidation parameter changes for CRVV1ETHSTETH-A; stablecoin vault offboarding for USDC-A, PAXUSD-A, and GUSD-A; MOMC parameter changes; DAI budget transfer for GRO-001; MKR vesting transfers for TECH-001, DECO-001, and RISK-001; Recognized Delegate compensation for February.
 date: 2023-03-08T00:00:00.000Z
 address: "$spell_address"
 
