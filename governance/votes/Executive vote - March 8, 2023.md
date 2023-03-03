@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] CRVV1ETHSTETH-A Liquidation Parameter Changes, Stablecoin Vault Offboarding, MOMC Parameter Changes, DAI Budget Transfer, MKR Vesting, Recognized Delegate Compensation for February - February 8, 2023
+title: Template - [Executive Vote] CRVV1ETHSTETH-A Liquidation Parameter Changes, Stablecoin Vault Offboarding, MOMC Parameter Changes, Budget Distributions, Recognized Delegate Compensation for February - March 8, 2023
 summary: Liquidation parameter changes for CRVV1ETHSTETH-A; stablecoin vault offboarding for USDC-A, PAXUSD-A, and GUSD-A; MOMC parameter changes; DAI budget transfer for GRO-001; MKR vesting transfers for TECH-001, DECO-001, and RISK-001; Recognized Delegate compensation for February.
 date: 2023-03-08T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] CRVV1ETHSTETH-A Liquidation Parameter Changes, Stablecoin Vault Offboarding, MOMC Parameter Changes, DAI Budget Transfer, MKR Vesting, Recognized Delegate Compensation for February - February 8, 2023
+# [Executive Proposal] CRVV1ETHSTETH-A Liquidation Parameter Changes, Stablecoin Vault Offboarding, MOMC Parameter Changes, Budget Distributions, Recognized Delegate Compensation for February - March 8, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -27,6 +27,8 @@ If this executive proposal passes, the following **changes** will occur within t
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with the stablecoin vault liquidations.
+
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
 ---
@@ -37,19 +39,16 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per [this recommendation](https://forum.makerdao.com/t/crvv1ethsteth-a-liquidation-parameters-adjustment/20020) by the Risk Core Unit (RISK-001), the liquidation parameters for the CRVV1ETHSTETH-A will be adjusted as follows, if this executive proposal passes:
 
-- [`ilk.hole`](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation#dog-ilk.hole-rad) from 3M to 5M.
-- [`buf`](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation#clipper-buf-ray) from 1.20 to 1.10.
-- [`tail`](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation#clipper-tail-seconds) from 8,400 seconds to 7,200 seconds.
-- [`cusp`](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation#clipper-cusp-ray) from 0.40 to 0.45.
+- Increase [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) by 2 million DAI from 3 million DAI to **5 million DAI**.
+- Decrease [Auction Price Multiplier (`buf`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-auction-price-multiplier) by 0.10 from 1.20 to **1.10**.
+- Decrease [Max Auction Duration (`tail`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-duration) by 1,200 seconds from 8,400 seconds to **7,200 seconds**.
+- Increase [Max Auction Drawdown (`cusp`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-max-auction-drawdown) by 0.05 from 0.40 to **0.45**.
 
 ### Stablecoin Vault Offboarding
 
-As per [this ratified poll](https://vote.makerdao.com/polling/QmemXoCi), vault types USDC-A, USDP-A, and GUSD-A will be offboarded by adjusting the below risk parameters as follows, if this executive proposal passes:
+As per [this ratified poll](https://vote.makerdao.com/polling/QmemXoCi), vault types USDC-A, USDP-A (PAXUSD-A in the chainlog), and GUSD-A will be offboarded by adjusting the below risk parameter as follows, if this executive proposal passes:
 
-- [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam): 0.
-- [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty): 0%.
-- [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive): 0.
-- [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): 1,500%.
+- Increase [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) to **1,500%** for all three vault types.
 
 ### MOMC Parameter Changes
 
@@ -62,12 +61,13 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmXGg
 - Increase the WBTC-C Stability Fee by 0.25% from 0.75% to **1%**.
 - Increase the YFI-A Stability Fee by 0.5% from 1% to **1.5%**.
 
-#### [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases
+#### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increases
 
 - Increase the RETH-A Maximum Debt Ceiling by 10 million DAI from 10 million DAI to **20 million DAI**.
 - Increase the YFI-A Maximum Debt Ceiling by 1 million DAI from 3 million DAI to **4 million DAI**.
-- Increase the Compound v2 D3M Maximum Debt Ceiling by 40 million DAI from 30 million DAI to **70 million DAI**.
-- Increase the Aave v2 D3M Maximum Debt Ceiling by 15 million DAI from 5 million DAI to **20 million DAI**.
+- Increase the DIRECT-COMPV2-DAI Maximum Debt Ceiling by 40 million DAI from 30 million DAI to **70 million DAI**.
+
+**Note:** the approved increase to the Aave D3M Maximum Debt Ceiling has been scheduled for the next Executive Spell as this module was only recently deployed.
 
 ### Core Unit DAI Transfer
 
@@ -91,13 +91,13 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **11,447 DAI** transferred to [mhonkasalo & teemulau](https://vote.makerdao.com/address/0xaa19f47e6acb02df88efa9f023f2a38412069902) at [0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d](https://etherscan.io/address/0x97Fb39171ACd7C82c439b6158EA2F71D26ba383d).
 - **11,178 DAI** transferred to [Penn Blockchain](https://vote.makerdao.com/address/0x7ddb50a5b15aea7e7cf9ac8e55a7f9fd9d05ecc6) at [0x2165d41af0d8d5034b9c266597c1a415fa0253bd](https://etherscan.io/address/0x2165d41af0d8d5034b9c266597c1a415fa0253bd).
 - **10,802 DAI** transferred to [Feedblack Loops LLC](https://vote.makerdao.com/address/0x92e1ca8b69a44bb17afa92838da68fc41f12250a) at [0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1](https://etherscan.io/address/0x80882f2A36d49fC46C3c654F7f9cB9a2Bf0423e1).
-- **10,347 DAI** transferred to [Flipside Crypto](https://vote.makerdao.com/address/0x84b05b0a30b6ae620f393d1037f217e607ad1b96) at [0x1ef753934C40a72a60EaB12A68B6f8854439AA78](https://etherscan.io/address/0x1ef753934C40a72a60EaB12A68B6f8854439AA78).
+- **10,347 DAI** transferred to [Flipside Crypto](https://vote.makerdao.com/address/0x222d46d1229036c7bb6ea3f453406792ca3c3ea2) at [0x1ef753934C40a72a60EaB12A68B6f8854439AA78](https://etherscan.io/address/0x1ef753934C40a72a60EaB12A68B6f8854439AA78).
 - **8,680 DAI** transferred to [JustinCase](https://vote.makerdao.com/address/0x4e324f2327fa3e567d802ddcf655f7188eb62754) at [0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473](https://etherscan.io/address/0xE070c2dCfcf6C6409202A8a210f71D51dbAe9473).
 - **3,961 DAI** transferred to [StableLab](https://vote.makerdao.com/address/0x4c28d8402ac01e5d623e4a5438535369770fe407) at [0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0](https://etherscan.io/address/0x3B91eBDfBC4B78d778f62632a4004804AC5d2DB0).
 - **3,126 DAI** transferred to [London Business School Blockchain](https://vote.makerdao.com/address/0xf1792852bf860b4ef84a2869df1550bc80ec0ab7) at [0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C](https://etherscan.io/address/0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C).
 - **2,455 DAI** transferred to [Frontier Research LLC](https://vote.makerdao.com/address/0x316090e23cc44e70245ba9846404413aca2df16f) at [0xA2d55b89654079987CF3985aEff5A7Bd44DA15A8](https://etherscan.io/address/0xA2d55b89654079987CF3985aEff5A7Bd44DA15A8).
 - **951 DAI** transferred to [Chris Blec](https://vote.makerdao.com/address/0x2c511d932c5a6fe4071262d49bfc018cfbaaa1f5) at [0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170](https://etherscan.io/address/0xa3f0AbB4Ba74512b5a736C5759446e9B50FDA170).
-- **939 DAI** transferred to [CodeKnight](https://vote.makerdao.com/address/0xe89f973a19cd76c3e5e236062668e43042176638) at [0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428](https://etherscan.io/address/0x46dFcBc2aFD5DD8789Ef0737fEdb03489D33c428).
+- **939 DAI** transferred to [CodeKnight](https://vote.makerdao.com/address/0xe89f973a19cd76c3e5e236062668e43042176638) at [0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D](https://etherscan.io/address/0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D).
 - **360 DAI** transferred to [ONESTONE](https://vote.makerdao.com/address/0x9301f3bb7a71ab4d46b17bd1f8254142fa8f26ad) at [0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a](https://etherscan.io/address/0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a).
 - **348 DAI** transferred to [HKUST EPI Blockchain](https://vote.makerdao.com/address/0x925016c2367802632cabdf13b5fc2c1bdc2c301a) at [0xE4594A66d9507fFc0d4335CC240BD61C1173E666](https://etherscan.io/address/0xE4594A66d9507fFc0d4335CC240BD61C1173E666).
 - **181 DAI** transferred to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
