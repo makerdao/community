@@ -65,7 +65,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmXGg
 
 - Increase the RETH-A Maximum Debt Ceiling by 10 million DAI from 10 million DAI to **20 million DAI**.
 - Increase the YFI-A Maximum Debt Ceiling by 1 million DAI from 3 million DAI to **4 million DAI**.
-- Increase the DIRECT-COMPV2-DAI Maximum Debt Ceiling by 40 million DAI from 30 million DAI to **70 million DAI**.
+- Increase the Compound v2 D3M (DIRECT-COMPV2-DAI) Maximum Debt Ceiling by 40 million DAI from 30 million DAI to **70 million DAI**.
 
 **Note:** the approved increase to the Aave D3M Maximum Debt Ceiling has been scheduled for the next Executive Spell as this module was only recently deployed.
 
