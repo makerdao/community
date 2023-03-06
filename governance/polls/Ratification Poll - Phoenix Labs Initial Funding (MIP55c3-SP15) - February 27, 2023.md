@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - February 27, 2023
+title: Short Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - March 6, 2023
 summary: This SPF requests 50,000 DAI for legal and incorporation expenses of Phoenix Labs, an R&D company focused on creating new products for MakerDAO.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733
 vote_type: Plurality Voting
@@ -9,12 +9,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-02-27T16:00:00
-end_date: 2023-03-03T16:00:00
+start_date: 2023-03-06T16:00:00
+end_date: 2023-03-09T16:00:00
 ---
-# Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - February 27, 2023
+# Short Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - March 6, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, February 27 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, March 6 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -41,7 +41,7 @@ Please review the links below to inform your position on this proposal before vo
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
-* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 3.
+* The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 9.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
