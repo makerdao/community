@@ -2,9 +2,21 @@
 title: Short Ratification Poll for Phoenix Labs Initial Funding (MIP55c3-SP15) - March 6, 2023
 summary: This SPF requests 50,000 DAI for legal and incorporation expenses of Phoenix Labs, an R&D company focused on creating new products for MakerDAO.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes
