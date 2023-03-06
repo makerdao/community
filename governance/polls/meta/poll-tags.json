@@ -3622,5 +3622,16 @@
     "risk-parameter",
     "momc",
     "d3m"
+  ],
+  "957": [
+    "medium-impact",
+    "misc-funding",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "958": [
+    "medium-impact",
+    "risk-parameter"
   ]
 }
