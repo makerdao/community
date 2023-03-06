@@ -13,7 +13,7 @@ options:
    1: Yes
    2: No
 start_date: 2023-03-06T16:00:00
-end_date: 2023-03-096T16:00:00
+end_date: 2023-03-09T16:00:00
 ---
 # Poll: Decrease the RETH-A Dust Parameter - March 6, 2023
 
