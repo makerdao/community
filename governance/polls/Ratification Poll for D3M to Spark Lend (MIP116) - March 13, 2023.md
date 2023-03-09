@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP116 b
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to the Spark Lend at 0xC13e21B648A5Ee794902342038FF3aDAB66BE987. This MIP details the proposed pool/plan adapters and associated parameters.*
+*Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to the Spark Lend at [0xC13e21B648A5Ee794902342038FF3aDAB66BE987](https://etherscan.io/address/0xC13e21B648A5Ee794902342038FF3aDAB66BE987). This MIP details the proposed pool/plan adapters and associated parameters.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/813c7a35428742edb4eb83cad6f74010eabcd0df/MIP116/MIP116.md)
