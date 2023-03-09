@@ -1,7 +1,7 @@
 ---
-title: Budget Ratification Poll for GovAlpha Core Unit MKR Budget Q2 2023 (MIP40c3-SP91) - March 13, 2023
-summary: This budget adds an MKR compensation plan for GovAlpha (GOV-001) covering the period from 2022-08-01 onwards.
-discussion_link: https://forum.makerdao.com/t/mip40c3-sp91-govalpha-core-unit-mkr-budget-q2-2023/19713
+title: Ratification Poll for Protocol Engineering Facilitator Onboarding (MIP41c4-SP42) - March 13, 2023
+summary: This subproposal onboards Prototech Labs LLC as a Facilitator for the Protocol Engineering (PECU-001) Core Unit.
+discussion_link: https://forum.makerdao.com/t/mip41c4-sp42-protocol-engineering-facilitator-onboarding-pecu-001/19750
 parameters:
     input_format:
         type: single-choice
@@ -24,9 +24,9 @@ options:
 start_date: 2023-03-13T16:00:00
 end_date: 2023-03-27T16:00:00
 ---
-# Budget Ratification Poll for GovAlpha Core Unit MKR Budget Q2 2023 (MIP40c3-SP91) - March 13, 2023
+# Ratification Poll for Protocol Engineering Facilitator Onboarding (MIP41c4-SP42) - March 13, 2023
 
-The Governance Facilitators have placed a budget ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -35,22 +35,22 @@ The Governance Facilitators have placed a budget ratification poll into the [vot
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP40c3-SP91 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP41c4-SP42 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This budget adds an MKR compensation plan for GovAlpha (GOV-001) covering the period from 2022-08-01 onwards. The budget period will cover two years (i.e., until 2024-08-01), or until the Endgame Plan launches and GovAlpha (along with other Core Units) is dissolved, or until GovAlpha is offboarded through other means. This budget differs from previous GovAlpha MKR budgets, which covered retrospective six-month periods. The rationale for this change is discussed below.*
+*This subproposal onboards Prototech Labs LLC as a Facilitator for the Protocol Engineering (PECU-001) Core Unit. The Prototech Labs business entity will be represented on the forum as @Prototech_Labs , with official communications also coming from its representative, @Derek.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/87bf5a5f3c342c5453ea4d4a364f7d57aeed2b08/MIP40/MIP40c3-Subproposals/MIP40c3-SP91.md)
-* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP40c3SP91)
-* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip40c3-sp91-govalpha-core-unit-mkr-budget-q2-2023/19713)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/72383c9c6e62111e1232a5ea5f797dace8bf0feb/MIP41/MIP41c4-Subproposals/MIP41c4-SP42.md)
+* [Latest Proposal Version](https://forum.makerdao.com/t/mip41c4-sp42-protocol-engineering-facilitator-onboarding-pecu-001/19750)
+* [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp42-protocol-engineering-facilitator-onboarding-pecu-001/19750)
 
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for Option 1 or Option 2 achieve a majority AND the votes for the winning option exceed 10,000 MKR, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
