@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal onboards BA Labs, LLC as a Facilitator for the Risk (RISK-001) Core Unit, represented by @rema and @monet-supply*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/73c5dc7a37ed71c9eabc36f43f992d8d2783a98b/MIP41/MIP41c4-Subproposals/MIP41c4-SP41.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/2cabd82abb6b908293e94003d05890513704e2ca/MIP41/MIP41c4-Subproposals/MIP41c4-SP41.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP41)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp41-risk-facilitator-onboarding-risk-001/19739)
 
@@ -53,6 +53,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* As BA Labs is a Responsible Facilitator in the Decentralized Collateral Scope, this proposal *will* be enacted in the event that the Constitution MIP Set is approved.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 

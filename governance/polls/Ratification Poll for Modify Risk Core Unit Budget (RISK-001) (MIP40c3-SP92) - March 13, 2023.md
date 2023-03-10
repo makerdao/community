@@ -3,24 +3,25 @@ title: Ratification Poll for Modify Risk Core Unit Budget (RISK-001) (MIP40c3-SP
 summary: MIP40c3-SP92 renews the Risk Core Unit (RISK-001) budget from March 1, 2023, through February 29, 2024.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp92-modify-risk-core-unit-budget-risk-001/19741
 parameters:
-    input_format:
-        type: single-choice
-        abstain: [0]
-    victory_conditions:
-        - {
-            type: 'and',
-            conditions: [
-                { type : plurality },
-                { type : comparison, comparator : '>=', value: 10000 }
-            ]
-        }
-        - {type : default, value : 2 }
-    result_display: single-vote-breakdown
+  input_format:
+    type: rank-free
+    abstain: [0]
+  victory_conditions:
+    - {
+        type: 'and',
+        conditions: [
+          { type : instant-runoff },
+          { type : comparison, comparator : '>=', value: 10000 }
+        ]
+      }
+    - { type : default, value : 3 }
+  result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: Approve existing budget - 2,760,000 DAI
+   2: Approve reduced budget - 2,484,000 DAI
+   3: Reject budget
 start_date: 2023-03-13T16:00:00
 end_date: 2023-03-27T16:00:00
 ---
@@ -28,14 +29,18 @@ end_date: 2023-03-27T16:00:00
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
-**This is a binary vote.**
-- **You may vote for a single option.**
-- **You should vote for the option which you prefer.**
-- **If you would accept either option, you should vote 'Abstain'.**
+**This is an instant-runoff vote.**
+- **You may rank any number of options that you would support in an executive vote.**
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP40c3-SP92 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol by ranking their support of the following options:
+* **Option 0:** Abstain.
+* **Option 1:** Approve Existing Budget (Business as usual): 2,760,000 DAI.
+* **Option 2:** Approve Reduced Budget (-10%): 2,484,000 DAI.
+* **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
@@ -50,9 +55,10 @@ Please review the links below to inform your position on this proposal before vo
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
+**If the votes for Option 1 or Option 2 achieve a majority AND the votes for the winning option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* Note that if the Constitution MIP Set is approved this proposal will not be actioned, even if approved.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 

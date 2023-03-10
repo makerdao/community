@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for D3M to Spark Lend (MIP116) - March 13, 2023
-summary: Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to the Spark Lend at [0xC13e21B648A5Ee794902342038FF3aDAB66BE987](https://etherscan.io/address/0xC13e21B648A5Ee794902342038FF3aDAB66BE987).
+summary: Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to Spark Lend at 0xC13e21B648A5Ee794902342038FF3aDAB66BE987.
 discussion_link: https://forum.makerdao.com/t/mip116-d3m-to-spark-lend/19732
 parameters:
     input_format:
@@ -39,10 +39,10 @@ The community may vote in this poll to express support or opposition to MIP116 b
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to the Spark Lend at [0xC13e21B648A5Ee794902342038FF3aDAB66BE987](https://etherscan.io/address/0xC13e21B648A5Ee794902342038FF3aDAB66BE987). This MIP details the proposed pool/plan adapters and associated parameters.*
+*Phoenix Labs proposes a D3M be instantiated to provide DAI liquidity to Spark Lend at [0xC13e21B648A5Ee794902342038FF3aDAB66BE987](https://etherscan.io/address/0xC13e21B648A5Ee794902342038FF3aDAB66BE987). This MIP details the proposed pool/plan adapters and associated parameters.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/813c7a35428742edb4eb83cad6f74010eabcd0df/MIP116/MIP116.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d857ce2d79d1a88d02dc2747d476fc9e159bae45/MIP116/MIP116.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP116)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip116-d3m-to-spark-lend/19732)
 
@@ -53,6 +53,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* Note that if the Constitution MIP Set is approved this MIP will be immediately marked as **Obsolete**.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 

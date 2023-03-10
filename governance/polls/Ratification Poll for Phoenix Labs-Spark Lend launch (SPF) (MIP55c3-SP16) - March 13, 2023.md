@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for Phoenix Labs-Spark Lend launch (SPF) (MIP55c3-SP16) - March 13, 2023
-summary: This SPF requests 347,100 DAI for all expenses to launch Spark Lend and maintain it for a year. Details about Spark Protocol can be found [here](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/19731). ##I added this link, not present in MIP portal or forum
+title: Ratification Poll for Phoenix Labs - Spark Lend Launch (SPF) (MIP55c3-SP16) - March 13, 2023
+summary: This SPF requests 347,100 DAI for all expenses to launch Spark Lend and maintain it for a year.
 discussion_link: https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734
 parameters:
     input_format:
@@ -24,7 +24,7 @@ options:
 start_date: 2023-03-13T16:00:00
 end_date: 2023-03-27T16:00:00
 ---
-# Ratification Poll for Phoenix Labs-Spark Lend launch (SPF) (MIP55c3-SP16) - March 13, 2023
+# Ratification Poll for Phoenix Labs - Spark Lend Launch (SPF) (MIP55c3-SP16) - March 13, 2023
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
@@ -48,7 +48,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *All products created by Phoenix Labs will belong to MakerDAO, including the smart contracts, the Front End, and all intellectual property.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f230fef1762740fc728e4f18ad0629eea87d6c53/MIP55/MIP55c3-Subproposals/MIP55c3-SP16.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/db79cc9487c21f867f02bb781b3ff9064a90a989/MIP55/MIP55c3-Subproposals/MIP55c3-SP16.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP55c3SP16)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734)
 
@@ -59,6 +59,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* Note that if the Constitution MIP Set is approved this proposal will not be actioned, even if approved.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
