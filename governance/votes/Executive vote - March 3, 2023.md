@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] Emergency Parameter Changes - March 11, 2023
-summary: Emergency parameter changes to multiple collateral types including Debt Ceiling, Target Borrow Rate, and PSM tin and tout changes.
+summary: Emergency parameter changes to multiple collateral types including Debt Ceiling, Target Borrow Rate, Target Available Debt, and PSM tin and tout changes.
 date: 2023-03-11T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] mergency Parameter Changes - March 11, 2023
+# [Executive Proposal] Emergency Parameter Changes - March 11, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an emergency out-of-schedule executive proposal into the voting system per [MIP24](https://mips.makerdao.com/mips/details/MIP24). MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -48,7 +48,7 @@ As per this [post](https://forum.makerdao.com/t/emergency-proposal-risk-and-gove
 
 #### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Change
 
-- Increase the PSM-USDP-A `line` by 550 million DAI to **1 billion DAI**.
+- Increase the PSM-USDP-A `line` by 550 million DAI from 450 million DAI to **1 billion DAI**.
 
 #### [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) Changes
 
@@ -67,14 +67,14 @@ As per this [post](https://forum.makerdao.com/t/emergency-proposal-risk-and-gove
 
 ### DAI Direct Deposit Module (D3M) [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar) Changes
 
-**Note that the proposed changes to the D3M `bar` parameters are not subject to the GSM Pause Delay due to the presence of a MOM contract. Therefore, these changes will be actioned when the executive proposal is scheduled**.
+**Note that the proposed changes to the D3M `bar` parameters are not subject to the GSM Pause Delay due to the presence of a [MOM contract](https://manual.makerdao.com/governance/verification/gsm-exceptions#direct-deposit-breaker). Therefore, these changes will be actioned when the executive proposal is scheduled**.
 
 As per this [post](https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125) from the Risk Core Unit (RISK-001), the following emergency parameter changes will be made, if this executive proposal passes:
 
 - Reduce the DIRECT-AAVEV2-DAI `bar` by 2% from 2% to **0%**.
 - Reduce the DIRECT-COMPV2-DAI `bar` by 2% from 2% to **0%**.
 
-### [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) Changes
+### [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) Change
 
 As per this [post](https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125) from the Risk Core Unit (RISK-001), the following emergency parameter changes will be made, if this executive proposal passes:
 
