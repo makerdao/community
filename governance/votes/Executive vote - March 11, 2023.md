@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Emergency Parameter Changes - March 11, 2023
 summary: Emergency parameter changes to multiple collateral types including Debt Ceiling, Target Borrow Rate, Target Available Debt, and PSM tin and tout changes.
 date: 2023-03-11T00:00:00.000Z
-address: "$spell_address"
+address: "0x1D07F15aB8c3C015c7b312759dDd858b0f1D8e72"
 
 ---
 # [Executive Proposal] Emergency Parameter Changes - March 11, 2023
