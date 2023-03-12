@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for the Maker Constitution MIP Set and MIP102c2-SP1 (multiple MIPs) - March 13, 2023
-summary: The Maker Constitution MIP Set (MIP101 through MIP114) introduces the Maker Constitution and the Scope Framework; MIP102c2-SP1 amends and removes multiple existing MIPs.
+title: Ratification Poll for the Constitution MIP Set and MIP102c2-SP1 (multiple MIPs) - March 13, 2023
+summary: The Constitution MIP Set (MIP101 through MIP114) introduces the Maker Constitution and the Scope Framework; MIP102c2-SP1 amends and removes multiple existing MIPs.
 discussion_link: https://forum.makerdao.com/t/mip101-the-maker-constitution/19621
 vote_type: Plurality Voting
 categories:
