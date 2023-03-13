@@ -52,7 +52,7 @@ The Emergency Response Procedure can be found in [MIP24](https://mips.makerdao.c
 
 Based on the recommendations of the Protocol Engineering Team when testing, the [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be increased 110% of the sum of the debts of collateral types UNIV2USDCETH-A, UNIV2DAIUSDC-A, GUNIV3DAIUSDC1-A, and GUNIV3DAIUSDC2-A at spell execution time, if this proposal passes.
 
-This action is intended to correct for not manually adjusting the [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) during the last Emergency Executive. 
+This action is intended to correct for manually adjusting the [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) during the last Emergency Executive. 
 
 ## Review
 
