@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Expand Facilitator Definition to Allow Entities (MIP4c2-SP34) - March 13, 2023
-summary: This amendment MIP proposes to eliminate any reference to a facilitator as an individual and replace it by the term “authorized accounts”.
+summary: This amendment MIP proposes to eliminate any reference to a facilitator as an individual and replace it with the term authorized accounts.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator-definition-to-allow-entities/19736
 parameters:
     input_format:
