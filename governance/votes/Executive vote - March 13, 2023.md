@@ -19,7 +19,7 @@ If this executive proposal passes, the following **additions** will be made to t
 - Add a Debt Ceiling Breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting individual collateral types to a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0. This spell adds the three active [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to the Debt Ceiling Breaker whitelist.
 
 If this executive proposal passes, the following **changes** will be made to the Maker Protocol:
-- The [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be increased 110% of the sum of the debts of collateral types UNIV2USDCETH-A, UNIV2DAIUSDC-A, GUNIV3DAIUSDC1-A, and GUNIV3DAIUSDC2-A at spell execution time to prevent recent updates causing the protocol to artifically reach the Global Debt Ceiling.
+- The [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be increased 110% of the sum of the debts of collateral types UNIV2USDCETH-A, UNIV2DAIUSDC-A, GUNIV3DAIUSDC1-A, and GUNIV3DAIUSDC2-A at spell execution time to prevent recent updates causing the protocol to unintentionally reach the Global Debt Ceiling.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
