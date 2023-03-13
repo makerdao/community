@@ -2,9 +2,21 @@
 title: Ratification Poll for Onboarding Retro as CES-001 Facilitator (MIP41c4-SP40) - March 13, 2023
 summary: MIP41c4-SP40 onboards Retro as Facilitator for the Collateral Engineering Services Core Unit.
 discussion_link: https://forum.makerdao.com/t/mip41c4-sp40-onboarding-retro-as-ces-001-facilitator/18887
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

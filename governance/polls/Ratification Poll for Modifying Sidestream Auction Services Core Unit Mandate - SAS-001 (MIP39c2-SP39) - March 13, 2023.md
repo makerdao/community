@@ -1,10 +1,22 @@
 ---
 title: Ratification Poll for Modifying Sidestream Auction Services Core Unit Mandate - SAS-001 (MIP39c2-SP39) - March 13, 2023
-summary: MIP39c2-SP39 modifies the mandate of SAS-001: Sidestream Auction Services Core Unit.
+summary: MIP39c2-SP39 modifies the mandate of SAS-001 - Sidestream Auction Services Core Unit.
 discussion_link: https://forum.makerdao.com/t/mip39c2-sp39-modifying-sidestream-auction-services-core-unit-mandate-sas-001/19738
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

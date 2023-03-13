@@ -2,9 +2,21 @@
 title: Ratification Poll for Requesting Protocol DAI Transfer to fund TechOps CU for March 2023 (MIP14c2-SP5) - March 13, 2023
 summary: This Protocol DAI Transfer subproposal requests 138,894 DAI to fund TechOps for March 2023.
 discussion_link: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes

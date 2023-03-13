@@ -2,13 +2,27 @@
 title: Budget Ratification Poll for Modifying Sidestream Auction Services Core Unit Budget (SAS-001) (MIP40c3-SP95) - March 13, 2023
 summary: MIP40c3-SP95 modifies the DAI budget for the SAS-001 Core Unit, continuing operations from 2023-04-01 until 2024-03-31.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+  input_format:
+    type: rank-free
+    abstain: [0]
+  victory_conditions:
+    - {
+        type: 'and',
+        conditions: [
+          { type : instant-runoff },
+          { type : comparison, comparator : '>=', value: 10000 }
+        ]
+      }
+    - { type : default, value : 3 }
+  result_display: instant-runoff-breakdown
+version: v2.0.0
+options:
 options:
    0: Abstain
-   1: Yes
-   2: No
+   1: Approve existing budget - 1,130,392.56 DAI
+   2: Approve reduced budget - 850,950 DAI
+   3: Reject budget
 start_date: 2023-03-13T16:00:00
 end_date: 2023-03-27T16:00:00
 ---
@@ -16,14 +30,19 @@ end_date: 2023-03-27T16:00:00
 
 The Governance Facilitators have placed a budget ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/monthly-governance-cycle#week-2) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
-**This is a binary vote.**
-- **You may vote for a single option.**
-- **You should vote for the option which you prefer.**
-- **If you would accept either option, you should vote 'Abstain'.**
+**This is an instant-runoff vote.**
+- **You may rank any number of options that you would support in an executive vote.**
+- **Unranked options signal that you would not support the option(s) in an executive vote.**
+- **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
 ## Review
 
-The community may vote in this poll to express support or opposition to MIP40c3-SP95 being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP40c3-SP95 being accepted and implemented in the Maker Protocol by ranking their support of the following options:
+
+* **Option 0:** Abstain.
+* **Option 1:** Approve existing budget - 1,130,392.56 DAI.
+* **Option 2:** Approve reduced budget - 850,950 DAI.
+* **Option 3:** Reject budget.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 

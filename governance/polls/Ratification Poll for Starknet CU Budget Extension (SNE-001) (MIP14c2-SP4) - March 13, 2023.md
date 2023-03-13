@@ -1,10 +1,22 @@
 ---
 title: Ratification Poll for Starknet CU Budget Extension (SNE-001) (MIP14c2-SP4) - March 13, 2023
-summary: MIP39c2-SP39 modifies the mandate of SAS-001: Sidestream Auction Services Core Unit.
+summary: This Protocol DAI Transfer subproposal requests 123,000 DAI to fund Starknet Engineering as bridge funding until June 2023.
 discussion_link: https://forum.makerdao.com/t/mip14c2-sp4-starknet-cu-budget-extension-sne-001/19403
-vote_type: Plurality Voting
-categories:
-   - MIPs
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
 options:
    0: Abstain
    1: Yes
@@ -27,10 +39,10 @@ The community may vote in this poll to express support or opposition to MIP14c2-
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*Modifying the mandate to reflect the expanded scope of the CU. Renaming CU to Sidestream Automation Services (SAS).*
+*The proposal provides 123,000 DAI to the Starknet Engineering Core Unit as bridge funding until June 2023.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/7f6f3da95b2acc68b35efea627f80d628a8f46c8/MIP14/MIP14c2-Subproposals/MIP14c2-SP4.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d24a594ae8e783a90bbebd99e7473d744b4b0bc2/MIP14/MIP14c2-Subproposals/MIP14c2-SP4.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP14c2SP4)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip14c2-sp4-starknet-cu-budget-extension-sne-001/19403)
 
