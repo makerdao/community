@@ -1,6 +1,6 @@
 ---
-title: Ratification Poll for the Constitution MIP Set and MIP102c2-SP1 (multiple MIPs) - March 13, 2023
-summary: The Constitution MIP Set (MIP101 through MIP114) introduces the Maker Constitution and the Scope Framework; MIP102c2-SP1 amends and removes multiple existing MIPs.
+title: Ratification Poll for the Constitution MIP Set - March 13, 2023
+summary: The Constitution MIP Set (MIP101 through MIP114) introduces the Maker Constitution and the Scope Framework as well as containing MIP102c2-SP1 which amends multiple MIPs.
 discussion_link: https://forum.makerdao.com/t/mip101-the-maker-constitution/19621
 vote_type: Plurality Voting
 categories:
@@ -12,7 +12,7 @@ options:
 start_date: 2023-03-13T16:00:00
 end_date: 2023-03-27T16:00:00
 ---
-# Ratification Poll for the Maker Constitution MIP Set and MIP102c2-SP1 (multiple MIPs) - March 13, 2023
+# Ratification Poll for the Constitution MIP Set - March 13, 2023
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
@@ -23,7 +23,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_set being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to the Constitution MIP Set being accepted and implemented in the Maker Protocol.
 
 ### MIP101: The Maker Constitution
 
@@ -32,7 +32,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP101 adds the Maker Constitution which provides the necessary foundation for the Scope Frameworks and the Endgame Plan. It should be considered along with the Scope Framework MIPs which put the Maker Constitution into practice.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fe5813f43ca58211a4916df80fba6b40d4af9d53/MIP101/MIP101.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/827a0acce19e23e7b24ee804d0262b86348bd214/MIP101/MIP101.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP101)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip101-the-maker-constitution/19621)
 
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *The Amendment and Removal Process-MIP outlines the process for arbitrary changes to MIPs, and removal of MIPs. It is empowered to make the changes that are required for the Maker Constitution to be properly integrated into Maker Governance.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fe16be93485a440001e0eaa4105a3e7b7db7e183/MIP102/MIP102.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/4902ddec89f9176baa0ea18193cafb65dae66c73/MIP102/MIP102.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102-endgame-mip-amendment-and-removal-process/19684)
 
@@ -57,6 +57,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ba86d9a2af91c703bf8aa80267450e68d9498377/MIP102/MIP102c2-Subproposals/MIP102c2-SP1.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp1-mip-amendment-subproposals/19703)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/847)
 
 ### MIP103: The Stability and Liquidity Scope Framework
 
@@ -65,7 +66,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP103 establishes the Stability and Liquidity Scope Framework. This includes Asset Liability management and Dai Savings Rate and Stability Fee Base Rate adjustments. All rules for Stability and Liquidity for the DAO are contained in this framework, including the procedures of the The Stability and Liquidity Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/965dd7d9888732efe1ebc48cdde2dafd65c7b636/MIP103/MIP103.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/bd26e126b1280c1e89c7d6bb4e523022707a6aa2/MIP103/MIP103.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP103)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip103-the-stability-and-liquidity-scope-framework/19675)
 
@@ -76,7 +77,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP104 establishes the Decentralized Collateral Scope Framework. This includes both decentralized collateral offered directly in Maker Core Vaults, as well as lines of credit to other entities that are collateralized only by decentralized assets. All rules for Decentralized Collateral for the DAO are contained in this framework, including the procedures of the Decentralized Collateral Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/230eb8f710c86c887936f9c18196081036392175/MIP104/MIP104.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/dc77af4b64007d63f1c86efb665f746af9166e2f/MIP104/MIP104.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP104)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip104-the-decentralized-collateral-scope-framework/19685)
 
@@ -120,7 +121,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP108 establishes the Growth Scope Framework. This includes marketing, public relations, education, and awareness campaigns. All rules for Growth for the DAO are contained in this framework, including the procedures of the Growth Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/b1ce81ec29e8c0e8634c7652db3e1bc8b30ed382/MIP108/MIP108.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/78178c5f9205d6c786edbc1019199158e9123ae6/MIP108/MIP108.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP108)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip108-the-growth-scope-framework/19694)
 
@@ -142,7 +143,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP110 establishes the Interface Scope Framework. The Interface Scope Framework covers the Easy Governance Frontend, decentralized frontend security requirements, and other interface related topics. All rules for interfaces for the DAO are contained in this framework, including the procedures of the Interface Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/3d00faa2577b4b2355b3ede50b6d6861fa5cfdad/MIP110/MIP110.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f185cb1e533a4da8fe1b3e469f22d47d6984f8a7/MIP110/MIP110.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP110)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip110-the-interface-scope-framework/19696)
 
@@ -153,7 +154,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP111 establishes the Infrastructure Scope Framework. This includes Keepers, infrastructure tools, Maker Teleport, Oracle needs for Maker Core and Oracle standards for SubDAOs, and other infrastructure related topics. All rules for Infrastructure for the DAO are contained in this framework, including the procedures of the Infrastructure Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c43681cc1c3dd93d064584bb38ce21e211a6d9e3/MIP111/MIP111.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ceb720eab7f4be8aed03530e531d6455e66628f6/MIP111/MIP111.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP111)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip111-the-infrastructure-scope-framework/19698)
 
@@ -164,7 +165,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP112 establishes the Finance Scope Framework. This includes content related to the internal finance of the Maker Protocol and the Maker Ecosystem, including key financial parameters and financial reporting and transparency. All rules for Finance for the DAO are contained in this framework, including the procedures of the Finance Scope Framework Advisory Council.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/482d6a690eaad3164215157227ab9526d7619441/MIP112/MIP112.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/bd4e45f7b7b093bc9fd5e3e31309474f22c15721/MIP112/MIP112.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP112)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip112-the-finance-scope-framework/19699)
 
@@ -175,7 +176,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *MIP113 establishes the Arbitration Scope Framework. This covers principles and processes related to high level decision making, constitutional interpretation and regulation of constitutional conservers and regulation the core governance processes. The Arbitration Scope plays a critical rule for governance security, and its processes and rules must be defined to enforce that they are carefully followed with care and precision. The Arbitration Scope constrains and supersedes all other Scope Frameworks.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ce2b63d7a98335809040493def842eeaf6507073/MIP113/MIP113.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ceb3e617505d608b7cbf4be12c8a0702a62a50a9/MIP113/MIP113.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP113)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip113-the-arbitration-scope-framework/19700)
 
