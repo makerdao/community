@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Emergency PSM Changes - March 13, 2023
-summary: Introduce a PSM Breaker, a new exception to GSM delay, which can instantly disable further borrowing from individual PSMs once an executive vote has passed.
+summary: Introduces a Debt Ceiling Breaker, a new exception to GSM delay, which can instantly disable further borrowing from individual ilks once an executive vote has passed.
 date: 2023-03-13T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,11 +16,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Add a PSM breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting individual [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0.
+- Add a Debt Ceiling Breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting individual collateral types to a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0. This spell adds the three active [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to the Debt Ceiling Breaker whitelist.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
-While the PSM Breaker will allow Governance to instantly set Debt Ceilings to 0, the addition of the module listed above is subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the addition listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
+While the Debt Ceiling Breaker will allow Governance to instantly set individual Debt Ceilings to 0, the addition of the module listed above is subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the addition listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
@@ -28,13 +28,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Add PSM Breaker
+### Add Debt Ceiling Breaker
 
-If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Peg Stability Module Breaker will be added that would allow Governance to individually to set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of any enabled PSM to 0 with an executive vote.
+If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Debt Ceiling Breaker will be added that would allow Governance to individually to set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of any enabled vault-type to 0 with an executive vote.
 
-#### PSM Breaker Detail
+#### Debt Ceiling Breaker Detail
 
-This vote enables a module for Governance to call that can set any individual PSM to a [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0, while bypassing the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). The following PSMs will be added by this executive spell, with the ability to add future PSMs to the Breaker through an executive vote. 
+This vote enables a module for Governance to call that can set any individual vault-type to a [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0, while bypassing the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). The following PSMs will be added by this executive spell, with the ability to add future vault-types to the Breaker through an executive vote. 
 - PSM-USDC-A
 - PSM-PAX-A 
 - PSM-GUSD-A
