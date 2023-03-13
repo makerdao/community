@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Add a PSM breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting all individual [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to 0 [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling).
+- Add a PSM breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting all individual [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
