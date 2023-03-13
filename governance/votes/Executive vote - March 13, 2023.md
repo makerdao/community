@@ -20,7 +20,7 @@ If this executive proposal passes, the following **additions** will be made to t
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
-Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
+While the PSM Breaker will allow Governance to instantly set Debt Ceilings to 0, the addition of the module listed above is subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the addition listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
