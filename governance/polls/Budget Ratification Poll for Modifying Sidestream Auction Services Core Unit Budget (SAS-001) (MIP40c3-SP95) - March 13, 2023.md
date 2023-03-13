@@ -18,7 +18,6 @@ parameters:
   result_display: instant-runoff-breakdown
 version: v2.0.0
 options:
-options:
    0: Abstain
    1: Approve existing budget - 1,130,392.56 DAI
    2: Approve reduced budget - 850,950 DAI
