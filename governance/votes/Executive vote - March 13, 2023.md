@@ -30,7 +30,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Add Debt Ceiling Breaker
 
-If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Debt Ceiling Breaker will be added that would allow Governance to individually to set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of any enabled vault-type to 0 with an executive vote.
+If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Debt Ceiling Breaker will be added that would allow Governance to individually set the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of any enabled vault-type to 0 with an executive vote.
 
 #### Debt Ceiling Breaker Detail
 
