@@ -30,7 +30,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Add PSM Breaker
 
-If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Peg Stability Module breaker will be added for all active PSMs (listed below) that would allow Governance to individually to set their respective [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 0 with an executive vote.
+If this executive vote passes, based on this [emergency recommendation](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), a Peg Stability Module Breaker will be added for all active PSMs (listed below) that would allow Governance to individually to set their respective [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to 0 with an executive vote.
 
 #### PSM Breaker Detail
 
