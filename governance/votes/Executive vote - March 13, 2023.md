@@ -34,7 +34,7 @@ If this executive vote passes, based on this [emergency recommendation](https://
 
 #### PSM Breaker Detail
 
-This vote enables a modeule for Governance to call that would set all active PSMs (listed below) to a [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0, while bypassing the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay)
+This vote enables a module for Governance to call that would set all active PSMs (listed below) to a [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0, while bypassing the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay)
 - PSM-USDC-A
 - PSM-PAX-A 
 - PSM-GUSD-A
