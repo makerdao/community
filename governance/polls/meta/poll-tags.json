@@ -3633,5 +3633,144 @@
   "958": [
     "medium-impact",
     "risk-parameter"
+  ],
+  "959": [
+    "high-impact",
+    "misc-governance",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "960": [
+    "high-impact",
+    "real-world-assets",
+    "misc-governance",
+    "collateral-offboard",
+    "misc-funding",
+    "ratification",
+    "mips",
+    "budget",
+    "endgame"
+  ],
+  "961": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "962": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "963": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "d3m"
+  ],
+  "964": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "965": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "966": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "967": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "968": [
+    "high-impact",
+    "misc-funding",
+    "ratification",
+    "mips"
+  ],
+  "969": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "core-unit-onboard"
+  ],
+  "970": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "971": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "972": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "973": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "974": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "975": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "976": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "977": [
+    "medium-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "ratification",
+    "mips",
+    "psm"
+  ],
+  "978": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "budget"
+  ],
+  "979": [
+    "low-impact",
+    "real-world-assets"
+  ],
+  "980": [
+    "high-impact",
+    "real-world-assets",
+    "risk-parameter"
+  ],
+  "981": [
+    "high-impact",
+    "real-world-assets",
+    "risk-parameter"
   ]
 }
