@@ -1,6 +1,6 @@
 ---
 title: Increase the MIP65 (RWA007-A) Debt Ceiling - March 13, 2023
-summary: Signal your support or opposition to $GenericChange.
+summary: Signal your support or opposition to increasing the MIP65 Debt Ceiling to 1.25 billion DAI.
 discussion_link: https://forum.makerdao.com/t/request-to-poll-increase-debt-ceiling-for-mip65-by-750m-to-1-250m/20119
 parameters:
     input_format: single-choice
