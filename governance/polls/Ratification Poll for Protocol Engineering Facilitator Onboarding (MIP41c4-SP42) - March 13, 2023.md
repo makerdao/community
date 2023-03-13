@@ -26,7 +26,7 @@ end_date: 2023-03-27T16:00:00
 ---
 # Ratification Poll for Protocol Engineering Facilitator Onboarding (MIP41c4-SP42) - March 13, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/monthly-governance-cycle#week-2) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/72383c9c6e62111e1232a5ea5f797dace8bf0feb/MIP41/MIP41c4-Subproposals/MIP41c4-SP42.md)
-* [Latest Proposal Version](https://forum.makerdao.com/t/mip41c4-sp42-protocol-engineering-facilitator-onboarding-pecu-001/19750)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP41c4SP42)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip41c4-sp42-protocol-engineering-facilitator-onboarding-pecu-001/19750)
 
 ## Outcomes
@@ -53,6 +53,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, March 30.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* This proposal will only take effect if MIP4c2-SP34 is approved in the parallel vote for that proposal.
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 

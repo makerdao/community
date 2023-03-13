@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for Expand Facilitator Definition to Allow Entities (MIP4c2-SP34) - March 13, 2023
-summary: This amendment MIP proposes to eliminate any reference to a facilitator as “individual” and replace it by the term “authorized accounts”.
+summary: This amendment MIP proposes to eliminate any reference to a facilitator as an individual and replace it by the term “authorized accounts”.
 discussion_link: https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator-definition-to-allow-entities/19736
 parameters:
     input_format:
@@ -26,7 +26,7 @@ end_date: 2023-03-27T16:00:00
 ---
 #  Ratification Poll for Expand Facilitator Definition to Allow Entities (MIP4c2-SP34) - March 13, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/monthly-governance-cycle#week-2) will be active for fourteen days beginning on Monday, March 13 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -45,6 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1157c2bb06523c65ee23c68d11fb8e14ad5ad36c/MIP4/MIP4c2-Subproposals/MIP4c2-SP34.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP4c2SP34)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator-definition-to-allow-entities/19736)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/846)
 
 ## Outcomes
 
