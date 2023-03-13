@@ -39,7 +39,7 @@ This vote enables a module for Governance to call that can set any individual PS
 - PSM-PAX-A 
 - PSM-GUSD-A
 
-#### Resources
+#### Additional Information
 
 You can learn more about the list of [GSM Exceptions](https://manual.makerdao.com/governance/verification/gsm-exceptions) on the Maker Operational Manual.
 
