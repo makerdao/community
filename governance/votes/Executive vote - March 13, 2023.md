@@ -18,6 +18,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - Add a Debt Ceiling Breaker, [described in this post](https://forum.makerdao.com/t/out-of-schedule-executive-proposal-to-implement-psm-breaker/20162), which will allow Governance to bypass the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) when setting individual collateral types to a [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) of 0. This spell adds the three active [Peg Stability Modules](https://manual.makerdao.com/module-index/module-psm) to the Debt Ceiling Breaker whitelist.
 
+If this executive proposal passes, the following **changes** will be made to the Maker Protocol:
+- The [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be increased 110% of the sum of the debts of collateral types UNIV2USDCETH-A, UNIV2DAIUSDC-A, GUNIV3DAIUSDC1-A, and GUNIV3DAIUSDC2-A at spell execution time to prevent recent updates causing the protocol to artifically reach the Global Debt Ceiling.
+
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 While the Debt Ceiling Breaker will allow Governance to instantly set individual Debt Ceilings to 0, the addition of the module listed above is subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the addition listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
@@ -45,6 +48,11 @@ You can learn more about the list of [GSM Exceptions](https://manual.makerdao.co
 
 The Emergency Response Procedure can be found in [MIP24](https://mips.makerdao.com/mips/details/MIP24).
 
+### Global Debt Ceiling Changes
+
+Based on the recommendations of the Protocol Engineering Team when testing, the [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be increased 110% of the sum of the debts of collateral types UNIV2USDCETH-A, UNIV2DAIUSDC-A, GUNIV3DAIUSDC1-A, and GUNIV3DAIUSDC2-A at spell execution time, if this proposal passes.
+
+This action is intended to correct for not manually adjusting the [Global Debt Celiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) during the last Emergency Executive. 
 
 ## Review
 
