@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] Emergency PSM Changes - March 14, 2023
 summary: Introduces a Debt Ceiling Breaker, a new exception to GSM delay, which can instantly disable further borrowing from individual ilks once an executive vote has passed.
-date: 2023-03-13T00:00:00.000Z
+date: 2023-03-14T00:00:00.000Z
 address: "$spell_address"
 
 ---
