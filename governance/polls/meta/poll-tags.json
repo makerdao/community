@@ -3772,5 +3772,16 @@
     "high-impact",
     "real-world-assets",
     "risk-parameter"
+  ],
+  "982": [
+    "high-impact",
+    "risk-parameter",
+    "psm"
+  ],
+  "983": [
+    "medium-impact",
+    "real-world-assets",
+    "ratification",
+    "mips"
   ]
 }
