@@ -5,7 +5,7 @@ date: 2023-03-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Emergency Spell for Shutdown Implications - March 24, 2023
+# [Executive Proposal] Emergency Spell to resolve Emergency Shutdown Governance Vulnerability - March 24, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
