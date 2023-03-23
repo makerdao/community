@@ -34,13 +34,13 @@ Based on this [recommendation](link) from the [Protocol Engineering Core Unit](h
 
 #### Affected Contracts 
 
-MCD_JOIN_CRVV1ETHSTETH_A (https://etherscan.io/address/0x82d8bfdb61404c796385f251654f6d7e92092b5d)
+MCD_JOIN_CRVV1ETHSTETH_A (https://etherscan.io/address/0x82d8bfdb61404c796385f251654f6d7e92092b5d) -
 This contract is authorized on the Vat and uses an upgradability pattern, so it could be upgraded post-shutdown to steal collateral.
 
-MCD_CROPPER (https://etherscan.io/address/0x8377cd01a5834a6ead3b7efb482f678f2092b77e#code)
+MCD_CROPPER (https://etherscan.io/address/0x8377cd01a5834a6ead3b7efb482f678f2092b77e#code) -
 This contract is upgradable and authorized on MCD_JOIN_CRVV1ETHSTETH_A, so it could be used to upgrade that contract post-shutdown and execute the attack mentioned above.
 
-CHANGELOG (https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f)
+CHANGELOG (https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e740f) - 
 While there is no known danger to the core system from this contract after shutdown, it is being included because external integrations may be depending on it in unsafe ways, and knowing it cannot be corrupted may be useful for future tooling built around Emergency Shutdown.
 
 Specifically, this means that after shutdown is triggered, it will be possible to permissionlessly de-authorize the GSM pause proxy from these contracts. This will need to be done within the GSM delay. It is a pattern in use for a number of other contracts already.
