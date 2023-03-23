@@ -30,7 +30,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Emergency Shutdown Module Changes
 
-Based on this [recommendation](link) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), the [Emergency Shutdown Module](https://manual.makerdao.com/governance/emergency-shutdown) will be able to remove governance’s authority over the following contracts, if this executive proposal passes.
+Based on this [recommendation](https://forum.makerdao.com/t/emergency-shutdown-governance-vulnerability-proposed-emergency-spell/20255) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), the [Emergency Shutdown Module](https://manual.makerdao.com/governance/emergency-shutdown) will be able to remove governance’s authority over the following contracts, if this executive proposal passes.
 
 #### Affected Contracts 
 
@@ -47,6 +47,10 @@ CHANGELOG (https://etherscan.io/address/0xda0ab1e0017debcd72be8599041a2aa3ba7e74
 While there is no known danger to the core system from this contract after shutdown, it is being included because external integrations may be depending on it in unsafe ways, and knowing it cannot be corrupted may be useful for future tooling built around Emergency Shutdown.
 
 Specifically, this means that after shutdown is triggered, it will be possible to permissionlessly de-authorize the GSM pause proxy from these contracts. This will need to be done within the GSM delay. It is a pattern in use for a number of other contracts already.
+
+#### Emergency Response
+
+This spell was organized under [MIP24: Emergency Response](https://mips.makerdao.com/mips/details/MIP24). The [GovAlpha Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP3) confirmed the emergency [here](https://forum.makerdao.com/t/emergency-spell-march-24-2023/20256). Please review the relevant threads before placing your MKR in support of this executive.
 
 
 ## Review
