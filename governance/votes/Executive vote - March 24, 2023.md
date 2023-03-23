@@ -38,7 +38,7 @@ MCD_JOIN_CRVV1ETHSTETH_A (https://etherscan.io/address/0x82d8bfdb61404c796385f25
 
 This contract is authorized on the Vat and uses an upgradability pattern, so it could be upgraded post-shutdown to steal collateral.
 
-MCD_CROPPER (https://etherscan.io/address/0x8377cd01a5834a6ead3b7efb482f678f2092b77e#code) -
+MCD_CROPPER (https://etherscan.io/address/0x8377cd01a5834a6ead3b7efb482f678f2092b77e) -
 
 This contract is upgradable and authorized on MCD_JOIN_CRVV1ETHSTETH_A, so it could be used to upgrade that contract post-shutdown and execute the attack mentioned above.
 
