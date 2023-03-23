@@ -1,0 +1,94 @@
+---
+title: Template - [Executive Vote] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023
+summary: TBD
+date: 2023-03-29T00:00:00.000Z
+address: "$spell_address"
+
+---
+# [Executive Proposal] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023Y
+
+The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+
+---
+
+## Executive Summary
+
+If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+- A total of **3,307 DAI** will be transferred to two Recognized Delegates, as detailed below.
+- A total of **307.12 MKR** will be transferred to the Collateral Engineering Services Core Unit (CES-001) and the Sustainable Ecosystem Scaling Core Unit (SES-001), as detailed below.
+- A total of **50,000 DAI** will be transferred to a designated address for the initial funding of Phoenix Labs, as detailed below.
+- The RETH-A [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) will be decreased, as detailed below.
+- Monetalis updates:
+	- Excess funds declaration, as detailed below.
+	- Removal of DC-IAM from RWA-007, as detailed below.
+	- Increase of the [MIP65](https://mips.makerdao.com/mips/details/MIP65) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling), as detailed below.
+- PSM Parameter Normalization, as detailed below.
+
+**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+
+Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
+
+If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+
+---
+
+## Proposal Details
+
+### Recognized Delegate Compensation
+
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **3,307 DAI** will be distributed to two Recognized Delegates as detailed below, if this executive proposal passes. _Note that the compensation for these two Recognized Delegates for February was left uncleared as they [failed to confirm their addresses](https://forum.makerdao.com/t/recognized-delegate-compensation-february-2023/20033/2). They have now been confirmed_:
+
+- **3,126 DAI** will be transfered to [London Business School Blockchain](https://vote.makerdao.com/address/0xf1792852bf860b4ef84a2869df1550bc80ec0ab7) at [`0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C`](https://etherscan.io/address/0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C).
+- **181 DAI** will be transfered to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [`0xE78658A8acfE982Fde841abb008e57e6545e38b3`](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
+
+### MKR Transfers
+
+As per the ratified [MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget](https://vote.makerdao.com/polling/QmSmhV7z), **229.78 MKR** will be transferred to Sustainable Ecosystem Scaling Core Unit as detailed below, if this executive proposal passes:
+
+- **292.78 MKR** to the Sustainable Ecosystem Scaling Core Unit (SES-001) at [`0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6`](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6).
+
+Additionally, as per this successful [governance poll](https://vote.makerdao.com/polling/QmbNVQ1E), **77.34 MKR** will be transferred to the Collateral Engineering Services Core Unit (CES-001) to correct a shortfall (explained in [this thread](https://forum.makerdao.com/t/request-to-poll-one-time-mkr-distribution-to-correct-ces-001-incentive-program-shortfall/19326)) as detailed below, if this executive proposal passes:
+
+- **77.34 MKR** to the Collateral Engineering Services Core Unit (CES-001) at [`0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da`](https://etherscan.io/address/0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da).
+
+### SPF Dai Transfer
+
+As per the ratified [MIP55c3-SP15: Phoenix Labs Initial Funding (SPF)](https://vote.makerdao.com/polling/QmYBegVf), **50,000 DAI** will be transfered to the designated address as detailed below, if this executive proposal passes:
+
+- **50,000 DAI** to [`0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509`](https://etherscan.io/address/0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509).
+
+### RETH-A Dust Decrease
+
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmcLGa49), the RETH-A [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) will be decreased as detailed below, if this executive proposal passes:
+
+- Decrease the RETH-A [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) Parameter by 7,500 DAI from 15,000 DAI to **7,500 DAI**.
+
+### Monetalis Updates
+
+1. As per this successful [governance poll](https://vote.makerdao.com/polling/QmfZ2nxw), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) trustee will be instructed to sell 8,540 IB01 and 73,486 IBTA and return the proceeds to the Surplus Buffer, if this executive proposal passes.
+2. As per this successfull [governance poll](https://vote.makerdao.com/polling/QmRJSSGW), the [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) will be removed from [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A), if this executive proposal passes.
+3. As per this successfull [governance poll](https://vote.makerdao.com/polling/QmNTSr9j), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 750 million DAI from 500 million DAI to **1.25 billion DAI**, if this executive proposal passes.
+
+### PSM Parameter Normalization
+
+TBD
+
+## Review
+
+Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+
+Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) for these calls is available to review.
+
+---
+
+## Resources
+
+Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
+
+To participate in future Governance calls, please [join us](https://forum.makerdao.com/tag/pubcall-:-governance-and-risk) every Thursday at 17:00 UTC.
+
+To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
