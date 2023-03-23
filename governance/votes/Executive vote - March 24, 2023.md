@@ -32,7 +32,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 Based on this [recommendation](https://forum.makerdao.com/t/emergency-shutdown-governance-vulnerability-proposed-emergency-spell/20255) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), the [Emergency Shutdown Module](https://manual.makerdao.com/governance/emergency-shutdown) will be able to remove governance’s authority over the following contracts, if this executive proposal passes.
 
-#### Affected Contracts 
+#### Effected Contracts 
 
 [MCD_JOIN_CRVV1ETHSTETH_A](https://etherscan.io/address/0x82d8bfdb61404c796385f251654f6d7e92092b5d) -
 
