@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Emergency Spell for Shutdown Implications - March 24, 2023
+title: Template - [Executive Vote] Emergency Spell for Emergency Shutdown Governance Vulnerability - March 24, 2023
 summary: Enables the Emergency Shutdown Module to remove Governance’s authority on the MCD_JOIN_CRVV1ETHSTETH_A, MCD_CROPPER, and CHANGELOG contracts to prevent malicious actions after Emergency Shutdown.
 date: 2023-03-24T00:00:00.000Z
 address: "$spell_address"
