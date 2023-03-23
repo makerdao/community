@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Emergency Spell for Shutdown Implications - March 23, 2023
-summary: Enables the Emergency Shutdown Module to deauthorize the MCD_JOIN_CRVV1ETHSTETH_A, MCD_CROPPER, and CHANGELOG contracts to prevent malicious actions after shutdown.
+summary: Enables the Emergency Shutdown Module to remove Governance’s authority on the MCD_JOIN_CRVV1ETHSTETH_A, MCD_CROPPER, and CHANGELOG contracts to prevent malicious actions after shutdown.
 date: 2023-03-24T00:00:00.000Z
 address: "$spell_address"
 
@@ -30,7 +30,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Emergency Shutdown Module Changes
 
-Based on this [recommendation](https://forum.makerdao.com/t/emergency-shutdown-governance-vulnerability-proposed-emergency-spell/20255) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), the [Emergency Shutdown Module](https://manual.makerdao.com/governance/emergency-shutdown) will be able to remove governance’s authority over the following contracts, if this executive proposal passes.
+Based on this [recommendation](https://forum.makerdao.com/t/emergency-shutdown-governance-vulnerability-proposed-emergency-spell/20255) from the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), the [Emergency Shutdown Module](https://manual.makerdao.com/governance/emergency-shutdown) will be able to remove Governance’s authority over the following contracts, if this executive proposal passes.
 
 #### Effected Contracts 
 
