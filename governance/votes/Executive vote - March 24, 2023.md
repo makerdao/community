@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Emergency Spell for Shutdown Implications - March 23, 2023
+title: Template - [Executive Vote] Emergency Spell for Shutdown Implications - March 24, 2023
 summary: Enables the Emergency Shutdown Module to remove Governance’s authority on the MCD_JOIN_CRVV1ETHSTETH_A, MCD_CROPPER, and CHANGELOG contracts to prevent malicious actions after shutdown.
 date: 2023-03-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Emergency Spell for Shutdown Implications - March 23, 2023
+# [Executive Proposal] Emergency Spell for Shutdown Implications - March 24, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
