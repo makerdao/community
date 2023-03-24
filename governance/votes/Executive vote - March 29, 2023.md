@@ -22,7 +22,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The RETH-A [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) will be decreased, as detailed below.
 - Monetalis updates:
 	- Return excess MIP65 funds to the Surplus Buffer, as detailed below.
-	- Removal of DC-IAM from RWA-007, as detailed below.
+	- Removal of [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) from RWA-007, as detailed below.
 	- Increase of the [MIP65](https://mips.makerdao.com/mips/details/MIP65) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling), as detailed below.
 - PSM Parameter Normalization, as detailed below.
 
@@ -40,26 +40,22 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Recognized Delegate Compensation
 
-As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **3,307 DAI** will be distributed to two Recognized Delegates as detailed below, if this executive proposal passes. _Note that the compensation for these two Recognized Delegates for February was left uncleared as they [failed to confirm their addresses](https://forum.makerdao.com/t/recognized-delegate-compensation-february-2023/20033/2). They have now been confirmed_:
+As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/details/MIP61), a total of **3,307 DAI** will be distributed to two Recognized Delegates as detailed below, if this executive proposal passes:
 
 - **3,126 DAI** will be transfered to [London Business School Blockchain](https://vote.makerdao.com/address/0xf1792852bf860b4ef84a2869df1550bc80ec0ab7) at [`0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C`](https://etherscan.io/address/0xB83b3e9C8E3393889Afb272D354A7a3Bd1Fbcf5C).
 - **181 DAI** will be transfered to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [`0xE78658A8acfE982Fde841abb008e57e6545e38b3`](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
 
+_Note that the compensation for these two Recognized Delegates for February was left uncleared as they [failed to confirm their addresses](https://forum.makerdao.com/t/recognized-delegate-compensation-february-2023/20033/2). They have now been confirmed._
+
 ### MKR Transfers
 
-As per the ratified [MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget](https://vote.makerdao.com/polling/QmSmhV7z), **229.78 MKR** will be transferred to Sustainable Ecosystem Scaling Core Unit as detailed below, if this executive proposal passes:
+As per the ratified [MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget](https://vote.makerdao.com/polling/QmSmhV7z), **229.78 MKR** will be transferred to the [Sustainable Ecosystem Scaling Core Unit (SES-001)](https://mips.makerdao.com/mips/details/MIP39c2SP10) at [`0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6`](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6), if this executive proposal passes.
 
-- **292.78 MKR** to the Sustainable Ecosystem Scaling Core Unit (SES-001) at [`0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6`](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6).
-
-Additionally, as per this successful [governance poll](https://vote.makerdao.com/polling/QmbNVQ1E), **77.34 MKR** will be transferred to the Collateral Engineering Services Core Unit (CES-001) to correct a shortfall (explained in [this thread](https://forum.makerdao.com/t/request-to-poll-one-time-mkr-distribution-to-correct-ces-001-incentive-program-shortfall/19326)) as detailed below, if this executive proposal passes:
-
-- **77.34 MKR** to the Collateral Engineering Services Core Unit (CES-001) at [`0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da`](https://etherscan.io/address/0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da).
+Additionally, as per this successful [governance poll](https://vote.makerdao.com/polling/QmbNVQ1E), **77.34 MKR** will be transferred to the [Collateral Engineering Services Core Unit (CES-001)]( https://mips.makerdao.com/mips/details/MIP39c2SP12) at [`0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da`](https://etherscan.io/address/0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da) to correct a shortfall (explained in [this thread](https://forum.makerdao.com/t/request-to-poll-one-time-mkr-distribution-to-correct-ces-001-incentive-program-shortfall/19326)), if this executive proposal passes.
 
 ### SPF Dai Transfer
 
-As per the ratified [MIP55c3-SP15: Phoenix Labs Initial Funding (SPF)](https://vote.makerdao.com/polling/QmYBegVf), **50,000 DAI** will be transfered to the designated address as detailed below, if this executive proposal passes:
-
-- **50,000 DAI** to [`0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509`](https://etherscan.io/address/0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509).
+As per the ratified [MIP55c3-SP15: Phoenix Labs Initial Funding (SPF)](https://vote.makerdao.com/polling/QmYBegVf), **50,000 DAI** will be transfered to designated address [`0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509`](https://etherscan.io/address/0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509), if this executive proposal passes.
 
 ### RETH-A Dust Decrease
 
@@ -75,7 +71,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmcLG
 
 ### PSM Parameter Normalization
 
-As per this [post](https://forum.makerdao.com/t/proposal-psm-parameter-normalization-17-march-2023/20209) from the Risk Core Unit (RISK-001), the following parameter changes will be made, if this executive proposal passes:
+As per this [post](https://forum.makerdao.com/t/proposal-psm-parameter-normalization-17-march-2023/20209) from the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP35), the following parameter changes will be made, if this executive proposal passes:
 
 #### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Change
 
@@ -112,3 +108,4 @@ Additional information about the Governance process can be found in the [Maker O
 To participate in future Governance calls, please [join us](https://forum.makerdao.com/tag/pubcall-:-governance-and-risk) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
+
