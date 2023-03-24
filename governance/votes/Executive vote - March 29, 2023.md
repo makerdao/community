@@ -5,7 +5,7 @@ date: 2023-03-29T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023Y
+# [Executive Proposal] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
