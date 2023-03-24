@@ -75,7 +75,27 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmcLG
 
 ### PSM Parameter Normalization
 
-TBD
+As per this [post](https://forum.makerdao.com/t/proposal-psm-parameter-normalization-17-march-2023/20209) from the Risk Core Unit (RISK-001), the following parameter changes will be made, if this executive proposal passes:
+
+#### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Change
+
+- Reduce the PSM-USDP-A `line` by 500 million DAI from 1 billion DAI to **500 million DAI**.
+
+#### [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) Changes
+
+- Reduce the PSM-USDC-A `tin` by 1% from 1% to **0%**.
+- Reduce the PSM-GUSD-A `tin` by 0.1% from 0.1% to **0%**.
+
+#### [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) Changes
+
+- Increase the PSM-GUSD-A `tout` by 0.01% from 0% to **0.01%**.
+- Reduce the PSM-USDP-A `tout` by 1% from 1% to **0%**.
+
+#### [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Changes
+
+- Increase the PSM-USDC-A `gap` by 150 million DAI from 250 million DAI to **400 million DAI**.
+- Increase the PSM-GUSD-A `gap` by 40 million DAI from 10 million DAI to **50 million DAI**.
+- Reduce the PSM-USDP-A `gap` by 200 million DAI from 250 million DAI to **50 million DAI**.
 
 ## Review
 
