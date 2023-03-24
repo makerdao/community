@@ -69,7 +69,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmcLG
 
 ### Monetalis Updates
 
-1. As per this successful [governance poll](https://vote.makerdao.com/polling/QmfZ2nxw), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) trustee will be instructed to sell 8,540 IB01 and 73,486 IBTA and return the proceeds to the Surplus Buffer, if this executive proposal passes.
+1. As per this successful [governance poll](https://vote.makerdao.com/polling/QmfZ2nxw), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) trustee will be instructed to sell **8,540 IB01** and **73,486 IBTA** and return the proceeds to the Surplus Buffer, if this executive proposal passes.
 2. As per this successfull [governance poll](https://vote.makerdao.com/polling/QmRJSSGW), the [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) will be removed from [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A), if this executive proposal passes.
 3. As per this successfull [governance poll](https://vote.makerdao.com/polling/QmNTSr9j), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 750 million DAI from 500 million DAI to **1.25 billion DAI**, if this executive proposal passes.
 
