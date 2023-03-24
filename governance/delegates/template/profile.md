@@ -1,13 +1,10 @@
 ---
-name: 
-external_profile_url: 
-cvc_strategy_name: 
-cvc_name: 
-cvc_link: 
+name: <CVC> - <Delegate Name>
+external_profile_url: <Link to CVC>
 ---
 
 # <CVC Strategy Name>
-<CVC Name>
+Name: <CVC Name>
 
 (provided by CVC)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
@@ -17,7 +14,6 @@ Delegate Address: 0xEtcetera
 Forum: @LongForWisdom  
 Discord: @LongForWisdom  
 Email (optional): longforwisdomandstuff@gmail.com  
-External Website (optional): www.longforwisdom.com  
 
 ## Strategy Intepretation
 
