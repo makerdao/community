@@ -21,7 +21,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - A total of **50,000 DAI** will be transferred to a designated address for the initial funding of Phoenix Labs, as detailed below.
 - The RETH-A [Debt Floor (`dust`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-floor) will be decreased, as detailed below.
 - Monetalis updates:
-	- Excess funds declaration, as detailed below.
+	- Return excess MIP65 funds to the Surplus Buffer, as detailed below.
 	- Removal of DC-IAM from RWA-007, as detailed below.
 	- Increase of the [MIP65](https://mips.makerdao.com/mips/details/MIP65) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling), as detailed below.
 - PSM Parameter Normalization, as detailed below.
