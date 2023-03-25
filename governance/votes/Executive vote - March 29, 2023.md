@@ -65,8 +65,12 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmcLG
 
 ### Monetalis Updates
 
-1. As per this successful [governance poll](https://vote.makerdao.com/polling/QmfZ2nxw), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) trustee will be instructed to sell **8,540 IB01** and **73,486 IBTA** and return the proceeds to the Surplus Buffer, if this executive proposal passes.
+1. As per this successful [governance poll](https://vote.makerdao.com/polling/QmfZ2nxw), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) trustee will be instructed to sell shares and return the proceeds to the Surplus Buffer, if this executive proposal passes.
+
+If this proposal is passed by MKR holders, MakerDAO instructs the Trustee James Asset (PTC) Limited on behalf of James Asset Trust to sell **8,540** shares of IE00BGSF1X88 iShares $ Treasury 0-1 yr UCITS ETF and **73,486** shares of IE00BYXPSP02 iShares $ Treasury Bond 1-3 yr UCITS ETF, as detailed [here](https://gateway.pinata.cloud/ipfs/Qmf7oGxgVoGKMGkzPi2T6nBSTLgrU5C7jmNqaefjJ52Zup).
+
 2. As per this successful [governance poll](https://vote.makerdao.com/polling/QmRJSSGW), the [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) will be removed from [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A), if this executive proposal passes.
+
 3. As per this successful [governance poll](https://vote.makerdao.com/polling/QmNTSr9j), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 750 million DAI from 500 million DAI to **1.25 billion DAI**, if this executive proposal passes.
 
 ### PSM Parameter Normalization
