@@ -73,6 +73,8 @@ If this proposal is passed by MKR holders, MakerDAO instructs the Trustee James 
 
 3. As per this successful [governance poll](https://vote.makerdao.com/polling/QmNTSr9j), the [MIP65](https://mips.makerdao.com/mips/details/MIP65) (RWA007-A) [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 750 million DAI from 500 million DAI to **1.25 billion DAI**, if this executive proposal passes.
 
+For more information on these changes, please review [Clydesdale (MIP65) Liquidation & DC Increase Execution Documentation](https://forum.makerdao.com/t/clydesdale-mip65-liquidation-dc-increase-execution-documentation/20258) and [The DC Increase (MIP65) - Legal Assessment](https://forum.makerdao.com/t/the-dc-increase-mip65-legal-assessment/20267). 
+
 ### PSM Parameter Normalization
 
 As per this [post](https://forum.makerdao.com/t/proposal-psm-parameter-normalization-17-march-2023/20209) from the [Risk Core Unit (RISK-001)](https://mips.makerdao.com/mips/details/MIP39c2SP35), the following parameter changes will be made, if this executive proposal passes:
