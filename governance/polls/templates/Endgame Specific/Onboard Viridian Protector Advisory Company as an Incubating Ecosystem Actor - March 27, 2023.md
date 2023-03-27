@@ -32,7 +32,7 @@ Their relevant details are as follows:
 
 | Ecosystem Actor Name | Budget Allocation | Ecosystem Actor Goal | Team Members |
 |---|---|---|---|
-| Viridian Protector Advisory Company | **257,250 DAI** provided immediately upon successful confirmation of the Incubating Ecosystem Actor in a Governance Poll. 85,750 Dai per month for full team. | Provide Protector Advisor work. | 	Business Development, Risk Analyst, Lawyer. |
+| Viridian Protector Advisory Company | **257,250 DAI** provided immediately following a successful confirmation of Governance Poll. **85,750 Dai per month** for full team. | Provide Protector Advisor work. | Business Development, Risk Analyst, Lawyer. |
 
 ## Outcomes
 
