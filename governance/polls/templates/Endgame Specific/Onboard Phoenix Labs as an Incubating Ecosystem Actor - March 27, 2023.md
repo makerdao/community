@@ -32,8 +32,7 @@ Their relevant details are as follows:
 
 | Ecosystem Actor Name | Budget Allocation | Ecosystem Actor Goal | Team Members |
 |---|---|---|---|
-| Phoenix Labs | 347,100 DAI provided immediately upon a successful confirmation of the Incubating Ecosystem Actor in a Governance Poll.
-17,000 DAI and 10 MKR per month for Developer Relations role. | Deliver the Spark Protocol and maintain it for 12 months. | 1 Business Development, 1 Smart Contract developer, 1 Developer Relations. |
+| Phoenix Labs | **347,100 DAI** provided immediately following a successful confirmation of Governance Poll. **17,000 DAI and 10 MKR per month** for Developer Relations role.| Deliver the Spark Protocol and maintain it for 12 months. | 1 Business Development, 1 Smart Contract developer, 1 Developer Relations. |
 
 ## Outcomes
 
