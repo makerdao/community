@@ -3788,5 +3788,28 @@
     "high-impact",
     "misc-governance",
     "risk-parameter"
+  ],
+  "985": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding",
+    "budget",
+    "endgame"
+  ],
+  "986": [
+    "medium-impact",
+    "misc-governance",
+    "misc-funding",
+    "budget",
+    "endgame",
+    "d3m"
+  ],
+  "988": [
+    "medium-impact",
+    "real-world-assets",
+    "misc-governance",
+    "misc-funding",
+    "budget",
+    "endgame"
   ]
 }
