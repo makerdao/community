@@ -27,7 +27,7 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Increase the GSM Delay back to 48 hours.
+* Increase the GSM Delay from 16 hours back to **48 hours**.
 
 More information on the GSM Delay can be found in the Maker Operational Manual [here](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay).
 
