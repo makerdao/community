@@ -32,7 +32,7 @@ Their relevant details are as follows:
 
 | Ecosystem Actor Name | Budget Allocation | Ecosystem Actor Goal | Team Members |
 |---|---|---|---|
-| dewiz | 150,000 DAI and 21 MKR per month. | General smart contract development and Collateral Onboarding Technical work (RWA focused). | 5 Smart Contract developers. |
+| dewiz | **150,000 DAI and 21 MKR per month**. | General smart contract development and Collateral Onboarding Technical work (RWA focused). | 5 Smart Contract developers. |
 
 ## Outcomes
 
