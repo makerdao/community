@@ -32,7 +32,7 @@ Their relevant details are as follows:
 
 | Ecosystem Actor Name | Budget Allocation | Ecosystem Actor Goal | Team Members |
 |---|---|---|---|
-| Sidestream | 70,912.5 DAI per month. | Full stack smart contract and frontend development. | 3.5 FTE full stack developers. |
+| Sidestream | **70,912.50 DAI per month**. | Full stack smart contract and frontend development. | 3.5 FTE full stack developers. |
 
 ## Outcomes
 
