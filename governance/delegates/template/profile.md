@@ -1,6 +1,7 @@
 ---
 name: <CVC> - <Delegate Name>
 external_profile_url: <Link to CVC>
+cvc_name: <CVC>
 ---
 
 # <CVC Strategy Name>
