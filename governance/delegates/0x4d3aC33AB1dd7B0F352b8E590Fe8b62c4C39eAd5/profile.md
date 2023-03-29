@@ -43,19 +43,19 @@ I began my legal career as a Corporate Associate in the derivatives practice gro
 
 In later roles I gained extensive deal and transactional experience supporting the fixed-income derivatives, currencies/FX, derivatives prime brokerage and energy trading businesses at Goldman Sachs; derivatives and physical commodities trading at Lehman Brothers; and global commodities merchant trading businesses at Castleton Commodities International. 
 
-***Conflicts of Interest***
+### Conflicts of Interest
 
 Acre of America does not have any significant conflicts of interest at this time. I pledge to keep the community updated on any developments with our products and services that could present a conflict of interest, and will also inform of personal conflicts that would be appropriate to disclose as a result of any legal client representation or tradfi-style client advisory/asset management obligations.
 
 I have read and agree to abide by the [Delegate Code of Conduct. ](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
 
-**LEGAL DISCLAIMER**
+#### LEGAL DISCLAIMER
 
 Kianga Daverington's role as a delegate on behalf of ACREinvest is NOT in her professional capacity as attorney. None of Kianga's comments or communications is legal advice and should not be relied upon as such. Kianga's contributions to this community are in a commercial capacity on behalf of ACREinvest, notwithstanding that her perspective is strongly influenced by legal knowledge. You are not a legal client of Kianga Daverington or her law office, Daverington PLLC, by delegating MKR to ACREinvest.
 
 ACREinvest offers to vote and contribute to the MakerDAO governance process with the best interest of the overall community mission in-mind, as determined in its sole discretion. ACREinvest does not have a fiduciary obligation to you as a result of your delegation of MKR to our delegation contract.
 
-**WAIVER OF LIABILITY**
+#### WAIVER OF LIABILITY
 
 By delegating to ACREinvest you acknowledge and agree that neither Kianga Daverington nor ACREinvest, its owners, agents and affiliates, are liable for any form of damages or losses related to your delegation of your MKR to ACREinvest. By delegating your MKR you accept the outcome of votes made on your behalf by ACREinvest due to your ownership of MKR. It is your responsibility to understand the risks and costs related to delegation of your MKR, and specifically affirm and agree that at all times you have complete control over the delegated assets by adding or removing your MKR from our delegation contract.
 
