@@ -1,5 +1,5 @@
 ---
-name: <CVC> - <Delegate Name>
+name: <Delegate Name>
 external_profile_url: <Link to CVC>
 cvc_name: <CVC>
 ---
