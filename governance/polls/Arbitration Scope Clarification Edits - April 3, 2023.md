@@ -27,7 +27,7 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 ## Review
 
 The community can vote in this poll to express support or opposition to the changes in the following Github Pull Request:
-* https://github.com/makerdao/mips/pull/869
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/869).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-arbitration-scope-clarification-edits/20340) which also contains a brief summary of the proposed changes to help inform your position before voting.
 
