@@ -1,6 +1,6 @@
 ---
 title: Arbitration Scope Clarification Edits - April 3, 2023
-summary: Signal your support or opposition to listed edits to the Arbitration Scope.
+summary: Signal your support or opposition to the listed edits to the Arbitration Scope.
 discussion_link: https://forum.makerdao.com/t/poll-notice-arbitration-scope-clarification-edits/20340
 parameters:
     input_format: single-choice
