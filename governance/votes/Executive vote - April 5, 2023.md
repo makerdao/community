@@ -25,7 +25,7 @@ If this executive proposal passes, the following **changes** will occur within t
 	- A total of **3,883,950 DAI** will be streamed to multiple Ecosystem Actors, as detailed below.
 	- A total of **604,250 DAI** will be transferred to multiple Ecosystem Actors, as detailed below.
 	- A total of **372 MKR** will be streamed to multiple Ecosystem Actors, as detailed below.
-- Old Strategic Finance Core Unit (SF-001) MKR vesting streames will be yanked.
+- Old Strategic Finance Core Unit (SF-001) MKR vesting streams will be yanked.
 - [Emergency Shutdown](https://manual.makerdao.com/module-index/module-emergency-shutdown) interaction changes will be effected, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
