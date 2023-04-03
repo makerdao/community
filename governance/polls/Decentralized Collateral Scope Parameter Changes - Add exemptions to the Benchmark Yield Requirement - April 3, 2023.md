@@ -15,7 +15,7 @@ options:
 start_date: 2023-04-03T16:00:00
 end_date: 2023-04-06T16:00:00
 ---
-# Poll: Decentralized Collateral Scope Parameter Changes: Add Exemptions to the Benchmark Yield Requirement - April 3, 2023
+# Poll: Decentralized Collateral Scope Parameter Changes - Add Exemptions to the Benchmark Yield Requirement - April 3, 2023
 
 The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the [Decentralized Collateral Scope Facilitators](https://mips.makerdao.com/mips/details/MIP104). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 3 at 16:00 UTC.
 
@@ -26,7 +26,7 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to adding exemptions to the benchmark yield requirement defined in [MIP103c2.3.3.5.1](https://mips.makerdao.com/mips/details/MIP103#3-3-alm-rules-for-yield-collateral) (quoted below for convenience) for the following vault types:
+The community can vote in this poll to express support or opposition to adding an exemption to the benchmark yield requirement defined in [MIP103c2.3.3.5.1](https://mips.makerdao.com/mips/details/MIP103#3-3-alm-rules-for-yield-collateral) (quoted below for convenience) for the following vault types:
 
 - ETH-A
 - ETH-B
