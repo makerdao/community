@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Raising GSM Pause Delay, Recognized Delegate Compensation for March, DAI and MKR Stream Setups and Transfers for Responsible Facilitators and Ecosystem Actors, Yanking of Old SF-001 MKR Vesting Streams, ES Interaction Changes - April 5, 2023
-summary: Raising the GSP Pause Delay to 48 hours; Recognized Delegate compensation for March; DAI and MKR transfers and stream setups for multiple Responsible Facilitators and Ecosystem Actors; yanking of obsolete SF-001 MKR vesting streams; ES interaction changes. 
+title: Template - [Executive Vote] Raising GSM Pause Delay, Recognized Delegate Compensation, DAI and MKR Streams, ESM Interaction Changes - April 5, 2023
+summary: Raising the GSM Pause Delay to 48 hours; Recognized Delegate compensation for March; DAI and MKR transfers and stream setups for multiple Responsible Facilitators and Ecosystem Actors; yanking of obsolete SF-001 MKR vesting streams; ESM Governance authorization over MIP21 Liquidation Oracle. 
 date: 2023-04-05T00:00:00.000Z
 address:
 
 ---
-# [Executive Vote] Raising the GSM Pause Delay, Recognized Delegate Compensation for March, DAI and MKR Stream Setups and Transfers for Responsible Facilitators and Ecosystem Actors, Yanking of Old SF-001 MKR Vesting Streams, ES Interaction Changes - April 5, 2023
+# [Executive Vote] [Executive Vote] Raising GSM Pause Delay, Recognized Delegate Compensation, DAI and MKR Streams, ESM Interaction Changes - April 5, 2023
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
