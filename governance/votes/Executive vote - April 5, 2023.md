@@ -115,7 +115,7 @@ As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/M
 
 ### Old Strategic Finance Core Unit MKR Vesting Stream Yank
 
-As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/MIP101) in conjunction with [MIP103: The Arbitration Scope Framework](https://mips.makerdao.com/mips/details/MIP103), the following old Strategic Finance Core Unit (SF-001) MKR vesting streams will be yanked (later to be replaced with a single stream to the SF-001 wallet), if this executive proposal passes:
+As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/MIP101) in conjunction with [MIP103: The Arbitration Scope Framework](https://mips.makerdao.com/mips/details/MIP103), the following old Strategic Finance Core Unit (SF-001) MKR vesting streams will be yanked (replaced by the aforementioned stream to Steakhouse Financial), if this executive proposal passes:
 
 - MKR stream 18.
 - MKR stream 19.
