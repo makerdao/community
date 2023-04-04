@@ -79,8 +79,8 @@ As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/M
 
 As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/MIP101) in conjunction with [MIP113: The Arbitration Scope](https://mips.makerdao.com/mips/details/MIP113) and [MIP104: The Decentralized Collateral Scope Framework Framework](https://mips.makerdao.com/mips/details/MIP104), a total of **1,642 MKR** will be streamed to multiple Responsible Facilitators as follows, if this executive proposal passes:
 
-- **690 MKR MKR** will be streamed to the Steakhouse Financial Responsible Facilitators at [0xf737C76D2B358619f7ef696cf3F94548fEcec379](https://etherscan.io/address/0xf737C76D2B358619f7ef696cf3F94548fEcec379) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
-- **432 MKR MKR** will be streamed to the TECH Responsible Facilitators at [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
+- **690 MKR** will be streamed to the Steakhouse Financial Responsible Facilitators at [0xf737C76D2B358619f7ef696cf3F94548fEcec379](https://etherscan.io/address/0xf737C76D2B358619f7ef696cf3F94548fEcec379) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
+- **432 MKR** will be streamed to the TECH Responsible Facilitators at [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
 - **340 MKR** will be streamed to the GovAlpha Responsible Facilitators at [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://etherscan.io/address/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
 - **180 MKR** will be streamed to the BA Labs - Data Insight Responsible Facilitators at [0xDfe08A40054685E205Ed527014899d1EDe49B892](https://etherscan.io/address/0xDfe08A40054685E205Ed527014899d1EDe49B892) starting on 2023-04-01 and ending on 2024-03-31 with cliff date 2023-04-01.
 
