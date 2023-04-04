@@ -73,7 +73,7 @@ As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/M
 - **1,380,000 DAI** will be streamed to the TECH Responsible Facilitators at [0x2dC0420A736D1F40893B9481D8968E4D7424bC0B](https://etherscan.io/address/0x2dC0420A736D1F40893B9481D8968E4D7424bC0B) starting on 2023-04-01 and ending on 2024-03-31.
 - **2,220,000 DAI** will be streamed to the Steakhouse Financial Responsible Facilitators at [0xf737C76D2B358619f7ef696cf3F94548fEcec379](https://etherscan.io/address/0xf737C76D2B358619f7ef696cf3F94548fEcec379) starting on 2023-04-01 and ending on 2024-03-31.
 - **2,484,000 DAI** will be streamed to the BA Labs Responsible Facilitators at [0xDfe08A40054685E205Ed527014899d1EDe49B892](https://etherscan.io/address/0xDfe08A40054685E205Ed527014899d1EDe49B892) starting on 2023-03-01 and ending on 2024-02-29.
-- **2,484,000 DAI** will be streamed to the BA Labs - Data Insights Responsible Facilitators at [0xDfe08A40054685E205Ed527014899d1EDe49B892](https://etherscan.io/address/0xDfe08A40054685E205Ed527014899d1EDe49B892) starting on 2023-04-01 and ending on 2024-03-31.
+- **876,000 DAI** will be streamed to the BA Labs - Data Insights Responsible Facilitators at [0xDfe08A40054685E205Ed527014899d1EDe49B892](https://etherscan.io/address/0xDfe08A40054685E205Ed527014899d1EDe49B892) starting on 2023-04-01 and ending on 2024-03-31.
 
 ####  Responsible Facilitator MKR Streams
 
