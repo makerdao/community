@@ -19,7 +19,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) will be raised, as detailed below.
 - A total of **75,776 DAI** will be transferred to multiple Recognized Delegates, as detailed below.
 - DAI and MKR Stream Setups and Transfers for Responsible Facilitators and Ecosystem Actors:
-	- A total of **7,860,000 DAI** will be transferred multiple Responsible Facilitators, as detailed below.
+	- A total of **7,860,000 DAI** will be transferred to multiple Responsible Facilitators, as detailed below.
 	- A total of **1,642 MKR** will be streamed to multiple Responsible Facilitators, as detailed below.
 	- A total of **226.64 MKR** will be transferred to GovAlpha Responsible Facilitators, as detailed below.
 	- A total of **3,883,950 DAI** will be streamed to multiple Ecosystem Actors, as detailed below.
