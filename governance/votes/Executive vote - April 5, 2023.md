@@ -110,8 +110,8 @@ As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/M
 
 As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/MIP101) in conjunction with two onboarding governance polls (referenced below for each Ecosystem Actor), a total of **372 MKR** will be transferred to two Ecosystem Actors as follows, if this executive proposal passes:
 
-- A total of **252 MKR** will be streamed to Ecosystem Actor dewiz at [0xD8665628742cf54BBBB3b00B15d7E7a838a1b53a](https://etherscan.io/address/0xD8665628742cf54BBBB3b00B15d7E7a838a1b53a) starting on 2023-04-01 and ending on 2024-04-01 after their successful onboarding via [this governance poll](https://vote.makerdao.com/polling/QmRxNdG7).
-- A total of **120 MKR** will be streamed to Ecosystem Actor Phoenix Labs at [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) starting on 2023-04-01 and ending on 2024-04-01 after their successful onboarding via [this governance poll](https://vote.makerdao.com/polling/QmRxNdG7).
+- A total of **252 MKR** will be streamed to Ecosystem Actor dewiz at [0xD8665628742cf54BBBB3b00B15d7E7a838a1b53a](https://etherscan.io/address/0xD8665628742cf54BBBB3b00B15d7E7a838a1b53a) starting on 2023-04-01 and ending on 2024-04-01 after their successful onboarding via [this governance poll](https://vote.makerdao.com/polling/QmVo7VXV#vote-breakdown).
+- A total of **120 MKR** will be streamed to Ecosystem Actor Phoenix Labs at [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) starting on 2023-04-01 and ending on 2024-04-01 after their successful onboarding via [this governance poll](https://vote.makerdao.com/polling/QmRxNdG7#vote-breakdown).
 
 ### Old Strategic Finance Core Unit MKR Vesting Stream Yank
 
