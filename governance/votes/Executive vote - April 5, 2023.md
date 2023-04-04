@@ -61,7 +61,7 @@ As per [MIP61: Recognized Delegate Compensation](https://mips.makerdao.com/mips/
 - **541 DAI** transferred to [Flipside Crypto](https://vote.makerdao.com/address/0x222d46d1229036c7bb6ea3f453406792ca3c3ea2) at [0x1ef753934C40a72a60EaB12A68B6f8854439AA78](https://etherscan.io/address/0x1ef753934C40a72a60EaB12A68B6f8854439AA78).
 - **314 DAI** transferred to [ONESTONE](https://vote.makerdao.com/address/0x9301f3bb7a71ab4d46b17bd1f8254142fa8f26ad) at [0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a](https://etherscan.io/address/0x4eFb12d515801eCfa3Be456B5F348D3CD68f9E8a).
 - **154 DAI** transferred to [ConsenSys](https://vote.makerdao.com/address/0x40f784b16b2d405efd4e9eb7d0663398d7d886fb) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0xE78658A8acfE982Fde841abb008e57e6545e38b3).
-- **33 DAI** transferred to [AcreInvest](https://vote.makerdao.com/address/0x06e8dedf9e1adb1eba32f36ea9223770ba378b77) at [0xE78658A8acfE982Fde841abb008e57e6545e38b3](https://etherscan.io/address/0x5b9C98e8A3D9Db6cd4B4B4C1F92D0A551D06F00D).
+- **33 DAI** transferred to [AcreInvest](https://vote.makerdao.com/address/0x06e8dedf9e1adb1eba32f36ea9223770ba378b77) at [0x5b9C98e8A3D9Db6cd4B4B4C1F92D0A551D06F00D](https://etherscan.io/address/0x5b9C98e8A3D9Db6cd4B4B4C1F92D0A551D06F00D).
 
 ### DAI and MKR Stream Setups and Transfers for Responsible Facilitators and Ecosystem Actors
 
