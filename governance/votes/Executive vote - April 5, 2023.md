@@ -26,7 +26,7 @@ If this executive proposal passes, the following **changes** will occur within t
 	- A total of **604,250 DAI** will be transferred to multiple Ecosystem Actors, as detailed below.
 	- A total of **372 MKR** will be streamed to multiple Ecosystem Actors, as detailed below.
 - Old Strategic Finance Core Unit (SF-001) MKR vesting streams will be yanked.
-- [Emergency Shutdown](https://manual.makerdao.com/module-index/module-emergency-shutdown) interaction changes will be effected, as detailed below.
+- [Emergency Shutdown](https://manual.makerdao.com/module-index/module-emergency-shutdown) interaction changes will be effected on the `MIP21_LIQUIDATION_ORACLE` contract, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -124,7 +124,7 @@ As per [MIP101: The Maker Constitution](https://mips.makerdao.com/mips/details/M
 
 ### Emergency Shutdown Interaction Changes
 
-TBD
+Based on the recommendation of the [Protocol Engineering Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP7), as detailed in this [post](https://forum.makerdao.com/t/additional-housekeeping-for-wednesdays-executive-2023-04-05/20387), the [Emergency Shutdown Module](https://manual.makerdao.com/module-index/module-emergency-shutdown) will be able to remove Governance’s authority over the `MIP21_LIQUIDATION_ORACLE` contract, if this executive proposal passes.
  
 ## Review
 
