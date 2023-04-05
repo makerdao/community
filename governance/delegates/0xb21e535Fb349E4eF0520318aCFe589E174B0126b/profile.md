@@ -16,7 +16,7 @@ Delegate Address: `0xB4b82978FCe6d26A22deA7E653Bb9ce8e14f8056`
 Delegate Platform: https://forum.makerdao.com/t/coldiron-eth-delegate-platform/11193  
 Forum: @coldiron.eth   
 Twitter: -  
-Discord: please contact our advisor schuppi#6905  
+Discord: coldiron.eth#2249  
 Email: fffwgsp8cpq43dtn@protonmail.com  
 Meet Your Delegate Video: https://www.youtube.com/watch?v=3483QFS4_qQ  
 
