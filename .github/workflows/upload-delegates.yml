@@ -3,7 +3,7 @@ on:
     branches:
       - master
     paths:
-      - governance/delegates/**/*
+      - '../governance/delegates/**/*'
       - '!governance/delegates/meta/delegates.json'
 jobs:
   upload_delegates:
