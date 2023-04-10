@@ -1,4 +1,4 @@
----
+ ---
 title: Ratification Poll for MIP Amendment Subproposals (MIP102c2-SP2) - April 10, 2023
 summary: This subproposal amends MIPs 16, 24, 51, and 101 through 114, skipping MIP102.
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp2-mip-amendment-subproposals/20016
@@ -26,7 +26,7 @@ end_date: 2023-04-24T16:00:00
 ---
 # Ratification Poll for MIP Amendment Subproposals (MIP102c2-SP2) - April 10, 2023
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, April 10 at 16:00 UTC.
+The Arbitration Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, April 10 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -35,11 +35,11 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP102c2-SP2 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This subproposal amends the Maker Constitution and the Scope Frameworks to include the first iteration of changes that are more long term focused, determined during March.*
+*This subproposal amends the Maker Constitution and the Scope Frameworks to include the first iteration of changes that are more long-term focused, determined during March.*
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/1ece10ce109e3d3bae05a01c71bcb637b8bd01da/MIP102/MIP102c2-Subproposals/MIP102c2-SP2.md)
@@ -53,7 +53,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The MIP Editors will mark the proposal as **Accepted** and [pull request #868](https://github.com/makerdao/mips/pull/868) will be merged into the GitHub MIP repository.
-* Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
+* Responsible Facilitators will be instructed to follow the updated version of the Constitutional MIPs. 
 
 **Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
 
