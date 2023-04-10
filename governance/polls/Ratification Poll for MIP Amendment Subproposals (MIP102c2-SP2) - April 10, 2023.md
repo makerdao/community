@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP Amendment Subproposals (MIP102c2-SP2) - April 10, 2023
-summary: This subproposal amends MIPs 16, 24, 51, and 101 through 114 - excluding MIP102.
+summary: This subproposal amends MIPs 16, 24, 51, and 101 through 114 (excluding MIP102).
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp2-mip-amendment-subproposals/20016
 parameters:
     input_format:
