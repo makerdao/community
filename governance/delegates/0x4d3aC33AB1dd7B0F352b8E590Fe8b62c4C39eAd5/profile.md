@@ -13,10 +13,11 @@ tags:
 
 ## Key Info
 
-Delegate Address: 0x4d3aC33AB1dd7B0F352b8E590Fe8b62c4C39eAd5  
-Forum: @ACREimpact  
+Delegate Address Dec 2021 - Nov 2022: 0x4d3aC33AB1dd7B0F352b8E590Fe8b62c4C39eAd5  
+Delegate Address Nov 2022 - Nov 2023: 0x06e8dedf9e1adb1eba32f36ea9223770ba378b77  
+Forum: @ACREinvest  
 External Website: https://www.acreinvest.xyz  
-Meet Your Delegate Video: Expected December 8
+Meet Your Delegate Video: [December 8](https://forum.makerdao.com/t/meet-your-delegate-8/11995)  
 
 ### Core Values
 
@@ -24,7 +25,7 @@ Meet Your Delegate Video: Expected December 8
 * Common Sense
 * Compliance
 
-## Delegate Statement
+## Delegate Representative Statement
 
 I'm the Founder of Acre of America, an impact investment management & advisory firm working at the intersection of new technologies & rural problems from headquarters in Hudson, New York, USA. 
 
@@ -50,10 +51,12 @@ I have read and agree to abide by the [Delegate Code of Conduct. ](https://forum
 
 #### LEGAL DISCLAIMER
 
-Kianga Daverington's role as a delegate is NOT in her professional capacity as attorney. None of Kianga's comments or communications is legal advice and should not be relied upon as such. Kianga's contributions to this community are in a commercial capacity on behalf of ACREinvest, notwithstanding that her perspective is strongly influenced by legal knowledge. You are not a legal client of Kianga Daverington or her law office, Daverington PLLC, by delegating MKR to ACREinvest.
+Kianga Daverington's role as a delegate on behalf of ACREinvest is NOT in her professional capacity as attorney. None of Kianga's comments or communications is legal advice and should not be relied upon as such. Kianga's contributions to this community are in a commercial capacity on behalf of ACREinvest, notwithstanding that her perspective is strongly influenced by legal knowledge. You are not a legal client of Kianga Daverington or her law office, Daverington PLLC, by delegating MKR to ACREinvest.
 
 ACREinvest offers to vote and contribute to the MakerDAO governance process with the best interest of the overall community mission in-mind, as determined in its sole discretion. ACREinvest does not have a fiduciary obligation to you as a result of your delegation of MKR to our delegation contract.
 
 #### WAIVER OF LIABILITY
 
 By delegating to ACREinvest you acknowledge and agree that neither Kianga Daverington nor ACREinvest, its owners, agents and affiliates, are liable for any form of damages or losses related to your delegation of your MKR to ACREinvest. By delegating your MKR you accept the outcome of votes made on your behalf by ACREinvest due to your ownership of MKR. It is your responsibility to understand the risks and costs related to delegation of your MKR, and specifically affirm and agree that at all times you have complete control over the delegated assets by adding or removing your MKR from our delegation contract.
+
+Please note additional terms specified in the Platform Update dated [September 27, 2022](https://forum.makerdao.com/t/acreinvest-delegate-platform/11943/47?u=acreinvest) and Organizational Change announcement dated [January 10, 2023](https://forum.makerdao.com/t/acreinvest-delegate-platform/11943/85?u=acreinvest).

@@ -21,6 +21,14 @@
 - **Unranked options signal that you would not support the option(s) in an executive vote.**
 - **If you have no preference to any of the listed options, you should vote 'Abstain' as your first and only choice.**
 
+## $ApprovalVoteDescriptor
+
+**This is an approval vote.**
+- **You may vote for multiple options.**
+- **You should select all the options that you would support in an executive vote.**
+- **Unselected options signal that you do not approve of those options and would not support the option(s) in an executive vote.**
+- **If you wish to abstain, that should be your one and only choice.**
+
 # Vote Outcomes
 
 ## $BinaryVoteOutcomes
@@ -58,3 +66,18 @@
 * outcome2
 
 **Otherwise, no further actions will be taken at this time.**
+
+## $ApprovalVoteOutcomes
+
+### $SingleWinnerWithoutMajorityRequirement
+
+**The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
+* outcome1
+* outcome2
+
+### $SingleWinnerWithMajorityRequirement
+
+**The winner of this vote requires an overall majority of votes to support it. The non-`Abstain` option with the most votes AND the support of a majority of votes is deemed the winner and the following actions will be taken:**
+* outcome1
+* outcome2
+
