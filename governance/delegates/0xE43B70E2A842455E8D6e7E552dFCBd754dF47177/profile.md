@@ -11,7 +11,7 @@ The Regenerative Finance CVC protects the Public Good purpose of MakerDAO as rat
 
 # Delegate Name
 Delegate Address: 0xE43B70E2A842455E8D6e7E552dFCBd754dF47177  
-Forum: @Frontier Research  
+Forum: @Matt_NZ  
 
 ## Delegate Statement
 

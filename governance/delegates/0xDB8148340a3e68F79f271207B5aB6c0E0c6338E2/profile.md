@@ -25,7 +25,7 @@ Name: Growth CVC
 
 # Delegate Name
 Delegate Address: 0xDB8148340a3e68F79f271207B5aB6c0E0c6338E2  
-Forum: @Frontier Research  
+Forum: @Matt_NZ  
 
 ## Delegate Statement
 
