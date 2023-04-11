@@ -45,6 +45,6 @@ Of course, a binary description of this type does not capture the immense variet
 
 **=>** The KISS CVC sits on the **Hawkish** side of the spectrum.
 
-# Delegate Name
+# Flip Flop Flap Delegate LLC
 Delegate Address: 0xC63e4ee8d204292a95ee7BdFc71F184FB866360C  
 Forum: @flipflopflapdelegate  

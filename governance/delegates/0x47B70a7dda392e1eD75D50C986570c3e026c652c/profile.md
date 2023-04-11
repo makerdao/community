@@ -21,6 +21,6 @@ Name: Composable CVC
 
 Because of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.
 
-# Delegate Name
+# Flip Flop Flap Delegate LLC
 Delegate Address: 0x47B70a7dda392e1eD75D50C986570c3e026c652c  
 Forum: @flipflopflapdelegate  

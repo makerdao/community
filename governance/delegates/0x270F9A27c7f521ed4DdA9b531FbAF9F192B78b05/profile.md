@@ -23,6 +23,6 @@ Name: Growth CVC
 
 3. **A Safe Harbor.** While the banning rule from CVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both CVC and facilitators. In addition, any CDs that were banned by other CVCs for “preference” rather than breaking the constitution will have a chance in Growth CVC.
 
-# Delegate Name
+# CodeKnight
 Delegate Address: 0x270F9A27c7f521ed4DdA9b531FbAF9F192B78b05  
 Forum: @CodeKnight  

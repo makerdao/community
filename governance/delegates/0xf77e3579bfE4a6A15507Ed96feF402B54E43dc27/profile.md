@@ -21,6 +21,6 @@ Name: Composable CVC
 
 Because of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.
 
-# Delegate Name
+# CodeKnight
 Delegate Address: 0xf77e3579bfE4a6A15507Ed96feF402B54E43dc27  
 Forum: @CodeKnight  

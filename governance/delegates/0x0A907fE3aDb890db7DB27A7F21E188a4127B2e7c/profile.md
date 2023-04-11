@@ -17,6 +17,6 @@ The Resiliency CVC is
 
 3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.
 
-# Delegate Name
+# QGov
 Delegate Address: 0x0A907fE3aDb890db7DB27A7F21E188a4127B2e7c  
 Forum: @QGov  
