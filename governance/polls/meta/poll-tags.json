@@ -3841,5 +3841,21 @@
     "ratification",
     "mips",
     "endgame"
+  ],
+  "993": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter",
+    "psm"
+  ],
+  "994": [
+    "high-impact",
+    "collateral-onboard",
+    "psm"
+  ],
+  "995": [
+    "medium-impact",
+    "risk-parameter"
   ]
 }
