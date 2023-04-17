@@ -28,8 +28,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to rank their support of the following options:
-* Cold Storage (prioritizes security)
-* Hot Storage (prioritized liquidity)
+* Cold Storage (prioritize security)
+* Hot Storage (prioritize liquidity)
 * Neither
 
 Per the Strategic Finance Core Unit: *Given the liability coverage difference between the hot and cold storage options, we also wanted to ask the community how they would prefer that the USDC was held. Holding the USDC in cold storage is more secure and provides significantly greater liability coverage at the expense of a longer withdrawal time (up to 24 hours once Maker requests it). Holding USDC in hot storage would allow Maker to withdraw the USDC in 10 minutes, but Coinbase’s liability coverage is capped at fees paid during the preceding 12-month period.*
