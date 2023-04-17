@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Increase ETH-B Stability Fee by 0.25% from 3% to **3.25%**.
 * Increase ETH-C Stability Fee by 0.25% from 0.75% to **1%**.
 * Increase WSTETH-A Stability Fee by 0.25% from 1.5% to **1.75%**.
-* Increase WSTETH-B Stability Fee by 0.25% from 0.75% to 1%.
+* Increase WSTETH-B Stability Fee by 0.25% from 0.75% to **1%**.
 * Increase RETH-A Stability Fee by 0.25% from 0.5% to **0.75%**.
 * Increase CRVV1ETHSTETH-A Stability Fee by 0.25% from 1.5% to **1.75%**.
 
