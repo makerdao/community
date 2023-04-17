@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
 
@@ -49,7 +49,4 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
-To participate in future Governance calls, please [join us](https://forum.makerdao.com/tag/pubcall-:-governance-and-risk) every Thursday at 17:00 UTC.
-
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
-
