@@ -1,4 +1,4 @@
-Arbitration Facilitator---
+---
 title: Offboarding Parameters for $ilk - $date_MONTH_DD,_YYYY
 summary: $summary
 discussion_link: $proposal_thread
