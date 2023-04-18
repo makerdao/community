@@ -49,6 +49,22 @@
       "cuMember": false
     },
     {
+      "voteDelegateAddress": "0x27194176525a0088e3dc96973b22b01b15376ebd",
+      "profile": {
+        "name": "UPMaker",
+        "description": "# Resiliency CVC\nName: Resiliency CVC\n\n**What is the Resiliency CVC? The Resiliency CVC is…**\n\nThe Resiliency CVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n# UPMaker\nDelegate Address: 0x27194176525a0088e3dc96973b22b01b15376ebd \nForum: @UPMaker  \n",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
+      },
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0x363d3BdB8c992F0b18577FA9Ce7886B49dcAd5a3",
       "profile": {
         "name": "vigilant",
@@ -134,6 +150,22 @@
         "name": "TRUE NAME",
         "description": "# Resiliency CVC\nName: Resiliency CVC\n\n**What is the Resiliency CVC? The Resiliency CVC is…**\n\nThe Resiliency CVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n# TRUE NAME\nDelegate Address: 0x87686C4Dd2FFd8e0b01f716EEA1573f829737e97  \nForum: @truename  ",
         "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x8cc777ed9eb3a3b9087591697ecb7f60f256ce4f",
+      "profile": {
+        "name": "UPMaker",
+        "description": "# Regenerative Finance CVC\nName: Regenerative Finance CVC\n\nThe Regenerative Finance CVC protects the Public Good purpose of MakerDAO as ratified in the Maker Constitution. Our priority is to advance the role of DAI as an “Unbiased World Currency” that supports “The Regeneration” as may be interpreted through the 8 Principles of a Regenerative Economy published by the Capital Institute (available for reference at [capitalinstitute.org](https://capitalinstitute.org/8-principles-regenerative-economy/)).\n\n# UPMaker\nDelegate Address: 0x8cc777ed9eb3a3b9087591697ecb7f60f256ce4f\nForum: @UPMaker \n",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-regenerative-finance-cvc/20354"
       },
       "image": "",
       "metrics": {
