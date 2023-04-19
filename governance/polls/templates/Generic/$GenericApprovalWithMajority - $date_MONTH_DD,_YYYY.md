@@ -3,13 +3,13 @@ title: $GenericChange - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to $GenericChange.
 discussion_link: $discussion_link
 parameters:
-  input_format:
+  input_format: 
     type: choose-free
     options: [1,2,3]
     abstain: [0]
   victory_conditions:
-    - {
-        type: 'and',
+    - { 
+        type: 'and', 
         conditions: [
           { type : approval },
           { type: majority, percent: 50 },
