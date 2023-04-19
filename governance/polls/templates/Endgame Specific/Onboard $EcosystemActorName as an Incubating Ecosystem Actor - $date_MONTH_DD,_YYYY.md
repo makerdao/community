@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on $date_DAY,_MONTH_DD at 16:30 UTC.
+The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on $date_DAY,_MONTH_DD at 16:30 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
