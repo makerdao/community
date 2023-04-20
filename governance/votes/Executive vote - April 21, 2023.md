@@ -5,9 +5,9 @@ date: 2023-04-21T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions - April 21, 2023
+# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 21, 2023
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s), dewiz, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -22,6 +22,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The Legal Agreements for RWA014 (Coinbase Custody) will be approved, as detailed below.
 - The DAO Resolution agreed in MIP58c4-SP1 will be executed, as detailed below.
 - The DAO Resolution to James Asset Trust will be executed, as detailed below.
+- Housekeeping for the Protocol Engineering Team's MKR vesting streams, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -141,6 +142,28 @@ immediately reported to the Reporting Agent via email.
 ```
 
 Please review the [forum post](https://forum.makerdao.com/t/executive-inclusion-week-of-april-19th-2023/20605) to inform your position prior to voting.
+
+### Protocol Engineering MKR Stream Cleanup
+
+As per this [forum post](https://forum.makerdao.com/t/protocol-engineering-core-unit-transition/20327) from the Protocol Engineering Core Unit, the following housekeeping steps for the team's MKR vesting streams will be taken, if this executive proposal passes:
+
+- `Yank` MKR Stream ID 4 at timestamp 1682899199.
+- `Yank` MKR Stream ID 5 at timestamp 1682899199.
+- `Yank` MKR Stream ID 6 at timestamp 1682899199.
+- `Yank` MKR Stream ID 7 at timestamp 1682899199.
+- `Yank` MKR Stream ID 10 at timestamp 1682899199.
+- `Yank` MKR Stream ID 11 at timestamp 1682899199.
+- `Yank` MKR Stream ID 12 at timestamp 1682899199.
+- `Yank` MKR Stream ID 14 at timestamp 1682899199.
+- `Yank` MKR Stream ID 15 at timestamp 1682899199.
+- `Yank` MKR Stream ID 16 at timestamp 1682899199.
+- `Yank` MKR Stream ID 17 at timestamp 1682899199.
+- `Yank` MKR Stream ID 29 at timestamp 1682899199.
+- Transfer **248 MKR** to [0x18A0609b14dB84bbcC3d911915a07CA9a28b9263](https://etherscan.io/address/0x18A0609b14dB84bbcC3d911915a07CA9a28b9263).
+
+*Note that timestamp 1682899199 corresponds to 2023-04-30 at 23:59:59 UTC*.
+
+*Note that when `yank` is called, the stream is cancelled, but all MKR that has accrued up until that point is accessible by the recipient of the stream, assuming the `cliff` date has been reached.*
 
 ## Review
 
