@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions - April 21, 2023
-summary: Stability Fee increases based on the Decentralized Collateral Scope; prepare for offboarding of RWA008-A, YFI-A, MATIC-A, and LINK-A vaults; Legal Document approval for Coinbase Custody, DAO Resolution execution.
+title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 21, 2023
+summary: Stability Fee increases based on the Decentralized Collateral Scope; prepare for offboarding of RWA008-A, YFI-A, MATIC-A, and LINK-A vaults; Legal Document approval for Coinbase Custody; DAO Resolution execution, PE MKR vesting stream cleanup.
 date: 2023-04-21T00:00:00.000Z
 address: "$spell_address"
 
@@ -60,7 +60,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmdRE
 
 If this executive proposal passes, the Draft Instruction Sets will be considered "approved", which will permit the creation of relevant accounts, and the technical work to complete the onboarding will proceed once this has taken place.
 
-Please review the legal assessment and Draft Instruction Sets from the Strategic Finance Core Unit prior to voting on the forum [here](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384) and on IPFS [here](https://gateway.pinata.cloud/ipfs/QmVj1drTBBiJUG11wSwhpo8qbNSZU91zxuNzA41QVGS9PM).
+Please review the legal assessment and Draft Instruction Sets from the Strategic Finance Core Unit prior to voting on the forum [here](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384) and on IPFS [here](https://gateway.pinata.cloud/ipfs/QmPTZKBagKKmYqVWytNb8Q9xL1LhsNVuueJLiLK2rMyHxh).
 
 ### DAO Resolution Execution 1
 
