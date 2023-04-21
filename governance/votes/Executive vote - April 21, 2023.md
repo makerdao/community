@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### RWA008-A Debt Ceiling Reduction
 
-Following this [notification](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605/49) from the Societe Generale - Forge team that they have [burned](https://etherscan.io/tx/0x3d88a16c53e89a74f2a35c2b2672c56bd612315d2553c44f401e3777ad8f66f2) their RWA008 token, we are setting the Debt Ceiling for this vault type to **0 DAI**, if this exeutive proposal passes. This is a housekeeping change to reflect the inability of this vault type to draw DAI. Further action may be required in future to formally complete the offboarding of this collateral type.
+Following this [notification](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605/49) from the Societe Generale - Forge team that they have [burned](https://etherscan.io/tx/0x3d88a16c53e89a74f2a35c2b2672c56bd612315d2553c44f401e3777ad8f66f2) their RWA008 token, we are setting the Debt Ceiling for this vault type to **0 DAI**, if this executive proposal passes. This is a housekeeping change to reflect the inability of this vault type to draw DAI. Further action may be required in the future to formally complete the offboarding of this collateral type.
 
 Notice of this change was given by the Arbitration Facilitators [here](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605/51).
 
