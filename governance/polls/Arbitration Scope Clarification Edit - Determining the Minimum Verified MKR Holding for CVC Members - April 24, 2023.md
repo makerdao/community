@@ -34,7 +34,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/poll-notices-
 
 ## Outcomes
 
-** The winning option will be merged into the Arbitration Scope Framework.**
+**The winning option will be merged into the Arbitration Scope Framework.**
 
 ---
 
