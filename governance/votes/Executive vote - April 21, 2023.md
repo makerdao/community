@@ -21,6 +21,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The Maximum Debt Ceiling for YFI-A, MATIC-A, and LINK-A will be set to 0 DAI, as detailed below.
 - The Legal Agreements for RWA014 (Coinbase Custody) will be approved, as detailed below.
 - The DAO Resolution agreed in MIP58c4-SP1 will be executed, as detailed below.
+- The DAO Resolution to James Asset Trust 3 will be executed, as detailed below.
 - Housekeeping for the Protocol Engineering Team's MKR vesting streams, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -56,7 +57,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmPwH
 
 ### Coinbase Custody Legal Agreement Ratification
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmdRELY7), RWA014 (Coinbase Custody) will be onboarded to the Maker Protocol. Ratification of the legal agreements and Draft Instruction Sets through a Maker Executive Vote is a prerequisite to the creation of relevant accounts with Coinbase Custody by James Asset Trust.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmdRELY7), RWA014 (Coinbase Custody) will be onboarded to the Maker Protocol. Ratification of the legal agreements and Draft Instruction Sets through a Maker Executive Vote is a prerequisite to the creation of relevant accounts with Coinbase Custody by James Asset Trust 3.
 
 If this executive proposal passes, the Draft Instruction Sets will be considered "approved", which will permit the creation of relevant accounts, and the technical work to complete the onboarding will proceed once this has taken place.
 
