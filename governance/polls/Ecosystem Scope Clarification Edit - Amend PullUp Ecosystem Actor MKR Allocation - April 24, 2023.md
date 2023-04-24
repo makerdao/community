@@ -1,5 +1,5 @@
 ---
-title: Ecosystem Scope Clarification Edit - PullUp MKR Allocation - April 24, 2023
+title: Ecosystem Scope Clarification Edit - Amend PullUp Ecosystem Actor MKR Allocation - April 24, 2023
 summary: Signal your support or opposition to the listed edit to the Ecosystem Scope.
 discussion_link: https://forum.makerdao.com/t/poll-notices-scope-clarification-edits/20637
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2023-04-24T16:00:00
 end_date: 2023-04-27T16:00:00
 ---
-# Poll: Ecosystem Scope Clarification Edit - PullUp MKR Allocation - April 24, 2023
+# Poll: Ecosystem Scope Clarification Edit - Amend PullUp Ecosystem Actor MKR Allocation - April 24, 2023
 
 The Arbitration Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113c2.7.1.2](https://mips.makerdao.com/mips/details/MIP113#7-1-pregame-bootstrapping-votes). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 24 at 16:00 UTC.
 
