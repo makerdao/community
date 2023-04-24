@@ -29,7 +29,7 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 The community can vote in this poll to express support or opposition to the changes in the following Github Pull Request:
 * [Amendment Pull Request]($pull_request_link).
 
-Please review the discussion [thread]($discussion_link) which also contains a brief summary of the proposed changes to help inform your position before voting.
+Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
