@@ -34,7 +34,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* The proposed changes will be merged into the Arbitration Scope Framework.
+* The proposed changes will be merged into the $ScopeName Scope Framework.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
