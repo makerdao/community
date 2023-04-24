@@ -22,5 +22,5 @@ Name: Composable CVC
 Because of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.
 
 # mhonkasalo & teemulau
-Delegate Address: 0x95365008d90fEc6d32Ea714A5345aEF88aEa464B  
-Forum: @mhonkasalo, @teemulau 
+Delegate Address: 0x8349b0278A289bc47CbFadCd0533dC540aA80D58  
+Forum: @mhonkasalo, @teemulau  

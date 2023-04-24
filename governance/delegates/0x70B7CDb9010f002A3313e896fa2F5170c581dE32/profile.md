@@ -46,5 +46,5 @@ Of course, a binary description of this type does not capture the immense variet
 **=>** The KISS CVC sits on the **Hawkish** side of the spectrum.
 
 # mhonkasalo & teemulau
-Delegate Address: 0x3072f824052aC3d96F3527cE6a9D26E0d370AB4a  
+Delegate Address: 0x70B7CDb9010f002A3313e896fa2F5170c581dE32  
 Forum: @mhonkasalo, @teemulau  
