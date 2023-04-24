@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 21, 2023
+title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 24, 2023
 summary: Stability Fee increases based on the Decentralized Collateral Scope; prepare for offboarding of RWA008-A, YFI-A, MATIC-A, and LINK-A vaults; Legal Document approval for Coinbase Custody; DAO Resolution execution, PE MKR vesting stream cleanup.
-date: 2023-04-21T00:00:00.000Z
+date: 2023-04-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 21, 2023
+# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 24, 2023
 
 The Governance Facilitator(s), dewiz, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -21,7 +21,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - The Maximum Debt Ceiling for YFI-A, MATIC-A, and LINK-A will be set to 0 DAI, as detailed below.
 - The Legal Agreements for RWA014 (Coinbase Custody) will be approved, as detailed below.
 - The DAO Resolution agreed in MIP58c4-SP1 will be executed, as detailed below.
-- The DAO Resolution to James Asset Trust will be executed, as detailed below.
+- The DAO Resolution to James Asset Trust 3 will be executed, as detailed below.
 - Housekeeping for the Protocol Engineering Team's MKR vesting streams, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -57,7 +57,7 @@ As per this successful [governance poll](https://vote.makerdao.com/polling/QmPwH
 
 ### Coinbase Custody Legal Agreement Ratification
 
-As per this successful [governance poll](https://vote.makerdao.com/polling/QmdRELY7), RWA014 (Coinbase Custody) will be onboarded to the Maker Protocol. Ratification of the legal agreements and Draft Instruction Sets through a Maker Executive Vote is a prerequisite to the creation of relevant accounts with Coinbase Custody by James Asset Trust.
+As per this successful [governance poll](https://vote.makerdao.com/polling/QmdRELY7), RWA014 (Coinbase Custody) will be onboarded to the Maker Protocol. Ratification of the legal agreements and Draft Instruction Sets through a Maker Executive Vote is a prerequisite to the creation of relevant accounts with Coinbase Custody by James Asset Trust 3.
 
 If this executive proposal passes, the Draft Instruction Sets will be considered "approved", which will permit the creation of relevant accounts, and the technical work to complete the onboarding will proceed once this has taken place.
 
