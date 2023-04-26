@@ -36,32 +36,23 @@ As per previous approval in multiple polls ([1](https://vote.makerdao.com/pollin
 
 ### Vault Parameters
 
-* Ilk Name: **DIRECT-SPARK-DAI
-* [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) to **5 million DAI**.
-* [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) to **5 million DAI**.
-* [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) to **8 hours**.
-* `tau`: **7 days**.
-	* The `tau` parameter defines the time period that must elapse before debt can be written off after a D3M has been caged.
-	
-### Other Parameters/Instructions
+* Ilk Name: **DIRECT-SPARK-DAI**
+* Increase the Maximum Debt Ceiling (`line`) to **5 million DAI**.
+* Set Target Available Debt (`gap`) to **5 million DAI**.
+* Set Ceiling Increase Cooldown (`ttl`) to **8 hours**.
+* Set `tau` to **7 days**; this parameter defines the time period required before debt can be written off after a D3M has been caged.
 
-* Set `King` to the Pause Proxy ([0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb)].
-	* The `King` is the address that will receive any rewards.
-* Set Aave Buffer Plan (`buffer`) to **30 million DAI**.
-	* `buffer` is the fixed liquidity buffer on the DAI Pool. For example, if there are 200m in outstanding DAI borrows on Spark Lend, and the buffer is set to 100m, then this plan will make sure the DAI market on Spark Lend is 200m borrows + 100m dai liquidity for a total market size of 300m. It is limited by the Maximum Debt Ceiling.
-* Set `baseRateConversion` to **1/90%**.
-	* The `baseRateConversion` is the value that will be multiplied by the DSR to set the DAI market borrow rate. It is defined as `1/90 * DSR` by the Decentralized Collateral and Stability and Liquidity Scopes.
-* Set `borrowSpread` to **0**.
-	* While the Debt Ceiling of the D3M is above the vault debt, the borrow rate will remain flat at the `(DSR * baseRateConversion` + borrow spread amount).
+### Additional Parameters/Instructions
+
+* Assign `King` to the Pause Proxy with address: [0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb). This address will receive any rewards.
+* Set Aave Buffer Plan (`buffer`) to **30 million DAI**. This ensures a fixed liquidity buffer on the DAI Pool.
+* Set `baseRateConversion` to **1/90%**. This value is multiplied by the DSR to set the DAI market borrow rate.
+* Set `borrowSpread` to **0**. This will keep the borrow rate flat if the D3M Debt Ceiling is above the vault debt.
 * Set `supplySpread` to **0**.
-* Set `maxRate` to **75%**.
-	* The maxRate is the value for both supply and borrows that is asymptotically approached if the vault debt exceeds the Debt Ceiling of the D3M. This is to encourage borrowers to repay their loans to bring the debt back below the Debt Ceiling, as well as encouraging alternative liquidity providers to deposit so that the liquidity provided by Maker can be removed.
-* Update the DAI Interest Strategy Contract to `0x113dc45c524404F91DcbbAbB103506bABC8Df0FE` which disables the performance bonus - `poolConfigurator.setReserveInterestRateStrategyAddress(DAI_ADDRESS, 0x113dc45c524404F91DcbbAbB103506bABC8Df0FE )`
-	* This change disables the performance bonus that would have been sent to Phoenix Labs.
-* Set DAI Reserve Factor to 0% through `poolConfigurator.setReserveFactor(DAI_ADDRESS, 0)`
-	* The Reserve factor is the amount of revenue to send to the "reserve" address. In this case, setting it to 0 means that all revenue will be sent to Maker.
-* Freeze the WBTC market - `poolConfigurator.setReserveFreeze(WBTC_ADDRESS, true)`
-	* This freezes the WBTC market on Spark Lend, in keeping with the Decentralized Collateral Scope Framework.
+* Set `maxRate` to **75%**. This is the maximum value for both supply and borrows and is encouraged when vault debt exceeds the Debt Ceiling of the D3M.
+* Update the DAI Interest Strategy Contract to `0x113dc45c524404F91DcbbAbB103506bABC8Df0FE`, disabling the performance bonus.
+* Set DAI Reserve Factor to 0% using `poolConfigurator.setReserveFactor(DAI_ADDRESS, 0)`. This means all revenue will be sent to Maker.
+* Freeze the WBTC market using `poolConfigurator.setReserveFreeze(WBTC_ADDRESS, true)`. This aligns with the Decentralized Collateral Scope Framework.
 	
 ## Review
 
