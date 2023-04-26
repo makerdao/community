@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 24, 2023
+title: Template - [Executive Vote] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 26, 2023
 summary: Stability Fee increases based on the Decentralized Collateral Scope; prepare for offboarding of RWA008-A, YFI-A, MATIC-A, and LINK-A vaults; Legal Document approval for Coinbase Custody; DAO Resolution execution, PE MKR vesting stream cleanup.
-date: 2023-04-24T00:00:00.000Z
+date: 2023-04-26T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 24, 2023
+# [Executive Proposal] Stability Fee Changes, Collateral Offboarding Preparation, Coinbase Custody Legal Documentation, DAO Resolutions, PE MKR Stream Cleanup - April 26, 2023
 
 The Governance Facilitator(s), dewiz, and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
