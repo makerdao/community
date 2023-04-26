@@ -32,14 +32,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Spark Lend D3M Onboarding
 
-As per previous approval in multiple polls ([1](https://vote.makerdao.com/polling/QmRZAMq2), [2](https://vote.makerdao.com/polling/QmTiALcZ), [3](https://vote.makerdao.com/polling/QmYBegVf), [4](https://vote.makerdao.com/polling/QmTJBUXJ), [5](https://vote.makerdao.com/polling/QmRxNdG7) and per the Scope Frameworks ([Decentralized Collateral Scope](https://mips.makerdao.com/mips/details/MIP104), [Ecosystem Scope](https://mips.makerdao.com/mips/details/MIP106)), the D3M to Spark Lend will be activated in this spell using the following parameters:
+As per previous approval in multiple polls ([1](https://vote.makerdao.com/polling/QmRZAMq2), [2](https://vote.makerdao.com/polling/QmTiALcZ), [3](https://vote.makerdao.com/polling/QmYBegVf), [4](https://vote.makerdao.com/polling/QmTJBUXJ), [5](https://vote.makerdao.com/polling/QmRxNdG7)) and per the Scope Frameworks ([Decentralized Collateral Scope](https://mips.makerdao.com/mips/details/MIP104), [Ecosystem Scope](https://mips.makerdao.com/mips/details/MIP106)), the D3M to Spark Lend will be activated in this spell using the following parameters:
 
 ### Vault Parameters
 
 * Ilk Name: **DIRECT-SPARK-DAI**
-* Increase the Maximum Debt Ceiling (`line`) to **5 million DAI**.
-* Set Target Available Debt (`gap`) to **5 million DAI**.
-* Set Ceiling Increase Cooldown (`ttl`) to **8 hours**.
+* Increase the [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) to **5 million DAI**.
+* Set [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) to **5 million DAI**.
+* Set [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) to **8 hours**.
 * Set `tau` to **7 days**; this parameter defines the time period required before debt can be written off after a D3M has been caged.
 
 ### Additional Parameters/Instructions
@@ -53,6 +53,8 @@ As per previous approval in multiple polls ([1](https://vote.makerdao.com/pollin
 * Update the DAI Interest Strategy Contract to `0x113dc45c524404F91DcbbAbB103506bABC8Df0FE`, disabling the performance bonus.
 * Set DAI Reserve Factor to 0% using `poolConfigurator.setReserveFactor(DAI_ADDRESS, 0)`. This means all revenue will be sent to Maker.
 * Freeze the WBTC market using `poolConfigurator.setReserveFreeze(WBTC_ADDRESS, true)`. This aligns with the Decentralized Collateral Scope Framework.
+
+For more information on Direct Deposit Modules, please see the entry in the Maker Operational Manual [here](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
 	
 ## Review
 
