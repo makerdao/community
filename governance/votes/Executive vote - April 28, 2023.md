@@ -32,7 +32,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Spark Lend D3M Onboarding
 
-As per previous approval in multiple polls and per the Scope Frameworks, the D3M to Spark Protocol will be activated in this spell using the following parameters:
+As per previous approval in multiple polls ([1](https://vote.makerdao.com/polling/QmRZAMq2), [2](https://vote.makerdao.com/polling/QmTiALcZ), [3](https://vote.makerdao.com/polling/QmYBegVf), [4](https://vote.makerdao.com/polling/QmTJBUXJ), [5](https://vote.makerdao.com/polling/QmRxNdG7) and per the Scope Frameworks ([Decentralized Collateral Scope](https://mips.makerdao.com/mips/details/MIP104), [Ecosystem Scope](https://mips.makerdao.com/mips/details/MIP106)), the D3M to Spark Lend will be activated in this spell using the following parameters:
 
 ### Vault Parameters
 
