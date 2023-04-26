@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] Spark Protocol D3M Onboarding - April 28, 2023
-summary: Adds a new D3M to Spark Protocol.
+title: Template - [Executive Vote] Spark Lend D3M Onboarding - April 28, 2023
+summary: Adds a new D3M to Spark Lend.
 date: 2023-04-28T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Spark Protocol D3M Onboarding - April 28, 2023
+# [Executive Proposal] Spark Lend D3M Onboarding - April 28, 2023
 
-The Arbitration Facilitator(s), Spark Protocol, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Arbitration Facilitator(s), Phoenix Labs, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- A new D3M to Spark Protocol will be added to the Maker Protocol, as detailed below.
+- A new D3M to Spark Lend will be added to the Maker Protocol, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -30,7 +30,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Spark Protocol D3M Onboarding
+### Spark Lend D3M Onboarding
 
 As per previous approval in multiple polls and per the Scope Frameworks, the D3M to Spark Protocol will be activated in this spell using the following parameters:
 
@@ -57,11 +57,11 @@ As per previous approval in multiple polls and per the Scope Frameworks, the D3M
 * Set `maxRate` to **75%**.
 	* The maxRate is the value for both supply and borrows that is asymptotically approached if the vault debt exceeds the Debt Ceiling of the D3M. This is to encourage borrowers to repay their loans to bring the debt back below the Debt Ceiling, as well as encouraging alternative liquidity providers to deposit so that the liquidity provided by Maker can be removed.
 * Update the DAI Interest Strategy Contract to `0x113dc45c524404F91DcbbAbB103506bABC8Df0FE` which disables the performance bonus - `poolConfigurator.setReserveInterestRateStrategyAddress(DAI_ADDRESS, 0x113dc45c524404F91DcbbAbB103506bABC8Df0FE )`
-	* This change disables the performance bonus that would have been sent to Spark Protocol.
+	* This change disables the performance bonus that would have been sent to Phoenix Labs.
 * Set DAI Reserve Factor to 0% through `poolConfigurator.setReserveFactor(DAI_ADDRESS, 0)`
 	* The Reserve factor is the amount of revenue to send to the "reserve" address. In this case, setting it to 0 means that all revenue will be sent to Maker.
 * Freeze the WBTC market - `poolConfigurator.setReserveFreeze(WBTC_ADDRESS, true)`
-	* This freezes the WBTC market on Spark Protocol, in keeping with the Decentralized Collateral Scope Framework.
+	* This freezes the WBTC market on Spark Lend, in keeping with the Decentralized Collateral Scope Framework.
 	
 ## Review
 
