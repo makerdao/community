@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Spark Lend D3M Onboarding - April 28, 2023
+title: Template - [Executive Vote] Spark Lend D3M Onboarding - May 02, 2023
 summary: Adds a new D3M to Spark Lend.
-date: 2023-04-28T00:00:00.000Z
-address: "$spell_address"
+date: 2023-05-02T00:00:00.000Z
+address: "0x77107F74bf30250aFFada0fbD09fa517658B4916"
 
 ---
-# [Executive Proposal] Spark Lend D3M Onboarding - April 28, 2023
+# [Executive Proposal] Spark Lend D3M Onboarding - May 02, 2023
 
 The Arbitration Facilitator(s), Phoenix Labs, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
