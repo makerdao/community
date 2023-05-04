@@ -55,15 +55,15 @@ As per [this poll](https://vote.makerdao.com/polling/QmdRELY7) Coinbase Custody 
 * **SYMBOL:** `RWA014`.
 * **NAME:** `RWA-014`.
 * **ILK:** `RWA014-A`.
-* **RWA014:**
-* **MCD_JOIN_RWA014_A:**
-* **RWA014_A_URN:**
-* **RWA014_A_JAR:**
-* **RWA014_A_OUTPUT_CONDUIT:**
-* **RWA014_A_INPUT_CONDUIT_URN:**
-* **RWA014_A_INPUT_CONDUIT_JAR:**
-* **RWA014_A_OPERATOR:**
-* **ETH Address A (Coinbase Custody):**
+* **RWA014:** TBD
+* **MCD_JOIN_RWA014_A:** TBD
+* **RWA014_A_URN:** TBD
+* **RWA014_A_JAR:** TBD
+* **RWA014_A_OUTPUT_CONDUIT:** TBD
+* **RWA014_A_INPUT_CONDUIT_URN:** TBD
+* **RWA014_A_INPUT_CONDUIT_JAR:** TBD
+* **RWA014_A_OPERATOR:** TBD
+* **ETH Address A (Coinbase Custody):** TBD
 
 #### Additional Information
 
