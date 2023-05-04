@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Coinbase Custody Onboarding, Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management - May 10, 2023
-summary: Onboard Coinbase Custody as RWA014-A, update risk parameters for decentralized collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs.
+title: Template - [Executive Vote] Coinbase Custody Onboarding, Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management, DAO Resolution - May 10, 2023
+summary: Onboard Coinbase Custody as RWA014-A, update risk parameters for decentralized collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
 date: 2023-05-10T00:00:00.000Z
 address: "$spell_address"
 
@@ -22,6 +22,7 @@ If this executive proposal passes, the following **changes and additions** will 
 - DAI and MKR streams will be set up for PullUp, as detailed below.
 - The old streams for Phoenix Labs will be `yank`ed, and new streams will be created, as detailed below.
 - The `cap` for MKR_VEST will be increased to 2,200 MKR, as detailed below.
+- The DAO Resolution to facilitate onboarding TACO with an exchange agent will be approved.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -138,6 +139,28 @@ To facilitate the MKR vesting stream to Phoenix Labs, the `cap` in the MKR_VEST 
 * Increase the `cap` to **2,200 MKR**.
 
 This will allow for the full agreed amount of MKR to be streamed to PullUp along with a 10% buffer.
+
+### DAO Resolution
+
+As per [this post](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-exchange-agent/20735) from the Strategic Finance Core Unit (SF-001), the following DAO Resolution will be approved if this executive proposal passes. 
+
+This DAO Resolution will allow TACO to onboard with an exchange agent and is a precursor to the onboarding of Real World Asset collateral using BlockTower as the Arranger under the [Real World Asset Collateral Scope Framework](https://mips.makerdao.com/mips/details/MIP105).
+
+```
+MAKERDAO RESOLUTION
+
+Date: Dated as of related Executive Vote on MakerDAO
+
+Purpose: ONBOARDING OF TACO WITH EXCHANGE AGENT
+
+Reference is made to the Articles of Association (the “Articles”) of TACO Foundation (“TACO”), dated November 16, 2022, pursuant to which TACO’s operations are governed. TACO is a foundation company limited by guarantee, organized and existing under the laws of the Cayman Islands. Capitalized terms used herein and not otherwise defined shall have the meaning given to them in the Articles.
+
+In accordance with the governance protocols of MakerDAO on the date specified above and pursuant to clause 4.16 of the Articles, according to which the directors of TACO must implement all DAO Resolutions (subject to applicable law); this DAO Resolution approves and ratifies all actions and agreements that TACO may take or enter into with third parties solely to facilitate the onboarding of TACO with an exchange agent.
+
+This DAO Resolution recognizes that TACO has full authority to carry out a series of spot transactions originating from Maker smart contracts that will involve converting stablecoins (e.g., USDC, USDP, and GUSD) into U.S. dollars to be settled in TACO's accounts, overseen by the Credit Team at BlockTower Capital Advisors LP ("BlockTower") in its capacity as Arranger under the Real-World Asset Collateral Scope Framework.
+```
+
+The DAO Resolution may be found pinned on IPFS [here](https://gateway.pinata.cloud/ipfs/QmcP7W3PeECg9mEaGN6LqYmxUL9wbXePvCtQFn3KMV6UrQ).
 
 ## Review
 
