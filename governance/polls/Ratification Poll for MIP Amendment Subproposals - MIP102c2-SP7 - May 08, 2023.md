@@ -39,7 +39,7 @@ The community may vote in this poll to express support or opposition to MIP102c2
 
 A summary of this proposal is provided below:
 
-*This subproposal amends the Maker Constitution (now Atlas) and the Scope Frameworks. It aggregates the existing 12 Scope Frameworks into 5: Stability, Support, Protocol, Accessibility, and Governance. Also included are changes to wording and clarification of intent across each amended MIP.*
+*This subproposal amends the Maker Constitution (now Atlas) and the Scope Frameworks. It aggregates the existing 12 Scope Frameworks into 5: Stability, Support, Protocol, Accessibility, and Governance. Also included are changes to wording and clarification of intent across each amended MIP.*  
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e22e5ed2be970e1b285553028db7eed123531803/MIP102/MIP102c2-Subproposals/MIP102c2-SP7.md)
@@ -54,7 +54,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 * The Arbitration Facilitators will confirm its passage by marking the proposal **Accepted** on the [MIPs portal](https://mips.makerdao.com/mips/list) and across all other relevant governance mediums.
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
-**Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).**
+**Otherwise, this proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#MIP51c2).**
 
 ---
 
