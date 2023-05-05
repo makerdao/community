@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Coinbase Custody Onboarding, Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management, DAO Resolution - May 10, 2023
-summary: Onboard Coinbase Custody as RWA014-A, update risk parameters for decentralized collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
+summary: Onboard Coinbase Custody as RWA014-A, update risk parameters for various collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
 date: 2023-05-10T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
 - RWA014 (Coinbase Custody) will be onboarded as a new vault type, as detailed below.
-- Multiple risk parameters for decentralized collateral types will be updated, as detailed below.
+- Multiple risk parameters for various collateral types will be updated, as detailed below.
 - The Starknet Bridge Limit will be increased to 5 million DAI, as detailed below.
 - DAI and MKR streams will be set up for PullUp, as detailed below.
 - The old streams for Phoenix Labs will be `yank`ed, and new streams will be created, as detailed below.
@@ -98,8 +98,10 @@ As per [this poll](https://vote.makerdao.com/polling/QmYFfRuR) the following par
 
 #### [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) Changes
 
-* Increase the WSTETH-A `ttl` by 21,600 seconds from 21,600 seconds to **43,200 seconds**.
-* Increase the WSTETH-B `ttl` by 28,800 seconds from 28,800 seconds to **57,600 seconds**.
+* Increase the WSTETH-A `ttl` by 21,600 seconds (6 hours) from 21,600 seconds (6 hours) to **43,200 seconds** (12 hours).
+* Increase the WSTETH-B `ttl` by 28,800 seconds (8 hours) from 28,800 seconds (8 hours) to **57,600 seconds** (16 hours).
+
+Further information regarding these changes can be found on the forum [here](https://forum.makerdao.com/t/out-of-scope-proposed-risk-parameters-changes-stability-fee-dc-iam/20564).
 
 ### Starknet Bridge Limit Increase
 
@@ -109,7 +111,7 @@ As per [this initial poll](https://vote.makerdao.com/polling/QmUnhQZy) and this 
 
 ### Vesting Stream Setup
 
-As per [MIP106](https://mips.makerdao.com/mips/details/MIP106), the following DAI and MKR vesting streams will be created if this executive proposal passes:
+As per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the following DAI and MKR vesting streams will be created if this executive proposal passes:
 
 #### DAI Vesting Streams
 
@@ -129,8 +131,10 @@ As per [MIP106](https://mips.makerdao.com/mips/details/MIP106), the following DA
 
 As part of the above entry, the previous vesting streams to Phoenix Labs will be cancelled and replaced with the new vesting streams, if this executive proposal passes.
 
-* `yank` DAI stream ID 22.
-* `yank` MKR stream ID 37.
+* DAI vesting stream ID 22 will be cancelled.
+* MKR stream ID 37 will be cancelled.
+
+When a stream is cancelled (by calling `yank`), any funds that have been streamed up until that point will still be claimable by the recipient as long as the cliff date has been reached. However, new funds will no longer be streamed and the claimable balance will no longer increase.
 
 ### Increase MKR_VEST `cap`
 
@@ -166,14 +170,10 @@ The DAO Resolution may be found pinned on IPFS [here](https://gateway.pinata.clo
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
 
-Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) for these calls is available to review.
-
 ---
 
 ## Resources
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
-
-To participate in future Governance calls, please [join us](https://forum.makerdao.com/tag/pubcall-:-governance-and-risk) every Thursday at 17:00 UTC.
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
