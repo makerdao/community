@@ -70,7 +70,7 @@ As per [this initial poll](https://vote.makerdao.com/polling/QmUnhQZy) and this 
 
 ### Vesting Stream Setup
 
-As per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the following DAI and MKR vesting streams will be created if this executive proposal passes:
+As per [MIP106](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the following DAI and MKR vesting streams will be created if this executive proposal passes:
 
 #### DAI Vesting Streams
 
