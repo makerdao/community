@@ -105,7 +105,7 @@ This will allow for the full agreed amount of MKR to be streamed to PullUp along
 
 ### DAO Resolution
 
-As per [this post](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-exchange-agent/20735) from the Strategic Finance Core Unit (SF-001), the following DAO Resolution will be approved if this executive proposal passes. 
+As per [this post](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-exchange-agent/20735) from Steakhouse Financial, the following DAO Resolution will be approved if this executive proposal passes. 
 
 This DAO Resolution will allow TACO to onboard with an exchange agent and is a precursor to the onboarding of Real World Asset collateral using BlockTower as the Arranger under the [Real World Asset Collateral Scope Framework](https://mips.makerdao.com/mips/details/MIP105).
 
