@@ -45,6 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/e22e5ed2be970e1b285553028db7eed123531803/MIP102/MIP102c2-Subproposals/MIP102c2-SP7.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP7)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp7-mip-amendment-subproposals/20381)
+* [Amendment Pull Request](https://github.com/makerdao/mips/pull/904)
 
 ## Outcomes
 
