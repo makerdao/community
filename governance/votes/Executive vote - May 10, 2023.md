@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Coinbase Custody Onboarding, Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management, DAO Resolution - May 10, 2023
-summary: Onboard Coinbase Custody as RWA014-A, update risk parameters for various collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
+title: Template - [Executive Vote] Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management, DAO Resolution - May 10, 2023
+summary: Update risk parameters for various collateral types, increase the Starknet Bridge limit to 5 million DAI, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
 date: 2023-05-10T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,7 +16,6 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
-- RWA014 (Coinbase Custody) will be onboarded as a new vault type, as detailed below.
 - Multiple risk parameters for various collateral types will be updated, as detailed below.
 - The Starknet Bridge Limit will be increased to 5 million DAI, as detailed below.
 - DAI and MKR streams will be set up for PullUp, as detailed below.
@@ -35,44 +34,6 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
-
-### Coinbase Custody (RWA014) Onboarding
-
-As per [this poll](https://vote.makerdao.com/polling/QmdRELY7) Coinbase Custody will be onboarded as RWA014-A as detailed below, if this executive proposal passes.
-
-#### Collateral Parameters
-
-* [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): **0%**.
-* [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): **500 million DAI**.
-* [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): **100%**.
-* Oracle Price: **500 million DAI**.
-* Debt write-off timelock (tau): **0**.
-* Liquidation Process: Will use the established RWA collateral contracts. See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
-
-#### Relevant Smart Contract Information
-
-* **MIP21_LIQUIDATION_ORACLE:** `0x88f88Bb9E66241B73B84f3A6E197FbBa487b1E30`. 
-* **RWA_TOKEN_FAB:** `0x2B3a4c18705e99bC29b22222dA7E10b643658552`.
-* **SYMBOL:** `RWA014`.
-* **NAME:** `RWA-014`.
-* **ILK:** `RWA014-A`.
-* **RWA014:** TBD
-* **MCD_JOIN_RWA014_A:** TBD
-* **RWA014_A_URN:** TBD
-* **RWA014_A_JAR:** TBD
-* **RWA014_A_OUTPUT_CONDUIT:** TBD
-* **RWA014_A_INPUT_CONDUIT_URN:** TBD
-* **RWA014_A_INPUT_CONDUIT_JAR:** TBD
-* **RWA014_A_OPERATOR:** TBD
-* **ETH Address A (Coinbase Custody):** TBD
-
-#### Additional Information
-
-Please review the following forum threads containing information about RWA014 (Coinbase Custody) to inform your position before voting:
-* [Initial MIP Forum Thread](https://forum.makerdao.com/t/mip81-coinbase-usdc-institutional-rewards/17703).
-* [CES Domain Team Assessment](https://forum.makerdao.com/t/rwa014-coinbase-custody-interim-ces-domain-team-assessment/19171/1).
-* [Updated Technical Assessment from dewiz](https://forum.makerdao.com/t/rwa014-coinbase-custody-interim-ces-domain-team-assessment/19171/2).
-* [Strategic Finance Core Unit Legal Assessment](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384).
 
 ### Risk Parameter Changes
 
