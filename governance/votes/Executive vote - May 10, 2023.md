@@ -74,17 +74,17 @@ As per [MIP106](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the fo
 
 #### DAI Vesting Streams
 
-| Ecosystem Actor Name | DAI Amount | Start Date | End Date | Destination Address |
-|---|---|---|---|---|
-| PullUp Auditor Wallet | 3,300,000 | 2023-05-01 | 2024-05-01 | [0x868B44e8191A2574334deB8E7efA38910df941FA](https://etherscan.io/address/0x868B44e8191A2574334deB8E7efA38910df941FA) |
-| Phoenix Labs Auditor Wallet | 1,534,000 | 2023-05-01 | 2024-05-01 | [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) |
+| Ecosystem Actor Name | DAI Amount | Start Date | End Date | Destination Address | Manager |
+|---|---|---|---|---|---|
+| PullUp Wallet | 3,300,000 | 2023-05-01 | 2024-05-01 | [0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c](https://etherscan.io/address/0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c) | [0x9B6213D350A4AFbda2361b6572A07C90c22002F1](https://etherscan.io/address/0x9B6213D350A4AFbda2361b6572A07C90c22002F1) |
+| Phoenix Labs Auditor Wallet | 1,534,000 | 2023-05-01 | 2024-05-01 | [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) | N/A |
 
 #### MKR Vesting Streams
 
-| Ecosystem Actor Name | MKR Amount | Start Date | End Date | Cliff Date | Destination Address |
-|---|---|---|---|---|---|
-| PullUp Auditor Wallet | 4,000 | 2023-05-01 | 2025-05-01 | 2023-05-01 | [0x868B44e8191A2574334deB8E7efA38910df941FA](https://etherscan.io/address/0x868B44e8191A2574334deB8E7efA38910df941FA) |
-| Phoenix Labs Auditor Wallet | 986.25 | 2023-05-01 | 2024-05-01 | 2023-05-01 | [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) |
+| Ecosystem Actor Name | MKR Amount | Start Date | End Date | Cliff Date | Destination Address | Manager |
+|---|---|---|---|---|---|---|
+| PullUp Wallet | 4,000 | 2023-05-01 | 2025-05-01 | 2023-05-01 | [0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c](https://etherscan.io/address/0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c) |  [0x9B6213D350A4AFbda2361b6572A07C90c22002F1](https://etherscan.io/address/0x9B6213D350A4AFbda2361b6572A07C90c22002F1) |
+| Phoenix Labs Auditor Wallet | 986.25 | 2023-05-01 | 2024-05-01 | 2023-05-01 | [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) | N/A |
 
 ### Cancel Vesting Streams
 
