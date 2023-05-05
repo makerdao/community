@@ -86,6 +86,8 @@ As per [MIP106](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the fo
 | PullUp Wallet | 4,000 | 2023-05-01 | 2025-05-01 | 2023-05-01 | [0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c](https://etherscan.io/address/0x42aD911c75d25E21727E45eCa2A9d999D5A7f94c) |  [0x9B6213D350A4AFbda2361b6572A07C90c22002F1](https://etherscan.io/address/0x9B6213D350A4AFbda2361b6572A07C90c22002F1) |
 | Phoenix Labs Auditor Wallet | 986.25 | 2023-05-01 | 2024-05-01 | 2023-05-01 | [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA) | N/A |
 
+*Note:* the PullUp vesting streams have a Manager assigned to them following a discussion between the Ecosystem Facilitators and the PullUp team. This Manager wallet will be allowed to cancel (`yank`) the vesting streams without needing an executive. This was added as an alternative to a more traditional auditor wallet setup.
+
 ### Cancel Vesting Streams
 
 As part of the above entry, the previous vesting streams to Phoenix Labs will be cancelled and replaced with the new vesting streams, if this executive proposal passes.
