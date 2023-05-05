@@ -99,7 +99,7 @@ When a stream is cancelled (by calling `yank`), any funds that have been streame
 
 ### Increase MKR_VEST `cap`
 
-To facilitate the MKR vesting stream to PullUp, the `cap` in the MKR_VEST contract needs to be increased. The `cap` controls the maximum amount of MKR that can be streamed through a single stream in a year, currently it is set to 1,100 MKR. The following change will be made if this executive proposal passes:
+To facilitate the MKR vesting stream to PullUp, the `cap` in the MKR_VEST contract needs to be increased. The `cap` controls the maximum amount of MKR that can be vested through a single stream in a year and is currently set to 1,100 MKR. The following change will be made if this executive proposal passes:
 
 * Increase the `cap` to **2,200 MKR**.
 
