@@ -28,7 +28,6 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-
 ### Gelato Network Parameters
 
 - **Short Name**: GELATO
@@ -40,7 +39,6 @@ The community can vote in this poll to express support or opposition to the foll
 - **Requested Buffer Max**: 20,000 DAI
 - **Vest Target**: 0x0B5a34D084b6A5ae4361de033d1e6255623b41eD
 - **Gelato Treasury**: 0xbfDC6b9944B7EFdb1e2Bc9D55ae9424a2a55b206
-
 
 ### Keep3r Network Parameters
 
@@ -66,7 +64,6 @@ The community can vote in this poll to express support or opposition to the foll
 - **Vest Target**: 0xfB5e1D841BDA584Af789bDFABe3c6419140EC065
 - **Chainlink Network Treasury**: $PENDING
 
-
 ### TechOps Services Parameters
 
 - **Short Name**: TECHOPS
@@ -77,10 +74,6 @@ The community can vote in this poll to express support or opposition to the foll
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
 - **Vest Target**: 0x5A6007d17302238D63aB21407FF600a67765f982
-
-
-
-
 
 Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-amend-keeper-networks/20757) to help inform your position before voting.
 
