@@ -3877,5 +3877,16 @@
     "high-impact",
     "misc-governance",
     "endgame"
+  ],
+  "1000": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1001": [
+    "high-impact",
+    "technical",
+    "misc-funding"
   ]
 }
