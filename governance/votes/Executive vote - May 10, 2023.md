@@ -18,8 +18,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
 - Multiple risk parameters for various collateral types will be updated, as detailed below.
 - The Starknet Bridge Limit will be increased to 5 million DAI, as detailed below.
+- 318,000 DAI will be transferred to Phoenix Labs.
 - DAI and MKR streams will be set up for PullUp, as detailed below.
-- The old streams for Phoenix Labs will be `yank`ed, and new streams will be created, as detailed below.
+- The old streams for Phoenix Labs will be cancelled, and new streams will be created, as detailed below.
 - The `cap` for MKR_VEST will be increased to 2,200 MKR, as detailed below.
 - The DAO Resolution to facilitate onboarding TACO with an exchange agent will be approved.
 
@@ -67,6 +68,12 @@ Further information regarding these changes can be found on the forum [here](htt
 As per [this initial poll](https://vote.makerdao.com/polling/QmUnhQZy) and this [forum update](https://forum.makerdao.com/t/april-26th-2023-spell-starknet-bridge-limit/20589), the Starknet Bridge Limit will be increased as follows, if this executive proposal passes.
 
 * The Starknet Bridge Limit will be increased by 4 million DAI from 1 million DAI to **5 million DAI**.
+
+### Ecosystem Actor DAI Transfer
+
+As per [MIP106](https://mips.makerdao.com/mips/details/MIP106#6-6-2-1a-), the following DAI transfer to Phoenix Labs will be made, if this executive proposal passes:
+
+* Transfer **318,000 DAI** to the Phoenix Labs Auditor Wallet at [0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA](https://etherscan.io/address/0x115F76A98C2268DaE6c1421eb6B08e4e1dF525dA).
 
 ### Vesting Stream Setup
 
