@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 - **Short Name**: GELATO
 - **Website**: [https://app.gelato.network/]( https://app.gelato.network/)
 - **Requested Window Size**: 13
-- **Requested Budget**: 1,000 DAI / day
+- **Requested Budget**: 1,500 DAI / day
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
@@ -47,7 +47,7 @@ The community can vote in this poll to express support or opposition to the foll
 - **Short Name**: KEEP3R
 - **Website**: [https://keep3r.network/]( https://keep3r.network/)
 - **Requested Window Size**: 13
-- **Requested Budget**: 1,000 DAI / day
+- **Requested Budget**: 1,500 DAI / day
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
@@ -59,7 +59,7 @@ The community can vote in this poll to express support or opposition to the foll
 - **Short Name**: CHAINLINK
 - **Website**: [https://chain.link/automation]( https://chain.link/automation)
 - **Requested Window Size**: 13
-- **Requested Budget**: 1,000 DAI / day
+- **Requested Budget**: 1,500 DAI / day
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
@@ -72,7 +72,7 @@ The community can vote in this poll to express support or opposition to the foll
 - **Short Name**: TECHOPS
 - **Website**: [https://techops.services]( https://techops.services)
 - **Requested Window Size**: 13
-- **Requested Budget**: 750 DAI / day
+- **Requested Budget**: 1,000 DAI / day
 - **Requested Stream Duration**: 1 year
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
