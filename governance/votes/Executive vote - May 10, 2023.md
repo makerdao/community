@@ -5,7 +5,7 @@ date: 2023-05-10T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Coinbase Custody Onboarding, Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management - May 10, 2023
+# [Executive Proposal] Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management - May 10, 2023
 
 The Arbitration Facilitator(s), Starknet Engineering, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
