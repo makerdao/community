@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] Offboarding Multiple Vault Types, Constitutional Delegate Compensation, Multiple DAI Budget Streams, MKR Vesting - May 17, 2023
 
-The Arbitration Facilitator(s) and Sidestream Auction Services (--> $check if it's SAS and/or anyone else <---) have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Arbitration Facilitator(s) and Sidestream Auction Services have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
-- Multiple vault types will be offboarded with updated risk parameters, as detailed below. 
+- YFI-A, LINK-A, MATIC-A, and UNIV2USDCETH-A vault types will be offboarded with updated risk parameters, as detailed below. 
 - A total of **190.4 MKR** will be distributed to 11 Constitutional Delegates, as itemized below.
 - DAI streams will be set up for Governance Security Engineering and Multichain Engineering, as detailed below.
 - A total of **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22), as detailed below.
@@ -42,9 +42,13 @@ As per [this poll](https://vote.makerdao.com/polling/QmPwHhLT) the following par
 * Decrease the [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) to **0%**.
 * Increase the [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) to **10,000%**.
 
+Please review the [discussion thread](https://forum.makerdao.com/t/decentralized-collateral-scope-parameter-changes-1-april-2023/20302) to inform your position before voting.
+
 ### Constitutional Delegate Compensation Distribution for April 2023
 
-As per [MIP113](https://mips.makerdao.com/mips/details/MIP113#MIP113c1), a total of **190.4 MKR** will be distributed to 11 Constitutional Delegates as itemized below, if this executive proposal passes:
+As per [MIP113, Article 5.4](https://mips.makerdao.com/mips/details/MIP113#5-4-constitutional-delegate-income-management), a total of **190.4 MKR** will be distributed to 11 Constitutional Delegates as itemized below, if this executive proposal passes:
+
+#### Prime Constitutional Delegates
 
 * 23.8 MKR will be transferred to [0xDefensor](https://forum.makerdao.com/t/0xdefensor-constitutional-delegate-communications/20458) at [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9).
 * 23.8 MKR will be transferred to [BONAPUBLICA](https://forum.makerdao.com/t/bonapublica-constitutional-delegate-recognition-submission/20451) at [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3).
@@ -53,6 +57,9 @@ As per [MIP113](https://mips.makerdao.com/mips/details/MIP113#MIP113c1), a total
 * 23.8 MKR will be transferred to [QGov](https://forum.makerdao.com/t/qgov-ad-recognition-submission/20494) at [0xB0524D8707F76c681901b782372EbeD2d4bA28a6](https://etherscan.io/address/0xB0524D8707F76c681901b782372EbeD2d4bA28a6).
 * 23.8 MKR will be transferred to [TRUE NAME](https://forum.makerdao.com/t/true-name-aligned-delegate-communications-platform/20455) at [0x612F7924c367575a0Edf21333D96b15F1B345A5d](https://etherscan.io/address/0x612F7924c367575a0Edf21333D96b15F1B345A5d).
 * 23.8 MKR will be transferred to [vigilant](https://forum.makerdao.com/t/cd-recognition-submission-vigilant/20457) at [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61).
+
+#### Reserve Constitutional Delegates
+
 * 5.95 MKR will be transferred to [CodeKnight](https://forum.makerdao.com/t/codeknight-constitutional-delegate-communications/20443) at [0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D](https://etherscan.io/address/0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D).
 * 5.95 MKR will be transferred to [Flip Flop Flap Delegate LLC](https://forum.makerdao.com/t/flip-flop-flap-delegate-llc-aligned-delegate-recognition-submission-and-communication/20477) at [0x3d9751EFd857662f2B007A881e05CfD1D7833484](https://etherscan.io/address/0x3d9751EFd857662f2B007A881e05CfD1D7833484).
 * 5.95 MKR will be transferred to [PBG](https://forum.makerdao.com/t/pbg-aligned-delegate-communication-platform/20471) at [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2).
@@ -60,20 +67,20 @@ As per [MIP113](https://mips.makerdao.com/mips/details/MIP113#MIP113c1), a total
 
 ### DAI Budget Streams
 
-As per [MIP107](https://mips.makerdao.com/mips/details/MIP107), the following DAI budget streams will be created if this executive proposal passes:
+As per [MIP107, Articles 6.1.1A and 7.1.1A](https://mips.makerdao.com/mips/details/MIP107#6-1-1a-), the following DAI budget streams will be created if this executive proposal passes:
 
 #### DAI Budget Streams
 
 | Budget | DAI Amount | Start Date | End Date | Destination Address |
 |---|---|---|---|---|
-| Governance Security Engineering | 2,200,000 | 2023-05-01 | 2024-05-01 (--> $check date since it's midnight <---) | [0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0](https://etherscan.io/address/0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0) (--> $source of truth for this address other than spreadsheet? <---) |
- Multichain Engineering | 2,300,000 | 2023-05-01 | 2024-05-01 (--> $check date since it's midnight <---) | [0x868B44e8191A2574334deB8E7efA38910df941FA](https://etherscan.io/address/0x868B44e8191A2574334deB8E7efA38910df941FA) (--> $source of truth for this address other than spreadsheet? <---)|
+| Governance Security Engineering | 2,200,000 | 2023-05-01 | 2024-05-01 | [0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0](https://etherscan.io/address/0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0) |
+ Multichain Engineering | 2,300,000 | 2023-05-01 | 2024-05-01 | [0x868B44e8191A2574334deB8E7efA38910df941FA](https://etherscan.io/address/0x868B44e8191A2574334deB8E7efA38910df941FA) |
 
 Note that these streams are implemented as a [dssvest stream](https://manual.makerdao.com/module-index/module-token-streaming) that is controlled by the Protocol Engineering Facilitators, and paid out to Ecosystem Actors in order to do work necessary for Governance Security Engineering and Multichain Engineering to function properly.
 
 ### Data Insights Core Unit (DIN-001) MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP64#mkr-vesting) **103.16 MKR** (--> $source of truth for MKR amount apart from spreadsheet? <--)will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22) wallet [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F), if this executive proposal passes.
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP64#mkr-vesting) **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22) wallet [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F), if this executive proposal passes.
 
 ## Review
 
