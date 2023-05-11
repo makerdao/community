@@ -145,6 +145,22 @@
       "cuMember": false
     },
     {
+      "voteDelegateAddress": "0x58dc40b5f9f0758ee43b0a208fe362c90fdfad4d",
+      "profile": {
+        "name": "WBC",
+        "description": "# Regenerative Finance CVC\nName: Regenerative Finance CVC\n\nThe Regenerative Finance CVC protects the Public Good purpose of MakerDAO as ratified in the Maker Constitution. Our priority is to advance the role of DAI as an “Unbiased World Currency” that supports “The Regeneration” as may be interpreted through the 8 Principles of a Regenerative Economy published by the Capital Institute (available for reference at [capitalinstitute.org](https://capitalinstitute.org/8-principles-regenerative-economy/)).\n\n# WBC\nDelegate Address: 0xf3eb9d0b62a6a50551bb81b2e723512f5008f368  \nForum: @WBC  \n",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-regenerative-finance-cvc/20354"
+      },
+      "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
+      },
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0x62060879dfBB6dEf3B73CFC48f1f0595c0FeD505",
       "profile": {
         "name": "Pf",
@@ -408,6 +424,22 @@
         "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
       },
       "image": "",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0xb086ec4303dc1514c09618c6c68ee444d6eee041",
+      "profile": {
+        "name": "WBC",
+        "description": "# Growth CVC\nName: Growth CVC\n\n**What is Growth CVC? Growth CVC is a…**\n\n1. **Dovish CVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused CVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth CVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active CVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth CVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public CVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a CVC doesn’t mean Growth CVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from CVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both CVC and facilitators. In addition, any CDs that were banned by other CVCs for “preference” rather than breaking the constitution will have a chance in Growth CVC.\n\n# WBC\nDelegate Address: 0x45b6fb19566c6c23157be023ce394a08a5b16f18  \nForum: @WBC  \n",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+      },
+      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
       "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
