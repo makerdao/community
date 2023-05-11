@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
 - Multiple vault types will be offboarded with updated risk parameters, as detailed below. 
-- A total of **190.4 MKR** will be distributed to 11 Recognized Delegates, as itemized below.
+- A total of **190.4 MKR** will be distributed to 11 Constitutional Delegates, as itemized below.
 - DAI streams will be set up for Governance Security Engineering and Multichain Engineering, as detailed below.
 - A total of **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22), as detailed below.
 
