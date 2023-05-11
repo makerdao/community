@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Risk Parameter Changes, Increase Starknet Bridge Limit, DAI Transfer, Vesting Stream Management, DAO Resolution - May 10, 2023
 summary: Update risk parameters for various collateral types, increase the Starknet Bridge limit to 5 million DAI, DAI transfer to Pheonix Labs, vesting stream management for PullUp and Phoenix Labs, DAO Resolution approval.
 date: 2023-05-10T00:00:00.000Z
-address: "$spell_address"
+address: "0x57C8ea2995a1277B560704792155690FA8a98643"
 
 ---
 # [Executive Proposal] Risk Parameter Changes, Increase Starknet Bridge Limit, Vesting Stream Management - May 10, 2023
