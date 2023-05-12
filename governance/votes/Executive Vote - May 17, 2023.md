@@ -69,14 +69,14 @@ As per [MIP113, Article 5.4](https://mips.makerdao.com/mips/details/MIP113#5-4-c
 
 As per [MIP107, Articles 6.1.1A and 7.1.1A](https://mips.makerdao.com/mips/details/MIP107#6-1-1a-), the following DAI budget streams will be created if this executive proposal passes:
 
-#### DAI Budget Streams
-
 | Budget | DAI Amount | Start Date | End Date | Destination Address |
 |---|---|---|---|---|
 | Governance Security Engineering | 2,200,000 | 2023-05-01 | 2024-05-01 | [0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0](https://etherscan.io/address/0x569fAD613887ddd8c1815b56A00005BCA7FDa9C0) |
  Multichain Engineering | 2,300,000 | 2023-05-01 | 2024-05-01 | [0x868B44e8191A2574334deB8E7efA38910df941FA](https://etherscan.io/address/0x868B44e8191A2574334deB8E7efA38910df941FA) |
 
-Note that these streams are implemented as a [dssvest stream](https://manual.makerdao.com/module-index/module-token-streaming) that is controlled by the Protocol Engineering Facilitators, and paid out to Ecosystem Actors in order to do work necessary for Governance Security Engineering and Multichain Engineering to function properly.
+Note that these streams are implemented as a [dssvest stream](https://manual.makerdao.com/module-index/module-token-streaming) that is controlled by the Ecosystem Scope Facilitators, and paid out to Ecosystem Actors in order to do work necessary for Governance Security Engineering and Multichain Engineering to function properly. 
+
+For more information about these budget streams, see the forum post [here](). 
 
 ### Data Insights Core Unit (DIN-001) MKR Transfer
 
