@@ -26,7 +26,7 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding GNO (Gnosis) to Spark Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding GNO (Gnosis) to Spark Protocol.
 
 ### Spark Onboarding Parameters
 
@@ -45,6 +45,10 @@ This poll allows the MakerDAO governance community to signal their support or op
 Please review the proposal [thread](https://forum.makerdao.com/t/onboarding-of-gno-to-spark/20831) for more information about this proposed onboarding.
 
 An updated risk evaluation has been provided by BA Labs and can be found [here](https://forum.makerdao.com/t/onboarding-of-gno-to-spark/20831/9). 
+
+### Activate Isolation Mode for DAI Market On Spark Protocol
+
+This setting change will allow DAI to be borrowed using isolation mode enabled assets on Spark Protocol. It is a one-off change that is required given the onboarding of GNO as the first isolation mode enabled asset on Spark.
 
 ### Reduce GNO-A Debt Ceiling to Zero
 
