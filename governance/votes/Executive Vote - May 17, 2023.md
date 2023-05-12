@@ -15,10 +15,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
+If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - YFI-A, LINK-A, MATIC-A, and UNIV2USDCETH-A vault types will be offboarded with updated risk parameters, as detailed below. 
 - A total of **190.4 MKR** will be distributed to 11 Constitutional Delegates, as itemized below.
-- DAI streams will be set up for Governance Security Engineering and Multichain Engineering, as detailed below.
+- DAI streams will be set up for Governance Security Engineering and Multichain Engineering budgets, as detailed below.
 - A total of **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22), as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -80,7 +80,7 @@ For more information about these budget streams, see the forum post [here](https
 
 ### Data Insights Core Unit (DIN-001) MKR Transfer
 
-As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP64#mkr-vesting) **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22) wallet [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F), if this executive proposal passes.
+As per their successful [MKR vesting proposal](https://mips.makerdao.com/mips/details/MIP40c3SP64#mkr-vesting), **103.16 MKR** will be transferred to the [Data Insights Core Unit (DIN-001)](https://mips.makerdao.com/mips/details/MIP39c2SP22) wallet [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F), if this executive proposal passes.
 
 ## Review
 
