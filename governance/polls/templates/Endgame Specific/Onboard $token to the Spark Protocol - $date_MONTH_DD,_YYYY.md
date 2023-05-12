@@ -51,7 +51,7 @@ A risk evaluation has been provided by $risk-provider and can be found [here]($r
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * $short-token ($long-token) will be onboarded to Spark Protocol in a future executive vote as the technical resource schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in the Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
