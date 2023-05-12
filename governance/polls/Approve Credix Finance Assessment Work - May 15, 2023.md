@@ -1,6 +1,6 @@
 ---
 title: Approve Credix Finance Assessment Work - May 15, 2023
-summary: Approve deployment of Steakhouse Financial resource to assess the Credix Finance Maker Arranger Proposal
+summary: Approve deployment of Steakhouse Financial resources to assess the Credix Finance Maker Arranger Proposal
 discussion_link: https://forum.makerdao.com/t/maker-arranger-proposal-credix-finance/20517/16
 parameters:
     input_format: single-choice
