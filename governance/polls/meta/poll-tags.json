@@ -3888,5 +3888,21 @@
     "high-impact",
     "technical",
     "misc-funding"
+  ],
+  "1002": [
+    "high-impact",
+    "collateral-onboard",
+    "spark"
+  ],
+  "1003": [
+    "low-impact",
+    "technical",
+    "real-world-assets",
+    "risk-parameter"
+  ],
+  "1004": [
+    "medium-impact",
+    "real-world-assets",
+    "greenlight"
   ]
 }
