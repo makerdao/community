@@ -1,6 +1,6 @@
 ---
 title: Adjust BlockTower Credit Debt Ceilings - May 15, 2023
-summary: Signal your support or opposition to Adjust BlockTower Credit Debt Ceilings.
+summary: Signal your support or opposition to adjusting the BlockTower Credit Debt Ceilings.
 discussion_link: https://forum.makerdao.com/t/blocktower-credit-rwa-vaults-parameters-shift/20707
 parameters:
     input_format: single-choice
