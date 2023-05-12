@@ -31,7 +31,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 ### Spark Onboarding Parameters
 
 **Token:** GNO  
-**Token Address:** [0x6810e776880C02933D47DB1b9fc05908e5386b96](https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96)
+**Token Address:** [0x6810e776880C02933D47DB1b9fc05908e5386b96](https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96)  
 **Oracle:** Maker Medianizer via adaptor  
 **Oracle Provider:** Chronicle  
 **Borrow Enabled:** No  
