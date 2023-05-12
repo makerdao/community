@@ -1,6 +1,6 @@
 ---
-title: Onboard $short-token to the Spark Protocol - $date_MONTH_DD,_YYYY
-summary: This poll proposes onboarding $short-token ($long-token) to the Spark Protocol with included parameters.
+title: Onboard $short-token to Spark Protocol - $date_MONTH_DD,_YYYY
+summary: Onboard $short-token ($long-token) to Spark Protocol with included parameters.
 discussion_link: $proposal_thread
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# Poll: Onboard $short-token to the Spark Protocol - $date_MONTH_DD,_YYYY
+# Poll: Onboard $short-token to Spark Protocol - $date_MONTH_DD,_YYYY
 
 The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -26,13 +26,13 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding $short-token ($long-token) to the Spark Protocol with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding $short-token ($long-token) to Spark Protocol with the parameters below:
 
 ### Spark Parameters
 
 * Token: $short-token
 * Token Address: $token-address
-* Oracle: $oracle-address
+* Oracle: $oracle
 * Oracle Provider: $oracle-provider
 * Borrow Enabled: $YesNo
 * Collateral Enabled: $YesNo
@@ -51,7 +51,7 @@ A risk evaluation has been provided by $risk-provider and can be found [here]($r
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * $short-token ($long-token) will be onboarded to Spark Protocol in a future executive vote as the technical resource schedule allows.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in the Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
