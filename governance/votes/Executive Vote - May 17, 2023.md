@@ -76,7 +76,7 @@ As per [MIP107, Articles 6.1.1A and 7.1.1A](https://mips.makerdao.com/mips/detai
 
 Note that these streams are implemented as a [dssvest stream](https://manual.makerdao.com/module-index/module-token-streaming) that is controlled by the Ecosystem Scope Facilitators, and paid out to Ecosystem Actors in order to do work necessary for Governance Security Engineering and Multichain Engineering to function properly. 
 
-For more information about these budget streams, see the forum post [here](). 
+For more information about these budget streams, see the forum post [here](https://forum.makerdao.com/t/scope-funding-update/20848). 
 
 ### Data Insights Core Unit (DIN-001) MKR Transfer
 
