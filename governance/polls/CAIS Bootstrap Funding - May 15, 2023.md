@@ -17,7 +17,7 @@ end_date: 2023-05-18T16:00:00
 ---
 # Poll: CAIS Bootstrap Funding - May 15, 2023
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 15 at 16:00 UTC.
+The Ecosystem Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 15 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
