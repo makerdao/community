@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Offboarding Multiple Vault Types, Constitutional Delegate Compensation, Multiple DAI Budget Streams, MKR Vesting - May 17, 2023
 summary: Set final offboarding parameters for multiple vault types, Constitutional Delegate compensation MKR transfers for April 2023, multiple DAI budget streams, Data Insights Core Unit (DIN-001) MKR vesting transfer.
 date: 2023-05-17T00:00:00.000Z
-address: "$spell_address"
+address: "0xa1c423ee0bbc927ef5809c7ebb24c86d4284e431"
 
 ---
 # [Executive Proposal] Offboarding Multiple Vault Types, Constitutional Delegate Compensation, Multiple DAI Budget Streams, MKR Vesting - May 17, 2023
