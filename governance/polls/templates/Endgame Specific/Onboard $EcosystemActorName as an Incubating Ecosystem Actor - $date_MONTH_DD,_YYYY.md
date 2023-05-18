@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on $date_DAY,_MONTH_DD at 16:30 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) has been posted as per [MIP106c2.6.6.2.1A](https://mips.makerdao.com/mips/details/MIP106#6-6-current-incubating-ecosystem-actors) and will be active for three days beginning on $date_DAY,_MONTH_DD at 16:30 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -38,7 +38,7 @@ Their relevant details are as follows:
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * The Ecosystem Actor will be recognized as an Incubating Ecosystem Actor.
-* Any relevant actions will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* Any relevant actions will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 

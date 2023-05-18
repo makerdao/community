@@ -1,5 +1,5 @@
 ---
-title: Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
+title: Appoint $appointed_entity as Oracle Light Feed ($oracle_appointment_number) - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for appointing $appointed_entity as Oracle Light Feed
 discussion_link: $discussion_link
 parameters:
@@ -15,11 +15,9 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# Appoint $appointed_entity as Oracle Light Feed (MIP10c14-SP$sp_number) - $date_MONTH_DD,_YYYY
+# Appoint $appointed_entity as Oracle Light Feed ($oracle_appointment_number) - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the Oracle Domain Team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
-
-Note: This subproposal has been submitted under the informal weekly cycle rather than the MIP3 Governance Cycle due to inconsistencies between MIP10 and MIP3 and to avoid delaying progress in the oracles domain until MIP10 can be amended.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -28,14 +26,14 @@ Note: This subproposal has been submitted under the informal weekly cycle rather
 
 ## Review
 
-The community can vote in this poll to express support or opposition to appointing $appointed_entity as an [Oracle Light Feed](https://mips.makerdao.com/mips/details/MIP10#feeds-).
+The community can vote in this poll to express support or opposition to appointing $appointed_entity as an Oracle Light Feed.
 
 Please review the application [thread]($discussion_link) to inform your position on this issue before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
