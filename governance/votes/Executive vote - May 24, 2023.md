@@ -30,7 +30,6 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
-
 ---
 
 ## Proposal Details
