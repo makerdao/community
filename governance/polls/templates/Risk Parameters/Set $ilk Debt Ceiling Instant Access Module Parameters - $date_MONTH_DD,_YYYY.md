@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Set $ilk Debt Ceiling Instant Access Module Parameters - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the Risk Core Unit. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. The community can vote in this poll to express support or opposition to using the Debt Ceiling Instant Access Module for $ilk with the listed parameters.
 
 This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
@@ -41,7 +41,7 @@ For more information regarding the Debt Ceiling Instant Access Module and how th
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These parameter changes will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* These parameter changes will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 

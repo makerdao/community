@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Investigate Implementation of a $collateral-like - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the MakerDAO Community. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,16 +26,13 @@ The Arbitration Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-This poll asks whether a $collateral-like should be prioritized for inclusion in the Maker Protocol by the [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state) and [Domain Teams](https://mips.makerdao.com/mips/details/MIP7#mip7c2-the-current-domain-roles-list).
+This poll asks whether a $collateral-like should be prioritized for inclusion in the Maker Protocol by the $poll_source.
 
 Please review the discussion [thread]($proposal_thread) to help inform your position before voting.
 
 ## Outcomes
 
-**Regardless of the winning option the following actions will be taken at the conclusion of this poll:**
-* A $collateral-like vault-type will be added to the [Collateral Status Index](https://docs.google.com/spreadsheets/d/1PDf_CzhGa7mLuOUfX6Bz3WrnCjDRhIjmu-vDZMMw4Qc/edit#gid=1077340672) by the Collateral Engineering Services Core Unit.
-* This $collateral-like will be added with a 'greenlight score' calculated using the outcome of this poll using the formula `Score = 'Yes' Votes - 'No' Votes`
-* The Core Units and Domain Teams will use the Collateral Status Index to direct their work on onboarding new vault-types.
+Regardless of the winning option, the relevant Scope Facilitators will use the results of this poll to direct their work on onboarding new vault-types. 
 
 ---
 
