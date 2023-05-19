@@ -1,7 +1,7 @@
 ---
-combined_participation: No Data
-poll_participation: No Data
-exec_participation: No Data
+combined_participation: 0%
+poll_participation: 0%
+exec_participation: 0%
 communication: No Data
 start_date: 2023-04-11T00:00:00.000Z
 ---
