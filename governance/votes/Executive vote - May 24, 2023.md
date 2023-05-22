@@ -5,9 +5,9 @@ date: 2023-05-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Coinbase Custody Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark GNO Onboarding and Associated Changes - May 24, 2023
+# [Executive Proposal] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark GNO Onboarding and Associated Changes - May 24, 2023
 
-The Arbitration Facilitators and -->$exec_crafter??<-- have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Arbitration Facilitators, dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -17,8 +17,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Maker Keeper Network DAI [dss-vest](https://manual.makerdao.com/module-index/module-token-streaming) streams will be amended with new parameters, as detailed below.
-- A total of **100,000 DAI** will be transferred to --->$address<--- to bootstrap the Core Artificial Intelligence System (CAIS), as detailed below.
-- The Maximum Debt Ceiling for GNO-A will be set to 0 DAI, as detailed below.
+- A total of **100,000 DAI** will be transferred to the Protocol Facilitators to bootstrap the Core Artificial Intelligence System (CAIS), as detailed below.
+- The Debt Ceiling for GNO-A will be set to 0 DAI, as detailed below.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - RWA014 (Coinbase Custody) will be onboarded as a new vault type, as detailed below.
@@ -27,6 +27,8 @@ If this executive proposal passes, the following **additions** will be made to t
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
@@ -46,7 +48,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmdRELY7) Coinbase Custody 
 * Oracle Price: **500 million DAI**.
 * Debt write-off timelock (`tau`): **0**.
 * Liquidation Process: Will use the established RWA collateral contracts. See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): **TBD** --> $I added this, please check <---
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): **TBD**
 
 #### Relevant Smart Contract Information
 
@@ -55,15 +57,15 @@ As per [this poll](https://vote.makerdao.com/polling/QmdRELY7) Coinbase Custody 
 * **SYMBOL:** `RWA014`.
 * **NAME:** `RWA-014`.
 * **ILK:** `RWA014-A`.
-* **RWA014:** TBD
-* **MCD_JOIN_RWA014_A:** TBD
-* **RWA014_A_URN:** TBD
-* **RWA014_A_JAR:** TBD
-* **RWA014_A_OUTPUT_CONDUIT:** TBD
-* **RWA014_A_INPUT_CONDUIT_URN:** TBD
-* **RWA014_A_INPUT_CONDUIT_JAR:** TBD
-* **RWA014_A_OPERATOR:** TBD
-* **ETH_Address_A (USDC Wallet In):** TBD --> $This is different from the previous exec text, please check <---
+* **RWA014:** `0x75dCa04C4aCC1FfB0AEF940e5b49e2C17416008a`.
+* **MCD_JOIN_RWA014_A:** `0xAd722E51569EF41861fFf5e11942a8E07c7C309e`.
+* **RWA014_A_URN:** `0xf082566Ac42566cF7B392C8e58116a27eEdcBe63`.
+* **RWA014_A_JAR:** `0x71eC6d5Ee95B12062139311CA1fE8FD698Cbe0Cf`.
+* **RWA014_A_OUTPUT_CONDUIT:** `0xD7cBDFdE553DE2063caAfBF230Be135e5DbB5064`.
+* **RWA014_A_INPUT_CONDUIT_URN:** `0x6B86bA08Bd7796464cEa758061Ac173D0268cf49`.
+* **RWA014_A_INPUT_CONDUIT_JAR:** `0x391470cD3D8307AdC051d878A95Fa9459F800Dbc`.
+* **RWA014_A_OPERATOR:** `0x3064D13712338Ee0E092b66Afb3B054F0b7779CB`.
+* **ETH_Address_A (USDC Wallet In):** `0x2E5F1f08EBC01d6136c95a40e19D4c64C0be772c`.
 
 #### Additional Information
 
@@ -71,11 +73,11 @@ Please review the following forum threads containing information about RWA014 (C
 * [Initial MIP Forum Thread](https://forum.makerdao.com/t/mip81-coinbase-usdc-institutional-rewards/17703).
 * [CES Domain Team Assessment](https://forum.makerdao.com/t/rwa014-coinbase-custody-interim-ces-domain-team-assessment/19171/1).
 * [Updated Technical Assessment from dewiz](https://forum.makerdao.com/t/rwa014-coinbase-custody-interim-ces-domain-team-assessment/19171/2).
-* [Strategic Finance Core Unit Legal Assessment](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384).
+* [Steakhouse Financial Legal Assessment](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384).
 
 ### Keeper Network Amendments
 
-As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Keeper Network parameters will be amended, as detailed below, if this executive proposal passes. -->$Mention old parameters below?<---
+As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Keeper Network parameters will be amended, as detailed below, if this executive proposal passes.
 
 #### Gelato Network Parameters
 
@@ -111,7 +113,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
 - **Vest Target**: 0xfB5e1D841BDA584Af789bDFABe3c6419140EC065
-- **Chainlink Network Treasury**: $PENDING
+- **Chainlink Network Treasury**: Not being added in this spell
 
 #### TechOps Services Parameters
 
@@ -124,31 +126,36 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Buffer Max**: 20,000 DAI
 - **Vest Target**: 0x5A6007d17302238D63aB21407FF600a67765f982
 
+#### Cancel Previous Chainlink Automation Stream
+
+As a new stream is being setup for Chainlink Automation the old stream DAI stream ID 16 for this keeper will be cancelled.
+
 Please review the discussion [thread](https://forum.makerdao.com/t/poll-notice-amend-keeper-networks/20757) to help inform your position before voting.
 
 ### CAIS Bootstrap Funding
 
-As per [this poll](https://vote.makerdao.com/polling/Qmc6Wqrc), a total of **100,000 DAI** will be transferred to -->$wallet_owner$<--- at -->$address <--- to bootstrap the Core Artificial Intelligence System (CAIS). 
+As per [this poll](https://vote.makerdao.com/polling/Qmc6Wqrc), a total of **100,000 DAI** will be transferred to the Protocol Facilitators at [0x6E51E0b5813152880C1389E3e860e69E06aD04D9](https://etherscan.io/address/0x6E51E0b5813152880C1389E3e860e69E06aD04D9) to bootstrap the Core Artificial Intelligence System (CAIS). 
 
 Please review the [MIP106, Article 10.3.1.1A](https://mips.makerdao.com/mips/details/MIP106#10-3-1-1a-) for more details on the CAIS Bootstrapping Budget and the discussion [thread](https://forum.makerdao.com/t/funding-request-for-core-artificial-intelligence-system-cais-project/20867) to help inform your position before voting.
 
-### Spark GNO Onboarding and Maker GNO Debt Ceiling
+### Spark GNO Onboarding and Maker GNO-A Debt Ceiling Reduction
 
 As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will be onboarded to Spark Protocol as detailed below, if this executive proposal passes. Additionally, the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for the GNO-A vaults in the Maker Protocol will be set to **0 DAI**, if this executive proposal passes.
 
 #### Spark Onboarding Parameters
 
-**Token:** GNO  
-**Token Address:** [0x6810e776880C02933D47DB1b9fc05908e5386b96](https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96)  
-**Oracle:** Maker Medianizer via adaptor  
-**Oracle Provider:** Chronicle  
-**Borrow Enabled:** No  
-**Collateral Enabled:** Yes  
-**[Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled:** Yes  
-**Isolation Mode Debt Ceiling:** 5 million USD  
-**Loan To Value:** 20%  
-**Liquidation Threshold:** 25%  
-**Liquidation Bonus:** 10%  
+* **Token:** `GNO`.
+* **Token Address:** [0x6810e776880C02933D47DB1b9fc05908e5386b96](https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96).
+* **Oracle:** Maker Medianizer via adaptor.
+* **Oracle Provider:** Chronicle.
+* **Mainnet Oracle Address:** [0xe7fb468e1514267b2c92074852fde750c6e97668](https://etherscan.io/address/0xe7fb468e1514267b2c92074852fde750c6e97668).
+* **GNO Borrow Enabled:** No.
+* **GNO Collateral Use Enabled:** Yes.
+* **[Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled:** Yes.
+* **Isolation Mode Debt Ceiling:** 5 million USD.
+* **Loan To Value:** 20%.
+* **Liquidation Threshold:** 25%.
+* **Liquidation Bonus:** 10%.
 
 #### Activate Isolation Mode for DAI Market On Spark Protocol
 
@@ -156,7 +163,7 @@ This setting change will allow DAI to be borrowed using isolation mode enabled a
 
 #### Reduce GNO-A Debt Ceiling to Zero
 
-In order to manage maximum total exposure to GNO (Gnosis), the GNO-A vault in the Maker Protocol will have its Debt Ceiling reduced to zero.
+In order to manage maximum total exposure to GNO (Gnosis), the GNO-A vault in the Maker Protocol will have its Debt Ceiling reduced to zero and will be removed from the Autoline.
 
 #### Additional Information
 
