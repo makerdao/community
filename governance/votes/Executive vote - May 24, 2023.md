@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Coinbase Custody Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark GNO Onboarding and Associated Changes - May 24, 2023
-summary: Onboard Coinbase Custody as RWA014-A, Amend Maker Keeper Network DAI streams with new parameters, DAI transfer for Core Artificial Intelligence System (CAIS) bootstrap funding, Onboard GNO on Spark Protocol and set the GNO Debt Ceiling on Maker to zero.
+title: Template - [Executive Vote] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 24, 2023
+summary: Onboard Coinbase Custody as RWA014-A, Amend Maker Keeper Network DAI streams with new parameters, DAI transfer for Core Artificial Intelligence System (CAIS) bootstrap funding, Onboard GNO on Spark Lend and set the GNO Debt Ceiling on Maker to zero.
 date: 2023-05-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark GNO Onboarding and Associated Changes - May 24, 2023
+# [Executive Proposal] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 24, 2023
 
 The Arbitration Facilitators, dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -22,7 +22,7 @@ If this executive proposal passes, the following **changes** will occur within t
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - RWA014 (Coinbase Custody) will be onboarded as a new vault type, as detailed below.
-- GNO (Gnosis) will be onboarded to Spark Protocol, as detailed below.
+- GNO (Gnosis) will be onboarded to Spark Lend, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -140,7 +140,7 @@ Please review the [MIP106, Article 10.3.1.1A](https://mips.makerdao.com/mips/det
 
 ### Spark GNO Onboarding and Maker GNO-A Debt Ceiling Reduction
 
-As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will be onboarded to Spark Protocol as detailed below, if this executive proposal passes. Additionally, the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for the GNO-A vaults in the Maker Protocol will be set to **0 DAI**, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will be onboarded to Spark Lend as detailed below, if this executive proposal passes. Additionally, the [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) for the GNO-A vaults in the Maker Protocol will be set to **0 DAI**, if this executive proposal passes.
 
 #### Spark Onboarding Parameters
 
@@ -157,9 +157,9 @@ As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will
 * **Liquidation Threshold:** 25%.
 * **Liquidation Bonus:** 10%.
 
-#### Activate Isolation Mode for DAI Market On Spark Protocol
+#### Activate Isolation Mode for DAI Market On Spark Lend
 
-This setting change will allow DAI to be borrowed using isolation mode enabled assets on Spark Protocol. It is a one-off change that is required given the onboarding of GNO as the first isolation mode enabled asset on Spark.
+This setting change will allow DAI to be borrowed using isolation mode enabled assets on Spark Lend. It is a one-off change that is required given the onboarding of GNO as the first isolation mode enabled asset on Spark.
 
 #### Reduce GNO-A Debt Ceiling to Zero
 
