@@ -88,8 +88,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
-- **Vest Target**: 0x0B5a34D084b6A5ae4361de033d1e6255623b41eD
-- **Gelato Treasury**: 0xbfDC6b9944B7EFdb1e2Bc9D55ae9424a2a55b206
+- **Vest Target**: [0x0B5a34D084b6A5ae4361de033d1e6255623b41eD](https://etherscan.io/address/0x0B5a34D084b6A5ae4361de033d1e6255623b41eD)
+- **Gelato Treasury**: [0xbfDC6b9944B7EFdb1e2Bc9D55ae9424a2a55b206](https://etherscan.io/address/0xbfDC6b9944B7EFdb1e2Bc9D55ae9424a2a55b206)
 
 #### Keep3r Network Parameters
 
@@ -100,8 +100,8 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
-- **Vest Target**: 0xaeFed819b6657B3960A8515863abe0529Dfc444A
-- **Keep3r Network Treasury**: 0x4DfC6DA2089b0dfCF04788b341197146Ea97f743
+- **Vest Target**: [0xaeFed819b6657B3960A8515863abe0529Dfc444A](https://etherscan.io/address/0xaeFed819b6657B3960A8515863abe0529Dfc444A)
+- **Keep3r Network Treasury**: [0x4DfC6DA2089b0dfCF04788b341197146Ea97f743](https://etherscan.io/address/0x4DfC6DA2089b0dfCF04788b341197146Ea97f743)
 
 #### Chainlink Automation Parameters
 
@@ -112,7 +112,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Stream Duration**: 3 years
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
-- **Vest Target**: 0xfB5e1D841BDA584Af789bDFABe3c6419140EC065
+- **Vest Target**: [0xfB5e1D841BDA584Af789bDFABe3c6419140EC065](https://etherscan.io/address/0xfB5e1D841BDA584Af789bDFABe3c6419140EC065)
 - **Chainlink Network Treasury**: Not being added in this spell
 
 #### TechOps Services Parameters
@@ -124,7 +124,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmZZJcCj) the following Kee
 - **Requested Stream Duration**: 1 year
 - **Requested Minimum Payment**: 4,000 DAI
 - **Requested Buffer Max**: 20,000 DAI
-- **Vest Target**: 0x5A6007d17302238D63aB21407FF600a67765f982
+- **Vest Target**: [0x5A6007d17302238D63aB21407FF600a67765f982](https://etherscan.io/address/0x5A6007d17302238D63aB21407FF600a67765f982)
 
 #### Cancel Previous Chainlink Automation Stream
 
