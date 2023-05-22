@@ -148,7 +148,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will
 * **Token Address:** [0x6810e776880C02933D47DB1b9fc05908e5386b96](https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96).
 * **Oracle:** Maker Medianizer via adaptor.
 * **Oracle Provider:** Chronicle.
-* **Mainnet Oracle Address:** [0xe7fb468e1514267b2c92074852fde750c6e97668](https://etherscan.io/address/0xe7fb468e1514267b2c92074852fde750c6e97668).
+* **Mainnet Oracle Address:** [0x4A7Ad931cb40b564A1C453545059131B126BC828](https://etherscan.io/address/0x4A7Ad931cb40b564A1C453545059131B126BC828).
 * **GNO Borrow Enabled:** No.
 * **GNO Collateral Use Enabled:** Yes.
 * **[Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled:** Yes.
