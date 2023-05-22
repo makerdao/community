@@ -48,7 +48,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmdRELY7) Coinbase Custody 
 * Oracle Price: **500 million DAI**.
 * Debt write-off timelock (`tau`): **0**.
 * Liquidation Process: Will use the established RWA collateral contracts. See [MIP21](https://mips.makerdao.com/mips/details/MIP21) for details.
-* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): **TBD**
+* [RWA Agreement](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement): QmT2Dr1tTw4idtVXZHxjT5Cs22KsNJyZgmYy9LGf9kR7vU - [view here](https://gateway.pinata.cloud/ipfs/QmT2Dr1tTw4idtVXZHxjT5Cs22KsNJyZgmYy9LGf9kR7vU).
 
 #### Relevant Smart Contract Information
 
