@@ -159,11 +159,13 @@ As per [this poll](https://vote.makerdao.com/polling/QmXdGdxS) GNO (Gnosis) will
 
 #### Activate Isolation Mode for DAI Market On Spark Lend
 
-This setting change will allow DAI to be borrowed using isolation mode enabled assets on Spark Lend. It is a one-off change that is required given the onboarding of GNO as the first isolation mode enabled asset on Spark.
+This setting change will allow DAI to be borrowed using isolation mode enabled assets as collateral on Spark Lend. 
+
+This is a one-off change that is required given the onboarding of GNO as the first isolation mode enabled asset on Spark. It will apply to all future assets onboarded in isolation mode.
 
 #### Reduce GNO-A Debt Ceiling to Zero
 
-In order to manage maximum total exposure to GNO (Gnosis), the GNO-A vault in the Maker Protocol will have its Debt Ceiling reduced to zero and will be removed from the Autoline.
+In order to manage maximum total exposure to GNO (Gnosis), the GNO-A vault in the Maker Protocol will have its Debt Ceiling reduced to **0 DAI** and will be removed from the Autoline.
 
 #### Additional Information
 
