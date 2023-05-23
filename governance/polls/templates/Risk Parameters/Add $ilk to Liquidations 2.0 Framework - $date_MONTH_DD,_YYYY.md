@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Add $ilk to Liquidations 2.0 Framework - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the MakerDAO mandated actors. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -51,7 +51,7 @@ Please review the following [Risk Evaluation]($risk_link) containing information
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
-* $ilk will be added to the Liquidations 2.0 System by a future executive vote as the Protocol Engineering Core Unit's schedule allows.
+* $ilk will be added to the Liquidations 2.0 System by a future executive vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 

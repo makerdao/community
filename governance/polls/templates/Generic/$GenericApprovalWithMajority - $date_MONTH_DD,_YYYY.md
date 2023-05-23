@@ -27,7 +27,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll:$GenericChange - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is an approval vote to select a single winning outcome.**
 - **You may vote for multiple options.**
@@ -47,7 +47,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 ## Outcomes
 
 **The winner of this vote requires an overall majority of votes to support it. The non-`Abstain` option with the most votes AND the support of a majority of votes is deemed the winner and the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote as the Protocol Engineering Core Unit's schedule allows.
+* This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
