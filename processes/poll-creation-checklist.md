@@ -3,6 +3,8 @@
 
 ## Creation
 
+Complete once for each poll.
+
 - [ ] Sync Community Git
 - [ ] Ensure you are working from latest master branch
 - [ ] Read Associated 'Proposal' / 'Request For Poll' post in full
@@ -21,8 +23,10 @@
 
 ## Self-Review
 
+Complete once for each poll, once all polls created.
+
 - [ ] Does filename have .md extension?
-- [ ] Does filename contain banned characters? <>:"/\?*|
+- [ ] Does filename contain banned characters?  <>:"/\?*|
 - [ ] Do titles contain banned characters?  <>:"/\?*
 - [ ] Are poll options too long?  (Less than 30 characters as rough guide)
 - [ ] Do options have distinct numbers in preamble?
@@ -39,10 +43,13 @@
 - [ ] Are outcomes clear and comprehensive?
 - [ ] Do any '$' parameter signifiers remain?
 - [ ] Does poll summary accurately reflect poll content?
+- [ ] Inform reviewer that the poll is ready to review
 
-## Final
+## Final Creation
+
+Complete once for each poll.
 
 - [ ] Read poll text in full with above points in mind
 - [ ] Run through Grammarly free (make edits if necessary)
 - [ ] Create PR to push changes to main branch repo.
-- [ ] Inform reviewer that the poll is ready to review
+
