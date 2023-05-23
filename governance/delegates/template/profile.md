@@ -1,13 +1,13 @@
 ---
 name: <Delegate Name>
-external_profile_url: <Link to CVC>
-cvc_name: <CVC>
+external_profile_url: <Link to AVC>
+avc_name: <AVC>
 ---
 
-# <CVC Strategy Name>
-Name: <CVC Name>
+# <AVC Strategy Name>
+Name: <AVC Name>
 
-(provided by CVC)
+(provided by AVC)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
 
 # Delegate Name

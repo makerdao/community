@@ -1,17 +1,17 @@
 ---
 name: vigilant
 external_profile_url: https://forum.makerdao.com/t/cvc-creation-kiss-cvc/20346
-cvc_name: KISS CVC
+avc_name: KISS AVC
 ---
 
-# KISS CVC
-Name: KISS CVC
+# KISS AVC
+Name: KISS AVC
 
 The purposes and values of MakerDAO as stated in the MIP101 draft have generated a lot interest and discussions in the MakerDAO community and, ultimately, and are currently being voted and approved. 
 
-The KISS CVC embraces this result and believes that the ENDGAME can deliver great value. Now it is time to join forces and collaboratively contribute to its improvement during the RFC phase. The KISS CVC greatly values the many constructive criticisms that have been discussed along the way, and those that will be pushed forward in the future (a "scientific", not "ideological", approach to governance).
+The KISS AVC embraces this result and believes that the ENDGAME can deliver great value. Now it is time to join forces and collaboratively contribute to its improvement during the RFC phase. The KISS AVC greatly values the many constructive criticisms that have been discussed along the way, and those that will be pushed forward in the future (a "scientific", not "ideological", approach to governance).
 
-Ultimately the KISS CVC thinks that the ENDGAME is a great opportunity for MakerDAO.
+Ultimately the KISS AVC thinks that the ENDGAME is a great opportunity for MakerDAO.
 
 **OUR VIEW ON MAKERDAO**
 
@@ -33,17 +33,17 @@ Also the construction and deployment of a stellar probe, like the Voyager progra
 3) Keep it simple stupid! (KISS)
 Simple yet effective structures can be used to understand and manage extremely complex projects. Keeping structures simple and transparent and avoiding the (often natural) "complexity explosion" is not easy. It needs constant attention and work. 
 
-The KISS CVC will use its influence and power to achieve Goals 1&2 by means of the KISS approach: embrace complexity, pretend simplicity, and maintain simple structures. 
+The KISS AVC will use its influence and power to achieve Goals 1&2 by means of the KISS approach: embrace complexity, pretend simplicity, and maintain simple structures. 
 
 The two Goals 1&2 are clear. Everything that has a scientifically proven likelihood of achieving these goals, within the given amount of resources, will be supported. All the rest will be rejected as "out of focus for now". 
 
 **Where do we sit in the Dove/Hawk spectrum?**
 
-The ENDGAME plan proposed by Rune is compatible with the KISS principle when it requires CVCs to be broadly classified in two categories: Doves or Hawks. 
+The ENDGAME plan proposed by Rune is compatible with the KISS principle when it requires AVCs to be broadly classified in two categories: Doves or Hawks. 
 
-Of course, a binary description of this type does not capture the immense variety of viewpoints of all CVCs, not to mention of the MKR-holders within a given CVC. But it is useful in simplifying the landscape (KISS!)
+Of course, a binary description of this type does not capture the immense variety of viewpoints of all AVCs, not to mention of the MKR-holders within a given AVC. But it is useful in simplifying the landscape (KISS!)
 
-**=>** The KISS CVC sits on the **Hawkish** side of the spectrum.
+**=>** The KISS AVC sits on the **Hawkish** side of the spectrum.
 
 # vigilant
 Delegate Address: 0xC2DAea14891Fc47Ee76368Ce7c54C7b200FbA672  
