@@ -1,15 +1,15 @@
 ---
 name: 0xDefensor
 external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
-cvc_name: Resiliency CVC
+avc_name: Resiliency AVC
 ---
 
-# Resiliency CVC
-Name: Resiliency CVC
+# Resiliency AVC
+Name: Resiliency AVC
 
-**What is the Resiliency CVC? The Resiliency CVC is…**
+**What is the Resiliency AVC? The Resiliency AVC is…**
 
-The Resiliency CVC is
+The Resiliency AVC is
 
 1. Resilient- MakerDAO ought to endure the test of time.
 
