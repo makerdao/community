@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 24, 2023
+title: Template - [Executive Vote] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 25, 2023
 summary: Onboard Coinbase Custody as RWA014-A, Amend Maker Keeper Network DAI streams with new parameters, DAI transfer for Core Artificial Intelligence System (CAIS) bootstrap funding, Onboard GNO on Spark Lend and set the GNO Debt Ceiling on Maker to zero.
-date: 2023-05-24T00:00:00.000Z
-address: "$spell_address"
+date: 2023-05-25T00:00:00.000Z
+address: "0xB70254F2C2C342fB3B168cDa1E43db1E43Ab8DE1"
 
 ---
-# [Executive Proposal] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 24, 2023
+# [Executive Proposal] Coinbase Custody (RWA014) Onboarding, Keeper Network Amendments, Core Artificial Intelligence System (CAIS) Bootstrap Funding, Spark Lend GNO Onboarding and Associated Changes - May 25, 2023
 
 The Arbitration Facilitators, dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
