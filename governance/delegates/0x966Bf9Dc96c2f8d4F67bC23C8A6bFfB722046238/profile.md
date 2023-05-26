@@ -24,4 +24,4 @@ avc_name: Growth AVC
 
 # VoteWizard
 Delegate Address: 0x54d06ff559b8fc494842d9bc69054c2814baf7fa
-Forum: @VoteWizard
+Forum: @votewizard

@@ -46,4 +46,4 @@ Of course, a binary description of this type does not capture the immense variet
 
 # VoteWizard
 Delegate Address: 0xbc8f4874bf4f669877e3a0630ccfab4802f5d322
-Forum: @VoteWizard
+Forum: @votewizard
