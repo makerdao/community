@@ -60,8 +60,6 @@ The ETH Category E-mode configuration was set at the time of Spark Protocol's de
 
 Please review the proposal [thread](https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958) for more information about this proposed onboarding.
 
-A risk evaluation has been provided by $risk-provider and can be found [here]($risk-thread). 
-
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
