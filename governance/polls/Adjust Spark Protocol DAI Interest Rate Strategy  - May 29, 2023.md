@@ -1,5 +1,5 @@
 ---
-title: Adjust Spark Protocol DAI Interest Rate Strategy to match the DSR - May 29, 2023
+title: Adjust Spark Protocol DAI Interest Rate Strategy to Match the DSR - May 29, 2023
 summary: Signal your support or opposition to adjustment of the Spark Protocol DAI Interest Rate Strategy to match the Dai Savings Rate.
 discussion_link: https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2023-05-29T16:00:00
 end_date: 2023-06-01T16:00:00
 ---
-# Poll: Adjust Spark Protocol DAI Interest Rate Strategy to match DSR - May 29, 2023
+# Poll: Adjust Spark Protocol DAI Interest Rate Strategy to Match the DSR - May 29, 2023
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
