@@ -1,7 +1,7 @@
 ---
-title: Adjust Spark Protocol DAI Interest Rate Strategy to match the DSR - May 29, 2023
-summary: Signal your support or opposition to adjustment of the Spark Protocol DAI Interest Rate Strategy to match the Dai Savings Rate.
-discussion_link: https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958
+title: Reduce PSM-USDP-A Debt Ceiling to 0 - May 29, 2023
+summary: Signal your support or opposition to reducing the USDP PSM Debt Ceiling to 0 DAI.
+discussion_link: https://forum.makerdao.com/t/reducing-psm-usdp-a-debt-ceiling/20980
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-05-29T16:00:00
+start_date: 2023-05-29DT16:00:00
 end_date: 2023-06-01T16:00:00
 ---
-# Poll: Adjust Spark Protocol DAI Interest Rate Strategy to match DSR - May 29, 2023
+# Poll: Reduce PSM-USDP-A Debt Ceiling to 0 - May 29, 2023
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,11 +27,11 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Adjust Spark Protocol DAI Interest Rate Strategy to match the Dai Savings Rate.
+* Reduce the USDP Peg Stability Module (PSM) [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) by 500 million DAI from 500 million DAI to **0 DAI**.
 
-The current Spark Protocol DAI Interest Rate Strategy defines the Dai Borrow Rate as `DSR / 0.9`.
+Please review the discussion [thread](https://forum.makerdao.com/t/reducing-psm-usdp-a-debt-ceiling/20980) to help inform your position before voting.
 
-Please review the discussion [thread](https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958) to help inform your position before voting.
+For more information on the Peg Stability Module (PSM), please see the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-psm).
 
 ## Outcomes
 

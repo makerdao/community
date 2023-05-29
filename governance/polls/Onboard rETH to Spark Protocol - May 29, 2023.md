@@ -17,7 +17,7 @@ end_date: 2023-06-01T16:00:00
 ---
 # Poll: Onboard rETH to Spark Protocol - May 29, 2023
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -30,33 +30,33 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 ### Spark Parameters
 
-* Token: rETH
-* Token Address: 0xae78736cd615f374d3085123a210448e74fc6393
-* Oracle: 0x05225Cd708bCa9253789C1374e4337a019e99D56
-* Oracle Provider: Chainlink
-* Borrow Enabled: Yes
-* Optimal Usage Ratio: 45%
-* Base Borrow: 0%
-* Slope 1: 7%
-* Slope 2: 300%
-* Collateral Enabled: Yes
-* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: No
-* Loan To Value: 68.50%
-* Liquidation Threshold: 79.50%
-* Liquidation Bonus: 7%
-* Liquidation Protocol Fee: 10%
-* Reserve Factor: 15%
-* Supply Cap: 20,000 rETH
-* Borrow Cap: 2,400 rETH
-* Flashloanable: Yes
-* E-Mode: ETH Category
+* Token: **rETH**.
+* Token Address: **[0xae78736cd615f374d3085123a210448e74fc6393](https://etherscan.io/address/0xae78736cd615f374d3085123a210448e74fc6393)**.
+* Oracle: **[0x05225Cd708bCa9253789C1374e4337a019e99D56](https://etherscan.io/address/0x05225Cd708bCa9253789C1374e4337a019e99D56)**.
+* Oracle Provider: **Chainlink**.
+* Borrow Enabled: **Yes**.
+* Optimal Usage Ratio: **45%**.
+* [Base Borrow](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate): **0%**.
+* Slope 1: **7%**.
+* Slope 2: **300%**.
+* Collateral Enabled: **Yes**.
+* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: **No**.
+* [Loan To Value](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value): **68.50%**.
+* [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold): **79.50%**.
+* Liquidation Bonus: **7%**.
+* Liquidation Protocol Fee: **10%**.
+* [Reserve Factor](https://docs.aave.com/risk/asset-risk/risk-parameters#reserve-factor): **15%**.
+* [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps): **20,000 rETH**.
+* [Borrow Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#borrow-caps): **2,400 rETH**.
+* [Flashloanable](https://docs.sparkprotocol.io/developers/guides/flash-loans): **Yes**.
+* [E-Mode](https://docs.sparkprotocol.io/developers/features/efficiency-mode-emode): **ETH Category**.
 
 ### ETH Category E-Mode Parameters
 
 The ETH Category E-mode configuration was set at the time of Spark Protocol's deployment. The parameters are listed here for informational purposes.
-* LTV: 90%
-* Liquidation Threshold: 93%
-* Liquidation Bonus: 1%
+* LTV: **90%**.
+* Liquidation Threshold: **93%**.
+* Liquidation Bonus: **1%**.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958) for more information about this proposed onboarding.
 

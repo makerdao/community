@@ -17,7 +17,7 @@ end_date: 2023-06-01T16:00:00
 ---
 # Poll:$GenericChange - May 29, 2023
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**

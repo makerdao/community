@@ -17,7 +17,7 @@ end_date: 2023-06-01T16:00:00
 ---
 # Poll: Adjust Spark Protocol D3M Parameters - May 29, 2023
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,13 +26,13 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to making the following parameter changes to the Spark Protocol DAI Direct Deposit Module (D3M):
-* Increase DIRECT-SPARK-DAI [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) from 5 million Dai to 20 million Dai.
-* Increase DIRECT-SPARK-DAI [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 5 million Dai to 20 million Dai.
+The community can vote in this poll to express support or opposition to making the following parameter changes to the Spark Protocol Dai Direct Deposit Module (D3M):
+* Increase DIRECT-SPARK-DAI [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 15 million DAI from 5 million DAI to **20 million DAI**.
+* Increase DIRECT-SPARK-DAI [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 15 million DAI from 5 million DAI to **20 million DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/2023-05-24-spark-protocol-updates/20958) to help inform your position before voting.
 
-For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357).
+For more information regarding the Dai Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the entry in the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
 
 ## Outcomes
 
