@@ -17,7 +17,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: Onboard $short-token to Spark Protocol - $date_MONTH_DD,_YYYY
 
-The Arbitration Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -49,7 +49,7 @@ A risk evaluation has been provided by $risk-provider and can be found [here]($r
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* $short-token ($long-token) will be onboarded to Spark Protocol in a future executive vote as the technical resource schedule allows.
+* $short-token ($long-token) will be onboarded to Spark Protocol in a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
