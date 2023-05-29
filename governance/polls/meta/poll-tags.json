@@ -3909,5 +3909,44 @@
     "high-impact",
     "budget",
     "endgame"
+  ],
+  "1006": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter",
+    "psm"
+  ],
+  "1007": [
+    "high-impact",
+    "risk-parameter"
+  ],
+  "1008": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1009": [
+    "high-impact",
+    "technical",
+    "spark"
+  ],
+  "1010": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1011": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1012": [
+    "medium-impact",
+    "risk-parameter",
+    "psm"
   ]
 }
