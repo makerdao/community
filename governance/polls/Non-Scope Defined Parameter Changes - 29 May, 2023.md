@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - May 29, 2023
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Non-Scope Defined Parameter Changes - May 29, 2023
+summary: Signal your support or opposition to the non-Scope defined parameter changes listed below.
+discussion_link: https://forum.makerdao.com/t/stability-scope-parameter-changes-2-non-scope-defined-parameter-changes-may-2023/20981
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -15,9 +15,9 @@ options:
 start_date: 2023-05-29T16:00:00
 end_date: 2023-06-01T16:00:00
 ---
-# Poll:$GenericChange - May 29, 2023
+# Poll: Non-Scope Defined Parameter Changes - May 29, 2023
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Block Analitica and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 29 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,10 +27,24 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* $GenericChangeA
-* $GenericChangeB
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Changes
+
+* Update RETH-A Stability Fee to Dai Savings Rate plus 0.25% - estimated at 3.58%.
+* Update CRVV1ETSTETH-A Stability Fee to Dai Savings Rate plus 0.75% - estimated at 4.08%.
+* Update WBTC-A Stability Fee to Yield Collateral Yield Benchmark plus 0.25% - estimated at 5.54%.
+* Update WBTC-B Stability Fee to Yield Collateral Yield Benchmark plus 0.75% - estimated at 6.04%.
+* Update WBTC-C Stability Fee to Yield Collateral Yield Benchmark - estimated at 5.29%.
+
+### RETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Change
+
+* Increase the RETH-A Maximum Debt Ceiling by 30 million DAI from 20 million DAI to **50 million DAI**.
+
+### RETH-A [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Change
+
+* Increase the RETH-A Target Available Debt by 2 million DAI from 3 million dai to **5 million DAI**.
+
+Please review the discussion [thread](https://forum.makerdao.com/t/stability-scope-parameter-changes-2-non-scope-defined-parameter-changes-may-2023/20981) to help inform your position before voting.
 
 ## Outcomes
 
