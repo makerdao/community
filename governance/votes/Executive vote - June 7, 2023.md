@@ -19,14 +19,14 @@ If this executive proposal passes, the following **changes** will occur within t
 - Changes to the BlockTower RWA vault Debt Ceilings will be made, as detailed below.
 - Multiple risk parameters will be changed including Stability Fees, Maximum Debt Ceilings, and Target Available Debts, as detailed below.
 - The Dai Savings Rate will be increased to **3.49%**, as detailed below.
-- The USDP PSM Debt Ceiling will be reduced to **0 DAI**.
-- MKR vesting transfers totalling **573.4 MKR** will be made to two Core Units.
+- The USDP PSM Debt Ceiling will be reduced to **zero DAI**.
+- MKR vesting transfers totalling **573.4 MKR** will be made to the Sidestream and DUX Core Units.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- BlockTower Andromeda (RWA015-A) will be onboarded as a new vault type with a temporarily reduced Debt Ceiling, as detailed below.
+- BlockTower Andromeda (RWA015-A) will be onboarded as a new vault type with a temporarily limited Debt Ceiling, as detailed below.
 - The executive proxy for Spark Protocol (`EXEC_PROXY_SPARK`) will be authorized, as detailed below.
 
-If this executive proposal passes, a proxy executive for Spark Protocol will be triggered, containing the following items:
+If this executive proposal passes, a **proxy spell for Spark Protocol** will be triggered, containing the following items:
 - Onboard rETH to Spark Protocol, as detailed below.
 - Adjust the DAI Interest Rate Strategy for Spark Protocol to match the Dai Savings Rate, as detailed below.
 
