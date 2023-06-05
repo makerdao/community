@@ -87,8 +87,8 @@ Please review the following forum threads containing information about RWA015 (B
 ### BlockTower RWA Vault [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) Changes
 
 As per [this poll](https://vote.makerdao.com/polling/QmPMrvfV) the following changes to the BlockTower RWA Vault Debt Ceiling parameters will be made, if this executive proposal passes:
-- Decrease the RWA010-A Debt Ceiling by 20 million DAI from 20 million DAI to **0**.
-- Decrease the RWA011-A Debt Ceiling by 30 million DAI from 30 million DAI to **0**.
+- Decrease the RWA010-A Debt Ceiling by 20 million DAI from 20 million DAI to **zero DAI**.
+- Decrease the RWA011-A Debt Ceiling by 30 million DAI from 30 million DAI to **zero DAI**.
 - Increase the RWA012-A Debt Ceiling by 50 million DAI from 30 million DAI to **80 million DAI**.
 
 To facilitate these changes, the [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) for RWA010-A, RWA011-A, RWA012-A, and RWA013-A will be updated to **QmY382BPa5UQfmpTfi6KhjqQHtqq1fFFg2owBfsD2LKmYU**, the agreement details may be [viewed here](https://gateway.pinata.cloud/ipfs/QmY382BPa5UQfmpTfi6KhjqQHtqq1fFFg2owBfsD2LKmYU).
