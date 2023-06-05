@@ -158,7 +158,9 @@ As per [this poll](https://vote.makerdao.com/polling/Qmc9fd3j), a Spark Protocol
 If passed this executive proposal will:
 - Give the Spark Proxy admin access on Spark Protocol.
 - Add the Spark Proxy to the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module).
-- Trigger the Spark Proxy Spell actions listed below.
+- Trigger the Spark Proxy spell actions listed below.
+
+More information on the Spark Proxy can be found [here](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976).
 
 #### Spark Proxy Spell Contents
 
