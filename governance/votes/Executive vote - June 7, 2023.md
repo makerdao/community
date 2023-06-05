@@ -45,7 +45,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### BlockTower Andromeda (RWA015-A) Onboarding
 
-As per [this poll](https://vote.makerdao.com/polling/QmbudkVR) BlockTower Andromeda will be onboarded as RWA015-A as detailed below, if this executive proposal passes.
+As per [this poll](https://vote.makerdao.com/polling/QmbudkVR) BlockTower Andromeda will be onboarded as RWA015-A with the parameters listed below, if this executive proposal passes.
 
 Note that the initial onboarding will use a temporarily reduced Maximum Debt Ceiling of 2.5 million DAI to ensure that the structure works as intended. The Maximum Debt Ceiling will be increased in a future executive proposal.
 
