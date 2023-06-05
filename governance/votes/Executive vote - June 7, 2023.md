@@ -148,7 +148,7 @@ As per their [approved budget](https://mips.makerdao.com/mips/details/MIP40c3SP2
 ### Spark Protocol [Dai Direct Deposit Module](https://manual.makerdao.com/module-index/module-dai-direct-deposit) (D3M) Parameter Changes
 
 As per [this poll](https://vote.makerdao.com/polling/QmWatYqy), the following Spark Protocol D3M parameter changes will be made, if this executive proposal passes:
-- Increase the [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam) by 15 million DAI from 5 million DAI to **20 million DAI**.
+- Increase the [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 15 million DAI from 5 million DAI to **20 million DAI**.
 - Increase the [Target Availible Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 15 million DAI from 5 million DAI to **20 million DAI**.
 
 ### Spark Protocol Proxy (`EXEC_PROXY_SPARK`) Authorization
