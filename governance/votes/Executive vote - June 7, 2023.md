@@ -47,15 +47,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per [this poll](https://vote.makerdao.com/polling/QmbudkVR) BlockTower Andromeda will be onboarded as RWA015-A with the parameters listed below, if this executive proposal passes.
 
-Note that the initial onboarding will use a temporarily reduced Maximum Debt Ceiling of 2.5 million DAI to ensure that the structure works as intended. The Maximum Debt Ceiling will be increased in a future executive proposal.
+Note that the initial onboarding will use a temporarily reduced Debt Ceiling of 2.5 million DAI to ensure that the structure works as intended. The Debt Ceiling will be increased in a future executive proposal.
 
 #### Collateral Parameters
 
 - [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee): **0%** - fees are calculated off-chain and returned manually.
-- [Autoline (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam): **Yes**.
-- [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam): **2.5 million DAI**.
-- [Target Availible Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap): **2.5 million DAI**.
-- [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl): **84,600 seconds (1 day)**.
+- [Autoline (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam): **Not for initial deployment, will be added when Debt Ceiling is increased**.
+- [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling): **2.5 million DAI**.
 - [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio): **100%**.
 - Oracle Price: **2.5 million DAI**.
 - Debt write-off timelock (`tau`): **0**.
@@ -69,14 +67,14 @@ Note that the initial onboarding will use a temporarily reduced Maximum Debt Cei
 - **SYMBOL:** `RWA015`.
 - **NAME:** `RWA-015`.
 - **ILK:** `RWA015-A`.
-- **RWA014:** `TBD`
-- **MCD_JOIN_RWA015_A:** `TBD`.
-- **RWA015_A_URN:** `TBD`.
-- **RWA015_A_JAR:** `TBD`.
-- **RWA015_A_OUTPUT_CONDUIT:** `TBD`.
-- **RWA015_A_INPUT_CONDUIT_URN:** `TBD`.
-- **RWA015_A_INPUT_CONDUIT_JAR:** `TBD`.
-- **RWA015_A_OPERATOR:** `TBD`.
+- **RWA015:** `0xf5E5E706EfC841BeD1D24460Cd04028075cDbfdE`
+- **MCD_JOIN_RWA015_A:** `0x8938988f7B368f74bEBdd3dcd8D6A3bd18C15C0b`.
+- **RWA015_A_URN:** `0xebFDaa143827FD0fc9C6637c3604B75Bbcfb7284`.
+- **RWA015_A_JAR:** `0xc27C3D3130563C1171feCC4F76C217Db603997cf`.
+- **RWA015_A_OUTPUT_CONDUIT:** `0xC35E60736ec2E3de612535dba2dFB1f4130C82c3`.
+- **RWA015_A_INPUT_CONDUIT_URN:** `0xe08cb5E24862eA86328295D5E5c08972203C20D8`.
+- **RWA015_A_INPUT_CONDUIT_JAR:** `0xB9373C557f3aE8cDdD068c1644ED226CfB18A997`.
+- **RWA015_A_OPERATOR:** `0x23a10f09fac6ccdbfb6d9f0215c795f9591d7476`.
 - **ETH_Address_A (USDC Wallet In):** `0x65729807485F6f7695AF863d97D62140B7d69d83`.
 
 #### Additional Information
