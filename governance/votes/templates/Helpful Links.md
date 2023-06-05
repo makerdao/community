@@ -30,8 +30,8 @@
 ### DC-IAM
 
 [Autoline (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam)
-[Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam)
-[Target Availible Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap)
+[Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line)
+[Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap)
 [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl)
 [Global Liquidation Limit (`Hole`)](https://manual.makerdao.com/parameter-index/core/param-global-liquidation-limit)
 
