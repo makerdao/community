@@ -133,13 +133,13 @@ As per [this poll](https://vote.makerdao.com/polling/QmQYSLHH), the following ch
 
 The following MKR vesting transfers will be made, if this executive proposal passes:
 
-#### Sidestream
+#### Sidestream Core Unit
 
 As per their [approved budget](https://mips.makerdao.com/mips/details/MIP40c3SP44), **348.28 MKR** will be transferred to the Sidestream Auditor Wallet at [0xb1f950a51516a697E103aaa69E152d839182f6Fe](https://etherscan.io/address/0xb1f950a51516a697E103aaa69E152d839182f6Fe).
 
 *Note:* the distributed amount has differed from the initial estimate due to Sidestream [repricing](https://forum.makerdao.com/t/mip40c3-sp44-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802/7) their vesting plan. It remains within the overall approved cap.
 
-#### DUX
+#### DUX Core Unit
 
 As per their [approved budget](https://mips.makerdao.com/mips/details/MIP40c3SP27), **225.12 MKR** will be transferred to the DUX Auditor Wallet at [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad).
 
