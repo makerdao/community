@@ -95,7 +95,7 @@ To facilitate these changes, the [RWA Agreement (`doc`)](https://manual.makerdao
 
 ### Stability Scope Defined Parameter Changes
 
-As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), the following parameter changes will be made, if this executive proposal passes:
+As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), and the [adjustments to the base rate](https://forum.makerdao.com/t/stability-scope-parameter-changes-2-non-scope-defined-parameter-changes-may-2023/20981/7), the following parameter changes will be made, if this executive proposal passes:
 
 #### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Increase
 - Increase the DSR by 2.49% from 1% to **3.49%**.
