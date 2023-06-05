@@ -160,6 +160,8 @@ If passed this executive proposal will:
 - Add the Spark Proxy to the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module).
 - Trigger the Spark Proxy spell actions listed below.
 
+The Spark Proxy spell address is [0x41D7c79aE5Ecba7428283F66998DedFD84451e0e](https://etherscan.io/address/0x41D7c79aE5Ecba7428283F66998DedFD84451e0e#code).
+
 More information on the Spark Proxy can be found [here](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976).
 
 #### Spark Proxy Spell Contents
