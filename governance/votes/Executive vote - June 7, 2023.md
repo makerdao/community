@@ -125,7 +125,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQXhS3Z), the following pa
 ### USDP PSM [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) Reduction
 
 As per [this poll](https://vote.makerdao.com/polling/QmQYSLHH), the following change to the USDP PSM Debt Ceiling will be made, if this executive proposal passes:
-- Reduce the USDP PSM (technical name PSM-PAX-A) Debt Ceiling by 500 million DAI from 500 million DAI to **0**.
+- Reduce the USDP PSM (technical name PSM-PAX-A) Debt Ceiling by 500 million DAI from 500 million DAI to **zero DAI**.
 
 *Technical implementation note:* to achieve this, the USDP PSM will be removed from the Autoline (DC-IAM) and have its Debt Ceiling set to 0.
 
