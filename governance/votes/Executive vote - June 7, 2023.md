@@ -111,14 +111,12 @@ As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), and
 
 As per [this poll](https://vote.makerdao.com/polling/QmQXhS3Z), the following parameter changes will be made, if this executive proposal passes:
 
-#### [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam) Increase
-- Increase the RETH-A Maximum Debt Ceiling by 30 million DAI from 20 million DAI to **50 million DAI**.
+#### RETH-A Parameter Changes
+- Increase the RETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 30 million DAI from 20 million DAI to **50 million DAI**.
+- Increase the RETH-A [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 2 million DAI from 3 million DAI to **5 million DAI**.
+- Increase the RETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 2.99% from 0.75% to **3.74%**.
 
-#### [Target Availible Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) Increase
-- Increase the RETH-A Target Available Debt by 2 million DAI from 3 million DAI to **5 million DAI**.
-
-#### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Increases
-- Increase the RETH-A Stability Fee by 2.99% from 0.75% to **3.74%**.
+#### Other [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Increases
 - Increase the CRVV1ETHSTETH-A Stability Fee by 2.49% from 1.75% to **4.24%**.
 - Increase the WBTC-A Stability Fee by 0.9% from 4.90% to **5.80%**.
 - Increase the WBTC-B Stability Fee by 1.4% from 4.90% to **6.30%**.
