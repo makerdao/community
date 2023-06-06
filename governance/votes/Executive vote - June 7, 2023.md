@@ -24,7 +24,7 @@ If this executive proposal passes, the following **changes** will occur within t
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - BlockTower Andromeda (RWA015-A) will be onboarded as a new vault type with a temporarily limited Debt Ceiling, as detailed below.
-- The executive proxy for Spark Protocol (`EXEC_PROXY_SPARK`) will be authorized, as detailed below.
+- The executive proxy for Spark Protocol (`SUBPROXY_SPARK`) will be authorized, as detailed below.
 
 If this executive proposal passes, a **proxy spell for Spark Protocol** will be triggered, containing the following items:
 - Onboard rETH to Spark Protocol, as detailed below.
@@ -151,7 +151,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmWatYqy), the following Sp
 - Increase the [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 15 million DAI from 5 million DAI to **20 million DAI**.
 - Increase the [Target Availible Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 15 million DAI from 5 million DAI to **20 million DAI**.
 
-### Spark Protocol Proxy (`EXEC_PROXY_SPARK`) Authorization
+### Spark Protocol Proxy (`SUBPROXY_SPARK`) Authorization
 
 As per [this poll](https://vote.makerdao.com/polling/Qmc9fd3j), a Spark Protocol Proxy will be authorized by this spell to allow parallel production of executive proposals covering Spark Protocol. This will allow the Spark Protocol team to prepare code separately, but any changes will not be active until triggered by a Maker Core executive proposal.
 
