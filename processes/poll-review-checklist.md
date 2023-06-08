@@ -26,3 +26,4 @@
 - [ ] Are outcomes clear and comprehensive?
 - [ ] Do any '$' parameter signifiers remain?
 - [ ] Does poll summary accurately reflect poll content?
+- [ ] Read poll text in full and highlight any other potential issues.
