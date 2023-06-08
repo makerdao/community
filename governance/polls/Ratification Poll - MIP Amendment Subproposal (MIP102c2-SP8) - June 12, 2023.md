@@ -26,7 +26,7 @@ end_date: 2023-06-26T16:00:00
 ---
 # Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP8) - June 12, 2023
 
-The Arbitration Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, June 12 at 16:00 UTC.
+The Governance Facilitator has placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, June 12 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
