@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal amends the Alignment Artifacts to further improve Maker Governance in preparation for the launch of SubDAOs.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/50c89c21c6587cf67566298e6a46e372c435079b/MIP102/MIP102c2-Subproposals/MIP102c2-SP8.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/293e46fcbc39dd69ebcbdf4e4249b0d00f346beb/MIP102/MIP102c2-Subproposals/MIP102c2-SP8.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP8)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp8-mip-amendment-subproposals/20761)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/925)
