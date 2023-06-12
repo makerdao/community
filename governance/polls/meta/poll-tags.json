@@ -3948,5 +3948,21 @@
     "medium-impact",
     "risk-parameter",
     "psm"
+  ],
+  "1013": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1014": [
+    "medium-impact",
+    "ratification",
+    "mips"
+  ],
+  "1015": [
+    "medium-impact",
+    "risk-parameter",
+    "psm"
   ]
 }
