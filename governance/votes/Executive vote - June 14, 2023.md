@@ -127,7 +127,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQXhS3Z), the following pa
 As per [this poll](https://vote.makerdao.com/polling/QmQYSLHH), the following change to the USDP PSM Debt Ceiling will be made, if this executive proposal passes:
 - Reduce the USDP PSM (technical name PSM-PAX-A) Debt Ceiling by 500 million DAI from 500 million DAI to **zero DAI**.
 
-*Technical implementation note:* to achieve this, the USDP PSM will be removed from the Autoline (DC-IAM) and have its Debt Ceiling set to 0. However, the [Global Debt Ceiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will not be reduced at the same time. This is to prevent a situation where the total Dai debt in the system exceeds the Global Debt Ceiling, which would prevent new Dai from being minted.
+*Technical implementation note:* to achieve this, the USDP PSM will be removed from the Autoline (DC-IAM) and have its Debt Ceiling set to 0. However, the [Global Debt Ceiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will not be reduced at the same time. This is to leave a suitable buffer to prevent a situation where the total Dai supply exceeds the Global Debt Ceiling, which would prevent new Dai from being minted.
 
 ### MKR Vesting Transfers
 
