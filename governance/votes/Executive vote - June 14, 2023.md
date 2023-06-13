@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 7, 2023
+title: Template - [Executive Vote] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
 summary: Onboarding BlockTower Andromeda (RWA015-A); BlockTower vault Debt Ceiling changes; Stability Fee updates, Spark Protocol D3M and RETH-A Maximum Debt Ceiling and Target Available Debt increases; DSR increase; activation of the Spark Protocol Proxy; and MKR vesting transfers for Sidestream and DUX Core Units.
-date: 2023-06-07T00:00:00.000Z
+date: 2023-06-14T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 7, 2023
+# [Executive Proposal] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
 
 The Governance Facilitator, Sidestream, dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -19,7 +19,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - Changes to the BlockTower RWA vault Debt Ceilings will be made, as detailed below.
 - Multiple risk parameters will be changed including Stability Fees, Maximum Debt Ceilings, and Target Available Debts, as detailed below.
 - The Dai Savings Rate will be increased to **3.49%**, as detailed below.
-- The USDP PSM Debt Ceiling will be reduced to **zero DAI**.
+- The USDP PSM Debt Ceiling will be reduced to **0 DAI**.
 - MKR vesting transfers totalling **573.4 MKR** will be made to the Sidestream and DUX Core Units.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
@@ -127,7 +127,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQXhS3Z), the following pa
 As per [this poll](https://vote.makerdao.com/polling/QmQYSLHH), the following change to the USDP PSM Debt Ceiling will be made, if this executive proposal passes:
 - Reduce the USDP PSM (technical name PSM-PAX-A) Debt Ceiling by 500 million DAI from 500 million DAI to **zero DAI**.
 
-*Technical implementation note:* to achieve this, the USDP PSM will be removed from the Autoline (DC-IAM) and have its Debt Ceiling set to 0.
+*Technical implementation note:* to achieve this, the USDP PSM will be removed from the Autoline (DC-IAM) and have its Debt Ceiling set to 0. However, the [Global Debt Ceiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will not be reduced at the same time. This is to prevent a situation where the total Dai debt in the system exceeds the Global Debt Ceiling, which would prevent new Dai from being minted.
 
 ### MKR Vesting Transfers
 
