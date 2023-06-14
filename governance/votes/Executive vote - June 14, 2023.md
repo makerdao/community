@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
 summary: Onboarding BlockTower Andromeda (RWA015-A); BlockTower vault Debt Ceiling changes; Stability Fee updates, Spark Protocol D3M and RETH-A Maximum Debt Ceiling and Target Available Debt increases; DSR increase; activation of the Spark Protocol Proxy; and MKR vesting transfers for Sidestream and DUX Core Units.
 date: 2023-06-14T00:00:00.000Z
-address: "$spell_address"
+address: "0x9E16c8B4C998604471EA0e63ECBb6d6d30F07fA0"
 
 ---
 # [Executive Proposal] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
