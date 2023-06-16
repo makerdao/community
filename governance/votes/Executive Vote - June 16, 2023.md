@@ -35,9 +35,9 @@ As per this [forum post](INSERT LINK HERE from the Stability Scope Responsible F
 
 The DAO Resolution may be seen on IPFS [here](https://gateway.pinata.cloud/ipfs/QmYPbYoPjrSzBu5gt9tip78siG1gFvY8K4HTkHEFJgMmM8).
 
-The IPFS hash will be added to the code of the spell as a constant in order to provide added clarity of the on chain approval.
+The IPFS hash has been added to the executive spell code as a constant in order to provide added clarity of the on chain approval.
 
-The raw text is included below for clarity:
+The raw text of the resolution is provided below for clarity:
 
 ```
 MAKERDAO RESOLUTION
