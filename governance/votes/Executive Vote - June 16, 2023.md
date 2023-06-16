@@ -31,7 +31,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### RWA014-A (Coinbase Custody) DAO Resolution
 
-As per this [forum post](INSERT LINK HERE from the Stability Scope Responsible Facilitators, detailing the rationale for this out-of-schedule executive proposal under [MIP24](https://mips.makerdao.com/mips/details/MIP24), approval of this executive proposal will signal Maker Governance's agreement to the following DAO Resolution to James Asset Trust 3, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/out-of-schedule-executive-to-fortify-elasticity-of-on-chain-1-1-liquidity-of-usdc/21168) from the Stability Scope Responsible Facilitators, detailing the rationale for this out-of-schedule executive proposal under [MIP24](https://mips.makerdao.com/mips/details/MIP24), approval of this executive proposal will signal Maker Governance's agreement to the following DAO Resolution to James Asset Trust 3, if this executive proposal passes.
 
 The DAO Resolution may be seen on IPFS [here](https://gateway.pinata.cloud/ipfs/QmYPbYoPjrSzBu5gt9tip78siG1gFvY8K4HTkHEFJgMmM8).
 
