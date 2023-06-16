@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Out-of-Schedule Executive Vote - RWA014-A (Coinbase Custody) DAO Resolution - June 16, 2023
-summary: Approving a DAO Resolution pertaining to RWA014-A (Coinbase Custody).
+summary: Approving a DAO Resolution pertaining to withdrawals from RWA014-A (Coinbase Custody) in the event of reduced USDC reserves.
 date: 2023-06-16T00:00:00.000Z
 address: "$spell_address"
 
