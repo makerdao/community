@@ -51,7 +51,9 @@ The [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/mo
 
 The BlockTower Andromeda oracle price will be updated to match the new Maximum Debt Ceiling.
 
-A new Output Conduit will be authorized, routing BlockTower Andromeda transactions via the USDP PSM as [confirmed](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187/2) by the relevant Scope Facilitators. Operationally, this will mean the USDP PSM is drained to provide funding for BlockTower Andromeda.
+A new Output Conduit at [0x1a976926bF6105Ff6dA1F7b1667bBe825974961E](https://etherscan.io/address/0x1a976926bF6105Ff6dA1F7b1667bBe825974961E#code) will be authorized, routing BlockTower Andromeda transactions via the USDP PSM as [confirmed](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187/2) by the relevant Scope Facilitators. Operationally, this will mean the USDP PSM is drained to provide funding for BlockTower Andromeda.
+
+The relevant [Chainlog](https://chainlog.makerdao.com/) entry `RWA015_A_OUTPUT_CONDUIT` will be updated to reflect the change to the Output Conduit. 
 
 ### GUSD PSM Parameter Changes
 
