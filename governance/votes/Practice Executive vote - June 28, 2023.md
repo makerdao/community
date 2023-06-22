@@ -44,9 +44,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As per these polls [1](https://vote.makerdao.com/polling/QmNRGQwN#poll-detail), [2](https://vote.makerdao.com/polling/QmUAXKm4#poll-detail), [3](https://vote.makerdao.com/polling/QmSmhV7z#poll-detail), MKR will be sent for vesting purposes, as detailed below, if this executive proposal passes.
 
-ORA-001 - 297.3 MKR - [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://etherscan.io/address/0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf)
-RISK-001 - 175 MKR - [0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c](https://etherscan.io/address/0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c)
-SES-001 - 10.3 MKR - [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6)
+- ORA-001 - 297.3 MKR - [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://etherscan.io/address/0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf)
+- RISK-001 - 175 MKR - [0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c](https://etherscan.io/address/0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c)
+- SES-001 - 10.3 MKR - [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6)
 
 ### RWA007 Document Parameter Update
 
@@ -58,20 +58,20 @@ For more information, please see this [post](https://forum.makerdao.com/t/rwa007
 
 As per this [poll](https://vote.makerdao.com/polling/QmaoGpAQ#poll-detail), past and current delegates will be compensated a total of 277.76 MKR, as detailed below, if this executive proposal passes.
 
-vigilant - 29.76 MKR - [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61)
-0xDefensor - 29.76 MKR - [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9)
-BONAPUBLICA - 29.76 MKR - [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3)
-Frontier Research - 29.76 MKR - [0xa2d55b89654079987cf3985aeff5a7bd44da15a8](https://etherscan.io/address/0xa2d55b89654079987cf3985aeff5a7bd44da15a8)
-GFX Labs - 29.76 MKR - [0x9b68c14e936104e9a7a24c712beecdc220002984](https://etherscan.io/address/0x9b68c14e936104e9a7a24c712beecdc220002984)
-QGov - 29.76 MKR - [0xB0524D8707F76c681901b782372EbeD2d4bA28a6](https://etherscan.io/address/0xB0524D8707F76c681901b782372EbeD2d4bA28a6)
-TRUE NAME - 29.76 MKR - [0x612f7924c367575a0edf21333d96b15f1b345a5d](https://etherscan.io/address/0x612f7924c367575a0edf21333d96b15f1b345a5d)
-UPMaker - 9.92 MKR - [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd)
-WBC - 9.92 MKR - [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47)
-Libertas - 9.92 MKR - [0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f](https://etherscan.io/address/0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f)
-Codeknight - 9.92 MKR - [0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D](https://etherscan.io/address/0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D)
-PBG - 9.92 MKR - [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2)
-Flip Flop Flap Delegate - 9.92 MKR - [0x3d9751EFd857662f2B007A881e05CfD1D7833484](https://etherscan.io/address/0x3d9751EFd857662f2B007A881e05CfD1D7833484)
-Bandhar - 9.92 MKR - [0xE83B6a503A94a5b764CCF00667689B3a522ABc21](https://etherscan.io/address/0xE83B6a503A94a5b764CCF00667689B3a522ABc21)
+- vigilant - 29.76 MKR - [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61)
+- 0xDefensor - 29.76 MKR - [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9)
+- BONAPUBLICA - 29.76 MKR - [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3)
+- Frontier Research - 29.76 MKR - [0xa2d55b89654079987cf3985aeff5a7bd44da15a8](https://etherscan.io/address/0xa2d55b89654079987cf3985aeff5a7bd44da15a8)
+- GFX Labs - 29.76 MKR - [0x9b68c14e936104e9a7a24c712beecdc220002984](https://etherscan.io/address/0x9b68c14e936104e9a7a24c712beecdc220002984)
+- QGov - 29.76 MKR - [0xB0524D8707F76c681901b782372EbeD2d4bA28a6](https://etherscan.io/address/0xB0524D8707F76c681901b782372EbeD2d4bA28a6)
+- TRUE NAME - 29.76 MKR - [0x612f7924c367575a0edf21333d96b15f1b345a5d](https://etherscan.io/address/0x612f7924c367575a0edf21333d96b15f1b345a5d)
+- UPMaker - 9.92 MKR - [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd)
+- WBC - 9.92 MKR - [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47)
+- Libertas - 9.92 MKR - [0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f](https://etherscan.io/address/0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f)
+- Codeknight - 9.92 MKR - [0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D](https://etherscan.io/address/0xf6006d4cF95d6CB2CD1E24AC215D5BF3bca81e7D)
+- PBG - 9.92 MKR - [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2)
+- Flip Flop Flap Delegate - 9.92 MKR - [0x3d9751EFd857662f2B007A881e05CfD1D7833484](https://etherscan.io/address/0x3d9751EFd857662f2B007A881e05CfD1D7833484)
+- Bandhar - 9.92 MKR - [0xE83B6a503A94a5b764CCF00667689B3a522ABc21](https://etherscan.io/address/0xE83B6a503A94a5b764CCF00667689B3a522ABc21)
 
 ### GUSD PSM Parameter Changes
 
