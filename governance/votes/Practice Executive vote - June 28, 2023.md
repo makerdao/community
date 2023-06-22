@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Andromeda OutputConduit and Autoline, MKR and DAI Transfers, RWA007 document update, Delegate Compensation for May, adding Chainlink Treasury Address, and GUSD parameter updates - June 28, 2023
-summary: Adding DC-IAM for Andromeda and deploying new OutputConduit, MKR transfers for ORA-001, RISK-001, and SES-001, DAI tranfer for BlockTower Legal Expense, updating RWA007 Documents, Delegate and ex-Delegate compensation for May, adding CHainlink Treasury Address for Keeper Networks, and reducing the GUSD PSM Debt Ceiling and tout.
+summary: Adding DC-IAM for Andromeda and deploying new OutputConduit, MKR transfers for ORA-001, RISK-001, and SES-001, DAI tranfer for BlockTower Legal Expense, updating RWA007 Documents, Delegate and ex-Delegate compensation for May, adding Chainlink Treasury Address for Keeper Networks, and reducing the GUSD PSM Debt Ceiling and tout.
 date: 2023-06-28T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,8 +16,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- CU MKR Vesting Transfers
-- RWA007 doc parameter update
+- ORA-001, RISK-001, SES-001 MKR Vesting Transfers
+- RWA007 Parameter Document updates
 - Delegate Compensation for May (including offboarded Delegates)
 - GUSD PSM Parameter Changes
 - BlockTower Legal Expenses DAI Transfer
@@ -40,17 +40,25 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Core Unit MKR Vesting Transfers
 
 $executive_entry_description_1
 
-### $executive_entry_2
+### RWA007 Document Parameter Update
 
 $executive_entry_description_2
 
-### $executive_entry_3
+### May Delegate Conpensation
 
 $executive_entry_description_3
+
+### GUSD PSM Parameter Changes
+
+### BlockTower Legal Expenses DAI Transfer 
+
+### Andromeda Additions
+
+### Chainlink Treasury Address
 
 ## Review
 
