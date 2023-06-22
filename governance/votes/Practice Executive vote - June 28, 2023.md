@@ -101,14 +101,14 @@ For more information please review this [assessment](https://forum.makerdao.com/
 
 As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187), a new OutputConduit will be deployed with the following parameters, if this executive proposal passes. 
 
-Contract Address for new OutputConduit: 0x1a976926bF6105Ff6dA1F7b1667bBe825974961E
+Contract Address for new OutputConduit: [0x1a976926bF6105Ff6dA1F7b1667bBe825974961E](https://etherscan.io/address/0x1a976926bF6105Ff6dA1F7b1667bBe825974961E)
 
 ### Chainlink Treasury Address
 
 As per this [poll](https://vote.makerdao.com/polling/QmZZJcCj#poll-detail) and this [request](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187), the Chainlink Keepery Treasury Address will be updated as follows, if this executive proposal passes.
 
-- Add Chainlink Treasury Address - 0xaBAbd5e7d6d05672391aB2A914F57ce343D5CFA6.
-- Update Chainlink Payment Adapter - 0xfB5e1D841BDA584Af789bDFABe3c6419140EC065.
+- Add Chainlink Treasury Address - [0xaBAbd5e7d6d05672391aB2A914F57ce343D5CFA6](https://etherscan.io/address/0xaBAbd5e7d6d05672391aB2A914F57ce343D5CFA6).
+- Update Chainlink Payment Adapter - [0xfB5e1D841BDA584Af789bDFABe3c6419140EC065](https://etherscan.io/address/0xfB5e1D841BDA584Af789bDFABe3c6419140EC065).
 
 For more information, please see this [post](https://forum.makerdao.com/t/poll-notice-keeper-network-follow-up-updates/21056).
 
