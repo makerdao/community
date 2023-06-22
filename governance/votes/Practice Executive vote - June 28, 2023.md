@@ -95,7 +95,7 @@ As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-20
 - Set [Ceiling Increase Cooldown](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl)to 86,400 seconds.
 - Increase RWA015-A oracle price to 1.28 billion DAI.
 
-For more information please review this [assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974)
+For more information please review this [assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974).
 
 ### Andromeda OutputConduit
 
