@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Andromeda OutputConduit and Autoline, MKR and DAI Transfers, RWA007 document update, Delegate Compensation for May, adding Chainlink Treasury Address, and GUSD parameter updates - June 28, 2023
-summary: Adding DC-IAM for Andromeda and deploying new OutputConduit, MKR transfers for ORA-001, RISK-001, and SES-001, DAI tranfer for BlockTower Legal Expense, updating RWA007 Documents, Delegate and ex-Delegate compensation for May, adding Chainlink Treasury Address for Keeper Networks, and reducing the GUSD PSM Debt Ceiling and tout.
+summary: Adding DC-IAM for Andromeda and deploying new OutputConduit, MKR transfers for ORA-001, RISK-001, and SES-001, DAI transfer for BlockTower Legal Expense, updating RWA007 Documents, Delegate and ex-Delegate compensation for May, adding Chainlink Treasury Address for Keeper Networks, and reducing the GUSD PSM Debt Ceiling and tout.
 date: 2023-06-28T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,14 +16,14 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- ORA-001, RISK-001, SES-001 MKR Vesting Transfers totalling 482.6 MKR. 
+- ORA-001, RISK-001, SES-001 MKR Vesting Transfers totaling 482.6 MKR. 
 - Changes to the RWA007 Parameter Document. 
-- Delegate Compensation for May (including offboarded Delegates) totalling 277.76 MKR. 
-- Changes to the GUSD PSM Parameters, specifically setting the Debt Ceiling to 110M DAI, and reducing the Fee Out to 0. 
+- Delegate Compensation for May (including offboarded Delegates) totaling 277.76 MKR. 
+- Changes to the GUSD PSM Parameters, specifically setting the Debt Ceiling to 110M DAI and reducing the Fee Out to 0. 
 - BlockTower Legal Expenses Transfer of 133,466 DAI.
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- Activate Andromeda Autoline with initial Debt Ceiling of 1.28B DAI, `gap` of 50M, and `ttl` of 86,400 seconds. 
+- Activate Andromeda Autoline with an initial Debt Ceiling of 1.28B DAI, `gap` of 50M, and `ttl` of 86,400 seconds. 
 - Deploy New Andromeda OutputConduit.
 - Add Chainlink Keeper Network Treasury Address.
 
@@ -50,11 +50,11 @@ SES-001 - 10.3 MKR - [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://ethers
 
 ### RWA007 Document Parameter Update
 
-As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187) the IPFS hash of the RWA007 Document will be updated to `QmY185L4tuxFkpSQ33cPHUHSNpwy8V6TMXbXvtVraxXtb5`, if these executive proposal passes.
+As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187) the IPFS hash of the RWA007 Document will be updated to `QmY185L4tuxFkpSQ33cPHUHSNpwy8V6TMXbXvtVraxXtb5`, if this executive proposal passes.
 
 For more information, please see this [post](https://forum.makerdao.com/t/rwa007-mip65-monetalis-clydesdale-ces-domain-team-assessment/17787/13).
 
-### May Delegate Conpensation
+### May Delegate Compensation
 
 As per this [poll](https://vote.makerdao.com/polling/QmaoGpAQ#poll-detail), past and current delegates will be compensated a total of 277.76 MKR, as detailed below, if this executive proposal passes.
 
@@ -82,20 +82,20 @@ As per this [poll](https://vote.makerdao.com/polling/QmaXg3JT#poll-detail), the 
 
 ### BlockTower Legal Expenses DAI Transfer 
 
-As per this [poll](https://vote.makerdao.com/polling/QmaoGpAQ#poll-detail) 133,466 DAI will be transfered to 0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767 for legal expenses, if this executive proposal passes.
+As per this [poll](https://vote.makerdao.com/polling/QmaoGpAQ#poll-detail) 133,466 DAI will be transferred to 0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767 for legal expenses, if this executive proposal passes.
 
 For more information please see this [post](https://forum.makerdao.com/t/project-andromeda-legal-expenses/20984) and review the relevant [Alignment Artifact Section](https://mips.makerdao.com/mips/details/MIP104#5-2-legal-recourse-asset-budget).
 
 ### Andromeda Autoline
 
-As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187), the Andromeda Debt Ceieling Instant Access Module will be activated with the following parameters, if this executive proposal passes.
+As per this [post](https://forum.makerdao.com/t/consolidated-action-items-for-2023-06-28-executive/21187), the Andromeda Debt Ceiling Instant Access Module will be activated with the following parameters, if this executive proposal passes.
 
 - Set [Max Debt Ceiling (line](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) to 1.28 billion DAI.
 - Set [Target Available Debt (gap)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) to 50 million DAI.
 - Set [Ceiling Increase Cooldown](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl)to 86,400 seconds.
 - Increase RWA015-A oracle price to 1.28 billion DAI.
 
-For more information please review this [assesment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974)
+For more information please review this [assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974)
 
 ### Andromeda OutputConduit
 
