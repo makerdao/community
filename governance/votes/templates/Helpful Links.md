@@ -29,7 +29,7 @@
 
 ### DC-IAM
 
-[Autoline (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam)
+[Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam)
 [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line)
 [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap)
 [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl)
@@ -66,3 +66,8 @@
 [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit)
 [Target Borrow Rate (`bar`)](https://manual.makerdao.com/module-index/module-dai-direct-deposit#target-borrow-rate-bar)
 [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit)
+
+### Ecosystem Actors
+[Dewiz](https://dewiz.xyz/)
+
+
