@@ -29,7 +29,7 @@
 
 ### DC-IAM
 
-[Debt Ceiling Instance Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam)
+[Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam)
 [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line)
 [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap)
 [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl)
