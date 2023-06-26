@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Set `hop` to **1577 seconds** - `hop` defines the minimum interval between `kicks`, therefore setting the maximum allowed frequency of market actions taking place.
 * Set `want` to **0.98** - `want` defines the relationship between the purchase price of MKR and the price provided by the MKR/USD oracle, i.e. the slippage. A `want` of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price.
 * Set `bump` to **5,000 DAI** - `bump` defines the amount of DAI that will be sold for MKR in each market action, while the Surplus Buffer exceeds the Surplus Buffer Upper Limit - see below.
-* Set `receiver` to **MCD_Pause_Proxy ([0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb)** - the `receiver` is the destination address of the LP tokens purchased by the Smart Burn Engine.
+* Set `receiver` to **MCD_Pause_Proxy ([0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb))** - the `receiver` is the destination address of the LP tokens purchased by the Smart Burn Engine.
 
 An explanation of the Smart Burn Engine as well as links to the relevant contract code and audits is available on the forum. Please review the discussion [thread](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) to help inform your position before voting.
 
