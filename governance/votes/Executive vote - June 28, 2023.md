@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] BlockTower Andromeda Updates, GUSD PSM Parameter Changes, and Other Actions - June 28, 2023
 summary: BlockTower Andromeda Updates; Reduce GUSD PSM Debt Ceiling and Fee Out; Aligned Delegate One-Off Compensation; Core Unit Vesting Transfers; Reimburse BlockTower Legal Expenses; Add Chainlink keeper network treasury address; Update on-chain Monetalis Clydesdale RWA Agreement. 
 date: 2023-06-28T00:00:00.000Z
-address: "$spell_address"
+address: "0x07D8D43916bc235B71d9683111De7c7c626Bb906"
 
 ---
 # [Executive Proposal] BlockTower Andromeda Updates, GUSD PSM Parameter Changes, and Other Actions - June 28, 2023
