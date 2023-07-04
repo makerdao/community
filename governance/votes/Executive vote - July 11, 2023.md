@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Stability Scope Parameter Changes, Smart Burn Engine Deployment, Various Budget Streams and Payments - July 11, 2023
-summary: Deploy Smart Burn Engine, Change Stability Scope parameters, set up payments and streams to Aligned Delegates, Chronicle Labs and DECO
+title: Template - [Executive Vote] Stability Scope Parameter Changes, Smart Burn Engine Deployment, DssCron Housekeeping, Various Budget Streams and Payments - July 11, 2023
+summary: Deploy Smart Burn Engine, Change Stability Scope parameters, set up payments and streams to Aligned Delegates, Chronicle Labs and DECO, DssCron Housekeeping tasks
 date: $2023-07-11T00:00:00.000Z
 address: "$spell_address"
 
