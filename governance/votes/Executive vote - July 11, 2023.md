@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The Smart Burn Engine will be deployed and the old MCD_Flapper will be  disabled
+- The Smart Burn Engine will be deployed and the old MCD_Flapper will be disabled
 - The Dai Savings Rate will be reduced from 3.49% to 3.19%
 - Multiple risk parameters will be changed including Stability Fees, Maximum Debt Ceilings and Liquidation Ratios, as detailed below.
 - DssCron Housekeeping Additions
