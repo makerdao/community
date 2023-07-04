@@ -56,42 +56,31 @@ As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp) the Smart Burn En
 
 As per the Stability Scope Facilitator, SES, [these changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) will be implemented. 
 
-#### 		<u>DSR Changes</u> 
+#### DSR Changes
 
 - Reduce DSR by 0.30% from 3.49% to 3.19%
 
-  #### <u>Stability Fee Changes</u> 
+#### Stability Fee Changes
 
 - Reduce the ETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-
 - Reduce the ETH-B Stability Fee (SF) by 0.30% from 4.24% to 3.94%
-
 - Reduce the ETH-C Stability Fee (SF) by 0.30% from 3.49% to 3.19%
-
 - Reduce the WSTETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-
 - Reduce the WSTETH-B Stability Fee (SF) by 0.30% from 3.49% to 3.19%
-
 - Reduce the RETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-
 - Reduce the WBTC-A Stability Fee (SF) by 0.11% from 5.80% to 5.69%
-
 - Reduce the WBTC-B Stability Fee (SF) by 0.11% from 6.30% to 6.19%
-
 - Reduce the WBTC-C Stability Fee (SF) by 0.11% from 5.55% to 5.44%
 
-  #### <u>Liquidation Ratio Changes</u> 
+#### Liquidation Ratio Changes 
 
 - Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
-
 - Reduce WSTETH-B Liquidation Ratio by 10% from 185% to 175%
-
 - Reduce RETH-A Liquidation Ratio by 20% from 170% to 150%
 
-  #### <u>CRVV1ETHSTETH-A 1st Stage Offboarding</u>
+#### CRVV1ETHSTETH-A 1st Stage Offboarding
 
 -  Set CRVV1ETHSTETH-A Debt Ceiling to 0
-
 -  Remove CRVV1ETHSTETH-A from autoline
 
 ### Aligned Delegate Compensation Distribution for June 2023
