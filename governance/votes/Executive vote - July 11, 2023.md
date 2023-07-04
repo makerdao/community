@@ -5,7 +5,7 @@ date: $2023-07-11T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Scope Parameter Changes, Smart Burn Engine Deployment, Various Budget Streams and Payments - July 11, 2023
+# [Executive Proposal] Stability Scope Parameter Changes, Smart Burn Engine Deployment, DssCron Housekeeping, Various Budget Streams and Payments - July 11, 2023
 
 The $exec_publishers and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
