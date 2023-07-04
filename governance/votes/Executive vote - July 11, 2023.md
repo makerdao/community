@@ -100,17 +100,17 @@ TBD
 
 ### Budget Streams and Payments
 
-The following streams will be set up for Chronicle Labs
+As per [this poll](https://forum.makerdao.com/t/mip102c2-sp8-mip-amendment-subproposals/20761/8), the following streams will be set up for Chronicle Labs
 
 | Budget         | DAI Amount | MKR Amount | Start Date | End Date   | Destination Address                        |
 | -------------- | ---------- | ---------- | ---------- | ---------- | ------------------------------------------ |
 | Chronicle Labs | 3,721,800  | 2,216.4    | 2023-07-01 | 2024-06-30 | 0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f |
 
-As per their successful MKR Vesting Proposal, **125 MKR** will be transferred to the DECO wallet 0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f, if this executive proposal passes.
+As per [their successful MKR Vesting Proposal](https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226), **125 MKR** will be transferred to the DECO wallet 0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f, if this executive proposal passes.
 
 ### DssCron Housekeeping Additions
 
-The following active jobs will be added to the next spell, which will bring information on contracts authorized on the Pause Proxy to the Chainlog.
+As per [the SES Facilitator](https://forum.makerdao.com/t/dsscron-housekeeping-additions/21292), the following active jobs will be added to the next spell, which will bring information on contracts authorized on the Pause Proxy to the Chainlog.
 
 | Active Jobs                                                  |
 | ------------------------------------------------------------ |
