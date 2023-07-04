@@ -44,7 +44,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp), the Smart Burn Engine will be implemented and the old flapper Depreciated. The following actions will occur
 
 - Depreciate MCD_FLAP
-- Deploy FlapperUniV2
+- Deploy [FlapperUniV2](https://github.com/makerdao/dss-flappers/blob/univ2/README.md)
 - Reduce vow.hump by 200 million DAI from 250 million DAI to 50 million DAI
 - Reduce vow.bump by 25,000 DAI from 30,000 DAI to 5,000 DAI
 - Set hop to 1,577 seconds
@@ -56,11 +56,11 @@ As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp), the Smart Burn E
 
 As per the Stability Scope Facilitator, SES, [the following changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) will be implemented. 
 
-#### DSR Changes
+#### [Dai Savings Rate(DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Decrease
 
 - Reduce DSR by 0.30% from 3.49% to 3.19%
 
-#### Stability Fee Changes
+#### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Decreases
 
 - Reduce the ETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
 - Reduce the ETH-B Stability Fee (SF) by 0.30% from 4.24% to 3.94%
@@ -72,7 +72,7 @@ As per the Stability Scope Facilitator, SES, [the following changes](https://for
 - Reduce the WBTC-B Stability Fee (SF) by 0.11% from 6.30% to 6.19%
 - Reduce the WBTC-C Stability Fee (SF) by 0.11% from 5.55% to 5.44%
 
-#### Liquidation Ratio Changes 
+#### [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) Decreases
 
 - Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
 - Reduce WSTETH-B Liquidation Ratio by 10% from 185% to 175%
@@ -80,7 +80,7 @@ As per the Stability Scope Facilitator, SES, [the following changes](https://for
 
 #### CRVV1ETHSTETH-A 1st Stage Offboarding
 
--  Set CRVV1ETHSTETH-A Debt Ceiling to 0
+-  Set CRVV1ETHSTETH-A [Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) to 0
 -  Remove CRVV1ETHSTETH-A from autoline
 
 ### Aligned Delegate Compensation Distribution for June 2023
