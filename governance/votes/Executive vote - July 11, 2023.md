@@ -56,11 +56,11 @@ As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp) the Smart Burn En
 
 As per the Stability Scope Facilitator, SES, [these changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) will be implemented. 
 
-​		<u>DSR Changes</u> 
+#### 		<u>DSR Changes</u> 
 
 - Reduce DSR by 0.30% from 3.49% to 3.19%
 
-  <u>Stability Fee Changes</u> 
+  #### <u>Stability Fee Changes</u> 
 
 - Reduce the ETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
 
@@ -80,7 +80,7 @@ As per the Stability Scope Facilitator, SES, [these changes](https://forum.maker
 
 - Reduce the WBTC-C Stability Fee (SF) by 0.11% from 5.55% to 5.44%
 
-  <u>Liquidation Ratio Changes</u> 
+  #### <u>Liquidation Ratio Changes</u> 
 
 - Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
 
@@ -88,7 +88,7 @@ As per the Stability Scope Facilitator, SES, [these changes](https://forum.maker
 
 - Reduce RETH-A Liquidation Ratio by 20% from 170% to 150%
 
-  <u>CRVV1ETHSTETH-A 1st Stage Offboarding</u>
+  #### <u>CRVV1ETHSTETH-A 1st Stage Offboarding</u>
 
 -  Set CRVV1ETHSTETH-A Debt Ceiling to 0
 
