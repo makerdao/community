@@ -54,7 +54,7 @@ As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp) the Smart Burn En
 
 ### Stability Scope Parameter Changes
 
-As per the Stability Scope Facilitator, SES, [these changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) will be implemented. 
+As per the Stability Scope Facilitator, SES, [the following changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) will be implemented. 
 
 #### DSR Changes
 
