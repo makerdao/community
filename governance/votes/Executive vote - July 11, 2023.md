@@ -41,7 +41,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Smart Burn Engine Deployment
 
-As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp) the Smart Burn Engine will be implemented and the old flapper Depreciated. The following actions will occur
+As per [this poll](https://vote.makerdao.com/polling/QmQmxEZp), the Smart Burn Engine will be implemented and the old flapper Depreciated. The following actions will occur
 
 - Depreciate MCD_FLAP
 - Deploy FlapperUniV2
