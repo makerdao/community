@@ -1,11 +1,10 @@
-_Note: This is a training exercise trial proposal from the DAO Masons_
-
 ---
 title: Multiswap Conduit, FlapperUniV2, Cron Jobs to Chainlog, Scope defined Parameter Changes and Other Actions, July 12, 2023
-summary: Parameter changes for multiple scope aspects; Dai Savings Rate adjustment; budget streams for Chronicle Labs and Jet Stream; cancellation of DUX-001 budget; funds transferred to Jet Stream Ecosystem and various Core Units; deployment of FlapperUniV2; Cron Jobs addition to Chainlog; and CRVV1ETHSTETH-A offboarding.
+summary: Includes parameter changes for multiple scope aspects; Dai Savings Rate adjustment; budget streams for Chronicle Labs and Jet Stream; cancellation of DUX-001 budget; funds transferred to Jet Stream Ecosystem and various Core Units; deployment of FlapperUniV2; Cron Jobs addition to Chainlog; and CRVV1ETHSTETH-A offboarding.
 date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
 ---
+
 # Multiswap Conduit, FlapperUniV2, Cron Jobs to Chainlog, Scope defined Parameter Changes and Other Actions - July 12, 2023
 
 The Governance Facilitator(s) and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
@@ -56,20 +55,20 @@ As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), and
 Decrease the DSR by 0.30% from 3.49% to 3.19%
 
 **[Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) Changes**
-Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
-Reduce WSTETH-B Liquidation Ratio by 10% from 185% to 175%
-Reduce RETH-A Liquidation Ratio by 20% from 170% to 150%
+- Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
+- Reduce WSTETH-B Liquidation Ratio by 10% from 185% to 175%
+- Reduce RETH-A Liquidation Ratio by 20% from 170% to 150%
 
 **[Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Reductions**
-Reduce the ETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-Reduce the ETH-B Stability Fee (SF) by 0.30% from 4.24% to 3.94%
-Reduce the ETH-C Stability Fee (SF) by 0.30% from 3.49% to 3.19%
-Reduce the WSTETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-Reduce the WSTETH-B Stability Fee (SF) by 0.30% from 3.49% to 3.19%
-Reduce the RETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
-Reduce the WBTC-A Stability Fee (SF) by 0.11% from 5.80% to 5.69%
-Reduce the WBTC-B Stability Fee (SF) by 0.11% from 6.30% to 6.19%
-Reduce the WBTC-C Stability Fee (SF) by 0.11% from 5.55% to 5.44%
+- Reduce the ETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
+- Reduce the ETH-B Stability Fee (SF) by 0.30% from 4.24% to 3.94%
+- Reduce the ETH-C Stability Fee (SF) by 0.30% from 3.49% to 3.19%
+- Reduce the WSTETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
+- Reduce the WSTETH-B Stability Fee (SF) by 0.30% from 3.49% to 3.19%
+- Reduce the RETH-A Stability Fee (SF) by 0.30% from 3.74% to 3.44%
+- Reduce the WBTC-A Stability Fee (SF) by 0.11% from 5.80% to 5.69%
+- Reduce the WBTC-B Stability Fee (SF) by 0.11% from 6.30% to 6.19%
+- Reduce the WBTC-C Stability Fee (SF) by 0.11% from 5.55% to 5.44%
 
 #### CRVV1ETHSTETH-A 1st Stage Offboarding
 
