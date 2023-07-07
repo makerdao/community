@@ -7,7 +7,7 @@ address: "$spell_address"
 
 # [Executive Proposal] Multiswap Conduit, FlapperUniV2, Cron Jobs to Chainlog, Scope defined Parameter Changes and Other Actions - July 12, 2023
 
-The Governance Facilitator(s) and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitator(s), Sidestream, dewiz, and PullUp have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
