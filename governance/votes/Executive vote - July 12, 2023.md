@@ -185,7 +185,7 @@ As part of their As part of their [voluntary offboarding](https://forum.makerdao
 
 The Spark Protocol Proxy Spell at [0x843A0539Ca7466Abcb769f1c1d30C8423e13A297](https://etherscan.io/address/0x843A0539Ca7466Abcb769f1c1d30C8423e13A297) will be executed if this executive proposal passes.
 
-This spell will free the sDAI market on Spark Protocol in anticipation of further upgrades.
+This spell will freeze the sDAI market on Spark Protocol in anticipation of further upgrades.
 
 Further information may be found on the forum [here](https://forum.makerdao.com/t/freeze-the-sdai-market-on-spark/21322).
 
