@@ -40,9 +40,18 @@
 
 ## Self-Review
 
-- [ ] Do any '$' parameter signifiers remain?
+- [ ] Do any '$' parameter signifiers remain? (spell address is unknown at this point)
 - [ ] Do the executive title, summary and executive summary accurately reflect executive copy content?
 - [ ] Read the executive copy in full, with the above checklists and general readibility in mind. Make any required changes.
 - [ ] Run the copy through a spelling and grammar checker - do not blindly accept suggested changes.
 - [ ] Inform reviewer that the executive copy is ready to review
 - [ ] Commit changes, and create a PR to the Community github repository.
+
+## Post-Review
+
+- [ ] Merge approved executive copy PR.
+- [ ] Inform technical teams that the copy is ready and provide link.
+- [ ] Once technical teams have provided a spell address, add it to the executive copy.
+- [ ] Update the proposals.json to set the active proposal on the portal.
+- [ ] Refresh portal cache.
+- [ ] Inform community of new executive proposal.
