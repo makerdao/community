@@ -78,9 +78,9 @@ As per [MIP104 ](https://mips.makerdao.com/mips/details/MIP104#0-the-stability-s
 
 This change will be happening alongside the other [Stability Scope Parameter changes](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6).
 
-### Deploy Multiswap Conduit for RWA015-A - Pending sign off
+### Deploy Multiswap Conduit for RWA015-A (Andromeda)
 
-Following the results of a recent [technical assessment from ChainSecurity](https://github.com/makerdao/rwa-toolkit/blob/8d30ed2cb657641253d45b57c894613e26b4ae1b/audits/ChainSecurity_MakerDAO_RWA_Toolkit_audit.pdf), the following changes will be made to [BlackTower Andromeda RWA015](https://github.com/makerdao/rwa-toolkit) if this proposal passes:
+Following the results of the recent [technical assessment from ChainSecurity](https://github.com/makerdao/rwa-toolkit/blob/8d30ed2cb657641253d45b57c894613e26b4ae1b/audits/ChainSecurity_MakerDAO_RWA_Toolkit_audit.pdf), the following changes will be made to [BlackTower Andromeda RWA015](https://github.com/makerdao/rwa-toolkit) if this proposal passes:
 
 - A new version of the output conduit will be added to the chainlog as `RWA015_A_OUTPUT_CONDUIT`. This will allow an authorized party to choose which PSM they want to interact with.
 - The operator on the old output conduit will be de-authorized.
