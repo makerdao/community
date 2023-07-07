@@ -17,18 +17,15 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-- Multiple risk parameters will be changed including Stability Fees, and Liquidation Ratios, as detailed below.
+- Multiple risk parameters will be changed including Stability Fees and Liquidation Ratios, as detailed below.
 - The Dai Savings Rate will be decreased to 3.19%.
-- DAI streams totaling 6,685,806 DAI will be set up for Chronicle Labs and Jet Stream budgets.
-- MKR streams totaling 3836.33 MKR will be set up for Chronicle Labs and Jet Stream budgets. 
+- DAI streams totaling 6,685,806 DAI will be set up for Chronicle Labs and Jet Stream development budgets.
+- MKR streams totaling 3836.33 MKR will be set up for Chronicle Labs and Jet Stream development budgets. 
 - Current streaming budget for DUX-001 will be canceled.
 - A total of 494,001 DAI will be transferred to the Jet Stream Ecosystem.
 - A total of 229.44 MKR will be distributed to previously active Aligned Delegates.
 - A total of 125 MKR will be transferred to the Deco Fixed Rate Core Unit.
 - A total of 56.8 MKR will be transferred to the Development & UX Core Unit (DUX-001). 
-
-
-
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
 - The FlapperUniV2 (Smart Burn Engine) will be added to replace Surplus Auctions (flaps).
@@ -52,7 +49,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), and the [adjustments to the base rate](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6), the following parameter changes will be made, if this executive proposal passes:
 
 **[Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Decrease**
-Decrease the DSR by 0.30% from 3.49% to 3.19%
+- Decrease the DSR by 0.30% from 3.49% to 3.19%
 
 **[Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) Changes**
 - Reduce WSTETH-A Liquidation Ratio by 10% from 160% to 150%
@@ -88,13 +85,13 @@ This change will be happening alongside the other [Stability Scope Parameter cha
 
 ### Deploy FlapperUniV2
 
-The Smart Burn Engine (Dss Flappers) allocates excess Dai from the Surplus buffer and accumulates MKR tokens in the form of Univ2 LP tokens. Surplus Auctions (flaps) will be replaced by the [Dss Flappers](https://github.com/makerdao/dss-flappers/blob/univ2/README.md) contracts ([audit](https://chainsecurity.com/security-audit/maker-flapperuniv2/)).
+The Smart Burn Engine (Dss Flappers) allocates excess Dai from the Surplus Buffer and accumulates MKR tokens in the form of Univ2 LP tokens. Surplus Auctions (flaps) will be replaced by the [Dss Flappers](https://github.com/makerdao/dss-flappers/blob/univ2/README.md) contracts ([audit](https://chainsecurity.com/security-audit/maker-flapperuniv2/)).
 
 Given the successful launch [poll](https://vote.makerdao.com/polling/QmQmxEZp) the following actions will take place if this proposal passes: 
 
 * Deprecate MCD_FLAP and remove MCD_FLAP from chainlog
 * Deploy FlapperUniV2
-* Set ``hop`` to 1,577 seconds - hop defines the minimum interval between kicks, limiting the frequency of market actions taking place
+* Set ``hop`` to 1,577 seconds - hop defines the minimum interval between kicks, limiting the frequency of market actions.
 * Set ``want`` to 0.98 - A want of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price.
 * Set ``receiver`` to [MCD_PAUSE_PROXY](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) - destination address of the LP tokens purchased by the Smart Burn Engine.
 * Add FlapperJob and add to chainlog
@@ -178,7 +175,7 @@ As per previously ratified [polling](https://vote.makerdao.com/polling/QmdnSKPu)
 
 ### Additional Context Regarding Jetstream
 
-[DUX-001](https://mips.makerdao.com/mips/details/MIP39c2SP18) will be winding down its core unit and [bootstrapping the Jetstream Ecosystem Actor](https://mips.makerdao.com/mips/details/MIP39c2SP18), which will carry on the mandate of DUX. This is done with the [approval](http://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306/2) of the [Sustainable Ecosystem Scaling Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP10) as defined in [MIP-108.9](https://mips.makerdao.com/mips/details/MIP108#9-launch-project) under 'Launch Unit'
+[DUX-001](https://mips.makerdao.com/mips/details/MIP39c2SP18) will be winding down its core unit and [bootstrapping the Jetstream Ecosystem Actor](https://mips.makerdao.com/mips/details/MIP39c2SP18), which will carry on the mandate of DUX. This is done with the [approval](http://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306/2) of the [Sustainable Ecosystem Scaling Core Unit](https://mips.makerdao.com/mips/details/MIP39c2SP10) as defined in [MIP-108.9](https://mips.makerdao.com/mips/details/MIP108#9-launch-project) under 'Launch Unit.'
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
 
