@@ -1,5 +1,5 @@
 ---
-name: BLUE
+name: $delegate_name
 external_profile_url:
 avc_name: Neutral
 ---
@@ -8,6 +8,10 @@ avc_name: Neutral
 
 This is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.
 
-# BLUE
-Delegate Address: 0x766b115d7e179bb8980a575dfa02531245e0c4c0  
-Forum: @BLUE  
+# $delegate_name
+Delegate Address: $delegate_controller_address
+Forum: $delegate_forum
+
+## Delegate Statement
+
+$delegate_statement_optional
