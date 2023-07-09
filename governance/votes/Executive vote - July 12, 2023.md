@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes and additions** will occur within the Maker Protocol:
-- A new multiswap output conduit for BlockTower Andromeda (RWA015-A) will be deloyed, as detailed below.
+- A new multiswap output conduit for BlockTower Andromeda (RWA015-A) will be deployed, as detailed below.
 - The new Smart Burn Engine will be deployed, as detailed below.
 - Keeper jobs will be updated, as detailed below.
 - Multiple parameter changes per the Stability Scope will be made, as detailed below.
@@ -49,7 +49,7 @@ As per the original [technical assessment](https://forum.makerdao.com/t/rwa015-p
 
 ### Smart Burn Engine Deployment
 
-As per this successful govenrance [poll](https://vote.makerdao.com/polling/QmQmxEZp) and the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#9-surplus-buffer-and-smart-burn-engine) a new Smart Burn Engine will be deployed along with the following parameters, if this executive proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmQmxEZp) and the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#9-surplus-buffer-and-smart-burn-engine), a new Smart Burn Engine will be deployed along with the following parameters, if this executive proposal passes.
 
 - Deploy the new Smart Burn Engine as `MCD_FLAP`.
 - The [Maximum System Surplus (`vow.hump`)](https://manual.makerdao.com/parameter-index/surplus-auction/param-surplus-auction-limit) will be reduced by 200 million DAI from 250 million DAI to **50 million DAI**.
@@ -132,7 +132,7 @@ This is a total of **229.44 MKR**.
 
 As per this [post](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238) from Block Analitica, CRVV1ETHSTETH-A meets the criteria for offboarding detailed in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104). The following initial actions will be taken if this executive proposal passes.
 
-- Remove CRVV1ETHSTETH-A from the DC-IAM (autoline).
+- Remove CRVV1ETHSTETH-A from the [DC-IAM (autoline)](https://manual.makerdao.com/module-index/module-dciam).
 - Set the CRVV1ETHSTETH-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **0 DAI**.
 
 ### Ecosystem Actor Funding
@@ -159,7 +159,7 @@ Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-curren
 
 #### Ecosystem Actor DAI Transfer
 
-As part of the Launch Project the following Dai transfer will be made if this executive proposal passes.
+As part of the Launch Project, the following Dai transfer will be made if this executive proposal passes.
 
 - Transfer **494,001 DAI** to the Jetstream Auditor Wallet at [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 
@@ -179,7 +179,7 @@ This is the remainder of the MKR due to the DUX Core Unit under that agreement. 
 
 ### Cancel Core Unit DAI stream
 
-As part of their As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), DAI stream ID 14 to DUX-001 will be cancelled, if this executive proposal passes.
+As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), DAI stream ID 14 to DUX-001 will be cancelled, if this executive proposal passes.
 
 ### Spark Proxy Spell Execution
 
