@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Deploy New Flapper
 
-As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278), which was approved by this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201)a new version of the Flapper will be deployed utilizing a Uniswap v2 pool and changes to Maker parameters below, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278), which was approved by this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) a new version of the Flapper will be deployed utilizing a Uniswap v2 pool and changes to Maker parameters below, if this executive proposal passes.
 
 - Deprecate MCD_FLAP and remove MCD_FLAP from chainlog
 - Deploy FlapperUniV2
@@ -52,6 +52,32 @@ As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-dep
 - Set pip to 0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df 
 
 For more information please see the new Flapper contents [here](https://github.com/makerdao/dss-flappers/blob/univ2/README.md).
+
+### Recommended Parameter Changes
+
+As per this [forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6), the following parameter changes as well as the first step of offboarding the Curve stETH/ETH Vault will take place if this executive proposal passes. 
+
+#### DSR Update
+
+- Reduce [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) by 0.30% from 3.49% to **3.19%**
+
+#### Liquidation Ratio Changes
+
+- Reduce WSTETH-A  [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 10% from 160% to **150%**
+- Reduce WSTETH-B  [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 10% from 185% to **175%**
+- Reduce RETH-A [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 20% from 170% to **150%**
+
+#### Stability Fee Changes
+
+- Reduce the ETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 0.30% from 3.74% to **3.44%**
+- Reduce the ETH-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.30% from 4.24% to **3.94%**
+- Reduce the ETH-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.30% from 3.49% to **3.19%**
+- Reduce the WSTETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) by 0.30% from 3.74% to **3.44%**
+- Reduce the WSTETH-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.30% from 3.49% to **3.19%**
+- Reduce the RETH-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.30% from 3.74% to **3.44%**
+- Reduce the WBTC-A [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.11% from 5.80% to **5.69%**
+- Reduce the WBTC-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.11% from 6.30% to **6.19%**
+- Reduce the WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.11% from 5.55% to **5.44%**
 
 
 ## Review
