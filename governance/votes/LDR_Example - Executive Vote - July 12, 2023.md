@@ -145,6 +145,22 @@ As per this [forum post](https://forum.makerdao.com/t/rwa015-project-andromeda-t
 
 For more information, the ChainSecurity audit report for **MultiSwapOutputConduit** is availible [here]([https://github.com/makerdao/rwa-toolkit/blob/8d30ed2cb657641253d45b57c894613e26b4ae1b/audits/ChainSecurity_MakerDAO_RWA_Toolkit_audit.pdf 2](https://github.com/makerdao/rwa-toolkit/blob/8d30ed2cb657641253d45b57c894613e26b4ae1b/audits/ChainSecurity_MakerDAO_RWA_Toolkit_audit.pdf)).
 
+ 
+### DssCron Chainlog Housekeeping
+
+As per this [forum post](https://forum.makerdao.com/t/dsscron-housekeeping-additions/21292), the Chainlog will be brought up to date with DssCron addresses if this executive proposal passes. 
+
+#### Address Updates
+
+- Sequencer: [0x238b4E35dAed6100C6162fAE4510261f88996EC9](https://etherscan.io/address/0x238b4E35dAed6100C6162fAE4510261f88996EC9).
+- AutoLineJob [thi=1000 bps, tlo=5000 bps]: [0x67AD4000e73579B9725eE3A149F85C4Af0A61361](https://etherscan.io/address/0x67AD4000e73579B9725eE3A149F85C4Af0A61361).
+- LerpJob [maxDuration=1 day]: [0x8F8f2FC1F0380B9Ff4fE5c3142d0811aC89E32fB](https://etherscan.io/address/0x8F8f2FC1F0380B9Ff4fE5c3142d0811aC89E32fB)
+- D3MJob [threshold=500 bps, ttl=10 minutes]: [0x1Bb799509b0B039345f910dfFb71eEfAc7022323](https://etherscan.io/address/0x1Bb799509b0B039345f910dfFb71eEfAc7022323)
+- ClipperMomJob: [0xc3A76B34CFBdA7A3a5215629a0B937CBDEC7C71a](https://etherscan.io/address/0xc3A76B34CFBdA7A3a5215629a0B937CBDEC7C71a)
+- OracleJob: [0xe717Ec34b2707fc8c226b34be5eae8482d06ED03](https://etherscan.io/address/0xe717Ec34b2707fc8c226b34be5eae8482d06ED03).
+- Add FlapperJob 
+
+
 ## Review
 
 Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
