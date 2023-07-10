@@ -3,7 +3,6 @@ title: Template - [Executive Vote] Deploy new Flapper, Facilitator parameter cha
 summary: Initiate new Flapper with initial parameters, recommended parameter changes from Responsible Facilitators including step one of Curve stETH/ETH pool vault offboarding, Core Unit Vesting for DUX-001 and DECO-001 + Jetstream and Chronicle streams, latest Aligned Delegate Compensation, trigger Spark proxy-spell, BlockTower/Andromeda (RWA015-A) output conduit change for multi-swap, adding current state of DssCron to Chainlog. 
 date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
-
 ---
 # [Executive Proposal] Deploy new Flapper, Facilitator parameter changes, budget items, Aligned Delegate Compensation, Spark Protocol proxy-spell, Andromeda multi-swap output conduit, DssCron housekeeping  - July 12, 2023
 
@@ -11,26 +10,26 @@ The Governance Facilitators and [Dewiz](https://dewiz.xyz/) have placed an execu
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
-
 ---
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+If this executive proposal passes, the following **major changes** will occur within the Maker Protocol:
+- Deploy new Flapper with Uniswap v2 pool and initial parameters.
+- Recommended Parameter Changes from Responsible Facilitators changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) , [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling), [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), and step 1 of offboarding Curve stETH/ETH Vault.
+- Budget stream management and distribution, as detailed below.
+- Latest distribution of Aligned Delegate MKR. 
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+If this executive proposal passes, the following **minor changes** will be made to the Maker Protocol:
+- Pass Spark proxy-spell, with the effects detailed below .
+- Update Blocktower/Andromeda (RWA015-A) Multiswap Output Conduit.
+- Add Chainlog records for DssCron Housekeeping. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
