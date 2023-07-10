@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Deploy new Flapper, initiate Curve steth-eth offboarding, parameter changes, delegate compensation, budget actions, RWA015-A housekeeping, DssCron chainlog housekeeping - July 12, 2023
-summary: Deploy Flapper UniV2 with inital parameters, step 1 of CRVV1ETHSTETH-A offboarding with initial parameters, June Aligned Delegate compensation, budget implementation for Cronicle and Jetstream; MKR vesting for Development and UX and Deco Core Units, update Andromeda output conduit, update chainlog to sync with DssCron addresses.
+title: Template - [Executive Vote] Deploy new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, budget actions, Aligned Delegate compensation, Spark Protocol proxy-spell, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
+summary: Deploy Flapper UniV2 with initial parameters, step 1 of CRVV1ETHSTETH-A offboarding with initial parameters, recommended parameter changes from Responsible Facilitators, June Aligned Delegate compensation, budget implementation for Chronicle and Jetstream; MKR vesting for Development and UX and Deco Core Units, update RWA015-A output conduit, update Chainlog to sync with DssCron addresses.
 date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Deploy new Flapper, initiate Curve steth-eth offboarding, parameter changes, delegate compensation, budget actions, RWA015-A housekeeping, DssCron chainlog housekeeping - July 12, 2023 
+# [Executive Proposal] Deploy new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, budget actions, Aligned Delegate compensation, Spark Protocol proxy-spell, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
 
 The Governance Facilitators and [dewiz](https://dewiz.xyz/) have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,15 +16,16 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **major items** will occur within the Maker Protocol:
-- Flapper
-- Curve steth/eth offboarding
-- Scope Parameter changes 
+- A new Flapper will be deployed via Uniswap v2 pool and initial parameters, as detailed below.
+- Curve ETH/stETH offboarding step one will be initiated, with changes to [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) as described below.
+- Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) as described below.
+- Actions for budget stream management and distribution will take place, as detailed below.
+- 229.44 MKR will be distributed to Aligned Delegates for the June performance. 
 
 If this executive proposal passes, the following **minor items** will be made to the Maker Protocol:
-- Delegate Compensation
-- Budget Activities
-- RWA Housekeeping
-- DssCron HouseKeeping
+- A proxy spell for Spark Protocol will be executed, as detailed below.
+- RWA Housekeeping will be performed for Andromeda (RWA015-A) enabling the multi-swap conduit, as detailed below.
+- DssCron HouseKeeping will be performed to update the Chainlog with all used DssCron addresses, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -34,22 +35,33 @@ This executive proposal includes an office-hours modifier that means that it **c
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
-
 ---
 
-## Proposal Details
+## Major Proposal Details
 
-### $executive_entry_1
+### New Flapper Initiation
 
 $executive_entry_description_1
 
-### $executive_entry_2
+### Initiate Curve ETH/stETH Offboarding Parameters
 
 $executive_entry_description_2
 
-### $executive_entry_3
+### Responsible Facilitator Parameter Change Recommendations
 
 $executive_entry_description_3
+
+### Budget Management Actions
+
+### June Awards for Aligned Delegates
+
+## Minor Proposal Details
+
+### Spark Protocol Proxy Spell
+
+### Andromeda Output Conduit
+
+### DssCron Chainlog Housekeeping
 
 ## Review
 
