@@ -157,6 +157,8 @@ Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-curren
 | Chronicle Labs Auditor Wallet | 2023-07-01 | 2024-06-30 | 2023-07-01 | [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f) | 2,216.4      |
 | Jetstream Auditor Wallet      | 2023-06-26 | 2024-12-31 | 2023-06-26 | [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962) | 1,619.93     |
 
+*Note:* to accommodate the stream for Chronicle Labs the `cap` on the maximum annual MKR that can be vested through DssVest will be raised by this executive proposal.
+
 #### Ecosystem Actor Dai Transfer
 
 As part of the Launch Project, the following Dai transfer will be made if this executive proposal passes.
