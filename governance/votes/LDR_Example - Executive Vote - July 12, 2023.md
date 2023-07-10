@@ -79,6 +79,15 @@ As per this [forum post](https://forum.makerdao.com/t/stability-scope-parameter-
 - Reduce the WBTC-B [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.11% from 6.30% to **6.19%**
 - Reduce the WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)  by 0.11% from 5.55% to **5.44%**
 
+#### Curve stETH/ETH Initial Offboarding Parameters 
+
+- Set CRVV1ETHSTETH-A  [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **0**.
+- Remove CRVV1ETHSTETH-A from [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam).
+
+### Budget Items and Housekeeping
+
+As per this [forum post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) and this [poll](https://vote.makerdao.com/polling/QmdnSKPu) the following budget actions will take place if this executive vote passes.
+
 
 ## Review
 
