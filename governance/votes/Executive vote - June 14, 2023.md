@@ -107,7 +107,7 @@ As per the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104), and
 - Increase the WSTETH-A Stability Fee by 1.99% from 1.75% to **3.74%**.
 - Increase the WSTETH-B Stability Fee by 2.49% from 1% to **3.49%**.
 
-### Non-Scope Defined Paramater Changes
+### Non-Scope Defined Parameter Changes
 
 As per [this poll](https://vote.makerdao.com/polling/QmQXhS3Z), the following parameter changes will be made, if this executive proposal passes:
 
