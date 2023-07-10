@@ -39,11 +39,11 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### BlockTower Andromeda (RWA015-A) Update
 
-As per the original [technical assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974) a multiswap Output Conduit was initially proposed for this vault type. This will allow the `operator` role to choose which PSM is used to obtain redeemable stablecoins in return for the Dai drawn from the vault. At present the vault is set up to only use the USDP PSM as a compromise while the multiswap tool was developed. The multiswap Output Conduit is now audited and deployed, and the following actions will be carried out if this executive proposal passes. 
+As per the original [technical assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974), a multiswap Output Conduit was initially proposed for this vault type. This will allow the `operator` role to choose which PSM is used to obtain redeemable stablecoins in return for Dai drawn from the vault. Currently, the vault is configured to use the USDP PSM as a compromise while the multiswap tool was developed. The multiswap Output Conduit is now audited and deployed, and the following actions will be carried out, if this executive proposal passes. 
 
-- A new Output Conduit at [0x1E86CB085f249772f7e7443631a87c6BDba2aCEb](https://etherscan.io/address/0x1E86CB085f249772f7e7443631a87c6BDba2aCEb) will be authorized, allowing the `operator` to select which PSM BlockTower Andromeda transactions are routed through. Operationally, this means that USDC, GUSD, or USDP may be used for drawdowns.
+- A new Output Conduit at [0x1E86CB085f249772f7e7443631a87c6BDba2aCEb](https://etherscan.io/address/0x1E86CB085f249772f7e7443631a87c6BDba2aCEb) will be authorized, allowing the `operator` to select which PSM BlockTower Andromeda transactions are routed through. This means that USDC, GUSD, or USDP may be used for drawdowns.
 - The relevant [Chainlog](https://chainlog.makerdao.com/) entry `RWA015_A_OUTPUT_CONDUIT` will be updated to reflect the change to the Output Conduit.
-- The USDP, GUSD, and USDC PSMs will be whitelisted for use by calling `clap`.
+- The USDP, GUSD, and USDC PSMs will be whitelisted by calling `clap`.
 - The current Output Conduit will be deauthorized.
 - The old `RWA015_A_OUTPUT_CONDUIT_LEGACY` will be removed from the chainlog as it will no longer be used.
 
@@ -54,15 +54,15 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmQmx
 - Deploy the new Smart Burn Engine as `MCD_FLAP`.
 - The [Maximum System Surplus (`vow.hump`)](https://manual.makerdao.com/parameter-index/surplus-auction/param-surplus-auction-limit) will be reduced by 200 million DAI from 250 million DAI to **50 million DAI**.
 - The [Surplus Auction Lot Size (`vow.bump`)](https://manual.makerdao.com/parameter-index/surplus-auction/param-surplus-lot-size) will be reduced by 25,000 DAI from 30,000 DAI to **5,000 DAI**.
-- The `hop` will be set to **1,577 seconds**. The `hop` parameter defines the minimum amount of time that must elapse between `kick`s, therefore setting the maximum frequency of market actions.
-- The `want` will be set to **0.98**. The `want` parameter defines the relationship between the purchase price of MKR and the price provided by the MKR/USD oracle, i.e. the slippage. A want of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price. However, if the price of MKR on Uniswap is better than the Oracle price, the Smart Burn Engine will not be constrained.
+- The `hop` will be set to **1,577 seconds**. The `hop` parameter defines the minimum amount of time that must elapse between `kick`s, setting the maximum frequency of market actions.
+- The `want` will be set to **0.98**. The `want` parameter defines the relationship between the purchase price of MKR and the price provided by the MKR/USD oracle, i.e., the slippage. A want of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price. However, if the price of MKR on Uniswap is better than the Oracle price, the Smart Burn Engine will not be constrained.
 - The `pip` will be set to `0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df`. The `pip` is the oracle referenced by the Smart Burn Engine.
 - The `receiver` will be set to the Pause Proxy address - `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB `. The `receiver` is the address that LP tokens will be deposited to after each market action.
-- A `FlapperJob` will be added to the chainlog and keeper network sequencer. This will allow the Maker Keeper Network to trigger the Smart Burn Engine when able to do so.
+- A `FlapperJob` will be added to the chainlog and keeper network sequencer. This will allow the Maker Keeper Network to trigger the Smart Burn Engine.
 
 The new Smart Burn Engine will purchase MKR tokens for Dai from the Surplus Buffer. This MKR will then be paired with more Dai from the Surplus Buffer and deposited to UniswapV2's DAI/MKR pool. The LP tokens will be stored in the Pause Proxy.
 
-As there can only be one `Flapper` active in the Maker Protocol, the old `MCD_FLAP` used for buy-and-burn will be deactivated.
+As only one `Flapper` can be active in the Maker Protocol, the old `MCD_FLAP` used for buy-and-burn will be deactivated.
 
 Please review the [discussion thread](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) for more information.
 
@@ -77,7 +77,7 @@ As per this [post](https://forum.makerdao.com/t/dsscron-housekeeping-additions/2
 - **ClipperMomJob:** `0xc3A76B34CFBdA7A3a5215629a0B937CBDEC7C71a`
 - **OracleJob:** `0xe717Ec34b2707fc8c226b34be5eae8482d06ED03`
 
-For more information on these keeper jobs and the parameters listed please refer to the DssCron [Github repo](https://github.com/makerdao/dss-cron).
+For more information on these keeper jobs and the parameters listed, please refer to the DssCron [Github repo](https://github.com/makerdao/dss-cron).
 
 ### Scope Defined Parameter changes
 
@@ -146,7 +146,7 @@ Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-curren
 | Chronicle Labs Auditor Wallet | 2023-07-01 | 2024-06-30 | [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f) | 3,721,800    |
 | Jetstream Auditor Wallet      | 2023-07-01 | 2024-12-31 | [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962) | 2,964,006    |
 
-Note the stream to Jetstream is part of the Launch Project and is further described in [this](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) forum post.
+Note that the stream to Jetstream is part of the Launch Project and is further described in [this](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) forum post.
 
 #### Ecosystem Actor MKR Budget Streams
 
@@ -157,7 +157,7 @@ Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-curren
 | Chronicle Labs Auditor Wallet | 2023-07-01 | 2024-06-30 | 2023-07-01 | [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f) | 2,216.4      |
 | Jetstream Auditor Wallet      | 2023-06-26 | 2024-12-31 | 2023-06-26 | [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962) | 1,619.93     |
 
-*Note:* to accommodate the stream for Chronicle Labs the `cap` on the maximum annual MKR that can be vested through DssVest will be raised by this executive proposal.
+*Note:* to accommodate the stream for Chronicle Labs, this executive proposal will raise the `cap` on the maximum annual MKR that can be vested through DssVest.
 
 #### Ecosystem Actor Dai Transfer
 
@@ -165,7 +165,7 @@ As part of the Launch Project, the following Dai transfer will be made if this e
 
 - Transfer **494,001 DAI** to the Jetstream Auditor Wallet at [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 
-Note the transfer to Jetstream is part of the Launch Project and is further described in [this](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) forum post.
+Note that the transfer to Jetstream is part of the Launch Project and is further described in [this](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) forum post.
 
 ### Core Unit MKR Vesting Transfers
 
@@ -181,7 +181,7 @@ This is the remainder of the MKR due to the DUX Core Unit under that agreement. 
 
 ### Cancel Core Unit Dai stream
 
-As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), Dai stream ID 14 to DUX-001 will be cancelled, if this executive proposal passes.
+As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), Dai stream ID 14 to DUX-001 will be canceled if this executive proposal passes.
 
 ### Spark Proxy Spell Execution
 
