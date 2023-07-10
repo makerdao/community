@@ -38,17 +38,21 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Deploy New Flapper
 
-$executive_entry_description_1
+As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278), which was approved by this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201)a new version of the Flapper will be deployed utilizing a Uniswap v2 pool and changes to Maker parameters below, if this executive proposal passes.
 
-### $executive_entry_2
+- Deprecate MCD_FLAP and remove MCD_FLAP from chainlog
+- Deploy FlapperUniV2
+- Reduce vow.hump by 200 million DAI from 250 million DAI to **50 million DAI**
+- Reduce vow.bump by 25,000 DAI from 30,000 DAI to **5,000 DAI**
+- Set hop to **1,577 seconds**
+- Set want to **0.98**
+- Set receiver to MCD_PAUSE_PROXY
+- Set pip to 0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df 
 
-$executive_entry_description_2
+For more information please see the new Flapper contents [here](https://github.com/makerdao/dss-flappers/blob/univ2/README.md).
 
-### $executive_entry_3
-
-$executive_entry_description_3
 
 ## Review
 
