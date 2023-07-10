@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### BlockTower Andromeda (RWA015-A) Update
 
-As per the original [technical assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974) a multiswap Output Conduit was initially proposed for this vault type. This will allow the `operator` role to choose which PSM is used to obtain redeemable stablecoins in return for the DAI drawn from the vault. At present the vault is set up to only use the USDP PSM as a compromise while the multiswap tool was developed. The multiswap Output Conduit is now audited and deployed, and the following actions will be carried out if this executive proposal passes. 
+As per the original [technical assessment](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974) a multiswap Output Conduit was initially proposed for this vault type. This will allow the `operator` role to choose which PSM is used to obtain redeemable stablecoins in return for the Dai drawn from the vault. At present the vault is set up to only use the USDP PSM as a compromise while the multiswap tool was developed. The multiswap Output Conduit is now audited and deployed, and the following actions will be carried out if this executive proposal passes. 
 
 - A new Output Conduit at [0x1E86CB085f249772f7e7443631a87c6BDba2aCEb](https://etherscan.io/address/0x1E86CB085f249772f7e7443631a87c6BDba2aCEb) will be authorized, allowing the `operator` to select which PSM BlockTower Andromeda transactions are routed through. Operationally, this means that USDC, GUSD, or USDP may be used for drawdowns.
 - The relevant [Chainlog](https://chainlog.makerdao.com/) entry `RWA015_A_OUTPUT_CONDUIT` will be updated to reflect the change to the Output Conduit.
@@ -137,7 +137,7 @@ As per this [post](https://forum.makerdao.com/t/stability-scope-parameter-change
 
 ### Ecosystem Actor Funding
 
-#### Ecosystem Actor DAI Budget Streams
+#### Ecosystem Actor Dai Budget Streams
 
 Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-currently-incubating) and the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108) the following Dai Budget Streams will be set up, if this executive proposal passes.
 
@@ -157,7 +157,7 @@ Per the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#7-4-curren
 | Chronicle Labs Auditor Wallet | 2023-07-01 | 2024-06-30 | 2023-07-01 | [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f) | 2,216.4      |
 | Jetstream Auditor Wallet      | 2023-06-26 | 2024-12-31 | 2023-06-26 | [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962) | 1,619.93     |
 
-#### Ecosystem Actor DAI Transfer
+#### Ecosystem Actor Dai Transfer
 
 As part of the Launch Project, the following Dai transfer will be made if this executive proposal passes.
 
@@ -177,9 +177,9 @@ As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp
 
 This is the remainder of the MKR due to the DUX Core Unit under that agreement. The original MKR budget may be seen [here](https://mips.makerdao.com/mips/details/MIP40c3SP27).
 
-### Cancel Core Unit DAI stream
+### Cancel Core Unit Dai stream
 
-As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), DAI stream ID 14 to DUX-001 will be cancelled, if this executive proposal passes.
+As part of their [voluntary offboarding](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306), Dai stream ID 14 to DUX-001 will be cancelled, if this executive proposal passes.
 
 ### Spark Proxy Spell Execution
 
