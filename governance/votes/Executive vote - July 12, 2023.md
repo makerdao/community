@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor Funding, Spark Protocol Proxy Spell Execution - July 12, 2023
-summary: Deploy the multiswap output conduit for BlockTower Andromeda; deploy the new Smart Burn Engine; housekeeping updates to keeper jobs; multiple parameter changes per the Stability Scope, Delegate compensation for June 2023, funding and housekeeping for Ecosystem Actors; execute a proxy spell for Spark Protocol.
+title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
+summary: Deploy the multiswap output conduit for BlockTower Andromeda; deploy the new Smart Burn Engine; housekeeping updates to keeper jobs; multiple parameter changes per the Stability Scope, Delegate compensation for June 2023, funding and housekeeping for Ecosystem Actors and Core Units; execute a proxy spell for Spark Protocol.
 date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor Funding, Spark Protocol Proxy Spell Execution - July 12, 2023
+# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
 
 The Governance Facilitators and Sidestream, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -21,7 +21,7 @@ If this executive proposal passes, the following **changes and additions** will 
 - Keeper jobs will be updated, as detailed below.
 - Multiple parameter changes per the Stability Scope will be made, as detailed below.
 - Delegate compensation for June 2023 will be distributed, as detailed below.
-- Funding stream setup and housekeeping for two Ecosystem Actors will be carried out, as detailed below.
+- Funding stream setup, budget distributions, and housekeeping for Ecosystem Actors and Core Units will be carried out, as detailed below.
 - A proxy spell for Spark Protocol will be executed, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
