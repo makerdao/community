@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Deploy New Flapper
 
-As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278), which was approved by this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) a new version of the Flapper will be deployed utilizing a Uniswap v2 pool and changes to Maker parameters below, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278), which was approved by this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201)a new version of the Flapper will be deployed utilizing a Uniswap v2 pool and changes to Maker parameters below, if this executive proposal passes.
 
 - Deprecate MCD_FLAP and remove MCD_FLAP from chainlog
 - Deploy FlapperUniV2
@@ -86,7 +86,7 @@ As per this [forum post](https://forum.makerdao.com/t/stability-scope-parameter-
 
 ### Budget Items and Housekeeping
 
-As per this [forum post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) and this [poll](https://vote.makerdao.com/polling/QmdnSKPu) the following budget actions will take place if this executive vote passes.
+As per this [forum post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) and this [poll](https://vote.makerdao.com/polling/QmdnSKPu)the following budget actions will take place if this executive vote passes.
 
 #### Ecosystem Actor Dai Budget Stream
 
@@ -132,6 +132,12 @@ As per this [forum post](https://forum.makerdao.com/t/june-2023-aligned-delegate
 | Harmony | [0xF4704Aa4Ad22cAA2A3Dd7A7C529B4C32f7A421F2](https://etherscan.io/address/0xF4704Aa4Ad22cAA2A3Dd7A7C529B4C32f7A421F2) | 1.92 |
 | VoteWizard | [0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1](https://etherscan.io/address/0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1) | 1.6 |
 | Navigator | [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072) | 0.32 |
+
+### Spark Protocol Proxy-Spell
+
+As per this [forum post](https://forum.makerdao.com/t/freeze-the-sdai-market-on-spark/21322), the Spark Protocol Proxy-Spell at [0x843A0539Ca7466Abcb769f1c1d30C8423e13A297](https://etherscan.io/address/0x843A0539Ca7466Abcb769f1c1d30C8423e13A297) will be executed if this executive proposal passes.
+
+This is a temporary measure to freeze the sDAI market. The purpose of this update is to restrict sDAI as collateral to only short ETH and staked ETH. Freezing a market prevents new deposits, but users are always free to repay/withdraw.
 
 ## Review
 
