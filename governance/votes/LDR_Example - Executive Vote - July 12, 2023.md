@@ -1,15 +1,16 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
-summary: $summary
-date: $YYYY-MM-DDT00:00:00.000Z
+title: Template - [Executive Vote] Deploy new Flapper, Facilitator parameter changes, budget items, Aligned Delegate Compensation, Spark Protocol proxy-spell, Andromeda multi-swap output conduit, DssCron housekeeping  - July 12, 2023
+summary: Initiate new Flapper with initial parameters, recommended parameter changes from Responsible Facilitators including step one of Curve stETH/ETH pool vault offboarding, Core Unit Vesting for DUX-001 and DECO-001 + Jetstream and Chronicle streams, latest Aligned Delegate Compensation, trigger Spark proxy-spell, BlockTower/Andromeda (RWA015-A) output conduit change for multi-swap, adding current state of DssCron to Chainlog. 
+date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Deploy new Flapper, Facilitator parameter changes, budget items, Aligned Delegate Compensation, Spark Protocol proxy-spell, Andromeda multi-swap output conduit, DssCron housekeeping  - July 12, 2023
 
-The $exec_publishers and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators and [Dewiz](https://dewiz.xyz/) have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+
 
 ---
 
