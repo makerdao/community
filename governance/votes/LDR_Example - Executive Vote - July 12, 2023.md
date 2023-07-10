@@ -88,6 +88,28 @@ As per this [forum post](https://forum.makerdao.com/t/stability-scope-parameter-
 
 As per this [forum post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306) and this [poll](https://vote.makerdao.com/polling/QmdnSKPu) the following budget actions will take place if this executive vote passes.
 
+#### Ecosystem Actor Dai Budget Stream
+
+- Chronicle Labs Auditor Wallet will be streamed **3,721,800 DAI** from 2023-07-01 00:00:00 to 2024-06-30 23:59:59 at [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f).
+- Jetstream Auditor Wallet will be streamed **2,964,006 DAI** from 2023-07-01 00:00:00 to 2024-12-31 23:59:59  at [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962)
+
+#### Ecosystem Actor MKR Budget Stream
+
+- Chronicle Labs Auditor Wallet will be streamed **2,216.4 MKR** from 2023-07-01 00:00:00 to 2024-06-30 23:59:59 at [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f).
+- Jetstream Auditor Wallet will be streamed **1,619.93 MKR** from 2023-06-26 00:00:00 to 2024-12-31 23:59:59  at [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
+
+#### Ecosystem Actor Dai Transfer
+
+- Jetstream will receive 494,001 DAI at [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
+
+#### Core Unit MKR Vesting Transfer
+
+- DECO-001 will receive 125 MKR at [0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7).
+- DUX-001 will receive 56.48 MKR at [0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad](https://etherscan.io/address/0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad).
+
+#### Core Unit DAI Stream Cancel
+
+- yank DAI stream ID 14 (DUX-001) as it is replaced with the MKR stream above. 
 
 ## Review
 
