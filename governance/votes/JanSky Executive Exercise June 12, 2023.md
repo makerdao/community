@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Deploy new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, budget actions, Aligned Delegate compensation, Spark Protocol proxy-spell, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
-summary: Deploy Flapper UniV2 with initial parameters, step 1 of CRVV1ETHSTETH-A offboarding with initial parameters, recommended parameter changes from Responsible Facilitators, June Aligned Delegate compensation, budget implementation for Chronicle and Jetstream; MKR vesting for Development and UX and Deco Core Units, update RWA015-A output conduit, update Chainlog to sync with DssCron addresses.
+title: Template - [Executive Vote] Activate new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, Spark Protocol proxy spell, budget actions, Aligned Delegate compensation, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
+summary: Deploy new Flapper with initial parameters for UniswapV2, step 1 of CRVV1ETHSTETH-A offboarding with initial parameters, recommended parameter changes from Responsible Facilitators, freeze sDAI market on Spark Protocol, June Aligned Delegate compensation, budget implementation for Chronicle and Jetstream; MKR vesting for Development and UX and Deco Core Units, update RWA015-A output conduit, update Chainlog to sync with DssCron addresses.
 date: 2023-07-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Deploy new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, budget actions, Aligned Delegate compensation, Spark Protocol proxy-spell, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
+# [Executive Proposal] Activate new Flapper, initiate Curve ETH-stETH offboarding, Facilitator parameter changes, Spark Protocol proxy spell, budget actions, Aligned Delegate compensation, Andromeda housekeeping, DssCron Chainlog housekeeping - July 12, 2023
 
 The Governance Facilitators and [dewiz](https://dewiz.xyz/) have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **major items** will occur within the Maker Protocol:
 - A new Flapper (MKR burn engine) will be deployed with initial parameters to interact with a Uniswap v2 pool, as detailed below.
 - Curve ETH/stETH offboarding step one will be initiated, with changes to [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) as described below.
-- Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) as described below.
+- Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), and [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), as described below.
 - A proxy spell, freezing the sDAI market for Spark Protocol, will be executed, as detailed below.
 
 If this executive proposal passes, the following **minor items** will be made to the Maker Protocol:
@@ -53,13 +53,48 @@ For more information please the full set of actions listed in the "Contract" sec
 
 ### Initiate Curve ETH/stETH Offboarding Parameters
 
-$executive_entry_description_2
+As per this [Atlas MIP-62](https://mips.makerdao.com/mips/details/MIP62) the first step off collateral offboarding will take place for CRVV1ETHSTETH-A based on a request from a Responsible Facilitator [here](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6), if this executive proposal passes. 
+
+The CRVV1ETHSTETH-A [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will accordingly be set to **0**.
 
 ### Responsible Facilitator Parameter Change Recommendations
 
+As per this forum [post](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6) from a Responsible Facilitator, the following Risk Parameter updates will take place, if this executive proposal passes.
+
+#### DSR Update
+
+**Reduce the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) by 0.30%** from 3.49% to **3.19%**
+
+#### [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) Changes
+
+| Vault    | Current LR | Proposed LR |
+|----------|------------|-------------|
+| WSTETH-A | 160%       | **150%**    |
+| WSTETH-B | 185%       | **175%**    |
+| RETH-A   | 170%       | **150%**    |
+
+
+#### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) Changes
+
+| Vault    | Current SF | Proposed SF |
+|----------|------------|-------------|
+| ETH-A    | 3.74%      | **3.44%**   |
+| ETH-B    | 4.24%      | **3.94%**   |
+| ETH-C    | 3.49%      | **3.19%**   |
+| WSTETH-A | 3.74%      | **3.44%**   |
+| WSTETH-B | 3.49%      | **3.19%**   |
+| RETH-A   | 3.74%      | **3.44%**   |
+| WBTC-A   | 5.80%      | **5.69%**   |
+| WBTC-B   | 6.30%      | **6.19%**   |
+| WBTC-C   | 5.55%      | **5.44%**   |
+
 ### Spark Protocol Proxy Spell
 
-$executive_entry_description_3
+As per this forum [post](https://forum.makerdao.com/t/freeze-the-sdai-market-on-spark/21322), a proxy spell will be executed to freeze the sDAI market on Spark Protocol, if this executive proposal passes.
+
+"The purpose of this update is to restrict sDAI as collateral to only short ETH and staked ETH. Freezing a market prevents new deposits, but users are always free to repay/withdraw."
+
+Spell code for the proxy spell can be found at [0x843A0539Ca7466Abcb769f1c1d30C8423e13A297](https://etherscan.io/address/0x843A0539Ca7466Abcb769f1c1d30C8423e13A297#code).
 
 ## Minor Proposal Details
 
