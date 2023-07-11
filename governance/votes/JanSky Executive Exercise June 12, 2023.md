@@ -16,14 +16,14 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **major items** will occur within the Maker Protocol:
-- A new Flapper will be deployed via Uniswap v2 pool and initial parameters, as detailed below.
+- A new Flapper (MKR burn engine) will be deployed with initial parametersto interact with a Uniswap v2 pool, as detailed below.
 - Curve ETH/stETH offboarding step one will be initiated, with changes to [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) as described below.
-- Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) as described below.
-- Actions for budget stream management and distribution will take place, as detailed below.
-- 229.44 MKR will be distributed to Aligned Delegates for the June performance. 
+- Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) as described below.
+- A proxy spell freezing the sDAI market for Spark Protocol will be executed, as detailed below.
 
 If this executive proposal passes, the following **minor items** will be made to the Maker Protocol:
-- A proxy spell for Spark Protocol will be executed, as detailed below.
+- Actions for budget stream management and distribution will take place, as detailed below.
+- 229.44 MKR will be distributed to Aligned Delegates for their June performance. 
 - RWA Housekeeping will be performed for Andromeda (RWA015-A) enabling the multi-swap conduit, as detailed below.
 - DssCron HouseKeeping will be performed to update the Chainlog with all used DssCron addresses, as detailed below.
 
@@ -49,15 +49,15 @@ $executive_entry_description_2
 
 ### Responsible Facilitator Parameter Change Recommendations
 
+### Spark Protocol Proxy Spell
+
 $executive_entry_description_3
+
+## Minor Proposal Details
 
 ### Budget Management Actions
 
 ### June Awards for Aligned Delegates
-
-## Minor Proposal Details
-
-### Spark Protocol Proxy Spell
 
 ### Andromeda Output Conduit
 
