@@ -16,10 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **major items** will occur within the Maker Protocol:
-- A new Flapper (MKR burn engine) will be deployed with initial parametersto interact with a Uniswap v2 pool, as detailed below.
+- A new Flapper (MKR burn engine) will be deployed with initial parameters to interact with a Uniswap v2 pool, as detailed below.
 - Curve ETH/stETH offboarding step one will be initiated, with changes to [Debt Ceiling Instant Access Module (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) as described below.
 - Recommended parameter changes from Responsible Facilitators will be executed, including changes to the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate), [Liquidation Ratios (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio), [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee), and [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) as described below.
-- A proxy spell freezing the sDAI market for Spark Protocol will be executed, as detailed below.
+- A proxy spell, freezing the sDAI market for Spark Protocol, will be executed, as detailed below.
 
 If this executive proposal passes, the following **minor items** will be made to the Maker Protocol:
 - Actions for budget stream management and distribution will take place, as detailed below.
@@ -41,7 +41,15 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### New Flapper Initiation
 
-$executive_entry_description_1
+As per this forum [post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278) and this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) a new version of the Flapper (MKR burn engine) will be activated, if this executive proposal passes.
+
+This implementation uses several familiar parameters applied at different settings to accommodate for swaps on Uniswap v2. Significant changes are listed below:
+- **Reduce vow.hump by 200 million DAI** from 250 million DAI to **50 million DAI**
+- **Reduce vow.bump by 25,000 DAI** from 30,000 DAI to **5,000 DAI**
+- **Set hop to 26 minutes, 17 seconds**
+- **Set want to 0.98**
+
+For more information please the full set of actions listed in the "Contract" section of the spell address listed above. The new Flapper repo can be found [here](https://github.com/makerdao/dss-flappers/blob/univ2/README.md).
 
 ### Initiate Curve ETH/stETH Offboarding Parameters
 
