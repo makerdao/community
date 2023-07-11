@@ -53,7 +53,7 @@ For more information please the full set of actions listed in the "Contract" sec
 
 ### Initiate Curve ETH/stETH Offboarding Parameters
 
-As per this [Atlas MIP-62](https://mips.makerdao.com/mips/details/MIP62) the first step off collateral offboarding will take place for CRVV1ETHSTETH-A based on a request from a Responsible Facilitator [here](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6), if this executive proposal passes. 
+As per this, [Atlas MIP-62](https://mips.makerdao.com/mips/details/MIP62) the first step of collateral offboarding will take place for CRVV1ETHSTETH-A based on a request from a Responsible Facilitator [here](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238/6), if this executive proposal passes. 
 
 The CRVV1ETHSTETH-A [Debt Ceilings](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will accordingly be set to **0**.
 
@@ -94,7 +94,7 @@ As per this forum [post](https://forum.makerdao.com/t/freeze-the-sdai-market-on-
 
 "The purpose of this update is to restrict sDAI as collateral to only short ETH and staked ETH. Freezing a market prevents new deposits, but users are always free to repay/withdraw."
 
-Spell code for the proxy spell can be found at [0x843A0539Ca7466Abcb769f1c1d30C8423e13A297](https://etherscan.io/address/0x843A0539Ca7466Abcb769f1c1d30C8423e13A297#code).
+The spell code for the proxy spell can be found at [0x843A0539Ca7466Abcb769f1c1d30C8423e13A297](https://etherscan.io/address/0x843A0539Ca7466Abcb769f1c1d30C8423e13A297#code).
 
 ## Minor Proposal Details
 
@@ -107,9 +107,9 @@ As per this forum [post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-0
 - Chronicle Labs Auditor Wallet will be streamed **3,721,800 DAI** from 2023-07-01 00:00:00 to 2024-06-30 23:59:59 at [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f).
 - Chronicle Labs Auditor Wallet will be streamed **2,216.4 MKR** from 2023-07-01 00:00:00 to 2024-06-30 23:59:59 at [0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f](https://etherscan.io/address/0x68D0ca2d5Ac777F6A9b0d1be44332BB3d5981C2f).
 
-#### Jestream 
+#### Jetstream 
 
-- Jetstream Auditor Wallet will be streamed **2,964,006 DAI** begining on 2023-07-01 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962)
+- Jetstream Auditor Wallet will be streamed **2,964,006 DAI** beginning on 2023-07-01 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962)
 - Jetstream Auditor Wallet will be streamed **1,619.93 MKR** begining 2023-06-26 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 - Jetstream will receive 494,001 DAI to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 
@@ -147,7 +147,7 @@ To learn more about Delegate Compensation, please read this [section](https://mi
 
 ### Andromeda Output Conduit
 
-As per this forum [post](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974/11) a new Output Conduit which will allow Andromeda (RWA0151-A) to choose which PSM they swap through will be activated, if this executive proposal passes. 
+As per this forum [post](https://forum.makerdao.com/t/rwa015-project-andromeda-technical-assessment/20974/11) a new Output Conduit will be activated to allow Andromeda (RWA0151-A) to choose between Maker [PSMs](https://manual.makerdao.com/module-index/module-psm#trade-offs), if this executive proposal passes. 
 
 Code for the MultiSwapOutputConduit can be found [here]([https://github.com/makerdao/rwa-toolkit/blob/8d30ed2cb657641253d45b57c894613e26b4ae1b/audits/ChainSecurity_MakerDAO_RWA_Toolkit_audit.pdf).
 
