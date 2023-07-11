@@ -58,7 +58,7 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmQmx
 - The `want` will be set to **0.98**. The `want` parameter defines the relationship between the purchase price of MKR and the price provided by the MKR/USD oracle, i.e., the slippage. A want of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price. However, if the price of MKR on Uniswap is better than the Oracle price, the Smart Burn Engine will not be constrained.
 - The `pip` will be set to `0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df`. The `pip` is the oracle referenced by the Smart Burn Engine.
 - The `receiver` will be set to the Pause Proxy address - `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB `. The `receiver` is the address that LP tokens will be deposited to after each market action.
-- A `FlapperJob` will be added to the chainlog and keeper network sequencer. This will allow the Maker Keeper Network to trigger the Smart Burn Engine.
+- A `FlapJob` will be added to the chainlog and keeper network sequencer. The address for the `FlapJob` is `0xc32506E9bB590971671b649d9B8e18CB6260559F`. This will allow the Maker Keeper Network to trigger the Smart Burn Engine.
 
 The new Smart Burn Engine will purchase MKR tokens for Dai from the Surplus Buffer. This MKR will then be paired with more Dai from the Surplus Buffer and deposited to UniswapV2's DAI/MKR pool. The LP tokens will be stored in the Pause Proxy.
 
