@@ -44,10 +44,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 As per this forum [post](https://forum.makerdao.com/t/project-andromeda-full-deployment/21278) and this [poll](https://forum.makerdao.com/t/introduction-of-smart-burn-engine-and-initial-parameters/21201) a new version of the Flapper (MKR burn engine) will be activated, if this executive proposal passes.
 
 This implementation uses several familiar parameters applied at different settings to accommodate for swaps on Uniswap v2. Significant changes are listed below:
-- **Reduce vow.hump by 200 million DAI** from 250 million DAI to **50 million DAI**
-- **Reduce vow.bump by 25,000 DAI** from 30,000 DAI to **5,000 DAI**
-- **Set hop to 26 minutes, 17 seconds**
-- **Set want to 0.98**
+- **Reduce vow.hump by 200 million DAI** from 250 million DAI to **50 million DAI**.
+- **Reduce vow.bump by 25,000 DAI** from 30,000 DAI to **5,000 DAI**.
+- **Set hop to 26 minutes, 17 seconds**.
+- **Set want to 0.98**.
 
 For more information please the full set of actions listed in the "Contract" section of the spell address listed above. The new Flapper repo can be found [here](https://github.com/makerdao/dss-flappers/blob/univ2/README.md).
 
@@ -109,7 +109,7 @@ As per this forum [post](https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-0
 
 #### Jetstream 
 
-- Jetstream Auditor Wallet will be streamed **2,964,006 DAI** beginning on 2023-07-01 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962)
+- Jetstream Auditor Wallet will be streamed **2,964,006 DAI** beginning on 2023-07-01 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 - Jetstream Auditor Wallet will be streamed **1,619.93 MKR** begining 2023-06-26 and ending on 2024-12-31 to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 - Jetstream will receive 494,001 DAI to [0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962](https://etherscan.io/address/0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962).
 
