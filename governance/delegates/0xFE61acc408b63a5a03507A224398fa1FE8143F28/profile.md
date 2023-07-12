@@ -47,7 +47,3 @@ Of course, a binary description of this type does not capture the immense variet
 # BONAPUBLICA
 Delegate Address: 0x146f8448f4688e66443346dc128d9bb4c15fbe8a
 Forum: @Bonapublica
-
-## Delegate Statement
-
-$delegate_statement_optional
