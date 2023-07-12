@@ -1,5 +1,5 @@
 ---
-name: Harmony
+name: PBG
 external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
 avc_name: Resiliency AVC
 ---
@@ -17,6 +17,6 @@ The Resiliency AVC is
 3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.
 
 
-# Harmony
-Delegate Address: 0x594659ac6c51e07319ca86c32e8fa7327919c744
-Forum: @Harmony
+# PBG
+Delegate Address: 0x8a3b8177326fdf363c90cd73be15a69f286a8944
+Forum: @PBG
