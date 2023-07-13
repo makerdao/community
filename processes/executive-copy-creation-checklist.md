@@ -5,7 +5,7 @@
 
 - [ ] Sync Community Git
 - [ ] Ensure you are working from the latest master branch
-- [ ] Read Associated Executive Contents sheet
+- [ ] Read Associated [Executive Contents sheet](https://docs.google.com/spreadsheets/d/1w_z5WpqxzwreCcaveB2Ye1PP5B8QAHDglzyxKHG3CHw/edit?pli=1#gid=1593813984)
 - [ ] Copy the executive template
 - [ ] Update filename
 - [ ] Update dates - exact time is not required and should be left at midnight.
@@ -25,7 +25,7 @@
 ## Items
 
 - [ ] Add each item to the proposal details section
-- [ ] Order the items by judged impact/importance
+- [ ] Order the items by judged impact/importance. If different from the executive contents, reorder the executive contents sheet so that they match.
 
 - [ ] For each item
 	- [ ] Ensure the executive summary contains a high-level overview of every action contained in the proposal.
