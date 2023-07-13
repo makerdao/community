@@ -53,6 +53,3 @@ Complete once.
 - [ ] Communicate weekly polls to the #governance channel in the official MakerDAO discord.
 - [ ] Update [Governance Tracker sheet](https://docs.google.com/spreadsheets/d/1LWNlv6hr8oXebk8rvXZBPRVDjN-3OrzI0IgLwBVk0vM/edit#gid=0) with new live polls
 
-
-
-
