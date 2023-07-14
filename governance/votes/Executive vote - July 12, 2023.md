@@ -135,6 +135,8 @@ As per this [post](https://forum.makerdao.com/t/stability-scope-parameter-change
 - Remove CRVV1ETHSTETH-A from the [DC-IAM (autoline)](https://manual.makerdao.com/module-index/module-dciam).
 - Set the CRVV1ETHSTETH-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **0 DAI**.
 
+Following discussion among the spell team the Global Debt Ceiling is not being reduced at this time. Due to each vault type having an individual Debt Ceiling this does not have any substantive effect on the operation of the Maker Protocol. For more information on the Global Debt Ceiling see [here](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling).
+
 ### Ecosystem Actor Funding
 
 #### Ecosystem Actor Dai Budget Streams
