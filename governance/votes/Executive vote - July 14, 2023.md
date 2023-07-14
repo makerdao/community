@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
 summary: Deploy the multiswap output conduit for BlockTower Andromeda; deploy the new Smart Burn Engine; housekeeping updates to keeper jobs; multiple parameter changes per the Stability Scope, Delegate compensation for June 2023, funding and housekeeping for Ecosystem Actors and Core Units; execute a proxy spell for Spark Protocol.
 date: 2023-07-14T00:00:00.000Z
-address: "$spell_address"
+address: "0x402D46A20C849390Da96CeB0C3c04832D29e87d7"
 
 ---
 # [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
