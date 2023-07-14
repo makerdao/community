@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
+title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
 summary: Deploy the multiswap output conduit for BlockTower Andromeda; deploy the new Smart Burn Engine; housekeeping updates to keeper jobs; multiple parameter changes per the Stability Scope, Delegate compensation for June 2023, funding and housekeeping for Ecosystem Actors and Core Units; execute a proxy spell for Spark Protocol.
-date: 2023-07-12T00:00:00.000Z
+date: 2023-07-14T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
+# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
 
 The Governance Facilitators and Sidestream, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
