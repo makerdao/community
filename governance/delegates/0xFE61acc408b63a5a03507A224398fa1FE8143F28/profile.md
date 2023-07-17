@@ -1,5 +1,5 @@
 ---
-name: VoteWizard
+name: BONAPUBLICA
 external_profile_url: https://forum.makerdao.com/t/avc-creation-kiss-avc/20346
 avc_name: KISS AVC
 ---
@@ -44,6 +44,6 @@ Of course, a binary description of this type does not capture the immense variet
 
 **=>** The KISS AVC sits on the **Hawkish** side of the spectrum.
 
-# VoteWizard
-Delegate Address: 0xbc8f4874bf4f669877e3a0630ccfab4802f5d322
-Forum: @votewizard
+# BONAPUBLICA
+Delegate Address: 0x146f8448f4688e66443346dc128d9bb4c15fbe8a
+Forum: @Bonapublica

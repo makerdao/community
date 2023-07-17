@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
+title: Template - [Executive Vote] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
 summary: Deploy the multiswap output conduit for BlockTower Andromeda; deploy the new Smart Burn Engine; housekeeping updates to keeper jobs; multiple parameter changes per the Stability Scope, Delegate compensation for June 2023, funding and housekeeping for Ecosystem Actors and Core Units; execute a proxy spell for Spark Protocol.
-date: 2023-07-12T00:00:00.000Z
-address: "$spell_address"
+date: 2023-07-14T00:00:00.000Z
+address: "0x402D46A20C849390Da96CeB0C3c04832D29e87d7"
 
 ---
-# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 12, 2023
+# [Executive Proposal] BlockTower Andromeda Upgrade, Smart Burn Engine Deployment, Keeper Job Updates, Scope Defined Parameter Changes, Delegate Compensation, Ecosystem Actor and Core Unit Funding Updates, Spark Protocol Proxy Spell Execution - July 14, 2023
 
 The Governance Facilitators and Sidestream, PullUp, and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -58,7 +58,7 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmQmx
 - The `want` will be set to **0.98**. The `want` parameter defines the relationship between the purchase price of MKR and the price provided by the MKR/USD oracle, i.e., the slippage. A want of 0.98 means that the purchase price of MKR can be up to 2% worse than the oracle price. However, if the price of MKR on Uniswap is better than the Oracle price, the Smart Burn Engine will not be constrained.
 - The `pip` will be set to `0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df`. The `pip` is the oracle referenced by the Smart Burn Engine.
 - The `receiver` will be set to the Pause Proxy address - `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB `. The `receiver` is the address that LP tokens will be deposited to after each market action.
-- A `FlapperJob` will be added to the chainlog and keeper network sequencer. This will allow the Maker Keeper Network to trigger the Smart Burn Engine.
+- A `FlapJob` will be added to the chainlog and keeper network sequencer. The address for the `FlapJob` is `0xc32506E9bB590971671b649d9B8e18CB6260559F`. This will allow the Maker Keeper Network to trigger the Smart Burn Engine. This job will only trigger if gas price is below 138 gwei. It will still be able to trigger the Smart Burn Engine manually in this scenario. This restriction is to stop excessive amounts of gas being spent while purchasing relatively small amounts of MKR.
 
 The new Smart Burn Engine will purchase MKR tokens for Dai from the Surplus Buffer. This MKR will then be paired with more Dai from the Surplus Buffer and deposited to UniswapV2's DAI/MKR pool. The LP tokens will be stored in the Pause Proxy.
 
@@ -134,6 +134,8 @@ As per this [post](https://forum.makerdao.com/t/stability-scope-parameter-change
 
 - Remove CRVV1ETHSTETH-A from the [DC-IAM (autoline)](https://manual.makerdao.com/module-index/module-dciam).
 - Set the CRVV1ETHSTETH-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) to **0 DAI**.
+
+Following discussion among the spell team the Global Debt Ceiling is not being reduced at this time. Due to each vault type having an individual Debt Ceiling this does not have any substantive effect on the operation of the Maker Protocol. For more information on the Global Debt Ceiling see [here](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling).
 
 ### Ecosystem Actor Funding
 
