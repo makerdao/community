@@ -3975,5 +3975,10 @@
   "1017": [
     "high-impact",
     "misc-governance"
+  ],
+  "1018": [
+    "medium-impact",
+    "real-world-assets",
+    "risk-parameter"
   ]
 }
