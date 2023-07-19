@@ -113,6 +113,22 @@
       "cuMember": false
     },
     {
+      "voteDelegateAddress": "0x4D8C9c2Cd8846533967b07BECFC437542196Ad6A",
+      "profile": {
+        "name": "Penguin Soldier",
+        "description": "# Composable AVC\n\n**What is the Composable AVC?**\n\n1. **Community oriented AVC**, who will encourage the use of the permissionless joke contests to enable the $JOKE ecosystem to better understand, inform, and participate in governance proposals by surfacing feedback from a variety of participants\n2. **Collaborative AVC,** who will actively seek out support and guidance from industry leaders and partners to compliment the knowledge inherently strong within the community\n3. **Active AVC**, not only frequent meetings but proactive use of tools, and experimental processes will be leveraged to iterate quickly on how decisions are surfaced and communicated\n\n**Composable AVC Values**\n\n1. **Credible Neutrality.** Though the jokecouncil will instill a number of members to steward the AVC, our intent is to leverage the jokerace contests to surface feedback from all $JOKE holders and implement a practice of on-chain participation that extends beyond us. It is most important to us that the platforms provide a case study for fair, bottoms up participation.\n2. **Low Ego, High Experimentation** As a governance participant in Maker, all should be respected and the jokecouncil AVC will prioritize learning and iterating over getting things right the first time\n3. **Anon / Time zone friendly.** We will have a public AVC text place and frequently utilize the public, on-chain joke contests to surface ideas publicly and inform sync conversations within the designated meeting times\n\nBecause of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.\n\n# Penguin Soldier\nDelegate Address: 0x07621bd61baeffc3cbcbec511cb1cbaf3c5dfafa\nForum: @Penguin.Soldier",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-registration-submission-composable-avc/20348"
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
+      },
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4",
       "profile": {
         "name": "0xDefensor",
@@ -173,6 +189,22 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x5d97F2af00C767b7333FDC2B58d10FAFF9F51024",
+      "profile": {
+        "name": "Penguin Soldier",
+        "description": "# Sovereign Finance AVC\n\n## Why Sovereign Finance?\n\nCryptocurrencies were created with the idea of returning the power of money to individuals. And we believe that MakerDAO should position itself and lead the growing financial revolution that enables autonomy, independence, and self-governance.\n\nThis voter committee’s central values will be:\n\n**Growth and Adoption**: We will drive and support all initiatives that allow for massive growth and adoption of DAI while reducing risks associated with the protocol, particularly assets that could compromise its economic stability.\n\n**Long-term Sustainability and Revenue**: We will support and promote all initiatives and proposals that develop reliable, secure, and revenue-stable products for the protocol.\n\n**Security and reliability**: We will also be alert to potential points of excessive centralization that could affect the protocol. Allowing us to guarantee optimal security, thus transmitting greater security for DAI holders, partners, and participants in the protocol.\n\n**Ethos and commitment**: We will actively contribute to the spread of DAI to all corners of Latin America and the world. Our ethos is aligned with the values of MakerDAO, and therefore our commitment goes beyond mere participation in governance.\n\n**This CVC supports the vision and roadmap outlined in the Endgame towards decentralization.** We firmly believe that decentralization is a requirement that will define the success or failure of the protocol in the long term.\n\nAs an organization committed to the principles of decentralization, autonomy, and self-governance, we believe **that supporting public goods is a crucial component of creating a sustainable and inclusive financial ecosystem**. In this regard, we commit to preparing educational content that promotes MakerDAO and easily explains to MKR holders how to participate and involve in governance.\n\nRegarding the dovish v hawkish dilemma, we prefer to go with a balanced strategy for MakerDAO that would aim to maintain stability while also promoting growth and innovation. By finding the right balance between these two objectives, MakerDAO could build a sustainable and successful platform that attracts new users and drives innovation in the decentralized finance space.\n\n# Penguin Soldier\nDelegate Address: 0x0b2851332e4c7083d2148acfb56e567a236dbbc2\nForum: @Penguin.Soldier",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868"
+      },
+      "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
+      "metrics": {
+        "combinedParticipation": "No Data",
+        "pollParticipation": "No Data",
+        "executiveParticipation": "No Data",
+        "communication": "No Data"
       },
       "cuMember": false
     },
