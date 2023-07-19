@@ -8,7 +8,7 @@
 - [ ] Check that the summary refers to all actions included in the proposal.
 
 - [ ] Check that the publisher (entity publishing the executive on the voting portal) of the executive is listed in the preamble (at the entity level).
-- [ ] Check that the writers of the executive code is listed in the preamble (at the entity level).
+- [ ] Check that the writers of the executive code are listed in the preamble (at the entity level).
 - [ ] Check that the reviewers of the executive code are listed in the preamble (at the entity level).
 
 - [ ] Check that the office-hours modifier is mentioned as part of the executive copy, if present in the executive spell code.
