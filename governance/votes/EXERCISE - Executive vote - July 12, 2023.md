@@ -62,7 +62,7 @@ Per the [Atlas](https://mips.makerdao.com/mips/details/MIP101#5-9-surplus-buffer
 
 ### Add DssCron Jobs to Chainlog
 
-[SES](https://forum.makerdao.com/t/dsscron-housekeeping-additions/21292), the Protocol Scope Facilitator, has proposed updating the chainlog with active [DssCron jobs](https://github.com/makerdao/dss-cron) to the Keeper network. The [Keeper Network](https://mips.makerdao.com/mips/details/MIP63#paragraph-summary) is a unified repository that coordinates between third-party keeper protocols for various operational needs, including poking oracles and liquidating vaults.
+The Protocol Scope Facilitator has [proposed](https://forum.makerdao.com/t/dsscron-housekeeping-additions/21292) updating the chainlog with active [DssCron jobs](https://github.com/makerdao/dss-cron) to the Keeper network. The [Keeper Network](https://mips.makerdao.com/mips/details/MIP63#paragraph-summary) is a unified repository that coordinates between third-party keeper protocols for various operational needs, including poking oracles and liquidating vaults.
 
 If this executive proposal passes, the following Keeper network sequencer will be added to the [chainlog](https://chainlog.makerdao.com/):
 
