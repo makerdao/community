@@ -1,5 +1,6 @@
 
 ## AD Onboarding Checklist
+
 ### Forum Post
 - [ ] Make sure the required information is present as laid out in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#6-2-1-5)
 - [ ] Confirm the onboarding of the AD in their thread once the other steps in this checklist are completed. 
