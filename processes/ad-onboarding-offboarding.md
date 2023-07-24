@@ -27,6 +27,7 @@
 	- [ ] '<AVC> Supporting AD' #1
 	- [ ] '<AVC> Supporting AD' #2
 - [ ] Ensure AD is added to the 'Aligned Delegate' group on the official forum.
+- [ ] Ensure AD's communication thread has the 'active-aligned-delegate' and 'aligned-delegates' tags on the official forum.
 
 ## AD Offboarding Checklist
 
@@ -46,3 +47,4 @@
 	- [ ] '<AVC> Supporting AD' #1
 	- [ ] '<AVC> Supporting AD' #2
 - [ ] Remove the AD from the 'Aligned Delegate' group on the official forum.
+- [ ] Remove the 'active-aligned-delegate' tag from the AD's communication thread on the official forum.
