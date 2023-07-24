@@ -19,14 +19,14 @@
 - [ ] The [relevant section](https://mips.makerdao.com/mips/details/MIP113#6-aligned-delegates-ads-) of the Governance Scope must be updated to include new AD's details.
 - [ ] A google sheets representation of the markdown table is available [here](https://docs.google.com/spreadsheets/d/1QotVe_r49rzVOzVFHzlClK33ooJOgoKIHEQsXpgtdoo/edit#gid=61028070), and can be used to more easily maintain the Governance Scope.
 
-### Communications Platform Roles
+### Communications Platforms
 - [ ] Collect AD's discord user.
 - [ ] Ensure AD is given the required roles on the official discord server. This includes
 	- [ ] 'MakerDAO'
 	- [ ] 'Aligned Delegate'
 	- [ ] '<AVC> Supporting AD' #1
 	- [ ] '<AVC> Supporting AD' #2
-- [ ] Ensure AD is given the 'Aligned Delegate' role on the official forum.
+- [ ] Ensure AD is added to the 'Aligned Delegate' group on the official forum.
 
 ## AD Offboarding Checklist
 
@@ -39,10 +39,10 @@
 ### Governance Scope Record
 - [ ] Remove the AD's entry from the [relevant section](https://mips.makerdao.com/mips/details/MIP113#6-aligned-delegates-ads-) of the governance scope. 
 
-### Communications Platform Roles
+### Communications Platforms
 - [ ] Remove following roles from the AD on the official discord server. This includes
 	- [ ] 'MakerDAO'
 	- [ ] 'Aligned Delegate'
 	- [ ] '<AVC> Supporting AD' #1
 	- [ ] '<AVC> Supporting AD' #2
-- [ ] Remove the 'Aligned Delegate' role on the official forum.
+- [ ] Remove the AD from the 'Aligned Delegate' group on the official forum.
