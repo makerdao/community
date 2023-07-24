@@ -1,5 +1,5 @@
 ---
-title: $ScopeName Scope Clarification Edits - $date_MONTH_DD,_YYYY
+title: $ScopeName Scope Bootstrapping Edits - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition to the listed edits to the $ScopeName Scope.
 discussion_link: $discussion_link
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
-# Poll: $ScopeName Scope Clarification Edits - $date_MONTH_DD,_YYYY
+# Poll: $ScopeName Scope Bootstrapping Edits - $date_MONTH_DD,_YYYY
 
 The $poll_deployers have placed a Governance Poll into the voting system using their powers defined in [MIP113.12.1.2](https://mips.makerdao.com/mips/details/MIP113#12-1-2). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
