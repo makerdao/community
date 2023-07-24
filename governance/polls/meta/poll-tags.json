@@ -3980,5 +3980,27 @@
     "medium-impact",
     "real-world-assets",
     "risk-parameter"
+  ],
+  "1019": [
+    "high-impact",
+    "mips",
+    "dsr",
+    "endgame"
+  ],
+  "1020": [
+    "medium-impact",
+    "real-world-assets",
+    "risk-parameter"
+  ],
+  "1021": [
+    "high-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1022": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
