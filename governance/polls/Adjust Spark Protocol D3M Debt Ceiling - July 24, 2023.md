@@ -17,7 +17,7 @@ end_date: 2023-07-27T16:00:00
 ---
 # Poll: Adjust Spark Protocol D3M Debt Ceiling - July 24, 2023
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Stability Facilitators. The community can vote in this poll to express support or opposition to using the Spark Protocol Direct Deposit DAI Module (D3M) with the listed parameters. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Stability Facilitators. The community can vote in this poll to express support or opposition to using the Spark Protocol Direct Deposit DAI Module (D3M) with the listed parameters. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 24 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
