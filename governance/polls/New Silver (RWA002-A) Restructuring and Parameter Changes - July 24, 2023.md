@@ -39,7 +39,7 @@ Other key parameters:
 | Defaulted Pledged Assets        | 100% haircut          | Immediately if unpaid upon maturity or if interest 60 days delinquent                                                     |
 | Termination Date                | October 11, 2032      | MakerDAO may request redemption through the Tinlake protocol at any time                                                  |
 
-Please review the discussion [thread]($https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417) to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417) to help inform your position before voting.
 
 ## Outcomes
 
