@@ -12,7 +12,7 @@ In case of unintended consequences or mistakes in the Atlas and Scope Artifacts 
 
 **12.1.2:**
 The Governance Facilitators can at any time propose to edit any content of a Scope Artifact through a Governance Poll.
-- https://mips.makerdao.com/mips/details/MIP113#12-1-bootstrapping-governance-votes  
+\- https://mips.makerdao.com/mips/details/MIP113#12-1-bootstrapping-governance-votes  
 
 ---
 
