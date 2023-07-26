@@ -3,8 +3,6 @@
 ## Bootstrapping Governance Votes
 
 https://mips.makerdao.com/mips/details/MIP113#12-1-bootstrapping-governance-votes
-
-*
 12.1: Bootstrapping Governance Votes
 Governance Facilitators are empowered to use broad judgment when exercising their ability to make direct Atlas interpretations and edits to the Atlas and the Scope Artifacts, when this relates to unintended consequences or mistakes in the affected documents.
 
@@ -13,7 +11,8 @@ Governance Facilitators are empowered to use broad judgment when exercising thei
 
 	12.1.2
 	The Governance Facilitators can at any time propose to edit any content of a Scope Artifact through a Governance Poll.
-*
+
+---
 
 Do you think there is any ambiguity in these clauses? If so, where, and how would you rewrite the clauses to remove the ambiguity?
 
