@@ -58,7 +58,7 @@ Given the distinct nature of some parts of the proposal, I've made the decision 
 
 These two polls will be presented during the next weekly governance cycle on Monday, July 24:
 
-1. Adjust Spork Protocol D3M Parameters:
+1. Adjust Spork Protocol D3M Parameters and DAI Interest Rate Strategy:
 
    - Increase of the Spork D3M Debt Ceiling from 50 million to 100 million DAI.
    - Increase of the Spork D3M Target Available Debt from 5 million to 15 million.
