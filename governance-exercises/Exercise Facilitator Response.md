@@ -14,7 +14,7 @@ First, I would confirm that these polls are within the remit of the support scop
 >
 >Poll 2
 >
-⦁	Onboard ABC Token with parameters X, Y, and Z.
+>⦁	Onboard ABC Token with parameters X, Y, and Z.
 >
 >Poll 3 
 >
