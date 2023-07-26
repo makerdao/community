@@ -4,7 +4,7 @@
 
 The clauses below are part of the Governance Scope.  
 
-**12.1:** Bootstrapping Governance Votes
+**12.1: Bootstrapping Governance Votes**  
 Governance Facilitators are empowered to use broad judgment when exercising their ability to make direct Atlas interpretations and edits to the Atlas and the Scope Artifacts, when this relates to unintended consequences or mistakes in the affected documents.  
 
 **12.1.1:**
