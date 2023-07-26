@@ -5,13 +5,13 @@
 The clauses below are part of the Governance Scope.  
 
 **12.1:** Bootstrapping Governance Votes
-Governance Facilitators are empowered to use broad judgment when exercising their ability to make direct Atlas interpretations and edits to the Atlas and the Scope Artifacts, when this relates to unintended consequences or mistakes in the affected documents.
+Governance Facilitators are empowered to use broad judgment when exercising their ability to make direct Atlas interpretations and edits to the Atlas and the Scope Artifacts, when this relates to unintended consequences or mistakes in the affected documents.  
 
 **12.1.1:**
-In case of unintended consequences or mistakes in the Atlas and Scope Artifacts causing WMaker Governance to function incorrectly, the Governance Facilitators can at any time run a Governance Poll to enable MKR holders to make a decision that will alleviate and resolve unintended consequences or mistakes.
+In case of unintended consequences or mistakes in the Atlas and Scope Artifacts causing WMaker Governance to function incorrectly, the Governance Facilitators can at any time run a Governance Poll to enable MKR holders to make a decision that will alleviate and resolve unintended consequences or mistakes.  
 
 **12.1.2:**
-The Governance Facilitators can at any time propose to edit any content of a Scope Artifact through a Governance Poll.
+The Governance Facilitators can at any time propose to edit any content of a Scope Artifact through a Governance Poll.  
 \- https://mips.makerdao.com/mips/details/MIP113#12-1-bootstrapping-governance-votes  
 
 ---
