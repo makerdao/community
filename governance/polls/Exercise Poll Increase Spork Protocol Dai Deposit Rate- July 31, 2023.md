@@ -1,5 +1,5 @@
 ---
-title: Exercise Poll Increase Spork Protocol Dai Deposit Rate - July 31, 2023
+title: Exercise Poll: Increase Spork Protocol Dai Deposit Rate - July 31, 2023
 summary: Signal your support or opposition to Increase the Spork DAI Deposit Rate from 2% to 2.5%.
 discussion_link: https://github.com/makerdao/community/blob/master/governance-exercises/poll-exercise-01.md
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2023-07-31T16:00:00
 end_date: 2023-08-03T16:00:00
 ---
-# Poll: Adjust Spork Protocol Parameters - July 31st, 2023
+# Exercise Poll: Increase Spork Protocol Dai Deposit Rate - July 31st, 2023
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spork Protocol. The community can vote in this poll to express support or opposition to using the Spork Direct Deposit DAI Module (D3M) with the listed parameters. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on July 31st, 2023 at 16:00 UTC.
 
