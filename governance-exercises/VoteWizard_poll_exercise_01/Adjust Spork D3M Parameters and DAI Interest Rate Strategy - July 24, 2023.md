@@ -31,6 +31,7 @@ The community can vote in this poll to express support or opposition to making t
 * Increase the DIRECT-Spork-DAI [Target Available Debt](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) from 5 million to **15 million DAI**.
 * Increase the DIRECT-Spork-DAI [Ceiling Increase Cooldown](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) from 28,800 seconds (8 hours) to **86,400 seconds (24 hours)**.
 * Adjust Spork Protocol DAI Interest Rate Strategy to increase the DAI deposit rate on Spork from 2% to 2.5%.
+
 Please review the discussion [thread](https://forum.makerdao.com/t/...) to help inform your position before voting.
 
 For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the entry in the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
