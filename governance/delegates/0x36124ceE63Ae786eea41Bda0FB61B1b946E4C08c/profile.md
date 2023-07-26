@@ -1,26 +1,30 @@
 ---
 name: JAG
-external_profile_url: https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308
-avc_name: Growth AVC
+external_profile_url: https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868
+avc_name: Sovereign Finance AVC
 ---
 
-# Growth AVC
+# Sovereign Finance AVC
 
-**What is Growth AVC? Growth AVC is a…**
+## Why Sovereign Finance?
 
-1. **Dovish AVC**, focusing on expansion, experimentation, and growth.
+Cryptocurrencies were created with the idea of returning the power of money to individuals. And we believe that MakerDAO should position itself and lead the growing financial revolution that enables autonomy, independence, and self-governance.
 
-2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives
+This voter committee’s central values will be:
 
-3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.
+**Growth and Adoption**: We will drive and support all initiatives that allow for massive growth and adoption of DAI while reducing risks associated with the protocol, particularly assets that could compromise its economic stability.
 
-**Growth AVC Culture**
+**Long-term Sustainability and Revenue**: We will support and promote all initiatives and proposals that develop reliable, secure, and revenue-stable products for the protocol.
 
-1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.
+**Security and reliability**: We will also be alert to potential points of excessive centralization that could affect the protocol. Allowing us to guarantee optimal security, thus transmitting greater security for DAI holders, partners, and participants in the protocol.
 
-2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.
+**Ethos and commitment**: We will actively contribute to the spread of DAI to all corners of Latin America and the world. Our ethos is aligned with the values of MakerDAO, and therefore our commitment goes beyond mere participation in governance.
 
-3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.
+**This CVC supports the vision and roadmap outlined in the Endgame towards decentralization.** We firmly believe that decentralization is a requirement that will define the success or failure of the protocol in the long term.
+
+As an organization committed to the principles of decentralization, autonomy, and self-governance, we believe **that supporting public goods is a crucial component of creating a sustainable and inclusive financial ecosystem**. In this regard, we commit to preparing educational content that promotes MakerDAO and easily explains to MKR holders how to participate and involve in governance.
+
+Regarding the dovish v hawkish dilemma, we prefer to go with a balanced strategy for MakerDAO that would aim to maintain stability while also promoting growth and innovation. By finding the right balance between these two objectives, MakerDAO could build a sustainable and successful platform that attracts new users and drives innovation in the decentralized finance space.
 
 # JAG
 Delegate Address: 0xD185C4059c3fC7D675679e746CbC9015B9b35cc2
