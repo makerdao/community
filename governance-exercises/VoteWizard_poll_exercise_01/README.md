@@ -6,9 +6,9 @@
 
 1. **Review proposal:** Initially, I would review Alice's proposal thoroughly to understand the implications and nuances.
 
-2. **Communicate questions or concerns:** I would then engage in a dialogue with Alice and Faraz to clarify any outstanding questions or details that might be ambiguous. However, in this case, everything was clear with the exeption of the term "Debt Increase Cooldown" that I assume is referring to "Ceiling Increase Cooldown". It's also noteworthy that the term 'DAI deposit rate' appears to align closely with the 'Supply Rate' concept from the DAI Interest Rate Strategy smart contract (DaiJugInterestRateStrategy.sol). For the purposes of this exercise, this assumption will be upheld.
+2. **Communicate questions or concerns:** I would then engage in a dialogue with Alice and Faraz to clarify any outstanding questions or details that might be ambiguous. However, in this case, everything was clear with except for the term "Debt Increase Cooldown" which I assume is referring to "Ceiling Increase Cooldown". It's also noteworthy that the term 'DAI deposit rate' appears to align closely with the 'Supply Rate' concept from the DAI Interest Rate Strategy smart contract (DaiJugInterestRateStrategy.sol). For this exercise, this assumption will be upheld.
 
-3. **Consideration of Governance Cycle (MIP16 vs MIP51):** As part of this process, I would evaluate whether the proposal should be integrated into the Weekly Governance Cycle (as per MIP16) or the Monthly Governance Cycle (as per MIP51). Given the nature and urgency of this particular proposal, I would opt for the inclusion in the Weekly Governance Cycle beginning on Monday, July 24th. This decision ensures timely action while recognizing that not every decision requires awaiting the Monthly Governance Cycle, which is primarily used for introducing MIP subproposals into the Maker Protocol.
+3. **Consideration of Governance Cycle (MIP16 vs MIP51):** As part of this process, I would evaluate whether the proposal should be integrated into the Weekly Governance Cycle (as per MIP16) or the Monthly Governance Cycle (as per MIP51). Given the nature and urgency of this particular proposal, I would opt for inclusion in the Weekly Governance Cycle beginning on Monday, July 24th. This decision ensures timely action while recognizing that not every decision requires awaiting the Monthly Governance Cycle, which is primarily used for introducing MIP subproposals into the Maker Protocol.
 
 4. **Poll Template Identification:** Next, I would identify the most suitable template to construct this poll. In this situation, there are two relevant templates: 'Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY.md' and 'Onboard $token to Spark Protocol - $date_MONTH_DD,_YYYY.md'.
 
@@ -26,7 +26,7 @@
 
 6. **Forum Communication:**  Afterward, I would publish a forum post detailing the decision to submit these two independent polls. This action will ensure transparency and keep the community informed.
 
-7. **Draft the Governance Polls:** The next step would be to draft the governance polls. The poll would include a brief overview of the proposal, clear voting options, and links to relevant resources for voters to make an informed decision. It's important to make sure that the text is impartial and without bias towards specific or general outcomes.
+7. **Draft the Governance Polls:** The next step would be to draft the governance polls. The poll would include a brief overview of the proposal, clear voting options, and links to relevant resources for voters to make an informed decision. It's important to make sure that the text is impartial and without bias toward specific or general outcomes.
 
 8. **Check Grammar:** I would run the text through Grammarly to assure there are no spelling errors.
 
@@ -38,7 +38,7 @@
 
 	- Given the proposed 50 million DAI increase to the Spork Protocol D3M Debt Ceiling and the onboarding of the ABC token (which inherently carries risk even if it had been onboarded to Maker core in the past), both polls would be tagged as high-impact.
 
-	- In this case the tags would be the following:
+	- In this case, the tags would be the following:
 		- Poll 1: high-impact, risk-parameter, d3m, spork
 		- Poll 2: high-impact, collateral-onboard, risk-parameter, spork
 
@@ -75,7 +75,8 @@ Thanks!
 
 ## Assignment #3: Draft any polls required or implied by your course of action
 
-### The polls drafts can be found in the following files:
+### The poll drafts can be found in the following files:
 
-Adjust Spork D3M Parameters and DAI Interest Rate Strategy - July 24, 2023.md
-Onboard ABC to Spark Protocol - July 24, 2023.md
+- Adjust Spork D3M Parameters and DAI Interest Rate Strategy - July 24, 2023.md
+
+- Onboard ABC to Spark Protocol - July 24, 2023.md
