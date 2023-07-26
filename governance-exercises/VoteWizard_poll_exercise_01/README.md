@@ -15,7 +15,7 @@
 5. **Poll Separation Decision:** While combining both templates into a singular poll might seem efficient, I argue that the onboarding of a new token to the Spark Protocol and the adjustment of Spark Protocol parameters are distinct actions. It's crucial to provide voters the opportunity to express their opinions on these separate matters.
 
 	- As a result, I propose two separate polls:
-		- Poll 1: Adjust Spork Protocol D3M Parameters - July 24, 2023
+		- Poll 1: Adjust Spork Protocol D3M Parameters and DAI Interest Rate Strategy - July 24, 2023
 			- Increase of the Spork D3M Debt Ceiling from 50 million to 100 million DAI.
 			- Increase of the Spork D3M Target Available Debt from 5 million to 15 million.
 			- Adjust Spork Protocol DAI Interest Rate Strategy to increase the DAI deposit rate from 2% to 2.5%.
