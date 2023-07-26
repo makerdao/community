@@ -18,10 +18,10 @@ The materials produced by Diane are to constitute reasonable suspicion, but are 
 ## Forum Thread
 
 ### Clive Derecognition Poll
-
+```
 Author: You
-
 Date: Monday 24th July 2023
+```
 
 Given the requirements of the Atlas and Governance Scope [link to relevant scopes], and the materials [link to materials] posted publicly by Diane relating to Clive, we will be putting up a poll asking governance to rule on the derecognition of Clive.
 
@@ -31,10 +31,10 @@ If anyone _privately_ presents us with concrete evidence that Clive’s identity
 
 
 ### Reply #1
-
+```
 Author: Clive
-
 Date: Monday 24th July 2023
+```
 
 I want to just make clear that I consider Diane to be trolling, and that none of the presented materials are remotely correct. They made a faulty assumption early on that a transfer to and from and exchange were to wallets both belonging to me. I’ve gone into more detail on the other thread regarding this.
 
@@ -42,20 +42,20 @@ I don’t think this even warrants a poll, and the idea that this is ‘reasonab
 
 
 ### Reply #2
-
+```
 Author: Diane
-
 Date: Monday 24th July 2023
+```
 
 Not my fault you have bad op-sec, @Clive. Spin up a new identity and do it better in the future.
 
 I would also like to understand the bounty process @You. I’m expecting payout to be covered as part of this poll. Is this correct?
 
 ### Reply #3
-
+```
 Author: Clive
-
 Date: Tuesday 24th July 2023
+```
 
 The system that provides bounties for doxxing like this is immoral, and arguably illegal in many jurisdictions. I would call on AVCs to clarify the behaviour of the scope here as soon as practicably possible. I would be happy to lead or support any efforts in this direction (assuming I’m still an AD.)
  
