@@ -60,6 +60,8 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmR8c
 - Decrease the RWA004-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) by 7 million DAI from 7 million DAI to **0 DAI**.
 - `tell` will be called on the RWA Liquidation Oracle for the RWA004-A vault. This will place the vault into a soft liquidation state. This is a technical requirement for Centrifuge to commence the unwinding process.
 
+*Implementation note*: since the debt owed by the vault will not change as a result of these actions, the [Global Debt Ceiling](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will not be reduced, this course of action was recommend by the technical teams crafting the executive proposal.
+
 Please review the forum [thread](https://forum.makerdao.com/t/request-to-poll-decrease-debt-ceiling-for-harbor-trade-credit-htc-drop-to-0/21373) for more information about this change.
 
 ### New Silver (RWA002-A) Doc Update
