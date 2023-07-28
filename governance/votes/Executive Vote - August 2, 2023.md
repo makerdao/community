@@ -101,9 +101,11 @@ In summary, this will instruct the trustees of the Monetalis Clydesdale (RWA007-
 
 ### Launch Project Funding
 
-As per this forum [post]($TBD) from the Accessibility Scope Facilitators and the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget), the following DAI transfer from the Launch Project budget will take place, if this executive proposal passes.
+As per this forum [post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468) from the Accessibility Scope Facilitators and the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget), the following DAI transfer from the Launch Project budget will take place, if this executive proposal passes.
 
 - 2 million DAI will be transferred to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+
+This funding is already approved as part of the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget) and will be used to distribute funds as part of the Endgame Launch Project.
 
 ### Spark Proxy Spell
 
