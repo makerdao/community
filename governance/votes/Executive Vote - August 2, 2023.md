@@ -16,10 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- The Dai Savings Rate will be increased, as detailed below.
+- The Dai Savings Rate will be increased to 8%, as detailed below.
 - The Spark Protocol Dai Direct Deposit Module Maximum Debt Ceiling will be increased, as detailed below.
 - Changes will be made to the Harbor Trade Credit (RWA004-A) vault, as detailed below.
-- The New Silver (RWA002-A) `doc` parameter will be updated, as detailed below.
+- The New Silver (RWA002-A) RWA Agreement (`doc`) parameter will be updated, as detailed below.
 - A total of **134.1 MKR** will be distributed to 10 AVC members, as detailed below.
 - A DAO Resolution for the Monetalis Clydesdale (RWA007-A) structure will be approved, as detailed below.
 - **2,000,000 DAI** will be distributed from the Launch Project budget, as detailed below.
@@ -64,15 +64,11 @@ Please review the forum [thread](https://forum.makerdao.com/t/request-to-poll-de
 
 ### New Silver (RWA002-A) Doc Update
 
-Per this governance [poll](https://vote.makerdao.com/polling/QmaU1eaD), the `doc` parameter for the New Silver vault will be updated if this executive proposal passes.
+Per this governance [poll](https://vote.makerdao.com/polling/QmaU1eaD), the [RWA Agreement (`doc`)]((https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement)) parameter for the New Silver vault will be updated if this executive proposal passes.
 
-- The RWA002-A `doc` will be updated to `QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1` - the new `doc` may be viewed [here](https://gateway.pinata.cloud/ipfs/QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1).
+- The RWA002-A RWA Agreement (`doc`) will be updated to `QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1` - the new `doc` may be viewed [here](https://gateway.pinata.cloud/ipfs/QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1).
 
-Once the `doc` has been updated, the other approved changes, including Debt Ceiling and Stability Fee changes, can be actioned.
-
-For more information on the RWA Agreement (`doc`) parameter, please see the documentation [here](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement).
-
-Please review the forum [thread](https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417) for more information about this change.
+This update to the RWA Agreement constitutes a new legal agreement with New Silver as detailed in this forum [thread](https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417). Only once the RWA Agreement (`doc`) has been updated, can the other approved changes, including Debt Ceiling and Stability Fee updates, be actioned.
 
 ### AVC Member Compensation for Q2 2023
 
@@ -115,7 +111,7 @@ This Proxy Spell includes the following changes to Spark Protocol:
 
 #### DAI InterestRateStrategy Update
 
-- Deploy a new DAI_interestRateStrategy to tie the borrow rate of Dai to the ETH-C Stability Fee. This is required due to the activation of the EDSR, as vault stability fees and other rates will continue to be based on the underlying DSR rather than the EDSR. The ETH-C stability fee equals the underlying DSR, making it an appropriate reference for Spark Protocol.
+- A new DAI_interestRateStrategy will be implemented to tie the borrow rate of Dai to the ETH-C Stability Fee. At present, the Spark Protocol DAI borrow rate is tied to the DSR set by the Maker Protocol. When the EDSR is activated, this would cause the Spark borrow rate to increase to 8%. The Stability Scope specifies that fees are not impacted by the EDSR and should be calculated as before. The ETH-C stability fee equals the underlying DSR, making it an appropriate reference for Spark Protocol.
 
 #### Spark Protocol Parameter Changes
 
@@ -123,8 +119,16 @@ Per this successful governance [poll](https://vote.makerdao.com/polling/QmZyFH21
 
 - The DAI market [Loan-To-Value (LTV)](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value) will be decreased from 74% to **0.01%**.
 - The DAI market [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) will be decreased from 76% to **0.01%**.
+
+These changes will effectively remove DAI as a collateral type, ensuring that there won’t be a situation where the market is at 100% utilization and liquidations on the short positions need to be done. This is particularly important because the sDAI market is frozen, meaning that the only way to short is through the DAI market. Keep in mind that since DAI has active suppliers, LTV can’t be set to zero, this means that usageAsCollateralEnabled will still be true.
+
 - The WETH market [Reserve Factor](https://docs.aave.com/risk/asset-risk/risk-parameters#reserve-factor_) will be decreased by 10% from 15% to **5%**.
+
+This will reduce the protocol fee taken on the ETH market giving suppliers a larger APY.
+
 - The WETH market [varialeRateSlope1](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters) will be decreased by 0.8% from 3.8% to **3%**.
+
+This is sets the optimal borrow rate at 4%, based on the variableRateSlope1 change and baseVariableRate being at 1%. This change will ensure a more healthy utilization near the kink to improve supplier return and incentivize more deposits.
 
 Please review the forum [thread](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark/21422) for more information about these changes.
 
