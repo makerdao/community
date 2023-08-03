@@ -10,7 +10,9 @@ To redress the aforementioned concerns, I would rewrite GOV 12 to
 - require endorsements from rotating ecosystem actors to provide checks/balances against the concentration of power; and
 - carve out limited exceptions for clear mistakes and Launch Project-related needs (the latter being a one-time [exception](https://mips.makerdao.com/mips/details/MIP108#9-launch-project) to the Atlas' requirement of maximum transparency). 
 
-I am bending the rules of the universe a bit. First, my rewrite assumes that associated provisions in the rulebooks (i.e., [Atlas 2.12)](https://mips.makerdao.com/mips/details/MIP101#2-12-scope-bootstrapping-gov12) would have to be interpreted or re-written so as to be reconciled with the new GOV 12. Second, my rewrite assumes that the Governance Facilitators interpreting GOV 12 are comfortable applying fuzzy legal terms of art. (There would be distinct benefits: the civil law tradition is a rich one going back centuries. Arguably, it is as close as we can get to a stable, predictable foundation for drafting and interpreting governance logic.) 
+I am bending the rules of the universe a bit. First, my rewrite assumes that associated provisions in the rulebooks (i.e., [Atlas 2.12)](https://mips.makerdao.com/mips/details/MIP101#2-12-scope-bootstrapping-gov12) would have to be interpreted or re-written so as to be reconciled with the revised GOV 12. The revised GOV 12 could complement [MIP24](https://mips.makerdao.com/mips/details/MIP24#sentence-summary), an emergency voting protocol that may be initiated by any community member and manages urgent changes to the protocol. In contrast, the revised GOV 12 is a temporary bootstrapping measure authorizing only Governance Facilitators, under certain circumstances, to expedite revisions to the Atlas and Scopes Artifacts.  
+
+Second, my rewrite assumes that the Governance Facilitators interpreting GOV 12 are comfortable applying fuzzy legal terms of art. (There would be distinct benefits: the civil law tradition is a rich one going back centuries. Arguably, it is as close as we can get to a stable, predictable foundation for drafting and interpreting governance logic.) 
 
 ---
 
