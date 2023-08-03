@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Enhanced Dai Savings Rate Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Member Compensation for Q2 2023, DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
 summary: Increase the Dai Savings Rate to the Enhanced Dai Savings Rate, increase the Maximum Debt Ceiling for the Spark Protocol D3M, Debt Ceiling reduction for Harbor Trade Credit (RWA004-A), update the doc parameter for New Silver (RWA002-A), AVC Member compensation for Q2 2023, distribute funding for the Launch Project, execute a proxy spell for Spark Protocol.
 date: 2023-08-02T00:00:00.000Z
-address: "$spell_address"
+address: "0x73603dB34814b22379CeD3d2Cbb450B3968Fd892"
 
 ---
 # [Executive Proposal] Enhanced Dai Savings Rate Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Member Compensation for Q2 2023, DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
