@@ -28,7 +28,7 @@ This authority is permanently eliminated upon the launch of NewChain.
 
 A substantial threat to the functioning of Maker Governance is one that extends beyond causing mere inconvenience, annoyance or dissatisfaction. To be "substantial," the threat must be of both considerable *imminence* and *magnitude*. Therefore, a threat that is of considerable magnitude but is not likely to present in the near-term could not be characterized as "substantial."
 
-To determine whether a substantial threat exists to the functioning of Maker Governance that justifies the application of GOV 12, the Governance Facilitator must engage in a balancing inquiry. This inquiry explicitly weighs two interests: the imminence and magnitude of the threat, against the need to uphold a decentralized governance equilibrium pursuant to customary governance protocols. 
+To determine whether a substantial threat exists to the functioning of Maker Governance such that GOV 12 may be triggered, the Governance Facilitator must engage in a balancing inquiry. This inquiry explicitly weighs two interests: the imminence and magnitude of the threat, against the need to uphold a decentralized governance equilibrium pursuant to customary governance protocols. 
 
 In undertaking this balancing inquiry, the Governance Facilitator is required to consider alternative measures to resolve the threat, which measures comport with Maker's customary governance protocols.
 
