@@ -4,15 +4,17 @@
 
 ## Proposed Rewrite of GOV 12
 
-To redress the aforementioned concerns, I would rewrite GOV 12 to 
+To redress the aforementioned concerns, I would rewrite GOV 12 to achieve three aims. 
 
-- include more explicit, clear language restricting its application;
-- require endorsements from rotating ecosystem actors to provide checks/balances against the concentration of power; and
-- carve out limited exceptions for clear mistakes and Launch Project-related needs (the latter being a one-time [exception](https://mips.makerdao.com/mips/details/MIP108#9-launch-project) to the Atlas' requirement of maximum transparency). 
+First, I restrict GOV 12's general application to "substantial threats" to the functioning of Maker Governance. This is a far higher showing to meet. It redresses the risk stemming from ambiguity/overbreadth, while preserving to a degree the original "bootstrapping" intention.
 
-I am bending the rules of the universe a bit. First, my rewrite assumes that associated provisions in the rulebooks (i.e., [Atlas 2.12)](https://mips.makerdao.com/mips/details/MIP101#2-12-scope-bootstrapping-gov12) would have to be interpreted or re-written so as to be reconciled with the revised GOV 12. The revised GOV 12 could complement [MIP24](https://mips.makerdao.com/mips/details/MIP24#sentence-summary), an emergency voting protocol that may be initiated by any community member and manages urgent changes to the protocol. In contrast, the revised GOV 12 is a temporary bootstrapping measure authorizing only Governance Facilitators, under certain circumstances, to expedite revisions to the Atlas and Scopes Artifacts.  
+Second, I require endorsements from rotating ecosystem actors to provide checks/balances against the concentration of power in Governance Facilitators.
 
-Second, my rewrite assumes that the Governance Facilitators interpreting GOV 12 are comfortable applying fuzzy legal terms of art. (There would be distinct benefits: the civil law tradition is a rich one going back centuries. Arguably, it is as close as we can get to a stable, predictable foundation for drafting and interpreting governance logic.) 
+Third, I carve out limited exceptions for clear mistakes and Launch Project-related needs. The former exclusion for clear mistakes somewhat preserves the original intention behind GOV 12, but in a narrowly tailored way to better guard against misalignment. The latter exclusion is appropriate, I believe, because the [Launch Project](https://mips.makerdao.com/mips/details/MIP108#9-launch-project) is literally framed as an exception to the rule of maximum transparency in governance processes. Further, the single instance of GOV 12 governance practice was the introduction of the EDSR.  In [Discord](https://discord.com/channels/893112320329396265/899667119426371625/1131216377575919716) as well as the [Forum proposal](http://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-implement-enhanced-dsr/21405/6?u=le_bateleur), Rune maintained the EDSR was necessary to stoke momentum for the Launch Project (Phase 1). 
+
+My rewrite assumes that associated provisions in the rulebooks (i.e., [Atlas 2.12)](https://mips.makerdao.com/mips/details/MIP101#2-12-scope-bootstrapping-gov12) would have to be interpreted or re-written so as to be reconciled with the revised GOV 12. The revised GOV 12 could complement [MIP24](https://mips.makerdao.com/mips/details/MIP24#sentence-summary), an emergency voting protocol that may be initiated by any community member and manages urgent changes to the protocol. In contrast, the revised GOV 12 is a temporary measure authorizing only Governance Facilitators, under certain circumstances, to expedite revisions to the Atlas and Scopes Artifacts.  
+
+My rewrite also assumes that the Governance Facilitators interpreting GOV 12 are comfortable applying fuzzy legal terms of art. (There would be distinct benefits: the civil law tradition is a rich one going back centuries. Arguably, it is as close as we can get to a stable, predictable foundation for drafting and interpreting governance logic.) 
 
 ---
 
@@ -20,9 +22,7 @@ Second, my rewrite assumes that the Governance Facilitators interpreting GOV 12 
 
 #### 12.1 Bootstrapping Governance Votes
 
-Before the Endgame State, time-sensitive situations may arise that pose a substantial threat to the functioning of Maker Governance. Under the conditions and limitations set out below, Governance Facilitators may propose a Governance Poll to edit the Atlas and Scope Artifacts to address such substantial threats. The decision to supersede Maker's customary governance protocols should not be taken lightly.  
-
-This authority is permanently eliminated upon the launch of NewChain.
+Before the Endgame State, time-sensitive situations may arise that pose a substantial threat to the functioning of Maker Governance. Under the conditions and limitations set out below, Governance Facilitators may propose a Governance Poll to edit the Atlas and Scope Artifacts to address such substantial threats. This authority is permanently eliminated upon the launch of NewChain.
 
 #### 12.2 Finding of "substantial threat"
 
