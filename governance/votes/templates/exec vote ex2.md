@@ -38,7 +38,8 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ## Proposal Details
 
 ### The Enhanced Dai Savings Rate (EDSR) will be activated, as detailed below
-As per this successful governance (poll)[https://vote.makerdao.com/polling/QmcTRPLx]
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmcTRPLx) the DSR will be updated if this executive proposal passes.
+- The DSR will be increased by 4.81% from 3.19% to 8%.
 
 $executive_entry_description_1
 
