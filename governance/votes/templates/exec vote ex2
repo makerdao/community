@@ -1,13 +1,13 @@
 ---
 title: Template - [Executive Vote] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
-summary: $summary
-date: $YYYY-MM-DDT00:00:00.000Z
+summary: Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution
+date: 2023-07-02T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
 
-The $exec_publishers and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -15,15 +15,12 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+If this executive proposal passes, the following **changes** will occur and **additions** will be made to the Maker Protocol:
+- The Enhanced Dai Savings Rate (EDSR) will be activated, as detailed below
+- The DIRECT-SPARK-DAI Maximum Debt Ceiling will be increased, as detailed below
+- The Harbor Trade Credit (RWA004-A) Debt Ceiling will be adjusted, as detailed below
+- Real World Asset (RWA) vault changes will occur, as detailed below
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
