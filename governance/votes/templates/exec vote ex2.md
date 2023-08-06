@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
+title: Template - [Executive Vote] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, Vault Changes, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
 summary: Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution
 date: 2023-07-02T00:00:00.000Z
 address: "$spell_address"
@@ -37,19 +37,23 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### The Enhanced Dai Savings Rate (EDSR) will be activated, as detailed below
+### Enhanced Dai Savings Rate (EDSR) activation
 As per this successful governance [poll](https://vote.makerdao.com/polling/QmcTRPLx) the DSR will be updated if this executive proposal passes.
-- The DSR will be increased by 4.81% from 3.19% to 8%.
+- DSR will be increased by 4.81% from 3.19% to 8%.
 
-$executive_entry_description_1
 
-### $executive_entry_2
+### Spark Protocol Debt Ceiling Increase
+Per this successful governance [poll](https://vote.makerdao.com/polling/QmSLj3HS), the Spark Protocol Dai Direct Deposit Module (D3M) will be updated if this executive proposal passes.
 
-$executive_entry_description_2
+- The Spark Protocol D3M Maximum Debt Ceiling will be increased by 180 million DAI from 20 million DAI to 200 million DAI.
 
-### $executive_entry_3
+### 
 
 $executive_entry_description_3
+
+### 
+
+###
 
 ## Review
 
