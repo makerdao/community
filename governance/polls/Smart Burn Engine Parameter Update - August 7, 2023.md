@@ -17,7 +17,7 @@ end_date: 2023-08-10T16:00:00
 ---
 # Poll:Smart Burn Engine Parameter Update - August 7, 2023
 
-The Governance Facilitator have placed a Governance Poll into the voting system on behalf of the Stability Scope Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 7 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Scope Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 7 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,17 +27,15 @@ The Governance Facilitator have placed a Governance Poll into the voting system 
 ## Review
 
 The community can vote in this poll to express support or opposition to making the following parameter changes to Smart Burn Engine:
-* **Change `hop` from 1577 seconds to 6308 seconds.**
-    * `hop` defines the minimum interval between kicks, therefore setting the maximum allowed frequency of market actions taking place.
-* **Change `bump` from 5000 Dai to 20000 Dai.**
-    * `bump` defines the amount of DAI that will be sold for MKR in each market action, while the Surplus Buffer exceeds the Surplus Buffer Upper Limit 
+* Increase [Smart Burn Engine Cooldown (`hop`)](https://manual.makerdao.com/parameter-index/smart-burn-engine/param-surplus-cooldown) by 4,731 seconds from 1,577 seconds to **6,308 seconds**.
+* Increase [Smart Burn Engine Lot Size (`bump`)](https://manual.makerdao.com/parameter-index/smart-burn-engine/param-surplus-lot-size) by 15,000 DAI from 5,000 DAI to **20,000 DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/smart-burn-engine-parameters-update-1/21545) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote.
+* These changes will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
