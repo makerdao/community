@@ -10,7 +10,7 @@
 4. Subsequently, I would draft the governance poll.
 5. I'd run the text through Grammarly to eliminate any spelling or grammar errors.
 6. I'd review the draft poll against the "poll creation checklist" to ensure it is following the guidelines. Then, I would create a PR to push changes to the main branch repo.
-7. I would follow the "poll submission checklist" to submit the finalized polls. For tags, considering the poll's impact is "low-impact", I'd also include tags like 'delegates', 'misc-governance', and 'endgame'.
+7. I would follow the "poll submission checklist" to submit the finalized polls. For tags, the poll's impact is "low-impact", I'd also include tags like 'delegates', 'misc-governance', and 'endgame'.
 8. After verifying the active status of all expected polls, I would communicate their availability on the #governance channel in the official MakerDAO discord.
 
 ## Assignment #2: Draft any forum responses required or implied by your course of action
