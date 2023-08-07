@@ -39,6 +39,7 @@ The existing standing order related to ALM transfers to maintain the DAI peg is 
 
 We have included a forum poll here to help judge community sentiment of the logic for the replacement ALM order:
 
+[LFW: Assume this is using the forum polling functionality.]
 How should the ALM order be structured?
 
 1. Trigger transfers back to PSM when PSM levels are below 10% total DAI minted. Transfers out to RWA trust at above 20% total DAI minted.
