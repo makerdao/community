@@ -4002,5 +4002,14 @@
     "medium-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1023": [
+    "medium-impact",
+    "risk-parameter"
+  ],
+  "1024": [
+    "medium-impact",
+    "surplus",
+    "endgame"
   ]
 }
