@@ -73,8 +73,8 @@ The following payments will be distributed if this executive proposal passes. De
 |StableLab|	0xbDE65cf2352ed1Dde959f290E973d0fC5cEDFD08|	Growth|	14.9|
 |flipsidegov|	0x300901243d6CB2E74c10f8aB4cc89a39cC222a29|	Growth|	14.9|
 
-Total MKR: 134.1 MKR.
-Total Delegates: 10
+- Total MKR: 134.1 MKR
+- Total Delegates: 10
 
 ### JAT1 DAO Resolution for Monetalis Clydesdale
 As per this forum post, the following DAO Resolution will be approved if this executive proposal passes.
