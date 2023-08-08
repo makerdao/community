@@ -17,6 +17,22 @@
       "cuMember": false
     },
     {
+      "voteDelegateAddress": "0x1dd6c65e6e22f196d5c2209f439d1f07d02ba7a4",
+      "profile": {
+        "name": "QGOV",
+        "description": "# KISS AVC\n\nThe purposes and values of MakerDAO as stated in the MIP101 draft have generated a lot interest and discussions in the MakerDAO community and, ultimately, and are currently being voted and approved. \n\nThe KISS AVC embraces this result and believes that the ENDGAME can deliver great value. Now it is time to join forces and collaboratively contribute to its improvement during the RFC phase. The KISS AVC greatly values the many constructive criticisms that have been discussed along the way, and those that will be pushed forward in the future (a \"scientific\", not \"ideological\", approach to governance).\n\nUltimately the KISS AVC thinks that the ENDGAME is a great opportunity for MakerDAO.\n\n**OUR VIEW ON MAKERDAO**\n\n**Goals:** \n1) DAI, the decentralised stablecoin, is the product of MakerDAO and its main focus. It **_must_** remain stable, decentralised, open to everybody and uncensorable.\n\n2. People with stake in the game are DAI holders and MKR holders. DAI holders rely on the key characteristics of DAI listed above. MKR holders have invested their own money in the project and ***must*** to be rewarded. The reward is, of course, primarily financial (value appreciation of MKR) but can also come in other forms: sense of stability and trust in the protocol, 'status' (if MakerDAO becomes trendy), sense of fulfillment if MakerDAO contributes to some good causes, etc. \n\nThese are the objectives, and only these. \n\nThis does not mean that, for example, MakerDAO should not be active in some form of charity. To the contrary this could provide positive rewards to MKR-holders as hinted above. But each decision/activity/endeavour **must** always be able to clearly answer to the question: \"*How does it contribute to objectives 1 and 2?*\". A scientific approach should always be used to determine the likelihood of success of any given proposal.\n\n**How to achieve the goals?**\n1) Embrace complexity. \n\"There is always a simple solution to any problem, and that is often the wrong one.\" \nThis means that MakerDAO is a VERY complex project, and cannot be dumbed down to a simple receipt for success. This is clearly witnessed by the fact that despite all, all other \"decentralised stablecoins\" emerged so far, are either orders of magnitude smaller that DAI or are basically just scams.\n2) Pretend simplicity.\nAlso the construction and deployment of a stellar probe, like the Voyager program, is an extremely complex endeavour. This however does not mean that it cannot be explained to people, at different levels of understanding and details, in a way that positively impact everybody. In particular, the Voyager program has been _successfully managed and directed_ (also) by people without a PhD in physics.   \n3) Keep it simple stupid! (KISS)\nSimple yet effective structures can be used to understand and manage extremely complex projects. Keeping structures simple and transparent and avoiding the (often natural) \"complexity explosion\" is not easy. It needs constant attention and work. \n\nThe KISS AVC will use its influence and power to achieve Goals 1&2 by means of the KISS approach: embrace complexity, pretend simplicity, and maintain simple structures. \n\nThe two Goals 1&2 are clear. Everything that has a scientifically proven likelihood of achieving these goals, within the given amount of resources, will be supported. All the rest will be rejected as \"out of focus for now\". \n\n**Where do we sit in the Dove/Hawk spectrum?**\n\nThe ENDGAME plan proposed by Rune is compatible with the KISS principle when it requires AVCs to be broadly classified in two categories: Doves or Hawks. \n\nOf course, a binary description of this type does not capture the immense variety of viewpoints of all AVCs, not to mention of the MKR-holders within a given AVC. But it is useful in simplifying the landscape (KISS!)\n\n**=>** The KISS AVC sits on the **Hawkish** side of the spectrum.\n\n# QGOV\nDelegate Address: 0x780b3e9bb744455fcc1004dde186f8fa87af6fb2\nForum: @QGOV",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-kiss-avc/20346"
+      },
+      "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
+      "metrics": {
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
+      },
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0x27194176525a0088e3dc96973b22b01b15376ebd",
       "profile": {
         "name": "UPMaker",
@@ -41,10 +57,10 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -52,10 +68,10 @@
       "voteDelegateAddress": "0x36124ceE63Ae786eea41Bda0FB61B1b946E4C08c",
       "profile": {
         "name": "JAG",
-        "description": "# Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# JAG\nDelegate Address: 0xD185C4059c3fC7D675679e746CbC9015B9b35cc2\nForum: @JAG",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308"
+        "description": "# Sovereign Finance AVC\n\n## Why Sovereign Finance?\n\nCryptocurrencies were created with the idea of returning the power of money to individuals. And we believe that MakerDAO should position itself and lead the growing financial revolution that enables autonomy, independence, and self-governance.\n\nThis voter committee’s central values will be:\n\n**Growth and Adoption**: We will drive and support all initiatives that allow for massive growth and adoption of DAI while reducing risks associated with the protocol, particularly assets that could compromise its economic stability.\n\n**Long-term Sustainability and Revenue**: We will support and promote all initiatives and proposals that develop reliable, secure, and revenue-stable products for the protocol.\n\n**Security and reliability**: We will also be alert to potential points of excessive centralization that could affect the protocol. Allowing us to guarantee optimal security, thus transmitting greater security for DAI holders, partners, and participants in the protocol.\n\n**Ethos and commitment**: We will actively contribute to the spread of DAI to all corners of Latin America and the world. Our ethos is aligned with the values of MakerDAO, and therefore our commitment goes beyond mere participation in governance.\n\n**This CVC supports the vision and roadmap outlined in the Endgame towards decentralization.** We firmly believe that decentralization is a requirement that will define the success or failure of the protocol in the long term.\n\nAs an organization committed to the principles of decentralization, autonomy, and self-governance, we believe **that supporting public goods is a crucial component of creating a sustainable and inclusive financial ecosystem**. In this regard, we commit to preparing educational content that promotes MakerDAO and easily explains to MKR holders how to participate and involve in governance.\n\nRegarding the dovish v hawkish dilemma, we prefer to go with a balanced strategy for MakerDAO that would aim to maintain stability while also promoting growth and innovation. By finding the right balance between these two objectives, MakerDAO could build a sustainable and successful platform that attracts new users and drives innovation in the decentralized finance space.\n\n# JAG\nDelegate Address: 0xD185C4059c3fC7D675679e746CbC9015B9b35cc2\nForum: @JAG",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
@@ -65,13 +81,13 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x363d3BdB8c992F0b18577FA9Ce7886B49dcAd5a3",
+      "voteDelegateAddress": "0x445CB6c63c502fDBebD1B273F6AEa1AaD691e0aa",
       "profile": {
-        "name": "vigilant",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# vigilant\nDelegate Address: 0x363d3BdB8c992F0b18577FA9Ce7886B49dcAd5a3  \nForum: @vigilant  ",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "name": "BLUE",
+        "description": "# Sovereign Finance AVC\n\n## Why Sovereign Finance?\n\nCryptocurrencies were created with the idea of returning the power of money to individuals. And we believe that MakerDAO should position itself and lead the growing financial revolution that enables autonomy, independence, and self-governance.\n\nThis voter committee’s central values will be:\n\n**Growth and Adoption**: We will drive and support all initiatives that allow for massive growth and adoption of DAI while reducing risks associated with the protocol, particularly assets that could compromise its economic stability.\n\n**Long-term Sustainability and Revenue**: We will support and promote all initiatives and proposals that develop reliable, secure, and revenue-stable products for the protocol.\n\n**Security and reliability**: We will also be alert to potential points of excessive centralization that could affect the protocol. Allowing us to guarantee optimal security, thus transmitting greater security for DAI holders, partners, and participants in the protocol.\n\n**Ethos and commitment**: We will actively contribute to the spread of DAI to all corners of Latin America and the world. Our ethos is aligned with the values of MakerDAO, and therefore our commitment goes beyond mere participation in governance.\n\n**This CVC supports the vision and roadmap outlined in the Endgame towards decentralization.** We firmly believe that decentralization is a requirement that will define the success or failure of the protocol in the long term.\n\nAs an organization committed to the principles of decentralization, autonomy, and self-governance, we believe **that supporting public goods is a crucial component of creating a sustainable and inclusive financial ecosystem**. In this regard, we commit to preparing educational content that promotes MakerDAO and easily explains to MKR holders how to participate and involve in governance.\n\nRegarding the dovish v hawkish dilemma, we prefer to go with a balanced strategy for MakerDAO that would aim to maintain stability while also promoting growth and innovation. By finding the right balance between these two objectives, MakerDAO could build a sustainable and successful platform that attracts new users and drives innovation in the decentralized finance space.\n\n# BLUE\nDelegate Address: 0x766b115d7e179bb8980a575dfa02531245e0c4c0\nForum: @BLUE",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
@@ -81,13 +97,13 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x445CB6c63c502fDBebD1B273F6AEa1AaD691e0aa",
+      "voteDelegateAddress": "0x475efaC48a0A18660A7A26eE6bd5FEBF466930f8",
       "profile": {
-        "name": "BLUE",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# BLUE\nDelegate Address: 0x766b115d7e179bb8980a575dfa02531245e0c4c0  \nForum: @BLUE  \n",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "name": "Cloaky",
+        "description": "# Regenerative Finance AVC\n\nThe Regenerative Finance AVC protects the Public Good purpose of MakerDAO as ratified in the Maker Constitution. Our priority is to advance the role of DAI as an “Unbiased World Currency” that supports “The Regeneration” as may be interpreted through the 8 Principles of a Regenerative Economy published by the Capital Institute (available for reference at [capitalinstitute.org](https://capitalinstitute.org/8-principles-regenerative-economy/)).\n\n# Cloaky\nDelegate Address: 0x98ed84984a7410ee5af5076817bb8141b17f41c9\nForum: @Cloaky",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
@@ -97,13 +113,13 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x475efaC48a0A18660A7A26eE6bd5FEBF466930f8",
+      "voteDelegateAddress": "0x4D8C9c2Cd8846533967b07BECFC437542196Ad6A",
       "profile": {
-        "name": "Cloaky",
-        "description": "# Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# Cloaky\nDelegate Address: 0x98ed84984a7410ee5af5076817bb8141b17f41c9\nForum: @cloaky",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308"
+        "name": "Penguin Soldier",
+        "description": "# Composable AVC\n\n**What is the Composable AVC?**\n\n1. **Community oriented AVC**, who will encourage the use of the permissionless joke contests to enable the $JOKE ecosystem to better understand, inform, and participate in governance proposals by surfacing feedback from a variety of participants\n2. **Collaborative AVC,** who will actively seek out support and guidance from industry leaders and partners to compliment the knowledge inherently strong within the community\n3. **Active AVC**, not only frequent meetings but proactive use of tools, and experimental processes will be leveraged to iterate quickly on how decisions are surfaced and communicated\n\n**Composable AVC Values**\n\n1. **Credible Neutrality.** Though the jokecouncil will instill a number of members to steward the AVC, our intent is to leverage the jokerace contests to surface feedback from all $JOKE holders and implement a practice of on-chain participation that extends beyond us. It is most important to us that the platforms provide a case study for fair, bottoms up participation.\n2. **Low Ego, High Experimentation** As a governance participant in Maker, all should be respected and the jokecouncil AVC will prioritize learning and iterating over getting things right the first time\n3. **Anon / Time zone friendly.** We will have a public AVC text place and frequently utilize the public, on-chain joke contests to surface ideas publicly and inform sync conversations within the designated meeting times\n\nBecause of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.\n\n# Penguin Soldier\nDelegate Address: 0x07621bd61baeffc3cbcbec511cb1cbaf3c5dfafa\nForum: @Penguin.Soldier",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-registration-submission-composable-avc/20348"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "",
       "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
@@ -116,10 +132,10 @@
       "voteDelegateAddress": "0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4",
       "profile": {
         "name": "0xDefensor",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# 0xDefensor\nDelegate Address: 0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4  \nForum: @0xDefensor  ",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# 0xDefensor\nDelegate Address: 0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4  \nForum: @0xDefensor  ",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
@@ -129,18 +145,18 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x553C3B8330AeA47B764B5e99dace274c9DAA2302",
+      "voteDelegateAddress": "0x51f3067cB6a1185d1e8316332921d9501FC4c006",
       "profile": {
-        "name": "Bandhar",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# Bandhar\nDelegate Address: 0x04662C36E056Acfc35D9b252505E4E5c25b93779  \nForum: @Bandhar  ",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "name": "vigilant",
+        "description": "# Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n\n# vigilant\nDelegate Address: 0x456577b4cb8ea2f1bbb61a2161fa7cec10527fb0\nForum: @vigilant",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "96.15%",
+        "pollParticipation": "95.23%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -153,6 +169,38 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x5b0a4932dc9e253f9b15fd69f07b68e9874ea794",
+      "profile": {
+        "name": "WBC",
+        "description": "# Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n\n# WBC\nDelegate Address: 0xc6552db810406e9499e09ab8bb78345941e92a70\nForum: @WBC",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x5d97F2af00C767b7333FDC2B58d10FAFF9F51024",
+      "profile": {
+        "name": "Penguin Soldier",
+        "description": "# Sovereign Finance AVC\n\n## Why Sovereign Finance?\n\nCryptocurrencies were created with the idea of returning the power of money to individuals. And we believe that MakerDAO should position itself and lead the growing financial revolution that enables autonomy, independence, and self-governance.\n\nThis voter committee’s central values will be:\n\n**Growth and Adoption**: We will drive and support all initiatives that allow for massive growth and adoption of DAI while reducing risks associated with the protocol, particularly assets that could compromise its economic stability.\n\n**Long-term Sustainability and Revenue**: We will support and promote all initiatives and proposals that develop reliable, secure, and revenue-stable products for the protocol.\n\n**Security and reliability**: We will also be alert to potential points of excessive centralization that could affect the protocol. Allowing us to guarantee optimal security, thus transmitting greater security for DAI holders, partners, and participants in the protocol.\n\n**Ethos and commitment**: We will actively contribute to the spread of DAI to all corners of Latin America and the world. Our ethos is aligned with the values of MakerDAO, and therefore our commitment goes beyond mere participation in governance.\n\n**This CVC supports the vision and roadmap outlined in the Endgame towards decentralization.** We firmly believe that decentralization is a requirement that will define the success or failure of the protocol in the long term.\n\nAs an organization committed to the principles of decentralization, autonomy, and self-governance, we believe **that supporting public goods is a crucial component of creating a sustainable and inclusive financial ecosystem**. In this regard, we commit to preparing educational content that promotes MakerDAO and easily explains to MKR holders how to participate and involve in governance.\n\nRegarding the dovish v hawkish dilemma, we prefer to go with a balanced strategy for MakerDAO that would aim to maintain stability while also promoting growth and innovation. By finding the right balance between these two objectives, MakerDAO could build a sustainable and successful platform that attracts new users and drives innovation in the decentralized finance space.\n\n# Penguin Soldier\nDelegate Address: 0x0b2851332e4c7083d2148acfb56e567a236dbbc2\nForum: @Penguin.Soldier",
+        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868"
+      },
+      "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
+      "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
         "executiveParticipation": "No Data",
@@ -164,10 +212,10 @@
       "voteDelegateAddress": "0x62060879dfBB6dEf3B73CFC48f1f0595c0FeD505",
       "profile": {
         "name": "Pf",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# Pf\nDelegate Address: 0x94A388BEC0769c3394A48dB4DaBE5F29994100B3  \nForum: @prft  \n",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# Pf\nDelegate Address: 0x94A388BEC0769c3394A48dB4DaBE5F29994100B3  \nForum: @prft  \n",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
         "combinedParticipation": "0%",
         "pollParticipation": "0%",
@@ -180,15 +228,15 @@
       "voteDelegateAddress": "0x6235c806b6A7752e47A9adc815Ba343DF62A4A0a",
       "profile": {
         "name": "Navigator",
-        "description": "# Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# Navigator\nDelegate Address: 0x75dde53179c6fb04dcd3936985e3a11e7c5a1348\nForum: @Navigator",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308"
+        "description": "# Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n# Navigator\nDelegate Address: 0x75dde53179c6fb04dcd3936985e3a11e7c5a1348\nForum: @Navigator",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -201,10 +249,10 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -225,34 +273,18 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x693167cF7AA7781c5EE948fc06C1f407CeA21579",
+      "voteDelegateAddress": "0x69b576a7e193a15a570ee5bb2149deb3f03537a2",
       "profile": {
-        "name": "Bandhar",
-        "description": "# Resiliency AVC\nName: Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n# Bandhar\nDelegate Address: 0x8045aB06F3463762Fa8Fe10F9a81CaEc59B88031  \nForum: @Bandhar  ",
+        "name": "PBG",
+        "description": "# Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n\n# PBG\nDelegate Address: 0x8a3b8177326fdf363c90cd73be15a69f286a8944\nForum: @PBG",
         "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0x867761533306C5b8476507a982d51D04fBf9d4Fd",
-      "profile": {
-        "name": "VoteWizard",
-        "description": "# KISS AVC\n\nThe purposes and values of MakerDAO as stated in the MIP101 draft have generated a lot interest and discussions in the MakerDAO community and, ultimately, and are currently being voted and approved. \n\nThe KISS AVC embraces this result and believes that the ENDGAME can deliver great value. Now it is time to join forces and collaboratively contribute to its improvement during the RFC phase. The KISS AVC greatly values the many constructive criticisms that have been discussed along the way, and those that will be pushed forward in the future (a \"scientific\", not \"ideological\", approach to governance).\n\nUltimately the KISS AVC thinks that the ENDGAME is a great opportunity for MakerDAO.\n\n**OUR VIEW ON MAKERDAO**\n\n**Goals:** \n1) DAI, the decentralised stablecoin, is the product of MakerDAO and its main focus. It **_must_** remain stable, decentralised, open to everybody and uncensorable.\n\n2. People with stake in the game are DAI holders and MKR holders. DAI holders rely on the key characteristics of DAI listed above. MKR holders have invested their own money in the project and ***must*** to be rewarded. The reward is, of course, primarily financial (value appreciation of MKR) but can also come in other forms: sense of stability and trust in the protocol, 'status' (if MakerDAO becomes trendy), sense of fulfillment if MakerDAO contributes to some good causes, etc. \n\nThese are the objectives, and only these. \n\nThis does not mean that, for example, MakerDAO should not be active in some form of charity. To the contrary this could provide positive rewards to MKR-holders as hinted above. But each decision/activity/endeavour **must** always be able to clearly answer to the question: \"*How does it contribute to objectives 1 and 2?*\". A scientific approach should always be used to determine the likelihood of success of any given proposal.\n\n**How to achieve the goals?**\n1) Embrace complexity. \n\"There is always a simple solution to any problem, and that is often the wrong one.\" \nThis means that MakerDAO is a VERY complex project, and cannot be dumbed down to a simple receipt for success. This is clearly witnessed by the fact that despite all, all other \"decentralised stablecoins\" emerged so far, are either orders of magnitude smaller that DAI or are basically just scams.\n2) Pretend simplicity.\nAlso the construction and deployment of a stellar probe, like the Voyager program, is an extremely complex endeavour. This however does not mean that it cannot be explained to people, at different levels of understanding and details, in a way that positively impact everybody. In particular, the Voyager program has been _successfully managed and directed_ (also) by people without a PhD in physics.   \n3) Keep it simple stupid! (KISS)\nSimple yet effective structures can be used to understand and manage extremely complex projects. Keeping structures simple and transparent and avoiding the (often natural) \"complexity explosion\" is not easy. It needs constant attention and work. \n\nThe KISS AVC will use its influence and power to achieve Goals 1&2 by means of the KISS approach: embrace complexity, pretend simplicity, and maintain simple structures. \n\nThe two Goals 1&2 are clear. Everything that has a scientifically proven likelihood of achieving these goals, within the given amount of resources, will be supported. All the rest will be rejected as \"out of focus for now\". \n\n**Where do we sit in the Dove/Hawk spectrum?**\n\nThe ENDGAME plan proposed by Rune is compatible with the KISS principle when it requires AVCs to be broadly classified in two categories: Doves or Hawks. \n\nOf course, a binary description of this type does not capture the immense variety of viewpoints of all AVCs, not to mention of the MKR-holders within a given AVC. But it is useful in simplifying the landscape (KISS!)\n\n**=>** The KISS AVC sits on the **Hawkish** side of the spectrum.\n\n# VoteWizard\nDelegate Address: 0xbc8f4874bf4f669877e3a0630ccfab4802f5d322\nForum: @votewizard",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-kiss-avc/20346"
-      },
-      "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
-      "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -292,31 +324,15 @@
       "voteDelegateAddress": "0x952DC79BCEE652aAd8CC9268d9c614Fa166D0C1D",
       "profile": {
         "name": "PBG",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# PBG\nDelegate Address: 0x952dc79bcee652aad8cc9268d9c614fa166d0c1d  \nForum: @PBG  \n",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# PBG\nDelegate Address: 0x952dc79bcee652aad8cc9268d9c614fa166d0c1d  \nForum: @PBG  \n",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0x966Bf9Dc96c2f8d4F67bC23C8A6bFfB722046238",
-      "profile": {
-        "name": "VoteWizard",
-        "description": "# Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# VoteWizard\nDelegate Address: 0x54d06ff559b8fc494842d9bc69054c2814baf7fa\nForum: @votewizard",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308"
-      },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
-      "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
       },
       "cuMember": false
     },
@@ -329,10 +345,10 @@
       },
       "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -345,10 +361,10 @@
       },
       "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -361,8 +377,8 @@
       },
       "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
+        "combinedParticipation": "96.15%",
+        "pollParticipation": "95.23%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -377,10 +393,10 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -388,10 +404,10 @@
       "voteDelegateAddress": "0xCa0C8bedc85C2EC9B0DfB42b3F2763486dDea1b6",
       "profile": {
         "name": "QGov",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# QGov\nDelegate Address: 0xCa0C8bedc85C2EC9B0DfB42b3F2763486dDea1b6  \nForum: @QGov  ",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# QGov\nDelegate Address: 0xCa0C8bedc85C2EC9B0DfB42b3F2763486dDea1b6  \nForum: @QGov  ",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
@@ -409,10 +425,26 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0xFE61acc408b63a5a03507A224398fa1FE8143F28",
+      "profile": {
+        "name": "BONAPUBLICA",
+        "description": "# KISS AVC\n\nThe purposes and values of MakerDAO as stated in the MIP101 draft have generated a lot interest and discussions in the MakerDAO community and, ultimately, and are currently being voted and approved. \n\nThe KISS AVC embraces this result and believes that the ENDGAME can deliver great value. Now it is time to join forces and collaboratively contribute to its improvement during the RFC phase. The KISS AVC greatly values the many constructive criticisms that have been discussed along the way, and those that will be pushed forward in the future (a \"scientific\", not \"ideological\", approach to governance).\n\nUltimately the KISS AVC thinks that the ENDGAME is a great opportunity for MakerDAO.\n\n**OUR VIEW ON MAKERDAO**\n\n**Goals:** \n1) DAI, the decentralised stablecoin, is the product of MakerDAO and its main focus. It **_must_** remain stable, decentralised, open to everybody and uncensorable.\n\n2. People with stake in the game are DAI holders and MKR holders. DAI holders rely on the key characteristics of DAI listed above. MKR holders have invested their own money in the project and ***must*** to be rewarded. The reward is, of course, primarily financial (value appreciation of MKR) but can also come in other forms: sense of stability and trust in the protocol, 'status' (if MakerDAO becomes trendy), sense of fulfillment if MakerDAO contributes to some good causes, etc. \n\nThese are the objectives, and only these. \n\nThis does not mean that, for example, MakerDAO should not be active in some form of charity. To the contrary this could provide positive rewards to MKR-holders as hinted above. But each decision/activity/endeavour **must** always be able to clearly answer to the question: \"*How does it contribute to objectives 1 and 2?*\". A scientific approach should always be used to determine the likelihood of success of any given proposal.\n\n**How to achieve the goals?**\n1) Embrace complexity. \n\"There is always a simple solution to any problem, and that is often the wrong one.\" \nThis means that MakerDAO is a VERY complex project, and cannot be dumbed down to a simple receipt for success. This is clearly witnessed by the fact that despite all, all other \"decentralised stablecoins\" emerged so far, are either orders of magnitude smaller that DAI or are basically just scams.\n2) Pretend simplicity.\nAlso the construction and deployment of a stellar probe, like the Voyager program, is an extremely complex endeavour. This however does not mean that it cannot be explained to people, at different levels of understanding and details, in a way that positively impact everybody. In particular, the Voyager program has been _successfully managed and directed_ (also) by people without a PhD in physics.   \n3) Keep it simple stupid! (KISS)\nSimple yet effective structures can be used to understand and manage extremely complex projects. Keeping structures simple and transparent and avoiding the (often natural) \"complexity explosion\" is not easy. It needs constant attention and work. \n\nThe KISS AVC will use its influence and power to achieve Goals 1&2 by means of the KISS approach: embrace complexity, pretend simplicity, and maintain simple structures. \n\nThe two Goals 1&2 are clear. Everything that has a scientifically proven likelihood of achieving these goals, within the given amount of resources, will be supported. All the rest will be rejected as \"out of focus for now\". \n\n**Where do we sit in the Dove/Hawk spectrum?**\n\nThe ENDGAME plan proposed by Rune is compatible with the KISS principle when it requires AVCs to be broadly classified in two categories: Doves or Hawks. \n\nOf course, a binary description of this type does not capture the immense variety of viewpoints of all AVCs, not to mention of the MKR-holders within a given AVC. But it is useful in simplifying the landscape (KISS!)\n\n**=>** The KISS AVC sits on the **Hawkish** side of the spectrum.\n\n# BONAPUBLICA\nDelegate Address: 0x146f8448f4688e66443346dc128d9bb4c15fbe8a\nForum: @Bonapublica",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-kiss-avc/20346"
+      },
+      "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
+      "metrics": {
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -433,18 +465,18 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0xaaDc617b289f828CC218bE5A47A1AD19b9c857Ac",
+      "voteDelegateAddress": "0xa67f820945DA8634D5B54Fe09cA74B1559b7ff39",
       "profile": {
-        "name": "Harmony",
-        "description": "# Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# Harmony\nDelegate Address: 0xe20a2e231215e9b7aa308463f1a7490b2ece55d3\nForum: @Harmony",
-        "externalProfileURL": "https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308"
+        "name": "0xDefensor",
+        "description": "# Regenerative Finance AVC\n\nThe Regenerative Finance AVC protects the Public Good purpose of MakerDAO as ratified in the Maker Constitution. Our priority is to advance the role of DAI as an “Unbiased World Currency” that supports “The Regeneration” as may be interpreted through the 8 Principles of a Regenerative Economy published by the Capital Institute (available for reference at [capitalinstitute.org](https://capitalinstitute.org/8-principles-regenerative-economy/)).\n\n# 0xDefensor\nDelegate Address: 0x5ec931064665cafe797205d6a3e240e8d70eff73\nForum: @0xDefensor",
+        "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354"
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -452,15 +484,15 @@
       "voteDelegateAddress": "0xb086ec4303dc1514c09618c6c68ee444d6eee041",
       "profile": {
         "name": "WBC",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# WBC\nDelegate Address: 0x45b6fb19566c6c23157be023ce394a08a5b16f18  \nForum: @WBC  \n",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
+        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# WBC\nDelegate Address: 0x45b6fb19566c6c23157be023ce394a08a5b16f18  \nForum: @WBC  \n",
+        "externalProfileURL": null
       },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
+      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -488,38 +520,6 @@
         "externalProfileURL": "https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354"
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
-      "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0xbeFf3F87c31045058B63E40b9ce4A2A2BFE8F9d0",
-      "profile": {
-        "name": "BONAPUBLICA",
-        "description": "# Growth AVC\nName: Growth AVC\n\n**What is Growth AVC? Growth AVC is a…**\n\n1. **Dovish AVC**, focusing on expansion, experimentation, and growth.\n\n2. **Research focused AVC,** meaning we will encourage research and analysis regarding proposals to help make informed decisions. This is also to prevent Growth AVC from abused as a freely handing precious funding to poorly planned initiatives\n\n3. **Active AVC**, not only frequent meetings but we will look at different scopes and see how they can be improved actively.\n\n**Growth AVC Culture**\n\n1. **Anon / Time zone friendly.** We will have a public AVC text place (whether that’s forum or email or others that are compliant) where CDs or others who want to share their suggestions and voice their opinions can send in to count as participation.\n\n2. **Can be critical but be respectful.** Just because we are in a AVC doesn’t mean Growth AVC should not tolerate any criticism. However, as a governance participant in Maker, all should be respected and foul plays (like explicit insults) won’t be received well.\n\n3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.\n\n# BONAPUBLICA\nDelegate Address: 0xbeFf3F87c31045058B63E40b9ce4A2A2BFE8F9d0  \nForum: @Bonapublica  \n\n## Delegate Statement\n\nAt Bonapublica, our dedication to inclusivity extends to our engagement with the MakerDAO community. We strive to foster an environment that embraces and encourages collaboration across various backgrounds and perspectives. By leveraging our unique expertise and resources, we aim to contribute to the public goods within the MakerDAO ecosystem. This includes actively participating in discussions, sharing knowledge, and collaborating on projects that promote accessibility, sustainability, and the broader interests of the community. Our commitment to inclusivity allows us to enrich the MakerDAO experience for all stakeholders and ensures that our collective efforts lead to more equitable and impactful outcomes.",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308"
-      },
-      "image": "Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6",
-      "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
-        "executiveParticipation": "100%",
-        "communication": "100%"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0xc02438A40fB1EbE254CEb21C6C2009a69C264Cf7",
-      "profile": {
-        "name": "Harmony",
-        "description": "# Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n\n# Harmony\nDelegate Address: 0x594659ac6c51e07319ca86c32e8fa7327919c744\nForum: @Harmony",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
-      },
-      "image": "",
       "metrics": {
         "combinedParticipation": "No Data",
         "pollParticipation": "No Data",
