@@ -1,6 +1,6 @@
 ---
 title: Clive Derecognition as AD - August 9, 2023
-summary: Signal your support or opposition to $GenericChange.
+summary: Signal your support or opposition to derecognizing Clive as an AD due to identity compromise based on the materials AD Diane provided.
 discussion_link: https://forum.makerdao.com/
 parameters:
     input_format: single-choice
