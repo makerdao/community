@@ -106,9 +106,11 @@ Per this successful governance [poll](https://vote.makerdao.com/polling/QmZyFH21
 This will effectively remove DAI as a collateral type, ensuring that there won’t be a situation where the market is at 100% utilization and liquidations on the short positions need to be done.
 
 - WETH market Reserve Factor will be decreased by 10% from 15% to 5%.
+
 This will reduce the protocol fee taken on the ETH market giving suppliers a larger APY.
 
 - WETH market varialeRateSlope1 will be decreased by 0.8% from 3.8% to 3%.
+
 The optimal borrow rate has been set at 4%, taking into account the change in 'variableRateSlope1' and the 'baseVariableRate' of 1%. This adjustment will lead to healthier utilization and better returns for suppliers and promote more deposits.
 
 Please review the forum post for more information about these changes.
