@@ -109,11 +109,11 @@ This will effectively remove DAI as a collateral type, ensuring that there wonâ€
 
 This will reduce the protocol fee taken on the ETH market giving suppliers a larger APY.
 
-- WETH market varialeRateSlope1 will be decreased by 0.8% from 3.8% to 3%.
+- WETH market 'variableRateSlope1' will be decreased by 0.8% from 3.8% to 3%.
 
 The optimal borrow rate has been set at 4%, taking into account the change in 'variableRateSlope1' and the 'baseVariableRate' of 1%. This adjustment will lead to healthier utilization and better returns for suppliers and promote more deposits.
 
-Please review the forum post for more information about these changes.
+Please review the forum [post](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark/21422) for more information about these changes.
 
 ## Review
 
