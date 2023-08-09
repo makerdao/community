@@ -42,3 +42,5 @@ After reviewing the recommendations and advisories regarding the requested chang
   ### Onboard $ABC to Spork Protocol - July 24, 2023
   -  Onboard the ABC to Spork with the parameters below
   -  	[onboarding parameters for token $ABC]
+
+I will continue to update this thread with relevant links and details as the proposal advances through the governance process. Thanks!
