@@ -28,7 +28,7 @@ If this executive proposal passes, the following **changes** will occur and **ad
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
-Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+Unless otherwise noted, the above changes and additions are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
@@ -50,15 +50,19 @@ Per this successful governance [poll](https://vote.makerdao.com/polling/QmSLj3HS
 ### Vault Changes
 
 #### Harbor Trade Credit (RWA004-A) Changes
-As per this poll, the following changes to the Harbor Trade Credit (RWA004-A) vault will be made if this proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmR8cYb1), the following changes to the Harbor Trade Credit (RWA004-A) vault will be made if this proposal passes.
 - Decrease the RWA004-A Debt Ceiling by 7 million DAI from 7 million DAI to 0 DAI.
+For more information, review the forum [thread](https://forum.makerdao.com/t/request-to-poll-decrease-debt-ceiling-for-harbor-trade-credit-htc-drop-to-0/21373)
 
 #### New Silver (RWA002-A) Doc Update
-As per this poll, the RWA Agreement (doc) parameter for the New Silver vault will be updated if this proposal passes.
-- The RWA002-A RWA Agreement (doc) will be updated to QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1 - the new doc may be viewed here.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmaU1eaD), the RWA Agreement Doc parameter for the New Silver vault will be updated if this proposal passes. The updated DOC variable for this deal will be: QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1 and can be viewed [here](https://gateway.pinata.cloud/ipfs/QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1)
+Only after this update is completed can the following changes occur: 
+- Increase the Debt Ceiling by 30 million DAI from 20 million DAI to 50 million DAI.
+- Increase the Stability Fee by 3.5% from 3.5% to 7%.
+
 
 ### AVC Compensation for Q2 2023
-The following payments will be distributed if this executive proposal passes. Details of AVC Member compensation for Q2 2023 can be seen here. 
+The following payments will be distributed if this executive proposal passes. Details of AVC Member compensation for Q2 2023 can be seen [here](https://forum.makerdao.com/t/avc-member-participation-rewards-q2-2023/21459). 
 
 | AVC Member Name	| Address	|  AVC | MKR Amt|
 |-------------|--------------------------------------------------------------------------------------------------|-----------|------|
@@ -77,16 +81,16 @@ The following payments will be distributed if this executive proposal passes. De
 - Total Delegates: 10
 
 ### JAT1 DAO Resolution for Monetalis Clydesdale
-As per this forum post, the following DAO Resolution will be approved if this executive proposal passes.
-- The DAO Resolution with the IPFS hash QmaGTVioBsCPfNoz9rbW7LU6YuzfgqHDZd92Hny5ACfL3p will be approved by MakerDAO - the DAO Resolution may be viewed here.
-- This will instruct the trustees of the Monetalis Clydesdale (RWA007-A) JAT1 arrangement to sell a portion of ETF holdings and return the profits to the MakerDAO surplus buffer via the input conduit smart contract.
+As per this forum [post](https://forum.makerdao.com/t/clydesdale-quarterly-return-of-surplus-fund/21291), the following DAO Resolution will be approved if this executive proposal passes.
+- This will instruct the trustees of the Monetalis Clydesdale (RWA007-A) JAT1 arrangement to sell a portion of ETF holdings and return the profits to the MakerDAO surplus buffer. This resolution can be viewed [here](https://gateway.pinata.cloud/ipfs/QmaGTVioBsCPfNoz9rbW7LU6YuzfgqHDZd92Hny5ACfL3p)
 
 ### Launch Project Funding
-As per this forum post, the following DAI transfer from the Launch Project budget will take place, if this proposal passes.
-- 2,000,000 DAI will be transferred to 0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F.
+Per this forum [post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468), a DAI transfer from the Launch Project budget will occur if this proposal passes.
+- 2,000,000 DAI will be transferred to the address: 0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F.
 
 ### Spark Proxy Spell Execution
-As part of this executive proposal, a Proxy Spell for Spark Protocol at 0x443f3f4328553f5f85dFc0BA3D59969708201E14 will be triggered if this executive proposal passes.
+
+A Proxy Spell for Spark Protocol at 0x443f3f4328553f5f85dFc0BA3D59969708201E14 will be executed if this proposal passes.
 
 This Proxy Spell includes the following changes to Spark Protocol:
 
@@ -94,12 +98,18 @@ This Proxy Spell includes the following changes to Spark Protocol:
 A new DAI_interestRateStrategy will be implemented to tie the borrow rate of Dai to the ETH-C Stability Fee. At present, the Spark Protocol DAI borrow rate is tied to the DSR set by the Maker Protocol. When the EDSR is activated, this would cause the Spark borrow rate to increase to 8%. The Stability Scope specifies that fees are not impacted by the EDSR and should be calculated as before. The ETH-C stability fee equals the underlying DSR, making it an appropriate reference for Spark Protocol.
 
 #### Spark Protocol Parameter Changes
-Per this successful governance poll, the following parameter changes will be made to Spark Protocol.
+Per this successful governance [poll](https://vote.makerdao.com/polling/QmZyFH21), the following parameter changes will be made to Spark Protocol.
 
 - DAI market Loan-To-Value (LTV) will be decreased from 74% to 0.01%.
 - DAI market Liquidation Threshold will be decreased from 76% to 0.01%.
-- The WETH market Reserve Factor will be decreased by 10% from 15% to 5%.
-- The WETH market varialeRateSlope1 will be decreased by 0.8% from 3.8% to 3%.
+
+This will effectively remove DAI as a collateral type, ensuring that there won’t be a situation where the market is at 100% utilization and liquidations on the short positions need to be done.
+
+- WETH market Reserve Factor will be decreased by 10% from 15% to 5%.
+This will reduce the protocol fee taken on the ETH market giving suppliers a larger APY.
+
+- WETH market varialeRateSlope1 will be decreased by 0.8% from 3.8% to 3%.
+The optimal borrow rate has been set at 4%, taking into account the change in 'variableRateSlope1' and the 'baseVariableRate' of 1%. This adjustment will lead to healthier utilization and better returns for suppliers and promote more deposits.
 
 Please review the forum post for more information about these changes.
 
