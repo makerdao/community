@@ -1,6 +1,6 @@
 ---
 title: Adjust Spork Protocol D3M Parameters and DAI Interest Rate - July 24, 2023
-summary: Signal your support or opposition to adjusting the Spork DAI Direct Deposit Module (D3M) parameters and DAI Interest Rate.
+summary: Express your support or opposition to adjusting the Spork DAI Direct Deposit Module (D3M) parameters and DAI Interest Rate.
 discussion_link: https://forum.makerdao.com/t/xxx
 parameters:
     input_format: single-choice
