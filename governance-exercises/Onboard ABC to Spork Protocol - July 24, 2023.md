@@ -43,7 +43,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Liquidation Bonus: $liquidation-bonus
 
 Please review the proposal [thread](https://forum.makerdao.com/t/xxx) for more information about this proposed onboarding.
-A detailed risk assessment of the token can be found here [here](Link to previously completed risk assessment)
+A detailed risk assessment of the token by the Risk Core Unit can be found here [here](Link to previously completed risk assessment)
 
 ## Outcomes
 
