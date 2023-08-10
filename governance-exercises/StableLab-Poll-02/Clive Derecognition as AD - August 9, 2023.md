@@ -37,9 +37,7 @@ Please review the discussion [thread](discussion_link) to help inform your posit
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-* Clive will be immediately derecognized from Aligned Delegate status.
-* Clive’s AD buffer will be confiscated immediately
-* As the whistleblower, AD Diane will be eligible to receive half of Clive’s AD Buffer. 
+* This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the GSM Pause Delay has expired.
 
