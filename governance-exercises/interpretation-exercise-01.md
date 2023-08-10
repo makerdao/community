@@ -87,8 +87,8 @@ Response: Similar to Situation B, I would interpret the clauses likely as applic
 
 Situation D: Aligned Delegate Pay Reduction
 
-Interpretation: Due to a considerable reduction in Aligned Delegate pay, all Delegates resign from their positions.
+Interpretation: Due to a considerable reduction in Aligned Delegate pay, all Delegates resign from their positions. While the example sounds extreme, this may be the intended consequence of an author's proposal, rather than an unintended consequence or mistake. 
 
-Response: I would interpret this situation as a consequence of intended outcomes related to the pay reduction, unlikely to produce an urgent poll under 12.1. While the statute primarily addresses unintended consequences and mistakes, this situation might require a broader interpretation (perhaps the reduction is a typo, for instance). I would engage with the community through forum posts and discussions to assess the situation's implications and potential solutions before considering a Governance Poll.
+Response: I interpreted this situation as a consequence of intended outcomes related to the pay reduction, unlikely to produce an urgent poll under 12.1. While the statute primarily addresses unintended consequences and mistakes, this situation might require a broader interpretation (perhaps the reduction is a typo, for instance). I would engage with the community through forum posts and discussions to assess the situation's implications and potential solutions before considering a Governance Poll.
 
 In summary, section 12.1 empowers Governance Facilitators to address unintended consequences or mistakes, enabling timely corrections through Governance Polls. I would actively engage with the community, initiate polls when necessary, and leverage forum discussions to ensure the MakerDAO ecosystem's stability.
