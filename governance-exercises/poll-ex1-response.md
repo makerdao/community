@@ -15,7 +15,7 @@
   - Increase the Ceiling Increase Cooldown from 28,800 seconds (8 hrs) to 86,400 seconds (24 hrs)
  
   ### Onboard $ABC to Spork Protocol - July 24, 2023
-  -  Onboard the ABC to Spork with the parameters below:
+  -  Onboard the token ABC to Spork with the parameters below:
 	- [onboarding parameters for token $ABC]
 
 - After determining the contents of the poll I would choose from the templates folder the most suitable templates to slot this poll content into, which in this case are 'Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY.md' and 'Onboard $token to Spark Protocol - $date_MONTH_DD,_YYYY.md'.
