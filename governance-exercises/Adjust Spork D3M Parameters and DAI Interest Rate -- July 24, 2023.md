@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-07-24T16:00:00
-end_date: 2023-07-27T16:00:00
+start_date: 2023-07-24 16:00 UTC
+end_date: 2023-07-27 16:00 UTC
 ---
 # Poll: Adjust Spork D3M Parameters and DAI Interest Rate - July 24, 2023
 
