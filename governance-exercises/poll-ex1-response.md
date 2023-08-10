@@ -18,8 +18,8 @@
   -  Onboard the ABC to Spork with the parameters below:
 	- [onboarding parameters for token $ABC]
 
-  - After determining the contents of the poll I would choose the most suitable templates which are 'Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY.md' and 'Onboard $token to Spark Protocol - $date_MONTH_DD,_YYYY.md'.
-  - Next, I would publish a response in the forum thread informing the proposers and community of the decision to submit two polls, with rationale included.
+- After determining the contents of the poll I would choose the most suitable templates which are 'Adjust $protocol_name D3M Parameters - $date_MONTH_DD,_YYYY.md' and 'Onboard $token to Spark Protocol - $date_MONTH_DD,_YYYY.md'.
+- Next, I would publish a response in the forum thread informing the proposers and community of the decision to submit two polls, with rationale included.
 - I would then draft the polls using the poll templates as stated above. The polls will include a summary of the proposal, voting choices, and links to relevant resources for voters to make informed decisions. I will review the poll drafts against the 'poll creation checklist' to ensure they meet all criteria. Additionally, I will carefully check for any spelling or grammatical errors and make sure the language used is easy to understand.
 - I would then create a draft PR to the repo and ask for reviews of the polls content from the proposers and Bob
 - Using any feedback and notes from reviewers, I will finalise the polls and review them against the 'poll submission checklist', adding all relevant tags based on impact and category. In this case, relevant tags would include "high-impact", collateral onboard" and "D3M" before making a PR to push changes to the main branch.
