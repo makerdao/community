@@ -1,7 +1,7 @@
 ---
 title: Adjust Spork Protocol D3M Parameters and DAI Interest Rate - July 24, 2023
 summary: Signal your support or opposition to adjusting the Spork DAI Direct Deposit Module (D3M) parameters.
-discussion_link: 
+discussion_link: https://forum.makerdao.com/t/xxx
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -15,9 +15,9 @@ options:
 start_date: 2023-07-24T16:00:00
 end_date: 2023-07-27T16:00:00
 ---
-# Poll: Adjust Spork D3M Parameters and DAI Interest Rate Strategy - July 24, 2023
+# Poll: Adjust Spork D3M Parameters and DAI Interest Rate - July 24, 2023
 
-The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling). The community can vote in this poll to express support or opposition to updating the Spork Direct Deposit DAI Module (D3M) with the detailed parameters. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 24 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling). The community can vote in this poll to express support or opposition to updating the Spork Direct Deposit DAI Module (D3M) with detailed parameters. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 24 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -34,9 +34,9 @@ The community can vote in this poll to express support or opposition to making t
   - Adjust Spork Protocol DAI Interest Rate Strategy to increase the DAI deposit rate by 0.5% from 2% to 2.5%
   - Increase the Ceiling Increase Cooldown from 28,800 seconds (8 hrs) to 86,400 seconds (24 hrs)
 
-Please review the discussion [thread]() to help inform your position before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/xxx) to help inform your position before voting.
 
-For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the entry in the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
+For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
 
 ## Outcomes
 
