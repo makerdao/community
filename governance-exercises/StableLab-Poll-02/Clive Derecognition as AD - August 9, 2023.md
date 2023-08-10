@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2023-08-14T16:00:00
-end_date: 2023-08-17T16:00:00
+start_date: 2023-08-14 16:00 UTC
+end_date: 2023-08-17 16:00 UTC
 ---
 # Poll: Clive Derecognition as AD - August 9, 2023
 
