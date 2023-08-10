@@ -3,7 +3,7 @@
 ## 1: Determine what course of action you would take as a Governance Facilitator and communicate it clearly
 
 - I would first review the proposal thoroughly and perform any necessary compliance checks
-- I would then reach out to Alice and Faraz if any outstanding details or any ambiguities require further clarification which would determine what polls should be drafted. In this case, the proposal provides all details required with a few minor 
+- I would then reach out to Alice and Faraz if any outstanding details or any ambiguities require further clarification which would determine what polls should be drafted. In this case, the proposal provides all details required.
 - Based on Maker's Governance cycles as detailed [here](https://manual.makerdao.com/governance/governance-cycle), I would assess the suitability of the proposal's polls for either the Weekly or Monthly Governance cycle. Since the proposal author has emphasized the time-sensitivity of the matter, citing their user base's rapid growth trajectory and the need to capitalize on this growth, I would opt to include these polls in the Weekly cycle.
 - Since Bob has already given authorization via forum post for these Spork-related polls, I would then determine how to split these polls so that users are allowed to express their opinions separately.
 - While these actions are closely linked, I would split them into two separate polls to clearly distinguish between the distinct proposed changes.
