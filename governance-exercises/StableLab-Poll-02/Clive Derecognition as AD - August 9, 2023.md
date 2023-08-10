@@ -17,7 +17,7 @@ end_date: 2023-08-17T16:00:00
 ---
 # Poll: Clive Derecognition as AD - August 9, 2023
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system. This Governance Poll will be active for three days beginning on 8, August 2023 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to the foll
 * Derecognition of Clive AD due to significant suspicion of identity discovery. According to the Atlas, if the materials provided against Clive constitute significant suspicion the aligned delegate must be derecognized.
 * AD Diane is acting as a whistle-blower by providing materials suggesting the identity of Clive. According to Atlas, Diane is eligible to receive half of the AD Buffer for providing useful information for determining that the privacy of an AD was compromised. 
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread](discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
