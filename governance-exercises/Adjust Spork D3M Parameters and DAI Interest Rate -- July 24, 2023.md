@@ -31,17 +31,17 @@ The community can vote in this poll to express support or opposition to making t
   ### Adjust Spork Protocol D3M Parameters and DAI Interest Rate - July 24, 2023:
   - Increase Spork D3M Debt Ceiling by 50 million from 50 million to 100 million DAI.
   - Increase Spork D3M Target Available Debt (gap) by 10 million from 5 million to 15 million.
-  - Adjust Spork Protocol DAI Interest Rate Strategy to increase the DAI deposit rate by 0.5% from 2% to 2.5%
+  - Adjust Spork Protocol DAI Interest Rate to increase the DAI deposit rate by 0.5% from 2% to 2.5%
   - Increase the Ceiling Increase Cooldown from 28,800 seconds (8 hrs) to 86,400 seconds (24 hrs)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/xxx) to help inform your position before voting.
 
-For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters interact, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
+For more information regarding the DAI Direct Deposit Module (D3M) and how these parameters work, check out the forum thread [here](https://forum.makerdao.com/t/discussion-direct-deposit-dai-module-d3m/7357) and the [Maker Operational Manual](https://manual.makerdao.com/module-index/module-dai-direct-deposit).
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* These Spork Protocol D3M Parameter changes will be included in an upcoming Executive Vote.
+* These changes will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
