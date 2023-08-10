@@ -14,7 +14,7 @@
   - Adjust Spork Protocol DAI Interest Rate to increase the DAI deposit rate by 0.5% from 2% to 2.5%
   - Increase the Ceiling Increase Cooldown from 28,800 seconds (8 hrs) to 86,400 seconds (24 hrs)
  
-  ### Onboard $ABC to Spork Protocol - July 24, 2023
+  ### Onboard ABC to Spork Protocol - July 24, 2023
   -  Onboard the token ABC to Spork with the parameters below:
 	- [onboarding parameters for token $ABC]
 
