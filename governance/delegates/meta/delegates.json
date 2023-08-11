@@ -73,10 +73,10 @@
       },
       "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "95.00%",
+        "pollParticipation": "93.33%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -89,10 +89,10 @@
       },
       "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
-        "executiveParticipation": "100%",
-        "communication": "100%"
+        "combinedParticipation": "85.71%",
+        "pollParticipation": "88.23%",
+        "executiveParticipation": "75.00%",
+        "communication": "94.44%"
       },
       "cuMember": false
     },
@@ -105,10 +105,10 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -120,22 +120,6 @@
         "externalProfileURL": "https://forum.makerdao.com/t/avc-registration-submission-composable-avc/20348"
       },
       "image": "",
-      "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4",
-      "profile": {
-        "name": "0xDefensor",
-        "description": "# Neutral\n\nThis is a neutral delegate contract. It does not follow a specific AVC. Delegates should use neutral contracts to vote in a universally aligned manner.\n\n# 0xDefensor\nDelegate Address: 0x4e7DED37D78e0639b274068B4468181Fa1e1AeF4  \nForum: @0xDefensor  ",
-        "externalProfileURL": null
-      },
-      "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
@@ -153,8 +137,8 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "96.15%",
-        "pollParticipation": "95.23%",
+        "combinedParticipation": "97.3%",
+        "pollParticipation": "96.36%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -169,8 +153,8 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
+        "combinedParticipation": "85.96%",
+        "pollParticipation": "85.71%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -185,8 +169,8 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
+        "combinedParticipation": "85.96%",
+        "pollParticipation": "85.71%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -201,10 +185,10 @@
       },
       "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -265,10 +249,10 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -377,8 +361,8 @@
       },
       "image": "QmTaZkLVBj7kpsiqPruRHeytNaKidHWysQXZJERQBLXr6H",
       "metrics": {
-        "combinedParticipation": "96.15%",
-        "pollParticipation": "95.23%",
+        "combinedParticipation": "97.3%",
+        "pollParticipation": "96.36%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -425,10 +409,10 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
-        "executiveParticipation": "100%",
-        "communication": "100%"
+        "combinedParticipation": "85.71%",
+        "pollParticipation": "88.23%",
+        "executiveParticipation": "75.00%",
+        "communication": "94.44%"
       },
       "cuMember": false
     },
@@ -489,8 +473,8 @@
       },
       "image": "Qmc1aUsqNqTg5a1vXCH3WPc1ZSDWsDL9Ets7esUL1FsVVr",
       "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
+        "combinedParticipation": "85.96%",
+        "pollParticipation": "85.71%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
@@ -505,10 +489,10 @@
       },
       "image": "QmRhAhyPgEJ71yQsXhA1DgaJ7MWvWZp7LATvxYANASAw1Q",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -521,10 +505,10 @@
       },
       "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "100%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     },
@@ -585,10 +569,10 @@
       },
       "image": "",
       "metrics": {
-        "combinedParticipation": "No Data",
-        "pollParticipation": "No Data",
-        "executiveParticipation": "No Data",
-        "communication": "No Data"
+        "combinedParticipation": "95.00%",
+        "pollParticipation": "93.33%",
+        "executiveParticipation": "100%",
+        "communication": "100%"
       },
       "cuMember": false
     }
