@@ -54,11 +54,8 @@ Given my mandate as Governance Facilitator, I believe this situation would also 
 
 [GOV 3.1.1.1](https://mips.makerdao.com/mips/details/MIP113#3-1-1-1) allows Governance Facilitators, by consensus, to "directly edit a Scope Artifact to align its content with the Scope boundaries and other Atlas requirements such as neutrality." (Governance practice [precedent](http://forum.makerdao.com/t/notice-aligned-delegate-derecognition-and-avc-member-warning/21099) exists for this sub-element.) I would consider, for instance, directly editing GOV 6 to specify ethical guardrails around the whistleblower bounty:
 
-```
-A whistleblower is eligible to receive a bounty only if they responsibly submitted opsec-breach evidence/information to the FacilitatorDAO. 
-
-"Responsibly" means that the whistleblower is a mere conveyor of the opsec breach, and not its *cause*. In other words, an affirmative act of the whistleblower was *not* the proximate cause of the breach of the Alignment Conserver's identity or operational security.
-```
+- A whistleblower is eligible to receive a bounty only if they responsibly submitted opsec-breach evidence/information to the FacilitatorDAO. 
+- "Responsibly" means that the whistleblower is a mere conveyor of the opsec breach, and not its *cause*. In other words, an affirmative act of the whistleblower was *not* the proximate cause of the breach of the Alignment Conserver's identity or operational security.
 
 Running a [GOV 12](https://mips.makerdao.com/mips/details/MIP113#12-1-bootstrapping-governance-votes) governance poll is also an option. However, it may be a stretch to say that the issue presented here is due to an "unintended consequence or mistake" in the rulebooks "causing Maker Governance to function incorrectly". Simply, the protocols around derecognition and bounties haven't been fleshed out. Also, as mentioned above, the situation presents highly sensitive ethical issues that, on balance, should arguably be a commitment on the part of Maker, rather than a matter of choice for voters. 
 
