@@ -71,7 +71,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/request-to-po
 
 ### New Silver (RWA002-A) Doc Parameter Update
 
-As per this governance [poll](https://vote.makerdao.com/polling/QmaU1eaD#poll-detail), if this executive proposal passes, the following parameter change will take place.
+As per this governance [poll](https://vote.makerdao.com/polling/QmaU1eaD), if this executive proposal passes, the following parameter change will take place.
 
 [RWA Agreement (doc)]((https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement)) parameter for the New Silver vault will be updated to `QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1`. The contract documentation linked to this IPFS hash is accessible [here](https://gateway.pinata.cloud/ipfs/QmTrrwZpnSZ41rbrpx267R7vfDFktseQe2W5NJ5xB7kkn1).
 
@@ -123,6 +123,8 @@ As per this governance [poll](https://vote.makerdao.com/polling/QmZyFH21) and th
 #### DAI InterestRateStrategy Update
 
 In response to the DSR rate's increase to 8% subsequent to the EDSR's introduction, a new Dai InterestRateStrategy will be activated. This strategy will track the ETH-C stability fee for the borrow rate of Dai in the Spark Protocol, diverging from its previous alignment with the DSR rate. This update is inline with the Stability Scope, which specifies that fees should remain unaffected by the EDSR.
+
+[VoteWizard: The only documentation available on the DAI InterestRateStrategy I found is the smart contract code itself. It has useful comments but are outdated and the voters won't understand it, so I've opted not to include any documentation. Smart Contract code: https://github.com/marsfoundation/sparklend/blob/master/src/DaiJugInterestRateStrategy.sol]
 
 #### Spark Protocol Parameter Changes
 
