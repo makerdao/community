@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP Amendment Subproposals - Article 1 Edits (MIP102c2-SP12) - August 14, 2023
-summary: This amendment introduces edits to the first articles of MIP106, MIP107, and MIP113.
+summary: This amendment introduces edits to the first article of MIP106, MIP107, and MIP113.
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp12-mip-amendment-subproposals-article-1-edits/21252
 parameters:
     input_format:
@@ -49,9 +49,9 @@ Please review the links below to inform your position on this proposal before vo
 
 ## Outcomes
 
-$Minimum_Positive_Participation? This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
+This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option $Minimum_Positive_Participation? AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 10,000 MKR, then the following actions will be taken:**
 * The Governance Facilitators will confirm its passage by marking the proposal **Accepted** on the [MIPs portal](https://mips.makerdao.com/mips/list) and across all other relevant governance mediums.
 * Any further work required to implement the proposal will be tasked to the relevant [Ecosystem Actors](https://mips.makerdao.com/mips/details/MIP101#7-professional-actors).
 
