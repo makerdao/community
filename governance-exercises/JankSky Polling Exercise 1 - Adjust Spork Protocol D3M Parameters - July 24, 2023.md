@@ -1,3 +1,4 @@
+---
 title: Adjust Spork Protocol D3M Parameters - July 24, 2023
 summary: Signal your support or opposition to adjusting the Spork Protocol DAI Direct Deposit Module (D3M) parameters.
 discussion_link: $discussion_link
@@ -26,9 +27,9 @@ The Governance Facilitator has placed a Governance Poll into the [voting system]
 ## Review
 
 This poll allows the MakerDAO governance community to express support or opposition to making the following parameter changes to the Spork Protocol DAI Direct Deposit Module (D3M):
-* Increase of the Spork D3M Debt Ceiling from $current_line to $new_line.
-* Increase of the Spork D3M Target Available Debt from $current_gap to $new_gap.
-* Increase of the Spork D3M Target Borrow Rate (`bar`) from %current_bar to $new_bar.
+* Increase of the Spork D3M Debt Ceiling from 50 million DAI to 100 million DAI.
+* Increase of the Spork D3M Target Available Debt from 5 million DAI to 10 million DAI.
+* Increase of the Spork D3M Ceiling Increase Cooldown (`ttl`) from 28,800 seconds (480 minutes) to 86,400 seconds (1440 minutes).
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
