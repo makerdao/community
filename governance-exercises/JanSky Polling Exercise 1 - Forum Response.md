@@ -1,9 +1,9 @@
-# Second Forum Response - Spork Protocol Changes
+# Forum Response - Spork Protocol Changes
 
-Author: JanSky (Governance Scope Facilitator)
-
+Author: JanSky (Governance Scope Facilitator)  
 Date: Thursday 20th July 2023
 
+---
 
 Hello Maker Community,
 
@@ -21,5 +21,5 @@ I believe this approach will allow us to make well-informed decisions and foster
 
 Let's work together to ensure a thriving Maker ecosystem.
 
-Best regards,
+Best regards,  
 JanSky
