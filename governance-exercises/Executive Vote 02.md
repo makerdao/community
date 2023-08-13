@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-For voters' convenience, each proposed item is prefaced with links showing its provenance. "Authorization" links to the document(s) authorizing the proposed item's inclusion in the Executive Vote; this can be a governance poll, the Atlas and/or a Scope Alignment Artifact. "Reasoning" links to a MakerDAO Forum post providing the rationale and additional context for each item. Where needed, "Authorizing Parties" may also be listed; these may include the responsible Scope Facilitator and/or Scope Advisory Council members.
+For voters' convenience, each proposed item is prefaced with links showing its provenance. "Authorization" links to the official document(s) authorizing the proposed item's inclusion in the Executive Vote; this can be a governance poll, the Atlas and/or a Scope Alignment Artifact. "Reasoning" links to a MakerDAO Forum post providing the rationale and additional context for each item. Where needed, "Authorizing Parties" may also be listed; these may include the responsible Scope Facilitator and/or Scope Advisory Council members.
 
 ### Enhanced Dai Savings Rate (EDSR) Activation
 
