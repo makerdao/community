@@ -1,6 +1,7 @@
-# Forum Response - Spork Protocol Changes
+# Second Forum Response - Spork Protocol Changes
 
 Author: JanSky (Governance Scope Facilitator)
+
 Date: Thursday 20th July 2023
 
 
