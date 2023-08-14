@@ -35,7 +35,7 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP102c2-SP13 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
