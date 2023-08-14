@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] EDSR Adjustment, Vault and Smart Burn Engine Parameter Updates, CRVV1ETHSTETH-A Offboarding, Delegate Compensation, Transfer Spark Protocol Admin Controls - August 18, 2023
-summary: Reduce the DSR per the EDSR update, update multiple vault parameters, updated the Smart Burn Engine parameters, complete offboarding of CRVV1ETHSTETH-A, Aligned Delegate compensation for July 2023, DAO Resolution for BlockTower Andromeda, transfer remaining admin controls to the Spark Proxy, execute Spark proxy spell.
+summary: Reduce the DSR per the EDSR update, update multiple vault parameters, update the Smart Burn Engine parameters, complete offboarding of CRVV1ETHSTETH-A, Aligned Delegate compensation for July 2023, DAO Resolution for BlockTower Andromeda, transfer remaining admin controls to the Spark Proxy, execute Spark proxy spell.
 date: 2023-08-18T00:00:00.000Z
 address: "$spell_address"
 
@@ -43,7 +43,7 @@ As per this successful governance [poll](TBD), the DSR will be reduced as per th
 
 - Reduce the DSR by 3% from 8% to **5%**.
 
-Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-modify-enhanced-dsr-based-on-observed-data/21581) to inform your position prior to voting.
+Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-modify-enhanced-dsr-based-on-observed-data/21581) to inform your position before voting.
 
 ### EDSR-Related [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Updates
 
@@ -59,16 +59,16 @@ As per this successful governance [poll](TBD), the following Stability Fee Updat
 - Increase WBTC-B Stability Fee by 0.11% from 6.19% to **6.30%**.
 - Increase WBTC-C Stability Fee by 0.11% from 5.44% to **5.55%**.
 
-Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-modify-enhanced-dsr-based-on-observed-data/21581) to inform your position prior to voting.
+Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-modify-enhanced-dsr-based-on-observed-data/21581) to inform your position before voting.
 
 ### Smart Burn Engine Parameter Updates
 
-As per this successful governance [poll](https://vote.makerdao.com/polling/QmTRJNNH), the following parameter updates to the Smart Burn Engine will take place, if this executive proposal passes.
+Per this successful governance [poll](https://vote.makerdao.com/polling/QmTRJNNH), the following parameter updates to the Smart Burn Engine will occur if this executive proposal passes.
 
 - Increase [Smart Burn Engine Cooldown (`hop`)](https://manual.makerdao.com/parameter-index/smart-burn-engine/param-surplus-cooldown) by 4,731 seconds from 1,577 seconds to **6,308 seconds**.
 - Increase [Smart Burn Engine Lot Size (`bump`)](https://manual.makerdao.com/parameter-index/smart-burn-engine/param-surplus-lot-size) by 15,000 DAI from 5,000 DAI to **20,000 DAI**.
 
-Please review the forum [thread](https://forum.makerdao.com/t/smart-burn-engine-parameters-update-1/21545) to inform your position prior to voting.
+Please review the forum [thread](https://forum.makerdao.com/t/smart-burn-engine-parameters-update-1/21545) to inform your position before voting.
 
 ### Non-EDSR Related Parameter changes
 
@@ -80,11 +80,11 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmPxb
 - Reduce WSTETH-B [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) by 14,400 seconds from 57,600 seconds to **43,200 seconds (12 hours)**.
 - Increase RETH-A [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 25 million DAI from 50 million DAI to **75 million DAI**.
 
-Please review the forum threads ([1](https://forum.makerdao.com/t/stability-scope-parameter-changes-4/21567), [2](https://forum.makerdao.com/t/non-scope-defined-parameter-changes-wsteth-b-dc-iam/21568)) to inform your position prior to voting.
+Please review the forum threads ([1](https://forum.makerdao.com/t/stability-scope-parameter-changes-4/21567), [2](https://forum.makerdao.com/t/non-scope-defined-parameter-changes-wsteth-b-dc-iam/21568)) to inform your position before voting.
 
 ### CRVV1ETHSTETH-A Second Stage Offboarding
 
-As per the instructions in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#14-3-native-vault-engine) the offboarding of CRVV1ETHSTETH-A will be completed by enacting the following parameter changes, if this executive proposal passes.
+As per the instructions in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#14-3-native-vault-engine), the offboarding of CRVV1ETHSTETH-A will be completed by enacting the following parameter changes, if this executive proposal passes.
 
 - Reduce [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 13% from 13% to **0%**.
 - Reduce [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) by 250 DAI from 250 DAI to **0 DAI**.
@@ -117,7 +117,7 @@ As per [The Atlas](https://mips.makerdao.com/mips/details/MIP101) and [Governanc
 
 ### Direct Deposit Module (D3M) Parameter Housekeeping
 
-As per this [forum post](https://forum.makerdao.com/t/notice-of-executive-vote-date-change-and-housekeeping-changes/21613) the following housekeeping changes to the now defunct D3Ms will be made, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/notice-of-executive-vote-date-change-and-housekeeping-changes/21613), the following housekeeping changes to the now defunct D3Ms will be made if this executive proposal passes.
 
 #### Aave D3M
 
@@ -140,13 +140,13 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmaU1
 - Reduce Liquidation Ratio by 5% from 105% to **100%**.
 - Bump the Oracle Price to **92,899,356 DAI** (rounded value, see technical note below).
 
-*Technical Note:* the increase in the Oracle Price is required to account for borrowing and accumulated Stability Fees over the duration of the loan. Per the Legal Agreement, the loan term runs until 2032-10-11. At the smart contract level the Oracle Price will be internally set to `92899355926924134500000000`.
+*Technical Note:* the increase in the Oracle Price is required to account for borrowing and accumulated Stability Fees throughout the loan term. Per the Legal Agreement, the loan term runs until 2032-10-11. At the smart contract level, the Oracle Price will be internally set to `92899355926924134500000000`.
 
-Please see the [proposal thread](https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417) for more information prior to voting.
+Please see the [proposal thread](https://forum.makerdao.com/t/rwa-002-new-silver-restructuring-risk-and-legal-assessment/21417) before voting.
 
 ### DAO Resolution for BlockTower Andromeda
 
-As per this [forum post](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-additional-third-parties/21572) and [approval](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-additional-third-parties/21572/2) by the Responsible Facilitator, the following DAO Resolution with respect to BlockTower Andromeda (RWA015-A) will be approved, if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-additional-third-parties/21572) and [approval](https://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-taco-with-additional-third-parties/21572/2) by the Responsible Facilitator, the following DAO Resolution concerning BlockTower Andromeda (RWA015-A) will be approved, if this executive proposal passes.
 
 ```
 MAKERDAO RESOLUTION
@@ -157,54 +157,34 @@ No: 5
 
 Purpose: SETUP ADDITIONAL TRANSACTIONAL THIRD-PARTY RELATIONSHIPS
 
-Reference is made to the Articles of Association (the “Articles”) of TACO Foundation, a Cayman Islands
-foundation company (“TACO”), dated November 16, 2022, pursuant to which TACO’s operations are
-governed. Capitalized terms used herein and not otherwise defined shall have the meaning given to them
-in the Articles.
+Reference is made to the Articles of Association (the “Articles”) of TACO Foundation, a Cayman Islands foundation company (“TACO”), dated November 16, 2022, pursuant to which TACO’s operations are governed. Capitalized terms used herein and not otherwise defined shall have the meaning given to them in the Articles.
 
-This resolution sets out the instructions and ratifications duly passed as an executed vote on
-https://vote.makerdao.com/executive (“Maker Governance Voting Portal”) in accordance with the
-governance protocols of MakerDAO on the date specified above.
-In accordance with the governance protocols of MakerDAO on the date specified above and pursuant to
-clause 4.16 of the Articles, according to which the directors of TACO must implement all DAO Resolutions
-(subject to applicable law); this DAO Resolution approves and ratifies the following structures and actions
-to execute on transactions as described by Project Andromeda:
+This resolution sets out the instructions and ratifications duly passed as an executed vote on https://vote.makerdao.com/executive (“Maker Governance Voting Portal”) in accordance with the governance protocols of MakerDAO on the date specified above. In accordance with the governance protocols of MakerDAO on the date specified above and pursuant to clause 4.16 of the Articles, according to which the directors of TACO must implement all DAO Resolutions (subject to applicable law); this DAO Resolution approves and ratifies the following structures and actions to execute on transactions as described by Project Andromeda:
 
 RATIFICATION
 
 Establish, maintain, or enable reporting on the following additional facilities:
 
-1. An agreement with Wintermute Trading Ltd. as Exchange Agent to establish an OTC Account
-(“Wintermute OTC Account”), whereby:
-a. Incoming funds can be deposited into a segregated wallet managed by Exchange Agent,
-for the express purpose of exchanging Stablecoins into USD. USD exchanged from
-Stablecoins shall be deposited by Wintermute into one of TACO’s Settlement Accounts.
-b. In the event of a disbursement, USD incoming from TACO’s Settlement Account can be
-deposited into the Wintermute OTC Account for the express purpose of exchanging USD
-into Stablecoins. Stablecoins exchanged from USD shall be deposited into either
-RWA015_A_INPUT_CONDUIT_JAR or RWA015_A_INPUT_CONDUIT_URN.
+1. An agreement with Wintermute Trading Ltd. as Exchange Agent to establish an OTC Account (“Wintermute OTC Account”), whereby:
+a. Incoming funds can be deposited into a segregated wallet managed by Exchange Agent, for the express purpose of exchanging Stablecoins into USD. USD exchanged from Stablecoins shall be deposited by Wintermute into one of TACO’s Settlement Accounts.
+b. In the event of a disbursement, USD incoming from TACO’s Settlement Account can be deposited into the Wintermute OTC Account for the express purpose of exchanging USD into Stablecoins. Stablecoins exchanged from USD shall be deposited into either RWA015_A_INPUT_CONDUIT_JAR or RWA015_A_INPUT_CONDUIT_URN.
 
 2. A Settlement Account with StoneX Group Inc. (“StoneX Settlement Account”), whereby:
-a. Incoming funds from an Exchange Agent may be directed to the purchase of identified
-assets.
-b. Assets purchased shall be custodied with StoneX Group Inc. acting as Broker and
-Pershing LLC. acting as Custodian.
-c. Distribution and proceeds from the sale of any assets shall be settled in the StoneX
-Settlement Account.
+a. Incoming funds from an Exchange Agent may be directed to the purchase of identified assets.
+b. Assets purchased shall be custodied with StoneX Group Inc. acting as Broker and Pershing LLC. acting as Custodian.
+c. Distribution and proceeds from the sale of any assets shall be settled in the StoneX Settlement Account.
 
 3. A Settlement Account with Computershare Ltd. (“Computershare Settlement Account”), whereby:
-a. Incoming funds from an Exchange Agent may be directed to the purchase of identified
-assets.
+a. Incoming funds from an Exchange Agent may be directed to the purchase of identified assets.
 b. Assets purchased may be custodied with Computershare Ltd. acting as Custodian.
-c. Distribution and proceeds from the sale of any assets shall be settled in the
-Computershare Settlement Account
+c. Distribution and proceeds from the sale of any assets shall be settled in the Computershare Settlement Account
 ```
 
-A IPFS hash of this DAO Resolution is `QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5` and a pinned version can be viewed [here](https://ipfs.io/ipfs/QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5).
+An IPFS hash of this DAO Resolution is `QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5` and a pinned version can be viewed [here](https://ipfs.io/ipfs/QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5).
 
 ### Transfer Spark Protocol Admin Controls
 
-As per this governance [poll](https://vote.makerdao.com/polling/Qmc9fd3j) use of a Spark Proxy has been approved by Maker Governance. Admin control over the remaining contracts (listed below) will be transferred to the Spark Proxy, if this executive proposal passes.
+As per this governance [poll](https://vote.makerdao.com/polling/Qmc9fd3j) use of a Spark Proxy has been approved by Maker Governance. Admin control over the remaining contracts (listed below) will be transferred to the Spark Proxy if this executive proposal passes.
 
 * treasuryController
 * treasury
@@ -227,10 +207,10 @@ The Spark Proxy spell at address [0x60cC45DaB5F0B17789C77d5FE990f1aD80e9DD65](ht
 Spell contents include:
 
 - Upgrade the Pool Implementation to Aave 3.0.2
-- Set DAI interest rate strategy to track the DSR rather than ETH-C Stability Fee - this is based on the latest updates to the EDSR and reflects the fact that the Spark borrow rate should track the EDSR.
+- Set DAI interest rate strategy to track the DSR rather than ETH-C Stability Fee - this is based on the latest EDSR updates and reflects that the Spark borrow rate should track the EDSR.
 - Unfreeze the sDAI market - now that the DAI borrow rate at Spark tracks the DSR, the sDAI market can be unfrozen as there is no longer an arbitrage opportunity.
 
-Further information on these changes can be seen in this [forum post](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark-for-august-18th-spell/21612) from the Phoenix Labs team.
+Further information on these changes can be found from the Phoenix Labs team in this [forum post](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark-for-august-18th-spell/21612).
 
 ## Review
 
