@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *Well, I do declare, in line with our quarterly AVC roundabout, this here little suggestion’s aimin’ to tweak Article 1 of a few of them Alignment Artifacts, all to better our Maker Governance, don’t ya know? We’re gonna zero in on them MIPs that hold the Governance Scope, the Support Scope, and the Protocol Scope, 'cause these are the Scopes that’ll be under the watchful eye of AVCs in the first 3 weeks of the fresh quarter.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/971fc3ee247b073ed03c506b1c66f4b403d08eb0/MIP102/MIP102c2-Subproposals/MIP102c2-SP12.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/bb01c4bf112a1be25790994587815bac6c5c6e83/MIP102/MIP102c2-Subproposals/MIP102c2-SP12.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP12)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp12-mip-amendment-subproposals-article-1-edits/21252)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/943)
