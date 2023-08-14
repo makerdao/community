@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal seeks to make various updates to the Alignment Artifacts to prepare for Phase 1 of Endgame.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/42f59f785a1660c6523bfef0dc7832a2412e6100/MIP102/MIP102c2-Subproposals/MIP102c2-SP13.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/540397a11cc17ecb99edd4aa2767343de2d0f645/MIP102/MIP102c2-Subproposals/MIP102c2-SP13.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP13)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp13-mip-amendment-subproposal/21305)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/947)
