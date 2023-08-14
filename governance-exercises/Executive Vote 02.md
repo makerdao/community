@@ -78,7 +78,7 @@ In April 2023, the loans backing the Harbor Trade Credit vault defaulted. Approx
 *Authorization*: [Atlas](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards); [Governance Scope Artifact](https://mips.makerdao.com/mips/details/MIP113#0-the-governance-scope)\
 *Reasoning & authorizing party*: Governance Facilitator's [Forum post](http://forum.makerdao.com/t/avc-member-participation-rewards-q2-2023/21459)
 
-AVC Members are MKR holders who organize into Voter Committees for the purpose of participating in Governance. This is the very first distribution of AVC Member Participation Rewards, which are to be paid on a quarterly basis. The total Participation Rewards to be distributed to AVC Members for Q2 will be **134.1 MKR**. If this executive proposal passes, the compensation will be distributed as seen below:
+AVC Members are MKR holders who organize into Voter Committees for the purpose of participating in Governance. This is the very first distribution of AVC Member Participation Rewards, which are to be paid on a quarterly basis. The total Participation Rewards to be distributed to AVC Members for Q2 will be **134.1 MKR**. If this executive proposal passes, the Participation Rewards will be distributed as seen below:
 
 | AVC Member       | Address                                                      | Amount (MKR) |
 | ---------------- | ------------------------------------------------------------ | ------------ |
