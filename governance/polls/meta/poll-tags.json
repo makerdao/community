@@ -4011,5 +4011,29 @@
     "medium-impact",
     "surplus",
     "endgame"
+  ],
+  "1025": [
+    "high-impact",
+    "mips",
+    "dsr",
+    "endgame"
+  ],
+  "1026": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1026": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1026": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
   ]
 }
