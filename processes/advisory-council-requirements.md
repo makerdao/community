@@ -17,7 +17,8 @@ OR in-depth subject knowledge of traditional governance structures, processes, a
 
 It is critically important that candidates both:
 * know when to look for relevant information and;
-* are able to find relevant information;
+* are able to find relevant information;  
+
 …when it relates to both of these two domains (crypto and traditional governance).
 
 
