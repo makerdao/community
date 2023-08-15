@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 Please review the discussion [thread](https://forum.makerdao.com/txxx) to help inform your position before voting.
 
-**Note**: The existing standing order for the MagicRWA vault trust related to ALM transfers to maintain the DAI peg is invalidated as a result of this standing order. The ALM order will be replaced shortly once the new version has been fully drafted. A forum [poll](link to forum poll) has been created to help judge community sentiment on the logic for the replacement ALM order.
+**Note**: The existing standing order for the MagicRWA vault trust related to ALM transfers to maintain the DAI peg is invalidated as a result of this proposed standing order. The ALM order will be replaced shortly once the new version has been fully drafted. A forum [poll](link to forum poll) has been created to help judge community sentiment on the logic for the replacement ALM order.
 
 
 ## Outcomes
