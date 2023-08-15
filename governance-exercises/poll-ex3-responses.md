@@ -14,13 +14,15 @@ Here are the actions I would take:
 
 **Forum Response:**
 ---
-Hello, Emilia and Maker community,
+Hello, @Emilia and Maker community,
 
-Thank you for bringing forth the request regarding changes to the standing order for MagicRWA. I appreciate MagicRWA's proactive approach in gathering community sentiment on the ALM structure via forum poll. We've reviewed the text of the proposed order and will initiate a governance poll on Monday, as requested, to validate the proposed standing order changes to the trust relating to the transfer of RWA revenues from vaults arranged by MagicRWA. If this standing order is approved, it will result in the return of MagicRWA vault revenues from the trust through the conduit and jar contract on a quarterly basis..
+Thank you for bringing forth the request regarding changes to the standing order for MagicRWA. I appreciate MagicRWA's proactive approach in gathering community sentiment on the ALM structure via forum poll. We've reviewed the text of the proposed order and will initiate a governance poll on Monday, as requested, to validate the proposed standing order changes to the trust relating to the transfer of RWA revenues from vaults arranged by MagicRWA. If this standing order is approved, it will result in the return of MagicRWA vault revenues from the trust through the conduit and jar contract on a quarterly basis.
 
-In line with Faraz's note, our advisory teams will review the feedback from the community and subsequently post their insights and recommendations on the ALM structure. 
+In line with @Faraz's note, our advisory teams will review the feedback from the community and subsequently post their insights and recommendations on the ALM structure. 
 
 To all MKR token holders, we urge you to review the standing order text carefully and partake in the governance poll. 
+
+I will continue to update this thread as the proposal advances through the governance process
 
 Thank you!
 
