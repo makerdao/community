@@ -24,6 +24,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - A total of **272.75 MKR** will be paid to sixteen Aligned Delegates, as detailed below.
 - Housekeeping parameter updates to the old Compound and Aave Direct Deposit Modules will take place, as detailed below.
 - Parameter updates to the New Silver (RWA002-A) vault will be made, as detailed below.
+- A DAO Resolution for BlockTower Andromeda (RWA015-A) will be approved, as detailed below.
 - Admin control over the remaining Spark Protocol contracts will be transferred to the Spark Proxy, as detailed below.
 - A proxy spell for Spark Protocol will be triggered, as detailed below.
 
@@ -47,7 +48,7 @@ Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-
 
 ### EDSR-Related [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Updates
 
-As per this successful governance [poll](TBD), the following Stability Fee Updates will be made, as per the instructions for the [Enhanced Dai Savings Rate (EDSR)](https://mips.makerdao.com/mips/details/MIP104#3-2-2-enhanced-dai-savings-rate-edsr-) in the Stability Scope, if this executive proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmaAtZ3i), the following Stability Fee Updates will be made, as per the instructions for the [Enhanced Dai Savings Rate (EDSR)](https://mips.makerdao.com/mips/details/MIP104#3-2-2-enhanced-dai-savings-rate-edsr-) in the Stability Scope, if this executive proposal passes.
 
 - Increase ETH-A Stability Fee by 0.14% from 3.44% to **3.58%**.
 - Increase ETH-B Stability Fee by 0.14% from 3.94%% to **4.08%**.
@@ -58,6 +59,8 @@ As per this successful governance [poll](TBD), the following Stability Fee Updat
 - Increase WBTC-A Stability Fee by 0.11% from 5.69% to **5.80%**.
 - Increase WBTC-B Stability Fee by 0.11% from 6.19% to **6.30%**.
 - Increase WBTC-C Stability Fee by 0.11% from 5.44% to **5.55%**.
+
+Note that the ETH-A, ETH-B, and ETH-C Stability Fees are calculated based on the underlying DSR value rather than the EDSR value.
 
 Please review the forum [thread](https://forum.makerdao.com/t/request-for-gov12-1-2-edit-to-the-stability-scope-to-quickly-modify-enhanced-dsr-based-on-observed-data/21581) to inform your position before voting.
 
@@ -70,7 +73,7 @@ Per this successful governance [poll](https://vote.makerdao.com/polling/QmTRJNNH
 
 Please review the forum [thread](https://forum.makerdao.com/t/smart-burn-engine-parameters-update-1/21545) to inform your position before voting.
 
-### Non-EDSR Related Parameter changes
+### Non-DSR Related Parameter changes
 
 As per this successful governance [poll](https://vote.makerdao.com/polling/QmPxbrBZ#poll-detail) and the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#14-3-native-vault-engine) the following parameter changes will be made, if this executive proposal passes.
 
@@ -84,7 +87,7 @@ Please review the forum threads ([1](https://forum.makerdao.com/t/stability-scop
 
 ### CRVV1ETHSTETH-A Second Stage Offboarding
 
-As per the instructions in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#14-3-native-vault-engine), the offboarding of CRVV1ETHSTETH-A will be completed by enacting the following parameter changes, if this executive proposal passes.
+As per the instructions in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#14-3-12), the offboarding of CRVV1ETHSTETH-A will be completed by enacting the following parameter changes, if this executive proposal passes.
 
 - Reduce [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 13% from 13% to **0%**.
 - Reduce [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) by 250 DAI from 250 DAI to **0 DAI**.
@@ -139,7 +142,7 @@ As per this successful governance [poll](https://vote.makerdao.com/polling/QmaU1
 
 - Increase RWA002-A Debt Ceiling by 30 million DAI from 20 million DAI to **50 million DAI**.
 - Increase RWA002-A Stability Fee by 3.5% from 3.5% to **7%**.
-- Reduce Liquidation Ratio by 5% from 105% to **100%**.
+- Reduce Liquidation Ratio by 5% from 105% to **100%** - the rationale for this change can be seen [here](https://forum.makerdao.com/t/notice-of-executive-vote-date-change-and-housekeeping-changes/21613#rwa002-a-liquidation-ratio-update-3).
 - Bump the Oracle Price to **92,899,356 DAI** (rounded value, see technical note below).
 
 *Technical Note:* the increase in the Oracle Price is required to account for borrowing and accumulated Stability Fees throughout the loan term. Per the Legal Agreement, the loan term runs until 2032-10-11. At the smart contract level, the Oracle Price will be internally set to `92899355926924134500000000`.
@@ -182,7 +185,7 @@ b. Assets purchased may be custodied with Computershare Ltd. acting as Custodian
 c. Distribution and proceeds from the sale of any assets shall be settled in the Computershare Settlement Account
 ```
 
-An IPFS hash of this DAO Resolution is `QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5` and a pinned version can be viewed [here](https://ipfs.io/ipfs/QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5).
+The IPFS hash of this DAO Resolution is `QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5` and a pinned version can be viewed [here](https://ipfs.io/ipfs/QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2psgMP5).
 
 ### Transfer Spark Protocol Admin Controls
 
