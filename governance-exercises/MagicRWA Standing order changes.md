@@ -27,12 +27,13 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following change:
-* Approve a standing order change to the trust relating to the transfer of RWA revenues from vaults arranged by MagicRWA.
-  - This proposed change means that MagicRWA vault revenues will be returned quarterly via the conduit and jar contract from the trust.
+* Approve a change to the standing order that pertains to the transfer of RWA revenues from vaults arranged by MagicRWA, which will be carried out by the trustees.
 
- The standing order can be viewed [here](link to standing order text on Pinata)
+In summary, the proposed change will direct the trustees of the MagicRWA arrangements to return revenue quarterly through the conduit and jar contract.
 
-Please review the discussion [thread](https://forum.makerdao.com/txxx) to help inform your position before voting.
+The standing order can be viewed [here](link to standing order text on Pinata)
+
+Please review the full discussion [thread](https://forum.makerdao.com/txxx) to help inform your position before voting.
 
 **Note**: The existing standing order for the MagicRWA vault trust related to ALM transfers to maintain the DAI peg is invalidated as a result of this proposed standing order. The ALM order will be replaced shortly once the new version has been fully drafted. A forum [poll](link to forum poll) has been created to help judge community sentiment on the logic for the replacement ALM order.
 
@@ -40,7 +41,7 @@ Please review the discussion [thread](https://forum.makerdao.com/txxx) to help i
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This standing order change will be included in an upcoming Executive Vote.
+* This proposed standing order change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
