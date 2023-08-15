@@ -28,7 +28,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following change:
 * Approve a standing order change to the trust relating to the transfer of RWA revenues from vaults arranged by MagicRWA.
-  - This change means that MagicRWA vault revenues will be returned quarterly via the conduit and jar contract from the trust.
+  - This proposed change means that MagicRWA vault revenues will be returned quarterly via the conduit and jar contract from the trust.
+
+ The standing order can be viewed [here](link to standing order text on Pinata)
 
 Please review the discussion [thread](https://forum.makerdao.com/txxx) to help inform your position before voting.
 
