@@ -120,6 +120,8 @@ As per [The Atlas](https://mips.makerdao.com/mips/details/MIP101) and [Governanc
 | Cloaky | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 4.30 |
 | Skynet | [0xd4d1A446cD5976a11bd32D3e815A9F85FED2F9F3](https://etherscan.io/address/0xd4d1A446cD5976a11bd32D3e815A9F85FED2F9F3) | 3.64 |
 
+This comes to a total of **272.75 MKR**.
+
 ### Direct Deposit Module (D3M) Parameter Housekeeping
 
 As per this [forum post](https://forum.makerdao.com/t/notice-of-executive-vote-date-change-and-housekeeping-changes/21613), the following housekeeping changes to the now defunct D3Ms will be made if this executive proposal passes.
