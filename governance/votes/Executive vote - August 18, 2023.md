@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Dai Savings Rate will be reduced per the latest update to the EDSR, as detailed below.
-- Multiple stability fee updates will be made, as detailed below.
+- Multiple Stability Fee updates will be made, as detailed below.
 - The Smart Burn Engine parameters will be updated, as detailed below.
 - Vault parameter updates per the Stability Scope will be made, as detailed below.
 - CRVV1ETHSTETH-A offboarding will be completed, as detailed below.
@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Update
 
-As per this successful governance [poll](TBD), the DSR will be reduced as per the latest updates to the [Enhanced Dai Savings Rate (EDSR)](https://mips.makerdao.com/mips/details/MIP104#3-2-2-enhanced-dai-savings-rate-edsr-) in the Stability Scope as follows, if this executive proposal passes.
+As per this successful governance [poll](https://vote.makerdao.com/polling/QmaAtZ3i), the DSR will be reduced as per the latest updates to the [Enhanced Dai Savings Rate (EDSR)](https://mips.makerdao.com/mips/details/MIP104#3-2-2-enhanced-dai-savings-rate-edsr-) in the Stability Scope as follows, if this executive proposal passes.
 
 - Reduce the DSR by 3% from 8% to **5%**.
 
@@ -91,6 +91,8 @@ As per the instructions in the [Stability Scope](https://mips.makerdao.com/mips/
 - Reduce [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) by 0.1% from 0.1% to **0%**.
 - Increase [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 9,845% from 155% to **10,000%**.
 - For completeness, the [Global Debt Ceiling (`Line`)](https://manual.makerdao.com/parameter-index/core/param-global-debt-ceiling) will be reduced by 100 million DAI as part of the offboarding process for this collateral.
+
+Please review the forum [thread](https://forum.makerdao.com/t/stability-scope-parameter-changes-3/21238#crvv1ethsteth-a-proposed-offboarding-11) to inform your position before voting.
 
 ### Aligned Delegate Compensation for July 2023
 
@@ -184,7 +186,7 @@ An IPFS hash of this DAO Resolution is `QmUNrCwKK2iK2ki5Spn97jrTCDKqFjDZWKk3wxQ2
 
 ### Transfer Spark Protocol Admin Controls
 
-As per this governance [poll](https://vote.makerdao.com/polling/Qmc9fd3j) use of a Spark Proxy has been approved by Maker Governance. Admin control over the remaining contracts (listed below) will be transferred to the Spark Proxy if this executive proposal passes.
+As per this governance [poll](https://vote.makerdao.com/polling/Qmc9fd3j), use of a Spark Proxy has been approved by Maker Governance. Admin control over the remaining contracts (listed below) will be transferred to the Spark Proxy if this executive proposal passes.
 
 * treasuryController
 * treasury
