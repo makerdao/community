@@ -9,11 +9,11 @@ I also noticed the poll in the forum seeks feedback on the ALM order replacement
 
 2. For the sake of this exercise, let's operate under the assumption that the stability facilitator shares my concerns. In that case, I'll reply to the forum post, indicating that we'll start the poll only once the ALM standing draft is posted. Also, the stability facilitator wanted to launch the poll the same day. Even setting aside the current issue I'm assuming, I wouldn't want to rush such a poll for the same day. A delay to the following week would have been my preference regardless.
 
-3. Once the ALM standing order has been drafted, presented in the forum, and received approval from the stability facilitator, I'll move forward with drafting the poll (For the sake of this exercise I will consider that both the ALM transfer mechanism and the revenue transfers are now in the same updated standing order).I plan to schedule it for the next available Weekly Governance Cycle, which starts on a Monday. For the sake of this scenario, let's assume that, due to some delays, it's set for August 14th. I would then communicate this in the forum.
+3. Once the ALM standing order has been drafted, presented in the forum, and received approval from the stability facilitator, I'll move forward with drafting the poll (For the sake of this exercise I will consider that both the ALM transfer mechanism and the revenue transfers are now in the same updated standing order). I plan to schedule it for the next available Weekly Governance Cycle, which starts on a Monday. For the sake of this scenario, let's assume that, due to some delays, it's set for August 14th. I would then communicate this in the forum.
 
 4. I'd first run the text through Grammarly to catch and correct any spelling or grammar errors. Next, I'd cross-reference the draft poll with the 'poll creation checklist' to ensure it aligns with the guidelines. After these steps, I would create a PR to push the changes to the main branch of the repo.
 
-5. I would follow the "poll submission checklist" to submit the finalized polls. For tags, considering the poll's impact is "high-impact", I'd also include tag 'real-world-assets'.
+5. I would follow the "poll submission checklist" to submit the finalized polls. For tags, considering the poll's impact is "high-impact", I'd also include the tag 'real-world-assets'.
 
 6. After verifying the active status of all expected polls, I would communicate their availability on the #governance channel in the official MakerDAO discord.
 
@@ -27,10 +27,10 @@ The proposed RWA revenue transfers standing order is aiming to replace our curre
 
 It's important that before we approve something that invalidates the current structure, we have a clear view of what will replace it. This ensures that we're making fully informed decisions.
 
-After discussing with the stability facilitator, the plan postpone the poll until the new ALM draft is posted.
+After discussing with the Faraz, the plan is to postpone the poll until the new ALM draft is posted.
 
 Additionally, Emilia, regarding the poll seeking feedback in the forum about the ALM order replacement, the forum might not be the optimal place for this. Consulting with the advisory council for specialized insights might be more suitable.
 
 ###  Response #2
 
-This poll will be included in the next weekly governance cycle on August 14th.
+The poll containing this standing order will be included in the next weekly governance cycle on August 14th.
