@@ -13,7 +13,7 @@ I also noticed the poll in the forum seeks feedback on the ALM order replacement
 
 4. I'd first run the text through Grammarly to catch and correct any spelling or grammar errors. Next, I'd cross-reference the draft poll with the 'poll creation checklist' to ensure it aligns with the guidelines. After these steps, I would create a PR to push the changes to the main branch of the repo.
 
-5. I would follow the "poll submission checklist" to submit the finalized polls. For tags, considering the poll's impact is "high-impact", I'd also include tags like 'real-world-assets', and 'risk-parameter'.
+5. I would follow the "poll submission checklist" to submit the finalized polls. For tags, considering the poll's impact is "high-impact", I'd also include tag 'real-world-assets'.
 
 6. After verifying the active status of all expected polls, I would communicate their availability on the #governance channel in the official MakerDAO discord.
 
