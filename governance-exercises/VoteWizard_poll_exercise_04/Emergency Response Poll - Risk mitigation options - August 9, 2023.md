@@ -17,7 +17,7 @@ end_date: 2023-08-09T15:00:00
 ---
 # Poll: Emergency Response Poll - Risk mitigation options - August 9, 2023
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of a Protocol Scope Facilitator. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for 5 hours beginning on Wednesday, August 9 at 10:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of a Protocol Scope Facilitator. This [Emergency Governance Poll](https://mips.makerdao.com/mips/details/MIP24) will be active for 5 hours beginning on Wednesday, August 9 at 10:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
