@@ -40,6 +40,6 @@ The governance facilitators will keep in touch with ADs and other known large ho
 
 ###  Response #2
 
-Emergency sentiment poll is live on the voting portal - [title of the poll](https://vote.makerdao.com/polling/...)
+Emergency sentiment poll is live on the voting portal - [Emergency Response Poll - Risk mitigation options - August 9, 2023](https://vote.makerdao.com/polling/...)
 
 Please review and vote for one of the options.
