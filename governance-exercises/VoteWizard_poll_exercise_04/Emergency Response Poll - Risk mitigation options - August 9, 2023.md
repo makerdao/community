@@ -43,6 +43,10 @@ Please review the descriptions of the two possible fixes:
 - Fix B closes the high-severity exploit approximately two weeks after the executive vote passes.
 - Fix B has no risk of incurring financial loss to MKR holders.
 
+## Additional Information
+
+[Information further elaborated and assessed by the ecosystem expert]
+
 Note that Fix B will be included in the executive regardless of the approved option.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/...) to inform your position on this issue before voting.
