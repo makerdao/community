@@ -5,11 +5,11 @@ Date: Monday 31st July 2023
 
 ---
 
-Thank you, Emilia, for presenting this proposal to the MakerDAO community.  I'd like to propose a more comprehensive approach to ensure that the community can make well-informed decisions that align with the Atlas and maintain the stability of the ecosystem.
+Thank you, Emilia, for presenting this proposal. I'd like to propose a more measured approach to ensure that the community can make well-informed decisions that align with the Atlas.
 
 I've reviewed the details provided in the forum thread, and I see a few areas that require careful consideration before proceeding with a poll:
 
-**Voter Understanding**: The proposed standing order change involves substantial adjustments to the revenue transfer mechanism from RWA vaults. To fully comprehend the potential impacts and outcomes, MKR voters need a comprehensive understanding of the proposed changes. While Section 5 of the Atlas and MIP104 offer some insights, it's crucial to ensure clarity on how these changes fit within the existing framework. More details on your final proposed parameters and how they interact with the previous agreement are needed.
+**Voter Understanding**: The proposed standing order change involves substantial adjustments to the revenue transfer mechanism from RWA vaults. To fully comprehend the potential impacts and outcomes, MKR voters need a comprehensive understanding of the proposed changes. More details on your final proposed parameters and how they interact with the previous agreement are needed.
 
 **Adherence to Atlas and MIP104**: Both the Atlas and [MIP104](https://mips.makerdao.com/mips/details/MIP104) play a role in the governance of RWA arrangements. To enhance the legitimacy of the proposed standing order change, we should aim for alignment with these documents. It is unclear if these changes will result in MagicRWA being classified in a different tier of ALM. I think @Faraz and his team could offer some more detailed insight into this interaction that would be helpful for the community.
 
