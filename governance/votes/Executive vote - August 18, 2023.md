@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] EDSR Adjustment, Vault and Smart Burn Engine Parameter Updates, CRVV1ETHSTETH-A Offboarding, Delegate Compensation, and Other Changes - August 18, 2023
+title: Template - [Executive Vote] EDSR Adjustment, Vault and Smart Burn Engine Parameter Updates, CRVV1ETHSTETH-A Offboarding, Delegate Compensation, and Other Changes - August 17, 2023
 summary: Reduce the DSR per the EDSR update, update multiple vault parameters, update the Smart Burn Engine parameters, complete offboarding of CRVV1ETHSTETH-A, Aligned Delegate compensation for July 2023, DAO Resolution for BlockTower Andromeda, transfer remaining admin controls to the Spark Proxy, execute Spark proxy spell.
-date: 2023-08-18T00:00:00.000Z
-address: "$spell_address"
+date: 2023-08-17T00:00:00.000Z
+address: "0x2f34BB0FE10BCb5652390FD0bA3Af7879BcA4b62"
 
 ---
-# [Executive Proposal] EDSR Adjustment, Vault and Smart Burn Engine Parameter Updates, CRVV1ETHSTETH-A Offboarding, Delegate Compensation, and Other Changes - August 18, 2023
+# [Executive Proposal] EDSR Adjustment, Vault and Smart Burn Engine Parameter Updates, CRVV1ETHSTETH-A Offboarding, Delegate Compensation, and Other Changes - August 17, 2023
 
 The Governance Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
