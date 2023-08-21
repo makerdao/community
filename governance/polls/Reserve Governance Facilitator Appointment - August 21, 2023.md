@@ -35,12 +35,12 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 - **You may vote for multiple options.**
 - **You should vote for all options that you would support becoming a Reserve Governance Facilitator.**
 - **Unselected options signal that you do not approve of those options.**
-- **If you do not approve of any of the options then you should select "None of the above" as your one and only choice.**
-- **If you wish to abstain, that should be your one and only choice.**
+- **If you do not approve of any of the options, you should select "None of the above" as your only choice.**
+- **If you wish to abstain, that should be your only choice.**
 
 ## Note on Display of Winners
 
-Due to limitations of the voting portal frontend, we cannot display multiple winners if selected, rather the candidate with the most votes will be displayed. If up to three candidates each receive >50% approval, all of the candidates above 50% will be appointed as Reserve Facilitators, this will be confirmed off-chain in the MakerDAO forum.
+Due to limitations of the voting portal frontend, we cannot display multiple winners if selected. Instead, the candidate with the most votes will be displayed. If up to three candidates each receive >50% approval, all candidates above 50% will be appointed as Reserve Facilitators. This will be confirmed off-chain in the MakerDAO forum.
 
 If more than three candidates receive >50% approval, the three candidates with the highest approval will become Reserve Facilitators.
 
@@ -66,7 +66,7 @@ Each candidate has also posted an introductory post. For convenience, these are 
 
 ## Outcomes
 
-**The winner(s) of this vote require(s) the approval of a majority of vote-weight. The non-`Abstain` option(s) with the approval of a majority of vote-weight up to a total of three candidates will be deemed the winner(s).**
+**The winner(s) of this vote require(s) the approval of a majority of vote-weight. The non-`Abstain` option(s), with the approval of a majority of vote-weight up to three candidates, will be deemed the winner(s).**
 **Otherwise, no Reserve Facilitator will be elected.**
 
 ---
