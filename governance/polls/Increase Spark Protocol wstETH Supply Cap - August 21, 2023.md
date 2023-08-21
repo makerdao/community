@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to the following change:
 * Increase the Spark Protocol wstETH [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps) by 200,000 wstETH from 200,000 wstETH to **400,000 wstETH**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark-for-next-upcoming-spell/21685) to help inform your position before voting.
@@ -36,7 +36,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/phoenix-labs-
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 * This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
