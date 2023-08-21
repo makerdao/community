@@ -1,5 +1,5 @@
 ---
-title: Reserve Governance Facilitator Apppointment - August 21, 2023
+title: Reserve Governance Facilitator Appointment - August 21, 2023
 summary: Signal your support or opposition to appointing the following candidates as Reserve Governance Facilitator(s).
 discussion_link: https://forum.makerdao.com/t/poll-notification-selection-of-reserve-governance-facilitators/21671
 parameters:
@@ -27,22 +27,22 @@ options:
 start_date: 2023-08-21T16:00:00
 end_date: 2023-08-24T16:00:00
 ---
-# Poll: Reserve Governance Facilitator Apppointment - August 21, 2023
+# Poll: Reserve Governance Facilitator Appointment - August 21, 2023
 
 The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.7.1.4](https://mips.makerdao.com/mips/details/MIP113#7-1-4-1). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 21 at 16:00 UTC.
 
 **This is an approval vote.**
 - **You may vote for multiple options.**
-- **You should vot for all options that you would support becoming a Reserve Governance Facilitator.**
+- **You should vote for all options that you would support becoming a Reserve Governance Facilitator.**
 - **Unselected options signal that you do not approve of those options.**
-- **If you do not approve of any of the options then you should selecte "None of the above" as your one and only choice.**
+- **If you do not approve of any of the options then you should select "None of the above" as your one and only choice.**
 - **If you wish to abstain, that should be your one and only choice.**
 
 ## Note on Display of Winners
 
 Due to limitations of the voting portal frontend, we cannot display multiple winners, rather the candidate with the most votes will be displayed. However, if up to three candidates receive >50% approval, all of the candidates above 50% will be appointed as Reserve Facilitators, this will be confirmed off-chain in the MakerDAO forum.
 
-If more than three candidates receive >50% approval, the three candidates with the most votes will become Reserve Facilitators.
+If more than three candidates receive >50% approval, the three candidates with the highest approval will become Reserve Facilitators.
 
 ## Review
 
@@ -66,7 +66,7 @@ Each candidate has also posted an introductory post. For convenience, these are 
 
 ## Outcomes
 
-**The winner(s) of this vote require(s) support of an overall majority of votes. The non-`Abstain` option(s) with the support of a majority of votes up to a total of three candidates will be deemed the winner(s).**
+**The winner(s) of this vote require(s) the approval of an majority of vote-weight. The non-`Abstain` option(s) with the approval of an majority of vote-weight up to a total of three candidates will be deemed the winner(s).**
 **If no candidate receives a majority of votes, no Reserve Facilitator will be elected.**
 
 ---
