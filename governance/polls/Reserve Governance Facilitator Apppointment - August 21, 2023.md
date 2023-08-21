@@ -29,7 +29,7 @@ end_date: 2023-08-24T16:00:00
 ---
 # Poll: Reserve Governance Facilitator Apppointment - August 21, 2023
 
-The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.7.1.4](https://mips.makerdao.com/mips/details/MIP113#7-1-4-1). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.7.1.4](https://mips.makerdao.com/mips/details/MIP113#7-1-4-1). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 21 at 16:00 UTC.
 
 **This is an approval vote.**
 - **You may vote for multiple options.**
