@@ -67,7 +67,7 @@ Each candidate has also posted an introductory post. For convenience, these are 
 ## Outcomes
 
 **The winner(s) of this vote require(s) the approval of an majority of vote-weight. The non-`Abstain` option(s) with the approval of an majority of vote-weight up to a total of three candidates will be deemed the winner(s).**
-**If no candidate receives a majority of votes, no Reserve Facilitator will be elected.**
+**Otherwise, no Reserve Facilitator will be elected.**
 
 ---
 
