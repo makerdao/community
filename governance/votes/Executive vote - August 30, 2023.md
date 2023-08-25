@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Steps will be taken to manage the default of the ConsolFreight (RWA003-A) loan, as detailed below.
+- Steps will be taken to manage the potential default of the ConsolFreight (RWA003-A) loan, as detailed below.
 - The ESM will be relied on the Vow, as detailed below.
 - Updates will be made to the Chainlog addresses for the BlockTower Andromeda vault (RWA015-A), as detailed below.
 - `FLIP_FAB` and `FLIPPER_MOM` will be removed from the Chainlog, as detailed below.
@@ -38,14 +38,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 Following the [notification](https://forum.makerdao.com/t/consolfreight-rwa-003-cf4-drop-default/21745) of an impending default in the ConsolFreight (RWA003-A) pool, and [approval](https://forum.makerdao.com/t/consolfreight-rwa-003-cf4-drop-default/21745/5) from the relevant Scope Facilitator for an urgent executive inclusion, the following actions will be taken, if this executive proposal passes.
 
-* Reduce the RWA003-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) by 2 million DAI from 2 million DAI to **0 DAI**.
-* Call `tell` on the RWALiquidationOracle for RWA003-A - this will allow Centrifuge to begin the unwinding process for this position.
+- Reduce the RWA003-A [Debt Ceiling](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) by 2 million DAI from 2 million DAI to **0 DAI**.
+- Call `tell` on the RWALiquidationOracle for RWA003-A - this will allow Centrifuge to begin the unwinding process for this position.
 
 ### ESM Authorization on the Vow
 
 As a result of the [recommendation](https://forum.makerdao.com/t/overlooked-vectors-for-post-shutdown-governance-attacks-postmortem/20696) from the outgoing Protocol Engineering Core Unit, and the [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) of the Responsible Facilitator, the following action will be taken, if this executive passes.
 
-* Authorize (`rely`) the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) on the [Vow](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/vow-detailed-documentation).
+- Authorize (`rely`) the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) on the [Vow](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/vow-detailed-documentation).
 
 This fixes some attack vectors that could have been exploited during Emergency Shutdown, the reports of which have resulted in payments via the bug bounty program.
 
@@ -53,12 +53,12 @@ This fixes some attack vectors that could have been exploited during Emergency S
 
 As per this [forum post](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730#blocktower-andromeda-input-conduit-chainlog-updates-2) and [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) from the Responsible Scope Facilitator, the following updates to the Chainlog will be made, if this executive proposal passes.
 
-* Update `RWA015_A_INPUT_CONDUIT_JAR` to `RWA015_A_INPUT_CONDUIT_JAR_USDC`.
-* Update `RWA015_A_INPUT_CONDUIT_URN` to `RWA015_A_INPUT_CONDUIT_URN_USDC`.
-* Add `0x13C31b41E671401c7BC2bbd44eF33B6E9eaa1E7F` as `RWA015_A_INPUT_CONDUIT_JAR_GUSD`.
-* Add `0xAB80C37cB5b21238D975c2Cea46e0F12b3d84B06` as `RWA015_A_INPUT_CONDUIT_URN_GUSD`.
-* Add `0x79Fc3810735959db3C6D4fc64F7F7b5Ce48d1CEc` as `RWA015_A_INPUT_CONDUIT_JAR_PAX`.
-* Add `0x4f7f76f31CE6Bb20809aaCE30EfD75217Fbfc217` as `RWA015_A_INPUT_CONDUIT_URN_PAX`.
+- Update `RWA015_A_INPUT_CONDUIT_JAR` to `RWA015_A_INPUT_CONDUIT_JAR_USDC`.
+- Update `RWA015_A_INPUT_CONDUIT_URN` to `RWA015_A_INPUT_CONDUIT_URN_USDC`.
+- Add `0x13C31b41E671401c7BC2bbd44eF33B6E9eaa1E7F` as `RWA015_A_INPUT_CONDUIT_JAR_GUSD`.
+- Add `0xAB80C37cB5b21238D975c2Cea46e0F12b3d84B06` as `RWA015_A_INPUT_CONDUIT_URN_GUSD`.
+- Add `0x79Fc3810735959db3C6D4fc64F7F7b5Ce48d1CEc` as `RWA015_A_INPUT_CONDUIT_JAR_PAX`.
+- Add `0x4f7f76f31CE6Bb20809aaCE30EfD75217Fbfc217` as `RWA015_A_INPUT_CONDUIT_URN_PAX`.
 
 These changes will allow flexible repayment of stablecoins through the BlockTower Andromeda facility, allowing payments to be made in USDC, GUSD, or USDP.
 
@@ -70,8 +70,8 @@ These changes will allow flexible repayment of stablecoins through the BlockTowe
 
 As per this [forum post](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730#flipper-chainlog-cleanup-3) and [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) from the relevant Scope Facilitator, the following items will be removed from the chainlog if this executive proposal passes.
 
-* `FLIPPER_MOM`.
-* `FLIP_FAB`.
+- `FLIPPER_MOM`.
+- `FLIP_FAB`.
 
 These contracts are no longer used in the Maker Protocol as we have moved all liquidations to the Clipper (Liquidations 2.0) system.
 
@@ -81,20 +81,20 @@ We will also remove the `owner` and `authority` from the FLIPPER_MOM as part of 
 
 As part of the [voluntary offboarding](https://forum.makerdao.com/t/advance-notice-of-govalpha-offboarding/21281) of GovAlpha, the budget streams are no longer required. The following actions will be taken if this executive proposal passes.
 
-* `yank` DAI stream ID 17.
-* `yank` MKR stream ID 34.
+- `yank` DAI stream ID 17.
+- `yank` MKR stream ID 34.
 
 ### Launch Project Funding
 
-this forum [post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/4) from the Accessibility Scope Facilitators and the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget), the following budget transfers from the Launch Project budget will take place, if this executive proposal passes.
+Per this forum [post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/4) from the Accessibility Scope Facilitators and the [Accessibility Scope](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget), the following budget transfers from the Launch Project budget will take place, if this executive proposal passes.
 
 #### DAI Transfer
 
-* Transfer **941,933 DAI** to the Launch Project Multisig at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **941,933 DAI** to the Launch Project Multisig at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 #### MKR Transfer
 
-* Transfer **210.83 MKR** to the Launch Project Multisig at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **210.83 MKR** to the Launch Project Multisig at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### Spark Proxy Spell
 
@@ -106,9 +106,9 @@ This Proxy Spell includes the following changes to Spark Protocol:
 
 Per this successful governance [poll](https://vote.makerdao.com/polling/QmULJKwK), the following parameter changes will be made:
 
-* Decrease ETH market [variableRateSlope1](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters) by 0.2% from 3% to **2.8%** - this effectively reduces the optimal borrow rate from 4% to 3.8%.
-* Increase ETH market [Optimal Utilization](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#interest-rate-model) by 10% from 80% to **90%** - this allows for better rates to suppliers at the optimal utilization.
-* Increase ETH market [variableRateSlope2](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters) by 40% from 80% to 120% - this effectively increases the maximum borrow rate from 84% to 123.8%. This reduces the possibility of the lending pool being at 100% utilization rate by accelerating the rate increase.
+- Decrease ETH market [variableRateSlope1](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters) by 0.2% from 3% to **2.8%** - this effectively reduces the optimal borrow rate from 4% to 3.8%.
+- Increase ETH market [Optimal Utilization](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#interest-rate-model) by 10% from 80% to **90%** - this allows for better rates to suppliers at the optimal utilization.
+- Increase ETH market [variableRateSlope2](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters) by 40% from 80% to **120%** - this effectively increases the maximum borrow rate from 84% to 123.8%. This reduces the possibility of the lending pool being at 100% utilization rate by accelerating the rate increase.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark-for-next-upcoming-spell/21685) to help inform your position before voting.
 
@@ -116,7 +116,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/phoenix-labs-
 
 Per this successful governance [poll](https://vote.makerdao.com/polling/QmbMR8PU), the following paramter change will be made:
 
-* Increase the Spark Protocol wstETH [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps) by 200,000 wstETH from 200,000 wstETH to **400,000 wstETH**.
+- Increase the Spark Protocol wstETH [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps) by 200,000 wstETH from 200,000 wstETH to **400,000 wstETH**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/phoenix-labs-proposed-changes-for-spark-for-next-upcoming-spell/21685) to help inform your position before voting.
 
