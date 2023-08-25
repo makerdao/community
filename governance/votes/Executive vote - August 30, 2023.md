@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Steps will be taken to manage the potential default of the ConsolFreight (RWA003-A) loan, as detailed below.
-- The ESM will be relied on the Vow, as detailed below.
+- The ESM will be authorized on the Vow, as detailed below.
 - Updates will be made to the Chainlog addresses for the BlockTower Andromeda vault (RWA015-A), as detailed below.
 - `FLIP_FAB` and `FLIPPER_MOM` will be removed from the Chainlog, as detailed below.
 - The Dai and MKR budget streams for the GovAlpha Core Unit will be canceled (`yank`ed), as detailed below.
@@ -42,7 +42,7 @@ Following the [notification](https://forum.makerdao.com/t/consolfreight-rwa-003-
 
 ### ESM Authorization on the Vow
 
-As a result of the [recommendation](https://forum.makerdao.com/t/overlooked-vectors-for-post-shutdown-governance-attacks-postmortem/20696) from the outgoing Protocol Engineering Core Unit and the [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) of the Responsible Facilitator, the following action will be taken, if this executive passes.
+As a result of the [recommendation](https://forum.makerdao.com/t/overlooked-vectors-for-post-shutdown-governance-attacks-postmortem/20696) from the outgoing Protocol Engineering Core Unit and the [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) of the Responsible Facilitator, the following action will be taken, if this executive proposal passes.
 
 - Authorize (`rely`) the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) on the [Vow](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/vow-detailed-documentation).
 
@@ -67,7 +67,7 @@ These changes will allow flexible repayment of stablecoins through the BlockTowe
 
 ### Chainlog Cleanup
 
-As per this [forum post](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730#flipper-chainlog-cleanup-3) and [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) from the relevant Scope Facilitator, the following items will be removed from the chainlog if this executive proposal passes.
+As per this [forum post](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730#flipper-chainlog-cleanup-3) and [approval](https://forum.makerdao.com/t/spell-contents-2023-08-30/21730/5) from the relevant Scope Facilitator, the following items will be removed from the chainlog, if this executive proposal passes.
 
 - `FLIPPER_MOM`.
 - `FLIP_FAB`.
@@ -78,7 +78,7 @@ We will also remove the `owner` and `authority` from the FLIPPER_MOM as part of 
 
 ### Cancel (`yank`) GovAlpha Budget Streams
 
-As part of the [voluntary offboarding](https://forum.makerdao.com/t/advance-notice-of-govalpha-offboarding/21281) of GovAlpha, the budget streams are no longer required. The following actions will be taken if this executive proposal passes.
+As part of the [voluntary offboarding](https://forum.makerdao.com/t/advance-notice-of-govalpha-offboarding/21281) of GovAlpha, the budget streams are no longer required. The following actions will be taken, if this executive proposal passes.
 
 - `yank` DAI stream ID 17.
 - `yank` MKR stream ID 34.
@@ -97,7 +97,7 @@ Per this forum [post](https://forum.makerdao.com/t/utilization-of-the-launch-pro
 
 ### Spark Proxy Spell
 
-As part of this executive proposal, a Proxy Spell for Spark Protocol at [0xFBdB6C5596Fc958B432Bf1c99268C72B1515DFf0](https://etherscan.io/address/0xFBdB6C5596Fc958B432Bf1c99268C72B1515DFf0) will be triggered if this executive proposal passes.
+As part of this executive proposal, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [0xFBdB6C5596Fc958B432Bf1c99268C72B1515DFf0](https://etherscan.io/address/0xFBdB6C5596Fc958B432Bf1c99268C72B1515DFf0) will be triggered if this executive proposal passes.
 
 This Proxy Spell includes the following changes to Spark Protocol:
 
