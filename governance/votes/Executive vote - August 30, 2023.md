@@ -1,7 +1,7 @@
 ---
 title: [Executive Vote] Management of ConsolFreight (RWA003-A) Default, ESM Authorization, Chainlog Updates, Budget Management, Spark Proxy Spell - August 30, 2023
 summary: $summary
-date: $YYYY-MM-DDT00:00:00.000Z
+date: 2023-08-30T00:00:00.000Z
 address: "$spell_address"
 
 ---
