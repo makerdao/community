@@ -74,7 +74,7 @@ As per this [forum post](https://forum.makerdao.com/t/spell-contents-2023-08-30/
 
 These contracts are no longer used in the Maker Protocol as we have moved all liquidations to the Clipper (Liquidations 2.0) system.
 
-We will also remove the `owner` and `authority` from the FLIPPER_MOM as part of this process. These actions will effectively sever its ties with Maker Governance, removing the permissions it has on the Protocol contracts. In the (unlikely) event a new collateral type is being onboarded with the intention to use Flipper liquidations, a new FLIPPER_MOM will need to be deployed.
+The spell will also remove the `owner` and `authority` from the FLIPPER_MOM as part of this process. These actions will effectively sever its ties with Maker Governance, removing the permissions it has on the Protocol contracts. In the (unlikely) event a new collateral type is being onboarded with the intention to use Flipper liquidations, a new FLIPPER_MOM will need to be deployed.
 
 ### Cancel (`yank`) GovAlpha Budget Streams
 
