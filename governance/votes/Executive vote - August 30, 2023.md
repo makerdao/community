@@ -1,6 +1,6 @@
 ---
 title: [Executive Vote] Management of ConsolFreight (RWA003-A) Default, ESM Authorization, Chainlog Updates, Budget Management, Spark Proxy Spell - August 30, 2023
-summary: $summary
+summary: Take steps to manage the potential default of the ConsolFreight facility, authorize the ESM on the Vow, multiple chainlog updates, cancel GovAlpha's budget streams, Launch Project payments, trigger a Spark proxy spell.
 date: 2023-08-30T00:00:00.000Z
 address: "$spell_address"
 
