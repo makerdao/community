@@ -4049,5 +4049,13 @@
     "medium-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1032": [
+    "medium-impact",
+    "real-world-assets"
+  ],
+  "1033": [
+    "medium-impact",
+    "real-world-assets"
   ]
 }
