@@ -15,7 +15,7 @@ options:
 start_date: 2023-09-04T16:00:00
 end_date: 2023-09-07T16:00:00
 ---
-# Poll: Adjust Spark Protocol D3M Parameters - September 4, 2023
+# Poll: Adjust Spark Protocol DAI Interest Rate Strategy Borrow Spread - September 4, 2023
 
 The Reserve Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 4 at 16:00 UTC.
 
