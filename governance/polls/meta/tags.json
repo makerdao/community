@@ -4,7 +4,7 @@
     "shortname": "High Impact",
     "longname": "High Impact",
     "recommend_ui": true,
-    "description": "Polls that GovAlpha has judged high-impact",
+    "description": "Polls that the Governance Facilitators have judged high-impact",
     "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
     "precedence": 1
   },
@@ -90,7 +90,7 @@
     "shortname": "Med Impact",
     "longname": "Medium Impact",
     "recommend_ui": true,
-    "description": "Polls that GovAlpha has judged medium-impact",
+    "description": "Polls that the Governance Facilitators have judged medium-impact",
     "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
     "precedence": 11
   },
@@ -133,7 +133,7 @@
     "shortname": "Low Impact",
     "longname": "Low Impact",
     "recommend_ui": true,
-    "description": "Polls that GovAlpha has judged low-impact",
+    "description": "Polls that the Governance Facilitators have judged low-impact",
     "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
     "precedence": 16
   },
