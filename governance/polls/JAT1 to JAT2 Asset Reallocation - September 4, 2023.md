@@ -28,7 +28,7 @@ The Reserve Governance Facilitators have placed a Governance Poll into the votin
 
 The community can vote in this poll to express support or opposition to the following JAT1 (James Asset Trust 1) to JAT2 (James Asset Trust 2) Asset Reallocation:
 * Selling the ETF products within JAT1.
-* Paying any proceeds from this sale after expenses in excess of 500 million USD into the surplus buffer.
+* Paying any proceeds from this sale after expenses in excess of 500 million USD into the [surplus buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer).
 * Deploying the 500 million USD towards the T-bills ladder already installed under JAT2.
 
 To execute this asset reallocation, the following practical steps will be undertaken:
@@ -44,9 +44,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/proposal-to-r
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* This change will be included in an upcoming Executive Vote.
+* This set of instructions will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then this change will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

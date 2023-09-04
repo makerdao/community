@@ -27,7 +27,7 @@ The Reserve Governance Facilitators have placed a Governance Poll into the [voti
 ## Review
 
 The community can vote in this poll to express support or opposition to the following change:
-* Adjust Spark Protocol [Flash Loan Fee](https://docs.sparkprotocol.io/developers/guides/flash-loans#flash-loan-fee) from 0.09% to **0%**.
+* Adjust Spark Protocol [Flash Loan Fee](https://docs.sparkprotocol.io/developers/guides/flash-loans#flash-loan-fee) by 0.09% from 0.09% to **0%**.
 
 The Flash Loan Fee was reset to 0.09% as a result of the last pool upgrade. The aim of this poll is to revert it back to its previous value.
 
