@@ -58,11 +58,11 @@ Several Stability Scope-defined parameter changes have been proposed by Stabilit
 
 #### [Yield Benchmark](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969#stability-collateral-yield-benchmark-usdp-included-in-cash-stablecoins-11) Change
 
-- `Stability Collateral Yield Benchmark` will be reduced by 0.59% from 1.94% to **1.35%**.
+- Stability Collateral Yield Benchmark will be reduced by 0.59% from 1.94% to **1.35%**.
 
 #### [Base Rate](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969#base-rate-changes-12) Change
 
-- `Base Rate` will be increased by 0.02% from 3.93% to **3.95%**.
+- Base Rate will be increased by 0.02% from 3.93% to **3.95%**.
 
 #### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Update
 
