@@ -168,6 +168,7 @@ A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protoco
 
 *Authorization*: [Governance Poll 2023-09-04](https://vote.makerdao.com/polling/QmQrkxud)\
 *Reasoning*: [Forum Post](https://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801) "Upcoming Spell Proposed Changes"\
+*Authorizing Party*: [Stability Scope Facilitator](http://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801/4)
 
 Phoenix Labs has proposed increasing the DAI borrow spread; otherwise, there would be zero-risk in farming the airdrop. The Proxy Spell will increase the DAI borrow spread from 0% to **0.5%**.
 
@@ -175,6 +176,7 @@ Phoenix Labs has proposed increasing the DAI borrow spread; otherwise, there wou
 
 *Authorization*: [Governance Poll 2023-09-04](https://vote.makerdao.com/polling/QmbCDKof#poll-detail)\
 *Reasoning*: [Forum Post](https://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801) "Upcoming Spell Proposed Changes"\
+*Authorizing Party*: [Stability Scope Facilitator](http://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801/4)
 
 The Flash Loan Fee was reset to 0.09% in the pool upgrade and needs to be lowered again to its previous level. The Proxy Spell will reduce the [Flash Loan Fee](https://docs.sparkprotocol.io/developers/guides/flash-loans#flash-loan-fee) from 0.09% to **0%**.
 
