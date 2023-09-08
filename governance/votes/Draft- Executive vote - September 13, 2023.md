@@ -52,7 +52,7 @@ For voters' convenience, each proposed item is prefaced with information showing
 
 *Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#0-the-stability-scope)\
 *Reasoning*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969/1) "Stability Scope Parameter Changes"\
-*Authorizing Parties:* [Stability Scope Facilitator]() {**LINK MISSING**}
+*Authorizing Party:* [Stability Scope Facilitator]() {**LINK MISSING**}
 
 Several Stability Scope-defined parameter changes have been proposed by Stability Scope Advisory Council Member [Block Analitica (BA Labs)](https://forum.makerdao.com/t/professional-ecosystem-actor-introduction-ba-labs/20813): 
 
@@ -95,7 +95,7 @@ Phoenix Labs has proposed increasing the Spark Protocol D3M [Maximum Debt Ceilin
 *Reasoning*: [Forum Post](https://forum.makerdao.com/t/august-2023-aligned-delegate-compensation/21983) "August 2023 Aligned Delegate Compensation"\
 *Authorizing party*: Reserve Governance Facilitators
 
-The total compensation to be distributed to Delegates will be **271.88 MKR**. If this executive proposal passes, the compensation will be distributed as seen below:
+The total compensation to be distributed to Aligned Delegates will be **271.88 MKR**. If this executive proposal passes, the compensation will be distributed as seen below:
 
 | Delegate    | Address                                                      | Amount (MKR) |
 | ----------- | ------------------------------------------------------------ | ------------ |
@@ -112,11 +112,11 @@ The total compensation to be distributed to Delegates will be **271.88 MKR**. If
 | WBC         | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xebce83e491947adb1396ee7e55d3c81414fb0d47) | 6.72         |
 | BLUE        | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 1.25         |
 
-*Note*: Per the Governance Scope, there are only 10 paid Aligned Delegate slots. QGov and WBC received payments in August because they were previously ranked ADs who went unranked in September. Therefore, per [the Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1), they were allocated payments from their respective AD Buffer. 
+*Note*: Per the Governance Scope, there are only 10 paid Aligned Delegate slots. QGov and WBC received payments in August because they were previously ranked ADs who became unranked in September. Therefore, per [the Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1), they were allocated payments from their respective AD Buffer. 
 
 ### Fortunafi (RWA005-A) Vault - Initiate Offboarding
 
-*Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#14-4-legacy-legal-recourse-assets); [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x);\
+*Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#14-4-legacy-legal-recourse-assets); [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x)\
 *Reasoning*: [Forum post](http://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582) "Offboarding Legacy Legal Recourse Assets"\
 *Authorizing party*:  [Stability Scope Facilitator](http://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/8)
 
@@ -124,7 +124,7 @@ The Stability Scope Artifact requires that legacy Legal Recourse Assets be offbo
 
 ### DAO Resolution for HV Bank (RWA009-A) Vault
 
-*Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#14-4-legacy-legal-recourse-assets); [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/QmNgKzcG);\
+*Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#14-4-legacy-legal-recourse-assets); [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/QmNgKzcG)\
 *Reasoning*: [Forum post](http://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582) "Offboarding Legacy Legal Recourse Assets"\
 *Authorizing party*:  [Stability Scope Facilitator](http://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/8)
 
@@ -170,7 +170,7 @@ A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protoco
 *Reasoning*: [Forum Post](https://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801) "Upcoming Spell Proposed Changes"\
 *Authorizing Party*: [Stability Scope Facilitator](http://forum.makerdao.com/t/upcoming-spell-proposed-changes/21801/4)
 
-Phoenix Labs has proposed increasing the DAI borrow spread; otherwise, there would be zero-risk in farming the airdrop. The Proxy Spell will increase the DAI borrow spread from 0% to **0.5%**.
+Phoenix Labs has proposed increasing the DAI borrow spread; otherwise, there would be zero-risk in farming the [airdrop](https://forum.makerdao.com/t/sparkdao-spk-pre-farming-airdrop-general-subdao-farming-overview/21595). The Proxy Spell will increase the DAI borrow spread from 0% to **0.5%**.
 
 #### Flash Loan Fee Change
 
