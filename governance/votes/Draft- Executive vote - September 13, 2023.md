@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Scope-Defined Parameter Changes, Spark Protocol D3M Parameter Changes, Delegate Compensation, Set Fortunafi Debt Ceiling to Zero, DAO Resolution for HV Bank and Other Actions - September 13, 2023
-summary: Scope-defined parameter changes; Spark Protocol D3M parameter changes; Aligned Delegate compensation for August 2023; set Fortunafi Debt Ceiling to zero; approve DAO Resolution for HV Bank to terminate future purchases; Trigger Spark Protocol Proxy Spell; Core Unit MKR vesting transfers; scuttle MCD_CAT contract.  
+title: Template - [Executive Vote] Scope-Defined Parameter Changes, Spark Protocol D3M Parameter Changes, Set Fortunafi Debt Ceiling to Zero, DAO Resolution for HV Bank, Delegate Compensation and Other Actions - September 13, 2023
+summary: Scope-defined parameter changes; Spark Protocol D3M parameter changes; set Fortunafi Debt Ceiling to zero; approve DAO Resolution for HV Bank to terminate future purchases; Aligned Delegate compensation for August 2023; trigger Spark Protocol Proxy Spell; Core Unit MKR vesting transfers; scuttle MCD_CAT contract.  
 date: 2023-09-13T00:00:00.000Z
 address: "$spell_address"
 
@@ -10,7 +10,7 @@ address: "$spell_address"
 
 ---
 
-# [Executive Proposal] Scope-Defined Parameter Changes, Spark Protocol D3M Parameter Changes, Delegate Compensation, Set Fortunafi Debt Ceiling to Zero, DAO Resolution for HV Bank and Other Actions - September 13, 2023
+# [Executive Proposal] Scope-Defined Parameter Changes, Spark Protocol D3M Parameter Changes, Set Fortunafi Debt Ceiling to Zero, DAO Resolution for HV Bank, Delegate Compensation and Other Actions - September 13, 2023
 
 The Reserve Governance Facilitators, Sidestream, Dewiz and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following actions within the Maker Protocol.
 
@@ -24,9 +24,9 @@ If this executive proposal passes, the following actions will occur within the M
 
 - Several Stability Scope-defined parameter changes will be executed, as detailed below.
 - The Spark Protocol Dai Direct Deposit Module (D3M) Maximum Debt Ceiling will be increased to 400 million DAI; and the Ceiling Increase Cooldown will be increased to 12 hours. 
-- Aligned Delegate compensation for August 2023 will be distributed.
 - The Fortunafi vault's Debt Ceiling will be set to zero DAI, per the Stability Scope Artifact's requirement to offboard legacy Legal Recourse Assets.
 - A DAO resolution pertaining to the HV Bank vault will be approved to terminate future purchases and return available cash from the HVB Master Participation Trust. This is per the Stability Scope Artifact's requirement to offboard legacy Legal Recourse Assets.
+- Aligned Delegate compensation for August 2023 will be distributed.
 - A Spark Protocol Proxy Spell will be triggered that implements changes to the DAI borrow spread and the flash loan fee.
 - MKR vesting transfers will be executed for the DECO-001 and SES-001 Core Units, per their successful budget proposals. 
 - The `MCD_CAT` contract will be scuttled by removing it from the Chainlog and removing all its permissions on the Protocol contracts.  
@@ -52,21 +52,9 @@ For voters' convenience, each proposed item is prefaced with information showing
 
 *Authorization*: [Stability Scope Artifact](https://mips.makerdao.com/mips/details/MIP104#0-the-stability-scope)\
 *Reasoning*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969/1) "Stability Scope Parameter Changes"\
-*Authorizing Party:* [Stability Scope Facilitator]() {**LINK MISSING**}
+*Authorizing Party:* [Stability Scope Facilitator](http://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969/4)
 
-Several Stability Scope-defined parameter changes have been proposed by Stability Scope Advisory Council Member [Block Analitica (BA Labs)](https://forum.makerdao.com/t/professional-ecosystem-actor-introduction-ba-labs/20813): 
-
-#### [Yield Benchmark](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969#stability-collateral-yield-benchmark-usdp-included-in-cash-stablecoins-11) Change
-
-- Stability Collateral Yield Benchmark will be reduced by 0.59% from 1.94% to **1.35%**.
-
-#### [Base Rate](https://forum.makerdao.com/t/stability-scope-parameter-changes-5/21969#base-rate-changes-12) Change
-
-- Base Rate will be increased by 0.02% from 3.93% to **3.95%**.
-
-#### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Update
-
-- DSR will be increased by 0.12% from 3.33% to **3.45%**.
+The Scope-defined parameter changes below have been proposed by Stability Scope Advisory Council Member [Block Analitica (BA Labs)](https://forum.makerdao.com/t/professional-ecosystem-actor-introduction-ba-labs/20813): 
 
 #### [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Changes
 
@@ -88,31 +76,6 @@ Phoenix Labs has proposed increasing the Spark Protocol D3M [Maximum Debt Ceilin
 
 - The Spark Protocol D3M (DIRECT-SPARK-DAI) Maximum Debt Ceiling will be increased from 200 million DAI to **400 million DAI.**
 - The Spark Protocol D3M (DIRECT-SPARK-DAI) Ceiling Increase Cooldown will be increased from 8 hours to **12 hours.**
-
-### Aligned Delegate Compensation for August 2023
-
-*Authorization*: [Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements); [Governance Scope Artifact](https://mips.makerdao.com/mips/details/MIP113#6-3-1a)\
-*Reasoning*: [Forum Post](https://forum.makerdao.com/t/august-2023-aligned-delegate-compensation/21983) "August 2023 Aligned Delegate Compensation"\
-*Authorizing party*: Reserve Governance Facilitators
-
-The total compensation to be distributed to Aligned Delegates will be **271.88 MKR**. If this executive proposal passes, the compensation will be distributed as seen below:
-
-| Delegate    | Address                                                      | Amount (MKR) |
-| ----------- | ------------------------------------------------------------ | ------------ |
-| 0xDefensor  | [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9) | 41.67        |
-| TRUE NAME   | [0x612f7924c367575a0edf21333d96b15f1b345a5d](https://etherscan.io/address/0x612f7924c367575a0edf21333d96b15f1b345a5d) | 41.67        |
-| BONAPUBLICA | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) | 41.67        |
-| vigilant    | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cb55500601bcce9f4cb0a0a72dc226f61) | 41.67        |
-| Navigator   | [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072) | 28.23        |
-| QGov        | [0xB0524D8707F76c681901b782372EbeD2d4bA28a6](https://etherscan.io/address/0xB0524D8707F76c681901b782372EbeD2d4bA28a6) | 20.16        |
-| UPMaker     | [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd) | 13.89        |
-| PALC        | [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78deac4f87bd8007b9cb56b8d53889ed5374e83a) | 13.89        |
-| PBG         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8d4df847db7ffe0b46af084fe031f7691c6478c2) | 13.89        |
-| Cloaky      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 7.17         |
-| WBC         | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xebce83e491947adb1396ee7e55d3c81414fb0d47) | 6.72         |
-| BLUE        | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 1.25         |
-
-*Note*: Per the Governance Scope, there are only 10 paid Aligned Delegate slots. QGov and WBC received payments in August because they were previously ranked ADs who became unranked in September. Therefore, per [the Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1), they were allocated payments from their respective AD Buffer. 
 
 ### Fortunafi (RWA005-A) Vault - Initiate Offboarding
 
@@ -154,15 +117,39 @@ RATIFICATION AND INSTRUCTION
 In accordance with the governance protocols of MakerDAO on the date specified above and pursuant to the Articles, the Maker token holders hereby approve and ratify the termination of future purchases into the RWA Master Participation Trust pursuant to the Agreement and instruct the directors of the RWA Foundation and its associated agents (Leeward Management, Zedra Directors, and Silverside Management) to perform the following actions:
 
 (i) Instruct the Trustee or other parties as necessary to provide written notice to Seller for the purpose of terminating future purchases as soon as permissible under the Agreement.
-(ii) Instruct the Trustee or other parties as necessary, after the termination of future purchases is in effect, to return excess available cash held at WSFS for the benefit of the RWA Master Participation Trust to the MakerDAO protocol
-
+(ii) Instruct the Trustee or other parties as necessary, after the termination of future purchases is in effect, to return excess available cash held at WSFS for the benefit of the RWA Master Participation Trust to the MakerDAO protocol.
 ```
 
 
 
-### Spark Proxy Spell
+### Aligned Delegate Compensation for August 2023
 
-A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [X] {**MISSING**} will be triggered if this executive proposal passes.
+*Authorization*: [Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements); [Governance Scope Artifact](https://mips.makerdao.com/mips/details/MIP113#6-3-1a)\
+*Reasoning*: [Forum Post](https://forum.makerdao.com/t/august-2023-aligned-delegate-compensation/21983) "August 2023 Aligned Delegate Compensation"\
+*Authorizing party*: Reserve Governance Facilitators
+
+The total compensation to be distributed to Aligned Delegates will be **271.88 MKR**. If this executive proposal passes, the compensation will be distributed as seen below:
+
+| Delegate    | Address                                                      | Amount (MKR) |
+| ----------- | ------------------------------------------------------------ | ------------ |
+| 0xDefensor  | [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9) | 41.67        |
+| TRUE NAME   | [0x612f7924c367575a0edf21333d96b15f1b345a5d](https://etherscan.io/address/0x612f7924c367575a0edf21333d96b15f1b345a5d) | 41.67        |
+| BONAPUBLICA | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) | 41.67        |
+| vigilant    | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cb55500601bcce9f4cb0a0a72dc226f61) | 41.67        |
+| Navigator   | [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072) | 28.23        |
+| QGov        | [0xB0524D8707F76c681901b782372EbeD2d4bA28a6](https://etherscan.io/address/0xB0524D8707F76c681901b782372EbeD2d4bA28a6) | 20.16        |
+| UPMaker     | [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd) | 13.89        |
+| PALC        | [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78deac4f87bd8007b9cb56b8d53889ed5374e83a) | 13.89        |
+| PBG         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8d4df847db7ffe0b46af084fe031f7691c6478c2) | 13.89        |
+| Cloaky      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 7.17         |
+| WBC         | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xebce83e491947adb1396ee7e55d3c81414fb0d47) | 6.72         |
+| BLUE        | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 1.25         |
+
+*Note*: Per the Governance Scope, there are only 10 paid Aligned Delegate slots. QGov and WBC received payments in August because they were previously ranked ADs who became unranked in September. Therefore, per [the Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1), they were allocated payments from their respective AD Buffer. 
+
+### Spark Protocol Proxy Spell
+
+A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [0x95bcf659653d2E0b44851232d61F6F9d2e933fB1](https://etherscan.io/address/0x95bcf659653d2E0b44851232d61F6F9d2e933fB1)will be triggered if this executive proposal passes.
 
 #### DAI Borrow Spread Change
 
@@ -197,7 +184,7 @@ The Sustainable Ecosystem Scaling (SES) Core Unit is the Responsible Facilitator
 ### Scuttle MCD_CAT Contract
 
 *Reasoning*: Forum Post "[Proposal to Scuttle MCD_CAT](https://forum.makerdao.com/t/proposal-to-scuttle-mcd-cat-upcoming-executive-spell-2023-09-13/21958)"\
-*Authorizing Party*: Protocol Scope Facilitators
+*Authorizing Party*: Protocol Scope Facilitators {**LINK MISSING**}
 
 `MCD_CAT` is the liquidation agent of the legacy Collateral Liquidation module. Despite not being in use, it is still present in the Chainlog and still holds wards permissions within `MCD_VAT` . The proposed action concerns scuttling `MCD_CAT`, since there is no expectation the contract will ever be used again. If this Executive Proposal passes, the following actions will occur to completely remove the contract from the system:
 
