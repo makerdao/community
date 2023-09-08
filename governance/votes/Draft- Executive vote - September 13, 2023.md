@@ -149,7 +149,7 @@ The total compensation to be distributed to Aligned Delegates will be **271.88 M
 
 ### Spark Protocol Proxy Spell
 
-A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [0x95bcf659653d2E0b44851232d61F6F9d2e933fB1](https://etherscan.io/address/0x95bcf659653d2E0b44851232d61F6F9d2e933fB1)will be triggered if this executive proposal passes.
+A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [0x95bcf659653d2E0b44851232d61F6F9d2e933fB1](https://etherscan.io/address/0x95bcf659653d2E0b44851232d61F6F9d2e933fB1) will be triggered if this executive proposal passes.
 
 #### DAI Borrow Spread Change
 
