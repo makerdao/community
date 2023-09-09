@@ -45,6 +45,7 @@ Please review the links below to inform your position on this proposal before vo
 * [Canonical Proposal Version]($link_to_github_commit_version)
 * [Latest Proposal Version]($link_to_portal_version)
 * [Proposal Discussion Thread]($discussion_link)
+* $Amendment_Proposal? [Amendment Pull Request]($link_to_github-pr)
 
 ## Outcomes
 
