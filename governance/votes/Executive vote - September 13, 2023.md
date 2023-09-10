@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-- Several Stability Scope-defined parameter changes will be executed, as detailed below.
+- Several Stability Scope-defined parameter changes will be executed, including changes to Stability Fees and the PSM-USDP-A DC-IAM Maximum Debt Ceiling.
 - The Spark Protocol Dai Direct Deposit Module (D3M) Maximum Debt Ceiling will be increased to 400 million DAI; and the Ceiling Increase Cooldown will be increased to 12 hours. 
 - The Fortunafi vault's Debt Ceiling will be set to zero DAI, per the Stability Scope Artifact's requirement to offboard legacy Legal Recourse Assets.
 - A DAO resolution pertaining to the HV Bank vault will be approved to terminate future purchases and return available cash from the HVB Master Participation Trust. This is per the Stability Scope Artifact's requirement to offboard legacy Legal Recourse Assets.
