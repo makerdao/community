@@ -4,10 +4,6 @@ summary: Scope-defined parameter changes; Spark Protocol D3M parameter changes; 
 date: 2023-09-13T00:00:00.000Z
 address: "$spell_address"
 
-
-
-
-
 ---
 
 # [Executive Proposal] Scope-Defined Parameter Changes, Spark Protocol D3M Parameter Changes, Set Fortunafi Debt Ceiling to Zero, DAO Resolution for HV Bank, Delegate Compensation and Other Actions - September 13, 2023
@@ -44,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 For voters' convenience, each proposed item is prefaced with information showing its provenance. 
 
-- "Authorization" links to the official document(s) or governance action authorizing the proposed item's inclusion in the Executive Vote. This can be the Atlas, a Scope Alignment Artifact, a governance poll and/or a ratified budget proposal. 
+- "Authorization" links to the official document(s) or governance action authorizing the proposed item's inclusion in the Executive Vote. This can be the Atlas, a Scope Alignment Artifact, a successful governance poll and/or a ratified budget proposal. 
 - "Reasoning" links to the MakerDAO Forum post providing the rationale and additional context for each item. 
 - "Authorizing Parties" may also be listed (with or without links). These may include the responsible Scope Facilitator and/or Scope Advisory Council members.
 
@@ -95,33 +91,6 @@ The Stability Scope Artifact requires that legacy Legal Recourse Assets be offbo
 
 If this executive proposal passes, the DAO Resolution with the IPFS hash [QmXU2TwsRpVevGY74NVFbD9bKwtsw1mSuSce7My1zinD9m](https://gateway.pinata.cloud/ipfs/QmXU2TwsRpVevGY74NVFbD9bKwtsw1mSuSce7My1zinD9m) will be approved.
 
-For reference, a raw version of the text may be found below:
-
-```
-MAKERDAO RESOLUTION
-
-Date: DATED AS OF RELATED EXECUTIVE VOTE ON MAKERDAO
-No: 1
-Purpose: RWA MASTER PARTICIPATION TRUST TERMINATION OF FUTURE PURCHASES
-
-This resolution is intended to terminate future purchases into the RWA Master Participation Trust, established July 12, 2022 pursuant to the Amended and Restated Trust Agreement by and between Wilmington Savings Fund Society, FSB (in its capacity as “Trustee”) and RWA Foundation, a Cayman Islands foundation company (the “RWA Foundation).
-
-On July 12, 2022, RWA Master Participation Trust entered into a Master Participation Agreement (the “Agreement”) with Huntingdon Valley Bank, a Pennsylvania chartered bank, acting as “Seller” and RWA Master Participation Trust acting as “Buyer.”
-
-Reference is made to the Articles of Association (the “Articles”) of the RWA Foundation, pursuant to which RWA Foundation’s operations are governed.
-
-This resolution sets out the instructions and ratifications duly passed as an executed vote on https://vote.makerdao.com (“Maker Governance Voting Portal”) in accordance with the governance protocols of MakerDAO on the date specified above.
-
-RATIFICATION AND INSTRUCTION
-
-In accordance with the governance protocols of MakerDAO on the date specified above and pursuant to the Articles, the Maker token holders hereby approve and ratify the termination of future purchases into the RWA Master Participation Trust pursuant to the Agreement and instruct the directors of the RWA Foundation and its associated agents (Leeward Management, Zedra Directors, and Silverside Management) to perform the following actions:
-
-(i) Instruct the Trustee or other parties as necessary to provide written notice to Seller for the purpose of terminating future purchases as soon as permissible under the Agreement.
-(ii) Instruct the Trustee or other parties as necessary, after the termination of future purchases is in effect, to return excess available cash held at WSFS for the benefit of the RWA Master Participation Trust to the MakerDAO protocol.
-```
-
-
-
 ### Aligned Delegate Compensation for August 2023
 
 *Authorization*: [Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements); [Governance Scope Artifact](https://mips.makerdao.com/mips/details/MIP113#6-3-1a)\
@@ -149,7 +118,7 @@ The total compensation to be distributed to Aligned Delegates will be **271.88 M
 
 ### Spark Protocol Proxy Spell
 
-A [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol at [0x95bcf659653d2E0b44851232d61F6F9d2e933fB1](https://etherscan.io/address/0x95bcf659653d2E0b44851232d61F6F9d2e933fB1) will be triggered if this executive proposal passes.
+If this executive proposal passes, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol implementing the following changes will be triggered at [0x95bcf659653d2E0b44851232d61F6F9d2e933fB1](https://etherscan.io/address/0x95bcf659653d2E0b44851232d61F6F9d2e933fB1):
 
 #### DAI Borrow Spread Change
 
@@ -169,13 +138,13 @@ The Flash Loan Fee was reset to 0.09% in the pool upgrade and needs to be lowere
 
 ### Core Unit MKR Vesting Transfers
 
-#### A) DECO-001 Core Unit
+#### DECO-001 Core Unit
 
 *Authorization*: [Ratified MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP36#sentence-summary)
 
 The [DECO-001](https://mips.makerdao.com/mips/details/MIP39c2SP23#mission) Core Unit manages the Deco fixed-rate protocol. The proposed action concerns the transfer of **125 MKR** to the Core Unit's Auditor Wallet ([0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7](https://etherscan.io/address/0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7)). If this executive proposal passes, the transfer will be executed.
 
-#### B) SES-001 Core Unit
+#### SES-001 Core Unit
 
 *Authorization*: [Ratified MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP17#sentence-summary)
 
