@@ -109,7 +109,7 @@ The total compensation to be distributed to Aligned Delegates will be **271.88 M
 | PBG         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8d4df847db7ffe0b46af084fe031f7691c6478c2) | 13.89        |
 | Cloaky      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 7.17         |
 | WBC         | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xebce83e491947adb1396ee7e55d3c81414fb0d47) | 6.72         |
-| BLUE        | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 1.25         |
+| BLUE        | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 1.25         |
 
 *Note*: Per the Governance Scope, there are only 10 paid Aligned Delegate slots. QGov and WBC received payments in August because they were previously ranked ADs who became unranked in September. Therefore, per [the Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1), they were allocated payments from their respective AD Buffer. 
 
@@ -130,7 +130,7 @@ The proposed action concerns the transfer of **34.94 MKR** to the Core Unit's Au
 ### Scuttle MCD_CAT Contract
 
 *Proposal*: Forum Post "[Proposal to Scuttle MCD_CAT](https://forum.makerdao.com/t/proposal-to-scuttle-mcd-cat-upcoming-executive-spell-2023-09-13/21958)"\
-*Authorizing Party*: Protocol Scope Facilitators {**LINK MISSING**}
+*Authorizing Party*: [Protocol Scope Facilitators](http://forum.makerdao.com/t/proposal-to-scuttle-mcd-cat-upcoming-executive-spell-2023-09-13/21958/2)
 
 `MCD_CAT` is the liquidation agent of the legacy Collateral Liquidation module. Despite not being in use, it is still present in the Chainlog and still holds wards permissions within `MCD_VAT` . The proposed action concerns scuttling `MCD_CAT`, since there is no expectation the contract will ever be used again. If this Executive Proposal passes, the following actions will occur to completely remove the contract from the system:
 
