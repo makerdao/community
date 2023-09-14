@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Scope Parameter Changes, Spark Protocol D3M Parameter Changes, Set Fortunafi Debt Ceiling to Zero DAI, DAO Resolution for HV Bank, Delegate Compensation and Other Actions - September 13, 2023
 summary: Stability Scope parameter changes; Spark Protocol D3M parameter changes; set Fortunafi (RWA005-A) Debt Ceiling to zero DAI; approve DAO Resolution for HV Bank (RWA009-A) to terminate future purchases; Aligned Delegate compensation for August 2023; Core Unit MKR vesting transfers; scuttle MCD_CAT contract; trigger Spark Protocol Proxy Spell.
 date: 2023-09-13T00:00:00.000Z
-address: "$spell_address"
+address: "0xD97B4e0b43708c836935c9b2320f57074DC1D146"
 
 ---
 
