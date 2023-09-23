@@ -42,7 +42,7 @@ As a consequence of a significant reduction in Aligned Delegate pay, all Aligned
 
 ## Response
 
-Your resonse should include:
+Your response should include:
 * Brief description of any ambiguity you can identify in these clauses.
 * A rewrite of the clauses, if you feel it is required.
 * For each situation:
