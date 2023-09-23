@@ -11,7 +11,7 @@
 - [ ] Ensure the AD does not breach the universal alignment requirements in some obvious way. 
 
 ### Voting Portal
-- [ ] Delegates should be added to the community github respository [here](https://github.com/makerdao/community/tree/master/governance/delegates).
+- [ ] Delegates should be added to the community github repository [here](https://github.com/makerdao/community/tree/master/governance/delegates).
 	- [ ] Each delegate will be added once for each delegate contract address they control.
 	- [ ] The relevant AVC template should be used for each of the AD's contracts.
 
