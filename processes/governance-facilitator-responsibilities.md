@@ -4,7 +4,7 @@
 
 ### Executive Process
 
-* Co-ordinate executive contents with technical teams.
+* Coordinate executive contents with technical teams.
 * Ensure the contents of each executive are justified by processes or structures ratified by Maker governance.
 * Produce the text (executive copy) that accompanies each executive vote.
 * Publish the executive vote on the official voting portal.
@@ -26,7 +26,7 @@
 
 ## Endgame Responsibilities
 
-### AVC Meeting Attendence
+### AVC Meeting Attendance
 * Attend AVC Meetings during the Governance Scope focus week, provide advice and answer questions where requested.
 * Prepare for AVC Meetings as necessary to meet the requirements of a given AVC.
 
@@ -49,7 +49,7 @@
 
 * Ensure governance facilitators can make contact with ADs quickly and reliably in an emergency situation.
 * Coordinate emergency response as required in an emergency.
-* Coordinate emergency communcation as required in an emergency.
+* Coordinate emergency communication as required in an emergency.
 * Coordinate emergency governance actions (polls and/or executives) as required in an emergency.
 
 ### Endgame Governance Scope Management
