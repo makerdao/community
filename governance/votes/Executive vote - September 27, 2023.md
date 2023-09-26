@@ -1,0 +1,88 @@
+---
+title: Template - [Executive Vote] DAO Resolution for Monetalis Clydesdale, DAO Resolution for HV Bank, Fortunafi vault changes, Spark Protocol Proxy Spell - September 27, 2023
+summary: Doc variable update including DAO Resolution for Monetalis Clydesdale (RWA007-A); doc variable update including DAO Resolution for HV Bank (RWA009-A); place Fortunafi (RWA005-A) vault into soft liquidation state; trigger Spark Protocol Proxy Spell.
+date: 2023-09-27T00:00:00.000Z
+address: "$spell_address"
+
+---
+# [Executive Proposal] DAO Resolution for Monetalis Clydesdale, DAO Resolution for HV Bank, Fortunafi vault changes, Spark Protocol Proxy Spell - September 27, 2023
+
+The Reserve Governance Facilitators, Dewiz, Sidestream and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+
+---
+
+## Executive Summary
+
+If this executive proposal passes, the following actions will occur within the Maker Protocol:
+- The Monetalis Clydesdale (RWA007-A) vault RWA Agreement (doc) parameter will be updated, to include the latest DAO Resolution as detailed below.
+- The HV Bank (RWA009-A) vault RWA Agreement (doc) parameter will be updated, to inlcude the latest DAO Resolution as detailed below.
+- Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
+- A Spark Protocol Proxy Spell will be triggered that activates the Gnosis Chain instance of Spark Lend, as detailed below.
+
+**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+
+Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+
+
+---
+
+## Proposal Details
+
+### Monetalis Clydesdale (RWA007-A) Vault Doc Update
+
+*Authorization*: [Governance Poll 2023-09-18](https://vote.makerdao.com/polling/Qmb45PDU)
+*Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-to-revise-asset-allocation-of-jat1-and-jat2/21718) "Proposal to revise asset allocation of JAT1 and JAT2"
+
+If this executive proposal passes, the Monetalis Clydesdale (RWA007-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G).
+
+It includes the latest [DAO Resolution](https://amaranth-secondary-stingray-939.mypinata.cloud/ipfs/QmZ94FG8YXK4seyBHBi2FfTfW5URtBqbCb7JZAB1HGkTNF)
+
+This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA007-A) to the following JAT1 (James Asset Trust 1) to JAT2 (James Asset Trust 2) Asset Reallocation:
+- Selling the ETF products within JAT1.
+- Paying any proceeds from this sale after expenses in excess of 500 million USD into the surplus buffer.
+- Deploying the 500 million USD towards the T-bills ladder already installed under JAT2.
+
+### HV Bank (RWA009-A) Vault Doc Update
+
+*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
+*Proposal*: [Forum post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/13) "[RWA009] HVBank/MIP21 Token CES Domain Team Assessment", [Forum post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16) "Huntingdon Valley Bank: Transaction Documents on Permaweb"
+
+If this executive proposal passes, the HV Bank (RWA009-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx).
+
+It includes the latest [DAO Resolution](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16)
+
+This resolution is intended to terminate future purchases into the RWA Master Participation Trust.
+
+### Fortunafi (RWA005-A) vault changes
+
+*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
+*Proposal*: [Forum post](https://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/12) "[Request to Poll] Offboarding Legacy Legal Recourse Assets"
+
+If this executive proposal passes, `tell` will be called on the RWA Liquidation Oracle for this vault type; this places the vault into a “soft liquidation”.
+
+
+
+### Spark Protocol Proxy Spell
+
+*Authorization*: [Governance Executive 2023-09-18](https://vote.makerdao.com/polling/QmVcxd7J)
+*Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-for-activation-of-gnosis-chain-instance/22098/) "Proposal for Activation of Gnosis Chain Instance"
+
+If this executive proposal passes, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol implementing the following changes will be triggered at [0x9FfFbc278119Ad854b58C3d219212849E8B54eF8](https://etherscan.io/address/0x9FfFbc278119Ad854b58C3d219212849E8B54eF8):
+
+- Activate the Gnosis Chain instance of Spark Lend.
+
+## Review
+
+Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+
+---
+
+## Resources
+
+Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
+
+To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
