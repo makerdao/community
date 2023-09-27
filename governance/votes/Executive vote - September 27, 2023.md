@@ -57,7 +57,7 @@ If this executive proposal passes, the HV Bank RWA Agreement parameter will be u
 
 ### Fortunafi (RWA005-A) Vault Change
 
-*Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
+*Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Executive Vote 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/12) "[Request to Poll] Offboarding Legacy Legal Recourse Assets"
 
 If this executive proposal passes, `tell` will be called on the RWA Liquidation Oracle for this vault type; this places the vault into a “soft liquidation” state.
