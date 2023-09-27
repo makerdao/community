@@ -32,7 +32,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Monetalis Clydesdale (RWA007-A) Vault RWA Agreement Parameter update
+### Monetalis Clydesdale (RWA007-A) Vault - Approve DAO Resolution & Update RWA Agreement Parameter
 
 *Authorization*: [Governance Poll 2023-09-18](https://vote.makerdao.com/polling/Qmb45PDU)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-to-revise-asset-allocation-of-jat1-and-jat2/21718) "Proposal to revise asset allocation of JAT1 and JAT2"
