@@ -32,14 +32,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Monetalis Clydesdale (RWA007-A) Vault Doc Update
+### Monetalis Clydesdale (RWA007-A) Vault RWA Agreement Parameter update
 
-*Authorization*: [Governance Poll 2023-09-18](https://vote.makerdao.com/polling/Qmb45PDU)
+*Authorization*: [Governance Poll 2023-09-18](https://vote.makerdao.com/polling/Qmb45PDU)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-to-revise-asset-allocation-of-jat1-and-jat2/21718) "Proposal to revise asset allocation of JAT1 and JAT2"
 
-If this executive proposal passes, the Monetalis Clydesdale (RWA007-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G).
-
-It includes the latest [DAO Resolution](https://amaranth-secondary-stingray-939.mypinata.cloud/ipfs/QmZ94FG8YXK4seyBHBi2FfTfW5URtBqbCb7JZAB1HGkTNF)
+If this executive proposal passes, the [DAO Resolution](https://amaranth-secondary-stingray-939.mypinata.cloud/ipfs/QmZ94FG8YXK4seyBHBi2FfTfW5URtBqbCb7JZAB1HGkTNF) will be approved and in consequence the Monetalis Clydesdale (RWA007-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G).
 
 This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA007-A) to the following JAT1 (James Asset Trust 1) to JAT2 (James Asset Trust 2) Asset Reallocation:
 - Selling the ETF products within JAT1.
@@ -48,10 +46,10 @@ This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA0
 
 Please review this [forum thread](https://forum.makerdao.com/t/assessment-jat1-jat2-reallocation/21987) for more information about this reallocation.
 
-### HV Bank (RWA009-A) Vault Doc Update
+### HV Bank (RWA009-A) Vault RWA Agreement Parameter Update
 
-*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
-*Proposal*: [Forum post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/13) "[RWA009] HVBank/MIP21 Token CES Domain Team Assessment", [Forum post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16) "Huntingdon Valley Bank: Transaction Documents on Permaweb"
+*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
+*Proposal*: [Forum post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/13) "[RWA009] HVBank/MIP21 Token CES Domain Team Assessment"
 
 If this executive proposal passes, the HV Bank (RWA009-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx).
 
@@ -61,7 +59,7 @@ This resolution is intended to terminate future purchases into the RWA Master Pa
 
 ### Fortunafi (RWA005-A) vault changes
 
-*Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
+*Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/12) "[Request to Poll] Offboarding Legacy Legal Recourse Assets"
 
 If this executive proposal passes, `tell` will be called on the RWA Liquidation Oracle for this vault type; this places the vault into a “soft liquidation”.
@@ -70,7 +68,7 @@ If this executive proposal passes, `tell` will be called on the RWA Liquidation 
 
 ### Spark Protocol Proxy Spell
 
-*Authorization*: [Governance Executive 2023-09-18](https://vote.makerdao.com/polling/QmVcxd7J)
+*Authorization*: [Governance Executive 2023-09-18](https://vote.makerdao.com/polling/QmVcxd7J)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-for-activation-of-gnosis-chain-instance/22098/) "Proposal for Activation of Gnosis Chain Instance"
 
 If this executive proposal passes, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol implementing the following changes will be triggered at [0x9FfFbc278119Ad854b58C3d219212849E8B54eF8](https://etherscan.io/address/0x9FfFbc278119Ad854b58C3d219212849E8B54eF8):
