@@ -16,7 +16,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
-- A Monetalis Clydesdale (RWA007-A) vault Dao Resolution will be approved and the [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include this DAO Resolution as detailed below.
+- A DAO Resolution will be approved for Monetalis Clydesdale (RWA007-A); and the [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to include this DAO Resolution.
 - The HV Bank (RWA009-A) vault [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include the recently approved DAO Resolution as detailed below.
 - Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
 - A Spark Protocol Proxy Spell will be triggered that activates the Gnosis Chain instance of Spark Lend, as detailed below.
