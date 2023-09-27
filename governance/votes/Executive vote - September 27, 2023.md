@@ -48,7 +48,7 @@ Please review this [forum thread](https://forum.makerdao.com/t/assessment-jat1-j
 
 ### HV Bank (RWA009-A) Vault RWA Agreement Parameter Update
 
-*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
+*Authorization*: [Executive Vote 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/13) "[RWA009] HVBank/MIP21 Token CES Domain Team Assessment"
 
 The recently approved HV Bank (RWA009-A) [DAO Resolution](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023) requires updating the [RWA Agreement parameter](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement). 
