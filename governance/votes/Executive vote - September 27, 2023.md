@@ -5,7 +5,7 @@ date: 2023-09-27T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] DAO Resolution for Monetalis Clydesdale, DAO Resolution for HV Bank, Fortunafi vault changes, Spark Protocol Proxy Spell - September 27, 2023
+# [Executive Proposal] DAO Resolution for Monetalis Clydesdale, HV Bank On-chain RWA Agreement Update, Fortunafi Vault Change, Trigger Spark Protocol Proxy Spell - September 27, 2023
 
 The Governance Facilitators, Dewiz, Sidestream and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following actions to the Maker Protocol.
 
@@ -16,8 +16,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
-- The Monetalis Clydesdale (RWA007-A) vault [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include the latest DAO Resolution as detailed below.
-- The HV Bank (RWA009-A) vault [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to inlcude the latest DAO Resolution as detailed below.
+- A Monetalis Clydesdale (RWA007-A) vault Dao Resolution will be approved and the [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include this DAO Resolution as detailed below.
+- The HV Bank (RWA009-A) vault [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include the recently approved DAO Resolution as detailed below.
 - Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
 - A Spark Protocol Proxy Spell will be triggered that activates the Gnosis Chain instance of Spark Lend, as detailed below.
 
