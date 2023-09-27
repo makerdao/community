@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] DAO Resolution for Monetalis Clydesdale, DAO Resolution for HV Bank, Fortunafi vault changes, Spark Protocol Proxy Spell - September 27, 2023
+title: Template - [Executive Vote] DAO Resolution for Monetalis Clydesdale, HV Bank On-chain RWA Agreement Update, Fortunafi Vault Change, Trigger Spark Protocol Proxy Spell - September 27, 2023
 summary: Doc variable update including DAO Resolution for Monetalis Clydesdale (RWA007-A); doc variable update including DAO Resolution for HV Bank (RWA009-A); place Fortunafi (RWA005-A) vault into soft liquidation state; trigger Spark Protocol Proxy Spell.
 date: 2023-09-27T00:00:00.000Z
 address: "$spell_address"
