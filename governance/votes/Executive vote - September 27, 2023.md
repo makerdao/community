@@ -71,8 +71,6 @@ If this executive proposal passes, `tell` will be called on the RWA Liquidation 
 
 If this executive proposal passes, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol will be triggered at [0x9FfFbc278119Ad854b58C3d219212849E8B54eF8](https://etherscan.io/address/0x9FfFbc278119Ad854b58C3d219212849E8B54eF8) to activate the Gnosis Chain instance of Spark Lend.
 
-- Activate the Gnosis Chain instance of Spark Lend.
-
 Please review this [forum thread](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-protocol-on-gnosis-chain/21629) for a detailed risk assessment.
 
 ## Review
