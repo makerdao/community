@@ -55,11 +55,6 @@ The recently approved HV Bank (RWA009-A) [DAO Resolution](https://vote.makerdao.
 
 If this executive proposal passes, the HV Bank RWA Agreement parameter will be updated to [QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx).
 
-
-It includes the latest [DAO Resolution](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16).
-
-This resolution is intended to terminate future purchases into the RWA Master Participation Trust.
-
 ### Fortunafi (RWA005-A) vault changes
 
 *Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
