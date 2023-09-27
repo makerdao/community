@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
 - A Spark Protocol Proxy Spell will be triggered that activates the Gnosis Chain instance of Spark Lend, as detailed below.
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+**Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
