@@ -44,7 +44,9 @@ It includes the latest [DAO Resolution](https://amaranth-secondary-stingray-939.
 This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA007-A) to the following JAT1 (James Asset Trust 1) to JAT2 (James Asset Trust 2) Asset Reallocation:
 - Selling the ETF products within JAT1.
 - Paying any proceeds from this sale after expenses in excess of 500 million USD into the surplus buffer.
-- Deploying the 500 million USD towards the T-bills ladder already installed under JAT2.
+- Deploying the 500 million USD towards the United States Treasury bills ladder already established under JAT2.
+
+Please review this [forum thread](https://forum.makerdao.com/t/assessment-jat1-jat2-reallocation/21987) for more information about this reallocation.
 
 ### HV Bank (RWA009-A) Vault Doc Update
 
@@ -53,13 +55,13 @@ This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA0
 
 If this executive proposal passes, the HV Bank (RWA009-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmYjvAZEeGCs8kMuLQz6kU8PWgsbG1i8QWd2jrwkSipcRx).
 
-It includes the latest [DAO Resolution](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16)
+It includes the latest [DAO Resolution](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/16).
 
 This resolution is intended to terminate future purchases into the RWA Master Participation Trust.
 
 ### Fortunafi (RWA005-A) vault changes
 
-*Authorization*: [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
+*Authorization*: [Governance Poll 2023-08-28](https://vote.makerdao.com/polling/Qmcb1c9x) , [Governance Executive 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)
 *Proposal*: [Forum post](https://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/12) "[Request to Poll] Offboarding Legacy Legal Recourse Assets"
 
 If this executive proposal passes, `tell` will be called on the RWA Liquidation Oracle for this vault type; this places the vault into a “soft liquidation”.
@@ -74,6 +76,8 @@ If this executive proposal passes, `tell` will be called on the RWA Liquidation 
 If this executive proposal passes, a [Proxy Spell](https://forum.makerdao.com/t/executive-proxies-and-spark-protocol/20976) for Spark Protocol implementing the following changes will be triggered at [0x9FfFbc278119Ad854b58C3d219212849E8B54eF8](https://etherscan.io/address/0x9FfFbc278119Ad854b58C3d219212849E8B54eF8):
 
 - Activate the Gnosis Chain instance of Spark Lend.
+
+Please review this [forum thread](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-protocol-on-gnosis-chain/21629) for a detailed risk assessment.
 
 ## Review
 
