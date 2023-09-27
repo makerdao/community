@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] DAO Resolution for Monetalis Clydesdale, HV Bank On-chain RWA Agreement Update, Fortunafi Vault Change, Trigger Spark Protocol Proxy Spell - September 27, 2023
 
-The Governance Facilitators, Dewiz, Sidestream and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following actions to the Maker Protocol.
+The Governance Facilitators, Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following actions to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -16,9 +16,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
-- A DAO Resolution will be approved for Monetalis Clydesdale (RWA007-A); and the [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to include this DAO Resolution.
+- A DAO Resolution will be approved for Monetalis Clydesdale (RWA007-A), and the [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to include this DAO Resolution.
 - The HV Bank (RWA009-A) vault [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated, to include the recently approved DAO Resolution as detailed below.
-- Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
+- The Fortunafi (RWA005-A) vault will be placed into soft liquidation state, as detailed below.
 - A Spark Protocol Proxy Spell will be triggered that activates the Gnosis Chain instance of Spark Lend, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
@@ -26,7 +26,6 @@ If this executive proposal passes, the following actions will occur within the M
 Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the actions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
-
 
 ---
 
@@ -37,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 *Authorization*: [Governance Poll 2023-09-18](https://vote.makerdao.com/polling/Qmb45PDU)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-to-revise-asset-allocation-of-jat1-and-jat2/21718) "Proposal to revise asset allocation of JAT1 and JAT2"
 
-If this executive proposal passes, the [DAO Resolution](https://amaranth-secondary-stingray-939.mypinata.cloud/ipfs/QmZ94FG8YXK4seyBHBi2FfTfW5URtBqbCb7JZAB1HGkTNF) will be approved and in consequence the Monetalis Clydesdale (RWA007-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G).
+If this executive proposal passes, the [DAO Resolution](https://amaranth-secondary-stingray-939.mypinata.cloud/ipfs/QmZ94FG8YXK4seyBHBi2FfTfW5URtBqbCb7JZAB1HGkTNF) will be approved and in consequence, the Monetalis Clydesdale (RWA007-A) [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be updated to [QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G](https://jade-ltd-quail-880.mypinata.cloud/ipfs/QmWo3UVtEDKVwS5k34uLt1J6u9px3rjHYkTLK2rYQ31E3G).
 
 This DAO Resolution will instruct the trustees of the Monetalis Clydesdale (RWA007-A) to the following JAT1 (James Asset Trust 1) to JAT2 (James Asset Trust 2) Asset Reallocation:
 - Selling the ETF products within JAT1.
@@ -61,8 +60,6 @@ If this executive proposal passes, the HV Bank RWA Agreement parameter will be u
 *Proposal*: [Forum post](https://forum.makerdao.com/t/request-to-poll-offboarding-legacy-legal-recourse-assets/21582/12) "[Request to Poll] Offboarding Legacy Legal Recourse Assets"
 
 If this executive proposal passes, `tell` will be called on the RWA Liquidation Oracle for this vault type; this places the vault into a “soft liquidation” state.
-
-
 
 ### Spark Protocol Proxy Spell
 
