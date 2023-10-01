@@ -1,6 +1,6 @@
 ---
-title: Onboard USDC to SparkLend Ethereum and Activate USD eMode - October 2, 2023
-summary: Onboard USDC to SparkLend Ethereum and activate USD eMode with included parameters.
+title: Onboard USDC to SparkLend Ethereum and Activate USD eMode for USDC and sDAI Markets - October 2, 2023
+summary: Onboard USDC to SparkLend Ethereum and activate USD eMode for USDC and sDAI markets, with included parameters.
 discussion_link: https://forum.makerdao.com/t/proposal-to-onboard-usdc-and-usdt-to-sparklend-ethereum/22227
 parameters:
     input_format: single-choice
@@ -18,7 +18,7 @@ end_date: 2023-10-05T16:00:00
 
 ---
 
-# Poll: Onboard USDC to SparkLend Ethereum and Activate USD eMode - October 2, 2023
+# Poll: Onboard USDC to SparkLend Ethereum and Activate USD eMode for USDC and sDAI Markets - October 2, 2023
 
 The Governance Facilitators have placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, October 2 at 16:00 UTC.
 
@@ -33,7 +33,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 Express your support or opposition to the following proposed changes:
 
 - Add USDC to SparkLend Ethereum as a borrow-only market, with the below parameters; and
-- Activate USD eMode, with the below parameters
+- Activate USD eMode for USDC and sDAI markets, with the below parameters
 
 ### SparkLend Ethereum Parameters
 
@@ -59,7 +59,7 @@ Express your support or opposition to the following proposed changes:
 * [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **YES**.
 * [Siloed Borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing): **YES**.
 
-### USD Efficiency Mode
+### USD Efficiency Mode Parameters for USDC & sDAI Markets
 
 * LTV: **91%**.
 * LT: **92%**.
@@ -71,7 +71,7 @@ Please review the proposal [thread](https://forum.makerdao.com/t/proposal-to-onb
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-* Phoenix Labs will prepare a Spark spell to onboard USDC to SparkLend Ethereum and activate USD eMode, with the specified parameters.
+* Phoenix Labs will prepare a Spark spell to onboard USDC to SparkLend Ethereum and activate USD eMode for USDC and sDAI markets, with the specified parameters.
 * An upcoming Executive Vote will include a proposal to execute the Spark spell.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 

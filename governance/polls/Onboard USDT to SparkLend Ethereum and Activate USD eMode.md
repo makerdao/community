@@ -32,7 +32,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 Express your support or opposition to the following proposed changes:
 
-- Add USDT to SparkLend Ethereum as a borrow-only market, with the below parameters;
+- Add USDT to SparkLend Ethereum as a borrow-only market, with the below parameters; and
 - Activate USD eMode, with the below parameters
 
 ### SparkLend Ethereum Parameters
