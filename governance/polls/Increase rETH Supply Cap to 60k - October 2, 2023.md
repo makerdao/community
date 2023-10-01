@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-Express your support or opposition to increasing rETH supply cap from 20k to **60k** on SparkLend Ethereum.
+Express your support or opposition to increasing rETH [supply cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) from 20k to **60k** on SparkLend Ethereum.
 
 Please review the proposal [thread](https://forum.makerdao.com/t/proposal-to-onboard-usdc-and-usdt-to-sparklend-ethereum/22227) for more information about this proposed change.
 
