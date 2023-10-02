@@ -4104,5 +4104,26 @@
     "high-impact",
     "real-world-assets",
     "risk-parameter"
+  ],
+  "1047": [
+    "high-impact",
+    "risk-parameter"
+  ],
+  "1048": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1049": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1050": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
   ]
 }
