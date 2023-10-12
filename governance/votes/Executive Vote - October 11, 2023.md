@@ -176,7 +176,7 @@ If this executive proposal passes, **175** MKR will be distributed to [0x5d67d5B
 
 If this executive proposal passes, a proxy-spell will be executed for SparkLend containing the following major items:
 
--rETH supply cap increase from 20,000 DAI to **60,000 DAI**.
+- Increase rETH [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) from 20,000 DAI to **60,000 DAI**.
 - Add USDC as a borrow-only market.
 - Add USDT as a borrow-only market.
 - Activate USD eMode for sDAI, USDT, and USDC.
