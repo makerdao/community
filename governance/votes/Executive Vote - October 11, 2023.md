@@ -59,7 +59,7 @@ The agreement set forth by the DAO resolution contains the following details:
 
 ### RETH-A Initial Offboarding
 
-*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-6/22231/5)\
+*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-6/22231/4)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-6/22231) "Stability Scope Parameter Changes #6"
 
 If this executive proposal passes, RETH-A offboarding will be initiated, following the rules of [MIP62: Collateral Offboarding Process](https://mips.makerdao.com/mips/details/MIP62). This executive will take the following actions to start the offboarding of the vault:
