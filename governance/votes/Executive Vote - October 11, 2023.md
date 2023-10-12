@@ -179,7 +179,7 @@ If this executive proposal passes, a proxy-spell will be executed for SparkLend 
 - Increase rETH [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) from 20,000 DAI to **60,000 DAI**.
 - Add USDC as a borrow-only market.
 - Add USDT as a borrow-only market.
-- Activate USD eMode for sDAI, USDT, and USDC.
+- Activate USD [eMode](https://docs.sparkprotocol.io/developers/sparklend/features/efficiency-mode-emode) for sDAI, USDT, and USDC.
 
 
 ## Review
