@@ -150,7 +150,7 @@ If this executive proposal passes, the following distributions will be made to q
 
 ### Governance Facilitator Payment Streams
 
-*Authorization*: [Governance Poll](https://vote.makerdao.com/polling/QmSovaxn)\
+*Authorization*: [Governance Poll](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/mip102c2-sp16-mip-amendment-subproposal/21579) "MIP102c2-SP16: MIP Amendment Subproposal"
 
 If this executive proposal passes, the following DAI and MKR streams will be set up for Governance Facilitators JanSky and VoteWizard:
