@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] USDP-PSM incentives, rETH initial offboarding, RWA vaults reconfiguration, various parameter changes, AVC and AD compensation, Facilitator and Ecosystem Actor compensation, Spark proxy-spell - October 11, 2023
 
-The Governance Facilitators and dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
