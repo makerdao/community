@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 *Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/usdp-psm-facilitation-incentives/22331/2)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/usdp-psm-facilitation-incentives/22331) "USDP-PSM Facilitation Incentives"
 
-If this executive proposal passes, the [DAO Resolution](https://gateway.pinata.cloud/ipfs/QmWg43PNNGfEyXnTv1qN8dRXFJz5ZchrmZU8qH57Ki6D62) will be approved and in consequence, the USDP-PSM Incentives [RWA Agreement (doc)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) will be initiated with `QmWg43PNNGfEyXnTv1qN8dRXFJz5ZchrmZU8qH57Ki6D62`.
+If this executive proposal passes, the [DAO Resolution](https://gateway.pinata.cloud/ipfs/QmWg43PNNGfEyXnTv1qN8dRXFJz5ZchrmZU8qH57Ki6D62) will be approved and in consequence, the [USDP-PSM Incentives Agreement](https://forum.makerdao.com/t/usdp-psm-facilitation-incentives/22331) will be initiated.
 
 The agreement set forth by the DAO resolution contains the following details:
 * Trident will deliver Facilitation Incentives in return for the continuous maintenance of the USDP PSM Max Debt Ceiling at a level of at least 120 million USDP.
