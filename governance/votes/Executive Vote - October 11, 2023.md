@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] USDP-PSM incentives, rETH initial offboarding, RWA vaults reconfiguration, various parameter changes, AVC and AD compensation, Facilitator and Ecosystem Actor compensation, Spark proxy-spell - October 11, 2023
 summary: DAO resolution for USDP-PSM, RETH-A initial offboarding parameters, Clydesdale + Andromeda parameter changes, WBTC and ETH vaults parameter changes, Aligned Voter Committee Quarterly and Aligned Delegate monthly compensation, Governance Facilitator and BA Labs compensation, SparkLend parameter changes via proxy-spell.
 date: 2023-10-11T00:00:00.000Z
-address: "$spell_address"
+address: "0xb242159a9182e7FE0b72Fc035b336cFE060381B3"
 
 ---
 # [Executive Proposal] USDP-PSM incentives, rETH initial offboarding, RWA vaults reconfiguration, various parameter changes, AVC and AD compensation, Facilitator and Ecosystem Actor compensation, Spark proxy-spell - October 11, 2023
