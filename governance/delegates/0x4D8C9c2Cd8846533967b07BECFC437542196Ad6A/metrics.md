@@ -1,7 +1,7 @@
 ---
-combined_participation: 75
-poll_participation: 87.50%
-exec_participation: 25%
-communication: 40%
-start_date: 2023-07-24T00:00:00.000Z
+combined_participation: No Data
+poll_participation: No Data
+exec_participation: No Data
+communication: No Data
+start_date: 2023-10-23T00:00:00.000Z
 ---
