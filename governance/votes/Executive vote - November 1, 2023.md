@@ -37,9 +37,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Spark Protocol-AAVE Revenue Share Payment
 
-*Authorization*: [Support Scope Artifact](https://mips.makerdao.com/mips/details/MIP106#9-4-1-Spark Protocol-protocol-aave-revenue-share)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/Spark Protocol-aave-revenue-share-calculation-payment-1-q3-2023/22486) "Spark - Aave Revenue Share Calculation & Payment #1 [Q3 2023]"\
-*Authorizing Party:* [Support Scope Facilitator](http://forum.makerdao.com/t/Spark Protocol-aave-revenue-share-calculation-payment-1-q3-2023/22486/2)
+*Authorization*: [Support Scope Artifact](https://mips.makerdao.com/mips/details/MIP106#9-4-1-spark-protocol-aave-revenue-share)\
+*Proposal*: [Forum post](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-1-q3-2023/22486) "Spark - Aave Revenue Share Calculation & Payment #1 [Q3 2023]"\
+*Authorizing Party:* [Support Scope Facilitator](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-1-q3-2023/22486/2)
 
 The proposed action concerns executing the first payment of the Spark Protocol-AAVE Revenue Share Agreement. If this executive proposal passes, Maker Governance will execute a payment from the Surplus Buffer of **2889 DAI** to a smart contract ([0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)) controlled by AAVE Governance.
 
@@ -59,7 +59,7 @@ If this executive proposal passes, the DAO Resolution with the IPFS hash of [Qmb
 *Authorization*: [Original ratified MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP41)\
  *Proposal*: [Forum post](https://forum.makerdao.com/t/mip39c3-sp13-removing-is-001/22392) "MIP39c3-SP13: Removing IS-001"
 
-Per its voluntary offboarding proposal, Immunefi Security CU requests payout of the MKR vested 2023-08-05, adjusted to 0.4 FTE. (See [manual repricing](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/3); FTE reduction in [July 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-07.md#fte); adjusted MKR vesting schedule in [August 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly Budget Statements/2022-08.md#3-mkr-vesting-overview); and final FTE reduction to 0.4 in [January 2023](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2023-01.md#fte).) 
+Per its voluntary offboarding proposal, Immunefi Security CU requests payout of the MKR vested 2023-08-05, adjusted to 0.4 FTE. (See [manual repricing](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/3); FTE reduction in [July 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-07.md#fte); adjusted MKR vesting schedule in [August 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md#3-mkr-vesting-overview); and final FTE reduction to 0.4 in [January 2023](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2023-01.md#fte).) 
 
 If this executive proposal passes, a one-time MKR payment in the amount of **6.34 MKR** will be transferred to the Core Unit's Auditor Wallet ([0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4)).
 
