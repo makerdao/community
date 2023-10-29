@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Proposal] Spark Protocol-AAVE Revenue Share Payment, DAO Resolution for HV Bank, Immunefi Security Core Unit MKR Vesting Transfer and Chainlog Housekeeping - November 1, 2023
-summary: Execute first Spark Protocol-AAVE revenue share payment; approve HV Bank (RWA009-A) DAO Resolution to onboard RWA Foundation with exchange agent; execute Immunefi Security Core Unit MKR vesting transfer; add GUSD and USDP Jar and SwapInputConduit contracts to Chainlog.
+title: Template - [Executive Proposal] Spark Protocol-Aave Revenue Share Payment, DAO Resolution for HV Bank, Immunefi Security Core Unit MKR Vesting Transfer and Chainlog Housekeeping - November 1, 2023
+summary: Execute first Spark Protocol-Aave revenue share payment; approve HV Bank (RWA009-A) DAO Resolution to onboard RWA Foundation with exchange agent; execute Immunefi Security Core Unit MKR vesting transfer; add GUSD and USDP Jar and SwapInputConduit contracts to Chainlog.
 date: 2023-11-01T00:00:00.000Z
 address: "$spell_address"
 
 
 ---
 
-# [Executive Proposal] Spark Protocol-AAVE Revenue Share Payment, DAO Resolution for HV Bank, Immunefi Security Core Unit MKR Vesting Transfer and Chainlog Housekeeping - November 1, 2023
+# [Executive Proposal] Spark Protocol-Aave Revenue Share Payment, DAO Resolution for HV Bank, Immunefi Security Core Unit MKR Vesting Transfer and Chainlog Housekeeping - November 1, 2023
 
 The Governance Facilitator teams, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following actions within the Maker Protocol.
 
@@ -19,9 +19,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-- The first Spark Protocol-AAVE Revenue Share payment will be executed.
+- The first Spark Protocol-Aave Revenue Share payment will be executed.
 - A DAO Resolution for the HV Bank vault (RWA009-A) will be approved, allowing the RWA Foundation to onboard with Galaxy Digital Trading Cayman LLC, an exchange agent.
-- Per its voluntary offboarding proposal, a MKR vesting transfer will be executed for the Immunefi Security Core Unit. 
+- A MKR vesting transfer will be executed for the Immunefi Security Core Unit, per its voluntary offboarding proposal.  
 - The GUSD and USDP Jar and SwapInputConduit contracts will be added to the Chainlog; these contracts provide revenue to the protocol from the GUSD-MakerDAO and Trident-MakerDAO partnerships.
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
@@ -35,13 +35,13 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Spark Protocol-AAVE Revenue Share Payment
+### Spark Protocol-Aave Revenue Share Payment
 
 *Authorization*: [Support Scope Artifact](https://mips.makerdao.com/mips/details/MIP106#9-4-1-spark-protocol-aave-revenue-share)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-1-q3-2023/22486) "Spark - Aave Revenue Share Calculation & Payment #1 [Q3 2023]"\
 *Authorizing Party:* [Support Scope Facilitator](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-1-q3-2023/22486/2)
 
-The proposed action concerns executing the first payment of the Spark Protocol-AAVE Revenue Share Agreement. If this executive proposal passes, Maker Governance will execute a payment from the Surplus Buffer of **2889 DAI** to a smart contract ([0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)) controlled by AAVE Governance.
+The proposed action concerns executing the first payment of the Spark Protocol-Aave Revenue Share Agreement. If this executive proposal passes, Maker Governance will execute a payment from the Surplus Buffer of **2889 DAI** to a smart contract ([0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)) controlled by Aave Governance.
 
 ### DAO Resolution for HV Bank (RWA009-A) Vault
 
