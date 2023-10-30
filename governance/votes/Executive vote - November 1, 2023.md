@@ -46,7 +46,8 @@ The proposed action concerns executing the first payment of the Spark Protocol-A
 ### DAO Resolution for HV Bank (RWA009-A) Vault
 
 *Authorization*: [Executive Vote 2023-09-13](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023)\
-*Proposal*: [Forum post](http://forum.makerdao.com/t/dao-resolution-to-facilitate-onboarding-of-rwa-foundation-with-exchange-agent/22456) "DAO Resolution to Facilitate Onboarding of RWA Foundation with Exchange Agent"
+*Proposal*: [Forum post](http://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/17) "Huntingdon Valley Bank: Transaction Documents on Permaweb"\
+*Authorizing Party:* [Stability Scope Facilitator](http://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/18)
 
 In a recent [Executive Vote](https://vote.makerdao.com/executive/template-executive-vote-stability-scope-parameter-changes-spark-protocol-d3m-parameter-changes-set-fortunafi-debt-ceiling-to-zero-dai-dao-resolution-for-hv-bank-delegate-compensation-and-other-actions-september-13-2023), Maker Governance approved a DAO Resolution instructing the RWA Foundation to terminate future purchases in HV Bank’s RWA Master Participation Trust and return excess available cash to the DAO. 
 
@@ -59,7 +60,7 @@ If this executive proposal passes, the DAO Resolution with the IPFS hash of [Qmb
 *Authorization*: [Original ratified MKR budget proposal](https://mips.makerdao.com/mips/details/MIP40c3SP41)\
  *Proposal*: [Forum post](https://forum.makerdao.com/t/mip39c3-sp13-removing-is-001/22392) "MIP39c3-SP13: Removing IS-001"
 
-Per its voluntary offboarding proposal, Immunefi Security CU requests payout of the MKR vested 2023-08-05, adjusted to 0.4 FTE. (See [manual repricing](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/3); FTE reduction in [July 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-07.md#fte); adjusted MKR vesting schedule in [August 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md#3-mkr-vesting-overview); and final FTE reduction to 0.4 in [January 2023](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2023-01.md#fte).) 
+Per its voluntary offboarding proposal, Immunefi Security CU requests a payout of the MKR vested 2023-08-05, adjusted to 0.4 FTE. (See [manual repricing](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/3); FTE reduction in [July 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-07.md#fte); adjusted MKR vesting schedule in [August 2022](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2022-08.md#3-mkr-vesting-overview); and final FTE reduction to 0.4 in [January 2023](https://github.com/makerdao-is/transparency-reporting/blob/main/Monthly%20Budget%20Statements/2023-01.md#fte).) 
 
 If this executive proposal passes, a one-time MKR payment in the amount of **6.34 MKR** will be transferred to the Core Unit's Auditor Wallet ([0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4](https://etherscan.io/address/0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4)).
 
