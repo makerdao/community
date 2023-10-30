@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 
 - The first Spark Protocol-Aave Revenue Share payment will be executed.
 - A DAO Resolution for the HV Bank vault (RWA009-A) will be approved, allowing the RWA Foundation to onboard with Galaxy Digital Trading Cayman LLC, an exchange agent.
-- A MKR vesting transfer in the amount of 6.34 MKR will be executed for the Immunefi Security Core Unit, per its voluntary offboarding proposal.  
+- A MKR vesting transfer in the amount of **6.34 MKR** will be executed for the Immunefi Security Core Unit, per its voluntary offboarding proposal.  
 - The GUSD and USDP Jar and SwapInputConduit contracts (associated with the GUSD-MakerDAO and Trident-MakerDAO partnerships) will be added to the Chainlog.
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
