@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-Express support or opposition to approving the DAO Resolution at IPFS hash  `QmYGtMXWn9tzmn1tV3fGfrbkoo22HBDWcozgKscKxaxYz4`,  pertaining to onboarding the Mars Foundation with the specified instructions and ratifications. The Mars Foundation will have the objective of deploying and maintaining the frontends of MakerDAO's subDAOs, including [SparkDAO](https://spark.fi/) and [SakuraDAO](https://sakuradao.com/). 
+Express support or opposition to approving the DAO Resolution at IPFS hash  [`QmYGtMXWn9tzmn1tV3fGfrbkoo22HBDWcozgKscKxaxYz4`](https://apricot-capable-hawk-884.mypinata.cloud/ipfs/QmYGtMXWn9tzmn1tV3fGfrbkoo22HBDWcozgKscKxaxYz4),  pertaining to onboarding the Mars Foundation with the specified instructions and ratifications. The Mars Foundation will have the objective of deploying and maintaining the frontends of MakerDAO's subDAOs, including [SparkDAO](https://spark.fi/) and [SakuraDAO](https://sakuradao.com/). 
 
 For reference, a raw version of the text may be found below:
 
