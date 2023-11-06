@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-WBTC has proven itself to be an asset that can scale, and decentralized collateral requirements have been relaxed slightly. Phoenix Labs is therefore proposing to reactivate (unfreeze) the WBTC market and optimize parameters for current market conditions. 
+Given WBTC's scalability as an asset and the easing of decentralized collateral requirements, Phoenix Labs is proposing to reactivate (unfreeze) the WBTC market and optimize parameters for current market conditions. 
 
 Express your support or opposition to reactivating WBTC on SparkLend Ethereum, with the below parameters.
 
