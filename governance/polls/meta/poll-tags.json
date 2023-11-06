@@ -4125,5 +4125,39 @@
     "collateral-onboard",
     "risk-parameter",
     "spark"
+  ],
+  "1051": [
+    "medium-impact",
+    "greenlight"
+  ],
+  "1052": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1053": [
+    "low-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1054": [
+    "medium-impact",
+    "spark"
+  ],
+  "1055": [
+    "high-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1056": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1057": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
