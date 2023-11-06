@@ -2,7 +2,7 @@
 title: Template - [Executive Proposal] Spark Protocol-Aave Revenue Share Payment, DAO Resolution for HV Bank, Immunefi Security Core Unit MKR Vesting Transfer and Chainlog Housekeeping - November 1, 2023
 summary: Execute first Spark Protocol-Aave revenue share payment; approve HV Bank (RWA009-A) DAO Resolution to onboard RWA Foundation with exchange agent; execute Immunefi Security Core Unit MKR vesting transfer; add GUSD and USDP Jar and SwapInputConduit contracts to Chainlog.
 date: 2023-11-01T00:00:00.000Z
-address: "$spell_address"
+address: "0x77583dc3D6192D55eF642060e82Af1D7A34BC142"
 
 
 ---
