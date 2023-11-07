@@ -81,22 +81,6 @@
       "cuMember": false
     },
     {
-      "voteDelegateAddress": "0x3237bc92a54A9666d7cD8f22514225e04a11B98C",
-      "profile": {
-        "name": "Libertas",
-        "description": "# Resiliency AVC\nName: Resiliency AVC\n\n**What is the Resiliency AVC? The Resiliency AVC is…**\n\nThe Resiliency AVC is\n\n1. Resilient- MakerDAO ought to endure the test of time.\n\n2. Privacy focused- MakerDAO ought to support both contributors' and DAI users' privacy.\n\n3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.\n\n# Libertas\nDelegate Address: 0x57fdf5942795827992d4cca4e85eb4f8aa0d24b5  \nForum: @Libertas  ",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353"
-      },
-      "image": "",
-      "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
-        "executiveParticipation": "100%",
-        "communication": "100%"
-      },
-      "cuMember": false
-    },
-    {
       "voteDelegateAddress": "0x36124ceE63Ae786eea41Bda0FB61B1b946E4C08c",
       "profile": {
         "name": "JAG",
@@ -427,22 +411,6 @@
       "metrics": {
         "combinedParticipation": "97.73%",
         "pollParticipation": "97.20%",
-        "executiveParticipation": "100%",
-        "communication": "100%"
-      },
-      "cuMember": false
-    },
-    {
-      "voteDelegateAddress": "0xC7dA3b9cC5ef0435681876B035556477afF71318",
-      "profile": {
-        "name": "Libertas",
-        "description": "# Regenerative Finance AVC\nName: Regenerative Finance AVC\n\nThe Regenerative Finance AVC protects the Public Good purpose of MakerDAO as ratified in the Maker Constitution. Our priority is to advance the role of DAI as an “Unbiased World Currency” that supports “The Regeneration” as may be interpreted through the 8 Principles of a Regenerative Economy published by the Capital Institute (available for reference at [capitalinstitute.org](https://capitalinstitute.org/8-principles-regenerative-economy/)).\n\n# Libertas\nDelegate Address: 0x7EF5b737B85C119Ca572Ad3c07833cEb2d44628B  \nForum: @Libertas  \n",
-        "externalProfileURL": "https://forum.makerdao.com/t/cvc-creation-regenerative-finance-cvc/20354"
-      },
-      "image": "QmXr367fpGNfkuUSbuthNXv1V43U5iBJWtkfVU8uW7JuhQ",
-      "metrics": {
-        "combinedParticipation": "100%",
-        "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
       },
