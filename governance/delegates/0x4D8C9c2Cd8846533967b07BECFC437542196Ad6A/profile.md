@@ -46,5 +46,5 @@ Of course, a binary description of this type does not capture the immense variet
 **=>** The KISS AVC sits on the **Hawkish** side of the spectrum.
 
 # Penguin Soldier
-Delegate Address: 0x0b2851332e4c7083d2148acfb56e567a236dbbc2
+Delegate Address: 0x07621bd61baeffc3cbcbec511cb1cbaf3c5dfafa
 Forum: @Penguin.Soldier

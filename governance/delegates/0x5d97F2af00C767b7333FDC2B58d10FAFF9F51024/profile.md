@@ -1,5 +1,5 @@
 ---
-name: $delegate_name
+name: Penguin Soldier
 external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
 avc_name: Resiliency AVC
 ---
@@ -17,10 +17,8 @@ The Resiliency AVC is
 3. Hawkish- For MakerDAO to improve DAI's resilience, the Surplus Buffer should be expanded and borrowers thoroughly screened.
 
 
-# $delegate_name
-Delegate Address: $delegate_controller_address
-Forum: $delegate_forum
+# Penguin Soldier
+Delegate Address: 0xfe497ba48deb7ce433ccf328e0961c0f315bb3d5
+Forum: @Penguin.Soldier
 
 ## Delegate Statement
-
-$delegate_statement_optional
