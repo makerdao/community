@@ -48,7 +48,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This work would have not been possible without the huge amount of work done by AD @vigilant, to whom the KISS AVC is very greateful. Many thanks also to all other ADs following KISS, in particular @Bonapublica and @Palc, who have contributed to this MIP102c2 subproposal.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](TBD)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/dff46b706bd4a3f12cf9acbe3837a53d7f095658/MIP102/MIP102c2-Subproposals/MIP102c2-SP17.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP17)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp17-mip-amendment-subproposals-article-1-edits/22154)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/966)

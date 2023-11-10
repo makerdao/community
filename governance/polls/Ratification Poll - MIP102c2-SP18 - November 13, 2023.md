@@ -44,7 +44,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal will amend MIP104 to provide clarifying edits to [recently updated](https://forum.makerdao.com/t/mip102c2-sp4-mip-amendment-subproposals/20035) MIP104 5.1.2 and MIP104 5.1.4, and also to provide a process for onboarding and offboarding of Cash Stablecoins other than through direct MIP102c2 edits or the discretion of the Stability Scope Facilitator(s).*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](TBD)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/dff46b706bd4a3f12cf9acbe3837a53d7f095658/MIP102/MIP102c2-Subproposals/MIP102c2-SP18.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP18)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c-sp18-mip-amendment-subproposals/22027)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/975)
