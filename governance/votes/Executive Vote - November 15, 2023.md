@@ -223,8 +223,8 @@ If this executive proposal passes, the following distributions will be made for 
 
 Additionally, if this executive spell passes, the following AD Buffer Payments will be made to two derecognized delegates:
 
-- **20.835 MKR** to NAVIGATOR at 0x11406a9CC2e37425F15f920F494A51133ac93072.
-- **6.945 MKR** to PALC at 0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A.
+- 20.835 MKR to NAVIGATOR at [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072).
+- 6.945 MKR to PALC at [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A).
 
 
 
