@@ -58,7 +58,7 @@ If this executive proposal passes, a proxy-spell will be executed for SparkLend 
 	- [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode): **No**
 	- Debt ceiling: n/a
 		- ~$78,000,000 effective risk exposure (~10% of TVL, ~155% of Maker surplus)
-- Increase the Spark Lend Etherum rETH and wstETH [supply caps](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps):
+- Increase the Spark Lend Ethereum rETH and wstETH [supply caps](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps):
 	- Increase the rETH supply cap from 60,000 rETH to **80,000 rETH**.
 	- Increase the wstETH supply cap from 400,000 wstETH to **800,000 wstETH**.
 - Adjust the Spark Lend Ethereum **and** Gnosis Chain ETH [interest rate model](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#interest-rate-model) parameters:
@@ -202,6 +202,29 @@ If this executive proposal passes, the following whistleblower bounty will be pa
 - Transfer 27.78 MKR from the Pause Proxy to [0xCDDd2A697d472d1e8a0B1B188646c756d097b058](https://etherscan.io/address/0xCDDd2A697d472d1e8a0B1B188646c756d097b058).
 
 ### Delegate Compensation for October
+
+*Authorization*: [Atlas 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)\
+*Proposal*: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732)
+
+If this executive proposal passes, the following distributions will be made for October Aligned Delegate Compensation:
+
+| Delegate    | Address                                                                                              | Amount (MKR) |
+|-------------|------------------------------------------------------------------------------------------------------|--------|
+| 0xDefensor  | [0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9](https://etherscan.io/address/0x9542b441d65B6BF4dDdd3d4D2a66D8dCB9EE07a9) | 41.67  |
+| TRUE NAME   | [0x612f7924c367575a0edf21333d96b15f1b345a5d](https://etherscan.io/address/0x612f7924c367575a0edf21333d96b15f1b345a5d) | 41.67  |
+| BONAPUBLICA | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) | 41.67  |
+| Cloaky   | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 41.67  |
+| BLUE        | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) | 39.07  |
+| vigilant    | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) | 13.89   |
+| UPMaker     | [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd) | 13.89  |
+| PBG         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) | 13.89   |
+| JAG        | [0x58D1ec57E4294E4fe650D1CB12b96AE34349556f](https://etherscan.io/address/0x58D1ec57E4294E4fe650D1CB12b96AE34349556f) | 12.28  |
+| WBC      | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) | 11.43  |
+
+Additionally, if this executive spell passes, the following AD Buffer Payments will be made to two derecognized delegates:
+
+- **20.835 MKR** to NAVIGATOR at 0x11406a9CC2e37425F15f920F494A51133ac93072.
+- **6.945 MKR** to PALC at 0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A.
 
 
 
