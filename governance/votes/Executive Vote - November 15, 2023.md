@@ -88,7 +88,7 @@ If this executive proposal passes, the following transfers will be made to the L
 ### DAO Resolutions Pertaining to HVBank (RWA009-A)
 
 *Authorization*: [Governance Poll](https://vote.makerdao.com/polling/QmNgKzcG)\
-*Proposal*: {Forum Post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/19)
+*Proposal*: [Forum Post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/19)
 
 If this executive proposal passes, two DAO Resolutions pertaining to the HVBank facility will be approved. These are broken down as follows:
 
