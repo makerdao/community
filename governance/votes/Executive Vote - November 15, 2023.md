@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 - A proxy spell for Spark Lend will be executed to update previously polled parameters.
-- The Spark Lend Dai Direct Deposit Module (D3M) will have its Maximum Debt Ceilling (`line`) increased.
+- The Spark Lend Dai Direct Deposit Module (D3M) will have its Maximum Debt Ceiling (`line`) increased.
 - The Launch Project will receive a transfer of Dai and MKR.
 - Two DAO Resolutions pertaining to the HVBank vault will be approved.
 - A whistleblower bounty of **27.78 MKR** will be paid relating to the derecognition of two Aligned Delegates.
@@ -206,7 +206,7 @@ If this executive proposal passes, the following whistleblower bounty will be pa
 *Authorization*: [Atlas 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)\
 *Proposal*: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732)
 
-If this executive proposal passes, the following distributions will be made for October Aligned Delegate Compensation, totalling **279.49 MKR**:
+If this executive proposal passes, the following distributions will be made for October Aligned Delegate Compensation, totaling **279.49 MKR**:
 
 | Delegate    | Address                                                                                                               | Amount (MKR) |
 |-------------|-----------------------------------------------------------------------------------------------------------------------|--------------|
