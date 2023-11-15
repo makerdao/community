@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - The Launch Project will receive a transfer of Dai and MKR.
 - Two DAO Resolutions pertaining to the HVBank vault will be approved.
 - A whistleblower bounty of **27.78 MKR** will be paid relating to the derecognition of two Aligned Delegates.
-- Aligned Delegate compensation for October 2023 will be paid out, totaling **279.54 MKR**.
+- Aligned Delegate compensation for October 2023 will be paid out, totaling **279.49 MKR**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -206,7 +206,7 @@ If this executive proposal passes, the following whistleblower bounty will be pa
 *Authorization*: [Atlas 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)\
 *Proposal*: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732)
 
-If this executive proposal passes, the following distributions will be made for October Aligned Delegate Compensation, totalling **279.54 MKR**:
+If this executive proposal passes, the following distributions will be made for October Aligned Delegate Compensation, totalling **279.49 MKR**:
 
 | Delegate    | Address                                                                                                               | Amount (MKR) |
 |-------------|-----------------------------------------------------------------------------------------------------------------------|--------------|
@@ -215,7 +215,7 @@ If this executive proposal passes, the following distributions will be made for 
 | BONAPUBLICA | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) | 41.67        |
 | Cloaky      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) | 41.67        |
 | Navigator   | [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072) | 40.33        |
-| vigilant    | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) | 13.89        |
+| vigilant    | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) | 13.84        |
 | UPMaker     | [0xbb819df169670dc71a16f58f55956fe642cc6bcd](https://etherscan.io/address/0xbb819df169670dc71a16f58f55956fe642cc6bcd) | 13.89        |
 | PBG         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) | 13.89        |
 | PALC        | [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A) | 13.44        |
