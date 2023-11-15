@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
-summary: Execute Spark proxy spell, increase the Maximum Debt Ceiling for the Spark Lend D3M, Dai and MKR funding for the Launch Project, DAO resolutions for the HVBank deal, payment of whistleblower bounty, Aligned Delegate compensation for October.
+title: Template - [Executive Vote] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, Approve Updates to the HVBank Facility, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
+summary: Execute Spark proxy spell, increase the Maximum Debt Ceiling for the Spark Lend D3M, Dai and MKR funding for the Launch Project, DAO resolution and updated standing instructions to the escrow agent for the HVBank deal, payment of whistleblower bounty, Aligned Delegate compensation for October.
 date: 2023-11-15T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
+# [Executive Proposal] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, Approve Updates to the HVBank Facility, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
 
 The Governance Facilitators, Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -19,7 +19,7 @@ If this executive proposal passes, the following actions will occur within the M
 - A proxy spell for Spark Lend will be executed to update previously polled parameters.
 - The Spark Lend Dai Direct Deposit Module (D3M) will have its Maximum Debt Ceiling (`line`) increased.
 - The Launch Project will receive a transfer of Dai and MKR.
-- Two DAO Resolutions pertaining to the HVBank vault will be approved.
+- A DAO Resolution and updated standing instructions to the escrow agent pertaining to the HVBank vault will be approved.
 - A whistleblower bounty of **27.78 MKR** will be paid relating to the derecognition of two Aligned Delegates.
 - Aligned Delegate compensation for October 2023 will be paid out, totaling **279.49 MKR**.
 
@@ -85,12 +85,12 @@ If this executive proposal passes, the following transfers will be made to the L
 - Transfer **2,200,000 DAI** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - Transfer **500.00 MKR** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
-### DAO Resolutions Pertaining to HVBank (RWA009-A)
+### DAO Resolution Pertaining to HVBank (RWA009-A) and Updated Standing Instructions to Escrow Agent
 
 *Authorization*: [Governance Poll](https://vote.makerdao.com/polling/QmNgKzcG)\
 *Proposal*: [Forum Post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/19)
 
-If this executive proposal passes, two DAO Resolutions pertaining to the HVBank facility will be approved. These are broken down as follows:
+If this executive proposal passes, a DAO Resolution and updated standing instructions to the escrow agent pertaining to the HVBank facility will be approved. These are broken down as follows:
 
 #### Updated Standing Instructions to Escrow Agent
 
@@ -156,7 +156,7 @@ Beneficiary Account: 8901637157
 We confirm that these instructions are merely to facilitate our own internal requirements and that we remain fully liable to you under the terms and conditions of the Escrow Agreement between us. You have no liability for losses resulting from errors in these instructions. The undersigned agrees that all action taken by the Escrow Agent in connection with this direction letter are covered by the fee and indemnification provisions set forth in the Trust Agreement.
 ```
 
-#### Approve New Galaxy Payment Instructions
+#### DAO Resolution to Approve New Galaxy Payment Instructions
 
 *IPFS Link*: https://gateway.pinata.cloud/ipfs/QmSbwqULr66CiCvNips93vwTrvoTe4i2rJVmho7QfmyqZG
 
