@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, Delegate Compensation - November 15, 2023
+title: Template - [Executive Vote] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
 summary: Execute Spark proxy spell, increase the Maximum Debt Ceiling for the Spark Lend D3M, Dai and MKR funding for the Launch Project, DAO resolutions for the HVBank deal, payment of whistleblower bounty, Aligned Delegate compensation for October.
 date: 2023-11-15T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, Delegate Compensation - November 15, 2023
+# [Executive Proposal] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, DAO Resolutions, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
 
 The Governance Facilitators, Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
