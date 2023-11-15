@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 *Authorization*: Governance Polls [1](https://vote.makerdao.com/polling/QmaBLbxP), [2](https://vote.makerdao.com/polling/QmZwRgr5), [3](https://vote.makerdao.com/polling/QmQPrHsm), [4](https://vote.makerdao.com/polling/QmRG9qUp), [5](https://vote.makerdao.com/polling/QmQjKpbU)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/proposal-to-adjust-sparklend-parameters/22542)
 
-If this executive proposal passes, a proxy-spell will be executed for SparkLend containing the following major items:
+If this executive proposal passes, a proxy-spell [0xDa69603384Ef825E52FD5B8bEF656ff62Fe19703](https://etherscan.io/address/0xDa69603384Ef825E52FD5B8bEF656ff62Fe19703) will be executed for SparkLend containing the following major items:
 
 - Increase the Spark Lend Gnosis Chain wstETH [supply cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) from 5,000 wstETH to **10,000 wstETH**.
 - Reduce the Spark Lend Ethereum Dai market [Loan-to-Value (LTV)](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value) from 1bps to **0**.
