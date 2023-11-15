@@ -20,8 +20,8 @@ If this executive proposal passes, the following actions will occur within the M
 - The Spark Lend Dai Direct Deposit Module (D3M) will have its Maximum Debt Ceilling (`line`) increased.
 - The Launch Project will receive a transfer of Dai and MKR.
 - Two DAO Resolutions pertaining to the HVBank vault will be approved.
-- A whistleblower bounty will be paid relating to the derecognition of two Aligned Delegates.
-- Aligned Delegate compensation for October 2023 will be paid out.
+- A whistleblower bounty of **27.78 MKR** will be paid relating to the derecognition of two Aligned Delegates.
+- Aligned Delegate compensation for October 2023 will be paid out, totaling **279.54 MKR**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -199,7 +199,7 @@ with third parties solely to facilitate the implementation of the New Instructio
 
 If this executive proposal passes, the following whistleblower bounty will be paid to forum user Venice Tree as per [The Atlas](https://mips.makerdao.com/mips/details/MIP101#2-6-6-aligned-delegate-operational-security):
 
-- Transfer 27.78 MKR from the Pause Proxy to [0xCDDd2A697d472d1e8a0B1B188646c756d097b058](https://etherscan.io/address/0xCDDd2A697d472d1e8a0B1B188646c756d097b058).
+- Transfer **27.78 MKR** from the Pause Proxy to [0xCDDd2A697d472d1e8a0B1B188646c756d097b058](https://etherscan.io/address/0xCDDd2A697d472d1e8a0B1B188646c756d097b058).
 
 ### Delegate Compensation for October
 
