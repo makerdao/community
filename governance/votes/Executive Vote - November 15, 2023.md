@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, Approve Updates to the HVBank Facility, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
 summary: Execute Spark proxy spell, increase the Maximum Debt Ceiling for the Spark Lend D3M, Dai and MKR funding for the Launch Project, DAO resolution and updated standing instructions to the escrow agent for the HVBank deal, payment of whistleblower bounty, Aligned Delegate compensation for October.
 date: 2023-11-15T00:00:00.000Z
-address: "$spell_address"
+address: "0x77cF3f27bF48ecD21CFe7293a31272f0aD44bfc6"
 
 ---
 # [Executive Proposal] Spark Proxy Spell, Increase Spark Lend Maximum Debt Ceiling, Launch Project Funding, Approve Updates to the HVBank Facility, Whistleblower Bounty, October 2023 Delegate Compensation - November 15, 2023
