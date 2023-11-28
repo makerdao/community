@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] PSM-GUSD-A Removal from Cash Stablecoins, Coinbase Custody Debt Ceiling Increase, Various Parameter Changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Vest Streams Updates and Spark Proxy-Spell - November 29, 2023
+title: Template - [Executive Vote] PSM-GUSD-A Debt Ceiling Reduction, Coinbase Custody Debt Ceiling Increase, Various Parameter Changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Vesting Stream Updates and Spark Proxy-Spell - November 29, 2023
 summary: Setting PSM-GUSD-A Debt Ceiling to zero and removing from Autoline, Coinbase Custody (RWA014-A) Debt Ceiling increase, WBTC-A, WBTC-B, and WBTC-C Stability Fee changes, SBE parameter changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Cease Vest Streams for Steakhouse, Set up Ecosystem Facilitator Vest Streams and TechOps and Spark proxy-spell
 date: 2023-11-29T00:00:00.000Z
 address: "$spell_address"
