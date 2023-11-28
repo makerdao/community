@@ -105,7 +105,7 @@ If this executive proposal passes, the following transfer will be performed to c
 
 *Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
 
-If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be halted by calling the Yank function:
+If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be halted by calling the yank function:
 
 - Steakhouse *DAI* stream *ID 19*
 - TechOps *DAI* stream *ID 18*
