@@ -55,7 +55,7 @@ If this executive proposal passes, in line with the recent removal of PSM-GUSD-A
 
 If this executive proposal passes, in line with the recent amendments in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following parameters for Coinbase Custody (RWA014-A) will be changed:
 
-- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 1 billion DAI from 500 million to *1.5 billion DAI*.
+- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 1 billion DAI from 500 million DAI to *1.5 billion DAI*.
 
 
 ### Decrease WBTC-A, WBTC-B, and WBTC-C Stability Fee
