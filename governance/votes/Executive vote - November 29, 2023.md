@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 	
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 - Following the removal of PSM-GUSD-A from the Cash Stablecoin list, the [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to zero and the vault will be removed from the [Debt Ceiling Instant Access (autoline)](https://manual.makerdao.com/module-index/module-dciam).
-- Coinbase Custody (RWA014-A) [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased to 1.5 billion.
+- Coinbase Custody (RWA014-A) [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased to 1.5 billion DAI.
 - WBTC-A, WBTC-B, and WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%.
 - The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) and [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) SBE parameters will be changed to optimize for cost efficiency.
 - A RWA Foundation Dao Resolution will be approved.
