@@ -5,7 +5,7 @@ date: 2023-11-29T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] PSM-GUSD-A Removal from Cash Stablecoins, Coinbase Custody Debt Ceiling Increase, Various Parameter Changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Vest Streams Updates and Spark Proxy-Spell - November 29, 2023
+# [Executive Proposal] PSM-GUSD-A Debt Ceiling Reduction, Coinbase Custody Debt Ceiling Increase, Various Parameter Changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Vesting Stream Updates and Spark Proxy-Spell - November 29, 2023
 
 The Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -131,6 +131,7 @@ If this executive proposal passes, in line with the recent amendments in the [Go
 *Proposal*: [Forum post](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845) "Accounting Discrepancy in the DAI Market"
 
 If this executive proposal passes, a Spark Protocol proxy-spell with the address [0x68a075249fA77173b8d1B92750c9920423997e2B](https://etherscan.io/address/0x68a075249fA77173b8d1B92750c9920423997e2B) will be executed to address a identified discrepancy in the DAI Market.
+
 This issue has no impact on users and its severity is classified as low.
 
 ## Review
