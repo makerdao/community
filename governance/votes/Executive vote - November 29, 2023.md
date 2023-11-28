@@ -5,7 +5,7 @@ date: 2023-11-29T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] PSM-GUSD-A removal from Cash Stablecoins, Coinbase Custody Debt Ceiling increase, various parameter changes, RWA Foundation Dao Resolution, Andromeda legal expenses, and Spark proxy-spell - November 29, 2023
+# [Executive Proposal] PSM-GUSD-A Removal from Cash Stablecoins, Coinbase Custody Debt Ceiling Increase, Various Parameter Changes, RWA Foundation Dao Resolution, Andromeda Legal Expenses, Vest Streams Updates and Spark Proxy-Spell - November 29, 2023
 
 The Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
