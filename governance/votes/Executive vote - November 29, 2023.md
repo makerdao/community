@@ -21,8 +21,8 @@ If this executive proposal passes, the following actions will occur within the M
 - WBTC-A, WBTC-B, and WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%.
 - The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) and [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) SBE parameters will be changed to optimize for cost efficiency.
 - A RWA Foundation Dao Resolution will be approved.
-- A transfer will be made to cover Andromeda Legal expenses.
-- MKR and DAI Vest Streams for Steakhouse and TechOps will be Ceased.
+- A 201,738 DAI transfer will be made to cover Andromeda legal expenses.
+- MKR and DAI Vest Streams for Steakhouse and TechOps will be canceled.
 - Ecosystem Facilitator Vest Streams will be set up.
 - A Spark Protocol proxy-spell will be executed to address an identified discrepancy in the DAI Market.
 
@@ -37,14 +37,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Remove PSM-GUSD-A from the Cash Stablecoin list
+### Decrease PSM-GUSD-A Debt Ceiling
 
 *Authorization*: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#reduce-psm-gusd-a-debt-ceiling-8) "Stability Scope Parameter Changes"
 
-If this executive proposal passes, in line with the recent amendments in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), PSM-GUSD-A will be removed from the Cash Stablecoin list by performing the following actions:
+If this executive proposal passes, in line with the recent removal of PSM-GUSD-A from the Cash Stablecoin list in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following actions will be performed:
 
-- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to *zero*.
+- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to *0*.
 - The vault will be removed from the [Debt Ceiling Instant Access (autoline)](https://manual.makerdao.com/module-index/module-dciam).
 
 
@@ -77,8 +77,8 @@ If this executive proposal passes, following the recommendation of the Stability
 
 If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following SBE parameters will be changed:
 
-- The [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 10,000, from 20,000 to *30,000*.
-- The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 9,460, from 6,308 to *15,768*.
+- The [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 10,000, from 20,000 to *30,000* DAI.
+- The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 9,460, from 6,308 to *15,768* seconds.
 
 
 ### Approve RWA Foundation Dao Resolution
