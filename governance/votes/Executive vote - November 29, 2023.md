@@ -24,7 +24,7 @@ If this executive proposal passes, the following actions will occur within the M
 - A transfer will be made to cover Andromeda Legal expenses.
 - MKR and DAI Vest Streams for Steakhouse and TechOps will be Ceased.
 - Ecosystem Facilitator Vest Streams will be set up.
-- A Spark Protocol proxy-spell will be excecuted to address a identified discrepancy in the DAI Market.
+- A Spark Protocol proxy-spell will be executed to address an identified discrepancy in the DAI Market.
 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -103,7 +103,7 @@ If this executive proposal passes, the following transfer will be performed to c
 
 ### Cease MKR and DAI Vest Streams for Steakhouse and TechOps
 
-*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)\
+*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
 
 If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be halted by calling the Yank function:
 
@@ -115,7 +115,7 @@ If this executive proposal passes, in line with the recent amendments in the [Go
 
 ### Set up MKR and DAI Vest Streams for Ecosystem Facilitator
 
-*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)\
+*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
 
 If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be set up for Ecosystem facilitator:
 
@@ -130,8 +130,8 @@ If this executive proposal passes, in line with the recent amendments in the [Go
 *Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845/2)\
 *Proposal*: [Forum post](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845) "Accounting Discrepancy in the DAI Market"
 
-If this executive proposal passes, a Spark Protocol proxy-spell with address [0x68a075249fA77173b8d1B92750c9920423997e2B](https://etherscan.io/address/0x68a075249fA77173b8d1B92750c9920423997e2B) will be excecuted to address a identified discrepancy in the DAI Market.
-There is no impact of this issue on users and its severity is classified as low.
+If this executive proposal passes, a Spark Protocol proxy-spell with the address [0x68a075249fA77173b8d1B92750c9920423997e2B](https://etherscan.io/address/0x68a075249fA77173b8d1B92750c9920423997e2B) will be executed to address a identified discrepancy in the DAI Market.
+This issue has no impact on users and its severity is classified as low.
 
 ## Review
 
