@@ -39,52 +39,52 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Decrease PSM-GUSD-A Debt Ceiling
 
-*Authorization*: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#reduce-psm-gusd-a-debt-ceiling-8) "Stability Scope Parameter Changes"
+**Authorization**: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#reduce-psm-gusd-a-debt-ceiling-8) "Stability Scope Parameter Changes"
 
 If this executive proposal passes, in line with the recent removal of PSM-GUSD-A from the Cash Stablecoin list in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following actions will be performed:
 
-- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to *0*.
+- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **0**.
 - The vault will be removed from the [Debt Ceiling Instant Access Module (AutoLine)](https://manual.makerdao.com/module-index/module-dciam).
 
 
 ### Increase Coinbase Custody (RWA014-A) Debt Ceiling
 
-*Authorization*: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#increase-rwa014-a-coinbase-custody-debt-ceiling-9) "Stability Scope Parameter Changes"
+**Authorization**: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#increase-rwa014-a-coinbase-custody-debt-ceiling-9) "Stability Scope Parameter Changes"
 
 If this executive proposal passes, in line with the recent amendments in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following parameters for Coinbase Custody (RWA014-A) will be changed:
 
-- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 1 billion DAI from 500 million DAI to *1.5 billion DAI*.
+- The [Debt Ceiling (line)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased by 1 billion DAI from 500 million DAI to **1.5 billion DAI**.
 
 
 ### Decrease WBTC-A, WBTC-B, and WBTC-C Stability Fee
 
-*Authorization*: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#stability-feehttpsmanualmakerdaocomparameter-indexvault-riskparam-stability-fee-changes-7) "Stability Scope Parameter Changes"
+**Authorization**: [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-7/22882#stability-feehttpsmanualmakerdaocomparameter-indexvault-riskparam-stability-fee-changes-7) "Stability Scope Parameter Changes"
 
 If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following parameters will be changed:
 
-- The WBTC-A [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 5.86% to *5.79%*.
-- The WBTC-B [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 6.36% to *6.29%*.
-- The WBTC-C [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 5.61% to *5.54%*.
+- The WBTC-A [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 5.86% to **5.79%**.
+- The WBTC-B [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 6.36% to **6.29%**.
+- The WBTC-C [Stability Fee (SF)](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased by 0.07%, from 5.61% to **5.54%**.
 
 
 ### Smart Burn Engine Parameter Optimization
 
-*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-3/22876/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-3/22876) "Smart Burn Engine - Transaction Analysis & Parameter Reconfiguration Update #3"
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-3/22876/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-3/22876) "Smart Burn Engine - Transaction Analysis & Parameter Reconfiguration Update #3"
 
 If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following SBE parameters will be changed:
 
-- The [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 10,000, from 20,000 to *30,000* DAI.
-- The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 9,460, from 6,308 to *15,768* seconds.
+- The [bump (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 10,000, from 20,000 to **30,000** DAI.
+- The [hop (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 9,460, from 6,308 to **15,768** seconds.
 
 
 ### Approve RWA Foundation Dao Resolution
 
-*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/dao-resolution-rwa-foundation-service-provider-changes/22866/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/dao-resolution-rwa-foundation-service-provider-changes/22866) "DAO Resolution - RWA Foundation Service Provider Changes"
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/dao-resolution-rwa-foundation-service-provider-changes/22866/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/dao-resolution-rwa-foundation-service-provider-changes/22866) "DAO Resolution - RWA Foundation Service Provider Changes"
 
 If this executive proposal passes, the following RWA Foundation Dao Resolution to change the service provider will be approved:
 
@@ -93,29 +93,29 @@ If this executive proposal passes, the following RWA Foundation Dao Resolution t
 
 ### DAI transfer to cover Andromeda Legal expenses
 
-*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/project-andromeda-legal-expenses-ii/22577/4)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/project-andromeda-legal-expenses-ii/22577) "Project Andromeda - Legal Expenses II"
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/project-andromeda-legal-expenses-ii/22577/4)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/project-andromeda-legal-expenses-ii/22577) "Project Andromeda - Legal Expenses II"
 
 If this executive proposal passes, the following transfer will be performed to cover Andromeda (RWA015-A) Legal expenses:
 
-- *201,738 DAI* will be transfered to [0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767](https://etherscan.io/address/0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767).
+- **201,738 DAI** will be transfered to [0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767](https://etherscan.io/address/0xc4dB894A11B1eACE4CDb794d0753A3cB7A633767).
 
 
 ### Cease MKR and DAI Vest Streams for Steakhouse and TechOps
 
-*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
+**Authorization**: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
 
 If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be halted by calling the yank function:
 
-- Steakhouse *DAI* stream *ID 19*
-- TechOps *DAI* stream *ID 18*
-- Steakhouse *MKR* stream *ID 32*
-- TechOps *MKR* stream *ID 33*
+- Steakhouse **DAI** stream **ID 19**
+- TechOps **DAI** stream **ID 18**
+- Steakhouse **MKR** stream **ID 32**
+- TechOps **MKR** stream **ID 33**
 
 
 ### Set up MKR and DAI Vest Streams for Ecosystem Facilitator
 
-*Authorization*: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
+**Authorization**: [MIP 113](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a)
 
 If this executive proposal passes, in line with the recent amendments in the [Governance Scope](https://mips.makerdao.com/mips/details/MIP113#7-1-1-1-1a), the following DSS Vest Streams will be set up for Ecosystem facilitator:
 
@@ -127,8 +127,8 @@ If this executive proposal passes, in line with the recent amendments in the [Go
 
 ### Spark Protocol Proxy-Spell
 
-*Authorization*: [Ecosystem Approval](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845/2)\
-*Proposal*: [Forum post](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845) "Accounting Discrepancy in the DAI Market"
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845/2)\
+**Proposal**: [Forum post](https://forum.makerdao.com/t/accounting-discrepancy-in-the-dai-market/22845) "Accounting Discrepancy in the DAI Market"
 
 If this executive proposal passes, a Spark Protocol proxy-spell with the address [0x68a075249fA77173b8d1B92750c9920423997e2B](https://etherscan.io/address/0x68a075249fA77173b8d1B92750c9920423997e2B) will be executed to address a identified discrepancy in the DAI Market.
 
