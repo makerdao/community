@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank Docs - January 12, 2024
 
-The $exec_publishers and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -15,15 +15,16 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+- Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion Dai**.
+- Execute the SparkLend Proxy Spell at $address for updates and technical changes detailed [here](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298).
+- November and December Aligned Delegate Compensation will be distributed to 10 delegates.
+- BA Labs and SES will recieve **175.00** and **508.55 MKR** respectively.
+- The Launch Project will recieve **4.5 million DAI** and **820.00 MKR**.
+- The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
+- Two Derecognized ALigned Delegates will recieve their remining surplus buffer, with Navigator recieving **20.84 MKR** and PALC **6.95 MKR**.
+- The HVBank (RWA009-A) RWA Agreement (`doc`) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
