@@ -38,14 +38,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Increase the SparkLend D3M
 
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
 If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion Dai**.
 
 ###  Execute the SparkLend Proxy Spell
 
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
 If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at $address will be executed. It contains the following action items, as explained in this [forum post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298):
@@ -58,7 +58,7 @@ If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at $addr
 
 ### Aligned Delegate Compensation
 
-**Authorization**: [Atlas Section 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)
+**Authorization**: [Atlas Section 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)  
 **Proposal**: [Forum Post - November](https://forum.makerdao.com/t/november-2023-aligned-delegate-compensation/23351), [Forum Post - December](https://forum.makerdao.com/t/december-2023-aligned-delegate-compensation/23352)
 
 If this executive proposal passes, the following transfers for Aligned Delegate Compensation will be made to qualifying Aligned Delegates.
@@ -116,14 +116,14 @@ If this executive proposal passes, the following transfers will be made to the L
 
 ### End Token Streams
 
-**Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)
+**Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)  
 **Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
 
 If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
 
 ### Aligned Delegate Buffer Payments
 
-**Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)
+**Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
 
 If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffer following two Aligned Delegate Derecognitions:
