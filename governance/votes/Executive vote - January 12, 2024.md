@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank Docs - January 12, 2024
-summary: Increase the SparkLend D3M Debt Ceiling, execute SpaarkLend Proxy Spell, November and December Aligned Delegate compensation, MKR payouts for SES and BA Labs, Launch Project funding, yank DAI streams for DECO and SES, Offboarded AD Buffer MKR distribution to Navigator and PALC, and Update the HVBank (RWA009-A) doc parameter. 
+summary: Increase the SparkLend D3M Debt Ceiling, execute SpaarkLend Prozy Spell, November and December Aligned Delegate compensation, MKR payouts for SES and BA Labs, Launch Project funding, yank DAI streams for DECO and SES, Offboarded AD Buffer MKR distribution to Navigator and PALC, and Update the HVBank (RWA009-A) doc parameter. 
 date: 2023-01-12T00:00:00.000Z
 address: "$spell_address"
 
@@ -23,7 +23,7 @@ If this executive proposal passes, the following actions will occur within the M
 - BA Labs and SES will recieve **175.00** and **508.55 MKR** respectively.
 - The Launch Project will recieve **4.5 million DAI** and **820.00 MKR**.
 - The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
-- Two Derecognized ALigned Delegates will recieve their remining surplus buffer, with Navigator recieving **20.84 MKR** and PALC **6.95 MKR**.
+- Two Derecognized ALigned Delegates will receive their remaining surplus buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
 - The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -126,7 +126,7 @@ If this executive proposal passes, the DAI [Token Streams](https://manual.makerd
 **Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
 
-If this executive proposal passes, the following transfers will be made to pay out the remainder the AD buffer following two Aligned Delegate Derecognitions:
+If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffer following two Aligned Delegate Derecognitions:
 
 - Navigator - 20.84 MKR - [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072)
 - PALC - 6.95 MKR - [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A)
