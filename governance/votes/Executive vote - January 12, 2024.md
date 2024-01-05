@@ -24,7 +24,7 @@ If this executive proposal passes, the following actions will occur within the M
 - The Launch Project will recieve **4.5 million DAI** and **820.00 MKR**.
 - The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
 - Two Derecognized ALigned Delegates will recieve their remining surplus buffer, with Navigator recieving **20.84 MKR** and PALC **6.95 MKR**.
-- The HVBank (RWA009-A) RWA Agreement (`doc`) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
+- The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
