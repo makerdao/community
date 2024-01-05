@@ -56,10 +56,30 @@ If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at $addr
 - Freeze GNO and set LTV to 0.
 - Activate Lido Rewards Program.
 
+### Aligned Delegate Compensation
+
+**Authorization**: [Atlas Section 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)
+**Proposal**: [Forum Post - November](https://forum.makerdao.com/t/november-2023-aligned-delegate-compensation/23351), [Forum Post - December](https://forum.makerdao.com/t/december-2023-aligned-delegate-compensation/23352)
+
+If this executive proposal passes, the following transfers for Aligned Delegate Compensation will be made to qualifying Aligned Delegates.
+
+#### November Compensation
+
+
+
+#### December Compensation
+
+
 
 ### Legacy Agreement MKR Distributions
 
 **Authorization**: [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17), [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25)
+
+If this executive proposal passes, the following transfers will be made per Legacy Core Unit MIP agreements:
+
+- [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17) - 508.55 MKR - [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6).
+- [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25) - 175.00 MKR - [0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c](https://etherscan.io/address/0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c).
+  
 
 ### Launch Project Funding
 
@@ -74,6 +94,8 @@ Transfer 580.00 MKR to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://ethe
 
 **Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)
 **Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
+
+If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
 
 ### Aligned Delegate Buffer Payments
 
