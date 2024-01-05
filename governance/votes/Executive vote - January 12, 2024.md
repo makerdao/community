@@ -38,23 +38,40 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Increase the SparkLend D3M
 
-$executive_entry_description_1
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
+**Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
 ###  Execute the SparkLend Proxy Spell
 
-$executive_entry_description_2
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
+**Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
 ### Legacy Agreement MKR Distributions
 
-$executive_entry_description_3
+**Authorization**: [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17), [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25)
 
 ### Launch Project Funding
 
+**Authorization**: [Forum Post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/9)
+
+If this executive proposal passes, the following transfers will be made to the Launch Project as part of the funding defined in the Accessibility Scope:
+
+Transfer 4,500,000 DAI to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+Transfer 580.00 MKR to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+
 ### End Token Streams
+
+**Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)
+**Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
 
 ### Aligned Delegate Buffer Payments
 
+**Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)
+**Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
+
 ### RWA Agreement Upgrade
+
+**Authorization**: [Forum Post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/14)
 
 ## Review
 
