@@ -41,10 +41,21 @@ If this executive proposal does not pass within 30 days, then it will expire and
 **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
+If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion Dai**.
+
 ###  Execute the SparkLend Proxy Spell
 
 **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
+
+If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at $address will be executed. It contains the following action items, as explained in this [forum post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298):
+
+- Activate SparkLend Freezer Mom.
+- Replace DAI oracle with one that is hardcoded to $1.
+- Update the wstETH oracle to assume a 1:1 stETH:ETH peg.
+- Freeze GNO and set LTV to 0.
+- Activate Lido Rewards Program.
+
 
 ### Legacy Agreement MKR Distributions
 
@@ -56,7 +67,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, the following transfers will be made to the Launch Project as part of the funding defined in the Accessibility Scope:
 
-Transfer 4,500,000 DAI to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+Transfer 4,500,000 DAI to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).  
 Transfer 580.00 MKR to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### End Token Streams
