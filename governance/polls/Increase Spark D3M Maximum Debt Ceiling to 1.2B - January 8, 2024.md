@@ -1,6 +1,6 @@
 ---
-title: Increase Spark D3M Maximum Debt Ceiling to 1.2B - January 08, 2024
-summary: Signal your support or opposition to increasing the Spark D3M Maximum Debt Ceiling to 1.2B
+title: SparkLend Ethereum - Increase Spark Protocol D3M Maximum Debt Ceiling to 1.2B DAI - January 08, 2024
+summary: Signal your support or opposition to increasing the Spark D3M Maximum Debt Ceiling to 1.2B DAI
 discussion_link: https://forum.makerdao.com/t/spark-spell-proposed-changes/23298
 parameters:
     input_format: single-choice
@@ -15,9 +15,9 @@ options:
 start_date: 2024-01-08T16:00:00
 end_date: 2024-01-11T16:00:00
 ---
-# Poll: Increase Spark D3M Maximum Debt Ceiling to 1.2B - January 8, 2024
+# Poll: SparkLend Ethereum - Increase Spark Protocol D3M Maximum Debt Ceiling to 1.2B DAI - January 08, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday,January 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, January 8 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,7 +26,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to increasing the Spark [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400M from **800M** to **1.2B**.
+The community can vote in this poll to express support or opposition to making the following parameter change to the Spark Protocol [DAI Direct Deposit Module (D3M)](https://manual.makerdao.com/module-index/module-dai-direct-deposit) on SparkLend Ethereum:
+
+- Increase the DIRECT-SPARK-DAI [Maximum Debt Ceiling](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line)  by 400M DAI from 800M DAI to **1.2B DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) to help inform your position before voting.
 

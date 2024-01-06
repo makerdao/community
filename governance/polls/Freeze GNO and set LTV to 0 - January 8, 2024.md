@@ -1,5 +1,5 @@
 ---
-title: Freeze GNO and set LTV to 0 - January 08, 2024
+title: SparkLend Ethereum - Freeze GNO and set Loan-to-Value to Zero Percent - January 08, 2024
 summary: Signal your support or opposition to freezing GNO and set LTV to 0
 discussion_link: https://forum.makerdao.com/t/spark-spell-proposed-changes/23298
 parameters:
@@ -15,9 +15,9 @@ options:
 start_date: 2024-01-08T16:00:00
 end_date: 2024-01-11T16:00:00
 ---
-# Poll: Freeze GNO and set LTV to 0 - January 8, 2024
+# Poll: SparkLend Ethereum - Freeze GNO and set Loan-to-Value to Zero Percent - January 08, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday,January 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, January 8 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to freezing GNO and set LTV to 0, i.e., disallowing new deposits and setting the LTV to 0 to prevent any new borrows against GNO as collateral without liquidating any existing positions
+The community can vote in this poll to express support or opposition to freezing GNO market and setting its [Loan-to-Value (LTV)](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value) to **zero percent**. Freezing the market disallows new deposits while setting the LTV to 0 prevents new borrows against GNO as collateral without liquidating existing positions.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) to help inform your position before voting.
 

@@ -1,5 +1,5 @@
 ---
-title: Activate Lido Rewards Program - January 08, 2024
+title: SparkLend Ethereum - Activate Lido Rewards Program - January 08, 2024
 summary: Signal your support or opposition to activating the Lido Rewards Program
 discussion_link: https://forum.makerdao.com/t/spark-spell-proposed-changes/23298
 parameters:
@@ -15,9 +15,9 @@ options:
 start_date: 2024-01-08T16:00:00
 end_date: 2024-01-11T16:00:00
 ---
-# Poll: Activate Lido Rewards Program - January 8, 2024
+# Poll: SparkLend Ethereum - Activate Lido Rewards Program - January 8, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday,January 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, January 8 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -27,6 +27,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to activating the Lido Rewards Program. This rewards program will send 20 wstETH (provided by Lido) to ETH market suppliers for 30 days starting when the activating spell executes.
+Phoenix Labs-controlled multisig 0x8076807464DaC94Ac8Aa1f7aF31b58F73bD88A27 will be added as the admin for this program to avoid the programming starting and stopping due to having to wait on the Maker spell. This multisig will store the monthly wstETH balance to be distributed to simplify the administration.
+
 
 Please review the discussion [thread](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) to help inform your position before voting.
 
