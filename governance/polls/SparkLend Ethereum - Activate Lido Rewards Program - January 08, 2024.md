@@ -27,6 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to activating the Lido Rewards Program. This rewards program will send 20 wstETH (provided by Lido) to ETH market suppliers for 30 days starting when the activating spell executes.
+
 Phoenix Labs-controlled multisig 0x8076807464DaC94Ac8Aa1f7aF31b58F73bD88A27 will be added as the admin for this program to avoid the programming starting and stopping due to having to wait on the Maker spell. This multisig will store the monthly wstETH balance to be distributed to simplify the administration.
 
 
