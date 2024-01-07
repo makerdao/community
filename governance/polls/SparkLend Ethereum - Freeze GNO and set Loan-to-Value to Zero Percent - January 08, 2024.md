@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Freeze GNO and set Loan-to-Value to Zero Percent - January 08, 2024
-summary: Signal your support or opposition to freezing GNO and set LTV to 0
+summary: Signal your support or opposition to freezing GNO and set Loan-to-Value to Zero Percent
 discussion_link: https://forum.makerdao.com/t/spark-spell-proposed-changes/23298
 parameters:
     input_format: single-choice
