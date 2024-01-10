@@ -102,7 +102,6 @@ If this executive proposal passes, the following transfers will be made per Lega
 - [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17) - 508.55 MKR - [0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6](https://etherscan.io/address/0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6). (Note - This figure covers the 278 MKR owed to SES from November plus the remainder of the legacy MKR agreements owed to the team, following their offboarding.)
 - [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25) - 175.00 MKR - [0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c](https://etherscan.io/address/0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c).
   
-
 ### Launch Project Funding
 
 **Authorization**: [Forum Post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/9)
