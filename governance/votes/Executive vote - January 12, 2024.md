@@ -22,7 +22,7 @@ If this executive proposal passes, the following actions will occur within the M
 - November and December Aligned Delegate Compensation will be distributed to 10 delegates.
 - BA Labs and SES will receive **175.00** and **508.55 MKR** respectively.
 - The Launch Project will receive **4.5 million DAI** and **820.00 MKR**.
-- The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
+- The Dai [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
 - Two Derecognized ALigned Delegates will receive their remaining surplus buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
 - The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
 
