@@ -4177,5 +4177,39 @@
     "ratification",
     "mips",
     "endgame"
+  ],
+  "1061": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1062": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1063": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1064": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1065": [
+    "high-impact",
+    "spark"
+  ],
+  "1066": [
+    "medium-impact",
+    "spark"
+  ],
+  "1067": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
