@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Increase the SparkLend D3M
+### Increase the SparkLend D3M Maximum Debt Ceiling
 
 **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
