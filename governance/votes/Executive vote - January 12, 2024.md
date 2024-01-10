@@ -121,7 +121,7 @@ If this executive proposal passes, the following transfers will be made to the L
 
 If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
 
-### Aligned Delegate Buffer Payments
+### Derecognized Aligned Delegate Buffer Payments
 
 **Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
