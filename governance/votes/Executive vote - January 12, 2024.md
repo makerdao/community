@@ -131,7 +131,7 @@ If this executive proposal passes, the following transfers will be made to pay o
 - Navigator - 20.84 MKR - [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072)
 - PALC - 6.95 MKR - [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A)
 
-### RWA Agreement Upgrade
+### RWA Agreement Update
 
 **Authorization**: [Forum Post](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/14)
 
