@@ -5,7 +5,7 @@ date: 2024-01-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank Docs - January 12, 2024
+# [Executive Proposal] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank doc - January 12, 2024
 
 The Governance Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
