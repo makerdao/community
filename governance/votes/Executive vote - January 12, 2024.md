@@ -41,7 +41,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
-If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion Dai**.
+If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion DAI**.
 
 ###  Execute the SparkLend Proxy Spell
 
