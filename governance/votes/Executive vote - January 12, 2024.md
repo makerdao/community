@@ -20,8 +20,8 @@ If this executive proposal passes, the following actions will occur within the M
 - Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion DAI**.
 - Execute the SparkLend Proxy Spell at $address for updates and technical changes detailed [here](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298).
 - November and December Aligned Delegate Compensation will be distributed to 10 delegates.
-- BA Labs and SES will recieve **175.00** and **508.55 MKR** respectively.
-- The Launch Project will recieve **4.5 million DAI** and **820.00 MKR**.
+- BA Labs and SES will receive **175.00** and **508.55 MKR** respectively.
+- The Launch Project will receive **4.5 million DAI** and **820.00 MKR**.
 - The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
 - Two Derecognized ALigned Delegates will receive their remaining surplus buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
 - The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
