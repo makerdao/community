@@ -93,8 +93,6 @@ If this executive proposal passes, the following transfers for Aligned Delegate 
 | JAG          | 12.95        | [0x58D1ec57E4294E4fe650D1CB12b96AE34349556f](https://etherscan.io/address/0x58D1ec57E4294E4fe650D1CB12b96AE34349556f) |
 | WBC          | 11.28        | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) |
 
-
-
 ### Legacy Agreement MKR Distributions
 
 **Authorization**: [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17), [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25)
