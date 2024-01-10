@@ -126,7 +126,7 @@ If this executive proposal passes, the DAI [Token Streams](https://manual.makerd
 **Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)  
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
 
-If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffer following two Aligned Delegate Derecognitions:
+If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffers following two Aligned Delegate derecognitions:
 
 - Navigator - 20.84 MKR - [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072)
 - PALC - 6.95 MKR - [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A)
