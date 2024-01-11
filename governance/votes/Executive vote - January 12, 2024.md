@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion DAI**.
 - November and December Aligned Delegate Compensation will be distributed to 10 delegates.
 - Two Derecognized ALigned Delegates will receive their remaining AD buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
-- The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
+- The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming) for DECO and SES will be halted (`yank`).
 - BA Labs and SES will receive **175.00** and **508.55 MKR** respectively.
 - The Launch Project will receive **4.5 million DAI** and **820.00 MKR**.
 - The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
@@ -110,7 +110,7 @@ If this executive proposal passes, the following transfers will be made to pay o
 **Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)  
 **Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
 
-If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
+If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
 
 ### Legacy Agreement MKR Distributions
 
