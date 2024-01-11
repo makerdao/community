@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion DAI**.
-- Execute the SparkLend Proxy Spell at $address for updates and technical changes detailed [here](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298).
+- Execute the SparkLend Proxy Spell at [0x2f2c514137173bc98B3699A0d291f7593637c596](https://etherscan.io/address/0x2f2c514137173bc98B3699A0d291f7593637c596) for updates and technical changes detailed [here](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) and [here](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393).
 - November and December Aligned Delegate Compensation will be distributed to 10 delegates.
 - BA Labs and SES will receive **175.00** and **508.55 MKR** respectively.
 - The Launch Project will receive **4.5 million DAI** and **820.00 MKR**.
