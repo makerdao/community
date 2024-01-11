@@ -17,13 +17,13 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-- Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion DAI**.
 - Execute the SparkLend Proxy Spell at [0x2f2c514137173bc98B3699A0d291f7593637c596](https://etherscan.io/address/0x2f2c514137173bc98B3699A0d291f7593637c596) for updates and technical changes detailed [here](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) and [here](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393).
+- Increase the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 400 million from 800 million to **1.2 billion DAI**.
 - November and December Aligned Delegate Compensation will be distributed to 10 delegates.
+- Two Derecognized ALigned Delegates will receive their remaining AD buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
+- The DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
 - BA Labs and SES will receive **175.00** and **508.55 MKR** respectively.
 - The Launch Project will receive **4.5 million DAI** and **820.00 MKR**.
-- The Dai [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) for DECO and SES will be halted (`yank`).
-- Two Derecognized ALigned Delegates will receive their remaining AD buffer, with Navigator receiving **20.84 MKR** and PALC **6.95 MKR**.
 - The HVBank (RWA009-A) [RWA Agreement (`doc`)](https://manual.makerdao.com/parameter-index/vault-risk/param-rwa-agreement) parameter will be updated to to **QmfEgZuiw6wsTRUYerdPZNUrqDXSGM6Nm4fM3nG7nNbEjT**.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -36,25 +36,26 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Increase the SparkLend D3M Maximum Debt Ceiling
-
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
-**Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
-
-If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion DAI**.
-
 ###  Execute the SparkLend Proxy Spell
 
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
-**Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
+**Authorization**: [Ecosystem Approval 1](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5), [Ecosystem Approval 2](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393/3) 
+**Proposal**: [Forum Post 1](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298), [Forum Post 2](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393)
 
-If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at $address will be executed. It contains the following action items, as explained in this [forum post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298):
+If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0x2f2c514137173bc98B3699A0d291f7593637c596](https://etherscan.io/address/0x2f2c514137173bc98B3699A0d291f7593637c596) will be executed. It contains the following [polled items](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) and code updates as outlined in this [forum post](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393):
 
 - Activate SparkLend Freezer Mom.
 - Replace DAI oracle with one that is hardcoded to $1.
 - Update the wstETH oracle to assume a 1:1 stETH:ETH peg.
 - Freeze GNO and set LTV to 0.
 - Activate Lido Rewards Program.
+- Expidited code update. 
+
+### Increase the SparkLend D3M Maximum Debt Ceiling
+
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
+**Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
+
+If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion DAI**.
 
 ### Aligned Delegate Compensation
 
@@ -93,6 +94,23 @@ If this executive proposal passes, the following transfers for Aligned Delegate 
 | JAG          | 12.95        | [0x58D1ec57E4294E4fe650D1CB12b96AE34349556f](https://etherscan.io/address/0x58D1ec57E4294E4fe650D1CB12b96AE34349556f) |
 | WBC          | 11.28        | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) |
 
+### Derecognized Aligned Delegate Buffer Payments
+
+**Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)  
+**Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
+
+If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffers following two Aligned Delegate derecognitions:
+
+- Navigator - 20.84 MKR - [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072)
+- PALC - 6.95 MKR - [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A)
+
+### End Token Streams
+
+**Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)  
+**Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
+
+If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
+
 ### Legacy Agreement MKR Distributions
 
 **Authorization**: [SES](https://mips.makerdao.com/mips/details/MIP40c3SP17), [BA Labs](https://mips.makerdao.com/mips/details/MIP40c3SP25)
@@ -110,23 +128,6 @@ If this executive proposal passes, the following transfers will be made to the L
 
 - Transfer **4,500,000 DAI** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).  
 - Transfer **580.00 MKR** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
-
-### End Token Streams
-
-**Authorization**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333/3), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332/2)  
-**Proposal**: [DECO](https://forum.makerdao.com/t/mip39c3-sp12-core-unit-offboarding-deco/22333), [SES](https://forum.makerdao.com/t/mip39c3-sp11-core-unit-offboarding-ses/22332)
-
-If this executive proposal passes, the DAI [Token Streams](https://manual.makerdao.com/module-index/module-token-streaming#trade-offs) will be halted (`yank`) for [SES](https://makerburn.com/#/expenses/vesting/0xa4c22f0e25C6630B2017979AcF1f865e94695C4b/DAI/15) and [DECO](https://makerburn.com/#/expenses/vesting/0x2Cc583c0AaCDaC9e23CB601fDA8F1A0c56Cdcb71/DAI/21), following their respective offboarding.
-
-### Derecognized Aligned Delegate Buffer Payments
-
-**Authorization**: [Atlas Section 2.6.3.4.1](https://mips.makerdao.com/mips/details/MIP101#2-6-3-4-1)  
-**Proposal**: [Forum Post](https://forum.makerdao.com/t/october-2023-aligned-delegate-compensation/22732#october-compensation-2)
-
-If this executive proposal passes, the following transfers will be made to pay out the remainder of the AD buffers following two Aligned Delegate derecognitions:
-
-- Navigator - 20.84 MKR - [0x11406a9CC2e37425F15f920F494A51133ac93072](https://etherscan.io/address/0x11406a9CC2e37425F15f920F494A51133ac93072)
-- PALC - 6.95 MKR - [0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A](https://etherscan.io/address/0x78Deac4F87BD8007b9cb56B8d53889ed5374e83A)
 
 ### RWA Agreement Update
 
