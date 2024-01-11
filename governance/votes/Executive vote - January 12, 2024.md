@@ -128,7 +128,7 @@ If this executive proposal passes, the following transfers will be made per Lega
 If this executive proposal passes, the following transfers will be made to the Launch Project as part of the funding defined in the Accessibility Scope:
 
 - Transfer **4,500,000 DAI** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).  
-- Transfer **580.00 MKR** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **820.00 MKR** to [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### RWA Agreement Update
 
