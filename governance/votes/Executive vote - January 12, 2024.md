@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank doc - January 12, 2024
 summary: Increase the SparkLend D3M Debt Ceiling, execute SparkLend Proxy Spell, November and December Aligned Delegate compensation, MKR payouts for SES and BA Labs, Launch Project funding, yank DAI streams for DECO and SES, offboarded AD Buffer MKR distribution to Navigator and PALC, and update the HVBank (RWA009-A) doc parameter. 
 date: 2024-01-12T00:00:00.000Z
-address: "$spell_address"
+address: "0x54561C3BC933e3B61bD44eb402AeD19AC72b4DA0"
 
 ---
 # [Executive Proposal] SparkLend Changes, Compensation Distribution, Halting Legacy Streams, Offboarded Delegate Buffer Payments, and Update HVBank doc - January 12, 2024
