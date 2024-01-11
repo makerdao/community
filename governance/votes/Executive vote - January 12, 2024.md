@@ -38,7 +38,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ###  Execute the SparkLend Proxy Spell
 
-**Authorization**: [Ecosystem Approval 1](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5), [Ecosystem Approval 2](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393/3) 
+**Authorization**: [Ecosystem Approval 1](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5), [Ecosystem Approval 2](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393/3)   
 **Proposal**: [Forum Post 1](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298), [Forum Post 2](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393)
 
 If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0x2f2c514137173bc98B3699A0d291f7593637c596](https://etherscan.io/address/0x2f2c514137173bc98B3699A0d291f7593637c596) will be executed. It contains the following [polled items](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298) and code updates as outlined in this [forum post](https://forum.makerdao.com/t/jan-11th-2024-expedited-inclusion-of-a-patch-to-spark-pool-implementation/23393):
