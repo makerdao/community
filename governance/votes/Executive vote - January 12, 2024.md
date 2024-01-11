@@ -53,7 +53,7 @@ If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0x2f
 
 ### Increase the SparkLend D3M Maximum Debt Ceiling
 
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5)  
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298/5), [Poll](https://vote.makerdao.com/polling/QmdQSuAc)
 **Proposal**: [Forum Post](https://forum.makerdao.com/t/spark-spell-proposed-changes/23298)
 
 If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 400 million from 800 million to **1.2 billion DAI**.
