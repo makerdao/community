@@ -45,6 +45,9 @@ Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-p
 
 ## Resources
 
+
+The code changes for the Spark Protocol are available in their GitHub repository at: [marsfoundation/sparklend-advanced](https://github.com/marsfoundation/sparklend-advanced/tree/master)
+
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
