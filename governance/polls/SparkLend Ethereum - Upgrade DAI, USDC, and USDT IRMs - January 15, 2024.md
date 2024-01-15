@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The DAI market Interest Rate Model (IRM) has accumulated some technical debt with features that were originally expected to be used, but no longer necessary. Furthermore, USDC/USDT IRMs are currently hardcoded with an assumption that the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) is 5%, which can result in a suboptimal borrow rate. Phoenix Labs suggests updating these IRMs to more suitable versions that address these issues by reducing the DAI market IRM to the most simple form which tracks the DSR + a hardcoded spread and updating USDC/USDT IRMs to read the DSR directly and adjusting the `kink` automatically to optimize borrow. The community can vote in this poll to express support or opposition to the following changes:
+The DAI market Interest Rate Model (IRM) has accumulated some technical debt with features that were originally expected to be used, but no longer necessary. Furthermore, USDC/USDT IRMs are currently hardcoded with an assumption that the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) is 5%, which can result in a suboptimal borrow rate. Phoenix Labs suggests updating these IRMs to more suitable versions that address these issues by reducing the DAI market IRM to the most simple form which tracks the DSR + a hardcoded spread and updating USDC/USDT IRMs to read the DSR directly and adjusting the kink automatically to optimize borrow. The community can vote in this poll to express support or opposition to the following changes:
 - Upgrade DAI, USDC, and USDT IRMs.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389) to help inform your position before voting.
@@ -46,7 +46,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-p
 ## Resources
 
 
-The code changes for the Spark Protocol are available in their GitHub repository at: [marsfoundation/sparklend-advanced](https://github.com/marsfoundation/sparklend-advanced/tree/master)
+The code changes for the Spark Protocol are available in their GitHub repository at [marsfoundation/sparklend-advanced](https://github.com/marsfoundation/sparklend-advanced/tree/master)
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
