@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The current Interest Rate Models (IRMs) for DAI, USDC, and USDT include legacy features that make the code overly complex, which can lead to configuration errors. Furthermore, These IRMs hold a hardcoded value for the Dai Savings Rate (DSR), which can result in a suboptimal borrow rate. Phoenix Labs proposes upgrading these IRMs with simpler versions that, additionally, will optimize borrow by reading the current DSR dynamically. The community can vote in this poll to express support or opposition to the following changes:
+The DAI market Interest Rate Model (IRM) has accumulated some technical debt with features that were originally expected to be used, but no longer necessary. Furthermore, USDC/USDT IRMs are currently hardcoded with an assumption that the [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) is 5%, which can result in a suboptimal borrow rate. Phoenix Labs suggests updating these IRMs to more suitable versions that address these issues by reducing the DAI market IRM to the most simple form which tracks the DSR + a hardcoded spread and updating USDC/USDT IRMs to read the DSR directly and adjusting the `kink` automatically to optimize borrow. The community can vote in this poll to express support or opposition to the following changes:
 * Upgrading DAI, USDC, and USDT IRMs.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389) to help inform your position before voting.
