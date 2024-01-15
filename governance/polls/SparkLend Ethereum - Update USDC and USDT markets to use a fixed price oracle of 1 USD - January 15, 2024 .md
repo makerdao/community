@@ -27,7 +27,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 Phoenix Labs proposes updating the USDC and USDT markets to use a fixed price oracle of 1 USD, which will improve safety of temporary market displacement and erroneous liquidations. Furthermore, it will prevent the exacerbation of peg issues by impeding speculation on temporary depegs. The community can vote in this poll to express support or opposition to the following changes:
-* Updating USDC and USDT markets to use a fixed price of 1 USD.
+
+- Update USDC and USDT markets to use a fixed oracle price of $1.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389) to help inform your position before voting.
 
