@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-With the WBTC supply cap having been hit and in light of there being a sustained demand for leverage with WBTC, Phoenix Labs proposes increasing the WBTC supply cap on Ethereum up to a value to be determined by the the risk team. The community can vote in this poll to express support or opposition to the following changes:
+With the WBTC supply cap ---currently at 3,000 WBTC--- having been hit and in light of there being a sustained demand for leverage with WBTC, Phoenix Labs proposes increasing the WBTC supply cap on Ethereum up to a value to be determined by the the risk team. The community can vote in this poll to express support or opposition to the following changes:
 * Increasing the WBTC supply cap.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389) to help inform your position before voting.
