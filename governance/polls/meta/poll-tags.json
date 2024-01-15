@@ -4211,5 +4211,19 @@
     "high-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1068": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1069": [
+    "high-impact",
+    "spark"
+  ],
+  "1070": [
+    "high-impact",
+    "oracle",
+    "spark"
   ]
 }
