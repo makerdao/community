@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 22, 2024
+title: Template - [Executive Vote] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
 summary: $summary
-date: 2024-01-22T00:00:00.000Z
+date: 2024-01-24T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 22, 2024
+# [Executive Proposal] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
 
 The Governance Facilitators, BA Labs, StakeHouse, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
