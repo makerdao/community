@@ -1,11 +1,10 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
-summary: $summary
-date: 2024-01-24T00:00:00.000Z
+title: Template - [Executive Vote] Stability Fee Changes, PSM-PAX-A Debt Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
+summary: Stability fee changes, PSM-PAX-A debt ceiling reduction and DC-IAM disabling, RETH-A offboarding parameters finalization, Smart Burn Engine parameter changes, HV Bank (RWA009-A) DAO resolution approval, AVC members compensation for Q4 2023, Spark proxy spell execution.
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, PSM-PAX-A Debe Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
+# [Executive Proposal] Stability Fee Changes, PSM-PAX-A Debt Ceiling Reduction and DC-IAM Disabling, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution Approval, AVC Members Compensation, Spark Proxy Spell - January 24, 2024
 
 The Governance Facilitators, BA Labs, StakeHouse, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,6 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased, as detailed below.
 - PSM-PAX-A [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to zero and the vault will be removed from the [Debt Ceiling Instant Access Module (AutoLine)](https://manual.makerdao.com/module-index/module-dciam).
 - RETH-A offboarding will be finalized by changing some of its vault parameters, as detailed below.
@@ -31,7 +31,6 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
-
 
 ---
 
@@ -70,12 +69,12 @@ If this executive proposal passes, in line with the recent removal of PSM-PAX-A 
 
  The offboarding of RETH-A will be completed by enacting the following parameter changes, if this executive proposal passes:
 
- - Reduce [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 13% from 13% to **0%**.
- - Reduce [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) by 250 DAI from 250 DAI to **0 DAI**.
- - Reduce [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) by 0.1% from 0.1% to **0%**.
- - Increase [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 9,850% from 150% to **10,000%**.
+- Reduce [Liquidation Penalty (`chop`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-penalty) by 13% from 13% to **0%**.
+- Reduce [Flat Kick Incentive (`tip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-flat-kick-incentive) by 250 DAI from 250 DAI to **0 DAI**.
+- Reduce [Proportional Kick Incentive (`chip`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-proportional-kick-incentive) by 0.1% from 0.1% to **0%**.
+- Increase [Liquidation Ratio (`mat`)](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) by 9,850% from 150% to **10,000%**.
 
- ### SBE Parameter Changes
+### SBE Parameter Changes
 
  **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-4/23441/2)
  **Proposal:** [Forum post "Smart Burn Engine - Transaction Analysis & Parameter Reconfiguration Update #4"](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-4/23441)
@@ -102,9 +101,9 @@ If this executive proposal passes, the following RWA Foundation Dao Resolution c
 
  If this executive proposal passes, the following distributions will be made for Q4 AVC members compensation, totaling 208.5 MKR:
 
- | Delegate | Address | Amount (MKR) |
- |--|--|--|
- | IamMeeoh | 0x47f7A5d8D27f259582097E1eE59a07a816982AE9 | 20.85 MKR |
+| Delegate | Address | Amount (MKR) |
+|--|--|--|
+| IamMeeoh | 0x47f7A5d8D27f259582097E1eE59a07a816982AE9 | 20.85 MKR |
 | DAI-Vinci | 0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a | 20.85 MKR |
 | opensky | 0xf44f97f4113759E0a57756bE49C0655d490Cf19F | 20.85 MKR |
 | ACRE DAOs | 0xBF9226345F601150F64Ea4fEaAE7E40530763cbd | 20.85 MKR |
