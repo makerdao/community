@@ -94,7 +94,7 @@ If this executive proposal passes, a DAO resolution pertaining to the HV Bank va
 To execute this process, the following action will be taken if the executive proposal passes:
 
 - The DAO Resolution with IPFS hash [QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w](https://ipfs.io/ipfs/QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w) will be approved.
-- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at `0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1` will be added to the chainlog on Mainnet.
+- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at [0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1](https://etherscan.io/address/0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1) will be added to the chainlog on Mainnet.
 
 ### AVC Members Compensation Q4 2023
 
