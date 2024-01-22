@@ -38,23 +38,23 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Increases
 
-**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)
+**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445)
 
 If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following parameters will be changed:
 
-- The [ETH-A Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 1.49%, from 5.25% to **6.74%**.
-- The [ETH-B Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 1.49%, from 5.75% to **7.24%**.
-- The [ETH-C Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 1.49%, from 5.00% to **6.49%**.
-- The [WSTETH-A Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 1.91%, from 5.25% to **7.16%**.
-- The [WSTETH-B Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 1.91%, from 5.00% to **6.91%**.
-- The [WBTC-A Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 0.91%, from 5.79% to **6.70%**.
-- The [WBTC-B Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 0.91%, from 6.29% to **7.20%**.
-- The [WBTC-B Stability Fee]((https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee)) will be increased by 0.91%, from 5.54% to **6.45%**.
+- The [ETH-A Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.49%, from 5.25% to **6.74%**.
+- The [ETH-B Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.49%, from 5.75% to **7.24%**.
+- The [ETH-C Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.49%, from 5.00% to **6.49%**.
+- The [WSTETH-A Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.91%, from 5.25% to **7.16%**.
+- The [WSTETH-B Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.91%, from 5.00% to **6.91%**.
+- The [WBTC-A Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 5.79% to **6.70%**.
+- The [WBTC-B Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 6.29% to **7.20%**.
+- The [WBTC-B Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 5.54% to **6.45%**.
 
 ### Decrease PSM-PAX-A Debt Ceiling
 
-**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)
+**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445)
 
 If this executive proposal passes, in line with the recent removal of PSM-PAX-A from the Cash Stablecoin list in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following actions will be performed:
@@ -64,7 +64,7 @@ If this executive proposal passes, in line with the recent removal of PSM-PAX-A 
 
 ### RETH-A Offboarding Parameters Finalization
 
-**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)
+**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445)
 
  The offboarding of RETH-A will be completed by enacting the following parameter changes, if this executive proposal passes:
@@ -76,7 +76,7 @@ If this executive proposal passes, in line with the recent removal of PSM-PAX-A 
 
 ### SBE Parameter Changes
 
- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-4/23441/2)
+ **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-4/23441/2)\
  **Proposal:** [Forum post "Smart Burn Engine - Transaction Analysis & Parameter Reconfiguration Update #4"](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-parameter-reconfiguration-update-4/23441)
 
  If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following SBE parameters will be changed:
@@ -86,24 +86,24 @@ If this executive proposal passes, in line with the recent removal of PSM-PAX-A 
 
 ### Approve HV Bank (RWA009-A) DAO Resolution
 
-**Authorization:** Ecosystem Approval [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/23), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/16)
+**Authorization:** Ecosystem Approval [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/23), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/16)\
 **Proposal:** Forum posts [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/20), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/15)
 
 If this executive proposal passes, a DAO resolution pertaining to the HV Bank vault will be approved to instruct the Director of RWAF to take all required actions to facilitate the return of $50,395,016.48 or other amount deemed to be excess cash under the MPA back to Maker, via Galaxy as the exchange agent. The Director of RWAF will be instructed to direct Galaxy to, upon receipt of the Return Amount, to convert it
-into USDC and transfer the USDC to the Urn Input Conduit deployed at `0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1` .
+into USDC and transfer the USDC to the Urn Input Conduit deployed at [0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1](https://etherscan.io/address/0x08012ec53a7fabf6f33318dfb93c1289886ebbe1).
 
 To execute this process, the following action will be taken if the executive proposal passes:
 
 - The DAO Resolution with IPFS hash [QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w](https://ipfs.io/ipfs/QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w) will be approved.
-- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at 0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1 will be added to the chainlog on Mainnet.
-- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at 0xddd021b7e3Bfbad19c7D455EB7976DCe51180141 will be added to the chainlog on Goerli.
+- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at `0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1` will be added to the chainlog on Mainnet.
+- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at `0xddd021b7e3Bfbad19c7D455EB7976DCe51180141` will be added to the chainlog on Goerli.
 
 ### AVC Members Compensation Q4 2023
 
- **Authorization:** [Atlas 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)
+ **Authorization:** [Atlas 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)\
  **Proposal:** [Forum post "AVC Member Participation Rewards - Q4 2023"](https://forum.makerdao.com/t/avc-member-participation-rewards-q4-2023/23458)
 
- If this executive proposal passes, the following distributions will be made for Q4 AVC members compensation, totaling **208.5 MKR**:
+ If this executive proposal passes, the following distributions will be made for Q4 AVC member compensation, totaling **208.5 MKR**:
 
 | Delegate | Address | Amount (MKR) |
 |--|--|--|
@@ -120,7 +120,7 @@ To execute this process, the following action will be taken if the executive pro
 
 ### Trigger Spark Proxy Spell
 
-**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3), Governance Polls [1](https://vote.makerdao.com/polling/Qmc3NjZA), [2](https://vote.makerdao.com/polling/QmNrXB9P), [3](https://vote.makerdao.com/polling/QmTauEqL)
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3), Governance Polls [1](https://vote.makerdao.com/polling/Qmc3NjZA), [2](https://vote.makerdao.com/polling/QmNrXB9P), [3](https://vote.makerdao.com/polling/QmTauEqL)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445), [forum post "[Jan 10, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389)
 
 If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0xa3836fEF1D314d4c081C2707a7664c3375F29b61](https://etherscan.io/address/0xa3836fEF1D314d4c081C2707a7664c3375F29b61) will be executed, containing the following major items:
