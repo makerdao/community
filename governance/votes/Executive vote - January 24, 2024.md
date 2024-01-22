@@ -96,6 +96,8 @@ To execute this process, the following action will be taken if the executive pro
 - The DAO Resolution with IPFS hash [QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w](https://ipfs.io/ipfs/QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w) will be approved.
 - `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at [0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1](https://etherscan.io/address/0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1) will be added to the chainlog on Mainnet.
 
+Further, <conduit>.rely(MCD_ESM) will be called on the SwapInputConduit contracts to allow the ESM module to deny the pause proxy. In the event of a successful governance attack, this prevents funds from being stolen from the SwapInputConduit contracts.
+
 ### AVC Members Compensation Q4 2023
 
  **Authorization:** [Atlas 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)\
