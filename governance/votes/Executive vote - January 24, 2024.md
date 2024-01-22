@@ -86,7 +86,8 @@ If this executive proposal passes, in line with the recent removal of PSM-PAX-A 
 
 ### Approve HV Bank (RWA009-A) DAO Resolution
 
-**Context:** Forum posts [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/20), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/15)
+**Authorization:** Ecosystem Approval [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/23), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/16)
+**Proposal:** Forum posts [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/20), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/15)
 
 If this executive proposal passes, the following RWA Foundation Dao Resolution changes will be approved:
 
