@@ -81,8 +81,8 @@ If this executive proposal passes, in line with the recent removal of `PSM-PAX-A
 
  If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following SBE parameters will be changed:
 
-- The [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 20,000, from 30,000 to **50,000 DAI**.
-- The [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 10,512, from 15,768 to **26,280 seconds**.
+- The [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 20,000 DAI, from 30,000 DAI to **50,000 DAI**.
+- The [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be increased by 10,512 seconds , from 15,768 seconds to **26,280 seconds**.
 
 ### Approve HV Bank (RWA009-A) DAO Resolution
 
