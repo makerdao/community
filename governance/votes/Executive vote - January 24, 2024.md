@@ -96,7 +96,6 @@ To execute this process, the following action will be taken if the executive pro
 
 - The DAO Resolution with IPFS hash [QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w](https://ipfs.io/ipfs/QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w) will be approved.
 - `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at `0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1` will be added to the chainlog on Mainnet.
-- `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at `0xddd021b7e3Bfbad19c7D455EB7976DCe51180141` will be added to the chainlog on Goerli.
 
 ### AVC Members Compensation Q4 2023
 
@@ -107,16 +106,17 @@ To execute this process, the following action will be taken if the executive pro
 
 | Delegate | Address | Amount (MKR) |
 |--|--|--|
-| IamMeeoh | 0x47f7A5d8D27f259582097E1eE59a07a816982AE9 | 20.85 MKR |
-| DAI-Vinci | 0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a | 20.85 MKR |
-| opensky | 0xf44f97f4113759E0a57756bE49C0655d490Cf19F | 20.85 MKR |
-| ACRE DAOs | 0xBF9226345F601150F64Ea4fEaAE7E40530763cbd | 20.85 MKR |
-| fhomoney.eth | 0xdbD5651F71ce83d1f0eD275aC456241890a53C74 | 20.85 MKR |
-| Res | 0x8c5c8d76372954922400e4654AF7694e158AB784 | 20.85 MKR |
-| Harmony | 0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3 | 20.85 MKR |
-| Libertas | 0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f | 20.85 MKR |
-| seedlatam.eth | 0x0087a081a9b430fd8f688c6ac5dd24421bfb060d | 20.85 MKR |
-| 0xRoot | 0xC74392777443a11Dc26Ce8A3D934370514F38A91 | 20.85 MKR |
+| IamMeeoh | [0x47f7A5d8D27f259582097E1eE59a07a816982AE9](https://etherscan.io/address/0x47f7A5d8D27f259582097E1eE59a07a816982AE9) | 20.85 MKR |
+| DAI-Vinci | [0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a](https://etherscan.io/address/0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a) | 20.85 MKR |
+| opensky | [0xf44f97f4113759E0a57756bE49C0655d490Cf19F](https://etherscan.io/address/0xf44f97f4113759E0a57756bE49C0655d490Cf19F) | 20.85 MKR |
+| ACRE DAOs | [0xBF9226345F601150F64Ea4fEaAE7E40530763cbd](https://etherscan.io/address/0xBF9226345F601150F64Ea4fEaAE7E40530763cbd) | 20.85 MKR |
+| fhomoney.eth | [0xdbD5651F71ce83d1f0eD275aC456241890a53C74](https://etherscan.io/address/0xdbD5651F71ce83d1f0eD275aC456241890a53C74) | 20.85 MKR |
+| Res | [0x8c5c8d76372954922400e4654AF7694e158AB784](https://etherscan.io/address/0x8c5c8d76372954922400e4654AF7694e158AB784) | 20.85 MKR |
+| Harmony | [0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3](https://etherscan.io/address/0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3) | 20.85 MKR |
+| Libertas | [0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f](https://etherscan.io/address/0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f) | 20.85 MKR |
+| seedlatam.eth | [0x0087a081a9b430fd8f688c6ac5dd24421bfb060d](https://etherscan.io/address/0x0087a081a9b430fd8f688c6ac5dd24421bfb060d) | 20.85 MKR |
+| 0xRoot | [0xC74392777443a11Dc26Ce8A3D934370514F38A91](https://etherscan.io/address/0xC74392777443a11Dc26Ce8A3D934370514F38A91) | 20.85 MKR |
+
 
 ### Trigger Spark Proxy Spell
 
