@@ -59,7 +59,7 @@ If this executive proposal passes, following the recommendation of the Stability
 
 If this executive proposal passes, in line with the recent removal of `PSM-PAX-A` from the Cash Stablecoin list in the [Stability Scope](https://mips.makerdao.com/mips/details/MIP104#7-2-1-3-1a), the following actions will be performed:
 
-- The [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **zero**.
+- The [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to **0 DAI**.
 - The vault will be removed from the [Debt Ceiling Instant Access Module (AutoLine)](https://manual.makerdao.com/module-index/module-dciam).
 
 ### RETH-A Offboarding Parameters Finalization
