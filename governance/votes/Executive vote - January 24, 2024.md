@@ -14,7 +14,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased, as detailed below.
 - PSM-PAX-A [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to zero and the vault will be removed from the [Debt Ceiling Instant Access Module (AutoLine)](https://manual.makerdao.com/module-index/module-dciam).
