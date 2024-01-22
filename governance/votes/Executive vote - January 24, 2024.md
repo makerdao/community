@@ -50,7 +50,7 @@ If this executive proposal passes, following the recommendation of the Stability
 - The `WSTETH-B` [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 1.91%, from 5.00% to **6.91%**.
 - The `WBTC-A` [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 5.79% to **6.70%**.
 - The `WBTC-B` [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 6.29% to **7.20%**.
-- The `WBTC-B` [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 5.54% to **6.45%**.
+- The `WBTC-C` [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased by 0.91%, from 5.54% to **6.45%**.
 
 ### Decrease PSM-PAX-A Debt Ceiling
 
