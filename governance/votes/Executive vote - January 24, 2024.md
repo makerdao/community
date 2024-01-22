@@ -125,7 +125,6 @@ To execute this process, the following action will be taken if the executive pro
 
 If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0xa3836fEF1D314d4c081C2707a7664c3375F29b61](https://etherscan.io/address/0xa3836fEF1D314d4c081C2707a7664c3375F29b61) will be executed, containing the following major items:
 
-- Activate Spark Proxy Spell - TBD
 - Increase WBTC Supply Cap to 5,000 WBTC.
 - Upgrade DAI, USDC, and USDT IRMs.
 - Update USDC and USDT markets to use a fixed price oracle of 1 USD.
