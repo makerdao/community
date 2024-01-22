@@ -121,7 +121,6 @@ To execute this process, the following action will be taken if the executive pro
 ### Trigger Spark Proxy Spell
 
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3), Governance Polls [1](https://vote.makerdao.com/polling/Qmc3NjZA), [2](https://vote.makerdao.com/polling/QmNrXB9P), [3](https://vote.makerdao.com/polling/QmTauEqL)
-**Polls:** [1](https://vote.makerdao.com/polling/Qmc3NjZA), [2](https://vote.makerdao.com/polling/QmNrXB9P), [3](https://vote.makerdao.com/polling/QmTauEqL)
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445), [forum post "[Jan 10, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389)
 
 If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at ? will be executed. It contains the following polled items and code updates as outlined in this forum post:
