@@ -89,8 +89,7 @@ If this executive proposal passes, in line with the recent removal of `PSM-PAX-A
 **Authorization:** Ecosystem Approval [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/23), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/16)\
 **Proposal:** Forum posts [1](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/20), [2](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/15)
 
-If this executive proposal passes, a DAO resolution pertaining to the HV Bank vault will be approved to instruct the Director of RWAF to take all required actions to facilitate the return of $50,395,016.48 or other amount deemed to be excess cash under the MPA back to Maker, via Galaxy as the exchange agent. The Director of RWAF will be instructed to direct Galaxy to, upon receipt of the Return Amount, convert it
-into USDC and transfer the USDC to the Urn Input Conduit deployed at [0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1](https://etherscan.io/address/0x08012ec53a7fabf6f33318dfb93c1289886ebbe1).
+If this executive proposal passes, a DAO resolution pertaining to the HV Bank vault will be approved to instruct the Director of RWAF to take all required actions to facilitate the return of $50,395,016.48 or other amount deemed to be excess cash under the MPA back to Maker, via Galaxy as the exchange agent. The Director of RWAF will be instructed to direct Galaxy to, upon receipt of the Return Amount, convert it into USDC and transfer the USDC to the Urn Input Conduit deployed at [0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1](https://etherscan.io/address/0x08012ec53a7fabf6f33318dfb93c1289886ebbe1).
 
 To execute this process, the following action will be taken if the executive proposal passes:
 
