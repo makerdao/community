@@ -6,7 +6,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] Stability Fee Changes, PSM-PAX-A Debt Ceiling Reduction, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution, Q4 2023 AVC Member Compensation, Spark Proxy Spell - January 24, 2024
 
-The Governance Facilitators, BA Labs, StakeHouse, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
