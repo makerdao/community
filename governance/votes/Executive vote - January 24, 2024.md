@@ -103,7 +103,7 @@ To execute this process, the following action will be taken if the executive pro
  **Authorization:** [Atlas 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)
  **Proposal:** [Forum post "AVC Member Participation Rewards - Q4 2023"](https://forum.makerdao.com/t/avc-member-participation-rewards-q4-2023/23458)
 
- If this executive proposal passes, the following distributions will be made for Q4 AVC members compensation, totaling 208.5 MKR:
+ If this executive proposal passes, the following distributions will be made for Q4 AVC members compensation, totaling **208.5 MKR**:
 
 | Delegate | Address | Amount (MKR) |
 |--|--|--|
