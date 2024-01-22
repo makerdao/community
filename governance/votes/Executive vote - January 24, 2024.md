@@ -123,7 +123,7 @@ To execute this process, the following action will be taken if the executive pro
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445/3), Governance Polls [1](https://vote.makerdao.com/polling/Qmc3NjZA), [2](https://vote.makerdao.com/polling/QmNrXB9P), [3](https://vote.makerdao.com/polling/QmTauEqL)
 **Proposal:** [Forum post "Stability Scope Parameter Changes #8"](https://forum.makerdao.com/t/stability-scope-parameter-changes-8/23445), [forum post "[Jan 10, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/jan-10-2024-proposed-changes-to-sparklend-for-upcoming-spell/23389)
 
-If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at ? will be executed. It contains the following polled items and code updates as outlined in this forum post:
+If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0xa3836fEF1D314d4c081C2707a7664c3375F29b61](https://etherscan.io/address/0xa3836fEF1D314d4c081C2707a7664c3375F29b61) will be executed, containing the following major items:
 
 - Activate Spark Proxy Spell - TBD
 - Increase WBTC Supply Cap to 5,000 WBTC.
