@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - RETH-A offboarding will be finalized by changing some of its vault parameters, as detailed below.
 - SBE parameters [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) and [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) will be changed, as detailed below.
 - A DAO resolution pertaining to the HV Bank vault will be approved to instruct the Director of RWAF to take all required actions to facilitate the return of funds back to Maker, via Galaxy as the exchange agent, as detailed below.
-- A total of **208.5 MKR** will be distributed to 10 AVC members.
+- A total of **208.5 MKR** will be distributed to 10 AVC members as part of the Q4 2023 AVC rewards.
 - A Spark Protocol proxy spell will be triggered, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
