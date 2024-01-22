@@ -19,7 +19,7 @@ If this executive proposal passes, the following actions will occur within the M
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be increased, as detailed below.
 - PSM-PAX-A [Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be set to zero and the vault will be removed from the [Debt Ceiling Instant Access Module (AutoLine)](https://manual.makerdao.com/module-index/module-dciam).
 - RETH-A offboarding will be finalized by changing some of its vault parameters, as detailed below.
-- SBE parameters [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) and [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) will be changed, as detailed below.
+- Smart Burn Engine parameters [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) and [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) will be changed, as detailed below.
 - A DAO resolution pertaining to the HV Bank vault will be approved to instruct the Director of RWAF to take all required actions to facilitate the return of funds back to Maker, via Galaxy as the exchange agent, as detailed below.
 - A total of **208.5 MKR** will be distributed to 10 AVC members as part of the Q4 2023 AVC rewards.
 - A Spark Protocol proxy spell will be triggered, as detailed below.
