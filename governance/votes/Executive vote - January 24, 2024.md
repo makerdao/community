@@ -94,7 +94,7 @@ into USDC and transfer the USDC to the Urn Input Conduit deployed at `0x08012Ec5
 
 To execute this process, the following action will be taken if the executive proposal passes:
 
-- The DAO Resolution with IPFS hash QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w will be approved.
+- The DAO Resolution with IPFS hash [QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w](https://ipfs.io/ipfs/QmVtqkYtx61wEeM5Hb92dGA3TMZ9F1Z5WDSNwcszqxiF1w) will be approved.
 - `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at 0x08012Ec53A7fAbf6F33318dfb93C1289886eBBE1 will be added to the chainlog on Mainnet.
 - `RWA009_A_INPUT_CONDUIT_URN_USDC` deployed at 0xddd021b7e3Bfbad19c7D455EB7976DCe51180141 will be added to the chainlog on Goerli.
 
