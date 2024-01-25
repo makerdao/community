@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Stability Fee Changes, PSM-PAX-A Debt Ceiling Reduction, RETH-A Offboarding Parameters Finalization, SBE Parameter Changes, HV Bank DAO Resolution, Q4 2023 AVC Member Compensation, Spark Proxy Spell - January 24, 2024
-summary: Stability Fee changes, PSM-PAX-A Debt Ceiling reduction and DC-IAM disabling, RETH-A offboarding parameters finalization, Smart Burn Engine parameter changes, HV Bank (RWA009-A) DAO resolution approval, AVC member compensation for Q4 2023, Spark proxy spell execution.
+summary: Stability Fee changes, PSM-PAX-A Debt Ceiling reduction and DC-IAM disabling, RETH-A offboarding parameters finalization, Smart Burn Engine parameter changes, HV Bank (RWA009-A) DAO resolution approval, AVC member compensation for Q4 2023, Spark proxy spell execute.
 address: "$spell_address"
 
 ---
