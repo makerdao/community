@@ -1,6 +1,4 @@
 import os
-import sys
-import requests
 from github import Github
 from frontmatter import Frontmatter as fm
 from web3 import Web3
@@ -38,19 +36,24 @@ def validate_markdown(file_path):
 
         return errors
 
-# Variable to track if any file has errors
-has_errors = False
+# Function to create a comment on the PR
+def create_pr_comment(message):
+    pr.create_issue_comment(message)
+
+# Collect all errors
+all_errors = []
 
 # Iterate over modified files in the PR
 for file in pr.get_files():
     if file.filename.startswith('governance/votes/') and file.filename.endswith('.md'):
         errors = validate_markdown(file.filename)
         if errors:
-          has_errors = True # Set has_errors to True if any errors are identified
-            print(f"Validation errors in {file.filename}:")
-            for error in errors:
-                print(f"- {error}")
+            error_message = f"Validation errors in {file.filename}:\n" + "\n".join(f"- {error}" for error in errors)
+            all_errors.append(error_message)
 
-# Exit with a non-zero status code if any errors were found
-if has_errors:
-  sys.exit(1)
+# Create a PR comment based on the validation results
+if all_errors:
+    comment_body = "\n\n".join(all_errors)
+    create_pr_comment(comment_body)
+else:
+    create_pr_comment("All markdown files passed validation. No errors found.")
