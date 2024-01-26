@@ -1,12 +1,15 @@
 import os
 from github import Github
-from frontmatter import Frontmatter as fm
+import frontmatter
 from web3 import Web3
 
 # Environment variables
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_NAME = os.getenv('GITHUB_REPOSITORY')
-PR_NUMBER = os.getenv('PR_NUMBER')
+PR_NUMBER_STR = os.getenv('PR_NUMBER')
+
+# Convert PR_NUMBER from string to integer
+PR_NUMBER = int(PR_NUMBER_STR)
 
 # Initialize GitHub client
 g = Github(GITHUB_TOKEN)
@@ -17,8 +20,8 @@ pr = repo.get_pull(PR_NUMBER)
 def validate_markdown(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
-        post = fm.parse(content)
-        metadata, markdown = post['attributes'], post['body']
+        post = frontmatter.loads(content)
+        metadata, markdown = post.metadata, post.content
 
         errors = []
         if 'title' not in metadata:
@@ -29,10 +32,12 @@ def validate_markdown(file_path):
             errors.append('missing date')
         if 'address' not in metadata:
             errors.append('missing mainnet address')
-        elif not Web3.isAddress(metadata['address']):
-            errors.append('invalid address format')
-        elif not Web3.isChecksumAddress(metadata['address']):
-            errors.append('address is not checksummed')
+        elif metadata['address'] != "$spell_address":  # Check if it's not the placeholder
+            if not Web3.is_address(metadata['address']):
+                errors.append('invalid address format')
+            elif not Web3.is_checksum_address(metadata['address']):
+                errors.append('address is not checksummed')
+        # Note: If the address is "$spell_address", it's considered a valid placeholder and skipped
 
         return errors
 
