@@ -27,11 +27,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes:
-* Increase the WSTETH-A [ilk.hole](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 15 million DAI from 15 million DAI to **30 million DAI**.
-* Increase the WSTETH-B [ilk.hole](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 10 million DAI from 10 million DAI to **20 million DAI**.
-* Decrease the WBTC-A [ilk.hole](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 20 million DAI from 30 million DAI to **10 million DAI**.
-* Decrease the WBTC-B [ilk.hole](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 5 million DAI from 10 million DAI to **5 million DAI**.
-* Decrease the WBTC-C [ilk.hole](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 10 million DAI from 20 million DAI to 10 million DAI**.
+* Increase the WSTETH-A [Local Liquidation Limit (`ilk.hole`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 15 million DAI from 15 million DAI to **30 million DAI**.
+* Increase the WSTETH-B [Local Liquidation Limit (`ilk.hole`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 10 million DAI from 10 million DAI to **20 million DAI**.
+* Decrease the WBTC-A [Local Liquidation Limit (`ilk.hole`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 20 million DAI from 30 million DAI to **10 million DAI**.
+* Decrease the WBTC-B [Local Liquidation Limit (`ilk.hole`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 5 million DAI from 10 million DAI to **5 million DAI**.
+* Decrease the WBTC-C [Local Liquidation Limit (`ilk.hole`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-5-8-local-liquidation-limit-hole-) by 10 million DAI from 20 million DAI to 10 million DAI**.
 * Increase the [Global Liquidation Limit (`Hole`)](https://manual.makerdao.com/parameter-index/core/param-global-liquidation-limit) by 50 million DAI from 100 million DAI to **150 million DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/stability-scope-auction-parameters-changes-1-liquidation-throughput-limit/23508) and analysis from BA Labs to help inform your position before voting.
