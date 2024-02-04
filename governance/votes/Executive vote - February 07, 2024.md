@@ -68,7 +68,7 @@ This will have the following net results:
 
 1. Debt Ceiling remains at 0 after the transaction has executed.
 2. Dai minted from PSM_GUSD_A increases to 567,659.91 DAI.
-3. GUSD balance of [MCD_JOIN_PSM_GUSD_A](https://etherscan.io/address/0x79a0fa989fb7adf1f8e80c93ee605ebb94f7c6a5) increases to 567,659.91 DAI.
+3. GUSD balance of [MCD_JOIN_PSM_GUSD_A](https://etherscan.io/address/0x79a0fa989fb7adf1f8e80c93ee605ebb94f7c6a5) increases to 567,659.91 GUSD.
 4. GUSD balance of [PSM_GUSD_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0x6934218d8b3e9ffcabee8cd80f4c1c4167afa638) decreases to 0 GUSD.
 5. Surplus Buffer increases by 567,659 DAI.
 
@@ -77,7 +77,7 @@ This will have the following net results:
 * **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-2-q4-2023/23593/2)
 * **Proposal**: [Forum post "Spark - Aave Revenue Share Calculation & Payment #2 [Q4 2023]"](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-2-q4-2023/23593)
 
-If this executive proposal passes, the following Dai transfer will be sent as part of the revenue sharing agreement between SparkLend and Aave, defined in the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#9-4-1-spark-protocol-aave-revenue-share).
+If this executive proposal passes, the following Dai transfer will be sent as part of the revenue sharing agreement between SparkLend and Aave defined in the [Support Scope](https://mips.makerdao.com/mips/details/MIP106#9-4-1-spark-protocol-aave-revenue-share).
 
 * Transfer **100,603 DAI** to [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)
 
