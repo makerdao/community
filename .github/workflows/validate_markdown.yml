@@ -1,12 +1,16 @@
 name: Validate Markdown
 
 on:
-  pull_request:
+  pull_request_target:
+    types: [opened, syncrhonze, reopened]
     paths:
       - 'governance/votes/*.md'
+    branches:
+      - 'master'
 
 jobs:
   validate:
+    if: github.event.pull_request.merged == false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
