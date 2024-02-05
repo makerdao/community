@@ -17,10 +17,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - Changes to the liquidation limit for multiple vaults.
-- The remaining GUSD in the PSM_GUSD_A_INPUT_CONDUIT_JAR will be coverted to Dai and added to the Surplus Buffer.
+- The remaining GUSD in the PSM_GUSD_A_INPUT_CONDUIT_JAR will be converted to Dai and added to the Surplus Buffer.
 - **100,603 DAI** will be paid to Aave as part of the SparkLend revenue share.
 - The HV Bank (RWA009-A) `doc` parameter will be updated.
-- Ten Aligned Delegates will receive compensation for January 2024.
+- Ten Aligned Delegates will receive a total of 277.62 MKR as compensation for January 2024.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -59,10 +59,10 @@ If this executive proposal passes, the following auction parameter changes will 
 
 If this executive proposal passes, the following actions will be taken to `push` the remaining GUSD out of the PSM_GUSD_INPUT_CONDUIT_JAR, exchange it for Dai, and add it to the Surplus Buffer:
 
-1. Raise Debt Ceiling of PSM_GUSD_A to 567,660 DAI - accounts for the outstanding debt of 0.91 DAI of the vault.
-2. Call `push(uint256 amt)` on the the [PSM_GUSD_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0x6934218d8b3e9ffcabee8cd80f4c1c4167afa638) contract with an `amt` of 597,659, depositing the contents of the contract to the PSM and receiving an identical amount of Dai into the [PSM_GUSD_A_JAR](https://etherscan.io/address/0xf2e7a5b83525c3017383deed19bb05fe34a62c27) contract.
+1. Raise Debt Ceiling of PSM_GUSD_A to **567,660 DAI** - accounting for the GUSD rewards and the remaining 0.91 DAI debt still present in the vault.
+2. Call `push(uint256 amt)` on the [PSM_GUSD_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0x6934218d8b3e9ffcabee8cd80f4c1c4167afa638) contract with an `amt` of **597,659**, depositing the contents of the contract to the PSM and receiving an identical amount of Dai into the [PSM_GUSD_A_JAR](https://etherscan.io/address/0xf2e7a5b83525c3017383deed19bb05fe34a62c27) contract.
 3. Call `void` on the [PSM_GUSD_A_JAR](https://etherscan.io/address/0xf2e7a5b83525c3017383deed19bb05fe34a62c27) contract to deposit the Dai to the Surplus Buffer.
-4. Decrease Debt Ceiling of PSM_GUSD_A back to 0 DAI.
+4. Decrease Debt Ceiling of PSM_GUSD_A back to **0 DAI**.
 
 This will have the following net results:
 
@@ -86,7 +86,7 @@ If this executive proposal passes, the following Dai transfer will be sent as pa
 * **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/20)
 * **Proposal**: [Forum comment](http://forum.makerdao.com/t/rwa009-hvbank-mip21-token-ces-domain-team-assessment/15861/19)
 
-Due to passage of a recent DAO Resolution for the RWA009-A vault, the `doc` parameter is out-of-date. If this executive proposal passes, it will be updated as follows:
+Due to the passage of a recent DAO Resolution for the RWA009-A vault, the `doc` parameter is out-of-date. If this executive proposal passes, it will be updated as follows:
 
 * Set the RWA009-A `doc` to [QmPzuLuJ5Xq6k6Hbop1W5s4V9ksvafYoqcW9sU5QRwz5h1](https://gateway.pinata.cloud/ipfs/QmPzuLuJ5Xq6k6Hbop1W5s4V9ksvafYoqcW9sU5QRwz5h1).
 
