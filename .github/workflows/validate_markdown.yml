@@ -5,8 +5,6 @@ on:
     types: [opened, syncrhonze, reopened]
     paths:
       - 'governance/votes/*.md'
-    branches:
-      - 'master'
 
 jobs:
   validate:
