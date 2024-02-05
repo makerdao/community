@@ -4225,5 +4225,10 @@
     "high-impact",
     "oracle",
     "spark"
+  ],
+  "1071": [
+    "medium-impact",
+    "risk-parameter",
+    "auctions"
   ]
 }
