@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 07, 2024
+title: Template - [Executive Vote] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 7, 2024
 summary: Update auction throughput parameters, convert remaining GUSD into Dai, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, update the `doc` for RWA009-A, Aligned Delegate compensation transfers for January 2024.
 date: 2024-02-07T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 07, 2024
+# [Executive Proposal] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 7, 2024
 
 The Governance Facilitator, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -59,7 +59,7 @@ If this executive proposal passes, the following auction parameter changes will 
 
 If this executive proposal passes, the following actions will be taken to `push` the remaining GUSD out of the PSM_GUSD_INPUT_CONDUIT_JAR, exchange it for Dai, and add it to the Surplus Buffer:
 
-1. Raise Debt Ceiling of PSM_GUSD_A to **567,660 DAI** - accounting for the GUSD rewards and the remaining 0.91 DAI debt still present in the vault.
+1. Raise Debt Ceiling of PSM_GUSD_A to **597,660 DAI** - accounting for the GUSD rewards and the remaining 0.91 DAI debt still present in the vault.
 2. Call `push(uint256 amt)` on the [PSM_GUSD_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0x6934218d8b3e9ffcabee8cd80f4c1c4167afa638) contract with an `amt` of **597,659**, depositing the contents of the contract to the PSM and receiving an identical amount of Dai into the [PSM_GUSD_A_JAR](https://etherscan.io/address/0xf2e7a5b83525c3017383deed19bb05fe34a62c27) contract.
 3. Call `void` on the [PSM_GUSD_A_JAR](https://etherscan.io/address/0xf2e7a5b83525c3017383deed19bb05fe34a62c27) contract to deposit the Dai to the Surplus Buffer.
 4. Decrease Debt Ceiling of PSM_GUSD_A back to **0 DAI**.
