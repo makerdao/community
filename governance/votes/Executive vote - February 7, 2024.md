@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 7, 2024
 summary: Update auction throughput parameters, convert remaining GUSD into Dai, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, update the `doc` for RWA009-A, Aligned Delegate compensation transfers for January 2024.
 date: 2024-02-07T00:00:00.000Z
-address: "$spell_address"
+address: "0x0E9AB92e3Fad77eE35a5f702Ac56c48bAAB7B0eE"
 
 ---
 # [Executive Proposal] Auction Parameter Updates, GUSD Input Conduit Management, Aave-SparkLend Revenue Share, RWA009-A doc Update, Delegate Compensation for January 2024 - February 7, 2024
