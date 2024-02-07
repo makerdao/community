@@ -67,10 +67,10 @@ If this executive proposal passes, the following actions will be taken to `push`
 This will have the following net results:
 
 1. Debt Ceiling remains at 0 after the transaction has executed.
-2. Dai minted from PSM_GUSD_A increases to 567,659.91 DAI.
-3. GUSD balance of [MCD_JOIN_PSM_GUSD_A](https://etherscan.io/address/0x79a0fa989fb7adf1f8e80c93ee605ebb94f7c6a5) increases to 567,659.91 GUSD.
+2. Dai minted from PSM_GUSD_A increases to 597,659.91 DAI.
+3. GUSD balance of [MCD_JOIN_PSM_GUSD_A](https://etherscan.io/address/0x79a0fa989fb7adf1f8e80c93ee605ebb94f7c6a5) increases to 597,659.91 GUSD.
 4. GUSD balance of [PSM_GUSD_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0x6934218d8b3e9ffcabee8cd80f4c1c4167afa638) decreases to 0 GUSD.
-5. Surplus Buffer increases by 567,659 DAI.
+5. Surplus Buffer increases by 597,659 DAI.
 
 ### Aave-SparkLend Revenue Share
 
