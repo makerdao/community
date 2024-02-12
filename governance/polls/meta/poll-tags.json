@@ -4230,5 +4230,34 @@
     "medium-impact",
     "risk-parameter",
     "auctions"
+  ],
+  "1072": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1073": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1074": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1075": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1076": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
