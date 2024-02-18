@@ -1,0 +1,121 @@
+---
+title: Template - [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Increasing wstETH Supply Cap on Spark Ethereum, Increasing the Spark DAI Effective Borrow APY, Housekeeping Actions, Triggering Spark Proxy Spell - February 22, 2024
+summary: Stability Fee changes for ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C, Spark Protocol DC-IAM parameter changes, increasing wstETH supply cap to 1.2M on Spark Ethereum, increasing the Spark DAI effective borrow APY to 6.70%, pushing USDP out of input conduit, yanking BA Labs DAI and MKR vest streams, triggering Spark proxy spell.  
+date: 2024-02-22T00:00:00.000Z
+address: "$spell_address"
+
+---
+# [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Increasing wstETH Supply Cap on Spark Ethereum, Increasing the Spark DAI Effective Borrow APY, Pushing USDP out of Input Conduit, Yanking Vest Streams, Triggering Spark Proxy Spell - February 22, 2024
+
+The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+
+If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+
+---
+
+## Executive Summary
+
+If this executive proposal passes, the following actions will occur within the Maker Protocol:
+
+- ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) decreases, as detailed below. 
+- Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameter changes, as detailed below.
+- Increasing wstETH Supply Cap to **1.2M** on Spark Ethereum, as detailed below.
+- Increasing the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**, as detailed below.
+- Housekeeping actions:
+  - Yanking BA Labs DAI and MKR vest streams, as detailed below.
+  - Pushing USDP out of input conduit, as detailed below.
+- Triggering Spark proxy spell, as detailed below.
+
+**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+
+Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+
+If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+
+---
+
+## Proposal Details
+
+### ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Decreases
+
+**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2)
+**Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688)
+
+If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following parameters will be changed:
+
+- Decrease the ETH-A Stability Fee by 0.33 percentage points, from 6.74% to **6.41%**.
+- Decrease the ETH-B Stability Fee by 0.33 percentage points, from 7.24% to **6.91%**.
+- Decrease the ETH-C Stability Fee by 0.33 percentage points, from 6.49% to **6.16%**.
+- Decrease the WSTETH-A Stability Fee by 0.51 percentage points, from 7.16% to **6.65%**.
+- Decrease the WSTETH-B Stability Fee by 0.51 percentage points, from 6.91% to **6.40%**.
+- Decrease the WBTC-A Stability Fee by 0.02 percentage points, from 6.70% to **6.68%**.
+- Decrease the WBTC-B Stability Fee by 0.02 percentage points, from 7.20% to **7.18%**.
+- Decrease the WBTC-C Stability Fee by 0.02 percentage points, from 6.45% to **6.43%**.
+
+### Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) Parameter Changes
+
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656/3)
+**Proposal:** [Forum post "[Feb 9, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656)
+
+If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the following Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed:
+
+- Increase the DIRECT-SPARK-DAI [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 300 million DAI from 1.2 billion DAI to **1.5 billion DAI**.
+- Increase the DIRECT-SPARK-DAI [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 20 million DAI from 20 million DAI to **40 million DAI**.
+- Increase the DIRECT-SPARK-DAI [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) by 12 hours from 12 hours to **24 hours**.
+- Increase the DIRECT-SPARK-DAI buffer by 20 million DAI from 30 million DAI to **50 million DAI**.
+
+### Increasing wstETH Supply Cap on Spark Ethereum
+
+**Authorization:** TBD
+**Proposal:** [Forum post "[Feb 14, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684)
+
+If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the wstETH supply cap on Spark Ethereum will be changed:
+
+- Increase the wstETH supply cap to **1,2M**.
+
+### Increasing the Spark DAI Effective Borrow APY on Spark Ethereum
+
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2)
+**Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688)
+
+If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the DAI effective borrow rate on Spark Ethereum will be changed:
+
+- Increase the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**.
+
+### Housekeeping Actions
+
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2)
+**Proposal:** [Forum post "Proposed Housekeeping items (Upcoming Executive Spell - 2024-02-22)"](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697)
+
+#### Push USDP out of Input Conduit
+
+If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
+
+- Raise the `PSM_PAX_A`Debt Ceiling temporarily from 0 DAI to 1,000,000 DAI.
+- Deposit the contents of `PSM_PAX_A_INPUT_CONDUIT_JA` to the PSM, and receive an identical DAI amount into `PSM_PAX_A_JAR`.
+- Deposit the contents of `PSM_PAX_A_JAR` to the Surplus Buffer.
+- Decrease the `PSM_PAX_A`Debt Ceiling back to 0 DAI.
+
+#### Yank BA Labs DAI and MKR Vest Streams
+
+If this executive proposal passes, following the recommendation of the Governance Facilitators, the BA Labs DAI and MKR vest streams will be cancelled (yanked), namely:
+
+- yank BA Labs DAI stream 20.
+- yank BA Labs DAI stream 21.
+- yank BA Labs MKR stream 35.
+
+### Trigger Spark Proxy Spell
+
+TBD
+
+## Review
+
+Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+
+---
+
+## Resources
+
+Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
+
+To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
