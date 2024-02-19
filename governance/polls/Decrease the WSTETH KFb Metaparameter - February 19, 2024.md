@@ -37,6 +37,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/atlas-rate-sy
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
 - [MIP104 14.3.1.3.1A](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-1a) will be edited to reflect the decrease of the WSTETH `KFb` metaparameter.
+- The outcome of this poll will supersede the results of any other poll approved in the same weekly governance cycle, but only for the specific WSTETH KFb metaparameter. Other parameters modified by the other poll will remain unaffected.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
