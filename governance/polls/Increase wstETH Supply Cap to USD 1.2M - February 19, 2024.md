@@ -1,6 +1,6 @@
 ---
 title: Increase wstETH Supply Cap to USD 1.2M - February 19, 2024
-summary: Signal your support or opposition to increasing the wstETH supply cap to USD 1.2M.
+summary: Signal your support or opposition to increasing the wstETH supply cap to 1.2 million wstETH.
 discussion_link: https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684
 parameters:
     input_format: single-choice
