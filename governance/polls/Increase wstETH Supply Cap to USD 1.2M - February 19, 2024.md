@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-- Increase [wstETH](https://app.spark.fi/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_spark_v3) [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) by 400,000 wstETH from 800,000 to **USD 1.2 million** wstETH.
+- Increase [wstETH](https://app.spark.fi/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_spark_v3) [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) by 400,000 wstETH from 800,000 to **1.2 million wstETH**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684) to help inform your position before voting.
 
