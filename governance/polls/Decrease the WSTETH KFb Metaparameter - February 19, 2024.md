@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-- Decrease the WSTETH [`KFb` metaparameter](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) by 6% from 13.5% to **7.5%**.
+- Decrease the WSTETH [`KFb` metaparameter](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) to **7.5%**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/atlas-rate-system-iteration-1-adjusting-wsteth-asset-spread/23687) to help inform your position before voting.
 
