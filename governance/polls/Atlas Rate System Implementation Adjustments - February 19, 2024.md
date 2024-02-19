@@ -26,7 +26,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+To move forward toward automation in the [new exposure model](https://forum.makerdao.com/t/atlas-rate-system-for-stability-fee-research-introduction-to-exposure-based-model/23239), BA Labs has decided to transition from spreadsheet-based modeling to Python-based modeling. To do so, some minor adjustments have to be implemented to make the model more precise.
+
+The adjustments include:
+
+- Making the exposure series continuous.
+- Modifying the KFb meta-parameter to be the sum of the previously calculated KFa and KFb.
+- Increasing the model's sensitivity to 0.01% exposures.
+
+To implement the aforementioned adjustments, the community is invited to vote in this poll to express support or opposition to the following changes:
 
 - [MIP104: Stability Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP104#0-the-stability-scope) will be edited to incorporate the following parameter changes:
   - Increase the ETH KFa factor by 5.48625% from 0.01375% to **5.5%**.
@@ -44,6 +52,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/atlas-rate-sy
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 - [MIP104: Stability Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP104#0-the-stability-scope) [3.2.2A](https://mips.makerdao.com/mips/details/MIP104#3-2-2a) and [14.3.1.3.1A](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-1a) will be edited to include the aforementioned parameter changes.
+- The WSTETH KFb factor is also addressed in Poll ID 1078. Should both polls pass, the parameter's final value will align with the outcome of Poll ID 1078.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
