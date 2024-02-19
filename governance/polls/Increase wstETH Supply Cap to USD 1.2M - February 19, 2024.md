@@ -15,7 +15,7 @@ options:
 start_date: 2024-02-19T16:00:00
 end_date: 2024-02-22T16:00:00
 ---
-# Poll: Increase wstETH Supply Cap to 1.2M - February 19, 2024
+# Poll: Increase wstETH Supply Cap to 1.2 Million wstETH - February 19, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of ecosystem actor Phoenix Labs. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, February 19 at 16:00 UTC.
 
