@@ -5,7 +5,7 @@ date: 2024-02-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Increasing wstETH Supply Cap on Spark Ethereum, Increasing the Spark DAI Effective Borrow APY, Pushing USDP out of Input Conduit, Yanking Vest Streams, Triggering Spark Proxy Spell - February 22, 2024
+# [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
