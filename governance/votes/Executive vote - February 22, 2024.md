@@ -101,7 +101,7 @@ The reason for this recommendation is that BA Labs will transition to Launch Pro
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2), [Governance Poll](https://vote.makerdao.com/polling/QmQC1UXZ)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688), [Forum post "[Feb 14, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684)
 
-If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at TBD will be executed, containing the following major items:
+If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at [0x5D9406F377e6aFebAE18552806EA327eC7B10000](https://etherscan.io/address/0x5D9406F377e6aFebAE18552806EA327eC7B10000) will be executed, containing the following major items:
 - Increase the [wstETH](https://app.spark.fi/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_spark_v3) [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) to **1.2 million wstETH**.
 - Increase the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**.
 
