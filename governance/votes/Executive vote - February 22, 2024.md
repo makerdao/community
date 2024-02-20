@@ -62,30 +62,12 @@ If this executive proposal passes, following the recommendation of Ecosystem Act
 - Increase the DIRECT-SPARK-DAI [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) by 12 hours from 12 hours to **24 hours**.
 - Increase the DIRECT-SPARK-DAI buffer by 20 million DAI from 30 million DAI to **50 million DAI**.
 
-### Increasing wstETH Supply Cap on Spark Ethereum
-
-**Authorization:** TBD
-**Proposal:** [Forum post "[Feb 14, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684)
-
-If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the wstETH supply cap on Spark Ethereum will be changed:
-
-- Increase the wstETH supply cap to **1,2M**.
-
-### Increasing the Spark DAI Effective Borrow APY on Spark Ethereum
-
-**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2)
-**Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688)
-
-If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the DAI effective borrow rate on Spark Ethereum will be changed:
-
-- Increase the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**.
-
 ### Housekeeping Actions
 
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2)
 **Proposal:** [Forum post "Proposed Housekeeping items (Upcoming Executive Spell - 2024-02-22)"](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697)
 
-#### Push USDP out of Input Conduit
+#### Push USDP out of the Input Conduit
 
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
 
