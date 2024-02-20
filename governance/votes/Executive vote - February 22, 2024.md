@@ -52,7 +52,7 @@ If this executive proposal passes, following the recommendation of the Stability
 
 ### Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) Parameter Changes
 
-**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656/3)
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656/3)\
 **Proposal:** [Forum post "[Feb 9, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656)
 
 If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the following Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed:
@@ -64,7 +64,7 @@ If this executive proposal passes, following the recommendation of Ecosystem Act
 
 ### Housekeeping Actions
 
-**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2)
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2)\
 **Proposal:** [Forum post "Proposed Housekeeping items (Upcoming Executive Spell - 2024-02-22)"](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697)
 
 #### Push USDP out of the Input Conduit
