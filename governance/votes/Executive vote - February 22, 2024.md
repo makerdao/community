@@ -19,7 +19,6 @@ If this executive proposal passes, the following actions will occur within the M
 
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) decreases, as detailed below. 
 - Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameter changes, as detailed below.
-- Increasing the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**, as detailed below.
 - Housekeeping actions:
   - Yanking BA Labs DAI and MKR vest streams, as detailed below.
   - Pushing USDP out of input conduit, as detailed below.
