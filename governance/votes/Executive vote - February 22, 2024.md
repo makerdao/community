@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] Stability Fee Changes, Spark Protocol D3M Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
-summary: Stability Fee changes for ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C, Spark Protocol DC-IAM parameter changes, pushing USDP out of input conduit, yanking BA Labs DAI and MKR vest streams, triggering Spark proxy spell.  
+summary: Stability Fee changes for ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C, Spark Protocol D3M (DC-IAM) parameter changes, pushing USDP out of input conduit, yanking BA Labs DAI and MKR vest streams, triggering Spark proxy spell.  
 date: 2024-02-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
+# [Executive Vote] Stability Fee Changes, Spark Protocol D3M Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased, as detailed below. 
-- Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed, as detailed below.
+- Spark Protocol [D3M (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed, as detailed below.
 - The following housekeeping actions will be carried out:
   - BA Labs DAI and MKR vest streams will be yanked, as detailed below.
   - USDP will be pushed out of the input conduit, as detailed below.
@@ -50,12 +50,12 @@ If this executive proposal passes, following the recommendation of the Stability
 - Decrease the WBTC-B Stability Fee by 0.02 percentage points, from 7.20% to **7.18%**.
 - Decrease the WBTC-C Stability Fee by 0.02 percentage points, from 6.45% to **6.43%**.
 
-### Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) Parameter Changes
+### Spark Protocol [D3M (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) Parameter Changes
 
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656/3)\
 **Proposal:** [Forum post "[Feb 9, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656)
 
-If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the following Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed:
+If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the following Spark Protocol [D3M (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed:
 
 - Increase the DIRECT-SPARK-DAI [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 300 million DAI from 1.2 billion DAI to **1.5 billion DAI**.
 - Increase the DIRECT-SPARK-DAI [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 20 million DAI from 20 million DAI to **40 million DAI**.
