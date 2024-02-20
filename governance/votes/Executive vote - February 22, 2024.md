@@ -57,10 +57,11 @@ If this executive proposal passes, following the recommendation of the Stability
 
 If this executive proposal passes, following the recommendation of Ecosystem Actor Phoenix Labs, the following Spark Protocol Dai Direct Deposit Module (D3M) parameters will be changed:
 
-- Increase the DIRECT-SPARK-DAI [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 300 million DAI from 1.2 billion DAI to **1.5 billion DAI**.
-- Increase the DIRECT-SPARK-DAI [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 20 million DAI from 20 million DAI to **40 million DAI**.
-- Increase the DIRECT-SPARK-DAI [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) by 12 hours from 12 hours to **24 hours**.
-- Increase the DIRECT-SPARK-DAI buffer by 20 million DAI from 30 million DAI to **50 million DAI**.
+- Increase the `DIRECT-SPARK-DAI` [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) by 300 million DAI from 1.2 billion DAI to **1.5 billion DAI**.
+- Increase the `DIRECT-SPARK-DAI` [Target Available Debt (`gap`)](https://manual.makerdao.com/module-index/module-dciam#target-available-debt-gap) by 20 million DAI from 20 million DAI to **40 million DAI**.
+- Increase the `DIRECT-SPARK-DAI` [Ceiling Increase Cooldown (`ttl`)](https://manual.makerdao.com/module-index/module-dciam#ceiling-increase-cooldown-ttl) by 12 hours from 12 hours to **24 hours**.
+- Increase the `DIRECT-SPARK-DAI` buffer by 20 million DAI from 30 million DAI to **50 million DAI**.
+  - The `buffer` value is set in the [SparkLend D3MPlan](https://etherscan.io/address/0x104fadbb7e17db1a685bba61007dfb015206a4d2#code) contract. It controls the target amount of DAI available for borrowing at any given time in SparkLend. For example, if 100 million DAI has been borrowed and the `buffer` is set to 20 million DAI, the D3M will mint enough DAI to ensure that the Total Supply is 120 million DAI and deposit it to SparkLend, assuming there is sufficient available Debt Ceiling.
 
 ### Housekeeping Actions
 
@@ -80,8 +81,8 @@ This will have the following net results:
 
 - **Debt Ceiling** remains at **0 DAI** after the transaction has been executed.
 - Dai generated from `PSM_PAX_A` increases by **754,598.72 DAI**.
-- USDP balance of `MCD_JOIN_PSM_PAX_A` increases by **754,598.72 USDP**.
-- USDP balance of `PSM_PAX_A_INPUT_CONDUIT_JAR` decreases to **0 USDP**.
+- USDP balance of [MCD_JOIN_PSM_PAX_A](https://etherscan.io/address/0x7bbd8ca5e413bca521c2c80d8d1908616894cf21) increases by **754,598.72 USDP**.
+- USDP balance of [PSM_PAX_A_INPUT_CONDUIT_JAR](https://etherscan.io/address/0xda276ab5f1505965e0b6cd1b6da2a18ccbb29515) decreases to **0 USDP**.
 - Surplus Buffer increases by **754,598.72 DAI**.
 
 
@@ -92,6 +93,8 @@ If this executive proposal passes, following the recommendation of the Governanc
 - yank BA Labs **DAI** stream **20**.
 - yank BA Labs **DAI** stream **21**.
 - yank BA Labs **MKR** stream **35**.
+
+The reason for this recommendation is that BA Labs will transition to Launch Project funding.
 
 ### Trigger Spark Proxy Spell
 
