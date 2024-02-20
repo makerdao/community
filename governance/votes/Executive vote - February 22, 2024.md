@@ -64,17 +64,26 @@ If this executive proposal passes, following the recommendation of Ecosystem Act
 
 ### Housekeeping Actions
 
-**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2)\
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2), [2](http://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/4)\
 **Proposal:** [Forum post "Proposed Housekeeping items (Upcoming Executive Spell - 2024-02-22)"](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697)
 
 #### Push USDP out of the Input Conduit
 
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
 
-- Raise the `PSM_PAX_A`Debt Ceiling temporarily from 0 DAI to 1,000,000 DAI.
-- Deposit the contents of `PSM_PAX_A_INPUT_CONDUIT_JA` to the PSM, and receive an identical DAI amount into `PSM_PAX_A_JAR`.
-- Deposit the contents of `PSM_PAX_A_JAR` to the Surplus Buffer.
-- Decrease the `PSM_PAX_A`Debt Ceiling back to 0 DAI.
+- Raise `PSM-PAX-A` DC to **1,000,000 DAI**
+- Call push() on `MCD_PSM_PAX_A_INPUT_CONDUIT_JAR` (use push(uint256 amt)) to push **754,598.72 USDP**
+- Call void() on `MCD_PSM_PAX_A_JAR`
+- Set `PSM-PAX-A` DC to **0 DAI**
+
+This will have the following net results:
+
+- **Debt Ceiling** remains at **0 DAI** after the transaction has been executed.
+- Dai generated from `PSM_PAX_A` increases by **754,598.72 DAI**.
+- USDP balance of `MCD_JOIN_PSM_PAX_A` increases by **754,598.72 USDP**.
+- USDP balance of `PSM_PAX_A_INPUT_CONDUIT_JAR` decreases to **0 USDP**.
+- Surplus Buffer increases by **754,598.72 DAI**.
+
 
 #### Yank BA Labs DAI and MKR Vest Streams
 
