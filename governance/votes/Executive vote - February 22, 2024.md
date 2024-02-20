@@ -72,7 +72,7 @@ If this executive proposal passes, following the recommendation of Ecosystem Act
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
 
 - Raise `PSM-PAX-A` Debt Ceiling to **1,000,000 DAI**
-- Call push() on `MCD_PSM_PAX_A_INPUT_CONDUIT_JAR` (use push(uint256 amt)) to push **754,598.72 USDP**
+- Call push(uint256 amt) on `MCD_PSM_PAX_A_INPUT_CONDUIT_JAR` with an `amt` of **754,598.72 USDP**
 - Call void() on `MCD_PSM_PAX_A_JAR`
 - Set `PSM-PAX-A` Debt Ceiling to **0 DAI**
 
