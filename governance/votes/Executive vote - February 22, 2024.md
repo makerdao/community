@@ -50,7 +50,7 @@ If this executive proposal passes, following the recommendation of the Stability
 - Decrease the WBTC-B Stability Fee by 0.02 percentage points, from 7.20% to **7.18%**.
 - Decrease the WBTC-C Stability Fee by 0.02 percentage points, from 6.45% to **6.43%**.
 
-### Spark Protocol Dai Direct Deposit Module (D3M) Parameter Changes
+### SparkLend Dai Direct Deposit Module (D3M) Parameter Changes
 
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656/3)\
 **Proposal:** [Forum post "[Feb 9, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-9-2024-proposed-changes-to-sparklend-for-upcoming-spell/23656)
