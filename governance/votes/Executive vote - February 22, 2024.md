@@ -18,11 +18,11 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fees](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) will be decreased, as detailed below. 
-- Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameter changes, as detailed below.
-- Housekeeping actions:
-  - Yanking BA Labs DAI and MKR vest streams, as detailed below.
-  - Pushing USDP out of input conduit, as detailed below.
-- Triggering Spark proxy spell, as detailed below.
+- Spark Protocol [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) parameters will be changed, as detailed below.
+- The following housekeeping actions will be carried out:
+  - BA Labs DAI and MKR vest streams will be yanked, as detailed below.
+  - USDP will be pushed out of the input conduit, as detailed below.
+- A Spark Protocol proxy spell will be triggered, as detailed below.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
