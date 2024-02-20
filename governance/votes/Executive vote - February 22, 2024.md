@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C [Stability Fee](https://manual.makerdao.com/parameter-index/vault-risk/param-stability-fee) Decreases
 
-**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2)
+**Authorization:** [Ecosystem Approval](http://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2)\
 **Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688)
 
 If this executive proposal passes, following the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following parameters will be changed:
