@@ -67,7 +67,7 @@ If this executive proposal passes, following the recommendation of Ecosystem Act
 **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/2), [2](http://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697/4)\
 **Proposal:** [Forum post "Proposed Housekeeping items (Upcoming Executive Spell - 2024-02-22)"](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-02-22/23697)
 
-#### Push USDP out of the Input Conduit
+#### USDP Input Conduit Management
 
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
 
