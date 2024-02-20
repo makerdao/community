@@ -86,7 +86,12 @@ If this executive proposal passes, following the recommendation of the Governanc
 
 ### Trigger Spark Proxy Spell
 
-TBD
+**Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688/2), [Governance Poll](https://vote.makerdao.com/polling/QmQC1UXZ)\
+**Proposal:** [Forum post "Stability Scope Parameter Changes #9"](https://forum.makerdao.com/t/stability-scope-parameter-changes-9/23688), [Forum post "[Feb 14, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/feb-14-2024-proposed-changes-to-sparklend-for-upcoming-spell/23684)
+
+If this executive proposal passes, the SparkLend Proxy Spell (Ethereum) at TBD will be executed, containing the following major items:
+- Increase the [wstETH](https://app.spark.fi/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_spark_v3) [Supply Cap](https://docs.sparkprotocol.io/developers/sparklend/features/supply-borrow-caps#supply-caps) to **1,2M**.
+- Increase the Spark DAI Effective Borrow APY by 0.24 percentage points, from 6.46% to **6.70%**.
 
 ## Review
 
