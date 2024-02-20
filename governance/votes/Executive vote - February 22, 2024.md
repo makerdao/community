@@ -87,11 +87,11 @@ This will have the following net results:
 
 #### Yank BA Labs DAI and MKR Vest Streams
 
-If this executive proposal passes, following the recommendation of the Governance Facilitators, the BA Labs DAI and MKR vest streams will be cancelled (yanked), namely:
+If this executive proposal passes, following the recommendation of the Governance Facilitators, the BA Labs DAI and MKR vest streams will be canceled (yanked), namely:
 
-- yank BA Labs DAI stream 20.
-- yank BA Labs DAI stream 21.
-- yank BA Labs MKR stream 35.
+- yank BA Labs **DAI** stream **20**.
+- yank BA Labs **DAI** stream **21**.
+- yank BA Labs **MKR** stream **35**.
 
 ### Trigger Spark Proxy Spell
 
