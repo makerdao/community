@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Increasing wstETH Supply Cap on Spark Ethereum, Increasing the Spark DAI Effective Borrow APY, Housekeeping Actions, Triggering Spark Proxy Spell - February 22, 2024
+title: Template - [Executive Vote] Stability Fee Changes, Spark Protocol DC-IAM Parameter Changes, Housekeeping Actions, Triggering Spark Proxy Spell - February 22, 2024
 summary: Stability Fee changes for ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C, Spark Protocol DC-IAM parameter changes, increasing wstETH supply cap to 1.2M on Spark Ethereum, increasing the Spark DAI effective borrow APY to 6.70%, pushing USDP out of input conduit, yanking BA Labs DAI and MKR vest streams, triggering Spark proxy spell.  
 date: 2024-02-22T00:00:00.000Z
 address: "$spell_address"
