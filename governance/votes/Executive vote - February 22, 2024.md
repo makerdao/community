@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Fee Changes, Spark Protocol D3M Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
 summary: Stability Fee changes for ETH-A, ETH-B, ETH-C, WSTETH-A, WSTETH-B, WBTC-A, WBTC-B, WBTC-C, Spark Protocol D3M parameter changes, pushing USDP out of input conduit, yanking BA Labs DAI and MKR vest streams, triggering Spark proxy spell.  
 date: 2024-02-22T00:00:00.000Z
-address: "$spell_address"
+address: "0xdB2C426173e5a9c10af3CD834B87DEAad40525Ff"
 
 ---
 # [Executive Vote] Stability Fee Changes, Spark Protocol D3M Parameter Changes, Housekeeping Actions, Spark Proxy Spell - February 22, 2024
