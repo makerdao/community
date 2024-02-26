@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Collateral Parameter Changes - February 26, 2024
-summary: Signal your support or opposition to the SparkLend Collateral Parameter Changes
+summary: Signal your support or opposition to the SparkLend Collateral Parameter Changes.
 discussion_link: https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739
 parameters:
     input_format: single-choice
