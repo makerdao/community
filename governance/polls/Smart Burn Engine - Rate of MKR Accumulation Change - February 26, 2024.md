@@ -1,6 +1,6 @@
 ---
 title: Smart Burn Engine - Rate of MKR Accumulation Change - February 26, 2024
-summary: Signal your support or opposition to the changing the Smart Burn Engine Rate of MKR Accumulation
+summary: Signal your support or opposition to changing the Smart Burn Engine Rate of MKR Accumulation.
 discussion_link: https://forum.makerdao.com/t/smart-burn-engine-the-rate-of-mkr-accumulation-reconfiguration-and-transaction-analysis-parameter-reconfiguration-update-5/23737
 parameters:
     input_format: single-choice
