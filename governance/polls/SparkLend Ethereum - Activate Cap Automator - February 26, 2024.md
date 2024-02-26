@@ -109,7 +109,6 @@ n/a: No borrow or supply caps needed as this is effectively handled through Make
   * ttl: 12 hours
   * max: 28.5 million USDT
 
-
 Please review the discussion [thread](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739) to help inform your position before voting.
 
 ## Outcomes
