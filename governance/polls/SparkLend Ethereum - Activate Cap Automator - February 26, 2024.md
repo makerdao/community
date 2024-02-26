@@ -86,7 +86,6 @@ n/a: No borrow or supply caps needed as this is effectively handled through Make
   * max: 1 billion sDAI
 * Borrow cap: n/a - not a borrowable asset
 
-
 #### USDC
 
 * Supply cap
