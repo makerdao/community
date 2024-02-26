@@ -59,7 +59,6 @@ The community can vote in this poll to express support or opposition to the foll
 
 * Increase LTV from 90% to **92%**
 
-
 Please review the discussion [thread](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739) to help inform your position before voting.
 
 ## Outcomes
