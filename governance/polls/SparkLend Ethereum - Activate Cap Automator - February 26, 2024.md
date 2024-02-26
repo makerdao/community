@@ -45,7 +45,6 @@ n/a: No borrow or supply caps needed as this is effectively handled through Make
   * ttl: 12 hours
   * max: 1 million WETH
 
-
 #### wstETH
 
 * Supply cap
