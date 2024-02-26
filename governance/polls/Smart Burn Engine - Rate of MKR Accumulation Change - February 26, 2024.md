@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 To implement this change, the following Smart Burn Engine (SBE) parameter will be adjusted:
 
-- Decrease the [`hop` parameter](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1a) for 6,570 seconds from 26,280 seconds to **19,710 seconds**.
+- Decrease the [`hop` parameter](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1a) 6,570 seconds from 26,280 seconds to **19,710 seconds**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/smart-burn-engine-the-rate-of-mkr-accumulation-reconfiguration-and-transaction-analysis-parameter-reconfiguration-update-5/23737) to help inform your position before voting.
 
