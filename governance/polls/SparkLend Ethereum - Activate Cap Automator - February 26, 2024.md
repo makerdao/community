@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to activating the SparkLend Cap Automator. This new feature will enable dynamic adjustments to borrow and supply caps. The core mechanism is similar to the [Debt Ceiling Instant Access Modules (DC-IAM)](https://manual.makerdao.com/module-index/module-dciam) used for Maker core vaults and will help reduce governance overhead in maintaining the supply and borrow caps for various assets.
 
-If approved, the module will be activated with the following max limit (max), buffer size (gap) and cooldown (ttl) parameters for the covered assets:
+If approved, the module will be activated with the following max limit (max), buffer size (gap), and cooldown (ttl) parameters for the covered assets:
 
 #### DAI
 
