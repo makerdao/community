@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Activate Cap Automator - February 26, 2024
-summary: Signal your support or opposition to activating the SparkLend Cap Automator
+summary: Signal your support or opposition to activating the SparkLend Cap Automator.
 discussion_link: https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739
 parameters:
     input_format: single-choice
