@@ -30,83 +30,79 @@ The community can vote in this poll to express support or opposition to activati
 
 If approved, the module will be activated with the following max limit (max), buffer size (gap), and cooldown (ttl) parameters for the covered assets:
 
-#### DAI
-
-n/a: No borrow or supply caps needed as this is effectively handled through Maker D3M.
-
 #### WETH
 
 * Supply cap
-  * gap: 150,000 WETH
-  * ttl: 12 hours
-  * max: 2 million WETH
+  * `gap`: 150,000 WETH
+  * `ttl`: 12 hours
+  * `max`: 2 million WETH
 * Borrow cap
-  * gap: 10,000 WETH
-  * ttl: 12 hours
-  * max: 1 million WETH
+  * `gap`: 10,000 WETH
+  * `ttl`: 12 hours
+  * `max`: 1 million WETH
 
 #### wstETH
 
 * Supply cap
-  * gap: 50,000 wstETH
-  * ttl: 12 hours
-  * max: 1.2 million wstETH
+  * `gap`: 50,000 wstETH
+  * `ttl`: 12 hours
+  * `max`: 1.2 million wstETH
 * Borrow cap
-  * gap: 100 wstETH
-  * ttl: 12 hours
-  * max: 3,000 wstETH
+  * `gap`: 100 wstETH
+  * `ttl`: 12 hours
+  * `max`: 3,000 wstETH
 
 #### rETH
 
 * Supply cap
-  * gap: 10,000 rETH
-  * ttl: 12 hours
-  * max: 80,000 rETH
+  * `gap`: 10,000 rETH
+  * `ttl`: 12 hours
+  * `max`: 80,000 rETH
 * Borrow cap
-  * gap: 100 rETH
-  * ttl: 12 hours
-  * max: 2,400 rETH
+  * `gap`: 100 rETH
+  * `ttl`: 12 hours
+  * `max`: 2,400 rETH
 
 #### WBTC
 
 * Supply cap
-  * gap: 500 WBTC
-  * ttl: 12 hours
-  * max: 5,000 WBTC
+  * `gap`: 500 WBTC
+  * `ttl`: 12 hours
+  * `max`: 5,000 WBTC
 * Borrow cap
-  * gap: 100 WBTC
-  * ttl: 12 hours
-  * max: 2,000 WBTC
+  * `gap`: 100 WBTC
+  * `ttl`: 12 hours
+  * `max`: 2,000 WBTC
 
 #### sDAI
 
 * Supply cap
-  * gap: 50 million sDAI
-  * ttl: 12 hours
-  * max: 1 billion sDAI
+  * `gap`: 50 million sDAI
+  * `ttl`: 12 hours
+  * `max`: 1 billion sDAI
 * Borrow cap: n/a - not a borrowable asset
 
 #### USDC
 
 * Supply cap
-  * gap: n/a
-  * ttl: n/a
-  * max: 60 million USDC
+  * `gap`: n/a
+  * `ttl`: n/a
+  * `max`: 60 million USDC
 * Borrow cap
-  * gap: 6 million USDC
-  * ttl: 12 hours
-  * max: 57 million USDC
+  * `gap`: 6 million USDC
+  * `ttl`: 12 hours
+  * `max`: 57 million USDC
 
 #### USDT
 
 * Supply cap
-  * gap: n/a
-  * ttl: n/a
-  * max: 30 million USDT
+  * `gap`: n/a
+  * `ttl`: n/a
+  * `max`: 30 million USDT
 * Borrow cap
-  * gap: 3 million USDT
-  * ttl: 12 hours
-  * max: 28.5 million USDT
+  * `gap`: 3 million USDT
+  * `ttl`: 12 hours
+  * `max`: 28.5 million USDT
 
 Please review the discussion [thread](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739) to help inform your position before voting.
 
