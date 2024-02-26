@@ -78,7 +78,6 @@ n/a: No borrow or supply caps needed as this is effectively handled through Make
   * ttl: 12 hours
   * max: 2,000 WBTC
 
-
 #### sDAI
 
 * Supply cap
