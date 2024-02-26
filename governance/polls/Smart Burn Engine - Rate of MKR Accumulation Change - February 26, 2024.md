@@ -28,9 +28,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following Smart Burn Engine (SBE) change:
 
-- Increase The [Rate Of MKR Accumulation](https://mips.makerdao.com/mips/details/MIP104#9-1-2a) by 20M DAI per year from 60M DAI per year to **80M DAI per year**.
+- Increase The [Rate Of MKR Accumulation](https://mips.makerdao.com/mips/details/MIP104#9-1-2a) by 20 Million DAI per year from 60 Million DAI per year to **80 Million DAI per year**.
 
-To implement this change, the following Smart Burn Engine (SBE) parameter will be adjusted:
+To implement this change, the following SBE parameter will be adjusted:
 
 - Decrease the [`hop` parameter](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1a) 6,570 seconds from 26,280 seconds to **19,710 seconds**.
 
@@ -43,6 +43,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/smart-burn-en
 * This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Maker Protocol after the GSM Pause Delay has expired.
+* MIP104 will be edited accordingly.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
