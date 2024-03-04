@@ -21,7 +21,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - 3,000,000 DAI and 500 MKR will be distributed to the Launch Project.
 - 20.84 MKR will be paid as a whistleblower bounty.
 - The `gap` parameter for WBTC-A and WBTC-C will be increased.
-- A proxy spell for Spark Protocol at $TBD will be executed.
+- A proxy spell for Spark Protocol at 0xf3449d6D5827F0F6e0eE4a941f058307056D3736 will be executed.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -101,7 +101,7 @@ If this executive proposal passes the following changes to the `gap` parameter w
 
 ### Spark Protocol Proxy Spell
 
-If this executive proposal passes a Spark Protocol proxy spell at [$TBD]($TBD) will be executed. The expected contents of this are:
+If this executive proposal passes a Spark Protocol proxy spell at [0xf3449d6D5827F0F6e0eE4a941f058307056D3736](https://etherscan.io/address/0xf3449d6D5827F0F6e0eE4a941f058307056D3736) will be executed. The expected contents of this are:
 
 #### SparkLend CapAutomator Activation
 
