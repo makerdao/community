@@ -16,10 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- Twelve Aligned Delegates will receive a total of 259.825 MKR as compensation for February 2024.
+- Twelve Aligned Delegates will receive a total of 259.83 MKR as compensation for February 2024.
 - The `hop` parameter of the Smart Burn Engine will be decreased.
 - 3,000,000 DAI and 500 MKR will be distributed to the Launch Project.
-- 20.835 MKR will be paid as a whistleblower bounty.
+- 20.84 MKR will be paid as a whistleblower bounty.
 - The `gap` parameter for WBTC-A and WBTC-C will be increased.
 - A proxy spell for Spark Protocol at $TBD will be executed.
 
@@ -30,7 +30,6 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
-
 
 ---
 
@@ -88,7 +87,7 @@ If this executive proposal passes the following transfer of a whistleblower boun
 
 * Transfer **20.84 MKR** to @VeniceTree at [0xCDDd2A697d472d1e8a0B1B188646c756d097b058](https://etherscan.io/address/0xCDDd2A697d472d1e8a0B1B188646c756d097b058).
 
-**Note:** the MKR amount has been rounded to 2 decimal places to aid in the spellcrafting and verification process.
+**Note:** The MKR amount has been rounded to 2 decimal places to aid in the spellcrafting and verification process.
 
 ### WBTC Vault [Target Available Debt `gap`](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) Changes
 
@@ -102,7 +101,7 @@ If this executive proposal passes the following changes to the `gap` parameter w
 
 ### Spark Protocol Proxy Spell
 
-If this exeuctive proposal passes a Spark Protocol proxy spell at [$TBD]($TBD) will be executed. The expected contents of this are:
+If this executive proposal passes a Spark Protocol proxy spell at [$TBD]($TBD) will be executed. The expected contents of this are:
 
 #### SparkLend CapAutomator Activation
 
