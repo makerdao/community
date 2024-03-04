@@ -71,7 +71,7 @@ If this executive proposal passes the following change to the `hop` parameter of
 ### Launch Project Funding
 
 * **Authorization**: [Accessibility Scope 9.1](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget)
-* **Proposal**: [Forum post](http://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/12)
+* **Proposal**: [Forum post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/12)
 
 If this executive proposal passes the following transfers to the Launch Project will take place:
 
