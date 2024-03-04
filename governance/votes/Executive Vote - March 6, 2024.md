@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Executive Vote - March 6, 2024
-summary: $summary
+title: Template - [Executive Vote] Delegate Compensation, Smart Burn Engine Parameter Adjustment, Launch Project Funding, Whistleblower Bounty, WBTC Vault Parameter Changes, Spark Proxy Spell - March 6, 2024
+summary: Distribute delegate compensation for February 2024, decrease the Smart Burn Engine `hop` parameter, distribute DAI and MKR funding for the Launch Project, pay a whistleblower bounty, update the `gap` parameter for WBTC-A and WBTC-C, trigger a Spark Proxy Spell.
 date: 2024-03-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Executive Vote - March 6, 2024
+# [Executive Proposal] Delegate Compensation, Smart Burn Engine Parameter Adjustment, Launch Project Funding, Whistleblower Bounty, WBTC Vault Parameter Changes, Spark Proxy Spell - March 6, 2024
 
 The Governance Facilitators and Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
