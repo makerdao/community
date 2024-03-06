@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Delegate Compensation, Smart Burn Engine Parameter Adjustment, Launch Project Funding, Whistleblower Bounty, WBTC Vault Parameter Changes, Spark Proxy Spell - March 6, 2024
 summary: Distribute delegate compensation for February 2024, decrease the Smart Burn Engine hop parameter, distribute DAI and MKR funding for the Launch Project, pay a whistleblower bounty, update the gap parameter for WBTC-A and WBTC-C, trigger a Spark Proxy Spell.
 date: 2024-03-06T00:00:00.000Z
-address: "$spell_address"
+address: "0xD8D60b7A9998098261DF5175B5b0Fb567CD0Fb1A"
 
 ---
 # [Executive Proposal] Delegate Compensation, Smart Burn Engine Parameter Adjustment, Launch Project Funding, Whistleblower Bounty, WBTC Vault Parameter Changes, Spark Proxy Spell - March 6, 2024
