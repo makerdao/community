@@ -59,7 +59,7 @@ If this executive proposal passes the following Stability Fee changes will be ma
 
 ### [GSM Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) Change
 
-* **Authorization**: [Forum post](https://forum.makerdao.com/t/accelerated-proposal-rate-system-gsm-delay-psm-usdc-a-ttl-changes/23824/2)
+* **Authorization**: [Forum post](https://forum.makerdao.com/t/accelerated-proposal-rate-system-gsm-delay-psm-usdc-a-ttl-changes/23824/4)
 * **Proposal**: [Forum post](https://forum.makerdao.com/t/accelerated-proposal-rate-system-gsm-delay-psm-usdc-a-ttl-changes/23824)
 
 If this executive proposal passes the following change to the GSM Delay will be made:
