@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 * [Canonical Proposal Version](https://github.com/makerdao/mips/blob/ec87f8bd4dfe7307698e7dc87da19014e466eb1d/MIP102/MIP102c2-Subproposals/MIP102c2-SP23.md)
-* Latest Proposal Version [MIP104](https://mips.makerdao.com/mips/details/MIP104), [MIP113](https://mips.makerdao.com/mips/details/MIP113)
+* [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP23)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp23-mip-amendment-subproposal/23386)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/1065)
 
