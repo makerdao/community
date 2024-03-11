@@ -1,6 +1,6 @@
 ---
 title: Adjust SparkLend D3M Parameters - March 11, 2024
-summary: Signal your support or opposition to increasing the SparkLend DAI Direct Deposit Module (D3M) debt ceiling to 2.5 billion DAI.
+summary: Signal your support or opposition to increasing the SparkLend DAI Direct Deposit Module (D3M) Maximum Debt Ceiling to 2.5 billion DAI.
 discussion_link: https://forum.makerdao.com/t/mar-6-2024-proposed-changes-to-sparklend-for-upcoming-spell/23791
 parameters:
     input_format: single-choice
