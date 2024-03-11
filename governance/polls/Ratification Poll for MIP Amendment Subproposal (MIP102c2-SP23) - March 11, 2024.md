@@ -22,7 +22,7 @@ options:
    1: Yes
    2: No
 start_date: 2024-03-11T16:00:00
-end_date: 2024-03-25DDT16:00:00
+end_date: 2024-03-25T16:00:00
 ---
 # Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP23) - March 11, 2024
 
