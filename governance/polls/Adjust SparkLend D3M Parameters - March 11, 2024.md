@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the [voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to making the following parameter changes to the $protocol_name DAI Direct Deposit Module (D3M):
+The community can vote in this poll to express support or opposition to making the following parameter changes to the SparkLend DAI Direct Deposit Module (D3M):
 * Increase the SparkLend D3M [Maximum Debt Ceiling](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) by 1.25 billion DAI from 1.25 billion DAI to **2.5 billion DAI**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mar-6-2024-proposed-changes-to-sparklend-for-upcoming-spell/23791) to help inform your position before voting.
