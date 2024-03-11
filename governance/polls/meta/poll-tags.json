@@ -4286,5 +4286,28 @@
   "1083": [
     "high-impact",
     "risk-parameter"
+  ],
+  "1084": [
+    "high-impact",
+    "risk-parameter",
+    "endgame",
+    "d3m",
+    "spark"
+  ],
+  "1085": [
+    "high-impact",
+    "risk-parameter",
+    "endgame",
+    "spark"
+  ],
+  "1086": [
+    "medium-impact",
+    "misc-governance",
+    "endgame"
+  ],
+  "1087": [
+    "high-impact",
+    "ratification",
+    "mips"
   ]
 }
