@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Out-of-Schedule Executive Vote - Increase EDSR, Increase Stability Fees, Decrease GSM Delay, USDC PSM Throughput Change, Trigger Spark Proxy Spell - March 8, 2024
 summary: Increase the EDSR, increase Core Vault stability fees, decrease the GSM delay, reduce the USDC PSM ttl, trigger Spark Proxy Spell.
 date: 2024-03-08T00:00:00.000Z
-address: "$spell_address"
+address: "0xdD0AB42848b5609ded083459110d2e38483E0859"
 
 ---
 # [Executive Proposal] Out-of-Schedule Executive Vote - Increase EDSR, Increase Stability Fees, Decrease GSM Delay, USDC PSM Throughput Change, Trigger Spark Proxy Spell - March 8, 2024
