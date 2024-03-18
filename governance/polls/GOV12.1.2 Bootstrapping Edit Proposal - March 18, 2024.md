@@ -1,5 +1,5 @@
 ---
-title: GOV12.1.2 Bootstrapping Edit Proposal - March 18, 2024
+title: Stability, Support, and Governance Scope Bootstrapping Edits - March 18, 2024
 summary: Signal your support or opposition to a GOV12.1.2 bootstrapping edit in order to prepare for the Launch Season of the Endgame Features.
 discussion_link: https://forum.makerdao.com/t/gov12-1-2-bootstrapping-edit-proposal/23879
 parameters:
