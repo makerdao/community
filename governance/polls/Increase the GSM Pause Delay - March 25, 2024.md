@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following GSM Pause Delay change:
+The community can vote in this poll to express support or opposition to the following [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) change:
 
 - Increase the GSM Pause Delay by 14 hours, from 16 hours to **30 hours**
 
