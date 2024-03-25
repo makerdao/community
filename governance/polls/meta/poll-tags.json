@@ -4313,5 +4313,21 @@
   "1088": [
     "high-impact",
     "mips"
+  ],
+  "1089": [
+    "high-impact",
+    "risk-parameter"
+  ],
+  "1090": [
+    "high-impact",
+    "spark"
+  ],
+  "1091": [
+    "high-impact",
+    "spark"
+  ],
+  "1092": [
+    "high-impact",
+    "spark"
   ]
 }
