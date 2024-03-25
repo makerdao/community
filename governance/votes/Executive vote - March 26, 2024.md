@@ -68,7 +68,7 @@ If this executive proposal passes, the following change to the SparkLend [D3M](h
 - **Authorization:** TBD
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925)
 
-If this executive proposal passes, the DDM to [Spark DAI Morpho Vault](https://morpho.blockanalitica.com/metamorpho/vaults/0x73e65dbd630f90604062f6e02fab9138e713edd9) will be deployed at 0x73e65DBD630f90604062f6E02fAb9138e713edD9 with the following parameters.
+If this executive proposal passes, the D3M will be deployed to the [Spark DAI Morpho Vault](https://morpho.blockanalitica.com/metamorpho/vaults/0x73e65dbd630f90604062f6e02fab9138e713edd9) with the following parameters:
 
 #### [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [DC-IAM](https://manual.makerdao.com/module-index/module-dciam) Parameters
 
