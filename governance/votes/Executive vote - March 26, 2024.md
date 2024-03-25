@@ -19,7 +19,7 @@ If this executive proposal passes, the following actions will occur within the M
 
 - Multiple Stability Fees will be decreased.
 - The SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased to 2.5 billion DAI.
-- The DDM to Spark DAI Morpho Vault will be deployed with the parameters detailed below.
+- The D3M to Spark DAI Morpho Vault will be deployed with the parameters detailed below.
 - The Dai Savings Rate will be decreased.
 - The Smart Burn Engine parameters will be updated.
 - The TACO DAO Resolution will be approved.
