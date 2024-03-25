@@ -120,7 +120,7 @@ If this executive proposal passes, the following actions pertaining to BlockTowe
 
 ### Approve HVBank (RWA009-A) Dao Resolution
 
-- **Authorization:** TBD
+- **Authorization:** http://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/25
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/24)
 
 If this executive proposal passes, the following DAO Resolution pertaining to HVBank (`RWA009-A`) will be approved:
