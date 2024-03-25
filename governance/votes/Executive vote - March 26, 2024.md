@@ -112,7 +112,11 @@ If this executive proposal passes, the following SBE parameters will be changed:
 - **Authorization:** TBD
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/project-ethena-proposal-enacting-dao-resolutions/23923)
 
-If this executive proposal passes, a DAO Resolution pertaining BlockTower Andromeda (RWA015-A) whereby TACO will deploy USDC from RWA015-A into and out of the Ethena Protocol will be approved.
+If this executive proposal passes, the following actions pertaining to BlockTower Andromeda (`RWA015-A`) whereby TACO will deploy USDC from `RWA015-A` into and out of the Ethena Protocol will be approved:
+
+- The DAO Resolution with IPFS hash [Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) will be approved.
+
+- Coinbase Prime Deposit Address [0x6759610547a36E9597Ef452aa0B9cace91291a2f](https://etherscan.io/address/0x6759610547a36E9597Ef452aa0B9cace91291a2f) will be whitelisted.
 
 ### Approve HVBank (RWA009-A) Dao Resolution
 
