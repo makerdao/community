@@ -24,6 +24,7 @@ If this executive proposal passes, the following actions will occur within the M
 - The Smart Burn Engine parameters will be updated.
 - The TACO DAO Resolution will be approved.
 - The HVBank (RWA009-A) DAO Resolution will be approved.
+- A proxy spell for Spark Protocol will be triggered.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
