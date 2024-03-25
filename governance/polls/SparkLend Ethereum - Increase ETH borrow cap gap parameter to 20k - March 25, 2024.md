@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following SparkLend [CapAutomator](https://github.com/marsfoundation/sparklend-cap-automator) change:
 
-- Increase [ETH Market](https://app.spark.fi/reserve-overview/?underlyingAsset=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&marketName=proto_spark_v3) borrow cap `gap` parameter by 10,000 ETH from 10,000 ETH to **20k ETH**
+- Increase [ETH Market](https://app.spark.fi/reserve-overview/?underlyingAsset=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&marketName=proto_spark_v3) borrow cap `gap` parameter by 10,000 ETH from 10,000 ETH to **20,000 ETH**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918) to help inform your position before voting.
 
