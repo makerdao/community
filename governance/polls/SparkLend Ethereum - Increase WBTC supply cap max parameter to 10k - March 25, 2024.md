@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following SparkLend Ethereum change:
+The community can vote in this poll to express support or opposition to the following SparkLend [CapAutomator](https://github.com/marsfoundation/sparklend-cap-automator) change:
 
 - Increase [WBTC market](https://app.spark.fi/reserve-overview/?underlyingAsset=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&marketName=proto_spark_v3) supply cap `max` parameter by 5,000 WBTC from 5,000 WBTC to **10,000 WBTC**
 
@@ -51,3 +51,5 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
+
+Additional information about the SparkLend CapAutomator can be found in this [Forum Post](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739).
