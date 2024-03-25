@@ -1,5 +1,5 @@
 ---
-title: SparkLend Ethereum - Increase WBTC supply cap max parameter to 10k - March 25, 2024
+title: SparkLend Ethereum - Increase WBTC supply cap max parameter - March 25, 2024
 summary: Signal your support or opposition to increasing the WBTC supply cap max parameter to 10,000 WBTC
 discussion_link: https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-03-25T16:00:00
 end_date: 2024-03-28T16:00:00
 ---
-# Poll: SparkLend Ethereum - Increase WBTC supply cap max parameter to 10k - March 25, 2024
+# Poll: SparkLend Ethereum - Increase WBTC supply cap max parameter - March 25, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, March 25 at 16:00 UTC.
 
