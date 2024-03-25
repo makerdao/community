@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following SparkLend [CapAutomator](https://github.com/marsfoundation/sparklend-cap-automator) change:
 
-- Increase [WBTC market](https://app.spark.fi/reserve-overview/?underlyingAsset=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&marketName=proto_spark_v3) supply cap `max` parameter by 5,000 WBTC from 5,000 WBTC to **10,000 WBTC**
+- Increase [WBTC market](https://app.spark.fi/reserve-overview/?underlyingAsset=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&marketName=proto_spark_v3) supply cap `max` parameter by 4,000 WBTC from 6,000 WBTC to **10,000 WBTC**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918) to help inform your position before voting.
 
