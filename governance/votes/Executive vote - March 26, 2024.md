@@ -123,19 +123,20 @@ If this executive proposal passes, the following actions pertaining to BlockTowe
 - **Authorization:** TBD
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/24)
 
-If this executive proposal passes, a DAO Resolution pertaining HVBank (RWA009-A) will be approved whereby:
+If this executive proposal passes, the following DAO Resolution pertaining to HVBank (`RWA009-A`) will be approved:
 
-- The Trust Agreement will be amended to remove inconsistencies.
-- The Director of the RWA Foundation will instructed to execute the Amendment and take any further actions required to be taken solely in the furtherance of implementing the aims of the Amendment.
+- HVBank (`RWA009-A`) Dao Resolution with IPFS hash [QmStrc9kMCmgzh2EVunjJkPsJLhsVRYyrNFBXBbJAJMrrf](https://ipfs.io/ipfs/QmStrc9kMCmgzh2EVunjJkPsJLhsVRYyrNFBXBbJAJMrrf) will be approved.
 
 ### Trigger Spark Proxy Spell
 
-- **Authorization:** Polls [1](https://vote.makerdao.com/polling/QmQAtb17), [2](https://vote.makerdao.com/polling/QmYYoAMe)
-- **Proposal**: Forum posts [1](http://forum.makerdao.com/t/mar-6-2024-proposed-changes-to-sparklend-for-upcoming-spell/23791/4), [2](https://forum.makerdao.com/t/stability-scope-parameter-changes-11-under-sta-article-3-3/23910)
+- **Authorization:** Polls [1](https://vote.makerdao.com/polling/QmQAtb17) and [2](https://vote.makerdao.com/polling/QmYYoAMe). Forum posts [1](http://forum.makerdao.com/t/stability-scope-parameter-changes-11-under-sta-article-3-3/23910/3)
+- **Proposal**: Forum posts [1](http://forum.makerdao.com/t/mar-6-2024-proposed-changes-to-sparklend-for-upcoming-spell/23791), [2](https://forum.makerdao.com/t/stability-scope-parameter-changes-11-under-sta-article-3-3/23910), [3](https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925)
 
-If this executive proposal passes, a Spark proxy spell at [0x210DF2e1764Eb5491d41A62E296Ea39Ab56F9B6d](https://etherscan.io/address/0x210DF2e1764Eb5491d41A62E296Ea39Ab56F9B6d). This proxy spell will take the following action:
+If this executive proposal passes, a Spark proxy spell at [0x210DF2e1764Eb5491d41A62E296Ea39Ab56F9B6d](https://etherscan.io/address/0x210DF2e1764Eb5491d41A62E296Ea39Ab56F9B6d) will be triggered. This proxy spell will take the following action:
 
-- Increase the WBTC Supply Cap max by 1,000 WBTC, from 5,000 to **6,000 WBTC**
+- [SparkLend Ethereum] Increase the WBTC Supply Cap max by 1,000 WBTC, from 5,000 to **6,000 WBTC**.
+- [SparkLend Ethereum] Decrease the Effective DAI Borrow Rate by 2 percentage points from 16.00% to **14.00%**.
+- Transfer ownership of the Morpho Vault.
 
 ## Review
 
