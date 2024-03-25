@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Increase WBTC supply cap max parameter to 10k - March 25, 2024
-summary: Signal your support or opposition to increasing the WBTC supply cap max parameter to 10k WBTC
+summary: Signal your support or opposition to increasing the WBTC supply cap max parameter to 10,000 WBTC
 discussion_link: https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918
 parameters:
     input_format: single-choice
