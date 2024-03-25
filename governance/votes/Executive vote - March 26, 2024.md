@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M Deployment, DSR Decrease, SBE Parameter Update, Dao Resolution Approvals, Trigger Spark Proxy Spell - March 26, 2024
-summary: Multiple Stability Fee decreases, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M deployment, Dai Savings Rate decrease, Smart Burn Engine parameter update, TECO Dao Resolution approval, HVBank Dao Resolution approval, trigger Spark Proxy Spell.
+title: Template - [Executive Vote] Stability Fee Changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M Deployment, DSR Decrease, SBE Parameter Update, HVBank Dao Resolution Approval, Trigger Spark Proxy Spell - March 26, 2024
+summary: Multiple Stability Fee decreases, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M deployment, Dai Savings Rate decrease, Smart Burn Engine parameter update, HVBank Dao Resolution approval, trigger Spark Proxy Spell.
 date: 2024-03-26T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M Deployment, DSR Decrease, SBE Parameter Update, Dao Resolution Approvals, Trigger Spark Proxy Spell - March 26, 2024
+# [Executive Proposal] Stability Fee Changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M Deployment, DSR Decrease, SBE Parameter Update, HVBank Dao Resolution Approval, Trigger Spark Proxy Spell - March 26, 2024
 
 The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -22,7 +22,6 @@ If this executive proposal passes, the following actions will occur within the M
 - The D3M to Spark DAI Morpho Vault will be deployed with the parameters detailed below.
 - The Dai Savings Rate will be decreased.
 - The Smart Burn Engine parameters will be updated.
-- The TACO DAO Resolution will be approved.
 - The HVBank (RWA009-A) DAO Resolution will be approved.
 - A proxy spell for Spark Protocol will be triggered.
 
@@ -47,9 +46,9 @@ If this executive proposal passes, as per the recommendation of the Stability Sc
 
 - Decrease the ETH-A SF by 2.00% from 15.25% to **13.25%**.
 - Decrease the ETH-B SF by 2.00% from 15.75% to **13.75%**.
-- Decrease the ETH-C SF by 2.00% from 15% to **13%**.
+- Decrease the ETH-C SF by 2.00% from 15% to **13.00%**.
 - Decrease the WSTETH-A SF by 2% from 16.25% to **14.25%**.
-- Decrease the WSTETH-B SF by 2% from 16% to **14%**.
+- Decrease the WSTETH-B SF by 2% from 16% to **14.00%**.
 - Decrease the WBTC-A SF by 2% from 16.75% to **14.75%**.
 - Decrease the WBTC-B SF by 2% from 17.25% to **15.25%**.
 - Decrease the WBTC-C SF by 2% from 16.50% to **14.50%**.
@@ -79,14 +78,14 @@ If this executive proposal passes, the D3M will be deployed to the [Spark DAI Mo
 
 #### [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) Addresses
 
-- oracle: 0xA5AA14DEE8c8204e424A55776E53bfff413b02Af
-- plan: 0x374b5f915aaED790CBdd341E6f406910d648fD39
-- pool: 0x9C259F14E5d9F35A0434cD3C4abbbcaA2f1f7f7E
-- operator: 0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5
+- oracle: [0xA5AA14DEE8c8204e424A55776E53bfff413b02Af](https://etherscan.io/address/0xA5AA14DEE8c8204e424A55776E53bfff413b02Af)
+- plan: [0x374b5f915aaED790CBdd341E6f406910d648fD39](https://etherscan.io/address/0x374b5f915aaED790CBdd341E6f406910d648fD39)
+- pool: [0x9C259F14E5d9F35A0434cD3C4abbbcaA2f1f7f7E](https://etherscan.io/address/0x9C259F14E5d9F35A0434cD3C4abbbcaA2f1f7f7E)
+- operator: [0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5](https://etherscan.io/address/0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5)
 
 #### Additional Actions
 
-If this executive proposal passes, the DIRECT_MOM Breaker will be extended to include the Morpho D3M.
+If this executive proposal passes, the DIRECT_MOM Breaker will be extended to include the Morpho D3M, enabling governance to deactivate vault functionality through an executive spell without waiting for the GSM Pause Delay.
 
 ### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Change
 
@@ -106,17 +105,6 @@ If this executive proposal passes, the following SBE parameters will be changed:
 
 - The [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be decreased by 7,884 seconds from 19,710 seconds to **11,826 seconds**
 - The [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 25,000 DAI, from 50,000 DAI to **75,000 DAI**
-
-### Approve TACO Dao Resolution
-
-- **Authorization:** TBD
-- **Proposal:** [Forum post](https://forum.makerdao.com/t/project-ethena-proposal-enacting-dao-resolutions/23923)
-
-If this executive proposal passes, the following actions pertaining to BlockTower Andromeda (`RWA015-A`) whereby TACO will deploy USDC from `RWA015-A` into and out of the Ethena Protocol will be approved:
-
-- The DAO Resolution with IPFS hash [Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) will be approved.
-
-- Coinbase Prime Deposit Address [0x6759610547a36E9597Ef452aa0B9cace91291a2f](https://etherscan.io/address/0x6759610547a36E9597Ef452aa0B9cace91291a2f) will be whitelisted.
 
 ### Approve HVBank (RWA009-A) Dao Resolution
 
