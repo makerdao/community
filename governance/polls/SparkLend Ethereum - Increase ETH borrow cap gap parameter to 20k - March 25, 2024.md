@@ -1,5 +1,5 @@
 ---
-title: SparkLend Ethereum - Increase ETH borrow cap gap parameter to 20k - March 25, 2024
+title: SparkLend Ethereum - Increase ETH Borrow Cap gap Parameter - March 25, 2024
 summary: Signal your support or opposition to increasing the ETH borrow cap gap parameter to 20k ETH
 discussion_link: https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918
 parameters:
