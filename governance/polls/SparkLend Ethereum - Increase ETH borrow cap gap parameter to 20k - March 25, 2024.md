@@ -15,7 +15,7 @@ options:
 start_date: 2024-03-25T16:00:00
 end_date: 2024-03-28T16:00:00
 ---
-# Poll: SparkLend Ethereum - Increase ETH borrow cap gap parameter to 20k - March 25, 2024
+# Poll: SparkLend Ethereum - Increase ETH Borrow Cap gap Parameter - March 25, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, March 25 at 16:00 UTC.
 
