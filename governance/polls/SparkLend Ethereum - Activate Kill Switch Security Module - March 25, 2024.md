@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the activation of the Kill Switch Security Module on Ethereum. The Kill Switch Security Module allows SparkLend Protocol to disable all borrowing across markets in the event of a depeg on key collateral assets.
+The community can vote in this poll to express support or opposition to the activation of the Kill Switch Security Module on SparkLend Ethereum. The Kill Switch Security Module allows SparkLend Protocol to disable all borrowing across markets in the event of a depeg on key collateral assets.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918) to help inform your position before voting.
 
