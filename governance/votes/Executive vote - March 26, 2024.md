@@ -59,7 +59,9 @@ If this executive proposal passes, as per the recommendation of the Stability Sc
 - **Authorization:** [Forum post](https://vote.makerdao.com/polling/QmVGDsvm)
 - **Proposal:** [Forum post](http://forum.makerdao.com/t/mar-6-2024-proposed-changes-to-sparklend-for-upcoming-spell/23791)
 
-If this executive proposal passes, the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased by 1 billion DAI from 1.5 billion DAI to **2.5 billion DAI**.
+If this executive proposal passes, the following change to the SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be made:
+
+- Increase the SparkLend D3M Maximum Debt Ceiling by 1.0 billion DAI from 1.5 billion DAI to **2.5 billion DAI**.
 
 ### [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) to Spark DAI Morpho Vault (DIRECT-SPARK-MORPHO-DAI)
 
