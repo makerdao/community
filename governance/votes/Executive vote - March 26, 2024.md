@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Stability Fee Changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M Deployment, DSR Decrease, SBE Parameter Update, Dao Resolution Approvals, Trigger Spark Proxy Spell - March 26, 2024
-summary: Multiple Stability Fee changes, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M deployment, Dai Savings Rate decrease, Smart Burn Engine parameter update, TECO Dao Resolution approval, HVBank Dao Resolution approval, trigger Spark Proxy Spell.
+summary: Multiple Stability Fee decreases, SparkLend D3M Maximum Debt Ceiling Increase, Spark DAI Morpho Vault D3M deployment, Dai Savings Rate decrease, Smart Burn Engine parameter update, TECO Dao Resolution approval, HVBank Dao Resolution approval, trigger Spark Proxy Spell.
 date: 2024-03-26T00:00:00.000Z
 address: "$spell_address"
 
