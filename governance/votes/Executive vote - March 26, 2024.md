@@ -65,7 +65,7 @@ If this executive proposal passes, the following change to the SparkLend [D3M](h
 
 ### [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) to Spark DAI Morpho Vault (DIRECT-SPARK-MORPHO-DAI)
 
-- **Authorization:** https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925/5
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925/5)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925)
 
 If this executive proposal passes, the D3M will be deployed to the [Spark DAI Morpho Vault](https://morpho.blockanalitica.com/metamorpho/vaults/0x73e65dbd630f90604062f6e02fab9138e713edd9) with the following parameters:
@@ -120,7 +120,7 @@ If this executive proposal passes, the following actions pertaining to BlockTowe
 
 ### Approve HVBank (RWA009-A) Dao Resolution
 
-- **Authorization:** http://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/25
+- **Authorization:** [Forum post](http://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/25)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/huntingdon-valley-bank-transaction-documents-on-permaweb/16264/24)
 
 If this executive proposal passes, the following DAO Resolution pertaining to HVBank (`RWA009-A`) will be approved:
