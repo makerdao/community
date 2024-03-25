@@ -104,7 +104,7 @@ If this executive proposal passes, the DSR will change as follows:
 
 If this executive proposal passes, the following SBE parameters will be changed:
 
-- The [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be decreased by 7,884 seconds from 19,710 seconds to **11,826**
+- The [`hop` (frequency)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-1) parameter will be decreased by 7,884 seconds from 19,710 seconds to **11,826 seconds**
 - The [`bump` (lot size)](https://mips.makerdao.com/mips/details/MIP104#9-1-3-3) parameter will be increased by 25,000 DAI, from 50,000 DAI to **75,000 DAI**
 
 ### Approve TACO Dao Resolution
