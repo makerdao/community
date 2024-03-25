@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - Multiple Stability Fees will be decreased.
-- The SparkLend [D3M](https://manual.makerdao.com/module-index/module-dai-direct-deposit) [Maximum Debt Ceiling (`line`)](https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling) will be increased to 2.5 billion DAI.
+- The SparkLend D3M Maximum Debt Ceiling (`line`) will be increased to 2.5 billion DAI.
 - The D3M to Spark DAI Morpho Vault will be deployed with the parameters detailed below.
 - The Dai Savings Rate will be decreased.
 - The Smart Burn Engine parameters will be updated.
