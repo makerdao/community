@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Activate Kill Switch Security Module - March 25, 2024
-summary: Signal your support or opposition to activating the Kill Switch Security Module
+summary: Signal your support or opposition to activating the Kill Switch Security Module for SparkLend.
 discussion_link: https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918
 parameters:
     input_format: single-choice
