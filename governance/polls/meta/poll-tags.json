@@ -4329,5 +4329,15 @@
   "1092": [
     "high-impact",
     "spark"
+  ],
+  "1093": [
+    "medium-impact",
+    "misc-governance",
+    "endgame"
+  ],
+  "1094": [
+    "medium-impact",
+    "misc-governance",
+    "endgame"
   ]
 }
