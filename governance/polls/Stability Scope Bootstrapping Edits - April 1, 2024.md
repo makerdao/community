@@ -1,6 +1,6 @@
 ---
-title: Governance Scope Bootstrapping Edits - April 1, 2024
-summary: Signal your support or opposition to the listed edits to the Governance Scope.
+title: Stability Scope Bootstrapping Edits - April 1, 2024
+summary: Signal your support or opposition to the listed edits to the Stability Scope.
 discussion_link: https://forum.makerdao.com/t/small-gov12-1-2-bootstrapping-edit-proposal-to-fix-unintentional-issues/23968
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2024-04-01T16:00:00
 end_date: 2024-04-04T16:00:00
 ---
-# Poll: Governance Scope Bootstrapping Edits - April 1, 2024
+# Poll: Stability Scope Bootstrapping Edits - April 1, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.12.1.2](https://mips.makerdao.com/mips/details/MIP113#12-1-2). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 1 at 16:00 UTC.
 
