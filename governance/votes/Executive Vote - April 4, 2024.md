@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, The Governance Pause Delay (GSM) will be increased by 14 hours, from 16 to **30 hours**.
 
-### Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increase
+### Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) Increase
 
 - **Authorization:** [Forum Post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006/9)  
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)
