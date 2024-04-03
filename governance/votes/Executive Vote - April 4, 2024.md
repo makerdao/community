@@ -47,7 +47,7 @@ If this executive proposal passes, The Governance Pause Delay (GSM) will be incr
 - **Authorization:** [Forum Post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006/9)  
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)
 
-If this executive proposal passes, the Spark MetaMorpho Vault DDM Maximum Debt Ceiling (line) will increase by 900 million DAI, from 100 million to **1 billion DAI**.
+If this executive proposal passes, the Spark MetaMorpho Vault DDM Maximum Debt Ceiling (line) will increase by 900 million DAI, from 100 million DAI to **1 billion DAI**.
 
 ### Add ilks to [Debt Ceiling Breaker (LINE_MOM)](https://mips.makerdao.com/mips/details/MIP113#10-2-3-debt-ceiling-breaker)
 
