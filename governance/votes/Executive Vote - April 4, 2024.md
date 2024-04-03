@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, TACO Resolutions, and SparkLend Proxy Spell - April 4, 2024
-summary: Increase the Governance Security Module Pause Delay, Increase Spark MetaMorph Maximum Debt Ceiling, Add non-PSM vaults to Debt Ceiling Breaker, Approve BT Project Aethena Resolutions, and Activate SparkLendProxy Spell. 
+summary: Increase the Governance Pause Delay, Increase Spark MetaMorph Maximum Debt Ceiling, Add non-PSM vaults to Debt Ceiling Breaker, Approve BT Project Aethena Resolutions, and Trigger SparkLendProxy Spell. 
 date: 2024-04-04T00:00:00.000Z
 address: "$spell_address"
 
@@ -15,15 +15,13 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+- The [Governance Pause Delay (GSM)](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) will be increased to **16 hours**.
+- Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased to **1 billion DAI**.
+- Standard ilks will be added to the [Debt Ceiling Breaker (LINE_MOM)](https://manual.makerdao.com/governance-processes/executive-vote-considerations/gsm-exceptions#debt-ceiling-breaker) as detailed below.
+- A SparkLend Proxy Spell [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be triggered.
+- [A set of TACO Resolutions](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) for BT Project Ethena will be approved. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
