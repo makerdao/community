@@ -88,14 +88,14 @@ Increases [WBTC market](https://app.spark.fi/reserve-overview/?underlyingAsset=0
 
 Updates Market Cap Parameters to the following:
 
-USDe 77% LLTV pool cap: **1 billion DAI**
-USDe 86% LLTV pool cap: **500 million DAI**
-USDe 91.5% LLTV pool cap: **200 million DAI**
-USDe 94.5% LLTV pool cap: **10 million DAI**
-sUSDe 77% LLTV pool cap: **1 billion DAI**
-sUSDe 86% LLTV pool cap: **200 million DAI**
-sUSDe 91.5% LLTV pool cap: **50 million DAI**
-sUSDe 94.5% LLTV pool cap: **10 million DAI**
+* USDe 77% LLTV pool cap: **1 billion DAI**
+* USDe 86% LLTV pool cap: **500 million DAI**
+* USDe 91.5% LLTV pool cap: **200 million DAI**
+* USDe 94.5% LLTV pool cap: **10 million DAI**
+* sUSDe 77% LLTV pool cap: **1 billion DAI**
+* sUSDe 86% LLTV pool cap: **200 million DAI**
+* sUSDe 91.5% LLTV pool cap: **50 million DAI**
+* sUSDe 94.5% LLTV pool cap: **10 million DAI**
 
 ### Approve TACO Resolutions
 
