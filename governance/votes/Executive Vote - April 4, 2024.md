@@ -5,7 +5,7 @@ date: 2024-04-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, TACO Resolutions, and SparkLend Proxy Spell - April 4, 2024
+# [Executive Proposal] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions
 
 The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
