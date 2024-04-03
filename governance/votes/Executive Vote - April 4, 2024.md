@@ -35,17 +35,49 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### [Governance Pause Delay (GSM)](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) Increase
 
-$executive_entry_description_1
+- **Authorization:** [Poll](https://vote.makerdao.com/polling/QmcLsYwj)  
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/gsm-pause-delay-increase-proposal/23929)
 
-### $executive_entry_2
+If this executive proposal passes, The Governance Pause Delay (GSM) will be increased by 14 hours, from 16 to **30 hours**.
 
-$executive_entry_description_2
+### Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) Increase
 
-### $executive_entry_3
+- **Authorization:** [Forum Post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006/9)  
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)
 
-$executive_entry_description_3
+If this executive proposal passes, the Spark MetaMorpho Vault DDM Maximum Debt Ceiling (line) will increase by 900 million DAI, from 100 million to **1 billion DAI**.
+
+### Add ilks to [Debt Ceiling Breaker (LINE_MOM)](https://manual.makerdao.com/governance-processes/executive-vote-considerations/gsm-exceptions#debt-ceiling-breaker)
+
+- **Authorization:** [Poll](https://vote.makerdao.com/polling/QmZsAM36#vote-breakdown)  
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/gov12-1-2-bootstrapping-edit-proposal-gov10-2-3-1a-edit/24005)
+
+If this executive proposal passes, the following ilks will be added to the Debt Ceiling Breaker (LINE_MOM):
+
+* ETH-A
+* ETH-B
+* ETH-C
+* WSTETH-A
+* WSTETH-B
+* WBTC-A
+* WBTC-B
+* WBTC-C
+
+### Trigger SparkLend Proxy Spell
+
+- **Authorization:** Polls: [1](https://vote.makerdao.com/polling/QmdjqTvL), [2](https://vote.makerdao.com/polling/QmaEqEav), [3](https://vote.makerdao.com/polling/QmbCWUAP). [Forum Post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)  
+- **Proposal:** Forum posts: [1](https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918), [2](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)
+
+If this executive proposal passes, the SparkLend Proxy spell [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be triggered. In addition to polled changes on Activating Kill Switch Security Module and increasing WBTC and ETH lending caps, this proxy spell contains changes suggested and approved in this [forum post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006).
+
+### Approve TACO Resolutions
+
+- **Authorization:** $Missing? 
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/bt-project-ethena-risk-legal-assessment/23978)
+
+If this executive proposal passes, the resolutions posted within [Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) will be approved. 
 
 ## Review
 
