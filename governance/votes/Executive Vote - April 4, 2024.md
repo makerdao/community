@@ -70,7 +70,32 @@ If this executive proposal passes, the following ilks will be added to the Debt 
 - **Authorization:** Polls: [1](https://vote.makerdao.com/polling/QmdjqTvL), [2](https://vote.makerdao.com/polling/QmaEqEav), [3](https://vote.makerdao.com/polling/QmbCWUAP). [Forum Post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)  
 - **Proposal:** Forum posts: [1](https://forum.makerdao.com/t/mar-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/23918), [2](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006)
 
-If this executive proposal passes, the SparkLend Proxy spell [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be triggered. In addition to polled changes on Activating the Kill Switch Security Module and increasing WBTC and ETH lending caps, this proxy spell contains changes suggested and approved in this [forum post](https://forum.makerdao.com/t/morpho-spark-dai-vault-update-1-april-2024/24006).
+If this executive proposal passes, the SparkLend Proxy spell at [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be executed. The expected contents of this are:
+
+#### Increase ETH Borrow Cap `gap` Parameter
+
+Increases [ETH Market](https://app.spark.fi/reserve-overview/?underlyingAsset=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&marketName=proto_spark_v3) borrow cap `gap` parameter by 10,000 ETH from 10,000 ETH to **20,000 ETH**
+
+#### Increase WBTC Supply Cap `max` Parameter
+
+Increases [WBTC market](https://app.spark.fi/reserve-overview/?underlyingAsset=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&marketName=proto_spark_v3) supply cap `max` parameter by 4,000 WBTC from 6,000 WBTC to **10,000 WBTC**
+
+#### Activate Kill Switch Security Module
+
+[Adds a kill switch](https://github.com/marsfoundation/sparklend-kill-switch) to disable all borrowing across markets in the event of a depeg on key collateral assets.
+
+#### Update MetaMorpho Market Caps
+
+Updates Market Cap Parameters to the following:
+
+USDe 77% LLTV pool cap: **1 billion DAI**
+USDe 86% LLTV pool cap: **500 million DAI**
+USDe 91.5% LLTV pool cap: **200 million DAI**
+USDe 94.5% LLTV pool cap: **10 million DAI**
+sUSDe 77% LLTV pool cap: **1 billion DAI**
+sUSDe 86% LLTV pool cap: **200 million DAI**
+sUSDe 91.5% LLTV pool cap: **50 million DAI**
+sUSDe 94.5% LLTV pool cap: **10 million DAI**
 
 ### Approve TACO Resolutions
 
