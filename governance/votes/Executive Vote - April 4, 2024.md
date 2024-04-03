@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, TACO Resolutions, and SparkLend Proxy Spell - April 4, 2024
-summary: Increase the Governance Pause Delay, Increase Spark MetaMorph Maximum Debt Ceiling, Add non-PSM vaults to Debt Ceiling Breaker, Approve BT Project Aethena Resolutions, and Trigger SparkLendProxy Spell. 
+title: Template - [Executive Vote] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, SparkLend Proxy Spell , and TACO Resolutions - April 4, 2024
+summary: Increase the Governance Pause Delay, Increase Spark MetaMorph Maximum Debt Ceiling, Add non-PSM vaults to Debt Ceiling Breaker, Trigger SparkLendProxy Spell, and Approve BT Project Aethena Resolutions. 
 date: 2024-04-04T00:00:00.000Z
 address: "$spell_address"
 
