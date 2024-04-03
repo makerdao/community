@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### [Governance Pause Delay (GSM)](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) Increase
+### [Governance Pause Delay (GSM)](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) Increase
 
 - **Authorization:** [Poll](https://vote.makerdao.com/polling/QmcLsYwj)  
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/gsm-pause-delay-increase-proposal/23929)
