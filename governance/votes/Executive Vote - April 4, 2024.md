@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased to **1 billion DAI**.
 - Native Vault Engine ilks will be added to the [Debt Ceiling Breaker (LINE_MOM)](https://manual.makerdao.com/governance-processes/executive-vote-considerations/gsm-exceptions#debt-ceiling-breaker) as detailed below.
 - A SparkLend Proxy Spell [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be triggered.
-- [A set of TACO Resolutions](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) for BT Project Ethena will be approved. 
+- [A set of TACO Resolutions](https://gateway.pinata.cloud/ipfs/QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A) for BT Project Ethena will be approved. 
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -77,7 +77,7 @@ If this executive proposal passes, the SparkLend Proxy spell [0x7748C5E6EEda8362
 - **Authorization:** $Missing? 
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/bt-project-ethena-risk-legal-assessment/23978)
 
-If this executive proposal passes, the resolutions posted within [Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB](https://gateway.pinata.cloud/ipfs/Qmf8Nv4HnTFNDwRgcLzRgBdtVsVVfKY2FppaBimLK9XhxB) will be approved. 
+If this executive proposal passes, the resolutions posted within [QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A](https://gateway.pinata.cloud/ipfs/QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A) will be approved. 
 
 ## Review
 
