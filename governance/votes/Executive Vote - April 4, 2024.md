@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
-summary: $summary
+title: Template - [Executive Vote] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, TACO Resolutions, and SparkLend Proxy Spell - April 4, 2024
+summary: Increase the Governance Security Module Pause Delay, Increase Spark MetaMorph Maximum Debt Ceiling, Add non-PSM vaults to Debt Ceiling Breaker, Approve BT Project Aethena Resolutions, and Activate SparkLendProxy Spell. 
 date: 2024-04-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Increase GSM Pause, Increase Spark MetaMorpho Vault Debt Ceiling, Add Standard ilks to LINE_MOM, TACO Resolutions, and SparkLend Proxy Spell - April 4, 2024
 
-The $exec_publishers and $exec_crafters have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -29,10 +29,9 @@ If this executive proposal passes, the following **additions** will be made to t
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **16 hours**.
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
-
 
 ---
 
