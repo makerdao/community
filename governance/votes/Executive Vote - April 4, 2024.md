@@ -99,7 +99,7 @@ Updates Market Cap Parameters to the following:
 
 ### Approve TACO Resolutions
 
-- **Authorization:** $Missing? 
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/bt-project-ethena-risk-legal-assessment/23978/9)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/bt-project-ethena-risk-legal-assessment/23978)
 
 If this executive proposal passes, the resolutions posted within [QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A](https://gateway.pinata.cloud/ipfs/QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A) will be approved. 
