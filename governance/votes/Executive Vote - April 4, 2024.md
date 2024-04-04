@@ -17,9 +17,9 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
-- The [Governance Security Module (GSM) Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) will be increased to **30 hours**.
-- Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://manual.makerdao.com/module-index/module-dciam#maximum-debt-ceiling-line) will be increased to **1 billion DAI**.
-- Native Vault Engine ilks will be added to the [Debt Ceiling Breaker (LINE_MOM)](https://manual.makerdao.com/governance-processes/executive-vote-considerations/gsm-exceptions#debt-ceiling-breaker) as detailed below.
+- The [Governance Security Module (GSM) Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be increased to **30 hours**.
+- Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be increased to **1 billion DAI**.
+- Native Vault Engine ilks will be added to the [Debt Ceiling Breaker (LINE_MOM)](https://mips.makerdao.com/mips/details/MIP113#10-2-3-debt-ceiling-breaker) as detailed below.
 - A SparkLend Proxy Spell [0x7748C5E6EEda836247F2AfCd5a7c0dA3c5de9Da2](https://etherscan.io/address/0x7748c5e6eeda836247f2afcd5a7c0da3c5de9da2) will be triggered.
 - [A set of TACO Resolutions](https://gateway.pinata.cloud/ipfs/QmUarSLBgfvCK5Mco2QS8UraSqwxWtK5jKiEbxDYxE1C4A) for BT Project Ethena will be approved. 
 
