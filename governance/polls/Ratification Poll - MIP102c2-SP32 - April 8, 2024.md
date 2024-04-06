@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
-summary: This subproposal seeks to amend MIP113 to allow for the formal relinquishment of AVC membership. 
-discussion_link: https://forum.makerdao.com/t/mip102c2-sp27-mip-amendment-subproposal/23758
+title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP32) - April 8, 2024
+summary: This subproposal seeks to amend MIP16 to accomodate the transition from the Goerli Testnet network to different testing tools, among other updates.
+discussion_link: https://forum.makerdao.com/t/mip102c2-sp32-mip-amendment-subproposal/23756
 parameters:
     input_format:
         type: single-choice
@@ -24,7 +24,7 @@ options:
 start_date: 2024-04-08T16:00:00
 end_date: 2024-04-11T16:00:00
 ---
-# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
+# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP32) - April 8, 2024
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, April 8 at 16:00 UTC.
 
@@ -35,17 +35,17 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP102c2-SP32 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*This subproposal will amend MIP113 Section 5.2, to include a new procedure to allow AVC members to relinquish their role.*
+*This subproposal seeks to update The Weekly Governance Cycle to accommodate the transition from the Goerli Testnet network to different testing tools.*
 
 Please review the links below to inform your position on this proposal before voting.
-- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c0a5cc97c92ec737a366f122b5ec4eec7123948b/MIP102/MIP102c2-Subproposals/MIP102c2-SP27.md)
-- [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP27)
-- [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp27-mip-amendment-subproposal/23758)
-- [Amendment Pull Request](https://github.com/makerdao/mips/pull/1080)
+- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/fda479131ec335981458f7f5f22cc22dc4af7e28/MIP102/MIP102c2-Subproposals/MIP102c2-SP32.md)
+- [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP32)
+- [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp32-mip-amendment-subproposal/23756)
+- [Amendment Pull Request](https://github.com/makerdao/mips/pull/1078)
 
 ## Outcomes
 

@@ -1,7 +1,7 @@
 ---
-title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP33) - April 8, 2024
-summary: This subproposal seeks to amend MIP16 to accomodate the transition from the Goerli Testnet network to different testing tools, among other updates.
-discussion_link: https://forum.makerdao.com/t/mip102c2-sp33-mip102-amendment/23792
+title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
+summary: This subproposal seeks to amend MIP113 to allow for the formal relinquishment of AVC membership. 
+discussion_link: https://forum.makerdao.com/t/mip102c2-sp27-mip-amendment-subproposal/23758
 parameters:
     input_format:
         type: single-choice
@@ -24,7 +24,7 @@ options:
 start_date: 2024-04-08T16:00:00
 end_date: 2024-04-11T16:00:00
 ---
-# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP32) - April 8, 2024
+# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, April 8 at 16:00 UTC.
 
@@ -35,24 +35,17 @@ The Governance Facilitators have placed a ratification poll into the [voting sys
 
 ## Review
 
-The community may vote in this poll to express support or opposition to $mip_code being accepted and implemented in the Maker Protocol.
+The community may vote in this poll to express support or opposition to MIP102c2-SP27 being accepted and implemented in the Maker Protocol.
 
 A brief summary of this proposal has been provided by the MIP Author and is shown below:
 
-*The Governance Facilitator teams have observed a rising number of proposals containing logic intended to block other proposals editing the same section of a MIP or Scope Artifact (Example 1, Example 2) within the same Governance Cycle. This type of blocking language undermines effective governance by preventing voters from selecting their preferred option in the event that there are opposing amendments. Simultaneously, there is a risk of a stalemate situation where two or more proposals seeking to edit the same component contain such blocking language, making it logically impossible for either to be ratified.*
+*This subproposal will amend MIP113 Section 5.2, to include a new procedure to allow AVC members to relinquish their role.*
 
-*This proposal introduces language that will:*
-
-- *Ban the use of such blocking language in MIP102c2 subproposals.*
-- *Authorize Governance Facilitators to streamline and merge non-conflicting proposals editing the same component.*
-  - *For example, simultaneous subproposals may edit the same component in ways that do not conflict. These scenarios could be easily solved by combining the logic of both proposals, or by changing numbering without the need for further governance overhead.*
-- *Specify a polling process to decide the preferred option of voters in the event two conflicting proposals pass within the same Governance Cycle.
-Please review the links below to inform your position on this proposal before voting.*
-
-- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f9aa8d1eb400f011f4194d80a2e01320bc9bbb10/MIP102/MIP102c2-Subproposals/MIP102c2-SP33.md)
-- [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP33)
-- [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp33-mip102-amendment/23792)
-- [Amendment Pull Request](https://github.com/makerdao/mips/pull/1064)
+Please review the links below to inform your position on this proposal before voting.
+- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/c0a5cc97c92ec737a366f122b5ec4eec7123948b/MIP102/MIP102c2-Subproposals/MIP102c2-SP27.md)
+- [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP27)
+- [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp27-mip-amendment-subproposal/23758)
+- [Amendment Pull Request](https://github.com/makerdao/mips/pull/1080)
 
 ## Outcomes
 
