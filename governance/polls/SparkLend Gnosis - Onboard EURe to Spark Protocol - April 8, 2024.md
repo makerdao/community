@@ -43,8 +43,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Borrowable in isolation mode: Yes
 * [Siloed borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): Yes
 * Collateral Enabled: No
-* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): No
-* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: No
+* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): N/A
+* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: N/A
 * Isolation Mode Debt Ceiling: N/A
 * [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 5,000,000 EURe
 * [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps):  4,000,000 EURe
