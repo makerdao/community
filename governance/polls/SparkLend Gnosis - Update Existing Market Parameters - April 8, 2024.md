@@ -30,13 +30,22 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### xDAI Interest Rate Model
 
-- Decrease Max LTV from 70% to **0%**.
-- Decrease Base borrow rate from 4.88% to **0%**.
-- Set Optimal borrow rate to **12%**.
-- Set Max borrow rate to **62%**.
-- Increase Reserve factor from 0% to **5%**.
-- Increase Supply cap from 10 million xDAI to **20 million xDAI**.
-- Increase Borrow cap from 8 million xDAI to **16 million xDAI**.
+- Collateral: **Yes**.
+  - Decrease Max LTV from 70% to **0%**.
+  - Liquidation threshold: Unchanged at **75%**.
+  - Liquidation bonus: Unchanged at**5%**.
+- Isolation mode: **No**.
+- Efficiency mode: **No**.
+- Borrowable: **Yes**.
+  - Base borrow rate: Decrease Base borrow rate from 4.88% to **0%**.
+  - Optimal borrow rate: **12%**.
+  - Max borrow rate: **62%**.
+  - Optimal Utilization: **90%**.
+  - Reserve factor: **5%**.
+  - Borrowable in isolation mode: **Yes**
+  - Siloed borrowing: **No**
+- Supply cap: **20,000,000 xDAI**
+- Borrow cap: **16,000,000 xDAI**
 
 ### Supply Cap 
 
