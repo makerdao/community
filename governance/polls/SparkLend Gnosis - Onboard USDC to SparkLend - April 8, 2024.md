@@ -1,6 +1,6 @@
 ---
 title: SparkLend Gnosis - Onboard USDC to SparkLend - April 8, 2024
-summary: Onboard USDC ( USD//C on xDai) to Spark Protocol on Gnosis with included parameters.
+summary: Onboard USDC (Circle USDC) to Spark Protocol on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding USDC ( USD//C on xDai) to Spark Protocol on Gnosis with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding USDC (Circle USDC) to Spark Protocol on Gnosis with the parameters below:
 
 ### Spark Parameters
 
@@ -56,7 +56,7 @@ A risk evaluation has been provided by BA Labs and can be found [here](https://f
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* USDC ( USD//C on xDai) will be onboarded to Spark Protocol Gnosis via a future executive vote.
+* USDC (Circle USDC) will be onboarded to Spark Protocol Gnosis via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
