@@ -32,8 +32,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * Token: sxDAI
 * Token Address: [0xaf204776c7245bF4147c2612BF6e5972Ee483701](https://gnosisscan.io/address/0xaf204776c7245bF4147c2612BF6e5972Ee483701)
-* Oracle: $oracle
-* Oracle Provider: $oracle-provider
+* Oracle: [0x1D0f881Ce1a646E2f27Dec3c57Fa056cB838BCC2](https://gnosisscan.io/address/0x1D0f881Ce1a646E2f27Dec3c57Fa056cB838BCC2)
+* Oracle Provider: Chainlink
 * Borrow Enabled: No
 * Collateral Enabled: Yes
 * [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): No
