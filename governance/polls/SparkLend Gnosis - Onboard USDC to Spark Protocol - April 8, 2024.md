@@ -1,5 +1,5 @@
 ---
-title: SparkLend Gnosis - Onboard USDC to Spark Protocol - April 8, 2024
+title: SparkLend Gnosis - Onboard USDC to SparkLend - April 8, 2024
 summary: Onboard USDC ( USD//C on xDai) to Spark Protocol on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
