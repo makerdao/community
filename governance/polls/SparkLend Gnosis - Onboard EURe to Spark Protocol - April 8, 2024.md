@@ -1,6 +1,6 @@
 ---
 title: SparkLend Gnosis - Onboard EURe to Spark Protocol - April 8, 2024
-summary: Onboard EURe (Monerium EUR emoney) to Spark Protocol on Gnosis with included parameters.
+summary: Onboard EURe (Monerium EUR emoney) to SparkLend on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
