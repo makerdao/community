@@ -1,7 +1,7 @@
 ---
 title: SparkLend Gnosis - Onboard USDT to Spark Protocol - April 8, 2024
 summary: Onboard USDT (Tether USD on xDai) to Spark Protocol on Gnosis with included parameters.
-discussion_link: https://forum.makerdao.comhttps://github.com/MakerJanSky/community/blob/Poll-Drafts-for-April-8/governance/polls/SparkLend%20Gnosis%20-%20Onboard%20EURe%20to%20Spark%20Protocol%20-%20April%208%2C%202024.md/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
+discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
     victory_conditions:
