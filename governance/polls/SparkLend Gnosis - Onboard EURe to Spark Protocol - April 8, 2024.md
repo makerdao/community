@@ -32,8 +32,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 * Token: EURe
 * Token Address: [0xcB444e90D8198415266c6a2724b7900fb12FC56E](https://gnosisscan.io/address/0xcB444e90D8198415266c6a2724b7900fb12FC56E)
-* Oracle: $oracle
-* Oracle Provider: $oracle-provider
+* Oracle: [0xab70BCB260073d036d1660201e9d5405F5829b7a](https://gnosisscan.io/address/0xab70BCB260073d036d1660201e9d5405F5829b7a)
+* Oracle Provider: Chainlink
 * Borrow Enabled: Yes
 * Base borrow rate: 0%
 * Optimal borrow rate: 7%
