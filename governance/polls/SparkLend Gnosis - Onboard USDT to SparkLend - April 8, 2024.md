@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Onboard USDT to Spark Protocol - April 8, 2024
-summary: Onboard USDT (Tether USDT) to Spark Protocol on Gnosis with included parameters.
+title: SparkLend Gnosis - Onboard USDT to SparkLend - April 8, 2024
+summary: Onboard USDT (Tether USDT) to SparkLend on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2024-04-08T16:00:00
 end_date: 2024-04-11T16:00:00
 ---
-# Poll: SparkLend Gnosis - Onboard USDT to Spark Protocol - April 8, 2024
+# Poll: SparkLend Gnosis - Onboard USDT to SparkLend - April 8, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 8 at 16:00 UTC.
 
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding USDT (Tether USDT) to Spark Protocol on Gnosis with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding USDT (Tether USDT) to SparkLend on Gnosis with the parameters below:
 
 ### Spark Parameters
 
@@ -56,9 +56,9 @@ A risk evaluation has been provided by BA Labs and can be found [here](https://f
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* USDT (Tether USDT) will be onboarded to Spark Protocol Gnosis via a future executive vote.
+* USDT (Tether USDT) will be onboarded to SparkLend Gnosis via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in SparkLend after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
