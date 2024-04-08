@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding EURe (Monerium EUR emoney) to Spark Protocol on Gnosis with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding EURe (Monerium EUR emoney) to SparkLend on Gnosis with the parameters below:
 
 ### Spark Parameters
 
