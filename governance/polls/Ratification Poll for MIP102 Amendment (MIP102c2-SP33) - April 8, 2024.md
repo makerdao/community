@@ -47,7 +47,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 - *Specify a polling process to decide the preferred option of voters in the event two conflicting proposals pass within the same Governance Cycle.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](https://github.com/0xldr/mips/blob/abfef7d4a2fb261bb7a06d2446c531efd92328b6/MIP102/MIP102.md)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f9aa8d1eb400f011f4194d80a2e01320bc9bbb10/MIP102/MIP102c2-Subproposals/MIP102c2-SP33.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP33)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp33-mip102-amendment/23792)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/1064)
