@@ -56,7 +56,7 @@ A risk evaluation has been provided by BA Labs and can be found [here](https://f
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* EURe (Monerium EUR emoney) will be onboarded to Spark Protocol Gnosis via a future executive vote.
+* EURe (Monerium EUR emoney) will be onboarded to SparkLend Gnosis via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
