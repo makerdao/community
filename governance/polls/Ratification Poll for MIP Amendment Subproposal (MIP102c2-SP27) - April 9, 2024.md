@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
+title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 9, 2024
 summary: This subproposal will amend MIP113 Section 5.2, to include a new procedure to allow AVC members to relinquish their role.
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp27-mip-amendment-subproposal/23758
 parameters:
@@ -21,13 +21,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-04-08T16:00:00
-end_date: 2024-04-22T16:00:00
+start_date: 2024-04-09T16:00:00
+end_date: 2024-04-23T16:00:00
 ---
 
-# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 8, 2024
+# Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP27) - April 9, 2024
 
-The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, April 8 at 16:00 UTC.
+The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Tuesday, April 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
