@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Update Existing Market Parameters - April 8, 2024
-summary: Signal your support or opposition to the parameter changes listed for SparkLend Gnosis.
+title: SparkLend Ethereum and Gnosis - Upgrade Pool Implementation to Disable Flashloan into Borrow Feature - April 9, 2024
+summary: Signal your support or opposition to upgrading SparkLend Ethereum and Gnosis to disable Flashloan into Borrow feature. 
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-04-08T16:00:00
-end_date: 2024-04-11T16:00:00
+start_date: 2024-04-09T16:00:00
+end_date: 2024-04-12T16:00:00
 ---
-# Poll: SparkLend Gnosis - Update Existing Market Parameters - April 8, 2024
+# Poll: SparkLend Ethereum and Gnosis - Upgrade Pool Implementation to Disable Flashloan into Borrow Feature - April 9, 2024
 
-The Goveranance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Tuesday, April 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,31 +26,9 @@ The Goveranance Facilitators have placed a Governance Poll into the voting syste
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes on SparkLend Gnosis:
+The community can vote in this poll to express support or opposition to the following changes:
 
-### xDAI Interest Rate Model
-
-- Collateral: **Yes**.
-  - Decrease Max LTV from 70% to **0%**.
-  - Liquidation threshold: Unchanged at **75%**.
-  - Liquidation bonus: Unchanged at**5%**.
-- Isolation mode: **No**.
-- Efficiency mode: **No**.
-- Borrowable: **Yes**.
-  - Base borrow rate: Decrease Base borrow rate from 4.88% to **0%**.
-  - Optimal borrow rate: **12%**.
-  - Max borrow rate: **62%**.
-  - Optimal Utilization: **90%**.
-  - Reserve factor: **5%**.
-  - Borrowable in isolation mode: **Yes**
-  - Siloed borrowing: **No**
-- Supply cap: **20,000,000 xDAI**
-- Borrow cap: **16,000,000 xDAI**
-
-### Supply Cap 
-
-- Decrease GNO supply cap from 200,000 GNO to **100,000 GNO**.
-- Increase wstETH supply cap from 10,000 wstETH to **15,000 wstETH**.
+* Remove feature that allowed users to convert a Flashloan into a debt position. Release notes and sourcecode availible [here](https://github.com/marsfoundation/sparklend-v1-core/releases).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033) to help inform your position before voting.
 

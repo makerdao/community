@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Onboard USDT to SparkLend - April 8, 2024
-summary: Onboard USDT (Tether USDT) to SparkLend on Gnosis with included parameters.
+title: SparkLend Gnosis - Onboard EURe to SparkLend - April 9, 2024
+summary: Onboard EURe (Monerium EUR emoney) to SparkLend on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-04-08T16:00:00
-end_date: 2024-04-11T16:00:00
+start_date: 2024-04-09T16:00:00
+end_date: 2024-04-12T16:00:00
 ---
-# Poll: SparkLend Gnosis - Onboard USDT to SparkLend - April 8, 2024
+# Poll: SparkLend Gnosis - Onboard EURe to SparkLend - April 9, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Tuesday, April 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,18 +26,18 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding USDT (Tether USDT) to SparkLend on Gnosis with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding EURe (Monerium EUR emoney) to SparkLend on Gnosis with the parameters below:
 
 ### Spark Parameters
 
-* Token: USDT
-* Token Address: [0x4ECaBa5870353805a9F068101A40E0f32ed605C6](https://gnosisscan.io/address/0x4ecaba5870353805a9f068101a40e0f32ed605c6)
-* Oracle: 1:1 USD Fixed
-* Oracle Provider: N/A
+* Token: EURe
+* Token Address: [0xcB444e90D8198415266c6a2724b7900fb12FC56E](https://gnosisscan.io/address/0xcB444e90D8198415266c6a2724b7900fb12FC56E)
+* Oracle: [0xab70BCB260073d036d1660201e9d5405F5829b7a](https://gnosisscan.io/address/0xab70BCB260073d036d1660201e9d5405F5829b7a)
+* Oracle Provider: Chainlink
 * Borrow Enabled: Yes
 * Base borrow rate: 0%
-* Optimal borrow rate: 12%
-* Max borrow rate: 62%
+* Optimal borrow rate: 7%
+* Max borrow rate: 57%
 * Optimal Utilization: 90%
 * Reserve factor: 10%
 * Borrowable in isolation mode: Yes
@@ -46,8 +46,8 @@ This poll allows the MakerDAO governance community to signal their support or op
 * [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): N/A
 * [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: N/A
 * Isolation Mode Debt Ceiling: N/A
-* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 10,000,000 USDT
-* [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps):  8,000,000 USDT
+* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 5,000,000 EURe
+* [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps):  4,000,000 EURe
 
 Please review the proposal [thread](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033) for more information about this proposed onboarding.
 
@@ -56,9 +56,9 @@ A risk evaluation has been provided by BA Labs and can be found [here](https://f
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* USDT (Tether USDT) will be onboarded to SparkLend Gnosis via a future executive vote.
+* EURe (Monerium EUR emoney) will be onboarded to SparkLend Gnosis via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in SparkLend after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 

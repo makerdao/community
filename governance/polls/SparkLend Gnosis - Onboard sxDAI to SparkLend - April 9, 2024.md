@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Onboard EURe to SparkLend - April 8, 2024
-summary: Onboard EURe (Monerium EUR emoney) to SparkLend on Gnosis with included parameters.
+title: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 9, 2024
+summary: Onboard sxDAI (Savings xDAI) to SparkLend on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-04-08T16:00:00
-end_date: 2024-04-11T16:00:00
+start_date: 2024-04-09T16:00:00
+end_date: 2024-04-12T16:00:00
 ---
-# Poll: SparkLend Gnosis - Onboard EURe to SparkLend - April 8, 2024
+# Poll: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 9, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Tuesday, April 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
@@ -26,28 +26,23 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to adding EURe (Monerium EUR emoney) to SparkLend on Gnosis with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to adding sxDAI (Savings xDAI) to SparkLend on Gnosis with the parameters below:
 
 ### Spark Parameters
 
-* Token: EURe
-* Token Address: [0xcB444e90D8198415266c6a2724b7900fb12FC56E](https://gnosisscan.io/address/0xcB444e90D8198415266c6a2724b7900fb12FC56E)
-* Oracle: [0xab70BCB260073d036d1660201e9d5405F5829b7a](https://gnosisscan.io/address/0xab70BCB260073d036d1660201e9d5405F5829b7a)
+* Token: sxDAI
+* Token Address: [0xaf204776c7245bF4147c2612BF6e5972Ee483701](https://gnosisscan.io/address/0xaf204776c7245bF4147c2612BF6e5972Ee483701)
+* Oracle: [0x1D0f881Ce1a646E2f27Dec3c57Fa056cB838BCC2](https://gnosisscan.io/address/0x1D0f881Ce1a646E2f27Dec3c57Fa056cB838BCC2)
 * Oracle Provider: Chainlink
-* Borrow Enabled: Yes
-* Base borrow rate: 0%
-* Optimal borrow rate: 7%
-* Max borrow rate: 57%
-* Optimal Utilization: 90%
-* Reserve factor: 10%
-* Borrowable in isolation mode: Yes
-* [Siloed borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): Yes
-* Collateral Enabled: No
-* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): N/A
-* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: N/A
+* Borrow Enabled: No
+* Collateral Enabled: Yes
+* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): No
+* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: No
 * Isolation Mode Debt Ceiling: N/A
-* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 5,000,000 EURe
-* [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps):  4,000,000 EURe
+* Loan To Value: 70%
+* Liquidation Threshold: 75%
+* Liquidation Bonus: 6%
+* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 40,000,000 sxDAI
 
 Please review the proposal [thread](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033) for more information about this proposed onboarding.
 
@@ -56,7 +51,7 @@ A risk evaluation has been provided by BA Labs and can be found [here](https://f
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* EURe (Monerium EUR emoney) will be onboarded to SparkLend Gnosis via a future executive vote.
+* sxDAI (Savings xDAI) will be onboarded to SparkLend Gnosis via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
