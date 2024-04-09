@@ -1,5 +1,5 @@
 ---
-title: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 8, 2024
+title: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 9, 2024
 summary: Onboard sxDAI (Savings xDAI) to SparkLend on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-04-08T16:00:00
-end_date: 2024-04-11T16:00:00
+start_date: 2024-04-09T16:00:00
+end_date: 2024-04-12T16:00:00
 ---
-# Poll: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 8, 2024
+# Poll: SparkLend Gnosis - Onboard sxDAI to SparkLend - April 9, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, April 8 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Tuesday, April 9 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
