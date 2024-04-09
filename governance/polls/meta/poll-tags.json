@@ -4339,5 +4339,57 @@
     "medium-impact",
     "misc-governance",
     "endgame"
+  ],
+  "1095": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1096": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1097": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1098": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1099": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1100": [
+    "medium-impact",
+    "technical",
+    "spark"
+  ],
+  "1101": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "1102": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
+  ],
+  "1103": [
+    "medium-impact",
+    "misc-governance",
+    "ratification",
+    "mips"
   ]
 }
