@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Reward, Aave Revenue Share Transfer, Whitelist New Address in the RWA015-A Output Conduit, Push USDP out of Input Conduit, Trigger Spark Proxy Spell - April 18, 2024
 
-The Governance Facilitators and SideStream have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
