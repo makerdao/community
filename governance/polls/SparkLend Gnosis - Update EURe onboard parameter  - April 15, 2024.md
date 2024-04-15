@@ -1,7 +1,7 @@
 ---
 title: SparkLend Gnosis - Update EURe onboard parameter - April 15, 2024
 summary: Update the "Borrowable in isolation mode" parameter for onboarding EURe (Monerium EUR e-money).
-discussion_link:https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
+discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
     victory_conditions:
