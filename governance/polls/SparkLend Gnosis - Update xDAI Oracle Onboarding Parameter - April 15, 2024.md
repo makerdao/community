@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Update sxDAI Oracle Onboarding Parameter - April 15, 2024
-summary: Update the "Oracle" parameter for onboarding sxDAI (Savings xDAI).
+title: SparkLend Gnosis - Update xDAI Oracle Parameter - April 15, 2024
+summary: Update the "Oracle" parameter for xDAI.
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2024-04-15T16:00:00
 end_date: 2024-04-18T16:00:00
 ---
-# Poll: SparkLend Gnosis - Update sxDAI onboard parameters - April 15, 2024
+# Poll: SparkLend Gnosis - Update xDAI Oracle Parameter - April 15, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Tuesday, April 15 at 16:00 UTC.
 
@@ -26,33 +26,19 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to updating the "Oracle" parameter for sxDAI (Savings xDAI) onto SparkLend on Gnosis. The onboarding will occur with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to updating the "Oracle" parameter for xDAI onto SparkLend on Gnosis.
 
-### Spark Parameters
-
-* Token: sxDAI
-* Token Address: [0xaf204776c7245bF4147c2612BF6e5972Ee483701](https://gnosisscan.io/address/0xaf204776c7245bF4147c2612BF6e5972Ee483701)
 * Oracle: Set to a fixed rate of 1 USD
 * Oracle Provider: N/A
-* Borrow Enabled: No
-* Collateral Enabled: Yes
-* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode): No
-* [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: No
-* Isolation Mode Debt Ceiling: N/A
-* Loan To Value: 70%
-* Liquidation Threshold: 75%
-* Liquidation Bonus: 6%
-* Liquidation protocol fee: 10%
-* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 40,000,000 sxDAI
 
-Please review the proposal [thread](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033) for more information about this proposed onboarding.
+Please review the proposal [thread](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033) for more information about this change.
 
 A risk evaluation has been provided by BA Labs and can be found [here](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033/6). 
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* sxDAI (Savings xDAI) will be onboarded to SparkLend Gnosis with updated parameters via a future executive vote.
+* xDAI oracle parameter will be updated via a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
 * If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
