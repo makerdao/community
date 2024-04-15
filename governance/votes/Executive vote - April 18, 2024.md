@@ -21,7 +21,7 @@ If this executive proposal passes, the following actions will occur within the M
 - A total of **175.14 MKR** will be distributed to nine AVC members as participation rewards for Q1 2024.
 - A total of **238,339 DAI** will be paid to Aave as part of the SparkLend revenue share.
 - A new address in the RWA015-A output conduit will be whitelisted.
-- **84,211.27 USDP** will be pushed out of the  MCD PSM PAX Input Conduit Jar.
+- **84,211.27 USDP** will be pushed out of the MCD PSM PAX Input Conduit Jar.
 - A proxy spell for Spark Protocol on Ethereum and Gnosis will be triggered.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
