@@ -1,5 +1,5 @@
 ---
-title: SparkLend Gnosis - Update sxDAI onboard parameter - April 15, 2024
+title: SparkLend Gnosis - Update sxDAI Oracle Onboarding Parameter - April 15, 2024
 summary: Update the "Oracle" parameter for onboarding sxDAI (Savings xDAI).
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
