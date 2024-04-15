@@ -1,6 +1,6 @@
 ---
-title: SparkLend Gnosis - Update sxDAI onboard parameters - April 15, 2024
-summary: Update the "Oracle" and "Liquidation protocol fee" parameters for onboarding sxDAI (Savings xDAI).
+title: SparkLend Gnosis - Update sxDAI onboard parameter - April 15, 2024
+summary: Update the "Oracle" parameter for onboarding sxDAI (Savings xDAI).
 discussion_link: https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033
 parameters:
     input_format: single-choice
@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows the MakerDAO governance community to signal their support or opposition to updating the "Oracle" and "Liquidation protocol fee" parameters for sxDAI (Savings xDAI) onto SparkLend on Gnosis. The onboarding will occur with the parameters below:
+This poll allows the MakerDAO governance community to signal their support or opposition to updating the "Oracle" parameter for sxDAI (Savings xDAI) onto SparkLend on Gnosis. The onboarding will occur with the parameters below:
 
 ### Spark Parameters
 
