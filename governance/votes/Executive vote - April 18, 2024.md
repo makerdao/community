@@ -101,10 +101,10 @@ This will have the following net results:
 
 ### Triggering Spark Proxy Spell
 
-- **Authorization:** [Ecosystem Approval](TBD), Governance Polls [1095](https://vote.makerdao.com/polling/QmfGV2vt), [1096](https://vote.makerdao.com/polling/QmSYZSCQ), [1097](https://vote.makerdao.com/polling/QmcRdMyA), [1098](https://vote.makerdao.com/polling/QmSh8gyC), [1099](https://vote.makerdao.com/polling/QmUhT32b), [1100](https://vote.makerdao.com/polling/QmZND8WW)
+- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033/7), Governance Polls [1095](https://vote.makerdao.com/polling/QmfGV2vt), [1096](https://vote.makerdao.com/polling/QmSYZSCQ), [1097](https://vote.makerdao.com/polling/QmcRdMyA), [1098](https://vote.makerdao.com/polling/QmSh8gyC), [1099](https://vote.makerdao.com/polling/QmUhT32b), [1100](https://vote.makerdao.com/polling/QmZND8WW), [1104](https://vote.makerdao.com/polling/QmVXriiT), [1106](https://vote.makerdao.com/polling/QmVsKsGa)
 - **Proposal:** [Forum post "[Apr 4, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033)
 
-If this executive proposal passes, the SparkLend Proxy Spell on Ethereum and Gnosis at [TBD]() will be executed, containing the following items:
+If this executive proposal passes, the SparkLend Proxy Spell on Ethereum and Gnosis at [0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882](https://etherscan.io/address/0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882) will be executed, containing the following items:
 
 - [Ethereum+Gnosis] Upgrade Pool Implementation to Disable Flashloan into Borrow Feature
 - [Gnosis] Onboard sxDAI
@@ -112,6 +112,8 @@ If this executive proposal passes, the SparkLend Proxy Spell on Ethereum and Gno
 - [Gnosis] Onboard USDC
 - [Gnosis] Onboard USDT
 - [Gnosis] Refresh Existing Market Parameters
+- [Gnosis] Update xDAI Oracle Parameter
+- [Ethereum] Activate the SparkLend External Security Access Multisig
 
 ## Review
 
