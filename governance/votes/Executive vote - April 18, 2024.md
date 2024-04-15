@@ -57,7 +57,7 @@ If this executive proposal passes, the following transfers totalling **219.36 MK
 - **Authorization:** [Atlas Section 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/avc-member-participation-rewards-q1-2024/24083)
 
-If this executive proposal passes, the following distributions totalling **175.14 MKR** will be made for Q4 AVC member compensation.
+If this executive proposal passes, the following distributions totalling **175.14 MKR** will be made for Q1 2024 AVC member compensation.
 
 | AVC Member | Address | Amount (MKR) |
 |--|--|--|
