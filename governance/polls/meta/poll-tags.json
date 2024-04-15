@@ -4391,5 +4391,16 @@
     "misc-governance",
     "ratification",
     "mips"
+  ],
+  "1104": [
+    "high-impact",
+    "misc-governance",
+    "spark"
+  ],
+  "1105": [
+    "medium-impact",
+    "oracle",
+    "risk-parameter",
+    "spark"
   ]
 }
