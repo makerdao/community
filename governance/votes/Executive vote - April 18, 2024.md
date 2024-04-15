@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - A total of **219.36 MKR** will be distributed to eight Aligned Delegates as compensation for March 2024.
-- A total of **175.14 MKR** will be distributed to nine AVC members as compensation for March 2024.
+- A total of **175.14 MKR** will be distributed to nine AVC members as participation rewards for Q1 2024.
 - A total of **238,339 DAI** will be paid to Aave as part of the SparkLend revenue share.
 - A new address in the RWA015-A output conduit will be whitelisted.
 - **84,211.27 USDP** will be pushed out of the  MCD PSM PAX Input Conduit Jar.
