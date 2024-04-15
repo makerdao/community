@@ -26,7 +26,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to activating the [SparkLend External Security Access Multisig](https://mips.makerdao.com/mips/details/MIP113#10-3-1-multisig-freeze-of-sparklend). The SparkLend External Security Access Multisig is a security measure that allows speedier activation of the [SparkLend Freezer Module](https://mips.makerdao.com/mips/details/MIP113#10-2-8-sparklend-freezer-mom) via a multisig in the face of extreme emergencies than is otherwise possible through the normal governance processes.
+The community can vote in this poll to express support or opposition to activating the [SparkLend External Security Access](https://mips.makerdao.com/mips/details/MIP113#10-3-1-multisig-freeze-of-sparklend) to the SparkLend Freezer Mom contract to the following multisig wallet:
+
+[0x44efFc473e81632B12486866AA1678edbb7BEeC3](https://etherscan.io/address/0x44efFc473e81632B12486866AA1678edbb7BEeC3)
+
+The SparkLend External Security Access Multisig is a security measure designed to enable faster activation of the [SparkLend Freezer Module](https://mips.makerdao.com/mips/details/MIP113#10-2-8-sparklend-freezer-mom) via a multisig during extreme emergencies. This approach allows for quicker responses than is possible through the normal governance process involving an emergency spell.
+
+### Predefined general guidelines for the use of the SparkLend External Security Access Multisig are as follows:
+
+- The multisig should be used when time is of the essence and the normal governance process of emergency spell would not be sufficient to prevent the issue from being exploited.
+- The ability is mainly meant to prevent technical vulnerabilities or unwanted functionality of the smart contracts or corresponding parts in the system such as price oracle or their usage and behavior which was not intended.
+- The best examples of when the multisig access should be utilized are (i) a responsible vulnerability disclosure occurs to either Maker Ecosystem Actors directly, to the AaveDAO or other protocols utilizing the same codebase, or (ii) an active vulnerability exploit is occurring or had occurred in SparkLend or one of the protocols utilizing the same codebase and a timely action can prevent or at least partially prevent the damage.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/sparklend-external-security-access-multisig-for-freezer-mom/24070) to help inform your position before voting.
 
