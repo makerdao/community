@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization:** [Atlas Section 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/march-2024-aligned-delegate-compensation/24088)
 
-If this executive proposal passes, the following transfers totalling **219.36 MKR** for Aligned Delegate Compensation will be made to qualifying Aligned Delegates.
+If this executive proposal passes, the following transfers totalling **214.55 MKR** for Aligned Delegate Compensation will be made to qualifying Aligned Delegates.
 
 | Delegate | Address | Amount (MKR) |
 |--|--|--|
