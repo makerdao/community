@@ -5,7 +5,7 @@ date: 2024-04-18T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] [Executive Vote] Aligned Delegate Compensation, AVC Member Compensation, Aave Revenue Share Payment, Whitelist New Address in the RWA015-A Output Conduit, Push USDP out of Input Conduit, Trigger Spark Proxy Spell - April 18, 2024
+# [Executive Proposal] [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Reward, Aave Revenue Share Transfer, Whitelist New Address in the RWA015-A Output Conduit, Push USDP out of Input Conduit, Trigger Spark Proxy Spell - April 18, 2024
 
 The Governance Facilitators and SideStream have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
