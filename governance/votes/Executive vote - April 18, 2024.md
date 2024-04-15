@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Aligned Delegate Compensation, AVC Member Compensation, Aave Revenue Share Payment, Whitelist New Address in the RWA015-A Output Conduit, Push USDP out of Input Conduit, Trigger Spark Proxy Spell - April 18, 2024
+title: Template - [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Reward, Aave Revenue Share Transfer, Whitelist New Address in the RWA015-A Output Conduit, Push USDP out of Input Conduit, Trigger Spark Proxy Spell - April 18, 2024
 summary: Aligned Delegate and AVC member compensation, Spark Protocol-Aave Share Payment, Whitelisting new address in the RWA015-a output conduit, pushing 84,211.27 USDP out of the MCD PSM PAX input conduit jar, triggering a Spark proxy spell on Ethereum and Gnosis.
 date: 2024-04-18T00:00:00.000Z
 address: "$spell_address"
