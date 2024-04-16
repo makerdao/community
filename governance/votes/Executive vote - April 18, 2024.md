@@ -87,7 +87,7 @@ If this executive proposal passes, the following address will be whitelisted in 
 
 - [0x6759610547a36E9597Ef452aa0B9cace91291a2f](https://etherscan.io/address/0x6759610547a36E9597Ef452aa0B9cace91291a2f)
 
-### Push USDP out of the input conduit
+### Push USDP Out of the Input Conduit
 
 - **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084)
