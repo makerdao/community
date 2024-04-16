@@ -99,7 +99,7 @@ This will have the following net results:
 - USDP balance of PSM_PAX_A_INPUT_CONDUIT_JAR decreases to **0 USDP**.
 - Surplus Buffer increases by **84,211.27 DAI**.
 
-### Triggering Spark Proxy Spell
+### Trigger Spark Proxy Spell
 
 - **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033/7), Governance Polls [1095](https://vote.makerdao.com/polling/QmfGV2vt), [1096](https://vote.makerdao.com/polling/QmSYZSCQ), [1097](https://vote.makerdao.com/polling/QmcRdMyA), [1098](https://vote.makerdao.com/polling/QmSh8gyC), [1099](https://vote.makerdao.com/polling/QmUhT32b), [1100](https://vote.makerdao.com/polling/QmZND8WW), [1104](https://vote.makerdao.com/polling/QmVXriiT), [1106](https://vote.makerdao.com/polling/QmVsKsGa)
 - **Proposal:** [Forum post "[Apr 4, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033)
