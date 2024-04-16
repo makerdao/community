@@ -120,7 +120,7 @@ This item proposes to onboard EURe (Monerium EUR emoney) as collateral on the Gn
 
 #### [Gnosis] Onboard USDC
 
-This item proposes to onboard USDC as collateral on the Gnosis Chain.
+This item proposes to onboard USDC (Circle USDC) as collateral on the Gnosis Chain.
 
 #### [Gnosis] Onboard USDT
 
