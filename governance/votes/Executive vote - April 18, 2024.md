@@ -106,14 +106,37 @@ This will have the following net results:
 
 If this executive proposal passes, the SparkLend Proxy Spell on Ethereum and Gnosis at [0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882](https://etherscan.io/address/0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882) will be executed, containing the following items:
 
-- [Ethereum+Gnosis] Upgrade Pool Implementation to Disable Flashloan into Borrow Feature
-- [Gnosis] Onboard sxDAI
-- [Gnosis] Onboard EURe
-- [Gnosis] Onboard USDC
-- [Gnosis] Onboard USDT
-- [Gnosis] Refresh Existing Market Parameters
-- [Gnosis] Update xDAI Oracle Parameter
-- [Ethereum] Activate the SparkLend External Security Access Multisig
+#### [Ethereum+Gnosis] Upgrade Pool Implementation to Disable Flashloan into Borrow Feature
+
+This item upgrades the SparkLend pool implementation to disable the flashloan-to-borrow feature, reducing unnecessary risks and aligning with the latest Aave V3 release standards for enhanced security.
+
+####  [Gnosis] Onboard sxDAI
+
+This item proposes to onboard sxDAI, a yield-enhanced version of sDAI on the Gnosis Chain, as collateral.
+
+#### [Gnosis] Onboard EURe
+
+This item proposes to onboard EURe as collateral on the Gnosis Chain.
+
+#### [Gnosis] Onboard USDC
+
+This item proposes to onboard USDC as collateral on the Gnosis Chain.
+
+#### [Gnosis] Onboard USDT
+
+This item proposes to onboard USDC as collateral on the Gnosis Chain.
+
+#### [Gnosis] Refresh Existing Market Parameter
+
+This item updates Gnosis market parameters, including a significant adjustment of the xDAI interest rate model to align with current conditions and the introduction of sxDAI as collateral.
+
+#### [Gnosis] Update xDAI Oracle Parameter
+
+This item suggests changing the oracle for xDAI from the Chainlink DAI price feed to a fixed 1:1 USD pricing.
+
+#### [Ethereum] Activate the SparkLend External Security Access Multisig
+
+This item activates the SparkLend External Security Access Multisig, which enables emergency interventions in extreme cases like potential code exploits threatening the protocol. Governed by selected members from the community, this feature aims to provide quick responses to emergencies, complementing existing governance processes.
 
 ## Review
 
