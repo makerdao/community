@@ -77,7 +77,7 @@ If this executive proposal passes, the following distributions totalling **175.1
 - **Authorization:** [Support Scope Section 9.4.1](https://mips.makerdao.com/mips/details/MIP106#9-4-1-spark-protocol-aave-revenue-share)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/spark-aave-revenue-share-calculation-payment-3-q1-2024/24014)
 
-If this executive proposal passes, a payment from the Surplus Buffer of **238,339 DAI** to a smart contract ([0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)) controlled by Aave Governance will be made as part of the Spark Protocol-Aave Revenue Share.
+If this executive proposal passes, a payment from the Surplus Buffer of **238,339 DAI** to a smart contract [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c) controlled by Aave Governance will be made as part of the Spark Protocol-Aave Revenue Share.
 
 ### Whitelist new address in the RWA015-A output conduit
 - **Authorization:** [Atlas Section 2.5.10](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
