@@ -116,7 +116,7 @@ This item proposes to onboard sxDAI (Savings xDAI), a yield-enhanced version of 
 
 #### [Gnosis] Onboard EURe
 
-This item proposes to onboard EURe as collateral on the Gnosis Chain.
+This item proposes to onboard EURe (Monerium EUR emoney) as collateral on the Gnosis Chain.
 
 #### [Gnosis] Onboard USDC
 
