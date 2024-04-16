@@ -110,7 +110,7 @@ This will have the following net results:
 ### Trigger Spark Proxy Spell
 
 - **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033/7), Governance Polls [1095](https://vote.makerdao.com/polling/QmfGV2vt), [1096](https://vote.makerdao.com/polling/QmSYZSCQ), [1097](https://vote.makerdao.com/polling/QmcRdMyA), [1098](https://vote.makerdao.com/polling/QmSh8gyC), [1099](https://vote.makerdao.com/polling/QmUhT32b), [1100](https://vote.makerdao.com/polling/QmZND8WW), [1104](https://vote.makerdao.com/polling/QmVXriiT), [1106](https://vote.makerdao.com/polling/QmVsKsGa)
-- **Proposal:** [Forum post "[Apr 4, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033)
+- **Proposal:** [Forum post "[Apr 4, 2024] Proposed Changes to SparkLend for Upcoming Spell"](https://forum.makerdao.com/t/apr-4-2024-proposed-changes-to-sparklend-for-upcoming-spell/24033), [Forum post "SparkLend External Security Access Multisig for Freezer Mom"](https://forum.makerdao.com/t/sparklend-external-security-access-multisig-for-freezer-mom/24070)
 
 If this executive proposal passes, the SparkLend Proxy Spell on Ethereum and Gnosis at [0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882](https://etherscan.io/address/0x3d1DD14Fa08163E7f64b0abf0F514f6276f50882) will be executed, containing the following items:
 
@@ -120,19 +120,75 @@ This item upgrades the SparkLend pool implementation to disable the flashloan-to
 
 ####  [Gnosis] Onboard sxDAI
 
-This item proposes to onboard sxDAI (Savings xDAI), a yield-enhanced version of sDAI on the Gnosis Chain, as collateral.
+This item proposes to onboard sxDAI (Savings xDAI), a yield-enhanced version of sDAI on the Gnosis Chain, as collateral with the following parameters:
+
+* Collateral: Yes
+  * Max LTV: 70%
+  * Liquidation threshold: 75%
+  * Liquidation bonus: 6%
+  * Liquidation protocol fee: 10%
+* Isolation mode: No
+* Efficiency mode: No
+* Borrowable: No
+* Supply cap: 40,000,000 sxDAI
+* Borrow cap: n/a
 
 #### [Gnosis] Onboard EURe
 
-This item proposes to onboard EURe (Monerium EUR emoney) as collateral on the Gnosis Chain.
+This item proposes to onboard EURe (Monerium EUR emoney) on the Gnosis Chain with the following parameters:
+
+* Collateral: No
+* Isolation mode: n/a
+* Efficiency mode: n/a
+* Borrowable: Yes
+  * Base borrow rate: 0%
+  * Optimal borrow rate: 7%
+  * Max borrow rate: 57%
+  * Optimal Utilization: 90%
+  * Reserve factor: 10%
+  * Borrowable in isolation mode: No
+  * Siloed borrowing: Yes
+* Supply cap: 5,000,000 EURe
+* Borrow cap: 4,000,000 EURe
+* Oracle: EURUSD
 
 #### [Gnosis] Onboard USDC
 
-This item proposes to onboard USDC (Circle USDC) as collateral on the Gnosis Chain.
+This item proposes to onboard USDC (Circle USDC) on the Gnosis Chain with the following parameters:
+
+* Collateral: No
+* Isolation mode: n/a
+* Efficiency mode: n/a
+* Borrowable: Yes
+  * Base borrow rate: 0%
+  * Optimal borrow rate: 12%
+  * Max borrow rate: 62%
+  * Optimal Utilization: 90%
+  * Reserve factor: 10%
+  * Borrowable in isolation mode: Yes
+  * Siloed borrowing: Yes
+* Supply cap: 10,000,000 USDC
+* Borrow cap: 8,000,000 USDC
+* Oracle: Fixed 1:1 USD pricing
 
 #### [Gnosis] Onboard USDT
 
-This item proposes to onboard USDT (Tether USDT) as collateral on the Gnosis Chain.
+This item proposes to onboard USDT (Tether USDT) on the Gnosis Chain with the following parameters:
+
+* Collateral: No
+* Isolation mode: n/a
+* Efficiency mode: n/a
+* Borrowable: Yes
+  * Base borrow rate: 0%
+  * Optimal borrow rate: 12%
+  * Max borrow rate: 62%
+  * Optimal Utilization: 90%
+  * Reserve factor: 10%
+  * Borrowable in isolation mode: Yes
+  * Siloed borrowing: Yes
+* Supply cap: 10,000,000 USDT
+* Borrow cap: 8,000,000 USDT
+* Oracle: Fixed 1:1 USD pricing
 
 #### [Gnosis] Refresh Existing Market Parameter
 
@@ -144,7 +200,7 @@ This item suggests changing the oracle for xDAI from the Chainlink DAI price fee
 
 #### [Ethereum] Activate the SparkLend External Security Access Multisig
 
-This item activates the SparkLend External Security Access Multisig, which enables emergency interventions in extreme cases like potential code exploits threatening the protocol. Governed by selected members from the community, this feature aims to provide quick responses to emergencies, complementing existing governance processes.
+This item activates the [SparkLend External Security Access](https://mips.makerdao.com/mips/details/MIP113#10-3-1-multisig-freeze-of-sparklend) Multisig with the Ethereum Address [0x44efFc473e81632B12486866AA1678edbb7BEeC3](https://etherscan.io/address/0x44efFc473e81632B12486866AA1678edbb7BEeC3), which enables emergency interventions in extreme cases like potential code exploits threatening the protocol. Governed by selected members from the community, this feature aims to provide quick responses to emergencies, complementing existing governance processes.
 
 ## Review
 
