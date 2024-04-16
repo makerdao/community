@@ -112,7 +112,7 @@ This item upgrades the SparkLend pool implementation to disable the flashloan-to
 
 ####  [Gnosis] Onboard sxDAI
 
-This item proposes to onboard sxDAI, a yield-enhanced version of sDAI on the Gnosis Chain, as collateral.
+This item proposes to onboard sxDAI (Savings xDAI), a yield-enhanced version of sDAI on the Gnosis Chain, as collateral.
 
 #### [Gnosis] Onboard EURe
 
