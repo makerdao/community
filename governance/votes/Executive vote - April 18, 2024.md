@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Managment, Spark Proxy Spell - April 18, 2024
-summary:  Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, whitelist a new address in the RWA015-a output conduit, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
+title: Template - [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, USDP Input Conduit Management, Spark Proxy Spell - April 18, 2024
+summary:  Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
 date: 2024-04-18T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Managment, Spark Proxy Spell - April 18, 2024
+# [Executive Proposal] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, USDP Input Conduit Management, Spark Proxy Spell - April 18, 2024
 
 The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -20,7 +20,6 @@ If this executive proposal passes, the following actions will occur within the M
 - A total of **214.55 MKR** will be distributed to eight Aligned Delegates as compensation for March 2024.
 - A total of **175.14 MKR** will be distributed to nine AVC members as participation rewards for Q1 2024.
 - A total of **238,339 DAI** will be paid to Aave as part of the SparkLend revenue share.
-- A new address in the RWA015-A output conduit will be whitelisted.
 - **84,211.27 USDP** will be pushed out of the MCD PSM PAX Input Conduit Jar.
 - A proxy spell for Spark Protocol on Ethereum and Gnosis will be triggered.
 
@@ -78,9 +77,9 @@ If this executive proposal passes, the following distributions totalling **175.1
 
 If this executive proposal passes, a payment from the Surplus Buffer of **238,339 DAI** to a smart contract ([0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c)) controlled by Aave Governance will be made as part of the Spark Protocol-Aave Revenue Share.
 
-### Whitelisting New Address in the RWA015-A Output Conduit
+### Push USDP out of the input conduit
 
-- **Authorization:** [Atlas Section 2.5.10](https://mips.makerdao.com/mips/details/MIP101#2-5-10-avc-member-participation-rewards)
+- **Authorization:** [Atlas Section 2.5.10](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084)
 
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
