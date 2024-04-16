@@ -79,7 +79,7 @@ If this executive proposal passes, the following distributions totalling **175.1
 
 If this executive proposal passes, a payment from the Surplus Buffer of **238,339 DAI** to a smart contract [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c) controlled by Aave Governance will be made as part of the Spark Protocol-Aave Revenue Share.
 
-### Whitelist new address in the RWA015-A output conduit
+### Whitelist New Address in the RWA015-A Output Conduit
 - **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084)
 
