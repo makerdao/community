@@ -124,7 +124,7 @@ This item proposes to onboard USDC as collateral on the Gnosis Chain.
 
 #### [Gnosis] Onboard USDT
 
-This item proposes to onboard USDC as collateral on the Gnosis Chain.
+This item proposes to onboard USDT as collateral on the Gnosis Chain.
 
 #### [Gnosis] Refresh Existing Market Parameter
 
