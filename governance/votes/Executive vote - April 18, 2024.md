@@ -195,6 +195,31 @@ This item proposes to onboard USDT (Tether USDT) on the Gnosis Chain with the fo
 
 This item updates Gnosis market parameters, including a significant adjustment of the xDAI interest rate model to align with current conditions and the introduction of sxDAI as collateral.
 
+**xDAI Parameters:**
+
+* Collateral: Yes
+  * Max LTV: 0%
+  * Liquidation threshold: 75%
+  * Liquidation bonus: 5%
+* Isolation mode: No
+* Efficiency mode: No
+* Borrowable: Yes
+  * Base borrow rate: 0%
+  * Optimal borrow rate: 12%
+  * Max borrow rate: 62%
+  * Optimal Utilization: 90%
+  * Reserve factor: 5%
+  * Borrowable in isolation mode: Yes
+  * Siloed borrowing: No
+* Supply cap: 20,000,000 xDAI
+* Borrow cap: 16,000,000 xDAI
+
+**Cap Parameter Changes:**
+
+* GNO supply cap: 100,000 GNO (100,000 GNO decrease)
+* wstETH supply cap: 15,000 wstETH (5,000 wstETH increase)
+  
+
 #### [Gnosis] Update xDAI Oracle Parameter
 
 This item suggests changing the oracle for xDAI from the Chainlink DAI price feed to a fixed 1:1 USD pricing.
