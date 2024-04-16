@@ -158,8 +158,8 @@ This item proposes to onboard EURe (Monerium EUR emoney) on the Gnosis Chain wit
 This item proposes to onboard USDC (Circle USDC) on the Gnosis Chain with the following parameters:
 
 * Collateral: No
-* Isolation mode: n/a
-* Efficiency mode: n/a
+* Isolation mode: N/A
+* Efficiency mode: N/A
 * Borrowable: Yes
   * Base borrow rate: 0%
   * Optimal borrow rate: 12%
