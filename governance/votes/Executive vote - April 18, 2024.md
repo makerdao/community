@@ -132,7 +132,7 @@ This item proposes to onboard sxDAI (Savings xDAI), a yield-enhanced version of 
 * Efficiency mode: No
 * Borrowable: No
 * Supply cap: 40,000,000 sxDAI
-* Borrow cap: n/a
+* Borrow cap: N/A
 
 #### [Gnosis] Onboard EURe
 
