@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Managment, Spark Proxy Spell - April 18, 2024
-summary:  March 2024 AD Compensation, Q1 2024 AVC Member Participation Reward, Spark Protocol-Aave Share Transfer, Whitelisting new address in the RWA015-a output conduit, pushing 84,211.27 USDP out of the MCD PSM PAX input conduit jar, triggering a Spark proxy spell on Ethereum and Gnosis.
+summary:  Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, whitelist a new address in the RWA015-a output conduit, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
 date: 2024-04-18T00:00:00.000Z
 address: "$spell_address"
 
