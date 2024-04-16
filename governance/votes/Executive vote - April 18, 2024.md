@@ -191,7 +191,7 @@ This item proposes to onboard USDT (Tether USDT) on the Gnosis Chain with the fo
 * Borrow cap: 8,000,000 USDT
 * Oracle: Fixed 1:1 USD pricing
 
-#### [Gnosis] Refresh Existing Market Parameter
+#### [Gnosis] Refresh Existing Market Parameters
 
 This item updates Gnosis market parameters, including a significant adjustment of the xDAI interest rate model to align with current conditions and the introduction of sxDAI as collateral.
 
