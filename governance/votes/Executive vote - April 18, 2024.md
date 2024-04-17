@@ -101,7 +101,7 @@ If this executive proposal passes, following the recommendation of the Governanc
 
 This will have the following net results:
 
-- The PSM_PAX_A Debt Debt Ceiling remains at 0 DAI after the transaction has been executed.
+- The PSM_PAX_A Debt Ceiling remains at 0 DAI after the transaction has been executed.
 - Dai generated from PSM_PAX_A increases by **84,211.27 DAI**.
 - USDP balance of MCD_JOIN_PSM_PAX_A increases by **84,211.27 USDP**.
 - USDP balance of PSM_PAX_A_INPUT_CONDUIT_JAR decreases to **0 USDP**.
