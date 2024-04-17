@@ -97,12 +97,11 @@ If this executive proposal passes, following the recommendation of the Governanc
 - Raise the PSM_PAX_A Debt Ceiling to **100,000 DAI**.
 - Call `push(uint256 amt)` on the the PSM_PAX_A_INPUT_CONDUIT_JAR contract with an amount of **84,211.27 USDP**, depositing the contents of the contract to the PSM and receiving an identical amount of Dai into the PSM_PAX_A_JAR contract.
 - Call `void()` on the PSM_PAX_A_JAR contract to deposit the Dai to the Surplus Buffer.
-- Set PSM-PAX-A Debt Ceiling to **0 DAI**.
 - Decrease Debt Ceiling of PSM_PAX_A back to **0 DAI**.
 
 This will have the following net results:
 
-- The PSM_PAX_A Debt Debt Ceiling remains at 0 DAI after the transaction has been executed.
+- The PSM_PAX_A Debt Ceiling remains at 0 DAI after the transaction has been executed.
 - Dai generated from PSM_PAX_A increases by **84,211.27 DAI**.
 - USDP balance of MCD_JOIN_PSM_PAX_A increases by **84,211.27 USDP**.
 - USDP balance of PSM_PAX_A_INPUT_CONDUIT_JAR decreases to **0 USDP**.
