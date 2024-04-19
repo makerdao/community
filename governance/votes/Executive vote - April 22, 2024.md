@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 18, 2024
-summary:  Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, whitelist a new BlockTower address in the RWA015-A output conduit, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
-date: 2024-04-18T00:00:00.000Z
+title: Template - [Executive Vote] Stability Fee Changes, DSR Decrease, March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 22, 2024
+summary:  Multiple Stability Fee decreases, DSR Decrease, Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, whitelist a new BlockTower address in the RWA015-A output conduit, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
+date: 2024-04-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 18, 2024
+# [Executive Proposal] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 22, 2024
 
 The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -17,6 +17,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
+- Multiple Stability Fees will be decreased.
+- The Dai Savings Rate will be decreased.
 - A total of **214.55 MKR** will be distributed to eight Aligned Delegates as compensation for March 2024.
 - A total of **175.14 MKR** will be distributed to nine AVC members as participation rewards for Q1 2024.
 - A total of **238,339 DAI** will be paid to Aave as part of the SparkLend revenue share.
@@ -33,6 +35,32 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+
+### [Stability Fee (SF)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Changes
+
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-12-under-sta-article-3-3/24132/2)
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-12-under-sta-article-3-3/24132)
+
+If this executive proposal passes, as per the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following SFs will be changed:
+
+- Decrease the ETH-A SF by 3.00% from 13.25% to **10.25%**.
+- Decrease the ETH-B SF by 3.00% from 13.75% to **10.75%**.
+- Decrease the ETH-C SF by 3.00% from 13.00% to **10.00%**.
+- Decrease the WSTETH-A SF by 3.00% from 14.25% to **11.25%**.
+- Decrease the WSTETH-B SF by 3.00% from 14.00% to **11.00%**.
+- Decrease the WBTC-A SF by 3.00% from 14.75% to **11.75%**.
+- Decrease the WBTC-B SF by 3.00% from 15.25% to **12.25%**.
+- Decrease the WBTC-C SF by 3.00% from 14.50% to **11.50%**.
+
+### [Dai Savings Rate (DSR)](https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate) Change
+
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-12-under-sta-article-3-3/24132/2)
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-12-under-sta-article-3-3/24132)
+
+If this executive proposal passes, the DSR will change as follows:
+
+- Decrease the DSR by 3% from 13% to **10%**
 
 ### Aligned Delegate Compensation for March 2024
 
@@ -80,8 +108,8 @@ If this executive proposal passes, the following distributions totalling **175.1
 If this executive proposal passes, a payment from the Surplus Buffer of **238,339 DAI** to a smart contract [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c) controlled by Aave Governance will be made as part of the Spark Protocol-Aave Revenue Share.
 
 ### Whitelist New Address in the RWA015-A Output Conduit
-- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
-- **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084)
+- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-22/24084/3)
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-22/24084)
 
 If this executive proposal passes, the following address will be whitelisted in the `RWA015-A` output conduit:
 
@@ -89,8 +117,8 @@ If this executive proposal passes, the following address will be whitelisted in 
 
 ### Push USDP Out of the Input Conduit
 
-- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084/3)
-- **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-18/24084)
+- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-22/24084/3)
+- **Proposal:** [Forum post](https://forum.makerdao.com/t/proposed-housekeeping-items-upcoming-executive-spell-2024-04-22/24084)
 
 If this executive proposal passes, following the recommendation of the Governance Facilitators in collaboration with the spell team, the following operations will be performed:
 
@@ -226,6 +254,12 @@ This item suggests changing the oracle for xDAI from the Chainlink DAI price fee
 #### [Ethereum] Activate the SparkLend External Security Access Multisig
 
 This item activates the [SparkLend External Security Access](https://mips.makerdao.com/mips/details/MIP113#10-3-1-multisig-freeze-of-sparklend) Multisig with the Ethereum Address [0x44efFc473e81632B12486866AA1678edbb7BEeC3](https://etherscan.io/address/0x44efFc473e81632B12486866AA1678edbb7BEeC3), which enables emergency interventions in extreme cases like potential code exploits threatening the protocol. Governed by selected members from the community, this feature aims to provide quick responses to emergencies, complementing existing governance processes.
+
+#### [Ethereum] Decrease the Effective DAI Borrow Rate
+
+If this executive proposal passes, as per the recommendation of the Stability Scope Advisory Council Member, BA Labs, the following changes will be made:
+
+- Decrease the Effective DAI Borrow Rate by 3 percentage points from 14.00% to **11.00%**.
 
 ## Review
 
