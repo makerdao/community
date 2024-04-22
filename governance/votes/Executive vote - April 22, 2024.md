@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Fee Changes, DSR Decrease, March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 22, 2024
 summary:  Multiple Stability Fee decreases, DSR Decrease, Distribute AD compensation for March 2024 and AVC Member participation rewards for Q1 2024, transfer Dai to Aave as part of the SparkLend revenue sharing agreement, whitelist a new BlockTower address in the RWA015-A output conduit, convert USDP to Dai and deposit to the Surplus Buffer, trigger a Spark proxy spell on Ethereum and Gnosis.
 date: 2024-04-22T00:00:00.000Z
-address: "$spell_address"
+address: "0x65eEEfa08204b9717502398Abf37C52D91fb6693"
 
 ---
 # [Executive Proposal] March 2024 AD Compensation, Q1 2024 AVC Member Participation Rewards, Aave-SparkLend Revenue Share, Whitelist New Address in the RWA015-A Output Conduit, USDP Input Conduit Management, Spark Proxy Spell - April 22, 2024
