@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Approve Coinbase Custody (RWA014-A) DAO Resolution - May 06, 2024
 summary: Approve Coinbase Custody (RWA014-A) DAO Resolution that extends the Coinbase Custody Rewards Program for six months.
 date: 2024-05-06T00:00:00.000Z
-address: "$spell_address"
+address: "0x6cd68b55cdc991938D95D6995d97eB807AAEAE44"
 
 ---
 # [Executive Proposal] Approve Coinbase Custody (RWA014-A) DAO Resolution - May 06, 2024
