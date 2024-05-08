@@ -1,7 +1,7 @@
 ---
-combined_participation: 92.13%
-poll_participation: 91.84%
-exec_participation: 93.10%
+combined_participation: 96.21%
+poll_participation: 96.28%
+exec_participation: 95.92%
 communication: 100%
 start_date: 2023-05-15T00:00:00.000Z
 ---
