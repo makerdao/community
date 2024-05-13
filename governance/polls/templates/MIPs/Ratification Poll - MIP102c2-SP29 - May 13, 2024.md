@@ -1,5 +1,5 @@
 ---
-title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP29) - May 5, 2024
+title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP29) - May 13, 2024
 summary: This subproposal will amend MIP101 to clarify for MKR holders their portion of SubDAO tokens, 25%, and the vesting schedule through which they will receive them.
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp29-mip-amendment-subproposals/23672
 parameters:
@@ -24,7 +24,7 @@ options:
 start_date: 2024-05-13T16:00:00
 end_date: 2024-05-27T16:00:00
 ---
-# title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP29) - May 5, 2024
+# title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP29) - May 13, 2024
 
 The Governance Facilitators have placed a ratification poll into the [voting system](https://vote.makerdao.com/polling) as part of the responsibilities defined in [MIP51](https://mips.makerdao.com/mips/details/MIP51). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for fourteen days beginning on Monday, May 13 at 16:00 UTC.
 
