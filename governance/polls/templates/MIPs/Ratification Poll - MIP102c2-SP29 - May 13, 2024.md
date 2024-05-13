@@ -46,7 +46,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *Simultaneously, the MKR holder vesting schedule is more conservative than the farming emissions schedule, preventing immediate selling by existing MKR holders relative to farmers. The net effect is a marginally slower rate of SuDAO token inflation, because MKR holder vesting pushes some emissions further into the future in an effort to give MKR holders longer-term incentives. This also preserves the original intent for farming rewards to dominate emissions early in the SubDAO’s history, since they follow a halving-style emissions schedule.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](TBD once https://github.com/makerdao/mips/pull/1102 is merged)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/d96bab1a15b90fa2c1f9cf163050ae4ad69947c3/MIP102/MIP102c2-Subproposals/MIP102c2-SP29.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP29)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp29-mip-amendment-subproposals/23672)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/1088)
