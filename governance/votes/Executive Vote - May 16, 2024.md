@@ -111,7 +111,12 @@ The post-mortem for this report may be found in this [forum post](https://forum.
 
 ### Spark Proxy Spell
 
-TBD when address available
+* **Authorization:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-13-under-sta-article-3-3/24250/2)
+* **Proposal:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-13-under-sta-article-3-3/24250)
+
+If this executive proposal passes a Spark Proxy Spell at [0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF](https://etherscan.io/address/0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF) will be triggered. It contains the following change:
+
+- Activate a new Dai Interest Rate Module to reduce the Spark Effective Dai Borrow Rate by 2 percentage points from 11% to **9%**.
 
 ## Review
 
