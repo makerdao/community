@@ -42,7 +42,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 *This subproposal seeks to make various updates to the Alignment Artifacts to prepare for Launch Season.*
 
 Please review the links below to inform your position on this proposal before voting.
-* [Canonical Proposal Version](TBD once https://github.com/makerdao/mips/pull/1093 is merged)
+* [Canonical Proposal Version](https://github.com/makerdao/mips/blob/a910b2ee54267a85fa6a649694e7a41511cab4e7/MIP102/MIP102c2-Subproposals/MIP102c2-SP34.md)
 * [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP34)
 * [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp34-mip-amendment-subproposal/23971)
 * [Amendment Pull Request](https://github.com/makerdao/mips/pull/1100)
