@@ -60,7 +60,7 @@ If this executive proposal passes, the following transfers totalling **208.09 MK
 * **Authorization:** [Atlas 2.6.6](https://mips.makerdao.com/mips/details/MIP101#2-6-6-aligned-delegate-operational-security)
 * **Proposal:** [Forum post](https://forum.makerdao.com/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043)
 
-As a bounty for the information leading to the derecognition of delegate TrueName, the following transfer will be made, if this executive proposal passes:
+As a bounty for the information leading to the derecognition of AD TrueName, the following transfer will be made, if this executive proposal passes:
 
 - Transfer **20.84 MKR** to forum user Compacter at [0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd](https://etherscan.io/address/0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd).
 
