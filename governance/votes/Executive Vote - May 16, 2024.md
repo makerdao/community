@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-- A total of **TBD MKR** will be distributed to TBD Aligned Delegates as compensation for April 2024.
+- A total of **208.09 MKR** will be distributed to ten Aligned Delegates as compensation for April 2024.
 - 20.84 MKR will be distributed as a whistleblower bounty.
 - Multiple stability fees will be reduced, as will the Dai Savings Rate.
 - A keeper network job will be updated.
@@ -37,7 +37,23 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Delegate Compensation for April 2024
 
-$executive_entry_description_1
+- **Authorization:** [Atlas Section 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-income-and-participation-requirements)
+- **Proposal:** [Forum post]($TBD)
+
+If this executive proposal passes, the following transfers totalling **208.09 MKR** for Aligned Delegate Compensation will be made to qualifying Aligned Delegates.
+
+| Delegate    | Amount (MKR) | Address                                                                                                               |
+|-------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+| BLUE        | 41.67        | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Cloaky      | 41.67        | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| BONAPUBLICA | 28.23        | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
+| TRUE NAME   | 27.52        | [0x612F7924c367575a0Edf21333D96b15F1B345A5d](https://etherscan.io/address/0x612F7924c367575a0Edf21333D96b15F1B345A5d) |
+| JuliaChang  | 24.20        | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
+| vigilant    | 13.89        | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
+| Pipkin      | 13.44        | [0x0E661eFE390aE39f90a58b04CF891044e56DEDB7](https://etherscan.io/address/0x0E661eFE390aE39f90a58b04CF891044e56DEDB7) |
+| JAG         | 7.17         | [0x58D1ec57E4294E4fe650D1CB12b96AE34349556f](https://etherscan.io/address/0x58D1ec57E4294E4fe650D1CB12b96AE34349556f) |
+| Byteron     | 6.72         | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| UPMaker     | 3.58         | [0xbB819DF169670DC71A16F58F55956FE642cc6BcD](https://etherscan.io/address/0xbB819DF169670DC71A16F58F55956FE642cc6BcD) |
 
 ### Whistleblower Bounty
 
