@@ -5,7 +5,7 @@ date: 2024-05-16T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Delegate Compensation, Whistleblower Bounty, Parameter Updates, Keeper Network Update, Launch Project Funding, Bug Bounty Payout, Spark Proxy Spell - May 16, 2024
+# [Executive Proposal] Aligned Delegate Compensation, Whistleblower Bounty, Parameter Updates, Keeper Network Update, Launch Project Funding, Bug Bounty Payout, Spark Proxy Spell - May 16, 2024
 
 The Governance Facilitators and Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
