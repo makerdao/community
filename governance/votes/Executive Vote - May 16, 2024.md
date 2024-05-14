@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Delegate Compensation, Whistleblower Bounty, Parameter Updates, Keeper Network Update, Launch Project Funding, Bug Bounty Payout, Spark Proxy Spell - May 16, 2024
-summary: Delegate Compensation for April 2024, whisleblower bounty and buffer payment for the offboarding of TrueName, stability fee and DSR updates, an update to a keeper network job, Dai and MKR funding for the Launch Project, payment of a bug bounty reward, execute Spark proxy spell.
+summary: Delegate compensation for April 2024, whistleblower bounty payment, buffer payment for the offboarding of TrueName, Stability Fee and DSR updates, an update to a keeper network job, Dai and MKR funding for the Launch Project, payment of a bug bounty reward, execute Spark proxy spell.
 date: 2024-05-16T00:00:00.000Z
 address: "$spell_address"
 
@@ -16,13 +16,14 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+
 - A total of TBD MKR will be distributed to TBD Aligned Delegates as compensation for May 2024.
-- 20.84 MKR will be distributed as part of a whistleblower bounty.
+- 20.84 MKR will be distributed as a whistleblower bounty.
 - Multiple stability fees will be reduced, as will the Dai Savings Rate.
 - A keeper network job will be updated.
-- 5,358,007 DAI and 1,969.17 MKR will be transferred to the Launch Project.
-- A total of 55,000 DAI will be distributed as part of a Bug Bounty payment.
-- A Spark proxy spell will be triggered.
+- **5,358,007 DAI** and **1,969.17 MKR** will be transferred to the Launch Project.
+- A total of **55,000 DAI** will be distributed as part of a Bug Bounty payment.
+- A Spark proxy spell will be executed.
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -30,12 +31,11 @@ Unless otherwise noted, the changes and additions listed above are subject to th
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
-
 ---
 
 ## Proposal Details
 
-### Delegate Compensation for May 2024
+### Delegate Compensation for April 2024
 
 $executive_entry_description_1
 
@@ -44,7 +44,7 @@ $executive_entry_description_1
 * **Authorization:** [Atlas 2.6.6](https://mips.makerdao.com/mips/details/MIP101#2-6-6-aligned-delegate-operational-security)
 * **Proposal:** [Forum post](https://forum.makerdao.com/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043)
 
-As a bounty for the information leading to the derecognition of TrueName delegate, the following transfer will be made, if this executive proposal passes:
+As a bounty for the information leading to the derecognition of delegate TrueName, the following transfer will be made, if this executive proposal passes:
 
 - Transfer **20.84 MKR** to forum user Compacter at [0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd](https://etherscan.io/address/0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd).
 
@@ -92,7 +92,7 @@ The updated code may be seen in this GitHub [Pull Request](https://github.com/ma
 * **Authorization:** [Accessibility Scope 9.1](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget)
 * **Proposal:** [Forum Post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/16)
 
-If this executive proposal passes the following tansfers will be made to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F):
+If this executive proposal passes, the following tansfers will be made to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F):
 
 - Transfer **5,358,007 DAI** to the Launch Project.
 - Transfer **1,969.17 MKR** to the Launch Project.
@@ -102,7 +102,7 @@ If this executive proposal passes the following tansfers will be made to the Lau
 * **Authorization:** [Support Scope 13.1](https://forum.makerdao.com/t/bounty-payout-request-for-immunefi-bug-29806/24240/2)
 * **Proposal:** [Forum Post](https://forum.makerdao.com/t/bounty-payout-request-for-immunefi-bug-29806/24240)
 
-If this executive proposal passes the following transfers will be made as part of the Bug Bounty Program:
+If this executive proposal passes, the following transfers will be made as part of the Bug Bounty Program:
 
 - Transfer **50,000 DAI** to the bug reporter at [0xa24EC79bdF03bB325F36878573B13AedFEd0717f](https://etherscan.io/address/0xa24EC79bdF03bB325F36878573B13AedFEd0717f)
 - Transfer **5,000 DAI** to Immunefi at [0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18](https://etherscan.io/address/0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18)
@@ -114,7 +114,7 @@ The post-mortem for this report may be found in this [forum post](https://forum.
 * **Authorization:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-13-under-sta-article-3-3/24250/2)
 * **Proposal:** [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-13-under-sta-article-3-3/24250)
 
-If this executive proposal passes a Spark Proxy Spell at [0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF](https://etherscan.io/address/0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF) will be triggered. It contains the following change:
+If this executive proposal passes, a Spark Proxy Spell at [0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF](https://etherscan.io/address/0x901E4450f01ae1A2615E384b9104888Cb9Cb02FF) will be triggered. It contains the following change:
 
 - Activate a new Dai Interest Rate Module to reduce the Spark Effective Dai Borrow Rate by 2 percentage points from 11% to **9%**.
 
