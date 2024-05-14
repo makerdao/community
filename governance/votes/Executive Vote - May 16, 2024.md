@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 
-- A total of TBD MKR will be distributed to TBD Aligned Delegates as compensation for May 2024.
+- A total of **TBD MKR** will be distributed to TBD Aligned Delegates as compensation for April 2024.
 - 20.84 MKR will be distributed as a whistleblower bounty.
 - Multiple stability fees will be reduced, as will the Dai Savings Rate.
 - A keeper network job will be updated.
