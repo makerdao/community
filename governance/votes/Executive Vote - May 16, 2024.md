@@ -64,7 +64,7 @@ As a bounty for the information leading to the derecognition of delegate TrueNam
 
 - Transfer **20.84 MKR** to forum user Compacter at [0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd](https://etherscan.io/address/0xbbd4bC3FE72691663c6ffE984Bcdb6C6E6b3a8Dd).
 
-### Parameter Updates
+### Stability Scope Parameter Updates
 
 #### [Stability Fee (SF)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Changes
 
