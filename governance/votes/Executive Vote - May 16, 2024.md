@@ -94,7 +94,7 @@ If this executive proposal passes, as per the recommendation of the Stability Sc
 ### Keeper Network Job Update
 
 * **Authorization:** TBD
-* **Proposal:** TBD
+* **Proposal:** [Forum post](https://forum.makerdao.com/t/executive-inclusion-dss-cron-update/24269)
 
 If this executive proposal passes, the Keeper Network's D3MJob will be updated through the following contract calls:
 
