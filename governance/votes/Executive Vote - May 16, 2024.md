@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Aligned Delegate Compensation, Whistleblower Bounty, Parameter Updates, Keeper Network Update, Launch Project Funding, Bug Bounty Payout, Spark Proxy Spell - May 16, 2024
 summary: Aligned delegate compensation for April 2024, whistleblower bounty payment, buffer payment for the offboarding of TrueName, Stability Fee and DSR updates, an update to a keeper network job, Dai and MKR funding for the Launch Project, payment of a bug bounty reward, execute Spark proxy spell.
 date: 2024-05-16T00:00:00.000Z
-address: "$spell_address"
+address: "0xB394eC56AbD78c9264438168F8a8E1Bd85F1f0Ae"
 
 ---
 # [Executive Proposal] Aligned Delegate Compensation, Whistleblower Bounty, Parameter Updates, Keeper Network Update, Launch Project Funding, Bug Bounty Payout, Spark Proxy Spell - May 16, 2024
