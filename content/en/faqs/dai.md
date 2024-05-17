@@ -1,6 +1,6 @@
 <StatusBanner sticky>
 
-These are legacy guides and will not be maintened. You may be looking for the Dai pages here <Button  secondary inline to="/learn/Dai/">The Dai Section</Button>
+These are legacy guides and will not be maintained. You may be looking for the Dai pages here <Button  secondary inline to="/learn/Dai/">The Dai Section</Button>
 
 </StatusBanner>
 
