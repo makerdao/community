@@ -1,4 +1,4 @@
-# Interpretation Exericse #1
+# Interpretation Exercise #1
 
 ## Bootstrapping Governance Votes
 
