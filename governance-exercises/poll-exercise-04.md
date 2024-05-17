@@ -1,4 +1,4 @@
-# Polling Exericse #4
+# Polling Exercise #4
 
 ## Background
 
