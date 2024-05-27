@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to the following changes to SparkLend on Gnosis:
 
 - Lower the security delay for SparkLend governance on Gnosis from 2 days to **0 days**.
-- Setting the minimum security delay limit to **0**.
+- Set the minimum security delay limit to **0**.
 
 [BA Labs ](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/2) confirm that removing the delay will not impact the risk profile of the Gnosis market.
 
