@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to the [Morpho Spark DAI vault](https://morpho.blockanalitica.com/metamorpho/vaults/0x73e65dbd630f90604062f6e02fab9138e713edd9):
 
-- Increase the supply cap of the [sUSDe 91.5% LLTV pool](https://morpho.blockanalitica.com/markets/1247f1c237eceae0602eab1470a5061a6dd8f734ba88c7cdc5d6109fb0026b28/) from by 50 million DAI from 50 million DAI to **100 million DAI**.
+- Increase the supply cap of the [sUSDe 91.5% LLTV pool](https://morpho.blockanalitica.com/markets/1247f1c237eceae0602eab1470a5061a6dd8f734ba88c7cdc5d6109fb0026b28/) by 50 million DAI from 50 million DAI to **100 million DAI**.
 - Increase the supply cap of the [sUSDe 86% LLTV pool](https://morpho.blockanalitica.com/markets/39d11026eae1c6ec02aa4c0910778664089cdd97c3fd23f68f7cd05e2e95af48/) by 200 million DAI from 200 million DAI to **400 million DAI**.
 
 
