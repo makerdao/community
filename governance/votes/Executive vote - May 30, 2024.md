@@ -73,35 +73,44 @@ If this executive proposal passes, a Spark proxy spell at [TBD](https://ethersca
 
  If this executive proposal passes, the following changes will be implemented on the SparkLend [markets](https://app.spark.fi/markets):
 
-- Ethereum:
-    - ETH
-        - Reduce slope 1 from 2.8% to 2.5%
-    - Circle USD (USDC)
-        - Change slope 1 to DSR + 1%
-        - Reduce slope 2 from 20% to 15%
-    - Tether USD (USDT)
-        - Change slope 1 to DSR + 1%
-        - Reduce slope 2 from 20% to 15%
-- Gnosis:
-    - ETH
-        - Reduce slope 1 from 3.2% to 2.5%
-        - Reduce optimal utilization from 90% to 80%
-    - DAI
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - USDC
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - USDT
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - Monerium EUR e-money (EURe)
-        - Reduce slope 1 from 7% to 5%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
+##### Ethereum:
+
+###### ETH
+- Reduce slope 1 by 0.3% from 2.8% to **2.5%**
+  
+###### Circle USD (USDC)
+- Change slope 1 to DSR + 1%
+- Reduce slope 2 by 5% from 20% to **15%**
+  
+###### Tether USD (USDT)
+- Change slope 1 to DSR + 1%
+- Reduce slope 2 by 5% from 20% to **15%**
+  
+##### Gnosis:
+
+###### ETH
+- Reduce slope 1 by 0.7% from 3.2% to **2.5%**
+- Reduce optimal utilization by 10% from 90% to **80%**
+  
+###### DAI
+- Reduce slope 1 by 3% from 12% to **9%**
+- Reduce slope 2 by 35% from 50% to **15%**
+- Increase optimal utilization by 5% from 90% to **95%**
+  
+###### USDC
+- Reduce slope 1 by 3% from 12% to **9%**
+- Reduce slope 2 by 35% from 50% to **15%**
+- Increase optimal utilization by 5% from 90% to **95%**
+  
+###### USDT
+- Reduce slope 1 by 3% from 12% to **9%**
+- Reduce slope 2 by 35% from 50% to **15%**
+- Increase optimal utilization by 5% from 90% to **95%**
+  
+###### Monerium EUR e-money (EURe)
+- Reduce slope 1 by 2% from 7% to **5%**
+- Reduce slope 2 by 35% from 50% to **15%**
+- Increase optimal utilization by 5% from 90% to **95%**
 
 #### [Mainnet] Update Morpho Vault Supply Caps
 
