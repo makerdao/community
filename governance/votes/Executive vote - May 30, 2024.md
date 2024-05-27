@@ -69,7 +69,40 @@ If this executive proposal passes, a Spark proxy spell at [TBD](https://ethersca
 - Turn off [siloed borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing) for Circle USD (USDC) and Tether USD (USDT) on both Ethereum and Gnosis.
 - Turn off siloed borrowing for Monerium EURO e-money (EURe) on Gnosis.
 
-- [Mainnet+Gnosis] IRM (Interest Rate Model) Refresh.
+#### [Mainnet+Gnosis] IRM (Interest Rate Model) Update
+
+ If this executive proposal passes, the following changes will be implemented on the SparkLend [markets](https://app.spark.fi/markets):
+
+- Ethereum:
+    - ETH
+        - Reduce slope 1 from 2.8% to 2.5%
+    - Circle USD (USDC)
+        - Change slope 1 to DSR + 1%
+        - Reduce slope 2 from 20% to 15%
+    - Tether USD (USDT)
+        - Change slope 1 to DSR + 1%
+        - Reduce slope 2 from 20% to 15%
+- Gnosis:
+    - ETH
+        - Reduce slope 1 from 3.2% to 2.5%
+        - Reduce optimal utilization from 90% to 80%
+    - DAI
+        - Reduce slope 1 from 12% to 9%
+        - Reduce slope 2 from 50% to 15%
+        - Increase optimal utilization from 90% to 95%
+    - USDC
+        - Reduce slope 1 from 12% to 9%
+        - Reduce slope 2 from 50% to 15%
+        - Increase optimal utilization from 90% to 95%
+    - USDT
+        - Reduce slope 1 from 12% to 9%
+        - Reduce slope 2 from 50% to 15%
+        - Increase optimal utilization from 90% to 95%
+    - Monerium EUR e-money (EURe)
+        - Reduce slope 1 from 7% to 5%
+        - Reduce slope 2 from 50% to 15%
+        - Increase optimal utilization from 90% to 95%
+
 - [Mainnet] Update Morpho Vault Supply Caps.
 - [Gnosis] Disable Governance Bridge Security Delay.
 
