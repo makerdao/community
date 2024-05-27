@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] SBE Surplus Buffer Upper Limit Update, RWAF and Harbor Trade Credit DAO Resolutions, Spark Proxy Spell - May 30, 2024
-summary: Smart Burn Engine Surplus Buffer Upper Limit Update, RWA Foundation (RWAF) and RWA004-A DAO Resolutions, Spark Proxy Spell.
+summary: Smart Burn Engine Surplus Buffer Upper Limit Update, RWA Foundation (RWAF) and Harbor Trade Credit (RWA004-A) DAO Resolutions, execute Spark Proxy Spell.
 date: 2024-05-30T00:00:00.000Z
 address: "$spell_address"
 
