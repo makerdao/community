@@ -37,7 +37,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, the following SBE parameter will be changed:
 
-- The [`vow.hump` (SBE Surplus Buffer Upper Limit)](https://mips.makerdao.com/mips/details/MIP104#9-1-smart-burn-engine-parameters) parameter will be increased by 5 million DAI seconds from 50 million DAI to **55 million DAI**.
+- The [`vow.hump` (SBE Surplus Buffer Upper Limit)](https://mips.makerdao.com/mips/details/MIP104#9-1-smart-burn-engine-parameters) parameter will be increased by 5 million DAI from 50 million DAI to **55 million DAI**.
 
 ### Approve RWAF DAO Resolution
 
