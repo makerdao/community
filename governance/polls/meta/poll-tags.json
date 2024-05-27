@@ -4412,5 +4412,24 @@
     "high-impact",
     "ratification",
     "mips"
+  ],
+  "1109": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1110": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1111": [
+    "high-impact",
+    "spark"
+  ],
+  "1112": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
