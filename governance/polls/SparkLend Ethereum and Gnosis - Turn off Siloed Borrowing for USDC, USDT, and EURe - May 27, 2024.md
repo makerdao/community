@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to SparkLend:
 
-- Turning off [siloed borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing) for Circle USD (USDC) and Tether USD (USDT) on both Ethereum and Gnosis.
+- Turn off [siloed borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing) for Circle USD (USDC) and Tether USD (USDT) on both Ethereum and Gnosis.
 - Turning off siloed borrowing for Monerium EUR e-money (EURe) on Gnosis.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327) and [analysis by BA Labs](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/2) to help inform your position before voting.
