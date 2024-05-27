@@ -5,7 +5,7 @@ date: 2024-05-30T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] [Executive Vote] SBE Surplus Buffer Upper Limit Update, RWAF and RWA004-A DAO Resolutions, Spark Proxy Spell - May 30, 2024
+# [Executive Proposal] SBE Surplus Buffer Upper Limit Update, RWAF and Harbor Trade Credit DAO Resolutions, Spark Proxy Spell - May 30, 2024
 
 The Governance Facilitators and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
