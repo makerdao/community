@@ -15,7 +15,7 @@ options:
 start_date: 2024-05-27T16:00:00
 end_date: 2024-05-30T16:00:00
 ---
-# Poll: SparkLend Ethereum and Gnosis - Turn off Siloed Borrowing for USDC, USDT and EURe - May 27, 2024
+# Poll: SparkLend Ethereum and Gnosis - Turn off Siloed Borrowing for USDC, USDT, and EURe - May 27, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, May 27 at 16:00 UTC.
 
