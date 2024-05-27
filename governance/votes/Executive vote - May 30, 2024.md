@@ -50,7 +50,7 @@ If this executive proposal passes, the following DAO Resolution pertaining to RW
 
 ### Approve Harbor Trade Credit (RWA004-A) DAO Resolution
 
-- **Authorization:** [Forum post](TBD)
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/harbor-trade-credit-workout-process/24367/4)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/harbor-trade-credit-workout-process/24367)
 
 If this executive proposal passes, the following DAO Resolution pertaining to [Harbor Trade Credit (RWA004-A)](https://makerburn.com/#/collateral/RWA004-A) will be approved:
