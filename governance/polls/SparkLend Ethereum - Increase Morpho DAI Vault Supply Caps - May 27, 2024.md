@@ -31,7 +31,6 @@ The community can vote in this poll to express support or opposition to the foll
 - Increasing the supply cap of the sUSDe 91.5% LLTV pool from 50 million DAI to **100 million DAI**.
 - Increase the supply cap of the [sUSDe 86% LLTV pool](https://morpho.blockanalitica.com/markets/39d11026eae1c6ec02aa4c0910778664089cdd97c3fd23f68f7cd05e2e95af48/) from 200 million DAI to **400 million DAI**.
 
-This will allow for a total allocation of up to 500 million DAI to sUSDe collateralized pools, with a weighted average LTV of ~87.1%, if fully utilized.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327) and analysis from [BA Labs](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/2) to help inform your position before voting.
 
