@@ -48,7 +48,7 @@ If this executive proposal passes, the following DAO Resolution pertaining to RW
 
 - RWAF DAO Resolution with IPFS hash [Qmb8vLDH6wT4Y2axnJX1JSKVKHTG3jzX3U3novw886H8UR](https://ipfs.io/ipfs/Qmb8vLDH6wT4Y2axnJX1JSKVKHTG3jzX3U3novw886H8UR).
 
-### Approve RWA004-A DAO Resolution
+### Approve Harbor Trade Credit (RWA004-A) DAO Resolution
 
 - **Authorization:** [Forum post](TBD)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/harbor-trade-credit-workout-process/24367)
