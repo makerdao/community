@@ -1,5 +1,5 @@
 ---
-title: SparkLend Gnosis - Turn Off Bridge Security Delay  - May 27, 2024
+title: SparkLend Gnosis - Turn Off Bridge Security Delay - May 27, 2024
 summary: Signal your support or opposition to turning off the bridge security delay for SparkLend governance on Gnosis.
 discussion_link: https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327
 parameters:
