@@ -19,7 +19,7 @@ If this executive proposal passes, the following actions will occur within the M
 
 - The Smart Burn Engine (SBE) Surplus Buffer Upper Limit will be updated.
 - A RWA Foundation (RWAF) DAO Resolution will be approved.
-- A RWA004-A DAO Resolution will be approved.
+- A Harbor Trade Credit (RWA004-A) DAO Resolution will be approved.
 - A proxy spell for Spark Protocol will be triggered.
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **30 hours**.
