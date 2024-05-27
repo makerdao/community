@@ -39,7 +39,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/may-21-2024-p
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to lower the security delay for Spark governance to 0 days and to set the minimum security delay limit to 0 on Gnosis.
+- Phoenix Labs will prepare a Spark spell to lower the bridge security delay for Spark governance to 0 days and to set the minimum security delay limit to 0 on Gnosis.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
