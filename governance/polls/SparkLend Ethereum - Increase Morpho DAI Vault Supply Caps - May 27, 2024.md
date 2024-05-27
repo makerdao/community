@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to SparkLend on Ethereum:
+The community can vote in this poll to express support or opposition to the following changes to the [Morpho Spark DAI vault](https://morpho.blockanalitica.com/metamorpho/vaults/0x73e65dbd630f90604062f6e02fab9138e713edd9):
 
 - Increasing the supply cap of the sUSDe 91.5% LLTV pool from 50 million DAI to **100 million DAI**.
 - Increasing the supply cap of the sUSDe 86% LLTV pool from 200 million DAI to **400 million DAI**.
