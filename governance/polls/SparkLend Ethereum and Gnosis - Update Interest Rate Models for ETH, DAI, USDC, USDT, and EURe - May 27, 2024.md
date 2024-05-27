@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum and Gnosis - Update Interest Rate Models for ETH, DAI, USDC, USDT, and EURe - May 27, 2024
-summary: Signal your support or opposition to updating IRMs for ETH, DAI, USDC, USDT, and EURe on SparkLend Ethereum and Gnosis.
+summary: Signal your support or opposition to updating IRMs for ETH, DAI, USDC, USDT, and EURe markets on SparkLend Ethereum and Gnosis.
 discussion_link: https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327
 parameters:
     input_format: single-choice
