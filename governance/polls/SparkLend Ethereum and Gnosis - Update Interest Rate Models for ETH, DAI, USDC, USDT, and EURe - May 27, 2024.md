@@ -29,35 +29,44 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to the SparkLend [markets](https://app.spark.fi/markets):
 
-- Ethereum:
-    - ETH
-        - Reduce slope 1 from 2.8% to 2.5%
-    - Circle USD (USDC)
-        - Change slope 1 to DSR + 1%
-        - Reduce slope 2 from 20% to 15%
-    - Tether USD (USDT)
-        - Change slope 1 to DSR + 1%
-        - Reduce slope 2 from 20% to 15%
-- Gnosis:
-    - ETH
-        - Reduce slope 1 from 3.2% to 2.5%
-        - Reduce optimal utilization from 90% to 80%
-    - DAI
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - USDC
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - USDT
-        - Reduce slope 1 from 12% to 9%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
-    - Monerium EUR e-money (EURe)
-        - Reduce slope 1 from 7% to 5%
-        - Reduce slope 2 from 50% to 15%
-        - Increase optimal utilization from 90% to 95%
+### Ethereum:
+
+#### ETH
+- Reduce slope 1 from 2.8% to 2.5%
+  
+#### Circle USD (USDC)
+- Change slope 1 to DSR + 1%
+- Reduce slope 2 from 20% to 15%
+  
+#### Tether USD (USDT)
+- Change slope 1 to DSR + 1%
+- Reduce slope 2 from 20% to 15%
+  
+### Gnosis:
+
+#### ETH
+- Reduce slope 1 from 3.2% to 2.5%
+- Reduce optimal utilization from 90% to 80%
+  
+#### DAI
+- Reduce slope 1 from 12% to 9%
+- Reduce slope 2 from 50% to 15%
+- Increase optimal utilization from 90% to 95%
+  
+#### USDC
+- Reduce slope 1 from 12% to 9%
+- Reduce slope 2 from 50% to 15%
+- Increase optimal utilization from 90% to 95%
+  
+#### USDT
+- Reduce slope 1 from 12% to 9%
+- Reduce slope 2 from 50% to 15%
+- Increase optimal utilization from 90% to 95%
+
+#### Monerium EUR e-money (EURe)
+- Reduce slope 1 from 7% to 5%
+- Reduce slope 2 from 50% to 15%
+- Increase optimal utilization from 90% to 95%
 
 Please review the discussion [thread](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327) and [analysis by BA Labs](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/2) to help inform your position before voting.
 
