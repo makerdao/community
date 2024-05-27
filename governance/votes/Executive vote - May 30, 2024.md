@@ -39,7 +39,7 @@ If this executive proposal passes, the following SBE parameter will be changed:
 
 - The [`vow.hump` (SBE Surplus Buffer Upper Limit)](https://mips.makerdao.com/mips/details/MIP104#9-1-smart-burn-engine-parameters) parameter will be increased by 5 million DAI from 50 million DAI to **55 million DAI**.
 
-### Approve RWAF DAO Resolution
+### Approve RWA Foundation (RWAF) DAO Resolution
 
 - **Authorization:** [Forum post](TBD)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/dao-resolution-banking-setup-for-rwa-foundation/24362)
