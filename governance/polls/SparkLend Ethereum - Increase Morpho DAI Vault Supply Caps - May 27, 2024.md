@@ -50,6 +50,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/may-21-2024-p
 
 Further information about Spark Protocol can be found at its [Documentation Hub](https://docs.sparkprotocol.io/hub).
 
+Morpho Spark DAI vault: https://forum.makerdao.com/t/introduction-and-initial-parameters-for-ddm-overcollateralized-spark-metamorpho-ethena-vault/23925
+
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
