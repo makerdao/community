@@ -41,7 +41,7 @@ If this executive proposal passes, the following SBE parameter will be changed:
 
 ### Approve RWA Foundation (RWAF) DAO Resolution
 
-- **Authorization:** [Forum post](TBD)
+- **Authorization:** [Forum post](https://forum.makerdao.com/t/dao-resolution-banking-setup-for-rwa-foundation/24362/2)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/dao-resolution-banking-setup-for-rwa-foundation/24362)
 
 If this executive proposal passes, the following DAO Resolution pertaining to RWA Foundation (RWAF) will be approved:
