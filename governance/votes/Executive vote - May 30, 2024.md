@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following actions will occur within the Maker Protocol:
 
 - The Smart Burn Engine (SBE) Surplus Buffer Upper Limit will be updated.
-- A RWAF DAO Resolution will be approved.
+- A RWA Foundation (RWAF) DAO Resolution will be approved.
 - A RWA004-A DAO Resolution will be approved.
 - A proxy spell for Spark Protocol will be triggered.
 
