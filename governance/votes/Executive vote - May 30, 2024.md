@@ -110,7 +110,7 @@ If this executive proposal passes, a Spark proxy spell at [TBD](https://ethersca
 
 #### [Gnosis] Disable Governance Bridge Security Delay
 
-- Lower the security delay for SparkLend governance on Gnosis from 2 days to **0 days**.
+- Lower the bridge security delay for SparkLend governance on Gnosis by 2 days from 2 days to **0 days**.
 - Set the minimum security delay limit to **0**.
 
 
