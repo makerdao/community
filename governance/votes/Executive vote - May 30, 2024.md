@@ -104,7 +104,11 @@ If this executive proposal passes, a Spark proxy spell at [TBD](https://ethersca
         - Increase optimal utilization from 90% to 95%
 
 - [Mainnet] Update Morpho Vault Supply Caps.
-- [Gnosis] Disable Governance Bridge Security Delay.
+#### [Gnosis] Disable Governance Bridge Security Delay
+
+- Lower the security delay for SparkLend governance on Gnosis from 2 days to **0 days**.
+- Set the minimum security delay limit to **0**.
+
 
 ## Review
 
