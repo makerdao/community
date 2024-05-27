@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to SparkLend:
+The community can vote in this poll to express support or opposition to the following changes to the SparkLend [markets](https://app.spark.fi/markets):
 
 - Ethereum:
     - ETH
