@@ -1,5 +1,5 @@
 ---
-title: SparkLend Ethereum and Gnosis - Turn off Siloed Borrowing for USDC, USDT and EURe - May 27, 2024
+title: SparkLend Ethereum and Gnosis - Turn off Siloed Borrowing for USDC, USDT, and EURe - May 27, 2024
 summary: Signal your support or opposition to turning off siloed borrowing for USDC and USDT on both Ethereum mainnet and Gnosis, and for EURe on Gnosis.
 discussion_link: https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327
 parameters:
