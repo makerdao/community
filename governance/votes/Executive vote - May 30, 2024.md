@@ -59,7 +59,7 @@ If this executive proposal passes, the following DAO Resolution pertaining to [H
 
 ### Trigger Spark Proxy Spell
 
-- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/3), [Poll](TBD)
+- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327/3), Polls [1](https://vote.makerdao.com/polling/QmQHu69a), [2](https://vote.makerdao.com/polling/QmWdmh1e), [3](https://vote.makerdao.com/polling/QmT5e8NG), [4](https://vote.makerdao.com/polling/QmZhjzUg)
 - **Proposal**: [Forum posts](https://forum.makerdao.com/t/may-21-2024-proposed-changes-to-sparklend-for-upcoming-spell/24327)
 
 If this executive proposal passes, a Spark proxy spell at [TBD](https://etherscan.io/address/TBD) will be triggered. This proxy spell will take the following actions:
