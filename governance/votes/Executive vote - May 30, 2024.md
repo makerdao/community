@@ -64,7 +64,7 @@ If this executive proposal passes, the following DAO Resolution pertaining to [H
 
 If this executive proposal passes, a Spark proxy spell at [TBD](https://etherscan.io/address/TBD) will be triggered. This proxy spell will take the following actions:
 
-#### [Mainnet+Gnosis] Turn off siloed borrowing for all stablecoins
+#### [Mainnet+Gnosis] Turn Off Siloed Borrowing for All Stablecoins
 
 - Turn off [siloed borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing) for Circle USD (USDC) and Tether USD (USDT) on both Ethereum and Gnosis.
 - Turn off siloed borrowing for Monerium EURO e-money (EURe) on Gnosis.
