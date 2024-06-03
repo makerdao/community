@@ -4431,5 +4431,11 @@
     "medium-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1113": [
+    "medium-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
   ]
 }
