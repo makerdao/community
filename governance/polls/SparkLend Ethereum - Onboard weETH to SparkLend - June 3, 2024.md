@@ -32,7 +32,7 @@ This poll allows MakerDAO Governance to signal their support or opposition to ad
 
 * Token: **weETH**
 * Token Address: **[0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee](https://etherscan.io/address/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee)**
-* Oracle: weETH/eETH exchange rate (from contract) * eETH/ETH fixed at 1
+* Oracle: weETH/eETH exchange rate (from contract) * eETH/ETH fixed at 1 ([implementation](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/WEETHExchangeRateOracle.sol))
 * Optimal Utilization: **45%**
 * Base: **5%**
 * Slope1: **15%**
