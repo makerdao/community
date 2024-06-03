@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Onboard weETH to SparkLend - June 3, 2024
-summary: Onboard weETH (Etherfi weETH) to Spark Protocol with the included parameters.
+summary: Onboard weETH (Etherfi weETH) to SparkLend on mainnet with the included parameters.
 discussion_link: https://forum.makerdao.com/t/may-31-2024-proposed-changes-to-sparklend-for-upcoming-spell/24413
 parameters:
     input_format: single-choice
@@ -68,9 +68,9 @@ The Spark developer docs contain information on the parameters listed above and 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* weETH (Etherfi weETH) will be onboarded to Spark Protocol in a future executive vote.
+* weETH (Etherfi weETH) will be onboarded to SparkLend on mainnet in a future executive vote.
 * It is expected that this executive vote will take place within 30 days of this poll passing, absent external factors.
-* If the executive vote passes, then these changes will become active in Spark Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+* If the executive vote passes, then these changes will become active in SparkLend after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
