@@ -23,6 +23,7 @@
 ## Sheet Creation (Tuesdays, one week before Spell release)
 
 - [ ] Duplicate "Executive Contents (Template)" in [Spell Sheet](https://docs.google.com/spreadsheets/d/1w_z5WpqxzwreCcaveB2Ye1PP5B8QAHDglzyxKHG3CHw/edit?usp=sharing).
+- [ ] Add a new column with the spell date in the "Spell Progress Tracking" sheet and ensure the progress is kept up to date.
 - [ ] Rename duplicate tab for expected spell date (in yyyy-mm-dd format).
 - [ ] Add role and recurring items info from GovOps Meeting.
 - [ ] Add Spell Items as formatted in the sheet. 
