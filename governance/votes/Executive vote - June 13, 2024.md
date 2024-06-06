@@ -38,7 +38,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 		
 ### Disable Starknet Dai Bridge
 		
-- **Authorization:** [Forum Post]($TBD)
+- **Authorization:** [Forum Post](https://forum.makerdao.com/t/starknet-dai-handover/22033/13)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/starknet-dai-handover/22033/12)
 		
 As part of the transition from the old Starknet Dai Bridge to a new version maintained by Starkgate, deposits on the old bridge will be disabled, if this executive proposal passes. Withdrawals will still be possible. To do this the following action needs to occur:
