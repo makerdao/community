@@ -62,9 +62,9 @@ If this executive proposal passes, the following transfers totaling **210.81 MKR
 | Pipkin      | 34.26        | [0x0E661eFE390aE39f90a58b04CF891044e56DEDB7](https://etherscan.io/address/0x0E661eFE390aE39f90a58b04CF891044e56DEDB7) |
 | Byteron     | 12.50        | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
 | BONAPUBLICA | 11.11        | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
-| WBC         | 11.11        |[0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47)  |
-| PBG         | 8.49         |[0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2)  |
-| Rocky       | 3.70         |[0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xc31637bda32a0811e39456a59022d2c386cb2c85)  |
+| WBC         | 11.11        | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) |
+| PBG         | 8.49         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
+| Rocky       | 3.70         | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xc31637bda32a0811e39456a59022d2c386cb2c85) |
 | vigilant    | 2.78         | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
 | UPMaker     | 1.85         | [0xbB819DF169670DC71A16F58F55956FE642cc6BcD](https://etherscan.io/address/0xbB819DF169670DC71A16F58F55956FE642cc6BcD) |
 		
@@ -75,16 +75,16 @@ If this executive proposal passes, the following transfers totaling **210.81 MKR
 		
 If this executive proposal passes, the following distributions totaling **100.08 MKR** will be made for Q2 2024 AVC member compensation. This has been pro-rated to two months following the most recent amendments to The Atlas that removed the AVC Member role.
 		
-| AVC Member Name | Address                                                                                                               | AVC                   | Amount (MKR) | 
-|-----------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------|--------------|
-| IamMeeoh        | [0x47f7A5d8D27f259582097E1eE59a07a816982AE9](https://etherscan.io/address/0x47f7A5d8D27f259582097E1eE59a07a816982AE9) | KISS                  | 12.51        |       
-| DAI-Vinci       | [0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a](https://etherscan.io/address/0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a) | KISS                  | 12.51        |       
-| opensky         | [0xf44f97f4113759E0a57756bE49C0655d490Cf19F](https://etherscan.io/address/0xf44f97f4113759E0a57756bE49C0655d490Cf19F) | KISS                  | 12.51        |       
-| Res             | [0x8c5c8d76372954922400e4654AF7694e158AB784](https://etherscan.io/address/0x8c5c8d76372954922400e4654AF7694e158AB784) | Resiliency            | 12.51        |       
-| Harmony         | [0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3](https://etherscan.io/address/0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3) | Resiliency            | 12.51        |       
-| Libertas        | [0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f](https://etherscan.io/address/0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f) | Resiliency            | 12.51        |       
-| seedlatam.eth   | [0xd43b89621fFd48A8A51704f85fd0C87CbC0EB299](https://etherscan.io/address/0xd43b89621fFd48A8A51704f85fd0C87CbC0EB299) | Sovereign Finance     | 12.51        |       
-| 0xRoot          | [0xC74392777443a11Dc26Ce8A3D934370514F38A91](https://etherscan.io/address/0xC74392777443a11Dc26Ce8A3D934370514F38A91) | Sovereign Finance     | 12.51        |
+| AVC Member Name | Address                                                                                                               | AVC                | Amount (MKR) | 
+|-----------------|-----------------------------------------------------------------------------------------------------------------------|--------------------|--------------|
+| IamMeeoh        | [0x47f7A5d8D27f259582097E1eE59a07a816982AE9](https://etherscan.io/address/0x47f7A5d8D27f259582097E1eE59a07a816982AE9) | KISS               | 12.51        |       
+| DAI-Vinci       | [0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a](https://etherscan.io/address/0x9ee47F0f82F1A6F45C4E1D25Ce95C321D8C8356a) | KISS               | 12.51        |       
+| opensky         | [0xf44f97f4113759E0a57756bE49C0655d490Cf19F](https://etherscan.io/address/0xf44f97f4113759E0a57756bE49C0655d490Cf19F) | KISS               | 12.51        |       
+| Res             | [0x8c5c8d76372954922400e4654AF7694e158AB784](https://etherscan.io/address/0x8c5c8d76372954922400e4654AF7694e158AB784) | Resiliency         | 12.51        |       
+| Harmony         | [0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3](https://etherscan.io/address/0xE20A2e231215e9b7Aa308463F1A7490b2ECE55D3) | Resiliency         | 12.51        |       
+| Libertas        | [0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f](https://etherscan.io/address/0xE1eBfFa01883EF2b4A9f59b587fFf1a5B44dbb2f) | Resiliency         | 12.51        |       
+| seedlatam.eth   | [0xd43b89621fFd48A8A51704f85fd0C87CbC0EB299](https://etherscan.io/address/0xd43b89621fFd48A8A51704f85fd0C87CbC0EB299) | Sovereign Finance  | 12.51        |       
+| 0xRoot          | [0xC74392777443a11Dc26Ce8A3D934370514F38A91](https://etherscan.io/address/0xC74392777443a11Dc26Ce8A3D934370514F38A91) | Sovereign Finance  | 12.51        |
 		
 ### Launch Project Funding
 		
