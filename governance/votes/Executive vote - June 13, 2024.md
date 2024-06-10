@@ -1,13 +1,13 @@
 ---
-title: Template - [Executive Vote] Disable Starknet Dai Bridge, Aligned Delegate Compensation, AVC Member Compensation, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
+title: Template - [Executive Vote] Disable Starknet Dai Bridge, Aligned Delegate Compensation for May 2024, AVC Member Participation Rewards for Q2 2024, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
 summary: Disable the Starknet Dai Bridge, distribute Aligned Delegate compensation for May 2024, distribute AVC Member compensation for Q2 2024, transfer funding to the Launch Project, trigger a Spark Proxy spell, and perform housekeeping actions on the USDP Jar.
 date: 2024-06-13T00:00:00.000Z
 address: "$spell_address"		
 ---
 
-# [Executive Proposal] Disable Starknet Dai Bridge, Aligned Delegate Compensation, AVC Member Compensation, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
+# [Executive Proposal] Disable Starknet Dai Bridge, Aligned Delegate Compensation for May 2024, AVC Member Participation Rewards for Q2 2024, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
 		
-The Governance Facilitators and Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 		
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 		
@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
 - The Starknet Dai Bridge will be disabled.
 - Aligned Delegate compensation for May 2024 totaling **210.81 MKR** will be distributed.
-- Aligned Voter Committee Member compensation for Q2 2024 totalling **100.08 MKR** will be distributed.
+- Aligned Voter Committee Member participation rewards for Q2 2024 totalling **100.08 MKR** will be distributed.
 - **5,000,000 DAI** and **450 MKR** will be transferred to the Launch Project.
 - A Spark proxy spell will be triggered at [0x258FD2E6b5C155aa5f3e84326A622288bd70f376](https://etherscan.io/address/0x258FD2E6b5C155aa5f3e84326A622288bd70f376).
 - A series of housekeeping actions to push USDP out of the input conduit will be carried out, as detailed below.
@@ -68,7 +68,7 @@ If this executive proposal passes, the following transfers totaling **210.81 MKR
 | vigilant    | 2.78         | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
 | UPMaker     | 1.85         | [0xbB819DF169670DC71A16F58F55956FE642cc6BcD](https://etherscan.io/address/0xbB819DF169670DC71A16F58F55956FE642cc6BcD) |
 		
-### Q2 2024 AVC Member Compensation
+### Q2 2024 AVC Member Participation Rewards
 		
 - **Authorization:** [Atlas 2.5.10 prior to its removal by MIP102c2-SP34](https://github.com/makerdao/mips/pull/1100/files#diff-bad206bdb2371d68c4940c519b4cf8817b59781422c6d7c0d8da48ab24decb33L535-L565)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/avc-member-participation-rewards-q2-2024/24442)
@@ -124,13 +124,13 @@ weETH will be onboarded to SparkLend on mainnet with the following parameters:
 * Liquidation Bonus: **10%**
 * Reserve Factor: **15%**
 * Supply Cap: **5,000 weETH**
-* Supply Cap (max): **50,000 weETH**
-* Supply Cap (gap): **5,000 weETH**
-* Supply Cap (ttl): **12 hours**
+* Supply Cap (`max`): **50,000 weETH**
+* Supply Cap (`gap`): **5,000 weETH**
+* Supply Cap (`ttl`): **12 hours**
 * Borrow Cap: **0**
-* Borrow Cap (max): N/A
-* Borrow Cap (gap): N/A
-* Borrow Cap (ttl): N/A
+* Borrow Cap (`max`): N/A
+* Borrow Cap (`gap`): N/A
+* Borrow Cap (`ttl`): N/A
 * [Isolation Mode](https://devs.spark.fi/sparklend/features/isolation-mode) Enabled: **Yes**
 * Isolation Mode Debt Ceiling: **50 million USD**
 * Liquidation Protocol Fee: **10%**
