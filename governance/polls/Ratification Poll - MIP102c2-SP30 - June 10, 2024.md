@@ -1,6 +1,6 @@
 ---
 title: Ratification Poll for MIP Amendment Subproposal (MIP102c2-SP30) - June 10, 2024
-summary: This subproposal amends MIP104 to remove Monetalis as an arranger; it also defines additional processes related to the removal of arrangers.
+summary: This subproposal amends MIP104 to remove Monetalis as an Arranger; it also defines additional processes related to the removal of Arrangers.
 discussion_link: https://forum.makerdao.com/t/mip102c2-sp30-mip-amendment-subproposal/23729
 parameters:
     input_format:
