@@ -4437,5 +4437,15 @@
     "collateral-onboard",
     "risk-parameter",
     "spark"
+  ],
+  "1114": [
+    "high-impact",
+    "ratification",
+    "mips"
+  ],
+  "1115": [
+    "medium-impact",
+    "ratification",
+    "mips"
   ]
 }
