@@ -20,7 +20,7 @@ If this executive proposal passes, the following **changes** will occur within t
 - Aligned Delegate compensation for May 2024 totaling **210.81 MKR** will be distributed.
 - Aligned Voter Committee Member compensation for Q2 2024 totalling **100.08 MKR** will be distributed.
 - **5,000,000 DAI** and **450 MKR** will be transferred to the Launch Project.
-- A Spark proxy spell will be triggered at $address.
+- A Spark proxy spell will be triggered at [0x258FD2E6b5C155aa5f3e84326A622288bd70f376](https://etherscan.io/address/0x258FD2E6b5C155aa5f3e84326A622288bd70f376).
 - A series of housekeeping actions to push USDP out of the input conduit will be carried out, as detailed below.
 		
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
@@ -101,7 +101,7 @@ If this executive proposal passes, the following transfers to the Launch Project
 - **Authorization:** [Governance Poll](https://vote.makerdao.com/polling/QmPmVeDx)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/may-31-2024-proposed-changes-to-sparklend-for-upcoming-spell/24413)
 		
-If this executive proposal passes, a Spark proxy spell at [$address]($etherscan_link) will be triggered. The expected contents are as follows:
+If this executive proposal passes, a Spark proxy spell at [0x258FD2E6b5C155aa5f3e84326A622288bd70f376](https://etherscan.io/address/0x258FD2E6b5C155aa5f3e84326A622288bd70f376) will be triggered. The expected contents are as follows:
 		
 #### Onboard Etherfi weETH to SparkLend on Mainnet
 		
