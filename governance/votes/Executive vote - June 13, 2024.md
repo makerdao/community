@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Disable Starknet Dai Bridge, Aligned Delegate Compensation for May 2024, AVC Member Participation Rewards for Q2 2024, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
 summary: Disable the Starknet Dai Bridge, distribute Aligned Delegate compensation for May 2024, distribute AVC Member compensation for Q2 2024, transfer funding to the Launch Project, trigger a Spark Proxy spell, and perform housekeeping actions on the USDP Jar.
 date: 2024-06-13T00:00:00.000Z
-address: "$spell_address"		
+address: "0x622Ad624491a01a2a6beAD916C3Ca3B90BcA0854"		
 ---
 
 # [Executive Proposal] Disable Starknet Dai Bridge, Aligned Delegate Compensation for May 2024, AVC Member Participation Rewards for Q2 2024, Launch Project Funding, Spark Proxy Spell, USDP Jar Housekeeping - June 13, 2024
