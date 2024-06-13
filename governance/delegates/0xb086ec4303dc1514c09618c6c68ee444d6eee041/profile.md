@@ -1,6 +1,6 @@
 ---
 name: WBC
-external_profile_url:
+external_profile_url: https://forum.makerdao.com/t/wbc-aligned-delegate-communications/20828
 ---
 
 # WBC

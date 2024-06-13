@@ -1,6 +1,6 @@
 ---
 name: BLUE
-external_profile_url: https://forum.makerdao.com/t/avc-creation-kiss-avc/20346
+external_profile_url: https://forum.makerdao.com/t/blue-ad-recognition-submission/20915
 ---
 
 # BLUE

@@ -1,6 +1,6 @@
 ---
 name: vigilant
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/cd-recognition-submission-vigilant/20457
 ---
 
 # vigilant

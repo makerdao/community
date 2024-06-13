@@ -1,6 +1,6 @@
 ---
 name: JAG
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/jag-ad-delegate-submission/20972
 ---
 
 # JAG

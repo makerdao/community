@@ -1,6 +1,6 @@
 ---
 name: UPMaker
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-regenerative-finance-cvc/20354
+external_profile_url: https://forum.makerdao.com/t/upmaker-ad-submission/20577
 ---
 
 # UPMaker

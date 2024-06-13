@@ -1,6 +1,6 @@
 ---
 name: Pipkin
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/pipkin-ad-recognition/23448
 ---
 
 # Pipkin

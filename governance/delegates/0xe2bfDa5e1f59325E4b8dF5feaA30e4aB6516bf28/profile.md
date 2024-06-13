@@ -1,6 +1,6 @@
 ---
 name: BONAPUBLICA
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-regenerative-finance-cvc/20354
+external_profile_url: https://forum.makerdao.com/t/bonapublica-aligned-delegate-communication/20451
 ---
 
 # BONAPUBLICA

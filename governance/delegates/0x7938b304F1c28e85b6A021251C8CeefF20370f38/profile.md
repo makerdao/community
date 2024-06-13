@@ -1,6 +1,6 @@
 ---
 name: JuliaChang
-external_profile_url: https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354
+external_profile_url: https://forum.makerdao.com/t/juliachang-ad-recognition-submission/23507
 ---
 
 # JuliaChang

@@ -1,6 +1,6 @@
 ---
 name: Byteron
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/byteron-ad-recognition-submission/22537
 ---
 
 # Byteron

@@ -1,6 +1,6 @@
 ---
 name: JAG
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868
+external_profile_url: https://forum.makerdao.com/t/jag-ad-delegate-submission/20972
 ---
 
 # JAG

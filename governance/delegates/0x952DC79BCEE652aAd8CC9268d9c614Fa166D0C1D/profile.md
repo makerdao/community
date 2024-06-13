@@ -1,6 +1,6 @@
 ---
 name: PBG
-external_profile_url:
+external_profile_url: https://forum.makerdao.com/t/pbg-aligned-delegate-communication-platform/20471
 ---
 
 # PBG

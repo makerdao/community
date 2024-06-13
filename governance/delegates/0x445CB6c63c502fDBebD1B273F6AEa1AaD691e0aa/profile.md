@@ -1,6 +1,6 @@
 ---
 name: BLUE
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868
+external_profile_url: https://forum.makerdao.com/t/blue-ad-recognition-submission/20915
 ---
 
 # BLUE

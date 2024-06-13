@@ -1,6 +1,6 @@
 ---
 name: Ikagai
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/ikagai-ad-recognition-submission/22124
 ---
 
 # Ikagai

@@ -1,6 +1,6 @@
 ---
 name: Vision
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/vision-ad-recognition-submission/21777
 ---
 
 # Vision
