@@ -1,6 +1,6 @@
 ---
 name: JuliaChang
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868
+external_profile_url: https://forum.makerdao.com/t/juliachang-ad-recognition-submission/23507
 ---
 
 # JuliaChang

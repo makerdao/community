@@ -1,6 +1,6 @@
 ---
 name: BONAPUBLICA
-external_profile_url: https://forum.makerdao.com/t/avc-creation-kiss-avc/20346
+external_profile_url: https://forum.makerdao.com/t/bonapublica-aligned-delegate-communication/20451
 ---
 
 # BONAPUBLICA

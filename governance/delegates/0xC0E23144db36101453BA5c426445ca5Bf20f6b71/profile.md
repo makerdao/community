@@ -1,6 +1,6 @@
 ---
 name: Ikagai
-external_profile_url: https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354
+external_profile_url: https://forum.makerdao.com/t/ikagai-ad-recognition-submission/22124
 ---
 
 # Ikagai

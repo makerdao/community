@@ -1,6 +1,6 @@
 ---
 name: Shanah
-external_profile_url: https://forum.makerdao.com/t/avc-creation-regenerative-finance-avc/20354
+external_profile_url: https://forum.makerdao.com/t/shanah-aligned-delegate-communications/22264
 ---
 
 # Shanah

@@ -1,6 +1,6 @@
 ---
 name: Penguin Soldier
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-kiss-cvc/20346
+external_profile_url: https://forum.makerdao.com/t/penguin-soldier-ad-recognition-submission/21395
 ---
 
 # Penguin Soldier

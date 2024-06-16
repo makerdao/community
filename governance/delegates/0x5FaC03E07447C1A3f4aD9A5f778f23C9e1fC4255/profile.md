@@ -1,6 +1,6 @@
 ---
 name: Rocky
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-resiliency-cvc/20353
+external_profile_url: https://forum.makerdao.com/t/rocky-aligned-delegate-recognition-submission/24148
 ---
 
 # Vision

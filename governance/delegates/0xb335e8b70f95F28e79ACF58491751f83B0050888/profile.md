@@ -1,6 +1,6 @@
 ---
 name: Cloaky
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-sovereign-finance-cvc/20868
+external_profile_url: https://forum.makerdao.com/t/cloaky-ad-recognition-submission/21082
 ---
 
 # Cloaky
