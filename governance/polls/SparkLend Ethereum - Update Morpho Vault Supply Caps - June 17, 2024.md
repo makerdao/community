@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Increase Morpho DAI Vault Supply Caps - June 17, 2024
-summary: Signal your support or opposition to increasing the DAI supply caps for select Morpho Spark DAI Vault on Ethereum mainnet.
+summary: Signal your support or opposition to increasing the DAI supply caps for select Morpho Spark DAI Vault markets on Ethereum mainnet.
 discussion_link: https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489
 parameters:
     input_format: single-choice
