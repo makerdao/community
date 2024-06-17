@@ -31,7 +31,6 @@ The community can vote in this poll to express support or opposition to the foll
 - Increase the supply cap of the [sUSDe 91.5% LLTV pool](https://morpho.blockanalitica.com/markets/1247f1c237eceae0602eab1470a5061a6dd8f734ba88c7cdc5d6109fb0026b28/) by 100 million DAI from 100 million DAI to **200 million DAI**.
 - Increase the supply cap of the [sUSDe 86% LLTV pool](https://morpho.blockanalitica.com/markets/39d11026eae1c6ec02aa4c0910778664089cdd97c3fd23f68f7cd05e2e95af48/) by 100 million DAI from 400 million DAI to **500 million DAI**.
 
-
 Please review the discussion [thread](https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489) and analysis from [BA Labs](https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489/2) to help inform your position before voting.
 
 ## Outcomes
