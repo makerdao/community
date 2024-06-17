@@ -1,6 +1,6 @@
 ---
 title: SparkLend Gnosis - Onboard USDC.e to SparkLend - June 17, 2024
-summary: Onboard USDC.e (Bridged Circle USDC) to Spark Protocol on Gnosis with included parameters.
+summary: Signal your support or opposition to onboarding USDC.e (Bridged Circle USDC) to Spark Protocol on Gnosis with included parameters.
 discussion_link: https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489
 parameters:
     input_format: single-choice
@@ -35,7 +35,7 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Oracle: 1:1 USD Fixed
 * Oracle Provider: N/A
 * Borrow Enabled: Yes
-* Flash Loan Enabled	Yes
+* Flash Loan Enabled: Yes
 * Stable Rate Borrowing: No
 * Collateral Enabled: No
 * [Isolation Mode](https://docs.spark.fi/defi-infrastructure/sparklend/spark-lend-features#isolation-mode) Enabled: No
@@ -43,10 +43,10 @@ This poll allows the MakerDAO governance community to signal their support or op
 * Loan To Value: 0%
 * Liquidation Threshold: 0%
 * Liquidation Bonus: 0%
-* Liquidation Protocol Fee:	0%
+* Liquidation Protocol Fee: 0%
 * Base borrow rate: 0%
 * Slope1: 9%
-* Slope2:	15%
+* Slope2: 15%
 * Optimal Utilization: 95%
 * Reserve factor: 10%
 * Borrowable in isolation mode: Yes
