@@ -15,7 +15,7 @@ options:
 start_date: 2024-06-17T16:00:00
 end_date: 2024-06-20T16:00:00
 ---
-# Poll: SparkLend Ethereum - Update Morpho Vault Supply Caps - June 17, 2024
+# Poll: SparkLend Ethereum - Increase Morpho Vault Supply Caps - June 17, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, June 17 at 16:00 UTC.
 
