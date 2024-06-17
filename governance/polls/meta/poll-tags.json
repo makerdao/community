@@ -4447,5 +4447,23 @@
     "medium-impact",
     "ratification",
     "mips"
+  ],
+  "1117": [
+    "medium-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1118": [
+    "medium-impact",
+    "collateral-offboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1119": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
   ]
 }
