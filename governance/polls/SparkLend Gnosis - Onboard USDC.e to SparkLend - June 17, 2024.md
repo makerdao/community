@@ -30,32 +30,32 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 ### Spark Parameters
 
-* Token: USDC.e
-* Token Address: [0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0](https://gnosisscan.io/token/0x2a22f9c3b484c3629090feed35f17ff8f88f76f0)
+* Token: **USDC.e**
+* Token Address: **[0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0](https://gnosisscan.io/token/0x2a22f9c3b484c3629090feed35f17ff8f88f76f0)**
 * Oracle: 1:1 USD Fixed
 * Oracle Provider: N/A
-* Borrow Enabled: Yes
-* Flash Loan Enabled: Yes
-* Stable Rate Borrowing: No
-* Collateral Enabled: No
-* [Isolation Mode](https://docs.spark.fi/defi-infrastructure/sparklend/spark-lend-features#isolation-mode) Enabled: No
+* Borrow Enabled: **Yes**
+* Flash Loan Enabled: **Yes**
+* Stable Rate Borrowing: **No**
+* Collateral Enabled: **No**
+* [Isolation Mode](https://docs.spark.fi/defi-infrastructure/sparklend/spark-lend-features#isolation-mode) Enabled: **No**
 * Isolation Mode Debt Ceiling: n/a
-* Loan To Value: 0%
-* Liquidation Threshold: 0%
-* Liquidation Bonus: 0%
-* Liquidation Protocol Fee: 0%
-* Base borrow rate: 0%
-* Slope1: 9%
-* Slope2: 15%
-* Optimal Utilization: 95%
-* Reserve factor: 10%
-* Borrowable in isolation mode: Yes
-* [Siloed borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): No
-* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode) "Emode" Category:	0
+* Loan To Value: **0%**
+* Liquidation Threshold: **0%**
+* Liquidation Bonus: **0%**
+* Liquidation Protocol Fee: **0%**
+* Base borrow rate: **0%**
+* Slope1: **9%**
+* Slope2: **15%**
+* Optimal Utilization: **95%**
+* Reserve factor: **10%**
+* Borrowable in isolation mode: **Yes**
+* [Siloed borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): **No**
+* [Efficency Mode](https://docs.spark.fi/defi-infrastructure/sparklend#efficiency-mode-emode) "Emode" Category: **0**
 * [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode) Enabled: N/A
 * Isolation Mode Debt Ceiling: N/A
-* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): 10,000,000 USDC.e
-* [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps):  8,000,000 USDC.e
+* [Supply cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): **10,000,000 USDC.e**
+* [Borrow cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): **8,000,000 USDC.e**
 
 Please review the proposal [thread](https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489) for more information about this proposed onboarding.
 
