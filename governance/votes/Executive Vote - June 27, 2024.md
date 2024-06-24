@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
 - Smart Burn Engine (SBE) [DssFlapper](https://mips.makerdao.com/mips/details/MIP104#9-1-3) parameters will be updated.
 - **4,500,000 DAI** and **1,300 MKR** will be transferred to the Launch Project.
