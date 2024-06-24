@@ -19,7 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - Smart Burn Engine (SBE) [DssFlapper](https://mips.makerdao.com/mips/details/MIP104#9-1-3) parameters will be updated.
 - **4,500,000 DAI** and **1,300 MKR** will be transferred to the Launch Project.
-- A Spark proxy spell will be triggered at $address.
+- A Spark proxy spell will be triggered at [0xc96420Dbe9568e2a65DD57daAD069FDEd37265fa](https://etherscan.io/address/0xc96420Dbe9568e2a65DD57daAD069FDEd37265fa).
 
 **Voting for this executive proposal will place your MKR in support of the changes outlined above.**
 
