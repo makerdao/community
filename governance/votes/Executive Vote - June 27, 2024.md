@@ -90,7 +90,7 @@ Bridged USDC (USDC.e) will be onboarded with the following parameters:
 - Liquidation Bonus: **0%**
 - Reserve Factor: **10%**
 - Cap Automator: **Disabled**
-- [Supply Cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): **10,000,000 USDC.e**
+- [Supply Cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): **10 million USDC.e**
 - [Borrow Cap](https://docs.spark.fi/defi-infrastructure/sparklend#supply-and-borrow-caps): **8,000,000 USDC.e**
 - [Isolation Mode](https://devs.spark.fi/sparklend/features/isolation-mode): **No**
 - Isolation Mode Debt Ceiling: N/A
