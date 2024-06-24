@@ -103,7 +103,7 @@ Parameters of Circle USDC (USDC) interest rate model will be updated as follows:
 
 - Optimal Utilization will be decreased by 15% from 95% to **80%**
 - Slope2 will be increased by 35% from 15% to **50%**
-- Borrow Cap will be decreased by 7 million USDC from 8 million USDC to **1,000,000 USDC**
+- Borrow Cap will be decreased by 7 million USDC from 8 million USDC to **1 million USDC**
 
 ## Review
 
