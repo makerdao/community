@@ -58,7 +58,7 @@ If this executive proposal passes, the following transfers to the Launch Project
 - **Authorization:** Governance Polls [1119](https://vote.makerdao.com/polling/QmQv9zQR), [1117](https://vote.makerdao.com/polling/QmdQYTQe), [1118](https://vote.makerdao.com/polling/QmU6KSGc)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/jun-12-2024-proposed-changes-to-sparklend-for-upcoming-spell/24489)
   
-If this executive proposal passes, a Spark proxy spell at [$address]($etherscan_link) will be triggered, containing the following items.
+If this executive proposal passes, a Spark proxy spell at [0xc96420Dbe9568e2a65DD57daAD069FDEd37265fa](https://etherscan.io/address/0xc96420Dbe9568e2a65DD57daAD069FDEd37265fa) will be triggered, containing the following items.
   
 #### [Mainnet] Update Morpho Vault Supply Caps
   
