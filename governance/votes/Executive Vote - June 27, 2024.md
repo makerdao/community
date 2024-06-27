@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] SBE Parameters Update, Launch Project Funding, Spark Proxy Spell - June 27, 2024
 summary: Update the Smart Burn Engine (SBE) DssFlapper parameters, transfer funding to the Launch Project, and trigger a Spark proxy spell.
 date: 2024-06-27T00:00:00.000Z
-address: "$spell_address"
+address: "0x7fbC867dE58D6e47E430eB257B50481F6E878f65"
 
 ---
 # [Executive Proposal] SBE Parameters Update, Launch Project Funding, Spark Proxy Spell - June 27, 2024
