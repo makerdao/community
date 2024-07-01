@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-This poll allows MakerDAO Governance to signal their support or opposition to increasing the capacity of weETH (Etherfi weETH) on mainnet with the following parameters:
+This poll allows MakerDAO Governance to signal their support or opposition to increasing the capacity of [weETH (Etherfi weETH)](https://app.spark.fi/market-details/1/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee) on mainnet with the following parameters:
 
 - weETH Supply Cap Max: **200,000 weETH**
 - weETH Isolation Mode Debt Ceiling: **200 million DAI**
