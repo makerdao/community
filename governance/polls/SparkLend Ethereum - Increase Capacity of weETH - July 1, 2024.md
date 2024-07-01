@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Increase Capacity of weETH - July 1, 2024
-summary: Increase capacity of WeETH (Etherfi weETH) on SparkLend Ethereum.
+summary: Increase capacity of weETH (Etherfi weETH) on SparkLend Ethereum.
 discussion_link: https://forum.makerdao.com/t/jun-27-2024-proposed-changes-to-spark-for-upcoming-spell/24552
 parameters:
     input_format: single-choice
