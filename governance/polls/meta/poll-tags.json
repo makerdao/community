@@ -4465,5 +4465,18 @@
     "risk-parameter",
     "d3m",
     "spark"
+  ],
+  "1120": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1121": [
+    "high-impact",
+    "mips"
+  ],
+  "1122": [
+    "high-impact",
+    "mips"
   ]
 }
