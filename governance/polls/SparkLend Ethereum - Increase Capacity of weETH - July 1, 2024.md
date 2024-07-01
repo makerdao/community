@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 This poll allows MakerDAO Governance to signal their support or opposition to increasing the capacity of [weETH (Etherfi weETH)](https://app.spark.fi/market-details/1/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee) on mainnet with the following parameter changes:
 
-- weETH Supply Cap Max: **200,000 weETH**
+- Increase weETH Supply Cap Max by 150,000 weETH, from 50,000 weETH to **200,000 weETH**
 - weETH Isolation Mode Debt Ceiling: **200 million DAI**
 
 Please review the proposal [thread](https://forum.makerdao.com/t/jun-27-2024-proposed-changes-to-spark-for-upcoming-spell/24552) for more information about this proposed onboarding.
