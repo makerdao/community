@@ -34,7 +34,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization:** [Forum post](http://forum.makerdao.com/t/coinbase-web3-wallet-legal-overview/24577/2)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/coinbase-web3-wallet-legal-overview/24577)
 
-If this executive proposal passes, the following DAO Resolution authorizing the actions needed for the setup of Coinbase Prime Web3 Wallet (W3W) and migration from `PSM-USDC-A` to the new [Lightweight Peg Stability Module (LITE-PSM-USDC-A)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512)) will be approved:
+If this executive proposal passes, the following DAO Resolution authorizing the actions needed for the setup of Coinbase Prime Web3 Wallet (W3W) and migration from `PSM-USDC-A` to the new [Lightweight Peg Stability Module (LITE-PSM-USDC-A)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512) will be approved:
 
 - Approve LitePSM (LITE-PSM-USDC-A) Dao Resolution with IPFS hash [QmX2CnZcsZJtgJUdkpwsAd1bXEaFuxFUaXkqgDkZa79idA](https://ipfs.io/ipfs/QmX2CnZcsZJtgJUdkpwsAd1bXEaFuxFUaXkqgDkZa79idA).
 
