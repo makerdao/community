@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Out-of-Schedule Executive Vote - Approve LITE-PSM-USDC DAO Resolution - July 04, 2024
+title: Template - [Executive Vote] Out-of-Schedule Executive Vote - Approve LitePSM (LITE-PSM-USDC-A) DAO Resolution - July 04, 2024
 summary: Approving a DAO Resolution pertaining to the existing Coinbase Custody arrangement (RWA014-A) and the new Lightweight Peg Stability Moodule (LITE-PSM-A). 
 date: 2024-07-04T00:00:00.000Z
 address: "$spell_address"
