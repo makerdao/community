@@ -5,7 +5,7 @@ date: 2024-07-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Out-of-Schedule Executive Vote - Approve LITE-PSM-USDC DAO Resolution - July 04, 2024
+# [Executive Proposal] Out-of-Schedule Executive Vote - Approve LitePSM (LITE-PSM-USDC-A) DAO Resolution - July 04, 2024
 
 The Governance Facilitators and Dewiz have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
