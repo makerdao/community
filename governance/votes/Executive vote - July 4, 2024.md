@@ -29,7 +29,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Approve "Approve LITE-PSM-USDC" DAO Resolution
+### Approve LitePSM (LITE-PSM-USDC-A) DAO Resolution
 
 - **Authorization:** [Forum post]()
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/coinbase-web3-wallet-legal-overview/24577)
