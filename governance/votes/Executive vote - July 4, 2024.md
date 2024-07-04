@@ -31,7 +31,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Approve LitePSM (LITE-PSM-USDC-A) DAO Resolution
 
-- **Authorization:** [Forum post]()
+- **Authorization:** [Forum post](http://forum.makerdao.com/t/coinbase-web3-wallet-legal-overview/24577/2)
 - **Proposal:** [Forum post](https://forum.makerdao.com/t/coinbase-web3-wallet-legal-overview/24577)
 
 If this executive proposal passes, the following DAO Resolution pertaining to the approval of LITE-PSM-USDC in the context of RWA014-A ([Coinbase Custody arrangement](https://forum.makerdao.com/t/coinbase-custody-legal-assessment/20384)) and the transition from the current custodial solution to a new non-custodial solution that leverages the Coinbase Web3 Wallet (the “W3W”) and the Lightweight Peg Stability Module ([LitePSM](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512)) will be approved:
