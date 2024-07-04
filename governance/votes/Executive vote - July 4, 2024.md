@@ -19,6 +19,8 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - A LitePSM (LITE-PSM-USDC-A) DAO Resolution will be approved.
 
+Voting for this executive proposal will place your MKR in support of the changes outlined above.
+
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **30 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
