@@ -80,7 +80,7 @@ The DSR will decrease by 1 percentage point, from 8% to **7%**.
 **Authorization**: [Atlas 2.6 Aligned Delegates](https://mips.makerdao.com/mips/details/MIP101#2-6-aligned-delegates-ads-gov6)  
 **Proposal**: [Forum post](https://forum.makerdao.com/t/june-2024-aligned-delegate-compensation/24617)
 
-If this executive proposal passes a total of **209.17 MKR** will be distributed for Aligned Delegate Compensation as follows. This is the first month where Aligned Delegates may request payments to multiple addresses. If a payout is sent to a different recipient at an Aligned Delegate's request, the Aligned Delegate's name will appear in parentheses for transparency. 
+If this executive proposal passes a total of **209.17 MKR** will be distributed for Aligned Delegate Compensation as detailed below.
 
 | Delegate    | Amount (MKR) | Address                                                                                         |
 |-------------|--------------|-------------------------------------------------------------------------------------------------|
