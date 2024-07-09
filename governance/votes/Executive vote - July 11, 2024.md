@@ -75,7 +75,7 @@ If this executive proposal passes, the following parameter changes will be made.
 
 The DSR will decrease by 1 percentage point, from 8% to **7%**.
 
-### Delegate Compensation
+### Aligned Delegate Compensation for June 2024
 
 **Authorization**: [Atlas 2.6 Aligned Delegates](https://mips.makerdao.com/mips/details/MIP101#2-6-aligned-delegates-ads-gov6)  
 **Proposal**: [Forum post](https://forum.makerdao.com/t/june-2024-aligned-delegate-compensation/24617)
