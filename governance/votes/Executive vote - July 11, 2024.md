@@ -105,12 +105,12 @@ If this executive proposal passes a Spark Proxy spell will be triggered at [0x91
 
 #### [Mainnet] Spark Effective DAI Borrow Rate Reduction
 
-The Spark Effective DAI Borrow Rate will be reduced by 1 percentage point, from 9% to **8%**.
+- Reduce the Spark Effective DAI Borrow Rate by 1 percentage point, from 9% to **8%**.
 
 #### [Mainnet] Increase Capacity of weETH
 
-- Increase weETH Supply Cap Max by 150,000 weETH, from 50,000 weETH to **200,000 weETH**
-- Increase weETH [Isolation Mode](https://docs.spark.fi/defi-infrastructure/sparklend/spark-lend-features) Debt Ceiling by 150 million DAI, from 50 million DAI to **200 million DAI**
+- Increase the weETH Supply Cap Max by 150,000 weETH, from 50,000 weETH to **200,000 weETH**
+- Increase the weETH [Isolation Mode](https://docs.spark.fi/defi-infrastructure/sparklend/spark-lend-features) Debt Ceiling by 150 million DAI, from 50 million DAI to **200 million DAI**
 
 ## Review
 
