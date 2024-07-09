@@ -98,7 +98,7 @@ If this executive proposal passes a total of **209.17 MKR** will be distributed 
 
 ### Spark Proxy Spell
 
-**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594/2), [Governance Poll 1120](  https://vote.makerdao.com/polling/QmTBsxR5)  
+**Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594/2), [Governance Poll 1120](https://vote.makerdao.com/polling/QmTBsxR5)  
 **Proposal**: [Stability Scope Parameter Proposal](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594), [[Jun 27, 2024] Proposed Changes to Spark for Upcoming Spell](https://forum.makerdao.com/t/jun-27-2024-proposed-changes-to-spark-for-upcoming-spell/24552)
 
 If this executive proposal passes a Spark Proxy spell will be triggered at [0x91824fa4fd51E8440a122ffDd49C701F5C56D58e](https://etherscan.io/address/0x91824fa4fd51E8440a122ffDd49C701F5C56D58e). The expected inclusions are as follows:
