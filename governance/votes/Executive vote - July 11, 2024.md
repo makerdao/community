@@ -44,7 +44,7 @@ If this executive proposal passes, a payment of **219,125 DAI** will be made to 
 
 ### Update Chainlink Keeper Network Treasury Address
 
-- **Authorization**: [Ecosystem Approval]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/amend-keeper-network-chainlink-automation-v2-1/24593/3)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/amend-keeper-network-chainlink-automation-v2-1/24593)
 
 If this executive proposal passes, the Chainlink Keeper Network Treasuary Address will be updated to [0xBE1cE564574377Acb17C2b7628E4F6dd38067a55](https://etherscan.io/address/0xBE1cE564574377Acb17C2b7628E4F6dd38067a55). This is a requirement to facilitate the upgrade of Chainlink Automation for MakerDAO from v2.0 to v2.1.
@@ -55,7 +55,7 @@ The required contract call is:
 
 ### Stability Scope Parameter Updates
 
-- **Authorization**: [Ecosystem Approval]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594)
 
 If this executive proposal passes, the following parameter changes will be made.
