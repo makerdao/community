@@ -58,7 +58,7 @@ The required contract call is:
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-14/24594)
 
-If this executive proposal passes, the following parameter changes will be made.
+If this executive proposal passes, the following parameter changes will be made:
 
 #### [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Reductions
 
