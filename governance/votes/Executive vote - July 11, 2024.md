@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Aave-SparkLend Revenue Share, Update Keeper Network Address, Stability Scope Parameter Changes, Delegate Compensation, Spark Proxy Spell - July 11, 2024
-summary: Transfer Dai to Aave as part of the SparkLend revenue sharing agreement, update the Chainlink Keeper Network Treasury Address, make Stability Fee and DSR changes as per the Stability Scope, trigger a Spark Proxy Spell.
+summary: Transfer Dai to Aave as part of the SparkLend revenue sharing agreement, update the Chainlink Keeper Network Treasury Address, make Stability Fee and DSR changes as per the Stability Scope, and trigger a Spark Proxy Spell.
 date: 2024-07-11T00:00:00.000Z
 address: "$spell_address"
 
@@ -47,7 +47,7 @@ If this executive proposal passes, a payment of **219,125 DAI** will be made to 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/amend-keeper-network-chainlink-automation-v2-1/24593/3)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/amend-keeper-network-chainlink-automation-v2-1/24593)
 
-If this executive proposal passes, the Chainlink Keeper Network Treasuary Address will be updated to [0xBE1cE564574377Acb17C2b7628E4F6dd38067a55](https://etherscan.io/address/0xBE1cE564574377Acb17C2b7628E4F6dd38067a55). This is a requirement to facilitate the upgrade of Chainlink Automation for MakerDAO from v2.0 to v2.1.
+If this executive proposal passes, the Chainlink Keeper Network Treasury Address will be updated to [0xBE1cE564574377Acb17C2b7628E4F6dd38067a55](https://etherscan.io/address/0xBE1cE564574377Acb17C2b7628E4F6dd38067a55). This is a requirement to facilitate the upgrade of Chainlink Automation for MakerDAO from v2.0 to v2.1.
 
 The required contract call is:
 
@@ -80,7 +80,7 @@ The DSR will decrease by 1 percentage point, from 8% to **7%**.
 **Authorization**: [Atlas 2.6 Aligned Delegates](https://mips.makerdao.com/mips/details/MIP101#2-6-aligned-delegates-ads-gov6)  
 **Proposal**: [Forum post](https://forum.makerdao.com/t/june-2024-aligned-delegate-compensation/24617)
 
-If this executive proposal passes a total of **209.17 MKR** will be distributed for Aligned Delegate Compensation as follows. This is the first month where Aligned Delegates may request payments to multiple addresses. If a payout is sent to a different recipiant at an Aligned Delegate's request, the Aligned Delegate's name will appear in parenthises for transparency. 
+If this executive proposal passes a total of **209.17 MKR** will be distributed for Aligned Delegate Compensation as follows. This is the first month where Aligned Delegates may request payments to multiple addresses. If a payout is sent to a different recipient at an Aligned Delegate's request, the Aligned Delegate's name will appear in parentheses for transparency. 
 
 | Delegate    | Amount (MKR) | Address                                                                                         |
 |-------------|--------------|-------------------------------------------------------------------------------------------------|
