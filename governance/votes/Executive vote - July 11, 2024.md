@@ -5,7 +5,7 @@ date: 2024-07-11T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Aave Revenue Share, Update Keeper Network Address, Stability Scope Parameter Changes, Delegate Compensation, Spark Proxy Spell - July 11, 2024
+# [Executive Proposal] Aave-SparkLend Revenue Share, Update Keeper Network Address, Stability Scope Parameter Changes, June 2024 AD Compensation, Spark Proxy Spell - July 11, 2024
 
 The Governance Facilitators and Dewiz, Sidestream, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
