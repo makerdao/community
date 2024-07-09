@@ -23,7 +23,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - **209.17 MKR** will be distributed to qualified Aligned Delegates.
 - A Spark Proxy Spell will be triggered at [0x91824fa4fd51E8440a122ffDd49C701F5C56D58e](https://etherscan.io/address/0x91824fa4fd51E8440a122ffDd49C701F5C56D58e).
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+**Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
 Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **30 hours**.
 
