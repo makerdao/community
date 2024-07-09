@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
 - **219,125 DAI** will be transferred to Aave as part of the Aave-SparkLend Revenue Sharing Agreement.
 - The Chainlink Keeper Network Treasury Address will be updated.
