@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Aave-SparkLend Revenue Share, Update Keeper Network Address, Stability Scope Parameter Changes, Delegate Compensation, Spark Proxy Spell - July 11, 2024
+title: Template - [Executive Vote] Aave-SparkLend Revenue Share, Update Keeper Network Address, Stability Scope Parameter Changes, June 2024 AD Compensation, Spark Proxy Spell - July 11, 2024
 summary: Transfer Dai to Aave as part of the SparkLend revenue sharing agreement, update the Chainlink Keeper Network Treasury Address, make Stability Fee and DSR changes as per the Stability Scope, and trigger a Spark Proxy Spell.
 date: 2024-07-11T00:00:00.000Z
 address: "$spell_address"
