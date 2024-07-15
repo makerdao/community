@@ -1,5 +1,5 @@
 ---
-title: SparkLend Ethereum - Activate a Morpho market for Pendle PT sUSDe with Oct 25, 2024 Maturity - July 15, 2024
+title: SparkLend Ethereum - Activate a Morpho Market for Pendle PT sUSDe with Oct 25, 2024 Maturity - July 15, 2024
 summary: Signal your support or opposition to the addition of a Pendle PT sUSDe with October 25, 2024 maturity market to the Morpho Spark DAI Vault.
 discussion_link: https://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-07-15T16:00:00
 end_date: 2024-07-18T16:00:00
 ---
-# Poll: SparkLend Ethereum - Activate a Morpho market for Pendle PT sUSDe with Oct 25, 2024 Maturity - July 15, 2024
+# Poll: SparkLend Ethereum - Activate a Morpho Market for Pendle PT sUSDe with Oct 25, 2024 Maturity - July 15, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 15 at 16:00 UTC.
 
