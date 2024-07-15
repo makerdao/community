@@ -4478,5 +4478,18 @@
   "1122": [
     "high-impact",
     "mips"
+  ],
+  "1124": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "psm"
+  ],
+  "1125": [
+    "medium-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "d3m",
+    "spark"
   ]
 }
