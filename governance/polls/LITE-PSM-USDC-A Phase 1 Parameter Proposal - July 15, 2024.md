@@ -1,6 +1,6 @@
 ---
 title: LITE-PSM-USDC-A Phase 1 Parameter Proposal - July 15, 2024
-summary: Signal your support or opposition to deploying a new LitePSM and the recommended parameters.
+summary: Signal your support or opposition to deploying a new LitePSM with recommended parameters.
 discussion_link: https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644
 parameters:
     input_format: single-choice
@@ -27,11 +27,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to initiating the LITE-PSM-USDC-A Phase 1 with the following recommended changes:
 
 - Deploy PSM_MOM GSM Delay Exception.
-- Migrate initial USDC (20 million USDC) reserves from PSM-USDC-A to LITE-PSM-USDC-A with a script executed in the spell
-- The current DC-IAM available DAI liquidity is distributed between the two PSMs
+- Migrate the initial 20 million USDC in reserves from PSM-USDC-A to LITE-PSM-USDC-A with a script executed in an upcoming spell.
+- Adjust the current DC-IAM DAI liquidity parameters between the two PSMs:
   - PSM-USDC-A
     - [`tin`](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) & [`tout`](https://manual.makerdao.com/module-index/module-psm#fee-out-tout): **0** (remains unchanged).
     - [DC-IAM `line` (Maximum Debt Ceiling)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-): **10 billion DAI** (remains unchanged).
