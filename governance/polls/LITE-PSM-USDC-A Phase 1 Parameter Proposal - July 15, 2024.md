@@ -1,5 +1,5 @@
 ---
-title: LITE-PSM-USDC-A Phase 1 Parameter Proposal
+title: LITE-PSM-USDC-A Phase 1 Parameter Proposal - July 15, 2024
 summary: Signal your support or opposition to deploying a new LitePSM and the recommended parameters.
 discussion_link: https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-07-15T16:00:00
 end_date: 2024-07-18T16:00:00
 ---
-# Poll: LITE-PSM-USDC-A Phase 1 Parameter Proposal
+# Poll: LITE-PSM-USDC-A Phase 1 Parameter Proposal - July 15, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 15 at 16:00 UTC.
 
