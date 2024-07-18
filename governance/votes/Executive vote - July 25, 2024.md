@@ -46,7 +46,7 @@ All the actions described below are part of the [first phase](https://forum.make
 
 #### PSM-USDC-A DC-IAM Parameters Update
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the PSM-USDC-A DC-IAM parameter below will be updated as follows:
@@ -55,7 +55,7 @@ If this executive proposal passes, then the PSM-USDC-A DC-IAM parameter below wi
 
 #### LITE-PSM-USDC-A DC-IAM Setup
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the LITE-PSM-USDC-A DC-IAM will be set up as follows:
@@ -67,14 +67,14 @@ If this executive proposal passes, then the LITE-PSM-USDC-A DC-IAM will be set u
 
 #### PSM_MOM GSM Delay Exception Activation
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the PSM_MOM GSM Delay Exception will be activated at [0x467b32b0407Ad764f56304420Cddaa563bDab425](https://etherscan.io/address/0x467b32b0407Ad764f56304420Cddaa563bDab425).
 
 #### USDC Migration from PSM-USDC-A to LITE-PSM-USDC-A
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the following action will take place:
@@ -83,7 +83,7 @@ If this executive proposal passes, then the following action will take place:
 
 #### GSM Pause Delay Update
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be updated as follows:
@@ -92,7 +92,7 @@ If this executive proposal passes, then the [GSM Pause Delay](https://mips.maker
 
 #### ESM Minimum Threshold Update
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then the [ESM Minimum Threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will be updated as follows:
@@ -101,21 +101,21 @@ If this executive proposal passes, then the [ESM Minimum Threshold](https://docs
 
 #### LITE-PSM-USDC-A Keeper Network Job Deployment
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then a keeper network job for calling permissionless LitePSM functions will be deployed (TBD).
 
 #### Adding `jar` to the Chainlog
 
-- **Autorization:** [?](https://vote.makerdao.com/polling/QmdcHXHy), [?](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [?](https://vote.makerdao.com/polling/QmdcHXHy), [?](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, then TBD
 
 #### Spark Proxy Spell
 
-- **Autorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
+- **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
 
 If this executive proposal passes, a Spark Proxy Spell will be triggered at [TBD](https://etherscan.io/address/TBD)
