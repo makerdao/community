@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] LITE-PSM-USDC-A Phase 1 Setup - July 25, 2024
 summary: Setting up the Lightweight Peg Stability Module (LITE-PSM-USDC-A) for Phase 1.
-date: 2025-07-25T00:00:00.000Z
+date: 2024-07-25T00:00:00.000Z
 address: "$spell_address"
 
 ---
@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
 - LITE-PSM-USDC-A Phase 1 actions:
-  - PSM-USDC-A Debt Ceiling Instant Access Module (DC-IAM) parameters will be updated.
+  - PSM-USDC-A [Debt Ceiling Instant Access Module (DC-IAM)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-debt-ceiling-instant-access-module-dc-iam-) parameters will be updated.
   - LITE-PSM-USDC-A DC-IAM parameteres will be set up.
   - The PSM_MOM GSM Delay Exception will be activated.
   - **20 million USDC** will be migrated from PSM-USDC-A to LITE-PSM-USDC-A.
@@ -88,7 +88,7 @@ If this executive proposal passes, then the following action will take place:
 
 If this executive proposal passes, then the [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be updated as follows:
 
-- The GSM Pause Delay will be decreased from by 14 hours from 30 hours to **16 hours**.
+- The GSM Pause Delay will be decreased by 14 hours from 30 hours to **16 hours**.
 
 #### ESM Minimum Threshold Update
 
@@ -113,10 +113,10 @@ If this executive proposal passes, then a keeper network job for calling permiss
 
 If this executive proposal passes, then TBD
 
-#### Spark Proxy Spell
+### Spark Proxy Spell
 
 - **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
-- **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635)
 
 If this executive proposal passes, a Spark Proxy Spell will be triggered at [TBD](https://etherscan.io/address/TBD)
 
