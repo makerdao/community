@@ -25,7 +25,7 @@ If this executive proposal passes, the following **actions** will occur within t
   - **20 million USDC** will be migrated from PSM-USDC-A to LITE-PSM-USDC-A.
   - The [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be decreased.
   - The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) [Minimum Threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will be increased.
-  - A LitePSM Keeper Network Job will be Added.
+  - A LitePSM Keeper Network Job will be added.
   - Six additions will be made to the [Chainlog](https://chainlog.makerdao.com).
 - A Spark Proxy Spell will be triggered.
 
