@@ -104,6 +104,9 @@
     - The [Executive Copy Drafting Principles]($).
     - The [Executive Copy Creation Checklist](https://github.com/makerdao/community/blob/master/processes/executive-copy-creation-checklist.md).
 
+>[!IMPORTANT]
+> Make sure all items in the [Executive Contents sheet](https://docs.google.com/spreadsheets/d/1w_z5WpqxzwreCcaveB2Ye1PP5B8QAHDglzyxKHG3CHw/edit?pli=1#gid=1593813984) have been confirmed by the content liaisons.
+
 ## Submit Pull Request
 
 9. Commit changes, and create a Pull Request (PR) to the Community GitHub repository.
