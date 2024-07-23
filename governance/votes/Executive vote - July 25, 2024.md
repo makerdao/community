@@ -24,10 +24,10 @@ If this executive proposal passes, the following **actions** will occur within t
   - The LITE_PSM_MOM GSM Delay Exception will be activated.
   - **20 million USDC** will be migrated from PSM-USDC-A to LITE-PSM-USDC-A.
   - The [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be decreased.
-  - The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) [Minimum Threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will be increased.
+  - The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) [Minimum Threshold](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be increased.
   - A LitePSM Keeper Network Job will be added.
   - Six additions will be made to the [Chainlog](https://chainlog.makerdao.com).
-- A Spark Proxy Spell will be triggered.
+- A Spark Proxy Spell will be triggered at [0x18427dB17D3113309a0406284aC738f4E649613B](https://etherscan.io/address/0x18427dB17D3113309a0406284aC738f4E649613B).
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -43,9 +43,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### LITE-PSM-USDC-A Phase 1 Actions
 
-The actions described below are part of the [first phase](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1) in the migration process [from PSM-USDC-A to LITE-PSM-USDC-A](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512).
+The actions described below are part of the [first phase](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/1) in the migration process [from PSM-USDC-A to LITE-PSM-USDC-A](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512). A technical overview for the latter can be found [here](https://forum.makerdao.com/t/technical-overview-lightweight-peg-stability-module-dss-lite-psm/24730).
 
 #### LitePSM Facility Onboarding
+
 - **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644)
 
@@ -53,7 +54,7 @@ If this executive proposal passes, the following actions will be taken to onboar
 
 - Onboard `MCD_LITE_PSM_USDC_A` at [0xf6e72Db5454dd049d0788e411b06CfAF16853042](https://etherscan.io/address/0xf6e72Db5454dd049d0788e411b06CfAF16853042).
 - Onboard `MCD_LITE_PSM_USDC_A_POCKET` at [0x37305B1cD40574E4C5Ce33f8e8306Be057fD7341](https://etherscan.io/address/0x37305B1cD40574E4C5Ce33f8e8306Be057fD7341).
-- Set LitePSM [Fixed-sized Amount of Pre-minted Dai (`buf`)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512#lite-psm-usdc-a-parameters-overview-8) to **20M**.
+- Set LitePSM [Fixed-sized Amount of Pre-minted Dai (`buf`)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512#lite-psm-usdc-a-parameters-overview-8) to **20 million DAI**.
 
 #### PSM-USDC-A DC-IAM Parameters Update
 
@@ -62,7 +63,7 @@ If this executive proposal passes, the following actions will be taken to onboar
 
 If this executive proposal passes, then the `PSM-USDC-A` DC-IAM parameter below will be updated as follows:
 
-- The [Target Available Debt (`gap`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) will be decreased by 20 million from 400 million to **380 million**.
+- The [Target Available Debt (`gap`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) will be decreased by 20 million from 400 million to **380 million DAI**.
 
 The Maximum Debt Ceiling (`line`) and the Ceiling Increase Cooldown (`ttl`) parameters remain unchanged.
 
@@ -91,9 +92,9 @@ If this executive proposal passes, then the LITE_PSM_MOM GSM Delay Exception wil
 
 If this executive proposal passes, then the following action will take place:
 
-- An initial **20 million USDC** in reserve will be migrated from `PSM-USDC-A` to `LITE-PSM-USDC-A`.
+- An initial **20 million USDC** will be migrated from `PSM-USDC-A` to `LITE-PSM-USDC-A`.
 
-At least 200M USDC reserves should be left in PSM-USDC-A. In this case, the LitePSM will still be initialized, but the USDC reserves will not be migrated due to this requirement. The USDC reserves migration will then be executed in one of the following spells.
+At least 200 million USDC reserves should be left in reserve in PSM-USDC-A. In this case, the LitePSM will still be initialized, but the USDC reserves will not be migrated due to this requirement. The USDC reserves migration will then be executed in one of the following spells.
 
 #### GSM Pause Delay Update
 
@@ -109,7 +110,7 @@ If this executive proposal passes, then the [GSM Pause Delay](https://mips.maker
 - **Authorization:** [Poll 1124](https://vote.makerdao.com/polling/QmdcHXHy), [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644)
 
-If this executive proposal passes, then the [ESM Minimum Threshold](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will be updated as follows:
+If this executive proposal passes, then the [ESM Minimum Threshold](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be updated as follows:
 
 - The ESM Minimum Threshold will be increased by 150,000 MKR from 150,000 MKR to **300,000 MKR**.
 
@@ -120,9 +121,9 @@ If this executive proposal passes, then the [ESM Minimum Threshold](https://docs
 
 If this executive proposal passes, then a keeper network job for calling permissionless LitePSM functions will be activated at [0x689cE517a4DfCf0C5eC466F2757D324fc292C8Be](https://etherscan.io/address/0x689cE517a4DfCf0C5eC466F2757D324fc292C8Be) with the following parameters:
 
-- `fill`: **15 million DAI**.
-- `trim`: **30 million DAI**.
-- `chug`: **300,000 DAI**.
+- [Threshold at which additional DAI will be minted (`fill`)](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): **15 million DAI**.
+- [Threshold at which DAI will be burned (`trim`)](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): **30 million DAI**.
+- [Threshold at which accumulated fees are transferred to the Surplus Buffer (`chug`)](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): **300,000 DAI**.
 
 #### Chainlog Additions
 
@@ -142,12 +143,12 @@ If this executive proposal passes, then the following additions will be made to 
 
 ### Spark Proxy Spell
 
-- **Authorization:** Ecosystem Approvals [1](http://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635/3), [2](http://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635/17)
+- **Authorization:** [Poll 1125](https://vote.makerdao.com/polling/QmWCBwtq), Ecosystem Approvals [1](http://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635/3), [2](http://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635/17)
 - **Proposal**: Forum posts [1](https://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635), [2](http://forum.makerdao.com/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635/14)
 
 If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x18427dB17D3113309a0406284aC738f4E649613B](https://etherscan.io/address/0x18427dB17D3113309a0406284aC738f4E649613B). This proxy spell will take the following action:
 
-- [Mainnet] Activate a Morpho market for Pendle PT sUSDe with Oct 24, 2024 maturity.
+- [Mainnet] Activate a Morpho market for Pendle PT sUSDe with Oct 24, 2024 maturity and an LLTV of 86%.
 
 ## Review
 
