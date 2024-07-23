@@ -64,7 +64,7 @@
 
 |            | `GSM Pause Delay`|
 | ---------- | :--------------- |
-| Guidelines | Leave this sentence in place if the items are affected by the `GSM Pause Delay`. If some items fall under GSM exceptions, clearly point them out. Make sure the duration of the `GSM Pause Delay` in the copy is up to date as per the [Atlas](https://mips.makerdao.com/mips/details/MIP113#10-1-1a) and marked in bold.|
+| Guidelines | Leave this sentence in place if the items are affected by the `GSM Pause Delay`. If some items fall under GSM exceptions, clearly point them out. Update the `$number` with the duration of the `GSM Pause Delay` as per the [Atlas](https://mips.makerdao.com/mips/details/MIP113#10-1-1a) and ensure it's marked in bold.|
 | _Example_  | _Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the actions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **30 hours**._| 
 
 |            | `$OfficeHours?`|
@@ -113,9 +113,9 @@
 
 10. Inform the Reviewer(s) that the Executive Vote copy is ready for their review. 
 
-11. Merge the approved Executive Vote copy PR.
+11. Ensure the approved Executive Vote copy PR is merged.
 
-12. Inform technical teams that the copy is ready and provide the link.
+12. Inform technical teams that the Executive Vote copy is ready and provide the link.
 
 13. Once technical teams have provided a spell address, add it to the Executive Vote copy.
 
