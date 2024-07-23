@@ -12,7 +12,7 @@
 5. On the newly created branch, create a new Markdown (.md) document under `/governance/votes`. Use the following naming convention:
       - `Executive vote - M DD, YYYY`, where `M` is the name of the month, e.g., _Executive vote - July 12, 2024_.
 
-6. Copy the contents of the [Executive Template](https://github.com/makerdao/community/blob/master/governance/votes/templates/Executive%20vote%20-%20%24date_MONTH_DD%2C_YYYY.md) into the empty file.
+6. Copy the contents of the [Executive Copy Template](https://github.com/makerdao/community/blob/master/governance/votes/templates/Executive%20vote%20-%20%24date_MONTH_DD%2C_YYYY.md) into the empty file.
 
 ## Prepare Executive Contents
 
