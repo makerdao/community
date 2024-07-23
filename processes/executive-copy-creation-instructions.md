@@ -59,7 +59,7 @@
 
 |            | `$executive_action_description_`|
 | ---------- | :------------------------------ |
-| Guidelines | List the key **actions** that will occur if the Executive Vote passes using future simple tense. Make sure you adhere to the [Executive Copy Drafting Principles](https://github.com/makerdao/community/blob/master/processes/drafting-style-guideline.md) for correct formatting (reflected in the example below).|
+| Guidelines | List the key **actions** that will occur if the Executive Vote passes using future simple tense. Make sure you adhere to the [Executive Copy Drafting Principles]($) for correct formatting (reflected in the example below).|
 | _Example_  | _If this executive proposal passes, the following **actions** will occur within the Maker Protocol:<ul><li>**219,125** DAI will be transferred to Aave as part of the Aave-SparkLend Revenue Sharing Agreement.</li><li>The Chainlink Keeper Network Treasury Address will be updated.</li><li>Multiple Stability Fees and the DSR will be updated.</li><li>**209.17 MKR** will be distributed to qualified Aligned Delegates.</li><li>A Spark Proxy Spell will be triggered at `[0x91824fa4fd51E8440a122ffDd49C701F5C56D58e](https://etherscan.io/address/0x91824fa4fd51E8440a122ffDd49C701F5C56D58e).`</li></ul>_
 
 |            | `GSM Pause Delay`|
@@ -101,7 +101,7 @@
 
 
 8. Review the completed draft against
-    - The [Executive Copy Drafting Principles](https://github.com/makerdao/community/blob/master/processes/drafting-style-guideline.md).
+    - The [Executive Copy Drafting Principles]($).
     - The [Executive Copy Creation Checklist](https://github.com/makerdao/community/blob/master/processes/executive-copy-creation-checklist.md).
 
 ## Submit Pull Request
