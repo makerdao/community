@@ -115,7 +115,7 @@ If this executive proposal passes, then the [ESM Minimum Threshold](https://manu
 
 - The ESM Minimum Threshold will be increased by 150,000 MKR from 150,000 MKR to **300,000 MKR**.
 
-#### ESM Authorizations
+#### ESM Authorization
 
 - **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/11)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/9)
