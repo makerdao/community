@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] LITE-PSM-USDC-A Phase 1 Setup, Spark Proxy Spell - July 25, 2024
-summary: Onboard the Lightweight Peg Stability Module for Phase 1, update PSM-USDC-A DC-IAM parameters, set LITE-PSM-USDC-A DC-IAM, activate LITE_PSM_MOM GSM delay exception, perform the initial USDC migration to the LitePSM, update the GSM pause delay, update the ESM minimum threshold, add a LitePSM keeper network job, add LitePSM facility addresses to the Chainlog, and trigger the Spark Proxy Spell.
+summary: Onboard the Lightweight Peg Stability Module for Phase 1, update PSM-USDC-A DC-IAM parameters, set LITE-PSM-USDC-A DC-IAM, activate LITE_PSM_MOM GSM delay exception, perform the initial USDC migration to the LitePSM, update the GSM pause delay, update the ESM minimum threshold, authorize ESM on the LitePSM input conduit, add a LitePSM keeper network job, add LitePSM facility addresses to the Chainlog, and trigger the Spark Proxy Spell.
 date: 2024-07-25T00:00:00.000Z
 address: "$spell_address"
 
@@ -25,6 +25,7 @@ If this executive proposal passes, the following **actions** will occur within t
   - **20 million USDC** will be migrated from PSM-USDC-A to LITE-PSM-USDC-A.
   - The [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be decreased.
   - The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) [Minimum Threshold](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be increased.
+  - The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) will be authorized on the LitePSM input conduit.
   - A LitePSM Keeper Network Job will be added.
   - Six additions will be made to the [Chainlog](https://chainlog.makerdao.com).
 - A Spark Proxy Spell will be triggered at [0x18427dB17D3113309a0406284aC738f4E649613B](https://etherscan.io/address/0x18427dB17D3113309a0406284aC738f4E649613B).
@@ -113,6 +114,17 @@ If this executive proposal passes, then the [GSM Pause Delay](https://mips.maker
 If this executive proposal passes, then the [ESM Minimum Threshold](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be updated as follows:
 
 - The ESM Minimum Threshold will be increased by 150,000 MKR from 150,000 MKR to **300,000 MKR**.
+
+#### ESM Authorization
+
+- **Authorization:** [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/11)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644/9)
+
+If this executive proposal passes, then the following action will be taken:
+
+- Authorize the [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/the-emergency-shutdown-process-for-multi-collateral-dai-mcd) on `MCD_LITE_PSM_USDC_A_IN_CDT_JAR`
+
+This action addresses some attack vectors that could have been exploited during an Emergency Shutdown. The identification of these vulnerabilities has led to compensations through the bug bounty program in the past.
 
 #### LitePSM Keeper Network Job Addition
 
