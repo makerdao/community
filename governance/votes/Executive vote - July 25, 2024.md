@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] LITE-PSM-USDC-A Phase 1 Setup, Spark Proxy Spell - July 25, 2024
 summary: Onboard the Lightweight Peg Stability Module for Phase 1, update PSM-USDC-A DC-IAM parameters, set LITE-PSM-USDC-A DC-IAM, activate LITE_PSM_MOM GSM delay exception, perform the initial USDC migration to the LitePSM, update the GSM pause delay, update the ESM minimum threshold, authorize ESM on the LitePSM input conduit, add a LitePSM keeper network job, add LitePSM facility addresses to the Chainlog, and trigger the Spark Proxy Spell.
 date: 2024-07-25T00:00:00.000Z
-address: "$spell_address"
+address: "0x8c7F12C7cE07916f631B25ce148e419FeFf19d46"
 
 ---
 # [Executive Proposal] LITE-PSM-USDC-A Phase 1 Setup, Spark Proxy Spell - July 25, 2024
