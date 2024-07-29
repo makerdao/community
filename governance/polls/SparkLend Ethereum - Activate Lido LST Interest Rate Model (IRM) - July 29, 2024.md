@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to activati
 - CappedFallbackRateSource `upperBound`: **5.5%**
 - CappedFallbackRateSource `lowerBound`: **2%**
 - CappedFallbackRateSource `defaultRate`: **3%**
-- `slope 2`: 120%
+- [`slope 2`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **120%**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755) to help inform your position before voting.
 
