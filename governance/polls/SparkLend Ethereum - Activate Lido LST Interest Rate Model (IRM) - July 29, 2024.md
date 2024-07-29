@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to activating the Lido Liquid Staking (LST) yield oracle and the linked Interest Rate Model (IRM) for the ETH market on SparkLend with the following parameters:
 
-- `base rate`: **0%**
+- [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**
 - [CappedFallbackRateSource `upperBound`](https://github.com/marsfoundation/sparklend-advanced?tab=readme-ov-file#rate-sources): **5.5%**
 - [CappedFallbackRateSource `lowerBound`](https://github.com/marsfoundation/sparklend-advanced?tab=readme-ov-file#rate-sources): **2%**
@@ -38,9 +38,9 @@ The community can vote in this poll to express support or opposition to activati
 
 The following contracts will be used:
 
-Chronicle LST Oracle: [0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A](https://etherscan.io/address/0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A)
-Rate Range Enforcement: [sparklend-advanced/src/CappedFallbackRateSource.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/CappedFallbackRateSource.sol)
-IRM: [sparklend-advanced/src/RateTargetKinkInterestRateStrategy.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/RateTargetKinkInterestRateStrategy.sol)
+- Chronicle LST Oracle: [0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A](https://etherscan.io/address/0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A)
+- Rate Range Enforcement: [sparklend-advanced/src/CappedFallbackRateSource.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/CappedFallbackRateSource.sol)
+- IRM: [sparklend-advanced/src/RateTargetKinkInterestRateStrategy.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/RateTargetKinkInterestRateStrategy.sol)
 
 Please review the discussion [thread](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755) to help inform your position before voting.
 
