@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to activating the Lido LST yield oracle and the linked Interest Rate Model for the ETH market on SparkLend with the following parameters:
 
 - `base rate`: **0%**
-- `variableRateSlope1Spread`: **0%**
+- [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**
 - CappedFallbackRateSource `upperBound`: **5.5%**
 - CappedFallbackRateSource `lowerBound`: **2%**
 - CappedFallbackRateSource `defaultRate`: **3%**
