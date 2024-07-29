@@ -15,7 +15,7 @@ options:
 start_date: 2024-07-29T16:00:00
 end_date: 2024-08-01T16:00:00
 ---
-# Poll: SparkLend Ethereum - Activate Lido LST Interest Rate Model (IRM) - July 29, 2024
+# Poll: SparkLend Ethereum - Activate Lido Liquid Staking (LST) Interest Rate Model (IRM) - July 29, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, July 29 at 16:00 UTC.
 
