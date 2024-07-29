@@ -31,9 +31,9 @@ The community can vote in this poll to express support or opposition to activati
 
 - `base rate`: **0%**
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**
-- CappedFallbackRateSource `upperBound`: **5.5%**
-- CappedFallbackRateSource `lowerBound`: **2%**
-- CappedFallbackRateSource `defaultRate`: **3%**
+- [CappedFallbackRateSource `upperBound`](https://github.com/marsfoundation/sparklend-advanced?tab=readme-ov-file#rate-sources): **5.5%**
+- [CappedFallbackRateSource `lowerBound`](https://github.com/marsfoundation/sparklend-advanced?tab=readme-ov-file#rate-sources): **2%**
+- [CappedFallbackRateSource `defaultRate`](https://github.com/marsfoundation/sparklend-advanced?tab=readme-ov-file#rate-sources): **3%**
 - [`slope 2`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **120%**
 
 The following contracts will be used:
