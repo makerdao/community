@@ -85,10 +85,12 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Poll](https://vote.makerdao.com/polling/QmdFCRfK)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755/3), [Poll](https://vote.makerdao.com/polling/QmdFCRfK)
+
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755)
 
-If this executive proposal passes, a Spark Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227). The proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model for the mainnet ETH market on SparkLend with the following parameters:
+If this executive proposal passes, a Spark Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227). The proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model (IRM) for the mainnet ETH market on SparkLend with the following parameters:
+
 
 - [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
