@@ -100,7 +100,7 @@ If this executive proposal passes, the 6S Capital (RWA001-A) Stability Fee will 
 
 ### Monetalis Clydesdale and Coinbase Custody DAO Resolutions
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Forum post](https://forum.makerdao.com/t/clydesdale-vault-hq/17923/95)
 - **Proposal**: [Forum post](http://forum.makerdao.com/t/clydesdale-vault-hq/17923/88)
 
 If this executive proposal passes, the following DAO Resolution authorizing the actions needed for the winddown of the Monetalis Clydesdale and Coinbase Custody facilities will be approved:
