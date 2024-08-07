@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Bug Bounty Payments, ClipperMomJob Update, Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 8, 2024
+title: Template - [Executive Vote] Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
 summary: Pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
-date: 2024-08-08T00:00:00.000Z
+date: 2024-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Bug Bounty Payments, ClipperMomJob Update, Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 8, 2024
+# [Executive Proposal] Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
 
 The Governance Facilitators and Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -19,9 +19,9 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - A total of **110,000 DAI** will be paid to two addresses as part of the bug bounty program.
 - A new version of the Clipper Mom keeper job will be activated.
-- A total of **TBD DAI** and **TBD MKR** will be distributed to TBD Aligned Delegates as compensation for July 2024.
+- A total of **30.38 MKR** and **128,672 DAI** will be distributed to six Aligned Delegates and their teams as compensation for July 2024.
 - The 6S Capital (RWA001-A) Stability Fee will be increased to **9%**.
-- A DAO Resolution with the hash QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R for Monetalis Clydesdale will be approved.
+- A DAO Resolution with the hash [QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R](https://ipfs.io/ipfs/QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R) for Monetalis Clydesdale will be approved.
 - A Sparx Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227).
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
@@ -58,12 +58,36 @@ If this executive proposal passes, the Keeper Network's ClipperMomJob will be up
 
 The chainlog entry for CRON_CLIPPER_MOM_JOB will also be updated to the new address. The new ClipperMomJob is deployed at [0x7E93C4f61C8E8874e7366cDbfeFF934Ed089f9fF](https://etherscan.io/address/0x7E93C4f61C8E8874e7366cDbfeFF934Ed089f9fF) and the code is available on GitHub [here](https://github.com/makerdao/dss-cron/tree/clipper-mom-try-all-classes).
 
-### Aligned Delegate Compensation
+### July 2024 Aligned Delegate Compensation
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Atlas 2.6.3](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-budget-and-participation-requirements)
+- **Proposal**: Forum posts ([1](https://forum.makerdao.com/t/july-2024-aligned-delegate-payment-requests/24794), [2](https://forum.makerdao.com/t/july-2024-aligned-delegate-compensation/24818))
 
-If this executive proposal passes, then $executive_entry_3_implications.
+If this executive proposal passes, then a total of **30.38 MKR** and **128,672 DAI** will be distributed to six Aligned Delegates and their teams as compensation for July 2024.
+
+#### MKR Distributions
+
+| Delegate    | Amount (MKR) | Address                                                                                         |
+|-------------|------------------|-------------------------------------------------------------------------------------------------|
+| BLUE        | 13.75            | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Cloaky      | 12.00            | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| Byteron     | 1.25             | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| JuliaChang  | 1.25             | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
+| Rocky       | 1.13             | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
+| PBG         | 1.00             | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
+
+#### DAI Distributions
+
+| Delegate       | Amount (DAI) | Address                                                                                         |
+|----------------|--------------|-------------------------------------------------------------------------------------------------|
+| BLUE           | 54,167       | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Cloaky         | 20,417       | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| Kohla (Cloaky) | 14,172       | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
+| Ennoia (Cloaky)| 9,083        | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
+| Byteron        | 8,333        | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| JuliaChang     | 8,333        | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
+| Rocky          | 7,500        | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
+| PBG            | 6,667        | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
 
 ### 6S Capital [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Increase
 
@@ -77,7 +101,7 @@ If this executive proposal passes, the 6S Capital (RWA001-A) Stability Fee will 
 ### Monetalis Clydesdale and Coinbase Custody DAO Resolutions
 
 - **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Proposal**: [Forum post](http://forum.makerdao.com/t/clydesdale-vault-hq/17923/88)
 
 If this executive proposal passes, the following DAO Resolution authorizing the actions needed for the winddown of the Monetalis Clydesdale and Coinbase Custody facilities will be approved:
 
@@ -90,7 +114,6 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755)
 
 If this executive proposal passes, a Spark Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227). The proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model (IRM) for the mainnet ETH market on SparkLend with the following parameters:
-
 
 - [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
