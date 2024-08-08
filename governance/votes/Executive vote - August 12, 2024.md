@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
-summary: Pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
+title: Template - [Executive Vote] Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
+summary: Reduce Native Vault Stability Fees and the Dai Savings Rate, pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
 date: 2024-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
+# [Executive Proposal] Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
 
 The Governance Facilitators and Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -17,12 +17,14 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
+- Multiple Native Vault Stability Fees will be reduced.
+- The Dai Savings Rate (DSR) will be reduced.
 - A total of **110,000 DAI** will be paid to two addresses as part of the bug bounty program.
 - A new version of the Clipper Mom keeper job will be activated.
 - A total of **30.38 MKR** and **128,672 DAI** will be distributed to six Aligned Delegates and their teams as compensation for July 2024.
 - The 6S Capital (RWA001-A) Stability Fee will be increased to **9%**.
 - A DAO Resolution with the hash [QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R](https://ipfs.io/ipfs/QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R) for Monetalis Clydesdale will be approved.
-- A Sparx Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227).
+- A Spark Proxy Spell will be triggered at [$InsertNewAddress]($InsertNewLink).
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
@@ -33,6 +35,31 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+### [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Reductions
+
+- **Authorization**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834/2)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834)
+
+If this executive proposal passes, then the following Stability Fee reductions will be made:
+
+- ETH-A: Decrease Stability Fee by 1 percentage point, from 7.25% to **6.25%**.
+- ETH-B: Decrease Stability Fee by 1 percentage point, from 7.75% to **6.75%**.
+- ETH-C: Decrease Stability Fee by 1 percentage point, from 7.00% to **6.00%**.
+- WSTETH-A: Decrease Stability Fee by 1 percentage point, from 8.25% to **7.25%**.
+- WSTETH-B: Decrease Stability Fee by 1 percentage point, from 8.00% to **7.00%**.
+- WBTC-A: Decrease Stability Fee by 1 percentage point, from 8.75% to **7.75%**.
+- WBTC-B: Decrease Stability Fee by 1 percentage point, from 9.25% to **8.25%**.
+- WBTC-C: Decrease Stability Fee by 1 percentage point, from 8.50% to **7.50%**.
+
+### [Dai Savings Rate (DSR)](https://mips.makerdao.com/mips/details/MIP104#3-2-the-dai-savings-rate) Reduction
+
+- **Authorization**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834/2)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834)
+
+If this executive proposal passes, then the following reduction to the DSR will be made:
+
+- Decrease the DSR by 1 percentage point, from 7.00% to **6.00%**.
 
 ### Bug Bounty Payments
 
@@ -98,6 +125,12 @@ If this executive proposal passes, the 6S Capital (RWA001-A) Stability Fee will 
 
 - Increase the RWA001-A Stability Fee by 6 percentage points from 3% to **9%**.
 
+Please note that the onchain Stability Fee is a technical artefact and does not always represent the effective interest rate applied offchain, please see the following information from the original proposal:
+
+```
+As per the terms of the credit agreement, the rate of the loan from RWA Master Lending Trust to 6s Capital Partners LLC can increase at a maximum quarterly rate of 2.00%. As such, the Q3 2024 rate will be 3.00%; the effective rate will then change to 5.00% for Q4 2024, followed by 7.00% for Q1 2025 and 9.00% for Q2 2025 until the maturity of the loan in July 2025. This rate increase has been previously discussed with 6s, who has confirmed that the new rate is acceptable and can be supported by the underlying portfolio.
+```
+
 ### Monetalis Clydesdale and Coinbase Custody DAO Resolutions
 
 - **Authorization**: [Forum post](https://forum.makerdao.com/t/clydesdale-vault-hq/17923/95)
@@ -109,11 +142,14 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755/3), [Poll](https://vote.makerdao.com/polling/QmdFCRfK)
+If this executive proposal passes, a Spark Proxy Spell will be triggered at [$InsertNewAddress]($InsertNewLink). This proxy spell will include two items.
 
+#### [Mainnet] Lido Liquid Staking Token (LST) Yield Oracle and Linked Interest Rate Model (IRM) Activation
+
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755/3), [Poll](https://vote.makerdao.com/polling/QmdFCRfK)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755)
 
-If this executive proposal passes, a Spark Proxy Spell will be triggered at [0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227](https://etherscan.io/address/0xAFDf518d97DEA3420f007Deea2F9fBa0a28B3227). The proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model (IRM) for the mainnet ETH market on SparkLend with the following parameters:
+This proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model (IRM) for the mainnet ETH market on SparkLend with the following parameters:
 
 - [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
@@ -127,6 +163,13 @@ The following contracts will be used:
 - Chronicle LST Oracle: [0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A](https://etherscan.io/address/0x08669C836F41AEaD03e3EF81a59f3b8e72EC417A).
 - Rate Range Enforcement: [sparklend-advanced/src/CappedFallbackRateSource.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/CappedFallbackRateSource.sol).
 - IRM: [sparklend-advanced/src/RateTargetKinkInterestRateStrategy.sol at master · marsfoundation/sparklend-advanced · GitHub](https://github.com/marsfoundation/sparklend-advanced/blob/master/src/RateTargetKinkInterestRateStrategy.sol).
+
+#### [Mainnet] Spark Effective DAI Borrow Rate Reduction
+
+- **Authorization**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834/2)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834)
+
+- Decrease the Spark Effective DAI Borrow Rate by 1 percentage point, from 8.00% to **7.00%**.
 
 ## Review
 
