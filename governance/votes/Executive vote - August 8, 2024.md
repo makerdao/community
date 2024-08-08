@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 If this executive proposal passes, then the following payments as part of the bug bounty program will be distributed.
 
 - **100,000 DAI** will be transferred to [0xA4a6B5f005cBd2eD38f49ac496d86d3528C7a1aa](https://etherscan.io/address/0xA4a6B5f005cBd2eD38f49ac496d86d3528C7a1aa).
-- **10,000 DAI** will be transferred to [0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18 (immunefi.eth)](0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18).
+- **10,000 DAI** will be transferred to [0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18 (immunefi.eth)](https://etherscan.io/address/0x7119f398b6C06095c6E8964C1f58e7C1BAa79E18).
 
 A technical explanation of the rationale for the bug bounty payment can be found in this [forum comment](https://forum.makerdao.com/t/bounty-payout-request-for-immunefi-bug-32005/24605/3).
 
