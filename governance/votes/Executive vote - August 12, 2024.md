@@ -121,7 +121,8 @@ If this executive proposal passes, then a total of **30.38 MKR** and **128,672 D
 - **Authorization**: [Forum post](https://forum.makerdao.com/t/rwa-001-6s-capital-update-and-stability-fee-proposal/24624/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/rwa-001-6s-capital-update-and-stability-fee-proposal/24624/)
 
-If this executive proposal passes, the 6S Capital (RWA001-A) Stability Fee will be increased as follows:
+If this executive proposal passes, the [6S Capital (RWA001-A)](https://makerburn.com/#/collateral/RWA001-A) Stability Fee will be increased as follows:
+
 
 - Increase the RWA001-A Stability Fee by 6 percentage points from 3% to **9%**.
 
@@ -149,7 +150,8 @@ If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x4
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755/3), [Poll](https://vote.makerdao.com/polling/QmdFCRfK)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755)
 
-This proxy spell will activate the Lido Liquid Staking Token (LST) yield oracle and the linked Interest Rate Model (IRM) for the mainnet ETH market on SparkLend with the following parameters:
+This proxy spell will activate the Lido LST yield oracle and the linked IRM for the mainnet ETH market on SparkLend with the following parameters:
+
 
 - [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
