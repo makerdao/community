@@ -43,7 +43,7 @@ A brief summary of this proposal has been provided by the MIP Author and is show
 
 Please review the links below to inform your position on this proposal before voting.
 
-- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/f7a845a35b74a8e651f48165bc2f8a15dd751b98/MIP102/MIP102c2-Subproposals/MIP102c2-SP36.md)
+- [Canonical Proposal Version](https://github.com/makerdao/mips/blob/0b14eb18f934a50ac9c8e824aaac127eaeb4080f/MIP102/MIP102c2-Subproposals/MIP102c2-SP36.md)
 - [Latest Proposal Version](https://mips.makerdao.com/mips/details/MIP102c2SP36)
 - [Proposal Discussion Thread](https://forum.makerdao.com/t/mip102c2-sp36-mip-amendment-subproposal/24382)
 - [Amendment Pull Request](https://github.com/makerdao/mips/pull/1121)
