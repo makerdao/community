@@ -11,7 +11,7 @@ Complete before the first poll submission.
 
 **Recommended**
 - [ ] Do you have write access to the poll tag sheet [here](https://docs.google.com/spreadsheets/d/1cgjUsVDyDtz8XoxEVQanTc0NZ84CMBZ4sfX_smJl2Kg/edit)? 
-- [ ] Do you have write access to the Governance Tracker sheet [here](https://docs.google.com/spreadsheets/d/1LWNlv6hr8oXebk8rvXZBPRVDjN-3OrzI0IgLwBVk0vM/edit#gid=0)?
+- [ ] Do you have write access to the Governance Tracker sheet [here](https://docs.google.com/spreadsheets/d/1Bk9osLANN8wNd9Ky9mYaR7-n89Q3J1LQrJnP8kH3m4Q/edit?gid=0#gid=0)?
 
 ## Submission
 
@@ -51,5 +51,5 @@ Complete once.
 
 - [ ] Check that all the polls you expected to be active are active.
 - [ ] Communicate weekly polls to the #governance channel in the official MakerDAO discord.
-- [ ] Update [Governance Tracker sheet](https://docs.google.com/spreadsheets/d/1LWNlv6hr8oXebk8rvXZBPRVDjN-3OrzI0IgLwBVk0vM/edit#gid=0) with new live polls
+- [ ] Update [Governance Tracker sheet](https://docs.google.com/spreadsheets/d/1Bk9osLANN8wNd9Ky9mYaR7-n89Q3J1LQrJnP8kH3m4Q/edit?gid=0#gid=0) with new live polls
 
