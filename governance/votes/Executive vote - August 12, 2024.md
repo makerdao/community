@@ -24,7 +24,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - A total of **30.38 MKR** and **128,672 DAI** will be distributed to six Aligned Delegates and their teams as compensation for July 2024.
 - The 6S Capital (RWA001-A) Stability Fee will be increased to **9%**.
 - A DAO Resolution with the hash [QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R](https://ipfs.io/ipfs/QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R) for Monetalis Clydesdale will be approved.
-- A Spark Proxy Spell will be triggered at [$InsertNewAddress]($InsertNewLink).
+- A Spark Proxy Spell will be triggered at [0x4622245a1aaf0fb752F9cAC0A29616792b33F089](https://etherscan.io/address/0x4622245a1aaf0fb752F9cAC0A29616792b33F089).
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
@@ -142,7 +142,7 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 
 ### Spark Proxy Spell
 
-If this executive proposal passes, a Spark Proxy Spell will be triggered at [$InsertNewAddress]($InsertNewLink). This proxy spell will include two items.
+If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x4622245a1aaf0fb752F9cAC0A29616792b33F089](https://etherscan.io/address/0x4622245a1aaf0fb752F9cAC0A29616792b33F089). This proxy spell will include two items.
 
 #### [Mainnet] Lido Liquid Staking Token (LST) Yield Oracle and Linked Interest Rate Model (IRM) Activation
 
