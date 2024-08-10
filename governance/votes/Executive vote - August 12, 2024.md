@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
-summary: Reduce Native Vault Stability Fees and the Dai Savings Rate, pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
+title: Template - [Executive Vote] WBTC Vault Maximum Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
+summary: Reduce Maximum Debt Ceiling for WBTC Vaults, Reduce Native Vault Stability Fees and the Dai Savings Rate, pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
 date: 2024-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
+# [Executive Proposal] WBTC Vault Maximum Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
 
 The Governance Facilitators and Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -17,6 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
+- The Maximum Debt Ceiling for all WBTC vaults sill be reduced.
 - Multiple Native Vault Stability Fees will be reduced.
 - The Dai Savings Rate (DSR) will be reduced.
 - A total of **110,000 DAI** will be paid to two addresses as part of the bug bounty program.
@@ -24,7 +25,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - A total of **30.38 MKR** and **128,672 DAI** will be distributed to six Aligned Delegates and their teams as compensation for July 2024.
 - The 6S Capital (RWA001-A) Stability Fee will be increased to **9%**.
 - A DAO Resolution with the hash [QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R](https://ipfs.io/ipfs/QmaYKt61v6aCTNTYjuHm1Wjpe6JWBzCW2ZHR4XDEJhjm1R) for Monetalis Clydesdale will be approved.
-- A Spark Proxy Spell will be triggered at [0x4622245a1aaf0fb752F9cAC0A29616792b33F089](https://etherscan.io/address/0x4622245a1aaf0fb752F9cAC0A29616792b33F089).
+- A Spark Proxy Spell will be triggered at [$Spark_address](https://etherscan.io/address/$Spark_address).
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
@@ -35,6 +36,17 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+### WBTC Vault [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) Reductions
+
+- **Authorization**: [Forum post](http://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/2)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844)
+
+If this executive proposal passes, the following Maximum Debt Ceiling reductions will be made:
+
+- WBTC-A: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,00 DAI to **0 DAI**.
+- WBTC-B: Decrease Maximum Debt Ceiling (`line`) by 250,000,000 DAI from 250,000,00 DAI to **0 DAI**.
+- WBTC-C: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,00 DAI to **0 DAI**.
 
 ### [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Reductions
 
@@ -123,12 +135,11 @@ If this executive proposal passes, then a total of **30.38 MKR** and **128,672 D
 
 If this executive proposal passes, the [6S Capital (RWA001-A)](https://makerburn.com/#/collateral/RWA001-A) Stability Fee will be increased as follows:
 
-
 - Increase the RWA001-A Stability Fee by 6 percentage points from 3% to **9%**.
 
 Please note that the onchain Stability Fee is a technical artefact and does not always represent the effective interest rate applied offchain, please see the following information from the original proposal:
 
-```
+```text
 As per the terms of the credit agreement, the rate of the loan from RWA Master Lending Trust to 6s Capital Partners LLC can increase at a maximum quarterly rate of 2.00%. As such, the Q3 2024 rate will be 3.00%; the effective rate will then change to 5.00% for Q4 2024, followed by 7.00% for Q1 2025 and 9.00% for Q2 2025 until the maturity of the loan in July 2025. This rate increase has been previously discussed with 6s, who has confirmed that the new rate is acceptable and can be supported by the underlying portfolio.
 ```
 
@@ -143,7 +154,7 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 
 ### Spark Proxy Spell
 
-If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x4622245a1aaf0fb752F9cAC0A29616792b33F089](https://etherscan.io/address/0x4622245a1aaf0fb752F9cAC0A29616792b33F089). This proxy spell will include two items.
+If this executive proposal passes, a Spark Proxy Spell will be triggered at [$Spark_address](https://etherscan.io/address/$Spark_address). This proxy spell will include two items.
 
 #### [Mainnet] Lido Liquid Staking Token (LST) Yield Oracle and Linked Interest Rate Model (IRM) Activation
 
@@ -151,7 +162,6 @@ If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x4
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/jul-27-2024-proposed-changes-to-spark-for-upcoming-spell/24755)
 
 This proxy spell will activate the Lido LST yield oracle and the linked IRM for the mainnet ETH market on SparkLend with the following parameters:
-
 
 - [`base rate`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
 - [`variableRateSlope1Spread`](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#variable-interest-rate-model-parameters): **0%**.
@@ -171,7 +181,19 @@ The following contracts will be used:
 - **Authorization**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/stability-scope-parameter-changes-15-sfs-dsr-spark-effective-dai-borrow-rate-reduction/24834)
 
+This proxy spell will make the following change to the SparkLend Effective DAI Borrow Rate on mainnet:
+
 - Decrease the Spark Effective DAI Borrow Rate by 1 percentage point, from 8.00% to **7.00%**.
+
+#### [Mainnet] WBTC Risk Mitigations
+
+- **Authorization**: [Forum post](http://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/2)
+- **Proposal**: [Forum post](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844)
+
+This proxy spell will make the following changes to SparkLend on mainnet:
+
+- Disable WBTC borrowing.
+- Reduce WBTC [Loan-to-Value (LTV)](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value) by 74 percentage points from 74% to **0%**.
 
 ## Review
 
