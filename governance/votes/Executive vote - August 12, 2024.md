@@ -1,6 +1,7 @@
 ---
 title: Template - [Executive Vote] WBTC Vault Maximum Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
-summary: Reduce Maximum Debt Ceiling for WBTC Vaults, Reduce Native Vault Stability Fees and the Dai Savings Rate, pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
+summary: Reduce Maximum Debt Ceiling for WBTC Vaults, reduce Native Vault Stability Fees and the Dai Savings Rate (DSR), pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
+
 date: 2024-08-12T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,7 +18,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
-- The Maximum Debt Ceiling for all WBTC vaults sill be reduced.
+- The Maximum Debt Ceiling for all WBTC vaults will be reduced.
+
 - Multiple Native Vault Stability Fees will be reduced.
 - The Dai Savings Rate (DSR) will be reduced.
 - A total of **110,000 DAI** will be paid to two addresses as part of the bug bounty program.
@@ -44,9 +46,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, the following Maximum Debt Ceiling reductions will be made:
 
-- WBTC-A: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,00 DAI to **0 DAI**.
-- WBTC-B: Decrease Maximum Debt Ceiling (`line`) by 250,000,000 DAI from 250,000,00 DAI to **0 DAI**.
-- WBTC-C: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,00 DAI to **0 DAI**.
+- WBTC-A: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,000 DAI to **0 DAI**.
+
+- WBTC-B: Decrease Maximum Debt Ceiling (`line`) by 250,000,000 DAI from 250,000,000 DAI to **0 DAI**.
+
+- WBTC-C: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,000 DAI to **0 DAI**.
+
 
 ### [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Reductions
 
@@ -154,7 +159,8 @@ If this executive proposal passes, the following DAO Resolution authorizing the 
 
 ### Spark Proxy Spell
 
-If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x85042d44894E08f81D70A2Ae568C09f907297dcb](https://etherscan.io/address/0x85042d44894E08f81D70A2Ae568C09f907297dcb). This proxy spell will include two items.
+If this executive proposal passes, a Spark Proxy Spell will be triggered at [0x85042d44894E08f81D70A2Ae568C09f907297dcb](https://etherscan.io/address/0x85042d44894E08f81D70A2Ae568C09f907297dcb). This proxy spell will include three items.
+
 
 #### [Mainnet] Lido Liquid Staking Token (LST) Yield Oracle and Linked Interest Rate Model (IRM) Activation
 
