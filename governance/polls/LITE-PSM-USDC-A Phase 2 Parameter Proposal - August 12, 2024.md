@@ -52,15 +52,15 @@ The community can vote in this poll to express support or opposition to making t
     - [`tin`](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) & [`tout`](https://manual.makerdao.com/module-index/module-psm#fee-out-tout): **0** (remains unchanged).
     - [DC-IAM `line` (Maximum Debt Ceiling)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-): Increase by 7.45 billion DAI, from 50 million DAI to **7.5 billion DAI**.
     - [DC-IAM `gap` (Target Available Debt)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-): Increase by 180 million DAI, from 20 million DAI to **200 million DAI**.
-    - [DC-IAM `ttl` (Ceiling Increase Cooldown)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-3-ceiling-increase-cooldown-ttl-): Set to **12 hours** (remains unchanged).
+    - [DC-IAM `ttl` (Ceiling Increase Cooldown)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-3-ceiling-increase-cooldown-ttl-): **12 hours** (remains unchanged).
     - [`buf`](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512#lite-psm-usdc-a-parameters-overview-8): Increase by 180 million DAI, from 20 million DAI to **200 million DAI**.
 - [GSM Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay): Increase by 14 hours, from 16 hours to **30 hours**.
   - Update [Governance Scope, article 10.1.A](https://mips.makerdao.com/mips/details/MIP113#10-1-1a) accordingly.
 
 - A new KeeperJob will be deployed with the following parameters:
-    - `fill`: The `rushThreshold` will be set to **20M DAI**
-    - `trim`: The `gushThreshold` will be set to **20M DAI**
-    - `chug`: The `cutThreshold` will be set to **300K DAI**
+    - `fill`: The `rushThreshold` will be set to **20 million DAI**
+    - `trim`: The `gushThreshold` will be set to **20 million DAI**
+    - `chug`: The `cutThreshold` will be set to **300,000 DAI**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839) to help inform your position before voting.
 
