@@ -4496,5 +4496,19 @@
     "high-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1127": [
+    "high-impact",
+    "mips"
+  ],
+  "1128": [
+    "high-impact",
+    "risk-parameter",
+    "psm"
+  ],
+  "1129": [
+    "high-impact",
+    "ratification",
+    "mips"
   ]
 }
