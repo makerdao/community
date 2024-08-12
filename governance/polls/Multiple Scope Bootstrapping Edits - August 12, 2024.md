@@ -17,7 +17,7 @@ end_date: 2024-08-15T16:00:00
 ---
 # Poll: Multiple Scope Bootstrapping Edits - August 12, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.12.1.2](https://mips.makerdao.com/mips/details/MIP113#12-1-2). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday,August 12 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system using their powers defined in [MIP113.12.1.2](https://mips.makerdao.com/mips/details/MIP113#12-1-2). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 12 at 16:00 UTC.
 
 **This is a binary vote.**
 
