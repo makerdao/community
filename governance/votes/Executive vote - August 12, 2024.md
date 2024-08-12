@@ -1,12 +1,12 @@
 ---
-title: Template - [Executive Vote] WBTC Vault Maximum Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
-summary: Reduce Maximum Debt Ceiling for WBTC Vaults, reduce Native Vault Stability Fees and the Dai Savings Rate (DSR), pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
+title: Template - [Executive Vote] WBTC Vault Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
+summary: Reduce Debt Ceiling for WBTC Vaults, reduce Native Vault Stability Fees and the Dai Savings Rate (DSR), pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
 
 date: 2024-08-12T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] WBTC Vault Maximum Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
+# [Executive Proposal] WBTC Vault Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolution, Spark Proxy Spell - August 12, 2024
 
 The Governance Facilitators and Sidestream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -18,8 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
-- The Maximum Debt Ceiling for all WBTC vaults will be reduced.
-
+- The Debt Ceiling for all WBTC vaults will be reduced.
 - Multiple Native Vault Stability Fees will be reduced.
 - The Dai Savings Rate (DSR) will be reduced.
 - A total of **110,000 DAI** will be paid to two addresses as part of the bug bounty program.
@@ -39,19 +38,19 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### WBTC Vault [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) Reductions
+### WBTC Vault Debt Ceiling Reductions
 
 - **Authorization**: [Forum post](http://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/2)
 - **Proposal**: [Forum post](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844)
 
-If this executive proposal passes, the following Maximum Debt Ceiling reductions will be made:
+If this executive proposal passes, the following changes will be made:
 
-- WBTC-A: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,000 DAI to **0 DAI**.
+- WBTC-A, WBTC-B, and WBTC-C will be **removed** from the [Debt Ceiling Instant Access Module (DC-IAM)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-debt-ceiling-instant-access-module-dc-iam-).
+- WBTC-A Debt Ceiling will be set to **0 DAI**.
+- WBTC-B Debt Ceiling will be set to **0 DAI**.
+- WBTC-C Debt Ceiling will be set to **0 DAI**.
 
-- WBTC-B: Decrease Maximum Debt Ceiling (`line`) by 250,000,000 DAI from 250,000,000 DAI to **0 DAI**.
-
-- WBTC-C: Decrease Maximum Debt Ceiling (`line`) by 500,000,000 DAI from 500,000,000 DAI to **0 DAI**.
-
+These changes will prevent further borrowing from these vaults but existing positions will not be liquidated.
 
 ### [Stability Fee](https://mips.makerdao.com/mips/details/MIP104#14-3-1-3-stability-fee-sf-) Reductions
 
