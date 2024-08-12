@@ -57,6 +57,11 @@ The community can vote in this poll to express support or opposition to making t
 - [GSM Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay): Increase by 14 hours, from 16 hours to **30 hours**.
   - Update [Governance Scope, article 10.1.A](https://mips.makerdao.com/mips/details/MIP113#10-1-1a) accordingly.
 
+- A new KeeperJob will be deployed with the following parameters:
+    - `fill`: The `rushThreshold` will be set to 20M DAI
+    - `trim`: The `gushThreshold` will be set to 20M DAI
+    - `chug`: The `cutThreshold` will be set to 300K DAI
+
 Please review the discussion [thread](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839) to help inform your position before voting.
 
 ## Outcomes
