@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] LITE-PSM-USDC-A Phase 2 Setup - August 22, 2024
 summary: Update PSM State Variable in Conduit contracts to MCD_LITE_PSM_USDC_A, USDC Migration from PSM-USDC-A to LITE-PSM-USDC-A, Update PSM-USDC-A Fees, Update PSM-USDC-A DC-IAM, Update MCD_LITE_PSM_USDC_A buf, Update LITE-PSM-USDC-A DC-IAM, GSM Delay Update, Update LitePSM Keeper Network Job.
-date: $2024-08-22T00:00:00.000Z
+date: 2024-08-22T00:00:00.000Z
 address: "$spell_address"
 
 ---
