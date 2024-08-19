@@ -100,7 +100,7 @@ If this executive proposal passes, then the MCD_LITE_PSM_USDC_A fixed-sized amou
 
 If this executive proposal passes, then the LITE-PSM-USDC-A DC-IAM will be updated as follows:
 
-- LITE-PSM-USDC-DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be increased by 7,450 million DAI from 50 million DAI to **7,500 million DAI**.
+- LITE-PSM-USDC-A DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be increased by 7,450 million DAI from 50 million DAI to **7,500 million DAI**.
 - LITE-PSM-USDC-A DC-IAM [Target Available Debt (`gap`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) will be increased by 180 million DAI from 20 million DAI to **200 million DAI**.
 - LITE-PSM-USDC-A DC-IAM [Ceiling Increase Cooldown (`ttl`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-3-ceiling-increase-cooldown-ttl-) will remain unchanged at **12 hours**.
 
