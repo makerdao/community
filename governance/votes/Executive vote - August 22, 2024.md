@@ -18,7 +18,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
 - The PSM state variables in the conduit contracts will be updated to MCD_LITE_PSM_USDC_A.
-- Migrate **all but 200 million USDC reserves** from PSM-USDC-A to LITE-PSM-USDC-A.
+- **All but 200 million USDC reserves** will be migrated from PSM-USDC-A to LITE-PSM-USDC-A.
 - PSM-USDC-A fees will be updated.
 - PSM-USDC-A DC-IAM parameters will be updated.
 - MCD_LITE_PSM_USDC_A `buf` will be increased.
@@ -68,7 +68,7 @@ If this executive proposal passes, **all but 200 million USDC reserves** from PS
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
-If this executive proposal passes, then PSM-USDC-A fees will be updated as follows:
+If this executive proposal passes, then the PSM-USDC-A fees will be updated as follows:
 
 - PSM-USDC-A [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) will be increased by 0.01 percentage points from 0% to **0.01%**.
 - PSM-USDC-A [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) will be increased by 0.01 percentage points from 0% to **0.01%**.
@@ -89,7 +89,7 @@ If this executive proposal passes, then the PSM-USDC-A DC-IAM parameters below w
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
-If this executive proposal passes, then the MCD_LITE_PSM_USDC_A fixed-sized amount of pre-minted Dai will be increased as follows:
+If this executive proposal passes, then the MCD_LITE_PSM_USDC_A fixed-sized amount of pre-minted Dai (`buf`) will be increased as follows:
 
 - MCD_LITE_PSM_USDC_A [Fixed-sized Amount of Pre-minted Dai (`buf`)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512#lite-psm-usdc-a-parameters-overview-8) will be increased by 180 million DAI from 20 million DAI to **200 million DAI**.
 
@@ -118,13 +118,13 @@ If this executive proposal passes, the [GSM Pause Delay](https://mips.makerdao.c
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
-If this executive proposal passes, then the LitePSM Keeper Network Job will be updated with the following contract calls and parameters as a consequence of the LITE-PSM-USDC-A DC-IAM and `buf` parameter changes described earlier in this document:
+If this executive proposal passes, then the LitePSM Keeper Network Job will be updated with the following contract calls and parameters, as a consequence of the LITE-PSM-USDC-A DC-IAM and `buf` parameter changes described earlier in this document:
 
 - The old LitePSM job will be removed from the CronSequencer through contract call `sequencer.removejob(0x689cE517a4DfCf0C5eC466F2757D324fc292C8Be)`.
 - The new LitePSM job will be added to the CronSequencer through contract call `sequencer.addjob(0x0c86162ba3e507592fc8282b07cf18c7f902c401)`.
 - [`fill`](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): The [rushThreshold](https://forum.makerdao.com/t/litepsm-job-post-mortem/24841#solution-4) will be set to **20 million DAI**.
 - [`trim`](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): The [gushThreshold](https://forum.makerdao.com/t/litepsm-job-post-mortem/24841#solution-4) will be set to **20 million DAI**.
-- [`chug`](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): The [cutThreshold](https://forum.makerdao.com/t/litepsm-job-post-mortem/24841#solution-4) will be remain unchanged at **300,000 DAI**.
+- [`chug`](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-1-test-period-proposed-parameters/24644#keeper-network-threshold-parameters-4): The [cutThreshold](https://forum.makerdao.com/t/litepsm-job-post-mortem/24841#solution-4) will remain unchanged at **300,000 DAI**.
 - The chainlog entry for [CRON_LITE_PSM_JOB](https://etherscan.io/address/0x689ce517a4dfcf0c5ec466f2757d324fc292c8be) will be updated to [0x0c86162ba3e507592fc8282b07cf18c7f902c401](https://etherscan.io/address/0x0c86162ba3e507592fc8282b07cf18c7f902c401).
 
 The new LitePSM job meets all the requirements outlined in the [LitePSM Job Post-Mortem](https://forum.makerdao.com/t/litepsm-job-post-mortem/24841).
