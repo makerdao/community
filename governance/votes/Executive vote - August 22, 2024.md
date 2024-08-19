@@ -80,7 +80,7 @@ If this executive proposal passes, then PSM-USDC-A fees will be updated as follo
 
 If this executive proposal passes, then the PSM-USDC-A DC-IAM parameters below will be updated as follows:
 
-- PSM-USDC-DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be decreased by 7,500 million DAI from 10,000 million DAI to **2,500 million DAI**.
+- PSM-USDC-A DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be decreased by 7,500 million DAI from 10,000 million DAI to **2,500 million DAI**.
 - PSM-USDC-A DC-IAM [Target Available Debt (`gap`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) will be decreased by 180 million DAI from 380 million DAI to **200 million DAI**.
 - PSM-USDC-A DC-IAM [Ceiling Increase Cooldown (`ttl`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-3-ceiling-increase-cooldown-ttl-) will remain unchanged at **12 hours**.
 
