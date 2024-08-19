@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] LITE-PSM-USDC-A Phase 2 Setup - August 22, 2024
-summary: Update PSM State Variable in Conduit contracts to MCD_LITE_PSM_USDC_A, USDC Migration from PSM-USDC-A to LITE-PSM-USDC-A, Update PSM-USDC-A Fees, Update PSM-USDC-A DC-IAM, Update MCD_LITE_PSM_USDC_A buf, Update LITE-PSM-USDC-A DC-IAM, GSM Delay Update, Update LitePSM Keeper Network Job.
+summary: Update PSM State Variable in conduit contracts to MCD_LITE_PSM_USDC_A, USDC Migration from PSM-USDC-A to LITE-PSM-USDC-A, update PSM-USDC-A Fees, update PSM-USDC-A DC-IAM, update MCD_LITE_PSM_USDC_A buf, update LITE-PSM-USDC-A DC-IAM, GSM Delay update, update LitePSM Keeper Network Job.
 date: 2024-08-22T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,13 +17,13 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 
-- The PSM state variables in the conduit contracts will be updated to the MCD_LITE_PSM_USDC_A.
-- **200 million USDC** reserves in PSM-USDC-A will be migrated to LITE-PSM-USDC-A.
+- The PSM state variables in the conduit contracts will be updated to MCD_LITE_PSM_USDC_A.
+- Migrate **all but 200 million USDC reserves** from PSM-USDC-A to LITE-PSM-USDC-A.
 - PSM-USDC-A fees will be updated.
-- PSM-USDC-A DC-IAM will be updated.
-- MCD_LITE_PSM_USDC_A `buf` will be updated.
-- MCD_LITE_PSM_USDC_A DC-IAM will be updated.
-- The GSM Delay will be updated.
+- PSM-USDC-A DC-IAM parameters will be updated.
+- MCD_LITE_PSM_USDC_A `buf` will be increased.
+- MCD_LITE_PSM_USDC_A DC-IAM parameters will be updated.
+- The GSM Delay will be increased.
 - The LitePSM Keeper Network Job will be updated.
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
@@ -61,7 +61,7 @@ If this executive proposal passes, then the PSM state variables in the following
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
-If this executive proposal passes, then the remaining **200 million USDC** in reserve in PSM-USDC-A will be migrated to LITE-PSM-USDC-A.
+If this executive proposal passes, **all but 200 million USDC reserves** from PSM-USDC-A will be migrated to LITE-PSM-USDC-A.
 
 ### Update PSM-USDC-A Fees
 
@@ -73,7 +73,7 @@ If this executive proposal passes, then PSM-USDC-A fees will be updated as follo
 - PSM-USDC-A [Fee In (`tin`)](https://manual.makerdao.com/module-index/module-psm#fee-in-tin) will be increased by 0.01 percentage points from 0% to **0.01%**.
 - PSM-USDC-A [Fee Out (`tout`)](https://manual.makerdao.com/module-index/module-psm#fee-out-tout) will be increased by 0.01 percentage points from 0% to **0.01%**.
 
-### Update PSM-USDC-A DC-IAM
+### Update PSM-USDC-A DC-IAM Parameters
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
@@ -93,14 +93,14 @@ If this executive proposal passes, then the MCD_LITE_PSM_USDC_A fixed-sized amou
 
 - [Fixed-sized Amount of Pre-minted Dai (`buf`)](https://forum.makerdao.com/t/litepsm-lite-psm-usdc-a-introduction-and-overview/24512#lite-psm-usdc-a-parameters-overview-8) will be increased by 180 million DAI from 20 million DAI to **200 million DAI**.
 
-### Update LITE-PSM-USDC-A DC-IAM
+### Update LITE-PSM-USDC-A DC-IAM Parameters
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
 If this executive proposal passes, then the LITE-PSM-USDC-A DC-IAM will be updated as follows:
 
-- LITE-PSM-USDC-DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be incresed by 7,450 million DAI from 50 million DAI to **7,500 million DAI**.
+- LITE-PSM-USDC-DC-IAM [Maximum Debt Ceiling (`line`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be increased by 7,450 million DAI from 50 million DAI to **7,500 million DAI**.
 - LITE-PSM-USDC-A DC-IAM [Target Available Debt (`gap`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-2-target-available-debt-gap-) will be increased by 180 million DAI from 20 million DAI to **200 million DAI**.
 - LITE-PSM-USDC-A DC-IAM [Ceiling Increase Cooldown (`ttl`)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-3-ceiling-increase-cooldown-ttl-) will remain unchanged at **12 hours**.
 
