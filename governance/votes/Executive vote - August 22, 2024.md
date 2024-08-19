@@ -106,7 +106,7 @@ If this executive proposal passes, then the LITE-PSM-USDC-A DC-IAM will be updat
 
 ### Update GSM Delay
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/2), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
+- **Authorization**: [Governance Facilitator Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839/3), [Poll 1128](https://vote.makerdao.com/polling/QmU7XJ6X)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-2-major-migration-proposed-parameters/24839)
 
 If this executive proposal passes, the [GSM Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be updated as follows:
