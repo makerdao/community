@@ -22,7 +22,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - PSM-USDC-A fees will be updated.
 - PSM-USDC-A DC-IAM parameters will be updated.
 - MCD_LITE_PSM_USDC_A `buf` will be increased.
-- MCD_LITE_PSM_USDC_A DC-IAM parameters will be updated.
+- LITE-PSM-USDC-A DC-IAM parameters will be updated.
 - The GSM Delay will be increased.
 - The LitePSM Keeper Network Job will be updated.
 
