@@ -1,6 +1,6 @@
 ---
 name: vigilant
-external_profile_url: https://forum.makerdao.com/t/vision-ad-recognition-submission/21777
+external_profile_url: https://forum.makerdao.com/t/cd-recognition-submission-vigilant/20457
 ---
 
 # vigilant

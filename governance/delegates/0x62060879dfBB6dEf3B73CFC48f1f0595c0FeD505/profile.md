@@ -1,6 +1,6 @@
 ---
 name: Pf
-external_profile_url:
+external_profile_url: https://forum.makerdao.com/t/pf-recognition-submission/20520
 ---
 
 # Pf
