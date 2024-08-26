@@ -46,6 +46,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/aug-23-2024-p
 
 ## Resources
 
+Additional information about the WBTC Changes and Risk Mitigation can be found in this [post](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844).
+
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
