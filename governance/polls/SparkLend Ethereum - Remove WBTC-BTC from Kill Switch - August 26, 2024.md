@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to removing the WBTC/BTC kill switch, as it is no longer necessary since new borrowings from accounts with WBTC collateral are not possible.
+The community can vote in this poll to express support or opposition to removing the WBTC/BTC kill switch, as it is no longer necessary to prevent additional borrowing in cases where WBTC depegs since new borrowings from accounts with WBTC collateral are not possible.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/aug-23-2024-proposal-changes-to-spark-for-upcoming-spell/24940) to help inform your position before voting.
 
