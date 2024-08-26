@@ -4514,5 +4514,14 @@
   "1130": [
     "high-impact",
     "mips"
+  ],
+  "1131": [
+    "medium-impact",
+    "spark"
+  ],
+  "1132": [
+    "high-impact",
+    "oracle",
+    "spark"
   ]
 }
