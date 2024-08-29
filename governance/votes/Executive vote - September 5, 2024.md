@@ -55,7 +55,7 @@ The WBTC/BTC pair will be removed from the Spark Kill Switch, following the prev
 
 If this executive proposal passes, the following transfers to the Launch Project will be made:
 
-- Transfer **9,535,994 DAI** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **9,535,993 DAI** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - Transfer **2,630 MKR** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ## Review
