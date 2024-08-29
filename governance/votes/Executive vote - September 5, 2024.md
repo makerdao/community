@@ -16,9 +16,8 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
-- A Spark Proxy Spell will be triggered at [0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241](https://etherscan.io/address/0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241).
 - **9,535,993 DAI** and **2,630 MKR** will be transferred to the Launch Project.
-
+- A Spark Proxy Spell will be triggered at [0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241](https://etherscan.io/address/0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241).
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
@@ -28,10 +27,19 @@ This executive proposal includes an office-hours modifier that means that it **c
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
 
-
 ---
 
 ## Proposal Details
+
+### Launch Project Funding
+
+- **Authorization**: [Accessibility Scope 9.1](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget)
+- **Proposal**: [Forum Post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/22)
+
+If this executive proposal passes, the following transfers to the Launch Project will be made:
+
+- Transfer **9,535,993 DAI** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **2,630 MKR** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### Spark Proxy Spell
 
@@ -47,16 +55,6 @@ The oracles for ETH, wstETH, rETH, and weETH markets will be upgraded to use Agg
 #### [Mainnet] Remove WBTC/BTC from Kill Switch
 
 The WBTC/BTC pair will be removed from the Spark Kill Switch, following the previous decision to halt new borrowing of WBTC, as detailed in this [forum post](https://forum.makerdao.com/t/aug-23-2024-proposal-changes-to-spark-for-upcoming-spell/24940#p-98553-mainnet-remove-wbtcbtc-from-kill-switch-4).
-
-### Launch Project Funding
-
-- **Authorization**: [Accessibility Scope 9.1](https://mips.makerdao.com/mips/details/MIP108#9-1-launch-project-budget)
-- **Proposal**: [Forum Post](https://forum.makerdao.com/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/22)
-
-If this executive proposal passes, the following transfers to the Launch Project will be made:
-
-- Transfer **9,535,993 DAI** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
-- Transfer **2,630 MKR** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ## Review
 
