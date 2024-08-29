@@ -22,7 +22,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
 
-Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**16 hours**](https://mips.makerdao.com/mips/details/MIP113#10-1-1a).
+Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**30 hours**](https://mips.makerdao.com/mips/details/MIP113#10-1-1a).
 
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
