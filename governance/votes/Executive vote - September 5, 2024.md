@@ -17,7 +17,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 If this executive proposal passes, the following **actions** will occur within the Maker Protocol:
 - A Spark Proxy Spell will be triggered at [0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241](https://etherscan.io/address/0x668C84584Ef8EeEd6BFb4FFB2a4Fa03231F8b241).
-- **9,535,994 DAI** and **2,630 MKR** will be transferred to the Launch Project.
+- **9,535,993 DAI** and **2,630 MKR** will be transferred to the Launch Project.
 
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
