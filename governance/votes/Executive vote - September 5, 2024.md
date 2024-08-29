@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Spark Proxy Spell and Launch Project Funding - September 5, 2024
-summary: Trigger Spark Proxy Spell and transfer DAI and MKR to Launch Project. 
+title: Template - [Executive Vote] Launch Project Funding and Spark Proxy Spell - September 5, 2024
+summary: Transfer DAI and MKR to Launch Project and trigger Spark Proxy Spell. 
 date: 2024-09-05T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Spark Proxy Spell and Launch Project Funding - September 5, 2024
+# [Executive Proposal] Launch Project Funding and Spark Proxy Spell - September 5, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
