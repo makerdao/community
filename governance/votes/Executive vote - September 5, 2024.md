@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Launch Project Funding and Spark Proxy Spell - September 5, 2024
 summary: Transfer DAI and MKR to Launch Project and trigger Spark Proxy Spell. 
 date: 2024-09-05T00:00:00.000Z
-address: "$spell_address"
+address: "0x900c952c676595DdB392FA6349aD5f0674a67Eeb"
 
 ---
 # [Executive Proposal] Launch Project Funding and Spark Proxy Spell - September 5, 2024
