@@ -77,6 +77,12 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 - sky address, `0x56072C95FAA701256059aa122697B133aDEd9279`, under the key: "SKY".
 - mkrSky address, `0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B`, under the key: "MKR_SKY".
  
+The following permissions will be granted by the functions mentioned above:
+
+- The usdsJoin Adapter will be authorized in the usds contract by calling `rely` through the UsdsInit.init function.
+- The sUSDS contract will be authorized to access the `vat` by calling `rely` through the SUsdsInit.init function.
+- The mkrSky contract will be authorized in the sky contract by calling `rely` through the SkyInit.init function.
+- The mkrSky contract will be authorized in the MkrAuthority contract by calling `rely` through the SkyInit.init function.
 
 ### Smart Burn Engine (SBE) Upgrade
 
