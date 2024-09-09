@@ -70,7 +70,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 
 - usds address, `0xdC035D45d973E3EC169d2276DDab16f1e407384F`, under the key: "USDS".
 - usdsImp address, `0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102`, under the key: "USDS_IMP".
-- UsdsJoin address, `0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102`, under the key: "USDS_JOIN".
+- UsdsJoin address, `0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB`, under the key: "USDS_JOIN".
 - DaiUsds address, `0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A`, under the key: "DAI_USDS".
 - sUsds address, `0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD`, under the key: "SUSDS".
 - sUsdsImp address, `0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0`, under the key: "SUSDS_IMP".
