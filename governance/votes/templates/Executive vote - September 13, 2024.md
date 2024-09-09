@@ -18,7 +18,7 @@ If you are new to voting in the Sky (previously Maker) Protocol, please see the 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol in the context of Launch Season:
 
 - USDS, sUSDS, and SKY tokens will be initialized.
-- The Smart Burn Engine will be upgraded to support USDS and SKY.
+- The Smart Burn Engine (SBE) will be upgraded to support USDS and SKY.
 - SKY DSSVestMintable will be set up.
 - The USDS->SKY farming will be set up.
 - The USDS->01 farming will be set up.
