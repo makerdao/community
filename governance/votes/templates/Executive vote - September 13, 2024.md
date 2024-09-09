@@ -98,7 +98,7 @@ A new [DssFlapper](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3_DssFlapper-e1aaa
 
 ##### Splitter Initialization
 
-The Splitter will be initialized by calling the [FlapperInit.initSplitter](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L177) function.
+The Splitter will be initialized by calling the [FlapperInit.initSplitter](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L177) function with the following parameters:
 
 
 - `splitter`: [0x517F9dD285e75b599234F7221227339478d0FcC8](https://etherscan.io/address/0x517F9dD285e75b599234F7221227339478d0FcC8)
