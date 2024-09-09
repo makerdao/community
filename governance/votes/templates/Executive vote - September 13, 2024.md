@@ -146,7 +146,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 - **Set DssVestMintable max rate (`cap`) by calling `DssExecLib.setValue` with the following parameters:**
   - `_base`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
   - `_what`: "cap"
-  - `_amt`: 799,999,999.999999999985808000 Sky per year (800M * WAD / 365 days )
+  - `_amt`: 799,999,999.999999999985808000 SKY per year (800M * WAD / 365 days )
 - **Add DssVestMintable to Chainlog by calling `DssExecLib.setChangelogAddress` with the following parameters:**
   - `_key`: MCD_VEST_SKY
   - `_val`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
