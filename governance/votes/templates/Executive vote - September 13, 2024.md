@@ -174,7 +174,7 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
 - **Initialize the new cron job by calling [VestedRewardsDistributionJobInit.init](https://github.com/makerdao/dss-cron/blob/a5a89af4f845211df143f06ab16c293eb47bb219/src/deployment/VestedRewardsDistributionJob/VestedRewardsDistributionJobInit.sol#L38) with the following parameters:**
   - `job`: [0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5](https://etherscan.io/address/0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5)
   - `cfg.jobKey`: CRON_REWARDS_DIST_JOB
-- **Add VestedRewardsDistribution to the new cron job by calling `VestedRewardsDistributionJobInit.setDist` with the following parameters:**
+- **Add VestedRewardsDistribution to the new cron job by calling [VestedRewardsDistributionJobInit.setDist](https://github.com/makerdao/dss-cron/blob/a5a89af4f845211df143f06ab16c293eb47bb219/src/deployment/VestedRewardsDistributionJob/VestedRewardsDistributionJobInit.sol#L58) with the following parameters:**
   - `job`: [0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5](https://etherscan.io/address/0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5)
   - `cfg.dist`: [0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
   - `cfg.interval`: 7 days
