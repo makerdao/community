@@ -191,12 +191,12 @@ If this executive proposal passes, then the USDS->01 farming setup will be initi
   - `rewards`: [0x10ab606B067C9C461d8893c47C7512472E19e2Ce](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
   - `rewardsKey`: REWARDS_USDS_01
 
-### LitePsmWrapper Addition to the ChainLog
+### LitePsmWrapper Addition to the Chainlog
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
-If this executive proposal passes, then the LitePsmWrapper will be added to the [ChainLog](https://chainlog.makerdao.com) through the following actions:
+If this executive proposal passes, then the LitePsmWrapper will be added to the [Chainlog](https://chainlog.makerdao.com) through the following actions:
 
 - **Add LitePsmWrapper to the Chainlog by calling `DssExecLib.setChangelogAddress` with the following parameters:**
 - `_key`: WRAPPER_USDS_LITE_PSM_USDC_A
