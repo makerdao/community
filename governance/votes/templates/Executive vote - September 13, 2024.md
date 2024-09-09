@@ -127,6 +127,8 @@ The Flapper will be initialized by calling the [FlapperInit.initFlapperUniV2](ht
 
 ##### Oracle Initialization
 
+The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L141) function with the following parameters:
+
 -`wrapper_`: [0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25)
 -`divisor`: 24,000
 -`clKey`: FLAP_SKY_ORACLE
