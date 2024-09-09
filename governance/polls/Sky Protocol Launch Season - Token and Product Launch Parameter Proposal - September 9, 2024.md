@@ -104,7 +104,7 @@ To learn more about Launch Season, refer to:
         * `vestBgn`: `block.timestamp - 7 days`
       * End Date is set one year after Start Date defined by duration
         * `vestTau`: **365 days**
-      * Call `distrdibute()` in VestedRewardsDistribution contract in the spell execution
+      * Call `distribute()` in VestedRewardsDistribution contract in the spell execution
   * 01 Rewards (Supply USDS to get future token rewards. More details about this will follow soon)
 * Setup new Keeper Network Job - VestedRewardsDistributionJob
   * Interval: **7 days**
