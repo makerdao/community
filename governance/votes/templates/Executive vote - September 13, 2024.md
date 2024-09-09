@@ -118,6 +118,8 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 - `prevMomChainlogKey`: FLAPPER_MOM
 - `momChainlogKey`: SPLITTER_MOM
 
+The state variable `flapper` in the `vow` will be changed by the `splitter` address by calling `file` through the SkyInit.init function.
+
 ##### Flapper Initialization
 
 The Flapper will be initialized by calling the [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L106) function with the following parameters:
