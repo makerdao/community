@@ -101,7 +101,7 @@ A new [DssFlapper](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3_DssFlapper-e1aaa
 The Splitter will be initialized by calling the [FlapperInit.initSplitter](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L177) function with the following parameters:
 
 
-- `splitter`: [0x517F9dD285e75b599234F7221227339478d0FcC8](https://etherscan.io/address/0x517F9dD285e75b599234F7221227339478d0FcC8)
+- `splitter`: [0xBF7111F13386d23cb2Fba5A538107A73f6872bCF](https://etherscan.io/address/0xBF7111F13386d23cb2Fba5A538107A73f6872bCF)
 - `mom`: [0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e](https://etherscan.io/address/0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e)
 - `hump`: 55 million DAI/SKY
 - `bump`: 65,000 DAI/SKY
