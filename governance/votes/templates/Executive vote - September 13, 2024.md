@@ -186,7 +186,7 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
 
 If this executive proposal passes, then the USDS->01 farming setup will be initialized through the following actions:
 
-- **Initialize Rewards-01 by calling `Usds01PreFarmingInit.init` with the following parameters:**
+- **Initialize Rewards-01 by calling [Usds01PreFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/Usds01PreFarmingInit.sol#L27) with the following parameters:**
   - `usds`: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
   - `rewards`: [0x10ab606B067C9C461d8893c47C7512472E19e2Ce](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
   - `rewardsKey`: REWARDS_USDS_01
