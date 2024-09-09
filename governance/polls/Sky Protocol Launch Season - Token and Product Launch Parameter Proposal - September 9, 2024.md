@@ -54,22 +54,22 @@ To learn more about Launch Season, refer to:
 
 ### Deployment Requirements Before Token and Product Launch Spell
 
-* [Tokens](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-new-tokens-4):
-  * USDS.
-  * SKY.
-  * sUSDS.
-* DAI:USDS and MKR:SKY converters.
-* Create USDS/SKY UniV2 pool (if this does not exist already).
-* [FlapperUniV2 for the Smart Burn Engine](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-flapper-9).
-* [Splitter](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-splitter-8).
-* [SplitterMOM](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-splittermom-10).
-* [LitePSM USDS Wrapper](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-litepsm-usds-wrapper-16).
-* USDSJoin.
-* SKY DssVestMintable.
-* SKY VestingRewardsDistribution.
-* [Rewards distribution cron-job](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031#p-98784-keeper-jobs-for-sky-token-rewards-str-15).
-* StakingRewards (rewardsToken: SKY, stakingToken: USDS).
-* StakingRewards (rewardsToken: 01, stakingToken: USDS).
+* Tokens:
+  * USDS
+  * SKY
+  * sUSDS
+* DAI:USDS and MKR:SKY converters
+* Create USDS/SKY UniV2 pool (if this does not exist already)
+* FlapperUniV2 for the Smart Burn Engine
+* Splitter
+* SplitterMOM
+* LitePSM USDS Wrapper
+* USDSJoin
+* SKY DssVestMintable
+* SKY VestingRewardsDistribution
+* Rewards distribution cron-job
+* StakingRewards (rewardsToken: SKY, stakingToken: USDS)
+* StakingRewards (rewardsToken: 01, stakingToken: USDS)
 
 ### Parameters
 
@@ -79,37 +79,37 @@ To learn more about Launch Season, refer to:
   * [Savings USDS (sUSDS)](https://github.com/makerdao/sdai/tree/susds)
     * Set Sky Savings Rate to **6.25%**
 * Initialize token converters
-  * DAI <> USDS converter.
-    * DAI to USDS conversion (both ways). The exchange rate is **1:1**.
-  * MKR <> SKY converter.
-    * MKR to SKY conversion with an MKR/SKY conversion rate of **1:24,000**.
-* USDS/SKY UniV2 Pool Migration and Smart Burn Engine Upgrade to use New Tokens.
-  * USDS/SKY UniV2 Pool Migration.
-    * Migrate funds from DAI/MKR UniV2 Pool to USDS/SKY UniV2 Pool.
+  * DAI <> USDS converter
+    * DAI to USDS conversion (both ways). The exchange rate is **1:1**
+  * MKR <> SKY converter
+    * MKR to SKY conversion with an MKR/SKY conversion rate of **1:24,000**
+* USDS/SKY UniV2 Pool Migration and Smart Burn Engine Upgrade to use New Tokens
+  * USDS/SKY UniV2 Pool Migration
+    * Migrate funds from DAI/MKR UniV2 Pool to USDS/SKY UniV2 Pool
   * Splitter Initialization:
-    * `hump`: **55 million DAI**.
-    * `bump`: **65,000 DAI** (USDS in practice).
-    * `burn`: **100%** (1.0 * WAD).
-    * `hop`: **10,249 seconds**.
-  * Dss Flapper Initialization to Use New Tokens.
-    * `flapper`: FlapperUniV2.
-    * `pip`: OracleWrapper ([0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25)).
-    * `want`: **0.98 * WAD**.
-* Sky Token Rewards (STR) Deployment.
-  * SKY (Supply USDS to get Sky Token Rewards in the form of SKY).
-    * DssVest.
-      * Rewards Distribution Rate: **600,000,000 SKY**.
-      * Rewards Distribution Cap: **800,000,000 SKY**.
-      * Start Date relative to the spell cast time minus 7 days.
-        * `vestBgn`: `block.timestamp - 7 days`.
-      * End Date is set one year after Start Date defined by duration.
-        * `vestTau`: **365 days**.
-      * Call `distribute()` in VestedRewardsDistribution contract in the spell execution.
-  * 01 Rewards (Supply USDS to get future token rewards. More details about this will follow soon).
-* Setup new Keeper Network Job - VestedRewardsDistributionJob.
-  * Interval: **7 days**.
-* GSM Delay.
-  * Decrease by 14 hours, from 30 hours to **16 hours**.
+    * `hump`: **55 million DAI**
+    * `bump`: **65,000 DAI** (USDS in practice)
+    * `burn`: **100%** (1.0 * WAD)
+    * `hop`: **10,249 seconds**
+  * Dss Flapper Initialization to Use New Tokens
+    * `flapper`: FlapperUniV2
+    * `pip`: OracleWrapper ([0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25))
+    * `want`: **0.98 * WAD**
+* Sky Token Rewards (STR) Deployment
+  * SKY (Supply USDS to get Sky Token Rewards in the form of SKY)
+    * DssVest
+      * Rewards Distribution Rate: **600,000,000 SKY**
+      * Rewards Distribution Cap: **800,000,000 SKY**
+      * Start Date relative to the spell cast time minus 7 days
+        * `vestBgn`: `block.timestamp - 7 days`
+      * End Date is set one year after Start Date defined by duration
+        * `vestTau`: **365 days**
+      * Call `distribute()` in VestedRewardsDistribution contract in the spell execution
+  * 01 Rewards (Supply USDS to get future token rewards. More details about this will follow soon)
+* Setup new Keeper Network Job - VestedRewardsDistributionJob
+  * Interval: **7 days**
+* GSM Delay
+  * Decrease by 14 hours, from 30 hours to **16 hours**
 
 Please review the discussion [thread](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031) to help inform your position before voting.
 
