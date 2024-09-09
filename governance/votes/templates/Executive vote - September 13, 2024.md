@@ -22,7 +22,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - SKY DssVestMintable will be set up.
 - The USDS->SKY farming will be set up.
 - The USDS->01 farming will be set up.
-- LitePsmWrapper will be added to the Chainlog.
+- LitePsmWrapper will be added to the chainlog.
 - The GSM Pause Delay will be reduced.
 
 **Voting for this executive proposal will place your MKR in support of the actions outlined above.**
@@ -33,19 +33,19 @@ If this executive proposal passes, the following **actions** will occur within t
 - [Sky has arrived!](https://forum.makerdao.com/t/sky-has-arrived/24959)
 - [Endgame: Announcing the Token and Product Launch forum post](https://forum.makerdao.com/t/endgame-announcing-the-token-and-product-launch/25021/1)
 
-Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**30 hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
+Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**30 hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
 
 This executive proposal has its earliest execution date set to **September 17, 2024 at 12:00 UTC**. This means that it cannot be executed before that date.
 
-If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
 
 ---
 
 ## Proposal Details
 
-### USDS and SKY Tokens Initialization
+### USDS, sUSDS, and SKY Tokens Initialization
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds) and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
@@ -60,11 +60,11 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
   - sUsdsImp: [0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0](https://etherscan.io/address/0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0)
   - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
   - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
-  - ssr: 6.25%
+  - [ssr](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951): 6.25%
 - **Initializing SKY via calling `SkyInit.Init` with the following parameters:**
   - sky [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
   - mkrSky [0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B)
-  - rate: 24,000
+  - [rate](https://sky-atlas.powerhouse.io/#A.4.1.2.1_SKY_Launch-d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834): 24,000
  
  These functions will also add the following elements to the chainlog:
 
@@ -80,7 +80,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 
 ### Smart Burn Engine (SBE) Upgrade
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the SBE will be upgraded to support the new USDS and SKY tokens. The upgrade entails the following actions:
@@ -135,7 +135,7 @@ The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](h
 
 ### DssVestMintable Setup
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then DssVestMintable for SKY will be set up through the following actions:
@@ -153,7 +153,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 
 ### USDS->SKY Farming Setup
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the USDS->SKY farming setup will be initialized through the following actions:
@@ -181,7 +181,7 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
 
 ### USDS->01 Farming Setup
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the USDS->01 farming setup will be initialized through the following actions:
@@ -193,7 +193,7 @@ If this executive proposal passes, then the USDS->01 farming setup will be initi
 
 ### LitePsmWrapper Addition to the Chainlog
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the LitePsmWrapper will be added to the [Chainlog](https://chainlog.makerdao.com) through the following actions:
@@ -204,7 +204,7 @@ If this executive proposal passes, then the LitePsmWrapper will be added to the 
 
 ### GSM Pause Delay Update
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0) will be decreased by 14 hours, from 30 hours to **16 hours**.
