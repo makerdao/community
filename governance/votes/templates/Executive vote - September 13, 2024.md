@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] Out-of-schedule Executive Vote - USDS, sUSDS, and SKY Tokens Initialization, SBE Upgrade, SKY DssVestMintable Setup, USDS-SKY Farming Setup, USDS-01 Farming Setup, Miscellaneous Actions - September 13, 2024
 
-The Governance Facilitators, Dewiz, and Sidestream have placed an out-of-schedule executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The Governance Facilitators, Dewiz, and Sidestream have placed an out-of-schedule executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
 If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
