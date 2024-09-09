@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes. In summary, this vovers the following items (find attached corresponding GitHub Repos, which include README files that explain all technical details):
+The community can vote in this poll to express support or opposition to the changes described below. In summary, this covers the following items (find attached corresponding GitHub repos, which include README files that explain all technical details):
 
 * New Token contracts and corresponding token converters
   * [USDS](https://github.com/makerdao/sdai/tree/susds) (Upgraded DAI)
@@ -80,7 +80,7 @@ To learn more about Launch Season, refer to:
     * Set Sky Savings Rate to **6.25%**
 * Initialize token converters
   * DAI <> USDS converter
-    * DAI to USDS conversion (both ways). The exchange Rate is **1:1**
+    * DAI to USDS conversion (both ways). The exchange rate is **1:1**
   * MKR <> SKY converter
     * MKR to SKY conversion with an MKR/SKY conversion rate of **1:24,000**
 * USDS/SKY UniV2 Pool Migration and Smart Burn Engine Upgrade to use New Tokens
