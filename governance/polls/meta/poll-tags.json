@@ -4523,5 +4523,17 @@
     "high-impact",
     "oracle",
     "spark"
+  ],
+  "1133": [
+    "high-impact",
+    "misc-governance",
+    "risk-parameter",
+    "endgame"
+  ],
+  "1134": [
+    "high-impact",
+    "technical",
+    "endgame",
+    "spark"
   ]
 }
