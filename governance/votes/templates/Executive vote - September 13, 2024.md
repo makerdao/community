@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Out-of-schedule Executive Vote - USDS, sUSDS, and SKY Tokens Initialization, SBE Upgrade, SKY DssVestMintable Setup, USDS->SKY Farming Setup, USDS->01 Farming Setup, Miscelaneous Actions - September 13, 2024
-summary: Initialize USDS, sUDSD, and SKY tokens; upgrade Smart Burn Engine (SBE); set up DssVestMintable, USDS->SKY farming setup, and USDS->01 farming setup, add LitePsmWrapper to the chainlog, and reduce the GSM Pause Delay.
+summary: Initialize USDS, sUSDS, and SKY tokens; upgrade Smart Burn Engine (SBE); set up DssVestMintable, USDS->SKY farming setup, and USDS->01 farming setup, add LitePsmWrapper to the Chainlog, and reduce the GSM Pause Delay.
 date: 2024-09-13T00:00:00.000Z
 address: "$spell_address"
 
