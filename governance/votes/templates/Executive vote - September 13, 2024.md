@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Out-of-schedule Executive Vote - USDS, sUSDS, and SKY Tokens Initialization, SBE Upgrade, SKY DssVestMintable Setup, USDS->SKY Farming Setup, USDS->01 Farming Setup, Miscellaneous Actions - September 13, 2024
-summary: Initialize USDS, sUSDS, and SKY tokens; upgrade Smart Burn Engine (SBE); set up DssVestMintable, USDS->SKY farming setup, and USDS->01 farming setup, add LitePsmWrapper to the Chainlog, and reduce the GSM Pause Delay.
+summary: Initialize USDS, sUSDS, and SKY tokens, upgrade Smart Burn Engine (SBE), set up SKY DssVestMintable, set up USDS->SKY farming, set up USDS->01 farming, add LitePsmWrapper to the chainlog, and reduce the GSM Pause Delay.
 date: 2024-09-13T00:00:00.000Z
 address: "$spell_address"
 
@@ -48,7 +48,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
-If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds) and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
+If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds), [sUSDS](https://github.com/makerdao/sdai/tree/susds), and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
 
 - **Initializing USDS via calling `UsdsInit.Init` with the following parameters:**
   - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
@@ -87,7 +87,7 @@ If this executive proposal passes, then the SBE will be upgraded to support the 
 
 #### UniV2 Pool Migration
 
-The DAI/MKR UniV2 pool funds will be migrated to the USDS/SKY UniV2 pool by executing the [UniV2 Pool Migrator script](https://github.com/makerdao/univ2-pool-migrator/blob/dev/deploy/UniV2PoolMigratorInit.sol) with the following parameters:
+The [DAI/MKR UniV2](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.5_Univ2_MKR_Dai_LP_Token_Element_Annotation-0b19dbb3-aded-42d3-8b77-84ccaf9745e4%7C57ea2c549207d9fe7d4510f2) pool funds will be migrated to the USDS/SKY UniV2 pool by executing the [UniV2 Pool Migrator script](https://github.com/makerdao/univ2-pool-migrator/blob/dev/deploy/UniV2PoolMigratorInit.sol) with the following parameters:
 
 - pairDaiMkr: [0x517F9dD285e75b599234F7221227339478d0FcC8](https://etherscan.io/address/0x517F9dD285e75b599234F7221227339478d0FcC8)
 - pairUsdsSky: [0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c)
@@ -133,7 +133,7 @@ The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](h
 - `divisor`: 24,000
 - `clKey`: FLAP_SKY_ORACLE
 
-### DssVestMintable Setup
+### SKY DssVestableMint Setup
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
@@ -158,7 +158,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 
 If this executive proposal passes, then the USDS->SKY farming setup will be initialized through the following actions:
 
-- **Initialize USDS->SKY rewards by calling [UsdsSkyFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/UsdsSkyFarmingInit.sol#L42) with the following parameters:**
+- **Initialize USDS->SKY Token Rewards (STR) by calling [UsdsSkyFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/UsdsSkyFarmingInit.sol#L42) with the following parameters:**
 
   - `usds`: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
   - `sky`: [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
@@ -186,7 +186,7 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
 
 If this executive proposal passes, then the USDS->01 farming setup will be initialized through the following actions:
 
-- **Initialize Rewards-01 by calling [Usds01PreFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/Usds01PreFarmingInit.sol#L27) with the following parameters:**
+- **Initialize STR 01 Rewards by calling [Usds01PreFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/Usds01PreFarmingInit.sol#L27) with the following parameters:**
   - `usds`: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
   - `rewards`: [0x10ab606B067C9C461d8893c47C7512472E19e2Ce](https://etherscan.io/address/0x10ab606B067C9C461d8893c47C7512472E19e2Ce)
   - `rewardsKey`: REWARDS_USDS_01
