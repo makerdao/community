@@ -48,7 +48,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
-If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds?tab=readme-ov-file#nst-token-and-contracts-associated) and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
+If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds) and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
 
 - **Initializing USDS via calling `UsdsInit.Init` with the following parameters:**
   - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
