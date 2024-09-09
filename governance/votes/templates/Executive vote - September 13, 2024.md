@@ -87,7 +87,7 @@ If this executive proposal passes, then the SBE will be upgraded to support the 
 
 #### UniV2 Pool Migration
 
-The DAI/MKR UniV2 pool funds will be migrated to the USDS/SKY UniV2 pool by executing the [UniV2 Pool Migrator script](https://github.com/makerdao/univ2-pool-migrator) with the following parameters:
+The DAI/MKR UniV2 pool funds will be migrated to the USDS/SKY UniV2 pool by executing the [UniV2 Pool Migrator script](https://github.com/makerdao/univ2-pool-migrator/blob/dev/deploy/UniV2PoolMigratorInit.sol) with the following parameters:
 
 - pairDaiMkr: [0x517F9dD285e75b599234F7221227339478d0FcC8](https://etherscan.io/address/0x517F9dD285e75b599234F7221227339478d0FcC8)
 - pairUsdsSky: [0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c)
