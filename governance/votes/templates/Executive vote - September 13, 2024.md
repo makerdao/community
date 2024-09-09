@@ -5,7 +5,7 @@ date: 2024-09-13T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Out-of-schedule Executive Vote - USDS, sUSDS, and SKY Tokens Initialization, SBE Upgrade, SKY DssVestMintable Setup, USDS-SKY Farming Setup, USDS-01 Farming Setup, Miscelaneous Actions - September 13, 2024
+# [Executive Proposal] Out-of-schedule Executive Vote - USDS, sUSDS, and SKY Tokens Initialization, SBE Upgrade, SKY DssVestMintable Setup, USDS-SKY Farming Setup, USDS-01 Farming Setup, Miscellaneous Actions - September 13, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an out-of-schedule executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
