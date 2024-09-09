@@ -38,7 +38,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/atlas-v2-upgr
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
-* Atlas v2 will replace The Atlas defined in MIP101.
+* All MIPs and legacy Atlas MIPs will be deleted and their functionality fully replaced by Atlas v2 per [MIP101.1.1](https://mips.makerdao.com/mips/details/MIP101#1-1-atlas-v2-upgrade-process).
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
