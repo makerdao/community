@@ -141,6 +141,8 @@ The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](h
 - `divisor`: 24,000
 - `clKey`: FLAP_SKY_ORACLE
 
+`Wrapper` will be authorized to read the MKR oracle price through the FlapperInit.initOracleWrapper function.
+
 ### SKY DssVestMintable Setup
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
