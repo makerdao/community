@@ -65,6 +65,18 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
   - sky [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
   - mkrSky [0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B)
   - rate: 24,000
+ 
+ These functions will also add the following elements to the chainlog:
+
+- usds address, `0xdC035D45d973E3EC169d2276DDab16f1e407384F`, under the key: "USDS".
+- usdsImp address, `0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102`, under the key: "USDS_IMP".
+- UsdsJoin address, `0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102`, under the key: "USDS_JOIN".
+- DaiUsds address, `0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A`, under the key: "DAI_USDS".
+- sUsds address, `0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD`, under the key: "SUSDS".
+- sUsdsImp address, `0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0`, under the key: "SUSDS_IMP".
+- sky address, `0x56072C95FAA701256059aa122697B133aDEd9279`, under the key: "SKY".
+- mkrSky address, `0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B`, under the key: "MKR_SKY".
+ 
 
 ### Smart Burn Engine (SBE) Upgrade
 
