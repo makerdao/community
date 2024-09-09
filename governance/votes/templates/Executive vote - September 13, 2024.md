@@ -19,7 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - USDS, sUSDS, and SKY tokens will be initialized.
 - The Smart Burn Engine (SBE) will be upgraded to support USDS and SKY.
-- SKY DSSVestMintable will be set up.
+- SKY DssVestMintable will be set up.
 - The USDS->SKY farming will be set up.
 - The USDS->01 farming will be set up.
 - LitePsmWrapper will be added to the Chainlog.
