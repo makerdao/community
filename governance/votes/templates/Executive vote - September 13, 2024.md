@@ -114,6 +114,8 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 
 ##### Flapper Initialization
 
+The Flapper will be initialized by calling the [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L106) function with the following parameters:
+
 - `flapper_`: [0xc5A9CaeBA70D6974cBDFb28120C3611Dd9910355](https://etherscan.io/address/0xc5A9CaeBA70D6974cBDFb28120C3611Dd9910355)
 - `want`: 98% (98 * WAD / 100)
 - `pip`: [0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25)
