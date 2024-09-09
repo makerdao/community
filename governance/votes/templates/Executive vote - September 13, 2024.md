@@ -53,7 +53,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 - **Initializing USDS via calling `UsdsInit.Init` with the following parameters:**
   - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
   - usdsImp: [0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102](https://etherscan.io/address/0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102)
-  - UsdsJoin: [0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102](https://etherscan.io/address/0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102)
+  - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
   - DaiUsds: [0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A)
 - **Initializing sUSDS via calling `sUsdsInit.Init` with the following parameters:**
   - susds: [0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD](https://etherscan.io/address/0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD)
