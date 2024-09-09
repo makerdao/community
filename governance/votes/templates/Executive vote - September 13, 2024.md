@@ -159,6 +159,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 If this executive proposal passes, then the USDS->SKY farming setup will be initialized through the following actions:
 
 - **Initialize USDS -> SKY rewards by calling [UsdsSkyFarmingInit.init](https://github.com/makerdao/endgame-toolkit/blob/14268515aa729a588096f0d579ea38bde3e9ba2f/script/dependencies/phase-1b/UsdsSkyFarmingInit.sol#L42) with the following parameters:**
+
   - `usds`: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
   - `sky`: [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
   - `rewards`: [0x0650CAF159C5A49f711e8169D4336ECB9b950275](https://etherscan.io/address/0x0650CAF159C5A49f711e8169D4336ECB9b950275)
