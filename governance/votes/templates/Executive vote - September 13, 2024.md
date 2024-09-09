@@ -133,7 +133,7 @@ The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](h
 - `divisor`: 24,000
 - `clKey`: FLAP_SKY_ORACLE
 
-### dssVestableMint Setup
+### DssVestMintable Setup
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Poll 1132]($TBD)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
