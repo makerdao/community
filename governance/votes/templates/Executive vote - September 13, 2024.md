@@ -181,6 +181,9 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
   - `vestBgn`: block.timestamp - 7 days
   - `vestTau`: 365 - 1 days
   - Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.
+  
+  A SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function.
+  
 - **Initialize the new cron job by calling [VestedRewardsDistributionJobInit.init](https://github.com/makerdao/dss-cron/blob/a5a89af4f845211df143f06ab16c293eb47bb219/src/deployment/VestedRewardsDistributionJob/VestedRewardsDistributionJobInit.sol#L38) with the following parameters:**
   - `job`: [0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5](https://etherscan.io/address/0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5)
   - `cfg.jobKey`: CRON_REWARDS_DIST_JOB
