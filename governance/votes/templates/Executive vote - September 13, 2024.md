@@ -117,8 +117,8 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 
 - `splitter`: [0xBF7111F13386d23cb2Fba5A538107A73f6872bCF](https://etherscan.io/address/0xBF7111F13386d23cb2Fba5A538107A73f6872bCF)
 - `mom`: [0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e](https://etherscan.io/address/0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e)
-- `hump`: 55 million DAI/SKY
-- `bump`: 65,000 DAI/SKY
+- `hump`: 55 million DAI
+- `bump`: 65,000 DAI/USDS
 - `hop`: 10,249 seconds
 - `burn`: 100% (1 * WAD)
 - `usdsJoin`: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
