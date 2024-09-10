@@ -17,11 +17,11 @@ If you are new to voting in the Sky (previously Maker) Protocol, please see the 
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol in the context of Launch Season:
 
-- USDS, sUSDS, and SKY tokens will be initialized.
+- The USDS, sUSDS, and SKY tokens will be initialized.
 - The Smart Burn Engine (SBE) will be upgraded to support USDS and SKY.
 - SKY DssVestMintable will be set up.
-- The USDS->SKY farming will be set up.
-- The USDS->01 farming will be set up.
+- USDS->SKY farming will be set up.
+- USDS->01 farming will be set up.
 - LitePsmWrapper will be added to the chainlog.
 - The GSM Pause Delay will be reduced.
 
@@ -50,21 +50,29 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, then the new [USDS](https://github.com/makerdao/usds), [sUSDS](https://github.com/makerdao/sdai/tree/susds), and [SKY](https://github.com/makerdao/ngt) tokens will be initialized by performing the actions detailed below.
 
-- **Initializing USDS via calling `UsdsInit.Init` with the following parameters:**
-  - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
-  - usdsImp: [0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102](https://etherscan.io/address/0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102)
-  - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
-  - DaiUsds: [0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A)
-- **Initializing sUSDS via calling `sUsdsInit.Init` with the following parameters:**
-  - susds: [0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD](https://etherscan.io/address/0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD)
-  - sUsdsImp: [0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0](https://etherscan.io/address/0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0)
-  - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
-  - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
-  - [ssr](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951): 6.25%
-- **Initializing SKY via calling `SkyInit.Init` with the following parameters:**
-  - sky [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
-  - mkrSky [0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B)
-  - [rate](https://sky-atlas.powerhouse.io/#A.4.1.2.1_SKY_Launch-d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834): 24,000
+#### USDS
+
+**Initialize USDS by calling `UsdsInit.Init` with the following parameters:**
+- usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
+- usdsImp: [0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102](https://etherscan.io/address/0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102)
+- UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
+- DaiUsds: [0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A)
+
+#### sUSDS
+
+**Initialize sUSDS by calling `sUsdsInit.Init` with the following parameters:**
+- susds: [0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD](https://etherscan.io/address/0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD)
+- sUsdsImp: [0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0](https://etherscan.io/address/0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0)
+- UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
+- usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
+- [ssr](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951): 6.25%
+
+#### SKY
+
+**Initialize SKY by calling `SkyInit.Init` with the following parameters:**
+- sky [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
+- mkrSky [0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B)
+- [rate](https://sky-atlas.powerhouse.io/#A.4.1.2.1_SKY_Launch-d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834): 24,000
  
  These functions will also add the following elements to the chainlog:
 
@@ -182,7 +190,10 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
   - `vestTau`: 365 - 1 days
   - Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.
   
-  A SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function.
+The following SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function:
+  
+SKY Vesting Stream  | block.timestamp - 7 days to 365 days - 1 | 600M * WAD SKY | 0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9
+  
   
 - **Initialize the new cron job by calling [VestedRewardsDistributionJobInit.init](https://github.com/makerdao/dss-cron/blob/a5a89af4f845211df143f06ab16c293eb47bb219/src/deployment/VestedRewardsDistributionJob/VestedRewardsDistributionJobInit.sol#L38) with the following parameters:**
   - `job`: [0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5](https://etherscan.io/address/0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5)
