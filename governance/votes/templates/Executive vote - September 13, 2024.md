@@ -127,7 +127,7 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 - `prevMomChainlogKey`: FLAPPER_MOM
 - `momChainlogKey`: SPLITTER_MOM
 
-The state variable `flapper` in the `vow` will be changed by the `splitter` address by calling `file` through the initSplitter function.
+The state variable `flapper` in the `vow` will be changed to the `splitter` address by calling `file` through the FlapperInit.initSplitter function.
 
 ##### Flapper Initialization
 
