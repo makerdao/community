@@ -117,10 +117,10 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 
 - `splitter`: [0xBF7111F13386d23cb2Fba5A538107A73f6872bCF](https://etherscan.io/address/0xBF7111F13386d23cb2Fba5A538107A73f6872bCF)
 - `mom`: [0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e](https://etherscan.io/address/0xF51a075d468dE7dE3599C1Dc47F5C42d02C9230e)
-- `hump`: 55 million DAI
-- `bump`: 65,000 DAI/USDS
-- `hop`: 10,249 seconds
-- `burn`: 100% (1 * WAD)
+- `hump`: **55 million DAI**
+- `bump`: **65,000 DAI/USDS**
+- `hop`: **10,249 seconds**
+- `burn`: **100% (1 * WAD)**
 - `usdsJoin`: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
 - `splitterChainlogKey`: MCD_SPLIT
 - `prevMomChainlogKey`: FLAPPER_MOM
@@ -133,7 +133,7 @@ The state variable `flapper` in the `vow` will be changed by the `splitter` addr
 The Flapper will be initialized by calling the [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L106) function with the following parameters:
 
 - `flapper_`: [0xc5A9CaeBA70D6974cBDFb28120C3611Dd9910355](https://etherscan.io/address/0xc5A9CaeBA70D6974cBDFb28120C3611Dd9910355)
-- `want`: 98% (98 * WAD / 100)
+- `want`: **98% (98 * WAD / 100)**
 - `pip`: [0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25)
 - `pair`: [0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c)
 - `usds`: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
@@ -146,7 +146,7 @@ The Flapper will be initialized by calling the [FlapperInit.initFlapperUniV2](ht
 The Oracle will be initialized by calling the [FlapperInit.initOracleWrapper ](https://github.com/makerdao/dss-flappers/blob/bddeb5ac09a5ea6c5b4bc77cec1bd5b05014f1fd/deploy/FlapperInit.sol#L141) function with the following parameters:
 
 - `wrapper_`: [0x38e8c1D443f546Dc014D7756ec63116161CB7B25](https://etherscan.io/address/0x38e8c1D443f546Dc014D7756ec63116161CB7B25)
-- `divisor`: 24,000
+- `divisor`: **24,000**
 - `clKey`: FLAP_SKY_ORACLE
 
 `Wrapper` will be authorized to read the MKR oracle price through the FlapperInit.initOracleWrapper function.
@@ -164,7 +164,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 - **Set DssVestMintable max rate (`cap`) by calling `DssExecLib.setValue` with the following parameters:**
   - `_base`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
   - `_what`: "cap"
-  - `_amt`: 799,999,999.999999999985808000 SKY per year (800M * WAD / 365 days )
+  - `_amt`: **799,999,999.999999999985808000 SKY per year (800M * WAD / 365 days )**
 - **Add DssVestMintable to Chainlog by calling `DssExecLib.setChangelogAddress` with the following parameters:**
   - `_key`: MCD_VEST_SKY
   - `_val`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
@@ -185,9 +185,9 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
   - `dist`: [0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
   - `distKey`: REWARDS_DIST_USDS_SKY
   - `vest`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
-  - `vestTot`: 600M * WAD
-  - `vestBgn`: block.timestamp - 7 days
-  - `vestTau`: 365 - 1 days
+  - `vestTot`: **600M * WAD**
+  - `vestBgn`: **block.timestamp - 7 days**
+  - `vestTau`: **365 - 1 days**
   - Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.
   
 The following SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function:
@@ -201,7 +201,7 @@ SKY Vesting Stream  | from 'block.timestamp - 7 days' for '365 days - 1'  | 600M
 - **Add VestedRewardsDistribution to the new cron job by calling [VestedRewardsDistributionJobInit.setDist](https://github.com/makerdao/dss-cron/blob/a5a89af4f845211df143f06ab16c293eb47bb219/src/deployment/VestedRewardsDistributionJob/VestedRewardsDistributionJobInit.sol#L58) with the following parameters:**
   - `job`: [0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5](https://etherscan.io/address/0x6464C34A02DD155dd0c630CE233DD6e21C24F9A5)
   - `cfg.dist`: [0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9](https://etherscan.io/address/0x2F0C88e935Db5A60DDA73b0B4EAEef55883896d9)
-  - `cfg.interval`: 7 days
+  - `cfg.interval`: **7 days**
 
 ### USDS->01 Farming Setup
 
