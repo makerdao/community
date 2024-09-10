@@ -126,7 +126,7 @@ The Splitter will be initialized by calling the [FlapperInit.initSplitter](https
 - `prevMomChainlogKey`: FLAPPER_MOM
 - `momChainlogKey`: SPLITTER_MOM
 
-The state variable `flapper` in the `vow` will be changed by the `splitter` address by calling `file` through the SkyInit.init function.
+The state variable `flapper` in the `vow` will be changed by the `splitter` address by calling `file` through the initSplitter function.
 
 ##### Flapper Initialization
 
