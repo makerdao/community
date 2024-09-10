@@ -52,7 +52,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 
 #### USDS
 
-**Initialize USDS by calling `UsdsInit.Init` with the following parameters:**
+**Initialize USDS by calling [UsdsInit.Init](https://github.com/makerdao/usds/blob/dev/deploy/UsdsInit.sol#L40) with the following parameters:**
 - usds: [0xdC035D45d973E3EC169d2276DDab16f1e407384F](https://etherscan.io/address/0xdC035D45d973E3EC169d2276DDab16f1e407384F)
 - usdsImp: [0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102](https://etherscan.io/address/0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102)
 - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
@@ -60,7 +60,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 
 #### sUSDS
 
-**Initialize sUSDS by calling `sUsdsInit.Init` with the following parameters:**
+**Initialize sUSDS by calling [sUsdsInit.Init](https://github.com/makerdao/sdai/blob/susds/deploy/SUsdsInit.sol#L48) with the following parameters:**
 - susds: [0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD](https://etherscan.io/address/0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD)
 - sUsdsImp: [0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0](https://etherscan.io/address/0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0)
 - UsdsJoin: [0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB](https://etherscan.io/address/0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB)
@@ -69,7 +69,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 
 #### SKY
 
-**Initialize SKY by calling `SkyInit.Init` with the following parameters:**
+**Initialize SKY by calling [SkyInit.Init](https://github.com/makerdao/sky/blob/dev/deploy/SkyInit.sol#L41) with the following parameters:**
 - sky [0x56072C95FAA701256059aa122697B133aDEd9279](https://etherscan.io/address/0x56072C95FAA701256059aa122697B133aDEd9279)
 - mkrSky [0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B)
 - [rate](https://sky-atlas.powerhouse.io/#A.4.1.2.1_SKY_Launch-d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834): 24,000
