@@ -48,12 +48,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 This executive proposal has its earliest execution date set to **September 17, 2024 at 12:00 UTC**. This means that it cannot be executed before that date.
 
-### The ESM will not be authorized in any new contracts deployed for this proposal
+### New Contract ESM Exclusion
 
 - **Authorization**: [Ecosystem Approval](TBD)
 - **Proposal**: [Forum Post](http://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/3)
 
-The ESM will **not** be authorized in any new contracts deployed for this proposal.
+The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will **not** be authorized in any new contracts deployed for this proposal.
 
 For more details on this decision, you can refer to this [forum post](http://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/3).
 
