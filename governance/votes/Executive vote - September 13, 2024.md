@@ -97,6 +97,7 @@ If this executive proposal passes, then the new [USDS](https://github.com/makerd
 | usds | 0xdC035D45d973E3EC169d2276DDab16f1e407384F | USDS |
 | usdsImp | 0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102 | USDS_IMP |
 | UsdsJoin | 0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB | USDS_JOIN |
+| DaiUsds | 0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A | DAI_USDS |
 | sUsds | 0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD | SUSDS |
 | sUsdsImp | 0x4e7991e5C547ce825BdEb665EE14a3274f9F61e0 | SUSDS_IMP |
 | sky | 0x56072C95FAA701256059aa122697B133aDEd9279 | SKY |
@@ -204,8 +205,8 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
   - `vest`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
   - `vestTot`: **600M * WAD**
   - `vestBgn`: **block.timestamp - 7 days**
-  - `vestTau`: **365 - 1 days**
-  - Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.
+  - `vestTau`: **365 days - 1**  
+- **Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.**
   
 The following SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function:
   
@@ -240,8 +241,8 @@ If this executive proposal passes, then the USDS->01 farming setup will be initi
 If this executive proposal passes, then the LitePsmWrapper will be added to the [Chainlog](https://chainlog.makerdao.com) through the following actions:
 
 - **Add LitePsmWrapper to the Chainlog by calling `DssExecLib.setChangelogAddress` with the following parameters:**
-- `_key`: WRAPPER_USDS_LITE_PSM_USDC_A
-- `_val`: [0xA188EEC8F81263234dA3622A406892F3D630f98c](https://etherscan.io/address/0xA188EEC8F81263234dA3622A406892F3D630f98c)
+  - `_key`: WRAPPER_USDS_LITE_PSM_USDC_A
+  - `_val`: [0xA188EEC8F81263234dA3622A406892F3D630f98c](https://etherscan.io/address/0xA188EEC8F81263234dA3622A406892F3D630f98c)
 
 ### GSM Pause Delay Update
 
