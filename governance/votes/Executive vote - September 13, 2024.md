@@ -188,7 +188,7 @@ If this executive proposal passes, then DssVestMintable for SKY will be set up t
 
 ### USDS->SKY Farming Setup
 
-- **Authorization**: [Ecosystem Approval 1](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Ecosystem Approval 2](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/4), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi) ,[Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
+- **Authorization**: [Ecosystem Approval 1](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/2), [Ecosystem Approval 2](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/4), [Poll 1134](https://vote.makerdao.com/polling/QmTySKwi)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/1)
 
 If this executive proposal passes, then the USDS->SKY farming setup will be initialized through the following actions:
