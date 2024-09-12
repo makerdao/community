@@ -205,7 +205,7 @@ If this executive proposal passes, then the USDS->SKY farming setup will be init
   - `vest`: [0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9](https://etherscan.io/address/0xB313Eab3FdE99B2bB4bA9750C2DDFBe2729d1cE9)
   - `vestTot`: **600M * WAD**
   - `vestBgn`: **block.timestamp - 7 days**
-  - `vestTau`: **365 days - 1**  
+  - `vestTau`: **365 days - 1**
 - **Call `distribute()` in `VestedRewardsDistribution` contract in the spell execution.**
   
 The following SKY vesting stream will be created for rewards distribution through the UsdsSkyFarmingInit.init function:
