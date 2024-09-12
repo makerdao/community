@@ -50,7 +50,7 @@ This executive proposal has its earliest execution date set to **September 17, 2
 
 ### New Contract ESM Exclusion
 
-- **Authorization**: [Ecosystem Approval](TBD)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/4)
 - **Proposal**: [Forum Post](http://forum.makerdao.com/t/sky-protocol-launch-season-token-and-product-launch-parameter-proposal/25031/3)
 
 The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) will **not** be authorized in any new contracts deployed for this proposal.
