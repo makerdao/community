@@ -32,6 +32,12 @@ The community can vote in this poll to express support or opposition to the foll
 - [Atlas Edit Pull Request]($link_to_github-pr)
 - [Proposal Discussion Thread](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal/25083)
 
+A brief summary of this Atlas Edit has been provided by the proposal author and is shown below:
+
+- *Updates GSM delay exception for Smart Burn Engine based on request from BA Labs. (This update has also been reviewed/approved by Ephy).*
+- *Adds exemption for the Facilitator anonymity requirement for Ecosystem based on discussion with Governance Facilitators.*
+- *Makes minor updates to language in some places to incorporate initial feedback on Atlas v2.*
+
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
