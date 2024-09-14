@@ -1,5 +1,5 @@
 ---
-title: SparkLend - cbBTC Collateral Onboarding - September 16, 2024
+title: SparkLend Ethereum - cbBTC Collateral Onboarding - September 16, 2024
 summary: Signal your support or opposition to onboarding Coinbase Wrapped BTC (cbBTC) on SparkLend on Ethereum mainnet.
 discussion_link: https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-09-16T16:00:00
 end_date: 2024-09-19T16:00:00
 ---
-# Poll: SparkLend - cbBTC Collateral Onboarding - September 16, 2024
+# Poll: SparkLend Ethereum - cbBTC Collateral Onboarding - September 16, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
 
