@@ -1,5 +1,5 @@
 ---
-title: Smart Burn Engine Parameter Reconfiguration - August 16, 2024
+title: Smart Burn Engine Parameter Reconfiguration - September 16, 2024
 summary: Signal your support or opposition to reconfiguring the SBE parameters so that it will 1) use a strategy that will accumulate SKY and 2) adjust its rate of accumulation to comply with the Atlas.
 discussion_link: https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078
 parameters:
@@ -15,9 +15,9 @@ options:
 start_date: 2024-09-16T16:00:00
 end_date: 2024-09-19T16:00:00
 ---
-# Poll: Smart Burn Engine Parameter Reconfiguration - August 16, 2024
+# Poll: Smart Burn Engine Parameter Reconfiguration - September 16, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, August 16 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
 
 **This is a binary vote.**
 
