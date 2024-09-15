@@ -29,7 +29,7 @@ The Governance Facilitators have placed an Atlas Edit Weekly Cycle Proposal into
 
 The community can vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle proposal:
 
-- [Atlas Edit Pull Request]($link_to_github-pr)
+- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/33)
 - [Proposal Discussion Thread](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal/25083)
 
 A brief summary of this Atlas Edit has been provided by the proposal author and is shown below:
