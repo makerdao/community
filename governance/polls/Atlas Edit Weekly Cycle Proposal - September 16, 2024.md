@@ -34,8 +34,8 @@ The community can vote in this poll to express support or opposition to the foll
 
 A brief summary of this Atlas Edit has been provided by the proposal author and is shown below:
 
-- *Updates GSM delay exception for Smart Burn Engine based on request from BA Labs. (This update has also been reviewed/approved by Ephy).*
-- *Adds exemption for the Facilitator anonymity requirement for Ecosystem based on discussion with Governance Facilitators.*
+- *Updates [GSM delay exception for Smart Burn Engine](https://sky-atlas.powerhouse.io/#A.1.8.2.2.8_Smart_Burn_Engine_Breaker_Exception-d82f2eb4-fe8b-4bc0-827e-9e3f859118b5|0db30758e055352c) based on a request from BA Labs. (This update has also been reviewed/approved by Ephy).*
+- *Adds exemption for the Facilitator anonymity requirement for Ecosystem, based on discussion with Governance Facilitators.*
 - *Makes minor updates to language in some places to incorporate initial feedback on Atlas v2.*
 
 ## Outcomes
@@ -50,8 +50,8 @@ A brief summary of this Atlas Edit has been provided by the proposal author and 
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
+To add current and upcoming votes to your calendar, please see the [Sky Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
