@@ -40,9 +40,9 @@ The community can vote in this poll to express support or opposition to onboardi
 - [Siloed Borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing): **NO**
 - [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **YES**
 - [Loan To Value](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value): **65%**
-- [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold): **70%**
+- [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **70%**
 - Liquidation Bonus: **8%**
-- [Reserve Factor](https://docs.aave.com/risk/asset-risk/risk-parameters#reserve-factor): **20%**
+- [Reserve Factor](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.8_Reserve_Factor_Definition-3f82c59f-c575-4975-8e1b-653136c3f1fd|57eaf45219be608847d6): **20%**
 - [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps): **500 cbBTC**
 - Supply Cap (`max`): **3,000 cbBTC**
 - Supply Cap (`gap`): **500 cbBTC**
