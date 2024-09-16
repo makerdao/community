@@ -4535,5 +4535,38 @@
     "technical",
     "endgame",
     "spark"
+  ],
+  "1135": [
+    "high-impact",
+    "collateral-offboard"
+  ],
+  "1136": [
+    "high-impact",
+    "collateral-offboard"
+  ],
+  "1137": [
+    "high-impact",
+    "collateral-offboard"
+  ],
+  "1138": [
+    "high-impact",
+    "collateral-offboard"
+  ],
+  "1139": [
+    "high-impact",
+    "collateral-offboard"
+  ],
+  "1140": [
+    "high-impact",
+    "risk-parameter"
+  ],
+  "1141": [
+    "high-impact",
+    "collateral-onboard",
+    "spark"
+  ],
+  "1142": [
+    "high-impact",
+    "mips"
   ]
 }
