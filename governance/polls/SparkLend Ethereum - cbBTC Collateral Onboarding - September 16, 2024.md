@@ -29,14 +29,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to onboarding Coinbase Wrapped BTC (cbBTC) on SparkLend on Ethereum mainnet with the following parameters:
 
-- Optimal Utilization: **60%**
-- Base: **0%**
-- Slope1: **4%**
-- Slope2: **300%**
+- [Optimal Utilization](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.11_Optimal_Utilization_Definition-7dd3b868-b5c1-4f16-b997-8fb35a971ab1|57eaf45219be608847d6): **60%**
+- [Base](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.13_Base_Rate_Definition-3ea70be9-6d09-4e25-8025-a0235dd71c28|57eaf45219be608847d6): **0%**
+- [Slope1](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.15_Slope_1_Definition-20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6): **4%**
+- [Slope2](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.16_Slope_2_Definition-e5bb5c04-c9f1-4f85-bd45-1d36269482fe|57eaf45219be608847d6): **300%**
 - Stable rate func (deprecated): **N/A**
 - Enable Borrow: **YES**
 - Stable Rate Borrowing: **NO**
-- Isolation Borrowable: **NO**
+- [Isolation Borrowable](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.20_Isolated_Borrow-9acac8ca-3870-4680-ae38-1ba3deb09fe3|57eaf45219be608847d6bfdb): **NO**
 - [Siloed Borrowing](https://docs.sparkprotocol.io/developers/sparklend/features/siloed-borrowing): **NO**
 - [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **YES**
 - [Loan To Value](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value): **65%**
