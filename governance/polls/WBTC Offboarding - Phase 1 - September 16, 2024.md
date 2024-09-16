@@ -17,7 +17,7 @@ end_date: 2024-09-19T16:00:00
 ---
 # Poll: Offboarding Parameters for WBTC Collateral Types - Phase 1 - September 16, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
 
 **This is a binary vote.**
 
