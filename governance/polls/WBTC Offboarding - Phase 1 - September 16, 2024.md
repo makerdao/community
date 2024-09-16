@@ -34,19 +34,22 @@ The WBTC collateral types offboarding will take place progressively over the cou
 ### Legacy Vaults
 
 - Reduce Liquidation Penalty for WBTC-A, WBTC-B, and WBTC-C from 13% to **0%**.
-- Set Linear Interpolation (LERP) for Liquidation Ratios:
+- Set [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio):
   - Increase WBTC-A LERP from 145% to **150% over 6 days**.
   - Increase WBTC-B LERP from 130% to **150% over 6 days**.
-- Reduce Stability Fees for WBTC-A, WBTC-B, and WBTC-C vaults to **0%**.
+- Reduce [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for WBTC-A, WBTC-B, and WBTC-C vaults to **0%**.
 
 ### SparkLend
 
-- Reduce Liquidation Threshold from 75% to 70%.
+- Reduce [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) from 75% to **70%**.
 - Update Cap Automator parameters:
   - Reduce Supply Cap `gap` from 500 WBTC to **200 WBTC**.
   - Reduce Supply Cap `max` from 10,000 WBTC to **5,000 WBTC**.
   - Reduce Borrow Cap `gap` from 100 WBTC to **1 WBTC**.
   - Reduce Borrow Cap `max` from 2,000 WBTC to **1 WBTC**.
+
+
+For more details on the Cap Automator parameters, please visit this [forum post](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/26) to help inform your position before voting.
 
