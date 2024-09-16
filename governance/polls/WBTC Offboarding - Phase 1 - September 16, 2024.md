@@ -57,7 +57,8 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- This change will be included in an upcoming Executive Vote.
+- Two public announcements will inform users about this offboarding.
+- Once 14 calendar days have passed following a second public announcement. This change will be included in an Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
