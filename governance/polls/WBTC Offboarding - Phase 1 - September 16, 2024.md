@@ -37,7 +37,12 @@ The WBTC collateral types offboarding will take place progressively over the cou
 - Set [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio):
   - Increase WBTC-A LERP from 145% to **150% over 6 days**.
   - Increase WBTC-B LERP from 130% to **150% over 6 days**.
-- Reduce [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for WBTC-A, WBTC-B, and WBTC-C vaults to **0%**.
+- Reduce [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for WBTC-A, WBTC-B, and WBTC-C vaults as follows:
+
+WBTC-A: Decrease Stability Fee by 7.75 percentage points, from 7.75% to **0%**.
+WBTC-B: Decrease Stability Fee by 8.25 percentage points, from 8.25% to **0%**.
+WBTC-C: Decrease Stability Fee by 7.50 percentage points, from 7.50% to **0%**.
+
 
 ### SparkLend
 
