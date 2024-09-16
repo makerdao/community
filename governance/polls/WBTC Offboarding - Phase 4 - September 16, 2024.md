@@ -36,8 +36,8 @@ The WBTC collateral types offboarding will take place progressively over the cou
 - Reduce [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) from 50% to **35%**.
 - Update Cap Automator parameters:
   - Remove WBTC from Cap Automator.
-  - Reduce Supply Cap to **0 WBTC**.
-  - Reduce Borrow Cap to **0 WBTC**.
+  - Reduce Supply Cap `gap` from 50 WBTC to **0 WBTC**.
+  - Reduce Borrow Cap `max` from 2,500 WBTC to **0 WBTC**.
 
 _This Governance Poll does not include legacy vault parameter changes; it only includes SparkLend parameter changes._
 
@@ -51,7 +51,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 - This change will be included in an upcoming Executive Vote with tentative starting date October 31, 2024.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-- If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
@@ -59,7 +59,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 

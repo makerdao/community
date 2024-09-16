@@ -48,7 +48,7 @@ The WBTC collateral types offboarding will take place progressively over the cou
 - Update Cap Automator parameters:
   - Reduce Supply Cap `gap` from 200 WBTC to **100 WBTC**.
   - Reduce Supply Cap `max` from 5,000 WBTC to **3,500 WBTC**.
-- Update [Interest Rate Model](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#interest-rate-model) parameters:
+- Update [Interest Rate Model (IRM)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) parameters:
   - Increase base rate from 0% to **5%**.
   - Increase slope 1 from 2% to **20%**.
 
@@ -63,7 +63,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 - This change will be included in an upcoming Executive Vote with tentative starting date October 3, 2024.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-- If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
@@ -71,7 +71,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
