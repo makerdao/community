@@ -4,16 +4,8 @@ summary: Signal your support or opposition to onboarding Coinbase Wrapped BTC (c
 discussion_link: https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076
 parameters:
     input_format: single-choice
-    abstain: [0]
     victory_conditions:
-        - {
-            type: 'and',
-            conditions: [
-                { type : plurality },
-                { type : comparison, comparator : '>=', value: 20000 }
-            ]
-        }
-        - {type : default, value : 2 }
+        - { type : plurality }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
