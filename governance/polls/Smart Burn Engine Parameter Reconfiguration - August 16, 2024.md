@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following Smart Burn Engine parameter changes:
+The community can vote in this poll to express support or opposition to the following [Smart Burn Engine (SBE)](https://manual.makerdao.com/parameter-index/smart-burn-engine) parameter changes:
 
 - The [`hop` parameter](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e|57ea2c549207d9fe7d45) will be increased by 1,386 seconds from 10,249 seconds to **11,635 seconds**.
 - The [`bump` parameter](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.3_Bump_Parameter-512d164c-e60a-4054-850f-96285479901b|57ea2c549207d9fe7d45) will be decreased by 40,000 DAI from 65,000 DAI to **25,000 DAI** (USDS in practice).
@@ -44,7 +44,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/smart-burn-en
 
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-- If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
@@ -52,7 +52,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/smart-burn-en
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
