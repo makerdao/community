@@ -45,7 +45,7 @@ Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- This change will be included in an upcoming Executive Vote tentatively starting in November, 2024.
+- This change will be included in a later spell of Phase 4, tentatively in November 2024.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
