@@ -33,24 +33,27 @@ The WBTC collateral types offboarding will take place progressively over the cou
 
 ### Legacy Vaults
 
-- Set Linear Interpolation (LERP) for Liquidation Ratios:
+- Set [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio):
   - Increase WBTC-A LERP from 150% to **500% over 30 days**.
   - Increase WBTC-B LERP from 150% to **500% over 30 days**.
   - Increase WBTC-C LERP from 170% to **500% over 30 days**.
-- Reduce Maximum Liquidation Throughput (`ilk.hole`) parameters:
-  - Reduce WBTC-A Maximum Liquidation Throughput from 10 million DAI to **3 million DAI**.
-  - Reduce WBTC-B Maximum Liquidation Throughput from 5 million DAI to **3 million DAI**.
-  - Reduce WBTC-C Maximum Liquidation Throughput from 10 million DAI to **3 million DAI**.
+- Reduce [Local Liquidation Limit (`ilk.hole`)](https://manual.makerdao.com/parameter-index/collateral-auction/param-local-liquidation-limit) parameters:
+  - Reduce WBTC-A Local Liquidation Limit from 10 million DAI to **3 million DAI**.
+  - Reduce WBTC-B Local Liquidation Limit from 5 million DAI to **3 million DAI**.
+  - Reduce WBTC-C Local Liquidation Limit from 10 million DAI to **3 million DAI**.
 
 ### SparkLend
 
-- Reduce Liquidation Threshold from 70% to 65%
+- Reduce [Liquidation Threshold]([Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold)) from 70% to 65%
 - Update Cap Automator parameters:
   - Reduce Supply Cap `gap` from 200 WBTC to **100 WBTC**.
   - Reduce Supply Cap `max` from 5,000 WBTC to **3,500 WBTC**.
-- Update Interest Rate Model parameters:
+- Update [Interest Rate Model](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate#interest-rate-model) parameters:
   - Increase base rate from 0% to **5%**.
   - Increase slope 1 from 2% to **20%**.
+
+
+For more details on the Cap Automator parameters, please visit this [forum post](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/26) to help inform your position before voting.
 
