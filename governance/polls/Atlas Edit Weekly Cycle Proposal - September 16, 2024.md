@@ -3,9 +3,18 @@ title: Atlas Edit Weekly Cycle Proposal - September 16, 2024
 summary: Signal your support or opposition to this Atlas edit, which 1) Updates the GSM Delay Exception for the Smart Burn Engine based on a request from BA Labs, 2) adds exemption for the Facilitator anonymity requirement for Ecosystem based on discussion with Governance Facilitators, 3) makes minor updates to language in some places to incorporate initial feedback on Atlas v2.
 discussion_link: https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal/25083
 parameters:
-    input_format: single-choice
+    input_format:
+        type: single-choice
+        abstain: [0]
     victory_conditions:
-        - { type : plurality }
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 10000 }
+            ]
+        }
+        - {type : default, value : 2 }
     result_display: single-vote-breakdown
 version: v2.0.0
 options:
