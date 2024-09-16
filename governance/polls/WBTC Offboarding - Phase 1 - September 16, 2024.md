@@ -47,7 +47,7 @@ WBTC-C: Decrease Stability Fee by 7.50 percentage points, from 7.50% to **0%**.
 ### SparkLend
 
 - Reduce [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) from 75% to **70%**.
-- Update Cap Automator parameters:
+- Update [Cap Automator](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4_Cap_Automators-f9f321a3-b09d-453b-8726-d20f059faa1c|57eaf45219be6088) parameters:
   - Reduce Supply Cap `gap` from 500 WBTC to **200 WBTC**.
   - Reduce Supply Cap `max` from 10,000 WBTC to **5,000 WBTC**.
   - Reduce Borrow Cap `gap` from 100 WBTC to **1 WBTC**.
