@@ -44,7 +44,7 @@ The WBTC collateral types offboarding will take place progressively over the cou
 
 ### SparkLend
 
-- Reduce [Liquidation Threshold]([Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold)) from 70% to 65%
+- Reduce [Liquidation Threshold]([Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold)) from 70% to **65%**
 - Update Cap Automator parameters:
   - Reduce Supply Cap `gap` from 200 WBTC to **100 WBTC**.
   - Reduce Supply Cap `max` from 5,000 WBTC to **3,500 WBTC**.
