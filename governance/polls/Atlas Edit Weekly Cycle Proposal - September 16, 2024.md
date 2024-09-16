@@ -17,7 +17,7 @@ end_date: 2024-09-19T16:00:00
 ---
 # Poll: Atlas Edit Weekly Cycle Proposal - September 16, 2024
 
-The Governance Facilitators have placed an Atlas Edit Weekly Cycle Proposal into the voting system [on behalf of Prime Aligned Delegate Blue](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal/25083/3). This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
+The Governance Facilitators have placed an Atlas Edit Weekly Cycle Proposal into the voting system [on behalf of Prime Aligned Delegate Blue](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal/25083/3). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) will be active for three days beginning on Monday, September 16 at 16:00 UTC.
 
 **This is a binary vote.**
 
