@@ -33,13 +33,15 @@ The WBTC collateral types offboarding will take place progressively over the cou
 
 ### SparkLend
 
-- Reduce Liquidation Threshold from 50% to **35%**.
+- Reduce [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) from 50% to **35%**.
 - Update Cap Automator parameters:
   - Remove WBTC from Cap Automator.
   - Reduce Supply Cap to **0 WBTC**.
   - Reduce Borrow Cap to **0 WBTC**.
 
 _This Governance Poll does not include legacy vault parameter changes; it only includes SparkLend parameter changes._
+
+For more details on the Cap Automator parameters, please visit this [forum post](https://forum.makerdao.com/t/feb-22-2024-proposed-changes-to-sparklend-for-upcoming-spell/23739).
 
 Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/26) to help inform your position before voting.
 

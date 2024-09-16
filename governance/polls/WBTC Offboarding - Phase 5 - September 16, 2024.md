@@ -37,7 +37,7 @@ The WBTC collateral types offboarding will take place progressively over the cou
 
 ### SparkLend
 
-- Reduce Liquidation Threshold from 35% to **0%**.
+- Reduce [Liquidation Threshold](https://docs.aave.com/risk/asset-risk/risk-parameters#liquidation-threshold) from 35% to **0%**.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/26) to help inform your position before voting.
 
