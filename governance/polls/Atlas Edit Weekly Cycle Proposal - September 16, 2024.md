@@ -11,7 +11,7 @@ parameters:
             type: 'and',
             conditions: [
                 { type : plurality },
-                { type : comparison, comparator : '>=', value: 10000 }
+                { type : comparison, comparator : '>=', value: 20000 }
             ]
         }
         - {type : default, value : 2 }
