@@ -43,7 +43,7 @@ If this executive proposal passes, then $executive_entry_1_implications.
 
 ### Sky Ecosystem Liquidity Bootstrapping
 
-- **Authorization**: [Delegate Poll Request](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179/7), [Poll 1144}(https://vote.makerdao.com/polling/QmfYzKTh)  
+- **Authorization**: [Delegate Poll Request](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179/7), [Poll 1144](https://vote.makerdao.com/polling/QmfYzKTh)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179)
 
 If this executive proposal passes, then $executive_entry_2_implications.
