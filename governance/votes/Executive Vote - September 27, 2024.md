@@ -41,7 +41,7 @@ If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerd
 
 #### Flapper Initialization
 
-Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
+Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L67) with the following parameters:
 
 - `flapper_`: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
 - [`want`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.2_Want_Parameter-1ec80531-927e-4fd5-89b0-1b4a1a1fb86b|57ea2c549207d9fe7d45): **0.98 * WAD**
