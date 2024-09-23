@@ -28,8 +28,6 @@ Unless otherwise noted, the actions listed above are subject to the [GSM Pause D
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
-
-
 ---
 
 ## Proposal Details
