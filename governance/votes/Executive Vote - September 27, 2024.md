@@ -16,9 +16,10 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- Smart Burn Engine Parameter Updates.
+- Transfer **10 million USDS** and **320 million SKY** to Sky Ecosystem Liquidity Bootstrapping.
+- Distribute **124,745 DAI** and **29.46 MKR** for August Aligned Delegate Compensation.
+- Trigger Spark Proxy Spell at [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738).
 
 **Voting for this executive proposal will place your governance tokens in support of the actions outlined above.**
 
@@ -33,26 +34,33 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Smart Burn Engine Parameter Updates
 
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [$link_to_proposal]()
 
 If this executive proposal passes, then $executive_entry_1_implications.
 
-### $executive_entry_2
+### Sky Ecosystem Liquidity Bootstrapping
 
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [$link_to_proposal]()
 
 If this executive proposal passes, then $executive_entry_2_implications.
 
-### $executive_entry_3
+### Aligned Delegate Compensation
 
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [$link_to_proposal]()
 
 If this executive proposal passes, then $executive_entry_3_implications.
+
+### Trigger Spark Proxy Spell
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [$link_to_proposal]()
+
+If this executive proposal passes, then $executive_entry_4_implications.
 
 ## Review
 
