@@ -94,7 +94,7 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 
 | Delegate          | Amount (DAI) | Address                                                                                                               |
 |-------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-| BLUE              | 54,167       | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) |
+| BLUE              | 54,167       | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Cloaky            | 20,417       | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 | Kohla (Cloaky)    | 10,000       | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
 | Ennoia (Cloaky)   | 10,000       | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
