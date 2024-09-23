@@ -138,7 +138,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - Stable Rate Borrowing: **No**
 - [Siloed Borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): **No**
 - [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **Yes**
-- [Loan To Value](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value): **65%**
+- [Loan To Value](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.4_LTV_Definition-e5d19de9-0eb7-4572-857c-e83d91d92c88|57eaf45219be608847d6): **65%**
 - [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **70%**
 - Liquidation Bonus: **8%**
 - [Reserve Factor](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.8_Reserve_Factor_Definition-3f82c59f-c575-4975-8e1b-653136c3f1fd|57eaf45219be608847d6): **20%**
