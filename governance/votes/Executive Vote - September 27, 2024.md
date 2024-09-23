@@ -153,7 +153,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - [Isolation Mode](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.2_Cap_Automator_Cooldown_Period_Definition-670fadea-2b37-4e54-931a-01c3487b28f9|57eaf45219be6088aa1c4806): **No**
 - Isolation Mode Debt Ceiling: **N/A**
 - Liquidation Protocol Fee: **10%**
-- [Emode](https://docs.sparkprotocol.io/developers/features/efficiency-mode-emode) Category: **0**
+- [High Efficiency Mode (`Emode`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6) Category: **0**
 
 ## Review
 
