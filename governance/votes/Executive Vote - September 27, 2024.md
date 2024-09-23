@@ -37,7 +37,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078/2), [Poll 1140](https://vote.makerdao.com/polling/QmSxswGN)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078)
 
-If this executive proposal passes, then the SBE Parameters will be updated through the following contract actions:
+If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized through the following contract actions:
 
 #### Flapper Calls
 
