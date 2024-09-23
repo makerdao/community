@@ -43,24 +43,24 @@ If this executive proposal passes, then the SBE Parameters will be updated throu
 
 #### Flapper Calls
 
-Initialisation of new Flapper by calling FlapperInit.initFlapperUniV2 with the following parameters:
+Initialisation of new Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
 
-- Init new Flapper with flapper_: FlapperUniV2SwapOnly (0x374D9c3d5134052Bc558F432Afa1df6575f07407)
-- Init new Flapper with want: 0.98 * WAD
-- Init new Flapper with pip: SWAP_ONLY_FLAP_SKY_ORACLE (0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437)
-- Init new Flapper with pair: PAIR_USDS_SKY (0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c)
-- Init new Flapper with usds: dss.chainlog.getAddress("USDS")
-- Init new Flapper with splitter: dss.chainlog.getAddress("MCD_SPLIT")
-- Init new Flapper with prevChainlogKey: bytes32(0)
-- Init new Flapper with chainlogKey: "MCD_FLAP"
+- flapper_: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
+- want: 0.98 * WAD
+- pip: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
+- pair: PAIR_USDS_SKY ([0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c))
+- usds: dss.chainlog.getAddress("USDS")
+- splitter: dss.chainlog.getAddress("MCD_SPLIT")
+- prevChainlogKey: bytes32(0)
+- chainlogKey: "MCD_FLAP"
 
 #### Oracle Wrapper
 
-Initialisation of new OracleWrapper by calling FlapperInit.initOracleWrapper with the following parameters:
+Initialisation of new OracleWrapper by calling [FlapperInit.initOracleWrapper](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L38) with the following parameters:
 
-- Init new OracleWrapper with wrapper_: SWAP_ONLY_FLAP_SKY_ORACLE (0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437)
-- Init new OracleWrapper with divisor: 24,000
-- Init new OracleWrapper with clKey: "FLAP_SKY_ORACLE"
+- wrapper_: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
+- divisor: 24,000
+- clKey: "FLAP_SKY_ORACLE"
 
 #### Additional Actions
 
