@@ -23,7 +23,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 **Voting for this executive proposal will place your governance tokens in support of the actions outlined above.**
 
-Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**$number hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
+Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**16 hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
 
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
@@ -36,29 +36,29 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Smart Burn Engine Parameter Updates
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078/2), [Poll 1140](https://vote.makerdao.com/polling/QmSxswGN)  
+- **Proposal**: [Forum Post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078)
 
 If this executive proposal passes, then $executive_entry_1_implications.
 
 ### Sky Ecosystem Liquidity Bootstrapping
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Delegate Poll Request](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179/7), [Poll 1144}(https://vote.makerdao.com/polling/QmfYzKTh)  
+- **Proposal**: [Forum Post](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179)
 
 If this executive proposal passes, then $executive_entry_2_implications.
 
 ### Aligned Delegate Compensation
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Atlas A.1.5.5](https://sky-atlas.powerhouse.io/#A.1.5.5_Eligibility_To_Receive_Budget-5c9662be-9fc4-4b58-aef0-ca3e0bf56039|0db3af4ece0c)
+- **Proposal**: [Forum Post](https://forum.makerdao.com/t/august-2024-aligned-delegate-compensation/25165)
 
 If this executive proposal passes, then $executive_entry_3_implications.
 
 ### Trigger Spark Proxy Spell
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076/3)
+- **Proposal**: [Forum Post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076)
 
 If this executive proposal passes, then $executive_entry_4_implications.
 
