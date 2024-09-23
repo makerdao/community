@@ -107,7 +107,7 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 
 | Delegate     | Amount (MKR) | Address                                                                                                               |
 |--------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-| BLUE         |        13.75 | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) |
+| BLUE         |        13.75 | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Cloaky       |        12.00 | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 | JuliaChang   |         1.25 | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
 | Byteron      |         1.25 | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
