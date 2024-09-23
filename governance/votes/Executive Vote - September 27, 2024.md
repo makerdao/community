@@ -125,7 +125,7 @@ If this executive proposal passes, then the Spark Proxy Spell, prepared by Phoen
 If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as described below:
 
 - Token: **cbBTC**
-- Token Address: **[0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf](https://etherscan.io/address/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf)**
+- Token Address: **[0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf](https://etherscan.io/address/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf)**
 - Oracle: [Chronicle Labs BTC/USD](https://chroniclelabs.org/dashboard/oracle/BTC/USD?blockchain=ETH&txn=0xe9ff73bad08cd1efc4773a2ccb0b43a39c441a8a5d0b180bd5ad5d20ac096016&contract=0x24C392CDbF32Cf911B258981a66d5541d85269ce)
 - Oracle Provider: Chronicle Labs
 - [Optimal Utilization](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.11_Optimal_Utilization_Definition-7dd3b868-b5c1-4f16-b997-8fb35a971ab1|57eaf45219be608847d6): **60%**
