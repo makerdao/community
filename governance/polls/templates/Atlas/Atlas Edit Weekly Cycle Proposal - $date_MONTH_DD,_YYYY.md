@@ -29,6 +29,7 @@ end_date: $YYYY-MM-DDT16:00:00
 The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate $Delegate_Name]($link). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
+
 - **You may vote for a single option.**
 - **You should vote for the option which you prefer.**
 - **If you would accept either option, you should vote 'Abstain'.**
@@ -49,6 +50,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **20,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option exceed 20,000 MKR, then the following actions will be taken:**
+
 - The associated Pull Request will be merged into The Atlas.
 
 ---
