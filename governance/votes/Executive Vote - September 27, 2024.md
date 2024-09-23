@@ -5,7 +5,7 @@ date: 2024-09-27T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] SBE Updates, Sky Ecosystem Liquidity Bootstrapping, Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
+# [Executive Proposal] SBE Updates, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
