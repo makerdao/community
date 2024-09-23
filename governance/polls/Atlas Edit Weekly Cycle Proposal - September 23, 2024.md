@@ -44,7 +44,7 @@ A brief summary of this Atlas Edit is shown below:
 
 - Adds an exemption allowing the Ecosystem entity to occupy multiple ecosystem roles.
 - Adjusts the wording regarding non-compliance for location-filtering.
-- Adds a short term Sky on Solana crosschain strategy.
+- Adds a short-term Sky on Solana crosschain strategy.
 - Approves a liquidity bootstrapping budget for the Sky Ecosystem.
 
 ## Outcomes

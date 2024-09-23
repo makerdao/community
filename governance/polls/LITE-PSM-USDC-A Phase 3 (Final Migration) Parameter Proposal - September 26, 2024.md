@@ -1,5 +1,5 @@
 ---
-title: LITE-PSM-USDC-A Phase 3 (Final Migration) Parameter Proposal - September 26, 2024
+title: LITE-PSM-USDC-A Phase 3 (Final Migration) Parameter Proposal - September 23, 2024
 summary: Signal your support or opposition to the LITE-PSM-USDC-A Phase 3 parameter proposal.
 discussion_link: https://forum.makerdao.com/t/lite-psm-usdc-a-phase-3-final-migration-proposed-parameters/25183
 parameters:
@@ -12,10 +12,10 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2024-09-26T16:00:00
-end_date: 2024-09-29T16:00:00
+start_date: 2024-09-23T16:00:00
+end_date: 2024-09-26T16:00:00
 ---
-# Poll: LITE-PSM-USDC-A Phase 3 (Final Migration) Parameter Proposal - September 26, 2024
+# Poll: LITE-PSM-USDC-A Phase 3 (Final Migration) Parameter Proposal - September 23, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, September 23 at 16:00 UTC.
 
