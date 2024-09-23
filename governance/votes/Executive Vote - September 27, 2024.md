@@ -120,9 +120,40 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 
 If this executive proposal passes, then the Spark Proxy Spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, at address [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738) will be triggered.
 
-#### Mainnet Collateral Onboarding of cbBTC
+#### [Mainnet] Collateral Onboarding of cbBTC
 
-If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as discussed in this [forum post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076).
+If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as described below:
+
+- Token: **cbBTC**
+- Token Address: **[0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf](https://etherscan.io/address/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf)**
+- Oracle: [Chronicle Labs BTC/USD](https://chroniclelabs.org/dashboard/oracle/BTC/USD?blockchain=ETH&txn=0xe9ff73bad08cd1efc4773a2ccb0b43a39c441a8a5d0b180bd5ad5d20ac096016&contract=0x24C392CDbF32Cf911B258981a66d5541d85269ce)
+- Oracle Provider: Chronicle Labs
+- [Optimal Utilization](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.11_Optimal_Utilization_Definition-7dd3b868-b5c1-4f16-b997-8fb35a971ab1|57eaf45219be608847d6): **60%**
+- [Base](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.13_Base_Rate_Definition-3ea70be9-6d09-4e25-8025-a0235dd71c28|57eaf45219be608847d6): **0%**
+- [Slope1](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.15_Slope_1_Definition-20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6): **4%**
+- [Slope2](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.16_Slope_2_Definition-e5bb5c04-c9f1-4f85-bd45-1d36269482fe|57eaf45219be608847d6): **300%**
+- Stable rate func (deprecated): N/A
+- Borrow Enabled: **Yes**
+- [Isolation Borrowable](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.20_Isolated_Borrow-9acac8ca-3870-4680-ae38-1ba3deb09fe3|57eaf45219be608847d6bfdb): **No**
+- Stable Rate Borrowing: **No**
+- [Siloed Borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): **No**
+- [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **Yes**
+- [Loan To Value](https://docs.aave.com/risk/asset-risk/risk-parameters#loan-to-value): **65%**
+- [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **70%**
+- Liquidation Bonus: **8%**
+- [Reserve Factor](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.8_Reserve_Factor_Definition-3f82c59f-c575-4975-8e1b-653136c3f1fd|57eaf45219be608847d6): **20%**
+- [Supply Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#supply-caps): **500 cbBTC**
+- Supply Cap (`max`): **3,000 cbBTC**
+- Supply Cap (`gap`): **500 cbBTC**
+- Supply Cap (`ttl`): **12 hours**
+- [Borrow Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#borrow-caps): **50 cbBTC**
+- Borrow Cap (`max`): **500 cbBTC**
+- Borrow Cap (`gap`): **50 cbBTC**
+- Borrow Cap (`ttl`): **12 hours**
+- [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode): **No**
+- Isolation Mode Debt Ceiling: **N/A**
+- Liquidation Protocol Fee: **10%**
+- [Emode](https://docs.sparkprotocol.io/developers/features/efficiency-mode-emode) Category: **0**
 
 ## Review
 
