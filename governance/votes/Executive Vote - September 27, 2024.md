@@ -72,7 +72,16 @@ Additionally, the following parameters will updated by this spell:
 - **Authorization**: [Delegate Poll Request](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179/7), [Poll 1144](https://vote.makerdao.com/polling/QmfYzKTh)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179)
 
-If this executive proposal passes, then **10 million USDS** and **320 million SKY** will be transferred to Sky Ecosystem Liquidity Bootstrapping at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
+If this executive proposal passes, then **10 million USDS** and **320 million SKY** will be transferred to the Sky Ecosystem Liquidity Bootstrapping multisig at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
+
+To facilitate the transfer of USDS the following actions will occur:
+-  Transfer 10 million Dai from the Surplus Buffer to the Pause Proxy.
+- Convert this Dai to USDS using the DAI_USDS converter.
+- Transfer the resulting 10 million USDS to the destination address.
+
+To facilitate the transfer of SKY the following actions will occur:
+- Convert 13,334 MKR held within the Pause Proxy to SKY using the MKR_SKY converter.
+- Transfer 320,000,000 SKY to the destination address.
 
 ### Aligned Delegate Compensation
 
