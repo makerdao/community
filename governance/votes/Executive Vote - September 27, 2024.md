@@ -41,7 +41,7 @@ If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerd
 
 #### Flapper Initialization
 
-Initialisation of new Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
+Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
 
 - flapper_: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
 - want: 0.98 * WAD
