@@ -16,7 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- Smart Burn Engine Parameter Updates.
+- Smart Burn Engine (SBE) reconfiguration featuring a new contract deployment that is changing the nature of the SBE. 
 - Transfer **10 million USDS** and **320 million SKY** to Sky Ecosystem Liquidity Bootstrapping.
 - Distribute **124,745 DAI** and **29.46 MKR** for August Aligned Delegate Compensation.
 - Trigger Spark Proxy Spell at [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738).
@@ -32,12 +32,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Smart Burn Engine (SBE) Parameter Updates
+### Smart Burn Engine (SBE) Reconfiguration
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078/2), [Poll 1140](https://vote.makerdao.com/polling/QmSxswGN)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078)
 
-If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized through the following contract actions:
+If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized. This [reconfiguration](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078) takes the SBE from a buy-and-make to a buy-and-burn model through the following contract actions:
 
 #### Flapper Initialization
 
@@ -85,7 +85,7 @@ To facilitate the transfer of SKY the following actions will occur:
 
 ### Aligned Delegate Compensation
 
-- **Authorization**: [Atlas A.1.5.5](https://sky-atlas.powerhouse.io/#A.1.5.5_Eligibility_To_Receive_Budget-5c9662be-9fc4-4b58-aef0-ca3e0bf56039|0db3af4ece0c)
+- **Authorization**: [Atlas 2.6.3 (legacy)](https://mips.makerdao.com/mips/details/MIP101#2-6-3-aligned-delegate-budget-and-participation-requirements)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/august-2024-aligned-delegate-compensation/25165)
 
 If this executive proposal passes, then a total of **124,745 DAI** and **29.46 MKR** will be distributed to six Aligned Delegates and their teams as compensation for August 2024.
@@ -120,7 +120,7 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 
 If this executive proposal passes, then the Spark Proxy Spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, at address [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738) will be triggered.
 
-#### Collateral Onboarding of cbBTC
+#### Mainnet Collateral Onboarding of cbBTC
 
 If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as discussed in this [forum post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076).
 
