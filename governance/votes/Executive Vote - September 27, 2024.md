@@ -65,7 +65,7 @@ Initialisation of new OracleWrapper by calling [FlapperInit.initOracleWrapper](h
 Additionally, the following parameters will updated by this spell:
 
 - Increase the [hop parameter (`vow.hop`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e%7C57ea2c549207d9fe7d45) by 1,386 seconds from 10,249 seconds to **11,635 seconds**.
-- Decrease the [bump parameter (vow.bump)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.3_Bump_Parameter-512d164c-e60a-4054-850f-96285479901b%7C57ea2c549207d9fe7d45) by 40,000 USDS from 65,000 USDS to **25,000 USDS**.
+- Decrease the [bump parameter (`vow.bump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.3_Bump_Parameter-512d164c-e60a-4054-850f-96285479901b%7C57ea2c549207d9fe7d45) by 40,000 USDS from 65,000 USDS to **25,000 USDS**.
 
 ### Sky Ecosystem Liquidity Bootstrapping
 
