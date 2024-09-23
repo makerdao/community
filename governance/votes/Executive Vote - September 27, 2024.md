@@ -34,12 +34,40 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Smart Burn Engine Parameter Updates
+### Smart Burn Engine (SBE) Parameter Updates
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078/2), [Poll 1140](https://vote.makerdao.com/polling/QmSxswGN)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078)
 
-If this executive proposal passes, then $executive_entry_1_implications.
+If this executive proposal passes, then the SBE Parameters will be updated through the following contract actions:
+
+#### Flapper Calls
+
+Initialisation of new Flapper by calling FlapperInit.initFlapperUniV2 with the following parameters:
+
+- Init new Flapper with flapper_: FlapperUniV2SwapOnly (0x374D9c3d5134052Bc558F432Afa1df6575f07407)
+- Init new Flapper with want: 0.98 * WAD
+- Init new Flapper with pip: SWAP_ONLY_FLAP_SKY_ORACLE (0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437)
+- Init new Flapper with pair: PAIR_USDS_SKY (0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c)
+- Init new Flapper with usds: dss.chainlog.getAddress("USDS")
+- Init new Flapper with splitter: dss.chainlog.getAddress("MCD_SPLIT")
+- Init new Flapper with prevChainlogKey: bytes32(0)
+- Init new Flapper with chainlogKey: "MCD_FLAP"
+
+#### Oracle Wrapper
+
+Initialisation of new OracleWrapper by calling FlapperInit.initOracleWrapper with the following parameters:
+
+- Init new OracleWrapper with wrapper_: SWAP_ONLY_FLAP_SKY_ORACLE (0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437)
+- Init new OracleWrapper with divisor: 24,000
+- Init new OracleWrapper with clKey: "FLAP_SKY_ORACLE"
+
+#### Additional Actions
+
+Additionally, the following parameters will updated by this spell:
+
+- Increase the [hop parameter (vow.hop)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e%7C57ea2c549207d9fe7d45) by 1,386 seconds from 10,249 seconds to **11,635 seconds**.
+- Decrease the [bump parameter (vow.bump)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.3_Bump_Parameter-512d164c-e60a-4054-850f-96285479901b%7C57ea2c549207d9fe7d45) by 40,000 USDS from 65,000 USDS to **25,000 USDS**.
 
 ### Sky Ecosystem Liquidity Bootstrapping
 
