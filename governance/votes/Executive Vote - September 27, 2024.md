@@ -149,7 +149,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - [Borrow Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#borrow-caps): **50 cbBTC**
 - Borrow Cap (`max`): **500 cbBTC**
 - Borrow Cap (`gap`): **50 cbBTC**
-- Borrow Cap (`ttl`): **12 hours**
+- [Borrow Cap Automator Cooldown Period (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.2_Cap_Automator_Cooldown_Period_Definition-670fadea-2b37-4e54-931a-01c3487b28f9|57eaf45219be6088aa1c4806): **12 hours**
 - [Isolation Mode](https://docs.sparkprotocol.io/developers/features/isolation-mode): **No**
 - Isolation Mode Debt Ceiling: **N/A**
 - Liquidation Protocol Fee: **10%**
