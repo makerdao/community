@@ -43,7 +43,7 @@ If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerd
 
 Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
 
-- flapper_: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
+- `flapper_`: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
 - want: 0.98 * WAD
 - pip: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
 - pair: PAIR_USDS_SKY ([0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c))
