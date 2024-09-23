@@ -113,7 +113,7 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 | Byteron      |         1.25 | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
 | Rocky        |         1.21 | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
-### Trigger Spark Proxy Spell
+### Spark Proxy Spell
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076/3), [Poll 1141](https://vote.makerdao.com/polling/QmPFkXna#poll-detail)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076)
