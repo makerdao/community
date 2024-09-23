@@ -49,7 +49,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### Keeper Network Threshold Parameters
 
-Due to DC-IAM and Buf parameters changes in the LitePSM, a new KeeperJob has to be deployed with the following parameters:
+The parameters for the KeeperNetworkJob will be:
 
 - `fill`: set `rushThreshold` to **20 million DAI**.
 - `trim`: set `gushThreshold` to **20 million DAI**.
