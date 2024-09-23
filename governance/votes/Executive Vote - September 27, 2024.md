@@ -45,12 +45,12 @@ Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2]
 
 - `flapper_`: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
 - [`want`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.2_Want_Parameter-1ec80531-927e-4fd5-89b0-1b4a1a1fb86b|57ea2c549207d9fe7d45): **0.98 * WAD**
-- pip: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
-- pair: PAIR_USDS_SKY ([0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c))
-- usds: dss.chainlog.getAddress("USDS")
-- splitter: dss.chainlog.getAddress("MCD_SPLIT")
-- prevChainlogKey: bytes32(0)
-- chainlogKey: "MCD_FLAP"
+- [`pip`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.4_Pip_Parameter-dee4b9b5-022c-443a-b4ea-0c265243cc04|57ea2c549207d9fe7d45): SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
+- `pair`: PAIR_USDS_SKY ([0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c](https://etherscan.io/address/0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c))
+- `usds`: dss.chainlog.getAddress("USDS")
+- `splitter`: dss.chainlog.getAddress("MCD_SPLIT")
+- `prevChainlogKey`: bytes32(0)
+- `chainlogKey`: "MCD_FLAP"
 
 #### Oracle Wrapper
 
