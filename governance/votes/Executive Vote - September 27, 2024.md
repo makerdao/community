@@ -39,7 +39,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized through the following contract actions:
 
-#### Flapper Calls
+#### Flapper Initialization
 
 Initialisation of new Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L22) with the following parameters:
 
