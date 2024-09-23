@@ -74,21 +74,48 @@ Additionally, the following parameters will updated by this spell:
 - **Authorization**: [Delegate Poll Request](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179/7), [Poll 1144](https://vote.makerdao.com/polling/QmfYzKTh)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/atlas-edit-weekly-cycle-proposal-week-of-2024-09-23/25179)
 
-If this executive proposal passes, then $executive_entry_2_implications.
+If this executive proposal passes, then **10 million USDS** and **320 million SKY** will be transfered to Sky Ecosystem Liquidity Bootstrapping at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
 
 ### Aligned Delegate Compensation
 
 - **Authorization**: [Atlas A.1.5.5](https://sky-atlas.powerhouse.io/#A.1.5.5_Eligibility_To_Receive_Budget-5c9662be-9fc4-4b58-aef0-ca3e0bf56039|0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/august-2024-aligned-delegate-compensation/25165)
 
-If this executive proposal passes, then $executive_entry_3_implications.
+If this executive proposal passes, then a total of **124,745 DAI** and **29.46 MKR** will be distributed to six Aligned Delegates and their teams as compensation for August 2024.
+
+#### DAI Distributions
+
+| Delegate          | Amount (DAI) | Address                                                                                                               |
+|-------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+| BLUE              | 54,167       | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) |
+| Cloaky            | 20,417       | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| Kohla (Cloaky)    | 10,000       | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
+| Ennoia (Cloaky)   | 10,000       | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
+| JuliaChang        | 8,333        | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
+| Byteron           | 8,333        | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| Rocky             | 8,065        | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
+| BONAPUBLICA       | 5,430        | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
+
+#### MKR Distributions
+
+| Delegate     | Amount (MKR) | Address                                                                                                               |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+| BLUE         |        13.75 | [0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf](https://etherscan.io/address/0xb6c09680d822f162449cdfb8248a7d3fc26ec9bf) |
+| Cloaky       |        12.00 | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| JuliaChang   |         1.25 | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
+| Byteron      |         1.25 | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| Rocky        |         1.21 | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
 ### Trigger Spark Proxy Spell
 
-- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076/3)
+- **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076/3), [Poll 1141](https://vote.makerdao.com/polling/QmPFkXna#poll-detail)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076)
 
-If this executive proposal passes, then $executive_entry_4_implications.
+If this executive proposal passes, then the Spark Proxy Spell, prepared by Wonderland, Phoenix Labs, and Certora, at address [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738) will be triggered.
+
+#### Collateral Onboarding of cbBTC
+
+If this executive proposal passes, the Sprak Proxy Spell will onboard cbBTC as disscussed in this [forum post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076).
 
 ## Review
 
