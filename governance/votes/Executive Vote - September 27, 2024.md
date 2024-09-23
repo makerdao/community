@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] SBE Updates, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
-summary: Smart Burn Engine Parameter Updates, USDS and SKY Transfers for Sky Ecosystem Liquidity Bootrapping, August MKR and DAI Aligned Delegate Compensation, and trigger Spark Proxy Spell.
+title: Template - [Executive Vote] SBE Reconfiguration, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
+summary: Smart Burn Engine reconfiguration with updated parameters, USDS and SKY Transfers for Sky Ecosystem Liquidity Bootrapping, August MKR and DAI Aligned Delegate Compensation, and trigger Spark Proxy Spell.
 date: 2024-09-27T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] SBE Updates, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
+# [Executive Proposal] SBE Reconfiguration, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
