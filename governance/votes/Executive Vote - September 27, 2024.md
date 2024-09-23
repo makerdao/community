@@ -145,7 +145,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - [Supply Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.9_Supply_Cap_Definition-75575b79-9a3c-4601-9c57-dd2f7f48e285|57eaf45219be608847d6): **500 cbBTC**
 - Supply Cap (`max`): **3,000 cbBTC**
 - Supply Cap (`gap`): **500 cbBTC**
-- Supply Cap (`ttl`): **12 hours**
+- [Supply Cap Automator Cooldown Period (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.2_Cap_Automator_Cooldown_Period_Definition-670fadea-2b37-4e54-931a-01c3487b28f9|57eaf45219be6088aa1c4806): **12 hours**
 - [Borrow Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#borrow-caps): **50 cbBTC**
 - Borrow Cap (`max`): **500 cbBTC**
 - Borrow Cap (`gap`): **50 cbBTC**
