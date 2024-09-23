@@ -118,7 +118,7 @@ If this executive proposal passes, then a total of **124,745 DAI** and **29.46 M
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076/3), [Poll 1141](https://vote.makerdao.com/polling/QmPFkXna#poll-detail)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076)
 
-If this executive proposal passes, then the Spark Proxy Spell, prepared by Wonderland, Phoenix Labs, and Certora, at address [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738) will be triggered.
+If this executive proposal passes, then the Spark Proxy Spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, at address [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738) will be triggered.
 
 #### Collateral Onboarding of cbBTC
 
