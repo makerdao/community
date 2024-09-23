@@ -54,7 +54,7 @@ Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2]
 
 #### Oracle Wrapper
 
-Initialization of new OracleWrapper by calling [FlapperInit.initOracleWrapper](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L38) with the following parameters:
+Initialization of new OracleWrapper by calling [FlapperInit.initOracleWrapper](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L111) with the following parameters:
 
 - `wrapper_`: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
 - `divisor`: 24,000
