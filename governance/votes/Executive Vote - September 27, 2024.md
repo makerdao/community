@@ -122,7 +122,7 @@ If this executive proposal passes, then the Spark Proxy Spell, prepared by Phoen
 
 #### Collateral Onboarding of cbBTC
 
-If this executive proposal passes, the Sprak Proxy Spell will onboard cbBTC as discussed in this [forum post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076).
+If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as discussed in this [forum post](https://forum.makerdao.com/t/sep-12-2024-proposed-changes-to-spark-for-upcoming-spell/25076).
 
 ## Review
 
