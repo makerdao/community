@@ -28,6 +28,7 @@ Unless otherwise noted, the actions listed above are subject to the [GSM Pause D
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
+
 ---
 
 ## Proposal Details
@@ -37,11 +38,11 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078/2), [Poll 1140](https://vote.makerdao.com/polling/QmSxswGN)  
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078)
 
-If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized. This [reconfiguration](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078) takes the SBE from a buy-and-make to a buy-and-burn model through the following contract actions:
+If this executive proposal passes, a new [SwapOnly Flapper](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078#p-98910-change-to-the-flapper-strategy-9) will be initialized. This [reconfiguration](https://forum.makerdao.com/t/smart-burn-engine-transaction-analysis-and-parameter-reconfiguration-update-9/25078) changes the SBE from a buy-and-make to a buy-and-accumulate model through the following contract actions. Accumulated tokens will be held in the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
 
 #### Flapper Initialization
 
-Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L67) with the following parameters:
+Initialization of the new SwapOnly Flapper will be performed by calling [FlapperInit.initFlapperUniV2](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L67) with the following parameters:
 
 - `flapper_`: FlapperUniV2SwapOnly ([0x374D9c3d5134052Bc558F432Afa1df6575f07407](https://etherscan.io/address/0x374D9c3d5134052Bc558F432Afa1df6575f07407))
 - [`want`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.2_Want_Parameter-1ec80531-927e-4fd5-89b0-1b4a1a1fb86b|57ea2c549207d9fe7d45): **0.98 * WAD**
@@ -54,7 +55,7 @@ Initialization of new SwapOnly Flapper by calling [FlapperInit.initFlapperUniV2]
 
 #### Oracle Wrapper
 
-Initialization of new OracleWrapper by calling [FlapperInit.initOracleWrapper](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L111) with the following parameters:
+Initialization of the new OracleWrapper will be performed by calling [FlapperInit.initOracleWrapper](https://github.com/makerdao/dss-flappers/blob/master/deploy/FlapperInit.sol#L111) with the following parameters:
 
 - `wrapper_`: SWAP_ONLY_FLAP_SKY_ORACLE ([0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437](https://etherscan.io/address/0x61A12E5b1d5E9CC1302a32f0df1B5451DE6AE437))
 - `divisor`: 24,000
@@ -75,7 +76,7 @@ Additionally, the following parameters will updated if this executive proposal p
 If this executive proposal passes, then **10 million USDS** and **320 million SKY** will be transferred to the Sky Ecosystem Liquidity Bootstrapping multisig at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
 
 To facilitate the transfer of USDS the following actions will occur:
--  Transfer 10 million Dai from the Surplus Buffer to the Pause Proxy.
+- Transfer 10 million Dai from the Surplus Buffer to the Pause Proxy.
 - Convert this Dai to USDS using the DAI_USDS converter.
 - Transfer the resulting 10 million USDS to the destination address.
 
@@ -136,7 +137,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - Borrow Enabled: **Yes**
 - [Isolation Borrowable](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.20_Isolated_Borrow-9acac8ca-3870-4680-ae38-1ba3deb09fe3|57eaf45219be608847d6bfdb): **No**
 - Stable Rate Borrowing: **No**
-- [Siloed Borrowing](https://docs.spark.fi/defi-infrastructure/sparklend#siloed-borrowing): **No**
+- [Siloed Borrowing](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.21_Siloed_Borrowing_Enabled_Definition-2683581e-34fd-4025-b3ef-a46fc19ec855|57eaf45219be608847d6): **No**
 - [Flash Loan](https://docs.sparkprotocol.io/developers/guides/flash-loans) Enabled: **Yes**
 - [Loan To Value](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.4_LTV_Definition-e5d19de9-0eb7-4572-857c-e83d91d92c88|57eaf45219be608847d6): **65%**
 - [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **70%**
@@ -146,7 +147,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard cbBTC as d
 - [Supply Cap Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806): **3,000 cbBTC**
 - [Supply Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806): **500 cbBTC**
 - [Supply Cap Automator Cooldown Period (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.2_Cap_Automator_Cooldown_Period_Definition-670fadea-2b37-4e54-931a-01c3487b28f9|57eaf45219be6088aa1c4806): **12 hours**
-- [Borrow Cap](https://docs.sparkprotocol.io/developers/features/supply-borrow-caps#borrow-caps): **50 cbBTC**
+- [Borrow Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.10_Borrow_Cap_Definition-fb930369-4ebc-4de0-9414-0a029857bc24|57eaf45219be608847d6): **50 cbBTC**
 - [Borrow Cap Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806): **500 cbBTC**
 - [Borrow Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806): **50 cbBTC**
 - [Borrow Cap Automator Cooldown Period (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.2_Cap_Automator_Cooldown_Period_Definition-670fadea-2b37-4e54-931a-01c3487b28f9|57eaf45219be6088aa1c4806): **12 hours**
