@@ -82,7 +82,7 @@ To facilitate the transfer of USDS the following actions will occur:
 
 To facilitate the transfer of SKY the following actions will occur:
 - Convert 13,334 MKR held within the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) to SKY using the [MKR_SKY](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B) converter.
-- Transfer 320,000,000 SKY to the destination address.
+- Transfer 320 million SKY to the destination address.
 
 ### Aligned Delegate Compensation
 
