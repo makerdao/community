@@ -16,7 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- Smart Burn Engine (SBE) reconfiguration featuring a new contract deployment that is changing the nature of the SBE. 
+- Smart Burn Engine (SBE) will be reconfigured featuring a new contract deployment that is changing the nature of the SBE. 
 - Transfer **10 million USDS** and **320 million SKY** to Sky Ecosystem Liquidity Bootstrapping.
 - Distribute **124,745 DAI** and **29.46 MKR** for August Aligned Delegate Compensation.
 - Trigger Spark Proxy Spell at [0xc80621140bEe6A105C180Ae7cb0a084c2409C738](https://etherscan.io/address/0xc80621140bEe6A105C180Ae7cb0a084c2409C738).
