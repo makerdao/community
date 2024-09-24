@@ -76,12 +76,12 @@ Additionally, the following parameters will updated if this executive proposal p
 If this executive proposal passes, then **10 million USDS** and **320 million SKY** will be transferred to the Sky Ecosystem Liquidity Bootstrapping multisig at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
 
 To facilitate the transfer of USDS the following actions will occur:
-- Transfer 10 million Dai from the Surplus Buffer to the Pause Proxy.
+- Transfer 10 million Dai from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
 - Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
 - Transfer the resulting 10 million USDS to the destination address.
 
 To facilitate the transfer of SKY the following actions will occur:
-- Convert 13,334 MKR held within the Pause Proxy to SKY using the MKR_SKY converter.
+- Convert 13,334 MKR held within the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) to SKY using the [MKR_SKY](https://etherscan.io/address/0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B) converter.
 - Transfer 320,000,000 SKY to the destination address.
 
 ### Aligned Delegate Compensation
