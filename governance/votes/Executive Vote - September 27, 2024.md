@@ -77,7 +77,7 @@ If this executive proposal passes, then **10 million USDS** and **320 million SK
 
 To facilitate the transfer of USDS the following actions will occur:
 - Transfer 10 million Dai from the Surplus Buffer to the Pause Proxy.
-- Convert this Dai to USDS using the DAI_USDS converter.
+- Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
 - Transfer the resulting 10 million USDS to the destination address.
 
 To facilitate the transfer of SKY the following actions will occur:
