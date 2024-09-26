@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] SBE Reconfiguration, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
 summary: Smart Burn Engine reconfiguration with updated parameters, USDS and SKY Transfers for Sky Ecosystem Liquidity Bootstrapping, August MKR and DAI Aligned Delegate Compensation, and trigger Spark Proxy Spell.
 date: 2024-09-27T00:00:00.000Z
-address: "$spell_address"
+address: "0x6e17A15427eD7A411e7d55e53C13c8cE655c35C9"
 
 ---
 # [Executive Proposal] SBE Reconfiguration, Sky Ecosystem Liquidity Bootstrapping, August 2024 Aligned Delegate Compensation, and Spark Proxy Spell - September 27, 2024
