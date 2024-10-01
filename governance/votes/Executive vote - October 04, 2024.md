@@ -65,7 +65,7 @@ If this executive proposal passes, then the [third and final set of actions](htt
 - Migrate all remaining USDC reserves from PSM-USDC-A to LITE-PSM-USDC-A.
 - Update the PSM-USDC-A [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
 - Increase the [LITE-PSM-USDC-A Buffer (`buf`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.6_Buffer_Definition-cf8e3d20-fffa-4b6a-9bf2-169d493c3638|57ea599773d45150b2632df9).
-- Update the LITE-PSM-USDC-A [DC-IAM]((https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2)).
+- Update the LITE-PSM-USDC-A [DC-IAM](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
 
 These actions are described below.
 
@@ -153,7 +153,7 @@ These actions are further described below.
 #### WBTC SparkLend Parameter Update
 
 - Reduce [Liquidation Threshold (LT)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) from 75% to **70%**.
-- Update [Cap Automator](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) parameters:
+- Update [Cap Automator](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4_Cap_Automators-f9f321a3-b09d-453b-8726-d20f059faa1c|57eaf45219be6088) parameters:
   - Reduce [Supply Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.9_Supply_Cap_Definition-75575b79-9a3c-4601-9c57-dd2f7f48e285|57eaf45219be608847d6) [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) from 500 WBTC to **200 WBTC**.
   - Reduce [Supply Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.9_Supply_Cap_Definition-75575b79-9a3c-4601-9c57-dd2f7f48e285|57eaf45219be608847d6) [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) from 10,000 WBTC to **5,000 WBTC**.
   - Reduce [Borrow Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.10_Borrow_Cap_Definition-fb930369-4ebc-4de0-9414-0a029857bc24|57eaf45219be608847d6) [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) from 100 WBTC to **1 WBTC**.
@@ -162,7 +162,7 @@ These actions are further described below.
 
 ## Review
 
-Community debate on these topics can be found on the Sky [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+Community debate on these topics can be found on the Sky [Governance forum](https://forum.sky.money/). Please review any linked threads to inform your position before voting.
 
 ---
 
