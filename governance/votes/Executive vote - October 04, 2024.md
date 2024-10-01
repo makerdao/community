@@ -126,7 +126,7 @@ A new ilk will be added as DIRECT-SPK-AAVE-LIDO-USDS.
 - aToken: TBC
 - operator: [0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5](https://etherscan.io/address/0x298b375f24cedb45e936d7e21d6eb05e344adfb5)
 - stabledebt address: TBC
-- variabledebt address: [0x2D9fe18b6c35FE439cC15D932cc5C943bf2d901E](https://etherscan.io/address/0x2D9fe18b6c35FE439cC15D932cc5C943bf2d901E) (PROVISIONAL)
+- variabledebt address: TBC
 
 #### DIRECT_MOM Breaker Extension
 
@@ -137,28 +137,11 @@ If this executive proposal passes, then the [DIRECT_MOM Breaker](https://sky-atl
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/52)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/48)
 
-If this executive proposal passes, then the following WBTC risk mitigation actions will be executed:
-
-- Update WBTC Legacy Vault parameters.
-- Update WBTC SparkLend parameters.
-
-These actions are further described below.
-
-#### WBTC Legacy Vault Parameter Update
+If this executive proposal passes, then the following WBTC risk mitigation actions will be executed on WBTC Legacy Vaults:
 
 - Decrease [Liquidation Penalty (`chop`)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.7_Liquidation_Penalty_(chop)-5295aa1f-3944-4fde-aaec-d999244b57e9|57eaf45219bea3b430c2a59a) for WBTC-A, WBTC-B, and WBTC-C from 13% to **0%**.
 - Increase WBTC-A [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) from 145% to **150%** over 6 days.
 - Increase WBTC-B [LERP](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) from 130% to **150%** over 6 days.
-
-#### WBTC SparkLend Parameter Update
-
-- Reduce [Liquidation Threshold (LT)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) from 75% to **70%**.
-- Update [Cap Automator](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4_Cap_Automators-f9f321a3-b09d-453b-8726-d20f059faa1c|57eaf45219be6088) parameters:
-  - Reduce [Supply Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.9_Supply_Cap_Definition-75575b79-9a3c-4601-9c57-dd2f7f48e285|57eaf45219be608847d6) [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) from 500 WBTC to **200 WBTC**.
-  - Reduce [Supply Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.9_Supply_Cap_Definition-75575b79-9a3c-4601-9c57-dd2f7f48e285|57eaf45219be608847d6) [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) from 10,000 WBTC to **5,000 WBTC**.
-  - Reduce [Borrow Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.10_Borrow_Cap_Definition-fb930369-4ebc-4de0-9414-0a029857bc24|57eaf45219be608847d6) [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) from 100 WBTC to **1 WBTC**.
-  - Reduce [Borrow Cap](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.10_Borrow_Cap_Definition-fb930369-4ebc-4de0-9414-0a029857bc24|57eaf45219be608847d6) [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) from 2,000 WBTC to **1 WBTC**.
-- Reduce Liquidation Protocol Fee from 10% to **0%**.
 
 ## Review
 
