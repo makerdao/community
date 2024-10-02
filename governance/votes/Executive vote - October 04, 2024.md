@@ -54,6 +54,8 @@ If this executive proposal passes, then the following [Stability Fee (SF)](https
 - Decrease DSR by 0.5 percentage points from 6% to **5.5%**.
 - Increase SSR by 0.25 percentage points from 6.25% to **6.5%**.
 
+The current Spark DAI market [Interest Rate Model (IRM)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) is tied to the DSR. Consequently, the 50 basis point reduction in DSR will result in an approximate, but not exact, 50 basis point decrease in the Effective DAI borrow rate on SparkLend.
+
 ### LITE-PSM-USDC-A Migration Phase 3
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/lite-psm-usdc-a-phase-3-final-migration-proposed-parameters/25183/2), [Poll 1143](https://vote.makerdao.com/polling/QmRjrFYG)
