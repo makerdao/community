@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Risk Mitigation - October 4, 2024
-summary: Stability Fee changes, Dai Savings Rate changes, Sky Savings Rate changes, final LITE-PSM-USDC-A migration actions, Aave Lido Market Spark USDS DM3 activation, WBTC risk mitigation actions.
+title: Template - [Executive Vote] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
+summary: Stability Fee changes, Dai Savings Rate changes, Sky Savings Rate changes, final LITE-PSM-USDC-A migration actions, Aave Lido Market Spark USDS DM3 activation, WBTC legacy vaults liquidation parameter changes.
 date: 2024-10-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Risk Mitigation - October 4, 2024
+# [Executive Proposal] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -18,11 +18,11 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - Stability Scope Parameter Changes:
-  - Multiple Native Vault [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) will be increased.
+  - Native Vault Engine [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) will be increased.
   - [DAI Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.2_Dai_Savings_Rate-8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and [SKY Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) will be changed.
 - The final LITE-PSM-USDC-A migration actions (Phase 3) will be executed.
 - The Aave Lido Market Spark USDS Direct Deposit Module (D3M) will be activated.
-- WBTC risk mitigation measures will be executed.
+- WBTC-A, WBTC-B, and WBTC-C liquidation parameters will be updated.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
