@@ -21,7 +21,7 @@ If this executive proposal passes, the following **actions** will occur within t
   - WBTC Vault [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) will be increased.
   - [DAI Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.2_Dai_Savings_Rate-8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and [SKY Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) will be changed.
 - The final LITE-PSM-USDC-A migration actions (Phase 3) will be executed.
-- The Aave Lido Market Spark USDS Direct Deposit Module (D3M) will be activated.
+- The Aave Lido Market Spark USDS Direct Deposit Module (DDM) will be activated.
 - WBTC-A, WBTC-B, and WBTC-C liquidation parameters will be updated.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
