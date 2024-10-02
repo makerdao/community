@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - Stability Scope Parameter Changes:
-  - Native Vault Engine [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) will be increased.
+  - WBTC [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) will be increased.
   - [DAI Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.2_Dai_Savings_Rate-8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and [SKY Savings Rate](https://sky-atlas.powerhouse.io/#A.3.2.2.3_Sky_Savings_Rate-73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) will be changed.
 - The final LITE-PSM-USDC-A migration actions (Phase 3) will be executed.
 - The Aave Lido Market Spark USDS Direct Deposit Module (D3M) will be activated.
@@ -54,7 +54,7 @@ If this executive proposal passes, then the following [Stability Fee (SF)](https
 - Decrease DSR by 0.5 percentage points from 6% to **5.5%**.
 - Increase SSR by 0.25 percentage points from 6.25% to **6.5%**.
 
-The current Spark DAI market [Interest Rate Model (IRM)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) is tied to the DSR. Consequently, the 50 basis point reduction in DSR will result in an approximate, but not exact, 50 basis point decrease in the Effective DAI borrow rate on SparkLend.
+The current Spark DAI market [Interest Rate Model (IRM)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) is tied to the DSR. Consequently, the 50 basis point reduction in DSR will result in an approximate, but not exact, 50 basis point decrease in the Effective DAI Borrow Rate on SparkLend.
 
 ### LITE-PSM-USDC-A Migration Phase 3
 
@@ -65,7 +65,7 @@ If this executive proposal passes, then the [third and final set of actions](htt
 
 - Update PSM-USDC-A fees.
 - Migrate all remaining USDC reserves from PSM-USDC-A to LITE-PSM-USDC-A.
-- Update the PSM-USDC-A [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
+- Remove PSM-USDC-A from the [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
 - Increase the [LITE-PSM-USDC-A Buffer (`buf`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.6_Buffer_Definition-cf8e3d20-fffa-4b6a-9bf2-169d493c3638|57ea599773d45150b2632df9).
 - Update the LITE-PSM-USDC-A [DC-IAM](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
 
@@ -82,8 +82,8 @@ The remaining USDC in [PSM-USDC-A](https://makerburn.com/#/collateral/PSM-USDC-A
 
 #### PSM-USDC-A DC-IAM Update
 
-- Decrease the [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)-6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) by 2,5 billion DAI from 2,5 billion DAI to **0 DAI**.
-- Disable the PSM-USDC-A DC-IAM.
+- Remove PSM-USDC-A from the [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
+- Set PSM-USDC-A [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)-6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) to **0 DAI**.
 
 #### LITE-PSM-USDC-A Buffer Increase
 
@@ -91,7 +91,7 @@ The remaining USDC in [PSM-USDC-A](https://makerburn.com/#/collateral/PSM-USDC-A
 
 #### LITE-PSM-USDC-A DC-IAM Update
 
-- Increase the [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 2,5 billion DAI from 7,5 billion DAI to **10 billion DAI**.
+- Increase the [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 2.5 billion DAI from 7.5 billion DAI to **10 billion DAI**.
 - Increase the [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9) by 200 million DAI from 200 million DAI to **400 million DAI**.
 - Keep the [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) unchanged at **12 hours**.
 
@@ -115,10 +115,10 @@ A new ilk will be added as DIRECT-SPK-AAVE-LIDO-USDS.
 
 #### Aave Lido Market Spark USDS D3M Setup
 
-- [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9): 100 million USDS.
-- [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9): 50 million USDS.
+- [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9): **100 million USDS**.
+- [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9): **50 million USDS**.
 - [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9): 24 hours.
-- Debt Write-off Timelock (`tau`) (Defines the time to elapse before debt can be written off after a D3M has been caged): 7 days.
+- Debt Write-off Timelock (`tau`) (Defines the time to elapse before debt can be written off after a D3M has been caged): **7 days**.
 
 #### D3M Addresses Setup
 
@@ -142,8 +142,8 @@ If this executive proposal passes, then the [DIRECT_MOM Breaker](https://sky-atl
 If this executive proposal passes, then the following WBTC risk mitigation actions will be executed on WBTC Legacy Vaults:
 
 - Decrease [Liquidation Penalty (`chop`)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.7_Liquidation_Penalty_(chop)-5295aa1f-3944-4fde-aaec-d999244b57e9|57eaf45219bea3b430c2a59a) for WBTC-A, WBTC-B, and WBTC-C from 13% to **0%**.
-- Increase WBTC-A [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) from 145% to **150%** over 6 days.
-- Increase WBTC-B [LERP](https://manual.makerdao.com/module-index/module-lerp) for [Liquidation Ratios](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) from 130% to **150%** over 6 days.
+- Increase WBTC-A [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) using the [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) module by 5 percentage points from 145% to **150%** over **6 days**.
+- Increase WBTC-B [Liquidation Ratio](https://manual.makerdao.com/parameter-index/vault-risk/param-liquidation-ratio) using the [Linear Interpolation (LERP)](https://manual.makerdao.com/module-index/module-lerp) module by 20 percentage points from 130% to **150%** over **6 days**.
 
 ## Review
 
