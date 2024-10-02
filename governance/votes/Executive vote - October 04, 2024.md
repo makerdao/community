@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
-summary: Stability Fee changes, Dai Savings Rate changes, Sky Savings Rate changes, final LITE-PSM-USDC-A migration actions, Aave Lido Market Spark USDS DM3 activation, WBTC legacy vaults liquidation parameter changes.
+title: Template - [Executive Vote] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS DDM Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
+summary: Stability Fee changes, Dai Savings Rate changes, Sky Savings Rate changes, final LITE-PSM-USDC-A migration actions, Aave Lido Market Spark USDS DDM activation, WBTC legacy vaults liquidation parameter changes.
 date: 2024-10-04T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS D3M Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
+# [Executive Proposal] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS DDM Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -100,12 +100,12 @@ The remaining USDC in [PSM-USDC-A](https://makerburn.com/#/collateral/PSM-USDC-A
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-ddm-to-aave-lido-market/25175/2)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-ddm-to-aave-lido-market/25175)
 
-If this executive proposal passes, then the Aave Lido Market Spark USDS D3M will be activated by executing the following actions:
+If this executive proposal passes, then the Aave Lido Market Spark USDS DDM will be activated by executing the following actions:
 
 - Add new ilk as DIRECT-SPK-AAVE-LIDO-USDS.
-- Set up the D3M DC-IAM.
-- Set up the D3M addresses.
-- Extend the [DIRECT_MOM Breaker](https://sky-atlas.powerhouse.io/#A.1.8.2.2.5_Direct_Deposit_Breaker_Exception-c240d4fa-ab20-4787-8dbf-7c94c8e78347%7C0db30758e055352c) to include the new D3M.
+- Set up the DDM DC-IAM.
+- Set up the DDM addresses.
+- Extend the [DIRECT_MOM Breaker](https://sky-atlas.powerhouse.io/#A.1.8.2.2.5_Direct_Deposit_Breaker_Exception-c240d4fa-ab20-4787-8dbf-7c94c8e78347%7C0db30758e055352c) to include the new DDM.
 
 These actions are further described below.
 
@@ -113,28 +113,28 @@ These actions are further described below.
 
 A new ilk will be added as DIRECT-SPK-AAVE-LIDO-USDS.
 
-#### Aave Lido Market Spark USDS D3M Setup
+#### Aave Lido Market Spark USDS DDM Setup
 
 - [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9): **100 million USDS**.
 - [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9): **50 million USDS**.
 - [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9): 24 hours.
-- Debt Write-off Timelock (`tau`) (Defines the time to elapse before debt can be written off after a D3M has been caged): **7 days**.
+- Debt Write-off Timelock (`tau`) (Defines the time to elapse before debt can be written off after a DDM has been caged): **7 days**.
 
-#### D3M Addresses Setup
+#### DDM Addresses Setup
 
 - oracle: D3MOracle
 - plan: [D3MOperatorPlan](https://github.com/makerdao/dss-direct-deposit/blob/master/src/plans/D3MOperatorPlan.sol)
 - pool: [D3MAaveV3USDSNoSupplyCapTypePool](https://github.com/makerdao/dss-direct-deposit/blob/master/src/pools/D3MAaveV3USDSNoSupplyCapTypePool.sol)
-- aToken: TBC
+- aToken: [0x09AA30b182488f769a9824F15E6Ce58591Da4781](https://etherscan.io/address/0x09aa30b182488f769a9824f15e6ce58591da4781)
 - operator: [0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5](https://etherscan.io/address/0x298b375f24cedb45e936d7e21d6eb05e344adfb5)
-- stabledebt address: TBC
-- variabledebt address: TBC
+- stabledebt address: [0x779dB175167C60c2B2193Be6B8d8B3602435e89E](https://etherscan.io/address/0x779db175167c60c2b2193be6b8d8b3602435e89e)
+- variabledebt address: [0x2D9fe18b6c35FE439cC15D932cc5C943bf2d901E](https://etherscan.io/address/0x2d9fe18b6c35fe439cc15d932cc5c943bf2d901e)
 
 #### DIRECT_MOM Breaker Extension
 
-If this executive proposal passes, then the [DIRECT_MOM Breaker](https://sky-atlas.powerhouse.io/#A.1.8.2.2.5_Direct_Deposit_Breaker_Exception-c240d4fa-ab20-4787-8dbf-7c94c8e78347%7C0db30758e055352c) will be extended to include the Aave Lido Market Spark USDS D3M, enabling governance to deactivate vault functionality through an executive spell without waiting for the GSM Pause Delay.
+If this executive proposal passes, then the [DIRECT_MOM Breaker](https://sky-atlas.powerhouse.io/#A.1.8.2.2.5_Direct_Deposit_Breaker_Exception-c240d4fa-ab20-4787-8dbf-7c94c8e78347%7C0db30758e055352c) will be extended to include the Aave Lido Market Spark USDS DDM, enabling governance to deactivate vault functionality through an executive spell without waiting for the GSM Pause Delay.
 
-### WBTC Risk Mitigation
+### WBTC Legacy Vault Parameter Changes
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/52)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/48)
