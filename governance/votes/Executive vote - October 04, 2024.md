@@ -67,7 +67,7 @@ If this executive proposal passes, then the [third and final set of actions](htt
 - Migrate all remaining USDC reserves from PSM-USDC-A to LITE-PSM-USDC-A.
 - Remove PSM-USDC-A from the [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
 - Increase the [LITE-PSM-USDC-A Buffer (`buf`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.6_Buffer_Definition-cf8e3d20-fffa-4b6a-9bf2-169d493c3638|57ea599773d45150b2632df9).
-- Update the LITE-PSM-USDC-A [DC-IAM](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2).
+- Update the LITE-PSM-USDC-A [DC-IAM](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2) parameters.
 
 These actions are described below.
 
