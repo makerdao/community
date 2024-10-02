@@ -95,7 +95,7 @@ The remaining USDC in [PSM-USDC-A](https://makerburn.com/#/collateral/PSM-USDC-A
 - Increase the [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9) by 200 million DAI from 200 million DAI to **400 million DAI**.
 - Keep the [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) unchanged at **12 hours**.
 
-### Aave Lido Market Spark USDS Direct Deposit Module (D3M) Activation
+### Aave Lido Market Spark USDS Direct Deposit Module (DDM) Activation
 
 - **Authorization**: [Ecosystem Approval](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-ddm-to-aave-lido-market/25175/2)
 - **Proposal**: [Forum Post](https://forum.makerdao.com/t/risk-assessment-and-parameter-recommendations-spark-ddm-to-aave-lido-market/25175)
