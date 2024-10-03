@@ -124,7 +124,7 @@ A new ilk will be added as DIRECT-SPK-AAVE-LIDO-USDS.
 
 - oracle: D3MOracle at [0x9dB0EB29c2819f9AE0A91A6E6f644C35a7493E9b](https://etherscan.io/address/0x9dB0EB29c2819f9AE0A91A6E6f644C35a7493E9b)
 - plan: [D3MOperatorPlan](https://github.com/makerdao/dss-direct-deposit/blob/master/src/plans/D3MOperatorPlan.sol) at [0xea2abB24bF40ac97746AFf6daCA0BBF885014b31](https://etherscan.io/address/0xea2abB24bF40ac97746AFf6daCA0BBF885014b31)
-- pool: [D3MAaveV3USDSNoSupplyCapTypePool](https://github.com/makerdao/dss-direct-deposit/blob/master/src/pools/D3MAaveV3USDSNoSupplyCapTypePool.sol)
+- pool: [D3MAaveV3USDSNoSupplyCapTypePool](https://github.com/makerdao/dss-direct-deposit/blob/master/src/pools/D3MAaveV3USDSNoSupplyCapTypePool.sol) at [0xbf674d0cD6841C1d7f9b8E809B967B3C5E867653](https://etherscan.io/address/0xbf674d0cD6841C1d7f9b8E809B967B3C5E867653)
 - aToken: [0x09AA30b182488f769a9824F15E6Ce58591Da4781](https://etherscan.io/address/0x09aa30b182488f769a9824f15e6ce58591da4781)
 - operator: [0x298b375f24CeDb45e936D7e21d6Eb05e344adFb5](https://etherscan.io/address/0x298b375f24cedb45e936d7e21d6eb05e344adfb5)
 - stabledebt address: [0x779dB175167C60c2B2193Be6B8d8B3602435e89E](https://etherscan.io/address/0x779db175167c60c2b2193be6b8d8b3602435e89e)
