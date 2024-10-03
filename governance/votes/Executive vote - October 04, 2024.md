@@ -122,7 +122,7 @@ A new ilk will be added as DIRECT-SPK-AAVE-LIDO-USDS.
 
 #### DDM Addresses Setup
 
-- oracle: D3MOracle
+- oracle: D3MOracle at [0x9dB0EB29c2819f9AE0A91A6E6f644C35a7493E9b](https://etherscan.io/address/0x9dB0EB29c2819f9AE0A91A6E6f644C35a7493E9b)
 - plan: [D3MOperatorPlan](https://github.com/makerdao/dss-direct-deposit/blob/master/src/plans/D3MOperatorPlan.sol)
 - pool: [D3MAaveV3USDSNoSupplyCapTypePool](https://github.com/makerdao/dss-direct-deposit/blob/master/src/pools/D3MAaveV3USDSNoSupplyCapTypePool.sol)
 - aToken: [0x09AA30b182488f769a9824F15E6Ce58591Da4781](https://etherscan.io/address/0x09aa30b182488f769a9824f15e6ce58591da4781)
