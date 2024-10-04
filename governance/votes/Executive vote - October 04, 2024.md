@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS DDM Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
 summary: Stability Fee changes, Dai Savings Rate changes, Sky Savings Rate changes, final LITE-PSM-USDC-A migration actions, Aave Lido Market Spark USDS DDM activation, WBTC legacy vaults liquidation parameter changes.
 date: 2024-10-04T00:00:00.000Z
-address: "$spell_address"
+address: "0x1a0C39D0dBd66956BAfb347f91F55DA1Da2B8F80"
 
 ---
 # [Executive Proposal] Stability Scope Parameter Changes, LITE-PSM-USDC-A Phase 3 (Final) Setup, Aave Lido Market Spark USDS DDM Activation, WBTC Legacy Vaults Parameter Changes - October 4, 2024
