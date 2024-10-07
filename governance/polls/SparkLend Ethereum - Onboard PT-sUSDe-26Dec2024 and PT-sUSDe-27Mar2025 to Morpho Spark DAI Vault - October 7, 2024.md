@@ -45,7 +45,7 @@ The community can vote in this poll to express support or opposition to onboardi
 - Price oracle yield to maturity: **20%**
 - Price oracle PT redemption value: **$1**
 
-Please review the discussion [thread](https://forum.sky.money/t/oct-3-2024-proposed-changes-to-spark-for-upcoming-spell/25293) to help inform your position before voting. An overview of Pendle PTs can be found in [this July 13, 2023 forum post](https://forum.sky.money/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635#pendle-pt-overview-1).
+Please review the discussion [thread](https://forum.sky.money/t/oct-3-2024-proposed-changes-to-spark-for-upcoming-spell/25293) to help inform your position before voting. An overview of Pendle PTs can be found in [this July 13, 2024 forum post](https://forum.sky.money/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635#pendle-pt-overview-1).
 
 ## Outcomes
 
