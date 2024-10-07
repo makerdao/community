@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the two additional Pendle sUSDe PT maturities PT-sUSDe-26Dec2024 and PT-sUSDe-27Mar2025 to the Morpho Spark DAI vault with the configurations that follow, as [the currently listed Pendle sUSDe PT](https://morpho.blockanalitica.com/ethereum/markets/8f46cd82c4c44a090c3d72bd7a84baf4e69ee50331d5deae514f86fe062b0748) is close to expiration:
+The community can vote in this poll to express support or opposition to onboarding the two additional Pendle sUSDe PT maturities PT-sUSDe-26Dec2024 and PT-sUSDe-27Mar2025 to the Morpho Spark DAI vault with the configurations that follow:
 
 ### PT-sUSDe-26Dec2024
 
