@@ -56,7 +56,7 @@ If this executive proposal passes, then the Lockstake Engine will be initialized
 
 - The current VOTE_DELEGATE_PROXY_FACTORY in the Chainlog](https://chainlog.sky.money/) at [0xd897f108670903d1d6070fcf818f9db3615af272](https://etherscan.io/address/0xd897f108670903d1d6070fcf818f9db3615af272) will be renamed to VOTE_DELEGATE_FACTORY_LEGACY.
 	- This will require the removal of VOTE_DELEGATE_PROXY_FACTORY from the Chainlog before adding a new key-value pair under VOTE_DELEGATE_FACTORY_LEGACY.
-- The new VoteDelegateFactory at [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0) will be added to the $Chainlog as VOTE_DELEGATE_FACTORY.
+- The new VoteDelegateFactory at [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0) will be added to the [Chainlog](https://chainlog.sky.money) as VOTE_DELEGATE_FACTORY.
 
 #### Initialize the Lockstake Engine Farm in the Flapper
 
@@ -65,7 +65,7 @@ The Lockstake Engine Farm will be activated by calling [FlapperInit.setFarm](htt
 - farm_: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
 - splitter: dss.chainlog.getAddress("MCD_SPLIT").
 - usdsJoin: dss.chainlog.getAddress("USDS_JOIN").
-- hop: $TODO
+- hop: **15,649**.
 - prevChainlogKey: bytes32(0).
 - chainlogKey: REWARDS_LSMKR_USDS
 
@@ -74,11 +74,12 @@ This will have the following outcomes:
 - Set the new farm as `farm` in the Splitter.
 - Set MCD_SPLIT as `rewardsDistribution` in the farm contract.
 - Set $hop_amount as the `rewardsDuration` in the farm contract.
-- Add the new farm to the $Chainlog as REWARDS_LSMKR_USDS.
+- Add the new farm to the [Chainlog](https://chainlog.sky.money) as REWARDS_LSMKR_USDS.
 
 #### Splitter Burn Rate Reduction
 
-- Reduce the Splitter Burn Rate (`burn`) by 25 percentage points from 100% to **75%**.
+- Reduce the Splitter Burn Rate (`burn`) by 30 percentage points from 100% to **70%**.
+- Increase the Splitter `hop` parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
 
 #### Lockstake Engine and Borrowing Facility Initialization
 
@@ -86,16 +87,16 @@ The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake
 
 - lsmkr: [0xb4e0e45e142101dC3Ed768bac219fC35EDBED295](https://etherscan.io/address/0xb4e0e45e142101dC3Ed768bac219fC35EDBED295).
 - engine: [0x2b16C07D5fD5cC701a0a871eae2aad6DA5fc8f12](https://etherscan.io/address/0x2b16C07D5fD5cC701a0a871eae2aad6DA5fc8f12).
-- clipper: [0xA85621D35cAf9Cf5C146D2376Ce553D7B78A6239]($etherscan_prefix/0xA85621D35cAf9Cf5C146D2376Ce553D7B78A6239).
-- clipperCalc: [0xf13cF3b39823CcfaE6C2354dA56416C80768474e]($etherscan_prefix/0xf13cF3b39823CcfaE6C2354dA56416C80768474e).
+- clipper: [0xA85621D35cAf9Cf5C146D2376Ce553D7B78A6239](https://etherscan.io/address/0xA85621D35cAf9Cf5C146D2376Ce553D7B78A6239).
+- clipperCalc: [0xf13cF3b39823CcfaE6C2354dA56416C80768474e](https://etherscan.io/address/0xf13cF3b39823CcfaE6C2354dA56416C80768474e).
 - ilk: LSE-MKR-A
-- voteDelegateFactory: [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0]($etherscan_prefix/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0).
+- voteDelegateFactory: [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0).
 - usdsJoin: dss.chainlog.getAddress("USDS_JOIN").
 - usds: dss.chainlog.getAddress("USDS").
 - mkr: dss.chainlog.getAddress("MCD_GOV").
 - mkr_sky: dss.chainlog.getAddress("MKR_SKY")
 - sky: dss.chainlog.getAddress("SKY")
-- farms: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1]($etherscan_prefix/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
+- farms: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
 - fee: $Fee
 - maxLine: $line
 - gap: $gap
@@ -150,7 +151,7 @@ This will have the following outcomes:
 
 #### Airdrop Multisig Funding
 
-To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **28,220,925.60 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68]($etherscan_prefix/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
+To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **28,220,925.60 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
 
 ### RWA Debt Ceiling Reductions
 
@@ -188,7 +189,7 @@ This will formalize the payment process for rewards earned on balances held with
 - **Authorization**: [Forum post](https://forum.sky.money/t/spark-aave-revenue-share-calculation-payment-5-q3-2024/25286/2)
 - **Proposal**: [Forum post](https://forum.sky.money/t/spark-aave-revenue-share-calculation-payment-5-q3-2024/25286)
 
-If this executive proposal passes, a payment of **234,089 DAI** will be made to a smart contract controlled by Aave Governance at [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c]($etherscan_prefix/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c) as part of the Aave-SparkLend Revenue Share.
+If this executive proposal passes, a payment of **234,089 DAI** will be made to a smart contract controlled by Aave Governance at [0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c) as part of the Aave-SparkLend Revenue Share.
 
 ### Spark Proxy Spell Execution
 
