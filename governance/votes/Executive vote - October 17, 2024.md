@@ -23,7 +23,7 @@ If this executive proposal passes, the following **actions** will occur within t
   - Update Smart Burn Engine parameters.
   - Initialize the Lockstake Engine and borrowing facility.
   - The Airdrop Multisig for Early Bird Rewards will be funded with newly minted SKY tokens.
-- Debt Ceilings for the now defunct Monetalis vaults will be set to 0.
+- Debt Ceilings for the now defunct RWA vaults operated by Monetalis will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
 - The Aave-SparkLend Revenue Share payment for Q3 2024 will be distributed.
 - A Spark proxy spell at $TBD will be executed.
@@ -158,7 +158,7 @@ To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.i
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [Forum post](https://forum.sky.money/t/2024-10-17-expected-executive-contents-rwa-vault-changes/25323)
 
-If this executive proposal passes, then the following Debt Ceiling changes for the now deprecated Monetalis vaults will be carried out.
+If this executive proposal passes, then the following Debt Ceiling changes for the now deprecated RWA Vaults operated by Monetalis will be carried out.
 
 #### Monetalis Clydesdale (RWA007-A)
 
