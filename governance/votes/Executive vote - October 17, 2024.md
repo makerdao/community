@@ -43,7 +43,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### Lockstake Engine Initialization
 
 - **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324)
 
 If this executive proposal passes, then the Lockstake Engine will be initialized through the following subactions.
 
@@ -199,7 +199,7 @@ If this executive proposal passes, a payment of **234,089 DAI** will be made to 
 
 ### Spark Proxy Spell Execution
 
-- **Authorization**: Governance Polls [1](https://vote.makerdao.com/polling/QmShWccA), [2](https://vote.makerdao.com/polling/QmTksxrr), [3](https://vote.makerdao.com/polling/QmbHaA2G), [4]()
+- **Authorization**: Governance Polls [1](https://vote.makerdao.com/polling/QmShWccA), [2](https://vote.makerdao.com/polling/QmTksxrr), [3](https://vote.makerdao.com/polling/QmbHaA2G), [Forum Post](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/52)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/oct-3-2024-proposed-changes-to-spark-for-upcoming-spell/25293)
 
 If this executive proposal passes, then a Spark Proxy Spell at [0x74b3D0E74f2711f30442536832D7fBCB0F42C195](https://etherscan.io/address/0x74b3D0E74f2711f30442536832D7fBCB0F42C195) will be executed. The expected contents are as follows:
