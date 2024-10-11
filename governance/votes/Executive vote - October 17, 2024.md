@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Lockstake Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
-summary: Initialize the Lockstake Engine, reduce debt ceilings of deprecated RWA vaults, approve DAO Resolution for Pinwheel, transfer payment for the Aave-SparkLend Revenue Share for Q3 2024, execute a Spark Proxy Spell.
+title: Template - [Executive Vote] Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave-SparkLend Revenue Share Payment for Q3 2024, Spark Proxy Spell - October 17, 2024
+summary: Initialize the Seal Engine, reduce debt ceilings of deprecated RWA vaults, approve DAO Resolution for Pinwheel, transfer payment for the Aave-SparkLend Revenue Share for Q3 2024, execute a Spark Proxy Spell.
 date: 2024-10-17T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Lockstake Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave Revenue Share Payment, Spark Proxy Spell - October 17, 2024
+# [Executive Proposal] Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave Revenue Share Payment, Spark Proxy Spell - October 17, 2024
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -16,12 +16,12 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- The Lockstake Engine will be initialized. This requires a number of subactions:
+- The Seal Engine will be initialized. This requires a number of subactions:
   - Activate a new MKROSM.
   - Activate a new VoteDelegateFactory contract.
-  - Initialize the Lockstake Engine farm in the Flapper.
+  - Initialize the Seal Engine farm in the Flapper.
   - Update Smart Burn Engine parameters.
-  - Initialize the Lockstake Engine and borrowing facility.
+  - Initialize the Seal Engine and borrowing facility.
   - The Airdrop Multisig for Early Bird Rewards will be funded with newly minted SKY tokens.
 - Debt Ceilings for the now defunct RWA vaults operated by Monetalis will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
@@ -40,12 +40,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Lockstake Engine Initialization
+### Seal Engine Initialization
 
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324)
 
-If this executive proposal passes, then the Lockstake Engine will be initialized through the following subactions.
+If this executive proposal passes, then the Seal Engine will be initialized through the following subactions.
 
 #### MKROSM Activation
 
@@ -64,9 +64,9 @@ If this executive proposal passes, then the Lockstake Engine will be initialized
 - Increase the Splitter [`hop`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e|57ea2c549207d9fe7d45) parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
 - Increase the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.1_Upper_Limit-b3ca7a57-11d7-4c18-8092-6357db4492c9|57ea2c549207d9fe) by 5 million DAI from 55 million DAI to **60 million DAI**.
 
-#### Initialize the Lockstake Engine Farm in the Flapper
+#### Initialize the Seal Engine Farm in the Flapper
 
-The Lockstake Engine Farm will be activated by calling [FlapperInit.setFarm](https://github.com/makerdao/dss-flappers/blob/95431f3d4da66babf81c6e1138bd05f5ddc5e516/deploy/FlapperInit.sol#L153-L175) with the following parameters:
+The Seal Engine Farm will be activated by calling [FlapperInit.setFarm](https://github.com/makerdao/dss-flappers/blob/95431f3d4da66babf81c6e1138bd05f5ddc5e516/deploy/FlapperInit.sol#L153-L175) with the following parameters:
 
 - farm_: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
 - splitter: dss.chainlog.getAddress("MCD_SPLIT").
@@ -82,9 +82,9 @@ This will have the following outcomes:
 - Set 15,649 seconds as the `rewardsDuration` in the farm contract.
 - Add the new farm to the [Chainlog](https://chainlog.sky.money) as REWARDS_LSMKR_USDS.
 
-#### Lockstake Engine and Borrowing Facility Initialization
+#### Seal Engine and Borrowing Facility Initialization
 
-The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake](https://github.com/makerdao/lockstake/blob/7c71318623f5d6732457fd0c247a1f1760960011/deploy/LockstakeInit.sol#L137-L258) with the following parameters:
+The Seal Engine will be initialized by calling [LockstakeInit.initLockstake](https://github.com/makerdao/lockstake/blob/7c71318623f5d6732457fd0c247a1f1760960011/deploy/LockstakeInit.sol#L137-L258) with the following parameters:
 
 - lsmkr: [0xb4e0e45e142101dC3Ed768bac219fC35EDBED295](https://etherscan.io/address/0xb4e0e45e142101dC3Ed768bac219fC35EDBED295).
 - engine: [0x2b16C07D5fD5cC701a0a871eae2aad6DA5fc8f12](https://etherscan.io/address/0x2b16C07D5fD5cC701a0a871eae2aad6DA5fc8f12).
@@ -143,9 +143,9 @@ This will have the following outcomes:
 - StairstepExponentialDecrease calc contract will be configured with the following parameters:
   - [`cut`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.1_Auction_Price_Function_(cut)-b6e47d05-addf-4371-ad95-90582da7c0f1|57eaf45219bea3b430c2a59a6013): **0.99**.
   - [`step`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12|57eaf45219bea3b430c2a59a6013): **60 seconds**.
-- REWARDS_LSMKR_USDS will be added to the Lockstake Engine as the first farm.
-- The LockstakeEngine will be authorized to access the `vat`.
-- The LockstakeClipper will be authorized to access the `vat` and the LockstakeEngine.
+- REWARDS_LSMKR_USDS will be added to the Seal Engine as the first farm.
+- The LockstakeEngine contract will be authorized to access the `vat`.
+- The LockstakeClipper contract will be authorized to access the `vat` and the LockstakeEngine.
 - CLIPPER_MOM, MCD_DOG and MCD_END will be authorized to access LockstakeClipper.
 - New [Chainlog](https://chainlog.sky.money) keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
 
