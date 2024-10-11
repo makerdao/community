@@ -79,7 +79,7 @@ This will have the following outcomes:
 #### Smart Burn Engine Parameter Updates
 
 - Reduce the Splitter Burn Rate (`burn`) by 30 percentage points from 100% to **70%**.
-- Increase the Splitter `hop` parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
+- Increase the Splitter [`hop`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e|57ea2c549207d9fe7d45) parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
 - Increase the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.1_Upper_Limit-b3ca7a57-11d7-4c18-8092-6357db4492c9|57ea2c549207d9fe) by 5 million DAI from 55 million DAI to **60 million DAI**.
 
 #### Lockstake Engine and Borrowing Facility Initialization
@@ -99,25 +99,25 @@ The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake
 - sky: dss.chainlog.getAddress("SKY")
 - farms: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
 - fee: **5%**
-- maxLine: **20 million DAI**
-- gap: **5 million DAI**
-- ttl: **16 hours**
-- dust: **30,000 DAI**
-- duty: **12%**
-- mat: **200%**
-- buf: **1.20**
-- tail: **6,000 seconds**
-- cusp: **0.40**
-- chip: **0.1%**
-- tip: **300 DAI**.
+- [maxLine](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)-6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb): **20 million DAI**
+- [gap](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)-c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb): **5 million DAI**
+- [ttl](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)-58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb): **16 hours**
+- [dust](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.6_Debt_Floor_(dust)-cea03e47-24a6-4efc-b482-56c183e5759a|57eaf45219bea3b430c2): **30,000 DAI**
+- [duty](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2): **12%**
+- [mat](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.1_Liquidation_Ratio-1184ab96-8cad-4755-9798-2c8782304407|57eaf45219bea3b430c2): **200%**
+- [buf](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.2_Auction_Price_Multiplier_(buf)-3ce44221-fe39-4904-9f86-0a1996cea8c6|57eaf45219bea3b430c2a59a): **1.20**
+- [tail](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.4_Max_Auction_Duration_(tail)-f8de0fc0-e452-4fc6-b67c-6da15df828f0|57eaf45219bea3b430c2a59a): **6,000 seconds**
+- [cusp](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.3_Max_Auction_Drawdown_(cusp)-083ada9d-8d45-46ae-80d2-a3bb706e1e77|57eaf45219bea3b430c2a59a): **0.40**
+- [chip](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.5_Proportional_Kick_Incentive_(chip)-afecb109-75a7-4289-997e-2a6f3d3bea1e|57eaf45219bea3b430c2a59a): **0.1%**
+- [tip](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.6_Flat_Kick_Incentive_(tip)-1c13687a-2dad-4e86-9940-024dc8f17a24|57eaf45219bea3b430c2a59a): **300 DAI**.
 - stopped: **0**.
-- chop: **8%**
-- hole: **3 million DAI**
+- [chop](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.7_Liquidation_Penalty_(chop)-5295aa1f-3944-4fde-aaec-d999244b57e9|57eaf45219bea3b430c2a59a): **8%**
+- [hole](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.8_Local_Liquidation_Limit_(hole)-fc22e62e-1f6b-4b10-b14a-ea7745185c67|57eaf45219bea3b430c2a59a): **3 million DAI**
 - tau: **0**
-- cut: **0.99**
-- step: **60 seconds**
+- [cut](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.1_Auction_Price_Function_(cut)-b6e47d05-addf-4371-ad95-90582da7c0f1|57eaf45219bea3b430c2a59a6013): **0.99**
+- [step](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12|57eaf45219bea3b430c2a59a6013): **60 seconds**
 - lineMom: **True**
-- tolerance: **0.5**
+- [tolerance](https://sky-atlas.powerhouse.io/#A.1.8.2.2.4.1_Liquidations_Circuit_Breaker_Exception_Price_Tolerance-bcccd6b0-ad61-47c6-94f1-93447ba39102|0db30758e055352ce6eb): **0.5**
 - name: **Lockstake**
 - symbol: **LMKR**
 
@@ -126,28 +126,28 @@ This will have the following outcomes:
 - LSE-MKR-A will be added as a new vault type.
 - LSE-MKR-A will be added to the LineMOM.
 - LSE-MKR-A will be added to the Debt Ceiling Instant Access Module with the following parameters:
-  - `line`: **20 million DAI**.
-  - `gap`: **5 million DAI**.
-  - `ttl`: **16 hours**.
+  - [`line`]((https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)-6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb)): **20 million DAI**.
+  - [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)-c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb): **5 million DAI**.
+  - [`ttl`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)-58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb): **16 hours**.
 - LSE-MKR-A will be added to the ilk registry with the provided `name` and `symbol` and the new ilk class of **7**.
 - MCD_SPOT, CLIPPER_MOM, OSM_MOM, MCD_END will use the new MKROSM (PIP_MKR) to assess the collateral price.
 - PIP_MKR will be added to the OSM_MOM.
 - Lockstake Clipper will be configured with the following parameters:
-  - `buf`: **1.20**.
-  - `tail`: **6,000 seconds**.
-  - `cusp`: **0.40**.
-  - `chip`: **0.1%**.
-  - `tip`: **300 DAI**.
+  - [`buf`](ttps://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.2_Auction_Price_Multiplier_(buf)-3ce44221-fe39-4904-9f86-0a1996cea8c6|57eaf45219bea3b430c2a59a): **1.20**.
+  - [`tail`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.4_Max_Auction_Duration_(tail)-f8de0fc0-e452-4fc6-b67c-6da15df828f0|57eaf45219bea3b430c2a59a): **6,000 seconds**.
+  - [`cusp`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.3_Max_Auction_Drawdown_(cusp)-083ada9d-8d45-46ae-80d2-a3bb706e1e77|57eaf45219bea3b430c2a59a): **0.40**.
+  - [`chip`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.5_Proportional_Kick_Incentive_(chip)-afecb109-75a7-4289-997e-2a6f3d3bea1e|57eaf45219bea3b430c2a59a): **0.1%**.
+  - [`tip`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.6_Flat_Kick_Incentive_(tip)-1c13687a-2dad-4e86-9940-024dc8f17a24|57eaf45219bea3b430c2a59a): **300 DAI**.
   - `stopped`: **0**.
-  - `tolerance`: **0.5**.
+  - [`tolerance`](https://sky-atlas.powerhouse.io/#A.1.8.2.2.4.1_Liquidations_Circuit_Breaker_Exception_Price_Tolerance-bcccd6b0-ad61-47c6-94f1-93447ba39102|0db30758e055352ce6eb): **0.5**.
 - StairstepExponentialDecrease calc contract will be configured with the following parameters:
-  - `cut`: **0.99**.
-  - `step`: **60 seconds**.
+  - [`cut`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.1_Auction_Price_Function_(cut)-b6e47d05-addf-4371-ad95-90582da7c0f1|57eaf45219bea3b430c2a59a6013): **0.99**.
+  - [`step`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12|57eaf45219bea3b430c2a59a6013): **60 seconds**.
 - REWARDS_LSMKR_USDS will be added to the Lockstake Engine as the first farm.
 - The LockstakeEngine will be authorized to access the `vat`.
 - The LockstakeClipper will be authorized to access the `vat` and the LockstakeEngine.
 - CLIPPER_MOM, MCD_DOG and MCD_END will be authorized to access LockstakeClipper.
-- New chainlog keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
+- New [Chainlog](https://chainlog.sky.money) keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
 
 #### Early Bird Rewards Multisig Funding
 
