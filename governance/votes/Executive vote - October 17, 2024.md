@@ -113,7 +113,7 @@ The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake
 - stopped: **0**.
 - chop: **8%**
 - hole: **3 million DAI**
-- tau: $tau
+- tau: **0**
 - cut: **0.99**
 - step: **60 seconds**
 - lineMom: **True**
