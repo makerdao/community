@@ -99,7 +99,7 @@ The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake
 - sky: dss.chainlog.getAddress("SKY")
 - farms: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
 - fee: **5%**
-- maxLine: **18.8 million DAI**
+- maxLine: **20 million DAI**
 - gap: **5 million DAI**
 - ttl: **16 hours**
 - dust: **30,000 DAI**
@@ -126,7 +126,7 @@ This will have the following outcomes:
 - LSE-MKR-A will be added as a new vault type.
 - LSE-MKR-A will be added to the LineMOM.
 - LSE-MKR-A will be added to the Debt Ceiling Instant Access Module with the following parameters:
-  - `line`: **18.8 million DAI**.
+  - `line`: **20 million DAI**.
   - `gap`: **5 million DAI**.
   - `ttl`: **16 hours**.
 - LSE-MKR-A will be added to the ilk registry with the provided `name` and `symbol` and the new ilk class of **7**.
@@ -149,9 +149,11 @@ This will have the following outcomes:
 - CLIPPER_MOM, MCD_DOG and MCD_END will be authorized to access LockstakeClipper.
 - New chainlog keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
 
-#### Airdrop Multisig Funding
+#### Early Bird Rewards Multisig Funding
 
 To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **27,222,832.80 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
+
+Once the required SKY tokens have been transferred to the MerkleDistributor it is expected that the remaining tokens will be burned.
 
 ### RWA Debt Ceiling Reductions
 
