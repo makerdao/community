@@ -17,12 +17,12 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - The Lockstake Engine will be initialized. This requires a number of subactions:
-	- Activate a new MKROSM.
-	- Activate a new VoteDelegateFactory contract.
-	- Initialize the Lockstake Engine farm in the Flapper.
-	- Reduce the Splitter burn rate.
-	- Initialize the Lockstake Engine and borrowing facility.
-	- The Airdrop Multisig for Early Bird Rewards will be funded with newly minted SKY tokens.
+  - Activate a new MKROSM.
+  - Activate a new VoteDelegateFactory contract.
+  - Initialize the Lockstake Engine farm in the Flapper.
+  - Update Smart Burn Engine parameters.
+  - Initialize the Lockstake Engine and borrowing facility.
+  - The Airdrop Multisig for Early Bird Rewards will be funded with newly minted SKY tokens.
 - Debt Ceilings for the now defunct Monetalis vaults will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
 - The Aave-SparkLend Revenue Share payment for Q3 2024 will be distributed.
@@ -55,7 +55,7 @@ If this executive proposal passes, then the Lockstake Engine will be initialized
 #### New VoteDelegateFactory Contract Activation
 
 - The current VOTE_DELEGATE_PROXY_FACTORY in the Chainlog](https://chainlog.sky.money/) at [0xd897f108670903d1d6070fcf818f9db3615af272](https://etherscan.io/address/0xd897f108670903d1d6070fcf818f9db3615af272) will be renamed to VOTE_DELEGATE_FACTORY_LEGACY.
-	- This will require the removal of VOTE_DELEGATE_PROXY_FACTORY from the Chainlog before adding a new key-value pair under VOTE_DELEGATE_FACTORY_LEGACY.
+  - This will require the removal of VOTE_DELEGATE_PROXY_FACTORY from the Chainlog before adding a new key-value pair under VOTE_DELEGATE_FACTORY_LEGACY.
 - The new VoteDelegateFactory at [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0) will be added to the [Chainlog](https://chainlog.sky.money) as VOTE_DELEGATE_FACTORY.
 
 #### Initialize the Lockstake Engine Farm in the Flapper
@@ -73,13 +73,14 @@ This will have the following outcomes:
 
 - Set the new farm as `farm` in the Splitter.
 - Set MCD_SPLIT as `rewardsDistribution` in the farm contract.
-- Set $hop_amount as the `rewardsDuration` in the farm contract.
+- Set 15,649 seconds as the `rewardsDuration` in the farm contract.
 - Add the new farm to the [Chainlog](https://chainlog.sky.money) as REWARDS_LSMKR_USDS.
 
-#### Splitter Burn Rate Reduction
+#### Smart Burn Engine Parameter Updates
 
 - Reduce the Splitter Burn Rate (`burn`) by 30 percentage points from 100% to **70%**.
 - Increase the Splitter `hop` parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
+- Increase the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.1_Upper_Limit-b3ca7a57-11d7-4c18-8092-6357db4492c9|57ea2c549207d9fe) by 5 million DAI from 55 million DAI to **60 million DAI**.
 
 #### Lockstake Engine and Borrowing Facility Initialization
 
@@ -97,52 +98,51 @@ The Lockstake Engine will be initialized by calling [LockstakeInit.initLockstake
 - mkr_sky: dss.chainlog.getAddress("MKR_SKY")
 - sky: dss.chainlog.getAddress("SKY")
 - farms: [0x92282235a39bE957fF1f37619fD22A9aE5507CB1](https://etherscan.io/address/0x92282235a39bE957fF1f37619fD22A9aE5507CB1).
-- fee: $Fee
-- maxLine: $line
-- gap: $gap
-- ttl: $ttl
-- dust: $dust
-- duty: $duty
-- mat: $mat
-- buf: $buf
-- tail: $tail
-- cusp: $cusp
-- chip: $chip
-- tip: $tip
-- stopped: $stopped
-- chop: $chop
-- hole: $hole
+- fee: **5%**
+- maxLine: **18.8 million DAI**
+- gap: **5 million DAI**
+- ttl: **16 hours**
+- dust: **30,000 DAI**
+- duty: **12%**
+- mat: **200%**
+- buf: **1.20**
+- tail: **6,000 seconds**
+- cusp: **0.40**
+- chip: **0.1%**
+- tip: **300 DAI**.
+- stopped: **0**.
+- chop: **8%**
+- hole: **3 million DAI**
 - tau: $tau
-- cut: $cut
-- step: $step
-- lineMom: $lineMombool
-- tolerance: $tolerance
-- name: $name
-- symbol: $symbol
+- cut: **0.99**
+- step: **60 seconds**
+- lineMom: **True**
+- tolerance: **0.5**
+- name: **Lockstake**
+- symbol: **LMKR**
 
 This will have the following outcomes:
 
 - LSE-MKR-A will be added as a new vault type.
-- LSE-MKR-A will be added to the LineMOM $True?
+- LSE-MKR-A will be added to the LineMOM.
 - LSE-MKR-A will be added to the Debt Ceiling Instant Access Module with the following parameters:
-	- `line`
-	- `gap`
-	- `ttl`
+  - `line`: **18.8 million DAI**.
+  - `gap`: **5 million DAI**.
+  - `ttl`: **16 hours**.
 - LSE-MKR-A will be added to the ilk registry with the provided `name` and `symbol` and the new ilk class of **7**.
 - MCD_SPOT, CLIPPER_MOM, OSM_MOM, MCD_END will use the new MKROSM (PIP_MKR) to assess the collateral price.
 - PIP_MKR will be added to the OSM_MOM.
 - Lockstake Clipper will be configured with the following parameters:
-	- `buf`
-	- `tail`
-	- `cusp`
-	- `chip`
-	- `tip`
-	- `stopped`
-	- `clip`
-	- `tolerance`
+  - `buf`: **1.20**.
+  - `tail`: **6,000 seconds**.
+  - `cusp`: **0.40**.
+  - `chip`: **0.1%**.
+  - `tip`: **300 DAI**.
+  - `stopped`: **0**.
+  - `tolerance`: **0.5**.
 - StairstepExponentialDecrease calc contract will be configured with the following parameters:
-	- `cut`
-	- `step`
+  - `cut`: **0.99**.
+  - `step`: **60 seconds**.
 - REWARDS_LSMKR_USDS will be added to the Lockstake Engine as the first farm.
 - The LockstakeEngine will be authorized to acccess the `vat`.
 - The LockstakeClipper will be authorized to access the `vat` and the LockstakeEngine.
@@ -156,7 +156,7 @@ To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.i
 ### RWA Debt Ceiling Reductions
 
 - **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Proposal**: [Forum post](https://forum.sky.money/t/2024-10-17-expected-executive-contents-rwa-vault-changes/25323)
 
 If this executive proposal passes, then the following Debt Ceiling changes for the now deprecated Monetalis vaults will be carried out.
 
@@ -262,10 +262,10 @@ If this executive proposal passes, the Spark Proxy Spell will make the following
 
 - Reduce [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db%7C57eaf45219be608847d6) by 5 percentage points from 75% to **70%**.
 - Update cap automator parameters:
-	- Reduce [Supply Cap Target Available Exposure (gap)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 300 WBTC from 500 WBTC to **200 WBTC**.
-	- Reduce [Supply Cap Absolute Maximum Exposure (max)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) by 5,000 WBTC from 10,000 WBTC to **5,000 WBTC**.
-	- Reduce [Borrow Cap Target Available Exposure (gap)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 99 WBTC from 100 WBTC to **1 WBTC**.
-	- Reduce [Borrow Cap Absolute Maximum Exposure (max)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) max by 1,999 WBTC from 2,000 WBTC to **1 WBTC**.
+  - Reduce [Supply Cap Target Available Exposure (gap)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 300 WBTC from 500 WBTC to **200 WBTC**.
+  - Reduce [Supply Cap Absolute Maximum Exposure (max)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) by 5,000 WBTC from 10,000 WBTC to **5,000 WBTC**.
+  - Reduce [Borrow Cap Target Available Exposure (gap)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 99 WBTC from 100 WBTC to **1 WBTC**.
+  - Reduce [Borrow Cap Absolute Maximum Exposure (max)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) max by 1,999 WBTC from 2,000 WBTC to **1 WBTC**.
 - Reduce Liquidation Protocol Fee by 10 percentage points from 10% to **0%**.
 
 ## Review
