@@ -144,14 +144,14 @@ This will have the following outcomes:
   - `cut`: **0.99**.
   - `step`: **60 seconds**.
 - REWARDS_LSMKR_USDS will be added to the Lockstake Engine as the first farm.
-- The LockstakeEngine will be authorized to acccess the `vat`.
+- The LockstakeEngine will be authorized to access the `vat`.
 - The LockstakeClipper will be authorized to access the `vat` and the LockstakeEngine.
 - CLIPPER_MOM, MCD_DOG and MCD_END will be authorized to access LockstakeClipper.
 - New chainlog keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
 
 #### Airdrop Multisig Funding
 
-To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **28,220,925.60 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
+To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **27,222,832.80 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
 
 ### RWA Debt Ceiling Reductions
 
@@ -234,7 +234,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard sUSDS to S
 
 #### [Mainnet] Update sDAI Oracle to Use Fixed DAI/USD at $1
 
-If this executive proposal passes, the Spark Proxy Spell will update the sDAI Oracle to use a fixed DAI/USD price of $1 multiplied by the sDAI/DAI redepmtion rate from the sDAI contract.
+If this executive proposal passes, the Spark Proxy Spell will update the sDAI Oracle to use a fixed DAI/USD price of $1 multiplied by the sDAI/DAI redemption rate from the sDAI contract.
 
 #### [Mainnet] Onboard PT-sUSDe-26Dec2024 and PT-sUSDe-27Mar2025 to Morpho Spark DAI Vault
 
