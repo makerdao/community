@@ -58,6 +58,12 @@ If this executive proposal passes, then the Lockstake Engine will be initialized
   - This will require the removal of VOTE_DELEGATE_PROXY_FACTORY from the Chainlog before adding a new key-value pair under VOTE_DELEGATE_FACTORY_LEGACY.
 - The new VoteDelegateFactory at [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0) will be added to the [Chainlog](https://chainlog.sky.money) as VOTE_DELEGATE_FACTORY.
 
+#### Smart Burn Engine Parameter Updates
+
+- Reduce the Splitter Burn Rate (`burn`) by 30 percentage points from 100% to **70%**.
+- Increase the Splitter [`hop`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e|57ea2c549207d9fe7d45) parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
+- Increase the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.1_Upper_Limit-b3ca7a57-11d7-4c18-8092-6357db4492c9|57ea2c549207d9fe) by 5 million DAI from 55 million DAI to **60 million DAI**.
+
 #### Initialize the Lockstake Engine Farm in the Flapper
 
 The Lockstake Engine Farm will be activated by calling [FlapperInit.setFarm](https://github.com/makerdao/dss-flappers/blob/95431f3d4da66babf81c6e1138bd05f5ddc5e516/deploy/FlapperInit.sol#L153-L175) with the following parameters:
@@ -75,12 +81,6 @@ This will have the following outcomes:
 - Set MCD_SPLIT as `rewardsDistribution` in the farm contract.
 - Set 15,649 seconds as the `rewardsDuration` in the farm contract.
 - Add the new farm to the [Chainlog](https://chainlog.sky.money) as REWARDS_LSMKR_USDS.
-
-#### Smart Burn Engine Parameter Updates
-
-- Reduce the Splitter Burn Rate (`burn`) by 30 percentage points from 100% to **70%**.
-- Increase the Splitter [`hop`](https://sky-atlas.powerhouse.io/#A.3.5.1.1.3.1_Hop_Parameter-f9c3ba0f-3f7a-4222-9df8-efb0bc69433e|57ea2c549207d9fe7d45) parameter by 4,014 seconds from 11,635 seconds to **15,649 seconds**.
-- Increase the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/#A.3.5.1.1.1_Upper_Limit-b3ca7a57-11d7-4c18-8092-6357db4492c9|57ea2c549207d9fe) by 5 million DAI from 55 million DAI to **60 million DAI**.
 
 #### Lockstake Engine and Borrowing Facility Initialization
 
