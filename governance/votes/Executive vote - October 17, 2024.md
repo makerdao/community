@@ -151,7 +151,7 @@ This will have the following outcomes:
 
 #### Early Bird Rewards Multisig Funding
 
-To facilitate the payment of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **27,222,832.80 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
+To facilitate the distribution of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **27,222,832.80 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
 
 Once the required SKY tokens have been transferred to the MerkleDistributor it is expected that the remaining tokens will be burned.
 
@@ -175,7 +175,11 @@ RWA014-A does not use the [Debt Ceiling Instant Access Module (DC-IAM)](https://
 
 #### Oracle Adjustments
 
-As part of the offboarding process, `tell` and `cull` will be called on the oracles for these vaults. This will deactivate the oracles and set their reported prices to 0.
+As part of the offboarding process, `tell` and `cull` will be called on the oracles for these vaults.
+
+Calling `tell` will initiate soft liquidation of these vaults and calling `cull` will write off their debt and set the oracle prices to 0. In reality, as neither of these vaults have associated debt the only change will be to set the reported prices of their oracles to 0.
+
+These actions do not block further remittance of any outstanding profits through the Jar and InputConduitJar contracts as these contracts do not need to interact with the vault or the oracle to function.
 
 ### Pinwheel DAO Resolution
 
