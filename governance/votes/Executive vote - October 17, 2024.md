@@ -26,7 +26,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - Debt Ceilings for the now defunct RWA vaults operated by Monetalis will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
 - The Aave-SparkLend Revenue Share payment for Q3 2024 will be distributed.
-- A Spark proxy spell at [0x74b3D0E74f2711f30442536832D7fBCB0F42C195](https://etherscan.io/address/0x74b3D0E74f2711f30442536832D7fBCB0F42C195) will be executed.
+- A Spark proxy spell at [$spark_spell_address](https://etherscan.io/address/$spark_spell_address) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -202,7 +202,7 @@ If this executive proposal passes, a payment of **234,089 DAI** will be made to 
 - **Authorization**: Governance Polls [1](https://vote.makerdao.com/polling/QmShWccA), [2](https://vote.makerdao.com/polling/QmTksxrr), [3](https://vote.makerdao.com/polling/QmbHaA2G), [Forum Post](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/52)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/oct-3-2024-proposed-changes-to-spark-for-upcoming-spell/25293)
 
-If this executive proposal passes, then a Spark Proxy Spell at [0x74b3D0E74f2711f30442536832D7fBCB0F42C195](https://etherscan.io/address/0x74b3D0E74f2711f30442536832D7fBCB0F42C195) will be executed. The expected contents are as follows:
+If this executive proposal passes, then a Spark Proxy Spell at [$spark_spell_address](https://etherscan.io/address/$spark_spell_address) will be executed. The expected contents are as follows:
 
 #### [Mainnet] Onboard sUSDS into SparkLend as Collateral Only Asset
 
