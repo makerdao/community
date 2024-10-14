@@ -41,8 +41,6 @@ The community may vote in this poll to express support or opposition to the foll
 - [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/40)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324)
 
-A brief summary of this Atlas Edit content is shown below:
-
 *Changes to the Atlas in this edit include:*
 - *Implement Seal Engine parameters and related risk parameters in preparation for Seal Engine alpha launch.*
 - *Early Bird Bonus details.*
