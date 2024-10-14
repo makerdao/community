@@ -22,7 +22,7 @@ If this executive proposal passes, the following **actions** will occur within t
   - Initialize the Seal Engine farm in the Flapper.
   - Update Smart Burn Engine parameters.
   - Initialize the Seal Engine and borrowing facility.
-  - The Airdrop Multisig for Early Bird Rewards will be funded with newly minted SKY tokens.
+  - The Multisig responsible for distributing Early Bird Rewards will be funded with newly minted SKY tokens.
 - Debt Ceilings for the now defunct RWA vaults operated by Monetalis will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
 - The Aave-SparkLend Revenue Share payment for Q3 2024 will be distributed.
