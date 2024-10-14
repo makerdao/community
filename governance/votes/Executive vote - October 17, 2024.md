@@ -177,7 +177,7 @@ RWA014-A does not use the [Debt Ceiling Instant Access Module (DC-IAM)](https://
 
 As part of the offboarding process, `tell` and `cull` will be called on the oracles for these vaults.
 
-Calling `tell` will initiate soft liquidation of these vaults and calling `cull` will write off their debt and set the oracle prices to 0. In reality, as neither of these vaults have associated debt the only change will be to set the reported prices of their oracles to 0.
+Calling `tell` will initiate soft liquidation of these vaults and calling `cull` will write off their debt and set the oracle prices to 0. In reality, as neither of these vaults have associated debt, the only change will be to set the reported prices of their oracles to 0.
 
 These actions do not block further remittance of any outstanding profits through the Jar and InputConduitJar contracts as these contracts do not need to interact with the vault or the oracle to function.
 
