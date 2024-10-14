@@ -146,8 +146,8 @@ This will have the following outcomes:
 - REWARDS_LSMKR_USDS will be added to the Seal Engine as the first farm.
 - The LockstakeEngine contract will be authorized to access the `vat`.
 - The LockstakeClipper contract will be authorized to access the `vat` and the LockstakeEngine.
-- CLIPPER_MOM, MCD_DOG and MCD_END will be authorized to access LockstakeClipper.
-- New [Chainlog](https://chainlog.sky.money) keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP and LOCKSTAKE_CLIP_CALC will be added.
+- CLIPPER_MOM, MCD_DOG, and MCD_END will be authorized to access LockstakeClipper.
+- New [Chainlog](https://chainlog.sky.money) keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP, and LOCKSTAKE_CLIP_CALC will be added.
 
 #### Early Bird Rewards Multisig Funding
 
