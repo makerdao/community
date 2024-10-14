@@ -149,7 +149,7 @@ This will have the following outcomes:
 - CLIPPER_MOM, MCD_DOG, and MCD_END will be authorized to access LockstakeClipper.
 - New [Chainlog](https://chainlog.sky.money) keys LOCKSTAKE_MKR, LOCKSTAKE_ENGINE, LOCKSTAKE_CLIP, and LOCKSTAKE_CLIP_CALC will be added.
 
-#### Early Bird Rewards Multisig Funding
+### Early Bird Rewards Multisig Funding
 
 To facilitate the distribution of [Early Bird Rewards](https://sky-atlas.powerhouse.io/#A.5.2.1.1_Reward_System-99e76538-f850-4937-8092-d166cae5aff4|8d5a9e88cf49) **27,222,832.80 SKY** will be minted to a multisig controlled by the Accessibility Facilitators at [0x14D98650d46BF7679BBD05D4f615A1547C87Bf68](https://etherscan.io/address/0x14D98650d46BF7679BBD05D4f615A1547C87Bf68).
 
