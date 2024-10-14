@@ -28,7 +28,6 @@ $OfficeHours? This executive proposal includes an office-hours modifier that mea
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
 
-
 ---
 
 ## Proposal Details
