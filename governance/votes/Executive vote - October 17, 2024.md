@@ -54,7 +54,7 @@ If this executive proposal passes, then the Seal Engine will be initialized thro
 
 #### New VoteDelegateFactory Contract Activation
 
-- The current VOTE_DELEGATE_PROXY_FACTORY in the Chainlog](https://chainlog.sky.money/) at [0xd897f108670903d1d6070fcf818f9db3615af272](https://etherscan.io/address/0xd897f108670903d1d6070fcf818f9db3615af272) will be renamed to VOTE_DELEGATE_FACTORY_LEGACY.
+- The current VOTE_DELEGATE_PROXY_FACTORY in the [Chainlog](https://chainlog.sky.money/) at [0xd897f108670903d1d6070fcf818f9db3615af272](https://etherscan.io/address/0xd897f108670903d1d6070fcf818f9db3615af272) will be renamed to VOTE_DELEGATE_FACTORY_LEGACY.
   - This will require the removal of VOTE_DELEGATE_PROXY_FACTORY from the Chainlog before adding a new key-value pair under VOTE_DELEGATE_FACTORY_LEGACY.
 - The new VoteDelegateFactory at [0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0](https://etherscan.io/address/0xC3D809E87A2C9da4F6d98fECea9135d834d6F5A0) will be added to the [Chainlog](https://chainlog.sky.money) as VOTE_DELEGATE_FACTORY.
 
