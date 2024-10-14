@@ -26,7 +26,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - Debt Ceilings for the now defunct RWA vaults operated by Monetalis will be set to 0.
 - A Pinwheel DAO Resolution with the hash [QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7) will be approved.
 - The Aave-SparkLend Revenue Share payment for Q3 2024 will be distributed.
-- A Spark proxy spell at [$spark_spell_address](https://etherscan.io/address/$spark_spell_address) will be executed.
+- A Spark proxy spell at [0xcc3B9e79261A7064A0f734Cc749A8e3762e0a187](https://etherscan.io/address/0xcc3B9e79261A7064A0f734Cc749A8e3762e0a187) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Seal Engine Initialization
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmUm8Krq)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324)
 
 If this executive proposal passes, then the Seal Engine will be initialized through the following subactions.
@@ -157,7 +157,7 @@ Once the required SKY tokens have been transferred to the MerkleDistributor it i
 
 ### RWA Debt Ceiling Reductions
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Forum post](https://forum.sky.money/t/2024-10-17-expected-executive-contents-rwa-vault-changes/25323/2)
 - **Proposal**: [Forum post](https://forum.sky.money/t/2024-10-17-expected-executive-contents-rwa-vault-changes/25323)
 
 If this executive proposal passes, then the following Debt Ceiling changes for the now deprecated RWA Vaults operated by Monetalis will be carried out.
@@ -183,7 +183,7 @@ These actions do not block further remittance of any outstanding profits through
 
 ### Pinwheel DAO Resolution
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Forum post](https://forum.sky.money/t/coinbase-web3-wallet-legal-overview/24577/4)
 - **Proposal**: [Forum post](https://forum.sky.money/t/coinbase-web3-wallet-legal-overview/24577/3)
 
 If this executive proposal passes, then the DAO Resolution with IPFS hash **[QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7](https://ipfs.io/ipfs/QmYJUvw5xbAJmJknG2xUKDLe424JSTWQQhbJCnucRRjUv7)** will be approved.
@@ -202,7 +202,7 @@ If this executive proposal passes, a payment of **234,089 DAI** will be made to 
 - **Authorization**: Governance Polls [1](https://vote.makerdao.com/polling/QmShWccA), [2](https://vote.makerdao.com/polling/QmTksxrr), [3](https://vote.makerdao.com/polling/QmbHaA2G), [Forum Post](https://forum.sky.money/t/wbtc-changes-and-risk-mitigation-10-august-2024/24844/52)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/oct-3-2024-proposed-changes-to-spark-for-upcoming-spell/25293)
 
-If this executive proposal passes, then a Spark Proxy Spell at [$spark_spell_address](https://etherscan.io/address/$spark_spell_address) will be executed. The expected contents are as follows:
+If this executive proposal passes, then a Spark Proxy Spell at [0xcc3B9e79261A7064A0f734Cc749A8e3762e0a187](https://etherscan.io/address/0xcc3B9e79261A7064A0f734Cc749A8e3762e0a187) will be executed. The expected contents are as follows:
 
 #### [Mainnet] Onboard sUSDS into SparkLend as Collateral Only Asset
 
