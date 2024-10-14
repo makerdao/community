@@ -49,7 +49,7 @@ If this executive proposal passes, then the Seal Engine will be initialized thro
 
 #### MKROSM Activation
 
-- The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will be authorized to read the MKR oracle price from the current PIP_MKR at [0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df](https://etherscan.io/address/0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df).
+- The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will be whitelisted to read the MKR oracle price from the current PIP_MKR at [0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df](https://etherscan.io/address/0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df).
 - The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will replace the current PIP_MKR in the [Chainlog](https://chainlog.sky.money/).
 
 #### New VoteDelegateFactory Contract Activation
