@@ -16,7 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- The Seal Engine will be initialized. This requires a number of subactions:
+- The Seal Engine will be initialized. This requires a number of sub-actions:
   - Activate a new MKROSM.
   - Activate a new VoteDelegateFactory contract.
   - Initialize the Seal Engine farm in the Flapper.
