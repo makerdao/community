@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - October 14, 2024
-summary: Signal your support or opposition to the listed Atlas Edits in the weekly cycle. 
+summary: Signal your support or opposition to the multiple listed Atlas Edits in the weekly cycle. 
 discussion_link: https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324
 parameters:
     input_format:
