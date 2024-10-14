@@ -45,7 +45,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmUm8Krq)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-weekly-cycle-edit-proposal-week-of-october-14-2024-01/25324)
 
-If this executive proposal passes, then the Seal Engine will be initialized through the following subactions.
+If this executive proposal passes, then the Seal Engine will be initialized through the following sub-actions.
 
 #### MKROSM Activation
 
