@@ -238,9 +238,9 @@ If this executive proposal passes, the Spark Proxy Spell will onboard sUSDS to S
 - Liquidation Protocol Fee: **10%**
 - [High Efficiency Mode (`Emode`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6) Category: **0**
 
-#### [Mainnet] Update sDAI Oracle to Use Fixed DAI/USD at $1
+#### [Mainnet] Update sDAI Oracle to Use Fixed DAI/USD at 1 USD
 
-If this executive proposal passes, the Spark Proxy Spell will update the sDAI Oracle to use a fixed DAI/USD price of $1 multiplied by the sDAI/DAI redemption rate from the sDAI contract.
+If this executive proposal passes, the Spark Proxy Spell will update the sDAI Oracle to use a fixed DAI/USD price of 1 USD multiplied by the sDAI/DAI redemption rate from the sDAI contract.
 
 #### [Mainnet] Onboard PT-sUSDe-26Dec2024 and PT-sUSDe-27Mar2025 to Morpho Spark DAI Vault
 
@@ -252,7 +252,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard two new ma
 - Pool LLTV: **91.5%**.
 - Supply Cap: **100 million DAI**.
 - Price Oracle Yield to Maturity: **15%**.
-- Price Oracle PT Redemption Value: **$1**.
+- Price Oracle PT Redemption Value: **1 USD**.
 
 ##### PT-sUSDe-27Mar2025
 
@@ -260,7 +260,7 @@ If this executive proposal passes, the Spark Proxy Spell will onboard two new ma
 - Pool LLTV: **91.5%**.
 - Supply Cap: **100 million DAI**.
 - Price Oracle Yield to Maturity: **20%**.
-- Price Oracle PT Redemption Value: **$1**.
+- Price Oracle PT Redemption Value: **1 USD**.
 
 #### [Mainnet] WBTC Parameter Changes
 
