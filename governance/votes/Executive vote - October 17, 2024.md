@@ -118,7 +118,7 @@ The Seal Engine will be initialized by calling [LockstakeInit.initLockstake](htt
 - [step](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12|57eaf45219bea3b430c2a59a6013): **60 seconds**
 - lineMom: **True**
 - [tolerance](https://sky-atlas.powerhouse.io/#A.1.8.2.2.4.1_Liquidations_Circuit_Breaker_Exception_Price_Tolerance-bcccd6b0-ad61-47c6-94f1-93447ba39102|0db30758e055352ce6eb): **0.5**
-- name: **LockstakeMKR**
+- name: **LockstakeMkr**
 - symbol: **lsMKR**
 
 This will have the following outcomes:
@@ -130,7 +130,8 @@ This will have the following outcomes:
   - [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)-c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb): **5 million DAI**.
   - [`ttl`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)-58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb): **16 hours**.
 - LSE-MKR-A will be added to the ilk registry with the provided `name` and `symbol` and the new ilk class of **7**.
-- MCD_SPOT, CLIPPER_MOM, OSM_MOM, MCD_END will use the new MKROSM (PIP_MKR) to assess the collateral price.
+- MCD_SPOT, CLIPPER_MOM, MCD_END and LOCKSTAKE_CLIP will use the new MKROSM (PIP_MKR) to access the collateral price.
+- OSM_MOM will be authorized to access the new MKR OSM.
 - PIP_MKR will be added to the OSM_MOM.
 - Lockstake Clipper will be configured with the following parameters:
   - [`buf`](ttps://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.2_Auction_Price_Multiplier_(buf)-3ce44221-fe39-4904-9f86-0a1996cea8c6|57eaf45219bea3b430c2a59a): **1.20**.
