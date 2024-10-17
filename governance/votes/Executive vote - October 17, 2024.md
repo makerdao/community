@@ -118,7 +118,7 @@ The Seal Engine will be initialized by calling [LockstakeInit.initLockstake](htt
 - [step](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12|57eaf45219bea3b430c2a59a6013): **60 seconds**
 - lineMom: **True**
 - [tolerance](https://sky-atlas.powerhouse.io/#A.1.8.2.2.4.1_Liquidations_Circuit_Breaker_Exception_Price_Tolerance-bcccd6b0-ad61-47c6-94f1-93447ba39102|0db30758e055352ce6eb): **0.5**
-- name: **LockstakeMKR**
+- name: **LockstakeMkr**
 - symbol: **lsMKR**
 
 This will have the following outcomes:
