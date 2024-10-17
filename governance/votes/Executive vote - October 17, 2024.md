@@ -49,7 +49,7 @@ If this executive proposal passes, then the Seal Engine will be initialized thro
 
 #### MKROSM Activation
 
-- The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will be whitelisted to read the MKR oracle price from the current PIP_MKR at [0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df](https://etherscan.io/address/0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df).
+- The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will be authorized to read the MKR oracle price from the current PIP_MKR at [0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df](https://etherscan.io/address/0xdbbe5e9b1daa91430cf0772fcebe53f6c6f137df).
 - The new MKROSM at [0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b](https://etherscan.io/address/0x4F94e33D0D74CfF5Ca0D3a66F1A650628551C56b) will replace the current PIP_MKR in the [Chainlog](https://chainlog.sky.money/).
 
 #### New VoteDelegateFactory Contract Activation
@@ -130,7 +130,8 @@ This will have the following outcomes:
   - [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)-c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb): **5 million DAI**.
   - [`ttl`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)-58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb): **16 hours**.
 - LSE-MKR-A will be added to the ilk registry with the provided `name` and `symbol` and the new ilk class of **7**.
-- MCD_SPOT, CLIPPER_MOM, OSM_MOM, MCD_END will use the new MKROSM (PIP_MKR) to assess the collateral price.
+- MCD_SPOT, CLIPPER_MOM, OSM_MOM, MCD_END will use the new MKROSM (PIP_MKR) to access the collateral price.
+- OSM_MOM will be authorized to access the new MKR OSM.
 - PIP_MKR will be added to the OSM_MOM.
 - Lockstake Clipper will be configured with the following parameters:
   - [`buf`](ttps://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.2_Auction_Price_Multiplier_(buf)-3ce44221-fe39-4904-9f86-0a1996cea8c6|57eaf45219bea3b430c2a59a): **1.20**.
