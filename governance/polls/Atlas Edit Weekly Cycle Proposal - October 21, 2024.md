@@ -41,6 +41,11 @@ The community may vote in this poll to express support or opposition to the foll
 - [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/41)
 - [Proposal Discussion Thread](https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-10-21-0/25364)
 
+Changes to the Atlas in this edit include:
+
+- Changes to Sky on Solana Short Term Crosschain Strategy.
+- Addition of Boost integration under Accessibility Reward.
+
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **20,000 MKR**.
