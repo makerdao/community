@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - October 21, 2024
-summary: Signal your support or opposition to this Atlas edit, which 1) modifies document A.5.6.1.8 - Sky on Solana Short Term Crosschain Strategy and 2) adds document A.5.2.1.1 - Integration Boost.
+summary: Signal your support or opposition to this Atlas edit, which 1) modifies document A.5.6.1.8 - Sky on Solana Short Term Crosschain Strategy and 2) adds document A.5.2.1.2 - Integration Boost.
 discussion_link: https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-10-21-0/25364
 parameters:
     input_format:
