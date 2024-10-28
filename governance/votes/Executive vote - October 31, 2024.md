@@ -42,7 +42,7 @@ If this executive proposal passes, then the Base Network SkyLink bridge for USDS
   - `govRelay`: [0x1Ee0AE8A993F2f5abDB51EAF4AC2876202b65c3b](https://etherscan.io/address/0x1Ee0AE8A993F2f5abDB51EAF4AC2876202b65c3b)
   - `escrow`: [0x7F311a4D48377030bD810395f4CCfC03bdbe9Ef3](https://etherscan.io/address/0x7F311a4D48377030bD810395f4CCfC03bdbe9Ef3)
   - `bridge`: [0xA5874756416Fa632257eEA380CAbd2E87cED352A](https://etherscan.io/address/0xA5874756416Fa632257eEA380CAbd2E87cED352A)
-  - `bridgeImp`: [0xaeFd31c2e593Dc971f9Cb42cBbD5d4AD7F1970b6](0xaeFd31c2e593Dc971f9Cb42cBbD5d4AD7F1970b6)
+  - `bridgeImp`: [0xaeFd31c2e593Dc971f9Cb42cBbD5d4AD7F1970b6](https://etherscan.io/address/0xaeFd31c2e593Dc971f9Cb42cBbD5d4AD7F1970b6)
 - [`l2BridgeInstance`](https://github.com/makerdao/op-token-bridge/blob/dev/deploy/L2TokenBridgeInstance.sol):
   - `govRelay`: [0xdD0BCc201C9E47c6F6eE68E4dB05b652Bb6aC255](https://basescan.org/address/0xdd0bcc201c9e47c6f6ee68e4db05b652bb6ac255)
   - `bridge`: [0xee44cdb68D618d58F75d9fe0818B640BD7B8A7B7](https://basescan.org/address/0xee44cdb68D618d58F75d9fe0818B640BD7B8A7B7)
@@ -61,8 +61,8 @@ If this executive proposal passes, then the Base Network SkyLink bridge for USDS
   - `minGasLimit`: 500,000
   - `govRelayCLKey`: BASE_GOV_RELAY (chainlog key for govRelay)
   - `escrowCLKey`: BASE_ESCROW (chainlog key for Escrow)
-  - `l1BridgeCLKey`: BASE_BRIDGE (TBC) (chainlog key for L1TokenBridge)
-  - `l1BridgeImpCLKey`: BASE_BRIDGE_IMP (chainlog key for L1TokenBridgeImp)
+  - `l1BridgeCLKey`: BASE_TOKEN_BRIDGE (TBC) (chainlog key for L1TokenBridge)
+  - `l1BridgeImpCLKey`: BASE_TOKEN_BRIDGE_IMP (chainlog key for L1TokenBridgeImp)
 
 More information on these contracts and on the bridge deployment process can be found at the [MakerDAO OP Token Bridge repository](https://github.com/makerdao/op-token-bridge/tree/0f935505c0dc74ce3db2a9998320a56119321814).
 
