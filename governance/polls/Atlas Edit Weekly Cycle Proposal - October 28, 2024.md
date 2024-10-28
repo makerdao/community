@@ -43,7 +43,7 @@ The community may vote in this poll to express support or opposition to the foll
 
 Changes to the Atlas in this edit include:
 
-- A one-off special governance poll to determine the long-term brand of the backend protocol, with 3 poll options. If approved, the poll must run from November 4 to November 7.
+- A provision to run a one-off special governance poll to determine the long-term brand of the backend protocol, with 3 poll options. If approved, the poll must run from November 4 to November 7.
 
 ## Outcomes
 
