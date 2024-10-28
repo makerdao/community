@@ -61,7 +61,7 @@ If this executive proposal passes, then the Base Network SkyLink bridge for USDS
   - `minGasLimit`: 500,000
   - `govRelayCLKey`: BASE_GOV_RELAY (chainlog key for govRelay)
   - `escrowCLKey`: BASE_ESCROW (chainlog key for Escrow)
-  - `l1BridgeCLKey`: BASE_TOKEN_BRIDGE (TBC) (chainlog key for L1TokenBridge)
+  - `l1BridgeCLKey`: BASE_TOKEN_BRIDGE (chainlog key for L1TokenBridge)
   - `l1BridgeImpCLKey`: BASE_TOKEN_BRIDGE_IMP (chainlog key for L1TokenBridgeImp)
 
 More information on these contracts and on the bridge deployment process can be found at the [MakerDAO OP Token Bridge repository](https://github.com/makerdao/op-token-bridge/tree/0f935505c0dc74ce3db2a9998320a56119321814).
