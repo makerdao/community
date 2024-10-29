@@ -117,6 +117,8 @@ will be added to _each_ of the median contracts below:
 - WSTETH/USD at [0x2F73b6567B866302e132273f67661fB89b5a66F2](https://etherscan.io/address/0x2F73b6567B866302e132273f67661fB89b5a66F2)
 - MKR/USD at [0xdbBe5e9B1dAa91430cF0772fCEbe53F6c6f137DF](https://etherscan.io/address/0xdbBe5e9B1dAa91430cF0772fCEbe53F6c6f137DF)
 
+These additions will ensure that a sufficient number of price sources are being used by the Medianizer to generate prices.
+
 ---
 
 ## Resources
