@@ -88,10 +88,10 @@ If this executive proposal passes, then the [Star Allocation System](https://for
     - `buffer`: [0xc395D150e71378B47A1b8E9de0c1a83b75a08324](https://etherscan.io/address/0xc395D150e71378B47A1b8E9de0c1a83b75a08324) (AllocatorBuffer)
   - [`cfg`](https://github.com/makerdao/dss-allocator/blob/226584d3b179d98025497815adb4ea585ea0102d/deploy/AllocatorInit.sol#L62):
     - `ilk`: ALLOCATOR-SPARK-A
-    - `duty`: 1000000001607468111246255079 (5.2%)
-    - `gap`: 10,000,000
-    - `maxLine`: 10,000,000
-    - `ttl`: 86,400 seconds
+    - `duty`: **1000000001607468111246255079 (5.2%)**
+    - [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)-c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb): **10,000,000 DAI**
+    - [`maxLine`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)-6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb): **10,000,000 DAI**
+    - [`ttl`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)-58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb): **86,400 seconds**
     - `allocatorProxy`: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (SparkProxy)
     - `ilkRegistry`: [0x5a464c28d19848f44199d003bef5ecc87d090f87](https://etherscan.io/address/0x5a464c28d19848f44199d003bef5ecc87d090f87)
 - Whitelist [Spark ALM Proxy](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E) on the LitePSM by calling `IPSMLike(MCD_LITE_PSM_USDC_A).kiss(almProxy: 0x1601843c5E9bC251A3272907010AFa41Fa18347E)`.
