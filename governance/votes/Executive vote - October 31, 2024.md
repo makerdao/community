@@ -64,7 +64,7 @@ If this executive proposal passes, then the Base Network SkyLink bridge for USDS
   - `l1BridgeCLKey`: BASE_TOKEN_BRIDGE (chainlog key for L1TokenBridge)
   - `l1BridgeImpCLKey`: BASE_TOKEN_BRIDGE_IMP (chainlog key for L1TokenBridgeImp)
 
-More information on these contracts and on the bridge deployment process can be found at the [MakerDAO OP Token Bridge repository](https://github.com/makerdao/op-token-bridge/tree/0f935505c0dc74ce3db2a9998320a56119321814).
+This will initialize a new SkyLink bridge that will facilitate bridging USDS and sUSDS between mainnet and Base. More information on these contracts and on the bridge deployment process can be found at the [MakerDAO OP Token Bridge repository](https://github.com/makerdao/op-token-bridge/tree/0f935505c0dc74ce3db2a9998320a56119321814).
 
 ### Star Allocation System Initialization for Spark
 
