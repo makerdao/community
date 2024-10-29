@@ -33,7 +33,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Base Network SkyLink Bridge Initialization for USDS and sUSDS
 
-- **Authorization**: [TBC]()
+- **Authorization**: [Ecosystem Approval](http://forum.sky.money/t/spell-contents-2024-10-31/25421/6)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/spell-contents-2024-10-31/25421)
 
 If this executive proposal passes, then the Base Network SkyLink bridge for USDS and sUSDS will be initialized by calling [`TokenBridgeInit.initBridges`](https://github.com/makerdao/op-token-bridge/blob/0f935505c0dc74ce3db2a9998320a56119321814/deploy/TokenBridgeInit.sol#L63) with its parameters set as follows:
@@ -68,7 +68,7 @@ This will initialize a new SkyLink bridge that will facilitate bridging USDS and
 
 ### Star Allocation System Initialization for Spark
 
-- **Authorization**: [TBC]()
+- **Authorization**: [Ecosystem Approval](http://forum.sky.money/t/spell-contents-2024-10-31/25421/6)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/spell-contents-2024-10-31/25421)
 
 If this executive proposal passes, then the [Star Allocation System](https://forum.sky.money/t/star-allocation-system-framework/25325) for Spark will be initialized by executing the actions below:
@@ -100,7 +100,7 @@ This will initialize the Spark Allocator System with a Maximum Debt Ceiling of 1
 
 ### Add new validators for [Median](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation) (Medianizer)
 
-- **Authorization**: [TBC]()
+- **Authorization**: [Ecosystem Approval](http://forum.sky.money/t/spell-contents-2024-10-31/25421/6)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/spell-contents-2024-10-31/25421)
 
 If this executive proposal passes, then _all_ validators below:
