@@ -96,7 +96,7 @@ If this executive proposal passes, then the [Star Allocation System](https://for
     - `ilkRegistry`: [0x5a464c28d19848f44199d003bef5ecc87d090f87](https://etherscan.io/address/0x5a464c28d19848f44199d003bef5ecc87d090f87)
 - Whitelist [Spark ALM Proxy](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E) on the LitePSM by calling `IPSMLike(MCD_LITE_PSM_USDC_A).kiss(almProxy: 0x1601843c5E9bC251A3272907010AFa41Fa18347E)`.
 
-More information on these contracts can be found at the [dss-allocator repository](https://github.com/makerdao/dss-allocator/tree/226584d3b179d98025497815adb4ea585ea0102d); an overview of the system implementation can be found at the [README file](https://github.com/makerdao/dss-allocator/blob/226584d3b179d98025497815adb4ea585ea0102d/README.md) therein.
+This will initialize the Spark Allocator System with a Maximum Debt Ceiling of 10,000,000 USDS and a fee of 5.2%. More information on these contracts can be found at the [dss-allocator repository](https://github.com/makerdao/dss-allocator/tree/226584d3b179d98025497815adb4ea585ea0102d); an overview of the system implementation can be found at the [README file](https://github.com/makerdao/dss-allocator/blob/226584d3b179d98025497815adb4ea585ea0102d/README.md) therein.
 
 ### Add new validators for [Median](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation) (Medianizer)
 
