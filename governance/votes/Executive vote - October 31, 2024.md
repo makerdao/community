@@ -105,10 +105,10 @@ This will initialize the Spark Allocator System with a Maximum Debt Ceiling of 1
 
 If this executive proposal passes, then _all_ validators below:
 
-- ETH Global validator - 0xcfC62b2269521e3212Ce1b6670caE6F0e34E8bF3
-- Mantle validator - 0xFa6eb665e067759ADdE03a8E6bD259adBd1D70c9
-- Nethermind validator - 0x91242198eD62F9255F2048935D6AFb0C2302D147
-- Euler validator - 0x1DCB8CcC022938e102814F1A299C7ae48A8BAAf6
+- ETH Global validator - [0xcfC62b2269521e3212Ce1b6670caE6F0e34E8bF3](https://etherscan.io/address/0xcfC62b2269521e3212Ce1b6670caE6F0e34E8bF3)
+- Mantle validator - [0xFa6eb665e067759ADdE03a8E6bD259adBd1D70c9](https://etherscan.io/address/0xFa6eb665e067759ADdE03a8E6bD259adBd1D70c9)
+- Nethermind validator - [0x91242198eD62F9255F2048935D6AFb0C2302D147](https://etherscan.io/address/0x91242198eD62F9255F2048935D6AFb0C2302D147)
+- Euler validator - [0x1DCB8CcC022938e102814F1A299C7ae48A8BAAf6](https://etherscan.io/address/0x1DCB8CcC022938e102814F1A299C7ae48A8BAAf6)
 
 will be added to _each_ of the median contracts below:
 
@@ -118,6 +118,8 @@ will be added to _each_ of the median contracts below:
 - MKR/USD at [0xdbBe5e9B1dAa91430cF0772fCEbe53F6c6f137DF](https://etherscan.io/address/0xdbBe5e9B1dAa91430cF0772fCEbe53F6c6f137DF)
 
 These additions will ensure that a sufficient number of price sources are being used by the Medianizer to generate prices.
+
+For more details about the Oracle Module, you can refer to this [link](https://docs.makerdao.com/smart-contract-modules/oracle-module#id-3.-key-mechanism-and-concepts).
 
 ---
 
