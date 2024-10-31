@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Base Network SkyLink Bridge Initialization for USDS and sUSDS, Star Allocation System Initialization for Spark, Add New Validators to Medianizer - October 31, 2024
 summary: Initialize the Base Network SkyLink bridge for USDS and sUSDS, initialize the Star Allocation System for Spark, add new validators to Medianizer.
 date: 2024-10-31T00:00:00.000Z
-address: "$spell_address"
+address: "0x3f6e730C77496aAB65655b3A5BDF6242C6eee4Cc"
 
 ---
 # [Executive Proposal] Base Network SkyLink Bridge Initialization for USDS and sUSDS, Star Allocation System Initialization for Spark, Add New Validators to Medianizer - October 31, 2024
