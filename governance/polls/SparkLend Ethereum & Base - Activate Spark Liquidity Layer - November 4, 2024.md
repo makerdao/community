@@ -35,6 +35,15 @@ The community can vote in this poll to express support or opposition to activati
 
 | Parameter | Max amount | Slope (tokens/day) |
 |--|--|--|
+| LIMIT_USDS_MINT | 4,000,000 | 2,000,000 |
+| LIMIT_USDC_TO_CCTP_ETH | max. | 0 |
+| LIMIT_USDS_TO_USDC | 4,000,000 | 2,000,000 |
+| LIMIT_USDC_TO_DOMAIN (to Base) | 4,000,000 | 2,000,000 |
+
+#### Base
+
+| Parameter | Max amount | Slope (tokens/day) |
+|--|--|--|
 | LIMIT_PSM_DEPOSIT_USDC | 4,000,000 | 2,000,000 |
 | LIMIT_PSM_WITHDRAW_USDC | 7,000,000 | 2,000,000 |
 | LIMIT_PSM_DEPOSIT_USDS | 5,000,000 | 2,000,000 |
@@ -43,15 +52,6 @@ The community can vote in this poll to express support or opposition to activati
 | LIMIT_PSM_WITHDRAW_SUSDS | max. | 0 |
 | LIMIT_USDC_TO_DOMAIN (to mainnet) | 4,000,000 | 2,000,000 |
 | LIMIT_USDC_TO_CCTP_BASE | max. | 0 |
-
-#### Base
-
-| Parameter | Max amount | Slope (tokens/day) |
-|--|--|--|
-| LIMIT_USDS_MINT | 4,000,000 | 2,000,000 |
-| LIMIT_USDC_TO_CCTP_ETH | max. | 0 |
-| LIMIT_USDS_TO_USDC | 4,000,000 | 2,000,000 |
-| LIMIT_USDC_TO_DOMAIN (to Base) | 4,000,000 | 2,000,000 |
 
 ### Offchain Parameters
 
