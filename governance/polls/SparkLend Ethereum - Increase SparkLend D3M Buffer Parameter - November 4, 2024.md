@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to increasing [SparkLend DAI Direct Deposit Module (D3M)](https://sky-atlas.powerhouse.io/#A.3.8.1.3_Spark_Dai_Direct_Deposit_Module-810b462c-6498-4574-b7a7-b3247e139dbc|57eaf45219be) [`buffer`](https://sky-atlas.powerhouse.io/#A.3.8.1.3.1.4_Buffer_Definition-039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter on Sparklend Ethereum as follows:
 
-- Increase SparkLend D3M [`buffer`](https://sky-atlas.powerhouse.io/#A.3.8.1.3.1.4_Buffer_Definition-039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter from 50 million DAI to **100 million DAI**.
+- Increase SparkLend D3M [`buffer`](https://sky-atlas.powerhouse.io/#A.3.8.1.3.1.4_Buffer_Definition-039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter by 50 million DAI from 50 million DAI to **100 million DAI**.
 
 Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466) to help inform your position before voting.
 
@@ -37,7 +37,7 @@ Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to increase the SparkLend D3M [`buffer`](https://sky-atlas.powerhouse.io/#A.3.8.1.3.1.4_Buffer_Definition-039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter as described aboved.
+- Phoenix Labs will facilitate preparation of a Spark spell to increase the SparkLend D3M [`buffer`](https://sky-atlas.powerhouse.io/#A.3.8.1.3.1.4_Buffer_Definition-039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter as described aboved.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.

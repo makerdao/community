@@ -29,8 +29,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition increasing wstETH borrow rate limits on Sparklend Ethereum as follows:
 
-- Increase wstETH Borrow Cap [`max`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) parameter from 3,000 wstETH to **100,000 wstETH**.
-- Increase wstETH Borrow Cap [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) parameter from 100 wstETH to **5,000 wstETH**.
+- Increase wstETH Borrow Cap [`max`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) parameter by 97,000 wstETH from 3,000 wstETH to **100,000 wstETH**.
+- Increase wstETH Borrow Cap [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) parameter by 4,900 wstETH from 100 wstETH to **5,000 wstETH**.
 
 Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466) to help inform your position before voting.
 
@@ -38,7 +38,7 @@ Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to increase the wstETH borrow rate limits on Sparklend Ethereum as described above.
+- Phoenix Labs will facilitate preparation of a Spark spell to increase the wstETH borrow rate limits on Sparklend Ethereum as described above.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.

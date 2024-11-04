@@ -33,7 +33,7 @@ The community can vote in this poll to express support or opposition to activati
 
 #### Ethereum
 
-| Parameter | Max amount | Slope (tokens/day) |
+| Parameter | Max amount (tokens) | Slope (tokens/day) |
 |--|--|--|
 | LIMIT_USDS_MINT | 4,000,000 | 2,000,000 |
 | LIMIT_USDC_TO_CCTP_ETH | max. | 0 |
@@ -42,7 +42,7 @@ The community can vote in this poll to express support or opposition to activati
 
 #### Base
 
-| Parameter | Max amount | Slope (tokens/day) |
+| Parameter | Max amount (tokens) | Slope (tokens/day) |
 |--|--|--|
 | LIMIT_PSM_DEPOSIT_USDC | 4,000,000 | 2,000,000 |
 | LIMIT_PSM_WITHDRAW_USDC | 7,000,000 | 2,000,000 |
@@ -55,7 +55,7 @@ The community can vote in this poll to express support or opposition to activati
 
 ### Offchain Parameters
 
-| Parameter | Value |
+| Parameter | Value (tokens) |
 |--|--|
 | MAINNET_MIN_OPERATION_SIZE | 400,000 |
 | BASE_MIN_OPERATION_SIZE | 400,000 |
@@ -72,7 +72,7 @@ For more information about the activation process and these parameters, please r
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to activate the Spark Liquidity Layer on Ethereum and Base with the parameters listed above.
+- Phoenix Labs will facilitate preparation of a Spark spell to activate the Spark Liquidity Layer on Ethereum and Base with the parameters listed above.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.

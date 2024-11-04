@@ -29,8 +29,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to updating Morpho DAI vault Supply Caps as follows:
 
-- Increase [PT-sUSDe-26Dec2024 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/e37784e5ff9c2795395c5a41a0cb7ae1da4a93d67bfdd8654b9ff86b3065941c) Supply Cap from 100 million DAI to **250 million DAI**.
-- Increase [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap from 100 million DAI to **200 million DAI**.
+- Increase [PT-sUSDe-26Dec2024 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/e37784e5ff9c2795395c5a41a0cb7ae1da4a93d67bfdd8654b9ff86b3065941c) Supply Cap by 150 million DAI from 100 million DAI to **250 million DAI**.
+- Increase [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap by 100 million DAI from 100 million DAI to **200 million DAI**.
 
 Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466) to help inform your position before voting.
 
@@ -38,7 +38,7 @@ Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to increase the [PT-sUSDe-26Dec2024 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/e37784e5ff9c2795395c5a41a0cb7ae1da4a93d67bfdd8654b9ff86b3065941c) Supply Cap to 250 million DAI and the [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap to 200 million DAI on Sparklend Ethereum.
+- Phoenix Labs will facilitate preparation of a Spark spell to increase the [PT-sUSDe-26Dec2024 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/e37784e5ff9c2795395c5a41a0cb7ae1da4a93d67bfdd8654b9ff86b3065941c) Supply Cap to 250 million DAI and the [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap to 200 million DAI on Sparklend Ethereum.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.
