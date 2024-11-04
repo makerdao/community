@@ -52,6 +52,7 @@ Please review the discussion [thread](https://forum.sky.money/t/weekly-atlas-edi
 
 - The option with the most votes will be selected as the winning choice.
 - However, if Option 1 has the most votes individually, but the combined votes for Options 2 and 3 exceed those for Option 1, Option 2 will be declared the winner.
+- The winning option will direct the Maker/Sky workforce, with any required Atlas Edits being presented at a later date.
 
 ---
 
