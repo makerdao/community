@@ -1,5 +1,5 @@
 ---
-title: SparkLend Ethereum & Base - Activate Spark Liquidity Layer - November 4, 2024
+title: SparkLend Ethereum and Base - Activate Spark Liquidity Layer - November 4, 2024
 summary: Signal your support or opposition to activating Spark Liquidity Layer on Sparklend Ethereum and Base.
 discussion_link: https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-11-04T16:00:00
 end_date: 2024-11-07T16:00:00
 ---
-# Poll: SparkLend Ethereum & Base - Activate Spark Liquidity Layer - November 4, 2024
+# Poll: SparkLend Ethereum and Base - Activate Spark Liquidity Layer - November 4, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 4 at 16:00 UTC.
 
