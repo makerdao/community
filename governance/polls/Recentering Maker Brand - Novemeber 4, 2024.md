@@ -18,7 +18,7 @@ end_date: 2024-11-07T16:00:00
 ---
 # Poll: Recentering Maker Brand - November 4, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Accessibility Facilitators in accordance with Atlas article [A.5.2 - Brand Identity - Recentering Maker Brand Polls](https://sky-atlas.powerhouse.io/#A.5.1.1.3_Recentering_Maker_Brand_Polls-133f2ff0-8d73-80ba-add3-d43c59ec407b%7C8d5a16c0e403). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 4 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Accessibility Facilitators in accordance with Atlas article [A.5.1.1.3 - Brand Identity - Recentering Maker Brand Polls](https://sky-atlas.powerhouse.io/#A.5.1.1.3_Recentering_Maker_Brand_Polls-133f2ff0-8d73-80ba-add3-d43c59ec407b%7C8d5a16c0e403). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 4 at 16:00 UTC.
 
 **This is a plurality vote.**
 
@@ -34,9 +34,9 @@ The community can vote in this poll to express support or opposition to either o
 - Option 2 - Recenter the Maker brand.
 - Option 3 - Recenter the Maker brand with a limited brand refresh.
 
-Please review the discussion [thread](https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-10-28-0/25411) and the originating Atlas article [A.5.2 - Brand Identity - Recentering Maker Brand Polls](https://github.com/makerdao/next-gen-atlas/blob/0ad10bf7adb809299f2e35ca048b62708a3bbb6c/Sky%20Atlas/Sky%20Atlas.html#L8697BD) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-10-28-0/25411) and the originating Atlas article [A.5.1.1.3 - Brand Identity - Recentering Maker Brand Polls](https://sky-atlas.powerhouse.io/#A.5.1.1.3_Recentering_Maker_Brand_Polls-133f2ff0-8d73-80ba-add3-d43c59ec407b%7C8d5a16c0e403) to help inform your position before voting.
 
-**Note that the Governance Portal does not currently support the specified winning criteria (described under **Outcome**) for this poll. In order to minimize confusion, this vote will have no winner displayed on the Governance Portal; however, the winning criteria will still apply at the end of it and the winner will be acknowledged in a subsequent forum post by the Governance Facilitators.**
+**Note that the Governance Portal does not currently support the specified winning criteria (described under **Outcome**) for this poll. However, the winning criteria will still apply at the end of it and the winner will be acknowledged in a subsequent forum post by the Governance Facilitators.**
 
 ## Outcomes
 
