@@ -18,7 +18,7 @@ end_date: 2024-11-07T16:00:00
 ---
 # Poll: Recentering Maker Brand - November 4, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system in accordance with Atlas article [A.5.2 - Brand Identity - Recentering Maker Brand Polls](https://github.com/makerdao/next-gen-atlas/blob/0ad10bf7adb809299f2e35ca048b62708a3bbb6c/Sky%20Atlas/Sky%20Atlas.html#L8697BD). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 4 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Accessibility Facilitators in accordance with Atlas article [A.5.2 - Brand Identity - Recentering Maker Brand Polls](https://sky-atlas.powerhouse.io/#A.5.1.1.3_Recentering_Maker_Brand_Polls-133f2ff0-8d73-80ba-add3-d43c59ec407b%7C8d5a16c0e403). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 4 at 16:00 UTC.
 
 **This is a plurality vote.**
 
