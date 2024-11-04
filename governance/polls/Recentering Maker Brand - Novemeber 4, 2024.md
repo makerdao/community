@@ -1,6 +1,6 @@
 ---
 title: Recentering Maker Brand - November 4, 2024
-summary: Signal your support or opposition to 1) keep the Sky brand as the backend protocol brand; or 2) recenter the Maker brand; or 3) recenter the Maker brand with a limited brand refresh.
+summary: Signal your support of the following branding options to 1) keep the Sky brand as the backend protocol brand; or 2) recenter the Maker brand; or 3) recenter the Maker brand with a limited brand refresh.
 discussion_link: https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-10-28-0/25411
 parameters:
     input_format: single-choice
