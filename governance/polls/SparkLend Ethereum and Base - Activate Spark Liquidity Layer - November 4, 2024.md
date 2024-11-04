@@ -66,7 +66,7 @@ The community can vote in this poll to express support or opposition to activati
 
 Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466) to help inform your position before voting.
 
-For more information about the activation process and these parameters, please read the [_Spark ALM Planner Parameter Study_ forum post published by BAlabs](https://forum.sky.money/t/14-nov-2024-spark-alm-planner-parameter-study/25467).
+For more information about the activation process and these parameters, please read the [_Spark ALM Planner Parameter Study_ forum post published by BA Labs](https://forum.sky.money/t/14-nov-2024-spark-alm-planner-parameter-study/25467).
 
 ## Outcomes
 
