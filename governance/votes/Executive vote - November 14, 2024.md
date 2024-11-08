@@ -152,36 +152,36 @@ If this executive proposal passes, the Spark Liquidity Layer will be activated w
 
 ##### Ethereum
 
-| Parameter | Max amount (tokens) | Slope (tokens/day) |
-|--|--|--|
-| LIMIT_USDS_MINT | 4,000,000 | 2,000,000 |
-| LIMIT_USDC_TO_CCTP_ETH | max. | 0 |
-| LIMIT_USDS_TO_USDC | 4,000,000 | 2,000,000 |
-| LIMIT_USDC_TO_DOMAIN (to Base) | 4,000,000 | 2,000,000 |
+| Parameter                      | Max amount (tokens) | Slope (tokens/day) |
+|--------------------------------|---------------------|--------------------|
+| LIMIT_USDS_MINT                | 4,000,000           | 2,000,000          |
+| LIMIT_USDC_TO_CCTP_ETH         | max.                | 0                  |
+| LIMIT_USDS_TO_USDC             | 4,000,000           | 2,000,000          |
+| LIMIT_USDC_TO_DOMAIN (to Base) | 4,000,000           | 2,000,000          |
 
 ##### Base
 
-| Parameter | Max amount (tokens) | Slope (tokens/day) |
-|--|--|--|
-| LIMIT_PSM_DEPOSIT_USDC | 4,000,000 | 2,000,000 |
-| LIMIT_PSM_WITHDRAW_USDC | 7,000,000 | 2,000,000 |
-| LIMIT_PSM_DEPOSIT_USDS | 5,000,000 | 2,000,000 |
-| LIMIT_PSM_WITHDRAW_USDS | max. | 0 |
-| LIMIT_PSM_DEPOSIT_SUSDS | 8,000,000 | 2,000,000 |
-| LIMIT_PSM_WITHDRAW_SUSDS | max. | 0 |
-| LIMIT_USDC_TO_DOMAIN (to mainnet) | 4,000,000 | 2,000,000 |
-| LIMIT_USDC_TO_CCTP_BASE | max. | 0 |
+| Parameter                         | Max amount (tokens) | Slope (tokens/day) |
+|-----------------------------------|---------------------|--------------------|
+| LIMIT_PSM_DEPOSIT_USDC            | 4,000,000           | 2,000,000          |
+| LIMIT_PSM_WITHDRAW_USDC           | 7,000,000           | 2,000,000          |
+| LIMIT_PSM_DEPOSIT_USDS            | 5,000,000           | 2,000,000          |
+| LIMIT_PSM_WITHDRAW_USDS           | max.                | 0                  |
+| LIMIT_PSM_DEPOSIT_SUSDS           | 8,000,000           | 2,000,000          |
+| LIMIT_PSM_WITHDRAW_SUSDS          | max.                | 0                  |
+| LIMIT_USDC_TO_DOMAIN (to mainnet) | 4,000,000           | 2,000,000          |
+| LIMIT_USDC_TO_CCTP_BASE           | max.                | 0                  |
 
 ##### Offchain Parameters
 
-| Parameter | Value (tokens) |
-|--|--|
-| MAINNET_MIN_OPERATION_SIZE | 400,000 |
-| BASE_MIN_OPERATION_SIZE | 400,000 |
-| DEBT_CEILING_BUFFER | 10,000 |
-| USDC_MIN_BALANCE_BASE | 800,000 |
-| USDC_OPTIMAL_BALANCE_BASE | 800,000 |
-| USDC_MAX_BALANCE_BASE | 800,000 |
+| Parameter                  | Value (tokens) |
+|----------------------------|----------------|
+| MAINNET_MIN_OPERATION_SIZE | 400,000        |
+| BASE_MIN_OPERATION_SIZE    | 400,000        |
+| DEBT_CEILING_BUFFER        | 10,000         |
+| USDC_MIN_BALANCE_BASE      | 800,000        |
+| USDC_OPTIMAL_BALANCE_BASE  | 800,000        |
+| USDC_MAX_BALANCE_BASE      | 800,000        |
 
 Please review the discussion [thread](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466) to help inform your position before voting.
 
