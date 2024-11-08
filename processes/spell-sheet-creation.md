@@ -28,7 +28,6 @@
 - [ ] Add role and recurring items info from GovOps Meeting.
 - [ ] Add Spell Items as formatted in the sheet. 
 - [ ] Complete and confirm checksums for DAI and MKR transfers.
-- [ ] SubDAO Spell Crafter delivered the SubDAO spell address and spell PR in Discord with no differences in the code.
 
 ## Obtain Confirmations for listed items (Wednesday, confirmations due EOD Friday) 
 
