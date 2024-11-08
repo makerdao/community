@@ -120,7 +120,7 @@ This is a total of: **308,548 DAI**.
 
 #### MKR Payments
 
-| Delegate    | Amount (MKR) | Address            |
+| Delegate    | Amount (MKR) | Address                                                                                                               |
 |-------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
 | Cloaky      | 29.25        | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 | JuliaChang  | 28.75        | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
