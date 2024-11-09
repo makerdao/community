@@ -23,7 +23,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - New Facilitator vesting streams will be created.
 - Aligned Delegate compensation for September 2024 will be distributed.
 - Launch Project funding will be distributed.
-- A Spark Proxy Spell at [$SPARK_SPELL_ADDRESS](https;//etherscan.io/address/$SPARK_SPELL_ADDRESS) will be executed.
+- A Spark Proxy Spell at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -144,7 +144,7 @@ If this executive proposal passes, then $TBD.
 - **Authorization**: [Poll 1](https://vote.makerdao.com/polling/Qmf955yA), [Poll 2](https://vote.makerdao.com/polling/QmXsXzot), [Poll 3](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 4](https://vote.makerdao.com/polling/QmQizL1F), [Poll 5](https://vote.makerdao.com/polling/QmYqM8Yf)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
-If this executive proposal passes, then the Spark Proxy Spell at [$SPARK_SPELL_ADDRESS](https;//etherscan.io/address/$SPARK_SPELL_ADDRESS) will be executed. The expected inclusions are:
+If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
 
 #### Spark Liquidity Layer Activation
 
