@@ -198,7 +198,7 @@ If this executive proposal passes the following change will be made to the Spark
 
 #### SparkLend Increase wstETH Borrow Rate Limits
 
-If this executive proposal passes the following parameter changes will be made to the Sparklend wstETH borrow rate limits on mainnet:
+If this executive proposal passes the following parameter changes will be made to the SparkLend wstETH borrow rate limits on mainnet:
 
 - Increase wstETH Borrow Cap [`max`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition-a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) parameter by 97,000 wstETH from 3,000 wstETH to **100,000 wstETH**.
 - Increase wstETH Borrow Cap [`gap`](https://sky-atlas.powerhouse.io/#A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) parameter by 4,900 wstETH from 100 wstETH to **5,000 wstETH**.
