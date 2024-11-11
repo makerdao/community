@@ -74,7 +74,7 @@ This will authorize RWA Foundation to receive any recovered funds from ConsolFre
 
 - **Authorization**: [Atlas 1.6.2.4.1](https://sky-atlas.powerhouse.io/A.1.6.2.4.1_List_of_Facilitator_Budgets/c511460d-53df-47e9-a4a5-2e48a533315b|0db3343515519c4a)
 
-If this executive proposal passes, the following actions will take place. 
+If this executive proposal passes, the following vesting streams will be created. 
 
 Note that DssVestSuckable for USDS and DSSVestTransferrable for SKY are not yet available. As a result, short streams for equivalent values of DAI and MKR are used. It is hoped that by the end of January, when these streams expire, it will be possible to switch the streams for these budgets to USDS and SKY, as detailed in The Atlas.
 
@@ -117,7 +117,6 @@ Note that these payments mark the transition to a new payment system. They are s
 | Bonapublica     | 8,333           | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Rocky           | 7,796           | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
-
 #### MKR Payments
 
 | Delegate    | Amount (MKR) | Address                                                                                                               |
@@ -129,7 +128,6 @@ Note that these payments mark the transition to a new payment system. They are s
 | vigilant    | 2.43         | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
 | Bonapublica | 2.06         | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Rocky       | 1.17         | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
-
 
 ### Spark Proxy Spell
 
