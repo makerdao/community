@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Launch Project Funding, Spark Proxy Spell - November 14, 2024
-summary: Update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write-off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distributed Aligned Delegate compensation for September 2024, distribute Launch Project funcing, trigger a Spark Proxy Spell.
+title: Template - [Executive Vote] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
+summary: Update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write-off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distributed Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
 date: 2024-11-14T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Launch Project Funding, Spark Proxy Spell - November 14, 2024
+# [Executive Proposal] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
 
 The Governance Facilitators and Sidestream and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -22,7 +22,6 @@ If this executive proposal passes, the following **actions** will occur within t
 - A DAO Resolution with the hash [QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA](https://gateway.pinata.cloud/ipfs/QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA) will be approved.
 - New Facilitator vesting streams will be created.
 - Aligned Delegate compensation for September 2024 will be distributed.
-- Launch Project funding will be distributed.
 - A Spark Proxy Spell at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
@@ -131,13 +130,6 @@ This is a total of: **308,548 DAI**.
 | Rocky       | 1.17         | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
 This is a total of: **87.09 MKR**.
-
-### Launch Project Funding
-
-- **Authorization**: [Atlas 5.6.1.6](https://sky-atlas.powerhouse.io/A.5.6.1.6_Budget/8a88d69e-33cf-459f-8e1c-de4ac965d76b|8d5aeb778e7c)
-- **Proposal**: [$link_to_proposal]()
-
-If this executive proposal passes, then $TBD.
 
 ### Spark Proxy Spell
 
