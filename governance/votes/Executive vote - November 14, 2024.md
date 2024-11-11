@@ -131,7 +131,7 @@ Note that these payments mark the transition to a new payment system. They are s
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Poll 1152](https://vote.makerdao.com/polling/QmQizL1F), [Poll 1153](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 1155]https://vote.makerdao.com/polling/QmYqM8Yf), [Poll 1156](https://vote.makerdao.com/polling/QmXsXzot), [Poll 1157](https://vote.makerdao.com/polling/Qmf955yA)
+- **Authorization**: [Poll 1152](https://vote.makerdao.com/polling/QmQizL1F), [Poll 1153](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 1155](https://vote.makerdao.com/polling/QmYqM8Yf), [Poll 1156](https://vote.makerdao.com/polling/QmXsXzot), [Poll 1157](https://vote.makerdao.com/polling/Qmf955yA)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
 If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https://etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
