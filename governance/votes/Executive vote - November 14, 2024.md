@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
 
-The Governance Facilitators and Sidestream and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
+The Governance Facilitators, Sidestream and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
 If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -23,11 +23,11 @@ If this executive proposal passes, the following **actions** will occur within t
 - A DAO Resolution with the hash [QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA](https://gateway.pinata.cloud/ipfs/QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA) will be approved.
 - New Facilitator vesting streams will be created.
 - Aligned Delegate compensation for September 2024 will be distributed.
-- A Spark Proxy Spell at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed.
+- A Spark Proxy Spell at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https://etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
-Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**16**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
+Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**16 hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
 
 This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmNTKFqG#poll-detail)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
-If this executive proposal passes, then the SparkLend D3M [Buffer (`buf`)]([Buffer](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712)) parameter on mainnet will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
+If this executive proposal passes, then the SparkLend D3M [Buffer (`buf`)](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter on mainnet will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
 
 ### Gelato Keeper Treasury Address Update
 
@@ -51,7 +51,7 @@ If this executive proposal passes, then the SparkLend D3M [Buffer (`buf`)]([Buff
 
 If this executive proposal passes, then the Gelato Keeper Treasury address will be updated to **[0x5041c60C75633F29DEb2AED79cB0A9ed79202415](https://etherscan.io/address/0x5041c60C75633F29DEb2AED79cB0A9ed79202415)**.
 
-### ConsolFreight (RWA-003) Debt Write-Off and Associated DAO Resolution
+### ConsolFreight (RWA-003) Debt Write-Off and Associated DAO Resolution Approval
 
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [Forum post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21)
@@ -60,7 +60,7 @@ If this executive proposal passes, then the following actions will take place.
 
 #### Debt Write-off
 
-If this executive proposal passes, the outstanding debt of the RWA-003 vault will be written off by calling `cull()` on the vault's oracle. Prior to this `drip` will be called on the Jug to ensure that all accrued interest is accounted for. This will reduce the Surplus Buffer to cover the outstanding debt of the vault.
+If this executive proposal passes, the outstanding debt of the RWA-003 vault will be written off by calling `cull()` on the vault's oracle. Prior to this, `drip()` will be called on the Jug to ensure that all accrued interest is accounted for. This will reduce the Surplus Buffer to cover the outstanding debt of the vault.
 
 Please review this [forum post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21) from Steakhouse for the particulars of the events leading to this action.
 
@@ -76,7 +76,7 @@ This will authorize RWA Foundation to receive any recovered funds from ConsolFre
 
 If this executive proposal passes, the following actions will take place. 
 
-Note that DssVestSuckable for USDS and DSSVestTransferrable for SKY are not yet available. We are therefore using short streams for equivalent values of DAI and MKR. It is hoped that by the end of January when these streams expire we will be able to switch to USDS and SKY streams for these budgets, as detailed in The Atlas.
+Note that DssVestSuckable for USDS and DSSVestTransferrable for SKY are not yet available. As a result, short streams for equivalent values of DAI and MKR are used. It is hoped that by the end of January, when these streams expire, it will be possible to switch the streams for these budgets to USDS and SKY, as detailed in The Atlas.
 
 #### DAI Streams
 
@@ -136,7 +136,7 @@ Note that these payments mark the transition to a new payment system. They are s
 - **Authorization**: [Poll 1152](https://vote.makerdao.com/polling/QmQizL1F), [Poll 1153](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 1155]https://vote.makerdao.com/polling/QmYqM8Yf), [Poll 1156](https://vote.makerdao.com/polling/QmXsXzot), [Poll 1157](https://vote.makerdao.com/polling/Qmf955yA)```
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
-If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
+If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https://etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
 
 #### Spark Liquidity Layer Activation
 
@@ -207,7 +207,7 @@ If this executive proposal passes the following parameter changes will be made t
 
 ## Review
 
-Community debate on these topics can be found on the Sky [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+Community debate on these topics can be found on the Sky [Governance forum](https://forum.sky.money/). Please review any linked threads to inform your position before voting.
 
 ---
 
