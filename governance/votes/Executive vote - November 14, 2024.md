@@ -46,15 +46,15 @@ If this executive proposal passes, then the SparkLend D3M [Buffer (`buf`)](https
 
 ### Gelato Keeper Treasury Address Update
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Forum Post](https://forum.sky.money/t/gelato-keeper-update/25456/3)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/gelato-keeper-update/25456)
 
 If this executive proposal passes, then the Gelato Keeper Treasury address will be updated to **[0x5041c60C75633F29DEb2AED79cB0A9ed79202415](https://etherscan.io/address/0x5041c60C75633F29DEb2AED79cB0A9ed79202415)**.
 
 ### ConsolFreight (RWA-003) Debt Write-Off and Associated DAO Resolution Approval
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [Forum post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21)
+- **Authorization**: [Forum Post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/22)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21)
 
 If this executive proposal passes, then the following actions will take place.
 
