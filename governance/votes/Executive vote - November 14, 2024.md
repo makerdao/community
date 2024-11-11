@@ -101,7 +101,7 @@ Note that DssVestSuckable for USDS and DSSVestTransferrable for SKY are not yet 
 
 If this executive proposal passes, then a total of **308,548 DAI** and **87.09 MKR** will be distributed as Aligned Delegate compensation for September 2024, as detailed below.
 
-Note that these payments mark the transition to a new payment system. They are still denominated in DAI and MKR, the stated currencies in the Atlas at the time these payments were earned. These payments will empty out the now defunct DAI and MKR buffers and future payments will be made in USDS, as stated in the updated Atlas.
+Note that these payments mark the transition to a new payment system. They are still denominated in DAI and MKR, the stated currencies in The Atlas at the time these payments were earned. These payments will empty out the now defunct DAI and MKR buffers and future payments will be made in USDS, as stated in the updated Atlas.
 
 #### DAI Payments
 
