@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - November 11, 2024
-summary: Signal your support or opposition to this Atlas edit, which 1) modifies SKY and Star token emissions, 2) increases the Integration Boost budget, 3) modifies the Sky Ecosystem Liquidity Bootstrapping provisions.
+summary: Signal your support or opposition to this Atlas edit, which 1) modifies SKY and Star token emissions, 2) increases the Integration Boost budget, and 3) modifies the Sky Ecosystem Liquidity Bootstrapping provisions.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2024-11-11-0/25507
 parameters:
     input_format:
@@ -26,7 +26,7 @@ end_date: 2024-11-14T16:00:00
 ---
 # Atlas Edit Weekly Cycle Proposal - November 11, 2024
 
-The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate Cloaky](http://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2024-11-11-0/25507/2?u=ldr). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on Monday, November 11 at 16:00 UTC.
+The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate Cloaky](http://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2024-11-11-0/25507/2?u=ldr). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on Monday, November 11 at 16:00 UTC.
 
 **This is a binary vote.**
 
