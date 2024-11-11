@@ -62,9 +62,9 @@ If this executive proposal passes, then the following actions will take place.
 
 If this executive proposal passes, the outstanding debt of the RWA-003 vault will be written off by calling `cull()` on the vault's oracle. Prior to this `drip` will be called on the Jug to ensure that all accrued interest is accounted for. This will reduce the Surplus Buffer to cover the outstanding debt of the vault.
 
-Please review this [forum post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21) from Steakhouse for a review of the events leading to this action.
+Please review this [forum post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/21) from Steakhouse for the particulars of the events leading to this action.
 
-#### DAO Resolution
+#### DAO Resolution Approval
 
 If this executive proposal passes, the DAO Resolution with the IPFS hash [QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA](https://gateway.pinata.cloud/ipfs/QmX4DdVBiDBjLXYT4J4jC1XMdTn2Q7Ao8L66pKB8N3yETA) will be approved.
 
@@ -73,7 +73,6 @@ This will authorize RWA Foundation to receive any recovered funds from ConsolFre
 ### Facilitator Vesting Stream Creation
 
 - **Authorization**: [Atlas 1.6.2.4.1](https://sky-atlas.powerhouse.io/A.1.6.2.4.1_List_of_Facilitator_Budgets/c511460d-53df-47e9-a4a5-2e48a533315b|0db3343515519c4a)
-- **Proposal**: 
 
 If this executive proposal passes, the following actions will take place. 
 
@@ -100,7 +99,9 @@ Note that DssVestSuckable for USDS and DSSVestTransferrable for SKY are not yet 
 - **Authorization**: [Atlas 1.5.8](https://sky-atlas.powerhouse.io/A.1.5.8_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa%7C0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/september-2024-aligned-delegate-compensation/25489)
 
-If this executive proposal passes, then the following Aligned Delegate compensation payments will be made. Note that these payments mark the transition from an old payment system to a new one, and are therefore denominated in DAI and MKR as a result, as these were the stated currencies in the Atlas at the time these rewards were earned. These payments represent emptying of the now defunct DAI and MKR buffers. Future payments will be made in USDS as stated in the updated Atlas.
+If this executive proposal passes, then a total of **308,548 DAI** and **87.09 MKR** will be distributed as Aligned Delegate compensation for September 2024, as detailed below.
+
+Note that these payments mark the transition to a new payment system. They are still denominated in DAI and MKR, the stated currencies in the Atlas at the time these payments were earned. These payments will empty out the now defunct DAI and MKR buffers and future payments will be made in USDS, as stated in the updated Atlas.
 
 #### DAI Payments
 
@@ -116,7 +117,6 @@ If this executive proposal passes, then the following Aligned Delegate compensat
 | Bonapublica     | 8,333           | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Rocky           | 7,796           | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
-This is a total of: **308,548 DAI**.
 
 #### MKR Payments
 
@@ -130,11 +130,10 @@ This is a total of: **308,548 DAI**.
 | Bonapublica | 2.06         | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Rocky       | 1.17         | [0xC31637BDA32a0811E39456A59022D2C386cb2C85](https://etherscan.io/address/0xC31637BDA32a0811E39456A59022D2C386cb2C85) |
 
-This is a total of: **87.09 MKR**.
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Poll 1](https://vote.makerdao.com/polling/Qmf955yA), [Poll 2](https://vote.makerdao.com/polling/QmXsXzot), [Poll 3](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 4](https://vote.makerdao.com/polling/QmQizL1F), [Poll 5](https://vote.makerdao.com/polling/QmYqM8Yf)
+- **Authorization**: [Poll 1152](https://vote.makerdao.com/polling/QmQizL1F), [Poll 1153](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 1155]https://vote.makerdao.com/polling/QmYqM8Yf), [Poll 1156](https://vote.makerdao.com/polling/QmXsXzot), [Poll 1157](https://vote.makerdao.com/polling/Qmf955yA)```
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
 If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https;//etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
