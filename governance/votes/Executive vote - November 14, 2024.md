@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
-summary: Update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write-off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distributed Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
+title: Template - [Executive Vote] SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
+summary: Update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
 date: 2024-11-14T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] SparkLend D3M Parameter Update, Update Gelato Keeper Treasury Address, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
+# [Executive Proposal] SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
 
 The Governance Facilitators and Sidestream and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -16,6 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
+
 - The SparkLend buffer parameter on mainnet will be increased.
 - The treasury address for the Gelato keeper will be updated.
 - The debt of the ConsolFreight (RWA-003) vault will be written off.
