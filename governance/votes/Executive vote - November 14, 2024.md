@@ -42,7 +42,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmNTKFqG#poll-detail)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
-If this executive proposal passes, then the SparkLend D3M [Buffer (`buf`)](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter on mainnet will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
+If this executive proposal passes, then the DIRECT-SPARK-DAI [(`buffer`)](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) parameter on mainnet will be increased by 50 million DAI from 50 million DAI to **100 million DAI**.
 
 ### Gelato Keeper Treasury Address Update
 
