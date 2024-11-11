@@ -192,7 +192,7 @@ If this executive proposal passes the following parameter change will be made to
 
 #### SparkLend ETH Market Interest Rate Model Adjustment
 
-If this executive proposal passes the following change will be made to the Sparklend ETH Market [Interest Rate Model](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) on mainnet:
+If this executive proposal passes the following change will be made to the SparkLend ETH Market [Interest Rate Model](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.3_Interest_Rate_Model_Definition-83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) on mainnet:
 
 - Reduce the SparkLend Ethereum ETH [slope 1](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.15_Slope_1_Definition-20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6) spread parameter by 0.5% from 0% to **-0.5%**.
 
