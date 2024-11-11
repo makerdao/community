@@ -196,7 +196,7 @@ If this executive proposal passes the following change will be made to the Spark
 
 - Reduce the SparkLend Ethereum ETH [slope 1](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.15_Slope_1_Definition-20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6) spread parameter by 0.5% from 0% to **-0.5%**.
 
-#### Sparklend Increase wstETH Borrow Rate Limits
+#### SparkLend Increase wstETH Borrow Rate Limits
 
 If this executive proposal passes the following parameter changes will be made to the Sparklend wstETH borrow rate limits on mainnet:
 
