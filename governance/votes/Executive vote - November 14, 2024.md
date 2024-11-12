@@ -20,7 +20,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - The Stability Fee for multiple native vaults will be increased.
 - The Dai Savings Rate (DSR) and the Sky Savings Rate (SSR) will be increased.
 - 4 million USDS will be transfered for Sky Ecosystem Liquidity Bootstrapping Funding.
-- 3 million USDS will be transfered for Integration Boost Funding.
+- 3 million USDS will be transferred for Integration Boost funding.
 - The SparkLend buffer parameter on mainnet will be increased.
 - The treasury address for the Gelato keeper will be updated.
 - The debt of the ConsolFreight (RWA-003) vault will be written off.
