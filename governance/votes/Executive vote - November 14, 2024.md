@@ -67,6 +67,8 @@ If this executive proposal passes, the then following savings rate increases wil
 - Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 2 percentage point from 5.50% to **7.50%**.
 - Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 2 percentage point from 6.50% to **8.50%**.
 
+Due to how the SparkLend DAI Interest Rate Model (IRM) functions, this will also results in an approximately 2 percentage point increase in the SparkLend Effective DAI Borrow Rate.
+
 ### Sky Ecosystem Liquidity Bootstrapping Funding 
 - **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmYHUDVA#poll-detail)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-sky-ecosystem-liquidity-bootstrapping-budget-a-5-6-1-9/25537)
