@@ -74,8 +74,8 @@ If this executive proposal passes, the then following savings rate increases wil
 If this executive proposal passes, then **4 million USDS** will be transferred to the Sky Ecosystem Liquidity Bootstrapping multisig at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
 
 To facilitate the transfer of USDS the following actions will occur:
-- Transfer 4 million Dai from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
-- Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
+- Transfer 4 million DAI from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
+- Convert this DAI to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
 - Transfer the resulting 4 million USDS to the destination address.
 
 ### Integration Boost Funding 
@@ -86,8 +86,8 @@ To facilitate the transfer of USDS the following actions will occur:
 If this executive proposal passes, then **3 million USDS** will be transferred to the Sky Ecosystem Integration Boost multisig at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 
 To facilitate the transfer of USDS the following actions will occur:
-- Transfer 3 million Dai from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
-- Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
+- Transfer 3 million DAI from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
+- Convert this DAI to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
 - Transfer the resulting 3 million USDS to the destination address.
 
 ### SparkLend [Buffer](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) Increase
