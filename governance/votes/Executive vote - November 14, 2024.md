@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - The Stability Fee for multiple native vaults will be increased.
-- The Dai Savings Rate and the Sky Savings Rate will be increased.
+- The Dai Savings Rate (DSR) and the Sky Savings Rate (SSR) will be increased.
 - The SparkLend buffer parameter on mainnet will be increased.
 - The treasury address for the Gelato keeper will be updated.
 - The debt of the ConsolFreight (RWA-003) vault will be written off.
