@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
-summary: Update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
+title: Template - [Executive Vote] Stability Fee Increases, Saving Rate Increases, SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
+summary: Increase multiple native vault stability fees, increase the DSR and the SSR, update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
 date: 2024-11-14T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,6 +17,8 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
+- The Stability Fee for multiple native vaults will be increased.
+- The Dai Savings Rate and the Sky Savings Rate will be increased.
 - The SparkLend buffer parameter on mainnet will be increased.
 - The treasury address for the Gelato keeper will be updated.
 - The debt of the ConsolFreight (RWA-003) vault will be written off.
@@ -36,6 +38,32 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ---
 
 ## Proposal Details
+
+### [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) Increases
+
+- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/2)
+
+If this executive proposal passes, then the following [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) increases will take place:
+
+- Increase the ETH-A Stability Fee by 1 percentage point from 6.25% to **7.25%**.
+- Increase the ETH-B Stability Fee by 1 percentage point from 6.75% to **7.75%**.
+- Increase the ETH-C Stability Fee by 1 percentage point from 6.00% to **7.00%**.
+- Increase the WSTETH-A Stability Fee by 1 percentage point from 7.25% to **8.25%**.
+- Increase the WSTETH-B Stability Fee by 1 percentage point from 7.00% to **8.00%**.
+- Increase the WBTC-A Stability Fee by 1 percentage point from 9.25% to **10.25%**.
+- Increase the WBTC-B Stability Fee by 1 percentage point from 9.75% to **10.75%**.
+- Increase the WBTC-C Stability Fee by 1 percentage point from 9.00% to **10.00%**.
+
+### Savings Rate Increases
+
+- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/2)
+
+If this executive proposal passes, the then following savings rate increases will take place:
+
+- Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 1 percentage point from 5.50% to **6.50%**.
+- Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 1 percentage point from 6.50% to **7.50%**.
 
 ### SparkLend [Buffer](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) Increase
 
