@@ -44,7 +44,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) Increases
 
 - **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/4)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
 
 If this executive proposal passes, then the following [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) increases will take place:
 
