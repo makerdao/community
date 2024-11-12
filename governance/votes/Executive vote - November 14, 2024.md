@@ -59,7 +59,7 @@ If this executive proposal passes, then the following [Stability Fee](https://sk
 
 ### Savings Rate Increases
 
-- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
+- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/4)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
 
 If this executive proposal passes, the then following savings rate increases will take place:
