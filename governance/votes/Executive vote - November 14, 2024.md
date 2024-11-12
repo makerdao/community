@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Stability Fee Increases, Saving Rate Increases, SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
-summary: Increase multiple native vault stability fees, increase the DSR and the SSR, update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
+title: Template - [Executive Vote] Stability Fee Increases, Saving Rate Increases, Sky Ecosystem Liquidity Bootstrapping Funding, Integration Boost Funding, SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
+summary: Increase multiple native vault stability fees, increase the DSR and the SSR, transfer USDS for liquidity initiatives, transfer USDS for integration boost initiative, update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
 date: 2024-11-14T00:00:00.000Z
 address: "$spell_address"
 
@@ -19,6 +19,8 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - The Stability Fee for multiple native vaults will be increased.
 - The Dai Savings Rate (DSR) and the Sky Savings Rate (SSR) will be increased.
+- 4 million USDS will be transfered for Sky Ecosystem Liquidity Bootstrapping Funding.
+- 3 million USDS will be transfered for Integration Boost Funding.
 - The SparkLend buffer parameter on mainnet will be increased.
 - The treasury address for the Gelato keeper will be updated.
 - The debt of the ConsolFreight (RWA-003) vault will be written off.
@@ -41,29 +43,52 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) Increases
 
-- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/2)
+- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/4)
 
 If this executive proposal passes, then the following [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3.1_Rates_SF/8e224fee-978f-4d6d-931a-34e16c293890|57eaf45219bea3b430c2b232) increases will take place:
 
-- Increase the ETH-A Stability Fee by 1 percentage point from 6.25% to **7.25%**.
-- Increase the ETH-B Stability Fee by 1 percentage point from 6.75% to **7.75%**.
-- Increase the ETH-C Stability Fee by 1 percentage point from 6.00% to **7.00%**.
-- Increase the WSTETH-A Stability Fee by 1 percentage point from 7.25% to **8.25%**.
-- Increase the WSTETH-B Stability Fee by 1 percentage point from 7.00% to **8.00%**.
-- Increase the WBTC-A Stability Fee by 1 percentage point from 9.25% to **10.25%**.
-- Increase the WBTC-B Stability Fee by 1 percentage point from 9.75% to **10.75%**.
-- Increase the WBTC-C Stability Fee by 1 percentage point from 9.00% to **10.00%**.
+- Increase the ETH-A Stability Fee by 2 percentage point from 6.25% to **8.25%**.
+- Increase the ETH-B Stability Fee by 2 percentage point from 6.75% to **8.75%**.
+- Increase the ETH-C Stability Fee by 2 percentage point from 6.00% to **8.00%**.
+- Increase the WSTETH-A Stability Fee by 2 percentage point from 7.25% to **9.25%**.
+- Increase the WSTETH-B Stability Fee by 2 percentage point from 7.00% to **9.00%**.
+- Increase the WBTC-A Stability Fee by 2 percentage point from 9.25% to **11.25%**.
+- Increase the WBTC-B Stability Fee by 2 percentage point from 9.75% to **11.75%**.
+- Increase the WBTC-C Stability Fee by 2 percentage point from 9.00% to **11.00%**.
 
 ### Savings Rate Increases
 
-- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/2)
+- **Authorization**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/3)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-17-sfs-dsr-ssr-spark-effective-dai-borrow-rate/25522/4)
 
 If this executive proposal passes, the then following savings rate increases will take place:
 
-- Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 1 percentage point from 5.50% to **6.50%**.
-- Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 1 percentage point from 6.50% to **7.50%**.
+- Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 2 percentage point from 5.50% to **7.50%**.
+- Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 2 percentage point from 6.50% to **8.50%**.
+
+### Sky Ecosystem Liquidity Bootstrapping Funding 
+- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmYHUDVA#poll-detail)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-sky-ecosystem-liquidity-bootstrapping-budget-a-5-6-1-9/25537)
+
+If this executive proposal passes, then **4 million USDS** will be transferred to the Sky Ecosystem Liquidity Bootstrapping multisig at [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
+
+To facilitate the transfer of USDS the following actions will occur:
+- Transfer 4 million Dai from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
+- Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
+- Transfer the resulting 4 million USDS to the destination address.
+
+### Integration Boost Funding 
+
+- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmYHUDVA#poll-detail)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-integration-boost-budget-a-5-2-1-2/25536)
+
+If this executive proposal passes, then **3 million USDS** will be transferred to the Sky Ecosystem Integration Boost multisig at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
+
+To facilitate the transfer of USDS the following actions will occur:
+- Transfer 3 million Dai from the [Surplus Buffer](https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer) to the [Pause Proxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb).
+- Convert this Dai to USDS using the [DAI_USDS](https://etherscan.io/address/0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A) converter.
+- Transfer the resulting 3 million USDS to the destination address.
 
 ### SparkLend [Buffer](https://sky-atlas.powerhouse.io/A.3.8.1.3.1.4_Buffer_Definition/039d633f-bccf-492f-9c6d-c167e8b5a292|57eaf45219be9dbc3712) Increase
 
@@ -162,7 +187,7 @@ Note that these payments mark the transition to a new payment system. They are s
 - **Authorization**: [Poll 1152](https://vote.makerdao.com/polling/QmQizL1F), [Poll 1153](https://vote.makerdao.com/polling/Qmbohkr5), [Poll 1155](https://vote.makerdao.com/polling/QmYqM8Yf), [Poll 1156](https://vote.makerdao.com/polling/QmXsXzot), [Poll 1157](https://vote.makerdao.com/polling/Qmf955yA)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/14-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25466)
 
-If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https://etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. The expected inclusions are:
+If this executive proposal passes, then the Spark Proxy Spell prepared by Phoenix Labs and reviewed by Wintermute and Certora at [0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7](https://etherscan.io/address/0x8a3aaeAC45Cf3D76Cf82b0e4C63cCfa8c72BDCa7) will be executed. In addition to the Spark Effective DAI Borow Rate increasing 2% due to the [Savings Rate Increases](#Savings-Rate-Increases) within this spell, the expected inclusions are:
 
 #### Spark Liquidity Layer Activation
 
