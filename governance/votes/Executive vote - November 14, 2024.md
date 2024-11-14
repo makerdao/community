@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Fee Increases, Saving Rate Increases, Sky Ecosystem Liquidity Bootstrapping Funding, Integration Boost Funding, SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
 summary: Increase multiple native vault stability fees, increase the DSR and the SSR, transfer USDS for Liquidity Initiatives, transfer USDS for Integration Boost initiative, update the SparkLend buffer parameter on mainnet, update the treasury address used by the Gelato keeper, write off the debt of ConsolFreight (RWA-003) and approve a related DAO Resolution, set up new Facilitator vesting streams, distribute Aligned Delegate compensation for September 2024, trigger a Spark Proxy Spell.
 date: 2024-11-14T00:00:00.000Z
-address: "$spell_address"
+address: "0xd442Ea4b93712762E337c1e15F367F0b1050fEa4"
 
 ---
 # [Executive Proposal] SparkLend D3M Parameter Update, Gelato Keeper Treasury Address Update, ConsolFreight Debt Write-Off and Associated DAO Resolution, Facilitator Payment Streams, Aligned Delegate Compensation, Spark Proxy Spell - November 14, 2024
