@@ -2,6 +2,7 @@
 title: SparkLend Ethereum - Increase USDS DDM Maximum Debt Ceiling for Aave Lido Market - November 18, 2024
 summary: Signal your support or opposition to increasing the USDS DDM Maximum Debt Ceiling for Aave Lido Market.
 discussion_link: https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543
+parameters:
     input_format: single-choice
     victory_conditions:
         - { type : plurality }
