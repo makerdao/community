@@ -36,7 +36,6 @@ Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to adjust the USDS DDM Maximum Debt Ceiling for the Aave Lido Market on Sparklend Ethereum as described above.
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then this change will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.
