@@ -2,6 +2,7 @@
 title: SparkLend Ethereum - Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault and Adjust PT-sUSDe-27Mar2025 Pool Parameters - November 18, 2024
 summary: Signal your support or opposition to 1) onboarding PT-USDe-27Mar2025 to Morpho Spark DAI Vault and 2) adjusting PT-sUSDe-27Mar2025 pool parameters.
 discussion_link: https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543
+parameters:
     input_format: single-choice
     victory_conditions:
         - { type : plurality }
