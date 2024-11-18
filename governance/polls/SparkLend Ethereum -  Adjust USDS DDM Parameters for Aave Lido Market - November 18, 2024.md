@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to adjusting increasing the USDS DDM Maximum Debt Ceiling for the Aave Lido Market as described below:
+The community can vote in this poll to express support or opposition to adjusting the USDS DDM Maximum Debt Ceiling for the Aave Lido Market as described below:
 
 - Increase Aave Lido market DDM [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 100 million USDS from 100 million USDS to **200 million USDS**.
 
