@@ -27,12 +27,12 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding PT-USDe-27Mar2025 to Morpho Spark DAI Vault and to adjusting [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool parameters as described below:
-
-- Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault with the configurations that follow: 
- - Pool LLTV: **91.5%**
- - Oracle discount rate: **20%**
- - Supply cap: **100 million DAI**
+The community can vote in this poll to express support or opposition to onboarding PT-USDe-27Mar2025 to Morpho Spark DAI Vault with the configurations that follow: 
+- Pool LLTV: **91.5%**
+- Oracle discount rate: **20%**
+- Supply cap: **100 million DAI**
+ 
+and to adjusting [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool parameters as described below:
 - Increase PT-sUSDe-27Mar2025 pool supply cap by 200 million DAI, from 200 million DAI to **400 million DAI**.
 
 Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543) to help inform your position before voting. An overview of Pendle PTs can be found in [this July 13, 2024 forum post](https://forum.sky.money/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635#pendle-pt-overview-1).
