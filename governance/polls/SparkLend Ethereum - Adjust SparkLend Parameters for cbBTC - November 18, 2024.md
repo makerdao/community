@@ -17,7 +17,7 @@ end_date: 2024-11-21T16:00:00
 ---
 # Poll: SparkLend Ethereum - Adjust SparkLend Parameters for cbBTC - November 18, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 18 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, November 18 at 16:00 UTC.
 
 **This is a binary vote.**
 

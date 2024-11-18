@@ -16,7 +16,7 @@ end_date: 2024-11-21T16:00:00
 ---
 # Poll: SparkLend Ethereum - Increase USDS DDM Maximum Debt Ceiling for Aave Lido Market - November 18, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9_Weekly_Governance_Cycle-95671ce7-60d8-4d8e-b9b6-de7493560308|0db3) will be active for three days beginning on Monday, November 18 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9_Weekly_Governance_Cycle-95671ce7-60d8-4d8e-b9b6-de7493560308|0db3) will be active for three days beginning on Monday, November 18 at 16:00 UTC.
 
 **This is a binary vote.**
 

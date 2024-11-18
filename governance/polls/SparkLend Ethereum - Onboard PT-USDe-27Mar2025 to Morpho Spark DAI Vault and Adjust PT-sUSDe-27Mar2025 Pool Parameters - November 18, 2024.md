@@ -16,7 +16,7 @@ end_date: 2024-11-21T16:00:00
 ---
 # Poll: SparkLend Ethereum - Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault and Adjust PT-sUSDe-27Mar2025 Pool Parameters - November 18, 2024
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Ecosystem team. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9_Weekly_Governance_Cycle-95671ce7-60d8-4d8e-b9b6-de7493560308|0db3) will be active for three days beginning on Monday, October 18 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9_Weekly_Governance_Cycle-95671ce7-60d8-4d8e-b9b6-de7493560308|0db3) will be active for three days beginning on Monday, October 18 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,8 +28,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to onboarding PT-USDe-27Mar2025 to Morpho Spark DAI Vault and to adjusting [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool parameters as described below:
 
-- Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault with 91.5% LLTV, 20% oracle discount rate, and 100 million DAI supply cap.
-- Increase PT-sUSDe-27Mar2025 pool supply cap from 200 million DAI to **400 million DAI**.
+- Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault with the configurations that follow: 
+ - Pool LLTV: **91.5%**
+ - Oracle discount rate: **20%**
+ - Supply cap: **100 million DAI**
+- Increase PT-sUSDe-27Mar2025 pool supply cap by 200 million DAI, from 200 million DAI to **400 million DAI**.
 
 Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543) to help inform your position before voting. An overview of Pendle PTs can be found in [this July 13, 2024 forum post](https://forum.sky.money/t/jul-12-2024-proposed-changes-to-spark-for-upcoming-spell/24635#pendle-pt-overview-1).
 
