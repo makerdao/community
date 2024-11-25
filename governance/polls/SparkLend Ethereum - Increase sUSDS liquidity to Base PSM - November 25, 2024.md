@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Increase sUSDS liquidity to Base PSM - November 25, 2024
-summary: Signal your support or opposition to increasing the Target Availible Debt and Maximum Debt Ceiling for Spark Base Liquidity Layer to 100 million USDS each.
+summary: Signal your support or opposition to increasing the Target Available Debt and Maximum Debt Ceiling for Spark Base Liquidity Layer to 100 million USDS each.
 discussion_link: https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575
 parameters:
     input_format: single-choice
