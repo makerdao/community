@@ -38,7 +38,7 @@ Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will facilitate preparation of a Spark spell to update the Base Executor Configuration as described aboved.
+- Phoenix Labs will facilitate preparation of a Spark spell to update the Base Executor configuration as described above.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.
