@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to updating the following parameters for [Spark Governance on Base](https://basescan.org/address/0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579#readContract):
 
 - Decrease the `delay` parameter from 100 seconds to **0 seconds**.
-- Increase the `gracePeriod` parameter from 1000 seconds to **604,800 seconds (7 days)**.
+- Increase the `gracePeriod` parameter from 1,000 seconds to **604,800 seconds (7 days)**.
 
 Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575) to help inform your position before voting.
 
