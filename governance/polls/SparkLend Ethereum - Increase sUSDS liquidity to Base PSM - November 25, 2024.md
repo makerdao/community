@@ -48,7 +48,7 @@ Please review the discussion [thread](https://forum.sky.money/t/28-nov-2024-prop
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
