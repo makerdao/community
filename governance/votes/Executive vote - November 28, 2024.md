@@ -5,7 +5,7 @@ date: 2024-11-28T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Launch Project Funding, Sky Ecosystem Liquidity Bootstrapping Funding, Integration Boost Funding, ESM Minimum Threshold Increase, AD Compensation for October 2024, Atlas Core Development Payments, Spark Proxy Spell - November 28, 2024
+# [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Funding Disbursements, ESM Minimum Threshold Increase, AD and Atlas Core Development Compensation, Spark Proxy Spell - November 28, 2024
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
