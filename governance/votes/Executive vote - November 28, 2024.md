@@ -194,8 +194,7 @@ If this executive proposal passes, then a total of **20,701 USDS** will be distr
 
 | Delegate | Amount (USDS) | Address |
 |---|---|---|
-| BONAPUBLICA | 4,000 | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3]
-(https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
+| BONAPUBLICA | 4,000 | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Cloaky | 4,000 | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 | JuliaChang | 4,000 | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
 | Vigilant | 4,000 | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
