@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Launch Project Funding, Sky Ecosystem Liquidity Bootstrapping Funding, Integration Boost Funding, ESM Minimum Threshold Increase, AD Compensation for October 2024, Atlas Core Development Payments, Spark Proxy Spell - November 28, 2024
-summary: Aave Lido Market USDS DDM parameters adjustments; ALLOCATOR-SPARK-A DC-IAM changes; Surplus Buffer Upper Limit increase; multiple Stability Fee changes; DSR and SSR increases; GSM Delay increase; addition of ilks to the LineMom; addition of Standby Spells and Standby Spell Factories to the Chainlog; Funding distribution for the Launch Project, for the Sky Ecosystem Liquidity Bootstrapping, and for the Integration Boost; ESM Minimum Threshold increase; AD compensation for October 2024; Atlas Core Development payments; Spark Proxy Spell.
+summary: Increase Aave Lido Market USDS DDM line, change ALLOCATOR-SPARK-A DC-IAM parameters, increase Surplus Buffer Upper Limit, change multiple Stability Fees, increase DSR and SSR, increase GSM Delay, add ilks to the LineMom, add Standby Spells and Standby Spell Factories to the Chainlog, distribute funding for the Launch Project, the Sky Ecosystem Liquidity Bootstrapping, and the Integration Boost increase ESM Minimum Threshold, payout AD compensation for October 2024, make  Atlas Core Development payments, execute Spark Proxy Spell.
 date: 2024-11-28T00:00:00.000Z
 address: "$spell_address"
 
@@ -17,16 +17,16 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-- The Aave Lido Market USDS Direct Deposit Module (DDM) parameters will be adjusted.
+- The Aave Lido Market USDS Direct Deposit Module (DDM) line will be increased.
 - The ALLOCATOR-SPARK-A [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2) parameters will be changed.
-- The Surplus Buffer upper limit will be increased.
+- The [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5%7C57ea2c54) will be increased.
 - The [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vault types will be changed, as itemized below.
 - The [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be increased.
-- The GSM Pause Delay will be increased.
+- The [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) will be increased.
 - Seven ilks will be added to the [`LineMom`](https://github.com/makerdao/line-mom/tree/master).
-- Four Standby Spell factories and three multi-ilk Standby Spells will be added to the Chainlog.
-- A total of **19,000,000 USDS** and **24,000,000 SKY** for the funding of the Launch Project, the Sky Ecosystem Liquidity Boostrapping budget, and the Integration Boost budget will be distributed.
-- The ESM minimum threshold will be increased.
+- [Four Standby Spell factories and three multi-ilk Standby Spells](https://github.com/makerdao/dss-emergency-spells) will be added to the Chainlog.
+- A total of **19 million USDS** and **24 million SKY** will be distributed to fund the Launch Project, the Sky Ecosystem Liquidity Boostrapping budget, and the Integration Boost budget.
+- The [Emergency Shutdown Module (ESM)][(https://manual.makerdao.com/module-index/module-emergency-shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module)) minimum threshold (`min`) will be increased.
 - A total of **20,701 USDS** will be distributed to seven Aligned Delegates as compensation for October 2024, as itemized below.
 - A total of **90,277 USDS** and **330,000 SKY** will be distributed to three Atlas Core Development key contributors, as itemized below.
 - A Spark Proxy spell will be triggered.
@@ -46,29 +46,27 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543/3), [Poll 1160](https://vote.makerdao.com/polling/QmabCDcn)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543)
 
-If this executive proposal passes, then the [Maximum Debt Ceiling](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) for the Aave Lido Market USDS DDM will be adjusted as follows:
+If this executive proposal passes, then the [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) for the Aave Lido Market USDS DDM (DIRECT-SPK-AAVE-LIDO-USDS) will be increased by 100 million USDS from 100 million USDS to **200 million USDS**.
 
-- Increase the Aave Lido Market USDS DDM [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 100 million USDS from 100 million USDS to **200 million USDS**.
 
 ### ALLOCATOR-SPARK-A DC-IAM Changes
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575/3), [Poll 1165](https://vote.makerdao.com/polling/QmcNd4mH)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575)
 
-If this executive proposal passes, then the [ALLOCATOR-SPARK-A](https://makerburn.com/#/collateral/ALLOCATOR-SPARK-A) [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2) parameters listed below will be changed as follows:
+If this executive proposal passes, then the [ALLOCATOR-SPARK-A](https://makerburn.com/#/collateral/ALLOCATOR-SPARK-A) [Debt Ceiling Instant Access Module (DC-IAM)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)-071d42e3-8a21-4401-852e-0b52c49768bb|57eaf45219bea3b430c2) parameters will be changed as follows:
 
 - Increase DC-IAM [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9) by 90 million USDS from 10 million USDS to **100 million USDS**.
 - Increase DC-IAM [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 90 million USDS from 10 million USDS to **100 million USDS**.
-- Keep the [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) unchanged at **24 hours**.
+The [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) will remain unchanged at **24 hours**.
 
 ### Surplus Buffer Upper Limit Increase
 
 - **Authorization**: [Poll 1159](https://vote.makerdao.com/polling/QmZfYrR7)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/weekly-atlas-edit-proposal-week-of-2024-11-18-0/25552)
 
-If this executive proposal passes, then the [Surplus Buffer Upper Limit]($definition_to_be_added_to_the_Atlas) will be increased as follows:
+If this executive proposal passes, then the [Surplus Buffer Upper Limit (`vow.hump`)](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5%7C57ea2c54) will be increased by 60 million DAI from 60 million DAI to **120 million DAI**.
 
-- Increase the [Surplus Buffer Upper Limit]($definition_to_be_added_to_the_Atlas) by 60 million DAI from 60 million DAI to **120 million DAI**.
 
 ### Stability Fee Changes
 
@@ -85,14 +83,14 @@ If this executive proposal passes, then the [Stability Fees](https://sky-atlas.p
 - Increase WBTC-A SF by 1 percentage point from 11.25% to **12.25%**
 - Increase WBTC-B SF by 1 percentage point from 11.75% to **12.75%**
 - Increase WBTC-C SF by 1 percentage point from 11.00% to **12.00%**
-- Increase ALLOCATOR-SPARK-A SF by 4.11 percentage points from 5.2% to **9.31%**
+- Increase ALLOCATOR-SPARK-A SF by 4.11 percentage points from 5.20% to **9.31%**
 
 ### Savings Rate Changes
 
 - **Authorization**: [Ecosystem Approval](http://forum.sky.money/t/stability-scope-parameter-changes-18-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25593/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-18-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25593)
 
-If this executive proposal passes, the then following savings rate increases will take place:
+If this executive proposal passes, the then following savings rates changes will take place:
 
 - Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 1 percentage point from 7.50% to **8.50%**.
 - Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 1 percentage point from 8.50% to **9.50%**.
@@ -102,9 +100,8 @@ If this executive proposal passes, the then following savings rate increases wil
 - **Authorization**: [Governance Facilitator Approval](https://forum.sky.money/t/november-28th-spell-parameter-proposal-esm-threshold-gsm-delay-increase/25579/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/november-28th-spell-parameter-proposal-esm-threshold-gsm-delay-increase/25579)
 
-If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) will be increased as follows:
+If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) will be increased by 14 hours from 16 hours to **30 hours**.
 
-- Increase the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) by 14 hours from 16 hours to **30 hours**.
 
 
 ### Addition of ilks to the `LineMom`
@@ -112,7 +109,7 @@ If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/4)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/2)
 
-If this executive proposal passes, then the following ilks will be added to the [`LineMom`](https://github.com/makerdao/line-mom/tree/master). This will allow Standby Spells to affect them.
+If this executive proposal passes, then the following ilks will be added to the [`LineMom`](https://github.com/makerdao/line-mom/tree/master), allowing the [Standby Spells](https://github.com/makerdao/dss-emergency-spells) to affect them:
 
 - [ALLOCATOR-SPARK-A](https://makerburn.com/#/collateral/ALLOCATOR-SPARK-A)
 - [RWA001-A](https://makerburn.com/#/collateral/RWA001-A)
@@ -127,13 +124,13 @@ If this executive proposal passes, then the following ilks will be added to the 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/4)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594)
 
-Standby spells are reusable pre-deployed spells that bypass the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) when executed, so that their effects are immediate.
+[Standby Spells](https://github.com/makerdao/dss-emergency-spells) are reusable pre-deployed spells that bypass the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) when executed, so that their effects are immediate.
 
-Standby spells are formally defined in the Atlas under [article_number]($link_to_atlas_article). Additionally, you can read an introduction to them on [this November 25, 2024 forum post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594) by a Governance Facilitator. For detailed technical information, please visit the [GitHub repository at GitHub - makerdao/dss-emergency-spells: Emergency Spells for MakerDAO](https://github.com/makerdao/dss-emergency-spells).
+Standby Spells are formally defined in the Atlas under [article_number]($link_to_atlas_article). Additionally, you can read an introduction to them on [this November 25, 2024 forum post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594) by a Governance Facilitator. For detailed technical information, please visit the [GitHub repository at GitHub - makerdao/dss-emergency-spells: Emergency Spells for MakerDAO](https://github.com/makerdao/dss-emergency-spells).
 
-Each standby spell is capable of some single action. Standby spells that trigger some action on _all_ ilks susceptible of having the action applied to them are called _multi-ilk standby spells_; standby spells that trigger some action on _some single_ ilk are called _single-ilk standby spells_.
+Each Standby Spell is capable of some single action. Standby Spells that trigger some action on _all_ ilks susceptible to having the action applied to them are called _Multi-Ilk Standby Spells_; Standby Spells that trigger some action on _some single_ ilk are called _Single-Ilk Standby Spells_.
 
-If this executive proposal passes, then the following _standby spell factories_ (i.e., contracts capable of spawning single-ilk standby spells for some action) and _multi-ilk standby spells_ will be added to the [Chainlog](https://chainlog.sky.money).
+If this executive proposal passes, then the following _Standby Spell Factories_ (i.e., contracts capable of spawning Single-Ilk Standby Spells for some action) and _Multi-Ilk Standby Spells_ will be added to the [Chainlog](https://chainlog.sky.money).
 
 #### Standby Spell Factories
 
@@ -159,8 +156,8 @@ If this executive proposal passes, then the following _standby spell factories_ 
 
 If this executive proposal passes, then the following Launch Project funding distribution will be made:
 
-- Transfer **10,000,000 USDS** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
-- Transfer **24,000,000 SKY** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **10 million USDS** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **24 million SKY** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### Sky Ecosystem Liquidity Bootstrapping
 
@@ -169,7 +166,7 @@ If this executive proposal passes, then the following Launch Project funding dis
 
 If this executive proposal passes, then the following Sky Ecosystem Liquidity Bootstrapping funding distribution will be made:
 
-- Transfer **6,000,000 USDS** to [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
+- Transfer **6 million USDS** to [0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD](https://etherscan.io/address/0xD8507ef0A59f37d15B5D7b630FA6EEa40CE4AFdD).
 
 ### Integration Boost Funding
 
@@ -178,16 +175,15 @@ If this executive proposal passes, then the following Sky Ecosystem Liquidity Bo
 
 If this executive proposal passes, then the following Integration Boost funding distribution will be made:
 
-- Transfer **3,000,000 USDS** to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
+- Transfer **3 million USDS** to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 
 ### ESM Minimum Threshold Increase
 
 - **Authorization**: [Governance Facilitator Authorization](https://forum.sky.money/t/november-28th-spell-parameter-proposal-esm-threshold-gsm-delay-increase/25579/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/november-28th-spell-parameter-proposal-esm-threshold-gsm-delay-increase/25579)
 
-If this executive proposal passes, then the [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) [Minimum Threshold](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be increased as follows:
+If this executive proposal passes, then the [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) [Minimum Threshold (`min`)](https://manual.makerdao.com/module-index/module-emergency-shutdown#minimum-threshold-min) will be increased by 200,000 MKR from 300,000 MKR to **500,000 MKR**.
 
-- Increase ESM Minimum Threshold by 200,000 MKR from 300,000 MKR to **500,000 MKR**.
 
 ### Aligned Delegate Compensation for October 2024
 
@@ -224,20 +220,20 @@ If this executive proposal passes, then a total of **90,277 USDS** and **330,000
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543/3), [Ecosystem Authorization](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575/3), [Ecosystem Authorization](https://forum.sky.money/t/stability-scope-parameter-changes-18-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25593/2), Governance Polls [1](https://vote.makerdao.com/polling/QmSxJJ6Z), [2](https://vote.makerdao.com/polling/QmaxFZfF), [3](https://vote.makerdao.com/polling/QmWUkstV), [4](https://vote.makerdao.com/polling/QmQ2Umfm), [5](https://vote.makerdao.com/polling/QmcNd4mH)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543), [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575)
 
-If this executive proposal passes, then a Spark Proxy Spell at [0x6c87D984689CeD0bB367A58722aC74013F82267d](https://etherscan.io/address/0x6c87D984689CeD0bB367A58722aC74013F82267d) will be executed. The expected contents are as follows:
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x6c87D984689CeD0bB367A58722aC74013F82267d](https://etherscan.io/address/0x6c87D984689CeD0bB367A58722aC74013F82267d) with the following contents.
 
 #### [Mainnet] Spark Effective DAI Borrow Rate Increase
 
-- Increase the Spark Effective DAI Borrow Rate by ~1%, from ~8.5% to **~9.5%**.
+- Increase the Spark Effective DAI Borrow Rate by ~1 percentage point, from ~8.5% to **~9.5%**.
 
 #### [Mainnet] Adjust SparkLend Parameters for [WBTC](https://spark.blockanalitica.com/v1/ethereum/markets/WBTC/risk)
 
-- Reduce SparkLend WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db%7C57eaf45219be608847d6) from 65% to **60%**.
+- Reduce SparkLend WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db%7C57eaf45219be608847d6) by 5 percentage points from 65% to **60%**.
 
 #### [Mainnet] Adjust SparkLend Parameters for [cbBTC](https://spark.blockanalitica.com/v1/ethereum/markets/cbBTC/risk)
 
-- Increase cbBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) by 5% from 70% to **75%**.
-- Increase cbBTC [maximum LTV](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.4_LTV_Definition/e5d19de9-0eb7-4572-857c-e83d91d92c88%7C57eaf45219be608847d6) by 9% from 65% to **74%**.
+- Increase cbBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) by 5 percentage points from 70% to **75%**.
+- Increase cbBTC [maximum LTV](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.4_LTV_Definition/e5d19de9-0eb7-4572-857c-e83d91d92c88%7C57eaf45219be608847d6) by 9 percentage points from 65% to **74%**.
 
 #### [Mainnet] Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault and Adjust PT-sUSDe-27Mar2025 Pool Parameters
 
@@ -246,16 +242,15 @@ If this executive proposal passes, then a Spark Proxy Spell at [0x6c87D984689CeD
   - Oracle discount rate: **20%**
   - Supply cap: **100 million DAI**
 
-- Adjust [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool parameters as described below:
-  - Increase PT-sUSDe-27Mar2025 pool supply cap by 200 million DAI, from 200 million DAI to **400 million DAI**.
+- Increase [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool supply cap by 200 million DAI, from 200 million DAI to **400 million DAI**.
 
-#### [Base] Corrections to Base executor configuration
+#### [Base] Corrections to Base Executor Configuration
 
 - Update the following parameters for [Spark Governance on Base](https://basescan.org/address/0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579#readContract):
   - Decrease the `delay` parameter from 100 seconds to **0 seconds**.
   - Increase the `gracePeriod` parameter from 1,000 seconds to **604,800 seconds (7 days)**.
  
-#### Provision liquidity to Base ALM Proxy
+#### Provision Liquidity to Base ALM Proxy
 
 -  Increase the amount of sUSDS available on Base by **90 million sUSDS**.
 
