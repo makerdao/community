@@ -126,7 +126,7 @@ If this executive proposal passes, then the following ilks will be added to the 
 
 [Standby Spells](https://github.com/makerdao/dss-emergency-spells) are reusable pre-deployed spells that bypass the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) when executed, so that their effects are immediate.
 
-Standby Spells are formally defined in the Atlas under [article_number]($link_to_atlas_article). Additionally, you can read an introduction to them on [this November 25, 2024 forum post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594) by a Governance Facilitator. For detailed technical information, please visit the [GitHub repository at GitHub - makerdao/dss-emergency-spells: Emergency Spells for MakerDAO](https://github.com/makerdao/dss-emergency-spells).
+You can read an introduction to them on [this November 25, 2024 forum post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594) by a Governance Facilitator. For detailed technical information, please visit the [GitHub repository at GitHub - makerdao/dss-emergency-spells: Emergency Spells for MakerDAO](https://github.com/makerdao/dss-emergency-spells).
 
 Each Standby Spell is capable of some single action. Standby Spells that trigger some action on _all_ ilks susceptible to having the action applied to them are called _Global/Multi-Ilk Standby Spells_; Standby Spells that trigger some action on _some single_ ilk are called _Single-Ilk Standby Spells_.
 
