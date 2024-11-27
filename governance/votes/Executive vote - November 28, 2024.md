@@ -24,9 +24,9 @@ If this executive proposal passes, the following **actions** will occur within t
 - The [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be increased.
 - The [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.8.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) will be increased.
 - Seven ilks will be added to the [`LineMom`](https://github.com/makerdao/line-mom/tree/master).
-- [Four Standby Spell factories and three multi-ilk Standby Spells](https://github.com/makerdao/dss-emergency-spells) will be added to the Chainlog.
+- [Four Standby Spell factories and three Global/Multi-ilk Standby Spells](https://github.com/makerdao/dss-emergency-spells) will be added to the Chainlog.
 - A total of **19 million USDS** and **24 million SKY** will be distributed to fund the Launch Project, the Sky Ecosystem Liquidity Boostrapping budget, and the Integration Boost budget.
-- The [Emergency Shutdown Module (ESM)][(https://manual.makerdao.com/module-index/module-emergency-shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module)) minimum threshold (`min`) will be increased.
+- The [Emergency Shutdown Module (ESM)](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module) minimum threshold (`min`) will be increased.
 - A total of **20,701 USDS** will be distributed to seven Aligned Delegates as compensation for October 2024, as itemized below.
 - A total of **90,277 USDS** and **330,000 SKY** will be distributed to three Atlas Core Development key contributors, as itemized below.
 - A Spark Proxy spell will be triggered.
@@ -128,9 +128,9 @@ If this executive proposal passes, then the following ilks will be added to the 
 
 Standby Spells are formally defined in the Atlas under [article_number]($link_to_atlas_article). Additionally, you can read an introduction to them on [this November 25, 2024 forum post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594) by a Governance Facilitator. For detailed technical information, please visit the [GitHub repository at GitHub - makerdao/dss-emergency-spells: Emergency Spells for MakerDAO](https://github.com/makerdao/dss-emergency-spells).
 
-Each Standby Spell is capable of some single action. Standby Spells that trigger some action on _all_ ilks susceptible to having the action applied to them are called _Multi-Ilk Standby Spells_; Standby Spells that trigger some action on _some single_ ilk are called _Single-Ilk Standby Spells_.
+Each Standby Spell is capable of some single action. Standby Spells that trigger some action on _all_ ilks susceptible to having the action applied to them are called _Global/Multi-Ilk Standby Spells_; Standby Spells that trigger some action on _some single_ ilk are called _Single-Ilk Standby Spells_.
 
-If this executive proposal passes, then the following _Standby Spell Factories_ (i.e., contracts capable of spawning Single-Ilk Standby Spells for some action) and _Multi-Ilk Standby Spells_ will be added to the [Chainlog](https://chainlog.sky.money).
+If this executive proposal passes, then the following _Standby Spell Factories_ (i.e., contracts capable of spawning Single-Ilk Standby Spells for some action) and _Global/Multi-Ilk Standby Spells_ will be added to the [Chainlog](https://chainlog.sky.money).
 
 #### Standby Spell Factories
 
@@ -141,7 +141,7 @@ If this executive proposal passes, then the following _Standby Spell Factories_ 
 | SingleLineWipeFactory | [Wipe `line`](https://github.com/makerdao/dss-emergency-spells#wipe-line) | EMSP_LINE_WIPE_FAB | [0xA649730fA92695096b7C49DBae682995F8906684](https://etherscan.io/address/0xA649730fA92695096b7C49DBae682995F8906684) |
 | SingleOsmStopFactory | [Stop OSM](https://github.com/makerdao/dss-emergency-spells#stop-osm) | EMSP_OSM_STOP_FAB | [0x83211c74131bA2B3de7538f588f1c2f309e81eF0](https://etherscan.io/address/0x83211c74131bA2B3de7538f588f1c2f309e81eF0) |
 
-#### Multi-ilk Standby Spells
+#### Global/Multi-ilk Standby Spells
 
 | Name | Action | Chainlog Key | Address |
 |---|---|---|---|
@@ -194,12 +194,13 @@ If this executive proposal passes, then a total of **20,701 USDS** will be distr
 
 | Delegate | Amount (USDS) | Address |
 |---|---|---|
-| BLUE | 2,968 | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
-| BONAPUBLICA | 4,000 | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
-| Byteron | 1,733 | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
+| BONAPUBLICA | 4,000 | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3]
+(https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Cloaky | 4,000 | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 | JuliaChang | 4,000 | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
 | Vigilant | 4,000 | [0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61](https://etherscan.io/address/0x2474937cB55500601BCCE9f4cb0A0A72Dc226F61) |
+| BLUE | 2,968 | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Byteron | 1,733 | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
 
 ### Atlas Core Development Payment to Key Atlas Contributors
 
@@ -210,8 +211,8 @@ If this executive proposal passes, then a total of **90,277 USDS** and **330,000
 
 | Contributor | Amount | Address |
 |---|---|---|
-| Kohla (Cloaky) | 20,000 USDS | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
 | Ennoia (Cloaky) | 20,110 USDS | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
+| Kohla (Cloaky) | 20,000 USDS | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
 | BLUE | 50,167 USDS | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | BLUE | 330,000 SKY | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 
