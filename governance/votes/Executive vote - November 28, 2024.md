@@ -109,7 +109,7 @@ If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.
 
 ### Addition of ilks to the `LineMom`
 
-- **Authorization**: [Ecosystem Approval](hhttps://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/4)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/4)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/standby-spells-for-sky-emergency-response/25594/2)
 
 If this executive proposal passes, then the following ilks will be added to the [`LineMom`](https://github.com/makerdao/line-mom/tree/master). This will allow Standby Spells to affect them.
