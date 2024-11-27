@@ -221,10 +221,43 @@ If this executive proposal passes, then a total of **90,277 USDS** and **330,000
 
 ### Spark Proxy Spell
 
-**Authorization**: []()
+**Authorization**: [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543/3), [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell-amendments/25575/3), [Forum Post](https://forum.sky.money/t/stability-scope-parameter-changes-18-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25593/2), Governance Polls [1](https://vote.makerdao.com/polling/QmSxJJ6Z), [2](https://vote.makerdao.com/polling/QmaxFZfF), [3](https://vote.makerdao.com/polling/QmWUkstV), [4](https://vote.makerdao.com/polling/QmQ2Umfm), [5](https://vote.makerdao.com/polling/QmcNd4mH)
 **Proposal**: [Forum Post](https://forum.sky.money/t/28-nov-2024-proposed-changes-to-spark-for-upcoming-spell/25543)
 
-[WIP]
+If this executive proposal passes, then a Spark Proxy Spell at [0x6c87D984689CeD0bB367A58722aC74013F82267d](https://etherscan.io/address/0x6c87D984689CeD0bB367A58722aC74013F82267d) will be executed. The expected contents are as follows:
+
+#### [Mainnet] Spark Effective DAI Borrow Rate Increase
+
+- Increase the Spark Effective DAI Borrow Rate by ~1%, from ~8.5% to **~9.5%**.
+
+#### [Mainnet] Adjust SparkLend Parameters for [WBTC](https://spark.blockanalitica.com/v1/ethereum/markets/WBTC/risk)
+
+- Reduce SparkLend WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db%7C57eaf45219be608847d6) from 65% to **60%**.
+
+#### [Mainnet] Adjust SparkLend Parameters for [cbBTC](https://spark.blockanalitica.com/v1/ethereum/markets/cbBTC/risk)
+
+- Increase cbBTC [liquidation threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.6.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) by 5% from 70% to **75%**.
+- Increase cbBTC [maximum LTV](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.4_LTV_Definition/e5d19de9-0eb7-4572-857c-e83d91d92c88%7C57eaf45219be608847d6) by 9% from 65% to **74%**.
+
+#### [Mainnet] Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault and Adjust PT-sUSDe-27Mar2025 Pool Parameters
+
+- Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault with the configurations that follow: 
+  - Pool LLTV: **91.5%**
+  - Oracle discount rate: **20%**
+  - Supply cap: **100 million DAI**
+
+- Adjust [PT-sUSDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) pool parameters as described below:
+  - Increase PT-sUSDe-27Mar2025 pool supply cap by 200 million DAI, from 200 million DAI to **400 million DAI**.
+
+#### [Base] Corrections to Base executor configuration
+
+- Update the following parameters for [Spark Governance on Base](https://basescan.org/address/0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579#readContract):
+  - Decrease the `delay` parameter from 100 seconds to **0 seconds**.
+  - Increase the `gracePeriod` parameter from 1,000 seconds to **604,800 seconds (7 days)**.
+ 
+#### Provision liquidity to Base ALM Proxy
+
+-  Increase the amount of sUSDS available on Base by **90 million sUSDS**.
 
 ## Review
 
