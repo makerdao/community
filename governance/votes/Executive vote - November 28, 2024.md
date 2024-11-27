@@ -237,7 +237,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 #### [Mainnet] Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault and Adjust PT-sUSDe-27Mar2025 Pool Parameters
 
-- Onboard PT-USDe-27Mar2025 to Morpho Spark DAI Vault with the configurations that follow: 
+- Onboard [PT-USDe-27Mar2025](https://morpho.blockanalitica.com/ethereum/markets/ab0dcab71e65c05b7f241ea79a33452c87e62db387129e4abe15e458d433e4d8) to Morpho Spark DAI Vault with the configurations that follow: 
   - Pool LLTV: **91.5%**
   - Oracle discount rate: **20%**
   - Supply cap: **100 million DAI**
