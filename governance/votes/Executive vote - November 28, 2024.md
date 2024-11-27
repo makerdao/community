@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Funding Disbursements, ESM Minimum Threshold Increase, AD and Atlas Core Development Compensation, Spark Proxy Spell - November 28, 2024
-summary: Increase Aave Lido Market USDS DDM line, change ALLOCATOR-SPARK-A DC-IAM parameters, increase Surplus Buffer Upper Limit, change multiple Stability Fees, increase DSR and SSR, increase GSM Delay, add ilks to the LineMom, add Standby Spells and Standby Spell Factories to the Chainlog, distribute funding for the Launch Project, the Sky Ecosystem Liquidity Bootstrapping, and the Integration Boost increase ESM Minimum Threshold, payout AD compensation for October 2024, make  Atlas Core Development payments, execute Spark Proxy Spell.
+summary: Increase Aave Lido Market USDS DDM line, change ALLOCATOR-SPARK-A DC-IAM parameters, increase Surplus Buffer Upper Limit, change multiple Stability Fees, increase DSR and SSR, increase GSM Delay, add ilks to the LineMom, add Standby Spells and Standby Spell Factories to the Chainlog, distribute funding for the Launch Project, the Sky Ecosystem Liquidity Bootstrapping, and the Integration Boost, increase ESM Minimum Threshold, payout AD compensation for October 2024, make  Atlas Core Development payments, execute Spark Proxy Spell.
 date: 2024-11-28T00:00:00.000Z
 address: "$spell_address"
 
@@ -58,7 +58,7 @@ If this executive proposal passes, then the [ALLOCATOR-SPARK-A](https://makerbur
 
 - Increase DC-IAM [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.4_Target_Available_Debt_Definition-b876ecf4-a901-4721-9c4b-9f2fc21f954c|57ea599773d45150b2632df9) by 90 million USDS from 10 million USDS to **100 million USDS**.
 - Increase DC-IAM [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 90 million USDS from 10 million USDS to **100 million USDS**.
-The [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) will remain unchanged at **24 hours**.
+- The [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) will remain unchanged at **24 hours**.
 
 ### Surplus Buffer Upper Limit Increase
 
@@ -154,7 +154,7 @@ If this executive proposal passes, then the following _Standby Spell Factories_ 
 - **Authorization**: [Atlas A.5.6](https://sky-atlas.powerhouse.io/A.5.6_Launch_Project/1f433d9d-7cdb-406f-b7e8-f9bc4855eb77%7C8d5a)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/26)
 
-If this executive proposal passes, then the following Launch Project funding distribution will be made:
+If this executive proposal passes, then the following Launch Project funding distributions will be made:
 
 - Transfer **10 million USDS** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - Transfer **24 million SKY** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
