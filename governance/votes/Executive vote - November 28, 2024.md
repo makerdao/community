@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Funding Disbursements, ESM Minimum Threshold Increase, AD and Atlas Core Development Compensation, Spark Proxy Spell - November 28, 2024
 summary: Increase Aave Lido Market USDS DDM line, change ALLOCATOR-SPARK-A DC-IAM parameters, increase Surplus Buffer Upper Limit, change multiple Stability Fees, increase DSR and SSR, increase GSM Delay, add ilks to the LineMom, add Standby Spells and Standby Spell Factories to the Chainlog, distribute funding for the Launch Project, the Sky Ecosystem Liquidity Bootstrapping, and the Integration Boost, increase ESM Minimum Threshold, payout AD compensation for October 2024, make  Atlas Core Development payments, execute Spark Proxy Spell.
 date: 2024-11-28T00:00:00.000Z
-address: "$spell_address"
+address: "0xA514b7f3540d23Aec41725096A302a718EBe5F71"
 
 ---
 # [Executive Vote] Aave Lido Market USDS DDM Parameters Adjustments, ALLOCATOR-SPARK-A DC-IAM Changes, Surplus Buffer Upper Limit Increase, Stability Fee Changes, Savings Rate Changes, GSM Delay Increase, Addition of ilks to the LineMom, Addition of Standby Spells to the Chainlog, Funding Disbursements, ESM Minimum Threshold Increase, AD and Atlas Core Development Compensation, Spark Proxy Spell - November 28, 2024
