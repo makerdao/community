@@ -35,7 +35,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648)
 
-If this executive proposal passes, then the [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) (SF) for the vault types listed below will be changed as follows:
+If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be changed as follows:
 
 - Increase ETH-A SF by 2 percentage points from 12.75% to **14.75%**.
 - Increase ETH-B SF by 2 percentage points from 13.25% to **15.25%**.
