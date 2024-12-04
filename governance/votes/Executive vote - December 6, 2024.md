@@ -52,7 +52,7 @@ If this executive proposal passes, then the [Stability Fees](https://sky-atlas.p
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648)
 
-If this executive proposal passes, the then following savings rates changes will take place:
+If this executive proposal passes, then the following savings rate changes will take place:
 
 - Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 3 percentage points from 8.50% to **11.50%**.
 - Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 3 percentage points from 9.50% to **12.50%**.
