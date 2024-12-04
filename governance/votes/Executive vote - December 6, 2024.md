@@ -57,6 +57,8 @@ If this executive proposal passes, the then following savings rates changes will
 - Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 3 percentage points from 8.50% to **11.50%**.
 - Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 3 percentage points from 9.50% to **12.50%**.
 
+The Spark Effective DAI Borrow Rate is tied to the DSR. Consequently, the above changes will increase it by ~3 percentage points from ~9.5% to **~12.5%**.
+
 ## Review
 
 Community debate on these topics can be found on the Sky [Governance forum](https://forum.sky.money). Please review any linked threads to inform your position before voting.
