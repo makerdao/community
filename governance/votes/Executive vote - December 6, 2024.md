@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - December 6, 2024
 summary: Increase Stability Fees for multiple vault types, increase Savings Rates.
 date: 2024-12-06T00:00:00.000Z
-address: "$spell_address"
+address: "0x329Feb1E300d6bf54d4969Df5089ff7bC79694B6"
 
 ---
 # [Executive Proposal] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - December 6, 2024
