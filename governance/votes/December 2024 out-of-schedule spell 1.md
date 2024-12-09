@@ -32,8 +32,8 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Stability Fee Changes
 
-- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/2)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/5)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/4)
 
 If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be changed as follows:
 
@@ -49,8 +49,8 @@ If this executive proposal passes, then the [Stability Fees (SF)](https://sky-at
 
 ### Savings Rate Changes
 
-- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/2)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/5)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/out-of-schedule-executive-proposal-stability-scope-parameter-changes-19-sfs-dsr-ssr-spark-effective-dai-borrow-rate-spark-liquidity-layer/25648/4)
 
 If this executive proposal passes, then the following savings rate changes will take place:
 
