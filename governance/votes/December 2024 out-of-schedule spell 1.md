@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - December $day, 2024
+title: Template - [Executive Vote] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - $date
 summary: Increase Stability Fees for multiple vault types, increase Savings Rates.
-date: 2024-12-DDT00:00:00.000Z
+date: $date
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - December $day, 2024
+# [Executive Proposal] Out-of-schedule Executive Vote - Stability Fee Changes, Savings Rate Changes - $date
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an out-of-schedule executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -37,15 +37,15 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be changed as follows:
 
-- Increase ETH-A SF by 2 percentage points from 12.75% to **14.75%**.
-- Increase ETH-B SF by 2 percentage points from 13.25% to **15.25%**.
-- Increase ETH-C SF by 2 percentage points from 12.50% to **14.50%**.
-- Increase WSTETH-A SF by 2 percentage points from 13.75% to **15.75%**.
-- Increase WSTETH-B SF by 2 percentage points from 13.50% to **15.50%**.
-- Increase WBTC-A SF by 2 percentage points from 16.25% to **18.25%**.
-- Increase WBTC-B SF by 2 percentage points from 16.75% to **18.75%**.
-- Increase WBTC-C SF by 2 percentage points from 16.00% to **18.00%**.
-- Increase ALLOCATOR-SPARK-A SF by 1.96 percentage points from 12.25% to **14.21%**.
+- Increase ETH-A SF by 3.50 percentage points from 12.75% to **16.25%**.
+- Increase ETH-B SF by 3.50 percentage points from 13.25% to **16.75%**.
+- Increase ETH-C SF by 3.50 percentage points from 12.50% to **16.00%**.
+- Increase WSTETH-A SF by 3.50 percentage points from 13.75% to **17.25%**.
+- Increase WSTETH-B SF by 3.50 percentage points from 13.50% to **17.00%**.
+- Increase WBTC-A SF by 4.00 percentage points from 16.25% to **20.25%**.
+- Increase WBTC-B SF by 4.00 percentage points from 16.75% to **20.75%**.
+- Increase WBTC-C SF by 4.00 percentage points from 16.00% to **20.00%**.
+- Increase ALLOCATOR-SPARK-A SF by 2.94 percentage points from 12.25% to **15.19%**.
 
 ### Savings Rate Changes
 
@@ -54,10 +54,10 @@ If this executive proposal passes, then the [Stability Fees (SF)](https://sky-at
 
 If this executive proposal passes, then the following savings rate changes will take place:
 
-- Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 2 percentage points from 11.50% to **13.50%**.
-- Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 2 percentage points from 12.50% to **14.50%**.
+- Increase the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) by 3.00 percentage points from 11.50% to **14.50%**.
+- Increase the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 3.00 percentage points from 12.50% to **15.50%**.
 
-The Spark Effective DAI Borrow Rate is tied to the DSR. Consequently, the above changes will increase it by ~2 percentage points from ~12.50% to **~14.50%**.
+The Spark Effective DAI Borrow Rate is tied to the DSR. Consequently, the above changes will increase it by ~3 percentage points from ~12.50% to **~15.50%**.
 
 ## Review
 
