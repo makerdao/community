@@ -1,5 +1,5 @@
 ---
-title: Spark Liquidity Layer Mainnet - Increase USDS Liqidity to Base - December 30, 2024
+title: Spark Liquidity Layer Mainnet - Increase USDS Liquidity to Base - December 30, 2024
 summary: Signal your support or opposition to increasing USDS liquidity to Base in the Spark Liquidity Layer.
 discussion_link: https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2024-12-30T16:00:00
 end_date: 2025-01-02T16:00:00
 ---
-# Poll: Spark Liquidity Layer Mainnet - Increase USDS Liqidity to Base - December 30, 2024
+# Poll: Spark Liquidity Layer Mainnet - Increase USDS Liquidity to Base - December 30, 2024
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, December 30 at 16:00 UTC.
 
