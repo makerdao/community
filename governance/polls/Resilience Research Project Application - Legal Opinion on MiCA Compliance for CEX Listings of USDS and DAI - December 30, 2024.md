@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to funding this Resilience Research Project Application which seeks to fund a legal opinion on MiCA compliance for CEX listings of USDS and Dai. The project abstract is as follows:
+The community can vote in this poll to express support or opposition to funding a Resilience Research Project proposal which seeks to produce a legal opinion on MiCA compliance for CEX listings of USDS and Dai. The project abstract is as follows:
 
 *As MiCA (Markets in Crypto-Assets) regulation is being implemented across the EU, it is important for the Sky community to clarify the regulatory status of **USDS and DAI** and determine how it can be compliantly listed and offered by centralized exchanges (CEXs) and Crypto Asset Service Providers (CASPs). The project aims to obtain a legal opinion regarding the classification of USDS under MiCA and to outline the regulatory requirements for its compliant listing by CEXs.*
 
