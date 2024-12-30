@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to onboarding Aave V3 Base market USDC to the Spark Liquidity Layer on Base with the following parameters:
-* `max amount` (maximum amount that can be executed at once) for deposits: **50 million USDC**
+* `max amount` (maximum amount that can be executed at once) for deposits: **50 million USDC**.
 * `slope` (recharging rate of capacity): **25 million USDC per day**.
 * `max amount` for withdrawals: **unlimited**.
 
