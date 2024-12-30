@@ -32,6 +32,11 @@ The community can vote in this poll to express support or opposition to onboardi
 * `slope` (recharging rate of capacity): **25 million tokens per day** for each asset.
 * `max amount` for withdrawals: **unlimited**.
 
+The relevant token addresses are:
+
+- USDS AToken: [0x32a6268f9Ba3642Dda7892aDd74f1D34469A4259](https://etherscan.io/address/0x32a6268f9Ba3642Dda7892aDd74f1D34469A4259).
+- USDC AToken: [0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c](https://etherscan.io/address/0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c).
+
 Please review the discussion [thread](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760) to help inform your position before voting.
 
 ## Outcomes

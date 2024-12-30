@@ -31,6 +31,8 @@ The community can vote in this poll to express support or opposition to onboardi
 * `slope` (recharging rate of capacity): **25 million USDC per day**.
 * `max amount` for withdrawals: **unlimited**.
 
+The relevant token address is [0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB](https://basescan.org/address/0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB).
+
 Please review the discussion [thread](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760) to help inform your position before voting.
 
 ## Outcomes
