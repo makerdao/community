@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to the following  following parameter changes for Spark’s direct Ethena staked USDe exposure:
 
 ### Minting USDe
 
