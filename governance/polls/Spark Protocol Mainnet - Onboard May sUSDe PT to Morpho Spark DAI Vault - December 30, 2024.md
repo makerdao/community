@@ -31,6 +31,8 @@ The community can vote in this poll to express support or opposition to onboardi
 * Oracle Discount Rate: **25%**
 * Supply Cap: **200 million DAI**.
 
+The id for the relevant Morpho market is [0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905](https://app.morpho.org/market?id=0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905&network=mainnet)
+
 Please review the discussion [thread](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760) to help inform your position before voting.
 
 ## Outcomes
