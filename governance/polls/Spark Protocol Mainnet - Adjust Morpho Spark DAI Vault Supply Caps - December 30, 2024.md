@@ -1,6 +1,6 @@
 ---
 title: Spark Protocol Mainnet - Adjust Morpho Spark DAI Vault Supply Caps - December 30, 2024
-summary: Signal your support or opposition to listed supply cap changes for the Morpho Spark DAI Vault.
+summary: Signal your support or opposition to the listed supply cap changes for the Morpho Spark DAI Vault.
 discussion_link: https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760
 parameters:
     input_format: single-choice
