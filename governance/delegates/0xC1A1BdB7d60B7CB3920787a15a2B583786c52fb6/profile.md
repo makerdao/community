@@ -4,6 +4,6 @@ external_profile_url: https://forum.makerdao.com/t/jiaozi-ad-recognition-submiss
 ---
 
 # Jiaozi
-Delegate Address: 0x774FB7955Ff69E5b8A5AFD0C0833B2719f7a2636
+Delegate Address: 0x9D13D92D95f8d6085D82773fdf8A73aA157f631A
 
 Forum: @Jiaozi  
