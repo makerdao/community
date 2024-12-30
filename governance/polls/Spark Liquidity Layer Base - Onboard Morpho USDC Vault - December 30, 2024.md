@@ -31,7 +31,13 @@ The community can vote in this poll to express support or opposition to onboardi
 * `slope` (recharging rate of capacity): **25 million USDC per day**.
 * `max amount` for withdrawals: **unlimited**.
 
-At launch the vault will support the cbBTC collateral pool with 86% LTV with a supply cap of 100 million USDC.
+The relevant vault address is [0x305E03Ed9ADaAB22F4A58c24515D79f2B1E2FD5D](https://basescan.org/address/0x305E03Ed9ADaAB22F4A58c24515D79f2B1E2FD5D).
+
+The following changes will be made to the vault:
+
+- Add the USDC idle market with unlimited (type(uint184).max) supply cap.
+- Add the RELAYER multisig as an allocator.
+- Increase the supply cap on cbBTC/USDC market ([0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836](https://app.morpho.org/market?id=0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836&network=base)) to **100m illion USDC**.
 
 Please review the discussion [thread](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760) to help inform your position before voting.
 
