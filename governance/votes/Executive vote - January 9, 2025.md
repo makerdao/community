@@ -47,7 +47,7 @@ If this executive proposal passes, then the source of BTC/USD pricing for the WB
 
 The relevant call for this action is:
 
-```
+```solidity
 OsmAbstract(PIP_WBTC).change(0x24C392CDbF32Cf911B258981a66d5541d85269ce);
 ```
 
