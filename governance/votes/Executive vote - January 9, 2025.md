@@ -68,6 +68,7 @@ If this executive proposal passes, then the following increase to the ALLOCATOR-
 $TBD
 
 ### Integration Boost Funding Distribution
+
 - **Authorization**: [Atlas A.5.2.1.2](https://sky-atlas.powerhouse.io/A.5.2.1.2_Integration_Boost/129f2ff0-8d73-8057-850b-d32304e9c91a|8d5a9e88cf49)
 - **Proposal**: [Forum Post](http://forum.sky.money/t/utilization-of-the-integration-boost-budget-a-5-2-1-2/25536/3)
 
