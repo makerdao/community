@@ -103,7 +103,7 @@ If this executive proposal passes, then the following Resilience Research Projec
 If this executive proposal passes, then a total of **23,323 USDS** will be distributed to seven Aligned Delegates and their teams as compensation for November 2024.
 
 | Delegate    | Amount (USDS) | Address                                                                                                               |
-|-------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
+|-------------|--------------:|-----------------------------------------------------------------------------------------------------------------------|
 | BLUE        | 4,000         | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Bonapublica | 4,000         | [0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) |
 | Byteron     | 533           | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
@@ -122,7 +122,7 @@ If this executive proposal passes, then a total of **126,438 USDS** and **988,00
 #### USDS Payments
 
 | Recipient | Amount (USDS) | Address                                                                                                               |
-|-----------|---------------|-----------------------------------------------------------------------------------------------------------------------|
+|-----------|--------------:|-----------------------------------------------------------------------------------------------------------------------|
 | BLUE      | 83,602        | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Kohla     | 10,000        | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
 | Ennoia    | 10,000        | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
@@ -131,7 +131,7 @@ If this executive proposal passes, then a total of **126,438 USDS** and **988,00
 #### SKY Payments
 
 | Recipient | Amount (SKY) | Address                                                                                                               |
-|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|-----------|-------------:|-----------------------------------------------------------------------------------------------------------------------|
 | BLUE      | 550,000      | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Cloaky    | 438,000      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
 
