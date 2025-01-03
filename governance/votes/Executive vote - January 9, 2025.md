@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### WBTC Oracle Migration
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/technical-scope-of-the-wbtc-oracle-migration/25715/3)
 - **Proposal**: [Forum post](https://forum.sky.money/t/technical-scope-of-the-wbtc-oracle-migration/25715)
 
 If this executive proposal passes, then the source of BTC/USD pricing for the WBTC [Oracle Safety Module (OSM)](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation) will be updated to [0x24C392CDbF32Cf911B258981a66d5541d85269ce](https://etherscan.io/address/0x24C392CDbF32Cf911B258981a66d5541d85269ce). This will update the price source to the new Chronicle [Scribe-based](https://github.com/chronicleprotocol/scribe) design as documented in [Atlas A.3.8.1.1.4](https://sky-atlas.powerhouse.io/A.3.8.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000|57eaf45219bea3b4).
