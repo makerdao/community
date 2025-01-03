@@ -114,7 +114,7 @@ If this executive proposal passes, then a total of **23,323 USDS** will be distr
 
 ### Atlas Core Development Payments for December 2024
 
-- **Authorization**: [$link_to_approval](), [Atlas Axis Approval](http://forum.sky.money/t/atlas-core-development-payment-requests-december-2024/25741/5)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/atlas-core-development-payment-requests-december-2024/25741/6), [Atlas Axis Approval](http://forum.sky.money/t/atlas-core-development-payment-requests-december-2024/25741/5)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-core-development-payment-requests-december-2024/25741)
 
 If this executive proposal passes, then a total of **126,438 USDS** and **988,000** SKY will be distributed for Atlas Core Development funding.
