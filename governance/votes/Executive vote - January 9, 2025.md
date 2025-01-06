@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Stability Fee Changes, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
+title: Template - [Executive Vote] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
 summary: $summary
 date: 2025-01-09T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Stability Fee Changes, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
+# [Executive Proposal] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -18,7 +18,6 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - The source of BTC/USD prices for the WBTC OSM will be updated to a new Scribe feed.
 - The Maximum Debt Ceiling (`line`) for ALLOCATOR-SPARK-A will be increased.
-- Stability Fee $IncreaseOrDecrease will be made to multiple vaults.
 - **3,000,000 USDS** for Integration Boost funding will be distributed.
 - A total of **1,100 USDS** for Bug Bounty payouts will be distributed.
 - **32,000 USDS** of Resilience Research Project Funding will be distributed.
@@ -59,13 +58,6 @@ OsmAbstract(PIP_WBTC).change(0x24C392CDbF32Cf911B258981a66d5541d85269ce);
 If this executive proposal passes, then the following increase to the ALLOCATOR-SPARK-A will occur:
 
 - Increase the ALLOCATOR-SPARK-A [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) by 900 million USDS from 100 million USDS to **1 billion USDS**.
-
-### Stability Fee Changes
-
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
-
-$TBD
 
 ### Integration Boost Funding Distribution
 
