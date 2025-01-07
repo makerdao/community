@@ -17,6 +17,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
+
 - The source of BTC/USD prices for the WBTC OSM will be updated to a new Scribe feed.
 - The Maximum Debt Ceiling (`line`) for ALLOCATOR-SPARK-A will be increased.
 - **3 million USDS** for Integration Boost funding will be distributed.
