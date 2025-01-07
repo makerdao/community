@@ -51,7 +51,7 @@ OsmAbstract(PIP_WBTC).change(0x24C392CDbF32Cf911B258981a66d5541d85269ce);
 
 ### ALLOCATOR-SPARK-A [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) Increase
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmQ6bYou)
+- **Authorization**: [Governance Poll 1179](https://vote.makerdao.com/polling/QmQ6bYou)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 If this executive proposal passes, then the following increase to the ALLOCATOR-SPARK-A will occur:
@@ -79,7 +79,7 @@ If this executive proposal passes, then the following distributions for Immunefi
 
 ### Resilience Research Project Funding
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmdKkyYb)
+- **Authorization**: [Governance Poll 1167](https://vote.makerdao.com/polling/QmdKkyYb)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/resilience-research-project-application-legal-opinion-on-mica-compliance-for-cex-listings-of-usds-and-dai/25759)
 
 If this executive proposal passes, then the following Resilience Research Project funding distribution will be made:
@@ -132,21 +132,21 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 #### [Mainnet] Adjust SparkLend Parameters for WBTC
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmYScEHT)
+- **Authorization**: [Governance Poll 1168](https://vote.makerdao.com/polling/QmYScEHT)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Reduce the WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.5_Liquidation_Threshold_Definition/9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6) by 5 percentage points from 60% to **55%**.
 
 #### [Mainnet] Adjust SparkLend Parameters for cbBTC
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/Qma1xA18)
+- **Authorization**: [Governance Poll 1168](https://vote.makerdao.com/polling/Qma1xA18)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
-- Increase the cbBTC Supply Cap [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) parameter by 7,000 cbBTC from 3,000 cbBTC to 10,000 **cbBTC**.
+- Increase the cbBTC Supply Cap [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) parameter by 7,000 cbBTC from 3,000 cbBTC to **10,000 cbBTC**.
 
 #### [Mainnet] Adjust SparkLend Parameters for wstETH
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmeEvuG2)
+- **Authorization**: [Governance Poll 1170](https://vote.makerdao.com/polling/QmeEvuG2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Increase wstETH Borrow Cap [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition/78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 5,000 wstETH from 5,000 wstETH to **10,000 wstETH**.
@@ -159,14 +159,14 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 #### [Mainnet] Adjust SparkLend Parameters for weETH
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmVpv1G8)
+- **Authorization**: [Governance Poll 1171](https://vote.makerdao.com/polling/QmVpv1G8)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - **Remove** weETH from [Isolation Mode](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.19_Isolated_Collateral_Enabled_Definition/2b4d2a01-fc3e-45a4-9d5e-2ef7d3677ff8|57eaf45219be608847d6).
 
 #### [Mainnet] Adjust Morpho Spark DAI Vault Supply Caps
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmZ2Qmy5)
+- **Authorization**: [Governance Poll 1172](https://vote.makerdao.com/polling/QmZ2Qmy5)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - USDe 94.5%: reduce by 10 million DAI from 10 million DAI to **0 DAI**.
@@ -184,19 +184,19 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 #### [Mainnet] Onboard PT-sUSDE-29MAY2025 to Morpho Spark DAI Vault
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmSTYyW5)
+- **Authorization**: [Governance Poll 1173](https://vote.makerdao.com/polling/QmSTYyW5)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Onboard PT-sUSDE-29MAY2025 to the Morpho Spark DAI Vault with the following parameters:
 	- Pool LLTV: **91.5%**.
-	- Oracle Discount Rate: **25%**
+	- Oracle Discount Rate: **25%**.
 	- Supply Cap: **200 million DAI**.
 
 The id for the relevant Morpho market is [0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905](https://app.morpho.org/market?id=0x407d8c123443d362ffdfe73208068ef158a21d1a44a988c9acc23a51bade7905&network=mainnet)
 
 #### [Mainnet] Update DAI, USDC, USDT IRMs to Anchor to SSR
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmTFsGw8)
+- **Authorization**: [Governance Poll 1174](https://vote.makerdao.com/polling/QmTFsGw8)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Update the DAI, USDC, and USDT [Interest Rate Models](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.3_Interest_Rate_Model_Definition/83e3f4f2-5e8e-4383-95e5-3af1bfb19210|57eaf45219be608847d6) to anchor to the [**Sky Savings Rate (SSR)**](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) instead of the [Dai Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951).
@@ -204,7 +204,7 @@ The id for the relevant Morpho market is [0x407d8c123443d362ffdfe73208068ef158a2
 
 #### [Mainnet] Onboard Ethena USDe and sUSDe Direct Exposure to the Spark Liquidity Layer
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmYDGkjM)
+- **Authorization**: [Governance Poll 1175](https://vote.makerdao.com/polling/QmYDGkjM)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 Onboard Ethena USDe and sUSDe direct exposure to the Spark Liquidity Layer on mainnet with the following parameters:
@@ -231,7 +231,7 @@ Onboard Ethena USDe and sUSDe direct exposure to the Spark Liquidity Layer on ma
 
 #### [Mainnet] Onboard Aave V3 Main Market USDC and USDS to the Spark Liquidity Layer
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmZfSDMH)
+- **Authorization**: [Governance Poll 1176](https://vote.makerdao.com/polling/QmZfSDMH)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 Onboard Aave V3 Main Market USDC and USDS to the Spark Liquidity Layer on mainnet with the following parameters:
@@ -248,14 +248,14 @@ The relevant token addresses are:
 
 #### [Mainnet] Increase USDS Liquidity to Base
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmQ6bYou)
+- **Authorization**: [Governance Poll 1179](https://vote.makerdao.com/polling/QmQ6bYou)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Premint **99 million USDS** into the [Base ALM Proxy](https://basescan.org/address/0x2917956eFF0B5eaF030abDB4EF4296DF775009cA).
 
 #### [Base] Onboard Aave V3 Base Market USDC to the Spark Liquidity Layer
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmeZTfHR)
+- **Authorization**: [Governance Poll 1177](https://vote.makerdao.com/polling/QmeZTfHR)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 Onboard Aave V3 Base Market USDC to the Spark Liquidity Layer on Base with the following parameters:
@@ -268,7 +268,7 @@ The relevant token address is [0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB](https
 
 #### [Base] Onboard Morpho USDC Vault to the Spark Liquidity Layer
 
-- **Authorization**: [Governance Poll](https://vote.makerdao.com/polling/QmQarR2U)
+- **Authorization**: [Governance Poll 1178](https://vote.makerdao.com/polling/QmQarR2U)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 Onboarding the Morpho USDC Vault to the Spark Liquidity Layer on Base with the following parameters:
@@ -281,7 +281,7 @@ The relevant vault address is [0x305E03Ed9ADaAB22F4A58c24515D79f2B1E2FD5D](https
 
 The following changes will be made to the vault:
 
-- Add the USDC idle market with unlimited (type(uint184).max) supply cap.
+- Add the USDC idle market with unlimited `(type(uint184).max)` supply cap.
 - Add the RELAYER multisig as an allocator.
 - Increase the supply cap on cbBTC/USDC market ([0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836](https://app.morpho.org/market?id=0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836&network=base)) to **100 million USDC**.
 
