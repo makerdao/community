@@ -151,7 +151,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 - **Proposal**: [Forum Post](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760)
 
 - Increase wstETH Borrow Cap [Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition/78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806) by 5,000 wstETH from 5,000 wstETH to **10,000 wstETH**.
-- Increase wstETH Borrow Cap [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) by 900,000 wstETH from 100,000 wstETH to **1,000,000 wstETH**.
+- Increase wstETH Borrow Cap [Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42|57eaf45219be6088aa1c4806) by 900,000 wstETH from 100,000 wstETH to **1 million wstETH**.
 - Increase wstETH [Optimal Utilization](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.11_Optimal_Utilization_Definition/7dd3b868-b5c1-4f16-b997-8fb35a971ab1|57eaf45219be608847d6) by 25 percentage points from 45% to **70%**.
 - Reduce wstETH [Base Rate](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.13_Base_Rate_Definition/3ea70be9-6d09-4e25-8025-a0235dd71c28|57eaf45219be608847d6) by 0.25 percentage points from 0.25% to **0%**.
 - Reduce wstETH [Slope 1](https://sky-atlas.powerhouse.io/A.3.8.1.6.1.15_Slope_1_Definition/20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6) by 2.5 percentage points from 4.5% to **2%**.
