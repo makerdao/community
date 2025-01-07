@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - The source of BTC/USD prices for the WBTC OSM will be updated to a new Scribe feed.
 - The Maximum Debt Ceiling (`line`) for ALLOCATOR-SPARK-A will be increased.
-- **3,000,000 USDS** for Integration Boost funding will be distributed.
+- **3 million USDS** for Integration Boost funding will be distributed.
 - A total of **1,100 USDS** for Bug Bounty payouts will be distributed.
 - **32,000 USDS** of Resilience Research Project Funding will be distributed.
 - A total of **23,323 USDS** will be distributed to seven Aligned Delegates as compensation for November 2024.
