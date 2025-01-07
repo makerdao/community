@@ -17,14 +17,11 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-
 - The source of BTC/USD prices for the WBTC OSM will be updated to a new Scribe feed.
 - The Maximum Debt Ceiling (`line`) for ALLOCATOR-SPARK-A will be increased.
 - **3 million USDS** for Integration Boost funding will be distributed.
 - **32,000 USDS** of Resilience Research Project funding will be distributed.
-- **32,000 USDS** of Resilience Research Project Funding will be distributed.
 - Atlas Core Development USDS and SKY payments totalling **126,438 USDS** and **988,000 SKY** will be distributed.
-- Atlas Core Development USDS and SKY payments totalling **126,438 USDS** and **988,000** SKY will be distributed.
 - A Spark Proxy Spell at [0x7fb2967cDC6816Dc508f35C5A6CB035C8B6507Ec](https://etherscan.io/address/0x7fb2967cDC6816Dc508f35C5A6CB035C8B6507Ec) will be triggered.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
