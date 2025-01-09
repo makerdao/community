@@ -20,7 +20,9 @@ If this executive proposal passes, the following **actions** will occur within t
 - The source of BTC/USD prices for the WBTC OSM will be updated to a new Scribe feed.
 - The Maximum Debt Ceiling (`line`) for ALLOCATOR-SPARK-A will be increased.
 - **3 million USDS** for Integration Boost funding will be distributed.
+- A total of **1,100 USDS** for Bug Bounty payouts will be distributed.
 - **32,000 USDS** of Resilience Research Project funding will be distributed.
+- A total of **23,323 USDS** will be distributed to seven Aligned Delegates as compensation for November 2024.
 - Atlas Core Development USDS and SKY payments totalling **126,438 USDS** and **988,000 SKY** will be distributed.
 - A Spark Proxy Spell at [0x7fb2967cDC6816Dc508f35C5A6CB035C8B6507Ec](https://etherscan.io/address/0x7fb2967cDC6816Dc508f35C5A6CB035C8B6507Ec) will be triggered.
 
