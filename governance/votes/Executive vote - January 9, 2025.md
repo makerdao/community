@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
 summary: Update the price source for the WBTC oracle, increase the ALLOCATOR-SPARK-A Maximum Debt Ceiling, distribute Integration Boost funding, distribute bug bounty payments, distribute Resilience Research Project funding, distribute Aligned Delegate compensation for November 2024, distribute Atlas Core Development funding, trigger a Spark Proxy spell.
 date: 2025-01-09T00:00:00.000Z
-address: "$spell_address"
+address: "0x5985E06E47e0dd10230393e5dEF7200516262ed9"
 
 ---
 # [Executive Proposal] WBTC Oracle Migration, ALLOCATOR-SPARK-A Maximum Debt Ceiling Increase, Integration Boost Funding, Bug Bounty Payments, Resilience Research Project Funding, Aligned Delegate Compensation, Atlas Core Development Funding, Spark Proxy Spell - January 9, 2025
