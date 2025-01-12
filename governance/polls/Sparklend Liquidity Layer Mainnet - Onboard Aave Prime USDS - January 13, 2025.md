@@ -1,6 +1,6 @@
 ---
-title: Sparklend Liquidity Layer Mainnet - Onboard Aave Prime USDS - January 13, 2025
-summary: Signal your support or opposition to onboarding Aave Prime USDS onto the Sparklend Liquidity Layer on Ethereum.
+title: SparkLend Liquidity Layer Mainnet - Onboard Aave Prime USDS - January 13, 2025
+summary: Signal your support or opposition to onboarding Aave Prime USDS onto the SparkLend Liquidity Layer on Ethereum.
 discussion_link: https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825
 parameters:
     input_format: single-choice
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the onboarding of Aave Prime USDS onto the Sparklend Liquidity Layer with the following parameters:
+The community can vote in this poll to express support or opposition to the onboarding of Aave Prime USDS onto the SparkLend Liquidity Layer with the following parameters:
 
 ### Deposits
 
@@ -36,8 +36,8 @@ The community can vote in this poll to express support or opposition to the onbo
 
 ### Withdrawals
 
-- Max amount: Unlimited
-- Slope: Unlimited
+- Max amount: **Unlimited**
+- Slope: **Unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825) to help inform your position before voting.
 
@@ -45,7 +45,7 @@ Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to onboard Aave Prime USDS onto the Sparklend Liquidity Layer with the specified parameters.
+- Phoenix Labs will prepare a Spark spell to onboard Aave Prime USDS onto the SparkLend Liquidity Layer with the specified parameters.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.

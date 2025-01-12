@@ -1,6 +1,6 @@
 ---
-title: Sparklend Liquidity Layer Mainnet - Onboard Sparklend USDS, USDC - January 13, 2025
-summary: Signal your support or opposition to onboarding Sparklend USDS, USDC onto the Sparklend Liquidity Layer on Ethereum.
+title: SparkLend Liquidity Layer Mainnet - Onboard SparkLend USDS, USDC - January 13, 2025
+summary: Signal your support or opposition to onboarding SparkLend USDS, USDC onto the SparkLend Liquidity Layer on Ethereum.
 discussion_link: https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2025-01-13T16:00:00
 end_date: 2025-01-16T16:00:00
 ---
-# Poll: Sparklend Liquidity Layer Mainnet - Onboard Sparklend USDS, USDC - January 13, 2025
+# Poll: SparkLend Liquidity Layer Mainnet - Onboard SparkLend USDS, USDC - January 13, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, January 13 at 16:00 UTC.
 
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the onboarding of Sparklend USDS and Sparklend USDC onto the Sparklend Liquidity Layer with the following parameters:
+The community can vote in this poll to express support or opposition to the onboarding of SparkLend USDS and SparkLend USDC onto the SparkLend Liquidity Layer with the following parameters:
 
 ### USDS
 
@@ -38,8 +38,8 @@ The community can vote in this poll to express support or opposition to the onbo
 
 #### Withdrawals
 
-- Max amount: Unlimited
-- Slope: Unlimited
+- Max amount: **Unlimited**
+- Slope: **Unlimited**
 
 ### USDC
 
@@ -50,8 +50,8 @@ The community can vote in this poll to express support or opposition to the onbo
 
 #### Withdrawals
 
-- Max amount: Unlimited
-- Slope: Unlimited
+- Max amount: **Unlimited**
+- Slope: **Unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825) to help inform your position before voting.
 
@@ -59,7 +59,7 @@ Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to onboard Sparklend USDS, USDC onto the Sparklend Liquidity Layer with the specified parameters.
+- Phoenix Labs will prepare a Spark spell to onboard SparkLend USDS, USDC onto the SparkLend Liquidity Layer with the specified parameters.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
