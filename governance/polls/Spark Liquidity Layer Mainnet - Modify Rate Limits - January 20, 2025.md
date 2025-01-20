@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following rate limit parameters for Spark Liquidity Layer Mainnet USDS and USDC:
 
-### Minting USDS:
+### Minting USDS
 
   * Max amount: 50 million USDS
   * Slope: 50 million USDS per day
