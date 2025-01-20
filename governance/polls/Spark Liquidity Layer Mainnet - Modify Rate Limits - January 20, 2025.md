@@ -39,7 +39,7 @@ The community can vote in this poll to express support or opposition to the foll
   * Max amount: 50 million USDC
   * Slope: 50 million USDC per day
   
-### USDC CCTP Transfering (all routes):
+### USDC CCTP (Cross-Chain Transfer Protocol) Transferring (All Routes)
 
   * Max amount: 50 million USDS
   * Slope: 25 million USDS per day
