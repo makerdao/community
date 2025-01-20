@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
   * Max amount: 50 million USDS
   * Slope: 50 million USDS per day
   
-### Swapping USDS to USDC:
+### Swapping USDS to USDC
 
   * Max amount: 50 million USDC
   * Slope: 50 million USDC per day
