@@ -44,6 +44,8 @@ The community can vote in this poll to express support or opposition to the foll
   * Max amount: 50 million USDS
   * Slope: 25 million USDS per day
 
+More information on Rate Limits can be found [here](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits).
+
 Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell-2/25837) to help inform your position before voting.
 
 ## Outcomes
