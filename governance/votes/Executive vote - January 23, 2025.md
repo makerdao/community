@@ -50,20 +50,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be changed as follows:
 
-- Decrease ETH-A SF by TBC percentage points from 19.75% to **TBC%**.
-- Decrease ETH-B SF by TBC percentage points from 20.25% to **TBC%**.
-- Decrease ETH-C SF by TBC percentage points from 19.50% to **TBC%**.
-- Decrease WSTETH-A SF by TBC percentage points from 20.75% to **TBC%**.
-- Decrease WSTETH-B SF by TBC percentage points from 20.50% to **TBC%**.
-- Decrease WBTC-A SF by TBC percentage points from 24.25% to **TBC%**.
-- Decrease WBTC-B SF by TBC percentage points from 24.75% to **TBC%**.
-- Decrease WBTC-C SF by TBC percentage points from 24.00% to **TBC%**.
-- Decrease ALLOCATOR-SPARK-A SF by TBC percentage points from 18.13% to **TBC%**.
+- Decrease ALLOCATOR-SPARK-A SF by 6.88 percentage points from 12.25% to **5.37%**.
 
-### DAI Savings Rate Changes
+### DAI Savings Rate Reduction
 
-- **Authorization**: [$link_to_approval](TBC)
-- **Proposal**: [$link_to_proposal](TBC)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/stability-scope-parameter-changes-20-spark-liquidity-layer-dsr/25861/2)
+- **Proposal**: [Forum post](https://forum.sky.money/t/stability-scope-parameter-changes-20-spark-liquidity-layer-dsr/25861)
 
 If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) will be decreased as follows:
 
@@ -127,7 +119,7 @@ If this executive proposal passes, then a total of **122,438 USDS** and **988,00
 If this executive proposal passes, then a new suckable USDS vest contract will be set up through the following actions:
 
 - Authorize the new USDS vest contract ([0xc447a9745aDe9A44Bb9E37B7F6C92f9582544110](https://etherscan.io/address/0xc447a9745aDe9A44Bb9E37B7F6C92f9582544110)) to access the surplus buffer (MCD_VAT).
-- Set the maximum vesting speed (`cap`) on the new USDS vest contract to **46,200 USDS** per 30 days.
+- Set the maximum vesting speed (`cap`) on the new USDS vest contract to **46,200 USDS per 30 days**.
 - Add the new USDS vest contract ([0xc447a9745aDe9A44Bb9E37B7F6C92f9582544110](https://etherscan.io/address/0xc447a9745aDe9A44Bb9E37B7F6C92f9582544110)) to Chainlog under `MCD_VEST_USDS`.
 
 ### New Transferrable SKY Vest Contract Setup
@@ -139,7 +131,7 @@ If this executive proposal passes, then a new transferrable SKY vest contract wi
 
 - Convert **624 MKR** held in the Pause Proxy to SKY via the `MKR_SKY` contract.
 - Approve the new SKY vest contract ([0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6](https://etherscan.io/address/0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6)) to take a total of **14,256,000 SKY** from the treasury (`MCD_PAUSE_PROXY`.)
-- Set the maximum vesting speed (`cap`) on the new SKY vest contract to **475,200 SKY** per 30 days.
+- Set the maximum vesting speed (`cap`) on the new SKY vest contract to **475,200 SKY per 30 days**.
 - Add the new SKY vest contract ([0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6](https://etherscan.io/address/0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6)) to Chainlog under `MCD_VEST_SKY_TREASURY`.
 
 ### Facilitator Payment Streams Setup
@@ -176,14 +168,14 @@ If this executive proposal passes, then a payment of **314,567 DAI** will be mad
 - **Authorization:** [Forum post](https://forum.sky.money/t/spark-aave-revenue-share-calculations-payments-6-q4-2024/25820/2)
 - **Proposal:** [Forum post](https://forum.sky.money/t/project-andromeda-risk-legal-assessment/20969/12)
 
-If this executive proposal passes, the resolutions posted within IPFC hash [bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq](https://gateway.pinata.cloud/ipfs/bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq) will be approved.
+If this executive proposal passes, the resolutions posted within IPFS hash [bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq](https://gateway.pinata.cloud/ipfs/bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq) will be approved.
 
 ### Spark Proxy Spell
 
 - **Authorization**: Governance Polls [1180](https://vote.makerdao.com/polling/QmRAavx5), [1181](https://vote.makerdao.com/polling/QmY4D1u8), [1182](https://vote.makerdao.com/polling/QmU3Xu4W), [1183](https://vote.makerdao.com/polling/QmexceBK)
 - **Proposal**: [Forum Posts](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825)
 
-If this executive proposal passes, then a Spark Proxy Spell will be executed at [TBC](https://etherscan.io/address/TBC) with the following contents:
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xFe447da54AdD21a8503eb81d328c5D60fE90eC26](https://etherscan.io/address/0xFe447da54AdD21a8503eb81d328c5D60fE90eC26) with the following contents:
 
 #### [Mainnet] Onboard USDS
 
