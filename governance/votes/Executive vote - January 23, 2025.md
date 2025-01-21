@@ -5,7 +5,7 @@ date: 2025-01-23T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Stability Fee Changes, DAI Savings Rate Changes, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
+# [Executive Proposal] Stability Fee Change, DAI Savings Rate Change, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
