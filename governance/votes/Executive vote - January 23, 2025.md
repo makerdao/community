@@ -104,12 +104,22 @@ If this executive proposal passes, then a total of **25,402 USDS** will be distr
 
 If this executive proposal passes, then a total of **122,438 USDS** and **988,000 SKY** will be distributed to two Atlas Core Development contributors and their teams:
 
-| Contributor     | USDS Amount | SKY Amount  | Address                                                                                                               |
-|-----------------|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------|
-| BLUE            | 83,602 USDS | 550,000 SKY | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
-| Kohla (Cloaky)  | 10,000 USDS | 0 SKY       | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
-| Ennoia (Cloaky) | 10,000 USDS | 0 SKY       | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
-| Cloaky          | 18,836 USDS | 438,000 SKY | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+#### USDS Token Transfers
+
+| Contributor     | USDS Amount | Address                                                                                                               |
+|-----------------|-------------|-----------------------------------------------------------------------------------------------------------------------|
+| BLUE            | 83,602 USDS | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Kohla (Cloaky)  | 10,000 USDS | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
+| Ennoia (Cloaky) | 10,000 USDS | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
+| Cloaky          | 18,836 USDS | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+
+#### SKY Token Transfers
+
+| Contributor | SKY Amount  | Address                                                                                                               |
+|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------|
+| BLUE        | 550,000 SKY | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
+| Cloaky      | 438,000 SKY | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+
 
 ### New Suckable USDS Vest Contract Setup
 
