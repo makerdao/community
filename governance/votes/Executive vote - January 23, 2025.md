@@ -93,7 +93,7 @@ If this executive proposal passes, then the following Integration Boost funding 
 - **Authorization**: [Atlas A.1.5.8](https://sky-atlas.powerhouse.io/A.1.5.8_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa%7C0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/december-2024-aligned-delegate-compensation/25854)
 
-If this executive proposal passes, then a total of **25,402 USDS** will be distributed to sevenix Aligned Delegates and their teams as compensation for December 2024.
+If this executive proposal passes, then a total of **25,402 USDS** will be distributed to seven Aligned Delegates as compensation for December 2024.
 
 | Delegate    | Amount (USDS) | Address                                                                                                               |
 |-------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
