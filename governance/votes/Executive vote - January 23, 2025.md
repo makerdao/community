@@ -147,6 +147,7 @@ If this executive proposal passes, then a new transferrable SKY vest contract wi
 ### Facilitator Payment Streams Setup
 
 - **Authorization**: [Atlas A.1.6.2.4.1](https://sky-atlas.powerhouse.io/A.1.6.2.4.1_List_of_Facilitator_Budgets/c511460d-53df-47e9-a4a5-2e48a533315b%7C0db3343515519c4a)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/proposed-housekeeping-items-upcoming-executive-spell-2025-01-23/25852)
 
 If this executive proposal passes, the following vesting streams will be created:
 
