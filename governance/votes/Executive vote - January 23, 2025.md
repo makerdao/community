@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - The [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for ALLOCATOR-SPARK-A will be decreased.
-- The [DAI Savings Rate (DSR](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
+- The [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
 - A total of **10 million USDS** and **24 million SKY** will be transferred to the Launch Project.
 - A total of **2.5 million USDS** will be transferred to the Integration Boost.
 - A total of **25,402 USDS** will be distributed as Aligned Delegate compensation for December 2024.
