@@ -29,7 +29,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - Three Facilitator SKY payment streams will be set up.
 - A total of **314,567 DAI** will be distributed as SparkLend-Aave Revenue Share payment for Q4 2024.
 - A TACO DAO Resolution will be approved.
-- A Spark proxy spell will be executed.
+- A Spark proxy spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
