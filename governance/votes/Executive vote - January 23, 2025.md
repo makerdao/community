@@ -247,7 +247,7 @@ If this executive proposal passes, then a Spark Proxy Spell, prepared by Phoenix
 
 #### [Mainnet Liquidity Layer] Modify Rate Limits
 
-- Setting the following rate limit parameters for Spark Liquidity Layer Mainnet USDS and USDC:
+- Setting the following [rate limit parameters](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) for Spark Liquidity Layer Mainnet USDS and USDC:
   - **Minting USDS**:
     - Max amount: 50 million USDS
     - Slope: 50 million USDS per day
