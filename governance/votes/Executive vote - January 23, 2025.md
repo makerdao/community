@@ -52,7 +52,7 @@ If this executive proposal passes, then the [Stability Fees (SF)](https://sky-at
 
 - Decrease ETH-A SF by TBC percentage points from 19.75% to **TBC%**.
 - Decrease ETH-B SF by TBC percentage points from 20.25% to **TBC%**.
-- Decrease ETH-C Stability Fee by TBC percentage points from 19.50% to **TBC%**.
+- Decrease ETH-C SF by TBC percentage points from 19.50% to **TBC%**.
 - Decrease WSTETH-A SF by TBC percentage points from 20.75% to **TBC%**.
 - Decrease WSTETH-B SF by TBC percentage points from 20.50% to **TBC%**.
 - Decrease WBTC-A SF by TBC percentage points from 24.25% to **TBC%**.
@@ -93,7 +93,7 @@ If this executive proposal passes, then the following Integration Boost funding 
 - **Authorization**: [Atlas A.1.5.8](https://sky-atlas.powerhouse.io/A.1.5.8_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa%7C0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/december-2024-aligned-delegate-compensation/25854)
 
-If this executive proposal passes, then a total of **25,402 USDS** will be distributed to sevenix Aligned Delegates and their teams as compensation for October 2024.
+If this executive proposal passes, then a total of **25,402 USDS** will be distributed to sevenix Aligned Delegates and their teams as compensation for December 2024.
 
 | Delegate    | Amount (USDS) | Address                                                                                                               |
 |-------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -138,7 +138,7 @@ If this executive proposal passes, then a new suckable USDS vest contract will b
 If this executive proposal passes, then a new transferrable SKY vest contract will be set up through the following actions:
 
 - Convert **624 MKR** held in the Pause Proxy to SKY via the `MKR_SKY` contract.
-- Approve the new SKY vest contract ([0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6](https://etherscan.io/address/0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6)) to take a total of **14,968,800 SKY** from the treasury (`MCD_PAUSE_PROXY`.)
+- Approve the new SKY vest contract ([0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6](https://etherscan.io/address/0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6)) to take a total of **14,256,000 SKY** from the treasury (`MCD_PAUSE_PROXY`.)
 - Set the maximum vesting speed (`cap`) on the new SKY vest contract to **475,200 SKY** per 30 days.
 - Add the new SKY vest contract ([0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6](https://etherscan.io/address/0x67eaDb3288cceDe034cE95b0511DCc65cf630bB6)) to Chainlog under `MCD_VEST_SKY_TREASURY`.
 
@@ -160,9 +160,9 @@ If this executive proposal passes, the following vesting streams will be created
 
 | Facilitator  | Address                                                                                                               | Amount (SKY) | Start Date | End Date   |
 |--------------|-----------------------------------------------------------------------------------------------------------------------|--------------|------------|------------|
-| Endgame Edge | [0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1](https://etherscan.io/address/0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1) | 4,752 SKY    | 2025-02-01 | 2025-12-31 |
-| JanSky       | [0xf3F868534FAD48EF5a228Fe78669cf242745a755](https://etherscan.io/address/0xf3F868534FAD48EF5a228Fe78669cf242745a755) | 4,752 SKY    | 2025-02-01 | 2025-12-31 |
-| Ecosystem    | [0xFCa6e196c2ad557E64D9397e283C2AFe57344b75](https://etherscan.io/address/0xFCa6e196c2ad557E64D9397e283C2AFe57344b75) | 4,752 SKY    | 2025-02-01 | 2025-12-31 |
+| Endgame Edge | [0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1](https://etherscan.io/address/0x9E72629dF4fcaA2c2F5813FbbDc55064345431b1) | 4,752,000 SKY    | 2025-02-01 | 2025-12-31 |
+| JanSky       | [0xf3F868534FAD48EF5a228Fe78669cf242745a755](https://etherscan.io/address/0xf3F868534FAD48EF5a228Fe78669cf242745a755) | 4,752,000 SKY    | 2025-02-01 | 2025-12-31 |
+| Ecosystem    | [0xFCa6e196c2ad557E64D9397e283C2AFe57344b75](https://etherscan.io/address/0xFCa6e196c2ad557E64D9397e283C2AFe57344b75) | 4,752,000 SKY    | 2025-02-01 | 2025-12-31 |
 
 ### SparkLend-Aave Q4 2024 Revenue Share Payment
 
