@@ -1,6 +1,6 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, DAI Savings Rate Changes, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
-summary: Stability Fee change for ALLOCATOR-SPARK-A, DAI Savings Rate decrease, Launch Project and Integration Boost funding, Aligned Delegate compensation for December 2024, Atlas Core Developer payments for January 2025, New Suckable USDS Vest Contract setup, New  Transferrable SKY Vest Contract setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution approval, Spark Proxy Spell.
+title: Template - [Executive Vote] Stability Fee Change, DAI Savings Rate Change, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
+summary: Stability Fee change for ALLOCATOR-SPARK-A, DAI Savings Rate decrease, Launch Project and Integration Boost funding, Aligned Delegate compensation for December 2024, Atlas Core Developer payments for January 2025, New Suckable USDS Vest Contract setup, New Transferrable SKY Vest Contract setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution approval, Spark Proxy Spell.
 date: 2025-01-23T00:00:00.000Z
 address: "$spell_address"
 
@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - The [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for ALLOCATOR-SPARK-A will be decreased.
-- The [DAI Savings Rates (DSR](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
+- The [DAI Savings Rate (DSR](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
 - A total of **10 million USDS** and **24 million SKY** will be transferred to the Launch Project.
 - A total of **2.5 million USDS** will be transferred to the Integration Boost.
 - A total of **25,402 USDS** will be distributed as Aligned Delegate compensation for December 2024.
@@ -48,7 +48,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/stability-scope-parameter-changes-20-spark-liquidity-layer-dsr/25861/2)
 - **Proposal**: [Forum post](https://forum.sky.money/t/stability-scope-parameter-changes-20-spark-liquidity-layer-dsr/25861)
 
-If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be changed as follows:
+If this executive proposal passes, then the [Stability Fee (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault type listed below will be changed as follows:
 
 - Decrease ALLOCATOR-SPARK-A SF by 6.88 percentage points from 12.25% to **5.37%**.
 
