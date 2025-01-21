@@ -175,7 +175,7 @@ If this executive proposal passes, then a payment of **314,567 DAI** will be mad
 
 ### TACO DAO Resolution Approval
 
-- **Authorization:** [Forum post](https://forum.sky.money/t/spark-aave-revenue-share-calculations-payments-6-q4-2024/25820/2)
+- **Authorization:** [Forum post](http://forum.sky.money/t/project-andromeda-risk-legal-assessment/20969/14)
 - **Proposal:** [Forum post](https://forum.sky.money/t/project-andromeda-risk-legal-assessment/20969/12)
 
 If this executive proposal passes, the resolutions posted within IPFS hash [bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq](https://gateway.pinata.cloud/ipfs/bafkreieqcricvrwb7ndxep6unlhhm6iie3dlkr3cl4tdypinjws4pycalq) will be approved.
