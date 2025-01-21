@@ -29,7 +29,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - Three Facilitator SKY payment streams will be set up.
 - A total of **314,567 DAI** will be distributed as SparkLend-Aave Revenue Share payment for Q4 2024.
 - A TACO DAO Resolution will be approved.
-- A Spark proxy spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, will be executed.
+- A Spark proxy spell will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -185,7 +185,7 @@ If this executive proposal passes, the resolutions posted within IPFS hash [bafk
 - **Authorization**: Governance Polls [1180](https://vote.makerdao.com/polling/QmRAavx5), [1181](https://vote.makerdao.com/polling/QmY4D1u8), [1182](https://vote.makerdao.com/polling/QmU3Xu4W), [1183](https://vote.makerdao.com/polling/QmexceBK)
 - **Proposal**: [Forum Posts](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825)
 
-If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xFe447da54AdD21a8503eb81d328c5D60fE90eC26](https://etherscan.io/address/0xFe447da54AdD21a8503eb81d328c5D60fE90eC26) with the following contents:
+If this executive proposal passes, then a Spark Proxy Spell, prepared by Phoenix Labs, and reviewed by Wonderland and Certora, will be executed at [0xFe447da54AdD21a8503eb81d328c5D60fE90eC26](https://etherscan.io/address/0xFe447da54AdD21a8503eb81d328c5D60fE90eC26) with the following contents:
 
 #### [Mainnet] Onboard USDS
 
