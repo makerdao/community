@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Stability Fee Change, DAI Savings Rate Change, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
 summary: Stability Fee change for ALLOCATOR-SPARK-A, DAI Savings Rate decrease, Launch Project and Integration Boost funding, Aligned Delegate compensation for December 2024, Atlas Core Developer payments for January 2025, New Suckable USDS Vest Contract setup, New Transferrable SKY Vest Contract setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution approval, Spark Proxy Spell.
 date: 2025-01-23T00:00:00.000Z
-address: "$spell_address"
+address: "0x1F23E5aBCF7358B6Fb044C8c5E1A7bA7c001ffB6"
 
 ---
 # [Executive Proposal] Stability Fee Change, DAI Savings Rate Change, Launch Project Funding, Integration Boost Funding, Aligned Delegate Compensation, Atlas Core Developer Payments, New Suckable USDS Vest Contract Setup, New Transferrable SKY Vest Contract Setup, Setting Facilitator Payment Streams, SparkLend-Aave Q4 2024 Revenue Share Payment, TACO DAO Resolution Approval, Spark Proxy Spell - January 23, 2025
