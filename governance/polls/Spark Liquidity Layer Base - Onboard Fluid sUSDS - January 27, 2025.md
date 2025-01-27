@@ -32,6 +32,8 @@ The community can vote in this poll to express support or opposition to onboardi
 - `max amount`: **10 million sUSDS**
 - `slope`: **5 million sUSDS per day**
 
+Savings USDS Vault: [0xf62e339f21d8018940f188F6987Bcdf02A849619](https://basescan.org/address/0xf62e339f21d8018940f188F6987Bcdf02A849619)
+
 Please review the discussion [thread](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888) to help inform your position before voting. Please refer to the [risk assessment post](https://forum.sky.money/t/instadapp-fluid-risk-assessment/25889) for details about Fluid.
 
 ## Outcomes
