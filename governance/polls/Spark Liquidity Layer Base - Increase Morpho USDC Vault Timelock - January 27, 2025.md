@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to increasing the Morpho USDC vault ([0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A](https://basescan.org/address/0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A) timelock to **1 day** on Base.
+The community can vote in this poll to express support or opposition to increasing the Morpho USDC vault ([0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A](https://basescan.org/address/0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A)) timelock to **1 day** on Base.
 
 Please review the discussion [thread](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888) to help inform your position before voting.
 
