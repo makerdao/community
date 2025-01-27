@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to onboarding Fluid sUSDS to the Spark Liquidity Layer on Base with the following parameters:
 
 - `max amount`: **10 million sUSDS**
-- `slope`: **5,000,000 sUSDS per day**
+- `slope`: **5 million sUSDS per day**
 
 Please review the discussion [thread](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888) to help inform your position before voting. Please refer to the [risk assessment post](https://forum.sky.money/t/instadapp-fluid-risk-assessment/25889) for details about Fluid.
 
