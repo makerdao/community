@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to updating the ETH and BTC price feeds to the new version of Aggor on SparkLend Ethereum on the following markets:
+The community can vote in this poll to express support or opposition to updating the ETH and BTC price feeds to the new version of [Aggor](https://github.com/chronicleprotocol/aggor) on SparkLend Ethereum on the following markets:
 
 - ETH: [0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6](https://etherscan.io/address/0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6)
 - wstETH: To be deployed
