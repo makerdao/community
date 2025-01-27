@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding Fluid sUSDS to the Spark Liquidity Layer on Base with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding Fluid sUSDS to the Spark Liquidity Layer on Base with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - `max amount`: **10 million sUSDS**
 - `slope`: **5 million sUSDS per day**
