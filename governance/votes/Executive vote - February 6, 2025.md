@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whishtleblower Payments, Spark Sproxy Spell - February 6, 2025
+title: Template - [Executive Vote] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Sproxy Spell - February 6, 2025
 summary: Add Emergency Spells to Chainlog, decrease stability fee and savings rates, sweep DAI in PauseProxy to the Surplus Buffer, fund Integration Boost, payments to alignment whistleblowers, trigger a Spark Proxy spell.
 date: 2025-02-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whishtleblower Payments, Spark Sproxy Spell - February 6, 2025
+# [Executive Proposal] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Sproxy Spell - February 6, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -18,9 +18,9 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - Emergency Spells will be added to the Chainlog.
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
-- The DAI balence of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
+- The DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
 - **3 million USDS** will be transfered to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to fund the Intergration Boost.
-- **$USDS_AMOUNT** will be transfered to two alignment whistle blowers at $address_with_link and $address_with_link.
+- **$USDS_AMOUNT** will be transfered to two misalignment whistleblower at $address_with_link and $address_with_link.
 - A Spark Proxy spell at [0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0](https://etherscan.io/address/0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0#code) will be triggered. 
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
@@ -73,7 +73,7 @@ If this executive proposal passes, then the stability fees for multiple vaults a
 - **Authorization**: [$link_to_approval]()
 - **Proposal**: [$link_to_proposal]()
 
-If this executive proposal passes, then the DAI balence of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
+If this executive proposal passes, then the DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
 
 ### Integration Boost Funding
 
@@ -87,7 +87,7 @@ If this executive proposal passes, then  **3 million USDS** will be transfered t
 - **Authorization**: [Atlas](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e)
 - **Proposal**: [$link_to_proposal]()
 
-If this executive proposal passes, then the following misaligment whistle blower payments will be made, pursuit to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
+If this executive proposal passes, then the following misaligment Whistleblower payments will be made, pursuit to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
 
 #### Payment List
 
@@ -129,7 +129,7 @@ Reduce the WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/A.3.8.1.
 
 #### SparkLend Ethereum - Update ETH and BTC Price Feeds
 
-updating the ETH and BTC price feeds to the new version of [Aggor](https://github.com/chronicleprotocol/aggor) on SparkLend Ethereum on the following markets:
+Update the ETH and BTC price feeds to the new version of [Aggor](https://github.com/chronicleprotocol/aggor) on SparkLend Ethereum on the following markets:
 
 - ETH: [0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6](https://etherscan.io/address/0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6)
 - wstETH: To be deployed
