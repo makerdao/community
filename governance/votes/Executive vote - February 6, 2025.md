@@ -48,7 +48,7 @@ If this executive proposal passes, then the following Emergency Spells will be a
 ### Rate Adjustments
 
 - **Authorization**: [$link_to_approval]()
-- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-6-2025-stability-scope-parameter-changes-21/25906)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-6-2025-stability-scope-parameter-changes-21/25906/3)
 
 If this executive proposal passes, then the stability fees for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased as follows.
 
@@ -62,12 +62,12 @@ If this executive proposal passes, then the stability fees for multiple vaults a
 - Reduce WBTC-A Stability Fee by 2 percentage points from 16.25% to **14.25%**.
 - Reduce WBTC-B Stability Fee by 2 percentage points from 16.75% to **14.75%**.
 - Reduce WBTC-C Stability Fee by 2 percentage points from 16.00% to **14.00%**.
-- Reduce ALLOCATOR-SPARK-A Stability Fee by 2.60 percentage points from 5.37% to **2.77%**.
+- Reduce ALLOCATOR-SPARK-A Stability Fee by 4.04 percentage points from 5.37% to **1.33%**.
 
 #### [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) Adjustments
 
-- Reduce DSR by 3.25 percentage points from 11.25% to **8.00%**.
-- Reduce SSR by 3 percentage points from 12.50% to **9.50%**.
+- Reduce DSR by 4 percentage points from 11.25% to **7.25%**.
+- Reduce SSR by 3.75 percentage points from 12.50% to **8.75%**.
 
 ### Sweep Dai from PauseProxy to Surplus Buffer
 
