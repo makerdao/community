@@ -60,7 +60,7 @@ If this executive proposal passes, then the stability fees for multiple vaults a
 - Reduce WSTETH-B Stability Fee by 3 percentage points from 13.50% to **10.50%**.
 - Reduce WBTC-A Stability Fee by 2 percentage points from 16.25% to **14.25%**.
 - Reduce WBTC-B Stability Fee by 2 percentage points from 16.75% to **14.75%**.
-- Reduce WBTC-C Stability Fee by 2 percentage points from 16.00% to **14.00%**
+- Reduce WBTC-C Stability Fee by 2 percentage points from 16.00% to **14.00%**.
 - Reduce ALLOCATOR-SPARK-A Stability Fee by 2.60 percentage points from 5.37% to **2.77%**.
 
 #### [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) Adjustments
