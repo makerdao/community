@@ -87,7 +87,7 @@ If this executive proposal passes, then  **3 million USDS** will be transfered t
 - **Authorization**: [Atlas](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e)
 - **Proposal**: [$link_to_proposal]()
 
-If this executive proposal passes, then the following misaligment Whistleblower payments will be made, pursuit to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
+If this executive proposal passes, then the following misalignment whistleblower payments will be made, pursuant to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
 
 #### Payment List
 
