@@ -20,8 +20,8 @@ If this executive proposal passes, the following **actions** will occur within t
 - Emergency Spells will be added to the Chainlog.
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
 - The DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
-- **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to fund the Intergration Boost.
-- **$USDS_AMOUNT** will be transferred to two misalignment whistleblower at $address_with_link and $address_with_link.
+- **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to fund the Integration Boost.
+- **$1,000 USDS** will be transferred to a misalignment whistleblower at [0xa6e8772af29b29B9202a073f8E36f447689BEef6](https://etherscan.io/address/0xa6e8772af29b29B9202a073f8E36f447689BEef6).
 - A Spark Proxy spell at [0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0](https://etherscan.io/address/0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0#code) will be triggered. 
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
@@ -81,19 +81,14 @@ If this executive proposal passes, then the DAI balance of the [PauseProxy](http
 - **Authorization**: [Atlas](https://sky-atlas.powerhouse.io/A.5.2.1.2_Integration_Boost/129f2ff0-8d73-8057-850b-d32304e9c91a|8d5a9e88cf49)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-integration-boost-budget-a-5-2-1-2/25536/5)
 
-If this executive proposal passes, then **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to continue funding the Intergration Boost initiative.
+If this executive proposal passes, then **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to continue funding the Integration Boost initiative.
 
-### Whistleblower Payments
+### Whistleblower Payment
 
 - **Authorization**: [Atlas](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e)
-- **Proposal**: [$link_to_proposal]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/whistleblower-bounty-and-ad-penalty-for-misalignment/25911)
 
-If this executive proposal passes, then the following misalignment whistleblower payments will be made, pursuant to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
-
-#### Payment List
-
-- $USDS_amount to $whistleblower1_address_link
-- $USDS_amount to $whistleblower2_address_link
+If this executive proposal passes, then a misalignment whistleblower payment of **1,000 USDS** will be transferred to GFX Labs at[0xa6e8772af29b29B9202a073f8E36f447689BEef6](https://etherscan.io/address/0xa6e8772af29b29B9202a073f8E36f447689BEef6), pursuant to [A1.5.19](https://sky-atlas.powerhouse.io/A.1.5.19_Whistleblower_Bounty/fb2de9a9-8154-46b8-9631-a5dda875921e|0db3af4e955e).
 
 ### Spark Proxy Spell
 
