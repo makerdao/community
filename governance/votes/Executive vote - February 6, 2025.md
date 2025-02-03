@@ -20,7 +20,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
 - The DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
 - **3 million USDS** will be transfered to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to fund the Intergration Boost.
-- **$USDS_AMOUNT** will be transfered to two misalignment whistleblower at $address_with_link and $address_with_link.
+- **$USDS_AMOUNT** will be transferred to two misalignment whistleblower at $address_with_link and $address_with_link.
 - A Spark Proxy spell at [0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0](https://etherscan.io/address/0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0#code) will be triggered. 
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
