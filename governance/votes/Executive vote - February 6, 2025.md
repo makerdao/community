@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
+title: Template - [Executive Vote] Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
 summary: Add Emergency Spells to Chainlog, decrease stability fee and savings rates, sweep DAI in PauseProxy to the Surplus Buffer, fund Integration Boost, payments to alignment whistleblowers, trigger a Spark Proxy spell.
 date: 2025-02-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
+# [Executive Proposal] Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -17,9 +17,8 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-- Emergency Spells will be added to the Chainlog.
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
-- The DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
+- **406,451.52 DAI** in the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
 - **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to fund the Integration Boost.
 - **1,000 USDS** will be transferred to a misalignment whistleblower at [0xa6e8772af29b29B9202a073f8E36f447689BEef6](https://etherscan.io/address/0xa6e8772af29b29B9202a073f8E36f447689BEef6).
 - A Spark Proxy spell at [0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0](https://etherscan.io/address/0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0#code) will be triggered. 
@@ -36,18 +35,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Add Emergency Spells to Chainlog
-
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
-
-If this executive proposal passes, then the following Emergency Spells will be added to the Chainlog.
-
-#### $Emergency Spell List
-
 ### Rate Adjustments
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-6-2025-stability-scope-parameter-changes-21/25906/4)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/feb-6-2025-stability-scope-parameter-changes-21/25906/3)
 
 If this executive proposal passes, then the stability fees for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased as follows.
@@ -69,12 +59,12 @@ If this executive proposal passes, then the stability fees for multiple vaults a
 - Reduce DSR by 4 percentage points from 11.25% to **7.25%**.
 - Reduce SSR by 3.75 percentage points from 12.50% to **8.75%**.
 
-### Sweep Dai from PauseProxy to Surplus Buffer
+### Sweep DAI from PauseProxy to Surplus Buffer
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/24)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745/23)
 
-If this executive proposal passes, then the DAI balance of the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
+If this executive proposal passes, then **406,451.52 DAI** from the [default of the ConsolFreight Vault](https://forum.sky.money/t/consolfreight-rwa-003-cf4-drop-default/21745) in the [PauseProxy](https://etherscan.io/address/0xbe8e3e3618f7474f8cb1d074a26affef007e98fb) will be swept into the [Surplus Buffer](https://sky-atlas.powerhouse.io/A.3.5.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3%7C57ea2c54).
 
 ### Integration Boost Funding
 
@@ -128,9 +118,9 @@ Reduce the WBTC [liquidation threshold](https://sky-atlas.powerhouse.io/A.3.8.1.
 Update the ETH and BTC price feeds to the new version of [Aggor](https://github.com/chronicleprotocol/aggor) on SparkLend Ethereum on the following markets:
 
 - ETH: [0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6](https://etherscan.io/address/0x2750e4CB635aF1FCCFB10C0eA54B5b5bfC2759b6)
-- wstETH: To be deployed
-- weETH: To be deployed
-- rETH: To be deployed
+- wstETH: [0xE98d51fa014C7Ed68018DbfE6347DE9C3f39Ca39](https://etherscan.io/address/0xE98d51fa014C7Ed68018DbfE6347DE9C3f39Ca39)
+- weETH: [0xBE21C54Dff3b2F1708970d185aa5b0eEB70556f1](https://etherscan.io/address/0xBE21C54Dff3b2F1708970d185aa5b0eEB70556f1)
+- rETH: [0xFDdf8D19D092839A26b31365c927cA236B5086cf](https://etherscan.io/address/0xFDdf8D19D092839A26b31365c927cA236B5086cf)
 - cbBTC: [0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537](https://etherscan.io/address/0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537)
 
 ## Review
