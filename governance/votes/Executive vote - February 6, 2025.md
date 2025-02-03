@@ -96,7 +96,7 @@ If this executive proposal passes, then the following misaligment Whistleblower 
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Ecosystem Authoriztion](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888/3), Governance Polls [1184](https://vote.makerdao.com/polling/QmUMkWLQ); [1185](https://vote.makerdao.com/polling/QmTfntSm); [1186](https://vote.makerdao.com/polling/QmWCe4JD); [1187](https://vote.makerdao.com/polling/QmbSANrr); [1188](https://vote.makerdao.com/polling/QmRKhzad)
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888/3), Governance Polls [1184](https://vote.makerdao.com/polling/QmUMkWLQ); [1185](https://vote.makerdao.com/polling/QmTfntSm); [1186](https://vote.makerdao.com/polling/QmWCe4JD); [1187](https://vote.makerdao.com/polling/QmbSANrr); [1188](https://vote.makerdao.com/polling/QmRKhzad)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/feb-6-2025-proposed-changes-to-spark-for-upcoming-spell-actual/25888)
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0](https://etherscan.io/address/0xD5c59b7c1DD8D2663b4c826574ed968B2C8329C0#code) with the following contents.
