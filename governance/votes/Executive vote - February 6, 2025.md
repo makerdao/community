@@ -5,7 +5,7 @@ date: 2025-02-06T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Sproxy Spell - February 6, 2025
+# [Executive Proposal] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
