@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Sproxy Spell - February 6, 2025
+title: Template - [Executive Vote] Add Emergency Spells, Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
 summary: Add Emergency Spells to Chainlog, decrease stability fee and savings rates, sweep DAI in PauseProxy to the Surplus Buffer, fund Integration Boost, payments to alignment whistleblowers, trigger a Spark Proxy spell.
 date: 2025-02-06T00:00:00.000Z
 address: "$spell_address"
