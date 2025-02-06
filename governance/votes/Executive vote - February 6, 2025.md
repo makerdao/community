@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
 summary: Decrease stability fee and savings rates, sweep DAI in PauseProxy to the Surplus Buffer, distribute Integration Boost funding, payment to alignment whistleblower, trigger a Spark Proxy spell.
 date: 2025-02-06T00:00:00.000Z
-address: "$spell_address"
+address: "0x1695fa1674eFf5DAa1C579246038cc81bE26Ffa7"
 
 ---
 # [Executive Proposal] Rate Adjustments, Sweep PauseProxy DAI, Integration Boost Funding, Whistleblower Payments, Spark Proxy Spell - February 6, 2025
