@@ -4768,5 +4768,34 @@
     "high-impact",
     "oracle-feed",
     "spark"
+  ],
+  "1189": [
+    "high-impact",
+    "endgame"
+  ],
+  "1190": [
+    "high-impact",
+    "risk-parameter",
+    "psm",
+    "spark"
+  ],
+  "1191": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1192": [
+    "medium-impact",
+    "spark"
+  ],
+  "1193": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1194": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
