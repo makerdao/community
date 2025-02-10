@@ -44,7 +44,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 
 - If the winner represents a change from the status quo, this change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
 **If no option has enough votes to exceed 50% of the total votes cast, then no further actions will be taken at this time.**
 
