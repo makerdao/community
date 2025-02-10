@@ -29,14 +29,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-* Increase the ALLOCATOR-SPARK-A [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) by 4 billion USDS from 1 billion USDS to **5 billion USDS**.
-* Increase the ALLOCATOR-SPARK-A [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)/c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb) by 400 million USDS from 100 million USDS to **500 million USDS**.
+- Increase the ALLOCATOR-SPARK-A [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) by 4 billion USDS from 1 billion USDS to **5 billion USDS**.
+- Increase the ALLOCATOR-SPARK-A [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)/c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb) by 400 million USDS from 100 million USDS to **500 million USDS**.
 
 Please review the discussion [thread](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951) to help inform your position before voting.
 
 ## Outcomes
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+
 * This change will be included in an upcoming Executive Vote.
 * It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 * If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
