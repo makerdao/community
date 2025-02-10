@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Mint Additional sUSDS to Base - February 10, 2025
-summary: Signal your support or opposition to minting additional sUSDS to Base to accomodate growth.
+summary: Signal your support or opposition to minting additional sUSDS to Base to accommodate growth.
 discussion_link: https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951
 parameters:
     input_format: single-choice

@@ -1,6 +1,6 @@
 ---
 title: Sparklend Ethereum - Increase weETH Supply Cap Parameters - February 10, 2025
-summary: Signal your support or opposition to the proposed suuply cap parameter changes for weETH on SparkLend on mainnet.
+summary: Signal your support or opposition to the proposed supply cap parameter changes for weETH on SparkLend on mainnet.
 discussion_link: https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951
 parameters:
     input_format: single-choice

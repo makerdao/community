@@ -17,7 +17,7 @@ end_date: 2025-02-13T16:00:00
 ---
 # Poll: Spark Liquidity Layer Mainnet and Arbitrum - Onboard Arbitrum One to the Spark Liquidity Layer - February 10, 2025
 
-The Governance Faciitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, February 10 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, February 10 at 16:00 UTC.
 
 **This is a binary vote.**
 - **You may vote for a single option.**
