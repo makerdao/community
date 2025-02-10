@@ -26,7 +26,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding Arbirtrum One to the Spark Liquidity Layer with the following addresses and parameters:
+The community can vote in this poll to express support or opposition to onboarding Arbitrum One to the Spark Liquidity Layer with the following addresses and parameters:
 
 ### Addresses
 
