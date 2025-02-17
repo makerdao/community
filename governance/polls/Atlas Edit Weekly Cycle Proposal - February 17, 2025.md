@@ -1,7 +1,7 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - February 17, 2025
 summary: This proposal includes 1) updating documentation regarding Standby Spells, 2) updating The Spark Pre-launch Token Rewards, 3) incorporating Slope 1 spread parameter, 4) updating references to Emergency Process, 5) cleaning up provisions regarding sealing USDS generation risk parameters, 6) removing references to Season System, 7) cleaning Up Atlas Documents to prepare for JSON version.
-discussion_link: $https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-february-17-2025/25979
+discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-february-17-2025/25979
 parameters:
     input_format:
         type: single-choice
