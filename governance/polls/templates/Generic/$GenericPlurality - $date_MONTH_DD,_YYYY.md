@@ -19,7 +19,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: $GenericChange - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a plurality vote.**
 
