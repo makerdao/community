@@ -19,9 +19,10 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Poll: $GenericChange - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a plurality vote.**
+
 - **You may vote for a single option.**
 - **You should vote for the option that you prefer.**
 - **If you would accept any of the options you should vote 'Abstain'.**
@@ -29,26 +30,28 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 ## Review
 
 The community can vote in this poll to express support for one of the following options:
-* $A_Detailed
-* $B_Detailed
-* $C_Detailed
-* $D_Detailed
+
+- $A_Detailed
+- $B_Detailed
+- $C_Detailed
+- $D_Detailed
 
 Please review the discussion [thread]($discussion_link) to help inform your position before voting.
 
 ## Outcomes
 
 **The non-'Abstain' option with the most votes is deemed the winner and the following actions will be taken:**
-* If the winner represents a change from the status quo, this change will be included in an upcoming Executive Vote.
-* It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-* If the Executive Vote passes, then these changes will become active in the Maker Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
+
+- If the winner represents a change from the status quo, this change will be included in an upcoming Executive Vote.
+- It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
 ---
 
 ## Resources
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
-Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
+Additional information about the Governance process can be found in the [Operational Manual](https://manual.makerdao.com).
 
-To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
+To add current and upcoming votes to your calendar, please see the [Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
