@@ -4731,7 +4731,8 @@
   "1179": [
     "high-impact",
     "spark"
-  ],  "1180": [
+  ],
+  "1180": [
     "high-impact",
     "spark"
   ],
@@ -4797,5 +4798,13 @@
     "high-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1195": [
+    "high-impact",
+    "spark"
+  ],
+  "1196": [
+    "high-impact",
+    "endgame"
   ]
 }
