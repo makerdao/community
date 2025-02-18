@@ -56,7 +56,7 @@ If this executive proposal passes, then the [Stability Fees (SF)](https://sky-at
 
 ### Savings Rate Reductions
 
-- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972/3)
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003)
 
 If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and the [SKY Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59%7C57eab733e951) will be decreased as follows:
