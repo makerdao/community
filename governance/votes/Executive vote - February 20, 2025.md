@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Update Emergency Spell Keys in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
-summary: $summary
+title: Template - [Executive Vote] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
+summary: Rate adjustments (Stability Fee changes, DSR and SSR changes), initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM parameter changes, Standby Spell changes in the Chainlog, Aligned Delegate compensation for January 2025, Atlas Core Development payments, Integration Boost funding, Spark Proxy Spell execution.
 date: 2025-02-20T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Update Emergency Spell Keys in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
+# [Executive Proposal] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
 
 The Governance Facilitators and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -17,10 +17,10 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-- [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
+- [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be adjusted.
 - The Arbitrum Token Bridge will be initialized as described below.
-- Two Emergency Spell keys will be updated in the [Chainlog](https://chainlog.sky.money).
-- A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January, 2025.
+- Two Standby Spell keys will be updated and two Standyby Spells will be added in the [Chainlog](https://chainlog.sky.money).
+- A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January 2025.
 - A total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors.
 - A total of **3 million USDS** for Integration Boost funding will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 - A Spark proxy spell will be executed.
@@ -37,12 +37,12 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### Stability Fee Reductions
+### Stability Fee Adjustments
 
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003)
 
-If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be decreased as follows:
+If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be adjusted as follows:
 
 - Reduce ETH-A SF by 2.00 percentage points from 9.75% to **7.75%**.
 - Reduce ETH-B SF by 2.00 percentage points from 10.25% to **8.25%**.
@@ -96,17 +96,23 @@ If this executive proposal passes, then the ALLOCATOR-SPARK-A DC-IAM parameters 
 - Increase DC-IAM [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.3_Maximum_Debt_Ceiling_Definition-e4a0d8f1-4a01-46a7-b693-a94e7f4afc1a|57ea599773d45150b2632df9) by 4 billion USDS from 1 billion USDS to **5 billion USDS**.
 - The [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/#A.3.4.1.5.1.1.5_Ceiling_Increase_Cooldown_Definition-3d5980c5-7036-4b68-93e0-a48551fe09ed|57ea599773d45150b2632df9) will remain unchanged at **24 hours**.
 
-### Emergency Spell Chainlog Update
+### Standby Spell Chainlog Changes
 
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), [Governance Poll 1196](https://vote.makerdao.com/polling/QmQW5mb1)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-february-17-2025/25979)
 
 If this executive proposal passes, then the [Chainlog](https://chainlog.sky.money) keys below will be updated as follows:
 
-- Update the value of `EMSP_CLIP_BREAKER_FAB` to [0x867852d30bb3cb1411fb4e404fae28ef742b1023](https://etherscan.io/address/0x867852d30bb3cb1411fb4e404fae28ef742b1023)
-- Update the value of `EMSP_LINE_WIPE_FAB` to [0x8646f8778b58a0df118facedf522181ba7277529](https://etherscan.io/address/0x8646f8778b58a0df118facedf522181ba7277529)
+- Update the value of Standby Spell key `EMSP_CLIP_BREAKER_FAB` to [0x867852d30bb3cb1411fb4e404fae28ef742b1023](https://etherscan.io/address/0x867852d30bb3cb1411fb4e404fae28ef742b1023)
+- Update the value of Standby Spell key `EMSP_LINE_WIPE_FAB` to [0x8646f8778b58a0df118facedf522181ba7277529](https://etherscan.io/address/0x8646f8778b58a0df118facedf522181ba7277529)
+- Add Standby Spell:
+  - key: `EMSP_LITE_PSM_HALT_FAB`
+  - value: [0xB261b73698F6dBC03cB1E998A3176bdD81C3514A](https://etherscan.io/address/0xB261b73698F6dBC03cB1E998A3176bdD81C3514A)
+- Add Standby Spell:
+  - key: `EMSP_SPLITTER_STOP`
+  - value: [0x12531afC02aC18a9597Cfe8a889b7B948243a60b](https://etherscan.io/address/0x12531afC02aC18a9597Cfe8a889b7B948243a60b)
 
-### Aligned Delegate Compensation for January
+### Aligned Delegate Compensation for January 2025
 
 - **Authorization**: [Atlas A.1.5.8](https://sky-atlas.powerhouse.io/A.1.5.8_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa%7C0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/january-2025-aligned-delegate-compensation/25993)
@@ -168,7 +174,7 @@ Minting an additional **100 million USDS worth of sUSDS** to Base.
 
 #### [Base] Increase PSM3 Rate Limits
 
-Changing to the PSM3 [rate limits]](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
+Changing to the PSM3 [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
 
 - Increase the USDC deposit rate limits from 4 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
 - Increase the USDC withdrawal rate limits from 7 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
