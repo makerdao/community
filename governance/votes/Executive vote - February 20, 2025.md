@@ -98,7 +98,7 @@ If this executive proposal passes, then the ALLOCATOR-SPARK-A DC-IAM parameters 
 
 ### Standby Spell Chainlog Changes
 
-- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), [Governance Poll 1196](https://vote.makerdao.com/polling/QmQW5mb1)
+- **Authorization**: [Governance Poll 1196](https://vote.makerdao.com/polling/QmQW5mb1)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-february-17-2025/25979)
 
 If this executive proposal passes, then the [Chainlog](https://chainlog.sky.money) keys below will be updated as follows:
