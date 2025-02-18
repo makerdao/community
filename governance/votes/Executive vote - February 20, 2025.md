@@ -19,6 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be adjusted.
 - The Arbitrum Token Bridge will be initialized as described below.
+- The ALLOCATOR-SPARK-A DC-IAM Parameter will be adjusted as described below.
 - Two Standby Spell keys will be updated and two Standyby Spells will be added in the [Chainlog](https://chainlog.sky.money).
 - A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January 2025.
 - A total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors.
