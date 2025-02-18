@@ -57,7 +57,7 @@ If this executive proposal passes, then the [Stability Fees (SF)](https://sky-at
 ### Savings Rate Reductions
 
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972/3)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003)
 
 If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and the [SKY Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59%7C57eab733e951) will be decreased as follows:
 
@@ -167,7 +167,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 Minting an additional **100 million USDS worth of sUSDS** to Base.
 
-#### Mint an Additional 100 million USDS Worth of sUSDS to Base
+#### [Mainnet] Increase weETH Supply Cap Parameters
 
 - Increase the weETH [Supply Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition/78ec4709-3773-4f20-b3ef-d58d29f302c2%7C57eaf45219be6088aa1c4806) by 5,000 weETH from 5,000 weETH to **10,000 weETH**.
 - Increase the weETH [Supply Cap Maximum Absolute Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) by 300,000 weETH from 200,000 weETH to **500,000 weETH**.
