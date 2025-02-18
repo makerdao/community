@@ -71,19 +71,19 @@ If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky
 
 If this executive proposal passes, then the Arbitrum Token Bridge will be initialized Init Arbitrum Token Bridge by calling TokenGatewayInit.initGateways using the following parameters:
 
-- Set parameter `l1GatewayInstance.gateway`: (ERC1967Proxy: 0x84b9700E28B23F873b82c1BEb23d86C091b6079E)
-- Set parameter `l1GatewayInstance.gatewayImp`: (L1TokenGateway: 0x12eDe82637d5507026D4CDb3515B4b022Ed157b1)
-- Set parameter `l2GatewayInstance.gateway`: (ERC1967Proxy: 0x13F7F24CA959359a4D710D32c715D4bce273C793)
-- Set parameter `l2GatewayInstance.gatewayImp`: (L2TokenGateway: 0xD404eD36D6976BdCad8ABbcCC9F09ef07e33A9A8)
-- Set parameter `l2GatewayInstance.spell`: (L2TokenGatewaySpell: 0x3D4357c3944F7A5b6a0B5b67B36588BA45D3f49D)
-- Set parameter `cfg.l1Router`: (L1GatewayRouter (ERC1967Proxy): 0x72Ce9c846789fdB6fC1f34aC4AD25Dd9ef7031ef)
-- Set parameter `cfg.inbox`: (Inbox(ERC1967Proxy): 0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f)
-- Set parameter `cfg.l1Tokens`: (array [`USDS`, `SUSDS`])
-- Set parameter `cfg.l2Tokens`: (array [Usds(ERC1967Proxy): 0x6491c05A82219b8D1479057361ff1654749b876b, SUsds(ERC1967Proxy): 0xdDb46999F8891663a8F2828d25298f70416d7610])
-- Set parameter `cfg.maxWithdraws`: (array [type(uint256).max, type(uint256).max])
-- Set parameter `cfg.xchainMsg.maxGas`: 350000
-- Set parameter `cfg.xchainMsg.gasPriceBid`: 100000000
-- Set parameter `cfg.xchainMsg.maxSubmissionCost`: 1316000000000000
+- `l1GatewayInstance.gateway`: (ERC1967Proxy: 0x84b9700E28B23F873b82c1BEb23d86C091b6079E)
+- `l1GatewayInstance.gatewayImp`: (L1TokenGateway: 0x12eDe82637d5507026D4CDb3515B4b022Ed157b1)
+- `l2GatewayInstance.gateway`: (ERC1967Proxy: 0x13F7F24CA959359a4D710D32c715D4bce273C793)
+- `l2GatewayInstance.gatewayImp`: (L2TokenGateway: 0xD404eD36D6976BdCad8ABbcCC9F09ef07e33A9A8)
+- `l2GatewayInstance.spell`: (L2TokenGatewaySpell: 0x3D4357c3944F7A5b6a0B5b67B36588BA45D3f49D)
+- `cfg.l1Router`: (L1GatewayRouter (ERC1967Proxy): 0x72Ce9c846789fdB6fC1f34aC4AD25Dd9ef7031ef)
+- `cfg.inbox`: (Inbox(ERC1967Proxy): 0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f)
+- `cfg.l1Tokens`: (array [`USDS`, `SUSDS`])
+- `cfg.l2Tokens`: (array [Usds(ERC1967Proxy): 0x6491c05A82219b8D1479057361ff1654749b876b, SUsds(ERC1967Proxy): 0xdDb46999F8891663a8F2828d25298f70416d7610])
+- `cfg.maxWithdraws`: (array [type(uint256).max, type(uint256).max])
+- `cfg.xchainMsg.maxGas`: 350000
+- `cfg.xchainMsg.gasPriceBid`: 100000000
+- `cfg.xchainMsg.maxSubmissionCost`: 1316000000000000
 
 ### ALLOCATOR-SPARK-A DC-IAM Parameter Changes
 
