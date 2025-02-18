@@ -69,7 +69,7 @@ If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972/3), [Governance Poll 1194](https://vote.makerdao.com/polling/QmcicBXG)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972)
 
-If this executive proposal passes, then the Arbitrum Token Bridge will be initialized Init Arbitrum Token Bridge by calling TokenGatewayInit.initGateways using the following parameters:
+If this executive proposal passes, then the Arbitrum Token Bridge will be initialized by calling TokenGatewayInit.initGateways using the following parameters:
 
 - `l1GatewayInstance.gateway`: (ERC1967Proxy: 0x84b9700E28B23F873b82c1BEb23d86C091b6079E)
 - `l1GatewayInstance.gatewayImp`: (L1TokenGateway: 0x12eDe82637d5507026D4CDb3515B4b022Ed157b1)
