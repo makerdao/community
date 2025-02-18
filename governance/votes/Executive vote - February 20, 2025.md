@@ -7,7 +7,7 @@ address: "$spell_address"
 ---
 # [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
 
-The Governance Facilitators and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
+The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
 If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
@@ -159,8 +159,8 @@ If this executive proposal passes, then **3 million USDS** will be transferred t
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), Governance Polls [1190](https://vote.makerdao.com/polling/QmUEJbje), [1191](https://vote.makerdao.com/polling/Qmdr4yqX), [1192](https://vote.makerdao.com/polling/QmWQcu5A), [1194](https://vote.makerdao.com/polling/QmcicBXG), [1195](https://vote.makerdao.com/polling/QmWbSTxi)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951)
+- **Authorization**: [Ecosystem Authorization 1](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), [Ecosystem Authorization 2](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell-2/25961/5), Governance Polls [1190](https://vote.makerdao.com/polling/QmUEJbje), [1191](https://vote.makerdao.com/polling/Qmdr4yqX), [1192](https://vote.makerdao.com/polling/QmWQcu5A), [1194](https://vote.makerdao.com/polling/QmcicBXG), [1195](https://vote.makerdao.com/polling/QmWbSTxi)
+- **Proposal**: [Forum Post 1](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951), [Forum Post 2](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell-2/25961)
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x9EAa8d72BD731BE8eD71D768a912F6832492071e](https://etherscan.io/address/0x9EAa8d72BD731BE8eD71D768a912F6832492071e) with the following contents.
 
