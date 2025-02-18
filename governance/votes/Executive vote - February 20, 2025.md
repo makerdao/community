@@ -124,7 +124,7 @@ If this executive proposal passes, then a total of **20,387 USDS** will be distr
 
 ### Atlas Core Development Payments
 
-- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921/6)
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921/6), [Atlas Axis Authorization](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921/5)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921)
 
 If this executive proposal passes, then a total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors and their teams:
