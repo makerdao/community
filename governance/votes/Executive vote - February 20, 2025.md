@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Rate Adjustments, GSM Pause Delay Change, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Modify Emergency Spells in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Top-up of the Integration Boost, Spark Proxy Spell - February 20, 2025
+title: Template - [Executive Vote] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Update Emergency Spell Keys in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
 summary: $summary
-date: $YYYY-MM-DDT00:00:00.000Z
+date: 2025-02-20T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Rate Adjustments, GSM Pause Delay Change, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Modify Emergency Spells in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Top-up of the Integration Boost, Spark Proxy Spell - February 20, 2025
+# [Executive Proposal] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Update Emergency Spell Keys in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
 
 The Governance Facilitators and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -18,19 +18,18 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - [Stability Fees](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for multiple vaults and the [Savings Rates (DSR and SSR)](https://sky-atlas.powerhouse.io/A.4.3.1_Savings_Rates/5586fe33-b0af-41f0-9629-b1716c7c0967%7Cb3417d54) will be decreased.
-- The [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) will be ?.
 - The Arbitrum Token Bridge will be initialized as described below.
-- Two Emergency Spells will be updated in the [Chainlog](https://chainlog.sky.money).
+- Two Emergency Spell keys will be updated in the [Chainlog](https://chainlog.sky.money).
 - A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January, 2025.
 - A total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors.
-- ? Top-up Integration Boost.
+- A total of **3 million USDS** for Integration Boost funding will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 - A Spark proxy spell will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
 Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**30 hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
+This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
 
@@ -40,41 +39,34 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### Stability Fee Reductions
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003/2)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-stability-scope-parameter-changes-22/26003)
 
 If this executive proposal passes, then the [Stability Fees (SF)](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) for the vault types listed below will be decreased as follows:
 
-- Reduce ETH-A SF by TBC percentage points from 9.75% to TBC%.
-- Reduce ETH-B SF by TBC percentage points from 10.25% to TBC%.
-- Reduce ETH-C SF by TBC percentage points from 9.50% to TBC%.
-- Reduce WSTETH-A SF by TBC percentage points from 10.75% to TBC%.
-- Reduce WSTETH-B SF by TBC percentage points from 10.50% to TBC%.
-- Reduce WBTC-A SF by TBC percentage points from 14.25% to TBC%.
-- Reduce WBTC-B SF by TBC percentage points from 14.75% to TBC%.
-- Reduce WBTC-C SF by TBC percentage points from 14.00% to TBC%.
-- Reduce ALLOCATOR-SPARK-A SF by TBC percentage points from 1.33% to TBC%
+- Reduce ETH-A SF by 2.00 percentage points from 9.75% to **7.75%**.
+- Reduce ETH-B SF by 2.00 percentage points from 10.25% to **8.25%**.
+- Reduce ETH-C SF by 2.00 percentage points from 9.50% to **7.50%**.
+- Reduce WSTETH-A SF by 2.00 percentage points from 10.75% to **8.75%**.
+- Reduce WSTETH-B SF by 2.00 percentage points from 10.50% to **8.50%**.
+- Reduce WBTC-A SF by 1.50 percentage points from 14.25% to **12.75%**.
+- Reduce WBTC-B SF by 1.50 percentage points from 14.75% to **13.25%**.
+- Reduce WBTC-C SF by 1.50 percentage points from 14.00% to **12.50%**.
+- Increase ALLOCATOR-SPARK-A SF by 1.89 percentage points from 1.33% to **3.22%**.
 
 ### Savings Rate Reductions
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972/3)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972)
 
 If this executive proposal passes, then the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951) and the [SKY Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59%7C57eab733e951) will be decreased as follows:
 
-- Reduce DSR by TBC percentage points from 7.25% to TBC%.
-- Reduce SSR by TBC percentage points from 8.75% to TBC%.
-
-### GSM Pause Delay Change
-
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
-
-If this executive proposal passes, then the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0) will be ? by ? hours, from 30 hours to **? hours**.
+- Reduce DSR by 2.50 percentage points from 7.25% to **4.75%**.
+- Reduce SSR by 2.25 percentage points from 8.75% to **6.50%**.
 
 ### Arbitrum Token Bridge Initialization
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972/3), [Governance Poll 1194](https://vote.makerdao.com/polling/QmcicBXG)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-of-the-arbitrum-token-gateway-launch/25972)
 
 If this executive proposal passes, then the Arbitrum Token Bridge will be initialized Init Arbitrum Token Bridge by calling TokenGatewayInit.initGateways using the following parameters:
@@ -95,7 +87,7 @@ If this executive proposal passes, then the Arbitrum Token Bridge will be initia
 
 ### ALLOCATOR-SPARK-A DC-IAM Parameter Changes
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), [Governance Poll 1193](https://vote.makerdao.com/polling/QmXpKEFg)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951)
 
 If this executive proposal passes, then the ALLOCATOR-SPARK-A DC-IAM parameters below will be changed as follows:
@@ -106,7 +98,7 @@ If this executive proposal passes, then the ALLOCATOR-SPARK-A DC-IAM parameters 
 
 ### Emergency Spell Chainlog Update
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), [Governance Poll 1196](https://vote.makerdao.com/polling/QmQW5mb1)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-february-17-2025/25979)
 
 If this executive proposal passes, then the [Chainlog](https://chainlog.sky.money) keys below will be updated as follows:
@@ -132,7 +124,7 @@ If this executive proposal passes, then a total of **20,387 USDS** will be distr
 
 ### Atlas Core Development Payments
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921/6)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-core-development-payment-requests-february-2025/25921)
 
 If this executive proposal passes, then a total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors and their teams:
@@ -151,19 +143,75 @@ If this executive proposal passes, then a total of **102,436 USDS** and **988,00
 | BLUE        | 550,000 SKY | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
 | Cloaky      | 438,000 SKY | [0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) |
 
-### Top-up of the Integration Boost
+### Integration Boost Funding
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [Forum Post]()
+- **Authorization**: [Atlas A.5.2.1.2](https://sky-atlas.powerhouse.io/A.5.2.1.2_Integration_Boost/129f2ff0-8d73-8057-850b-d32304e9c91a%7C8d5a9e88cf49)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-integration-boost-budget-a-5-2-1-2/25536/6)
 
-If this executive proposal passes, then ?
+If this executive proposal passes, then **3 million USDS** will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7) to continue funding the Integration Boost initiative.
 
 ### Spark Proxy Spell
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [Forum Post]()
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951/6), Governance Polls [1190](https://vote.makerdao.com/polling/QmUEJbje), [1191](https://vote.makerdao.com/polling/Qmdr4yqX), [1192](https://vote.makerdao.com/polling/QmWQcu5A), [1194](https://vote.makerdao.com/polling/QmcicBXG), [1195](https://vote.makerdao.com/polling/QmWbSTxi)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/feb-20-2025-proposed-changes-to-spark-for-upcoming-spell/25951)
 
-If this executive proposal passes, then ?
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x9EAa8d72BD731BE8eD71D768a912F6832492071e](https://etherscan.io/address/0x9EAa8d72BD731BE8eD71D768a912F6832492071e) with the following contents.
+
+#### [Mainnet and Base] Mint $100M USDS Worth of sUSDS into Base
+
+Minting an additional **100 million USDS worth of sUSDS** to Base.
+
+#### Mint an Additional 100 million USDS Worth of sUSDS to Base
+
+- Increase the weETH [Supply Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.1_Cap_Automator_Target_Available_Exposure_Definition/78ec4709-3773-4f20-b3ef-d58d29f302c2%7C57eaf45219be6088aa1c4806) by 5,000 weETH from 5,000 weETH to **10,000 weETH**.
+- Increase the weETH [Supply Cap Maximum Absolute Exposure (`max`)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) by 300,000 weETH from 200,000 weETH to **500,000 weETH**.
+
+#### [Base] Increase PSM3 Rate Limits
+
+Changing to the PSM3 [rate limits]](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
+
+- Increase the USDC deposit rate limits from 4 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
+- Increase the USDC withdrawal rate limits from 7 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
+- Increase the USDS deposit rate limits from 5 million max, 2 million/day slope to **Unlimited**.
+- Increase the sUSDS deposit rate limits from 8 million max, 2 million/day slope to **Unlimited**.
+
+#### [Mainnet] Whitelist sUSDS for Deposit/Withdrawal
+
+Whitelisting sUSDS Deposit/Withdraw as follows:
+
+- sUSDS Deposit: **Unlimited**
+- sUSDS Withdraw: **Unlimited**
+
+#### Arbitrum Activation
+
+Onboarding Arbitrum One to the Spark Liquidity Layer with the following addresses and parameters:
+
+##### Addresses
+
+- Spark Governance: [0x65d946e533748A998B1f0E430803e39A6388f7a1](https://arbiscan.io/address/0x65d946e533748A998B1f0E430803e39A6388f7a1).
+- PSM3: [0x2B05F8e1cACC6974fD79A673a341Fe1f58d27266](https://arbiscan.io/address/0x2B05F8e1cACC6974fD79A673a341Fe1f58d27266).
+- SSR Oracle: [0xEE2816c1E1eed14d444552654Ed3027abC033A36](https://arbiscan.io/address/0xEE2816c1E1eed14d444552654Ed3027abC033A36).
+- ALM Controller: [0x77e11453a99a7770b04f7921FfccD3eE9761ba6c](https://arbiscan.io/address/0x77e11453a99a7770b04f7921FfccD3eE9761ba6c).
+- ALM Proxy: [0x92afd6F2385a90e44da3a8B60fe36f6cBe1D8709](https://arbiscan.io/address/0x92afd6F2385a90e44da3a8B60fe36f6cBe1D8709).
+- ALM Rate Limits: [0x19D08879851FB54C2dCc4bb32b5a1EA5E9Ad6838](https://arbiscan.io/address/0x19D08879851FB54C2dCc4bb32b5a1EA5E9Ad6838).
+- Freezer: [0x90D8c80C028B4C09C0d8dcAab9bbB057F0513431](https://arbiscan.io/address/0x90D8c80C028B4C09C0d8dcAab9bbB057F0513431).
+- Relayer: [0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB](https://arbiscan.io/address/0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB).
+
+##### Initial [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits)
+
+- CCTP Global: Unlimited
+- CCTP from Arbitrum to Ethereum: 50 million max, 25 million / day slope
+- CCTP from Ethereum to Arbitrum: 50 million max, 25 million / day slope (Rate Limit on Ethereum)
+- USDC Deposit: 50 million max, 50 million / day slope
+- USDC Withdraw: 50 million max, 50 million / day slope
+- USDS Deposit: Unlimited
+- USDS Withdraw: Unlimited
+- sUSDS Deposit: Unlimited
+- sUSDS Withdraw: Unlimited
+
+##### Initial Mint
+
+Mint an initial **100 million USDS** and **100 million USDS worth of sUSDS** to Arbitrum One.
 
 ## Review
 
