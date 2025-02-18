@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
-summary: Rate adjustments (Stability Fee changes, DSR and SSR changes), initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM parameter changes, Standby Spell changes in the Chainlog, Aligned Delegate compensation for January 2025, Atlas Core Development payments, Integration Boost funding, Spark Proxy Spell execution.
+title: Template - [Executive Vote] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
+summary: Adjust Stability Fees, DSR and SSR, initialize Arbitrum Token Bridge, adjust ALLOCATOR-SPARK-A DC-IAM parameters, modify Standby Spells in the Chainlog, pay Aligned Delegate compensation for January 2025, execute Atlas Core Development payments, distribute Integration Boost funding, trigger a Spark Proxy Spell.
 date: 2025-02-20T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Rate Adjustments, Initialize Arbitrum Token Bridge, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
+# [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
 
 The Governance Facilitators and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -174,7 +174,7 @@ Minting an additional **100 million USDS worth of sUSDS** to Base.
 
 #### [Base] Increase PSM3 Rate Limits
 
-Changing to the PSM3 [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
+Changing the PSM3 [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
 
 - Increase the USDC deposit rate limits from 4 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
 - Increase the USDC withdrawal rate limits from 7 million max, 2 million/day slope to **50 million max, 50 million/day slope**.
@@ -205,19 +205,19 @@ Onboarding Arbitrum One to the Spark Liquidity Layer with the following addresse
 
 ##### Initial [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits)
 
-- CCTP Global: Unlimited
-- CCTP from Arbitrum to Ethereum: 50 million max, 25 million / day slope
-- CCTP from Ethereum to Arbitrum: 50 million max, 25 million / day slope (Rate Limit on Ethereum)
-- USDC Deposit: 50 million max, 50 million / day slope
-- USDC Withdraw: 50 million max, 50 million / day slope
-- USDS Deposit: Unlimited
-- USDS Withdraw: Unlimited
-- sUSDS Deposit: Unlimited
-- sUSDS Withdraw: Unlimited
+- CCTP Global: **Unlimited**
+- CCTP from Arbitrum to Ethereum: **50 million max, 25 million / day slope**
+- CCTP from Ethereum to Arbitrum: **50 million max, 25 million / day slope (Rate Limit on Ethereum)**
+- USDC Deposit: **50 million max, 50 million / day slope**
+- USDC Withdraw: **50 million max, 50 million / day slope**
+- USDS Deposit: **Unlimited**
+- USDS Withdraw: **Unlimited**
+- sUSDS Deposit: **Unlimited**
+- sUSDS Withdraw: **Unlimited**
 
 ##### Initial Mint
 
-Mint an initial **100 million USDS** and **100 million USDS worth of sUSDS** to Arbitrum One.
+Minting an initial **100 million USDS** and **100 million USDS worth of sUSDS** to Arbitrum One.
 
 ## Review
 
