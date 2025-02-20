@@ -100,7 +100,7 @@ If this executive proposal passes, then the ALLOCATOR-SPARK-A DC-IAM parameters 
 
 ### Smart Burn Engine Liquidity Unwind
 
-- **Authorization**: [Ecosystem Authorization](?)
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/smart-burn-engine-liquidity-unwind/26027/3)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-liquidity-unwind/26027/1)
 
 If this executive proposal passes, then part of the Smart Burn Engine’s LP-held tokens will be unwound to the Pause Proxy by executing the following actions:
