@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
-summary: Adjust Stability Fees, DSR and SSR, initialize Arbitrum Token Bridge, adjust ALLOCATOR-SPARK-A DC-IAM parameters, unwind Smart Burn Engine liquidity, modify Standby Spells in the Chainlog, pay Aligned Delegate compensation for January 2025, execute Atlas Core Development payments, distribute Integration Boost funding, trigger a Spark Proxy Spell.
-date: 2025-02-20T00:00:00.000Z
+title: Template - [Executive Vote] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
+summary: Adjust Stability Fees, DSR and SSR, initialize Arbitrum Token Bridge, adjust ALLOCATOR-SPARK-A DC-IAM parameters, unwind Smart Burn Engine liquidity, change Smart Burn Engine parameters, modify Standby Spells in the Chainlog, pay Aligned Delegate compensation for January 2025, execute Atlas Core Development payments, distribute Integration Boost funding, trigger a Spark Proxy Spell.
+date: 2025-02-21T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 20, 2025
+# [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -21,6 +21,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - The Arbitrum Token Bridge will be initialized as described below.
 - The ALLOCATOR-SPARK-A DC-IAM Parameter will be adjusted as described below.
 - Part of the Smart Burn Engine’s LP-held tokens will be unwound to the Pause Proxy as described below.
+- Smart Burn Engine parameters will be changes as described below.
 - Two Standby Spell keys will be updated and two Standyby Spells will be added in the [Chainlog](https://chainlog.sky.money).
 - A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January 2025.
 - A total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors.
@@ -109,6 +110,20 @@ If this executive proposal passes, then part of the Smart Burn Engine’s LP-hel
 - 15 million protocol-owned funds will remain in the Smart Burn Engine.
 - The recovered SKY tokens will be sent to (and remain in) the Pause Proxy.
 - The USDS portion will subsequently be transferred from the Pause Proxy to the Surplus Buffer.
+
+### Smart Burn Engine Parameter Changes
+
+- **Authorization**: [Ecosystem Authorization](?)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033)
+
+If this executive proposal passes, then the Smart Burn Engine parameters below will be changed as follows:
+
+- [MCD Vow](https://etherscan.io/address/0xa950524441892a31ebddf91d3ceefa04bf454466):
+  - `hump` (trigger for surplus auctions once exceeded): **70 million DAI**
+  - `bump` (the lot size allocated per operation): **10,000 DAI**
+- [Splitter](https://etherscan.io/address/0xbf7111f13386d23cb2fba5a538107a73f6872bcf#readContract):
+  - `burn`: **100%** (All surplus is directed to burning)
+  - `hop` (minimum interval between consecutive `kick` operations): **876 seconds**
 
 ### Standby Spell Chainlog Changes
 
