@@ -21,7 +21,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - The Arbitrum Token Bridge will be initialized as described below.
 - The ALLOCATOR-SPARK-A DC-IAM Parameter will be adjusted as described below.
 - Part of the Smart Burn Engine’s LP-held tokens will be unwound to the Pause Proxy as described below.
-- Smart Burn Engine parameters will be changes as described below.
+- Smart Burn Engine parameters will be changed as described below.
 - Two Standby Spell keys will be updated and two Standyby Spells will be added in the [Chainlog](https://chainlog.sky.money).
 - A total of **20,387 USDS** will be distributed to six Aligned Delegates as compensation for January 2025.
 - A total of **102,436 USDS** and **988,000 SKY** will be transferred to two Atlas Core Development contributors.
