@@ -113,7 +113,7 @@ If this executive proposal passes, then part of the Smart Burn Engine’s LP-hel
 
 ### Smart Burn Engine Parameter Changes
 
-- **Authorization**: [Ecosystem Authorization](?)
+- **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033)
 
 If this executive proposal passes, then the Smart Burn Engine parameters below will be changed as follows:
