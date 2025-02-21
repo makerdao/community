@@ -5,7 +5,7 @@ date: 2025-02-21T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
+# [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
