@@ -122,7 +122,7 @@ If this executive proposal passes, then [the Smart Burn Engine parameters](https
   - `hump` (trigger for surplus auctions once exceeded): **70 million DAI**
   - `bump` (the lot size allocated per operation): **10,000 DAI**
 - [Splitter](https://etherscan.io/address/0xbf7111f13386d23cb2fba5a538107a73f6872bcf#readContract):
-  - `burn`: **100%** (All surplus is directed to burning)
+  - `burn`: **100%** (All surplus will be directed to burning)
   - `hop` (minimum interval between consecutive `kick` operations): **876 seconds**
 
 ### Standby Spell Chainlog Changes
