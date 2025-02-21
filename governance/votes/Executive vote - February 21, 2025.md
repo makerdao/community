@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Rate Adjustments, Arbitrum Token Bridge Initialization, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
 summary: Adjust Stability Fees, DSR and SSR, initialize Arbitrum Token Bridge, unwind Smart Burn Engine liquidity, change Smart Burn Engine parameters, adjust ALLOCATOR-SPARK-A DC-IAM parameters, modify Standby Spells in the Chainlog, pay Aligned Delegate compensation for January 2025, execute Atlas Core Development payments, distribute Integration Boost funding, trigger a Spark Proxy Spell.
 date: 2025-02-21T00:00:00.000Z
-address: "$spell_address"
+address: "0xDb220538E62e758e4802D94b5344fFab242e004f"
 
 ---
 # [Executive Proposal] Rate Adjustments, Arbitrum Token Bridge Initialization, Smart Burn Engine Liquidity Unwind, Smart Burn Engine Parameter Changes, ALLOCATOR-SPARK-A DC-IAM Parameter Changes, Standby Spell Changes in the Chainlog, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Funding, Spark Proxy Spell - February 21, 2025
