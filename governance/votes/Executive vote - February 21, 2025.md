@@ -96,7 +96,7 @@ If this executive proposal passes, then the Arbitrum Token Bridge will be initia
 If this executive proposal passes, then part of the Smart Burn Engine’s LP-held tokens will be unwound to the Pause Proxy by executing the following actions:
 
 - The `withdraw` function in the [UniV2PoolWithdraw](https://github.com/makerdao/univ2-pool-migrator/blob/9099c1ce2a80aa58146b2bdc603cc21edb2d6922/deploy/UniV2PoolWithdraw.sol#L52) script will be invoked.
-- 15 million protocol-owned funds will remain in the Smart Burn Engine.
+- 15 million USDS worth of protocol-owned LP tokens will remain in the SBE (7.5 million USDS & the equivalent amount in SKY).
 - The recovered SKY tokens will be sent to (and remain in) the Pause Proxy.
 - The USDS portion will subsequently be transferred from the Pause Proxy to the Surplus Buffer.
 
