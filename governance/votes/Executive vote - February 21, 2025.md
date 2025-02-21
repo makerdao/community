@@ -116,7 +116,7 @@ If this executive proposal passes, then part of the Smart Burn Engine’s LP-hel
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-feb-21-spell/26033)
 
-If this executive proposal passes, then the Smart Burn Engine parameters below will be changed as follows:
+If this executive proposal passes, then [the Smart Burn Engine parameters](https://sky-atlas.powerhouse.io/A.3.5.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5%7C57ea2c54) below will be changed as follows:
 
 - [MCD Vow](https://etherscan.io/address/0xa950524441892a31ebddf91d3ceefa04bf454466):
   - `hump` (trigger for surplus auctions once exceeded): **70 million DAI**
