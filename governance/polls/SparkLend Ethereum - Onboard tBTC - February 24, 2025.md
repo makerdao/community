@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Onboard tBTC - February 24, 2025
-summary: Signal your support or opposition to onboarding tBTC to SparkLend Ethereum.
+summary: Signal your support or opposition to onboarding Threshold BTC (tBTC) to SparkLend Ethereum.
 discussion_link: https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036
 parameters:
     input_format: single-choice
