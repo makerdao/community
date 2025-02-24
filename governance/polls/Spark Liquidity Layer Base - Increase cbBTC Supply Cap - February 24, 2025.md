@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Base - Spark USDC Morpho - Increase cbBTC Market Supply Cap - February 24, 2025
-summary: Signal your support or opposition to increasing the cbBTC Supply Cap on Spark Liquidity Layer Base.
+summary: Signal your support or opposition to increasing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho vault which forms part of the Spark Liquidity Layer on Base.
 discussion_link: https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036
 parameters:
     input_format: single-choice
