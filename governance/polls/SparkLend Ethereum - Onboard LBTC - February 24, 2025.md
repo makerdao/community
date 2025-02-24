@@ -29,6 +29,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the onboarding of Lombard BTC (LBTC) onto SparkLend Ethereum with the following parameters:
 
+### Collateral Parameters
+
 - [Optimal Utilization](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.11_Optimal_Utilization_Definition-7dd3b868-b5c1-4f16-b997-8fb35a971ab1|57eaf45219be608847d6): **45%**
 - [Base](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.13_Base_Rate_Definition-3ea70be9-6d09-4e25-8025-a0235dd71c28|57eaf45219be608847d6): **5%**
 - [Slope1](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.15_Slope_1_Definition-20c3c3c3-432e-48ac-8336-86b8345f920e|57eaf45219be608847d6): **15%**
@@ -55,6 +57,23 @@ The community can vote in this poll to express support or opposition to the onbo
 - Isolation Mode Debt Ceiling: **N/A**
 - Liquidation Protocol Fee: **10%**
 - [High Efficiency Mode (`Emode`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6) Category: **3**
+
+### Oracle Information
+
+- Oracle: BTCUSD Aggor
+- Contract: [0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537](https://etherscan.io/address/0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537#code)
+
+### BTC Corelated [Emode](https://docs.spark.fi/dev/sparklend/features/efficiency-mode-emode#efficiency-mode-emode-1)
+
+- [Emode Category](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6): **3**
+- [Loan to Value](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.4_LTV_Definition-e5d19de9-0eb7-4572-857c-e83d91d92c88|57eaf45219be608847d6): **85%**
+- [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **90%**
+- [Liquidation Bonus](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.7_Liquidation_Bonus_Definition-c5e7dbac-42f7-4c53-9e89-fa699cd9d5b5|57eaf45219be608847d6): **2%**
+
+Initial included assets:
+
+- cbBTC
+- LBTC
 
 Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-lbtc-collateral-on-sparklend-mainnet/26043) to help inform your position before voting.
 
