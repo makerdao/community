@@ -75,7 +75,7 @@ Initial included assets:
 - cbBTC
 - LBTC
 
-Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-lbtc-collateral-on-sparklend-mainnet/26043) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-lbtc-collateral-on-sparklend-mainnet/26043) to help inform your position before voting.
 
 ## Outcomes
 
