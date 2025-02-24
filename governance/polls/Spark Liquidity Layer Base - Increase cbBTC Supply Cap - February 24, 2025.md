@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to changing the cbBTC Supply Cap in the USDC Morpho vault with the following parameters:
 
-- Increase the cbBTC Supply Cap [Absolute Maximum Exposure (max)](https://sky-atlas.powerhouse.io/A.3.8.1.6.4.1.3_Cap_Automator_Absolute_Maximum_Exposure_Definition/a01eec5b-64d9-42fa-ae44-b27d22e14a42%7C57eaf45219be6088aa1c4806) from 10,000 cbBTC to **500 million cbBTC**.
+- Increase the cbBTC Supply Cap on cbBTC/USDC market [(0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)](https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc) from 100 million USDC to **500 million USDC**.
 
 Please review the discussion [thread](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036) to help inform your position before voting.
 
