@@ -62,7 +62,7 @@ Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-prop
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- Phoenix Labs will prepare a Spark spell to onboard tBTC onto SparkLend Ethereum with the specified parameters.
+- Phoenix Labs will facilitate preparation of a Spark spell to onboard tBTC onto SparkLend Ethereum with the specified parameters.
 - An upcoming Executive Vote will include a proposal to execute the Spark spell.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay) has expired.
