@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to changing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho Vault on Base with the following parameters:
 
-- Increase the cbBTC Supply Cap on cbBTC/USDC market [(0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)](https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc) from 100 million USDC to **500 million USDC**.
+- Increase the Supply Cap of the cbBTC/USDC market [(0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)](https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc) by 400 million USDC from 100 million USDC to **500 million USDC**.
 
 Please review the discussion [thread](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036) to help inform your position before voting.
 
