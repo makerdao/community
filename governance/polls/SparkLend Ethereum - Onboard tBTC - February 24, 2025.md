@@ -63,7 +63,7 @@ The community can vote in this poll to express support or opposition to the onbo
 - Oracle: BTCUSD Aggor
 - Contract: [0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537](https://etherscan.io/address/0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537#code)
 
-Please review the discussion [thread](https://forum.sky.money/t/jan-23-2025-proposed-changes-to-spark-for-upcoming-spell/25825) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-tbtc-on-sparklend-mainnet/26038) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-tbtc-on-sparklend-mainnet/26038) to help inform your position before voting.
 
 ## Outcomes
 
