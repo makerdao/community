@@ -63,7 +63,7 @@ The community can vote in this poll to express support or opposition to the onbo
 - Oracle: BTCUSD Aggor
 - Contract: [0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537](https://etherscan.io/address/0x4219aA1A99f3fe90C2ACB97fCbc1204f6485B537#code)
 
-### BTC Corelated [Emode](https://docs.spark.fi/dev/sparklend/features/efficiency-mode-emode#efficiency-mode-emode-1)
+### BTC Correlated [Emode](https://docs.spark.fi/dev/sparklend/features/efficiency-mode-emode#efficiency-mode-emode-1)
 
 - [Emode Category](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6): **3**
 - [Loan to Value](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.4_LTV_Definition-e5d19de9-0eb7-4572-857c-e83d91d92c88|57eaf45219be608847d6): **85%**
