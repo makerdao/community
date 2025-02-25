@@ -53,7 +53,7 @@
 
 - [ ] If yes, create a PR to the next-gen-atlas repository and for each item
 	- [ ] Ensure that new values are correctly listed in the [Sky Atlas.html](https://github.com/makerdao/next-gen-atlas/blob/main/Sky%20Atlas/Sky%20Atlas.html) document
-	- [ ] Request review of the PR from the reviewers of the executive proposal copy.
+- [ ] Request review of the PR from the reviewers of the executive proposal copy.
 
 ## Submission
 
