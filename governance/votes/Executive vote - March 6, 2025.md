@@ -73,7 +73,7 @@ As a result, a new vault called ALLOCATOR-NOVA-A will be created with the follow
 
 #### Chainlog Key Removal
 
-If this executive proposal passes, the newly created `PIP_ALLOCATOR_NOVA_A` key will be removed from the Chainlog.
+If this executive proposal passes, the newly created `PIP_ALLOCATOR_NOVA_A` key will be removed from the [Chainlog](https://chainlog.sky.money).
 
 #### Operator Approval
 
