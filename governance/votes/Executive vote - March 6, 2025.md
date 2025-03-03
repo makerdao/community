@@ -107,7 +107,7 @@ If this executive proposal passes, then the Smart Burn Engine `hop` parameter wi
 - **Authorization**: [Forum Post](https://forum.sky.money/t/march-6-2025-stability-scope-parameter-changes-23/26078/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-stability-scope-parameter-changes-23/26078)
 
-If this executive proposal passes, then the following rates changes will take place:
+If this executive proposal passes, then the following rate changes will take place:
 
 - Increase ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 0.52 percentage points from 3.22% to 3.74%.
 - Reduce the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 0.75 percentage points from 4.75% to 5.50%.
@@ -144,7 +144,7 @@ If this executive proposal passes, then the DssBlow2 contract deployed at [0x81E
 - **Authorization**: Governance Polls [1197](https://vote.makerdao.com/polling/QmQrGdQz), [1198](https://vote.makerdao.com/polling/QmfM4SBB), [1199](https://vote.makerdao.com/polling/QmbDzZ3F)  
 - **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
 
-If this executive proposal passes, then the Spark proxy spell located at [0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0](https://etherscan.io/address/0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0#code) will be triggred. The expected contents are:
+If this executive proposal passes, then the Spark proxy spell located at [0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0](https://etherscan.io/address/0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0#code) will be triggered. The expected contents are:
 
 #### [Mainnet] Onboard tBTC to SparkLend
 
