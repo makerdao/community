@@ -22,7 +22,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - 5 million USDS and 9,600,000 SKY will be distributed to the Launch Project.
 - 3 million USDS will be distributed to fund Integration Boosts.
 - DssBlow2 will be added to the Chainlog.
-- A Spark proxy spell at $spark_address will be triggered.
+- A Spark proxy spell at [0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0](https://etherscan.io/address/0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0#code) will be triggered.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -143,7 +143,7 @@ If this executive proposal passes, then the DssBlow2 contract deployed at [0x81E
 - **Authorization**: [Governance Poll 1](https://vote.makerdao.com/polling/QmbDzZ3F), [Governance Poll 2](https://vote.makerdao.com/polling/QmfM4SBB), [Governance Poll 3](https://vote.makerdao.com/polling/QmQrGdQz)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
 
-If this executive proposal passes, then the Spark proxy spell located at $spark_address will be triggred. The expected contents are:
+If this executive proposal passes, then the Spark proxy spell located at [0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0](https://etherscan.io/address/0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0#code) will be triggred. The expected contents are:
 
 #### [Mainnet] Onboard tBTC to SparkLend
 
