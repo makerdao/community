@@ -64,7 +64,7 @@ If this executive proposal passes, then [AllocatorInit.initilk](https://github.c
 - `cfg.allocatorProxy` - **`MCD_PAUSE_PROXY`** from the Chainlog.
 - `cfg.ilkRegistry` - **`ILK_REGISTRY`** from the Chainlog.
 
-This will create a new vault called ALLOCATOR-NOVA-A which will have the following parameters:
+As a result, a new vault called ALLOCATOR-NOVA-A will be created with the following parameters:
 
 - [Stability Fee](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.3_Stability_Fee/67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) - **0%**.
 - [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) - **60 million USDS**.
