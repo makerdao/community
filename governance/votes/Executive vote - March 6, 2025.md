@@ -134,7 +134,7 @@ If this executive proposal passes, then **3 million USDS** will be transferred t
 - **Authorization**: [Forum post](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-03-06/26063/3)
 - **Proposal**: [Forum post](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-03-06/26063)
 
-If this executive proposal passes, then the DssBlow2 contract deployed at [0x81EFc7Dd25241acd8E5620F177E42F4857A02B79](https://etherscan.io/address/0x81EFc7Dd25241acd8E5620F177E42F4857A02B79) will be added to the Chainlog as `MCD_BLOW2`.
+If this executive proposal passes, then the DssBlow2 contract deployed at [0x81EFc7Dd25241acd8E5620F177E42F4857A02B79](https://etherscan.io/address/0x81EFc7Dd25241acd8E5620F177E42F4857A02B79) will be added to the [Chainlog](https://chainlog.sky.money) as `MCD_BLOW2`.
 
 - Source code: https://github.com/makerdao/dss-blow2/blob/master/src/DssBlow2.sol
 - Audit: https://github.com/makerdao/dss-blow2/blob/master/audits/ChainSecurity_Sky_DSS_Blow2_audit.pdf
