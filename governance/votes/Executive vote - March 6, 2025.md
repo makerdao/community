@@ -20,7 +20,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - ALLOCATOR-NOVA-A will be initialized as described below.
 - The Smart Burn Engine `hop` parameter will be updated as described below.
 - Multiple rate changes will be made as described below.
-- 5 million USDS and 9,600,000 SKY will be distributed to the Launch Project.
+- **5 million USDS** and **9.6 million SKY** will be distributed to the Launch Project.
 - 3 million USDS will be distributed to fund Integration Boosts.
 - DssBlow2 will be added to the Chainlog.
 - A Spark proxy spell at [0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0](https://etherscan.io/address/0xBeA5FA2bFC4F6a0b6060Eb8EC23F25db8259cEE0#code) will be triggered.
