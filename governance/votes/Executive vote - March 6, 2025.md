@@ -101,12 +101,15 @@ If this executive proposal passes, then the Smart Burn Engine `hop` parameter wi
 
 - Increase the `hop` parameter by 1,284 seconds from 876 seconds to **2,160 seconds**.
 
-### Rate Changes TODO
+### Rate Changes
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Forum Postl](https://forum.sky.money/t/march-6-2025-stability-scope-parameter-changes-23/26078/2)
+- **Proposal**: [Forum Postl](https://forum.sky.money/t/march-6-2025-stability-scope-parameter-changes-23/26078)
 
-If this executive proposal passes, then $executive_entry_3_implications.
+If this executive proposal passes, then the following rates changes will take place:
+
+- Increase ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 0.52 percentage points from 3.22% to 3.74%.
+- Reduce the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 0.75 percentage points from 4.75% to 5.50%.
 
 ### Launch Project Funding
 
