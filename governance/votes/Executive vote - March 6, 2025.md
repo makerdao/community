@@ -225,7 +225,7 @@ Onboard LBTC to SparkLend on mainnet with the following parameters:
 - [Liquidation Threshold](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.5_Liquidation_Threshold_Definition-9170a423-fba1-4fbe-83c4-f55f2510a9db|57eaf45219be608847d6): **90%**
 - [Liquidation Bonus](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.7_Liquidation_Bonus_Definition-c5e7dbac-42f7-4c53-9e89-fa699cd9d5b5|57eaf45219be608847d6): **2%**
 
-###### Initial included assets:
+###### Initial Included Assets
 
 - cbBTC
 - LBTC
