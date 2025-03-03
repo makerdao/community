@@ -44,7 +44,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 #### Chainlog Key Update
 
-If this executive proposal passes, the Chainlog key `PIP_ALLOCATOR_SPARK_A` will be renamed to `PIP_ALLOCATOR`.
+If this executive proposal passes, the [Chainlog](https://chainlog.sky.money) key `PIP_ALLOCATOR_SPARK_A` will be renamed to `PIP_ALLOCATOR`.
 
 #### ALLOCATOR-NOVA-A Initialization
 
