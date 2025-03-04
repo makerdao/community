@@ -109,7 +109,7 @@ If this executive proposal passes, then the Smart Burn Engine `hop` parameter wi
 
 If this executive proposal passes, then the following rate changes will take place:
 
-- Increase ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 0.52 percentage points from 3.22% to 3.74%.
+- Increase ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 0.52 percentage points from 3.22% to **3.74%**.
 - Increase the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 0.75 percentage points from 4.75% to **5.50%**.
 
 ### Launch Project Funding
