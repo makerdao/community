@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] ALLOCATOR-NOVA-A Initialization, SBE Parameter Update, Rate Changes, Launch Project Funding, Integration Boost Funding, Add DssBlow2 to the Chainlog, Spark Proxy Spell - March 6, 2025
 summary: Initialize the ALLOCATOR-NOVA-A vault, update the Smart Burn Engine hop Parameter, update multiple rates, distribute funding for the Launch Project and Integration Boost, add DssBlow2 to the Chainlog, trigger a Spark proxy spell.
 date: 2025-03-06T00:00:00.000Z
-address: "$spell_address"
+address: "0x01cEBd4B43F3b4b03fd4E2a2c8ccc2303D4c4A9D"
 
 ---
 # [Executive Proposal] ALLOCATOR-NOVA-A Initialization, SBE Parameter Update, Rate Changes, Launch Project Funding, Integration Boost Funding, Add DssBlow2 to the Chainlog, Spark Proxy Spell - March 6, 2025
