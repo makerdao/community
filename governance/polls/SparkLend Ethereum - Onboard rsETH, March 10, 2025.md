@@ -56,7 +56,7 @@ The community can vote in this poll to express support or opposition to onboardi
 - Liquidation Protocol Fee: **10%**
 - [High Efficiency Mode (`Emode`)](https://sky-atlas.powerhouse.io/#A.3.8.1.5.1.6_High_Efficiency_Mode_Category_Definition-09de838a-b46c-4cdb-9467-adacdbcf4c00|57eaf45219be608847d6) Category: **0**
 
-Please review the discussion [thread](https://forum.sky.money/t/march-20-2025-proposed-changes-to-spark-for-upcoming-spell/26113) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-rseth-collateral-on-sparklend-mainnet/26115) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/march-20-2025-proposed-changes-to-spark-for-upcoming-spell/26113) and [Risk Assessment](https://forum.sky.money/t/risk-assessment-rseth-collateral-on-sparklend-mainnet/26115) to help inform your position before voting.
 
 ## Outcomes
 

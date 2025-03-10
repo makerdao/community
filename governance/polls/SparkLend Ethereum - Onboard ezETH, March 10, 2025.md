@@ -61,7 +61,7 @@ The community can vote in this poll to express support or opposition to onboardi
 - Oracle: `ezETH/ETH exchange rate (from contract) * ETHUSD market price`
 - Oracle Implementation: *To be added when available*
 
-Please review the discussion [thread](https://forum.sky.money/t/march-20-2025-proposed-changes-to-spark-for-upcoming-spell/26113) and [Risk Assesment](https://forum.sky.money/t/risk-assessment-ezeth-collateral-on-sparklend-mainnet/26114) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/march-20-2025-proposed-changes-to-spark-for-upcoming-spell/26113) and [Risk Assessment](https://forum.sky.money/t/risk-assessment-ezeth-collateral-on-sparklend-mainnet/26114) to help inform your position before voting.
 
 ## Outcomes
 
