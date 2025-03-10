@@ -72,7 +72,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:**
 
-- A Pull Request mirroring the proposal on Notion will be set up and merged.
+- A Pull Request mirroring the proposal on Notion will be set up and merged into The Atlas.
 
 ---
 
