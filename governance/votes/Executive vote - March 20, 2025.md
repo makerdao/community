@@ -260,6 +260,19 @@ Onboarding Aave USDC onto the Spark Liquidity Layer on Arbitrum with the followi
 - Withdrawals
   - `max amount`: **unlimited**
 
+#### [Spark Liquidity Layer Arbitrum] - Onboard Fluid sUSDS
+
+- **Authorization**: [Governance Poll 1202](https://vote.makerdao.com/polling/QmZbk3gD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/march-20-2025-proposed-changes-to-spark-for-upcoming-spell/26113)
+
+Onboarding Fluid sUSDS onto the Spark Liquidity Layer on Arbitrum with the following [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `max amount`: **10 million USDS worth of sUSDS**
+  - `slope`: **5 million USDS worth of sUSDS**
+- Withdrawals
+  `max amount`: **unlimited**
+
 #### [Spark Protocol Mainnet] - Onboard July USDe PT onto Morpho Spark DAI Vault
 
 - **Authorization**: [Governance Poll 1203](https://vote.makerdao.com/polling/QmXvuNAv)
