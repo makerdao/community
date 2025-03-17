@@ -24,7 +24,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - A total of **23,613 USDS** will be distributed to seven Aligned Delegated as compensation for February 2025.
 - Atlas Core Development payments totalling **86,639 USDS** and **618,000 SKY** will be distributed.
 - **3 million USDS** for Integration Boost funding will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
-- A Spark proxy spell at [?](https://etherscan.io/address/?#code) will be triggered.
+- A Spark proxy spell at [0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6](https://etherscan.io/address/0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6#code) will be triggered.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -41,7 +41,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 ### ETH and WSTETH Oracle Migration
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/2), [Governance Poll 1201](?)
-- **Proposal**: Forum posts [1](http://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/3), [2](https://forum.sky.money/t/technical-scope-of-the-eth-and-wsteth-oracles-migration/26128)
+- **Proposal**: Forum posts [1](http://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/), [2](https://forum.sky.money/t/technical-scope-of-the-eth-and-wsteth-oracles-migration/26128)
 
 If this executive proposal passes, then the following oracle changes will be made as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4):
 
@@ -103,7 +103,7 @@ If this executive proposal passes, then a total of **23,613 USDS** will be distr
 | PBG         | 3,429         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
 | Byteron     | 571           | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
 
-### Atlas Core Development Payments for February 2025
+### Atlas Core Development Payments
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/atlas-core-development-payment-requests-march-2025/26077/8), Atlas Axis Approvals [1](http://forum.sky.money/t/atlas-core-development-payment-requests-march-2025/26077/6), [2](http://forum.sky.money/t/atlas-core-development-payment-requests-march-2025/26077/7)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/atlas-core-development-payment-requests-march-2025/26077)
@@ -137,7 +137,7 @@ If this executive proposal passes, then the following Integration Boost funding 
 
 ### Spark Proxy Spell
 
-If this executive proposal passes, then a Spark Proxy Spell will be executed at [?](https://etherscan.io/address/?) with the following contents.
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6](https://etherscan.io/address/0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6) with the following contents.
 
 #### Increase the Spark Effective DAI and USDS Borrow Rate
 
