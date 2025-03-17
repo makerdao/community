@@ -64,7 +64,7 @@ If this executive proposal passes, then the following rate changes will take pla
 - Reduce WBTC-B Stability Fee by 1.75 percentage points from 13.25% to **11.50%**.
 - Reduce WBTC-C Stability Fee by 1.75 percentage points from 12.50% to **10.75%**.
 - Reduce ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 1.12 percentage points from 3.74% to **2.62%**.
-- Reduce the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 0.75 percentage points from 4.75% to **5.50%**.
+- Reduce the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 2.00 percentage points from 5.50% to **3.50%**.
 - Reduce the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 2.00 percentage points from 6.50% to **4.50%**.
 
 ### Smart Burn Engine `hop` Parameter Update
@@ -88,7 +88,7 @@ If this executive proposal passes, then the following distributions for Immunefi
 
 ### Aligned Delegate Compensation for February 2025
 
-- **Authorization**: [Atlas A.1.5.8](https://sky-atlas.powerhouse.io/A.1.5.8_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa%7C0db3af4ece0c)
+- **Authorization**: [Atlas A.1.5.6](https://sky-atlas.powerhouse.io/A.1.5.6_Budget_For_Prime_Delegate_Slots/e3e420fc-9b1f-4fdc-9983-fcebc45dd3aa|0db3af4ece0c)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/february-2025-aligned-delegate-compensation/26131)
 
 If this executive proposal passes, then a total of **23,613 USDS** will be distributed to seven Aligned Delegates and their teams as compensation for February 2025.
@@ -124,7 +124,7 @@ If this executive proposal passes, then a total of **86,639 USDS** and **618,000
 | Recipient | Amount (SKY) | Address                                                                                                               |
 |-----------|-------------:|-----------------------------------------------------------------------------------------------------------------------|
 | BLUE      | 330,000      | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
-| Cloaky    | 288,000      | [0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818](https://etherscan.io/address/0x869b6d5d8FA7f4FFdaCA4D23FFE0735c5eD1F818) |
+| Cloaky    | 288,000      | [0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) |
 
 ### Integration Boost Top-up
 
@@ -151,7 +151,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 - **Authorization**: [Governance Poll 1197](https://vote.makerdao.com/polling/QmQrGdQz)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
 
-- Increase the Supply Cap of the cbBTC/USDC market ([0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836](https://etherscan.io/address/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)) by 400 million USDC from 100 million USDC to **500 million USDC**.
+- Increase the Supply Cap of the cbBTC/USDC market ([0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836](https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc)) by 400 million USDC from 100 million USDC to **500 million USDC**.
 
 #### [SparkLend Ethereum] - Onboard LBTC
 
