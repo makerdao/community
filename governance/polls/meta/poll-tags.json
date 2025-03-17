@@ -4857,5 +4857,15 @@
     "high-impact",
     "collateral-onboard",
     "spark"
+  ],
+  "1207": [
+    "high-impact",
+    "oracle",
+    "technical"
+  ],
+  "1208": [
+    "medium-impact",
+    "surplus",
+    "risk-parameter"
   ]
 }
