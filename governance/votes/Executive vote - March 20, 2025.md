@@ -50,7 +50,7 @@ If this executive proposal passes, then the following oracle changes will be mad
 
 ### Rate Changes
 
-- **Authorization**: [Forum Post](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129/2)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129)
 
 If this executive proposal passes, then the following rate changes will take place:
@@ -69,7 +69,7 @@ If this executive proposal passes, then the following rate changes will take pla
 
 ### Smart Burn Engine `hop` Parameter Update
 
-- **Authorization**: [Forum post](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130/3)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130/3)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130)
 
 If this executive proposal passes, then the Smart Burn Engine `hop` parameter will be updated as follows:
