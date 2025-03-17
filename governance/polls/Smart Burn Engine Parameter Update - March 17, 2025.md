@@ -31,7 +31,6 @@ The community can vote in this poll to express support or opposition to the foll
 
 - Decrease `hop` for 432 seconds, from 2,160 seconds to **1,728 seconds**.
 
-
 Please review the discussion [thread](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130) to help inform your position before voting.
 
 ## Outcomes

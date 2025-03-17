@@ -1,6 +1,6 @@
 ---
 title: Migrate ETH and WSTETH Oracles - March 17, 2025
-summary: Signal your support or opposition to migrating ETH and WSTETH Oracles from the current Median-based design to Chronicle’s new Scribe-based design.
+summary: Signal your support or opposition to migrating ETH and WSTETH oracles from the current Median-based design to Chronicle’s new Scribe-based design.
 discussion_link: https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110
 parameters:
     input_format: single-choice
@@ -27,10 +27,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following [Oracle](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4) changes:
+The community can vote in this poll to express support or opposition to the following oracle changes as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4):
 
-- Update the ETH Oracle source to [0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E](https://etherscan.io/address/0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E).
-- Update the WSTETH Oracle source to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
+- Update the ETH oracle source to [0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E](https://etherscan.io/address/0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E).
+- Update the WSTETH oracle source to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
 
 Performance benchmarking analysis for Chronicle’s new Scribe-based design can be found [here](https://forum.sky.money/t/chronicle-s-oracle-benchmark-for-btc-usd-eth-usd-and-steth-usd/26109).
 
