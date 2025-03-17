@@ -29,7 +29,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to the [Smart Burn Engine](https://sky-atlas.powerhouse.io/A.3.6_Surplus_Buffer_and_Smart_Burn_Engine/c58d38dc-4b17-4c0a-a1df-546a06612c54%7C57ea):
 
-- Decrease `hop` for 432 seconds, from 2,160 seconds to **1,728 seconds**.
+- Decrease `hop` by 432 seconds, from 2,160 seconds to **1,728 seconds**.
 
 Please review the discussion [thread](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130) to help inform your position before voting.
 
