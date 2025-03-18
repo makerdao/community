@@ -164,7 +164,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 - Increase the spread between the SSR and the Spark Effective DAI and USDS borrow rate by ~0.25 percentage points, from ~0.25% to **~0.5%**. 
 
-This change will result in a net reduction to the Spark Effective Borrow Rate for USDS and DAI of ~1.75 percentage points, from ~6.75% to **~5%**.
+This change coupled with the SSR reduction in this spell will result in a net reduction to the Spark Effective Borrow Rate for USDS and DAI of ~1.75 percentage points, from ~6.75% to **~5%**.
 
 #### [Spark Liquidity Layer Base - Spark USDC Morpho] - Increase cbBTC Market Supply Cap
 
