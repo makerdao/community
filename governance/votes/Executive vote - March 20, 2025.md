@@ -40,7 +40,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### ETH and wstETH Oracle Migration
 
-- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/2), [Governance Poll 1201](?)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/2), [Governance Poll 1207](https://vote.makerdao.com/polling/QmV4uuru)
 - **Proposal**: Forum posts [1](http://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/), [2](https://forum.sky.money/t/technical-scope-of-the-eth-and-wsteth-oracles-migration/26128)
 
 If this executive proposal passes, then the following oracle changes will be made as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4):
@@ -55,6 +55,8 @@ If this executive proposal passes, then the following oracle changes will be mad
 
 If this executive proposal passes, then the following rate changes will take place:
 
+#### Stability Fee Changes
+
 - Reduce ETH-A [Stability Fee](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.3_Stability_Fee/67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) by 1.75 percentage points from 7.75% to **6.00%**.
 - Reduce ETH-B Stability Fee by 1.75 percentage points from 8.25% to **6.50%**.
 - Reduce ETH-C Stability Fee by 1.75 percentage points from 7.50% to **5.75%**.
@@ -63,16 +65,19 @@ If this executive proposal passes, then the following rate changes will take pla
 - Reduce WBTC-A Stability Fee by 1.75 percentage points from 12.75% to **11.00%**.
 - Reduce WBTC-B Stability Fee by 1.75 percentage points from 13.25% to **11.50%**.
 - Reduce WBTC-C Stability Fee by 1.75 percentage points from 12.50% to **10.75%**.
-- Reduce ALLOCATOR-SPARK-A [Stability Fee](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2) by 1.12 percentage points from 3.74% to **2.62%**.
+- Reduce ALLOCATOR-SPARK-A Stability Fee by 1.12 percentage points from 3.74% to **2.62%**.
+
+#### Savings Rate Changes
+
 - Reduce the [DAI Savings Rate (DSR)](https://sky-atlas.powerhouse.io/A.3.2.2.2_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53%7C57eab733e951) by 2.00 percentage points from 5.50% to **3.50%**.
 - Reduce the [Sky Savings Rate (SSR)](https://sky-atlas.powerhouse.io/A.3.2.2.3_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951) by 2.00 percentage points from 6.50% to **4.50%**.
 
 ### Smart Burn Engine `hop` Parameter Update
 
-- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130/3)
+- **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130/3), [Governance Poll 1208](https://vote.makerdao.com/polling/QmVrRf9L)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-march-20-spell/26130)
 
-If this executive proposal passes, then the Smart Burn Engine `hop` parameter will be updated as follows:
+If this executive proposal passes, then the Smart Burn Engine [`hop` parameter](https://sky-atlas.powerhouse.io/A.3.6.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5|57ea2c54) will be updated as follows:
 
 - Decrease the `hop` parameter by 432 seconds from 2,160 seconds to **1,728 seconds**.
 
@@ -233,7 +238,7 @@ Onboarding of Threshold BTC (tBTC) onto SparkLend Ethereum with the following pa
 - Reserve Factor: **20%**
 - Supply Cap: **125 tBTC**
 - Supply Cap Absolute Maximum Exposure (`max`): **500 tBTC**
-- Supply Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806): **125 tBTC**
+- Supply Cap Target Available Exposure (`gap`): **125 tBTC**
 - Supply Cap Automator Cooldown Period (`ttl`): **12 hours**
 - Borrow Cap: **25 tBTC**
 - Borrow Cap Absolute Maximum Exposure (`max`): **250 tBTC**
@@ -362,6 +367,10 @@ Onboarding rsETH onto SparkLend Ethereum with the following parameters:
 - High Efficiency Mode (`Emode`) Category: **0**
 
 The definition for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
+
+##### Oracle Information
+
+Please refer to [this forum post](https://forum.sky.money/t/risk-assessment-rseth-collateral-on-sparklend-mainnet/26115#p-101280-oracle-settings-and-price-deviation-risk-14).
 
 ## Review
 
