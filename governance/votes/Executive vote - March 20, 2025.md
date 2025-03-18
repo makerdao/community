@@ -343,7 +343,7 @@ The definitions for these parameters can be found [in the Atlas under 3.9, Measu
 ##### Oracle Information
 
 - Oracle: `ezETH/ETH exchange rate (from contract) * ETHUSD market price`
-- Oracle Implementation: *To be added when available*
+- Oracle Implementation: [0x52E85eB49e07dF74c8A9466D2164b4C4cA60014A](https://etherscan.io/address/0x52E85eB49e07dF74c8A9466D2164b4C4cA60014A)
 
 #### [SparkLend Ethereum] - Onboard rsETH
 
