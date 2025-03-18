@@ -157,12 +157,14 @@ If this executive proposal passes, then the following Integration Boost funding 
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6](https://etherscan.io/address/0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6) with the following contents.
 
-#### Increase the Spark Effective DAI and USDS Borrow Rate
+#### Increase the Spark Effective DAI and USDS Borrow Rate Spread
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129)
 
-- Increase the Spark Effective DAI and USDS borrow rate by ~0.25 percentage points, from ~0.25% to **~0.5%**.
+- Increase the spread between the SSR and the Spark Effective DAI and USDS borrow rate by ~0.25 percentage points, from ~0.25% to **~0.5%**. 
+
+This change will result in a net reduction to the Spark Effective Borrow Rate for USDS and DAI of ~1.75 percentage points, from ~6.75% to **~5%**.
 
 #### [Spark Liquidity Layer Base - Spark USDC Morpho] - Increase cbBTC Market Supply Cap
 
