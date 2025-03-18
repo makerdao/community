@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] ETH and WSTETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
-summary: ETH and WSTETH oracle migration to Chronicle's new Scribe-based design, multiple rate changes including DSR and SSR changes, Smart Burn Engine hop parameter update, bug bounty payout, Aligned Delegate compensation for February 2025, Atlas Core Development payments, Integration Boost funding distribution, Spark proxy spell. 
+title: Template - [Executive Vote] ETH and wstETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
+summary: ETH and wstETH oracle migration to Chronicle's new Scribe-based design, multiple rate changes including DSR and SSR changes, Smart Burn Engine hop parameter update, bug bounty payout, Aligned Delegate compensation for February 2025, Atlas Core Development payments, Integration Boost funding distribution, Spark proxy spell. 
 date: 2025-03-20T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] ETH and WSTETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
+# [Executive Proposal] ETH and wstETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -17,11 +17,11 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-- Sky's ETH and WSTETH oracles will be migrated from the current Median-based design to Chronicle's new Scribe-based design.
+- Sky's ETH and wstETH oracles will be migrated from the current Median-based design to Chronicle's new Scribe-based design.
 - Multiple rate changes will be made as described below.
 - The Smart Burn Engine `hop` parameter will be updated as described below.
 - A total of **55,000 USDS** for a Bug Bounty payout will be distributed as described below.
-- A total of **23,613 USDS** will be distributed to seven Aligned Delegated as compensation for February 2025.
+- A total of **23,613 USDS** will be distributed to seven Aligned Delegates as compensation for February 2025.
 - Atlas Core Development payments totalling **86,639 USDS** and **618,000 SKY** will be distributed.
 - **3 million USDS** for Integration Boost funding will be transferred to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 - A Spark proxy spell at [0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6](https://etherscan.io/address/0x1e865856d8F97FB34FBb0EDbF63f53E29a676aB6#code) will be triggered.
@@ -38,7 +38,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### ETH and WSTETH Oracle Migration
+### ETH and wstETH Oracle Migration
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/2), [Governance Poll 1201](?)
 - **Proposal**: Forum posts [1](http://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/), [2](https://forum.sky.money/t/technical-scope-of-the-eth-and-wsteth-oracles-migration/26128)
@@ -46,7 +46,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 If this executive proposal passes, then the following oracle changes will be made as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4):
 
 - Update the ETH oracle source to [0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E](https://etherscan.io/address/0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E).
-- Update the WSTETH oracle source to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
+- Update the wstETH oracle source to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
 
 ### Rate Changes
 
@@ -189,7 +189,7 @@ Onboarding of Lombard BTC (LBTC) onto SparkLend Ethereum with the following para
 - Liquidation Protocol Fee: **10%**
 - High Efficiency Mode (`Emode`) Category: **3**
 
-The definition for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
+The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
 
 ##### Oracle Information
 
@@ -232,7 +232,7 @@ Onboarding of Threshold BTC (tBTC) onto SparkLend Ethereum with the following pa
 - Liquidation Bonus: **8%**
 - Reserve Factor: **20%**
 - Supply Cap: **125 tBTC**
-- [Supply Cap Absolute Maximum Exposure (`max`): **500 tBTC**
+- Supply Cap Absolute Maximum Exposure (`max`): **500 tBTC**
 - Supply Cap Target Available Exposure (`gap`)](https://sky-atlas.powerhouse.io#A.3.8.1.5.4.1.1_Cap_Automator_Target_Available_Exposure_Definition-78ec4709-3773-4f20-b3ef-d58d29f302c2|57eaf45219be6088aa1c4806): **125 tBTC**
 - Supply Cap Automator Cooldown Period (`ttl`): **12 hours**
 - Borrow Cap: **25 tBTC**
@@ -244,7 +244,7 @@ Onboarding of Threshold BTC (tBTC) onto SparkLend Ethereum with the following pa
 - Liquidation Protocol Fee: **10%**
 - High Efficiency Mode (`Emode`) Category: **0**
 
-The definition for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
+The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
 
 ##### Oracle Information
 
@@ -320,7 +320,7 @@ Onboarding ezETH onto SparkLend Ethereum with the following parameters:
 - Liquidation Protocol Fee: **10%**
 - High Efficiency Mode (`Emode`) Category: **0**
 
-The definition for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
+The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8524).
 
 ##### Oracle Information
 
