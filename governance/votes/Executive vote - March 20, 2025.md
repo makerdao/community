@@ -347,7 +347,7 @@ Onboarding rsETH onto SparkLend Ethereum with the following parameters:
 - Enable Borrow: **NO**
 - Stable Rate Borrowing: **NO**
 - Isolation Borrowable: **NO**
-- Siloed Borrowing]: **NO**
+- Siloed Borrowing: **NO**
 - Flash Loan: **NO**
 - Loan To Value: **72%**
 - Liquidation Threshold: **73%**
