@@ -43,17 +43,30 @@ If this executive proposal does not pass within 30 days, then it will expire and
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/2), [Governance Poll 1207](https://vote.makerdao.com/polling/QmV4uuru)
 - **Proposal**: Forum posts [1](http://forum.sky.money/t/march-20-2025-final-native-vault-engine-oracle-migration-proposal-eth-steth/26110/), [2](https://forum.sky.money/t/technical-scope-of-the-eth-and-wsteth-oracles-migration/26128)
 
-If this executive proposal passes, then the following oracle changes will be made as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4):
+If this executive proposal passes, then the following oracle changes will be made as part of the migration process defined in [A.3.7.1.1.4, Oracles](https://sky-atlas.powerhouse.io/A.3.7.1.1.4_Oracles/c317d8c1-5706-4632-90a3-442b5f3d9000%7C57eaf45219bea3b4).
 
-- Update the ETH oracle source to [0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E](https://etherscan.io/address/0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E).
-- Update the wstETH oracle source to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
+#### ETH Oracle Migration
+
+The source of ETH/USD pricing for the ETH [Oracle Safety Module (OSM)](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation) will be updated to [0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E](https://etherscan.io/address/0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E).
+
+The relevant call for this action is:
+
+`OsmAbstract(PIP_ETH).change(0x46ef0071b1E2fF6B42d36e5A177EA43Ae5917f4E);`
+
+#### wstETH Oracle Migration
+
+The source of wstETH/USD pricing for the wstETH [Oracle Safety Module (OSM)](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation) will be updated to [0xA770582353b573CbfdCC948751750EeB3Ccf23CF](https://etherscan.io/address/0xA770582353b573CbfdCC948751750EeB3Ccf23CF).
+
+The relevant call for this action is:
+
+`OsmAbstract(PIP_WSTETH).change(0xA770582353b573CbfdCC948751750EeB3Ccf23CF);`
 
 ### Rate Changes
 
 - **Authorization**: [Ecosystem Approval](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129/2)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/mar-20-2025-stability-scope-parameter-changes-24/26129)
 
-If this executive proposal passes, then the following rate changes will take place:
+If this executive proposal passes, then the following rate changes will take place.
 
 #### Stability Fee Changes
 
