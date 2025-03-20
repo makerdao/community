@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] ETH and wstETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
 summary: ETH and wstETH oracle migration to Chronicle's new Scribe-based design, multiple rate changes including DSR and SSR changes, Smart Burn Engine hop parameter update, bug bounty payout, Aligned Delegate compensation for February 2025, Atlas Core Development payments, Integration Boost funding distribution, Spark proxy spell. 
 date: 2025-03-20T00:00:00.000Z
-address: "$spell_address"
+address: "0x2A0851A1eaf13b4816fd11B11b2e0060611932F4"
 
 ---
 # [Executive Proposal] ETH and wstETH Oracle Migration, Rate Changes, Smart Burn Engine Parameter Update, Bug Bounty Payout, Aligned Delegate Compensation, Atlas Core Development Payments, Integration Boost Top-up, Spark Proxy Spell - March 20, 2025
