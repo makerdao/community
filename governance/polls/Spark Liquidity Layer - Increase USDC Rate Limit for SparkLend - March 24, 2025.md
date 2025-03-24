@@ -1,6 +1,6 @@
 ---
-title: SparkLend Ethereum - Increase USDC Rate Limit for SparkLend - March 24, 2025
-summary: Signal your support or opposition to incresing the USDC rate limit on SparkLend Ethereum.
+title: Spark Liquidity Layer - Increase USDC Rate Limit for SparkLend - March 24, 2025
+summary: Signal your support or opposition to increasing the USDC rate limit on SparkLend Ethereum.
 discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2025-03-24T16:00:00
 end_date: 2025-03-27T16:00:00
 ---
-# Poll: SparkLend Ethereum - Increase USDC Rate Limit for SparkLend - March 24, 2025
+# Poll: Spark Liquidity Layer - Increase USDC Rate Limit for SparkLend - March 24, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, March 24 at 16:00 UTC.
 
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to increasing the USDC rate limit on SparkLend Ethereum as follows:
+The community can vote in this poll to express support or opposition to increasing USDC on the Spark Liquidity Layer on mainnet, with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **100 million USDC** (increase from 20 million)
