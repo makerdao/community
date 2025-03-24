@@ -30,15 +30,15 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to increasing the USDC supply/borrow caps on SparkLend Ethereum as follows:
 
 - Supply cap
-  - `gap` (target available exposure): **150 million USDC**
-  - `max` (absolute maximum exposure): **1 billion USDC** (increase from 60 million)
+  - `gap`: **150 million USDC**
+  - `max`: **1 billion USDC** (increase from 60 million)
 - Borrow cap
   - `gap`: **50 million USDC** (increase from 6 million)
   - `max`: **950 million USDC** (increase from 57 million)
 
- The `ttl` (cooldown) will remain unchanged at **12 hours** for both borrow and supply cap automators.
+ The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
 
-Please review the discussion [thread](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155) to help inform your position before voting.
+ The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters - Cap Automators](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8989). Please review the discussion [thread](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155) to help inform your position before voting.
 
 ## Outcomes
 
