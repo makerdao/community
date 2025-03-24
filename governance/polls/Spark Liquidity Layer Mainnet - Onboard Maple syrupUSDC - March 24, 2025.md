@@ -1,5 +1,5 @@
 ---
-title: Spark Liquidity Layer Mainnet - Grand Prix - Onboard Maple syrupUSDC - March 24, 2025
+title: Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC - March 24, 2025
 summary: Signal your support or opposition to onboarding Maple syrupUSDC to the Spark Liquidity Layer.
 discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2025-03-24T16:00:00
 end_date: 2025-03-27T16:00:00
 ---
-# Poll: Spark Liquidity Layer Mainnet - Grand Prix - Onboard Maple syrupUSDC - March 24, 2025
+# Poll: Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC - March 24, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, March 24 at 16:00 UTC.
 
