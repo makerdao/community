@@ -30,8 +30,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to increasing USDC on the Spark Liquidity Layer on mainnet, with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
-  - `Max amount`: **100 million USDC** (increase from 20 million)
-  - `Slope`: **50 million USDC per day** (increase from 10 million per day)
+  - `Max amount`: increase by 80 million USDC from 20 million USDC to **100 million USDC**
+  - `Slope`: increase by 40 million USDC per day from 10 million USDC per day to **50 million USDC per day**
 - Withdrawals
   - `Max amount`: **Unlimited**
 

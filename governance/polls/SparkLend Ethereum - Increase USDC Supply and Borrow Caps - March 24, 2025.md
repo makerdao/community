@@ -31,10 +31,10 @@ The community can vote in this poll to express support or opposition to increasi
 
 - Supply cap
   - `gap`: **150 million USDC**
-  - `max`: **1 billion USDC** (increase from 60 million)
+  - `max`: increase by 940 million USDC from 60 million USDC to **1 billion USDC**
 - Borrow cap
-  - `gap`: **50 million USDC** (increase from 6 million)
-  - `max`: **950 million USDC** (increase from 57 million)
+  - `gap`: increase by 44 million USDC from 6 million USDC to **50 million USDC**
+  - `max`: increase by 893 million USDC from 57 million UDSC to **950 million USDC**
 
  The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
 
