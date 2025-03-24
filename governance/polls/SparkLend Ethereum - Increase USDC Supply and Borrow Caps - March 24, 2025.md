@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Increase USDC Supply and Borrow Caps - March 24, 2025
-summary: Signal your support or opposition to increasing the USDC supply/borrow caps on SparkLend Ethereum.
+summary: Signal your support or opposition to increasing the USDC supply and borrow caps on SparkLend Ethereum.
 discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155
 parameters:
     input_format: single-choice
