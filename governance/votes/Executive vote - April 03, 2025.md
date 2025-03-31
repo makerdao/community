@@ -35,29 +35,62 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### ALLOCATOR-BLOOM-A Initialization
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Protocol Facilitator Approval](https://forum.sky.money/t/technical-scope-of-the-star-2-allocator-launch/26190/3)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-of-the-star-2-allocator-launch/26190)
 
-If this executive proposal passes, then $executive_entry_1_implications.
+#### Allocator Initialization Parameters
+
+If this executive proposal passes, then [AllocatorInit.initilk](https://github.com/makerdao/dss-allocator/blob/226584d3b179d98025497815adb4ea585ea0102d/deploy/AllocatorInit.sol#L97-L164) will be called with the following parameters:
+
+- `sharedInstance.oracle` - **PIP_ALLOCATOR** from chainlog.
+- `sharedInstance.roles` - **ALLOCATOR_ROLES** from chainlog.
+- `sharedInstance.registry` - **ALLOCATOR_REGISTRY** from chainlog.
+- `ilkInstance.owner` - **MCD_PAUSE_PROXY** from chainlog.
+- `ilkInstance.vault` - [**0x26512A41C8406800f21094a7a7A0f980f6e25d43**](https://etherscan.io/address/0x26512A41C8406800f21094a7a7A0f980f6e25d43) (`AllocatorVault` contract).
+- `ilkInstance.buffer` - [**0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd**](https://etherscan.io/address/0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd) (`AllocatorBuffer` contract).
+- `cfg.ilk` - **ALLOCATOR-BLOOM-A**
+- `cfg.duty` - **0**.
+- `cfg.gap` - **10 million USDS**.
+- `cfg.maxLine` - **10 million USDS**.
+- `cfg.ttl` - **86,400 seconds**.
+- `cfg.allocatorProxy` - [**0x1369f7b2b38c76B6478c0f0E66D94923421891Ba**](https://etherscan.io/address/0x1369f7b2b38c76B6478c0f0E66D94923421891Ba) (`SubProxy` contract).
+- `cfg.ilkRegistry` - **ILK_REGISTRY** from chainlog.
+
+As a result, a new vault called ALLOCATOR-NOVA-A will be created with the following parameters:
+
+- [Stability Fee](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.3_Stability_Fee/67e40a3b-f1c2-4dc6-b502-2affeab0b232|57eaf45219bea3b430c2) - **0%**.
+- [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6|57eaf45219bea3b430c268bb) - **10 million USDS**.
+- [Target Available Debt (`gap`)](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.4.2_Target_Available_Debt_(gap)/c1e17312-3744-4360-81f4-03564f0dd09d|57eaf45219bea3b430c268bb) - **10 million USDS**.
+- [Ceiling Increase Cooldown (`ttl`)](https://sky-atlas.powerhouse.io/A.3.7.1.1.2.4.3_Ceiling_Increase_Cooldown_(ttl)/58f5315f-938f-464c-b2d2-f611145d469a|57eaf45219bea3b430c268bb) - **86,400 seconds**.
+
+#### Chainlog Key Removal
+
+If this executive proposal passes, the newly created `PIP_ALLOCATOR_BLOOM_A` key will be removed from the [Chainlog](https://chainlog.sky.money).
+
+#### Add ALLOCATOR-BLOOM-A to the LineMom
+
+If this executive proposal passes, ALLOCATOR-BLOOM-A will be added to the [LineMom](https://sky-atlas.powerhouse.io/A.1.9.2.2.3_Debt_Ceiling_Breaker_Exception/8c27b081-2db5-4e8f-9b5c-f5cf0f8d3102|0db30758e055352c).
 
 ### Smart Burn Engine `hop` Parameter Update
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Governance Poll 1216](https://vote.makerdao.com/polling/Qmf3cZuM)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/smart-burn-engine-parameter-update-april-3-spell/26201)
 
-If this executive proposal passes, then $executive_entry_2_implications.
+If this executive proposal passes, then the Smart Burn Engine `hop` parameter will be updated as follows:
+
+- Reduce the `hop` parameter by 493 seconds from 1,728 seconds to **1,235 seconds**.
 
 ### Tokenization Grand Prix DAO Resolution Approval
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Stability Facilitator Approval](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154/2)  
+- **Proposal**: [Forum Post](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154)
 
-If this executive proposal passes, then $executive_entry_3_implications.
+If this executive proposal passes, the resolutions posted within IPFS hash [bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de](https://ipfs.io/ipfs/bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de) will be approved.
 
 ### Spark Proxy Spell
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: [Stability Facilitator Approval 1](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155/7)  
+- **Proposal**: [Forum Posts 1](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155), [2](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [$TBD]($Proxy_Spell_Link) with the following contents.
 
