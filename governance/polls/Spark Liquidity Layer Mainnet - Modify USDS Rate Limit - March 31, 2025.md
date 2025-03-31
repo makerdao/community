@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### Minting USDS
 
-  * Increase Max amount from 50 million USDS to **200 million USDS**.
+  * Increase Max amount by 150 million USDS from 50 million USDS to **200 million USDS**.
   * Increase Slope from 50 million USDS per day to **200 million USDS per day**.
 
 More information on Rate Limits can be found [here](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits).
