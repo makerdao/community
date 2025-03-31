@@ -4892,5 +4892,36 @@
     "high-impact",
     "risk-parameter",
     "spark"
+  ],
+  "1215": [
+    "high-impact",
+    "endgame"
+  ],
+  "1216": [
+    "medium-impact",
+    "surplus",
+    "risk-parameter"
+  ],
+  "1217": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1218": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1219": [
+    "high-impact",
+    "risk-parameter",
+    "psm",
+    "spark"
+  ],
+  "1220": [
+    "high-impact",
+    "risk-parameter",
+    "spark"
   ]
 }
