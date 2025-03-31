@@ -26,7 +26,7 @@ end_date: 2025-04-03T16:00:00
 ---
 # Atlas Edit Weekly Cycle Proposal - March 31, 2025
 
-The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate Julia Chang](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-03-10/26111/3). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on Monday, March 31 at 16:00 UTC.
+The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate Julia Chang](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-march-31-2025/26209/2). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on Monday, March 31 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -38,7 +38,7 @@ The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](ht
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/)
+- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/76)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-march-31-2025/26209)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
