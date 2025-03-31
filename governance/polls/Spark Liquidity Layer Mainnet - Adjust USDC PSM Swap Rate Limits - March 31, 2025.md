@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Adjust USDC PSM Swap Rate Limits - March 31, 2025
-summary: Signal your support or opposition to modifying the rate limits for Spark Liquidity Layer Mainnet USDS.
+summary: Signal your support or opposition to modifying the rate limits for Spark Liquidity Layer Mainnet USDC.
 discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203
 parameters:
     input_format: single-choice
