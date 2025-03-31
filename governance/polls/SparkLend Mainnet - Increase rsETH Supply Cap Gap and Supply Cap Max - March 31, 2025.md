@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to increasi
 
 - rsETh Supply Cap Parameters
   - Increase `gap` by 3,000 rsETH from 2,000 rsETH to **5,000 rsETH**.
-  - Increase `max`by 20,000 rsETH from 20,000 rsETH **40,000 rsETH**.
+  - Increase `max` by 20,000 rsETH from 20,000 to rsETH **40,000 rsETH**.
 
  The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters - Cap Automators](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8989). Please review the discussion [thread](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203) to help inform your position before voting.
 
