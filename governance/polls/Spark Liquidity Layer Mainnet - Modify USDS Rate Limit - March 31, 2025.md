@@ -15,7 +15,7 @@ options:
 start_date: 2025-03-31T16:00:00
 end_date: 2025-04-03T16:00:00
 ---
-# Poll: Spark Liquidity Layer Mainnet - Modify USDS Rate Limit - March 31, 2025
+# Poll: Spark Liquidity Layer Mainnet - Modify USDS Mint Rate Limits - March 31, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1) will be active for three days beginning on Monday, March 31 at 16:00 UTC.
 
