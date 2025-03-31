@@ -41,6 +41,8 @@ The community may vote in this poll to express support or opposition to the foll
 - [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/76)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-for-week-of-march-31-2025/26209)
 
+Please review the previous [Atlas Edit in Notion](https://www.notion.so/Public-Atlas-Edit-Weekly-Proposal-for-Agent-Launch-Week-of-2025-03-10-1aff2ff08d738081880fcdc15ceb12b0?pvs=21) for this Edit's changes to the `Conditions For The Pre-launch Token Rewards`, `Operational Process Definition`, and `Multi-Deployment Coordinator Document` sections.
+
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
 - ***Update Spark Pre-launch Token Rewards Figures** - Updates the token reward figures for Spark to reflect the 10 billion token total supply.*
