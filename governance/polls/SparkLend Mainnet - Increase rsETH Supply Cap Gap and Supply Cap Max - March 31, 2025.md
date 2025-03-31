@@ -1,7 +1,7 @@
 ---
 title: SparkLend Mainnet - Increase rsETH Supply Cap Gap and Supply Cap Max - March 31, 2025
 summary: Signal your support or opposition to increasing the rsETH supply cap gap and max on SparkLend Mainnet.
-discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155
+discussion_link: https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203
 parameters:
     input_format: single-choice
     victory_conditions:
