@@ -31,7 +31,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### USDC PSM Swap
 
-  * Increase Max amount from 50 million USDC to **200 million USDC**.
+  * Increase Max amount by 150 million USDC from 50 million USDC to **200 million USDC**.
   * Increase Slope from 50 million USDS per day to **200 million USDC per day**.
 
 More information on Rate Limits can be found [here](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits).
