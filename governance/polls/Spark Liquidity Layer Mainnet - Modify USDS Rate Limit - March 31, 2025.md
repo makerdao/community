@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following rate limit parameters for Spark Liquidity Layer Mainnet USDS:
+The community can vote in this poll to express support or opposition to the following rate limit parameters for Spark Liquidity Layer Mainnet USDS mints:
 
 ### Minting USDS
 
