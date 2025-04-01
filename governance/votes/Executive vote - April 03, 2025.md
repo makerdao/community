@@ -219,7 +219,7 @@ Update Morpho DAI vault Supply Caps as follows:
 - **Authorization**: [Governance Poll 1220](https://vote.makerdao.com/polling/QmY6tE6h)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
-Increasing the rsETH supply cap `gap` and `max` parameters on SparkLend Mainnet as follows:
+Increase the rsETH supply cap `gap` and `max` parameters on SparkLend Mainnet as follows:
 
 - Increase `gap` by 3,000 rsETH from 2,000 rsETH to **5,000 rsETH**.
 - Increase `max` by 20,000 rsETH from 20,000 rsETH to **40,000 rsETH**.
