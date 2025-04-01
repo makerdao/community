@@ -19,7 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - ALLOCATOR-BLOOM-A will be initialized as described below.
 - The Smart Burn Engine hop parameter will be updated as described below.
 - A DAO Resolution for the Spark Tokenization Grand Prix will be approved.
-- A Spark proxy spell at address [$TBD]($Proxy_Spell_Link) will be executed.
+- A Spark proxy spell at address [0x6B34C0E12C84338f494efFbf49534745DDE2F24b](https://etherscan.io/address/0x6B34C0E12C84338f494efFbf49534745DDE2F24b#code) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
@@ -49,7 +49,7 @@ If this executive proposal passes, then [AllocatorInit.initilk](https://github.c
 - `ilkInstance.vault` - [**0x26512A41C8406800f21094a7a7A0f980f6e25d43**](https://etherscan.io/address/0x26512A41C8406800f21094a7a7A0f980f6e25d43) (`AllocatorVault` contract).
 - `ilkInstance.buffer` - [**0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd**](https://etherscan.io/address/0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd) (`AllocatorBuffer` contract).
 - `cfg.ilk` - **ALLOCATOR-BLOOM-A**
-- `cfg.duty` - **0**.
+- `cfg.duty` - **0%**.
 - `cfg.gap` - **10 million USDS**.
 - `cfg.maxLine` - **10 million USDS**.
 - `cfg.ttl` - **86,400 seconds**.
@@ -89,11 +89,140 @@ If this executive proposal passes, the resolutions posted within IPFS hash [bafk
 
 ### Spark Proxy Spell
 
-- **Authorization**: [Stability Facilitator Approval 1](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155/7)  
+- **Authorization**: [Stability Facilitator Approval 1](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155/7), [2](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203/4)    
 - **Proposal**: [Forum Posts 1](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155), [2](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
-If this executive proposal passes, then a Spark Proxy Spell will be executed at [$TBD]($Proxy_Spell_Link) with the following contents.
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x6B34C0E12C84338f494efFbf49534745DDE2F24b](https://etherscan.io/address/0x6B34C0E12C84338f494efFbf49534745DDE2F24b#code) with the following contents.
 
+#### Spark Liquidity Layer - Increase USDC Rate Limit for SparkLend
+
+- **Authorization**: [Governance Poll 1209](https://vote.makerdao.com/polling/QmWQCbns)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Increasing USDC on the Spark Liquidity Layer on mainnet, with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: increase by 80 million USDC from 20 million USDC to **100 million USDC**
+  - `Slope`: increase by 40 million USDC per day from 10 million USDC per day to **50 million USDC per day**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+ 
+#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard BlackRock BUIDL-I
+
+- **Authorization**: [Governance Poll 1210](https://vote.makerdao.com/polling/QmSwQ6Wc)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Onboarding BUIDL-I to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **500 million USDC**
+  - `Slope`: **100 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+
+Token address: [0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041](https://etherscan.io/address/0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041)
+
+#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard Centrifuge JTRSY
+
+- **Authorization**: [Governance Poll 1211](https://vote.makerdao.com/polling/QmehvjH9)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Onboarding Centrifuge JTRSY to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **200 million USDC**
+  - `Slope`: **100 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+
+Token address: [0x8c213ee79581Ff4984583C6a801e5263418C4b86](https://etherscan.io/address/0x8c213ee79581Ff4984583C6a801e5263418C4b86)
+
+#### Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC
+
+- **Authorization**: [Governance Poll 1212](https://vote.makerdao.com/polling/QmSytTo4)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Onboarding Maple syrupUSDC to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **25 million USDC**
+  - `Slope`: **5 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+
+Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b)
+
+#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard Superstate USTB
+
+- **Authorization**: [Governance Poll 1213](https://vote.makerdao.com/polling/QmTE29em)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Onboarding Superstate USTB to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **300 million USDC**
+  - `Slope`: **100 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+
+Token address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io/address/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e)
+
+#### SparkLend Ethereum - Increase USDC Supply and Borrow Caps
+
+- **Authorization**: [Governance Poll 1214](https://vote.makerdao.com/polling/QmZGQhkG)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Increasing the USDC supply/borrow caps on SparkLend Ethereum as follows:
+
+- Supply cap
+  - `gap`: **150 million USDC**
+  - `max`: increase by 940 million USDC from 60 million USDC to **1 billion USDC**
+- Borrow cap
+  - `gap`: increase by 44 million USDC from 6 million USDC to **50 million USDC**
+  - `max`: increase by 893 million USDC from 57 million UDSC to **950 million USDC**
+
+ The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
+
+#### Spark Liquidity Layer Mainnet - Modify USDS Mint Rate Limits
+
+- **Authorization**: [Governance Poll 1218](https://vote.makerdao.com/polling/QmNZVfSq)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
+
+Increasing rate limit parameters for Spark Liquidity Layer Mainnet USDS mints:
+
+- Increase Max amount by 150 million USDS from 50 million USDS to **200 million USDS**.
+- Increase Slope by 150 million USDS from 50 million USDS per day to **200 million USDS per day**.
+
+#### Spark Liquidity Layer Mainnet - Adjust USDC PSM Swap Rate Limits
+
+- **Authorization**: [Governance Poll 1219](https://vote.makerdao.com/polling/QmT87a3p)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
+
+Increasing rate limit parameters for Spark Liquidity Layer Mainnet USDC PSM Swap:
+
+- Increase Max amount by 150 million USDC from 50 million USDC to **200 million USDC**.
+- Increase Slope by 150 million USDC from 50 million USDC per day to **200 million USDC per day**.
+
+#### SparkLend Mainnet - Update Morpho DAI Vault Supply Caps
+
+- **Authorization**: [Governance Poll 1217](https://vote.makerdao.com/polling/QmXAJTvs)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
+
+Updating Morpho DAI vault Supply Caps as follows:
+
+- Decrease [PT-USDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/ab0dcab71e65c05b7f241ea79a33452c87e62db387129e4abe15e458d433e4d8) Supply Cap by 100 million DAI from 100 million DAI to **0 DAI**.
+- Decrease [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap by 500 million DAI from 500 million DAI to **0 million DAI**.
+- Increase [PT-sUSDe-29May2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/ae4571cdcad4191b9a59d1bb27a10a1b05c92c84fe423e4886d5781a30a9c8f1) Supply Cap by 200 million DAI from 200 million DAI to **400 million DAI**.
+
+#### SparkLend Mainnet - Increase rsETH Supply Cap Gap and Supply Cap Max
+
+- **Authorization**: [Governance Poll 1220](https://vote.makerdao.com/polling/QmY6tE6h)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
+
+Increasing the rsETH supply cap `gap` and `max` parameters on SparkLend Mainnet as follows:
+
+- Increase `gap` by 3,000 rsETH from 2,000 rsETH to **5,000 rsETH**.
+- Increase `max` by 20,000 rsETH from 20,000 rsETH to **40,000 rsETH**.
 
 ## Review
 
