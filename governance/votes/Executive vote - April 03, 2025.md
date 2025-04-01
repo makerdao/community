@@ -99,7 +99,7 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 - **Authorization**: [Governance Poll 1209](https://vote.makerdao.com/polling/QmWQCbns)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
 
-Increasing USDC on the Spark Liquidity Layer on mainnet, with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+Increase USDC rate limits for SparkLend in the Spark Liquidity Layer on mainnet, with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: increase by 80 million USDC from 20 million USDC to **100 million USDC**
