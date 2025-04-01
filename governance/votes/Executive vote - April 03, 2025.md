@@ -85,7 +85,7 @@ If this executive proposal passes, then the Smart Burn Engine `hop` parameter wi
 - **Authorization**: [Stability Facilitator Approval](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154/2)  
 - **Proposal**: [Forum Post](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154)
 
-If this executive proposal passes, the resolutions posted within IPFS hash [bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de](https://ipfs.io/ipfs/bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de) will be approved.
+If this executive proposal passes, the DAO Resolution with IPFS hash [bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de](https://ipfs.io/ipfs/bafkreidmumjkch6hstk7qslyt3dlfakgb5oi7b3aab7mqj66vkds6ng2de) will be approved.
 
 ### Spark Proxy Spell
 
