@@ -112,7 +112,7 @@ Increase USDC rate limits for SparkLend in the Spark Liquidity Layer on mainnet,
 - **Authorization**: [Governance Poll 1210](https://vote.makerdao.com/polling/QmSwQ6Wc)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
 
-Onboarding BUIDL-I to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+Onboard BUIDL-I to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **500 million USDC**
