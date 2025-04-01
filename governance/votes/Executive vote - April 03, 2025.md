@@ -80,7 +80,7 @@ If this executive proposal passes, then the Smart Burn Engine `hop` parameter wi
 
 - Reduce the `hop` parameter by 493 seconds from 1,728 seconds to **1,235 seconds**.
 
-### Tokenization Grand Prix DAO Resolution Approval
+### Spark Tokenization Grand Prix DAO Resolution Approval
 
 - **Authorization**: [Stability Facilitator Approval](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154/2)  
 - **Proposal**: [Forum Post](https://forum.sky.money/t/spark-tokenization-grand-prix-legal-overview-of-selected-products/26154)
