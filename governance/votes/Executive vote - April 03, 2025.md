@@ -157,7 +157,7 @@ Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io
 - **Authorization**: [Governance Poll 1213](https://vote.makerdao.com/polling/QmTE29em)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
 
-Onboarding Superstate USTB to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+Onboard Superstate USTB to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **300 million USDC**
