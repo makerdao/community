@@ -152,7 +152,7 @@ Onboard Maple syrupUSDC to the Spark Liquidity Layer on mainnet with the followi
 
 Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b)
 
-#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard Superstate USTB
+#### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard Superstate USTB
 
 - **Authorization**: [Governance Poll 1213](https://vote.makerdao.com/polling/QmTE29em)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
