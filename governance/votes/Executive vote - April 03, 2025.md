@@ -55,7 +55,7 @@ If this executive proposal passes, then [AllocatorInit.initilk](https://github.c
 - `cfg.maxLine` - **10 million USDS**.
 - `cfg.ttl` - **86,400 seconds**.
 - `cfg.allocatorProxy` - [**0x1369f7b2b38c76B6478c0f0E66D94923421891Ba**](https://etherscan.io/address/0x1369f7b2b38c76B6478c0f0E66D94923421891Ba) (`SubProxy` contract).
-- `cfg.ilkRegistry` - **ILK_REGISTRY** from chainlog.
+- `cfg.ilkRegistry` - **ILK_REGISTRY** from Chainlog.
 
 As a result, a new vault called ALLOCATOR-BLOOM-A will be created with the following parameters:
 
