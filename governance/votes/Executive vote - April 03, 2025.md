@@ -137,21 +137,6 @@ Onboard Centrifuge JTRSY to the Spark Liquidity Layer on mainnet with the follow
 
 Token address: [0x8c213ee79581Ff4984583C6a801e5263418C4b86](https://etherscan.io/address/0x8c213ee79581Ff4984583C6a801e5263418C4b86)
 
-#### Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC
-
-- **Authorization**: [Governance Poll 1212](https://vote.makerdao.com/polling/QmSytTo4)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
-
-Onboard Maple syrupUSDC to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
-
-- Deposits
-  - `Max amount`: **25 million USDC**
-  - `Slope`: **5 million USDC**
-- Withdrawals
-  - `Max amount`: **Unlimited**
-
-Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b)
-
 #### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard Superstate USTB
 
 - **Authorization**: [Governance Poll 1213](https://vote.makerdao.com/polling/QmTE29em)
@@ -166,6 +151,21 @@ Onboard Superstate USTB to the Spark Liquidity Layer on mainnet with the followi
   - `Max amount`: **Unlimited**
 
 Token address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io/address/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e)
+
+#### Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC
+
+- **Authorization**: [Governance Poll 1212](https://vote.makerdao.com/polling/QmSytTo4)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
+
+Onboard Maple syrupUSDC to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **25 million USDC**
+  - `Slope`: **5 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+
+Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io/address/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b)
 
 #### SparkLend Ethereum - Increase USDC Supply and Borrow Caps
 
