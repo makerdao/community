@@ -242,7 +242,7 @@ The definitions for these parameters can be found [in the Atlas under 3.9, Measu
 
 ## Review
 
-Community debate on these topics can be found on the Sky [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
+Community debate on these topics can be found on the Sky [Governance forum](https://forum.sky.money/). Please review any linked threads to inform your position before voting.
 
 ---
 
