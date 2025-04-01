@@ -159,7 +159,9 @@ Onboard Superstate USTB to the Spark Liquidity Layer on mainnet with the followi
 - Withdrawals
   - `Max amount`: **Unlimited**
 
-Token address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io/address/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e)
+Token address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io/address/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e)  
+USTB Deposit address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io/address/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e#code) (subscribe function)  
+USTB Redeem address (instant liquidity): [0x4c21B7577C8FE8b0B0669165ee7C8f67fa1454Cf](https://etherscan.io/address/0x4c21B7577C8FE8b0B0669165ee7C8f67fa1454Cf#code) (redeem function)
 
 #### Spark Liquidity Layer Mainnet - Onboard Maple syrupUSDC
 
