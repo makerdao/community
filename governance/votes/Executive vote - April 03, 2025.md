@@ -16,6 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
+
 - ALLOCATOR-BLOOM-A will be initialized as described below.
 - The Smart Burn Engine `hop` parameter will be updated as described below.
 - A DAO Resolution for the Spark Tokenization Grand Prix will be approved.
