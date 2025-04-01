@@ -175,11 +175,11 @@ Token address: [0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b](https://etherscan.io
 Increase the USDC supply/borrow caps on SparkLend Ethereum as follows:
 
 - Supply cap
-  - `gap`: **150 million USDC**
-  - `max`: increase by 940 million USDC from 60 million USDC to **1 billion USDC**
+  - `gap`: increase by 90 million USDC from 60 million to **150 million USDC**.
+  - `max`: increase by 940 million USDC from 60 million USDC to **1 billion USDC**.
 - Borrow cap
-  - `gap`: increase by 44 million USDC from 6 million USDC to **50 million USDC**
-  - `max`: increase by 893 million USDC from 57 million UDSC to **950 million USDC**
+  - `gap`: increase by 44 million USDC from 6 million USDC to **50 million USDC**.
+  - `max`: increase by 893 million USDC from 57 million UDSC to **950 million USDC**.
 
  The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
 
