@@ -107,7 +107,7 @@ Increase USDC rate limits for SparkLend in the Spark Liquidity Layer on mainnet,
 - Withdrawals
   - `Max amount`: **Unlimited**
  
-#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard BlackRock BUIDL-I
+#### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard BlackRock BUIDL-I
 
 - **Authorization**: [Governance Poll 1210](https://vote.makerdao.com/polling/QmSwQ6Wc)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
