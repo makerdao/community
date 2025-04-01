@@ -128,6 +128,8 @@ Onboard BUIDL-I to the Spark Liquidity Layer on mainnet with the following [rate
   - `Max amount`: **Unlimited**
 
 Token address: [0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041](https://etherscan.io/address/0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041)
+BUIDL-I Deposit address: [0xD1917664bE3FdAea377f6E8D5BF043ab5C3b1312](https://etherscan.io/address/0xD1917664bE3FdAea377f6E8D5BF043ab5C3b1312)
+BUIDL-I Redeem address: [0x8780Dd016171B91E4Df47075dA0a947959C34200](https://etherscan.io/address/0x8780Dd016171B91E4Df47075dA0a947959C34200)
 
 #### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard Centrifuge JTRSY
 
