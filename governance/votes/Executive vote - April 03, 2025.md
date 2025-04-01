@@ -172,7 +172,7 @@ Token address: [0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e](https://etherscan.io
 - **Authorization**: [Governance Poll 1214](https://vote.makerdao.com/polling/QmZGQhkG)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
 
-Increasing the USDC supply/borrow caps on SparkLend Ethereum as follows:
+Increase the USDC supply/borrow caps on SparkLend Ethereum as follows:
 
 - Supply cap
   - `gap`: **150 million USDC**
