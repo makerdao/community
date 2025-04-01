@@ -188,7 +188,7 @@ Increase the USDC supply/borrow caps on SparkLend Ethereum as follows:
 - **Authorization**: [Governance Poll 1218](https://vote.makerdao.com/polling/QmNZVfSq)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
-Increasing rate limit parameters for Spark Liquidity Layer Mainnet USDS mints:
+Increase rate limit parameters for Spark Liquidity Layer Mainnet USDS mints:
 
 - Increase Max amount by 150 million USDS from 50 million USDS to **200 million USDS**.
 - Increase Slope by 150 million USDS from 50 million USDS per day to **200 million USDS per day**.
