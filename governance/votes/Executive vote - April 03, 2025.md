@@ -208,7 +208,7 @@ Increasing rate limit parameters for Spark Liquidity Layer Mainnet USDC PSM Swap
 - **Authorization**: [Governance Poll 1217](https://vote.makerdao.com/polling/QmXAJTvs)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
-Updating Morpho DAI vault Supply Caps as follows:
+Update Morpho DAI vault Supply Caps as follows:
 
 - Decrease [PT-USDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/ab0dcab71e65c05b7f241ea79a33452c87e62db387129e4abe15e458d433e4d8) Supply Cap by 100 million DAI from 100 million DAI to **0 DAI**.
 - Decrease [PT-sUSDe-27Mar2025 91.5% pool](https://morpho.blockanalitica.com/ethereum/markets/5e3e6b1e01c5708055548d82d01db741e37d03b948a7ef9f3d4b962648bcbfa7) Supply Cap by 500 million DAI from 500 million DAI to **0 million DAI**.
