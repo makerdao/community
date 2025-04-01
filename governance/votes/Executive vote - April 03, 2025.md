@@ -107,6 +107,13 @@ Increase USDC rate limits for SparkLend in the Spark Liquidity Layer on mainnet,
 - Withdrawals
   - `Max amount`: **Unlimited**
  
+#### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Add Backup Relayer
+
+- **Authorization**: [Stability Facilitator Approval](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155/12)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155/10)
+
+Update ALM Controller and add Backup Relayer at [0x8Cc0Cb0cfB6B7e548cfd395B833c05C346534795](https://etherscan.io/address/0x8Cc0Cb0cfB6B7e548cfd395B833c05C346534795#code). The Backup Relayer can take over if the primary offchain controller malfunctions or is compromised. This is considered part of safety and security of the module.
+ 
 #### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard BlackRock BUIDL-I
 
 - **Authorization**: [Governance Poll 1210](https://vote.makerdao.com/polling/QmSwQ6Wc)
