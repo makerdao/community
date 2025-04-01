@@ -19,7 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 - ALLOCATOR-BLOOM-A will be initialized as described below.
 - The Smart Burn Engine `hop` parameter will be updated as described below.
 - A DAO Resolution for the Spark Tokenization Grand Prix will be approved.
-- A Spark proxy spell at address [0x6B34C0E12C84338f494efFbf49534745DDE2F24b](https://etherscan.io/address/0x6B34C0E12C84338f494efFbf49534745DDE2F24b#code) will be executed.
+- A Spark proxy spell at [0x6B34C0E12C84338f494efFbf49534745DDE2F24b](https://etherscan.io/address/0x6B34C0E12C84338f494efFbf49534745DDE2F24b#code) will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
