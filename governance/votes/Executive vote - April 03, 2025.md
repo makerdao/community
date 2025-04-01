@@ -198,7 +198,7 @@ Increase rate limit parameters for Spark Liquidity Layer Mainnet USDS mints:
 - **Authorization**: [Governance Poll 1219](https://vote.makerdao.com/polling/QmT87a3p)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell-2/26203)
 
-Increasing rate limit parameters for Spark Liquidity Layer Mainnet USDC PSM Swap:
+Increase rate limit parameters for Spark Liquidity Layer Mainnet USDC PSM swaps:
 
 - Increase Max amount by 150 million USDC from 50 million USDC to **200 million USDC**.
 - Increase Slope by 150 million USDC from 50 million USDC per day to **200 million USDC per day**.
