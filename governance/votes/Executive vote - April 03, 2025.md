@@ -5,7 +5,7 @@ date: 2025-04-03T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] ALLOCATOR-BLOOM-A Initialization, Smart Burn Engine Parameter Update, Grand Prix DAO Resolution, Spark Proxy Spell - April 03, 2025
+# [Executive Proposal] ALLOCATOR-BLOOM-A Initialization, Smart Burn Engine Parameter Update, Spark Tokenization Grand Prix DAO Resolution, Spark Proxy Spell - April 03, 2025
 
 The Governance Facilitators, Dewiz, and Sidestream have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
