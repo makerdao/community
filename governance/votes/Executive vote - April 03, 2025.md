@@ -122,7 +122,7 @@ Onboard BUIDL-I to the Spark Liquidity Layer on mainnet with the following [rate
 
 Token address: [0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041](https://etherscan.io/address/0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041)
 
-#### Spark Liquidity Layer Mainnet - Grand Prix - Onboard Centrifuge JTRSY
+#### Spark Liquidity Layer Mainnet - Spark Tokenization Grand Prix - Onboard Centrifuge JTRSY
 
 - **Authorization**: [Governance Poll 1211](https://vote.makerdao.com/polling/QmehvjH9)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
