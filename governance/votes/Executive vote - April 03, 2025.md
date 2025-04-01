@@ -46,7 +46,7 @@ If this executive proposal passes, then [AllocatorInit.initilk](https://github.c
 - `sharedInstance.oracle` - **PIP_ALLOCATOR** from Chainlog.
 - `sharedInstance.roles` - **ALLOCATOR_ROLES** from Chainlog.
 - `sharedInstance.registry` - **ALLOCATOR_REGISTRY** from Chainlog.
-- `ilkInstance.owner` - **MCD_PAUSE_PROXY** from chainlog.
+- `ilkInstance.owner` - **MCD_PAUSE_PROXY** from Chainlog.
 - `ilkInstance.vault` - [**0x26512A41C8406800f21094a7a7A0f980f6e25d43**](https://etherscan.io/address/0x26512A41C8406800f21094a7a7A0f980f6e25d43) (`AllocatorVault` contract).
 - `ilkInstance.buffer` - [**0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd**](https://etherscan.io/address/0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd) (`AllocatorBuffer` contract).
 - `cfg.ilk` - **ALLOCATOR-BLOOM-A**
