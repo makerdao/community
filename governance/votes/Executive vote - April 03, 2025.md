@@ -181,7 +181,9 @@ Increase the USDC supply/borrow caps on SparkLend Ethereum as follows:
   - `gap`: increase by 44 million USDC from 6 million USDC to **50 million USDC**.
   - `max`: increase by 893 million USDC from 57 million UDSC to **950 million USDC**.
 
- The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
+The `ttl` will remain unchanged at **12 hours** for both borrow and supply cap automators.
+
+The definitions for these parameters can be found [in the Atlas under 3.9, Measures For Endgame Transition - SparkLend Risk Parameters - Cap Automators](https://github.com/makerdao/next-gen-atlas/blob/7c760dc4d688220f2b954120597a69c1e108bd5a/Sky%20Atlas/Sky%20Atlas.html#L8989).
 
 #### Spark Liquidity Layer Mainnet - Modify USDS Mint Rate Limits
 
