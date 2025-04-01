@@ -43,7 +43,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 If this executive proposal passes, then [AllocatorInit.initilk](https://github.com/makerdao/dss-allocator/blob/226584d3b179d98025497815adb4ea585ea0102d/deploy/AllocatorInit.sol#L97-L164) will be called with the following parameters:
 
-- `sharedInstance.oracle` - **PIP_ALLOCATOR** from chainlog.
+- `sharedInstance.oracle` - **PIP_ALLOCATOR** from Chainlog.
 - `sharedInstance.roles` - **ALLOCATOR_ROLES** from chainlog.
 - `sharedInstance.registry` - **ALLOCATOR_REGISTRY** from chainlog.
 - `ilkInstance.owner` - **MCD_PAUSE_PROXY** from chainlog.
