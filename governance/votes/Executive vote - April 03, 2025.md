@@ -127,7 +127,7 @@ Token address: [0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041](https://etherscan.io
 - **Authorization**: [Governance Poll 1211](https://vote.makerdao.com/polling/QmehvjH9)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-3-2025-proposed-changes-to-spark-for-upcoming-spell/26155)
 
-Onboarding Centrifuge JTRSY to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+Onboard Centrifuge JTRSY to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **200 million USDC**
