@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] ALLOCATOR-BLOOM-A Initialization, Smart Burn Engine Parameter Update, Spark Tokenization Grand Prix DAO Resolution, Spark Proxy Spell - April 3, 2025
 summary: Initialize the ALLOCATOR-BLOOM-A vault, update the Smart Burn Engine hop parameter, approve Spark Tokenization Grand Prix DAO Resolution, trigger a Spark Proxy Spell.
 date: 2025-04-03T00:00:00.000Z
-address: "$spell_address"
+address: "0x6D89a389C59113a9DA17f094c9b8772A97854593"
 
 ---
 # [Executive Proposal] ALLOCATOR-BLOOM-A Initialization, Smart Burn Engine Parameter Update, Spark Tokenization Grand Prix DAO Resolution, Spark Proxy Spell - April 3, 2025
