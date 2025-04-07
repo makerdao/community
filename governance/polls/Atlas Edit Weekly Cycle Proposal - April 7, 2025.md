@@ -38,7 +38,7 @@ The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](ht
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/84)
+- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/84) - Note that some of the edits in this proposal apply to ratified content that hasn't gone live in the next-gen-atlas GitHub repository yet, but is currently in the process of being added. The PR includes the edits that are not affected by this and will be updated once the targeted content has been reviewed and merged into the Atlas.
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-7-2025/26232)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
