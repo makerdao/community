@@ -27,10 +27,12 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to adjusting the cbBTC and tBTC [Interest Rate Models](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8525) as follows:
 
-- $GenericChangeA
-- $GenericChangeB
+- [Optimal utilization ratio](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8620): Increase by 20 percentage points from 60% to **80%**.
+- [Base rate](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8645): Keep unchanged at **0%**.
+- [Slope 1](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8667): Decrease by 3 percentage points from 4% to **1%**.
+- [Slope 2](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8687): Keep unchanged at **300%**.
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 

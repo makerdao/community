@@ -27,10 +27,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to reducing the WBTC [Liquidation Threshold](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8560) as follows:
 
-- $GenericChangeA
-- $GenericChangeB
+- Reduce WBTC Liquidation Threshold by 5 percentage points from 50% to **45%**.
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 

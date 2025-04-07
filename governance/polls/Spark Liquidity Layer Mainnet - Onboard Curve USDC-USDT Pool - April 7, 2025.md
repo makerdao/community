@@ -1,6 +1,6 @@
 ---
-title: Spark Liquidity Layer Mainnet - Onboard Curve USDC-USDT Pool - April 7, 2025
-summary: Signal your support or opposition to onboarding the Curve USDC-USDT pool to the Spark Liquidity Layer on Mainnet.
+title: Spark Liquidity Layer Mainnet - Onboard Curve USDC/USDT Pool - April 7, 2025
+summary: Signal your support or opposition to onboarding the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet.
 discussion_link: https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2025-04-07T16:00:00
 end_date: 2025-04-10T16:00:00
 ---
-# Poll: Spark Liquidity Layer Mainnet - Onboard Curve USDC-USDT Pool - April 7, 2025
+# Poll: Spark Liquidity Layer Mainnet - Onboard Curve USDC/USDT Pool - April 7, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, April 7 at 16:00 UTC.
 
@@ -27,12 +27,18 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to onboarding the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:
 
-- $GenericChangeA
-- $GenericChangeB
+- Swap
+  - `Max amount`: **5 million**
+  - `Slope`: **20 million per day**
+  - `Max slippage`: **0.15%**
+- Deposit
+  - `Max amount`: **0**
+- Withdrawals
+  - `Max amount`: **0**
 
-Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting. You can also refer to the [risk assessment post](https://forum.sky.money/t/risk-assessment-curve-susds-usdt-integration-in-spark-liquidity-layer/26237) for more details about USDT integration.
 
 ## Outcomes
 

@@ -1,6 +1,6 @@
 ---
-title: Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade Controller to v1.4.0 on All Chains - April 7, 2025
-summary: Signal your support or opposition to $GenericChange.
+title: Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade the Spark ALM Controller to v1.4.0 on All Chains - April 7, 2025
+summary: Signal your support or opposition to upgrading the Spark ALM Controller to v1.4.0 on All Chains
 discussion_link: https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2025-04-07T16:00:00
 end_date: 2025-04-10T16:00:00
 ---
-# Poll: Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade Controller to v1.4.0 on All Chains - April 7, 2025
+# Poll: Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade the Spark ALM Controller to v1.4.0 on All Chains - April 7, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, April 7 at 16:00 UTC.
 
@@ -27,10 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
-
-- $GenericChangeA
-- $GenericChangeB
+The community can vote in this poll to express support or opposition to upgrading the [Spark ALM Controller](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller) to [v1.4.0](https://github.com/sparkdotfi/spark-alm-controller/commit/b618c3fb1508ce29ac9e92e3bf55229cd1a66d8a) on all chains.
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 

@@ -27,10 +27,13 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to onboarding Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:
 
-- $GenericChangeA
-- $GenericChangeB
+- Deposits
+  - `Max amount`: **100 million DAI**
+  - `Slope`: **50 million DAI per day**
+- Withdrawals
+  - `Max amount`: **unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 

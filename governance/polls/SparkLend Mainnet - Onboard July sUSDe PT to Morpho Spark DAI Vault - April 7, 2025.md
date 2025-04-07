@@ -27,10 +27,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to onboarding PT-sUSDe-31July2025 to the Morpho DAI vault with the following parameters:
 
-- $GenericChangeA
-- $GenericChangeB
+- Pool LLTV: **91.5%**
+- Pendle oracle discount rate: **20% APY**
+- Supply cap: **400 million DAI**
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 

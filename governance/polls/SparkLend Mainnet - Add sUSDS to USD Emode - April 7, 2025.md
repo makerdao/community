@@ -1,6 +1,6 @@
 ---
-title: SparkLend Mainnet - Add sUSDS to USD Emode - April 7, 2025
-summary: Signal your support or opposition to $GenericChange.
+title: SparkLend Mainnet - Add sUSDS to USD E-mode - April 7, 2025
+summary: Signal your support or opposition to adding sUSDS to USD-correlated E-mode
 discussion_link: https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234
 parameters:
     input_format: single-choice
@@ -15,7 +15,7 @@ options:
 start_date: 2025-04-07T16:00:00
 end_date: 2025-04-10T16:00:00
 ---
-# Poll: SparkLend Mainnet - Add sUSDS to USD Emode - April 7, 2025
+# Poll: SparkLend Mainnet - Add sUSDS to USD E-mode - April 7, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, April 7 at 16:00 UTC.
 
@@ -27,10 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
-
-- $GenericChangeA
-- $GenericChangeB
+The community can vote in this poll to express support or opposition to setting the sUSDS [E-mode](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8568) to USD.
 
 Please review the discussion [thread](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234) to help inform your position before voting.
 
