@@ -1,6 +1,6 @@
 ---
 title: SparkLend Mainnet - Onboard July sUSDe PT to Morpho Spark DAI Vault - April 7, 2025
-summary: Signal your support or opposition to onboarding $ 
+summary: Signal your support or opposition to onboarding PT-sUSDe-31July2025 to the Morpho DAI vault.
 discussion_link: https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234
 parameters:
     input_format: single-choice
