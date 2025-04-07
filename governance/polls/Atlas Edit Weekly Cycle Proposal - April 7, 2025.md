@@ -45,8 +45,8 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 _This proposal includes two sets of edits:_
 
-_**Clarify Responsibility For Proposing Smart Burn Engine Parameter Updates** - Clarifies that the Governance Facilitators are responsible for proposing updates to Smart Burn Engine parameters, in consultation with the Stability Facilitators and Stability Scope Advisors._
-_**Specify Methodology For Adjusting SKY Token Rewards** - Specifies the methodology for updating the yield for SKY token rewards to be equivalent to the Sky Savings Rate._
+- _**Clarify Responsibility For Proposing Smart Burn Engine Parameter Updates** - Clarifies that the Governance Facilitators are responsible for proposing updates to Smart Burn Engine parameters, in consultation with the Stability Facilitators and Stability Scope Advisors._
+- _**Specify Methodology For Adjusting SKY Token Rewards** - Specifies the methodology for updating the yield for SKY token rewards to be equivalent to the Sky Savings Rate._
 
 ## Outcomes
 
