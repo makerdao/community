@@ -26,7 +26,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Atlas Edit Monthly Cycle Proposal (AEP-$AEP_Number) - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.10.2_Atlas_Edit_Monthly_Cycle-430185a5-fa5d-4664-89cf-21c9e6cfc109|0db3326e) into the [voting system](https://vote.makerdao.com/polling). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e) into the [voting system](https://vote.makerdao.com/polling). This Governance Poll will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -36,7 +36,7 @@ The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://s
 
 ## Review
 
-The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
+The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:
 
 - [Atlas Edit Pull Request]($Pull_Request_link)
 - [Proposal Discussion Thread]($discussion_link)
@@ -47,7 +47,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 ## Outcomes
 
-This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **10,000 MKR**.
+This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Monthly Cycle Proposals is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 10,000 MKR, then the following action will be taken:**
 
