@@ -47,7 +47,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 ## Outcomes
 
-This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **10,000 MKR**.
+This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Monthly Cycle Proposals is currently set to **10,000 MKR**.
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 10,000 MKR, then the following action will be taken:**
 
