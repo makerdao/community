@@ -4959,5 +4959,24 @@
   "1229": [
     "high-impact",
     "spark"
+  ],
+  "1230": [
+    "medium-impact",
+    "ratification"
+  ],
+  "1231": [
+    "low-impact",
+    "ratification",
+    "endgame"
+  ],
+  "1232": [
+    "high-impact",
+    "ratification",
+    "endgame"
+  ],
+  "1233": [
+    "high-impact",
+    "ratification",
+    "endgame"
   ]
 }
