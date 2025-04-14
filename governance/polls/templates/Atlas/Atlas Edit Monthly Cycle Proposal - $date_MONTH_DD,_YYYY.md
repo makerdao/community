@@ -26,7 +26,7 @@ end_date: $YYYY-MM-DDT16:00:00
 ---
 # Atlas Edit Monthly Cycle Proposal (AEP-$AEP_Number) - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.10.2_Atlas_Edit_Monthly_Cycle-430185a5-fa5d-4664-89cf-21c9e6cfc109|0db3326e) into the [voting system](https://vote.makerdao.com/polling). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e) into the [voting system](https://vote.makerdao.com/polling). This Governance Poll will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 
