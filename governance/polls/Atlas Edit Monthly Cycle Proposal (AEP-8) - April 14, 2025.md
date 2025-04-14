@@ -38,7 +38,7 @@ The Governance Facilitators have placed an [Atlas Edit Monthly Cycle Proposal](h
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- Atlas Edit Pull Request: The targeted content is still in the process of being added to the Atlas. Therefore, a PR mirroring the edit will be created once the targeted content has been added.
+- [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/90)
 - [Proposal Discussion Thread](https://forum.sky.money/t/aep-8-focus-integration-boost-on-crosschain-adoption/26176)
 
 Please review the previous [Atlas Edit in Notion](https://www.notion.so/Public-Atlas-Edit-Weekly-Proposal-for-Agent-Launch-Week-of-2025-03-10-1aff2ff08d738081880fcdc15ceb12b0?pvs=21) for this Edit's changes to the `Integration Boost Partners` section.
