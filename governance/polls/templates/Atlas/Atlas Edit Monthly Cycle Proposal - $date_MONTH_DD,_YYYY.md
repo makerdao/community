@@ -36,7 +36,7 @@ The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://s
 
 ## Review
 
-The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
+The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:
 
 - [Atlas Edit Pull Request]($Pull_Request_link)
 - [Proposal Discussion Thread]($discussion_link)
