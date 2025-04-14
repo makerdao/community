@@ -36,7 +36,7 @@ The Governance Facilitators have placed an [Atlas Edit Monthly Cycle Proposal](h
 
 ## Review
 
-The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
+The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:
 
 - [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/82)
 - [Proposal Discussion Thread](https://forum.sky.money/t/aep-9-begin-returning-income-to-sky-holders-via-staking/26177)
