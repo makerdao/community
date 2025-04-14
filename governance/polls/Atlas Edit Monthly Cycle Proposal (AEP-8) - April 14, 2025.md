@@ -49,6 +49,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 *To add, Sky is quite profitable but much of this is currently being spent rather than given back to token holders. Integration boosts should be focused on high value returns. Realistically almost all Sky income is derived from Ethereum as low gas means the L2’s have lost much of their meaning/drive. Benefits gained from L2 network deposits are only driven by large subsidies such that Sky is losing out overall. A great example is on Compound, sure it’s great that people are depositing USDS and borrowing USDS on compound. But we’re paying USDS incentives to achieve this. They can just deposit USDS on Sky. Perhaps when USDS was unknown it was good publicity (people see the high APR and google USDS to find it) but now USDS is known so we no longer need efforts such as this on ETH.*
 
+Additional information about the processing of AEP-8 can be found [here](https://forum.sky.money/t/clarifications-regarding-aeps-3-and-8/26271).
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **10,000 MKR**.
