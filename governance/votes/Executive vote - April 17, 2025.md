@@ -257,7 +257,7 @@ Add sUSDS to the USD-correlated [E-mode](https://github.com/makerdao/next-gen-at
 #### [Mainnet] Morpho DAI Vault - Onboard July sUSDe PT
 
 - **Authorization**: [Governance Poll 1228](https://vote.makerdao.com/polling/QmQgnWbX)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
 Onboard PT-sUSDe-31July2025 to the Morpho DAI vault with the following parameters:
 
@@ -268,7 +268,7 @@ Onboard PT-sUSDe-31July2025 to the Morpho DAI vault with the following parameter
 #### [Mainnet, Base, Arbitrum] Spark Liquidity Layer - Upgrade Controller to v1.4.0 on All Chains
 
 - **Authorization**: [Governance Poll 1225](https://vote.makerdao.com/polling/QmRkQDMT)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
 Upgrade the [Spark ALM Controller](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller) to [v1.4.0](https://github.com/sparkdotfi/spark-alm-controller/commit/b618c3fb1508ce29ac9e92e3bf55229cd1a66d8a) on all chains.
 
