@@ -243,7 +243,7 @@ Adjust the cbBTC and tBTC [Interest Rate Models](https://github.com/makerdao/nex
 - **Authorization**: [Governance Poll 1229](https://vote.makerdao.com/polling/QmU3y9jf)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
-Reduce the WBTC Liquidation Threshold as follows:
+Reduce the WBTC [Liquidation Threshold](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.5_Liquidation_Threshold_Definition/1c1f2ff0-8d73-81ea-bd7e-feb73a44923a%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
 
 - Reduce WBTC Liquidation Threshold by 5 percentage points from 50% to **45%**.
 
