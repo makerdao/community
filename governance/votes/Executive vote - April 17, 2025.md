@@ -78,7 +78,7 @@ If this executive proposal passes, then the [Sky Token Rewards (SKY to USDS)](ht
   - Rewards Distribution Cap: 176,000,000
   - Start Date relative to the spell cast time:
     - `vestBgn`: `block.timestamp`
-  - End Date is set one year after Start Date defined by duration:
+  - End Date relative to the spell cast time:
     - `vestTau`: 182 days
     - `vestFin`: `block.timestamp` + 182 days
 - File the new stream ID on `REWARDS_DIST_USDS_SKY`.
@@ -234,9 +234,9 @@ Onboard the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with th
 Adjust the cbBTC and tBTC [Interest Rate Models](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8525) as follows:
 
 - [Optimal utilization ratio](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8620): Increase by 20 percentage points from 60% to **80%**.
-- [Base rate](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8645): Keep unchanged at **0%**.
-- [Slope 1](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8667): Decrease by 3 percentage points from 4% to **1%**.
-- [Slope 2](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8687): Keep unchanged at **300%**.
+- [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f|7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **0%**.
+- [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59|7896ed3326389fe3553030cd0a82f68efd49): Decrease by 3 percentage points from 4% to **1%**.
+- [Slope 2](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130|7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **300%**.
 
 #### [Mainnet] SparkLend - Reduce WBTC LT
 
