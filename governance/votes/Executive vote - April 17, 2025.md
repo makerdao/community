@@ -88,7 +88,7 @@ If this executive proposal passes, then the [Sky Token Rewards (SKY to USDS)](ht
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/spark-aave-lido-market-usds-allocation/25311/25)
 - **Proposal**: [Forum post](https://forum.sky.money/t/spark-aave-lido-market-usds-allocation/25311/24)
 
-If this executive proposal passes, then the Aave Lido Market (Prime Market) Direct Deposit Module (DDM) Debt Ceiling (DC) will be set to 0 by executing the following actions:
+If this executive proposal passes, then the Aave Lido Market (Prime Market) Direct [Deposit Module (DDM)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) [Debt Ceiling (DC)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) will be set to 0 by executing the following actions:
 
 - Remove `DIRECT-SPK-AAVE-LIDO-USDS` from autoline.
 - Set `DIRECT-SPK-AAVE-LIDO-USDS` DC to zero.
