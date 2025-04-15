@@ -252,7 +252,7 @@ Reduce the WBTC [Liquidation Threshold](https://sky-atlas.powerhouse.io/A.AG1.3.
 - **Authorization**: [Governance Poll 1226](https://vote.makerdao.com/polling/QmQk4XKy)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
-Add sUSDS to the USD-correlated [E-mode](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8568).
+Add sUSDS to the USD-correlated [E-mode](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.6_High_Efficiency_Mode_Category_Definition/1c1f2ff0-8d73-815c-8a8f-f3a095137e06|7896ed3326389fe3553030cd0a82f68efd49).
 
 #### [Mainnet] Morpho DAI Vault - Onboard July sUSDe PT
 
