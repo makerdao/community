@@ -98,7 +98,7 @@ If this executive proposal passes, then the Aave Lido Market (Prime Market) Dire
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/smart-burn-engine-parameter-update-april-17-spell/26253/2)
 - **Proposal**: [Forum post](https://forum.sky.money/t/smart-burn-engine-parameter-update-april-17-spell/26253)
 
-If this executive proposal passes, then the SBE parameter below will be updated as follows:
+If this executive proposal passes, then the SBE [parameter](https://sky-atlas.powerhouse.io/A.3.6.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5|57ea2c54) below will be updated as follows:
 
 - Increase `Splitter.hop` by 493 seconds from 1,235 seconds to **1,728 seconds**.
 
