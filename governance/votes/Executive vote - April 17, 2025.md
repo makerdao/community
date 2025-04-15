@@ -41,8 +41,8 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### SP-BEAM Initialization
 
-- **Authorization**: [Ecosystem Authorization](http://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266/2?u=blimpa)
-- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266)
+- **Authorization**: [Ecosystem Authorization](http://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266/2)
+- **Proposal**: Forum Posts [1](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-14-2025/26262/), [2](https://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266)
 
 If this executive proposal passes, then the Stability Parameter Bounded External Access Module (SP-BEAM) will be initialized as described below:
 
@@ -148,8 +148,8 @@ If this executive proposal passes, then a total of **97,584 USDS** and **618,000
 | Recipient | Amount (USDS) | Address                                                                                                               |
 |-----------|--------------:|-----------------------------------------------------------------------------------------------------------------------|
 | BLUE      | 50,167        | [0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) |
-| Cloaky    | 16,417        | [0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) |
 | Ennoia    | 20,000        | [0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b](https://etherscan.io/address/0xA7364a1738D0bB7D1911318Ca3FB3779A8A58D7b) |
+| Cloaky    | 16,417        | [0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) |
 | Kohla     | 11,000        | [0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a](https://etherscan.io/address/0x73dFC091Ad77c03F2809204fCF03C0b9dccf8c7a) |
 
 #### SKY Payments
