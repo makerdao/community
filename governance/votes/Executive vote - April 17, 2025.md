@@ -181,7 +181,7 @@ Onboard Fluid sUSDS onto the Spark Liquidity Layer on Arbitrum with the followin
 - **Authorization**: [Governance Poll 1224](https://vote.makerdao.com/polling/QmbNssss)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
-Onboard Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:
+Onboard Mainnet SparkLend DAI to the Spark Liquidity Layer with the following [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **100 million DAI**
