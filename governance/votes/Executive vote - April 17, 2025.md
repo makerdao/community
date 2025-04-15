@@ -215,7 +215,7 @@ Onboard the Curve sUSDS/USDT pool to the Spark Liquidity Layer on Mainnet with t
 - **Authorization**: [Governance Poll 1222](https://vote.makerdao.com/polling/QmWju9Uu)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
-Onboard the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:
+Onboard the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with the following [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Swap
   - `Max amount`: **5 million**
