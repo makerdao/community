@@ -163,7 +163,114 @@ If this executive proposal passes, then a total of **97,584 USDS** and **618,000
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xA8FF99Ac98Fc0C3322F639a9591257518514455c](https://etherscan.io/address/0xA8FF99Ac98Fc0C3322F639a9591257518514455c) with the following contents.
 
-WIP
+#### [Arbitrum] Spark Liquidity Layer - Onboard Fluid sUSDS
+
+- **Authorization**: [Governance Poll 1202](https://vote.makerdao.com/polling/QmZbk3gD)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Onboard Fluid sUSDS onto the Spark Liquidity Layer on Arbitrum with the following [Rate Limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **10 million USDS worth of sUSDS**
+  - `Slope`: **5 million USDS worth of sUSDS**
+- Withdrawals
+  - `Max amount`: **unlimited**
+
+#### [Mainnet] Spark Liquidity Layer - Onboard SparkLend DAI
+
+- **Authorization**: [Governance Poll 1224](https://vote.makerdao.com/polling/QmbNssss)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Onboardi Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:
+
+- Deposits
+  - `Max amount`: **100 million DAI**
+  - `Slope`: **50 million DAI per day**
+- Withdrawals
+  - `Max amount`: **unlimited**
+
+
+#### [Mainnet] Spark Liquidity Layer - Onboard Curve sUSDS/USDT Pool
+
+- **Authorization**: [Governance Poll 1223](https://vote.makerdao.com/polling/QmWgkXDA)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Onboard the Curve sUSDS/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:
+
+- Swap
+  - `Max amount`: **5 million**
+  - `Slope`: **20 million per day**
+  - `Max slippage`: **0.15%**
+- Deposits
+  - `Max amount`: **5 million**
+  - `Slope`: **20 million per day**
+  - `Max slippage`: **0.15%**
+- Withdrawals
+  - `Max amount`: **25 million**
+  - `Slope`: **100 million per day**
+  - `Max slippage`: **0.15%**
+
+#### [Mainnet] Spark Liquidity Layer - Onboard Curve USDC/USDT Pool
+
+- **Authorization**: [Governance Poll 1222](https://vote.makerdao.com/polling/QmWju9Uu)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Onboard the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:
+
+- Swap
+  - `Max amount`: **5 million**
+  - `Slope`: **20 million per day**
+  - `Max slippage`: **0.15%**
+- Deposit
+  - `Max amount`: **0**
+- Withdrawals
+  - `Max amount`: **0**
+
+#### [Mainnet] SparkLend - Adjust cbBTC and tBTC Interest Rate Models
+
+- **Authorization**: [Governance Poll 1227](https://vote.makerdao.com/polling/Qmc3WXej)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Adjust the cbBTC and tBTC [Interest Rate Models](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8525) as follows:
+
+- [Optimal utilization ratio](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8620): Increase by 20 percentage points from 60% to **80%**.
+- [Base rate](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8645): Keep unchanged at **0%**.
+- [Slope 1](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8667): Decrease by 3 percentage points from 4% to **1%**.
+- [Slope 2](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8687): Keep unchanged at **300%**.
+
+#### [Mainnet] SparkLend - Reduce WBTC LT
+
+- **Authorization**: [Governance Poll 1229](https://vote.makerdao.com/polling/QmU3y9jf)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Reduce the WBTC Liquidation Threshold as follows:
+
+- Reduce WBTC Liquidation Threshold by 5 percentage points from 50% to **45%**.
+
+#### [Mainnet] SparkLend - Add sUSDS to USD Emode
+
+- **Authorization**: [Governance Poll 1226](https://vote.makerdao.com/polling/QmQk4XKy)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
+
+Add sUSDS to the USD-correlated [E-mode](https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8568).
+
+#### [Mainnet] Morpho DAI Vault - Onboard July sUSDe PT
+
+- **Authorization**: [Governance Poll 1228](https://vote.makerdao.com/polling/QmQgnWbX)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
+
+Onboard PT-sUSDe-31July2025 to the Morpho DAI vault with the following parameters:
+
+- Pool LLTV: **91.5%**
+- Pendle oracle discount rate: **20% APY**
+- Supply cap: **400 million DAI**
+
+#### [Mainnet, Base, Arbitrum] Spark Liquidity Layer - Upgrade Controller to v1.4.0 on All Chains
+
+- **Authorization**: [Governance Poll 1225](https://vote.makerdao.com/polling/QmRkQDMT)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/march-6-2025-proposed-changes-to-spark-for-upcoming-spell/26036)
+
+Upgrade the [Spark ALM Controller](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller) to [v1.4.0](https://github.com/sparkdotfi/spark-alm-controller/commit/b618c3fb1508ce29ac9e92e3bf55229cd1a66d8a) on all chains.
 
 ## Review
 
