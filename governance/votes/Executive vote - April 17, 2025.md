@@ -74,8 +74,8 @@ If this executive proposal passes, then the [Sky Token Rewards (SKY to USDS)](ht
 - Yank `MCD_VEST_SKY` vest with ID 1.
 - Claim the remaining tokens from the old DssVest by calling `VestedRewardsDistribution.distribute()`.
 - Create a new `MCD_VEST_SKY` stream with the following parameters:
-  - Rewards Distribution Rate: 160,000,000
-  - Rewards Distribution Cap: 176,000,000
+  - Rewards Distribution Rate: 160 million
+  - Rewards Distribution Cap: 176 million
   - Start Date relative to the spell cast time:
     - `vestBgn`: `block.timestamp`
   - End Date relative to the spell cast time:
@@ -181,7 +181,7 @@ Onboard Fluid sUSDS onto the Spark Liquidity Layer on Arbitrum with the followin
 - **Authorization**: [Governance Poll 1224](https://vote.makerdao.com/polling/QmbNssss)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234)
 
-Onboardi Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:
+Onboard Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:
 
 - Deposits
   - `Max amount`: **100 million DAI**
