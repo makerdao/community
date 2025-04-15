@@ -83,7 +83,7 @@ If this executive proposal passes, then the [Sky Token Rewards (SKY to USDS)](ht
     - `vestFin`: `block.timestamp` + 182 days
 - File the new stream ID on `REWARDS_DIST_USDS_SKY`.
 
-### Set Aave Lido Market (Prime Market) DDM DC to 0
+### Set Aave Lido Market (Prime Market) Direct Deposit Module Debt Ceiling to 0
 
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/spark-aave-lido-market-usds-allocation/25311/25)
 - **Proposal**: [Forum post](https://forum.sky.money/t/spark-aave-lido-market-usds-allocation/25311/24)
@@ -98,7 +98,7 @@ If this executive proposal passes, then the Aave Lido Market (Prime Market) Dire
 - **Authorization**: [Ecosystem Authorization](https://forum.sky.money/t/smart-burn-engine-parameter-update-april-17-spell/26253/2)
 - **Proposal**: [Forum post](https://forum.sky.money/t/smart-burn-engine-parameter-update-april-17-spell/26253)
 
-If this executive proposal passes, then the SBE [parameter](https://sky-atlas.powerhouse.io/A.3.6.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5|57ea2c54) below will be updated as follows:
+If this executive proposal passes, then the `Splitter.hop` SBE [parameter](https://sky-atlas.powerhouse.io/A.3.6.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5|57ea2c54) will be updated as follows:
 
 - Increase `Splitter.hop` by 493 seconds from 1,235 seconds to **1,728 seconds**.
 
