@@ -41,7 +41,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### SP-BEAM Initialization
 
-- **Authorization**: [Ecosystem Authorization](http://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266/2)
+- **Authorization**: [Governance Poll 1233](https://vote.makerdao.com/polling/QmWc4toZ), [Ecosystem Authorization](http://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266/2)
 - **Proposal**: Forum Posts [1](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-14-2025/26262/), [2](https://forum.sky.money/t/technical-scope-sp-beam-initialization-spell/26266)
 
 If this executive proposal passes, then the Stability Parameter Bounded External Access Module (SP-BEAM) will be initialized as described below:
