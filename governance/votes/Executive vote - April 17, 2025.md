@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - The Stability Parameter Bounded External Access Module (SP-BEAM) will be initialized as described below.
-- The Sky Token Rewards (SKY to USDS) APY will be adjusted.
+- The Sky Token Rewards (SKY to USDS) Annual Percentage Yield (APY) will be adjusted.
 - The Aave Lido Market (Prime Market) Direct Deposit Module (DDM) Debt Ceiling (DC) will be set to 0.
 - The Smart Burn Engine (SBE) `hop` parameter will be updated as described below.
 - **5 million USDS** and **24 million SKY** will be distributed to the Launch Project.
@@ -107,7 +107,7 @@ If this executive proposal passes, then the SBE parameter below will be updated 
 - **Authorization**: [Atlas A.5.6](https://sky-atlas.powerhouse.io/A.5.6_Launch_Project/1f433d9d-7cdb-406f-b7e8-f9bc4855eb77%7C8d5a)
 - **Proposal**: [Forum post](https://forum.sky.money/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/30)
 
-If this executive proposal passes, then the following Launch Project funding distributions will be made:
+If this executive proposal passes, then the following [Launch Project](https://sky-atlas.powerhouse.io/A.5.5_Launch_Project/1f433d9d-7cdb-406f-b7e8-f9bc4855eb77|8d5a) funding distributions will be made:
 
 - Transfer **5 million USDS** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - Transfer **24 million SKY** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
@@ -133,7 +133,7 @@ If this executive proposal passes, then a total of **24,000 USDS** will be distr
 | Cloaky      | 4,000         | [0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) |
 | JuliaChang  | 4,000         | [0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7](https://etherscan.io/address/0x252abAEe2F4f4b8D39E5F12b163eDFb7fac7AED7) |
 | WBC         | 4,000         | [0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) |
-| PBG         | 3,555         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
+| PBG         | 3,355         | [0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) |
 | Byteron     | 645           | [0xc2982e72D060cab2387Dba96b846acb8c96EfF66](https://etherscan.io/address/0xc2982e72D060cab2387Dba96b846acb8c96EfF66) |
 
 ### Atlas Core Development Payments
