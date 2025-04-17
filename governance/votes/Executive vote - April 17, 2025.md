@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] SP-BEAM Initialization, Sky Token Rewards Rebalance, Set Aave Lido Market (Prime Market) DDM DC to 0, SBE Changes, Launch Project Funding, Spark-Aave Revenue Share Payment, AD Compensation, Atlas Core Development Payments, Spark Proxy Spell - April 17, 2025
 summary: Stability Parameter Bounded External Access Module (SP-BEAM) initialization, Sky Token Rewards (SKY to USDS) rebalance, setting Aave Lido Market (Prime Market) Direct Deposit Module Debt Ceiling to 0, Smart Burn Engine parameter update, Launch Project funding, Spark-Aave Revenue Share payment, Aligned Delegate compensation for March 2025, Atlas Core Development payments, Spark Proxy spell.
 date: 2025-04-17T00:00:00.000Z
-address: "$spell_address"
+address: "0xe4710c979485ecF2cBAD7C7C2a7Bc28c5c521749"
 
 ---
 # [Executive Proposal] SP-BEAM Initialization, Sky Token Rewards Rebalance, Set Aave Lido Market (Prime Market) DDM DC to 0, SBE Changes, Launch Project Funding, Spark-Aave Revenue Share Payment, AD Compensation, Atlas Core Development Payments, Spark Proxy Spell - April 17, 2025
