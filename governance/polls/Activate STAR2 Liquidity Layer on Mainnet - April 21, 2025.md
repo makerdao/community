@@ -70,10 +70,6 @@ This will effectively allow STAR2 to call `buyGemNoFee` and `sellGemNoFee` on th
 MCD_LITE_PSM_USDC_A.kiss(0x491EDFB0B8b608044e227225C715981a30F3A44E)
 ```
 
-#### Update STAR2 Allocator risk parameters
-
-?To be provided by BA Labs?
-
 Please review the discussion [thread](https://forum.sky.money/t/technical-test-of-of-the-star2-allocation-system/26289) to help inform your position before voting.
 
 ## Outcomes
