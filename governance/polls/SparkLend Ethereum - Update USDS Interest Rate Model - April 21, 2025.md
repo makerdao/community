@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the updating the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
+The community can vote in this poll to express support or opposition to updating the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
 
 - [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **4.50%**.
 - [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): Increase by 0.75 percentile points from 0% to **0.75%**.
@@ -38,14 +38,14 @@ Please review the discussion [thread](https://forum.sky.money/t/may-1-2025-propo
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 
 - Phoenix Labs will prepare a Spark spell to update the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) on Sparklend Ethereum as described above.
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 
 ---
 

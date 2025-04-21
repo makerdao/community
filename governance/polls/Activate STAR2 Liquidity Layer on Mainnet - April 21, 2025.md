@@ -43,7 +43,7 @@ All deployments were [verified by ChainSecurity](https://github.com/ChainSecurit
 
 ### Initial Parameters for the Test
 
-On-chain parameters for the STAR2 Liquidity Layer for initial activation (?to be confirmed by BA Labs?).
+On-chain parameters for the STAR2 Liquidity Layer for initial activation.
 
 | Parameter | Max Amount | Slope (Tokens/Day) |
 | --------- | ---------- | ------------------ |
@@ -55,10 +55,10 @@ On-chain parameters for the STAR2 Liquidity Layer for initial activation (?to be
 To test the recently deployed STAR2 Liquidity Layer, the STAR2 team proposes to onboard Centrifuge 7540 Vault and conduct a test deployment of 100,000 USDC with the following parameters:
 
 - Deposits
-  - `Max amount`: 100 million USDC
-  - `Slope`: 50 million USDC
+  - `Max amount`: **100 million USDC**
+  - `Slope`: **50 million USDC**
 - Withdrawals
-  - `Max amount`: Unlimited
+  - `Max amount`: **Unlimited**
 
 ### Sky Core Spell Content
 
@@ -78,13 +78,13 @@ Please review the discussion [thread](https://forum.sky.money/t/technical-test-o
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 
 ---
 

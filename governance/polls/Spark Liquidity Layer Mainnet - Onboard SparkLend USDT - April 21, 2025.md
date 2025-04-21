@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the onboarding SparkLend USDT to the Spark Liquidity Layer on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+The community can vote in this poll to express support or opposition to the onboarding of SparkLend USDT to the Spark Liquidity Layer on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits
   - `Max amount`: **100 million USDT**
@@ -39,13 +39,13 @@ Please review the discussion [thread](https://forum.sky.money/t/may-1-2025-propo
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 
 ---
 

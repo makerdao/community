@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the adjusting the USDT [Cap Automator parameters](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.3_SparkLend_Risk_Parameters_Cap_Automators/1c1f2ff0-8d73-81ec-bc16-e2f85c0765d7%7C7896ed3326389fe3553030cd0a82f68e) on SparkLend Ethereum as follows:
+The community can vote in this poll to express support or opposition to adjusting the USDT [Cap Automator parameters](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.3_SparkLend_Risk_Parameters_Cap_Automators/1c1f2ff0-8d73-81ec-bc16-e2f85c0765d7%7C7896ed3326389fe3553030cd0a82f68e) on SparkLend Ethereum as follows:
 
 - Supply cap
   - `gap`: Set to **100 million USDT**.
@@ -42,13 +42,13 @@ Please review the discussion [thread](https://forum.sky.money/t/may-1-2025-propo
 
 ## Outcomes
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:**
 
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
 - If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055) has expired.
 
-**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
+**If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.**
 
 ---
 
