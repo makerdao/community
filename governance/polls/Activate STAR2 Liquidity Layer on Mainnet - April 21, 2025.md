@@ -64,7 +64,7 @@ To test the recently deployed STAR2 Liquidity Layer, the STAR2 team proposes to 
 
 #### Whitelist STAR2 ALMProxy on the LitePSM
 
-This will effectively allow STAR2 to call `buyGemNoFee` and `sellGemNoFee` on the `MCD_LITE_PSM_USDC_A` contract. Example code:
+This will allow STAR2 to call `buyGemNoFee` and `sellGemNoFee` on the `MCD_LITE_PSM_USDC_A` contract. Example code:
 
 ```solidity
 MCD_LITE_PSM_USDC_A.kiss(0x491EDFB0B8b608044e227225C715981a30F3A44E)

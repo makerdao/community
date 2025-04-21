@@ -32,10 +32,9 @@ The community can vote in this poll to express support or opposition to adjustin
 - Supply cap
   - `gap`: Set to **100 million USDT**.
   - `max`: Increase by 470 million USDT from 30 million USDT to **500 million USDT**.
-  - `ttl`: Keep unset (N/A).
 - Borrow cap
   - `gap`: Increase by 47 million USDT from 3 million USDT to **50 million USDT**.
-  - `max`: Increase by 421.5 million USDC from 28.5 million UDST to **450 million USDT**.
+  - `max`: Increase by 421.5 million USDT from 28.5 million USDT to **450 million USDT**.
   - `ttl`: Keep unchanged at **12 hours**.
 
 Please review the discussion [thread](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288) to help inform your position before voting.
