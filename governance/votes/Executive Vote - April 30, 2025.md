@@ -1,7 +1,6 @@
 ---
 title: Template - [Executive Vote] STAR2 Allocation System Updates, Increase GSM Pause Delay, Add Emergency Spell to Chainlog, Top-up of the Integration Boost, Launch Project Funding, Spark Proxy Spell, STAR2 Proxy Spell - April 30, 2025
 summary: Update STAR2 Allocation Parameters for Technical Test, Increase the GSM Pause Delay, Add EMSP_SPBEAM_HALT to the Chainlog, Transfer funds for Integration Boost, Transfer funds for Launch Project, Execute Spark proxy Spell, Execute STAR2 proxy spell.
-
 date: 2025-04-30T00:00:00.000Z
 address: "$spell_address"
 
