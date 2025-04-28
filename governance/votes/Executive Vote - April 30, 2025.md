@@ -16,6 +16,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
+
 - STAR2 Allocation System will be updated as described below.
 - The [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased.
 - EMSP_SPBEAM_HALT Standby Spell at [0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0 ](https://etherscan.io/address/0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0) will be added to the Chainlog.
