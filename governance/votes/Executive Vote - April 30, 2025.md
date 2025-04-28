@@ -214,7 +214,7 @@ On-chain parameters for the STAR2 Liquidity Layer for initial activation.
 | LIMIT_USDS_MINT | 100 million | 50 million |
 | LIMIT_USDS_TO_USDC | 100 million | 50 million |
 
-**Liquidity Layer**
+##### Liquidity Layer
 
 To test the recently deployed STAR2 Liquidity Layer, the STAR2 team proposes to onboard Centrifuge 7540 Vault and conduct a test deployment of 100,000 USDC with the following parameters:
 
