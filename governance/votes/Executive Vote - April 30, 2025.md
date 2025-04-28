@@ -47,7 +47,9 @@ If this executive proposal passes, then the following updates to the STAR2 Alloc
 
 #### Whitelist STAR2 ALMProxy
 
-- The STAR2 ALMProxy will be whitelisted on the LitePSM by performing a `kiss` call.
+The STAR2 ALMProxy will be whitelisted on the LitePSM by performing the following call.
+
+- `MCD_LITE_PSM_USDC_A.kiss(0x491EDFB0B8b608044e227225C715981a30F3A44E)`
 
 #### STAR2 [Debt Ceiling Instant Access Module](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) Changes
 
