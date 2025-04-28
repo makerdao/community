@@ -20,8 +20,8 @@ If this executive proposal passes, the following **actions** will occur within t
 - STAR2 Allocation System will be updated as described below.
 - The [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased.
 - EMSP_SPBEAM_HALT Standby Spell at [0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0](https://etherscan.io/address/0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0) will be added to the Chainlog.
-- **3,000,000 USDS** will be transfered to top off the Integration Boost at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
-- **5,000,000 USDS** and **30,000,000 SKY** will be transfered to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- **3 million USDS** will be transfered to top off the Integration Boost at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
+- **5 million USDS** and **30 million SKY** will be transfered to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - A Spark proxy spell at [0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe](https://etherscan.io/address/0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe) will be executed.
 - A STAR2 proxy spell at [0x0c9CC5D5fF3baf096d29676039BD6fB94586111A](https://etherscan.io/address/0x0c9CC5D5fF3baf096d29676039BD6fB94586111A) will be executed.
 
@@ -70,11 +70,31 @@ If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0
 
 ### Top-up of the Integration Boost
 
+- **Authorization**: [Atlas - Integration Boost Primitive](https://sky-atlas.powerhouse.io/A.AG1.2.5.P13_Integration_Boost_Primitive/1c1f2ff0-8d73-81de-9e4f-c86f07474bf2%7C7896ed3326389fe3185c6795)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-integration-boost-budget-a-5-2-1-2/25536/10)
+
+If this executive proposal passes, then the following Integration Boost funding distribution will be made:
+
+- Transfer **3 million USDS** to [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
+
 ### Launch Project Funding
+
+- **Authorization**: [Atlas - Launch Project](https://sky-atlas.powerhouse.io/A.5.6_Launch_Project/1f433d9d-7cdb-406f-b7e8-f9bc4855eb77%7C8d5a)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/utilization-of-the-launch-project-under-the-accessibility-scope/21468/37)
+
+If this executive proposal passes, then the following [Launch Project](https://sky-atlas.powerhouse.io/A.5.5_Launch_Project/1f433d9d-7cdb-406f-b7e8-f9bc4855eb77|8d5a) funding distributions will be made:
+
+- Transfer **5 million USDS** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- Transfer **30 million SKY** to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 
 ### Spark Proxy Spell
 
+If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe](https://etherscan.io/address/0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe) with the following contents.
+
 ### STAR2 Proxy Spell
+
+If this executive proposal passes, then a STAR2 Proxy Spell will be executed at [0x0c9CC5D5fF3baf096d29676039BD6fB94586111A](https://etherscan.io/address/0x0c9CC5D5fF3baf096d29676039BD6fB94586111A) with the following contents.
+
 
 ## Review
 
