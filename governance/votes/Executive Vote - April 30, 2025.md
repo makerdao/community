@@ -19,7 +19,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - STAR2 Allocation System will be updated as described below.
 - The [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased.
-- EMSP_SPBEAM_HALT Standby Spell at 0xf0c6e6ec8b367cc483a411e595d3ba0a816d37d0 will be added to the Chainlog.
+- EMSP_SPBEAM_HALT Standby Spell at [0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0](https://etherscan.io/address/0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0) will be added to the Chainlog.
 - **3,000,000 USDS** will be transfered to top off the Integration Boost at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
 - **5,000,000 USDS** and **30,000,000 SKY** will be transfered to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
 - A Spark proxy spell at [0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe](https://etherscan.io/address/0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe) will be executed.
@@ -38,26 +38,43 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### STAR2 Allocation System Updates
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- **Authorization**: Governance [Poll 1235](https://vote.makerdao.com/polling/QmepaQjk), [Poll 1243](https://vote.makerdao.com/polling/QmedB3hH)  
+- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-test-of-the-star2-allocation-system/26289)
 
-If this executive proposal passes, then $executive_entry_1_implications.
+If this executive proposal passes, then the following updates to the STAR2 Allocation System will be made.
 
-### $executive_entry_2
+#### Whitelist STAR2 ALMProxy
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+- The STAR2 ALMProxy will be whitelisted on the LitePSM by preforming a `kiss` call.
 
-If this executive proposal passes, then $executive_entry_2_implications.
+#### STAR2 [Debt Ceiling Instant Access Module](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) Changes
 
-### $executive_entry_3
+- Increase ALLOCATOR-BLOOM-A [DC-IAM `gap`](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)/c1e17312-3744-4360-81f4-03564f0dd09d%7C57eaf45219bea3b430c268bb) by 40 million DAI from 10 million DAI to **50 million DAI**.
+- Increase ALLOCATOR-BLOOM-A [DC-IAM `line`](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) by 90 million DAI from 10 million DAI to **100 million DAI**.
 
-- **Authorization**: [$link_to_approval]()
-- **Proposal**: [$link_to_proposal]()
+### Increase the GSM Pause Delay
 
-If this executive proposal passes, then $executive_entry_3_implications.
+- **Authorization**: [Governance Poll 1243](https://vote.makerdao.com/polling/QmedB3hH)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/parameter-changes-poll-april-21-2025/26290)
+
+If this executive proposal passes, then [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased by 30 hours, from 18 hours to **48 hours**.
+
+### Add Emergency Standby Spell to Chainlog
+
+- **Authorization**: [Protocol Facilitator Approval](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304)
+
+If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0](https://etherscan.io/address/0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0) will be added to the Chainlog.
+
+### Top-up of the Integration Boost
+
+### Launch Project Funding
+
+### Spark Proxy Spell
+
+### STAR2 Proxy Spell
 
 ## Review
 
