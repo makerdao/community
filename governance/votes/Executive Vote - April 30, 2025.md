@@ -66,7 +66,7 @@ If this executive proposal passes, then [GSM Pause Delay](https://sky-atlas.powe
 - **Authorization**: [Protocol Facilitator Approval](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304)
 
-If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0](https://etherscan.io/address/0xf0C6e6Ec8B367cC483A411e595D3Ba0a816d37D0) will be added to the Chainlog.
+If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0](https://etherscan.io/address/0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0) will be added to the Chainlog.
 
 ### Top-up of the Integration Boost
 
@@ -91,10 +91,82 @@ If this executive proposal passes, then the following [Launch Project](https://s
 
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe](https://etherscan.io/address/0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe) with the following contents.
 
+#### Spark Liquidity Layer Mainnet - Onboard Aave Core USDT
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### Spark Liquidity Layer Mainnet - Onboard SparkLend USDT
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### SparkLend Ethereum - Adjust USDT Cap Automator Parameters 
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### SparkLend Ethereum - Update DAI Interest Rate Model
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### SparkLend Ethereum - Update USDC Interest Rate Model
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### SparkLend Ethereum - Update USDS Interest Rate Model
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+#### SparkLend Ethereum - Update USDT Interest Rate Model
+
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
 ### STAR2 Proxy Spell
 
 If this executive proposal passes, then a STAR2 Proxy Spell will be executed at [0x0c9CC5D5fF3baf096d29676039BD6fB94586111A](https://etherscan.io/address/0x0c9CC5D5fF3baf096d29676039BD6fB94586111A) with the following contents.
 
+#### Activate STAR2 Liquidity Layer on Mainnet
+
+- **Authorization**: [Governance Poll 1235](https://vote.makerdao.com/polling/QmepaQjk)
+- **Proposal**: [Forum Post](https://forum.sky.money/t/technical-test-of-the-star2-allocation-system/26289)
+
+Activate STAR2 Liquidity Layer on Mainnet with the following parameters:
+
+**Pre-deployed contracts**
+
+| Contract Name | Address |
+| ------------- | ------- |
+| **ALMProxy** | [`0x491EDFB0B8b608044e227225C715981a30F3A44E`](https://etherscan.io/address/0x491EDFB0B8b608044e227225C715981a30F3A44E#code) |
+| **MainnetController** | [`0x3048386E09c72C20FB268a37d2B630D7f2Ee9138`](https://etherscan.io/address/0x3048386E09c72C20FB268a37d2B630D7f2Ee9138#code) |
+| **RateLimits** | [`0x5F5cfCB8a463868E37Ab27B5eFF3ba02112dF19a`](https://etherscan.io/address/0x5F5cfCB8a463868E37Ab27B5eFF3ba02112dF19a#code) |
+| **ALMRelayer** (SafeProxy) | [`0x0eEC86649E756a23CBc68d9EFEd756f16aD5F85f`](https://etherscan.io/address/0x0eEC86649E756a23CBc68d9EFEd756f16aD5F85f#code) |
+| **ALMFreezer** (SafeProxy) | [`0xB0113804960345fd0a245788b3423319c86940e5`](https://etherscan.io/address/0xB0113804960345fd0a245788b3423319c86940e5#code) |
+
+All deployments were [verified by ChainSecurity](https://github.com/ChainSecurity/dv-files/tree/main/sky/bloom-alm-controller).
+
+**Initial Parameters for the Test**
+
+On-chain parameters for the STAR2 Liquidity Layer for initial activation.
+
+| Parameter | Max Amount | Slope (Tokens/Day) |
+| --------- | ---------- | ------------------ |
+| LIMIT_USDS_MINT | 100 million | 50 million |
+| LIMIT_USDS_TO_USDC | 100 million | 50 million |
+
+**Liquidity Layer**
+
+To test the recently deployed STAR2 Liquidity Layer, the STAR2 team proposes to onboard Centrifuge 7540 Vault and conduct a test deployment of 100,000 USDC with the following parameters:
+
+- Deposits
+  - `Max amount`: **100 million USDC**
+  - `Slope`: **50 million USDC**
+- Withdrawals
+  - `Max amount`: **Unlimited**
 
 ## Review
 
