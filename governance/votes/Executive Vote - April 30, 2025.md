@@ -205,7 +205,7 @@ Activate STAR2 Liquidity Layer on Mainnet with the following parameters.
 
 All deployments were [verified by ChainSecurity](https://github.com/ChainSecurity/dv-files/tree/main/sky/bloom-alm-controller).
 
-**Initial Parameters for the Test**
+##### Initial Parameters for the Test
 
 On-chain parameters for the STAR2 Liquidity Layer for initial activation.
 
