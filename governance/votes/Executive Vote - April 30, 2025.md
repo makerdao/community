@@ -93,38 +93,94 @@ If this executive proposal passes, then a Spark Proxy Spell will be executed at 
 
 #### Spark Liquidity Layer Mainnet - Onboard Aave Core USDT
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1236](https://vote.makerdao.com/polling/QmQM99z5)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Onboard Aave Core USDT to the Spark Liquidity Layer on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits): 
+
+- Deposits
+  - `Max amount`: **50 million USDT**
+  - `Slope`: **25 million USDT per day**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+ 
+You can read more about Aave Core in this [forum post by BA Labs](https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760/7#p-100382-mainnet-spark-liquidity-layer-onboard-aave-v3-main-market-usdc-and-usds-9).
 
 #### Spark Liquidity Layer Mainnet - Onboard SparkLend USDT
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1237](https://vote.makerdao.com/polling/QmfJ5yDF)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
 
+Onboard SparkLend USDT to the Spark Liquidity Layer on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+
+- Deposits
+  - `Max amount`: **100 million USDT**
+  - `Slope`: **50 million USDT per day**
+- Withdrawals
+  - `Max amount`: **Unlimited**
+  
 #### SparkLend Ethereum - Adjust USDT Cap Automator Parameters 
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1238](https://vote.makerdao.com/polling/QmZ2vydY)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Adjust the USDT [Cap Automator parameters](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.3_SparkLend_Risk_Parameters_Cap_Automators/1c1f2ff0-8d73-81ec-bc16-e2f85c0765d7%7C7896ed3326389fe3553030cd0a82f68e) on SparkLend Ethereum as follows:
+
+- Supply cap
+  - `gap`: Set to **100 million USDT**.
+  - `max`: Increase by 470 million USDT from 30 million USDT to **500 million USDT**.
+- Borrow cap
+  - `gap`: Increase by 47 million USDT from 3 million USDT to **50 million USDT**.
+  - `max`: Increase by 421.5 million USDT from 28.5 million USDT to **450 million USDT**.
+  - `ttl`: Keep unchanged at **12 hours**.
 
 #### SparkLend Ethereum - Update DAI Interest Rate Model
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1239](https://vote.makerdao.com/polling/Qmdc28Ag)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Update the DAI [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
+
+- [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **SSR value**.
+- [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **0.75%**.
+- [Slope 2](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **15%**.
+- [Optimal utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **80%**.
 
 #### SparkLend Ethereum - Update USDC Interest Rate Model
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1240](https://vote.makerdao.com/polling/Qmee2jez)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Update the USDC [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
+
+- [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **0%**.
+- [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): Reduce by 1.33 percentage points from 6.83% to **5.50%** (SSR + 1%).
+- [Slope 2](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **15%**.
+- [Optimal utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **95%**.
 
 #### SparkLend Ethereum - Update USDS Interest Rate Model
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1241](https://vote.makerdao.com/polling/QmeNB8S1)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Update the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
+
+- [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): Set to **SSR value**.
+- [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): Increase by 0.75 percentage points from 0% to **0.75%**.
+- [Slope 2](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49): Reduce by 5 percentage points from 20% to **15%**.
+- [Optimal utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49): Reduce by 15 percentage points from 95% to **80%**.
 
 #### SparkLend Ethereum - Update USDT Interest Rate Model
 
-- **Authorization**: [$link_to_approval]()
+- **Authorization**: [Governance Poll 1242](https://vote.makerdao.com/polling/QmfBmrxq)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288)
+
+Update the USDT [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) as follows:
+
+- [Base rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **0%**.
+- [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): Update to **SSR value plus 1%**.
+- [Slope 2](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **15%**.
+- [Optimal utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49): Keep unchanged at **95%**.
 
 ### STAR2 Proxy Spell
 
