@@ -17,9 +17,14 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 ## Executive Summary
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- STAR2 Allocation System will be updated as described below.
+- The [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased.
+- EMSP_SPBEAM_HALT Standby Spell at 0xf0c6e6ec8b367cc483a411e595d3ba0a816d37d0 will be added to the Chainlog.
+- **3,000,000 USDS** will be transfered to top off the Integration Boost at [0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7](https://etherscan.io/address/0xD6891d1DFFDA6B0B1aF3524018a1eE2E608785F7).
+- **5,000,000 USDS** and **30,000,000 SKY** will be transfered to the Launch Project at [0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F](https://etherscan.io/address/0x3C5142F28567E6a0F172fd0BaaF1f2847f49D02F).
+- A Spark proxy spell at [0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe](https://etherscan.io/address/0x9362B8a15ab78257b11a55F7CC272F4C4676C2fe) will be executed.
+- A STAR2 proxy spell at [0x0c9CC5D5fF3baf096d29676039BD6fB94586111A](https://etherscan.io/address/0x0c9CC5D5fF3baf096d29676039BD6fB94586111A) will be executed.
+
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
