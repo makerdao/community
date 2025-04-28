@@ -191,7 +191,7 @@ If this executive proposal passes, then a STAR2 Proxy Spell will be executed at 
 - **Authorization**: [Governance Poll 1235](https://vote.makerdao.com/polling/QmepaQjk)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/technical-test-of-the-star2-allocation-system/26289)
 
-Activate STAR2 Liquidity Layer on Mainnet with the following parameters:
+Activate STAR2 Liquidity Layer on Mainnet with the following parameters.
 
 ##### Pre-deployed contracts
 
