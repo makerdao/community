@@ -193,7 +193,7 @@ If this executive proposal passes, then a STAR2 Proxy Spell will be executed at 
 
 Activate STAR2 Liquidity Layer on Mainnet with the following parameters:
 
-**Pre-deployed contracts**
+##### Pre-deployed contracts
 
 | Contract Name | Address |
 | ------------- | ------- |
