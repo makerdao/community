@@ -47,7 +47,7 @@ If this executive proposal passes, then the following updates to the STAR2 Alloc
 
 #### Whitelist STAR2 ALMProxy
 
-The STAR2 ALMProxy will be whitelisted on the LitePSM by performing the following call.
+The STAR2 ALMProxy will be whitelisted on the LitePSM by performing the following call:
 
 - `MCD_LITE_PSM_USDC_A.kiss(0x491EDFB0B8b608044e227225C715981a30F3A44E)`
 
