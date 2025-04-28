@@ -66,7 +66,7 @@ If this executive proposal passes, then [GSM Pause Delay](https://sky-atlas.powe
 - **Authorization**: [Protocol Facilitator Approval](http://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304/3)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/proposed-housekeeping-item-upcoming-executive-spell-2025-04-30/26304)
 
-If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0](https://etherscan.io/address/0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0) will be added to the Chainlog.
+If this executive proposal passes, then the EMSP_SPBEAM_HALT Standby Spell at [0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0](https://etherscan.io/address/0xDECF4A7E4b9CAa3c3751D163866941a888618Ac0) will be added to the [Chainlog](https://chainlog.sky.money).
 
 ### Top-up of the Integration Boost
 
