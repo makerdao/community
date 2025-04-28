@@ -59,7 +59,7 @@ If this executive proposal passes, then the following updates to the STAR2 Alloc
 - **Authorization**: [Governance Poll 1243](https://vote.makerdao.com/polling/QmedB3hH)
 - **Proposal**: [Forum Post](https://forum.sky.money/t/parameter-changes-poll-april-21-2025/26290)
 
-If this executive proposal passes, then [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased by 30 hours, from 18 hours to **48 hours**.
+If this executive proposal passes, then [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) will be increased by 30 hours from 18 hours to **48 hours**.
 
 ### Add Emergency Standby Spell to Chainlog
 
