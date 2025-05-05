@@ -26,7 +26,7 @@ end_date: 2025-05-08T16:00:00
 ---
 # Atlas Edit Weekly Cycle Proposal - May 5, 2025
 
-The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319/4). This Governance Poll will be active for three days beginning on Monday, May 5 at 16:00 UTC.
+The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.10.1.1_Edits_To_The_Atlas/115f2ff0-8d73-80a9-af46-ef481d81934e%7C0db303084211) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319/4). This Governance Poll will be active for three days beginning on Monday, May 5 at 16:00 UTC.
 
 **This is a binary vote.**
 
