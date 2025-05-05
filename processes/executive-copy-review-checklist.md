@@ -32,7 +32,9 @@
 
 - [ ] Read the executive copy in full, with the above checklists and general readability in mind. Raise any issues with the author.
 
-## Atlas Active Element Updates
+## External Updates
+
+### Atlas Active Element Updates
 
 - [ ] Check if any Atlas active elements will need to be updated if this executive proposal passes
 
@@ -40,3 +42,12 @@
 	- [ ] Check that a PR to the next-gen-atlas repository has been opened by the author.
 	- [ ] Check that all values being changed by the executive proposal have been correctly updated in the Sky Atlas document.
 	- [ ] If all present, approve the PR so that it can be merged as soon as the executive proposal has executed.
+
+### Standby Spells update
+
+- [ ] Check if any new ilk has been onboarded/offboarded
+- [ ] If yes
+	- [ ] Check that a PR to the dss-emergency-spells repository has been opened by the author.
+	- [ ] Check that all Standby Spells being affected by the executive proposal have been correctly updated in the README file.
+ 	- [ ] If all present, approve the PR so that it can be merged as soon as the executive proposal has executed. 
+ 
