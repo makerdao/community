@@ -59,7 +59,7 @@ The functionality to convert SKY to MKR in the existing converter contract locat
 
 #### Launch New MKR-to-SKY Conversion Contract
 
-A new contract that allows the one-way upgrading from MKR to SKY will has been pre-deployed at [0xA1Ea1bA18E88C381C724a75F23a130420C403f9a](https://etherscan.io/address/0xA1Ea1bA18E88C381C724a75F23a130420C403f9a). This contract:
+A new contract that allows the one-way upgrading from MKR to SKY has been pre-deployed at [0xA1Ea1bA18E88C381C724a75F23a130420C403f9a](https://etherscan.io/address/0xA1Ea1bA18E88C381C724a75F23a130420C403f9a). This contract:
 
 - Will be authorized by calling `SkyInit.updateMkrSky`.
 - Will support a Delayed Upgrade Penalty initially set to 0%.
@@ -75,7 +75,7 @@ The Emergency Shutdown Module will be disabled by setting the amount of MKR requ
 
 #### Launch New Chief Contract
 
-A new [Chief contract]() will be deployed to support voting with SKY instead of MKR. The Chief migration will be initialized through the following call:
+A new [Chief contract]() has been pre-deployed to support voting with SKY instead of MKR. The Chief migration will be initialized through the following call:
 
 - Initialize Chief migration by calling `MigrationInit.initMigration` with the following parameters:
   - inst.chief: [**0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9**](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)
@@ -119,18 +119,18 @@ More details about the technical scope of the Chief migration can be found [here
 
 #### Deploy New VoteDelegate Factory
 
-A new Vote Delegate factory contract will be deployed. The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
+A new Vote Delegate factory contract has been pre-deployed at [0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5). The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
 
 #### Deploy New SKY Chronicle Scribe Instance Oracle and Add it to the OSM_MOM Contract
 
-A new Oracle Security Module based on the Scribe SKY oracle will be deployed and added to the OSM_MOM.
+A new Oracle Security Module based on the Scribe SKY oracle has been pre-deployed at [0x511485bBd96e7e3a056a8D1b84C5071071C52D6F](https://etherscan.io/address/0x511485bBd96e7e3a056a8D1b84C5071071C52D6F) and added to the OSM_MOM.
 
 #### Update Smart Burn Engine Parameters
 
 The parameters of the Smart Burn Engine will be updated as follows:
 
 - The oracle will be changed to the new SKY oracle.
-- The rewardsDuration for the LSEV2-SKY-A USDS rewards contract will be set so that it is equal to the splitter.hop parameter (**1,728 seconds**.)
+- The rewardsDuration for the LSEV2-SKY-A USDS rewards contract will be set so that it is equal to the `splitter.hop` parameter (**1,728 seconds**.)
 
 #### Launch Sky Staking
 
