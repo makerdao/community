@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - May 12, 2025
-summary: This Atlas Edit 1) clarifies SKY staking parameters, 2) adds documentation regarding approval of the upgrade from MKR to SKY, 3) updates documentation regarding legacy brands.
+summary: This Atlas Edit 1) clarifies SKY staking parameters, 2) adds documentation regarding approval of the upgrade from MKR to SKY, 3) updates documentation regarding legacy brands, 4) includes new Vote Delegate Factory contract in MKR to SKY upgrade plan.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-12-2025/26364
 parameters:
     input_format:
@@ -48,7 +48,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 - _**Clarify SKY Staking Parameters** - Clarifies where SKY Staking parameters will be specified when SKY Staking launches._
 - _**Add Documentation Regarding Approval Of Upgrade From MKR To SKY** - Adds documentation regarding the vote by MKR holders to approve the upgrade from MKR to SKY as the governance token of the Protocol._
 - _**Update Documentation Regarding Legacy Brands** - Updates the documentation regarding legacy brands to reflect the deprecation of MKR as the governance token of the Protocol._
-
+- **Include New Vote Delegate Factory Contract In MKR To SKY Upgrade Plan** - Adds the deployment of the new Vote Delegate Factory contract to the MKR to SKY upgrade plan.
 ## Outcomes
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **20,000 MKR**.

@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the foll
 ### USDS Mint Rate Limits
 
 - Increase max by 300 million USDS from 200 million USDS to **500 million USDS**.
-- Increase slope by 300 million USDS from 200 million USDS to **500 million USDS per day**.
+- Increase slope by 300 million USDS per day from 200 million USDS per day to **500 million USDS per day**.
 
 ### USDC Swap Rate Limits
 
