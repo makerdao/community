@@ -35,8 +35,8 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### MKR-to-SKY Upgrade Phase One
 
-- **Authorization**: [A.4.1.2.1.1 - MKR To SKY Upgrade Phase One](https://sky-atlas.powerhouse.io/A.4.1.2.1.1_MKR_To_SKY_Upgrade_Phase_One/1f1f2ff0-8d73-8006-b95a-f830d28d4645|b341f4c0b83472dc)
-- **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
+- **Authorization**: [A.4.1.2.1.1 - MKR To SKY Upgrade Phase One](https://sky-atlas.powerhouse.io/A.4.1.2.1.1_MKR_To_SKY_Upgrade_Phase_One/1f1f2ff0-8d73-8006-b95a-f830d28d4645|b341f4c0b83472dc), [Ecosystem Approval](http://forum.sky.money/t/technical-scope-of-the-chief-migration/26361/3)
+- **Proposal**: Forum post [1](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319), [2](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-12-2025/26364), [3](https://forum.sky.money/t/technical-scope-of-the-chief-migration/26361)
 
 As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1.2.1 - MKR To SKY Upgrade](https://sky-atlas.powerhouse.io/A.4.1.2.1_MKR_To_SKY_Upgrade/d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834). Phase One comprises the following actions:
 
@@ -171,8 +171,8 @@ More details about the technical scope of the Chief migration can be found [here
 
 ### Add Protego to the Chainlog
 
-- **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L3971)
-- **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
+- **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L3971), [Ecosystem Approval](http://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365/2)
+- **Proposal**: Forum post [1](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319), [2](https://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365)
 
 Protego is a contract that allows Sky Governance to cancel the execution of planned governance actions that are awaiting the expiration of the Governance Security Module Pause Delay ([GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055)). Protego has been pre-deployed at [0x5C9c3cb0490938c9234ABddeD37a191576ED8624](https://etherscan.io/address/0x5C9c3cb0490938c9234ABddeD37a191576ED8624).
 
