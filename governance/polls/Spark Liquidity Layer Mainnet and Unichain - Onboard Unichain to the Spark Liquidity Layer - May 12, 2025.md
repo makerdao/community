@@ -55,12 +55,41 @@ The community can vote in this poll to express support or opposition to onboardi
 
 #### PSM3
 
-- USDC deposit: **50 million** max, **50 million** slope per day.
-- USDC withdrawal: **50 million** max, **50 million** slope per day.
-- USDS deposit: **Unlimited**.
-- USDS withdrawal: **Unlimited**.
-- sUSDS deposit: **Unlimited**.
-- sUSDS withdrawal: **Unlimited**.
+##### USDC
+
+###### Deposit
+
+- max: **50 million USDC**
+- slope: **50 million USDC** per day
+
+###### Withdrawal
+
+- max: **50 million USDC**
+- slope: **50 million USDC** per day
+
+##### USDS
+
+###### Deposit
+
+- max: **Unlimited**
+- slope: **Unlimited**
+
+###### Withdrawal
+
+- max: **Unlimited**
+- slope: **Unlimited**
+
+##### sUSDS
+
+###### Deposit
+
+- max: **Unlimited**
+- slope: **Unlimited**
+
+###### Withdrawal
+
+- max: **Unlimited**
+- slope: **Unlimited**
 
 #### CCTP
 
