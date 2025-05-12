@@ -19,7 +19,7 @@ If this executive proposal passes, the following **actions** will occur within t
 
 - Phase one of the MKR-to-SKY upgrade will be executed as described below.
 - Protego will be added to the [Chainlog](https://chainlog.sky.money)
-- A Spark Proxy spell will be executed.
+- A Spark Proxy Spell will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
