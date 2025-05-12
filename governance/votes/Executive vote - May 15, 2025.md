@@ -45,7 +45,7 @@ As part of the transition to the Endgame, the technical infrastructure of the Sk
 - Disable MKR Flop Auctions.
 - Disable Emergency Shutdown Module.
 - Launch new Chief Contract.
-- Deploy New VoteDelegate Factory.
+- Deploy New Vote Delegate Factory.
 - Move the authority of the Spark Freezer MOM contract to the new Chief contract (through the Spark Proxy Spell).
 - Launch the new SKY oracle and add the new SKY oracle to the Oracle Security Module MOM contract.
 - Update Smart Burn Engine Parameters.
@@ -96,7 +96,7 @@ A new [Chief contract](https://github.com/makerdao/next-gen-atlas/blob/86359e837
   - cfg.lockstakeConfig.ilk: **"LSEV2-SKY-A"**
   - cfg.lockstakeConfig.farms: **array [StakingRewards: [0x38E4254bD82ED5Ee97CD1C4278FAae748d998865](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)]**
   - cfg.lockstakeConfig.fee: **0**
-  - cfg.lockstakeConfig.dust: **30,000**
+  - cfg.lockstakeConfig.dust: **30,000 USDS**
   - cfg.lockstakeConfig.duty: **20%**
   - cfg.lockstakeConfig.mat: **125%**
   - cfg.lockstakeConfig.buf: **120%**
@@ -106,7 +106,7 @@ A new [Chief contract](https://github.com/makerdao/next-gen-atlas/blob/86359e837
   - cfg.lockstakeConfig.tip: **300 USDS**
   - cfg.lockstakeConfig.stopped: **3**
   - cfg.lockstakeConfig.chop: **13%**
-  - cfg.lockstakeConfig.hole: **250,000**
+  - cfg.lockstakeConfig.hole: **250,000 USDS**
   - cfg.lockstakeConfig.tau: **0 days**
   - cfg.lockstakeConfig.cut: **0.99**
   - cfg.lockstakeConfig.step: **60 seconds**
@@ -117,9 +117,9 @@ A new [Chief contract](https://github.com/makerdao/next-gen-atlas/blob/86359e837
 
 More details about the technical scope of the Chief migration can be found [here](https://forum.sky.money/t/technical-scope-of-the-chief-migration/26361).
 
-#### Deploy New VoteDelegate Factory
+#### Deploy New Vote Delegate Factory
 
-A new Vote Delegate factory contract has been pre-deployed at [0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5). The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
+A new Vote Delegate Factory contract has been pre-deployed at [0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5). The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
 
 #### Deploy New SKY Chronicle Scribe Instance Oracle and Add it to the OSM_MOM Contract
 
@@ -143,7 +143,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 - DC-IAM `gap`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
 - DC-IAM `ttl`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
 - Only existing LSE-MKR-A users with drawn debt are allowed to migrate debt to LSEV2-SKY-A initially.
-- `Dust`: **30,000**
+- `Dust`: **30,000 USDS**
 - `Duty`: **20%**
 - `Mat`: **125%**
 - `Calc`: **StairstepExponentialDecrease**
@@ -154,7 +154,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 - `Tip`: **300 USDS**
 - `Stopped`: **3**
 - `Chop`: **13%**
-- `Hole`: **250,000**
+- `Hole`: **250,000 USDS**
 - `Tau`: **0 days**
 - `Cut`: **0.99**
 - `Step`: **60 seconds**
