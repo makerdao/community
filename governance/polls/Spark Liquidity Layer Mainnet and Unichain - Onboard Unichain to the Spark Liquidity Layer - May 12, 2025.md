@@ -31,7 +31,6 @@ The community can vote in this poll to express support or opposition to onboardi
 
 ### Addresses
 
-
 - L1_TOKEN_BRIDGE: [0xDF0535a4C96c9Cd8921d8FeC92A7680b281681d2](https://etherscan.io/address/0xDF0535a4C96c9Cd8921d8FeC92A7680b281681d2)
 - L2_TOKEN_BRIDGE: [0xa13152006D0216Fe4627a0D3B006087A6a55D752](https://uniscan.xyz/address/0xa13152006D0216Fe4627a0D3B006087A6a55D752)
 - L2_USDS: [0x7E10036Acc4B56d4dFCa3b77810356CE52313F9C](https://uniscan.xyz/address/0x7E10036Acc4B56d4dFCa3b77810356CE52313F9C)
