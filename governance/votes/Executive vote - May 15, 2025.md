@@ -171,7 +171,7 @@ More details about the technical scope of the Chief migration can be found [here
 
 ### Add Protego to the Chainlog
 
-- **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L3971), [Ecosystem Approval](http://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365/2)
+- **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://sky-atlas.powerhouse.io/A.1.9.4.3_Protego/1f1f2ff0-8d73-80be-9ace-f125242ede47%7C0db307588902), [Ecosystem Approval](http://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365/2)
 - **Proposal**: Forum post [1](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319), [2](https://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365)
 
 Protego is a contract that allows Sky Governance to cancel the execution of planned governance actions that are awaiting the expiration of the Governance Security Module Pause Delay ([GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055)). Protego has been pre-deployed at [0x5C9c3cb0490938c9234ABddeD37a191576ED8624](https://etherscan.io/address/0x5C9c3cb0490938c9234ABddeD37a191576ED8624).
