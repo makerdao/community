@@ -1,6 +1,6 @@
 ---
 title: Template - [Executive Vote] MKR-to-SKY Upgrade Phase One, Adding Protego To Chainlog, Spark Proxy Spell - May 15, 2025
-summary: $summary
+summary: Execute MKR-to-SKY Upgrade Phase One, adding Protego to Chainlog, execute Spark Proxy Spell.
 date: 2025-05-15T00:00:00.000Z
 address: "$spell_address"
 
@@ -35,10 +35,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### MKR-to-SKY Upgrade Phase One
 
-- **Authorization**: [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade Phase One](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16607)
+- **Authorization**: [A.4.1.2.1.1 - MKR To SKY Upgrade Phase One](https://sky-atlas.powerhouse.io/A.4.1.2.1.1_MKR_To_SKY_Upgrade_Phase_One/1f1f2ff0-8d73-8006-b95a-f830d28d4645|b341f4c0b83472dc)
 - **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
 
-As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16599). Phase One comprises the following actions:
+As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1.2.1 - MKR To SKY Upgrade](https://sky-atlas.powerhouse.io/A.4.1.2.1_MKR_To_SKY_Upgrade/d5af8504-ddd6-416d-8429-897497b072dc|b341f4c0b834). Phase One comprises the following actions:
 
 - Disable conversion from SKY to MKR in the existing conversion contract.
 - Launch new MKR-to-SKY conversion contract.
@@ -67,7 +67,7 @@ A new contract that allows the one-way upgrading from MKR to SKY has been pre-de
 
 #### Disable MKR Flop Auctions
 
-[MKR flop auctions](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L18890) will be disabled.
+[MKR flop auctions](https://sky-atlas.powerhouse.io/A.4.1.2.1.1.2.3_MKR_Flop_Auctions/1f1f2ff0-8d73-8049-986a-f0c728ebef62%7Cb341f4c0b83472dc46453ac873ab) will be disabled.
 
 #### Disable Emergency Shutdown Module
 
@@ -75,47 +75,7 @@ The Emergency Shutdown Module will be disabled by setting the amount of MKR requ
 
 #### Launch New Chief Contract
 
-A new [Chief contract](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L18515) has been pre-deployed to support voting with SKY instead of MKR. The Chief migration will be initialized through the following call:
-
-- Initialize Chief migration by calling `MigrationInit.initMigration` with the following parameters:
-  - inst.chief: [**0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9**](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)
-  - inst.voteDelegateFactory: [**0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5**](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5)
-  - inst.mkrSky: [**0xA1Ea1bA18E88C381C724a75F23a130420C403f9a**](https://etherscan.io/address/0xA1Ea1bA18E88C381C724a75F23a130420C403f9a)
-  - inst.skyOsm: [**0x511485bBd96e7e3a056a8D1b84C5071071C52D6F**](https://etherscan.io/address/0x511485bBd96e7e3a056a8D1b84C5071071C52D6F)
-  - inst.lsskyUsdsFarm: [**0x38E4254bD82ED5Ee97CD1C4278FAae748d998865**](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)
-  - inst.lockstakeInstance.lssky: [**0xf9A9cfD3229E985B91F99Bc866d42938044FFa1C**](https://etherscan.io/address/0xf9A9cfD3229E985B91F99Bc866d42938044FFa1C)
-  - inst.lockstakeInstance.engine: [**0xCe01C90dE7FD1bcFa39e237FE6D8D9F569e8A6a3**](https://etherscan.io/address/0xCe01C90dE7FD1bcFa39e237FE6D8D9F569e8A6a3)
-  - inst.lockstakeInstance.clipper:  [**0x35526314F18FeB5b7F124e40D6A99d64F7D7e89a**](https://etherscan.io/address/0x35526314F18FeB5b7F124e40D6A99d64F7D7e89a)
-  - inst.lockstakeInstance.clipperCalc: [**0xB8f8c7caabFa320717E3e848948450e120F0D9BB**](https://etherscan.io/address/0xB8f8c7caabFa320717E3e848948450e120F0D9BB)
-  - inst.lockstakeInstance.migrator: [**0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B**](https://etherscan.io/address/0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B)
-  - cfg.maxYays: **5**
-  - cfg.launchThreshold: **2,400,000,000 SKY (equivalent to 100,000 MKR)**
-  - cfg.liftCooldown: **10 blocks**
-  - cfg.skyOracle: [**0xc2ffbbDCCF1466Eb8968a846179191cb881eCdff**](https://etherscan.io/address/0xc2ffbbDCCF1466Eb8968a846179191cb881eCdff)
-  - cfg.rewardsDuration: **Equal to the splitter.hop (1,728 seconds)**
-  - cfg.lockstakeConfig.ilk: **"LSEV2-SKY-A"**
-  - cfg.lockstakeConfig.farms: **array [StakingRewards: [0x38E4254bD82ED5Ee97CD1C4278FAae748d998865](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)]**
-  - cfg.lockstakeConfig.fee: **0**
-  - cfg.lockstakeConfig.dust: **30,000 USDS**
-  - cfg.lockstakeConfig.duty: **20%**
-  - cfg.lockstakeConfig.mat: **125%**
-  - cfg.lockstakeConfig.buf: **120%**
-  - cfg.lockstakeConfig.tail: **6,000 seconds**
-  - cfg.lockstakeConfig.cusp: **40%**
-  - cfg.lockstakeConfig.chip: **0.1%**
-  - cfg.lockstakeConfig.tip: **300 USDS**
-  - cfg.lockstakeConfig.stopped: **3**
-  - cfg.lockstakeConfig.chop: **13%**
-  - cfg.lockstakeConfig.hole: **250,000 USDS**
-  - cfg.lockstakeConfig.tau: **0 days**
-  - cfg.lockstakeConfig.cut: **0.99**
-  - cfg.lockstakeConfig.step: **60 seconds**
-  - cfg.lockstakeConfig.lineMom: **true (as "added to LINE_MOM")**
-  - cfg.lockstakeConfig.tolerance: **0.5**
-  - cfg.lockstakeConfig.name: **LockstakeSky**
-  - cfg.lockstakeConfig.symbol: **lsSKY**
-
-More details about the technical scope of the Chief migration can be found [here](https://forum.sky.money/t/technical-scope-of-the-chief-migration/26361).
+A new [Chief contract](https://sky-atlas.powerhouse.io/A.4.1.2.1.1.2.5_Chief_Contract/1f1f2ff0-8d73-805f-8f38-e788018540f4|b341f4c0b83472dc46453ac8256c) has been pre-deployed at [0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)to support voting with SKY instead of MKR.
 
 #### Deploy New Vote Delegate Factory
 
@@ -165,12 +125,56 @@ SKY Staking will be launched with the following parameters for borrowing against
 - Use new SKY Chronicle Scribe oracle instance OSM.
 - Deny the CLIPPER_MOM from the new lockstake clipper.
 
+#### Phase One Migration Script
+
+The Phase One actions listed above will be implemented by calling the `MigrationInit.initMigration` function as follows:
+
+- Initialize Chief migration by calling `MigrationInit.initMigration` with the following parameters:
+  - inst.chief: [**0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9**](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)
+  - inst.voteDelegateFactory: [**0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5**](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5)
+  - inst.mkrSky: [**0xA1Ea1bA18E88C381C724a75F23a130420C403f9a**](https://etherscan.io/address/0xA1Ea1bA18E88C381C724a75F23a130420C403f9a)
+  - inst.skyOsm: [**0x511485bBd96e7e3a056a8D1b84C5071071C52D6F**](https://etherscan.io/address/0x511485bBd96e7e3a056a8D1b84C5071071C52D6F)
+  - inst.lsskyUsdsFarm: [**0x38E4254bD82ED5Ee97CD1C4278FAae748d998865**](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)
+  - inst.lockstakeInstance.lssky: [**0xf9A9cfD3229E985B91F99Bc866d42938044FFa1C**](https://etherscan.io/address/0xf9A9cfD3229E985B91F99Bc866d42938044FFa1C)
+  - inst.lockstakeInstance.engine: [**0xCe01C90dE7FD1bcFa39e237FE6D8D9F569e8A6a3**](https://etherscan.io/address/0xCe01C90dE7FD1bcFa39e237FE6D8D9F569e8A6a3)
+  - inst.lockstakeInstance.clipper:  [**0x35526314F18FeB5b7F124e40D6A99d64F7D7e89a**](https://etherscan.io/address/0x35526314F18FeB5b7F124e40D6A99d64F7D7e89a)
+  - inst.lockstakeInstance.clipperCalc: [**0xB8f8c7caabFa320717E3e848948450e120F0D9BB**](https://etherscan.io/address/0xB8f8c7caabFa320717E3e848948450e120F0D9BB)
+  - inst.lockstakeInstance.migrator: [**0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B**](https://etherscan.io/address/0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B)
+  - cfg.maxYays: **5**
+  - cfg.launchThreshold: **2,400,000,000 SKY (equivalent to 100,000 MKR)**
+  - cfg.liftCooldown: **10 blocks**
+  - cfg.skyOracle: [**0xc2ffbbDCCF1466Eb8968a846179191cb881eCdff**](https://etherscan.io/address/0xc2ffbbDCCF1466Eb8968a846179191cb881eCdff)
+  - cfg.rewardsDuration: **Equal to the splitter.hop (1,728 seconds)**
+  - cfg.lockstakeConfig.ilk: **"LSEV2-SKY-A"**
+  - cfg.lockstakeConfig.farms: **array [StakingRewards: [0x38E4254bD82ED5Ee97CD1C4278FAae748d998865](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)]**
+  - cfg.lockstakeConfig.fee: **0**
+  - cfg.lockstakeConfig.dust: **30,000 USDS**
+  - cfg.lockstakeConfig.duty: **20%**
+  - cfg.lockstakeConfig.mat: **125%**
+  - cfg.lockstakeConfig.buf: **120%**
+  - cfg.lockstakeConfig.tail: **6,000 seconds**
+  - cfg.lockstakeConfig.cusp: **40%**
+  - cfg.lockstakeConfig.chip: **0.1%**
+  - cfg.lockstakeConfig.tip: **300 USDS**
+  - cfg.lockstakeConfig.stopped: **3**
+  - cfg.lockstakeConfig.chop: **13%**
+  - cfg.lockstakeConfig.hole: **250,000 USDS**
+  - cfg.lockstakeConfig.tau: **0 days**
+  - cfg.lockstakeConfig.cut: **0.99**
+  - cfg.lockstakeConfig.step: **60 seconds**
+  - cfg.lockstakeConfig.lineMom: **true (as "added to LINE_MOM")**
+  - cfg.lockstakeConfig.tolerance: **0.5**
+  - cfg.lockstakeConfig.name: **LockstakeSky**
+  - cfg.lockstakeConfig.symbol: **lsSKY**
+
+More details about the technical scope of the Chief migration can be found [here](https://forum.sky.money/t/technical-scope-of-the-chief-migration/26361).
+
 ### Add Protego to the Chainlog
 
 - **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L3971)
 - **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
 
-Protego is a contract that allows Sky Governance to cancel the execution of planned governance actions that are awaiting the expiration of the Governance Security Module Pause Delay [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055). Protego has been pre-deployed at [0x5C9c3cb0490938c9234ABddeD37a191576ED8624](https://etherscan.io/address/0x5C9c3cb0490938c9234ABddeD37a191576ED8624).
+Protego is a contract that allows Sky Governance to cancel the execution of planned governance actions that are awaiting the expiration of the Governance Security Module Pause Delay ([GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055)). Protego has been pre-deployed at [0x5C9c3cb0490938c9234ABddeD37a191576ED8624](https://etherscan.io/address/0x5C9c3cb0490938c9234ABddeD37a191576ED8624).
 
 If this executive proposal passes, then the following actions will take place:
 
@@ -180,8 +184,10 @@ If this executive proposal passes, then the following actions will take place:
 More details about the technical scope of the Protego deployment can be found [here](https://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365).
 
 ### Spark Proxy Spell
-- **Authorization**: [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade Phase One](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16607)
+
+- **Authorization**: [A.4.1.2.1.1 - MKR To SKY Upgrade Phase One](https://sky-atlas.powerhouse.io/A.4.1.2.1.1_MKR_To_SKY_Upgrade_Phase_One/1f1f2ff0-8d73-8006-b95a-f830d28d4645|b341f4c0b83472dc)
 - **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
+
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xC40611AC4Fff8572Dc5F02A238176edCF15Ea7ba](https://etherscan.io/address/0xC40611AC4Fff8572Dc5F02A238176edCF15Ea7ba) to move the authority of the Spark Freezer MOM contract to the new Chief contract.
 
 ## Review
