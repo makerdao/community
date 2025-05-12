@@ -35,10 +35,10 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### MKR-to-SKY Upgrade Phase One
 
-- **Authorization**: [A.](TBD)
+- **Authorization**: [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade Phase One](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16607)
 - **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
 
-As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade](TBD). Phase One comprises the following actions:
+As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16599). Phase One comprises the following actions:
 
 - Disable conversion from SKY to MKR in existing conversion contract.
 - Launch new MKR-to-SKY conversion contract.
@@ -67,7 +67,7 @@ A new contract that allows the one-way upgrading from MKR to SKY has been pre-de
 
 #### Disable MKR Flop Auctions
 
-[MKR flop auctions](TBD) will be disabled.
+[MKR flop auctions](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L18890) will be disabled.
 
 #### Disable Emergency Shutdown Module
 
@@ -75,7 +75,7 @@ The Emergency Shutdown Module will be disabled by setting the amount of MKR requ
 
 #### Launch New Chief Contract
 
-A new [Chief contract]() has been pre-deployed to support voting with SKY instead of MKR. The Chief migration will be initialized through the following call:
+A new [Chief contract](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L18515) has been pre-deployed to support voting with SKY instead of MKR. The Chief migration will be initialized through the following call:
 
 - Initialize Chief migration by calling `MigrationInit.initMigration` with the following parameters:
   - inst.chief: [**0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9**](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)
@@ -167,7 +167,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 
 ### Add Protego to the Chainlog
 
-- **Authorization**: [Atlas ?](?)
+- **Authorization**: [A.1.9 - Sky Core Governance Security - Emergency Spells - Protego](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L3971)
 - **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
 
 Protego is a contract that allows Sky Governance to cancel the execution of planned governance actions that are awaiting the expiration of the Governance Security Module Pause Delay [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055). Protego has been pre-deployed at [0x5C9c3cb0490938c9234ABddeD37a191576ED8624](https://etherscan.io/address/0x5C9c3cb0490938c9234ABddeD37a191576ED8624).
