@@ -75,9 +75,9 @@ The Emergency Shutdown Module will be disabled by setting the amount of MKR requ
 
 #### Launch New Chief Contract
 
-A new [Chief contract](https://sky-atlas.powerhouse.io/A.4.1.2.1.1.2.5_Chief_Contract/1f1f2ff0-8d73-805f-8f38-e788018540f4|b341f4c0b83472dc46453ac8256c) has been pre-deployed at [0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9)to support voting with SKY instead of MKR.
+A new [Chief contract](https://sky-atlas.powerhouse.io/A.4.1.2.1.1.2.5_Chief_Contract/1f1f2ff0-8d73-805f-8f38-e788018540f4|b341f4c0b83472dc46453ac8256c) has been pre-deployed at [0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9](https://etherscan.io/address/0x929d9A1435662357F54AdcF64DcEE4d6b867a6f9) to support voting with SKY instead of MKR.
 
-#### Deploy New Vote Delegate Factory
+#### Integrate New Vote Delegate Factory
 
 A new Vote Delegate Factory contract has been pre-deployed at [0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5). The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
 
