@@ -22,7 +22,7 @@ options:
    1: Yes
    2: No
 start_date: 2025-05-12T16:00:00
-end_date: 2025-05-19T16:00:00
+end_date: 2025-05-15T16:00:00
 ---
 # Atlas Edit Weekly Cycle Proposal - May 12, 2025
 
