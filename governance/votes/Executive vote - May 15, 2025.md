@@ -103,21 +103,21 @@ SKY Staking will be launched with the following parameters for borrowing against
 - DC-IAM `gap`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
 - DC-IAM `ttl`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
 - Only existing LSE-MKR-A users with drawn debt are allowed to migrate debt to LSEV2-SKY-A initially.
-- `Dust`: **30,000 USDS**
-- `Duty`: **20%**
-- `Mat`: **125%**
+- [`Dust`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.6_Debt_Floor_(dust)-cea03e47-24a6-4efc-b482-56c183e5759a%7C57eaf45219bea3b430c2): **30,000 USDS**
+- [`Duty`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2): **20%**
+- [`Mat`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.1_Liquidation_Ratio-1184ab96-8cad-4755-9798-2c8782304407%7C57eaf45219bea3b430c2): **125%**
 - `Calc`: **StairstepExponentialDecrease**
-- `Buf`: **120%**
-- `Tail`: **6,000 seconds**
-- `Cusp`: **40%**
-- `Chip`: **0.1%**
-- `Tip`: **300 USDS**
+- [`Buf`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.2_Auction_Price_Multiplier_(buf)-3ce44221-fe39-4904-9f86-0a1996cea8c6%7C57eaf45219bea3b430c2a59a): **120%**
+- [`Tail`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.4_Max_Auction_Duration_(tail)-f8de0fc0-e452-4fc6-b67c-6da15df828f0%7C57eaf45219bea3b430c2a59a): **6,000 seconds**
+- [`Cusp`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.3_Max_Auction_Drawdown_(cusp)-083ada9d-8d45-46ae-80d2-a3bb706e1e77%7C57eaf45219bea3b430c2a59a): **40%**
+- [`Chip`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.5_Proportional_Kick_Incentive_(chip)-afecb109-75a7-4289-997e-2a6f3d3bea1e%7C57eaf45219bea3b430c2a59a): **0.1%**
+- [`Tip`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.6_Flat_Kick_Incentive_(tip)-1c13687a-2dad-4e86-9940-024dc8f17a24%7C57eaf45219bea3b430c2a59a): **300 USDS**
 - `Stopped`: **3**
-- `Chop`: **13%**
-- `Hole`: **250,000 USDS**
-- `Tau`: **0 days**
-- `Cut`: **0.99**
-- `Step`: **60 seconds**
+- [`Chop`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.7_Liquidation_Penalty_(chop)-5295aa1f-3944-4fde-aaec-d999244b57e9%7C57eaf45219bea3b430c2a59a): **13%**
+- [`Hole`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.8_Local_Liquidation_Limit_(hole)-fc22e62e-1f6b-4b10-b14a-ea7745185c67%7C57eaf45219bea3b430c2a59a): **250,000 USDS**
+- [`Tau`](): **0 days**
+- [`Cut`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.1_Auction_Price_Function_(cut)-b6e47d05-addf-4371-ad95-90582da7c0f1%7C57eaf45219bea3b430c2a59a6013): **0.99**
+- [`Step`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.5.1.2_Auction_Price_Function_(step)-7d58c961-43ff-4157-80aa-8a92f577ec12%7C57eaf45219bea3b430c2a59a6013): **60 seconds**
 - `LineMom`: **Yes**
 - `Tolerance`: **0.5**
 - `Name`: **LockstakeSky**
