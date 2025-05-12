@@ -62,8 +62,8 @@ The functionality to convert SKY to MKR in the existing converter contract locat
 A new contract that allows the one-way upgrading from MKR to SKY has been pre-deployed at [0xA1Ea1bA18E88C381C724a75F23a130420C403f9a](https://etherscan.io/address/0xA1Ea1bA18E88C381C724a75F23a130420C403f9a). This contract:
 
 - Will be authorized by calling `SkyInit.updateMkrSky`.
-- Will support a Delayed Upgrade Penalty initially set to 0%.
-- Will have its conversion rate set to 1:24,000.
+- Will support a Delayed Upgrade Penalty initially set to **0%**.
+- Will have its conversion rate set to **1:24,000**.
 
 #### Disable MKR Flop Auctions
 
