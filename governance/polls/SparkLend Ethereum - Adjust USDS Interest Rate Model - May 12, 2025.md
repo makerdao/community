@@ -1,6 +1,6 @@
 ---
 title: SparkLend Ethereum - Adjust USDS Interest Rate Model - May 12, 2025
-summary: Signal your support or opposition to the proposed adjustments to the USDS Interest Rate Model for SparkLend on mainnet.
+summary: Signal your support or opposition to the proposed adjustments to the USDS Interest Rate Model for SparkLend on Mainnet.
 discussion_link: https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372
 parameters:
     input_format: single-choice
@@ -27,7 +27,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) on mainnet:
+The community can vote in this poll to express support or opposition to the following changes to the USDS [Interest Rate Model](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49) on Mainnet:
 
 - [Base Rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49): **0%**
 - [Slope 1](https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49): **SSR + 0.75%**

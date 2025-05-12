@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Increase USDS Mint and USDC Swap Rate Limits - May 12, 2025
-summary: Signal your support or opposition to increasing the USDS mint rate limit and the USDC swap rate limit for the Spark Liquidity Layer on mainnet.
+summary: Signal your support or opposition to increasing the USDS mint rate limit and the USDC swap rate limit for the Spark Liquidity Layer on Mainnet.
 discussion_link: https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372
 parameters:
     input_format: single-choice
