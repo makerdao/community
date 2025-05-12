@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] MKR-to-SKY Upgrade Phase One, Spark Proxy Spell - May 15, 2025
+title: Template - [Executive Vote] MKR-to-SKY Upgrade Phase One, Adding Protego To Chainlog, Spark Proxy Spell - May 15, 2025
 summary: $summary
 date: 2025-05-15T00:00:00.000Z
 address: "$spell_address"
 
 ---
-# [Executive Proposal] MKR-to-SKY Upgrade Phase One, Adding Protergo to the Chainlog, Spark Proxy Spell - May 15, 2025
+# [Executive Proposal] MKR-to-SKY Upgrade Phase One, Adding Protego to the Chainlog, Spark Proxy Spell - May 15, 2025
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
@@ -18,7 +18,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
 - Phase one of the MKR-to-SKY upgrade will be executed as described below.
-- Protego will be added to the [Chainlog](https://chainlog.sky.money)
+- Protego will be added to the [Chainlog](https://chainlog.sky.money).
 - A Spark Proxy Spell will be executed.
 
 **Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
@@ -40,14 +40,14 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 As part of the transition to the Endgame, the technical infrastructure of the Sky Protocol will be upgraded to use SKY as its governance token rather than MKR. The upgrade will take place over three phases described under [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16599). Phase One comprises the following actions:
 
-- Disable conversion from SKY to MKR in existing conversion contract.
+- Disable conversion from SKY to MKR in the existing conversion contract.
 - Launch new MKR-to-SKY conversion contract.
 - Disable MKR Flop Auctions.
 - Disable Emergency Shutdown Module.
 - Launch new Chief Contract.
 - Deploy New VoteDelegate Factory.
-- Move authority of Spark Freezer MOM contract to new Chief contract (through the Spark Proxy Spell.)
-- Launch new SKY oracle and add the new SKY oracle to Oracle Security Module MOM contract.
+- Move the authority of the Spark Freezer MOM contract to the new Chief contract (through the Spark Proxy Spell).
+- Launch the new SKY oracle and add the new SKY oracle to the Oracle Security Module MOM contract.
 - Update Smart Burn Engine Parameters.
 - Launch SKY staking.
 
@@ -137,7 +137,7 @@ The parameters of the Smart Burn Engine will be updated as follows:
 SKY Staking will be launched with the following parameters for borrowing against staked SKY:
 
 - `Ilk`: **LSEV2-SKY-A**
-- `Farms`: **LSSKY -> USDS (Add address when deployed)**
+- `Farms`: **LSSKY -> USDS at [0x38E4254bD82ED5Ee97CD1C4278FAae748d998865](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)**
 - `Fee`: **0**
 - DC-IAM `line`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
 - DC-IAM `gap`: **Automatically handled by the migration script to allow migration only from existing MKR Staking positions.**
@@ -180,7 +180,8 @@ If this executive proposal passes, then the following actions will take place:
 More details about the technical scope of the Protego deployment can be found [here](https://forum.sky.money/t/technical-scope-of-the-protego-deployment/26365).
 
 ### Spark Proxy Spell
-
+- **Authorization**: [A.4.1 - Core Tokens - SKY - MKR To SKY Upgrade Phase One](https://github.com/makerdao/next-gen-atlas/blob/86359e837a8960a5a99e6ba921c49555d48e492f/Sky%20Atlas/Sky%20Atlas.html#L16607)
+- **Proposal**: [Forum post](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319)
 If this executive proposal passes, then a Spark Proxy Spell will be executed at [0xC40611AC4Fff8572Dc5F02A238176edCF15Ea7ba](https://etherscan.io/address/0xC40611AC4Fff8572Dc5F02A238176edCF15Ea7ba) to move the authority of the Spark Freezer MOM contract to the new Chief contract.
 
 ## Review
