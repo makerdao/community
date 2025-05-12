@@ -121,7 +121,7 @@ More details about the technical scope of the Chief migration can be found [here
 
 A new Vote Delegate Factory contract has been pre-deployed at [0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5](https://etherscan.io/address/0x4Cf3DaeFA2683Cd18df00f7AFF5169C00a9EccD5). The Vote Delegate factory contract will support deploying Delegate Contracts that SKY holders and SKY Staking users can delegate their voting power to.
 
-#### Deploy New SKY Chronicle Scribe Instance Oracle and Add it to the OSM_MOM Contract
+#### Integrate New SKY Chronicle Scribe Instance Oracle and Add it to the OSM_MOM Contract
 
 A new Oracle Security Module based on the Scribe SKY oracle has been pre-deployed at [0x511485bBd96e7e3a056a8D1b84C5071071C52D6F](https://etherscan.io/address/0x511485bBd96e7e3a056a8D1b84C5071071C52D6F) and added to the OSM_MOM.
 
