@@ -17,7 +17,7 @@ If you are new to voting in the Sky Protocol, please see the [voting guide](http
 
 If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 
-- Phase one of the MKR-to-SKY upgrade will be executed as described below.
+- Phase One of the MKR-to-SKY upgrade will be executed as described below.
 - Protego will be added to the [Chainlog](https://chainlog.sky.money).
 - A Spark Proxy Spell will be executed.
 
@@ -69,7 +69,7 @@ A new contract that allows the one-way upgrading from MKR to SKY has been pre-de
 
 [MKR flop auctions](https://sky-atlas.powerhouse.io/A.4.1.2.1.1.2.3_MKR_Flop_Auctions/1f1f2ff0-8d73-8049-986a-f0c728ebef62%7Cb341f4c0b83472dc46453ac873ab) will be disabled.
 
-#### Disable Emergency Shutdown Module
+#### Disable [Emergency Shutdown Module](https://manual.makerdao.com/module-index/module-emergency-shutdown)
 
 The Emergency Shutdown Module will be disabled by setting the amount of MKR required to trigger it to infinity.
 
@@ -90,7 +90,7 @@ A new Oracle Security Module based on the Scribe SKY oracle has been pre-deploye
 The parameters of the Smart Burn Engine will be updated as follows:
 
 - The oracle will be changed to the new SKY oracle.
-- The rewardsDuration for the LSEV2-SKY-A USDS rewards contract will be set so that it is equal to the `splitter.hop` parameter (**1,728 seconds**.)
+- The rewardsDuration for the LSEV2-SKY-A USDS rewards contract will be set so that it is equal to the `splitter.hop` parameter (**1,728 seconds**).
 
 #### Launch Sky Staking
 
@@ -122,7 +122,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 - `Tolerance`: **0.5**
 - `Name`: **LockstakeSky**
 - `Symbol`: **lsSKY**
-- Use new SKY Chronicle Scribe oracle instance OSM.
+- Use the new SKY Chronicle Scribe oracle instance OSM.
 - Deny the CLIPPER_MOM from the new lockstake clipper.
 
 #### Phase One Migration Script
