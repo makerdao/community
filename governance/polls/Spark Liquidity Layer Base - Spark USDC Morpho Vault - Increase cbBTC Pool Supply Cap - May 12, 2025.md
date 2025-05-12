@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Spark Liquidity Layer Base - Spark USDC Morpho Vault - Increase cbBTC Pool Supply Cap - May 12, 2025
+summary: Signal your support or opposition to increasing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho vault which forms part of the Spark Liquidity Layer on Base.
+discussion_link: https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-05-12T16:00:00
+end_date: 2025-05-15T16:00:00
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Spark Liquidity Layer Base - Spark USDC Morpho Vault - Increase cbBTC Pool Supply Cap - May 12, 2025
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, May 12 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -27,12 +27,11 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to changing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho Vault on Base with the following parameters:
 
-- $GenericChangeA
-- $GenericChangeB
+- Increase the Supply Cap of the cbBTC/USDC market [(0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)](https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc) by 500 million USDC from 500 million USDC to **1 billion USDC**.
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372) to help inform your position before voting.
 
 ## Outcomes
 

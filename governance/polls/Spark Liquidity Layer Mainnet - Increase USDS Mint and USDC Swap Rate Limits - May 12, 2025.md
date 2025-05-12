@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Spark Liquidity Layer Mainnet - Increase USDS Mint and USDC Swap Rate Limits - May 12, 2025
+summary: Signal your support or opposition to increasing the USDS mint rate limit and the USDC swap rate limit for the Spark Liquidity Layer on Mainnet.
+discussion_link: https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,12 +12,12 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-05-12T16:00:00
+end_date: 2025-05-15T16:00:00
 ---
-# Poll:$GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Spark Liquidity Layer Mainnet - Increase USDS Mint and USDC Swap Rate Limits - May 12, 2025
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, May 12 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -29,10 +29,21 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-- $GenericChangeA
-- $GenericChangeB
+### USDS Mint Rate Limits
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+- Increase max by 300 million USDS from 200 million USDS to **500 million USDS**.
+- Increase slope by 300 million USDS per day from 200 million USDS per day to **500 million USDS per day**.
+
+### USDC Swap Rate Limits
+
+- Increase max by 300 million USDC from 200 million USDC to **500 million USDC**.
+- Increase slope by 100 million USDC from 200 million USDC to **300 million USDC per day**.
+
+---
+
+More information on Rate Limits can be found [here](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits).
+
+Please review the discussion [thread](https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372) to help inform your position before voting.
 
 ## Outcomes
 
