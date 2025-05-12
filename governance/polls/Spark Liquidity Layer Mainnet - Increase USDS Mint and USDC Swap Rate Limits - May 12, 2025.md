@@ -36,8 +36,8 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### USDC Swap Rate Limits
 
-- Increase max by 300 million USDS from 200 million USDS to **500 million USDS**.
-- Increase slope by 100 million USDS from 200 million USDS to **300 million USDS per day**.
+- Increase max by 300 million USDC from 200 million USDC to **500 million USDC**.
+- Increase slope by 100 million USDC from 200 million USDC to **300 million USDC per day**.
 
 ---
 
