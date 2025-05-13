@@ -50,7 +50,7 @@ As part of the transition to the Endgame, the technical infrastructure of the Sk
 - Launch the new SKY oracle and add the new SKY oracle to the Oracle Security Module MOM contract.
 - Update Smart Burn Engine Parameters.
 - Launch SKY staking.
-- Set the LSE-MKR-A Maximum Debt Ceiling (`line`) to zero and remove the vault from the Debt Ceiling Instant Access Module (`AutoLine`).
+- Set the LSE-MKR-A Debt Ceiling (`line`) to zero and remove the vault from the Debt Ceiling Instant Access Module (`AutoLine`).
 
 If this executive proposal passes, then the above Phase One actions will be executed as described below.
 
@@ -125,11 +125,11 @@ SKY Staking will be launched with the following parameters for borrowing against
 - Use the new SKY Chronicle Scribe oracle instance OSM.
 - Deny the CLIPPER_MOM from the new lockstake clipper.
 
-#### Set the LSE-MKR-A Maximum Debt Ceiling (line) to zero and remove the vault from the Debt Ceiling Instant Access Module (AutoLine).
+#### Set the LSE-MKR-A Debt Ceiling (`line`) to zero and remove the vault from the Debt Ceiling Instant Access Module (`AutoLine`).
 
 The following actions involving the Seal Engine will take place:
 - Remove the `LSE-MKR-A` from the [Debt Ceiling Instant Access Module (`AutoLine`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2).
-- Set the `LSE-MKR-A` [Maximum Debt Ceiling (line)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) to **zero**.
+- Set the `LSE-MKR-A` [Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.4.4.1.2.4_Debt_Ceiling/1e7f2ff0-8d73-803f-89b8-d6049eb54922%7Cb341740ee6e1974b) to **zero**.
 
 #### Phase One Migration Script
 
