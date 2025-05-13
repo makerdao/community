@@ -129,7 +129,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 
 The following actions involving the Seal Engine will take place:
 - Remove the `LSE-MKR-A` from the [Debt Ceiling Instant Access Module (`AutoLine`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2).
-- Set the `LSE-MKR-A` [Maximum Debt Ceiling (line)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) to zero.
+- Set the `LSE-MKR-A` [Maximum Debt Ceiling (line)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) to **zero**.
 
 #### Phase One Migration Script
 
