@@ -50,7 +50,7 @@ As part of the transition to the Endgame, the technical infrastructure of the Sk
 - Launch the new SKY oracle and add the new SKY oracle to the Oracle Security Module MOM contract.
 - Update Smart Burn Engine Parameters.
 - Launch SKY staking.
-- Set the LSE-MKR-A Maximum Debt Ceiling (line) to zero and remove the vault from the Debt Ceiling Instant Access Module (AutoLine).
+- Set the LSE-MKR-A Maximum Debt Ceiling (`line`) to zero and remove the vault from the Debt Ceiling Instant Access Module (`AutoLine`).
 
 If this executive proposal passes, then the above Phase One actions will be executed as described below.
 
@@ -101,7 +101,7 @@ SKY Staking will be launched with the following parameters for borrowing against
 - `Ilk`: **LSEV2-SKY-A**
 - `Farms`: **LSSKY -> USDS at [0x38E4254bD82ED5Ee97CD1C4278FAae748d998865](https://etherscan.io/address/0x38E4254bD82ED5Ee97CD1C4278FAae748d998865)**
 - `Fee`: **0**
-- DC-IAM `line`: **Automatically handled by the LockstakeMigrator contract at [0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B](https://etherscan.io/address/0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B) to allow only existing `LSE-MKR-A` positions to be migrated into LSEV2-SKY-A.**
+- `line`: **Automatically handled by the LockstakeMigrator contract at [0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B](https://etherscan.io/address/0x473d777f608C3C24B441AB6bD4bBcA6b7F9AF90B) to allow only existing `LSE-MKR-A` positions to be migrated into LSEV2-SKY-A.**
 - Only existing `LSE-MKR-A` users with drawn debt are allowed to migrate debt to LSEV2-SKY-A initially.
 - [`Dust`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.6_Debt_Floor_(dust)-cea03e47-24a6-4efc-b482-56c183e5759a%7C57eaf45219bea3b430c2): **30,000 USDS**
 - [`Duty`](https://sky-atlas.powerhouse.io/#A.3.8.1.1.2.3_Stability_Fee-67e40a3b-f1c2-4dc6-b502-2affeab0b232%7C57eaf45219bea3b430c2): **20%**
@@ -128,8 +128,8 @@ SKY Staking will be launched with the following parameters for borrowing against
 #### Set the LSE-MKR-A Maximum Debt Ceiling (line) to zero and remove the vault from the Debt Ceiling Instant Access Module (AutoLine).
 
 The following actions involving the Seal Engine will take place:
-- Set the `LSE-MKR-A` [Maximum Debt Ceiling (line)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) to zero.
 - Remove the `LSE-MKR-A` from the [Debt Ceiling Instant Access Module (AutoLine)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2).
+- Set the `LSE-MKR-A` [Maximum Debt Ceiling (line)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) to zero.
 
 #### Phase One Migration Script
 
