@@ -50,7 +50,7 @@ As part of the transition to the Endgame, the technical infrastructure of the Sk
 - Launch the new SKY oracle and add the new SKY oracle to the Oracle Security Module MOM contract.
 - Update Smart Burn Engine Parameters.
 - Launch SKY staking.
-- Set the LSE-MKR-A Debt Ceiling (`line`) to zero and remove the vault from the Debt Ceiling Instant Access Module (`AutoLine`).
+- Remove LSE-MKR-A from the Debt Ceiling Instant Access Module (`AutoLine`) and set its Debt Ceiling (`line`) to zero.
 
 If this executive proposal passes, then the above Phase One actions will be executed as described below.
 
