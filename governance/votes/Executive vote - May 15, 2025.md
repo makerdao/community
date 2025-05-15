@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] MKR-to-SKY Upgrade Phase One, Adding Protego To the Chainlog, Spark Proxy Spell - May 15, 2025
 summary: Execute MKR-to-SKY Upgrade Phase One, adding Protego to the Chainlog, execute Spark Proxy Spell.
 date: 2025-05-15T00:00:00.000Z
-address: "$spell_address"
+address: "0x53222d00ffbFf48bD74BddDE5592B1B98793bB07"
 
 ---
 # [Executive Proposal] MKR-to-SKY Upgrade Phase One, Adding Protego to the Chainlog, Spark Proxy Spell - May 15, 2025
