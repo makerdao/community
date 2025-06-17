@@ -47,13 +47,22 @@
 - [ ] Inform the reviewer that the executive copy is ready to review
 - [ ] Commit changes, and create a PR to the Community GitHub repository.
 
-## Atlas Active Element Updates
+## External Updates
+
+### Atlas Active Element Updates
 
 - [ ] Check if any Atlas active elements will need to be updated if the executive proposal passes.
 
 - [ ] If yes, create a PR to the next-gen-atlas repository and for each item
 	- [ ] Ensure that new values are correctly listed in the [Sky Atlas.html](https://github.com/makerdao/next-gen-atlas/blob/main/Sky%20Atlas/Sky%20Atlas.html) document
 - [ ] Request review of the PR from the reviewers of the executive proposal copy.
+
+### Standby Spells update
+
+- [ ] Check if any new ilk has been onboarded/offboarded.
+- [ ] If yes, create a PR to the dss-emergency-spells repository and for each Standby spell affected
+	- [ ] Ensure that new values are correctly listed in the Standby Spells README (https://github.com/makerdao/dss-emergency-spells?tab=readme-ov-file) document.
+ - [ ] Request review of the PR from the reviewers of the executive proposal copy.
 
 ## Submission
 
